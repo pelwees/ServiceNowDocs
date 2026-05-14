@@ -1,5 +1,6 @@
 ---
 title: Get IP from CI activity
+description: This workflow activity determines the IPV4 address associated with a configuration item \(CI\).
 description: The Get IP from CI flow activity gathers the IP address from configuration items \(CIs\) to use in the flow.
 locale: en-US
 release: australia
