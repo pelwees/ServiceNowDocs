@@ -37,13 +37,13 @@ To store OAuth 2.0 credentials, first create an OAuth 2.0 credential template in
 
     4.  Expand a platform type.
 
-    5.  Select the settings icon \(![Platform settings icon.](../image/platform-icon.png)\) that corresponds to a platform template and select **Duplicate**.
+    5.  Select the settings icon \(![Platform settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/platform-icon.png)\) that corresponds to a platform template and select **Duplicate**.
 
     6.  In the Duplicate Platform window, enter a name for the template and select **Create**.
 
         **Note:** Note the system type under which you had created a duplicate template. For example, Cloud Service is a system type.
 
-    7.  Select the settings icon \(![Platform settings icon.](../image/platform-icon.png)\) that corresponds to the duplicate platform template that you created and select **Edit**.
+    7.  Select the settings icon \(![Platform settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/platform-icon.png)\) that corresponds to the duplicate platform template that you created and select **Edit**.
 
     8.  Add the property.
 
@@ -114,5 +114,5 @@ To store OAuth 2.0 credentials, first create an OAuth 2.0 credential template in
         The value that you copied and stored is used as the credential identifier in the ServiceNow instance.
 
 
-**Parent Topic:**[Configure CyberArk](configure-cyberark.md)
+**Parent Topic:**[Configure CyberArk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/configure-cyberark.md)
 

@@ -365,5 +365,5 @@ Cryptographic module: vm\_crypto\_module AES-256.
 |Vaccine crypto user|Role|sn\_vaccine\_sm.user|
 |Vaccine crypto system access|System Access| |
 
-**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](hcls-serv-mgmt-core-reference.md)
+**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 

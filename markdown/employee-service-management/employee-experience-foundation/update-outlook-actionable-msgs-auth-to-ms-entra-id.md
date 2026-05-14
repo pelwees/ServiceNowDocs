@@ -35,9 +35,9 @@ To ensure uninterrupted functionality with actionable message, you must migrate 
 
 2.  After completing the setup, copy the **App ID Uri** and the **Provider Id \(originator\)**.
 
-    ![App ID URI on the Outlook Actionable App in Microsoft.](../images/outlookactionable-appiduri.png)
+    ![App ID URI on the Outlook Actionable App in Microsoft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outlookactionable-appiduri.png)
 
-    ![Provider ID.](../images/outlookactionable-providerid.png)
+    ![Provider ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outlookactionable-providerid.png)
 
 3.  On your ServiceNow instance, update the **sn\_ms\_oam.outlookactionable.originator** System property value with the new **Provider Id \(originator\)** copied from Step 2.
 
@@ -51,13 +51,13 @@ To ensure uninterrupted functionality with actionable message, you must migrate 
 
     On the Microsoft Office OIDC Provider Configuration form, do the following:
 
-    ![Outlook actionable Application Registry form.](../images/outlookactionable-appregistry.png)
+    ![Outlook actionable Application Registry form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outlookactionable-appregistry.png)
 
     1.  Update the **OIDC Metadata URL** to this format: `https://sts.windows.net/{tenant-id}/.well-known/openid-configuration`.
 
     2.  Set the **User Claim** field to **upn**.
 
-        ![OIDC Provider form.](../images/outlookactionable-metadaturl.png)
+        ![OIDC Provider form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outlookactionable-metadaturl.png)
 
     3.  Save the form.
 
@@ -68,5 +68,5 @@ To ensure uninterrupted functionality with actionable message, you must migrate 
 
 You are now migrated to Microsoft Entra ID token authentication and the Outlook Actionable Messages app registration is updated in your ServiceNow instance.
 
-**Parent Topic:**[Using ServiceNow for Microsoft Outlook](../concept/using-sn-ms-outlook.md)
+**Parent Topic:**[Using ServiceNow for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/using-sn-ms-outlook.md)
 

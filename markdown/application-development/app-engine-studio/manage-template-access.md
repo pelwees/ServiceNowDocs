@@ -38,5 +38,5 @@ To create apps and work with templates in AES, users must be an admin or in the 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Perform AES configuration tasks](../reference/aes-config-tasks.md)
+**Parent Topic:**[Perform AES configuration tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../reference/aes-config-tasks.md)
 

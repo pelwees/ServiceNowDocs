@@ -35,7 +35,7 @@ To enable the use of proxy servers, the custom properties for proxy server setti
 
 3.  Double-click the **DataSourceIpCustomProperties** attribute.
 
-    ![ODBC proxy](../image/OdbcProxy.png "ODBC proxy")
+    ![ODBC proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcProxy.png "ODBC proxy")
 
 4.  Set the following custom properties to configure the ODBC proxy server.
 
@@ -47,5 +47,5 @@ To enable the use of proxy servers, the custom properties for proxy server setti
     |proxy\_user\_password|The proxy server user password, used with the proxy\_name value in an authenticating proxy configuration.|\*\*\*\*\*|
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-odbc.md)
 

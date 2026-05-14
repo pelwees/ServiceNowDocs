@@ -38,5 +38,5 @@ Verify that all Metric Intelligence MID Servers have been synchronized with the 
 2.  In the **Queues** pane, search the **Topics** column for `MetricConfigProbe`.
 3.  Check the **Agent** column and verify that all MID Servers are updated.
 
-**Parent Topic:**[Create a configuration settings rule](create-config-overriding-rule.md)
+**Parent Topic:**[Create a configuration settings rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-config-overriding-rule.md)
 

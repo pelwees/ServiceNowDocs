@@ -23,7 +23,7 @@ Role required: sn\_hr\_er.case\_writer
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-list-icon.png)\).
 
 3.  In the ER category, select an ER case.
 
@@ -65,7 +65,7 @@ Interviewee
 
 </td><td>
 
-Name of the person who you are interviewing.Select the **Lookup using list** icon ![Lookup using list icon](../image/magnifying-glass.png) and search for the person you are interviewing. If no names appear, you can create an involved party. For more information, see [Create an involved parties record](hr-er-involved-parties.md).
+Name of the person who you are interviewing.Select the **Lookup using list** icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png) and search for the person you are interviewing. If no names appear, you can create an involved party. For more information, see [Create an involved parties record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-involved-parties.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Scheduling method
 
 The method you are using to schedule the interview. Select **Manual entry** to select the Start and End dates and times of the interview.
 
- If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can schedule an interview with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](../concept/using-interview-management.md).
+ If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can schedule an interview with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-interview-management.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Start date
 
 </td><td>
 
-The start date and time of the interview.Select the **Show calendar** icon \(![Show calendar icon](../image/hr-ws-show-calendar-icon.png)\) and select the date and time the interview starts.
+The start date and time of the interview.Select the **Show calendar** icon \(![Show calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-ws-show-calendar-icon.png)\) and select the date and time the interview starts.
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ End date
 
 </td><td>
 
-The endt date and time of the interview.Select the **Show calendar** icon \(![Show calendar icon](../image/hr-ws-show-calendar-icon.png)\) and select the date and time the interview ends.
+The endt date and time of the interview.Select the **Show calendar** icon \(![Show calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-ws-show-calendar-icon.png)\) and select the date and time the interview ends.
 
 </td></tr><tr><td>
 
@@ -155,17 +155,17 @@ Interview notes
 
 </td><td>
 
-Notes from the interview or you can enter the answers to the questions from the interview question templates.In the Contextual Sidebar, select the **Interview Templates** icon \(![Interview template icon](../image/hr-ws-int-temp-icon.png)\) to search for interview question templates.
+Notes from the interview or you can enter the answers to the questions from the interview question templates.In the Contextual Sidebar, select the **Interview Templates** icon \(![Interview template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-ws-int-temp-icon.png)\) to search for interview question templates.
 
- ![HR Agent Workspace - Interview Template](../image/agent-ws-hr-er-int-temp.png)
+ ![HR Agent Workspace - Interview Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-er-int-temp.png)
 
  Interview templates provide questions you can use in the interview, You can insert the questions from the template into the **Interview notes** field or copy to the clipboard to insert in an outside document.
 
- ![HR Agent Workspace - Interview templates](../image/agent-ws-hr-er-interview.png)
+ ![HR Agent Workspace - Interview templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-er-interview.png)
 
- Select ![Interview Template icon](../image/hr-ws-int-temp-icon2.png) to see the Insert to notes or Copy to clipboard choices.
+ Select ![Interview Template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-ws-int-temp-icon2.png) to see the Insert to notes or Copy to clipboard choices.
 
- Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](../concept/hr-er-interview-1.md#).
+ Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-interview-1.md#).
 
 </td></tr></tbody>
 </table>8.  Select **Save**.

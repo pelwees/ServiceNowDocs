@@ -17,5 +17,5 @@ Facilitate execution of the work planned in Strategic Planning in ServiceNow app
 
 Import, export, and manage your planning items between Strategic Planning and PPM, Agile 2.0, and SAFe.
 
-![Real-time sync of planning items between the planning and execution systems.](../images/planning-items.png "Integrating planning and execution systems")
+![Real-time sync of planning items between the planning and execution systems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/planning-items.png "Integrating planning and execution systems")
 

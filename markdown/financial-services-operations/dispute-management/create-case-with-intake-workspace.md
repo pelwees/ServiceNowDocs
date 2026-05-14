@@ -19,7 +19,7 @@ Create a dispute case and initiate the dispute for a transaction associated with
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -29,7 +29,7 @@ You can dispute one or more transactions that are associated with an account by 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Create a case from the dispute service case list or an interaction record.
 
@@ -222,7 +222,7 @@ The case is set to high priority in the following situations:
 **Related topics**  
 
 
-[Managing Disputes](../concept/managing-disputes.md)
+[Managing Disputes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/managing-disputes.md)
 
-[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/wsud-troubleshooting-reference.md)
 

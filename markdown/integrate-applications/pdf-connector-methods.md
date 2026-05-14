@@ -369,5 +369,5 @@ Call this method with the output folder path where the split PDF pages must be s
 |---------|-----------|---------|
 |OutputFolderPath|The path to the folder where the split PDF pages are saved. Ensure the folder exists or has appropriate permissions for writing files.|String|
 
-**Parent Topic:**[PDF connector](pdf-connector.md)
+**Parent Topic:**[PDF connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/pdf-connector.md)
 

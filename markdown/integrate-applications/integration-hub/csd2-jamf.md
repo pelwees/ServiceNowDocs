@@ -17,7 +17,7 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
 
 ## Before you begin
 
--   Activate the Jamf spoke and set up the spoke. For more information about the spoke setup, see [Set up the Jamf spoke](setup-jamf-spk.md).
+-   Activate the Jamf spoke and set up the spoke. For more information about the spoke setup, see [Set up the Jamf spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-jamf-spk.md).
 -   Activate the CSD 2.0 application.
 -   Role required: admin
 
@@ -46,10 +46,10 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
 
     3.  Verify that the flows are configured correctly in the record.
 
-        ![Verify that the flows are configured.](../image/csd2-jamf-flows.png)
+        ![Verify that the flows are configured.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-jamf-flows.png)
 
         **Note:** You can configure the default flows as per your requirement.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2-jamf-tsk.md)
 

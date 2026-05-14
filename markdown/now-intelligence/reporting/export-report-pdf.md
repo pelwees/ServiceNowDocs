@@ -25,7 +25,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 2.  From the More actions menu ![](../../par-for-workspace/image/icon-paw-more-actions.png), select **Export**.
 
-    ![Export option in More actions menu](../../par-for-workspace/image/paw-vd-export.png)
+    ![Export option in More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../par-for-workspace/image/paw-vd-export.png)
 
 3.  In the File to export section, configure the following information.
 
@@ -43,7 +43,7 @@ File type
 
 </td><td>
 
-Export data visualizations in one of their supported formats. \(See [Supported export formats for different data visualization](../../par-for-workspace/task/export-visualization-vd.md#table_jlh_tr2_3fc).\) Select **Embedded PNG** or **Embedded LIST** to embed the exported file in the email body instead of sending it as an attached file or ZIP. You can edit the email around the image.
+Export data visualizations in one of their supported formats. \(See [Supported export formats for different data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../par-for-workspace/task/export-visualization-vd.md#table_jlh_tr2_3fc).\) Select **Embedded PNG** or **Embedded LIST** to embed the exported file in the email body instead of sending it as an attached file or ZIP. You can edit the email around the image.
 
 </td></tr><tr><td>
 
@@ -74,5 +74,5 @@ Choose Portrait or Landscape. Not available when exporting to Microsoft PowerPoi
 
 When the export is complete, you see either a download link or a message that the export will be delivered to the recipient.
 
-**Parent Topic:**[Distribute reports](../concept/c_DistributeReports.md)
+**Parent Topic:**[Distribute reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_DistributeReports.md)
 

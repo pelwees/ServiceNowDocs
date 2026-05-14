@@ -62,5 +62,5 @@ If the referenced table returns a row with no data contained in the label or val
 **Related topics**  
 
 
-[Picklists and picklist extensions in rules](cpq-picklists-and-picklist-extensions-in-rules.md)
+[Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-picklists-and-picklist-extensions-in-rules.md)
 

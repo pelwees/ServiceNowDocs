@@ -33,11 +33,11 @@ Debug drawer displayed with screen data
 
 </th></tr></thead><tbody><tr><td>
 
-![Demonstration of accessing the debug drawer option through the use of a GIF.](../image/debug-drawer-gif.gif)
+![Demonstration of accessing the debug drawer option through the use of a GIF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/debug-drawer-gif.gif)
 
 </td><td>
 
-![Debug drawer displayed with screen data.](../image/debug-drawer.png)
+![Debug drawer displayed with screen data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/debug-drawer.png)
 
 </td></tr></tbody>
 </table>## Procedure

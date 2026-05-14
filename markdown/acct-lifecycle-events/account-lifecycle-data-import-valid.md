@@ -17,5 +17,5 @@ The data import option enables you to organize and track tasks required for impo
 
 The Data Validation Assist feature streamlines the manual data entry process by verifying that required fields are completed and potential errors are flagged. This option is useful in scenarios where automated or large-scale integrations may not be available or practical.
 
-For more details on the data import and validation process, see [Data capture and validation](account-lifecycle-use-playbook-data-capture.md).
+For more details on the data import and validation process, see [Data capture and validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-playbook-data-capture.md).
 

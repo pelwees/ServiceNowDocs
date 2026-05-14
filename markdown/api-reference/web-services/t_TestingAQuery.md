@@ -40,5 +40,5 @@ For testing, use a query that returns exactly one record, such as a query using 
 
 The instance should respond with the short description of the incident record.
 
-**Parent Topic:**[Test the ODBC driver](t_TestingTheODBCDriver.md)
+**Parent Topic:**[Test the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_TestingTheODBCDriver.md)
 

@@ -25,7 +25,7 @@ By default the calendar in Dispatcher Workspace shows 15 resources loaded on the
 
 The image below shows what Dispatcher Workspace looks like with the default number of resources added.
 
-![Dispatcher workspace with the default resources loaded](../image/non-collapsed.png)
+![Dispatcher workspace with the default resources loaded](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/non-collapsed.png)
 
 ## Procedure
 

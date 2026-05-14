@@ -24,19 +24,19 @@ The Advance AI and Data Products and services do not and are not intended to con
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for LSD](now-assist-lsd-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for LSD](now-assist-lsd-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for LSD application to get started](now-assist-lsd-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for LSD application to get started](now-assist-lsd-configuring.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for LSD](now-assist-lsd-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for LSD](now-assist-lsd-using.md)
 
 </td><td>
 
-[Use agentic workflows](agentic-ai-now-assist-lsd.md)![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflows in Now Assist for Legal Service Delivery
+[Use agentic workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/agentic-ai-now-assist-lsd.md)![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflows in Now Assist for Legal Service Delivery
 
 </td></tr></tbody>
 </table>**Important:**

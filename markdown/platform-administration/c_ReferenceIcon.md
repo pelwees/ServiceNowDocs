@@ -11,7 +11,7 @@ breadcrumb: [Decorations, Reference field type, Reference, Field administration,
 
 # Reference field icon
 
-On forms, the reference icon \(![Core UI reference icon](../image/IconReferenceUI15.png)\) appears by populated reference fields. Clicking the icon opens a read-only preview of the referenced record.
+On forms, the reference icon \(![Core UI reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IconReferenceUI15.png)\) appears by populated reference fields. Clicking the icon opens a read-only preview of the referenced record.
 
 ![image.referenced-record-b20]
 

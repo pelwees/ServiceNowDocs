@@ -235,5 +235,5 @@ Clear the check box to make Blocked by capability work.
 6.  Select **Save** to create touchpoint.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-basic-config.md)
 

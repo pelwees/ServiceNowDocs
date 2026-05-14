@@ -20,19 +20,19 @@ The Now Assist Readiness Evaluation app helps you find actionable items in your 
 
 Use the Now Assist Readiness Evaluation app to help you prepare to launch generative AI, agentic AI, or both in Now Assist for your organization. The following list is a high-level overview of the documentation topics in this section that you can refer to on how to use and interpret the Now Assist Readiness Evaluation results.
 
--   [Using Now Assist Readiness Evaluation dashboard](using-now-assist-readiness-evaluation-dashboard.md)
+-   [Using Now Assist Readiness Evaluation dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/using-now-assist-readiness-evaluation-dashboard.md)
 
     View an overall dashboard of your assessments' findings divided up into percentages and bar chart visuals.
 
--   [Assessing readiness status](assessing-go-no-go.md)
+-   [Assessing readiness status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/assessing-go-no-go.md)
 
     View an overall dashboard of readiness and issue categorization before implementing Now Assist.
 
--   [Reviewing your Now Assist assessment](reviewing-now-assist-assessment.md)
+-   [Reviewing your Now Assist assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/reviewing-now-assist-assessment.md)
 
     View the Now Assist assessment report results for the five available Now Assist products.
 
--   [Reviewing your Agentic AI assessment](reviewing-agentic-ai-assesment.md)
+-   [Reviewing your Agentic AI assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/reviewing-agentic-ai-assesment.md)
 
     View the agentic AI assessment report results for IT Service Management \(ITSM\) and Customer Service Management \(CSM\).
 

@@ -92,10 +92,10 @@ Character set that is considered while validating the regular expression.-   Non
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)
 
 **Related topics**  
 
 
-[Create a service catalog variable](t_CreateAVariableForACatalogItem.md)
+[Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
 

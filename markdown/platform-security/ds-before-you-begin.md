@@ -19,9 +19,9 @@ It is safe for SP customers, on their own, to manage data contained within their
 
 The ServiceNow base system administrative roles and their access controls on the ServiceNow platform are designed for a single admin team per instance. For example, the domain\_admin role is granted to one of the SP’s resources to manage all domain setting for the instance, and to create new domains. For any domain-specific admin tasks, the SP should create new “customer admin” roles and access controls as needed to grant specific access to their customers.
 
-The following image is an overview of common admin functions in varying categories of what is safe for a customer to do. ![Levels of access allowed for customers of service providers](../image/before-begin-access.png)
+The following image is an overview of common admin functions in varying categories of what is safe for a customer to do. ![Levels of access allowed for customers of service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/before-begin-access.png)
 
-![Green icon](../image/icon-green.png) **Can give access**
+![Green icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-green.png) **Can give access**
 
 Examples:
 
@@ -30,7 +30,7 @@ Examples:
 -   Updates to existing user data, or new users without roles
 -   Updates to existing core data records such as department, group, location,cost center, or new groups without roles, and new departments/ cost centers/ location.
 
-![Yellow icon](../image/icon-yellow.png) **Proceed with caution**
+![Yellow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-yellow.png) **Proceed with caution**
 
 Examples:
 
@@ -38,7 +38,7 @@ Examples:
 -   User/Group Management: It’s safe to create a “customer admin” role that can create and modify user records, but adding and removing roles can affect security and licensing. There is no way in the base system to subdivide roles that are safe for a customer to be able to grant them. The same goes for the creation and modification of groups. While the group itself can be modified, the addition or subtraction of roles should be controlled.
 -   [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md): ServiceNow Workflow Studio is the building tool used to create process \(workflow\) for tables. The flow\_designer role gives customers script-free access to build flows. They can read and clone every flow in domains above them in the hierarchy. They can create and modify flows in their domain. This cannot happen in a silo, however. Anyone who can affect process must be added to the global admin team for governance so processes do not cancel out each other or cause other conflicts.
 
-![Red icon](../image/icon-red.png) **Do not give access**
+![Red icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-red.png) **Do not give access**
 
 Understanding how choice fields work is helpful to understand why only the SP admin team should be managing them.
 
@@ -56,25 +56,25 @@ Understanding how choice fields work is helpful to understand why only the SP ad
 To learn more, see:
 
 -   [Exploring user administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/exploring-user-administration.md)
--   [Create an ACL rule](../../contextual-security/task/t_CreateAnACLRule.md)
+-   [Create an ACL rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../contextual-security/task/t_CreateAnACLRule.md)
 -   [Service Provider Learning Path on ServiceNow University](https://snc.do/path)
 -   [Domain separation for service providers](https://snc.do/sp)
 -   [Service Provider Concepts](https://snc.do/spc)
 -   [Application Support for domain separation](https://snc.do/app)
 -   [Domain separation release notes](https://snc.do/rn)
 
-**Parent Topic:**[Exploring domain separation](c_DomainSeparation.md)
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
 
-[Domain assignment](c_DomainAssignment.md)
+[Domain assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainAssignment.md)
 
-[Visibility domains and Contains domains](c_DomainVisibility.md)
+[Visibility domains and Contains domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainVisibility.md)
 
-[Domain scope](c_DomainScope.md)
+[Domain scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainScope.md)
 
-[Concepts for service providers](sp-concepts.md)
+[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/r_InstalledWithDomainSeparation.md)
 

@@ -181,5 +181,5 @@ Table Map\[sn\_int\_common\_table\_map\]
 Stores the list of table maps for Jira projects.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
+</table>**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 

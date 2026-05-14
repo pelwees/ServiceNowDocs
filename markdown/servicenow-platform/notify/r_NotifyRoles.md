@@ -21,7 +21,7 @@ If you have created a new role, then you must add the new role to the correspond
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Components installed with Notify](installed-with-notify2.md)
+**Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 
 ## Notify administrator \[notify\_setup\_admin\]
 

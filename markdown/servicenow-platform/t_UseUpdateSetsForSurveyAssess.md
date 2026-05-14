@@ -37,7 +37,7 @@ Role required: admin or survey\_admin
     -   Assessment Category Users \[asmt\_m2m\_category\_user\]: survey users
     -   Trigger Conditions \[asmt\_condition\]
 
-**Parent Topic:**[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+**Parent Topic:**[Sharing surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyInportAndExport.md)
 
-**Parent Topic:**[Metric types and assessable records](../../assessments/concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/concept/c_MetricTypesAndAssessableRecords.md)
 

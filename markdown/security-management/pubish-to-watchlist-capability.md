@@ -15,31 +15,31 @@ The Publish to Watchlist capability adds observables and indicators associated w
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Security Operations Integration - Publish to Watchlist Flow](../../security-operations-integrations/task/secops-integration-publish-watchlist-workflow.md)**  
+-   **[Security Operations Integration - Publish to Watchlist Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/secops-integration-publish-watchlist-workflow.md)**  
 The **Security Operations Integrations - Publish to Watchlist** flow is a high-level flow independent of integrations. It adds observables to third-party watchlist that support the capability. Use it to fulfill an integration.
 
-**Parent Topic:**[Integration capabilities](integration-capabilities.md)
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
 
-[Security Operations Integration- Block Request capability](block-request-capability.md)
+[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/block-request-capability.md)
 
-[Security Operations Integration- Email Search and Delete capability](email-search-capability.md)
+[Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/email-search-capability.md)
 
-[Security Operations Integration- Enrich CI capability](enrich-ci-capability.md)
+[Security Operations Integration- Enrich CI capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/enrich-ci-capability.md)
 
-[Security Operations Integration- Enrich Observable capability](enrich-observable-capability.md)
+[Security Operations Integration- Enrich Observable capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/enrich-observable-capability.md)
 
-[Security Operations Integration- Get Network Statistics capability](get-network-statistics-capability.md)
+[Security Operations Integration- Get Network Statistics capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-network-statistics-capability.md)
 
-[Security Operations Integration- Get Running Processes capability](get-running-processes-capability.md)
+[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
 
-[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
+[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
 
-[Security Operations Integration- Sightings Search capability](sightings-search-capability.md)
+[Security Operations Integration- Sightings Search capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sightings-search-capability.md)
 
-[Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
+[Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/change-wf-execution-order.md)
 

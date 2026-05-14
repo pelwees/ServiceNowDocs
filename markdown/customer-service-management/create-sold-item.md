@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_manager or admin
 
 3.  On the Sold Product form, fill in the fields.
 
-    To learn more about the descriptions, see [Sold product form](../reference/sold-product-form.md).
+    To learn more about the descriptions, see [Sold product form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/sold-product-form.md).
 
 4.  Right-click the form header and select **Save**.
 
@@ -140,9 +140,9 @@ Add contacts, accounts, and consumers as related parties by selecting **New**.
 **Related topics**  
 
 
-[Create and manage sold products for a business location](create-sp-for-business-location.md)
+[Create and manage sold products for a business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-sp-for-business-location.md)
 
-[Edit a contract](edit-contract.md)
+[Edit a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/edit-contract.md)
 
-[Create an entitlement](create-entitlement.md)
+[Create an entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-entitlement.md)
 

@@ -39,7 +39,7 @@ Role required: admin
     Previously configured skills that were turned on, then off, remain inactive.
 
 
-The legal request summarization and legal matter summarization skills are available in the base system with the required configurations. To customized the skill, you must create a copy of the skill that is in the base system before you modify the configuration. Activating a customized skill with the same base input table as the original skill automatically deactivates the original skill. For more information, see [Customize a summarization skill in Now Assist for Legal Service Delivery \(LSD\)](../task/now-assist-lsd-customize-skill.md).
+The legal request summarization and legal matter summarization skills are available in the base system with the required configurations. To customized the skill, you must create a copy of the skill that is in the base system before you modify the configuration. Activating a customized skill with the same base input table as the original skill automatically deactivates the original skill. For more information, see [Customize a summarization skill in Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../task/now-assist-lsd-customize-skill.md).
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
@@ -67,7 +67,7 @@ Legal Request and Matter
 
 1.  Install the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Application information](now-assist-lsd-support-info.md#lsd-application-info).
+    -   For information about the plugin dependencies and plugin activation order, see [Application information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-support-info.md#lsd-application-info).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
@@ -79,7 +79,7 @@ Legal Request and Matter
 
 5.  Define who can access the skilland the data.
 
-    1.  Select **Edit** from the options icon \(![Options icon.](../../contract-mgmt-pro/image/cmpro-na-three-dot-icon.png)\) of the active skill.
+    1.  Select **Edit** from the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../contract-mgmt-pro/image/cmpro-na-three-dot-icon.png)\) of the active skill.
 
     2.  Navigate to **Define access** to determine who can access the skill.
 
@@ -103,5 +103,5 @@ Legal Request and Matter
 
 ## Result
 
-You can deactivate the skill by selecting **Deactivate** from the options icon \(![Options icon.](../../contract-mgmt-pro/image/cmpro-na-three-dot-icon.png)\) of the active skill.
+You can deactivate the skill by selecting **Deactivate** from the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../contract-mgmt-pro/image/cmpro-na-three-dot-icon.png)\) of the active skill.
 

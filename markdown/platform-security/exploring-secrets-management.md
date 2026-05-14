@@ -13,7 +13,7 @@ breadcrumb: [Secrets Management, Platform Security]
 
 Use ServiceNow Secrets Management for granular management of access to your passwords to fit your business needs.
 
-**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [Secrets Management roles](../reference/roles-sec-man.md#).
+**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [Secrets Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/roles-sec-man.md#).
 
 ## Select from Core and Enterprise versions of Secrets Management
 
@@ -76,7 +76,7 @@ Secret groups of either type can be made instance accessible or client accessibl
     Client-side secrets groups use a public/private key pair so that secrets can only be decrypted by the client. When you create a client-accessible secrets group, you upload the public key to the instance and retain the private key on your MID Server. The instance uses the public key to encrypt your secrets, but they can only be decrypted using the private key.
 
 
-**Note:** For more information on these group types, see [Understanding client-side Secrets Management](understand-sec-man.md).
+**Note:** For more information on these group types, see [Understanding client-side Secrets Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/understand-sec-man.md).
 
 ## Use secrets groups for more granular control
 
@@ -108,7 +108,7 @@ For client-side secret groups, Secrets Management uses a new encryption scheme. 
 </td></tr></tbody>
 </table>## Apply module access policies to your groups
 
-After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the access control mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](../../key-management-framework/concept/module_access_policy_overview.md).
+After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the access control mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/concept/module_access_policy_overview.md).
 
 ## Tables installed with Secrets Management
 
@@ -201,8 +201,8 @@ Added new module access policy type
     Secrets Management is a key part of ensuring your organization’s cybersecurity. It covers all processes and tools related to the creation, storage, transmission, and management of digital credentials such as encryption keys, API tokens, and passwords. To manage secrets both securely and effectively, you can build a core secrets management policy that establishes standard rules and procedures for all phases of a secret’s lifecycle.
 
 
--   **[Understanding client-side Secrets Management](understand-sec-man.md)**  
+-   **[Understanding client-side Secrets Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/understand-sec-man.md)**  
 Learn how use Secrets Management to manage access to secrets and groups.
 
-**Parent Topic:**[Secrets Management](secrets-management.md)
+**Parent Topic:**[Secrets Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)
 

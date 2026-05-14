@@ -28,7 +28,7 @@ Most metrics you see on the dashboard, for example topic and conversation detail
 -   Number of conversations on a Slack channel that transferred to a live agent.
 -   Number of conversations on a Slack channel where the user never returned.
 
-![Virtual Agent Custom Events tab.](../images/dashboard-custom-events-dashboard-2-pae.png)
+![Virtual Agent Custom Events tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-custom-events-dashboard-2-pae.png)
 
 Custom events appear on the **Custom Events** tab. If you haven't configured any custom events, the dashboard won't display any. You can create up to 20 custom events.
 
@@ -40,7 +40,7 @@ Custom events take effect when you create them. You cannot use them to analyze d
 
     The Event New record page appears.
 
-    ![Event new record form.](../images/dashboard-event-config-new1.png)
+    ![Event new record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-event-config-new1.png)
 
 2.  In the form, fill in the fields.
 
@@ -67,7 +67,7 @@ Custom events take effect when you create them. You cannot use them to analyze d
 
     The Event Property New Record page appears where you specify the properties for a custom event that you want to track on the dashboard.
 
-    ![Event Property new record form with Value Field selected.](../images/dashboard-event-property-new-record.png)
+    ![Event Property new record form with Value Field selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-event-property-new-record.png)
 
     In this example, the **Custom Event** tab shows metrics for **Updated by** for the custom event, Messages-from-Slack.
 
@@ -91,5 +91,5 @@ Custom events take effect when you create them. You cannot use them to analyze d
     The Events page appears, which lists all custom events. You can open the **Custom Events** tab on the dashboard to see the custom event. This custom event is not retroactive; the dashboard only displays new events that satisfy the custom event criteria.
 
 
-**Parent Topic:**[Setting up the Conversational Analytics dashboard](../concept/setting-up-va-dashboard-overview1-pae.md)
+**Parent Topic:**[Setting up the Conversational Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/setting-up-va-dashboard-overview1-pae.md)
 

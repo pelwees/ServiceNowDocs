@@ -111,5 +111,5 @@ After being encrypted with the public key, the private key is needed to decrypt 
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Secrets Management](exploring-secrets-management.md)
+</table>**Parent Topic:**[Exploring Secrets Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/exploring-secrets-management.md)
 

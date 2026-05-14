@@ -41,27 +41,27 @@ After you associate the security incidents with MITRE-ATT&amp;CK information, yo
 
     For example, if you want to review that a configuration item \(CI\) is compromised, you select a CI. You then correlate the CI with techniques that are present by adding a MITRE-ATT&amp;CK Technique ID. You can then continue to build your filter criteria to correlate the information and for threat hunting.
 
-    ![MITRE filter conditions for threat analysis.](../image/mitre-filter-conditions.png)
+    ![MITRE filter conditions for threat analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-filter-conditions.png)
 
 
-**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](../concept/mitre-att-ck-features.md)
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-att-ck-features.md)
 
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security incidents](associate-mitre-with-sir.md#)
+[Associate MITRE-ATT&amp;CK information with security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associate-mitre-with-sir.md#)
 
-[Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
+[Associate MITRE-ATT&amp;CK information with observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
 
-[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](rollup-threat-lookup-results.md)
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/rollup-threat-lookup-results.md)
 
-[Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md)
+[Rollup MITRE-ATT&amp;CK information from detection rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-attack-information-detection-rules.md)
 
-[Rollup MITRE-ATT&amp;CK information from child security incidents](rollup-mitre-att-ck-information-from-child-security-incidents.md)
+[Rollup MITRE-ATT&amp;CK information from child security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-att-ck-information-from-child-security-incidents.md)
 
-[MITRE-ATT&amp;CK heat map and navigator](../concept/mitre-att-ck-heatmap-and-navigator.md#)
+[MITRE-ATT&amp;CK heat map and navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-att-ck-heatmap-and-navigator.md#)
 
-[Using the MITRE-ATT&amp;CK dashboard](../concept/mitre-dashboards.md#)
+[Using the MITRE-ATT&amp;CK dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-dashboards.md#)
 

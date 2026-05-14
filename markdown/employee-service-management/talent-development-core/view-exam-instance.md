@@ -35,20 +35,20 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 3.  Review the fields of the form.
 
-    For a description of the field values, see [Exam instance form](../reference/exam-instance-form.md).
+    For a description of the field values, see [Exam instance form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/exam-instance-form.md).
 
 
--   **[View number of exam instance attempts](view-exam-attempts.md)**  
+-   **[View number of exam instance attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-exam-attempts.md)**  
 View number of exam instance attempts by a user.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-exam-engine.md)
 
 **Related topics**  
 
 
-[Create exam catalogs](create-exam-catalog.md)
+[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 
-[Create an exam](create-exam.md)
+[Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/create-quiz-path.md)
 

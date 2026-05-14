@@ -26,10 +26,10 @@ Role required: sn\_devops.admin or sn\_devops.app\_owner
 2.  You can create an application using any of the following options:
 
     -   Select **Create an application** from the Home page.
-    -   Select the **Applications** \(![Applications icon.](../image/applications-icon.png)\) module and select **New**.
+    -   Select the **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\) module and select **New**.
 3.  In the Create an application modal, in the **Application name** field, enter the name for your application.
 
-    ![Create an application.](../image/app-ws-01.png)
+    ![Create an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-01.png)
 
     You can either create a new application, which will create a new application model with the same name, or select an existing application model, which will create an application with the same name as the model.
 
@@ -80,7 +80,7 @@ The system generates a new DevOps application from that application model.
         -   Users having other DevOps roles can view the application.
         -   Users having DevOps roles, but aren’t part of the groups added can't view the application.
     3.  Select **Next**.
-    ![Enter the application details.](../image/app-ws-02.png)
+    ![Enter the application details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-02.png)
 
 5.  In the Associate pipelines playbook activity:
 
@@ -90,7 +90,7 @@ The system generates a new DevOps application from that application model.
 
     2.  Select the pipelines that you want to associate with the app.
     3.  Select **Associate pipelines**.
-    ![Associate pipelines to the application.](../image/app-ws-03.png)
+    ![Associate pipelines to the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-03.png)
 
 6.  In the Assign services to pipeline steps playbook activity:
 
@@ -106,7 +106,7 @@ The system generates a new DevOps application from that application model.
     2.  Select **Assign services**.
     **Note:** You can skip this step if your pipeline doesn’t have any steps or if you haven't associated pipelines.
 
-    ![Assign services to pipeline steps.](../image/app-ws-04.png)
+    ![Assign services to pipeline steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-04.png)
 
 7.  In the Associate plans playbook activity:
 
@@ -116,7 +116,7 @@ The system generates a new DevOps application from that application model.
 
     2.  Select the plans that you want to associate with the app.
     3.  Select **Associate plans**.
-    ![Associate plans to the application.](../image/app-ws-05.png)
+    ![Associate plans to the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-05.png)
 
 8.  In the Associate repositories playbook activity:
 
@@ -126,7 +126,7 @@ The system generates a new DevOps application from that application model.
 
     2.  Select the repositories that you want to associate with the app.
     3.  Select **Associate repositories**.
-    ![Associate repositories to the application.](../image/app-ws-06.png)
+    ![Associate repositories to the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-06.png)
 
 9.  In the Import historical data playbook activity:
 
@@ -135,16 +135,16 @@ The system generates a new DevOps application from that application model.
         **Note:** You can skip this step if you don't want to import any data from the select pipelines, plans, and repositories.
 
     2.  Select **Import data**.
-    ![Import data to the application.](../image/app-ws-07.png)
+    ![Import data to the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-07.png)
 
     **Note:** If your import request could not be completed due to an error, you can select **Restart Import** in the corresponding **Import Request** record to retry the import.
 
-    ![Restart Import button for Import Request](../image/restart-import-request.png)
+    ![Restart Import button for Import Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/restart-import-request.png)
 
 10. From the **Summary** page, select **View application** to review the details of the created application.
 
-    ![Application summary.](../image/app-ws-08.png)
+    ![Application summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/app-ws-08.png)
 
-    If you skipped associating objects to the application or if you want to associate other objects, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
+    If you skipped associating objects to the application or if you want to associate other objects, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
 

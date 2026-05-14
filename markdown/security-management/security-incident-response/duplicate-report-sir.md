@@ -42,7 +42,7 @@ The contents of the selected template are duplicated and copy of the selected te
 
 ## What to do next
 
-[Edit a report template in Security Incident Response](edit-template-sir.md)
+[Edit a report template in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/edit-template-sir.md)
 
-**Parent Topic:**[Configure report templates in Security Incident Response](../concept/daily-status-sir.md)
+**Parent Topic:**[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/daily-status-sir.md)
 

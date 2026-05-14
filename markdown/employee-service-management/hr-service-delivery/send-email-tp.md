@@ -36,5 +36,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 The email is sent to the talent profile and the record is visible in the Activity stream.
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-t-pool.md)
 

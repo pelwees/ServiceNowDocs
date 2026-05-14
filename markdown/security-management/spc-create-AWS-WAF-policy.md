@@ -52,13 +52,13 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 7.  Select **or** to add properties.
 
-    See [Create and activate custom policies for Security Posture Control](spc-create-policy.md) for more information about using the policy builder to create policies.
+    See [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md) for more information about using the policy builder to create policies.
 
 8.  Select **Save changes** when you have completed your policy.
 
 9.  **Activate** the policy if you want to view findings.
 
-10. See [Security Posture Control: Configuring and viewing your findings](../concept/spc-view-findings.md) for more information about viewing the findings from your policy.
+10. See [Security Posture Control: Configuring and viewing your findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/spc-view-findings.md) for more information about viewing the findings from your policy.
 
 11. Open a record on the list and select the Mitigation controls Mitigated vulnerable items tabs.
 

@@ -17,7 +17,7 @@ Customize the time off widget on the Employee Profile to display it to your pref
 
 ## Before you begin
 
-The kiosk data display for the **Time off** tab is location-based. You can customize it for different users based on their locations. For more information see, [Customize data display in Kiosks](create-implementation-kiosk.md).
+The kiosk data display for the **Time off** tab is location-based. You can customize it for different users based on their locations. For more information see, [Customize data display in Kiosks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-implementation-kiosk.md).
 
 Role required: esc\_admin/sn\_ex\_sp\_pro\_kiosk.user
 
@@ -38,5 +38,5 @@ Role required: esc\_admin/sn\_ex\_sp\_pro\_kiosk.user
 
 The **Time off** tab is visible on your Employee Profile.
 
-**Parent Topic:**[Time off balances in Employee Center Pro Kiosk](../concept/kiosk-timeoff-ec.md)
+**Parent Topic:**[Time off balances in Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/kiosk-timeoff-ec.md)
 

@@ -88,11 +88,11 @@ Additional text to help you distinguish this profile from other profiles.
 </td></tr></tbody>
 </table>    The following figure is an example of a completed form.
 
-    ![ArcSight Event Profile: Name](../image/sir-arcsight-esm-profile-name.png)
+    ![ArcSight Event Profile: Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-name.png)
 
     After you have entered the profile details, click **Continue**. The Query Viewer ID is validated and if a corresponding Resource ID is present in the ArcSight ESM Query Viewer, the name of the Query Viewer will be returned as shown below. If the validation fails, check if the Resource ID exists in the ArcSight ESM console. If the Resource ID is not found, find the correct Resource ID and enter it in the profile.
 
-    ![ArcSight Query Viewer](../image/sir-arcsight-query-viewer.png)
+    ![ArcSight Query Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer.png)
 
 
 ## What to do next

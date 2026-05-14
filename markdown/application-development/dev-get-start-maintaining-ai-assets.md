@@ -17,5 +17,5 @@ AI assets introduce additional considerations for application maintenance. Unlik
 
 AI Control Tower is the primary tool for monitoring and managing AI assets after deployment. AI Control Tower provides a centralized view of your skills, AI agents, and agentic workflows, including their performance, usage, and lifecycle status, so that you can identify issues and take action before they affect your users. For more information, see [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-landing.md).
 
-**Parent Topic:**[Adding AI to your apps](dev-get-start-adding-ai-to-your-apps.md)
+**Parent Topic:**[Adding AI to your apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/dev-get-start-adding-ai-to-your-apps.md)
 

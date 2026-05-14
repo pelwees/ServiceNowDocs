@@ -27,7 +27,7 @@ If you refuse the acquirer’s pre-arbitration request, the acquirer may create 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -64,7 +64,7 @@ If you refuse the acquirer’s pre-arbitration request, the acquirer may create 
     -   To appeal the outcome, select **Unresolved**.
 14. If the response is **Unresolved**, select `Yes` in the **Create appeal** drop-down.
 
-    An appeal can be created only if certain conditions are met. For more information, see [Allocation workflow overview](../concept/allocation-workflow.md).
+    An appeal can be created only if certain conditions are met. For more information, see [Allocation workflow overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/allocation-workflow.md).
 
 15. Enter the **Appeal amount**.
 
@@ -81,5 +81,5 @@ After the request executes successfully, the transaction state moves to **Awaiti
 
 Visa confirms the appeal with an acknowledgment letter. Retrieve the letter by selecting `Get acknowledgement letter` in the**Review case filing appeal** activity.
 
-**Parent Topic:**[Allocation dispute workflow](../concept/allocation-dispute-work-flow.md)
+**Parent Topic:**[Allocation dispute workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/allocation-dispute-work-flow.md)
 

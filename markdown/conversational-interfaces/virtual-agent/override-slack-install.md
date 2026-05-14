@@ -25,9 +25,9 @@ Before Utah release, an admin was able to override a Slack installation that is 
 
 Starting from Utah release, if your Slack workspace is already associated with another ServiceNow instance, but you intend to associate it with a new instance, then you must reach out to the administrator to first uninstall it from the previously associated instance.
 
-![A message appears when the Slack workspace is already associated with a ServiceNow instance.](../images/slack-new-proceed-install.png)
+![A message appears when the Slack workspace is already associated with a ServiceNow instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/slack-new-proceed-install.png)
 
-**Important:** The instructions in [Remove ServiceNow Virtual Agent integration with Slack](uninstall-virtual-agent-slack.md) are only applicable when both instances are compatible with Utah and the above releases. If one of your ServiceNow instances is on the Utah release and another on a release prior to Utah, follow the steps below.
+**Important:** The instructions in [Remove ServiceNow Virtual Agent integration with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/uninstall-virtual-agent-slack.md) are only applicable when both instances are compatible with Utah and the above releases. If one of your ServiceNow instances is on the Utah release and another on a release prior to Utah, follow the steps below.
 
 ## Procedure
 
@@ -43,8 +43,8 @@ Starting from Utah release, if your Slack workspace is already associated with a
 
 4.  Select **Override** to associate the instance with a new tenant.
 
-    ![Slack installation window with the Override button enabled.](../images/slack-override.png)
+    ![Slack installation window with the Override button enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/slack-override.png)
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-slack.md)
 

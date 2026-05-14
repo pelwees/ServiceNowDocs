@@ -17,7 +17,7 @@ Each Decision branch introduces additional workflows. After creating our main As
 
 ## Before you begin
 
-[Create the Asset Refresh topic in Virtual Agent Designer](create-example-conv-asset-refresh.md)
+[Create the Asset Refresh topic in Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-example-conv-asset-refresh.md)
 
 Role required: virtual\_agent\_admin or admin
 
@@ -35,7 +35,7 @@ Role required: virtual\_agent\_admin or admin
 
         For example, name the node `Open Incident`. For the **Response message**, type `Since you no longer have the device, we need to open an incident.`
 
-        ![The Open Incident text bot response appears in the false decision flow for the Boolean question. The user will be prompted to open an incident.](../images/crawl-ex-open-incident-txt.png)
+        ![The Open Incident text bot response appears in the false decision flow for the Boolean question. The user will be prompted to open an incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/crawl-ex-open-incident-txt.png)
 
 3.  Add a Topic Block utility to node to create the incident.
 
@@ -47,11 +47,11 @@ Role required: virtual\_agent\_admin or admin
 
         -   For the caller, specify Input Variables &gt; User.
         -   For the short description, specify Input Variables &gt; Asset Lookup &gt; Asset tag.
-        ![Use dot-walking to designate input mapping variables for the Incident. User is the session user, and the Asset tag is derived from the previous Asset Lookup node.](../images/crawl-ex-incident-input-vars.png)
+        ![Use dot-walking to designate input mapping variables for the Incident. User is the session user, and the Asset tag is derived from the previous Asset Lookup node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/crawl-ex-incident-input-vars.png)
 
     4.  Under Output mapping, make sure to enable the created\_incident\_sys\_id variable.
 
-        ![Select the Enable box for created_incident_sys_id to pass the Incident ID back to Virtual Agent.](../images/crawl-ex-incident-output-var.png)
+        ![Select the Enable box for created_incident_sys_id to pass the Incident ID back to Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/crawl-ex-incident-output-var.png)
 
 4.  Drag this flow's arrow to the End node to complete this part of the workflow.
 
@@ -60,5 +60,5 @@ Role required: virtual\_agent\_admin or admin
 
 ## What to do next
 
-[Create the More Information workflow in the Asset Refresh topic](create-example-asset-refresh-flow3.md)
+[Create the More Information workflow in the Asset Refresh topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-example-asset-refresh-flow3.md)
 

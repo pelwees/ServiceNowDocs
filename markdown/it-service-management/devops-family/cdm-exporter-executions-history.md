@@ -25,13 +25,13 @@ Role required: cdm\_viewer or cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
 ## Procedure
 
-1.  Select the Admin icon \(![Admin icon.](../image/icon-admin-wrench.png)\) to open the **Administration** page.
+1.  Select the Admin icon \(![Admin icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-admin-wrench.png)\) to open the **Administration** page.
 
 2.  On the **Exporters** tab, select the name of the exporter.
 
 3.  Select the **Executions** tab to view the list of executions.
 
-    ![Executions tab that lists all executions for an exporter](../image/cdm-exporter-executions-tab.png)
+    ![Executions tab that lists all executions for an exporter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-exporter-executions-tab.png)
 
 <table><thead><tr><th>
 

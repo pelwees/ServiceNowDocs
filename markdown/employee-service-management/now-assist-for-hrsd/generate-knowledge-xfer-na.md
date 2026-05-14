@@ -35,11 +35,11 @@ In the journey configuration for which you want to enable agentic offboarding, t
 
 The configuration tasks in the following topics must be completed:
 
--   [Add Employee Center to the Now Assist in Virtual Agent display experience](enable-na-va-ec.md)
--   [Configure the AI agent triggers for offboarding to use Employee Center](config-offboarding-trigger-ec.md)
--   [Activate the Offboarding knowledge transfer trigger](activate-trigger-offboarding-kt.md)
--   [Activate the Knowledge transfer record created trigger](activate-trigger-kt-record-created.md)
--   [Activate the Now Assist skill for offboarding](activate-na-skills-offboarding.md)
+-   [Add Employee Center to the Now Assist in Virtual Agent display experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/enable-na-va-ec.md)
+-   [Configure the AI agent triggers for offboarding to use Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/config-offboarding-trigger-ec.md)
+-   [Activate the Offboarding knowledge transfer trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/activate-trigger-offboarding-kt.md)
+-   [Activate the Knowledge transfer record created trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/activate-trigger-kt-record-created.md)
+-   [Activate the Now Assist skill for offboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/activate-na-skills-offboarding.md)
 
 Role required: manager
 
@@ -84,5 +84,5 @@ The knowledge transfer request is completed. The AI agent discovers and categori
 
 ## What to do next
 
-The departing employee must review and approve the knowledge transfer summary before it’s shared with the manager. For more information about this process, see [Review offboarding knowledge transfer summaries using Now Assist](review-knowledge-xfer-na.md).
+The departing employee must review and approve the knowledge transfer summary before it’s shared with the manager. For more information about this process, see [Review offboarding knowledge transfer summaries using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/review-knowledge-xfer-na.md).
 

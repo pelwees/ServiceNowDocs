@@ -37,11 +37,11 @@ Role required: sn\_wfo\_fsm.manager
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Teams icon ![Teams icon](../../itsm-manager-workspace/image/teams-icon.png).
+2.  Click the Teams icon ![Teams icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../itsm-manager-workspace/image/teams-icon.png).
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../reference/components-wfo-fsm.md).
 
 4.  Analyze team performance.
 

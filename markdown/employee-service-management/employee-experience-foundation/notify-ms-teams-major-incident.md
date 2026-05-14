@@ -19,7 +19,7 @@ Notify administrators, major incident managers, or communications managers can m
 
 Conference call records are stored in the Notify Conference Calls \[notify\_conference\_call\] table. Conference call participant records are stored in the Notify Conference Call Participants \[notify\_participant\] table.
 
-**Parent Topic:**[Use Notify connector for Microsoft Teams](c-agent-ex-use-nc.md)
+**Parent Topic:**[Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md)
 
 ## Initiate a conference call
 
@@ -70,7 +70,7 @@ Role required: notify\_admin, major\_incident\_manager, or communication\_manage
 
     -   Join via phone number: Dial in the conference bridge number along with the access code shown in the workbench from your mobile.
     -   Join Call: Click the **Join Call** to join the ongoing conference call.
-    ![Join the conference call](../image/join-conf-call-2.png)
+    ![Join the conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/join-conf-call-2.png)
 
 
 ## Add participants to a conference call
@@ -91,7 +91,7 @@ Role required: notify\_admin, major\_incident\_manager, or communication\_manage
 
 4.  Click \(+\) Participants under **Active Participants**.
 
-    ![Add a participant to a conference call.](../image/add-participant.png)
+    ![Add a participant to a conference call.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-participant.png)
 
 5.  In the dialog box that appears, select the participants for the conference.
 

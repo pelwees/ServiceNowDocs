@@ -27,7 +27,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 3.  Select **Preview**.
 
-4.  In the Preview Document window, select the Lookup using list icon ![Lookup using list icon](../../legal-request-management/image/lookup-using-list.png)
+4.  In the Preview Document window, select the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-request-management/image/lookup-using-list.png)
 
 5.  Select a legal contract request from the list for which you want to generate a sample contract document.
 

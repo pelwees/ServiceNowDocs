@@ -19,9 +19,9 @@ During a Now Assist in Virtual Agent conversation, you can switch the conversati
 
 The following images show examples of how mid-topic switching can appear based on your conversational settings.
 
-![User asks about open enrollment while in the middle of a conversation about ordering an iPad.](../image/NAinVA-intent.png "Topic switching example in a standard chat conversation")
+![User asks about open enrollment while in the middle of a conversation about ordering an iPad.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-intent.png "Topic switching example in a standard chat conversation")
 
-![User asks about miro access while in the middle of a conversations about ordering a MacBook.](../image/dw-mid-topic-switch-yp6.png "Topic switching example in an enhanced chat conversation")
+![User asks about miro access while in the middle of a conversations about ordering a MacBook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/dw-mid-topic-switch-yp6.png "Topic switching example in an enhanced chat conversation")
 
 If you decide to continue with your original request, you return to the previous conversation. If you decide to switch the conversational focus to something else, you can view additional information about your new request.
 

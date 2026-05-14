@@ -19,5 +19,5 @@ Like any integration, such as LDAP, web services, or JDBC, the SOAP endpoint may
 
 **Note:** A common misconception is that because asynchronous SOAP requests are routed through the ECC queue, they are always sent through a MID Server. However, asynchronous SOAP requests use a MID Server only when configured to do so.
 
-**Parent Topic:**[Outbound SOAP web service](c_OutboundSOAPWebService.md)
+**Parent Topic:**[Outbound SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundSOAPWebService.md)
 

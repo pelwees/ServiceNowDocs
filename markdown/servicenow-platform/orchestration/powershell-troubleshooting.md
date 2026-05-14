@@ -17,9 +17,9 @@ Authentication and access denied errors can prevent PowerShell activities from r
 
 Use these procedures for troubleshooting authentication failures with Orchestration PowerShell activities and when the Remote Procedure Call \(RPC\) server is unavailable or when access is denied. The authentication failure error displays when all credentials, including those of the local MID Server service account, do not have the correct permissions to run the Powershell script/command. The same error displays when the target host is unreachable.
 
-![Authentication error message](../image/AuthenticationErrorMsg.png "Authentication error message")
+![Authentication error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/AuthenticationErrorMsg.png "Authentication error message")
 
-**Parent Topic:**[PowerShell protocols and troubleshooting](../reference/powershell-protocols.md)
+**Parent Topic:**[PowerShell protocols and troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../reference/powershell-protocols.md)
 
 ## Authentication failure in an Active Directory activity
 
@@ -52,11 +52,11 @@ Validate that the account you are using has the proper permissions to run the ac
     -   Domain controller is unreachable.
     **Note:** The majority of the return codes listed in the MID Server log for this error are **1**s and **3**s. This is because the Active Directory activities use the ADSI provider and not WMI or WinRM. An error code of **1** means the account was able to connect with the test account, but running the script failed.
 
-    ![Sample error code of 1](../image/ErrorCode1.png)
+    ![Sample error code of 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ErrorCode1.png)
 
     An error code of **3** means that the MID Server attempted to run the PowerShell activity under the MID Server service account but failed.
 
-    ![Sample error code of 3](../image/ErrorCode3.png)
+    ![Sample error code of 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ErrorCode3.png)
 
 
 ## Authentication failure in an Exchange activity
@@ -75,7 +75,7 @@ Role required: Permissions to access and create mailboxes on the Exchange server
 
 3.  Create a user using the `New-mailbox` Exchange commandlet.
 
-    ![Creating a new user in Exchange](../image/ExchangeCommandConsole.png "Creating a new user in Exchange")
+    ![Creating a new user in Exchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ExchangeCommandConsole.png "Creating a new user in Exchange")
 
     If this procedure is successful under the specified credential, the following is the likely cause of the failure:
 
@@ -105,9 +105,9 @@ The target host might have one of these issues:
 
 The Create Mailbox activity from the Exchange activity pack has generated an error in the ECC queue involving authentication using the MID Server service credential. This occurred because the MID Server credential is the last to be used if the targeted host is not the MID Server.
 
-![Authentication failure error message](../image/AuthenticationErrorMsg.png "Authentication failure error message")
+![Authentication failure error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/AuthenticationErrorMsg.png "Authentication failure error message")
 
 The MID Server log shows that the MID Server tried to run the activity under specific credentials, but wasn’t successful and received an exit code of 1.
 
-![MID Server error code](../image/MIDServerErrorCode.png "MID Server error code")
+![MID Server error code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/MIDServerErrorCode.png "MID Server error code")
 

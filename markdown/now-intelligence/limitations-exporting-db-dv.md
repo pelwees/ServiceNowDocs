@@ -25,14 +25,14 @@ Some prompts are not recognized at all. Avoid the following phrases:
 -   Mail to me
 -   Mail with subject and body as Visualization/Dashboard name
 
-**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
 
-[Supported export output types](nowass-supported-export-output.md)
+[Supported export output types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-supported-export-output.md)
 
-[Export destinations](nowass-export-destinations.md)
+[Export destinations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-destinations.md)
 
-[Export guidelines and examples](nowass-export-guidelines-examples.md)
+[Export guidelines and examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-guidelines-examples.md)
 

@@ -33,7 +33,7 @@ You can use the Now Assist feature for work notes analysis even with 5-50 eligib
 
     A window is displayed with all the details.
 
-    ![Work notes analysis](../image/na-worknotes.png)
+    ![Work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/na-worknotes.png)
 
 4.  From the **Investigate** section, select **Work notes analysis**.
 
@@ -43,10 +43,10 @@ You can use the Now Assist feature for work notes analysis even with 5-50 eligib
 
     The result is displayed.
 
-    ![Work notes analysis result using Now Assist](../image/na-worknotes-result.png)
+    ![Work notes analysis result using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/na-worknotes-result.png)
 
     Use the thumbs up and thumbs down icons to provide feedback for the result that you have received.
 
 
-**Parent Topic:**[Using Now Assist for Process Mining](../concept/use-na-process-mining.md)
+**Parent Topic:**[Using Now Assist for Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-na-process-mining.md)
 

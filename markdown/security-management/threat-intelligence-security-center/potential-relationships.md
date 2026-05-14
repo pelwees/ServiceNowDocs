@@ -18,35 +18,35 @@ The application uses automated correlation to establish potentially possible rel
 1.  Select one or more potentially related records and apply this action on the UI, which will further change the records to the confirmed relationships and visible in Related records section.
 2.  Any confirmed correlations ingested or manually created by an analyst will override the potential relationships created by auto correlation.
 
--   **[Confirm observable-observable potential relationship](../task/define-observable-observable-potential-relationship.md)**  
+-   **[Confirm observable-observable potential relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-observable-observable-potential-relationship.md)**  
 Use this section to confirm the relationships between the observables.
--   **[Confirm object-object potential relationships](../task/define-object-object-potential-relationships.md)**  
+-   **[Confirm object-object potential relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-object-potential-relationships.md)**  
 Define the potential relationships between the objects.
--   **[Confirm indicator-indicator potential relationships](../task/define-indicator-indicator-potential-relationships.md)**  
+-   **[Confirm indicator-indicator potential relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-indicator-indicator-potential-relationships.md)**  
 Define the potential relationships between the objects.
 
-**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-[Indicators](indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-[Threat Entities](tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-[Other Objects](tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-other-objects.md)
 
-[Vulnerability Artifacts](vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-rss-feeds.md)
 
-[Working with Reports in TISC](tisc-reports-lib-view.md)
+[Working with Reports in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](relationship-objects.md)
+[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-relationship-map.md)
 

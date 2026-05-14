@@ -44,7 +44,7 @@ You can analyze the critical or high priority security incidents, or SLAs that n
 
 3.  Select **Security Incident Manager Overview** from the drop-down list.
 
-    ![Security Incident Manager Overview dashboard](../image/security-incident-manage-dashboard.png)
+    ![Security Incident Manager Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-incident-manage-dashboard.png)
 
 4.  View the Security Incident Manager Overview for further action.
 

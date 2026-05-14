@@ -23,7 +23,7 @@ Role required: admin or dashboard\_admin
 
 2.  Select the dashboard you want to certify.
 
-3.  Select the information button \(![Info button](../../par-for-workspace/image/icon-info.png)\) to open the Details panel.
+3.  Select the information button \(![Info button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-info.png)\) to open the Details panel.
 
 4.  Select **Edit**.
 
@@ -36,5 +36,5 @@ Role required: admin or dashboard\_admin
 
 In the Dashboards library, the dashboard's entry is marked **Certified** in the Certified column.
 
-![Certified dashboard example](../image/certified-db-ac.png)
+![Certified dashboard example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/certified-db-ac.png)
 

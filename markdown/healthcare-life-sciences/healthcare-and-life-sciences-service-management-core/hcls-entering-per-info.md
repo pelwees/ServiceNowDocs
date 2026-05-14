@@ -17,5 +17,5 @@ As a patient, after you have registered on your Patient Portal, you can provide 
 
 Key personal information is required by healthcare providers for various purposes including determining the scheduling of your vaccinations.
 
-**Parent Topic:**[Use the Patient Portal for Healthcare and Life Sciences Service Management](hcls-patient-portal.md)
+**Parent Topic:**[Use the Patient Portal for Healthcare and Life Sciences Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-patient-portal.md)
 

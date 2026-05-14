@@ -190,5 +190,5 @@ Risk responsesn\_lco\_risk\_response
 Store the risk response records for the evaluated risk factors.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Conflict of Interest reference](legal-coi-reference.md)
+</table>**Parent Topic:**[Legal Conflict of Interest reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-reference.md)
 

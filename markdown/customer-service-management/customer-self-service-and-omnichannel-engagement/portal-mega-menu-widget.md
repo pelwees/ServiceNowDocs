@@ -15,7 +15,7 @@ breadcrumb: [Portal Polaris Header widget, Configurable Portal widgets, Set up s
 
 The Portal Mega Menu widget displays a hierarchical menu on the header of the portal home page to enable navigation to different pages. You can also display a cart, wish list, guided tour, and scripted list such as notification, approval, and survey on the header of your portal.
 
-![Portal Mega Menu widget showing different pages on the portal home page](../image/mega-menu-widget.png "Portal Mega Menu widget")
+![Portal Mega Menu widget showing different pages on the portal home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/mega-menu-widget.png "Portal Mega Menu widget")
 
-For more information about how to configure the Portal Mega Menu widget, see [Configure the category of a Portal Mega Menu widget](../task/conf-cat-mega-menu.md).
+For more information about how to configure the Portal Mega Menu widget, see [Configure the category of a Portal Mega Menu widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/conf-cat-mega-menu.md).
 

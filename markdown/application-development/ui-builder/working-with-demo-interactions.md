@@ -160,17 +160,17 @@ Demo data should be loaded only in a development or test instance to prevent con
 2.  Enter `sn-interaction-builder` into the search bar.
 3.  Select **Load demo data**.
 
-    ![Application Manager page for devsnc/sn‑interaction‑builder with Load demo data.](../image/uib-uii-demo-data-plugin.png "Load demo data")
+    ![Application Manager page for devsnc/sn‑interaction‑builder with Load demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-demo-data-plugin.png "Load demo data")
 
 
 ## Viewing demo data in UI Builder
 
 1.  From the UI Builder home page, select the **UI interactions** tab to view the list of available interactions.
 2.  Use either the list filter from the Label column to search for interactions that begin with DEMO or enter `DEMO` in the search field.
-3.  Select any DEMO interaction to view how it works or [duplicate it for your own use](../task/duplicate-demo-data.md).
+3.  Select any DEMO interaction to view how it works or [duplicate it for your own use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/duplicate-demo-data.md).
 
--   **[Duplicate a demo UI interaction](../task/duplicate-demo-data.md)**  
+-   **[Duplicate a demo UI interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/duplicate-demo-data.md)**  
 Create a duplicate of a demo UI interaction example to work with a separate, editable copy.
 
-**Parent Topic:**[UI interactions](uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/uib-ui-interactions.md)
 

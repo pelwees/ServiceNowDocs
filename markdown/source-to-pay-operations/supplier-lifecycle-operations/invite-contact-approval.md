@@ -33,21 +33,21 @@ After you perform this task, an approval record is created for the Enroll a new 
 
 3.  Search for the **If the onboarding request is created by Relationship Manager or Contact is invited** condition label and select it, which expands the condition label.
 
-4.  Delete the Condition 2 by selecting the remove condition icon \(![Remove condition icon.](../image/cross-flow-icon.png)\) next to the condition.
+4.  Delete the Condition 2 by selecting the remove condition icon \(![Remove condition icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cross-flow-icon.png)\) next to the condition.
 
-    ![Supplier Contact Onboarding flow.](../image/supp-onboard-flow.png)
+    ![Supplier Contact Onboarding flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-onboard-flow.png)
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure self-registration for external users](config-reg-for-external-users-slm.md)
+**Parent Topic:**[Configure self-registration for external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md)
 
 **Related topics**  
 
 
-[Map the self-registration configuration to Supplier Collaboration Portal](map-ext-user-to-supp-central.md)
+[Map the self-registration configuration to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/map-ext-user-to-supp-central.md)
 
-[Configure system property to send registration emails to external users](sys-prop-reg-email.md)
+[Configure system property to send registration emails to external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sys-prop-reg-email.md)
 
-[Configure the Vendor Contact table to send invitation emails during self-registration](config-vendor-contact-table.md)
+[Configure the Vendor Contact table to send invitation emails during self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-vendor-contact-table.md)
 

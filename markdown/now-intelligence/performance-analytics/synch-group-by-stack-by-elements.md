@@ -33,9 +33,9 @@ You must have access to the list of records that you want to analyze.
 
     The new filter element appears in the **Group by** and **Stack by** lists.
 
-5.  [Remove the filter from the interactive analysis](remove-filter-from-ia.md) to remove the filter from the **Filters** panel.
+5.  [Remove the filter from the interactive analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/remove-filter-from-ia.md) to remove the filter from the **Filters** panel.
 
-    ![Remove filter with option to Remove element from Group by and Stack by](../../reporting/image/remove-filter-gb-sb.png)
+    ![Remove filter with option to Remove element from Group by and Stack by](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/remove-filter-gb-sb.png)
 
 6.  Select **Remove element from Group by and Stack by**.
 
@@ -44,5 +44,5 @@ You must have access to the list of records that you want to analyze.
     -   There is another filter on the **Filters** panel that has the same target field as the filter you are removing.
     -   You have personalized the source list before launching interactive analysis. You cannot synchronize **Group by** and **Stack by** elements by adding or removing a filter if the column is part of a personalized list.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/interactive-analysis.md)
 

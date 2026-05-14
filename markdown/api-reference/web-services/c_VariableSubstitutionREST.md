@@ -23,8 +23,8 @@ You can assign a value to variables when running the request using the RESTMessa
 
 When testing an HTTP method that includes variables, the **Test value** for each variable in the **Variable Substitutions** related list is used.
 
--   **[Generate REST message variables](../task/t_GenerateMessageVariables.md)**  
+-   **[Generate REST message variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_GenerateMessageVariables.md)**  
 Populate the list of variable substitutions automatically based on variables defined in several REST message HTTP method fields.
 
-**Parent Topic:**[Outbound REST web service](c_OutboundRESTWebService.md)
+**Parent Topic:**[Outbound REST web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundRESTWebService.md)
 

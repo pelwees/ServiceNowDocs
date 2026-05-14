@@ -124,7 +124,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Supported|None|
 |WhatsApp|Supported|None|
 |Apple Messages for Business|Supported|Any URLs must be added to the allowed domain list \[sys\_cs\_hostname\_allow\_list\] table.|
-|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-settings-for-alexa.md).|
 
 ## Example single-link bot response control
 
@@ -140,11 +140,11 @@ Link bot response output
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties include node name, link list - single or multiple, header, label, and URL link.](../images/va-link-output-properties.png "Single Link bot response control basic properties")
+![Basic properties include node name, link list - single or multiple, header, label, and URL link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-link-output-properties.png "Single Link bot response control basic properties")
 
 </td><td>
 
-![In this simple example, the header reads, "Here is a link," followed by a hyperlink that reads, "Click Here."](../images/va-link-output-web.png "Web UI Link bot response output")
+![In this simple example, the header reads, "Here is a link," followed by a hyperlink that reads, "Click Here."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-link-output-web.png "Web UI Link bot response output")
 
 </td></tr></tbody>
 </table>## Example multiple-link bot response control properties
@@ -159,14 +159,14 @@ Link bot response output
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties with the Multiple links option selected. The link list is defined by a script.](../images/va-multi-link-output-properties.png "Multi-link bot response control basic properties")
+![Basic properties with the Multiple links option selected. The link list is defined by a script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-multi-link-output-properties.png "Multi-link bot response control basic properties")
 
 </td><td>
 
-![Example output that reads, "I found some information that might help you," followed by 3 links with titles and short descriptions.](../images/va-multilink-web-output.png "Web UI Link bot response output - multiple URL links")
+![Example output that reads, "I found some information that might help you," followed by 3 links with titles and short descriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-multilink-web-output.png "Web UI Link bot response output - multiple URL links")
 
  **Note:** Multi-link bot output is also supported in Microsoft Teams, Slack, Workplace, and Facebook Messenger.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+</table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

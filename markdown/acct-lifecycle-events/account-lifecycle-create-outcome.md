@@ -184,13 +184,13 @@ Tracking method for this outcome.-   Manual: Enter the measurement unit and valu
 
 **Note:** The metric values are automatically populated if:
 
-    -   The context for the data source must be configured to reference the primary success outcome table. See [Define the data source](../concept/account-lifecycle-define-data-source.md).
-    -   The source and the resolving context tables must be correctly configured. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md).
+    -   The context for the data source must be configured to reference the primary success outcome table. See [Define the data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-data-source.md).
+    -   The source and the resolving context tables must be correctly configured. See [Configure the Context Engine Mapper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-context-engine-mapper.md).
 
 
 </td></tr><tr><td colspan="2">
 
-![Context engine mapping](../image/account-lifecycle-success-obj-mapping.png)
+![Context engine mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-success-obj-mapping.png)
 
 </td></tr><tr><td>
 
@@ -220,5 +220,5 @@ Current value of the primary success outcome.
 </table>4.  Select **Save** to create a primary success outcome.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-basic-config.md)
 

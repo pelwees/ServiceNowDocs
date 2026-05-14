@@ -36,9 +36,9 @@ Role required: itil
     -   Navigate to **Workspaces** &gt; **Service Operation Workspace**.
     -   Select **Teams** menu from home page and select a team.
     -   Select **Schedule** tab to view all the schedules for the team.
-3.  Select a shift card and select ![More](../../service-reliability/image/icon-sr-more-actions-vertical.png) icon or right-click a shift card.
+3.  Select a shift card and select ![More](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png) icon or right-click a shift card.
 
-    ![Schedule with a schedule absence](../image/schedule_absence_schedule_sow.png)
+    ![Schedule with a schedule absence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/schedule_absence_schedule_sow.png)
 
 4.  Select **Schedule absence** to request absence for the shift and provide the following details:
 
@@ -47,10 +47,10 @@ Role required: itil
     -   Start time and End time
     -   Proposed cover
     -   Notes
-    ![Schedule absence form](../image/schedule_absence_form_sow.png)
+    ![Schedule absence form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/schedule_absence_form_sow.png)
 
 5.  Select **Schedule absence**.
 
 
-**Parent Topic:**[Scheduling in service operation workspace](scheduling-in-service-operation-workspace.md)
+**Parent Topic:**[Scheduling in service operation workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/scheduling-in-service-operation-workspace.md)
 

@@ -37,7 +37,7 @@ Role required: admin.
 
 5.  Select **Mute** to avoid the finding from being reported in the next scan.
 
-    ![Image showing mute rule modal](../image/hc-mute-reason.png)
+    ![Image showing mute rule modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hc-mute-reason.png)
 
     **Note:** The Select Mute Reason modal shows up only if you select **Mute** on the Scan Finding form.
 
@@ -46,5 +46,5 @@ Role required: admin.
     **Note:** Select **Unmute** if you want the finding to be reported in the later scans. The **Unmute** button is visible only when you have muted a finding.
 
 
-**Parent Topic:**[Findings](../concept/hs-findings.md)
+**Parent Topic:**[Findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-findings.md)
 

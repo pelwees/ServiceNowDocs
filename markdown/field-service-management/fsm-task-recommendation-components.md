@@ -118,18 +118,18 @@ Task Recommendation Policy \[task\_rec\_recommendation\_policy\]
 Prevents the deletion of a policy if the policy is specified in the **Default task recommendation policy** field of the Task Recommendation Applicability form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
 
-[Intelligent Task Recommendation](../concept/fsm-task-recommendation.md)
+[Intelligent Task Recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/fsm-task-recommendation.md)
 
-[Configuring Intelligent Task Recommendations](../concept/administer-task-recommendations.md)
+[Configuring Intelligent Task Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/administer-task-recommendations.md)
 
-[Assign work order tasks to agents using Intelligent Task Recommendation](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents using Intelligent Task Recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/manage-work-order-tasks-dw.md#)
 
-[Assign tasks to yourself based on Intelligent Task Recommendation](../task/recommend-task-fsm-mobile.md)
+[Assign tasks to yourself based on Intelligent Task Recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/recommend-task-fsm-mobile.md)
 
 ## Intelligent Task Recommendations system properties
 

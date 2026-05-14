@@ -23,15 +23,15 @@ Role required: pa\_power\_user, admin
 
 ## Procedure
 
-1.  On the breakdown dashboard, click the plus sign \(![Plus sign button](../../dashboards/image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+1.  On the breakdown dashboard, click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 
-2.  Point to the widget, then click the pencil icon \(![Pencil icon](../../dashboards/image/EditWidgetButton.png)\).
+2.  Point to the widget, then click the pencil icon \(![Pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/image/EditWidgetButton.png)\).
 
     The widget record opens.
 
 3.  Select **Follow element** in the widget record.
 
-    ![Section of widget properties form with Follow element selected](../image/follow-element.png "Widget record showing options")
+    ![Section of widget properties form with Follow element selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/follow-element.png "Widget record showing options")
 
     If you do not select **Follow element** for a widget, that widget does not follow any breakdown elements selected on the dashboard. The **Followed breakdown** and **Show multiple elements as** options are not visible.
 
@@ -49,19 +49,19 @@ Role required: pa\_power\_user, admin
 
     -   **Aggregate**, which shows a single, aggregate score of all selected elements.
     -   **Separate**, which shows each selected element separately.
-    Not all widget and indicator types support both views. Some types do not support selecting multiple elements at all. If it is not possible to select multiple elements for a widget/indicator combination, the field says **Not available**. For more information, see [Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md).
+    Not all widget and indicator types support both views. Some types do not support selecting multiple elements at all. If it is not possible to select multiple elements for a widget/indicator combination, the field says **Not available**. For more information, see [Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/multi-element-select-indicator-views.md).
 
 
-**Parent Topic:**[Using breakdowns on dashboards](../concept/c_SpecialDashboards.md)
+**Parent Topic:**[Using breakdowns on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_SpecialDashboards.md)
 
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/task/t_ExistingBreakdownDashboard.md)
 
-[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)
+[Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/multi-element-select-indicator-views.md)
 
-[Same breakdown on widget and dashboard](../concept/same-breakdown-widget-dashboard.md)
+[Same breakdown on widget and dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/same-breakdown-widget-dashboard.md)
 
-[Showing breakdown relations on dashboards](../concept/c_ShowBkdwnRltnsWdgts.md)
+[Showing breakdown relations on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_ShowBkdwnRltnsWdgts.md)
 

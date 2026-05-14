@@ -21,7 +21,7 @@ The strategic pillars of the CFO dashboard show metrics related to Sentiment, Pr
 
 The Outcome tab provides CCOs with a centralized view into customer experience, proactive service effectiveness, digital self-service performance, and escalation health. It helps CCOs quickly understand the customer sentiment trends, service impact, and overall experience outcomes to drive strategic improvements.
 
-![CCO Dashboard Outcome tab with Sentiment, Proactive, Self Service, Service Health, and Spotlight pillars, each containing KPIs and visualizations.](../image/cco-db-outcome-tab.png)
+![CCO Dashboard Outcome tab with Sentiment, Proactive, Self Service, Service Health, and Spotlight pillars, each containing KPIs and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cco-db-outcome-tab.png)
 
 <table id="table_yds_3cy_mgd"><thead><tr><th>
 
@@ -138,7 +138,7 @@ Highlights critical and at-risk customer cases requiring executive attention and
 
 The Operations tab focuses on the day-to-day execution of support services, including case handling efficiency, outage impact, customer risk indicators, and backlog management. It enables operational leaders to monitor case flow, resolve issues faster, and maintain consistent service quality at scale.
 
-![CCO Dashboard Operations tab with Throughput, Availability, Risk, and Performance pillars, each containing metrics and visualizations.](../image/cco-db-ops-tab.png)
+![CCO Dashboard Operations tab with Throughput, Availability, Risk, and Performance pillars, each containing metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cco-db-ops-tab.png)
 
 <table id="table_yds_3cy_mgc"><thead><tr><th>
 

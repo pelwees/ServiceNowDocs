@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **My Work**, click **Tasks to do**.
 
@@ -35,7 +35,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     2.  On the Data Source Details form, fill in the required fields.
 
-        **Note:** The Data Source Details form has a different set of fields as configured in the data source. For more information, see [Configure a data source for digital forensics](configure-forensics-search-sources.md).
+        **Note:** The Data Source Details form has a different set of fields as configured in the data source. For more information, see [Configure a data source for digital forensics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/configure-forensics-search-sources.md).
 
     3.  If you have notified the custodians of their data or device being on legal hold, select **Hold notice issued**.
 
@@ -52,5 +52,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 The matter task is completed and sent to the matter owner for approval.
 
-**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/managing-legal-dft-request.md)
 

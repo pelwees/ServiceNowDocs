@@ -21,7 +21,7 @@ Role required: admin
 
 This task requires the following:
 
--   A JWT provider created for Card Data Security. See [Set up a JWT Provider](set-up-a-jwt-provider.md) for more information.
+-   A JWT provider created for Card Data Security. See [Set up a JWT Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-provider.md) for more information.
 -   The credentials JSON file obtained from the tokenizer service.
 
 ## Procedure
@@ -63,5 +63,5 @@ The JWT provider record is created.
 
 ## What to do next
 
-[Set up the Connection &amp; Credential records](set-up-the-vault-api-connection.md).
+[Set up the Connection &amp; Credential records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-the-vault-api-connection.md).
 

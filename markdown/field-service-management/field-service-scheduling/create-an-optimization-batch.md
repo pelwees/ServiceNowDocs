@@ -72,7 +72,7 @@ At each defined interval, the batch triggers the Schedule Optimization process. 
 
 **Note:** Schedule Optimization doesn’t detect changes you make to agents or tasks during an optimization run. The system considers changes to agents and tasks during the next optimization run.
 
-You can [View Schedule Optimization logs](view-schedule-optimization-logs.md#) to gather insights from each optimization attempt.
+You can [View Schedule Optimization logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/view-schedule-optimization-logs.md#) to gather insights from each optimization attempt.
 
 ## Add or remove scopes from an optimization batch
 

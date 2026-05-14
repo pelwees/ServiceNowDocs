@@ -57,7 +57,7 @@ Role required: admin
 
 The system does not generate indexes for ranking definitions inserted into the database by an update set. To use a ranking definition inserted by an update set, you must generate the indexes manually. To generate indexes, open the Ranking Definition form, and click **Generate Indexes**.
 
-![Generate an index manually](../image/RankingDefinitionForm.png)
+![Generate an index manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/RankingDefinitionForm.png)
 
-**Parent Topic:**[Context ranking](../reference/r_ContextRanking.md)
+**Parent Topic:**[Context ranking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../reference/r_ContextRanking.md)
 

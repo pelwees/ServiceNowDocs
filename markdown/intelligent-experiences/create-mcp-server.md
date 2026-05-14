@@ -42,7 +42,7 @@ Depending on your requirements, you can create one or more servers that expose d
 
     2.  Search for tools from the list and select the tools to expose.
 
-        If you need to create a tool, select **Create tool**. For more information, see [Create a tool for a Model Context Protocol server](create-tool-mcp-server.md).
+        If you need to create a tool, select **Create tool**. For more information, see [Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md).
 
     3.  Select **Add**.
 
@@ -57,5 +57,5 @@ Depending on your requirements, you can create one or more servers that expose d
 
 ## What to do next
 
-Configure clients to connect to the server. For more information, see [Connecting to an MCP server from an MCP client](../concept/connect-mcp-server-client.md#).
+Configure clients to connect to the server. For more information, see [Connecting to an MCP server from an MCP client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/connect-mcp-server-client.md#).
 

@@ -43,7 +43,7 @@ Role required: flow\_designer, sn\_hr\_integr\_fw.admin
 
 1.  Navigate to **All** &gt; **Process Automation** &gt; **Workflow Studio**.
 2.  In Subflows, select Integration Gateway.
-3.  Create an entry for the above created subflow. For more information, see [Configure Integration Provider Mapping \(Decision table\)](configure-integration-mapping.md).
+3.  Create an entry for the above created subflow. For more information, see [Configure Integration Provider Mapping \(Decision table\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-mapping.md).
 4.  Click **Test**.
 
     1.  In Test Subflow, select User, Feature Name, Service Name, and Payload.

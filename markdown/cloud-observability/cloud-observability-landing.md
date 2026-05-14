@@ -22,7 +22,7 @@ Cloud Observability offers a holistic solution that unifies critical telemetry d
 
 ## Cloud Observability Workflow
 
-![Cloud Observability Workflow diagram](../image/cloud-observability-workflow-v4.png)
+![Cloud Observability Workflow diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-observability/../image/cloud-observability-workflow-v4.png)
 
 ## Important Links
 

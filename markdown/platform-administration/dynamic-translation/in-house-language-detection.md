@@ -17,7 +17,7 @@ The ServiceNow Language Detection Service spoke is an in-house language detectio
 
 The ServiceNow Language Detection Service spoke plugin \(com.glide.language\_detection\_spoke\) is available with the activation of Dynamic Translation plugin \(com.glide.dynamic\_translation\).
 
-This spoke creates an entry named ServiceNow in Dynamic Translation's Translator Configurations \(sn\_dt\_translator\_configuration\) table. By default, this entry is active and marked as default for detection. To configure your own language detection service, see [Integration with other translation services](integration-with-other-translation-services.md).
+This spoke creates an entry named ServiceNow in Dynamic Translation's Translator Configurations \(sn\_dt\_translator\_configuration\) table. By default, this entry is active and marked as default for detection. To configure your own language detection service, see [Integration with other translation services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md).
 
 ## Subscription
 
@@ -49,7 +49,7 @@ Detect Language \[detect\_language\_v3\] or \[detect\_language\_v4\]
 
 </td><td>
 
-Detects the languages of texts using ServiceNow Language Detection Service.The v4 flows for Dynamic Translation are supported from the Xanadu Patch 3 release. For more information, see [Migrate customized Translator Configurations to v4 flows](../task/migrate-v4-dynamic-translation.md).
+Detects the languages of texts using ServiceNow Language Detection Service.The v4 flows for Dynamic Translation are supported from the Xanadu Patch 3 release. For more information, see [Migrate customized Translator Configurations to v4 flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../task/migrate-v4-dynamic-translation.md).
 
 </td></tr></tbody>
 </table>## Spoke action
@@ -74,7 +74,7 @@ Detect Language \[detect\_language\_v3\] or \[detect\_language\_v4\]
 
 </td><td>
 
-Detects the languages of texts using ServiceNow Language Detection Service. The v4 flows for Dynamic Translation are supported from the Xanadu Patch 3 release. For more information, see [Migrate customized Translator Configurations to v4 flows](../task/migrate-v4-dynamic-translation.md).
+Detects the languages of texts using ServiceNow Language Detection Service. The v4 flows for Dynamic Translation are supported from the Xanadu Patch 3 release. For more information, see [Migrate customized Translator Configurations to v4 flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../task/migrate-v4-dynamic-translation.md).
 
 </td></tr></tbody>
 </table>The ServiceNow Language Detection service uses the following Dynamic Translation APIs to detect the language of the input texts:
@@ -82,5 +82,5 @@ Detects the languages of texts using ServiceNow Language Detection Service. The 
 -   getDetectedLanguage: Provides text to identify the languages.
 -   getDetectedLanguages: Provides texts to identify the languages.
 
-For more information, see [DynamicTranslation API](dyn-translation-apis.md).
+For more information, see [DynamicTranslation API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-apis.md).
 

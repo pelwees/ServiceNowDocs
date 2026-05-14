@@ -15,5 +15,5 @@ Early Availability gives you access to learning plans and training courses speci
 
 The Developer Program provides you with the training needed to successfully explore releases at your own pace. Early Availability gives you access to learning plans and training courses specifically for the latest release. Pick from a selection of easy-to-follow training courses or learning plans based on your current knowledge and experience. With either choice, you are guaranteed to build or improve your application development skills on the latest ServiceNow AI Platform®.
 
-**Parent Topic:**[Early Availability guide](early-availability-guide.md)
+**Parent Topic:**[Early Availability guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/early-availability-guide.md)
 

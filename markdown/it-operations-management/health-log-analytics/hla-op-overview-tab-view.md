@@ -24,13 +24,13 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_user, or evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the Service Operations Workspace, select the lists icon \(![Lists icon.](../image/icon-lists-sow.png)\).
+2.  In the Service Operations Workspace, select the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-lists-sow.png)\).
 
 3.  Select the appropriate list in the Alerts sub-list and navigate to the relevant alert or group.
 
-    All Health Log Analytics alerts have the value **Log Analytics** in the **Source** column. The value in the **Group** column identifies the type of Log Analytics alert. See [Types of Health Log Analytics alerts](../reference/hla-op-log-analytics-alert-types.md) for a more detailed description of each type of alert or group.
+    All Health Log Analytics alerts have the value **Log Analytics** in the **Source** column. The value in the **Group** column identifies the type of Log Analytics alert. See [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-op-log-analytics-alert-types.md) for a more detailed description of each type of alert or group.
 
-    **Tip:** To preview an alert in the list, click its info icon \(![Info icon.](../image/icon-info.png)\).
+    **Tip:** To preview an alert in the list, click its info icon \(![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-info.png)\).
 
 4.  Select the alert number.
 
@@ -38,7 +38,7 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_user, or evt\_mgmt\_admin
 
 5.  View the section of the **Overview** tab that provides the information that you need.
 
-    For a description of the sections and cards, see [Sections and cards on the alert Overview tab in Health Log Analytics](../../health-log-analytics-admin/concept/hla-alert-overview-tab.md).
+    For a description of the sections and cards, see [Sections and cards on the alert Overview tab in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../health-log-analytics-admin/concept/hla-alert-overview-tab.md).
 
     **Note:** Because some sections on the **Overview** tab show only a portion of the information, many sections include a link that displays different or more complete information.
 
@@ -53,5 +53,5 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_user, or evt\_mgmt\_admin
     When the action is complete, it appears in the **Completed** card.
 
 
-**Parent Topic:**[ITOM AIOps](../../it-operations-management/reference/itom-health-landing-page.md)
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../it-operations-management/reference/itom-health-landing-page.md)
 

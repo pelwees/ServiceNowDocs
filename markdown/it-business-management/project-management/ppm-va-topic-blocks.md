@@ -29,7 +29,7 @@ To view just the reusable topic functions, access the Topics page in Virtual Age
 **Related topics**  
 
 
-[Install Virtual Agent for PPM](../task/activate-ppm-va.md)
+[Install Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/activate-ppm-va.md)
 
-[Enable Virtual Agent for PPM](../task/setup-ppm-va.md)
+[Enable Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/setup-ppm-va.md)
 

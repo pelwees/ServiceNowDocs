@@ -17,9 +17,9 @@ Use the Contract management view in the Hardware Asset Workspace to view and man
 
 The Contract Management view includes important actions for managing your contract, contract expenditure by type and vendor, and the list of expiring contracts.
 
-![This view includes the contract overview details such as expiring contracts, contract expenditure by type and vendor.](../image/contract-mgmt-view.png "Contract management view")
+![This view includes the contract overview details such as expiring contracts, contract expenditure by type and vendor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/contract-mgmt-view.png "Contract management view")
 
-To create a contract, select **New contract**. For more details, see [Create a contract](../../contract-management/task/t_CreateAContract.md).
+To create a contract, select **New contract**. For more details, see [Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../contract-management/task/t_CreateAContract.md).
 
 **Related topics**  
 

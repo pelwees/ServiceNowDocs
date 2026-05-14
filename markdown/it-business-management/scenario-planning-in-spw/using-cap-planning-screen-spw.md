@@ -17,7 +17,7 @@ View and analyze the resource capacity for your portfolio to plan and re-forecas
 
 ## Before you begin
 
-Generate resource capacity using [manage resource capacity](manage-rsrc-cap-spw.md).
+Generate resource capacity using [manage resource capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-rsrc-cap-spw.md).
 
 Role required: sn\_align\_ws.spw\_capacity\_user
 
@@ -33,13 +33,13 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
     If you select Group, all the available groups from the resource assignments of the prioritized planning items are automatically displayed in the Auto-select option. You can add or remove the suggestions to view the resource capacity using the Manual-select option.
 
-    **Tip:** You can always redefine and change the resource criteria to view custom results using the **Resource criteria** \(![Resource criteria button.](../images/cp-resource-criteria-button.png)\) button.
+    **Tip:** You can always redefine and change the resource criteria to view custom results using the **Resource criteria** \(![Resource criteria button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/cp-resource-criteria-button.png)\) button.
 
-    ![Resource criteria screen in Capacity.](../images/cp-select-resource-criteria.png)
+    ![Resource criteria screen in Capacity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/cp-select-resource-criteria.png)
 
 5.  Select **Submit**.
 
-    ![Capacity screen.](../images/cp-capacity-planning-screen.png)
+    ![Capacity screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/cp-capacity-planning-screen.png)
 
 
 ## Result

@@ -31,12 +31,12 @@ Watch this seven-minute video to learn more about UI customization debugging, va
 
 3.  Review the information in the UI Page Customization Diagnostics window at the bottom of the page.
 
-    To maximize the UI Page Customization Diagnostics window, click ![Icon to maximize the window](../image/MaxUICustWndw.png). The following information is displayed:
+    To maximize the UI Page Customization Diagnostics window, click ![Icon to maximize the window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/MaxUICustWndw.png). The following information is displayed:
 
     -   Name of the current Service Catalog page.
     -   State of the Service Catalog page.
     -   All UI macros applicable for the Service Catalog page.
-    -   State of each UI macro. For details on possible states, click the Help icon \(![Help icon](../image/Help.png)\).
+    -   State of each UI macro. For details on possible states, click the Help icon \(![Help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Help.png)\).
     -   Number of occurrences of each UI macro in the Service Catalog page.
 <table id="table_n2s_cql_xz"><thead><tr><th>
 
@@ -110,12 +110,12 @@ data-sn-macro-sys-id="${jvar_macro_sys_id}"
     -   When you click the Service Catalog page name or the UI macro name, the corresponding UI page or the macro page is displayed.
     -   When you point to a macro in the UI Page Customization Diagnostics window, the corresponding UI elements are displayed with a pink border.
     -   The state-based color indication is applicable only for UI macros that have a visible UI.
-    ![Screenshot for the UI Page Customization Diagnostics window](../image/DebugUICustmWndw.png "UI Page Customization Diagnostics window")
+    ![Screenshot for the UI Page Customization Diagnostics window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/DebugUICustmWndw.png "UI Page Customization Diagnostics window")
 
-4.  To minimize the UI Page Customization Diagnostics window, click ![Icon to minimize the window](../image/MinimizeDebugUI.png).
+4.  To minimize the UI Page Customization Diagnostics window, click ![Icon to minimize the window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/MinimizeDebugUI.png).
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/debugging-service-catalog.md)
 
 **Related topics**  
 

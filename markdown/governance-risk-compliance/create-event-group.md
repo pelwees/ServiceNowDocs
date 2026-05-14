@@ -33,10 +33,10 @@ Classify the events of a similar type into an event group for your scenario. For
 
     The configuration of a sample event group is shown in the following example.
 
-    ![Sample configuration for the GRC Choice New record form.](../image/event-groups.png "Sample configuration for the GRC Choice New record form")
+    ![Sample configuration for the GRC Choice New record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-groups.png "Sample configuration for the GRC Choice New record form")
 
 5.  In the **Order** field, enter the order for the event group and click **Submit**.
 
-    For more information on the fields in the Event group form, see [GRC Choice New record form](../reference/event-group-reference.md).
+    For more information on the fields in the Event group form, see [GRC Choice New record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/event-group-reference.md).
 
 

@@ -139,5 +139,5 @@ Maximum number of CIs that CI Lifecycle Management can process in a bulk update 
 -   Location: System Property \[sys\_properties\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+</table>**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-ci-lifecycle-mgmt.md)
 

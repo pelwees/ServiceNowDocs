@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 
 All Financial Service Loan Operations applications are built on top of Customer Service Management \(CSM\) and use many CSM tables. The key reference tables are the customer tables, such as Consumer, Account, and Contact. These tables are domain-separated.
 
-**Parent Topic:**[Financial Services Loan Operations reference](loan-operations-reference.md)
+**Parent Topic:**[Financial Services Loan Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/loan-operations-reference.md)
 
 **Related topics**  
 

@@ -19,7 +19,7 @@ Role required: sn\_model\_risk\_mgmt.model\_governance or sn\_model\_risk\_mgmt.
 
 ## About this task
 
-You can schedule assessment and validation tasks for a model risk in the Monitor stage. You can also configure the conditions and frequency for these tasks in the model workflow settings. Based on the configuration, the assessment and validation tasks are created automatically. For more information, refer to [Configure Model Workflow Settings](create-model-workflow-settings.md).
+You can schedule assessment and validation tasks for a model risk in the Monitor stage. You can also configure the conditions and frequency for these tasks in the model workflow settings. Based on the configuration, the assessment and validation tasks are created automatically. For more information, refer to [Configure Model Workflow Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-model-workflow-settings.md).
 
 This task guides you on how to schedule assessment and validation tasks manually from the model risk record.
 
@@ -33,7 +33,7 @@ This task guides you on how to schedule assessment and validation tasks manually
 
 4.  Select the model record to schedule assessment and validation tasks.
 
-5.  Select **Edit schedule** on the Assessment schedule or Validation schedule card.![Edit schedule button on the assessment and validation task cards.](../image/schedule-tasks.png)
+5.  Select **Edit schedule** on the Assessment schedule or Validation schedule card.![Edit schedule button on the assessment and validation task cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/schedule-tasks.png)
 
 6.  On the Edit assessment schedule dialog, fill in the fields.
 
@@ -193,8 +193,8 @@ Time unit for the custom interval. The options are as follows:-   **Days**
 This field appears only when **Custom** is selected from **Frequency** field.
 
 </td></tr></tbody>
-</table>8.  To use the frequency defined in the Model workflow settings, select **Revert to default frequency**.![Revert to default frequency button.](../image/revert-to-default-frequency.png)
+</table>8.  To use the frequency defined in the Model workflow settings, select **Revert to default frequency**.![Revert to default frequency button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/revert-to-default-frequency.png)
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-mrm.md)
 

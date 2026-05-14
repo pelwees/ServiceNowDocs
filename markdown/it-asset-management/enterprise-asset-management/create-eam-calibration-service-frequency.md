@@ -23,7 +23,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 You can specify the calibrations that are required for your enterprise assets by using calibration attributes. When you create a calibration attribute, you must specify the frequency at which you need to perform the associated calibrations.
 
-For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](add-calibration-attributes-enterprise-model.md).
+For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 The service frequency is available to use in your calibration attributes.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-assets.md)
 

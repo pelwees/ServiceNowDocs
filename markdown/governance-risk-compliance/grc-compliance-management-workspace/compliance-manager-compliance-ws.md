@@ -32,7 +32,7 @@ The compliance manager must
 
 To fulfil the above responsibilities, a compliance manager has certain daily and weekly functional tasks that can be performed in the compliance workspace.
 
-![Compliance manager workspace.](../image/ComplianceManagerWSHomePage.png "Compliance manager workspace")
+![Compliance manager workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/ComplianceManagerWSHomePage.png "Compliance manager workspace")
 
 -   Use the Overview section to review the authority documents, policies, and entities and know their compliant status. Get the list of least compliant authority documents, policies, and entities, and their compliance score.
 -   Review compliance tasks such as controls, control attestations, indicator tasks, ongoing and overdue control test count in the control assurance section.

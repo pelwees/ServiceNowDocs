@@ -128,7 +128,7 @@ Each connector definition is specific to an event source vendor. The connector d
 
     The **Javascript to run** field is automatically populated with the name of the JavaScript template file.
 
-11. To edit the default JavaScript file, click the information icon \(![Information icon](../image/information_icon.png)\) to the right of the JavaScript file name and follow these steps:
+11. To edit the default JavaScript file, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/information_icon.png)\) to the right of the JavaScript file name and follow these steps:
 
     1.  Specify the information required for the **testConnection** function.
 
@@ -214,5 +214,5 @@ The MID Server name to process events from the event server. If not specified, a
 </table>14. Click **Submit**.
 
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/connectors-and-listeners.md)
 

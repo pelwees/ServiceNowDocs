@@ -17,9 +17,9 @@ You can set up service channels, queues, and key performance indicators \(KPIs\)
 
 With Workforce Optimization for Customer Service, you, as a channel administrator, can set up service channels and work item queues so that managers can view the real-time operational metrics for the work that is being done by their teams and the specific items that their teams are working on. You can also configure real-time refresh intervals for the metrics and lists so that managers can always see the latest information about their teams.
 
-Configure filters to refine the search and view targeted results. Filters are persisted across all channel management pages in the session. To view a list of the default interactive filters and the KPI reports for channels, queues, agents, and groups that you can map to the interactive filters, see [Interactive Filters](../reference/components-installed-configurable-wfo-cs.md) under the Channel Management section. By default, the assignment group filter is applied to all lists and groups that you manage. You can disable interactive filters by using the **sn\_channel\_mgmt.filter\_config.enable** property.
+Configure filters to refine the search and view targeted results. Filters are persisted across all channel management pages in the session. To view a list of the default interactive filters and the KPI reports for channels, queues, agents, and groups that you can map to the interactive filters, see [Interactive Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) under the Channel Management section. By default, the assignment group filter is applied to all lists and groups that you manage. You can disable interactive filters by using the **sn\_channel\_mgmt.filter\_config.enable** property.
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-configurable-wfo-cs.md)
 
 ## Add service channels and queues
 
@@ -103,8 +103,8 @@ Groups
 
 </td><td>
 
-Groups that are eligible for assignment. -   Click the lock \(![Lock icon.](../image/lock-new.png)\) icon to unlock it and select the agent groups in the eligible assignment pool.
--   Click the \(![Lock icon.](../image/lock-new.png)\) icon to lock it.
+Groups that are eligible for assignment. -   Click the lock \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/lock-new.png)\) icon to unlock it and select the agent groups in the eligible assignment pool.
+-   Click the \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/lock-new.png)\) icon to lock it.
 
 
 </td></tr></tbody>
@@ -125,7 +125,7 @@ Role required: sn\_channel\_mgmt.admin
 
 ### About this task
 
-Add the [channel Management reports](../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service or create a new KPI report that matters the most to you. Key performance indicators help managers perform the following actions:
+Add the [channel Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service or create a new KPI report that matters the most to you. Key performance indicators help managers perform the following actions:
 
 -   Review real-time performance as the team is actively working on tasks across channels and queues.​
 -   Track progress against KPIs and drill down into agents, team, and individual performance.​
@@ -133,7 +133,7 @@ Add the [channel Management reports](../reference/components-installed-configura
 -   Jump in and support agents for help-requested work items using chat whisper or add work notes to a task.​
 -   Refine data in the dashboard using the Assignment Group interactive filter without modifying the reports. For more information, see [Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/c_HomepagePublishers.md).
 
-The KPI scores are automatically refreshed at an interval of five seconds. However, you can modify the refresh interval by adding the **sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds** [property](../reference/components-installed-configurable-wfo-cs.md) or choose to not automatically refresh using the **sn\_channel\_mgmt.channels\_card\_auto\_refresh.enable** [property](../reference/components-installed-configurable-wfo-cs.md). Also, the service channel cards refreshes automatically in 2 minutes as configured in the **sn\_channel\_mgmt.channel\_card\_auto\_refresh.interval.seconds** [system property](../reference/components-installed-configurable-wfo-cs.md) or you can manually refresh by clicking the Refresh \(![Refresh overview data icon](../image/refresh-sync-new.png)\) icon.
+The KPI scores are automatically refreshed at an interval of five seconds. However, you can modify the refresh interval by adding the **sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds** [property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) or choose to not automatically refresh using the **sn\_channel\_mgmt.channels\_card\_auto\_refresh.enable** [property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md). Also, the service channel cards refreshes automatically in 2 minutes as configured in the **sn\_channel\_mgmt.channel\_card\_auto\_refresh.interval.seconds** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) or you can manually refresh by clicking the Refresh \(![Refresh overview data icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/refresh-sync-new.png)\) icon.
 
 ​
 
@@ -147,7 +147,7 @@ The KPI scores are automatically refreshed at an interval of five seconds. Howev
 
     **Note:** You must [add the Reports related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) if you do not see the **Reports** tab.
 
-4.  Select and add the [Channel Management reports](../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
+4.  Select and add the [Channel Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
 
     **Note:** Review the report's definition and add the corresponding filters that are applicable to the service channel that matters the most to you.
 
@@ -235,7 +235,7 @@ Do This
 
     **Note:** You must [add the Reports related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) if you do not see the **Reports** tab.
 
-3.  Add the [Channel Management reports](../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
+3.  Add the [Channel Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
 
     **Note:** Review the report's definition and add the corresponding filters applicable to the service channel that matter the most to you.
 
@@ -272,7 +272,7 @@ Do This
 
 ### Result
 
-The key performance indicators are added to the queue and appear in the **All Queues** tab in the Channels page. By default, the KPI scores are automatically refreshed at an interval of five seconds. However, you can modify the refresh interval by adding the [sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds](../reference/components-installed-configurable-wfo-cs.md) property.
+The key performance indicators are added to the queue and appear in the **All Queues** tab in the Channels page. By default, the KPI scores are automatically refreshed at an interval of five seconds. However, you can modify the refresh interval by adding the [sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) property.
 
 ## Configure KPIs for agents
 
@@ -289,7 +289,7 @@ Add key performance indicators to channels to help managers perform the followin
 -   Review real-time performance of agents who are actively working on tasks across channels and queues.​
 -   Track progress against KPIs and drill down into agents and individual performance.​
 
-The KPI scores are automatically refreshed at an interval of 30 seconds. However, you can modify the refresh interval by adding the **sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds** [property](../reference/components-installed-configurable-wfo-cs.md). Also, the service channel cards refreshes automatically in 2 minutes as configured in the **sn\_channel\_mgmt.channel\_card\_auto\_refresh.interval.seconds** [system property](../reference/components-installed-configurable-wfo-cs.md) or you can manually refresh by clicking the Refresh \(![Refresh overview data icon](../image/refresh-sync-new.png)\) icon.
+The KPI scores are automatically refreshed at an interval of 30 seconds. However, you can modify the refresh interval by adding the **sn\_channel\_mgmt.kpi\_auto\_refresh.interval.seconds** [property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md). Also, the service channel cards refreshes automatically in 2 minutes as configured in the **sn\_channel\_mgmt.channel\_card\_auto\_refresh.interval.seconds** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) or you can manually refresh by clicking the Refresh \(![Refresh overview data icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/refresh-sync-new.png)\) icon.
 
 ​
 
@@ -301,7 +301,7 @@ The KPI scores are automatically refreshed at an interval of 30 seconds. However
 
 3.  Click the Agents Reports related list.
 
-4.  Add the [Reports for Agents in Channel Management](../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
+4.  Add the [Reports for Agents in Channel Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) that are by default configured with Workforce Optimization for Customer Service.
 
     **Note:** Review the report's definition and add the corresponding filters that are applicable to the service channel that matters the most to you.
 
@@ -340,7 +340,7 @@ The KPI scores are automatically refreshed at an interval of 30 seconds. However
 
 ### Result
 
-The KPIs that are configured in the service channel appear in the Current Work section of the agent's Overview page. For more information, see [Track and analyze agents' performance](use-channels-configurable-wfo-cs.md#).
+The KPIs that are configured in the service channel appear in the Current Work section of the agent's Overview page. For more information, see [Track and analyze agents' performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-channels-configurable-wfo-cs.md#).
 
 ## Configure supervisor lists for service channels
 
@@ -366,7 +366,7 @@ A database view that defines table joins is used for generating reports for a su
 
     **Note:** You must [add the Reports related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) if you do not see the **Supervisor Lists** tab.
 
-4.  Click **New**.![Service channel chat displaying supervisor lists. For information about the supervisor lists components, refer to the Supervisor Lists form table.](../image/supervisor-lists.png)
+4.  Click **New**.![Service channel chat displaying supervisor lists. For information about the supervisor lists components, refer to the Supervisor Lists form table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/supervisor-lists.png)
 
 5.  On the form, fill in the fields.
 
@@ -424,7 +424,7 @@ Number that displays the order.**Note:** The first three lists with the lowest o
 
 ### Result
 
-The supervisor list is added to the service channels and appears in Channel Management. ![Active Work Items page displaying the supervisor lists in a Chat channel.](../image/lists-chat.png)
+The supervisor list is added to the service channels and appears in Channel Management. ![Active Work Items page displaying the supervisor lists in a Chat channel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/lists-chat.png)
 
 ## Use extension points to configure the sort order
 
@@ -450,7 +450,7 @@ Use the **sn\_channel\_mgmt.ChannelMgmtExtensionPoint** extension point and crea
 
 5.  Add or modify the columns and sort directions in the `vardata` section.
 
-    ![Scripted extension point with the vardata section empty.](../image/extension_script.jpg)
+    ![Scripted extension point with the vardata section empty.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/extension_script.jpg)
 
 6.  Click **Update**.
 
@@ -461,7 +461,7 @@ The sorting mechanism is applied to the defined columns in the All Queues and Al
 
 ### Example
 
-The Presence State column with **ASC** as a sort direction in the extension script displays the Presence State records in an ascending order in the All Agents list. For more information, see [Track and analyze agents' performance](use-channels-configurable-wfo-cs.md#).
+The Presence State column with **ASC** as a sort direction in the extension script displays the Presence State records in an ascending order in the All Agents list. For more information, see [Track and analyze agents' performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-channels-configurable-wfo-cs.md#).
 
 ## Configure columns in the All agents list
 
@@ -487,7 +487,7 @@ Use the **sn\_channel\_mgmt.AgentListColumns** extension point to modify the cur
 
 5.  Add or modify the columns in the `getColumns` section.
 
-    ![Scripted extension point to configure the columns in the All agents list.](../image/configure_columns_allagents.png)
+    ![Scripted extension point to configure the columns in the All agents list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/configure_columns_allagents.png)
 
 6.  Click **Update**.
 
@@ -516,7 +516,7 @@ Use the **sn\_channel\_mgmt.QueueListColumns** extension point to modify the cur
 
 5.  Add or modify the columns in the `getColumns` section.
 
-    ![Scripted extension point to configure columns in the All queues list.](../image/configure_columns_allqueues.png)
+    ![Scripted extension point to configure columns in the All queues list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/configure_columns_allqueues.png)
 
 6.  Click **Update**.
 

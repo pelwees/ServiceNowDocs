@@ -15,8 +15,8 @@ Configure Core Business Suite using a conversational interface provided by Now A
 
 For information on configuring the product modules in Now Assist, see [Configure in Now Assist for Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md).
 
--   **[Now Assist for Core Business Suite](now-assist-cbs.md)**  
+-   **[Now Assist for Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/now-assist-cbs.md)**  
 Now Assist for Core Business Suite supports administrators during Core Business Suite configuration through a guided conversational experience. It can help drive setup completion by displaying next actions, tracking configuration progress, and assisting with error resolution from a single chat interface.
 
-**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 

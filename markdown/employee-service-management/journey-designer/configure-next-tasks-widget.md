@@ -35,5 +35,5 @@ Role required: admin
     **Note:** Here the number of tasks limit is set to 10, you can update it to any number you'd like.
 
 
-**Parent Topic:**[Employees view and complete journeys](jny-dsgnr-employee-journey-tasks.md)
+**Parent Topic:**[Employees view and complete journeys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-employee-journey-tasks.md)
 

@@ -72,5 +72,5 @@ When you have closed the task, the Contract Renewal Request Line processing is c
 
 ## What to do next
 
-[Approve or reject a contract renewal request](approve-cont-renew.md)
+[Approve or reject a contract renewal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/approve-cont-renew.md)
 

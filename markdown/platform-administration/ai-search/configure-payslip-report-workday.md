@@ -18,7 +18,7 @@ Configure a custom report for payroll data in Workday. The Workday external cont
 
 ## Before you begin
 
-A Workday admin must have already an integration system user and an unconstrained integration system security group in your Workday tenant. For details on this preliminary task, see [Configure Workday security settings](configure-workday-security-settings.md).
+A Workday admin must have already an integration system user and an unconstrained integration system security group in your Workday tenant. For details on this preliminary task, see [Configure Workday security settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-security-settings.md).
 
 You need an account with the following privileges in your organization's Workday tenant:
 
@@ -90,7 +90,7 @@ This task is optional. The Workday external content connector can retrieve paysl
 
     2.  On the Transfer Ownership of Custom Reports page, in the New Owner field, enter or select the **ISU SNOW ACL** integration system user account.
 
-        **Important:** If you don't see this integration system user account in the system, check that a Workday admin has completed the [Configure Workday security settings](configure-workday-security-settings.md) preliminary task.
+        **Important:** If you don't see this integration system user account in the system, check that a Workday admin has completed the [Configure Workday security settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-security-settings.md) preliminary task.
 
     3.  Select **OK**.
 
@@ -154,13 +154,13 @@ This task is optional. The Workday external content connector can retrieve paysl
 
 Provide the following items to the connector admin who creates your Workday external content connectors:
 
--   The base URL for your Workday tenant that you copied in step [10.a](configure-payslip-report-workday.md#copy-base-url-step).
--   The Workday tenant name that you copied in step [10.b](configure-payslip-report-workday.md#copy-tenant-name-step).
--   The custom payslip report owner's user name that you copied in step [10.c](configure-payslip-report-workday.md#copy-report-owner-user-name-step).
--   The custom payslip report's name alias that you copied in step [10.d](configure-payslip-report-workday.md#copy-report-name-alias-step).
--   The period date indicator WID \(Workday ID\) that you copied in step [10.e](configure-payslip-report-workday.md#copy-period-indicator-wid-step).
+-   The base URL for your Workday tenant that you copied in step [10.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md#copy-base-url-step).
+-   The Workday tenant name that you copied in step [10.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md#copy-tenant-name-step).
+-   The custom payslip report owner's user name that you copied in step [10.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md#copy-report-owner-user-name-step).
+-   The custom payslip report's name alias that you copied in step [10.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md#copy-report-name-alias-step).
+-   The period date indicator WID \(Workday ID\) that you copied in step [10.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md#copy-period-indicator-wid-step).
 
 Your connector admin needs these items to configure a Workday external content connector to retrieve searchable content and metadata from payroll information in your Workday source system.
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

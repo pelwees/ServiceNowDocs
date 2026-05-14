@@ -21,13 +21,13 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  Open the `Azure-Credentials.txt` text file that you created during the [Create a Microsoft Azure service principal](azure-create-serv-princ-cloud-mgt-1.md) procedure.
+1.  Open the `Azure-Credentials.txt` text file that you created during the [Create a Microsoft Azure service principal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-serv-princ-cloud-mgt-1.md) procedure.
 
 2.  Navigate to **Cloud Admin Portal** &gt; **Manage** &gt; **Service Accounts**.
 
 3.  Click **New**, enter a unique and meaningful **Name**, and then fill in the form.
 
-    ![Paste the Azure Subscription ID value that you copied from the Azure Portal into the text file.](../image/azure-copy-to-service-account.png)
+    ![Paste the Azure Subscription ID value that you copied from the Azure Portal into the text file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/azure-copy-to-service-account.png)
 
 <table id="table_gs3_bdy_my"><thead><tr><th>
 
@@ -45,7 +45,7 @@ Description
 
 The Azure **Subscription ID** value that you copied from the Azure Portal into the text file.
 
- See [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md) to learn Management Groups subscription IDs.
+ See [Discovery for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/concept/azure-cloud-discovery.md) to learn Management Groups subscription IDs.
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ The Azure **Subscription ID** value that you copied from the Azure Portal into t
 
 </td><td>
 
-Name of the credentials that you created in the [Store the Azure service principal credentials in the instance](azure-create-creds-cloud-mgt-1.md) procedure. In the example, you used the name `Azure service principal credentials`.
+Name of the credentials that you created in the [Store the Azure service principal credentials in the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-creds-cloud-mgt-1.md) procedure. In the example, you used the name `Azure service principal credentials`.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Auto-generated value: Status and timestamp of the last execution of Discovery on
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](../../it-operations-management/concept/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../it-operations-management/concept/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table>4.  Click **Update** or **Submit**.
@@ -106,5 +106,5 @@ If you are on a domain separated instance, only those events that are updated to
 **Related topics**  
 
 
-[Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+[Discovery for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/concept/azure-cloud-discovery.md)
 

@@ -19,19 +19,19 @@ The ServiceNow® Legal Hold Notification application helps organizations manage 
 
 <table id="table_t5z_g54_4fc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the workflow, user roles, features, and key benefits of Legal Hold Notification.](exp-lg-hold-notif.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the workflow, user roles, features, and key benefits of Legal Hold Notification.](exp-lg-hold-notif.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Legal Hold Notification to efficiently manage the end-to-end legal hold process.](config-lg-hold-notif.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Legal Hold Notification to efficiently manage the end-to-end legal hold process.](config-lg-hold-notif.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-project-manager.svg)Use the Legal Hold Notification to manage legal obligations by creating, issuing, and closing legal hold matters.](use-lg-hold-notif.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../../reuse/icons/brand-icons/bus-project-manager.svg)Use the Legal Hold Notification to manage legal obligations by creating, issuing, and closing legal hold matters.](use-lg-hold-notif.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Legal Hold Notification components such as tables and other elements.](lg-hold-notif-ref.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Legal Hold Notification components such as tables and other elements.](lg-hold-notif-ref.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

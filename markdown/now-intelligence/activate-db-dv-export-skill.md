@@ -31,7 +31,7 @@ Role required: admin
 
 3.  In Now Assist skills for Analytics, search for the dashboard and visualization export skill.
 
-    ![Now Assist Skills tab of Now Assist Admin console, showing the dashboard and visualization export skill under Platform.](../image/nowass-db-dv-export-skill.png)
+    ![Now Assist Skills tab of Now Assist Admin console, showing the dashboard and visualization export skill under Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-db-dv-export-skill.png)
 
 4.  Select **Turn on** or **Deactivate skill**.
 
@@ -40,5 +40,5 @@ Role required: admin
 
 If the skill was successfully activated or deactivated, the system notifies you.
 
-**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](../concept/configuring-now-ass-skills-pa.md)
+**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configuring-now-ass-skills-pa.md)
 

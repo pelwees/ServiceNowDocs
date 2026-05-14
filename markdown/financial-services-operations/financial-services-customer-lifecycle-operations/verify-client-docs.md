@@ -41,5 +41,5 @@ The Document Verification stage shows as complete, and the case automatically ad
 
 ## What to do next
 
-Continue to the [Due Diligence](perform-due-diligence.md) stage.
+Continue to the [Due Diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/perform-due-diligence.md) stage.
 

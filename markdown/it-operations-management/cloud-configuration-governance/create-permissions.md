@@ -26,18 +26,18 @@ Assign a permission to refine the actions that are allowed or prohibited for use
 
 2.  Fill out the form fields \(see table\).
 
-    ![Read permissions on cloud accounts](../image/permission-form.png "Read permissions on cloud accounts")
+    ![Read permissions on cloud accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/permission-form.png "Read permissions on cloud accounts")
 
     |Field|Description|
     |-----|-----------|
     |Target type|Select the cloud table in which the target record belongs.|
     |All Entities|Select this option to apply the permission to all records in the table.|
-    |Permission|Select the [permission type](../concept/cloud-permissions.md#default-permission).|
+    |Permission|Select the [permission type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-permissions.md#default-permission).|
     |Target Entity|Select the record that the permission is based upon.|
     |Group|Select the user group.|
 
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Permissions management for Cloud Governance roles](../concept/cloud-permissions.md)
+**Parent Topic:**[Permissions management for Cloud Governance roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-permissions.md)
 

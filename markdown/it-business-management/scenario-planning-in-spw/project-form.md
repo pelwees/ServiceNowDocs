@@ -299,7 +299,7 @@ Business capabilities of this planning item.
 **Related topics**  
 
 
-[Create planning items from the roadmap view](../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
+[Create planning items from the roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
 
-[Add planning items to Prioritization](../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
+[Add planning items to Prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
 

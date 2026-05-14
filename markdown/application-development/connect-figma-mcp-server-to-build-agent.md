@@ -24,21 +24,21 @@ Connecting the Figma MCP server to the Build Agent enables the Build Agent to ac
 
 Visit the Figma Developer Portal to connect the Figma MCP server to the Build Agent. Create an OAuth app to obtain your Client ID and Client Secret. Then, configure the ServiceNow IDE to handle the OAuth process using the credentials.
 
--   For more information on Build Agent and the Figma MCP server, see [MCP connections and Build Agent](../concept/accelerate-design-to-development-with-figma-mcp-server.md).
--   For details on connecting to other supported MCP servers, see [Connect Build Agent to a supported MCP server](ba-connct-mcp-server.md).
+-   For more information on Build Agent and the Figma MCP server, see [MCP connections and Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/accelerate-design-to-development-with-figma-mcp-server.md).
+-   For details on connecting to other supported MCP servers, see [Connect Build Agent to a supported MCP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ba-connct-mcp-server.md).
 
 ## Procedure
 
-1.  [Configure an OAuth app in Figma](connect-figma-mcp-server-to-build-agent.md#)
+1.  [Configure an OAuth app in Figma](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/connect-figma-mcp-server-to-build-agent.md#)
 
-2.  [Configure OAuth provider in ServiceNow IDE](connect-figma-mcp-server-to-build-agent.md#)
+2.  [Configure OAuth provider in ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/connect-figma-mcp-server-to-build-agent.md#)
 
-3.  [Connect Figma MCP server to Build Agent](connect-figma-mcp-server-to-build-agent.md#)
+3.  [Connect Figma MCP server to Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/connect-figma-mcp-server-to-build-agent.md#)
 
-    ![Flowchart showing the build agent process from Figma to application generation. For detailed process steps, refer to the surrounding text.](../image/build-agent-process-flow.png "Application generation workflow using Figma and Build Agent")
+    ![Flowchart showing the build agent process from Figma to application generation. For detailed process steps, refer to the surrounding text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-process-flow.png "Application generation workflow using Figma and Build Agent")
 
 
-**Parent Topic:**[Configure Build Agent](configure-build-agent.md)
+**Parent Topic:**[Configure Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/configure-build-agent.md)
 
 ## Configure an OAuth app in Figma
 
@@ -168,12 +168,12 @@ Role required: admin
 
 12. Select **Update**.
 
-    ![The configuration tab for OAuth entity scopes shows the "Name" and "OAuth Scope" fields, an example "Figma MCP Connect: mcp:connect," and options to add, update, or delete scopes.](../image/build-agent-mcp-oauth-entity-scope.png)
+    ![The configuration tab for OAuth entity scopes shows the "Name" and "OAuth Scope" fields, an example "Figma MCP Connect: mcp:connect," and options to add, update, or delete scopes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-mcp-oauth-entity-scope.png)
 
 13. Step 3: Configure the OAuth entity profile.
 14. On the same Application Registry record, select the **OAuth Entity Profiles** tab.
 
-    ![In the OAuth Entity Profiles tab, existing profiles like the "Figma OAuth Provider" with the Authorization Code grant type are shown, along with options to update, delete, or add profiles.](../image/build-agent-mcp-oauth-entity-profiles.png)
+    ![In the OAuth Entity Profiles tab, existing profiles like the "Figma OAuth Provider" with the Authorization Code grant type are shown, along with options to update, delete, or add profiles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-mcp-oauth-entity-profiles.png)
 
     You see an automatically created default profile.
 
@@ -185,7 +185,7 @@ Role required: admin
 
 18. Search for **Figma MCP Connect** and select it.
 
-    ![On the configuration page for the Figma OAuth Provider profile, the OAuth entity scope "Figma" connects with the "Figma OAuth Provider default_profile" through the Authorization Code grant type.](../image/build-agent-mcp-figma-mcp-connect.png)
+    ![On the configuration page for the Figma OAuth Provider profile, the OAuth entity scope "Figma" connects with the "Figma OAuth Provider default_profile" through the Authorization Code grant type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-mcp-figma-mcp-connect.png)
 
 19. Select **Save**.
 
@@ -214,11 +214,11 @@ With the OAuth connection set up between your ServiceNow instance and Figma, you
 
     **Tip:** On the ServiceNow IDE, go to **All** &gt; **System OAuth** &gt; **Application Registry** to verify if the OAuth app is created and configured on Figma.
 
-    For configuration steps, see [Configure an OAuth app in Figma](connect-figma-mcp-server-to-build-agent.md#) and [Configure OAuth provider in ServiceNow IDE](connect-figma-mcp-server-to-build-agent.md#).
+    For configuration steps, see [Configure an OAuth app in Figma](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/connect-figma-mcp-server-to-build-agent.md#) and [Configure OAuth provider in ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/connect-figma-mcp-server-to-build-agent.md#).
 
 2.  Enable the Figma MCP server on ServiceNow IDE:
 
-    1.  On ServiceNow IDE, select the gear icon ![Gear icon](../../../reuse/icons/product-icons/gear-outline-24.svg) at the bottom-left corner and then select **Settings**.
+    1.  On ServiceNow IDE, select the gear icon ![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/product-icons/gear-outline-24.svg) at the bottom-left corner and then select **Settings**.
 
     2.  Search for Build Agent.
 
@@ -228,7 +228,7 @@ With the OAuth connection set up between your ServiceNow instance and Figma, you
 
 3.  Open the Build Agent chat panel.
 
-4.  Locate the MCP icon ![MCP icon](../image/build-agent-mcp-icon.png) at the top-right of the chat panel and select it to open the MCP server page.
+4.  Locate the MCP icon ![MCP icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-mcp-icon.png) at the top-right of the chat panel and select it to open the MCP server page.
 
 5.  Select **Connect** to trigger the OAuth authentication flow that you configured.
 
@@ -275,7 +275,7 @@ Perform the following the steps to fix the issue:
 
 1.  Navigate to the **Ide Git Credential** table in the ServiceNow IDE and find the relevant token. In the Active column, switch the value from `true` to `false` for that token.
 2.  Go back to the Build Agent chat panel.
-3.  Locate the MCP icon ![MCP icon](../image/build-agent-mcp-icon.png) at the top-right of the chat panel and select it to open the MCP server page.
+3.  Locate the MCP icon ![MCP icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-mcp-icon.png) at the top-right of the chat panel and select it to open the MCP server page.
 4.  Select **Connect** to trigger the OAuth authentication flow.
 
 </td></tr></tbody>

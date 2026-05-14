@@ -29,26 +29,26 @@ The images in the following section are used by permission and are PRIVILEGED an
 
 1.  If you have not configured the EDL to the firewall, navigate to **External Dynamic Lists** &gt; **Objects** in Palo Alto Networks.
 
-    ![Task: Navigate to the Objects tab to view EDLs.](../image/4-30-pa-3-cropped.png)
+    ![Task: Navigate to the Objects tab to view EDLs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-pa-3-cropped.png)
 
 2.  In the **Name** column, select the ServiceNow EDL you want to configure from the list, for example, **ServiceNow EDL for URL**.
 
-    ![Task: Select the EDL in the Name column.](../image/4-30-pa-3-box.png)
+    ![Task: Select the EDL in the Name column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-pa-3-box.png)
 
 3.  In the External Dynamic Lists dialog box, enter the Username and Password to authenticate with the ServiceNow AI Platform®.
 
     These credentials are the Username and Password you created for the API account role \(sn\_sec\_panfw.api\_account\_access\) in your ServiceNow instance.
 
-    ![Task: Enter Username and Password for the ServiceNow AI Platform API account.](../image/paloalto-acct.png)
+    ![Task: Enter Username and Password for the ServiceNow AI Platform API account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/paloalto-acct.png)
 
 4.  In the Source field, enter the URL that was generated on the EDL list in your ServiceNow instance.
 
-    ![Task: Copy the Retrieval URL in the Source field.](../image/4-30-pa-1-dialog-5-7.png)
+    ![Task: Copy the Retrieval URL in the Source field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-pa-1-dialog-5-7.png)
 
 5.  Select a Certificate Profile from the choice list, `SN2`, for example.
 
 6.  Click OK.
 
 
-**Parent Topic:**[Activate an EDL manually](paloalto_activate_edl_manually.md)
+**Parent Topic:**[Activate an EDL manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_activate_edl_manually.md)
 

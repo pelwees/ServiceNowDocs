@@ -40,5 +40,5 @@ Role required: catalog\_builder\_editor
 7.  After you’ve completed your edits, publish the catalog item.
 
 
-**Parent Topic:**[Using Now Assist conversation to create and edit catalog items](use-now-assist-conversation-to-create-and-edit-catalog-items.md)
+**Parent Topic:**[Using Now Assist conversation to create and edit catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/use-now-assist-conversation-to-create-and-edit-catalog-items.md)
 

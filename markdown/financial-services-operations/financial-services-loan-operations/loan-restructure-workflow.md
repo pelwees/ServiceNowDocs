@@ -19,7 +19,7 @@ A loan restructuring is an action to prevent a loan from being classified as non
 
 The following diagram shows how the application helps bank agents handle a loan restructure.
 
-![Workflow that shows how a loan restructure is handled using the Loan Operations application.](../image/loan-restructure-workflow.png "Loan Restructure workflow")
+![Workflow that shows how a loan restructure is handled using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/loan-restructure-workflow.png "Loan Restructure workflow")
 
 The following workflow routes the case and tasks for a Loan Restructure to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

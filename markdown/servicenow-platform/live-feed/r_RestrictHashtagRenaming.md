@@ -20,5 +20,5 @@ You restrict hashtag rename by modifying the following access control rule:
 -   **Table**: Live Tag \[live\_tag\]
 -   **Operation**: write
 
-**Parent Topic:**[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
+**Parent Topic:**[Live Feed security and table access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedTableAccessRules.md)
 

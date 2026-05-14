@@ -35,13 +35,13 @@ In this example procedure, you've already created a model that's titled NLU for 
 
 3.  On the far right column of the model list, select the **More options** menu for the model you want to duplicate.
 
-    ![More options menu with Duplicate this model selected.](../images/clone-nlu-modelT1.png)
+    ![More options menu with Duplicate this model selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/clone-nlu-modelT1.png)
 
 4.  Select **Duplicate this model**.
 
 5.  In the **Duplicate this Model** window, enter a name and description for the new model.
 
-    ![Duplicate this Model window.](../images/clone-nlu-modelT2.png)
+    ![Duplicate this Model window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/clone-nlu-modelT2.png)
 
     In this example scenario, you enter `NLU for Access Requests Copy1` for the description.
 
@@ -52,9 +52,9 @@ In this example procedure, you've already created a model that's titled NLU for 
 
 ## What to do next
 
-You can customize the new model by adding new content to it. Train, test, and publish the new model. For more information, see [Build and train your model](../concept/managing-model-content.md).
+You can customize the new model by adding new content to it. Train, test, and publish the new model. For more information, see [Build and train your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/managing-model-content.md).
 
-To duplicate an entire model group, or one of the models in a group, see [Multilingual model management](../concept/multilingual-model-managent.md).
+To duplicate an entire model group, or one of the models in a group, see [Multilingual model management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/multilingual-model-managent.md).
 
-To transfer a model to a different instance, see [Add an NLU model to an update set](add-model-update-set.md).
+To transfer a model to a different instance, see [Add an NLU model to an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/add-model-update-set.md).
 

@@ -17,5 +17,5 @@ KPI Signals is activated by default. If you do not want this feature, request a 
 
 **Important:** If you reactivate KPI Signals, signal detection resumes from the time you originally deactivated the feature, not from the time you reactivated it.
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 

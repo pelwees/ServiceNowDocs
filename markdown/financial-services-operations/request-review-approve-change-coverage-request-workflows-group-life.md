@@ -15,7 +15,7 @@ Learn how agents, using the change member info workflows, resolve service reques
 
 The following diagram shows how the application helps agents resolve a change policy membership request.
 
-![Workflow that shows how a change membership request for a policy is resolved using the Group Life Servicing application. For the text description, refer to the workflow steps that follow.](../image/change-membership-workflow.png "Group Life Servicing - Change membership workflow example")
+![Workflow that shows how a change membership request for a policy is resolved using the Group Life Servicing application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/change-membership-workflow.png "Group Life Servicing - Change membership workflow example")
 
 The insurance policy admin can review and customize this predefined flow based on the business needs of your organization.
 

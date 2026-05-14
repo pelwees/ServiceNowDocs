@@ -36,5 +36,5 @@ The search results are sorted according to **Relevance** by default.
 4.  To display the results in ascending order, click **Newest**.
 
 
-**Parent Topic:**[Search the community](search.md)
+**Parent Topic:**[Search the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/search.md)
 

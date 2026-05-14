@@ -75,7 +75,7 @@ Define a script include with the overridable methods of the IBQConfigBase API.
 
 You can use the IBQConfigBase API to create an order from a quote using inbound request configuration metadata. IBQConfigQuoteToOrderFlow is a custom script include that can be created by extending the IBQConfigBase API. The logic for the overridable methods must be added in the IBQConfigQuoteToOrderFlow script include.
 
-**Note:** This script include extends the IBQConfigBase API and is used in the method examples. For information on using the PrimitiveUtil API, refer to [LeadtoCashCore - Scoped](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).
+**Note:** This script include extends the IBQConfigBase API and is used in the method examples. For information on using the PrimitiveUtil API, refer to [LeadtoCashCore - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).
 
 ```
 var IBQConfigQuoteToOrderFlowSNC = Class.create();
@@ -151,7 +151,7 @@ IBQConfigQuoteToOrderFlowSNC.prototype = Object.extendsObject(sn_tmt_core.IBQCon
 });
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## IBQConfigBase – generateParentRecord\(Object ibqParams\)
 
@@ -241,7 +241,7 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},
@@ -691,7 +691,7 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},
@@ -1099,7 +1099,7 @@ GlideRecord
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) reference to the Inbound Request record that has triggered the flow.Table: Inbound Request \[sn\_tmt\_core\_inbound\_queue\] 
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) reference to the Inbound Request record that has triggered the flow.Table: Inbound Request \[sn\_tmt\_core\_inbound\_queue\] 
 
 </td></tr></tbody>
 </table><table id="table_qw2_3ct_y2c" class="returns"><thead><tr><th>
@@ -1139,7 +1139,7 @@ response
 
 </td><td>
 
-A JSON object containing the response of processing the Inbound Request record. For flows created by the Lead to Cash Core PrimitiveUtil API, this output can be provided using the [commitInstance\(\)](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) method.Data type: Object
+A JSON object containing the response of processing the Inbound Request record. For flows created by the Lead to Cash Core PrimitiveUtil API, this output can be provided using the [commitInstance\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) method.Data type: Object
 
 </td></tr><tr><td>
 
@@ -1166,7 +1166,7 @@ Optional. Sys\_id of the target record to be used for further processing, such a
 </td></tr></tbody>
 </table>The following example shows how to invoke processInboundQueueRequest\(\) method.
 
-**Note:** This method is called during the flow using [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md). In the following example, the Lead to Cash Core PrimitiveUtil [commitInstance\(\)](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) method is used to provide the output.
+**Note:** This method is called during the flow using [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md). In the following example, the Lead to Cash Core PrimitiveUtil [commitInstance\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) method is used to provide the output.
 
 ```
 var gr = new GlideRecord('sn_tmt_core_inbound_queue');
@@ -1394,7 +1394,7 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},

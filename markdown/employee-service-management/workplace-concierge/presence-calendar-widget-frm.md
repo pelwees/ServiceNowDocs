@@ -25,5 +25,5 @@ You can use the Employee Presence Calendar Widget form to add a widget to the ca
 |Widget Parameters|Parameters passed to the widget.|
 |Active|Option to activate the section on the Presence dashboard.|
 
-**Parent Topic:**[Workplace Concierge reference](../concept/workplace-concierge-reference.md)
+**Parent Topic:**[Workplace Concierge reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/workplace-concierge-reference.md)
 

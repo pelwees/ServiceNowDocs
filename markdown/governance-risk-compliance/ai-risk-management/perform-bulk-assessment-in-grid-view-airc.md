@@ -45,7 +45,7 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
 
 4.  Select **Open assessment**.
 
-    A spreadsheet-style interface appears to assess risks and controls in a grid-based view.![Grid view of risk assessment project](../image/grid-view-airc.png)
+    A spreadsheet-style interface appears to assess risks and controls in a grid-based view.![Grid view of risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/grid-view-airc.png)
 
     **Note:** If more than one assessor is defined in the Stakeholder section, the assessor who opens the assessment first becomes the current assessor of the risk assessment project.
 
@@ -59,7 +59,7 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
 
     3.  To add any underlying risks that have been removed, select the more actions icon ![](../../grc-compliance-case-mgmt/image/more-actions-vertical-icon.png) icon, and select **Add risk**.
 
-    The risks with an in-progress assessment can't be added as part of the risk assessment project.![Add risks in the risk assessment project](../image/grid-add-risks-airc.png)
+    The risks with an in-progress assessment can't be added as part of the risk assessment project.![Add risks in the risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/grid-add-risks-airc.png)
 
 7.  To remove risks from the project, you can do the following:
 
@@ -67,7 +67,7 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
 
     1.  Select **Actions**.
 
-        ![Remove risks from the risk assessment project](../image/grid-remove-risks-airc.png)
+        ![Remove risks from the risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/grid-remove-risks-airc.png)
 
     2.  Select **Remove risk**.
 
@@ -104,5 +104,5 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
     Assessments are validated again in this stage. Review the assessment summary before you submit. You can’t make any changes after submission.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

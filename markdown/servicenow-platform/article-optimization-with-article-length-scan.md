@@ -40,7 +40,7 @@ The scan evaluates articles against two length‑based criteria:
 
 5.  Select the **Article Optimization** icon to view the list of issues identified in the article, along with the suggestions to fix them.
 
-    ![Article Length Card displayed in the Article Optimization panel](../image/article-length-scan-card.png)
+    ![Article Length Card displayed in the Article Optimization panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/article-length-scan-card.png)
 
 6.  If the scan detects an article length issue, the Article Length card is displayed with the details.
 

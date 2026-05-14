@@ -19,7 +19,7 @@ The Patient information overview tab in Workspace provides several details about
 
 **Note:** Your administrator can configure the Workspace to modify the patient information by using UI Builder. This topic discusses the default view for the patient information. For information about UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md).
 
-![The overview tab for a patient in the healthcare workspace displaying various widgets containing patient information. For the text description, refer to the Patient information displayed in Workspace section.](../image/hcls-patient-info.png "Patient information")
+![The overview tab for a patient in the healthcare workspace displaying various widgets containing patient information. For the text description, refer to the Patient information displayed in Workspace section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-patient-info.png "Patient information")
 
 <table id="table_tjh_2r4_jjb"><thead><tr><th>
 

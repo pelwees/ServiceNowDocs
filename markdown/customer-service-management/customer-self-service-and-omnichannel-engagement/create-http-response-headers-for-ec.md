@@ -17,9 +17,9 @@ Configure a name-value pair for HTTP response headers for the Engagement Messeng
 
 ## Before you begin
 
--   [Configure Engagement Messenger](create-engagement-messenger-module.md).
--   [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
--   [Configure a CORS rule for Engagement Messenger](create-cors-for-rest-api-ec.md).
+-   [Configure Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
+-   [Create an identity provider \(IdP\) for Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../concept/create-identity-providers-for-engagement-messenger.md).
+-   [Configure a CORS rule for Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-cors-for-rest-api-ec.md).
 -   Role required: admin
 
 ## About this task
@@ -88,9 +88,9 @@ Engagement Messenger module record that the HTTP response header configuration a
 
  Select a record:
 
-1.  Select the Search \(![Search icon.](../../../common/image/List_SearchIcon.png)\) icon to access the Select the document pop-up form.
+1.  Select the Search \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../../../common/image/List_SearchIcon.png)\) icon to access the Select the document pop-up form.
 2.  In the **Table name** field, ensure that the value is set to **Service Portal**.
-3.  In the **Document** field, select the Search \(![Search icon.](../../../common/image/List_SearchIcon.png)\) icon.
+3.  In the **Document** field, select the Search \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../../../common/image/List_SearchIcon.png)\) icon.
 4.  From the list of Service Portal records, select the messenger module that you configured.
 5.  Select **OK**.
 
@@ -129,7 +129,7 @@ Detailed description for the HTTP response header.
 </table>
 ## What to do next
 
-[Activate an Engagement Messenger module](activate-engagement-messenger-module.md)
+[Activate an Engagement Messenger module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-engagement-messenger-module.md)
 
 .
 

@@ -58,7 +58,7 @@ To populate Service Graph Workspace dashboards with demo data:
 
     -   Recommended: CSDM Activation \(com.snc.cmdb.csdm.activation\)
 
-        Allows for legacy **Lifecycle Status** field mappings and synchronization to legacy status fields. For details about use and customization of retirement definitions when this plugin isn't activated, see [Retirement definitions](life-cycle-rules.md).
+        Allows for legacy **Lifecycle Status** field mappings and synchronization to legacy status fields. For details about use and customization of retirement definitions when this plugin isn't activated, see [Retirement definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/life-cycle-rules.md).
 
     -   Required \(activated by default\): CMDB CSDM Support \(com.snc.cmdb.csdm\)
     -   Required \(activated by default\): CMDB Page Templates \(sn\_cmdb\_pg\_templts\)
@@ -94,7 +94,7 @@ To switch to Service Graph Workspace and turn off CMDB Workspace:
     This sets the system to permanently use Service Graph Workspace instead of CMDB Workspace.
 
 
-For information about the different views in Service Graph Workspace, see [Exploring Service Graph Workspace](exploring-sg-workspace.md).
+For information about the different views in Service Graph Workspace, see [Exploring Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-sg-workspace.md).
 
 ## Access Service Graph Workspace
 

@@ -107,5 +107,5 @@ Defines the default hourly rate to apply to the time worked entries if the worke
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Task and labor rate cards](../concept/c_TaskAndLaborRateCards.md)
+**Parent Topic:**[Task and labor rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/c_TaskAndLaborRateCards.md)
 

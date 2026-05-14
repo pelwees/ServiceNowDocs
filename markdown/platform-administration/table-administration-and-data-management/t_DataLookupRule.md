@@ -49,22 +49,22 @@ The rule assigns incidents to the values in the Assignment Group and Assigned To
 
 In this example, the Assignment Data Lookup rule automatically assigns any incident with the Category of Inquiry/Help and Subcategory of Email to Fred Luddy.
 
-![Assignment data lookup](../image/Assignment_Data_Lookup.png "Assignment data lookup")
+![Assignment data lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/Assignment_Data_Lookup.png "Assignment data lookup")
 
-**Parent Topic:**[Defining assignment rules](../concept/c_DefineAssignmentRules.md)
+**Parent Topic:**[Defining assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Assignment rules module](../concept/c_AssignmentRulesModule.md)
+[Assignment rules module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_AssignmentRulesModule.md)
 
-[Data lookup rules](../concept/c_DataLookupRules.md)
+[Data lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DataLookupRules.md)
 
-[Precedence between data lookup, assignment, and business rules](../concept/c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](../concept/c_WorkflowAssignments.md)
+[Workflow assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](t_AssignmentModuleRule.md)
+[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_AssignmentModuleRule.md)
 

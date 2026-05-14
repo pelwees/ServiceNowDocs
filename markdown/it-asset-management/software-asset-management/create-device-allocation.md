@@ -49,14 +49,14 @@ Role required: sam\_admin or sam\_user
 -   Device allocation record is created for the device and listed in the **Device Allocations** tab.
 -   The device allocation record is saved in the Device Allocations \[alm\_entitlement\_asset\] table.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 
 **Related topics**  
 
 
-[Copy user or device allocations](copy-allocations.md)
+[Copy user or device allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/copy-allocations.md)
 
-[Create entitlements in workspace](create-entitlements-workspace.md)
+[Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md)
 
-[Allocation management on Software Asset Management](../concept/allocation-management-sam.md)
+[Allocation management on Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/allocation-management-sam.md)
 

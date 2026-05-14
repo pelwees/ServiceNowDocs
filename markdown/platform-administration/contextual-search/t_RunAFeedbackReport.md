@@ -43,14 +43,14 @@ A service desk manager can generate a report on user issues that were resolved w
 
 6.  Under **Configure**, select **Choose columns** and move the required fields from the **Available** box to the **Selected** box.
 
-    ![Select fields for report](../image/cxs-report-column.png)
+    ![Select fields for report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/cxs-report-column.png)
 
 7.  Select **OK** and then select **Run**.
 
-    ![Contextual search report](../image/run-search-report.png)
+    ![Contextual search report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/run-search-report.png)
 
     **Note:** When users select the **Search on tab** check box in the Search Context \[csc\_context\_config\] table and then modify and leave the search field, an action gets logged in the Relevant Document Detail table \[cxs\_rel\_doc\_detail\]. The information in the table can help you find the instances where users ran a search but did not take any action. In those cases, the value of the **Position** column is **-1**.
 
 
-**Parent Topic:**[Feedback information on contextual search](../reference/r_QueryFeedbackInformation.md)
+**Parent Topic:**[Feedback information on contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../reference/r_QueryFeedbackInformation.md)
 

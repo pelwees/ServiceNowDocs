@@ -121,12 +121,12 @@ Time by which you want to send a notification. For example, if the communication
 
 Define communication channel for the task.
 
-**Parent Topic:**[Define a communication plan](create-comm-plan-definition.md)
+**Parent Topic:**[Define a communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-plan-definition.md)
 
 **Related topics**  
 
 
-[Define a communication channel](create-comm-channel-definition.md)
+[Define a communication channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-channel-definition.md)
 
-[Define a communication contact](create-comm-contact-definition.md)
+[Define a communication contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-contact-definition.md)
 

@@ -36,7 +36,7 @@ Role required: knowledge\_admin or admin
 
 ## What to do next
 
-After you assign an AQI checklist to a knowledge base, you can start [performing AQI reviews](perform-an-aqi.md).
+After you assign an AQI checklist to a knowledge base, you can start [performing AQI reviews](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/perform-an-aqi.md).
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-article-quality-index.md)
 

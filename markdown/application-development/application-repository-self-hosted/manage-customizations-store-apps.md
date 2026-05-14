@@ -42,7 +42,7 @@ There are two ways to create application-customizations.
 
     1.  Open the Store application or the application installed via plugin from ServiceNow Studio.
 
-        To learn more, see [Legacy - Access ServiceNow Studio](t_AccessStudio.md).
+        To learn more, see [Legacy - Access ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/t_AccessStudio.md).
 
         The application opens in Studio.
 
@@ -70,5 +70,5 @@ There are two ways to create application-customizations.
 **Related topics**  
 
 
-[Manage application entitlements from the application repository](manage-app-entitlements.md)
+[Manage application entitlements from the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/manage-app-entitlements.md)
 

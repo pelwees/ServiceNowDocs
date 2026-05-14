@@ -45,7 +45,7 @@ Role required: sp\_admin or admin
 **Related topics**  
 
 
-[Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md)
+[Organization chart in Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-profile-org-chart.md)
 
-[Configure eligible users for org chart](config-eligible-users-orgchart.md)
+[Configure eligible users for org chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-eligible-users-orgchart.md)
 

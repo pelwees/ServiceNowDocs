@@ -19,7 +19,7 @@ To use tokenized data with a Third-Party System, update the endpoint URL for the
 
 Set up your Third-Party System connections in our tokenizer service. For more information, see [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577).
 
-Install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). Card Data Security requires these integrations to function correctly. For more information, see [Integrating with spokes](../../fso-common/concept/spokes.md).
+Install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). Card Data Security requires these integrations to function correctly. For more information, see [Integrating with spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-common/concept/spokes.md).
 
 Role required: admin
 
@@ -33,11 +33,11 @@ Role required: admin
 
 3.  For the **Endpoint** field in the REST message form, enter the connection's base URI from the tokenizer service.
 
-    ![Image showing the Endpoint field containing the connection base URL from the tokenizer service.](../image/rest-message-endpoint.png)
+    ![Image showing the Endpoint field containing the connection base URL from the tokenizer service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/rest-message-endpoint.png)
 
     The connection's base path can be viewed in the tokenizer service administration website by navigating to **Connections**, expanding the connection, and selecting **Sample Request** on a route. The base URL is the domain name of the value in the **Path** field.
 
-    ![Image showing the location of the base URL.](../image/connection-base-path.png)
+    ![Image showing the location of the base URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/connection-base-path.png)
 
 
 ## What to do next

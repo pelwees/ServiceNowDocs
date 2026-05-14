@@ -31,10 +31,10 @@ Role required: admin
 
 5.  Locate the **Interaction Related Record -&gt; Interaction** option and add it to the **Selected** list.
 
-    ![Select the HR Workspace view and the Interaction Related Record - Interaction option](../image/voice-related-list.png)
+    ![Select the HR Workspace view and the Interaction Related Record - Interaction option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/voice-related-list.png)
 
 6.  Click **Save**.
 
 
-**Parent Topic:**[Integrating ServiceNow Voice for HR](../concept/integrate-voice-hr-agent.md)
+**Parent Topic:**[Integrating ServiceNow Voice for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/integrate-voice-hr-agent.md)
 

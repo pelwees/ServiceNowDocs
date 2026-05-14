@@ -17,7 +17,7 @@ Use the Model management view in the Asset Workspace to create or modify models,
 
 **Note:** Software model tab is hidden when Software Asset Management \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software model tab in Software Asset Workspace.
 
-![Model management view in Asset Workspace](../../hardware-asset-management/image/asset-wrkspc-modelmgmt.png "Model management view")
+![Model management view in Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/image/asset-wrkspc-modelmgmt.png "Model management view")
 
 |Widget or chart|Description|
 |---------------|-----------|

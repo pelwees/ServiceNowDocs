@@ -32,10 +32,10 @@ Role required: Splunk admin.
     For more information, see [Assign a role to a user](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/users-and-groups/task/t_AssignARoleToAUser.html).
 
 
-**Parent Topic:**[TISC add-on for Splunk overview](../concept/tisc-addon-splunk.md)
+**Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-addon-splunk.md)
 
 **Related topics**  
 
 
-[Configure TISC add-on in Splunk](tisc-configure-splunk.md)
+[Configure TISC add-on in Splunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-configure-splunk.md)
 

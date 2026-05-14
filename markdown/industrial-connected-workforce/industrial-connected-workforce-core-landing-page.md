@@ -17,19 +17,19 @@ Industrial Connected Workforce \(ICW\) Core helps industrial organizations struc
 
 <table id="table_kzp_45y_k3c" class="nav-card presentation"><tbody><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up prerequisites and configure components for Digital Factory Workspace.](configuring-icw-core.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up prerequisites and configure components for Digital Factory Workspace.](configuring-icw-core.md)
 
 </td></tr><tr><td>
 
-[Industrial Connected Workforce reference](../reference/icw-reference.md)Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about ICW Core.
+[Industrial Connected Workforce reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/../reference/icw-reference.md)Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about ICW Core.
 
 </td></tr></tbody>
 </table>ICW Core provides the structural foundation for the Industrial Connected Workforce suite. It converts industrial operational elements, such as organizational structure, equipment hierarchies, and worker shifts, into digital models. These models combine with knowledge and workflows to enable precise, contextual, and compliant execution of industrial tasks.
 
--   **[Configuring ICW Core](configuring-icw-core.md)**  
+-   **[Configuring ICW Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configuring-icw-core.md)**  
 Configure Industrial Connected Workforce \(ICW\).
--   **[Industrial Connected Workforce reference](../reference/icw-reference.md)**  
+-   **[Industrial Connected Workforce reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/../reference/icw-reference.md)**  
 Reference topics provide additional information about Industrial Connected Workforce.
 
-**Parent Topic:**[Industrial Connected Workforce](industrial-connected-workforce-overview.md)
+**Parent Topic:**[Industrial Connected Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-overview.md)
 

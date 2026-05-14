@@ -27,11 +27,11 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 3.  Select **Share**.
 
-    ![Screenshot showing the Share project panel with no access granted.](../image/tm-share-1.png)
+    ![Screenshot showing the Share project panel with no access granted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-share-1.png)
 
 4.  If the project has already been shared with some users, determine whether you still want to grant those users permissions for the project's analysis.
 
-    ![Screenshot showing the Share project panel with access granted and Actions menu.](../image/tm-share-2.png)
+    ![Screenshot showing the Share project panel with access granted and Actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-share-2.png)
 
     -   To retain a user and the user's current permissions, don’t modify the user's card.
     -   To change a user's current permissions, select the **Actions** menu on a user's card and modify the permissions.
@@ -53,5 +53,5 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 **Related topics**  
 
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/task-mining-dashboard.md)
 

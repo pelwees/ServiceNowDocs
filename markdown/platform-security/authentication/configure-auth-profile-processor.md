@@ -68,6 +68,6 @@ Type of the authentications profile. You can select **ID Token** or **OAuth Toke
 
     For example, OAuth authentication profile is configured for the CSV Processor. In this case, you have to use OAuth access token for the exporting using CSV as an export option.
 
-    ![Processor Access Policies](../images/auth-profile-processor.png)
+    ![Processor Access Policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/auth-profile-processor.png)
 
 

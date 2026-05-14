@@ -66,12 +66,12 @@ Work notes business rule
 All state flows with field controls or work notes are deleted
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Use state flows](c_UseStateFlows.md)
+</table>**Parent Topic:**[Use state flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
 **Related topics**  
 
 
-[Use state flows](c_UseStateFlows.md)
+[Use state flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
-[Create a state flow](../task/t_CreateAStateFlow.md)
+[Create a state flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateAStateFlow.md)
 

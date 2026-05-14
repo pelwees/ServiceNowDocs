@@ -183,12 +183,12 @@ When the **Reclaim** action is clicked, if the **Notify User** field is selected
 
 When the state changes to Awaiting User, a notification is sent to the user.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
 **Related topics**  
 
 
-[View or create software usage](../task/view-sw-usage-workspace.md)
+[View or create software usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/view-sw-usage-workspace.md)
 
-[Reclaim software](../task/reclaiming-software-sam.md)
+[Reclaim software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/reclaiming-software-sam.md)
 

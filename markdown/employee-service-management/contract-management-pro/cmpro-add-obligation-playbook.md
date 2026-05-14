@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Create a new page by selecting the **+** icon.
 
-    ![Add pages and variants on an experience page in UI Builder.](../image/cmpro-new-page-uib.png "Create page and variants")
+    ![Add pages and variants on an experience page in UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-new-page-uib.png "Create page and variants")
 
 5.  Select **Create from scratch instead**.
 
@@ -91,7 +91,7 @@ Role required: admin
 
 11. Select the **Body** component and then select the **Events** tab under **Page configuration**.
 
-    ![Events tab under Page Configuration.](../image/cmpro-page-events-tab.png "Events tab for page")
+    ![Events tab under Page Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-page-events-tab.png "Events tab for page")
 
     1.  Select **Add handler** under the **Page ready** section.
 
@@ -108,5 +108,5 @@ Role required: admin
     If the parameters are not available, add them manually. For more information on modifying the page settings, see [Edit page variant settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/edit-variant-settings.md).
 
 
-**Parent Topic:**[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+**Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

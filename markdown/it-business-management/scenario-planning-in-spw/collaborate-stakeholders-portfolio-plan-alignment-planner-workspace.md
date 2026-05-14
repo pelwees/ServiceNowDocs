@@ -17,7 +17,7 @@ Add comments and attachments to your portfolio plan so that users can review and
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
@@ -33,7 +33,7 @@ The attachments and comments that you add from the portfolio plan's header, they
 
 2.  From the list of portfolio plans, select one.
 
-3.  From the portfolio plan header in the Planning page, select the **Comments** icon \(![Comments icon.](../images/icon-comments.png)\).
+3.  From the portfolio plan header in the Planning page, select the **Comments** icon \(![Comments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/icon-comments.png)\).
 
 4.  Add comments or attachments to the portfolio plan.
 
@@ -65,14 +65,14 @@ In the Comments tab, add notes or comments and select **Post Work notes**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
+**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Modify a portfolio plan](modify-the-details-of-a-portfolio-plan-alignment-planner-workspace.md)
+[Modify a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/modify-the-details-of-a-portfolio-plan-alignment-planner-workspace.md)
 
-[Share a portfolio plan with stakeholders](share-portfolio-plan-alignment-planner-workspace.md)
+[Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-portfolio-plan-alignment-planner-workspace.md)
 
-[Show or hide the features for a portfolio plan](show-or-hide-the-features-for-your-portfolio-plan-spw.md)
+[Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/show-or-hide-the-features-for-your-portfolio-plan-spw.md)
 

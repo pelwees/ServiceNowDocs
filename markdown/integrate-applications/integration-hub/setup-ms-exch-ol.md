@@ -39,7 +39,7 @@ Complete these steps from the Microsoft Azure portal. For instructions on regist
 
 2.  For the **Required Permissions**, select **Microsoft Graph**.
 
-    ![Permissions required for Microsoft Exchange Online spoke](../image/ms-exchange-online-spoke-permissions.png)
+    ![Permissions required for Microsoft Exchange Online spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-exchange-online-spoke-permissions.png)
 
 3.  Record the **Client Secret** for use in later configurations.
 

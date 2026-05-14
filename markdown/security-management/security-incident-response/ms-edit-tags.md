@@ -31,7 +31,7 @@ Role required: sn\_si.admin
 
 4.  With the tag names displayed, to the right of a tag, click the information icon.
 
-    ![Additional settings page.](../image/ms-edit-tags-1.png)
+    ![Additional settings page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-edit-tags-1.png)
 
 5.  In the Security Tag dialog that is displayed, click **Open Record**.
 
@@ -104,14 +104,14 @@ Description for the tag.
 </td></tr></tbody>
 </table>7.  Click **Update** to save your changes.
 
-    ![An updated security tag record.](../image/ms-edit-tags-2.png)
+    ![An updated security tag record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-edit-tags-2.png)
 
     You have now successfully edited the tag record for a security tag.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/ms-exchange-online-lookups.md)
 
-**Previous topic:**[Recover deleted emails on the Microsoft Exchange Online service](ms-recover-deleted-emails.md)
+**Previous topic:**[Recover deleted emails on the Microsoft Exchange Online service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-recover-deleted-emails.md)
 
-**Next topic:**[Microsoft Exchange On-Premises integration](../../secops-integration-sir/secops-integration-ms-exchange-on-prem/reference/ms-exch-on-prem-landing-page.md)
+**Next topic:**[Microsoft Exchange On-Premises integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-sir/secops-integration-ms-exchange-on-prem/reference/ms-exch-on-prem-landing-page.md)
 

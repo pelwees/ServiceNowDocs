@@ -19,14 +19,14 @@ This script include requires the Predictive Intelligence plugin \(com.glide.plat
 
 For more information, see [Using ML APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-ml-apis.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 **Related topics**  
 
 
-[MLSolution](../../MLSolution/concept/MLSolutionAPI.md#)
+[MLSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolution/concept/MLSolutionAPI.md#)
 
-[MLSolutionFactory](../../MLSolutionFactory/concept/MLSolutionFactoryAPI.md#)
+[MLSolutionFactory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolutionFactory/concept/MLSolutionFactoryAPI.md#)
 
 ## MLSolutionUtil - MLSolutionUtil\(\)
 

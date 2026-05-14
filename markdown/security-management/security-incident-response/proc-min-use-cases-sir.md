@@ -28,14 +28,14 @@ The following are example steps to get the list of security incidents that took 
     When you open a mined process optimization project, by default the Analyst Workbench opens.
 
 4.  Select **Variation Analysis**.
-5.  Select the filter \(![Filter icon](../../security-incident-response/image/filter-icon.png)\) icon, and set the filter similar to the following:
+5.  Select the filter \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/filter-icon.png)\) icon, and set the filter similar to the following:
 
     -   Steps greater than the average number of steps.
     -   Records greater than the minimum number of records that have taken a longer route.
 
         **Note:** You can configure the values as per your requirement.
 
-    ![Example filter settings for multi-hop analysis](../image/multi-hop-filter-proc-min-sir.png)
+    ![Example filter settings for multi-hop analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/multi-hop-filter-proc-min-sir.png)
 
 6.  Select **Apply**.
 
@@ -65,7 +65,7 @@ The following are example steps to get the list of security incidents that breac
     -   Set the value of the **Greater than or equal to** field to `1`.
     -   Set the value of **Has breached** to **True**.
     -   To identify security incidents which breached a specific SLA, set a **SLA definition** filter.
-    ![Condition settings for SLA breach](../image/sla-breach-filters-proc-min.png)
+    ![Condition settings for SLA breach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sla-breach-filters-proc-min.png)
 
 6.  Select **Apply**.
 
@@ -90,7 +90,7 @@ The following are example steps to get the list of security incidents for which 
     1.  Set Priority is 1 - Critical.
     2.  Select **Eventually followed By**
     3.  Priority is not 1 - Critical.
-    ![Priority analysis conditions](../image/priority-analysis-proc-min.png)
+    ![Priority analysis conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/priority-analysis-proc-min.png)
 
 6.  Select **Apply all chains**.
 
@@ -112,7 +112,7 @@ The following are example steps to perform the bottleneck analysis:
 
     The screen displays the state transitions for the security incidents.
 
-    ![Bottle neck analysis](../../security-incident-response/image/bottleneck-analysis.png)
+    ![Bottle neck analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/bottleneck-analysis.png)
 
 4.  Select the **Filter by** to identify bottleneck transitions. Alternatively, use the search bar to search for bottleneck transitions. For example, to identify incidents which were moved to other states from the Closed state, use "Closed " or "Closed -".
 
@@ -141,7 +141,7 @@ The following are example steps to identify security incidents that were in the 
     10. Select **Add constraints** and set **Up to** as 30 minutes.
     11. Set `State (Incident)` is `Closed`.
 
-        ![Long analysis time example](../../security-incident-response/image/long-analysis-example-proc-min.png)
+        ![Long analysis time example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/long-analysis-example-proc-min.png)
 
 5.  Select **Apply all chains**.
 6.  Select **Breakdown Filters** and sort by **Longest Avg Duration**.

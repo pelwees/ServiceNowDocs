@@ -32,7 +32,7 @@ For more information, see the following topics:
 
 1.  Open a customer service case.
 
-2.  Select the More Actions icon \(![More options icon.](../image/more_icon.png)\) and then select **Email**.
+2.  Select the More Actions icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/more_icon.png)\) and then select **Email**.
 
 3.  Select the Quick Messages drop-down menu in the Compose Email header and select a predefined message.
 

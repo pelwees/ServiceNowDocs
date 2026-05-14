@@ -53,5 +53,5 @@ Role required: sn\_walkup.walkup\_technician or admin
 11. After you have fulfilled or resolved the request, set the state of the Walk-up interaction to **Closed Complete**.
 
 
-**Parent Topic:**[View and manage Walk-up Experience appointments in Agent Workspace](view-manage-walkup-appointments.md)
+**Parent Topic:**[View and manage Walk-up Experience appointments in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/view-manage-walkup-appointments.md)
 

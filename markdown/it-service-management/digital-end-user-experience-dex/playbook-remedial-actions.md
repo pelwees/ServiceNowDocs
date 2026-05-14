@@ -30,5 +30,5 @@ You can monitor current and past remedial actions and cancel ongoing actions run
 -   Current actions: Actions with the status of New or In Progress.
 -   Past actions: Actions with the status of Completed, Canceled, or Failed.
 
-For more information, see [Manage remedial actions in DEX incident investigation Playbook](../task/manage-incident-remedial-actions-playbook.md).
+For more information, see [Manage remedial actions in DEX incident investigation Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/manage-incident-remedial-actions-playbook.md).
 

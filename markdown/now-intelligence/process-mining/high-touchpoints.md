@@ -21,15 +21,15 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 High touchpoints on nodes displays a group of records in a step that has, on an average, more updates than another group. This points to the high-effort steps demonstrated by some records while others required fewer updates.
 
-**Note:** High touchpoints \(Node\) can be configured for a project only if it has been configured for the process table on which the project is based. For information on configuring touchpoints for a table, see [Configure impact metrics](impact-metrics.md).
+**Note:** High touchpoints \(Node\) can be configured for a project only if it has been configured for the process table on which the project is based. For information on configuring touchpoints for a table, see [Configure impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/impact-metrics.md).
 
-![High touchpoints (Node)](../image/high-touchpoints-node.png)
+![High touchpoints (Node)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/high-touchpoints-node.png)
 
 ## Procedure
 
 1.  Navigate to Improvement opportunity definition page.
 
-    For information about the Improvement opportunity definition page, see [Set improvement opportunities](improve-opportunities.md).
+    For information about the Improvement opportunity definition page, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md).
 
 2.  Select **Create** on the High touchpoints \(Node\) card.
 
@@ -122,7 +122,7 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
     Default values are provided. You can edit them if needed.
 
-    ![High touchpoints (Node) Config tab](../image/high-touchpoints-node-config.png)
+    ![High touchpoints (Node) Config tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/high-touchpoints-node-config.png)
 
     According to the example, records that meet the following conditions are available as improvement opportunities in the Summary and insights page:
 
@@ -134,5 +134,5 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 6.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting Automated improvement opportunities](../concept/automated-findings.md)
+**Parent Topic:**[Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/automated-findings.md)
 

@@ -22,7 +22,7 @@ Analyze a cluster by a field available on the source table. With the Cluster Ins
 
 ## About this task
 
-Drill down into a cluster and filter its records with Cluster Insight. You can add cluster insight analysis when creating a solution or editing an existing solution. For more information, see [https://www.servicenow.com/community/intelligence-ml-articles/predictive-intelligence-using-the-cluster-insight-table-to/ta-p/2301006](https://www.servicenow.com/community/intelligence-ml-articles/predictive-intelligence-using-the-cluster-insight-table-to/ta-p/2301006).![Create Cluster Insight table check box in the Clustering Definition page.](../images/clusterinsight_table_check.png)
+Drill down into a cluster and filter its records with Cluster Insight. You can add cluster insight analysis when creating a solution or editing an existing solution. For more information, see [https://www.servicenow.com/community/intelligence-ml-articles/predictive-intelligence-using-the-cluster-insight-table-to/ta-p/2301006](https://www.servicenow.com/community/intelligence-ml-articles/predictive-intelligence-using-the-cluster-insight-table-to/ta-p/2301006).![Create Cluster Insight table check box in the Clustering Definition page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/clusterinsight_table_check.png)
 
 ## Procedure
 

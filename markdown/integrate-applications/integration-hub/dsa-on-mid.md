@@ -27,7 +27,7 @@ These steps can run on either the MID Server or the instance:
 
 **Note:** Avoid shifting the execution environment between the instance and the MID Server multiple times. For example, you might configure the Request Script step to run on the MID Server, but the REST step to run on the instance. In this case, the system shifts environments between the instance and MID Server for every page of data, which may degrade performance.
 
-To learn more about running a step on a MID Server, see [Integration steps](integration-steps.md).
+To learn more about running a step on a MID Server, see [Integration steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integration-steps.md).
 
 ## Size limits
 
@@ -52,5 +52,5 @@ If your system encounters a timeout or size limit issue, try making one of these
     -   Default: 1024 MB
     -   Maximum: None
 
-**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/data-stream-actions.md)
 

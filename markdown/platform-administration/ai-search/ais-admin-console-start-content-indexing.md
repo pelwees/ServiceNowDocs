@@ -22,9 +22,9 @@ Role required: ais\_admin
 
 ## About this task
 
-You can index the existing records in the source table and any child tables that you set up for indexing. If you add, change, or remove an indexed source attribute, or update indexed values for fields on referenced tables, you must reindex the content from an internal source. You can do it manually by following the steps given in the procedure again. For more information, see [Indexing content from AI Search indexed sources](../concept/indexing-content-ais.md).
+You can index the existing records in the source table and any child tables that you set up for indexing. If you add, change, or remove an indexed source attribute, or update indexed values for fields on referenced tables, you must reindex the content from an internal source. You can do it manually by following the steps given in the procedure again. For more information, see [Indexing content from AI Search indexed sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/indexing-content-ais.md).
 
-You can also index the content from an indexed source for external documents. For more information, see [Indexing and searching external content in AI Search](../concept/external-content-ais.md).
+You can also index the content from an indexed source for external documents. For more information, see [Indexing and searching external content in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/external-content-ais.md).
 
 ## Procedure
 
@@ -76,7 +76,7 @@ Procedure
 
     When the task completes, the **Ingestion State** field of the indexed source shows its status as indexed.
 
-7.  Return to the list of indexed sources by selecting the back icon \(![Back icon.](../../../use/using-forms/image/FormBackUI15.png)\).
+7.  Return to the list of indexed sources by selecting the back icon \(![Back icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../../use/using-forms/image/FormBackUI15.png)\).
 
 
 ## Result
@@ -85,7 +85,7 @@ AI Search indexes content from existing records in the indexed source. Indexing 
 
 ## What to do next
 
-Define search sources to make searchable content from the indexed source available in user search experiences. For details on creating search sources, see [Create or edit an EVAM view definition](ais-admin-console-evam-configurations.md).
+Define search sources to make searchable content from the indexed source available in user search experiences. For details on creating search sources, see [Create or edit an EVAM view definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-admin-console-evam-configurations.md).
 
-**Parent Topic:**[Managing indexed sources from the AI Search Admin console](../concept/ais-managing-indexed-source.md)
+**Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ais-managing-indexed-source.md)
 

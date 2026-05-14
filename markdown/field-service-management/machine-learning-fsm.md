@@ -24,13 +24,13 @@ Predictive Intelligence solution definitions provide the following benefits to a
     -   Use solution definitions to recommend parts for completing the work order tasks based on the insights gathered from the work order tasks with similar short description.
 -   **Reduces error rates and costs**
 
-    Use clustering solution to cluster similar work orders into topics based on the text provided in the short description field. For more information, see [View work order trends topics](../task/view-wo-trends.md).
+    Use clustering solution to cluster similar work orders into topics based on the text provided in the short description field. For more information, see [View work order trends topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/view-wo-trends.md).
 
 
 **Related topics**  
 
 
-[Configuring Predictive Intelligence for Field Service Management](configuring-predeictive-intelligence.md)
+[Configuring Predictive Intelligence for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-predeictive-intelligence.md)
 
-[Predictive analytics: Work order insights](monitoring-analytics-fsm.md#)
+[Predictive analytics: Work order insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md#)
 

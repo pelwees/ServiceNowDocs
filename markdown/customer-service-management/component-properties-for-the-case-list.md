@@ -113,7 +113,7 @@ Columns
 
 Display columns from the case or task table. Select **Add** to add new columns to the case list table.
 
- Select \(![edit icon](../image/edit-new.png)\) to update and select \(![Remove icon](../../hs-risk-management/image/icon-remove.png)\) to remove column from the case list on the column cards.
+ Select \(![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/edit-new.png)\) to update and select \(![Remove icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../hs-risk-management/image/icon-remove.png)\) to remove column from the case list on the column cards.
 
 **Note:**
 
@@ -158,11 +158,11 @@ Option to show or hide the component when there are no cases to display. By defa
 </table>**Related topics**  
 
 
-[Configure the Case list component instance](../task/configure-case-list-component-on-instance.md)
+[Configure the Case list component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-case-list-component-on-instance.md)
 
-[Embed the Case list component instance on the third-party website](../task/embed-case-list-component-on-third-party-website.md)
+[Embed the Case list component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-case-list-component-on-third-party-website.md)
 
-[Event handler in the Case list component](we-case-list-event-handlers.md)
+[Event handler in the Case list component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-list-event-handlers.md)
 
-[Sample code for the Case list component](we-case-list-sample-code.md)
+[Sample code for the Case list component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-list-sample-code.md)
 

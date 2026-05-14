@@ -21,11 +21,11 @@ Stockrooms are used to store and manage the inventory items required for field s
 
 The steps for setting up stockrooms are:
 
-1.  [Create stockroom for Field Service Management assets](../task/create-stockroom-fsm.md)
+1.  [Create stockroom for Field Service Management assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/../task/create-stockroom-fsm.md)
 
     Establish a stockroom to store assets, enabling effective tracking and management of your inventory.
 
-2.  [Add preferred stockrooms to an assignment group](../task/setup-preferred-stockrooms.md)
+2.  [Add preferred stockrooms to an assignment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/../task/setup-preferred-stockrooms.md)
 
     Organize preferred stockrooms for work groups, enabling agents to efficiently search for parts within their designated stockrooms.
 

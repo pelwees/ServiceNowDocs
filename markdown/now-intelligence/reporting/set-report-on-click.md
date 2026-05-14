@@ -23,7 +23,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 You can redirect users to a URL rather than to the configured drilldown or the list that underlies the selected section of a report.
 
-See [Define a report drilldown](../concept/c_DrillingDownWithinReports.md#) for the report types that don't support the drilldown feature.
+See [Define a report drilldown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_DrillingDownWithinReports.md#) for the report types that don't support the drilldown feature.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ See [Define a report drilldown](../concept/c_DrillingDownWithinReports.md#) for 
 
 3.  Select **View Report**.
 
-4.  Select the **Show report structure** icon \(![Show report structure](../image/Form_ShowReportStructureIcon.png)\).
+4.  Select the **Show report structure** icon \(![Show report structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/Form_ShowReportStructureIcon.png)\).
 
 5.  Select the link icon \(![](../image/link-icon.png)\).
 
@@ -47,12 +47,12 @@ See [Define a report drilldown](../concept/c_DrillingDownWithinReports.md#) for 
 
 8.  Select **Save**.
 
-    ![Animation illustrating the steps to configure a report redirect to a URL](../image/report-config-redirect.gif)
+    ![Animation illustrating the steps to configure a report redirect to a URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/report-config-redirect.gif)
 
 
 ## Result
 
 When you select the report, the redirect URL replaces any drilldown functionality.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdvancedReporting.md)
 

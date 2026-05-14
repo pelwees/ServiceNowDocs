@@ -65,5 +65,5 @@ MCP Server Console is available with activation of a Now Assist application. For
     Create and manage OAuth inbound integrations to connect MCP Server Console clients to servers in Machine Identity Console.
 
 
-**Parent Topic:**[AI Experiences release notes](../analytics-intelligence-reporting/intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../analytics-intelligence-reporting/intelligent-experiences-rn-landing.md)
 

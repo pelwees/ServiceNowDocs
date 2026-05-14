@@ -19,7 +19,7 @@ A bank writes off a loan when all means of recovery are exhausted. It is an acti
 
 The following diagram shows how the application helps bank agents work on a loan write-off.
 
-![Workflow that shows how a loan write-off is handled using the Loan Operations application.](../image/loan-write-off-workflow.png "Loan Write off workflow")
+![Workflow that shows how a loan write-off is handled using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/loan-write-off-workflow.png "Loan Write off workflow")
 
 The following workflow routes the case and tasks for a loan write-off to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

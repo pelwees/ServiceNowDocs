@@ -117,5 +117,5 @@ Mobile Platform is a ServiceNow AI Platform feature that is active by default.
 
 Improved readability on tablet devices.
 
-**Parent Topic:**[Features and changes by product](../new-features-changes.md)
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../new-features-changes.md)
 

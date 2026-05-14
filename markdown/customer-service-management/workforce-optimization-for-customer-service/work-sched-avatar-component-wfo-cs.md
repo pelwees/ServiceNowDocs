@@ -35,8 +35,8 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
     2.  In the **Config** tab, do the following:
 
-        1.  Select the Edit component visibility icon \(![Edit component visibility icon](../image/edit-comp-visibility-icon.png)\).
-        2.  Hover over the **Hide component** field and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+        1.  Select the Edit component visibility icon \(![Edit component visibility icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/edit-comp-visibility-icon.png)\).
+        2.  Hover over the **Hide component** field and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
         3.  In the **Hide component** field, enter `!@state.cardProps.assignedTo`
         4.  In the **Direction** menu, select **Row**.
         5.  In the **Styles** tab, in the **Align items** field, select the center icon.
@@ -62,9 +62,9 @@ Do this
 </td><td>
 
 In the configure tab, set the size, user name, and tooltip.1.  In the **Size** menu, select **Medium**.
-2.  Hover over the **User name** menu, and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+2.  Hover over the **User name** menu, and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 3.  In the **User name** menu, type **!@state.cardProps.assignedTo**.
-4.  Hover over the **Tooltip text** menu, and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+4.  Hover over the **Tooltip text** menu, and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 5.  In the **Tooltip text** menu, type **!@state.cardProps.assignedTo**.
 
 
@@ -75,7 +75,7 @@ In the configure tab, set the size, user name, and tooltip.1.  In the **Size** m
 </td><td>
 
 In the configure tab, set the size, and items.1.  In the **Size** menu, select **Small**.
-2.  Hover over the **Items** field and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+2.  Hover over the **Items** field and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 3.  In the Items field, enter `[{value: @state.cardProps.assignedTo}`
 4.  Select **Save**.
 
@@ -84,5 +84,5 @@ In the configure tab, set the size, and items.1.  In the **Size** menu, select *
 </table>    Here's a demo on how to configure an avatar component for Work scheduler Configure an avatar component for Work Scheduler
 
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 

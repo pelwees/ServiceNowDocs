@@ -21,7 +21,7 @@ Role required: none
 
 ## About this task
 
-![Related Search Results for an Incident displaying Knowledge article with Attach button.](../image/polaris-ui-incident-attach-kb.png)
+![Related Search Results for an Incident displaying Knowledge article with Attach button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/polaris-ui-incident-attach-kb.png)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: none
 
 5.  Select **Attach** in the search result for the Knowledge article that you want to attach to the incident record.
 
-    A note about the Knowledge article is copied or appended to the **Additional comments \(Customer visible\)** field on the incident record. To set a different destination field on the incident record, see [Specify field for attached Knowledge article links](specify-field-copy-kb-article.md).
+    A note about the Knowledge article is copied or appended to the **Additional comments \(Customer visible\)** field on the incident record. To set a different destination field on the incident record, see [Specify field for attached Knowledge article links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/specify-field-copy-kb-article.md).
 
     **Note:** Attachments from the selected Knowledge article aren't attached to the incident record.
 
@@ -50,8 +50,8 @@ Role required: none
 
 Details of the selected Knowledge article appear in the designated field.
 
--   **[Specify field for attached Knowledge article links](specify-field-copy-kb-article.md)**  
+-   **[Specify field for attached Knowledge article links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/specify-field-copy-kb-article.md)**  
 Specify which field to add a note to when you attach a Knowledge article to a record.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

@@ -123,10 +123,10 @@ Enable the JWT client authentication by attaching a valid Java KeyStore \(JKS\) 
     |Active|Option to activate the certificate.|
     |Type|Type of the certificate. Select **Java Key Store**.|
     |Expires in days|Number of days until the certificate expires.|
-    |Key store password|Password to access the certificate. Use the destination keystore password specified when creating the JKS certificate. For more information on this password, see [Create a Java KeyStore certificate](setup-google-translator.md#).|
+    |Key store password|Password to access the certificate. Use the destination keystore password specified when creating the JKS certificate. For more information on this password, see [Create a Java KeyStore certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-google-translator.md#).|
     |Short description|Summary about the certificate.|
 
-4.  Click the manage attachments icon \(![Attachments icon](../image/attachments-icon.png)\) and attach a JKS certificate.
+4.  Click the manage attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach a JKS certificate.
 
 5.  To validate the JKS certificate, click **Validate Stores/Certificates**.
 
@@ -155,7 +155,7 @@ Role required: admin
     |Signing Keystore|Valid JKS certificate for which you want to assign the key.|
     |Key Id|Key ID to identify which key is used when multiple keys are used to sign tokens.|
     |Signing Algorithm|Algorithm to sign with the key.|
-    |Signing Key Password|Password associated with the key. Use the export password or the source keystore password specified when creating the JKS certificate. For more information on this password, see [Create a Java KeyStore certificate](setup-google-translator.md#).|
+    |Signing Key Password|Password associated with the key. Use the export password or the source keystore password specified when creating the JKS certificate. For more information on this password, see [Create a Java KeyStore certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-google-translator.md#).|
     |Active|Option to activate the key.|
 
 4.  Click **Submit**.

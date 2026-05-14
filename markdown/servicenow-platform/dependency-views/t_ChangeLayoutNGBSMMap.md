@@ -35,22 +35,22 @@ Role required: none
         **Related Services** displays application services related to the CIs currently displaying in the map. If Event Management is activated then technical services and manual services are included. You can double-click a service to display the map in the Event Management dashboard.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../topic/p_UseNGBSM.md)
 
 **Related topics**  
 
 
-[View a Dependency Views map](t_AccessNGBSM.md)
+[View a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_AccessNGBSM.md)
 
-[Save or load a Dependency Views map](t_SaveLoadMapView.md)
+[Save or load a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_SaveLoadMapView.md)
 
-[Delete a saved Dependency Views map view](t_DeleteSavedMapView.md)
+[Delete a saved Dependency Views map view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_DeleteSavedMapView.md)
 
-[Filter the view of a Dependency Views map](t_FilterViewNGBSMMap.md)
+[Filter the view of a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_FilterViewNGBSMMap.md)
 
-[Perform actions on nodes in a Dependency Views map](t_PerformActionsOnNGBSMMap.md)
+[Perform actions on nodes in a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_PerformActionsOnNGBSMMap.md)
 
-[Export a Dependency Views map](t_ExportAnNGBSMMap.md)
+[Export a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_ExportAnNGBSMMap.md)
 
-[View collapsed nodes in a Dependency Views map](t_ViewCollapsedNodesInNGBSM.md)
+[View collapsed nodes in a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_ViewCollapsedNodesInNGBSM.md)
 

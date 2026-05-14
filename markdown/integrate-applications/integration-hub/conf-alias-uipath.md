@@ -25,10 +25,10 @@ Integrate the ServiceNow instance with your UiPath account to authenticate Servi
 
 You can set up the UiPath spoke using OAuth authentication or API key as per your requirement.
 
--   See [Option 1: Using OAuth authentication](conf-alias-uipath.md#) to set up the UiPath spoke using OAuth authentication.
+-   See [Option 1: Using OAuth authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/conf-alias-uipath.md#) to set up the UiPath spoke using OAuth authentication.
     -   This authentication is available from UiPath spoke v2.2.1.
     -   You can't use MID Server if you set up the spoke using OAuth authentication.
--   See [Option 2: Using API key](conf-alias-uipath.md#) to set up the UiPath spoke using API key.
+-   See [Option 2: Using API key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/conf-alias-uipath.md#) to set up the UiPath spoke using API key.
 
 ## Option 1: Using OAuth authentication
 

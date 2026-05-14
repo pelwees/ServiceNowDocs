@@ -24,5 +24,5 @@ The overview page for a Web application provides information on the active alert
 |Active alerts and incidents \(last 7 days\)|Number of open alerts \(P1-P5\) and incidents \(P1-P5\) created for the application in the last 7 days.|
 |Average MTTR incidents \(all time\)|Mean time to resolve \(MTTR\) incidents created due to this application.|
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

@@ -31,7 +31,7 @@ For example, a workflow version that is associated with the Change Request \[cha
     -   Ensure that the current record meets the requirements of the at-risk activities.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+-   Related Information: [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowActivities.md)
 
 ## Troubleshooting
 
@@ -43,5 +43,5 @@ When a workflow is set to the Global \[global\] table, it is possible that the p
 
 This validation check ensures that the table specified by all the activities in a particular workflow is included in the hierarchy of the table selected for the workflow.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowValidator.md)
 

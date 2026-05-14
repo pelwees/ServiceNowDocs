@@ -74,5 +74,5 @@ Weightage
 Numeral value for the indicator. The weight provided in the application score profile for an indicator contributes to the total score of the application.All indicator weight within a scoring profile must add up to 100.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

@@ -34,5 +34,5 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 A business rule is created for the investment entity that synchronizes the owner of the investment with the associated investment entity owner when you update the investment entity owner.
 
-**Parent Topic:**[Create an investment entity](create-funding-entity.md)
+**Parent Topic:**[Create an investment entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-funding-entity.md)
 

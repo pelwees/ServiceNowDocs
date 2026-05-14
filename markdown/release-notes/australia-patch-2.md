@@ -17,7 +17,7 @@ The Australia Patch 2 release contains important problem fixes.
     -   Build date: 04-29-2026\_2044
     -   Build tag: glide-australia-02-11-2026\_\_patch2-04-17-2026
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](../upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../upgrades/reference/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -29,7 +29,7 @@ For a downloadable, sortable version of the fixed problems in this release, clic
 
 Australia Patch 2 includes 332 problem fixes in various categories. The chart below shows the top 10 problem categories included in this patch.
 
-![Fixed issues grouped by problem categories bar chart](../image/prb-chart-ap2.png "Top 10 problem categories")
+![Fixed issues grouped by problem categories bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/prb-chart-ap2.png "Top 10 problem categories")
 
 ## Security-related fixes
 
@@ -65,9 +65,9 @@ Australia Patch 2 includes fixes for security-related problems that affected cer
 
     Review scripts that are incompatible with guarded script and either rewrite them to use supported features or create an exemption for scripts that can't be rewritten.
 
--   **[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)**
+-   **[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../now-assist/now-assist-rn-landing.md)**
 
-    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md).
+    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../now-assist/now-assist-rn-landing.md).
 
 -   **[Script sandbox environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox-environment.md)**
 
@@ -6072,10 +6072,10 @@ Attachments added through questionnaires aren't reflected/updated on the corresp
 
 Unless any exceptions are noted, you can safely upgrade to this release version from any of the versions listed below. These prior versions contain PRB fixes that are also included with this release. Be sure to upgrade to the latest listed patch that includes all of the PRB fixes you are interested in.
 
--   [Australia Patch 1](australia-patch-1.md)
+-   [Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 -   [Australia EA Hotfix 1](https://www.servicenow.com/docs/r/release-notes/australia-patch-0-hf-1-PO.html)
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[Available patches and hotfixes](../available-versions.md)
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../available-versions.md)
 

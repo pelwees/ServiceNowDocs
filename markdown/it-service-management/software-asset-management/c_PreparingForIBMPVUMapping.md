@@ -23,7 +23,7 @@ The important fields describing the processor on the configuration item form are
 -   CPU count
 -   CPU core count
 
-![PVU configuration item](../image/PVUConfigurationItem.png "PVU configuration item")
+![PVU configuration item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/PVUConfigurationItem.png "PVU configuration item")
 
 This CPU data is often added accurately when the CMDB is populated with information. If the fields contain incorrect information, manually edit the fields on the configuration item form.
 
@@ -37,7 +37,7 @@ The mapping between the configuration item form fields and processor definition 
 
 The key field on the Software Model form is **License type**. For any software licenses you want to track with IBM PVU, open the corresponding software model form and select the **Per installation - IBM PVU** license type.
 
-![PVU software model](../image/PVUSoftwareModel.png "PVU software model")
+![PVU software model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/PVUSoftwareModel.png "PVU software model")
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 

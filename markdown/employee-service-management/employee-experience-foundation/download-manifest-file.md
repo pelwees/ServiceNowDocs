@@ -23,7 +23,7 @@ Role required: external\_app\_install\_admin, admin
 
 1.  Navigate to **All** &gt; **ServiceNow for Microsoft 365** &gt; **Application Manifest** &gt; **Meetings Bot**.
 
-    ![ServiceNow for Microsoft Teams manifest file.](../../notify2/image/download-manifest-notify-ms-teams-02.png)
+    ![ServiceNow for Microsoft Teams manifest file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../notify2/image/download-manifest-notify-ms-teams-02.png)
 
     After you install the ServiceNow for Teams pre-published app, the client ID and the app ID entries will not be displayed in the manifest screen.
 
@@ -103,5 +103,5 @@ Detailed description for the manifest file.
     Manifest file is downloaded on your system.
 
 
-**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](../concept/setup-meeting-extensibility-multi-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-multi-tenant.md)
 

@@ -111,16 +111,16 @@ Comma-separated list of trusted domains for which the instance automatically cre
 -   Learn More:Enabling Automatic User Creation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email properties](../concept/c_EmailProperties.md)
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Outbound email configuration](r_OutboundMailConfiguration.md)
+[Outbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_OutboundMailConfiguration.md)
 
-[Email image filtering properties](../../notification/concept/email-image-filters.md)
+[Email image filtering properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-image-filters.md)
 
-[Email digest properties](../../notification/concept/email-digest-properties.md)
+[Email digest properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-digest-properties.md)
 
-[Advanced email properties](r_AdditionalProperties.md)
+[Advanced email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_AdditionalProperties.md)
 

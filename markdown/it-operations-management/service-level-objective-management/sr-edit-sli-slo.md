@@ -35,7 +35,7 @@ To help you manage reliability-metric history, Service Reliability Management \(
 
 2.  Follow these steps to access the **Reliability metrics** tab:
 
-    1.  Select the **Services** page icon \(![services icon](../../service-reliability/image/icon-sr-services.png)\).
+    1.  Select the **Services** page icon \(![services icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../service-reliability/image/icon-sr-services.png)\).
 
     2.  Select the service that uses the reliability metric you want to edit.
 
@@ -62,5 +62,5 @@ Managing SLOs requires ongoing updates to make sure that they reflect your relia
 
 **Note:** If you reactivate a retired SLO, SRM creates and activates a new copy of it. For example: If there are two versions of an SLO, Uptime \(1\) and Uptime \(2\), and you reactivate Uptime \(1\), SRM creates an active version called Uptime \(3\).
 
-**Parent Topic:**[Using SLO Management](using-service-level-objective-management.md)
+**Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 

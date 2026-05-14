@@ -18,8 +18,8 @@ The on Catalog item launch trigger fires when an order form \(stack request form
 ## Before you begin
 
 -   Role required: sn\_cmp.cloud\_governor or admin
--   Optional: [Create one or more cloud policy groups](create-cloud-policy-group.md).
--   [Configure a cloud policy rule](configure-cloud-policy-rule.md) and associated conditions.
+-   Optional: [Create one or more cloud policy groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy-group.md).
+-   [Configure a cloud policy rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-cloud-policy-rule.md) and associated conditions.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ The on Catalog item launch trigger fires when an order form \(stack request form
 
 4.  On the popup, click **Create** for the type of action to perform, enter a unique and meaningful **Action Name**, and then fill in the form for the action.
 
-    ![Create Action popup](../image/action-on-cat-item-launch.png)
+    ![Create Action popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/action-on-cat-item-launch.png)
 
 <table id="table_nbq_j2h_sfb"><thead><tr><th>
 
@@ -63,7 +63,7 @@ Action Script
 
 </td><td>
 
-Create the script in the text box.See [Create a policy action script](create-policy-script-1.md) for details.
+Create the script in the text box.See [Create a policy action script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-policy-script-1.md) for details.
 
 </td></tr></tbody>
 </table><table id="table_qhx_32h_sfb"><thead><tr><th>
@@ -90,13 +90,13 @@ Value
 
 Enter a value that overrides the value in the **Property** field. You can override text values only. You can specify a static value, an expression, or both. The example action, named **SetTheCostCenter**, specifies the value **Marketing** for the **CostCenter** property.
 
-![Configure a Property Override action](../image/action-property-override.png "Configure a Property Override action")
+![Configure a Property Override action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/action-property-override.png "Configure a Property Override action")
 
 **Note:**
 
 When both a policy rule and a form rule overwrite a value, the value in the form rule is used.
 
-Expressions can perform the following actions \(see [Using expressions in Cloud Provisioning and Governance](../reference/expressions-cloud-mgt-1.md) for details\):
+Expressions can perform the following actions \(see [Using expressions in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/expressions-cloud-mgt-1.md) for details\):
 
 -   Set form data values using definition expressions. For example: `${parameter.formData.CatalogAttributeType}`
 -   Assign user data values using definition expressions. For example: `${parameter.userData.userId}`
@@ -137,5 +137,5 @@ customScript : function( formData){
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a cloud policy](create-cloud-policy.md)
+**Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 

@@ -27,5 +27,5 @@ Install ServiceNow CLI by requesting it from the ServiceNow Store. Visit the [Se
     CLI Metadata \(com.sn\_cli\_metadata\): Planned for deprecation in the C release. There is no replacement for this application.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

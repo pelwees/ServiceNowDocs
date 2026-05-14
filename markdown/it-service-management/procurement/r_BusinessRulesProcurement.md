@@ -259,7 +259,7 @@ Hardware \[alm\_hardware\]
 Sets the **Configuration item** field on the catalog task and requested item to the related hardware CI created during the procurement process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Procurement](r_InstalledWithProcurement.md)
+</table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 
 **Related topics**  
 

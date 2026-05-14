@@ -96,10 +96,10 @@ Generate this
 Reference to the template record from which you are generating a scheduled job.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Default Template forms](default-template-forms.md)
+</table>**Parent Topic:**[Default Template forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/default-template-forms.md)
 
 **Related topics**  
 
 
-[Create a default template](../task/create-default-templates.md)
+[Create a default template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-default-templates.md)
 

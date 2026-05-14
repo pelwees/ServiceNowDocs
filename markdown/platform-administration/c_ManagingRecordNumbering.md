@@ -15,20 +15,20 @@ In the base system, several tables are numbered, including Incident, Problem, Ch
 
 Administrators can manage record numbering by navigating to **System Definition** &gt; **Number Maintenance**. The current number format for a table, including the prefix \(such as **INC** for incidents or **CHG** for changes\), is stored in a record on the Number \[sys\_number\] table.
 
-![A sample of number records, organized alphabetically by prefix.](../image/Number1.png "Number table")
+![A sample of number records, organized alphabetically by prefix.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/Number1.png "Number table")
 
 You can renumber auto-incremented tables that extend the task table or manage numbering with a database field named **Number this field**.
 
 **Note:** If you reset numbering in Number Maintenance, it only renumbers new records. It leaves the numbering as-is for existing records in system tables.
 
--   **[Add auto-numbering records in a table](../task/t_AutoNumberingRecordsInATable.md)**  
+-   **[Add auto-numbering records in a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_AutoNumberingRecordsInATable.md)**  
 You can define one number format per table in the system.
--   **[Prepare to left-pad number fields in custom tables](../task/t_PrepToLeftPadNumFldsInCustmTbls.md)**  
+-   **[Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_PrepToLeftPadNumFldsInCustmTbls.md)**  
 Before you configure left padding of number fields on a custom table or a table that does not extend the task table, you must prepare business rules and script includes.
--   **[Prevent numbering gaps](../task/t_PreventNumberingGaps.md)**  
+-   **[Prevent numbering gaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_PreventNumberingGaps.md)**  
 By default, numbers are generated every time a new record is created.
--   **[Enforcing unique numbering](c_EnforcingUniqueNumbering.md)**  
+-   **[Enforcing unique numbering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EnforcingUniqueNumbering.md)**  
 Although duplicate numbers are rare, numbering does not enforce uniqueness, by default.
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 

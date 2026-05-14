@@ -57,5 +57,5 @@ Role required: sn\_dex.admin
 
 ## What to do next
 
-[Define alert criteria](define-alert-criteria-event.md).
+[Define alert criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/define-alert-criteria-event.md).
 

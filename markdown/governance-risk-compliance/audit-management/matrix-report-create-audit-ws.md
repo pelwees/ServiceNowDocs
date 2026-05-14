@@ -27,12 +27,12 @@ Role required: sn\_matrix\_report.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix report configuration form](../reference/mat-report-config-form-audit-ws.md).
+    For a description of the field values, see [Matrix report configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../reference/mat-report-config-form-audit-ws.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-This configuration helps the Audit Workspace user to see the matrix report in the Audit Workspace. As an admin you have completed all the steps of matrix report configurations. Now, as a user you can [View matrix report in landing page and record page of Audit Workspace](matrix-report-view-audit-ws.md).
+This configuration helps the Audit Workspace user to see the matrix report in the Audit Workspace. As an admin you have completed all the steps of matrix report configurations. Now, as a user you can [View matrix report in landing page and record page of Audit Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/matrix-report-view-audit-ws.md).
 

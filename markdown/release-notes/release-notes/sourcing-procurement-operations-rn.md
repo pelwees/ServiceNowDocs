@@ -14,7 +14,7 @@ The ServiceNow® Sourcing and Procurement Operations application provides your e
 
 ## Sourcing and Procurement Operations highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -72,5 +72,5 @@ Install Sourcing and Procurement Operations by requesting it from the ServiceNow
     Provide experiences and tools to support key activities, such as procuring goods and services, onboarding high-performing suppliers, and processing invoices.
 
 
-**Parent Topic:**[Source-to-Pay Operations release notes](source-to-pay-operations-rn-landing.md)
+**Parent Topic:**[Source-to-Pay Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/source-to-pay-operations-rn-landing.md)
 

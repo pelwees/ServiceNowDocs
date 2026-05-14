@@ -37,7 +37,7 @@ If the user needs to take an additional action, such as attaching a document, th
     -   Requested item
 4.  Click the notification to view the details.
 
-    ![Comment in the notification](../images/comment-notification.png)
+    ![Comment in the notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/comment-notification.png)
 
 5.  Click **Send reply**.
 
@@ -48,5 +48,5 @@ If the user needs to take an additional action, such as attaching a document, th
 8.  Click **View ticket details** to view the complete details of the ticket.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-sn-ms-teams.md)
 

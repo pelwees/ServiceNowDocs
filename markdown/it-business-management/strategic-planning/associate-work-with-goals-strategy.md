@@ -25,11 +25,11 @@ You can associate a goal or target with planning items as well as with any Servi
 
 From the Align work window, you can associate a goal or target with multiple planning items at a time. From the Planning items tab of the goal or target, you can associate a goal or target with only one planning item at a time.
 
-You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md).
+You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md).
 
 **Note:** When a goal or target relationship is created with a planning item \(Project, Demand, or Epic\) or any other ServiceNow AI Platform table record, the record appears on the Aligned work tab on the goal record.
 
-![Align work with goals in Strategy and Goals.](../image/align-work-goal-strategy.gif)
+![Align work with goals in Strategy and Goals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../image/align-work-goal-strategy.gif)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ You can create goal or target relationships with a custom planning item from the
 
 2.  On the Strategy and Goals page, select the goal-based board for which your goal or target belongs to.
 
-3.  Select the Row context menu icon \(![Row context menu icon.](../../alignment-planner-workspace/images/more-actions.png)\) of the goal or target that you want to align work and then select **Align work**.
+3.  Select the Row context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/images/more-actions.png)\) of the goal or target that you want to align work and then select **Align work**.
 
 4.  On the Align work window, select items that you want to align.
 
@@ -49,17 +49,17 @@ You can create goal or target relationships with a custom planning item from the
 
     3.  Select **Confirm**.
 
-    For a description of the field values, see [Goal/Target Relationship form](../../spw-goals/reference/goal-relationship-form-egm.md).
+    For a description of the field values, see [Goal/Target Relationship form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-goals/reference/goal-relationship-form-egm.md).
 
 
 **Related topics**  
 
 
-[Create a goal](create-goal-strategy.md)
+[Create a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-[Add a target for goal](set-target-for-goal-strategy.md)
+[Add a target for goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/set-target-for-goal-strategy.md)
 
-[Duplicate a goal or target](duplicate-goal-target-strategy.md)
+[Duplicate a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/duplicate-goal-target-strategy.md)
 
-[Send a reminder for target actuals check in](send-reminder-target-checkin-strategy.md)
+[Send a reminder for target actuals check in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 

@@ -84,5 +84,5 @@ By default, Discovery uses the DataPower Server pattern to perform the discovery
 |Name \[name\]|
 |Domain \[domain\]|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_NetworkDevices.md)
 

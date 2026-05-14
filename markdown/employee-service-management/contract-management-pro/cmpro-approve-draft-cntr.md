@@ -27,7 +27,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller and contract manger
 
 3.  Select **Approve Contract**.
 
-    ![Contract in Draft state](../image/cmpro-amend-approve-cntr.png)
+    ![Contract in Draft state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-amend-approve-cntr.png)
 
 
 ## Result
@@ -37,5 +37,5 @@ The contract will move to either the Draft state-Approved substate or Active sta
 -   If the start date is in the future, the contract moves to the Draft state-Approved substate.
 -   If the start date is today or in the past, the contract moves to the Active state.
 
-**Parent Topic:**[Contract amendments](cmpro-amend-landing.md)
+**Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-amend-landing.md)
 

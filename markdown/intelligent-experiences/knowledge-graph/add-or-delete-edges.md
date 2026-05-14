@@ -35,17 +35,17 @@ Role required: kg\_admin
 
     Each related node displays a list of connecting edges and available edges.
 
-    ![Related nodes.](../Images/related-nodes.png)
+    ![Related nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/related-nodes.png)
 
-5.  To establish a connection to an available edge, select the plus icon \(![Plus icon.](../../../common/image/icon-zoom-in.png)\) against the edge.
+5.  To establish a connection to an available edge, select the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../common/image/icon-zoom-in.png)\) against the edge.
 
     The available edge is moved to **Connecting edges**. Select an edge to see its parent node and grandparent nodes in the hierarchy.
 
-6.  To reconfigure a connecting edge, select the edit icon \(![Edit icon.](../../document-intelligence/image/icon-docintel-edit.png) and update the following:
+6.  To reconfigure a connecting edge, select the edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../document-intelligence/image/icon-docintel-edit.png) and update the following:
 
     -   Edge type
     -   Edge description
-7.  To delete an edge and move it to available edges, select the remove edge \(![Remove edge.](../../../common/image/Form_DeleteIcon.png)
+7.  To delete an edge and move it to available edges, select the remove edge \(![Remove edge.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../common/image/Form_DeleteIcon.png)
 
 8.  To delete the edge, select **Remove edge** when prompted.
 

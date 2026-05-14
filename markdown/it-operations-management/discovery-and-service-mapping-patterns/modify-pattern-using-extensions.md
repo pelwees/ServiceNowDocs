@@ -29,7 +29,7 @@ Patterns can be of the infrastructure or application type. Infrastructure patter
 
 To modify the discovery logic in identification sections without changing the identification sections themselves, you can add extension sections to the pattern. Every extension section consists of a shared library, either new or existing.
 
-![Adding an extension section to a pattern.](../image/PatternExtensionSections.png "Adding an extension section to a pattern")
+![Adding an extension section to a pattern.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatternExtensionSections.png "Adding an extension section to a pattern")
 
 When you create or modify a shared library in the extension section, you save changes only to the shared library, not to the pattern containing this extension section.
 
@@ -39,9 +39,9 @@ The MID Server runs extension sections after identification sections and only if
 
 If there are more than one extension sections associated with this pattern, define the order in which the MID Server runs these extension sections.
 
-You can deactivate shared libraries, so that patterns using them, skip steps in deactivated shared libraries. For more information, see [Discovery Configuration Console](../../discovery/concept/c_DiscoveryConfigurationConsole.md#). If a precondition defined for a shared library step is not fulfilled, the pattern skips all steps belonging to this shared library. For example, if the file, to which the variable points, does not contain "test", the pattern does not run the shared library steps 1-1 to 1-5. The precondition exists only for the pattern within which you created it. The precondition does not affect other patterns using this shared library.
+You can deactivate shared libraries, so that patterns using them, skip steps in deactivated shared libraries. For more information, see [Discovery Configuration Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/c_DiscoveryConfigurationConsole.md#). If a precondition defined for a shared library step is not fulfilled, the pattern skips all steps belonging to this shared library. For example, if the file, to which the variable points, does not contain "test", the pattern does not run the shared library steps 1-1 to 1-5. The precondition exists only for the pattern within which you created it. The precondition does not affect other patterns using this shared library.
 
-![Precondition for a shared library step](../image/shared-library-precondition.png "Library Reference operation form")
+![Precondition for a shared library step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/shared-library-precondition.png "Library Reference operation form")
 
 ## Procedure
 
@@ -96,9 +96,9 @@ You can deactivate shared libraries, so that patterns using them, skip steps in 
 
 Click **Debug** to run the newly created extension section. Pattern Designer runs extension sections after running identification sections.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Discover related items together with the main CI](add-related-cis-to-the-main-ci-pattern.md)
+**Previous topic:**[Discover related items together with the main CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/add-related-cis-to-the-main-ci-pattern.md)
 
-**Next topic:**[Fine-tune patterns using traffic-based discovery](connection-section-traffic-based.md)
+**Next topic:**[Fine-tune patterns using traffic-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/connection-section-traffic-based.md)
 

@@ -55,5 +55,5 @@ You can delete a relationship in the following methods:
     6.  Confirm the deletion.
 
 
-**Parent Topic:**[Create a lineage for a processing activity](create-a-data-lineage-for-a-processing-activity.md)
+**Parent Topic:**[Create a lineage for a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-data-lineage-for-a-processing-activity.md)
 

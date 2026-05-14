@@ -20,7 +20,7 @@ Review outstanding notifications for your key Impact activities and deliverables
 |Section|Use|
 |-------|---|
 |Conversations|Scan all conversations you are included in. Start a conversation any time to ask a question or get advice from your Impact squad.|
-|All recommendations|View recommendations from your Squad. See [Activity Center All Recommendations](recommendations-value-journey.md) for additional information.|
+|All recommendations|View recommendations from your Squad. See [Activity Center All Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-activity-center/recommendations-value-journey.md) for additional information.|
 |Tasks|See and manage work items you are responsible for. Also create tasks and assign them to others.|
 |Calendar|See upcoming Impact related events, such as meetings, assessments, and goals.|
 |Activity log|See your team's latest activities and how they support your value journey. All activities, conversations, meetings and tasks are consolidated into one page for ease of access.|

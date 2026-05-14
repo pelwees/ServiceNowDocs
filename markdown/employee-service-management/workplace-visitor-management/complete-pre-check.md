@@ -23,7 +23,7 @@ Role required: None
 
 1.  Log in to the visitor portal, then select a visit.
 
-    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](../concept/login-visitor-portal.md#).
+    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/login-visitor-portal.md#).
 
     You can select **Message the host** to send an email to the host.
 
@@ -48,5 +48,5 @@ Role required: None
 
 ## What to do next
 
-The information that you provided is saved with the organization. You can manage your data from the visitor portal. For more information about managing your data, see [Manage your visitor data](manage-visitor-data.md).
+The information that you provided is saved with the organization. You can manage your data from the visitor portal. For more information about managing your data, see [Manage your visitor data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/manage-visitor-data.md).
 

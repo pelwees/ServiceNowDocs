@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the Catalog Item form, fill in the fields.
 
-    For more information about the fields and their descriptions on the Catalog Item form, see [Catalog Item form](../reference/catalog-item-form.md).
+    For more information about the fields and their descriptions on the Catalog Item form, see [Catalog Item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/catalog-item-form.md).
 
 4.  Click **Submit**.
 
@@ -35,16 +35,16 @@ Role required: admin
 ## What to do next
 
 -   Assign the item to additional catalogs and categories, if required.
--   Define [variables](../concept/c_ServiceCatalogVariables.md) for the item, if applicable.
+-   Define [variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogVariables.md) for the item, if applicable.
 -   To add attachments such as information and instruction documentation to the catalog item, see [Add an attachment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md).
 
 Read related topics:
 
--   [Create a service catalog variable](t_CreateAVariableForACatalogItem.md)
--   [Apply user criteria to items](t_AppUserCritItemsCat.md#)
--   [Set a recurring price](../concept/c_SetARecurringPrice.md)
+-   [Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
+-   [Apply user criteria to items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AppUserCritItemsCat.md#)
+-   [Set a recurring price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_SetARecurringPrice.md)
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)
 
 ## Edit a catalog item
 
@@ -116,7 +116,7 @@ Confirm that the following properties contain the correct values for accessibili
 
 3.  Select the Item Details tab.
 
-4.  In the **Description** field, select the accessibility checker icon ![accessibility checker icon](../../knowledge-management/image/accessibility-checker-icon.png) in the toolbar.
+4.  In the **Description** field, select the accessibility checker icon ![accessibility checker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../knowledge-management/image/accessibility-checker-icon.png) in the toolbar.
 
 5.  View accessibility-related issues in the **Accessibility Checker** window along with suggestions for resolution of each issue.
 

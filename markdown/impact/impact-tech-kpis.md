@@ -30,13 +30,13 @@ Tech KPIs empowers you with a easy to use visualizations of your organizations t
 
 ## Monitor
 
-As a benefit of Advanced and Total packages, Impact delivers a daily performance summary of how your instances are doing. You can dive deeper into performance details using Instance Observer, which is supported on all Impact packages, pulling real-time metrics and set up performance alerts. See [Monitoring instance health with Instance Observer](io-overview.md) for more information.
+As a benefit of Advanced and Total packages, Impact delivers a daily performance summary of how your instances are doing. You can dive deeper into performance details using Instance Observer, which is supported on all Impact packages, pulling real-time metrics and set up performance alerts. See [Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-overview.md) for more information.
 
 ## Support
 
 Get a dashboard view of your company's cases, case response time, case trends, and changes. You can view specific details on changes or cases in Now Support.
 
-![Cases and trends charts](../image/platform-health-charts.png)
+![Cases and trends charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/platform-health-charts.png)
 
-Receive developer support to help troubleshoot custom code and configurations. View the consumption report to see named contacts who can request developer support. See [Impact Developer Support](developer-support.md) for more information.
+Receive developer support to help troubleshoot custom code and configurations. View the consumption report to see named contacts who can request developer support. See [Impact Developer Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/developer-support.md) for more information.
 

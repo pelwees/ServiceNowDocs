@@ -27,13 +27,13 @@ Role required: evt\_mgmt\_admin
 
     The SA Alert Aggregation Pattern Attribute page opens.
 
-3.  Select the Unlock Feature Identifier Attributes icon \(![Unlock Feature Identifier Attributes icon](../image/em-unlock-feature-identifier.png)\) and move attributes from the **Available** list to the **Selected** list.
+3.  Select the Unlock Feature Identifier Attributes icon \(![Unlock Feature Identifier Attributes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-unlock-feature-identifier.png)\) and move attributes from the **Available** list to the **Selected** list.
 
     **Note:** Properties from CMDB CI via dot-walking are not populated.
 
     The **Configuration Item** attribute is automatically considered as an identifier and should not be added explicitly to the Feature Identifier Attributes section. The pattern is defined as a combination of the configuration item and your selected feature identifier attributes.
 
-4.  Selecting the Lock Feature Identifier Attributes icon \(![Lock Feature Identifier Attributes icon](../image/em-lock-feature-identifier.png.png)\).
+4.  Selecting the Lock Feature Identifier Attributes icon \(![Lock Feature Identifier Attributes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-lock-feature-identifier.png.png)\).
 
 5.  Select **Submit** for a new pattern identifier or **Update** for an existing pattern identifier.
 

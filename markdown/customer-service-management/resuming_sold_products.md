@@ -17,8 +17,8 @@ Resume single or multiple root sold products and create combined orders for susp
 
 |Task|Description|
 |----|-----------|
-|Resume a single sold product|[Resume a single sold product](resuming_sold_products.md#)|
-|Resume multiple sold products|[Resume multiple sold products](resuming_sold_products.md#)|
+|Resume a single sold product|[Resume a single sold product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/resuming_sold_products.md#)|
+|Resume multiple sold products|[Resume multiple sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/resuming_sold_products.md#)|
 
 ## Resume a single sold product
 

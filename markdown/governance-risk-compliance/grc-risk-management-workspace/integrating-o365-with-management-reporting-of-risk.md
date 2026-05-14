@@ -78,5 +78,5 @@ Horizontal bar chart
 </td></tr></tbody>
 </table>The following image shows how the imported data appears in a document.
 
-![How the imported data appears in a Word document.](../image/data-imported-risk-instance-word.jpg "How various types of imported data appears in a document")
+![How the imported data appears in a Word document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/data-imported-risk-instance-word.jpg "How various types of imported data appears in a document")
 

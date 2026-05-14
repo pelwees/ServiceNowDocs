@@ -40,5 +40,5 @@ For more information about warning and informational modifications and how to re
 
 ## What to do next
 
-[Map problem states](map-problem-state.md).
+[Map problem states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/map-problem-state.md).
 

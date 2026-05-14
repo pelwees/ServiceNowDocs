@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -35,7 +35,7 @@ Role required: evt\_mgmt\_admin
 
 4.  In the **Browse Integrations** tab, select the **All integrations** drop-down list and select **Metrics** &gt; **Pull**.
 
-    ![Metric pull integrations.](../image/sow-metricintegration-pull.png)
+    ![Metric pull integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-metricintegration-pull.png)
 
     Only metric pull connector tiles are displayed.
 
@@ -43,7 +43,7 @@ Role required: evt\_mgmt\_admin
 
     If a pop-up menu opens, select the data to track from that connector and select **Continue**.
 
-    ![Solarwinds metric connector details page.](../image/sow-solarwinds-metric-integration-details.png)
+    ![Solarwinds metric connector details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-solarwinds-metric-integration-details.png)
 
 6.  In the **Provide details** section, enter the following information and select **Next**.
 
@@ -132,14 +132,14 @@ Debugging
 
     The **Overview** tab allows you to verify that the connector is running and collecting data. It also offers options to improve system settings, such as refining alert definitions or enhancing binding configurations.
 
-    ![Connector is active with three tabs: Overview, Details, Data retrieval method.](../image/sow-solarwinds-metric-integration-activated.png)
+    ![Connector is active with three tabs: Overview, Details, Data retrieval method.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-solarwinds-metric-integration-activated.png)
 
     The **Details** tab allows you to update the connector's general information \(such as name or description\) and displays any errors encountered during its operation.
 
-    ![Details page in solarwinds metrics connector.](../image/sow-solarwinds-metric-integration-details-1.png)
+    ![Details page in solarwinds metrics connector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-solarwinds-metric-integration-details-1.png)
 
     The **Data Retrieval Method** tab contains the connector settings \(such as host, port, and credentials\) and may provide additional details for issues like MID Server errors.
 
-    ![Data retrieval method page in solarwinds metrics connector.](../image/sow-solarwinds-metric-integration-data-retrieval.png)
+    ![Data retrieval method page in solarwinds metrics connector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-solarwinds-metric-integration-data-retrieval.png)
 
 

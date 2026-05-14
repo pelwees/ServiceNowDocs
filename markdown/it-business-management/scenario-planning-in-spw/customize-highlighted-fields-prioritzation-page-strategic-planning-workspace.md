@@ -18,7 +18,7 @@ Customize the fields to be highlighted on the Prioritization page of a portfolio
 
 ## Before you begin
 
-[Modify Script Includes for Prioritization page in Strategic Planning](modify-script-includes-for-prioritization-page-strategic-planning.md).
+[Modify Script Includes for Prioritization page in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/modify-script-includes-for-prioritization-page-strategic-planning.md).
 
 Role required: admin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Highlighted Value form](../../alignment-planner-workspace/reference/highlighted-value-form.md).
+    For field information, see [Highlighted Value form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/highlighted-value-form.md).
 
 4.  Save the form.
 
@@ -40,7 +40,7 @@ Role required: admin
 
     2.  On the form, fill in the fields.
 
-        For field, information, see [Highlighted Value Condition form](../../alignment-planner-workspace/reference/highlighted-value-condition-form.md).
+        For field, information, see [Highlighted Value Condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/highlighted-value-condition-form.md).
 
     3.  Select **Submit**.
 
@@ -51,5 +51,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
+**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
 

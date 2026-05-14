@@ -50,7 +50,7 @@ Role required: admin
 
 ### What to do next
 
-[Register iManage as OAuth provider](set-up-imanage-spoke.md#).
+[Register iManage as OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-imanage-spoke.md#).
 
 ## Register iManage as OAuth provider
 
@@ -96,7 +96,7 @@ iManage is registered as an OAuth provider, which enables the instance to reques
 
 ### What to do next
 
-[Integrate the iManage spoke with ServiceNow instance](set-up-imanage-spoke.md#).
+[Integrate the iManage spoke with ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-imanage-spoke.md#).
 
 ## Integrate the iManage spoke with ServiceNow instance
 

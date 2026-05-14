@@ -13,7 +13,7 @@ breadcrumb: [MCO core, Explore, Manufacturing Commercial Operations]
 
 A recall process is a structured procedure launched by Original Equipment Manufacturers \(OEM\) to fix defects or issues in their manufactured products that are sold to the customers. Dealers can submit repair claims for work performed as part of recall campaigns, while OEM assessors benefit from a playbook-guided experience that simplifies and standardizes claim resolution.
 
-![Recall campaign workflow](../image/recall-claim-wf.png "Recall campaign workflow")
+![Recall campaign workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/recall-claim-wf.png "Recall campaign workflow")
 
 1.  Create recall campaign: The Recall manager creates the recall campaign.
 2.  Corrective action and charges: The dealer enters the parts and software asset details for which the claim is raised.
@@ -33,19 +33,19 @@ The MCO agent portal enables manufacturers to manage recall campaigns through a 
 
 Use the following to configure, use, and manage recall campaigns in MCO.
 
-Review the entities and relationships within the [Recall campaign data model](../reference/recall-claims.md), including tables added or modified by the recall claim plugin.
+Review the entities and relationships within the [Recall campaign data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/recall-claims.md), including tables added or modified by the recall claim plugin.
 
 1.  Configure recall campaign: Complete the following tasks to set up the recall campaign in your environment.
     1.  Install Manufacturing recall claim management \[sn\_rcl\_claim\_mgmt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md).
-    2.  Set up product models and parts: [Configuring product models](mco-product-models.md)
-    3.  Set up assets and install base items: [Configuring assets](mco-assets.md) and [Create an install base item](mco-create-install-base-item.md)
-    4.  Set up dealers: [Set up dealer](set-up-dealer.md)
-    5.  Assign recall roles: [Assign roles](assign-mco-roles.md)
+    2.  Set up product models and parts: [Configuring product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md)
+    3.  Set up assets and install base items: [Configuring assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md) and [Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md)
+    4.  Set up dealers: [Set up dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/set-up-dealer.md)
+    5.  Assign recall roles: [Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)
 2.  Work with recall campaign \(OEM\): Use the Agents \(CSM/FSM\) workspace to create and manage recall campaigns, phases, and claims.
-    1.  Create a recall campaign: [Create a campaign](mco-rc-my-campaigns.md)
-    2.  Define corrective action and charges: [Corrective actions](../task/mco-corrective-actions.md)
-    3.  Import impacted asset: [Importing impacted assets](../task/mco_importing_impacted_assets.md)
-    4.  Create and manage campaign phases: [Recall a campaign phase](../task/mco-recall-campaign-phases.md)
-    5.  Create phases and sub-phases: [Create a phase and sub-phase in a recall campaign](../task/mco_phases_sub-phases.md)
-3.  Work with recall campaign \(Dealer\): Use the Dealer portal to submit and track recall claims. [Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md).
+    1.  Create a recall campaign: [Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
+    2.  Define corrective action and charges: [Corrective actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-corrective-actions.md)
+    3.  Import impacted asset: [Importing impacted assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco_importing_impacted_assets.md)
+    4.  Create and manage campaign phases: [Recall a campaign phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-recall-campaign-phases.md)
+    5.  Create phases and sub-phases: [Create a phase and sub-phase in a recall campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco_phases_sub-phases.md)
+3.  Work with recall campaign \(Dealer\): Use the Dealer portal to submit and track recall claims. [Submit a repair claim for recall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim-for-recall.md).
 

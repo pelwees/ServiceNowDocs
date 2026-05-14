@@ -23,11 +23,11 @@ Role required: pa\_power\_user or higher
 
 2.  Select **Create indicator**.
 
-    ![Create indicator button on indicator library page.](../image/create-indicator-button.png)
+    ![Create indicator button on indicator library page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/create-indicator-button.png)
 
 3.  Select the type of indicator: Automated, Formula, Manual, External.
 
-    ![Create new indicator page opened from indicator library.](../image/create-new-indicator-page.png)
+    ![Create new indicator page opened from indicator library.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/create-new-indicator-page.png)
 
     -   **Automated indicator**
 
@@ -60,8 +60,8 @@ You are taken to the appropriate form, depending on your selection.
 
 Follow the instructions for the form that opens:
 
--   [Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
--   [Create a formula indicator](t_CreateAFormulaIndicator.md)
--   [Manual indicators](t_CreateAManualIndicator.md)
--   [Using Performance Analytics with external data](../concept/pa-external-data.md#)
+-   [Create an automated indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateAnAutomatedIndicator.md#)
+-   [Create a formula indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateAFormulaIndicator.md)
+-   [Manual indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateAManualIndicator.md)
+-   [Using Performance Analytics with external data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/pa-external-data.md#)
 

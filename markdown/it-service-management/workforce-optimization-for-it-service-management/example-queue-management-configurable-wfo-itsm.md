@@ -24,5 +24,5 @@ As a manager, the manager must ensure that they can set up **Channel Management*
 -   Monitor their teams' ongoing work and performance
 -   Join chat conversations to assist agents
 
-For detailed information on setting up channels using Workforce Optimization for ITSM, refer to [Setting up Channels using Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md).
+For detailed information on setting up channels using Workforce Optimization for ITSM, refer to [Setting up Channels using Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md).
 

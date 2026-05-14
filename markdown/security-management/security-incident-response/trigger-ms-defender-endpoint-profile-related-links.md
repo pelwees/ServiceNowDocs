@@ -33,7 +33,7 @@ In addition to running the profile for the CI or the Alternate CI of the securit
 
 4.  Browse and select a profile from the list of available profiles, and click **Submit**.
 
-    ![Trigger a Microsoft Defender for Endpoint capability profile from Related Links](../image/select_profile.png "Select a profile")
+    ![Trigger a Microsoft Defender for Endpoint capability profile from Related Links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/select_profile.png "Select a profile")
 
     The selected profile is triggered manually.
 

@@ -17,7 +17,7 @@ Merge multiple update sets into a single update set.
 
 ## Before you begin
 
-The batch update sets feature accomplishes the same outcome with a more predictable and robust solution. See [Update set batching](../hier-update-sets/concept/us-hier-overview.md).
+The batch update sets feature accomplishes the same outcome with a more predictable and robust solution. See [Update set batching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../hier-update-sets/concept/us-hier-overview.md).
 
 Role required: admin
 
@@ -29,7 +29,7 @@ Role required: admin
 
     You can only merge update sets that belong to the same application.
 
-    ![Merge update sets.](../image/merge-update-sets.png)
+    ![Merge update sets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../image/merge-update-sets.png)
 
 3.  Enter a **Name** for the new update set.
 
@@ -48,5 +48,5 @@ Role required: admin
 8.  Delete or empty the original update sets to avoid committing an older change by mistake.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/configure-system-update-sets.md)
 

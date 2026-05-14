@@ -20,14 +20,14 @@ Collectors support two run modes:
 -   Manual: An immediate, on-demand run. Use this after initial setup to verify that the collector connects and collects expected metadata
 -   Scheduled: A recurring run at a defined interval. Use this to keep catalog metadata current as the source system changes
 
-![Metadata collector interface showing schedule configuration options and run summary with manual run button highlighted.](../image/dc-mcollector-run-sch.png)
+![Metadata collector interface showing schedule configuration options and run summary with manual run button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-mcollector-run-sch.png)
 
--   **[Run metadata collectors manually](../task/run_metadata-collectors-manually.md)**  
+-   **[Run metadata collectors manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/run_metadata-collectors-manually.md)**  
 Execute a metadata collector on-demand to import metadata immediately.
--   **[Schedule metadata collector runs](../task/schedule-metadata-collector-runs.md)**  
+-   **[Schedule metadata collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/schedule-metadata-collector-runs.md)**  
 Schedule a metadata collector to run automatically at a specified frequency.
--   **[View runtime logs for collector runs](../task/view-runtime-logs-for-collector-runs.md)**  
+-   **[View runtime logs for collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/view-runtime-logs-for-collector-runs.md)**  
 Access execution logs and download detailed log files for metadata collector runs.
 
-**Parent Topic:**[Data Catalog](data-catalog.md)
+**Parent Topic:**[Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog.md)
 

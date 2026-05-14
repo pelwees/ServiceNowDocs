@@ -34,5 +34,5 @@ Role required: sn\_si.admin
 5.  Select **Save** to save the updated refresh interval.
 
 
-**Parent Topic:**[View and update Security Incident Response system properties](../concept/view-update-sirw-system-properties.md)
+**Parent Topic:**[View and update Security Incident Response system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/view-update-sirw-system-properties.md)
 

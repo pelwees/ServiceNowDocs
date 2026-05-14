@@ -108,5 +108,5 @@ Enter the order number to determine where the item appears in relation to other 
 
 ## What to do next
 
-For more information on widget instance options, see [Modify the org chart widget display](config-orgchart-instanceoptions.md).
+For more information on widget instance options, see [Modify the org chart widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-orgchart-instanceoptions.md).
 

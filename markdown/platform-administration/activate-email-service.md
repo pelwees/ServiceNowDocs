@@ -34,12 +34,12 @@ Role required: admin
 
 ## What to do next
 
-[Create a system address filter](../../../administer/notification/task/create-system-address-filter.md)
+[Create a system address filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/notification/task/create-system-address-filter.md)
 
-**Parent Topic:**[Activate email administration](../../../administer/notification/concept/activate-email-admin.md)
+**Parent Topic:**[Activate email administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/notification/concept/activate-email-admin.md)
 
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../../administer/plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/plugins/reference/list-of-plugins.md#)
 

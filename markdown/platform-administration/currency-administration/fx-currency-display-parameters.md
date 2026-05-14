@@ -27,7 +27,7 @@ Role required: admin, currency\_admin
 
 3.  In the **Table** field, select the table that contains the FX Currency dictionary attribute.
 
-    For example, if you created a custom table that stores transactional information and contains an FX Currency field, select it from the table listing. To learn more about creating tables in an instance, see [Create a table](../../table-administration/task/t_CreateATable.md).
+    For example, if you created a custom table that stores transactional information and contains an FX Currency field, select it from the table listing. To learn more about creating tables in an instance, see [Create a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../../table-administration/task/t_CreateATable.md).
 
 4.  In the **Field** field, select the column with the FX Currency field type.
 
@@ -89,7 +89,7 @@ Currency value, as entered into the designated FX Currency field. For example, i
 
 Currency value entered into the designated FX Currency field, converted to the session currency. -   For example, if the user locale is the United States, the session currency appears in US Dollars.
 -   If the user locale is Japan, the session currency appears in the Yen.
- To learn more about the user locale, see [Locale settings](../concept/locales.md).
+ To learn more about the user locale, see [Locale settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/locales.md).
 
 </td></tr><tr><td id="d217568e249">
 
@@ -97,7 +97,7 @@ Currency value entered into the designated FX Currency field, converted to the s
 
 </td><td>
 
-Currency value entered into the designated FX Currency field, converted to the reference currency designated in the **Reference Currency** field in the Reference tab. For example, if you enter the currency amount in Euros, it converts to and appears in US Dollars if that is the designated reference currency. To learn more the reference currency, see [Set the reference currency](fx-currency-set-reference.md).
+Currency value entered into the designated FX Currency field, converted to the reference currency designated in the **Reference Currency** field in the Reference tab. For example, if you enter the currency amount in Euros, it converts to and appears in US Dollars if that is the designated reference currency. To learn more the reference currency, see [Set the reference currency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-set-reference.md).
 
 </td></tr></tbody>
 </table>9.  In the **Aggregation Source** field, select the currency type to use when aggregating currency amounts for the designated field on reports.
@@ -130,5 +130,5 @@ Currency values, as entered into the designated FX Currency field, converted to 
 </table>10. Click **Save**.
 
 
-**Parent Topic:**[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+**Parent Topic:**[Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md)
 

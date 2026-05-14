@@ -23,7 +23,7 @@ Role required: web\_service\_admin
 
 ## About this task
 
-The following procedure describes the process for manual definition of a scripted REST API request header. For details about automatically generating request header definitions in non-production instances, see [Automatically generate API request definitions](autogenerate-api-request-definitions.md).
+The following procedure describes the process for manual definition of a scripted REST API request header. For details about automatically generating request header definitions in non-production instances, see [Automatically generate API request definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/autogenerate-api-request-definitions.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ The following procedure describes the process for manual definition of a scripte
 
 ## What to do next
 
-After defining available headers, associate the headers with a scripted REST resource. For more information, see [Associate a request header with a resource](associate-header-api-resource.md).
+After defining available headers, associate the headers with a scripted REST resource. For more information, see [Associate a request header with a resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/associate-header-api-resource.md).
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

@@ -19,27 +19,27 @@ The MetricBase application stores time-series data, which is data that is sample
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about MetricBase features and concepts](exploring-metricbase.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about MetricBase features and concepts](exploring-metricbase.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up MetricBase and create a time-series specification](configuring-metricbase.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up MetricBase and create a time-series specification](configuring-metricbase.md)
 
 </td><td>
 
-[Define and collect data![](../../../reuse/icons/brand-icons/bus-database.svg)Create a time-series definition, access MetricBase data, and detect anomalies using predictive models.](collecting-metricbase-data.md)
+[Define and collect data![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-database.svg)Create a time-series definition, access MetricBase data, and detect anomalies using predictive models.](collecting-metricbase-data.md)
 
 </td></tr><tr><td>
 
-[Trigger flows![](../../../reuse/icons/brand-icons/bus-workflow.svg)Create triggers that execute Workflow Studio flows.](metricbase-triggers.md)
+[Trigger flows![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-workflow.svg)Create triggers that execute Workflow Studio flows.](metricbase-triggers.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-elevate.svg)Manage the health and performance of MetricBase](maintain-metricbase.md#)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-elevate.svg)Manage the health and performance of MetricBase](maintain-metricbase.md#)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Access developer resources and learn about domain separation with MetricBase](reference-metricbase.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../reuse/icons/brand-icons/bus-learn.svg)Access developer resources and learn about domain separation with MetricBase](reference-metricbase.md)
 
 </td></tr></tbody>
 </table>

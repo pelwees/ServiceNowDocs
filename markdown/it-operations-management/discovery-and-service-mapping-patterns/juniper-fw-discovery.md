@@ -99,7 +99,7 @@ The discovered data includes the following tables and fields.
 
 The Dependency Views map on the Juniper Firewall Device CI shows the Juniper Firewall Cluster to which it belongs.
 
-![CIs and connections on a Dependency Views map](../image/juniper-fw-dependency-views.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/juniper-fw-dependency-views.png)
 
 ## CI relationships
 
@@ -121,5 +121,5 @@ These relationships are created to support Juniper network firewall discovery:
 |Contains::Contained by|Firewall Security Policy \[cmdb\_ci\_firewall\_security\_policy\]|
 |Firewall Security Policy \[cmdb\_ci\_firewall\_security\_policy\]|Extends from|CMDB CI \[cmdb\_ci\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

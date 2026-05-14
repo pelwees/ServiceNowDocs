@@ -41,7 +41,7 @@ If your organization uses domain separation, you can create custom embedded help
 -   If domain-specific content does not exist for a user in a domain, the user sees the global help content.
 -   Users in the global domain only see global help content. An administrator who wants to test domain-specific help must impersonate a user in that domain.
 
-**Parent Topic:**[Embedded Help reference](embedded-help-reference.md)
+**Parent Topic:**[Embedded Help reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-reference.md)
 
 **Related topics**  
 

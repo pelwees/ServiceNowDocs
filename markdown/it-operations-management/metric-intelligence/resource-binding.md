@@ -41,9 +41,9 @@ The MID Server generates metric binding events that are processed by the instanc
 
 ## Configure resource binding
 
--   Ensure that the [sa.metric.use.resource.binding](../reference/installed-with-metrics.md) system property is set to true \(default\).
+-   Ensure that the [sa.metric.use.resource.binding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../reference/installed-with-metrics.md) system property is set to true \(default\).
 -   For series intended to be bound to resources, ensure that the **resource\_path** attribute is populated by doing either step:
-    -   Use an event rule to add the **resource\_path** attribute to the **Additional information** field in events. For more information, see [Creating an event rule to map metrics to specific CIs](event-rule-bind-metrics-to-ci.md).
+    -   Use an event rule to add the **resource\_path** attribute to the **Additional information** field in events. For more information, see [Creating an event rule to map metrics to specific CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/event-rule-bind-metrics-to-ci.md).
     -   Populate the **resource\_path** attribute as a part of the respective CI identifier when data is sent to the MID Server for processing.
 -   Review the default mappings in the CI Type To Resource Class \[sa\_ci\_type\_to\_resource\_class\] table and adjust as needed. It is critical that mappings are set as desired prior to data processing.
 

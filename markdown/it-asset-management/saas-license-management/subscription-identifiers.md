@@ -17,44 +17,44 @@ Use the SaaS License Management application to view, manage, and resolve subscri
 
 Subscription identifiers uniquely identify your SaaS and SSO applications. Each subscription identifier is associated with a discovery map and software model that help to normalize the software that is installed in your environment. You can use this information to track your software subscriptions and understand your license positions.
 
-**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
+**Parent Topic:**[SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-subscription-management.md)
 
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md)
 
-[SaaS License Management setup for large companies](saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-setup-large-companies.md)
 
-[SaaS Overview dashboard](saas-overview-dashboard.md)
+[SaaS Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-overview-dashboard.md)
 
-[Integrate with SaaS applications](create-integration-profile.md)
+[Integrate with SaaS applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-profile.md)
 
-[Integrate with SSO providers](saas-sso-integration.md)
+[Integrate with SSO providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-sso-integration.md)
 
-[Playbook for SaaS integrations](playbook-saas-integrations.md)
+[Playbook for SaaS integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/add-reclamation-rule-sub.md)
 
-[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](delete-saas-integration.md)
+[Delete an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/delete-saas-integration.md)
 
-[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#)
 
 ## Manage updated subscription identifiers
 
@@ -76,7 +76,7 @@ Subscription identifiers update either automatically or manually depending on th
 
 2.  Select a software model that is marked with a dot.
 
-    A dot indicates that there are discrepancies between the associated subscription identifier and data that is provided in the latest content updates.![Software model with an updated subscription identifier.](../image/updated-sku.png)
+    A dot indicates that there are discrepancies between the associated subscription identifier and data that is provided in the latest content updates.![Software model with an updated subscription identifier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/updated-sku.png)
 
 3.  On the Software Model form, open the software model suggestions by clicking the warning icon ![](../image/warning-icon.png) next to the **Display name** field.
 
@@ -138,7 +138,7 @@ The ServiceNow AI Platform marks a subscription identifier as unrecognized when 
 
 1.  Send unrecognized subscription identifiers back to the ServiceNow content team by opting in to the Software Asset Management content service.
 
-    When you opt in to the Software Asset Management content service, verify that the **Unrecognized Subscription Identifier** KPI is enabled. See [Enable sharing information with Software Asset Management content service](../task/t_EnableSAMContentService.md) for detailed instructions.
+    When you opt in to the Software Asset Management content service, verify that the **Unrecognized Subscription Identifier** KPI is enabled. See [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/t_EnableSAMContentService.md) for detailed instructions.
 
 2.  Navigate to **SaaS License** &gt; **Unrecognized Subscription Identifiers**.
 

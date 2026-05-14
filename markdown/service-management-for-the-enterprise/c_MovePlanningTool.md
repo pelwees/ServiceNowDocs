@@ -52,16 +52,16 @@ Display
 -   Hide buildings and floors
 
 </td></tr></tbody>
-</table>![In this figure, the Move Planning Tool is displayed with different colors representing categories per floors in a building.](../image/MPTPlanningTab.png "Move Planning Tool")
+</table>![In this figure, the Move Planning Tool is displayed with different colors representing categories per floors in a building.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/MPTPlanningTab.png "Move Planning Tool")
 
--   **[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)**  
+-   **[Enterprise move scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveScenarios.md)**  
 Move scenarios are used by the Facilities team to see the implications of a move in relation to other moves. Multiple scenarios can be created.
--   **[Enterprise move details](../reference/r_EnterMoveDetails.md)**  
+-   **[Enterprise move details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveDetails.md)**  
 Enterprise move details are created when people are added to the scenario. Move details contain information about the move for a specific person, such the destination floor, destination building, need for moving boxes, or a security badge update.
--   **[Enterprise move requests](../reference/r_EnterMoveRequests.md)**  
+-   **[Enterprise move requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveRequests.md)**  
 Enterprise move requests are managed by a workflow, which contains required approvals from facilities\_admin or move\_admin. State changes are handled by UI actions.
--   **[Enterprise move tasks](../reference/r_EnterMoveTasks.md)**  
+-   **[Enterprise move tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveTasks.md)**  
 Before a move can be executed, destination locations for all users must be complete. Move tasks are based on check boxes on the request form.
 
-**Parent Topic:**[Enterprise move](c_EnterpriseMove.md)
+**Parent Topic:**[Enterprise move](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_EnterpriseMove.md)
 

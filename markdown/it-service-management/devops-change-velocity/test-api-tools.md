@@ -29,7 +29,7 @@ You must make sure that the test type you want to use in the API is available as
 
 2.  Verify if the test type is available in the Test types table.
 
-    ![Test types table.](../image/test-api-12.png)
+    ![Test types table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-12.png)
 
 3.  For custom test types, select **New** and add the test type to the list.
     1.  In the **Test type** field, enter a name for your test type.
@@ -41,7 +41,7 @@ You must make sure that the test type you want to use in the API is available as
 
 5.  Verify if the test type is mapped to your orchestration tool.
 
-    ![Test type mappings table.](../image/test-api-13.png)
+    ![Test type mappings table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-13.png)
 
 6.  If the mapping is not available, then select **New** and create the mapping.
     1.  From the **Test type** list, select the test type that you want to map.
@@ -91,15 +91,15 @@ Sample parameters for the body:
 }
 ```
 
-![Sample Azure DevOps pipeline configuration for performance tests.](../image/test-api-05.png)
+![Sample Azure DevOps pipeline configuration for performance tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-05.png)
 
 **Performance test summary in your Now instance**:
 
-![Performance test summary.](../image/test-api-06.png)
+![Performance test summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-06.png)
 
 **Test summary attached to your DevOps change request**:
 
-![Change request test summary.](../image/test-api-07.png)
+![Change request test summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-07.png)
 
 **Pipeline configuration for other functional and unit tests**
 
@@ -122,11 +122,11 @@ Sample parameters for the body:
 }
 ```
 
-![Sample Azure DevOps pipeline configuration for other functional tests.](../image/test-api-03.png)
+![Sample Azure DevOps pipeline configuration for other functional tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-03.png)
 
 **Test summary attached to your DevOps change request**:
 
-![Change request test summary.](../image/test-api-04.png)
+![Change request test summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-04.png)
 
 ## Azure DevOps YAML pipeline
 
@@ -178,11 +178,11 @@ stages:
           
 ```
 
-![Azure DevOps yml pipeline.](../image/test-api-08.png)
+![Azure DevOps yml pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-08.png)
 
 **Release pipeline**
 
-![Azure DevOps release pipeline yml.](../image/test-api-09.png)
+![Azure DevOps release pipeline yml.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-09.png)
 
 ## GitHub
 
@@ -226,7 +226,7 @@ jobs:
 
 ```
 
-![Sample GitHub pipeline configuration for performance tests.](../image/test-api-11.png)
+![Sample GitHub pipeline configuration for performance tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-11.png)
 
 **Pipeline configuration for other functional and unit tests**
 
@@ -267,7 +267,7 @@ jobs:
 
 ```
 
-![Sample GitHub pipeline configuration for other functional tests.](../image/test-api-10.png)
+![Sample GitHub pipeline configuration for other functional tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-10.png)
 
 ## Jenkins
 
@@ -324,7 +324,7 @@ pipeline {
 }
 ```
 
-![Sample Jenkins pipeline configuration for performance tests.](../image/test-api-01.png)
+![Sample Jenkins pipeline configuration for performance tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-01.png)
 
 **Pipeline configuration for other functional and unit tests**
 
@@ -378,12 +378,12 @@ pipeline {
 }
 ```
 
-![Sample Jenkins pipeline configuration for other functional tests.](../image/test-api-02.png)
+![Sample Jenkins pipeline configuration for other functional tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/test-api-02.png)
 
 ## Limitations of the test API
 
 -   Waiting logic will not be taken care of.
 -   Re-run scenarios cannot be handled.
 
-**Parent Topic:**[DevOps test tool integration](../concept/dev-ops-test-tool-integration.md)
+**Parent Topic:**[DevOps test tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/dev-ops-test-tool-integration.md)
 

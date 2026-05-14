@@ -58,28 +58,28 @@ The following workflows have been deprecated:
 Explore
 
  -   Australia
--   [Domain separation and Cloud Provisioning and Governance](domain-separation-cloud-management.md)
+-   [Domain separation and Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-separation-cloud-management.md)
 
 </td><td>
 
 Set up
 
- -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-aws-setup-day-1.md)
--   [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-azure-setup-guide.md)
--   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-vmware-setup-guide.md)
+ -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/concept/cloud-mgt-aws-setup-day-1.md)
+-   [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/concept/cloud-mgt-azure-setup-guide.md)
+-   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/concept/cloud-mgt-vmware-setup-guide.md)
 
 </td><td>
 
 Administer
 
- [Cloud Provisioning and Governance administration guide](cloud-configuration.md)
+ [Cloud Provisioning and Governance administration guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-configuration.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [Cloud Admin Portal](cloud-admin-portal.md)
--   [Cloud User Portal](../../cloud-management-v2-user/concept/cloudmgt-cloud-user-portal.md)
+ -   [Cloud Admin Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md)
+-   [Cloud User Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-user/concept/cloudmgt-cloud-user-portal.md)
 
 </td><td>
 

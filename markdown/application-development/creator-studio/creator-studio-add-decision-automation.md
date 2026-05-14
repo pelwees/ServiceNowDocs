@@ -23,7 +23,7 @@ To add decisions to a playbook, you must be given permission to work on the app.
 
 Each decision should have at least two branches, with each branch representing a possible outcome for the decision. The second branch can be the ELSE branch, which is required. The ELSE branch will be followed when all other conditions on other branches are false. Think of the else branch as the catch-all case for the decision.
 
-![A playbook in Creator Studio in Diagram view](../image/crs-playbook-diagram.png "Example decision with branches")
+![A playbook in Creator Studio in Diagram view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-playbook-diagram.png "Example decision with branches")
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Each decision should have at least two branches, with each branch representing a
 
 4.  Select the automation that contains the playbook that you want to add a decision to.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation that has the playbook")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation that has the playbook")
 
 5.  Select the add icon ![](../image/cs-add-icon.png) on the connector here you want to add a decision and choose the diamond-shaped **Add a decision** icon ![](../image/cs-add-decision-icon.png) in the menu that pops up.
 
@@ -48,7 +48,7 @@ Each decision should have at least two branches, with each branch representing a
     |Playbook name|Unique, user-facing name for the decisions, which appears to agents and fulfillers while the playbook is running.|
     |Description|Optional details about what the decision accomplishes.|
 
-    ![Basic details for a decision](../image/cs-decision-properties.png "Playbook decision properties")
+    ![Basic details for a decision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-decision-properties.png "Playbook decision properties")
 
 7.  Define the decision's schedule.
 
@@ -165,5 +165,5 @@ The app processes only the first listed branch with conditions met.If you select
 10. Select **Save and close**.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

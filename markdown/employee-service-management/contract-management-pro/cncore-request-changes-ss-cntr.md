@@ -44,7 +44,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Contract requests** &gt; **All**
 4.  Select a contract request.
 
@@ -109,7 +109,7 @@ Action
 
 </td><td>
 
-Send the document for signature. For more information, see [Send a contract document for signature](cncore-send-doc-signature.md).
+Send the document for signature. For more information, see [Send a contract document for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-doc-signature.md).
 
 </td></tr><tr><td id="d472585e250">
 
@@ -132,5 +132,5 @@ The change request is submitted for the contract document. The change request de
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Reviewing and finalizing a self-serve contract document](cncore-review-finalize-contract.md)
+**Parent Topic:**[Reviewing and finalizing a self-serve contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-review-finalize-contract.md)
 

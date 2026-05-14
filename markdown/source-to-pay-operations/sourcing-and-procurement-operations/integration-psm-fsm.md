@@ -31,33 +31,33 @@ On the **Inventory** tab, **My Purchases** and **My Purchasing To-dos** applets 
 
 On the **Inventory** tab, the **My Inventory** applet displays the assets that are created when creating transfer order lines from Field Service Management, as well as assets that are created when acknowledging the delivery of products from a vendor or supplier from Sourcing and Procurement Operations. Assets that are created in the Asset Usage table are also displayed here.
 
--   **[Integrate with Field Service Management](../task/integrate-psm-with-fsm.md)**  
+-   **[Integrate with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/integrate-psm-with-fsm.md)**  
 Field Service Management provides an integration with the Sourcing and Procurement Operations application. With this integration, a field service agent can engage with procurement and place an order to purchase a required part from a vendor or supplier.
--   **[Order parts you need using the Agent mobile application](../task/order-parts-using-agent-mobile.md)**  
+-   **[Order parts you need using the Agent mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/order-parts-using-agent-mobile.md)**  
 Place an order for a part that you require to complete a particular work order task, from the Sourcing and Procurement Operations flow, using the Agent mobile application.
 
-**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
+**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integrating-spo.md)
 
 **Related topics**  
 
 
-[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
+[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 
-[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
+[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
+[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-[Sourcing and Procurement Operations integration with Third-party Risk Management](better-together-with-vrm.md)
+[Sourcing and Procurement Operations integration with Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/better-together-with-vrm.md)
 
-[Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md)
+[Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-ppm.md)
 
-[Sourcing and Procurement Operations integration with Celonis](integration-psm-celonis.md)
+[Sourcing and Procurement Operations integration with Celonis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-celonis.md)
 
-[Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
+[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/erp-source-val-spo-objects.md)
 
-[SpendInt APIs](spendint-api.md)
+[SpendInt APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spendint-api.md)
 
-[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
+[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-file-transfer-framework.md)
 

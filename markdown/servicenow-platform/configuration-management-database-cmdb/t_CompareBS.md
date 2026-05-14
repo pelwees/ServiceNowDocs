@@ -55,7 +55,7 @@ Action
 
 </td><td>
 
-Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months to set the time range of the history scale.](../image/MapHistoryTimeRangeIcons.png)
+Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months to set the time range of the history scale.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryTimeRangeIcons.png)
 
 </td></tr><tr><td id="d452339e208">
 
@@ -63,7 +63,7 @@ Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months 
 
 </td><td>
 
-Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the time range.](../image/MapHistoryPlusMinusIcons.png)
+Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the time range.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryPlusMinusIcons.png)
 
 </td></tr><tr><td id="d452339e223">
 
@@ -71,7 +71,7 @@ Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the 
 
 </td><td>
 
-Click the history scale.![Click the history scale to mark the time which serves as the upper limit.](../image/MapHistoryMarkedPoint.png)
+Click the history scale.![Click the history scale to mark the time which serves as the upper limit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryMarkedPoint.png)
 
  The time that serves as the upper limit appears above the history timeline.
 
@@ -79,7 +79,7 @@ Click the history scale.![Click the history scale to mark the time which serves 
 
 You cannot set the lower limit on your history range to a time before this service instance was created. This time is marked with the **IT Service Created** event on the history timeline.
 
-![The IT Service Created pointer on the History timeline.](../image/MapHistoryBSCreatedPointer.png)
+![The IT Service Created pointer on the History timeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryBSCreatedPointer.png)
 
 </td></tr></tbody>
 </table>    The map shows the history view of the service instance for the time you selected.
@@ -88,17 +88,17 @@ You cannot set the lower limit on your history range to a time before this servi
 
 4.  Click the **Compare** icon.
 
-    ![The Compare icon on the Map page.](../image/MapHistoryCompareIcon.png)
+    ![The Compare icon on the Map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryCompareIcon.png)
 
 5.  Set **Compare point 1** and **Compare point 2** as the two points in time for the comparison.
 
     You can drag the pointers on the history scale to set corresponding time points.
 
-    ![Drag pointers to set time points.](../image/MapHistoryComparePointers.png)
+    ![Drag pointers to set time points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryComparePointers.png)
 
     If the history scale does not include the time set for comparison, then its corresponding pointer appears next to the compare point in yellow:
 
-    ![A yellow pointer](../image/MapHistoryComparePointersYellow.png)
+    ![A yellow pointer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryComparePointersYellow.png)
 
     **Note:** If there are no changes to the service during the time interval specified by **Compare point 1** and **Compare point 2**, then no change details are displayed.
 
@@ -108,7 +108,7 @@ You cannot set the lower limit on your history range to a time before this servi
 
 7.  Select a marked CI to see the relevant change record on the **Changes** tab.
 
-    ![Selecting a changed CI on the comparison map marks the relevant change on the Changes tab.](../image/MapHistoryComparisonResult.png)
+    ![Selecting a changed CI on the comparison map marks the relevant change on the Changes tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryComparisonResult.png)
 
 8.  If Service Mapping is deployed, you can compare two versions of a configuration file that appears on the map as Updated:
 
@@ -116,7 +116,7 @@ You cannot set the lower limit on your history range to a time before this servi
 
     2.  In the **Properties** pane, click the link to the updated file.
 
-        ![Click the link to see file comparison.](../image/MapHistoryComparisonFileTrack.png)
+        ![Click the link to see file comparison.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryComparisonFileTrack.png)
 
         The **Tracked Configuration Files Version Compare** tab opens showing two versions of the configuration file side by side.
 
@@ -137,7 +137,7 @@ You cannot set the lower limit on your history range to a time before this servi
 **Related topics**  
 
 
-[View the change history of application services in classic Service Mapping](t_ViewCIChanges.md)
+[View the change history of application services in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewCIChanges.md)
 
 [Compare versions of CI configuration files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/compare-configuration-files.md)
 

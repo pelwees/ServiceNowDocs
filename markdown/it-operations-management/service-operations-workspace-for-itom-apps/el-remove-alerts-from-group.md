@@ -45,7 +45,7 @@ Action
 
 </td><td>
 
-1.  In the Active alerts list, select the chevron icon \(![Chevron icon.](../image/icon-chevron.png)\) at the beginning of one or more alert group rows to display the alerts contained in the group.
+1.  In the Active alerts list, select the chevron icon \(![Chevron icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-chevron.png)\) at the beginning of one or more alert group rows to display the alerts contained in the group.
 2.  Select one or more secondary alerts.
 3.  From the **Close** drop-down list at the top right of the list, select **Remove from group**.
 
@@ -58,7 +58,7 @@ Action
 </td><td>
 
 1.  In the **Alerts in group** tab, select an alert tile.
-2.  Select the more actions icon \(![More actions icon](../../event-management/image/more-actions-icon.png)\).
+2.  Select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/more-actions-icon.png)\).
 3.  Select **Remove from group**.
 
 

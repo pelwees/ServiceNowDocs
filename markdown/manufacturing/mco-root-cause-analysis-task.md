@@ -25,7 +25,7 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 
 3.  On the Root Cause Analysis Task form, fill in the fields.
 
-    For a description of the field values, see [Root cause analysis task form](../reference/mco-root-cause-analysis-task-form.md).
+    For a description of the field values, see [Root cause analysis task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-root-cause-analysis-task-form.md).
 
 4.  Select **Save**.
 
@@ -38,15 +38,15 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 6.  Select **Save**.
 
 
--   **[Associating a task cause](mco-task-cause-associations.md)**  
+-   **[Associating a task cause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-task-cause-associations.md)**  
 Associate a cause to a RCA for the root cause analysis of the product non-conformance.
 
-**Parent Topic:**[Product Non-conformance without playbook](mco-related-lists-product-non-conformance.md)
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
 **Related topics**  
 
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-notes.md)
 
-[Resolution information form](../reference/mco-resolution-information-form.md)
+[Resolution information form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-resolution-information-form.md)
 

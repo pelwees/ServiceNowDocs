@@ -27,7 +27,7 @@ Updates
 
 </th></tr></thead><tbody><tr><td>
 
-[Require authorization for SOAP requests](../reference/sc-soap-request-authorization.md)
+[Require authorization for SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-soap-request-authorization.md)
 
 </td><td>
 
@@ -36,7 +36,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enforce OCSP check on network error](../reference/sc-enforce-ocsp-check-on-network-error.md)
+[Enforce OCSP check on network error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enforce-ocsp-check-on-network-error.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Disable external content URL](../reference/sc-disable-external-content-url.md)
+[Disable external content URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-external-content-url.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Restrict XML external entities](../reference/sc-xml-entity-validation-url-allowlist.md)
+[Restrict XML external entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xml-entity-validation-url-allowlist.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Disable unauthenticated published reports](../reference/sc-disable-unauthenticated-published-reports.md)
+[Disable unauthenticated published reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-unauthenticated-published-reports.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable password reset policy checks](../reference/sc-enable-password-reset-policy-checks.md)
+[Enable password reset policy checks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-password-reset-policy-checks.md)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](../reference/sc-setting-entity-expansion-threshold.md)
+[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-setting-entity-expansion-threshold.md)
 
 </td><td>
 
@@ -93,7 +93,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Disable outbound SSLv2/SSLv3 connections](../reference/sc-disabling-sslv2-sslv3.md)
+[Disable outbound SSLv2/SSLv3 connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disabling-sslv2-sslv3.md)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Disable GlideRecord Scope Fencing Legacy Behavior](../reference/sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
+[Disable GlideRecord Scope Fencing Legacy Behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Restrict uploaded MIME types](../reference/sc-upload-mime-type-restriction.md)
+[Restrict uploaded MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-upload-mime-type-restriction.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable Jelly JS interpolation protection for nested expressions](../reference/sc-enable-jelly-js-interpolation-protection-for-nested-expressions.md)
+[Enable Jelly JS interpolation protection for nested expressions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-jelly-js-interpolation-protection-for-nested-expressions.md)
 
 </td><td>
 
@@ -139,7 +139,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable UserCookie version 3.1](../reference/sc-enable-usercookie-version-3-1.md)
+[Enable UserCookie version 3.1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-usercookie-version-3-1.md)
 
 </td><td>
 
@@ -158,7 +158,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Log user impersonation](../reference/sc-log-user-impersonation.md)
+[Log user impersonation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-log-user-impersonation.md)
 
 </td><td>
 
@@ -167,7 +167,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Required JMS connection factories](../reference/sc-required-jms-connection-factories-plugin-applicability-mid-server.md)
+[Required JMS connection factories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-required-jms-connection-factories-plugin-applicability-mid-server.md)
 
 </td><td>
 
@@ -184,7 +184,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Proactively Invalidate Sessions After Defined Durations](../reference/sc-proactively-invalidate-inactive-sessions.md)
+[Proactively Invalidate Sessions After Defined Durations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-proactively-invalidate-inactive-sessions.md)
 
 </td><td>
 
@@ -209,7 +209,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict downloadable MIME types](../reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-downloadable-mime-type-denylist.md)
 
 </td><td>
 
@@ -229,7 +229,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disallow infected file download](../reference/sc-disallow-infected-files-download.md)
+[Disallow infected file download](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disallow-infected-files-download.md)
 
 </td><td>
 
@@ -240,7 +240,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict access to GlideSystemUserSession scriptable API](../reference/sc-access-glidesystemusersession-scriptable-api.md)
+[Restrict access to GlideSystemUserSession scriptable API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-access-glidesystemusersession-scriptable-api.md)
 
 </td><td>
 
@@ -249,7 +249,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable work order management query rules for service organizations](../reference/sc-enable-work-order-management-query-rules.md)
+[Enable work order management query rules for service organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-work-order-management-query-rules.md)
 
 </td><td>
 
@@ -267,7 +267,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Apply domain separation on dot walked fields](../reference/sc-apply-domain-separation.md)
+[Apply domain separation on dot walked fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-apply-domain-separation.md)
 
 </td><td>
 
@@ -276,7 +276,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce URL allowlist check](../reference/sc-enforce-url-allowlist-check.md)
+[Enforce URL allowlist check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enforce-url-allowlist-check.md)
 
 </td><td>
 
@@ -285,7 +285,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Set guest user for soap requests](../reference/sc-set-guest-user-for-soap-requests.md)
+[Set guest user for soap requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-set-guest-user-for-soap-requests.md)
 
 </td><td>
 
@@ -293,7 +293,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict access to background script](../reference/sc-restrict-access-to-background-script.md)
+[Restrict access to background script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-restrict-access-to-background-script.md)
 
 </td><td>
 
@@ -304,7 +304,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Verify certificate chain and hostname](../reference/sc-verify-certificate-chain-and-hostname.md)
+[Verify certificate chain and hostname](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-verify-certificate-chain-and-hostname.md)
 
 </td><td>
 
@@ -313,7 +313,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Control Lockout Time for Invalid Password Reset Attempts](../reference/sc-reset-password-request-max-attempts-window.md)
+[Control Lockout Time for Invalid Password Reset Attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-max-attempts-window.md)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable GlideRecord Scope Fencing Legacy Behavior](../reference/sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
+[Disable GlideRecord Scope Fencing Legacy Behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-gliderecord-scope-fencing-legacy-behavior.md)
 
 </td><td>
 
@@ -338,7 +338,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Limit Invalid Password Reset Attempts](../reference/sc-reset-password-request-max-attempts.md)
+[Limit Invalid Password Reset Attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-max-attempts.md)
 
 </td><td>
 
@@ -346,5 +346,5 @@ Rule Script: Script has been updated to improve detection accuracy.
 -   Old short description: **Minimize Reset Password Request Max Attempt Allowance**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Updated hardening settings](hardening-settings-updated.md)
+</table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 

@@ -27,14 +27,14 @@ Creating and connecting OAuth credentials consists of several tasks that must be
 
 ## Procedure
 
-1.  Complete all of the steps under [Create OAuth API endpoints for external clients](create-oauth-api-endpoints-for-external-clients.md) on the specified instances.
+1.  Complete all of the steps under [Create OAuth API endpoints for external clients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/create-oauth-api-endpoints-for-external-clients.md) on the specified instances.
 
-2.  Complete all of the steps under [Create third-party OAuth provider records](create-third-party-oauth-provider-records.md) on the specified instances.
+2.  Complete all of the steps under [Create third-party OAuth provider records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/create-third-party-oauth-provider-records.md) on the specified instances.
 
-3.  Complete all of the steps under [Use OAuth to create pipeline credentials](use-oauth-to-create-pipeline-credentials.md) on the specified instances.
+3.  Complete all of the steps under [Use OAuth to create pipeline credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/use-oauth-to-create-pipeline-credentials.md) on the specified instances.
 
 
 ## What to do next
 
-When you [Configure your pipeline environments](config-pipeline-environments.md), make sure you select the correct instance credential records for the instance you're configuring.
+When you [Configure your pipeline environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/config-pipeline-environments.md), make sure you select the correct instance credential records for the instance you're configuring.
 

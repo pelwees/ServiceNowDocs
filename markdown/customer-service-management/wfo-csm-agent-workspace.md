@@ -13,9 +13,9 @@ breadcrumb: [Agent management, Use, Customer Service Management]
 
 Manage your profile and schedule using Agent Workspace. Use coaching to review and complete assigned training.
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](configurable-wfo-cs.md).
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md).
 
-The image below displays the agent work flow between the different modules in Workforce Optimization for Customer Service. ![Agent workflow for Workforce Optimization for Customer Service.](../image/agent-wfo-workflow.png)
+The image below displays the agent work flow between the different modules in Workforce Optimization for Customer Service. ![Agent workflow for Workforce Optimization for Customer Service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-wfo-workflow.png)
 
 The Workforce Optimization for Customer Service features are accessible when the administrator activates the plugin \(com.snc.wfo\_csm\). This plugin activates related plugins that enable agents to use the Channel Management, Scheduling, Coaching, and Teams applications in Workforce Optimization for Customer Service.
 

@@ -19,9 +19,9 @@ The Post Incident Review functionality in ServiceNow provides many tools for aut
 
 This section describes the following:
 
--   [Assign post incident review roles](../task/assign-pir-roles.md)
--   [Configure an assessment trigger condition](../task/post-incident-review-setup.md)
--   [Perform a questionnaire-based post incident review](../task/t_PerformPostIncidentReview.md)
--   [Create post incident review assignment rules](../task/create-pir-assignment-rules.md)
--   [Post incident review report](new-post-incident-review-report.md)
+-   [Assign post incident review roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/assign-pir-roles.md)
+-   [Configure an assessment trigger condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/post-incident-review-setup.md)
+-   [Perform a questionnaire-based post incident review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_PerformPostIncidentReview.md)
+-   [Create post incident review assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-pir-assignment-rules.md)
+-   [Post incident review report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/new-post-incident-review-report.md)
 

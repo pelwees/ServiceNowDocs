@@ -31,10 +31,10 @@ Customer success managers can use this dashboard to monitor engagement metrics, 
     -   John Smith: 4 engagements
     -   Jane Doe: 2 engagements
 
-The success report dashboard provides a unified view of all engagements in the hierarchy, enhances productivity, reduces friction, and empowers customer success mangers to make data driven decisions effectively. For more details, see [Success report dashboard](account-lifecycle-success-report.md).
+The success report dashboard provides a unified view of all engagements in the hierarchy, enhances productivity, reduces friction, and empowers customer success mangers to make data driven decisions effectively. For more details, see [Success report dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-report.md).
 
--   **[Success report dashboard](account-lifecycle-success-report.md)**  
+-   **[Success report dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-report.md)**  
 Get an overall view of all your engagement and team status overview, risk indicators, onboarding and adoption insights, and expansion and renewal metrics.
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

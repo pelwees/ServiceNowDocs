@@ -31,7 +31,7 @@ Role required: admin \(to delete a case\) and sn\_wsd\_case.manager \(to cancel 
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
     The Case Management landing page opens.
 
@@ -65,20 +65,20 @@ Role required: admin \(to delete a case\) and sn\_wsd\_case.manager \(to cancel 
         The workplace case record, the associated SLAs and more are deleted from the application.
 
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-case-management.md)
 
 **Related topics**  
 
 
-[Manage workplace cases using Case management](manage-workplace-cases-using-case-management.md)
+[Manage workplace cases using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-cases-using-case-management.md)
 
-[Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md)
 
-[Create a workplace service case](create-a-case-casemgmtworkspace.md)
+[Create a workplace service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-case-casemgmtworkspace.md)
 
-[Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Print a workplace case](print-a-workplace-case.md)
+[Print a workplace case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-print-case.md#)
 

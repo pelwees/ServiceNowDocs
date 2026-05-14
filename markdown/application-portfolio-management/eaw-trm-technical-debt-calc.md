@@ -42,5 +42,5 @@ Technical debts are created at two levels if any of the following conditions are
         -   The edition of TRM lifecycle matching with edition for software discovery model \[cmdb\_sam\_sw\_discovery\_model\] AND
         -   Phase start date &lt;= Today's date &lt;=phase end date.
 
-**Parent Topic:**[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
+**Parent Topic:**[Manage the Technology Reference Model in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-managing-the-technology-portfolio.md)
 

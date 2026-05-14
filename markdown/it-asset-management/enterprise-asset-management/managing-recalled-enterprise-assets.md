@@ -28,12 +28,12 @@ Within each recall order, you must indicate how you are going to proceed with th
 
 Based on the option that you choose, you must complete all subsequent tasks to remediate the asset and move the corresponding enterprise recalled asset record to the Completed stage. After every enterprise recalled asset record within a recall order reaches the Completed stage, the recall order is marked as complete.
 
--   **[Submit a recall order for your enterprise assets](../task/submit-recall-order.md)**  
+-   **[Submit a recall order for your enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/submit-recall-order.md)**  
 Submit a recall order to initiate the replacement, repair, or retirement of enterprise assets that have been recalled by the asset vendor. You can also choose to provide your users with additional instructions on how to operate your recalled enterprise assets.
--   **[Acknowledge enterprise assets in the recall order](../task/acknowledge-recalled-assets-eam.md)**  
+-   **[Acknowledge enterprise assets in the recall order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/acknowledge-recalled-assets-eam.md)**  
 Review and confirm the enterprise assets included in the recall order to proceed with the recall process.
--   **[Completing a recall order for your enterprise assets](completing-recall-order-enterprise-assets.md)**  
+-   **[Completing a recall order for your enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-recall-order-enterprise-assets.md)**  
 After you submit a recall order for any enterprise assets that have been recalled by the asset vendor, you must perform various tasks to complete the order.
 
-**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 

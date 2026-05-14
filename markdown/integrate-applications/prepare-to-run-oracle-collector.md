@@ -25,18 +25,18 @@ The collector requires a dedicated Oracle database user with SELECT and EXECUTE 
 
 1.  Create Oracle user and grant permissions.
 
-    See [Set up user permissions](prepare-to-run-oracle-collector.md#).
+    See [Set up user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-oracle-collector.md#).
 
 2.  Prepare to harvest cross-server lineage.
 
-    See [Set up AWR permissions for lineage extraction](prepare-to-run-oracle-collector.md#).
+    See [Set up AWR permissions for lineage extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-oracle-collector.md#).
 
 3.  Prepare to harvest from autonomous databases.
 
-    See [Prepare to harvest cross-server lineage](prepare-to-run-oracle-collector.md#).
+    See [Prepare to harvest cross-server lineage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-oracle-collector.md#).
 
 
-**Parent Topic:**[Oracle metadata collector](../concept/oracle-metadata-collector.md)
+**Parent Topic:**[Oracle metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/oracle-metadata-collector.md)
 
 ## Set up user permissions
 

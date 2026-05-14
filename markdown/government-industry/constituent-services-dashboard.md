@@ -13,9 +13,9 @@ breadcrumb: [Analytics and Reporting, Public Sector Digital Services \(PSDS\)]
 
 Use this dashboard to monitor the health of citizen services, gain insights on how efficiently government cases are handled, and assess the overall performance of services offered.
 
-![Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.](../../../product/public-sector/image/constituent-service-overview-dboard-new.png "Constituent Service Dashboard Overview tab")
+![Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../product/public-sector/image/constituent-service-overview-dboard-new.png "Constituent Service Dashboard Overview tab")
 
-![Constituent Services Performance tab that displays KPIs and reports on open and closed cases represented by line and bar graphs.](../../../product/public-sector/image/constituent-service-dboard-performance-new.png "Constituent Service Dashboard Performance tab")
+![Constituent Services Performance tab that displays KPIs and reports on open and closed cases represented by line and bar graphs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../product/public-sector/image/constituent-service-dboard-performance-new.png "Constituent Service Dashboard Performance tab")
 
 ## Required ServiceNow AI Platform roles
 
@@ -286,5 +286,5 @@ Government Service Case \[sn\_gsm\_government\_service\_case\]
 Distribution of unassigned government cases by priority.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](../../application-content-packs/concept/psds-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../application-content-packs/concept/psds-content-pack.md)
 

@@ -69,7 +69,7 @@ Role required: admin
 
     2.  To add multiple IP Addresses at once, select the add multiple IP Addresses icon ![](../image/add-multiple.png), and enter or paste the IP addresses separated by commas.
 
-        ![Add multiple IP addresses window](../image/multiple-ip-addresses-window.png)
+        ![Add multiple IP addresses window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/multiple-ip-addresses-window.png)
 
 14. Exclude or ignore IP address ranges to scan:
 
@@ -107,7 +107,7 @@ Role required: admin
 
     You can select Sensors in the Allow and Deny sections; but do not select the same Sensor in both sections.
 
-    ![Allow deny Sensors](../image/sensors-allow-deny-site.png)
+    ![Allow deny Sensors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/sensors-allow-deny-site.png)
 
     **Note:** Sensors are online when the circle next to their name is green. A yellow circle indicates Sensors that are offline.
 

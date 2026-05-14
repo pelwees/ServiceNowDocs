@@ -29,12 +29,12 @@ A modeless dialog consists of three parts:
 -   Add any component from the UI Builder toolbox, for example, Email composer, Attachments, or Agent chat, into the body. You can apply layouts and configure the component as if you were adding the component to a page.
 -   If needed, provide additional buttons or content in the footer at the bottom of the modeless dialog.
 
-![New modeless dialog with header, body, footer section identified with text.](../image/modeless-dialog-anatomy.png)
+![New modeless dialog with header, body, footer section identified with text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modeless-dialog-anatomy.png)
 
--   **[Add modeless dialog to a UI Builder page](../task/add-modeless-dialog.md)**  
+-   **[Add modeless dialog to a UI Builder page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/add-modeless-dialog.md)**  
 Learn how to add a modeless dialog in UI Builder. A modeless dialog is a floating window containing content above a page.
--   **[Add modeless dialog event to a UI Builder page](../task/add-modeless-dialog-event.md)**  
+-   **[Add modeless dialog event to a UI Builder page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/add-modeless-dialog-event.md)**  
 Learn how to add and configure a modeless dialog event, such as open, close, or minimize in UI Builder. A modeless dialog is a floating window containing content above a page.
 
-**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md)
 

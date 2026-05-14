@@ -37,5 +37,5 @@ Role required: sn\_shop.invoice\_owner
     **Note:** When rejecting a request, you must provide your justification for rejection on the Reject request window.
 
 
-**Parent Topic:**[Invoice approvals](../concept/invoice-approvals.md)
+**Parent Topic:**[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/invoice-approvals.md)
 

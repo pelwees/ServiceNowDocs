@@ -135,5 +135,5 @@ Additional information to associate with the application.
 
 ## What to do next
 
-[Using ServiceNow Security Operations Integration add-on](using-sn-secops-int-addon.md)
+[Using ServiceNow Security Operations Integration add-on](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-sn-secops-int-addon.md)
 

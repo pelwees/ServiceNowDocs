@@ -22,7 +22,7 @@ Connect ServiceNow University with Coaching with Learning to pull courses from S
 -   Role required: admin.
 
 -   Integrate Coaching with Learning with ServiceNow University. For more information, see [External Content Integration Sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integration-source-coaching-with-learning-coaching-wfo-itsm.md).
--   Contact [nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your spoke credentials.
+-   Contact [nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your spoke credentials.
 
     **Note:** You must have an ITSM Enterprise license subscription to get your spoke credentials.
 
@@ -84,7 +84,7 @@ Ocp-Apim-Subscription-Key
 
 </td><td>
 
-Encryption key for the ServiceNow University subscription. Contact [nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your encryption key.
+Encryption key for the ServiceNow University subscription. Contact [nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your encryption key.
 
 </td></tr><tr><td colspan="2">
 
@@ -112,7 +112,7 @@ Client Id
 
 </td><td>
 
-The Client ID of the application registered in the third-party OAuth server. Contact [nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your Client ID.
+The Client ID of the application registered in the third-party OAuth server. Contact [nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your Client ID.
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Client Secret
 
 </td><td>
 
-The Client Secret of the application registered in the third-party OAuth server. Contact [nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your client secret.
+The Client Secret of the application registered in the third-party OAuth server. Contact [nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your client secret.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Username
 
 </td><td>
 
-User name to access the credential. Contact[nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your user name.
+User name to access the credential. Contact[nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your user name.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Password
 
 </td><td>
 
-Password to access the credential. Contact [nowlearningapi@servicenow.com](mailto:nowlearningapi_servicenow.com) to get your password.
+Password to access the credential. Contact [nowlearningapi@servicenow.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mailto:nowlearningapi_servicenow.com) to get your password.
 
 </td></tr><tr><td>
 

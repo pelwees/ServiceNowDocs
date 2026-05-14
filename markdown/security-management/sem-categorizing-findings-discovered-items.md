@@ -31,10 +31,10 @@ Whenever findings and discovered items are imported, the vulnerability classific
 -   For a selected table, there can only be one active classification group.
 -   Once you create a group, you can’t delete it.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configuring classification rules](sem-configure-classification-rules.md#)
+[Configuring classification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-classification-rules.md#)
 

@@ -34,7 +34,7 @@ A location record must contain at least one of the following properties or sets 
 
 By using this form, you can construct a location hierarchy. For example, the following example shows a typical location hierarchy that appears when you search for a location in the **Location** field in the Network Site form.
 
-![Locations hierarchy view with the list of locations.](../image/locations-hierarchy.png "Locations hierarchy")
+![Locations hierarchy view with the list of locations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/locations-hierarchy.png "Locations hierarchy")
 
 ## Procedure
 
@@ -44,10 +44,10 @@ By using this form, you can construct a location hierarchy. For example, the fol
 
 3.  On the Location form, fill in the fields, with address and contact information for the location record.
 
-    **Note:** To learn more about the fields on the Locations form, see [Location form](../reference/tni-location-forms.md#).
+    **Note:** To learn more about the fields on the Locations form, see [Location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-location-forms.md#).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](../concept/configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configuring-telecom-network-inventory.md)
 

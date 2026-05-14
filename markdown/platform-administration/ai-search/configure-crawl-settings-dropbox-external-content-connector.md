@@ -18,7 +18,7 @@ Specify the user and team folders you want your Dropbox external content connect
 
 ## Before you begin
 
-A connector admin must have already created the Dropbox external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Dropbox external content connector](create-ext-cont-connector-dropbox.md).
+A connector admin must have already created the Dropbox external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Dropbox external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-dropbox.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -87,7 +87,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude files with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 8.  Select **Save and validate**.
 
@@ -98,7 +98,7 @@ The Dropbox external content connector is updated with your modified crawl setti
 
 ## What to do next
 
-To retrieve content from your Dropbox source system using your modified crawl settings, create and run a one-time content crawl for your Dropbox external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Dropbox source system using your modified crawl settings, create and run a one-time content crawl for your Dropbox external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Dropbox external content connector](../concept/dropbox-external-content-connector.md)
+**Parent Topic:**[Dropbox external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/dropbox-external-content-connector.md)
 

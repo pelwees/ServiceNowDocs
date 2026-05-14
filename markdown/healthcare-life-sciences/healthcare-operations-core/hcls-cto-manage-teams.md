@@ -15,15 +15,15 @@ breadcrumb: [Navigate the Care Team Portal, Healthcare Operations Core, Healthca
 
 Manage your teams from directly within the Care Team Portal.
 
--   [View your teams using the Care Team Portal](../task/hcls-cto-view-teams-portal.md)
+-   [View your teams using the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../task/hcls-cto-view-teams-portal.md)
 
     View your teams from directly within the Care Team Portal.
 
--   [Add a team member using the Care Team Portal](hcls-add-member-portal.md)
+-   [Add a team member using the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-add-member-portal.md)
 
     Add a member to your team using the Care Team Portal.
 
--   [Remove a member using the Care Team Portal](../task/hcls-cto-remove-member.md)
+-   [Remove a member using the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../task/hcls-cto-remove-member.md)
 
     Remove a member from your team directly within the Care Team Portal.
 

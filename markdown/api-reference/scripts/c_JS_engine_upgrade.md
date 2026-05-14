@@ -33,14 +33,14 @@ The JavaScript engine provides an improved environment for developing scripts.
 
 You configure the mode that the JavaScript engine uses in the design and runtime settings for applications. Available modes are ECMAScript 2021 \(ES12\), ES5 Standards, and Compatibility.
 
--   **[JavaScript modes](c_JS_modes.md)**  
+-   **[JavaScript modes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_JS_modes.md)**  
 JavaScript mode is a design and runtime setting for custom applications and scripts. To support existing server-side scripts and new scripts developed to the ECMAScript 2021 standard, the JavaScript engine has three modes: ECMAScript 2021 \(ES12\), ES5 Standards, and Compatibility.
--   **[JavaScript engine feature support](../reference/javascript-engine-feature-support.md)**  
+-   **[JavaScript engine feature support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/javascript-engine-feature-support.md)**  
 Compare ECMAScript features between the ECMAScript 2021 \(ES12\) and ES5 Standards JavaScript modes in Australia. Both modes support a subset of ECMAScript features.
--   **[Updates to the JavaScript engine in Australia](../reference/updates-javascript-engine.md)**  
+-   **[Updates to the JavaScript engine in Australia](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/updates-javascript-engine.md)**  
 Review the updates to the JavaScript engine on the ServiceNow AI Platform in the Australia release.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../server-scripting/concept/c_ServerScripting.md)
 
 **Related topics**  
 

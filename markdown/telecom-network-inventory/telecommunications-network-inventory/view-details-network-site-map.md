@@ -33,7 +33,7 @@ Use the geo map to do the following:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the blue hub icon ![Blue Hub Icon.](../image/icon-blue-hub.png).
+2.  Select the blue hub icon ![Blue Hub Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-blue-hub.png).
 
     The Network visualization window is displayed.
 
@@ -55,7 +55,7 @@ Details
 
 </td><td>
 
-Hover over the map icon on the map pane and then select **View Details**. You can view the site details on the details pane. You can also view the image of the site. To learn more about how to upload an image, see [Add images to a network inventory record](add-image-network-invetory-record.md).
+Hover over the map icon on the map pane and then select **View Details**. You can view the site details on the details pane. You can also view the image of the site. To learn more about how to upload an image, see [Add images to a network inventory record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-image-network-invetory-record.md).
 
  **Note:** If you select the datacenter on the map pane, select **View floor map** to view the floor map. The **View Floor Map** automatically populates the campus only. You must manually select a building and floor to view the corresponding floor map.
 
@@ -127,10 +127,10 @@ Select a site to view the number of associated change requests on the details pa
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Geo map](../concept/using-network-site-map.md)
+**Parent Topic:**[Geo map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-network-site-map.md)
 
 **Related topics**  
 
 
-[Geo map](../concept/visualization-map.md)
+[Geo map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/visualization-map.md)
 

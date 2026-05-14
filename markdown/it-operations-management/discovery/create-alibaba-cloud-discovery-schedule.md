@@ -23,7 +23,7 @@ Role required: discovery\_admin
 
 1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
 
-    **Note:** Starting with v1.13.0, you can also create an Alibaba Cloud in Discovery Admin Workspace. For more information, see [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](create-alibaba-schedule-DAW.md).
+    **Note:** Starting with v1.13.0, you can also create an Alibaba Cloud in Discovery Admin Workspace. For more information, see [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-schedule-DAW.md).
 
 2.  Select the **Cloud Discovery** button.
 
@@ -59,7 +59,7 @@ Actions
     -   To use existing credentials, select the credential from the drop-down list.
     -   To create new credentials, select the plus button and fill in the fields.
 
-For more information, see [Create Alibaba Cloud API Credentials](create-alibaba-cloud-api-credentials.md).
+For more information, see [Create Alibaba Cloud API Credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-cloud-api-credentials.md).
 
 5.  Enter the URL of a datacenter in the **Datacenter URL** field.
 
@@ -109,5 +109,5 @@ The form fields are populated with the information from the selected account.
     -   To create the schedule but not run discovery, select **Finish** from the Finish and Run drop-down list.
     -   To create the schedule and run discovery, select **Finish and Run.**
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/alibaba-cloud-discovery.md)
 

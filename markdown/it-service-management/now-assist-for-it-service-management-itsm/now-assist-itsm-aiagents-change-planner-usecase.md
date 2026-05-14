@@ -58,8 +58,8 @@ In the use agentic workflow:
 
     **Example of a Generate change request plans agentic workflow output in the ServiceNow StudioAI Agent Studio**
 
-    ![Generate change request plans agentic workflow output.](../image/now-assist-itsm-aiagents-change-plan-nap.png)
+    ![Generate change request plans agentic workflow output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-aiagents-change-plan-nap.png)
 
 
-In the AI Agent Studio, the human agent gets notified as soon as the report gets generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as the report gets generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 

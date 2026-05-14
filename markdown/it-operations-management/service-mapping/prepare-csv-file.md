@@ -89,7 +89,7 @@ E
 
 ## What to do next
 
-[Map multiple application services from a CSV file using classic Service Mapping](import-business-services-csv.md)
+[Map multiple application services from a CSV file using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/import-business-services-csv.md)
 
-**Parent Topic:**[Map multiple application services from a CSV file using classic Service Mapping](import-business-services-csv.md)
+**Parent Topic:**[Map multiple application services from a CSV file using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/import-business-services-csv.md)
 

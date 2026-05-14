@@ -63,5 +63,5 @@ In other words, it’s a service organization relationship where a business loca
 
 ## What to do next
 
-Once the configuration is defined, you can associate your customers or business locations to a service organization. For more information, see [Associate customers or business locations to a service organization](associate-customers-or-bus-loc-to-so.md).
+Once the configuration is defined, you can associate your customers or business locations to a service organization. For more information, see [Associate customers or business locations to a service organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/associate-customers-or-bus-loc-to-so.md).
 

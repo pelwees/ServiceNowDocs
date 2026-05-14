@@ -99,7 +99,7 @@ Role required: admin
 
 2.  Close the notification, if it appears.
 
-    ![New version available notification.](../image/oracle-netsuite-spk-cls-note.png)
+    ![New version available notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-cls-note.png)
 
 3.  Select **Integrations**.
 
@@ -111,11 +111,11 @@ Role required: admin
 
 6.  On the Oracle NetSuite card, select **View Details**.
 
-    ![Oracle NetSuite View Details button.](../image/oracle-netsuite-view-details.png)
+    ![Oracle NetSuite View Details button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-view-details.png)
 
 7.  Select **Configure**.
 
-    ![Configure button.](../image/oracle-netsuite-spk-configure-button.png)
+    ![Configure button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-configure-button.png)
 
 8.  Fill the form.
 
@@ -137,7 +137,7 @@ Role required: admin
 
     **Note:** You must log in to Oracle NetSuite before the OAuth access token is granted.
 
-    ![Oracle NetSuite OAuth configuration done.](../image/oracle-netsuite-spk-oauth-token-avl.png)
+    ![Oracle NetSuite OAuth configuration done.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-oauth-token-avl.png)
 
 
 ## Generate webhook authentication token
@@ -175,7 +175,7 @@ To access the webhook, navigate to **All**&gt;**System Web Services****&gt; Scri
 
     The authentication token is generated.
 
-    ![Authentication token generated.](../image/oracle-netsuite-spk-auth-token-generated.png)
+    ![Authentication token generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-auth-token-generated.png)
 
 5.  Copy and store the authentication token at a secure place.
 
@@ -183,7 +183,7 @@ To access the webhook, navigate to **All**&gt;**System Web Services****&gt; Scri
 
     The webhook is recorded in the webhook registry.
 
-    ![Webhook registered in the webhook registry.](../image/oracle-netsuite-spk-webhook-regd.png)
+    ![Webhook registered in the webhook registry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-webhook-regd.png)
 
 
 ## Deploy SuiteScript in Oracle NetSuite
@@ -210,11 +210,11 @@ ServiceNow provides a preconfigured sample SuiteScript that you can update and e
 
 4.  Select **New Script**.
 
-    ![New Script button.](../image/oracle-netsuite-spk-deploy-netsuit1.png)
+    ![New Script button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-deploy-netsuit1.png)
 
 5.  Move the pointer over the **Script File** field, and click on the plus \(“+”\) icon
 
-    ![Script File field.](../image/oracle-netsuite-spk-deploy-script2.png)
+    ![Script File field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-deploy-script2.png)
 
 6.  Fill the form.
 
@@ -259,13 +259,13 @@ Select File
 Option to select the SuiteScript file.
 
 </td></tr></tbody>
-</table>    ![Enter file details.](../image/oracle-netsuite-spk-upload-script3.png)
+</table>    ![Enter file details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-upload-script3.png)
 
 7.  Select **Save**.
 
 8.  Select **Create Script Record**.
 
-    ![Create Script Record button.](../image/oracle-netsuite-spk-deploy-script4.png)
+    ![Create Script Record button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-deploy-script4.png)
 
 9.  In the Name field, enter a unique name.
 
@@ -277,13 +277,13 @@ Option to select the SuiteScript file.
 
 11. Select **Save**.
 
-    ![Create script records.](../image/oracle-netsuite-spk-deploy-script5.png)
+    ![Create script records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-deploy-script5.png)
 
     The script record screen appears.
 
 12. Select **Deploy Script**.
 
-    ![Deploy Script button.](../image/oracle-netsuite-spk-deploy-script6.png)
+    ![Deploy Script button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-netsuite-spk-deploy-script6.png)
 
 13. In the Script Deployment page, enter the name of the object in the Applies to field.
 

@@ -14,5 +14,5 @@ Configure Zoom to seamlessly integrate meeting invites originating from Hiring E
 
 For more information, see [Set up the Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-zoom.md).
 
-**Parent Topic:**[Integrations for Hiring Experiences](integrate-with-talent-acquisition.md)
+**Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/integrate-with-talent-acquisition.md)
 

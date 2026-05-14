@@ -33,27 +33,27 @@ Role required: sn\_critical.agent
 
 6.  Select the status of the person.
 
-    For details on impacted people status, see [Impacted people status](../reference/impacted-people-status.md).
+    For details on impacted people status, see [Impacted people status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../reference/impacted-people-status.md).
 
 7.  Enter any relevant notes.
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/manage-impacted-people.md)
 
 **Related topics**  
 
 
-[Generate impacted people list](generate-impacted-people-list.md)
+[Generate impacted people list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/generate-impacted-people-list.md)
 
-[Export an impacted people list](export-impacted-people-list.md)
+[Export an impacted people list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/export-impacted-people-list.md)
 
-[View an impacted person record](view-impacted-person-record.md)
+[View an impacted person record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-impacted-person-record.md)
 
-[Mark the status of impacted people as an agent](mark-status-of-impacted-people.md)
+[Mark the status of impacted people as an agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/mark-status-of-impacted-people.md)
 
-[View notifications received](view-notifications-received.md)
+[View notifications received](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-notifications-received.md)
 
-[Conduct a roll call as an on-site responder](conduct-roll-call.md)
+[Conduct a roll call as an on-site responder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/conduct-roll-call.md)
 

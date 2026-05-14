@@ -76,12 +76,12 @@ To allow the connector to access your ManageEngine content via the REST API, you
 Provide the following items to your connector admin:
 
 -   The URL for your ManageEngine instance.
--   The client ID that you copied in step [3.c](configure-manageengine-external-content-indexing.md#copy-client-id-step).
--   The client secret that you copied in step [3.d](configure-manageengine-external-content-indexing.md#copy-client-secret-step).
+-   The client ID that you copied in step [3.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-manageengine-external-content-indexing.md#copy-client-id-step).
+-   The client secret that you copied in step [3.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-manageengine-external-content-indexing.md#copy-client-secret-step).
 
 Your connector admin needs these items to configure a ManageEngine external content connector to retrieve public-domain knowledge articles from your ManageEngine source system.
 
-For details on creating and configuring a ManageEngine external content connector, see [Create a ManageEngine external content connector](create-ext-cont-connector-manageengine.md).
+For details on creating and configuring a ManageEngine external content connector, see [Create a ManageEngine external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-manageengine.md).
 
-**Parent Topic:**[ManageEngine external content connector](../concept/manageengine-external-content-connector.md)
+**Parent Topic:**[ManageEngine external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/manageengine-external-content-connector.md)
 

@@ -52,7 +52,7 @@ This setting can be toggled at any time.
 
 Library functions can be found in the function library \(in the Utilities section\).
 
-![Function library](../images/cpq-library-functions-function-library.png)
+![Function library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-library-functions-function-library.png)
 
 To add a function:
 
@@ -61,11 +61,11 @@ To add a function:
 
 Script content:
 
-![Sccript parameters](../images/cpq-library-functions-script-content.png)
+![Sccript parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-library-functions-script-content.png)
 
 Calling the function:
 
-![Code](../images/cpq-library-functions-calling-the-function.png)
+![Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-library-functions-calling-the-function.png)
 
 ## Limitations
 

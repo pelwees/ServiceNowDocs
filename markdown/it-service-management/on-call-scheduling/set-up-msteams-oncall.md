@@ -29,14 +29,14 @@ Role required: admin
 
 2.  Select **Microsoft Teams** as your preferred notification channel while defining the escalation settings for a user group.
 
-    For information on escalation settings, see [Escalation and reminder settings for rosters](../reference/escalation-remind-settings-oncall.md).
+    For information on escalation settings, see [Escalation and reminder settings for rosters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../reference/escalation-remind-settings-oncall.md).
 
 3.  For the required user group, create a trigger rule that uses the On-Call: Assign by Acknowledgement trigger workflow.
 
     If a user or shift manager sets the preferred contact channel as Microsoft Teams, a notification is sent to the user in Microsoft Teams along with the actions that a user can perform.
 
-    For information on creating a trigger rule, see [Create an escalation trigger rule](create-trigger-rule-oncall.md).
+    For information on creating a trigger rule, see [Create an escalation trigger rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-trigger-rule-oncall.md).
 
 
-**Parent Topic:**[Configuring On-Call Scheduling](../../user-administration/concept/configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/configuration.md)
 

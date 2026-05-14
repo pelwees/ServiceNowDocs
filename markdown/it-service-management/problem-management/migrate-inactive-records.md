@@ -36,5 +36,5 @@ Role required: admin
 
 ## What to do next
 
-View the [Migrated](migrated-records.md) topic.
+View the [Migrated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrated-records.md) topic.
 

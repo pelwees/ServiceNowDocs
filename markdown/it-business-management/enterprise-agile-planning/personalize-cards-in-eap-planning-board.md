@@ -25,7 +25,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 2.  From the Agile structure section of the left navigation panel, select your EAP Team.
 
-3.  From the Planning board, select the Planning board personalize panel icon \(![Personalize icon.](../images/eap-personalize-icon.png)\).
+3.  From the Planning board, select the Planning board personalize panel icon \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-personalize-icon.png)\).
 
 4.  From the Personalize side panel, update one or more of the following:
 
@@ -35,15 +35,15 @@ Role required: sn\_apw\_advanced.eap\_user
 
     -   Card size: Compact or Full.
 
-        ![Compact and Full work item cards in EAP planning board.](../images/eap-card-sizes.png)
+        ![Compact and Full work item cards in EAP planning board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-card-sizes.png)
 
     -   Indicators and data points that you want displayed on the cards.
     The selections are automatically applied to the cards. The following screenshot shows an ART planning board and its personalization options.
 
-    ![Personalizing data on story cards in EAP Planning board.](../images/eap-personalize-planning-board.png)
+    ![Personalizing data on story cards in EAP Planning board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-personalize-planning-board.png)
 
 5.  After making all the required selections, close the side panel.
 
 
-**Parent Topic:**[Perform PI planning in EAP](../concept/pi-planning-eap.md)
+**Parent Topic:**[Perform PI planning in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/pi-planning-eap.md)
 

@@ -17,7 +17,7 @@ Configure your analytics preview to use a navigation function. This function dir
 
 Role required: admin
 
-These steps detail instructions for adding your navigation function to an existing chart analytics preview. To utlize the navigation function, you must have configured a screen launcher with an analytics preview and a navigation to a chart screen. For details on that process, see [Create a mobile analytics preview](sg-mobile-dashboard-preview.md) and [Create a navigation function to a chart screen](config-chart-nav.md).
+These steps detail instructions for adding your navigation function to an existing chart analytics preview. To utlize the navigation function, you must have configured a screen launcher with an analytics preview and a navigation to a chart screen. For details on that process, see [Create a mobile analytics preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-dashboard-preview.md) and [Create a navigation function to a chart screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md).
 
 ## Procedure
 
@@ -31,9 +31,9 @@ These steps detail instructions for adding your navigation function to an existi
 
 3.  Select **All mobile records** from the menu.
 
-4.  From the **Record type** field, select Analytics preview **\[sys\_sg\_chart\]**, and then select the analytics preview record you created in the topic [Create a mobile analytics preview](sg-mobile-dashboard-preview.md).
+4.  From the **Record type** field, select Analytics preview **\[sys\_sg\_chart\]**, and then select the analytics preview record you created in the topic [Create a mobile analytics preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-dashboard-preview.md).
 
-5.  Navigate to the Destination screen navigation section and select the navigation function you created in the topic, [Create a navigation function to a chart screen](config-chart-nav.md).
+5.  Navigate to the Destination screen navigation section and select the navigation function you created in the topic, [Create a navigation function to a chart screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md).
 
 6.  Select **Save**.
 
@@ -44,9 +44,9 @@ With this procedure, you’ve created the infrastructure of a mobile analytics p
 
 ## What to do next
 
-The final process involves adding the analytics preview to the launcher screen UI section. For more information, see, [Configure an analytics UI section](sg-ui-section-config-reports.md).
+The final process involves adding the analytics preview to the launcher screen UI section. For more information, see, [Configure an analytics UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-reports.md).
 
-An additional configuration is available, where users view a list of records when they tap the data visualization. For more information, see [Create a parameterized list for your chart](nav-chart-to-list-1.md).
+An additional configuration is available, where users view a list of records when they tap the data visualization. For more information, see [Create a parameterized list for your chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/nav-chart-to-list-1.md).
 
-**Parent Topic:**[Create a navigation function to a chart screen](config-chart-nav.md)
+**Parent Topic:**[Create a navigation function to a chart screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md)
 

@@ -33,7 +33,7 @@ This function is responsible for saving the translations back to the system and 
 
 All the processor scripts extend LFArtifactProcessorSNC which defines the default implementation of this function, that is, saving the translations to standard tables. Defining this function in the processor script overrides the default behavior.
 
-**Note:** This script function is commented by default when a new processor script is created. For more information, see [Read script helper functions for LFDocumentContentBuilder](lf-document-content-builder.md).
+**Note:** This script function is commented by default when a new processor script is created. For more information, see [Read script helper functions for LFDocumentContentBuilder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-document-content-builder.md).
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/framework-configuration.md)
 

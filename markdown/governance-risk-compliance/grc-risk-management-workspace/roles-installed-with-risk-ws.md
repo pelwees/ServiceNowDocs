@@ -89,5 +89,5 @@ Business operational risk managers are the first lines of defense for each indiv
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Risk Management](../../grc-risk/reference/r_InstallWRisk.md)
+</table>**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/reference/r_InstallWRisk.md)
 

@@ -19,7 +19,7 @@ Specify if a space type is usable or not by using the Space type configuration f
 
 Ensure that you have the following:
 
--   The space type is configured in the application. Otherwise, refer to [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
+-   The space type is configured in the application. Otherwise, refer to [Add a space type configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
 -   Workplace Space Management is installed.
 
 Role required: sn\_wsd\_spcmgmt.manager
@@ -53,5 +53,5 @@ The space type is configured as usable.
 
 The size of all the spaces that are assigned to this space type is calculated in the **Usable size** fields of their areas, floors, and buildings.
 
-**Parent Topic:**[Add a space using Workplace Space Management](add-a-space.md)
+**Parent Topic:**[Add a space using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md)
 

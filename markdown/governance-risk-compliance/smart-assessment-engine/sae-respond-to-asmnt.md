@@ -26,7 +26,7 @@ If you have the assessment reassign \[sn\_smart\_asmt.reassign\] role, you can r
 
 The following example shows how your progress, save status, assessment status, reference information, actions, and more are indicated in the assessment view.
 
-![In-progress assessment that shows the previously described features and their indicators.](../image/sae-asmnt-respond.png "Example of an in-progress assessment")
+![In-progress assessment that shows the previously described features and their indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/sae-asmnt-respond.png "Example of an in-progress assessment")
 
 ## Assessment response features
 
@@ -36,7 +36,7 @@ The following example shows how your progress, save status, assessment status, r
 
 -   **Saving assessments**
 
-    Your assessment progress is automatically saved and your save status is indicated by the saved badge ![Saved badge.](../image/save-indicator.png).
+    Your assessment progress is automatically saved and your save status is indicated by the saved badge ![Saved badge.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/save-indicator.png).
 
 -   **Progress tracking in assessments**
 

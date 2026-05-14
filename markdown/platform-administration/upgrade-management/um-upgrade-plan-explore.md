@@ -27,7 +27,7 @@ You will need the following instances to use Upgrade Plan.
 -   Builder instance: Build your upgrade plan
 -   Consumer instance: Implement your created upgrade plan
 
-**Note:** Ensure that you have upgraded your instance to the latest available version to build the upgrade plan. It is recommended to configure your dev instance as your builder instance. You are required to install the upgrade plan before upgrading your consumer instance. See [Upgrade Plan Properties](../../upgrade-center/reference/uc-properties.md#table_h4b_wq2_5tb) for more details.
+**Note:** Ensure that you have upgraded your instance to the latest available version to build the upgrade plan. It is recommended to configure your dev instance as your builder instance. You are required to install the upgrade plan before upgrading your consumer instance. See [Upgrade Plan Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/reference/uc-properties.md#table_h4b_wq2_5tb) for more details.
 
 When you upgrade an instance, resolutions are skipped, and customizations are often loaded post upgrade. This causes temporary breakdown of features until fully loaded. Tasks like committing update sets, installing new plugins and applications, and multiple updates are also time consuming. Use the Upgrade Plan feature to automate these post-upgrade tasks by tracking your actions and replaying the steps on all the required instances. You don’t have to manually apply post-upgrade tasks which helps in reducing downtime.
 
@@ -42,19 +42,19 @@ You will see one of the following modal messages depending on the scenario:
 
 -   First time user: When you are building your Upgrade Plan for the first time \(the property is disabled by default\)
 
-    ![Screenshot showing first time user for Upgrade Plan](../../upgrade-center/image/uc_up_first_time_user.png)
+    ![Screenshot showing first time user for Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc_up_first_time_user.png)
 
 -   Building the upgrade plan with the property enabled
 
-    ![Screenshot showing building of Upgrade Plan with property enabled](../image/uc_build_up_property_enabled.png)
+    ![Screenshot showing building of Upgrade Plan with property enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/uc_build_up_property_enabled.png)
 
 -   Refreshing the Upgrade Plan with the property disabled \(default\)
 
-    ![Screenshot showing refreshing of the Upgrade Plan with property disabled](../image/uc_refresh_up_property_disabled.png)
+    ![Screenshot showing refreshing of the Upgrade Plan with property disabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/uc_refresh_up_property_disabled.png)
 
 -   Refreshing the Upgrade Plan with the property enabled
 
-    ![Screenshot showing refreshing of the Upgrade Plan with property enabled](../image/uc_refresh_up_property_enabled.png)
+    ![Screenshot showing refreshing of the Upgrade Plan with property enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/uc_refresh_up_property_enabled.png)
 
 
 ## Advantages of Upgrade Plan over Update Sets
@@ -115,5 +115,5 @@ During the consumption of the upgrade plan, the following operations are done in
 
 -   Auto-generation of the preview for the upgrade plan.
 
-See [Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md) for more information.
+See [Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-plans-tool.md) for more information.
 

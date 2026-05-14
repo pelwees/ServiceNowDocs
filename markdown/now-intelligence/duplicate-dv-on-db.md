@@ -47,5 +47,5 @@ The visualization is copied with the new information.
 
 **Important:** The new copy of the visualization is automatically saved.
 
-**Parent Topic:**[Duplicate a visualization in the Visualization Designer](duplicate-dv-ac.md)
+**Parent Topic:**[Duplicate a visualization in the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/duplicate-dv-ac.md)
 

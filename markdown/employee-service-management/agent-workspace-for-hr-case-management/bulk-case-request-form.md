@@ -92,14 +92,14 @@ Requested time
 Date and time your bulk case request was submitted to create cases. The value of this field is auto-populated upon creation of the user segment group.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](agent-ws-reference.md)
+</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-reference.md)
 
 **Related topics**  
 
 
-[Create a new case form](case-creation-form-aws.md)
+[Create a new case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/case-creation-form-aws.md)
 
-[Page Configurations reference](configuration-settings.md)
+[Page Configurations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configuration-settings.md)
 
-[Highlighted value condition form](highlighted-value-form.md)
+[Highlighted value condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/highlighted-value-form.md)
 

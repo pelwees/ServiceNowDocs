@@ -119,7 +119,7 @@ Credential aliases are cloned but their credentials aren’t cloned. If Discover
 
 Additionally, no MID Server related tables are cloned. For more details, see the [MID Servers and Clones \[KBKB0786475\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0786475) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
 **Related topics**  
 

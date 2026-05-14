@@ -24,7 +24,7 @@ You create the properties using the sys\_properties list and assign a version nu
 
 You can then use the GlideUICompatibility class to determine if the current browser is supported.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideUICompatibility - GlideUICompatibility\(String scopeName\)
 

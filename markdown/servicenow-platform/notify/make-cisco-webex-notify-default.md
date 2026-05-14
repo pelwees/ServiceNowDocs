@@ -89,5 +89,5 @@ Option for making Notify Cisco Webex the default provider if other notify provid
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/setup-cisco-webex-notify.md)
 

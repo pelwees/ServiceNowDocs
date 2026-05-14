@@ -17,13 +17,13 @@ View the last 28 days of incidents as raw trends, as a 7-day running average, or
 
 **Important:**
 
-Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
+Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/performance-analytics/incident.md) to view the last 28 days of incidents as raw trends, as a 7-day running average, or as a 28-day running average and filter the scores by assignment groups or incident.
 
-![Incident Daily tab of the Incident daily 7d-28d breakdown dashboard](../image/incident-7d-28d-daily.png "Incident Daily tab")
+![Incident Daily tab of the Incident daily 7d-28d breakdown dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-7d-28d-daily.png "Incident Daily tab")
 
-![Incident 7 day tab of the Incident daily 7d-28d breakdown dashboard](../image/incident-7d.png "Incident 7d tab")
+![Incident 7 day tab of the Incident daily 7d-28d breakdown dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-7d.png "Incident 7d tab")
 
-![Incident 28 day tab of the Incident daily 7d-28d breakdown dashboard](../image/incident-28d.png "Incident 28d (lower part)")
+![Incident 28 day tab of the Incident daily 7d-28d breakdown dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-28d.png "Incident 28d (lower part)")
 
 |End user and goal|Required role|
 |-----------------|-------------|
@@ -54,7 +54,7 @@ Starting in Xanadu release, the Incident Daily 7d - 28d dashboard is deprecated.
 
 ## Breakdowns
 
-You can apply breakdown elements on this dashboard to all widgets simultaneously. Above the chart in the upper left, select either Groups or Incident.Category. You can then select one or more elements and they will apply to all widgets.![Selecting the breakdown source and breakdown elements on the dashboard](../image/incident-daily-select-bkdn-elemnt.png)
+You can apply breakdown elements on this dashboard to all widgets simultaneously. Above the chart in the upper left, select either Groups or Incident.Category. You can then select one or more elements and they will apply to all widgets.![Selecting the breakdown source and breakdown elements on the dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-daily-select-bkdn-elemnt.png)
 
-**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](incident-content-pack.md)
+**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 

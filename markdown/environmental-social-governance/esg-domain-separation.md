@@ -83,7 +83,7 @@ The following is the list of domain separated tables:
 -   Risk Statement to Goal
 -   Material Topic
 
-For more information on these tables, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information on these tables, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../reference/components-installed-with-esg.md).
 
 ## Use case
 
@@ -93,7 +93,7 @@ ESG data can be separated from the data of other departments. Each business area
 
 In this use case, client scripts, business rules, workflows, processes, and so on can be domain-separated. While the behavior offered with domain separation provides multi-tenancy support, multi-tenancy is still contained within a single instance. This means that some global properties, some global data, and some global processes are shared across all domains. For example, the system’s “Remember me” option on the login page is global and cannot be specified per domain. If you need complete and total separation of all system properties and do not require global reporting or global processes, separate instances are the best option.
 
-**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](reference-data-esg.md)
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/reference-data-esg.md)
 
 **Related topics**  
 

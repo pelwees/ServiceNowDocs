@@ -39,7 +39,7 @@ This example demonstrates how an SLA can be attached to an incident, then progre
 
     The **Task SLA** Related List should now have a Priority 1 SLA attached to this incident.
 
-    ![Task SLAs related list on Incident form - Priority 1 SLA](../image/TaskSLAIncidentForm-Priority1.png)
+    ![Task SLAs related list on Incident form - Priority 1 SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/TaskSLAIncidentForm-Priority1.png)
 
     **Note:** The default **Priority 1 resolution \(8 hour\)** SLA definition record is used to create and attach this Task SLA.
 
@@ -47,7 +47,7 @@ This example demonstrates how an SLA can be attached to an incident, then progre
 
     The Priority 1 SLA is now marked **Cancelled**, and a Priority 2 SLA has been attached, because of the conditions on the SLAs.
 
-    ![Task SLAs related list on Incident form - Priority 2 SLA](../image/TaskSLAIncidentForm-Priority2.png)
+    ![Task SLAs related list on Incident form - Priority 2 SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/TaskSLAIncidentForm-Priority2.png)
 
 5.  Change the **Incident State** to **Awaiting User Info**, then save the form.
 
@@ -55,13 +55,13 @@ This example demonstrates how an SLA can be attached to an incident, then progre
 
     **Note:** The pause duration on Task SLA gets updated only after the SLA moves out of pause.
 
-    ![Task SLAs related list on Incident form - Priority 2 SLA paused](../image/TaskSLAIncidentForm-AwaitingUserInfo.png)
+    ![Task SLAs related list on Incident form - Priority 2 SLA paused](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/TaskSLAIncidentForm-AwaitingUserInfo.png)
 
 6.  Change the **Incident State** to **Active**, then save the form.
 
     Because the incident is no longer in a **Pause** condition, it resumes timing.
 
-    ![Task SLAs related list on Incident form - Priority 2 SLA in progress](../image/TaskSLAIncidentForm-Active.png)
+    ![Task SLAs related list on Incident form - Priority 2 SLA in progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/TaskSLAIncidentForm-Active.png)
 
 7.  Enter any **Close code** and **Close notes** values in the **Closure Information** section of the incident.
 
@@ -69,8 +69,8 @@ This example demonstrates how an SLA can be attached to an incident, then progre
 
     The SLA is marked **Completed**.
 
-    ![Task SLAs related list on Incident form - Priority 2 SLA completed](../image/TaskSLAIncidentForm-Resolved.png)
+    ![Task SLAs related list on Incident form - Priority 2 SLA completed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/TaskSLAIncidentForm-Resolved.png)
 
 
-**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/service-level-management-reference.md)
 

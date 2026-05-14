@@ -38,7 +38,7 @@ Plugins required:
 
     The **Invoice processing - Gen AI** use case is provided as out of the box within the skill.
 
-4.  Select **Invoice processing - Gen AI** use case.![Invoice data extraction](../image/doc-intel-na.png)
+4.  Select **Invoice processing - Gen AI** use case.![Invoice data extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/doc-intel-na.png)
 
 5.  Select **Save and Continue**.
 

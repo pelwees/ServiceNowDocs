@@ -50,8 +50,8 @@ Complete your document task by filling in the required details and submitting th
 
     The task is complete and appears in your Completed To Dos section. You can view and print the document with the submitted details.
 
-    ![Fillable PDf document](../image/fill-sign-document1.png "Example of a fillable PDF document") ![Fillable document](../image/fill-sign-document2.png "Example of a fillable PDF document")
+    ![Fillable PDf document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/fill-sign-document1.png "Example of a fillable PDF document") ![Fillable document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/fill-sign-document2.png "Example of a fillable PDF document")
 
 
-**Parent Topic:**[Working on a document task](work-doctemp-tasks.md)
+**Parent Topic:**[Working on a document task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 

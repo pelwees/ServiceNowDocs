@@ -27,7 +27,7 @@ The clock-in event is generated when you either login or set your status as **Av
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Click the Inbox icon \(![Inbox icon](../../configurable-workforce-optimization-itsm/image/inbox-icon.jpg)\).
+2.  Click the Inbox icon \(![Inbox icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/inbox-icon.jpg)\).
 
     -   To clock-in your shift, set your status to **Available**.
     -   To clock-out from your shift, set your status to **Offline** or **Break**.
@@ -36,5 +36,5 @@ The clock-in event is generated when you either login or set your status as **Av
 
 You can view your time attendance and adherence in **Lists** &gt; **Schedule Adherence** &gt; **Time Attendance** &gt; **Time Worked Summary** lists.
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/itsm-sow-workspace-scheduling.md)
 

@@ -21,13 +21,13 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can create custom event types and add or remove fields. For more information, see [Create event types to display on the team calendar with Workforce Optimization for Field Service](create-evet-types-wfo-fsm.md).
+You can create custom event types and add or remove fields. For more information, see [Create event types to display on the team calendar with Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/create-evet-types-wfo-fsm.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  Click the **Team Calendar** tab.
 

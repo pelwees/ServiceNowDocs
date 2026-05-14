@@ -36,9 +36,9 @@ Role required: virtual\_agent\_admin or admin
 
 6.  Select **Edit Record** at the top of the page.
 
-7.  In the **Fallback** field, select the Search icon \(![Search icon.](../images/icon-search.png)\) and select an available language.
+7.  In the **Fallback** field, select the Search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-search.png)\) and select an available language.
 
-    ![Languages table entry for Mexican Spanish. The Fallback line is highlighted, with Spanish entered as the fallback language.](../images/add-fallback-lang-existing.png)
+    ![Languages table entry for Mexican Spanish. The Fallback line is highlighted, with Spanish entered as the fallback language.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-fallback-lang-existing.png)
 
 8.  Select **Update**.
 
@@ -47,7 +47,7 @@ Role required: virtual\_agent\_admin or admin
 
 Custom locales appear in the Languages \[sys\_language\] table, along with their fallback language. The language code \(ID\) indicates a language that Virtual Agent can detect. In the following example, three French locales use French as the fallback language. Only French Canadian remains unconfigured.
 
-![The Languages table with custom locales configured. Highlighted entries for Belgium, Luxembourg, and Switzerland have standard French as a fallback, while Canadian French has no Fallback.](../images/fallback-lang-new-locales.png)
+![The Languages table with custom locales configured. Highlighted entries for Belgium, Luxembourg, and Switzerland have standard French as a fallback, while Canadian French has no Fallback.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/fallback-lang-new-locales.png)
 
-**Parent Topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/multi-language-options-va.md)
 

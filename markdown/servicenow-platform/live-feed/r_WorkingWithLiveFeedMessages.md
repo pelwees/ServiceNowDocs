@@ -38,5 +38,5 @@ Description
 -   Hashtags: Hashtags are words marked with a hash \(\#\) symbol in messages. Hashtags are used to categorize messages by keyword or topic for improved search results messages filtered from all conversations that include specific hashtags.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Live Feed UI overview](r_LiveFeedUIOverview.md)
+</table>**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedUIOverview.md)
 

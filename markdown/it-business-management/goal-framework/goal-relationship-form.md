@@ -48,5 +48,5 @@ Document ID
 Document ID of the column from the selected reference table.The suggested values in this field depend on the reference table selected in the **Table** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 

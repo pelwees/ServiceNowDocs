@@ -30,5 +30,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Using Certificates for authentication](using-certificates-for-authentication.md)
+**Parent Topic:**[Using Certificates for authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-certificates-for-authentication.md)
 

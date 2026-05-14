@@ -21,18 +21,18 @@ Move an element from one layer to another using the **Active Layer** option. Ele
 
 If your CAD file has numerous layers, use **Filter layers** to search and sort the layers that you want to select. Isolate a layer and work on it independently. Hide or show a layer on the CAD Editor preview.
 
-![Autocad editor preview.](../images/wsd-autocad-editor-view.png)
+![Autocad editor preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-autocad-editor-view.png)
 
--   **[Isolate a layer in the CAD editor](../task/isolate-layer.md)**  
+-   **[Isolate a layer in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/isolate-layer.md)**  
 CAD editor provides the ability to isolate a layer from multiple layers while editing your CAD file.
--   **[Hide or show a layer in the CAD editor](../task/show-a-layer.md)**  
+-   **[Hide or show a layer in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/show-a-layer.md)**  
 Hide or display a layer while you’re editing and updating layers in the CAD Editor.
--   **[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)**  
+-   **[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/editing-tools-cad-editor.md)**  
 The CAD Editor tab provides editing and drawing tools to configure, optimize, and edit your CAD files before importing it to the Map Studio.
 
-**Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
+**Parent Topic:**[Autocad import tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/autocad-ovw-v2.md)
 
-**Previous topic:**[Configure places](../task/edit-places.md)
+**Previous topic:**[Configure places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/edit-places.md)
 
-**Next topic:**[Isolate a layer in the CAD editor](../task/isolate-layer.md)
+**Next topic:**[Isolate a layer in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/isolate-layer.md)
 

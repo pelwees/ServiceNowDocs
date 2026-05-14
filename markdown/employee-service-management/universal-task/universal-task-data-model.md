@@ -19,14 +19,14 @@ You can create Universal Task for any department or service, such as a universal
 
 The following diagram is a high-level overview of the Universal Task data model.
 
-![Universal task data model.](../images/ut-data-model.png)
+![Universal task data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/ut-data-model.png)
 
 The Universal Task data model uses a combination of tables to store data:
 
 -   ServiceNow AI Platform tables.
 -   Tables that are included with the Universal Task application.
 
-For information on the tables and components that are installed with the Universal Task application, see [Components installed with Universal Task](../reference/installed-with-uni-task.md).
+For information on the tables and components that are installed with the Universal Task application, see [Components installed with Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../reference/installed-with-uni-task.md).
 
 The Universal Task \[sn\_uni\_task\_universal\_task\] table extends the Task \[task\] table to include:
 
@@ -62,14 +62,14 @@ The Universal Task \[sn\_uni\_task\_universal\_task\] table follows data separat
 The Universal Task configuration table is configured to identify the following details:
 
 -   The Parent table, or the department-specific table that uses Universal Task. For example, if Universal Task is being used with HR cases, then the HR case table is the parent table. Universal Task can only be created on a table that is an extension of the task table.
--   The task types that are available to the agents to task the requester with. For more details, see [Universal Task types](universal-task-types.md).
+-   The task types that are available to the agents to task the requester with. For more details, see [Universal Task types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-types.md).
 -   The **Default Assigned to** field that points to the **requester** field in the parent table. To auto-fill the **Assigned to** field with the assignee while creating a task, configure the **Default Assigned to** field.
 
-For more details, see [Configure Universal Task for your service](../task/config-ut-for-service.md).
+For more details, see [Configure Universal Task for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../task/config-ut-for-service.md).
 
-Specific task types might have additional configuration tables. For example, for the Submit catalog item task type, the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table determines which filters to apply to the catalog items that are available to an agent. For more information, see [Configure the catalog items for your service](../task/config-catalog-task.md).
+Specific task types might have additional configuration tables. For example, for the Submit catalog item task type, the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table determines which filters to apply to the catalog items that are available to an agent. For more information, see [Configure the catalog items for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../task/config-catalog-task.md).
 
 The Universal task configuration \[sn\_uni\_task\_config\] table and the Catalog task configuration \[sn\_uni\_task\_catalog\_task\_config\] table follow process separation.
 
-**Parent Topic:**[Exploring Universal Task](explore-universal-task.md)
+**Parent Topic:**[Exploring Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/explore-universal-task.md)
 

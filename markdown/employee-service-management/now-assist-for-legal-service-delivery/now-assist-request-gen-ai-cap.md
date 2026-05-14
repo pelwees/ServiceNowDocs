@@ -34,7 +34,7 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 2.  Navigate to **Workspaces** &gt; **Legal Counsel Center**.
 
-3.  Request the generative AI capabilities in LSD for summarization by selecting the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png).
+3.  Request the generative AI capabilities in LSD for summarization by selecting the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../../common/image/icon-ai-sparkle.png).
 
 4.  After you request the generative AI capabilities, select **Summarize a record**.
 
@@ -42,8 +42,8 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
     The summary is displayed.
 
-    ![Now Assist panel with selections for generating a request summarization](../image/lsd-na-side-panel.png)
+    ![Now Assist panel with selections for generating a request summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-na-side-panel.png)
 
 
-**Parent Topic:**[Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-summarize-case.md)
+**Parent Topic:**[Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-summarize-case.md)
 

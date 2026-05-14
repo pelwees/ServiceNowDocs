@@ -51,5 +51,5 @@ You must have the **cmdb\_ot\_viewer** role at minimum to use the CMDB search ag
 -   Agentic workflow for uploading, importing, and validating your OT device data with the Service Graph Connector for Microsoft Excel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring the OT Manager Foundation](configuring-na-otm.md)
+</table>**Parent Topic:**[Configuring the OT Manager Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 

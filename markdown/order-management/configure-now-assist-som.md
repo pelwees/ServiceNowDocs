@@ -28,5 +28,5 @@ Role required: admin
     For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 
-**Parent Topic:**[Now Assist for Sales Force Automation \(SFA\)](../concept/now-assist-for-sales-and-order-management-som.md)
+**Parent Topic:**[Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-for-sales-and-order-management-som.md)
 

@@ -32,10 +32,10 @@ Role required: admin
 
 ## Result
 
-The report count is updated based on the [eligible users](config-eligible-users-orgchart.md) and is populated in the organization chart.
+The report count is updated based on the [eligible users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-eligible-users-orgchart.md) and is populated in the organization chart.
 
 **Related topics**  
 
 
-[Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md)
+[Organization chart in Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-profile-org-chart.md)
 

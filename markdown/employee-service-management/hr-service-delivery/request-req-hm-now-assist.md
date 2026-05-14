@@ -25,7 +25,7 @@ Role required: sn\_ta\_hiring\_core.hiring\_manager, sn\_ta\_hiring\_core.recuit
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  Open the Virtual Agent chat window by selecting the chat icon \(![Chat icon for Virtual Agent](../../universal-request/images/icon-chat-va.png)\).
+2.  Open the Virtual Agent chat window by selecting the chat icon \(![Chat icon for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../universal-request/images/icon-chat-va.png)\).
 
 3.  Request to open a new job requisition in one of the following ways.
 
@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-Create a job requisition by answering the prompts, which are used to fill the Job requisition form.For a description of the field values, see [Job requisition form](../reference/new-job-form.md).
+Create a job requisition by answering the prompts, which are used to fill the Job requisition form.For a description of the field values, see [Job requisition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/new-job-form.md).
 
 </td></tr><tr><td id="d413319e170">
 
@@ -65,7 +65,7 @@ Duplicate an existing job requisition by selecting it from the provided list.**I
 
 A new job requisition is created.
 
-**Note:** When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment workspace. For more information, see [Get overview of recruitment workload](../concept/recruitment-workspace-oveview.md).
+**Note:** When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment workspace. For more information, see [Get overview of recruitment workload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/recruitment-workspace-oveview.md).
 
-**Parent Topic:**[Create a job requisition as a hiring manager](request-req-hm.md)
+**Parent Topic:**[Create a job requisition as a hiring manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/request-req-hm.md)
 

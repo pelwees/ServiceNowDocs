@@ -23,7 +23,7 @@ Subscription required: This feature requires an Integration Hub subscription. Fo
 
 Ensure that you've installed the required spoke plugin.
 
-**Parent Topic:**[Set up external trigger endpoints](set-up-external-webhook-endpoints.md)
+**Parent Topic:**[Set up external trigger endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-external-webhook-endpoints.md)
 
 ## Configure endpoint with Basic authentication support
 
@@ -41,21 +41,21 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Under the Endpoints heading, select **Configure** for the connection to set up an endpoint with basic authentication support.
 
-    ![Configure button for basic auth.](../images/set-up-endpoint-basic-auth.png)
+    ![Configure button for basic auth.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/set-up-endpoint-basic-auth.png)
 
-2.  To display the Add Role field, select ![Select roles icon.](../images/select-roles-plus-icon.png).
+2.  To display the Add Role field, select ![Select roles icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-roles-plus-icon.png).
 
-3.  To select one or more roles, select ![Select roles icon.](../images/select-roles-drop-down.png) or enter the name of one or more roles.
+3.  To select one or more roles, select ![Select roles icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-roles-drop-down.png) or enter the name of one or more roles.
 
-    ![Enter the roles.](../images/select-role-basic-auth.png)
+    ![Enter the roles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-role-basic-auth.png)
 
 4.  Select **Activate**.
 
     The endpoint for the third-party application webhook is generated in the URL field.
 
-    ![Endpoint is generated.](../images/basic-auth-endpoint-generated.png)
+    ![Endpoint is generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/basic-auth-endpoint-generated.png)
 
-5.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](../images/copy-endpoint-icon.png)\)
+5.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/copy-endpoint-icon.png)\)
 
     **Tip:** Keep the endpoint at a secure place to use later at the third-party application webhook.
 
@@ -99,11 +99,11 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Select **Edit**.
 
-    ![Edit button.](../images/endpoint-deconfigure-edit-button.png)
+    ![Edit button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/endpoint-deconfigure-edit-button.png)
 
 2.  Remove the roles.
 
-    ![Remove roles.](../images/deconfigure-edit-remove-roles.png)
+    ![Remove roles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/deconfigure-edit-remove-roles.png)
 
 3.  Select **Update**.
 

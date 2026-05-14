@@ -23,5 +23,5 @@ Fill in the Google API Credentials form to configure the credentials.
 |Secret Key|Secret key that you generated on the Google Cloud Console.|
 |Credential alias|A credential alias that is used by the credentials to authorize actions.|
 
-**Parent Topic:**[Set up Google Cloud Platform service accounts](../../it-operations-management/concept/set-up-gcp-service-accounts.md)
+**Parent Topic:**[Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../it-operations-management/concept/set-up-gcp-service-accounts.md)
 

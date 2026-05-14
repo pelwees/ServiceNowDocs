@@ -25,9 +25,9 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Select the assignment group or territory that the Field Service agent you want to manage is art of.
 
-3.  Tap the clipboard icon \(![clipboard](../image/manager-clipboard.png)\) next to the agent whose assigned tasks you want to see.
+3.  Tap the clipboard icon \(![clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/manager-clipboard.png)\) next to the agent whose assigned tasks you want to see.
 
-4.  Tap filter icon \(![filter](../image/filter-manager-app.png)\).
+4.  Tap filter icon \(![filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/filter-manager-app.png)\).
 
 5.  On the form, fill in the fields.
 

@@ -76,7 +76,7 @@ Role required: admin
         
         ```
 
-        ![Scripted extension point for the transformation of request payload](../images/va-api-payload-transformation-extension-point.png "sn_va_as_service.va_api_payload_transformation extension point")
+        ![Scripted extension point for the transformation of request payload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-api-payload-transformation-extension-point.png "sn_va_as_service.va_api_payload_transformation extension point")
 
     4.  Click **Update**.
 
@@ -119,10 +119,10 @@ Role required: admin
         
         ```
 
-        ![Scripted extension point for the transformation of response payload](../images/va-api-output-transformation-extension-point.png "sn_va_as_service.va_api_output_transformation extension point")
+        ![Scripted extension point for the transformation of response payload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-api-output-transformation-extension-point.png "sn_va_as_service.va_api_output_transformation extension point")
 
     4.  Click **Update**.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-virtual-agent-api.md)
 

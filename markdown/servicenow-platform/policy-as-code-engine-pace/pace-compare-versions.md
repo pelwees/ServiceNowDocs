@@ -36,7 +36,7 @@ Role required: sn\_pace.code\_editor
     -   The **Details** container highlights differences between the details of the two versions. For example, differences between the state, version name and numbering, and the number of test or standard runs.
     -   The **Script** container highlights any differences in the policy script of the two versions.
 
-        ![Compare version scripts](../image/pace-compare-script.jpg)
+        ![Compare version scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-compare-script.jpg)
 
     -   The **Mapping Inputs** container also lists any differences between the two versions.
 5.  To make any changes based on your analysis of the two compared versions, return to the **Versions** tab, select the relevant version, and modify and test as required.

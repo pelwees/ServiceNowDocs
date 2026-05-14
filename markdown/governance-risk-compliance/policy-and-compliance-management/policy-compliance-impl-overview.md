@@ -17,7 +17,7 @@ Use the steps in the GRC: Policy and Compliance Management application checklist
 
 The flow of mandatory steps in the checklist are illustrated here.
 
-![Graphic representation of the mandatory setup checklist.](../image/grc-p-and-c_management-setup.png)
+![Graphic representation of the mandatory setup checklist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/grc-p-and-c_management-setup.png)
 
-When you have completed the [mandatory steps](policy-compliance-mandatory-setup.md) outlined above, other [optional setup procedures](policy-compliance-optional-steps.md) are available.
+When you have completed the [mandatory steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-mandatory-setup.md) outlined above, other [optional setup procedures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-optional-steps.md) are available.
 

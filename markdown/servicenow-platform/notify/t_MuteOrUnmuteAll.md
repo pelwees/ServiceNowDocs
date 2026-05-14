@@ -50,12 +50,12 @@ Click this button to unmute all the participants in the conference
 </td></tr></tbody>
 </table>
 
-    ![Screenshot for mute All](../image/MuteAll.png)
+    ![Screenshot for mute All](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/MuteAll.png)
 
 
 
-    ![Screenshot for Unmute All](../image/UnmuteAll.png)
+    ![Screenshot for Unmute All](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/UnmuteAll.png)
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyConferenceCalls.md)
 

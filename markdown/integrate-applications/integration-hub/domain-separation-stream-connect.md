@@ -59,7 +59,7 @@ For consumers, all the tables used to keep runtime data are domain separated. Th
 -   Kafka Consumer Statistics \[sys\_kafka\_consumer\_statistics\]
 -   Kafka Unprocessed Messages \[sys\_kafka\_unprocessed\_messages\]
 
-Domain users can create domain-specific Kafka streams with the topics that are visible to the domain. When activating a Kafka stream, the subscription and partition groups are created within the same domain. At runtime, the domain of the partition group is set by the consumer thread so that all the data is imported to the correct domain. For more information on producers, consumers, and Kafka streams, see [Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md).
+Domain users can create domain-specific Kafka streams with the topics that are visible to the domain. When activating a Kafka stream, the subscription and partition groups are created within the same domain. At runtime, the domain of the partition group is set by the consumer thread so that all the data is imported to the correct domain. For more information on producers, consumers, and Kafka streams, see [Using Stream Connect for Apache Kafka](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/stream-connect-apache-kafka.md).
 
 ## Schema management
 
@@ -72,5 +72,5 @@ Tables for schemas and schema registries are domain separated. These include the
 -   Confluent Stream Connect Schema \[confluent\_stream\_connect\_schema\]
 -   Standalone Stream Connect Schema \[standalone\_stream\_connect\_schema\]
 
-**Parent Topic:**[Integration Hub reference](integration-hub-reference.md)
+**Parent Topic:**[Integration Hub reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integration-hub-reference.md)
 

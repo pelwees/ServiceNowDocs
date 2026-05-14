@@ -17,21 +17,21 @@ The Voice Interaction API provides endpoints to transcribe and store voice inter
 
 You can use this API to persist transcribed messages from an on-going phone call in real-time or to transcribe and store an existing voice conversation recording for historical purposes. Transcribed messages appear in Agent Workspace, allowing agents to leverage features such as agent assist and search, while talking to a caller. Transcribed messages are persisted in the Conversation Message \[sys\_cs\_message\] table.
 
-![Transcribed messages in Agent Workspace](../image/vir-agent_workspace.png)
+![Transcribed messages in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/vir-agent_workspace.png)
 
 ## Call flow
 
 The following call flow shows how to use the Voice Interaction API to create a voice interaction record, transcribe and store the messages within that voice conversation, and then close the voice conversation record. You can also use business rules and other scripts to perform this functionality, however, this type of implementation is not covered in this section.
 
-1.  First, call the [Voice Interaction Resource - POST /cs/voice-interactions](voice-interaction-resource-api.md#) endpoint to create a voice interaction record in the Interaction \[interaction\] table.
-2.  Then call the [Voice Interaction Resource - POST /cs/voice-interactions/\{interactionId\}/messages](voice-interaction-resource-api.md#) endpoint to store translated messages from the voice conversation into the Conversation Message table. If you are processing a real-time conversation, you should call this endpoint frequently, so that the messages appear in Agent Workspace in a timely manner. When processing a recording for historical purposes, you can pass all messages in a single endpoint call.
-3.  Once you are finished persisting the voice messages, call the [Voice Interaction Resource - PATCH /cs/voice-interactions/\{interactionId\}/state](voice-interaction-resource-api.md#) endpoint to terminate the capture and close the voice interaction record.
+1.  First, call the [Voice Interaction Resource - POST /cs/voice-interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint to create a voice interaction record in the Interaction \[interaction\] table.
+2.  Then call the [Voice Interaction Resource - POST /cs/voice-interactions/\{interactionId\}/messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint to store translated messages from the voice conversation into the Conversation Message table. If you are processing a real-time conversation, you should call this endpoint frequently, so that the messages appear in Agent Workspace in a timely manner. When processing a recording for historical purposes, you can pass all messages in a single endpoint call.
+3.  Once you are finished persisting the voice messages, call the [Voice Interaction Resource - PATCH /cs/voice-interactions/\{interactionId\}/state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint to terminate the capture and close the voice interaction record.
 
 ## Availability
 
 This API is available in the base ServiceNow system. Access is restricted by the ACLs imposed on the Interaction \[interaction\] and Conversation \[sys\_cs\_conversation\] tables.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## Voice Interaction Resource - PATCH /cs/voice-interactions/\{interactionId\}/state
 
@@ -43,7 +43,7 @@ Versioned URL: `/api/now/{api_version}/cs/voice-interactions/{interactionId}/sta
 
 Default URL: `/api/now/v1/cs/voice-interactions/{interactionId}/state`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -69,7 +69,7 @@ interactionId
 
 </td><td>
 
-Sys\_id of the interaction record whose voice interaction to terminate. Passed back by the [Voice Interaction Resource - POST /cs/voice-interactions](voice-interaction-resource-api.md#) endpoint.Data type: String
+Sys\_id of the interaction record whose voice interaction to terminate. Passed back by the [Voice Interaction Resource - POST /cs/voice-interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint.Data type: String
 
 Table: Interaction \[interaction\]
 
@@ -111,7 +111,7 @@ Required. State of the voice interaction.Only supported value: closed\_complete
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -144,7 +144,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -212,7 +212,7 @@ Versioned URL: `/api/now/{api_version}/cs/voice-interactions`
 
 Default URL: `/api/now/v1/cs/voice-interactions`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -300,7 +300,7 @@ Format: Defined by the software that created the voice conversation script. Typi
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -333,7 +333,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -359,8 +359,8 @@ interactionId
 
 Sys\_id of the newly created voice interaction record. Use this sys\_id when:
 
--   Calling the [Voice Interaction Resource - POST /cs/voice-interactions/\{interactionId\}/messages](voice-interaction-resource-api.md#) endpoint to add a message to the voice interaction.
--   Calling the [Voice Interaction Resource - PATCH /cs/voice-interactions/\{interactionId\}/state](voice-interaction-resource-api.md#) endpoint to end the voice interaction.
+-   Calling the [Voice Interaction Resource - POST /cs/voice-interactions/\{interactionId\}/messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint to add a message to the voice interaction.
+-   Calling the [Voice Interaction Resource - PATCH /cs/voice-interactions/\{interactionId\}/state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint to end the voice interaction.
 
 Data type: String
 
@@ -405,7 +405,7 @@ Versioned URL: `/api/now/{api_version}/cs/voice-interactions/{interactionId}/con
 
 Default URL: `/api/now/v1/cs/voice-interactions/{interactionId}/conversation`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -431,7 +431,7 @@ interactionId
 
 </td><td>
 
-Sys\_id of the interaction record for which to create the conversation record. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](voice-interaction-resource-api.md#) endpoint and stored in the Interaction \[interaction\] table.Data type: String
+Sys\_id of the interaction record for which to create the conversation record. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint and stored in the Interaction \[interaction\] table.Data type: String
 
 </td></tr></tbody>
 </table>|Name|Description|
@@ -501,7 +501,7 @@ Format: Defined by the software that created the voice conversation script. Typi
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -534,7 +534,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -601,7 +601,7 @@ Versioned URL: `/api/now/{api_version}/cs/voice-interactions/{interactionId}/mes
 
 Default URL: `/api/now/v1/cs/voice-interactions/{interactionId}/messages`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -627,7 +627,7 @@ interactionId
 
 </td><td>
 
-Sys\_id of the interaction record to add the specified messages to. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](voice-interaction-resource-api.md#) endpoint and stored in the Interaction \[interaction\] table.Data type: String
+Sys\_id of the interaction record to add the specified messages to. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint and stored in the Interaction \[interaction\] table.Data type: String
 
 </td></tr></tbody>
 </table>|Name|Description|
@@ -809,7 +809,7 @@ Valid values:
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -842,7 +842,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -970,7 +970,7 @@ Versioned URL: `/api/now/{api_version}/cs/voice-interactions/{interactionId}/tra
 
 Default URL: `/api/now/v1/cs/voice-interactions/{interactionId}/transcript`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -1021,7 +1021,7 @@ interactionId
 
 </td><td id="vto-interactionId-REST-entry">
 
-Sys\_id of the interaction record to add the specified messages to. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](voice-interaction-resource-api.md#) endpoint.Data type: String
+Sys\_id of the interaction record to add the specified messages to. This value is returned by the [Voice Interaction Resource - POST /cs/voice-interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/voice-interaction-resource-api.md#) endpoint.Data type: String
 
 Table: Interaction \[interaction\]
 
@@ -1202,7 +1202,7 @@ Valid values:
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -1235,7 +1235,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

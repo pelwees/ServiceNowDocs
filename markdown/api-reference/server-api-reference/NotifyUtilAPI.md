@@ -25,7 +25,7 @@ Using the NotifyUtil script include you can:
 -   Obtain the SMS-capable number associated with the specified Notify user.
 -   Validate a specified Notify telephone number.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## NotifyUtil - NotifyUtil\(\)
 
@@ -242,7 +242,7 @@ userGROrId
 
 </td><td>
 
-String or [GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+String or [GlideRecord - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#)
 
 </td><td>
 

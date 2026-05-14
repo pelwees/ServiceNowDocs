@@ -27,7 +27,7 @@ Users configured as part of the admin list, can contribute user criteria or owne
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Exam form](../reference/exam-form.md).
+    For a description of the field values, see [Exam form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/exam-form.md).
 
 3.  Select **Submit**.
 
@@ -40,19 +40,19 @@ The exam is created in Draft state.
 
 ## What to do next
 
-Add questions to an exam. See, [Add questions to an exam](add-questions-exam.md).
+Add questions to an exam. See, [Add questions to an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md).
 
--   **[Add questions to an exam](add-questions-exam.md)**  
+-   **[Add questions to an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md)**  
 Add questions for an exam in Career Assessment.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-exam-engine.md)
 
 **Related topics**  
 
 
-[Create exam catalogs](create-exam-catalog.md)
+[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/create-quiz-path.md)
 
-[View an exam instance](view-exam-instance.md)
+[View an exam instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-exam-instance.md)
 

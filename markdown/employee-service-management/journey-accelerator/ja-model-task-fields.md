@@ -132,5 +132,5 @@ Task description
 The description of the task that is visible to the users.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey Accelerator reference](ja-reference.md)
+</table>**Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 

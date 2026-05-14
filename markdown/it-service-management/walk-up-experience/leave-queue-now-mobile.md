@@ -21,7 +21,7 @@ Role required: user
 
 ## Procedure
 
-1.  On your mobile device, tap the Now® Mobile app icon \(![NOW mobile app icon](../../asset-management/image/now-mobile.png)\).
+1.  On your mobile device, tap the Now® Mobile app icon \(![NOW mobile app icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../asset-management/image/now-mobile.png)\).
 
 2.  Navigate to **My Items** &gt; **My Tech Visits**.
 
@@ -30,8 +30,8 @@ Role required: user
     |Tab|Navigation|
     |---|----------|
     |**My Items**|Tap **My Tech Visits**|
-    |**Services**|Tap the more options icon **\(![More options icon.](../image/quickaction2.png)\)** &gt; **Visit a Tech Lounge** &gt; **Visits**|
-    |**Information**|Tap the headphones icon **\(![Headphones icon.](../image/quickaction.png)\)** &gt; **Visits**|
+    |**Services**|Tap the more options icon **\(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/quickaction2.png)\)** &gt; **Visit a Tech Lounge** &gt; **Visits**|
+    |**Information**|Tap the headphones icon **\(![Headphones icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/quickaction.png)\)** &gt; **Visits**|
 
 4.  Tap your visit card to open it.
 
@@ -40,5 +40,5 @@ Role required: user
     You can also swipe your visit card and tap **Leave queue**.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walk-up-experience-now-mobile.md)
 

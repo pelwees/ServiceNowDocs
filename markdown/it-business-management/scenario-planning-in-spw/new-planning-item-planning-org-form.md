@@ -66,10 +66,10 @@ If this new table is a type of planning item, select **Planning Item**.
 |------------------|
 |Enable the **Can read**, **Can create**, **Can update**, and **Can delete** fields.|
 
-**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Define a new planning item type in Strategic Planning](../task/create-planning-organization-and-planning-item-type.md)
+[Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/create-planning-organization-and-planning-item-type.md)
 

@@ -19,15 +19,15 @@ Use the Firewall Audits and Reporting application to explore and create an inven
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore Firewall Audits and Reporting ![](../../../reuse/icons/brand-icons/bus-explore.svg)Leverage Firewall Audits and Reporting to create inventory](../concept/firewall-audit-report-explore.md)
+[Explore Firewall Audits and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/icons/brand-icons/bus-explore.svg)Leverage Firewall Audits and Reporting to create inventory](../concept/firewall-audit-report-explore.md)
 
 </td><td>
 
-[Manage Firewall Audits and Reporting![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to set up Firewall inventory](../concept/firewall-audit-report-config.md)
+[Manage Firewall Audits and Reporting![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to set up Firewall inventory](../concept/firewall-audit-report-config.md)
 
 </td><td>
 
-[Firewall Audits and Reporting reference![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Familiarize yourself with dashboards and report calibration](firewall-audit-report-reference.md)
+[Firewall Audits and Reporting reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Familiarize yourself with dashboards and report calibration](firewall-audit-report-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

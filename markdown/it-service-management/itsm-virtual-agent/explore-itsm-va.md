@@ -102,5 +102,5 @@ Enable service owners to deliver and refine AI capabilities quickly without data
         These notifications are used by request management or knowledge management. When an approval is submitted, an automatic Virtual Agent message is sent to the approver alerting them of the approval request.
 
 
-**Parent Topic:**[ITSM Virtual Agent](itsm-virtual-agent.md)
+**Parent Topic:**[ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 

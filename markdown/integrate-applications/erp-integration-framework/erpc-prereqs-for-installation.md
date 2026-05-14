@@ -24,7 +24,7 @@ You must have a license and get entitlement to Zero Copy Connector for ERP for i
 
 The following plugins and servers are required for installing Zero Copy Connector for ERP:
 
--   Integration Hub plugin \(for more information, see [Request Integration Hub](../../../administer/flow-designer/concept/request-ih-overview.md)\)
+-   Integration Hub plugin \(for more information, see [Request Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../administer/flow-designer/concept/request-ih-overview.md)\)
 -   Financial Services Remote Tables plugin \(for more information, see [Activate the remote tables plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/activate-remote-tables-plugin.md)\)
 
 ## MID Server requirements
@@ -42,7 +42,7 @@ Navigate to **All** &gt; **MID Server** &gt; **Servers**, select a MID Server, a
 -   In the **Supported applications** tab, edit the list to include Zero Copy Connector for ERP.
 -   In the **Capabilities** tab, in addition to **ALL**, edit the list to include Zero Copy Connector for ERP.
 
-    ![MID server record related lists with capabilities tab displayed showing Zero Copy Connector for ERP.](../image/erpc-mid-server-capabilities.png)
+    ![MID server record related lists with capabilities tab displayed showing Zero Copy Connector for ERP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-mid-server-capabilities.png)
 
 
 For more information, see [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
@@ -103,7 +103,7 @@ Contact the admin of your SAP ECC RFC account to obtain the following SAP propri
 
 The MID Server restarts multiple times during this process.
 
-For details about these files, see [SAP ECC RFC Spoke](../../../administer/integrationhub-store-spokes/concept/sap-ecc-rfc-spoke.md).
+For details about these files, see [SAP ECC RFC Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../administer/integrationhub-store-spokes/concept/sap-ecc-rfc-spoke.md).
 
 ## SAP configuration
 
@@ -117,5 +117,5 @@ Additionally, you need the following on your ERP system:
 -   SAP S/4HANA \(all versions supported\)
 -   SAP Java Connector
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-integration-configuration-overview.md)
 

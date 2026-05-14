@@ -15,7 +15,7 @@ After you have defined the data source, use the Context Engine Mapper to specify
 
 The Context Engine Mapper is a framework that establishes mappings between source entities and their corresponding context entities, enabling the resolution of context-specific records based on given sources such as resolving engagements from customer accounts.
 
-You can use the Context Engine Mapper to determine which fields will be used to categorize data collected by the [Data Context Engine](account-lifecycle-setup-metric-data.md). This mapping ensures that data is organized and analyzed based on designated breakdown fields such as account type, engagement status, or sold products.
+You can use the Context Engine Mapper to determine which fields will be used to categorize data collected by the [Data Context Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-setup-metric-data.md). This mapping ensures that data is organized and analyzed based on designated breakdown fields such as account type, engagement status, or sold products.
 
 **Note:** You can set up the context engine to map the source and target tables using one of the following methods:
 
@@ -127,7 +127,7 @@ If you cannot query the context table through dot walking, you can define a scri
 4.  Select **Submit** to save the context mapping.
 5.  Navigate to **All** &gt; **Data Context Engine** &gt; **Data Sources**.
 
-    ![Metric data collection data source](../image/account-lifecycle-data-source.png)
+    ![Metric data collection data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-data-source.png)
 
 6.  Open the data source you had created earlier and select **Publish**.
 
@@ -138,14 +138,14 @@ The following examples show how to set up the different types of mapping:
 
 -   **Related table \(Global\)**
 
-    ![Context engine mapping with related table](../image/account-lifecycle-context-engine-mapping-1.png)
+    ![Context engine mapping with related table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-context-engine-mapping-1.png)
 
 -   **Metric Based Type**
 
-    ![Metric based mapping](../image/account-lifecycle-context-engine-mapping-3.png)
+    ![Metric based mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-context-engine-mapping-3.png)
 
 -   **Script**
 
-    ![Context engine mapping with script](../image/account-lifecycle-context-engine-mapping-2.png)
+    ![Context engine mapping with script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-context-engine-mapping-2.png)
 
 

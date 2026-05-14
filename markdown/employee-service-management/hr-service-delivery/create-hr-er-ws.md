@@ -23,7 +23,7 @@ Role required: sn\_hr\_er.case\_writer
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-list-icon.png)\).
 
 3.  In the ER category, click **New**.
 
@@ -47,7 +47,7 @@ COE
 
 The **Center of Excellence** associated with the HR case you are creating. Currently, Employee Relations Case is the only COE available for ER cases.
 
- Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+ Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-centers-of-excellence-coes.md).
 
  **Note:** You can also select an HR service first and the associated COE automatically populates.
 
@@ -61,7 +61,7 @@ After selecting **Employee Relations Case** from the **COE** field, select one:-
 -   Report Discrimination
 -   Report Misconduct
 
-**Note:** You can use the Skip verification feature when creating a Report Misconduct case. For more information, see [Using HR Service Delivery Employee Relations](../concept/hr-er-using.md).
+**Note:** You can use the Skip verification feature when creating a Report Misconduct case. For more information, see [Using HR Service Delivery Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-using.md).
 
 -   Performance improvement plan\(PIP\)
  Limit what HR services are available to an employee by filtering:
@@ -71,7 +71,7 @@ After selecting **Employee Relations Case** from the **COE** field, select one:-
 
 Limit services filter on the **Case Creation Configuration** form. If the HR service field is empty, ensure that you did not remove the Opened for field.
 
- **Note:** **Bulk Parent Case** does not appear as a selection because it only appears when creating a parent case for child bulk cases. Refer to [Add or modify bulk HR cases](t_CreateBulkCases.md).
+ **Note:** **Bulk Parent Case** does not appear as a selection because it only appears when creating a parent case for child bulk cases. Refer to [Add or modify bulk HR cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateBulkCases.md).
 
 </td></tr><tr><td>
 
@@ -114,27 +114,27 @@ Details about the ER case.**Note:** Interviews are under the **more** tab.
 
     -   **Involved Parties**
 
-        People associated with the ER case. Involved parties can be the complainant, subject of the allegation, a witness, or other \(undefined\). For more information, see [Create an involved parties record](hr-er-involved-parties.md).
+        People associated with the ER case. Involved parties can be the complainant, subject of the allegation, a witness, or other \(undefined\). For more information, see [Create an involved parties record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-involved-parties.md).
 
     -   **Allegations**
 
-        Information that further defines an employee relations case. For more information, see [Create an allegation record](hr-er-create-allegation.md).
+        Information that further defines an employee relations case. For more information, see [Create an allegation record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-create-allegation.md).
 
     -   **Interviews**
 
-        Interview record for an involved party. For more information, see [Schedule an interview in Employee Relations using the legacy UI](hr-er-interview.md).
+        Interview record for an involved party. For more information, see [Schedule an interview in Employee Relations using the legacy UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-interview.md).
 
     -   **Evidence**
 
-        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](../concept/hr-er-evidence-mgmt.md#).
+        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-evidence-mgmt.md#).
 
     -   **more**
 
         Select to view the following:
 
-        -   Corrective Actions: Information about the resolution and any associated corrective actions after an investigation related to the ER case. For more information, see [Create a corrective action](hr-er-corrective-actions.md).
-        -   Attached Knowledge: List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](../concept/hr-knowledge-management.md).
-        -   Approvers: Lists employees that can approve changed information or the case, state of approval, comments, and associated dates. For more information, see [Resubmit an HR case for approval](t_ApproveAnHRCase.md).
+        -   Corrective Actions: Information about the resolution and any associated corrective actions after an investigation related to the ER case. For more information, see [Create a corrective action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-corrective-actions.md).
+        -   Attached Knowledge: List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-knowledge-management.md).
+        -   Approvers: Lists employees that can approve changed information or the case, state of approval, comments, and associated dates. For more information, see [Resubmit an HR case for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ApproveAnHRCase.md).
 
             **Note:** To reject an approval, users should have the HR case writer \[sn\_hr\_core\_case.writer\] role.
 

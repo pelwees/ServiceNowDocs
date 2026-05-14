@@ -33,29 +33,29 @@ Role required: admin or asset
 
     2.  Click **Save**.
 
-    3.  To add additional information on the asset, click the [Hardware model details](../reference/hardware-model-fields.md).
+    3.  To add additional information on the asset, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
-    4.  To add unit information, click the [Hardware model details](../reference/hardware-model-fields.md).
+    4.  To add unit information, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
-    5.  To link a compatible model, click the [Compatibles](../reference/hardware-model-fields.md#section_ijc_l3c_2jb) and then click **Add Compatible**.
+    5.  To link a compatible model, click the [Compatibles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_ijc_l3c_2jb) and then click **Add Compatible**.
 
-    6.  To add a model substitution, click the [Substitutes](../reference/hardware-model-fields.md#section_ldn_k2x_dkb) and then click **Add Substitution**.
+    6.  To add a model substitution, click the [Substitutes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_ldn_k2x_dkb) and then click **Add Substitution**.
 
-    7.  To manually normalize your hardware model, click the [Normalization section](normalize-hardware-consumable-models.md).
+    7.  To manually normalize your hardware model, click the [Normalization section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/normalize-hardware-consumable-models.md).
 
-    8.  To add a configuration item, click the [Configuration Items](../reference/hardware-model-fields.md#section_kct_j5r_cjb).
+    8.  To add a configuration item, click the [Configuration Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_kct_j5r_cjb).
 
-    9.  To add your model to the Product Catalog, click the [Hardware model details](../reference/hardware-model-fields.md).
+    9.  To add your model to the Product Catalog, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
     10. To publish the model to the Hardware Catalog, click the **Publish to Hardware Catalog** related link.
 
-    11. To add related assets, click the [Hardware model details](../reference/hardware-model-fields.md).
+    11. To add related assets, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
-    12. To add a model component, click the [Model Components](../reference/hardware-model-fields.md#section_rzd_53c_2jb).
+    12. To add a model component, click the [Model Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_rzd_53c_2jb).
 
-    13. To add vendor information to your model, click the [Vendor Catalog Items](../reference/hardware-model-fields.md#section_wb4_53c_2jb) and click **New**.
+    13. To add vendor information to your model, click the [Vendor Catalog Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_wb4_53c_2jb) and click **New**.
 
-    14. To add lifecycle information, click the [Hardware Model Lifecycles](../reference/hardware-model-fields.md#section_n1d_v3c_2jb), click **New**.
+    14. To add lifecycle information, click the [Hardware Model Lifecycles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md#section_n1d_v3c_2jb), click **New**.
 
         If a lifecycle with the same source, lifecycle type, lifecycle phase, and source exits, an error message appears.
 
@@ -63,17 +63,17 @@ Role required: admin or asset
 
 4.  Complete the following steps if you are adding a consumable model.
 
-    1.  On the Consumable Model form, the [fill in the details](../reference/consumable-model-fields.md).
+    1.  On the Consumable Model form, the [fill in the details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/consumable-model-fields.md).
 
     2.  Click **Save**.
 
-    3.  To add additional information on the consumable asset, click the [Hardware model details](../reference/hardware-model-fields.md).
+    3.  To add additional information on the consumable asset, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
-    4.  To add your model to the Product Catalog, click the [Hardware model details](../reference/hardware-model-fields.md).
+    4.  To add your model to the Product Catalog, click the [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/hardware-model-fields.md).
 
-    5.  To add vendor information to your model, click the [Vendor Items related list](../reference/consumable-model-fields.md#section_jjq_pzx_cjb).
+    5.  To add vendor information to your model, click the [Vendor Items related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/consumable-model-fields.md#section_jjq_pzx_cjb).
 
-    6.  To add lifecycle information, click the [Consumable Model Lifecycle related list](../reference/consumable-model-fields.md#section_zvj_qzx_cjb) and click **New**.
+    6.  To add lifecycle information, click the [Consumable Model Lifecycle related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/consumable-model-fields.md#section_zvj_qzx_cjb) and click **New**.
 
         If a lifecycle with the same source, lifecycle type, lifecycle phase, and source exits, an error message appears.
 
@@ -103,7 +103,7 @@ Click **Save**.
 
 The **Display name** field is updated with the name of the manufacturer and the name of the hardware.
 
-![The Display name field is updated with what you entered in the Manufacturer and Name fields.](../image/hardware-model-manu-name.png "Hardware form")
+![The Display name field is updated with what you entered in the Manufacturer and Name fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/hardware-model-manu-name.png "Hardware form")
 
 Currently, the Lenovo ThinkPad T43 is generally available. Add the lifecycle status to accurately track the phase of the asset.
 
@@ -119,7 +119,7 @@ Click **Submit**.
 
 The lifecycle is added to the record.
 
-![The General Availability lifecycle phase is added to the record.](../image/hardware-model-ga-lifecycle.png "Hardware Model Lifecycles")
+![The General Availability lifecycle phase is added to the record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/hardware-model-ga-lifecycle.png "Hardware Model Lifecycles")
 
 When the general availability phase is over, the ThinkPad T43 will be discontinued. Add the end of life information to the asset to accurately track the lifecycle.
 
@@ -135,11 +135,11 @@ Click **Submit**.
 
 The End of Life lifecycle is added to the record and both lifecycle phases are displayed in the Hardware Model Lifecycle related list.
 
-![The End of Life lifecycle phase is added to the record.](../image/hardware-model-end-life-lifecycle.png "Lifecycle phases in the Hardware Model Lifecycles list")
+![The End of Life lifecycle phase is added to the record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/hardware-model-end-life-lifecycle.png "Lifecycle phases in the Hardware Model Lifecycles list")
 
 ## What to do next
 
-After you've added your hardware or consumable models, you can [normalize the data](normalize-hardware-consumable-models.md).
+After you've added your hardware or consumable models, you can [normalize the data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/normalize-hardware-consumable-models.md).
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/Work-with-hardware-normalization.md)
 

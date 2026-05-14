@@ -68,5 +68,5 @@ These dashboards display metrics for databases related to the service.
 |Is Database Alive|`1` if database is up, `0` if it is down.|Azure|
 |All PostgreSQL Instances|Information of all databases the service is actively using. Select a database link to view more detailed information.|CMDB|
 
-**Parent Topic:**[Azure Monitor templates for Service Observability](azure-templates.md)
+**Parent Topic:**[Azure Monitor templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/azure-templates.md)
 

@@ -41,10 +41,10 @@ Refresh MultiSSO IDP Metadata job fetches and updates the certificate for the Id
 
 5.  Verify results using the **SSO Test Results/Summary** or the **Testing SSO Logs** section to see log messages.
 
-    If there are any errors, refer to the [Multi-SSO \(SAML 2.0\) errors and fixes](../../saml/reference/saml-errors.md)
+    If there are any errors, refer to the [Multi-SSO \(SAML 2.0\) errors and fixes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../saml/reference/saml-errors.md)
 
 6.  Click **Cancel** when testing is complete.
 
-    ![Sample test connection](../image/Test_connection.png)
+    ![Sample test connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/Test_connection.png)
 
 

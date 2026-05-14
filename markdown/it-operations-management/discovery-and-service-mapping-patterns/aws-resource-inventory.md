@@ -96,7 +96,7 @@ The AWS Resource Inventory pattern creates the following CI relationship:
 
 The following is a dependency view of the collected data flow.
 
-![AWS Resource Inventory dependency view](../image/aws-resource-inventory.png "AWS Resource Inventory dependency view")
+![AWS Resource Inventory dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/aws-resource-inventory.png "AWS Resource Inventory dependency view")
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

@@ -30,5 +30,5 @@ Role required: sn\_grc.admin
 4.  Select **Apply**.
 
 
-**Parent Topic:**[Tagging records with functional domain](../concept/tagging-records-with-functional-domain.md)
+**Parent Topic:**[Tagging records with functional domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/tagging-records-with-functional-domain.md)
 

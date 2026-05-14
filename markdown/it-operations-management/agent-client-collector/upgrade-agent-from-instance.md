@@ -21,7 +21,7 @@ Perform selective self-upgrade instead of bulk upgrade for enhanced efficiency w
 
 Supported Operating Systems: Windows and Linux.
 
-Ensure that data files are up to date by restarting the MID Server and collecting host data. For details on collecting host data, see [Run host data collection on demand](acc-run-discovery.md).
+Ensure that data files are up to date by restarting the MID Server and collecting host data. For details on collecting host data, see [Run host data collection on demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-run-discovery.md).
 
 **Note:**
 
@@ -113,7 +113,7 @@ Debian, Ubuntu
 
 When upgrading MID-less agents, upgrade is performed at the URL set in the **agent-upgrade-url-path** property of the acc.yml file. If no URL is set at this property, upgrade is performed by downloading the installer script from the following Content Delivery Network \(CDN\) URL: `https://cdn-install.sncapps.service-now.com/glide/distribution/builds/package`
 
-**Note:** When using a CDN, send your download request through a proxy server, for added security. For details, see [Configure proxies when performing MID-less upgrade using a Content Delivery Network \(CDN\)](cdn-upgrade-proxies.md).
+**Note:** When using a CDN, send your download request through a proxy server, for added security. For details, see [Configure proxies when performing MID-less upgrade using a Content Delivery Network \(CDN\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/cdn-upgrade-proxies.md).
 
 Select the version to which you want to upgrade your agent.
 

@@ -29,7 +29,7 @@ Any updates made on the status report form are reflected in the status report, r
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the Status reports page of the project by selecting **Status Reports** from the list.
 
@@ -50,12 +50,12 @@ Any updates made on the status report form are reflected in the status report, r
     -   If a report is editable, a message appears prompting you to copy the static data and regenerate the report.
     -   A Regenerate button is provided, which allows you to regenerate the report and ensure compatibility with the new updates.
 
-**Parent Topic:**[Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)
+**Parent Topic:**[Create a status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md)
 
 **Related topics**  
 
 
-[Import old project status report to Project Workspace](import-old-status-reports.md)
+[Import old project status report to Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/import-old-status-reports.md)
 
-[Add dynamic content to status report in Project Workspace](add-dynamic-content-to-status-report-in-pw.md)
+[Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 

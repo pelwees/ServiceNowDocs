@@ -29,7 +29,7 @@ You can create an ad hoc claim task by navigating to the **Claim Tasks** tab of 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the claim task from a claim case or from the Claim Tasks list.
 
@@ -78,7 +78,7 @@ Steps
 
 Update the associated claim case as per the refund or information that you receive from the refund bank.
 
-**Note:** If the claim is not closed within the number of days mentioned in the **sn\_bom\_payment.claim\_follow \_up\_interval\_in\_days** [payment property](../reference/properties-installed-with-payment-operations.md), the system creates another follow-up claim task for the claim.
+**Note:** If the claim is not closed within the number of days mentioned in the **sn\_bom\_payment.claim\_follow \_up\_interval\_in\_days** [payment property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../reference/properties-installed-with-payment-operations.md), the system creates another follow-up claim task for the claim.
 
-**Parent Topic:**[Work on a claim with an external refund](work-claim-with-external-refund.md)
+**Parent Topic:**[Work on a claim with an external refund](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-with-external-refund.md)
 

@@ -25,15 +25,15 @@ Role required: sn\_notify\_msteams.admin
 
 1.  Navigate to **All** &gt; **Notify** &gt; **Microsoft Teams** &gt; **Configuration**.
 
-    ![Notify settings](../image/sn-notify-settings.png)
+    ![Notify settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/sn-notify-settings.png)
 
     **Note:** In the **Setup** tab, ensure that **Enable create online meeting** option is selected.
 
-    ![Enable create online meeting option](../image/enable-create-online-meeting.png)
+    ![Enable create online meeting option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/enable-create-online-meeting.png)
 
 2.  Select **Override Lobby settings** option.
 
-    ![Override Lobby settings tab](../image/override-lobby-settings-tab.png)
+    ![Override Lobby settings tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/override-lobby-settings-tab.png)
 
     The **Lobby Bypass Settings** tab appears once you select the **Override Lobby settings** option.
 
@@ -41,16 +41,16 @@ Role required: sn\_notify\_msteams.admin
 
     **Note:** If you have an Microsoft Azure audio conferencing subscription, you must enable this option to enable the users to join the conference call via phone numbers.
 
-    ![Enable audio conferencing option](../image/enable-audio-conf-01.png)
+    ![Enable audio conferencing option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/enable-audio-conf-01.png)
 
 4.  Select **Lobby Bypass Settings** tab.
 
-    ![Lobby bypass settings tab](../image/lobby-bypass-settings.png)
+    ![Lobby bypass settings tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/lobby-bypass-settings.png)
 
     1.  **Who can Bypass Lobby**: Select the participants who can automatically join the conference call.
     2.  **Allow dial-in users to bypass the lobby**: This option appears only if **Enable Audio Conferencing** option is selected in **Audio Conferencing** tab. Select this option to allow the participants to automatically join the conference call if they have joined using the conference bridge number.
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/config-notify-ms-teams.md)
 

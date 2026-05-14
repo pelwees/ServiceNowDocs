@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 Safety agents can use the Health and Safety action form to assign an action for a safety incident or observation.
 
-For more information, see [Add an action for a safety incident or observation](../task/add-hs-action.md).
+For more information, see [Add an action for a safety incident or observation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../task/add-hs-action.md).
 
 <table id="table_rg4_5f4_cdc"><thead><tr><th>
 
@@ -92,7 +92,7 @@ Type of the action.-   **Corrective**: An action to eliminate the causes of non-
 -   **Task**: A generic task assigned as an action.
 -   **Learning**: An action that includes a learning for the user, for example, completing a training.
 
-**Note:** The **Learning** option in this field appears only when the Learning Core \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](../task/install-hs-incident-mgmt.md#table_ix1_bff_gxb).
+**Note:** The **Learning** option in this field appears only when the Learning Core \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../task/install-hs-incident-mgmt.md#table_ix1_bff_gxb).
 
 
 </td></tr><tr><td>
@@ -103,7 +103,7 @@ Learning material
 
 Learning material for the training, for example, knowledge article or URL for a training video.This field appears if the **Type** is set as **Learning**.
 
-**Note:** This field lists the learning content created in Learning Core. For more information, see [Managing course and catalog content](../../human-resources/task/manage-ln-content.md).
+**Note:** This field lists the learning content created in Learning Core. For more information, see [Managing course and catalog content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../human-resources/task/manage-ln-content.md).
 
 </td></tr><tr><td>
 
@@ -122,22 +122,22 @@ Description
 Detailed description about this action.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/concept/hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/reference/components-installed-hs-core.md)
 
-[Health and safety action schedule form](hs-health-safety-action-schedule-form.md)
+[Health and safety action schedule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-health-safety-action-schedule-form.md)
 
-[Health and Safety profile form](hs-health-safety-profile-form.md)
+[Health and Safety profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-health-safety-profile-form.md)
 
-[Health and Safety document version form](hs-document-form.md)
+[Health and Safety document version form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-document-form.md)
 
-[Health and Safety report field mapping form](hs-report-field-mapping-form.md)
+[Health and Safety report field mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-report-field-mapping-form.md)
 
-[Health and Safety meeting form](hs-safety-meeting-form.md)
+[Health and Safety meeting form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-safety-meeting-form.md)
 
-[Health and Safety meeting attendee form](hs-safety-meeting-attendee-form.md)
+[Health and Safety meeting attendee form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-safety-meeting-attendee-form.md)
 

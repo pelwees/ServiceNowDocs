@@ -18,7 +18,7 @@ Quick actions are shortcuts that perform Agent Chat tasks. Agents can work more 
 
 ## Activate quick actions
 
-To enable your agents to use quick actions, you must activate the and [related plugins for Advanced Work Assignment](../../advanced-work-assignment/reference/awa-related-plugins.md), which is required for chat in Workspace.
+To enable your agents to use quick actions, you must activate the and [related plugins for Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../advanced-work-assignment/reference/awa-related-plugins.md), which is required for chat in Workspace.
 
 ## Default quick actions
 
@@ -110,7 +110,7 @@ ta
 
 </td><td>
 
-![Transfer to another agent icon.](../../workspace/image/add-user-icon-big.png)
+![Transfer to another agent icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../workspace/image/add-user-icon-big.png)
 
 </td><td>
 
@@ -126,7 +126,7 @@ tq
 
 </td><td>
 
-![Transfer to another queue icon.](../../workspace/image/arrow-icon-big.png)
+![Transfer to another queue icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../workspace/image/arrow-icon-big.png)
 
 </td><td>
 
@@ -137,7 +137,7 @@ Transfers the conversation to another queue.
 Available queues
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
+</table>**Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
 ## Creating a quick action
 
@@ -290,9 +290,9 @@ Text that displays as a hint when the agent enters a quick action.
 
 ### What to do next
 
-If your quick action requires a secondary menu, define a quick action parameter so that agents can further control the quick action. For more information, see [Define a quick action parameter](ci-quick-actions-overview.md#).
+If your quick action requires a secondary menu, define a quick action parameter so that agents can further control the quick action. For more information, see [Define a quick action parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-quick-actions-overview.md#).
 
-Optionally, you can make the quick action available in Agent Chat as a button. For more information, see [Configuring a quick action button](ci-quick-actions-overview.md#).
+Optionally, you can make the quick action available in Agent Chat as a button. For more information, see [Configuring a quick action button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-quick-actions-overview.md#).
 
 ## Defining a quick action parameter
 
@@ -436,7 +436,7 @@ Role required: admin
 
 ### About this task
 
-The toolbar of the Workspace chat window contains three buttons. Selecting the left button \(![Paperclip icon](../../virtual-agent/images/paperclip.png)\) attaches a file in a conversation, selecting the center button \(![Arrow icon](../image/arrow.png)\) initiates a queue transfer, and selecting the right button \(![Add user icon](../image/add-user.png)\) initiates an agent transfer. You can't configure the left button, but you can assign different quick actions to the center and right buttons.
+The toolbar of the Workspace chat window contains three buttons. Selecting the left button \(![Paperclip icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../virtual-agent/images/paperclip.png)\) attaches a file in a conversation, selecting the center button \(![Arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/arrow.png)\) initiates a queue transfer, and selecting the right button \(![Add user icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/add-user.png)\) initiates an agent transfer. You can't configure the left button, but you can assign different quick actions to the center and right buttons.
 
 ### Procedure
 
@@ -444,8 +444,8 @@ The toolbar of the Workspace chat window contains three buttons. Selecting the l
 
 2.  In the Agent Experience section, select **View all** next to Quick actions.
 
-    -   To configure the arrow button \(![Arrow icon](../image/arrow.png)\), select **Transfer to Queue**.
-    -   To configure the add user button \(![Add user icon](../image/add-user.png)\), select **Transfer to Agent**.
+    -   To configure the arrow button \(![Arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/arrow.png)\), select **Transfer to Queue**.
+    -   To configure the add user button \(![Add user icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/add-user.png)\), select **Transfer to Agent**.
     -   To create a new button, select **New**.
 3.  On the form, fill in the fields.
 
@@ -616,6 +616,6 @@ Context quick actions are a default quick action, but require activation.
 
 1.  Navigate to **All** &gt; **Quick Actions** &gt; **Actions**.
 
-2.  In the **Get Chat Context Variables** record, use the list editor to set the **Active** value to true.![Get Chat Context Variable record, with Active value of True highlighted.](../image/quick-actions.png)
+2.  In the **Get Chat Context Variables** record, use the list editor to set the **Active** value to true.![Get Chat Context Variable record, with Active value of True highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/quick-actions.png)
 
 

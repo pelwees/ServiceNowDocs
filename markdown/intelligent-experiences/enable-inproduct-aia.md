@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [In-product agentic AI](../concept/in-product-agentic-ai.md) for more details about the functions and features of the AI Workflows panel.
+Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [In-product agentic AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/in-product-agentic-ai.md) for more details about the functions and features of the AI Workflows panel.
 
 The following task describes the process for enabling the system property that allows you to see the AI Workflows panel and see UI actions for agentic workflows: **com.glide.agentic\_processes\_view.enabled**.
 
-To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow. See [Select channels and access for agentic workflows](channels-access-aw.md) for more information.
+To enable users to access agentic workflows with UI actions, you can open the agentic workflow in AI Agent Studio and navigate to the **Select channels and access** step. You can select a UI action as a possible way to access the workflow. See [Select channels and access for agentic workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md) for more information.
 
 ## Procedure
 

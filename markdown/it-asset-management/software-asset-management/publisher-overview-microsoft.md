@@ -19,7 +19,7 @@ From the Software Asset Workspace, access the Microsoft publisher overview by na
 
 Results are updated whenever a new reconciliation result is available.
 
-![Microsoft publisher overview.](../image/publisher-overview-microsoft.png)
+![Microsoft publisher overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-overview-microsoft.png)
 
 You can view a summary of your license usage information in the Summary section of the Microsoft publisher overview.
 
@@ -80,7 +80,7 @@ Summary of your license compliance progress.This summary includes the following 
 -   **Removal candidates**: Total number of Microsoft removal candidates. Select the number to view the list of all software removal candidates.
 
 </td></tr></tbody>
-</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
+</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Microsoft](../concept/microsoft-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/microsoft-publisher-pack.md)
 

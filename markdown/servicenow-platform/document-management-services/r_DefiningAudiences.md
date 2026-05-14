@@ -29,10 +29,10 @@ The following audiences are available in the base system.
 |internal|INT|Internal|1|
 |external|EXT|External|2|
 
-**Parent Topic:**[Defining Document Parameters](r_DefiningDocumentParameters.md)
+**Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
 **Related topics**  
 
 
-[Defining Document Parameters](r_DefiningDocumentParameters.md)
+[Defining Document Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 

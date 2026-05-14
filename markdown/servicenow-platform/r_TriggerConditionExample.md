@@ -43,11 +43,11 @@ One of the most common use cases for Surveys is to send out an auto-triggered su
 
 Filtering the survey results provides more detail on how people and teams are performing based on ticket data. Since this information is automatically captured, you can dot-walk while filtering the data \(instead of utilizing a related field on the Survey trigger condition form, as previously required\).
 
-![Using the Task as a filter for survey results](../image/SurveyReport.png "Using the Task as a filter for survey results")
+![Using the Task as a filter for survey results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyReport.png "Using the Task as a filter for survey results")
 
 To create a report on incident-triggered survey responses by Assignment group, set up the report on the Task Assessment Details by navigating to **Reports** **View/Run** and clicking **Create a report**.
 
-![Defining a report on survey responses that are triggered by an incident](../image/SurveyReportCreate.png "Defining a report on survey responses that are triggered by an incident")
+![Defining a report on survey responses that are triggered by an incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyReportCreate.png "Defining a report on survey responses that are triggered by an incident")
 
-**Parent Topic:**[Survey trigger conditions](../concept/c_TriggerConditions.md)
+**Parent Topic:**[Survey trigger conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_TriggerConditions.md)
 

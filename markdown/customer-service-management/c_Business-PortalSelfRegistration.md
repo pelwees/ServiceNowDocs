@@ -19,7 +19,7 @@ After the request is submitted, it goes through an approval process and is eithe
 
 **Note:** If a request is submitted with an incorrect registration code, a notification message appears `Invalid Registration Code`.
 
-![A self-registration form with various fields for customer contact information.](../image/customer-self-registration.png "Customer contact self-registration form")
+![A self-registration form with various fields for customer contact information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-self-registration.png "Customer contact self-registration form")
 
 The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the Account form. After the code is created, customer administrators can distribute the code to customers as needed.
 

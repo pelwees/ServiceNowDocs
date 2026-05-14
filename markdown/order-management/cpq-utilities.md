@@ -17,16 +17,16 @@ CPQ has many features and settings outside the standard Admin pages of Fields, B
 
 Any features that are not necessarily in common use when creating and editing a configuration can be found in the “Utilities” menu.
 
-![Utilities Menu](../images/cpq-utilities-menu.png)
+![Utilities Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-utilities-menu.png)
 
 More information about the items in the menu can be found in the following topics:
 
--   [Viewing blueprint deployments](deployments_page.md)
--   [Using CPQ user access management](cpq-using-uam.md)
--   [Set up a runtime client](../task/cpq-set-up-a-runtime-client.md)
--   [Intro to admin API keys](cpq-admin-api-keys.md)
--   [Using external connections with OAuth support](using-external-connections-with-oauth-support.md)
--   [Setting up configurable products](configurable_products.md)
--   [CPQ: User Access Control](logik_admin_user_access_control.md)
--   [Webhooks](cpq-webhooks.md)
+-   [Viewing blueprint deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/deployments_page.md)
+-   [Using CPQ user access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-uam.md)
+-   [Set up a runtime client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-set-up-a-runtime-client.md)
+-   [Intro to admin API keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md)
+-   [Using external connections with OAuth support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-external-connections-with-oauth-support.md)
+-   [Setting up configurable products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configurable_products.md)
+-   [CPQ: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_admin_user_access_control.md)
+-   [Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md)
 

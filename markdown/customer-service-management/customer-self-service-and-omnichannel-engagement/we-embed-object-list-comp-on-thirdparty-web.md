@@ -17,7 +17,7 @@ Embed the global code and component code of the Object list component that you c
 
 ## Before you begin
 
-You must configure the Object list component instance. For information, see [Configure the Playbook intake component instance](config-playbook-intake-comp.md).
+You must configure the Object list component instance. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
 
 Role required: None
 

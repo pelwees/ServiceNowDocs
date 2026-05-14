@@ -27,7 +27,7 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -55,7 +55,7 @@ After reviewing the case filing response, Visa issues a decision letter that sup
     -   To appeal the outcome, select **Unresolved**.
 11. In the **Create appeal** drop-down list, select **Yes**.
 
-    **Note:** Certain conditions must be met to create an appeal. For more information, see [Collaboration workflow overview](../concept/collaboration-workflow.md).
+    **Note:** Certain conditions must be met to create an appeal. For more information, see [Collaboration workflow overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/collaboration-workflow.md).
 
 12. In the **Appeal amount** field, enter the amount for the appeal.
 
@@ -72,5 +72,5 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 
 After the request executes successfully, the transaction state changes to **Awaiting External Info**. The form is set to read-only mode while waiting on a response. Visa confirms the appeal with an acknowledgment letter. Retrieve the letter by selecting **Get acknowledgement letter** in the **Review case filing appeal** activity.
 
-**Parent Topic:**[Collaboration dispute workflow](../concept/collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/collaboration-dispute-workflow.md)
 

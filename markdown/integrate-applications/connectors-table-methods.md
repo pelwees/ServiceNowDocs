@@ -135,8 +135,8 @@ Adds a row and its contents at the specified index. You must provide the RowInde
 
 To set the index values where you add the contents of the row, do the following actions:
 
-1.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
-2.  Click the add index icon \(![Add index icon.](../image/add-image-icon.png)\).
+1.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click the add index icon \(![Add index icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 3.  Enter the index.
 4.  Repeat the steps to add multiple indexes.
 5.  Click **OK**.
@@ -446,8 +446,8 @@ Returns True if the method finds the text that you specify and the row values ba
 
 To specify the row values, you must configure the method.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
-2.  Click the add row index icon \(![Add row index.](../image/add-image-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click the add row index icon \(![Add row index.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 3.  Update the row index value data type.
 4.  Enter the row index value.
 5.  Click **OK**.
@@ -542,8 +542,8 @@ Returns values of the multiple cells based on the index values that you specify.
 
 To configure, do the following actions:
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
-2.  Click the add row index icon \(![Add row index.](../image/add-image-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click the add row index icon \(![Add row index.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 3.  Update the row index value data type.
 4.  Enter the row index value.
 5.  Click **OK**.
@@ -895,8 +895,8 @@ Gets cell value\(s\) of a particular row if row contains specified text.
 
 To input the values, do the following actions:
 
-1.  Click the method settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
-2.  Click ![Add value icon.](../image/add-image-icon.png).
+1.  Click the method settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click ![Add value icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png).
 3.  Enter the values.
 4.  Click **OK**.
 
@@ -914,8 +914,8 @@ Sets cell value\(s\) of a particular row if row contains specified text.
 
 To input the values, do the following actions:
 
-1.  Click the method settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
-2.  Click ![Add value icon.](../image/add-image-icon.png).
+1.  Click the method settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click ![Add value icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png).
 3.  Enter the values.
 4.  Click **OK**.
 
@@ -927,5 +927,5 @@ To input the values, do the following actions:
 |SearchColumnIndex|Integer value that indicates the order of the column from the left. The default index value is -1 for the first column. Providing a custom index value is optional. If the field receives no custom index value, the method automatically sets the order of the columns.|Data In|Integer|
 |StartRowIndex|Integer value that indicates the order of the column from the left. The default index value is -1 for the first row. Providing a custom index value is optional. If the field receives no custom index value, the method automatically sets the order of the columns.|Data In|Integer|
 
-**Parent Topic:**[Table](../concept/table-connector.md)
+**Parent Topic:**[Table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/table-connector.md)
 

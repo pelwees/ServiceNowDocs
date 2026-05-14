@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Task Intelligence for ITSM** &gt; **Setup**.
 
-2.  In the Models list, select the menu \(![Menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) icon of the model you want to export, and then select **Export model**.
+2.  In the Models list, select the menu \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) icon of the model you want to export, and then select **Export model**.
 
     A new tab opens with authentication steps.
 
@@ -38,5 +38,5 @@ The XML file of your model downloads to your browser.
 
 You can use the XML file to transfer the model to another instance using update sets. For more information update sets, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/system-update-sets.md).
 
-**Parent Topic:**[Managing Task Intelligence for ITSM models](../concept/using-task-intelligence-itsm.md)
+**Parent Topic:**[Managing Task Intelligence for ITSM models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../concept/using-task-intelligence-itsm.md)
 

@@ -33,5 +33,5 @@ ACLs apply to only one role at a time. There can be multiple instances of an ACL
 |Role|The name of the role the ACL applies to.|
 |Description|Description of the role.|
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-acl-dashboard.md)
 

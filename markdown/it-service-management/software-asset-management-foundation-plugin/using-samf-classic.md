@@ -15,12 +15,12 @@ breadcrumb: [Software Asset Management Foundation plugin, ITSM Software Asset Ma
 
 Using Software Asset Management Foundation plugin classic.
 
--   **[Software Asset Management Foundation dashboard](c_SAMDashboardSAMF.md)**  
+-   **[Software Asset Management Foundation dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMDashboardSAMF.md)**  
 View compliance and true-up cost trend charts on the Software Asset Management Foundation dashboard.
--   **[Run Software Asset Management Foundation plugin software reconciliation in classic](../task/t_RunReconciliationSAMF.md)**  
+-   **[Run Software Asset Management Foundation plugin software reconciliation in classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/t_RunReconciliationSAMF.md)**  
 Reconciliation is run as a scheduled job \(default is weekly\), but you can also run reconciliation manually to reconcile software products in your environment on demand.
--   **[View Software Asset Management Foundation plugin software model results in classic](../task/t_ViewSWModelResultsSAMF.md)**  
+-   **[View Software Asset Management Foundation plugin software model results in classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/t_ViewSWModelResultsSAMF.md)**  
 View compliance information for software model results from the Product Results list after reconciliation is run.
 
-**Parent Topic:**[Software Asset Management Foundation plugin](c_SoftwareAssetMgmtSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md)
 

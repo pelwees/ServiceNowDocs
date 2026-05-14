@@ -25,10 +25,10 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Insights icon \(![Insights icon](../image/icon-insights.png)\) in the primary navigation pane.
+2.  Select the Insights icon \(![Insights icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-insights.png)\) in the primary navigation pane.
 
 3.  Select **System performance**.
 
-    For more information on the system performance metrics, see [DEX Insights reports](../reference/insights-reports.md).
+    For more information on the system performance metrics, see [DEX Insights reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/insights-reports.md).
 
 

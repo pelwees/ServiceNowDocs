@@ -30,5 +30,5 @@ Beginning with the New York release, a batch file in the MID Server installer pa
 3.  Change the **wrapper.name** and **wrapper.displayname** parameters to the service name that you want to keep.
 4.  Restart the MID Server.
 
-**Parent Topic:**[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
+**Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 

@@ -118,36 +118,36 @@ Select the check box for the MSI Manager to generate a report from the template 
 Allows you to define the template body. Select the required variables to add to the template editor section.
 
 </td></tr></tbody>
-</table>    ![Create a Report Template](../image/msim-status-report-template-config.png "Create a Report Template") ![]( "Create a Report Template")
+</table>    ![Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-status-report-template-config.png "Create a Report Template") ![]( "Create a Report Template")
 
 5.  **Submit** the new report template record.
 
     A new report template is created under the Reports Templates page.
 
 
--   **[Add Branding to your Report Templates](add-branding-to-your-report-templates.md)**  
+-   **[Add Branding to your Report Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-branding-to-your-report-templates.md)**  
 Add branding to your reports. You can add header and footer image, header and footer text. You can include this branding information in any of the report template types that you want to create other than the two predefined reports.
--   **[Use Visualizations in Report Templates](using-widgets-in-your-report-templates.md)**  
+-   **[Use Visualizations in Report Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-widgets-in-your-report-templates.md)**  
 Use report widgets to define and include User Interface Builder \(UIB\) elements such as data visualizations in the MSIM status reports.
--   **[Use Reports Lists in Report Templates](using-reports-lists-in-your-report-templates.md)**  
+-   **[Use Reports Lists in Report Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-reports-lists-in-your-report-templates.md)**  
 Use report lists to define and include the related list artifacts to generate lists in the PDF based on your configured MSI list records.
--   **[Use Template Scripts in your Report Templates](using-template-scripts-in-your-report-templates.md)**  
+-   **[Use Template Scripts in your Report Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-template-scripts-in-your-report-templates.md)**  
 Create a script to include the related lists data, date operations, and any other data that aren’t directly dot-walkable.
--   **[Preview the Report Template](preview-status-reports.md)**  
+-   **[Preview the Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/preview-status-reports.md)**  
 Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the Major Security Incident Management workspace.
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Create a Report Section Template](create-report-section-template.md)
+[Create a Report Section Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-section-template.md)
 
-[Create a Report Subsection Template](create-report-subsection-template.md)
+[Create a Report Subsection Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-template.md)
 
-[Create Report Subsection Element template](create-report-subsection-element-template.md)
+[Create Report Subsection Element template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-element-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/adding-system-properties-to-your-status-reports.md)
 
-[Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-and-distributing-major-security-incident-status-reports.md)
 

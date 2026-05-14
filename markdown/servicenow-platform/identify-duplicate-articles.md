@@ -45,5 +45,5 @@ The duplicate articles are resolved, improving content accuracy and reducing red
 **Related topics**  
 
 
-[Merge duplicate articles](../../knowledge-management/task/merge-duplicate-articles.md)
+[Merge duplicate articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../knowledge-management/task/merge-duplicate-articles.md)
 

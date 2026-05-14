@@ -61,7 +61,7 @@ Chat window
 
 </td><td>
 
-User can request to create an incident using the Connect chat icon \(![Chat icon](../../../reuse/icons/brand-icons/bus-chat.svg)\) that appears on the upper-right corner of the instance. On the chat window, the user can add an ITIL user and also provide a short description of the issue. Based on the description, the ITIL user creates an appropriate incident.
+User can request to create an incident using the Connect chat icon \(![Chat icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-chat.svg)\) that appears on the upper-right corner of the instance. On the chat window, the user can add an ITIL user and also provide a short description of the issue. Based on the description, the ITIL user creates an appropriate incident.
 
 </td></tr></tbody>
 </table>**Note:** If you want to create a security incident, first activate the Security Incident Response Dependencies plugin \(com.snc.si\_dep\). You can then click **Create Security Incident** on a new incident form to create a security incident from the currently displayed incident.

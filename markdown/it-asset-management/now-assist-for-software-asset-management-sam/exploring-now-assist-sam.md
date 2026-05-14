@@ -44,19 +44,19 @@ Additionally, you also get AI-powered recommended actions that help you to mitig
 
     Provides insights into publisher summaries, focusing on software deployment, license compliance, optimizations, and configuration health. The streamlined process highlights critical information about your software assets, making it easier for you to manage licenses and ensure compliance with publisher contracts.
 
-    ![Microsoft compliance summary.](../image/now-assist-summarization.png)
+    ![Microsoft compliance summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-summarization.png)
 
 -   **Product compliance summarization**
 
     Provides insights into specific product summaries for publishers, focusing on software deployment, license compliance, optimization, and issues.
 
-    ![SQL Server product summarization](../image/now-assist-sam-product-summary.png)
+    ![SQL Server product summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-sam-product-summary.png)
 
 -   **Recommended actions**
 
     Provides a list of recommended actions that you can perform to fix any configuration, maintenance, and optimization related issues to manage software license compliance and optimize licensing spend.
 
-    ![List of recommended actions for a product](../image/now-assist-sam-recommended-actions.png)
+    ![List of recommended actions for a product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-sam-recommended-actions.png)
 
 -   **SaaS user resolution**
 
@@ -84,11 +84,11 @@ Additionally, you also get AI-powered recommended actions that help you to mitig
 
     Once the document is uploaded to DocIntel, a flow designer flow is executed to retrieve the values from the document and populate the ITAM Contract Import \[itam\_contract\_import\] table.
 
-    For extracting entitlements from contracts, you can opt in to participate in the Software Asset Management Content Service. The Software Asset Management Content Service is an IT Asset Management shared service that provides users with continual software recognition improvements. For additional details, see [Software Asset Management Content Service](../../software-asset-management2/concept/c_SAMContentService.md).
+    For extracting entitlements from contracts, you can opt in to participate in the Software Asset Management Content Service. The Software Asset Management Content Service is an IT Asset Management shared service that provides users with continual software recognition improvements. For additional details, see [Software Asset Management Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../../software-asset-management2/concept/c_SAMContentService.md).
 
 
--   **[Supporting information for Now Assist for Software Asset Management \(SAM\)](supporting-information-now-assist-sam.md)**  
+-   **[Supporting information for Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/supporting-information-now-assist-sam.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Software Asset Management \(SAM\) application.
 
-**Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](now-assist-sam.md)
+**Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam.md)
 

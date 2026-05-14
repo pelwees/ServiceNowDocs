@@ -21,7 +21,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: web\_service\_admin, activity\_admin, activity\_creator
 
-**Note:** You can test the SOAP connection between the MID Server and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](CreateInputVariables.md#).
+**Note:** You can test the SOAP connection between the MID Server and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
     The system formats the variable in the proper syntax for the command.
 
-    ![SOAP execution command](../image/SOAPExecutionCommand.png "SOAP execution command")
+    ![SOAP execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/SOAPExecutionCommand.png "SOAP execution command")
 
 2.  Complete the fields shown in the table.
 
@@ -47,7 +47,7 @@ Input
 
 </td><td>
 
-Input variable builder. [Create input variables](CreateInputVariables.md#) to [map](CreateInputVariables.md#) to available fields.
+Input variable builder. [Create input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to [map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to available fields.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Required MID Server capabilities
 
 </td><td>
 
-MID Server with the appropriate [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the SOAP endpoint. By default, the system selects a MID Server with SOAP capabilities. This field is available when the **Use MID Server** check box is selected.
+MID Server with the appropriate [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the SOAP endpoint. By default, the system selects a MID Server with SOAP capabilities. This field is available when the **Use MID Server** check box is selected.
 
 </td></tr><tr><td>
 
@@ -142,5 +142,5 @@ Protocol Profile
 4.  Click **Continue** to advance to the **Outputs** stage.
 
 
-**Parent Topic:**[Create a SOAP web service activity](t_CreateASOAPWebServiceActivity.md)
+**Parent Topic:**[Create a SOAP web service activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateASOAPWebServiceActivity.md)
 

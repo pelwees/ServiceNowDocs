@@ -27,7 +27,7 @@ A Quick Scan has fewer options to choose from, but it also runs quickly at appro
 
 2.  Select the **Action** button.
 
-    ![Quick Scans](../../../images/action-button-quick-scan.png)
+    ![Quick Scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/action-button-quick-scan.png)
 
 3.  From the Action drop-down menu, select **Quick Scans**.
 
@@ -50,12 +50,12 @@ A Quick Scan has fewer options to choose from, but it also runs quickly at appro
 
 8.  Select a **Scan Type**.
 
-    You can choose from the Simplified Query Type selection or toggle the **Advanced** button and select from the advanced query types. See the [Auto Query page](../../auto-query-console.md) for additional information about Query Types.
+    You can choose from the Simplified Query Type selection or toggle the **Advanced** button and select from the advanced query types. See the [Auto Query page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../auto-query-console.md) for additional information about Query Types.
 
 9.  On the Confirmation page, select the **Run Quick Scan** button to start the scan.
 
     On the Confirmation page, a warning is displayed.
 
-    ![Confirmation warning](../image/quick-scan-warning.png)
+    ![Confirmation warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/quick-scan-warning.png)
 
 

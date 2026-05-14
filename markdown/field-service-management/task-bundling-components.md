@@ -54,7 +54,7 @@ Field Service Task Bundling adds the following business rules.
 
 ## Script Includes for Task Bundling
 
-The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](../../planning-and-policy/reference/customizations.md).
+The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../planning-and-policy/reference/customizations.md).
 
 |Script Includes|Description|
 |---------------|-----------|
@@ -120,7 +120,7 @@ Field Service Task Bundling adds the following task grouping rules.
 
 ## Script includes for Task Grouping
 
-The following script includes contain reusable code that supports the task grouping process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](../../planning-and-policy/reference/customizations.md).
+The following script includes contain reusable code that supports the task grouping process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../planning-and-policy/reference/customizations.md).
 
 |Script include|Description|
 |--------------|-----------|
@@ -202,15 +202,15 @@ Reassigns unassigned task bundles.
 |Bundle: Matching Skills For Dynamic Scheduling|Matches bundles that have skill requirements with agents who have those skills.|
 |Bundle: Matching Mandatory Parts for Dynamic Scheduling|Matches bundles that have part requirements with agents who have those parts.|
 
--   **[Field Service Task Bundling fields](work-order-task-bundling-fields.md)**  
+-   **[Field Service Task Bundling fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-task-bundling-fields.md)**  
 The fields that are included in the details section of work order task bundles.
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
 
-[Configuring Task Bundling](../concept/configuring-fsm-task-bundling.md)
+[Configuring Task Bundling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/configuring-fsm-task-bundling.md)
 
-[Activate Field Service Task Bundling](../task/activate-work-order-task-bundling.md)
+[Activate Field Service Task Bundling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-work-order-task-bundling.md)
 

@@ -38,7 +38,7 @@ Event Management searches through the alerts that you're currently seeing in the
 
 4.  Expand the search to all alerts, including secondary alerts that are a part of alert groups, by selecting **Switch search scope** and then selecting **Extended**.
 
-5.  Perform the search by selecting the check icon ![check icon](../../agent-client-collector/image/check-icon.png) or pressing **Enter**.
+5.  Perform the search by selecting the check icon ![check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../agent-client-collector/image/check-icon.png) or pressing **Enter**.
 
 
 ## Result

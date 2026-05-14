@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then open a new inventory class.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then open a new inventory class.
 
 3.  Select **New**.
 
@@ -38,12 +38,12 @@ The attribute pack tables are added on the **Packs** tab.
 
 ## What to do next
 
-You can update the fields in the pack table that you’ve added. To learn more, see [Review and update a pack for a CI record](review-update-pack-table.md).
+You can update the fields in the pack table that you’ve added. To learn more, see [Review and update a pack for a CI record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/review-update-pack-table.md).
 
-**Parent Topic:**[Attribute pack for CI records](../concept/using-pack-table-ci-record.md)
+**Parent Topic:**[Attribute pack for CI records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-pack-table-ci-record.md)
 
 **Related topics**  
 
 
-[Review and update a pack for a CI record](review-update-pack-table.md)
+[Review and update a pack for a CI record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/review-update-pack-table.md)
 

@@ -34,10 +34,10 @@ Role required: sn\_telecom\_c360.admin
     |Show avatar|Controls whether the avatar is displayed.|
 
 
-**Parent Topic:**[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[Contact card](../concept/c360-contact-card.md)
+[Contact card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-contact-card.md)
 

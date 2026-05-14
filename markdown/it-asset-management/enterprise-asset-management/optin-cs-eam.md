@@ -23,13 +23,13 @@ Role required: sn\_eam.enterprise\_admin
 
 1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Normalization opt-in**.
 
-    ![Opt-in for Enterprise Asset Management Content Service](../image/opt-in-eam.png)
+    ![Opt-in for Enterprise Asset Management Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/opt-in-eam.png)
 
 2.  Select **Opt-In Agreement** to read the agreement and then select the check box, **Yes, I have read and accept the Opt-in Agreement**.
 
 3.  Select **Opt-In**.
 
-    ![Opt-in page showing the enterprise model data](../image/opt-in-modeldata.png)
+    ![Opt-in page showing the enterprise model data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/opt-in-modeldata.png)
 
     After you opt in, the Enterprise Models, Enterprise Model Lifecycles, Firmware Discovery Models, Firmware Model Lifecycles, Custom Firmware Models KPIs, and Custom Firmware CPE mapping are automatically enabled. The Custom Enterprise Product Models KPI is automatically disabled.
 

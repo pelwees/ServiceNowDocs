@@ -21,7 +21,7 @@ In the syntax editor, bold font is used for tokens that have a context menu. Rig
 -   Glide API documentation
 -   System and custom table definitions and data
 
-![The context menu options for a script include in the syntax editor.](../image/js-editor-context-menu.png "Context menu in the syntax editor")
+![The context menu options for a script include in the syntax editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/js-editor-context-menu.png "Context menu in the syntax editor")
 
 |Token type|Context menu option|Description|
 |----------|-------------------|-----------|
@@ -35,5 +35,5 @@ You can configure whether to show the context menu in the syntax editor with the
 
 **Note:** Context menu options can be accessed only if the browser supports SharedWorker, such as Google Chrome and Mozilla Firefox.
 
-**Parent Topic:**[Using the JavaScript syntax editor](../reference/r_EdtJvaScptWSyntxEdtr.md)
+**Parent Topic:**[Using the JavaScript syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/r_EdtJvaScptWSyntxEdtr.md)
 

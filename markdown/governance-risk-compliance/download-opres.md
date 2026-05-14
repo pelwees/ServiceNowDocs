@@ -47,5 +47,5 @@ Role required: admin
 **Related topics**  
 
 
-[List of plugins](../../grc-common/task/t_ActivateGRCPandC.md)
+[List of plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/task/t_ActivateGRCPandC.md)
 

@@ -36,7 +36,7 @@ Multiple playbooks can be enabled at a time, and the trigger should be defined i
 
 When a project template is applied or project is created from a demand, the project information is automatically copied into the project record and reflected in the Playbook.
 
-**Parent Topic:**[Configuring projects with Project Workspace](../../pw-resource-management/concept/configure-projects-pw.md)
+**Parent Topic:**[Configuring projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../pw-resource-management/concept/configure-projects-pw.md)
 
 **Related topics**  
 
@@ -45,7 +45,7 @@ When a project template is applied or project is created from a demand, the proj
 
 [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-experience-admins.md)
 
-[Playbooks in Project Workspace](playbooks-in-pw.md)
+[Playbooks in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/playbooks-in-pw.md)
 
-[Use Playbooks in Project Workspace](../task/use-playbooks-pw.md)
+[Use Playbooks in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../task/use-playbooks-pw.md)
 

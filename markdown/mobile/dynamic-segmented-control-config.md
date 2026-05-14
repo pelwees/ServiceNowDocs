@@ -25,17 +25,17 @@ Role required: admin
 
     2.  Select the record screen that contains the dynamic screen segment you want to configure.
 
-    3.  Select the **Record Screen Segments** tab and select the information icon \(![Information icon.](../image/gac-info-icon.png)\) next to the embedded screen that contains a dynamic record screen segment.
+    3.  Select the **Record Screen Segments** tab and select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) next to the embedded screen that contains a dynamic record screen segment.
 
     4.  Select **Open Record** from the menu.
 
-    5.  From the **Dynamic segment list stream** field, select the information icon \(![Information icon.](../image/gac-info-icon.png)\) and select **Open Record**.
+    5.  From the **Dynamic segment list stream** field, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) and select **Open Record**.
 
     6.  Select the List Stream M2M Item Configuration to use for the dynamic section.
 
-    7.  In the **Card** field of the List Item Configuration form, select the information icon \(![Information icon.](../image/gac-info-icon.png)\) and select **Open Record**.
+    7.  In the **Card** field of the List Item Configuration form, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) and select **Open Record**.
 
-2.  In the Card Template form, select the menu icon \(![Menu icon.](../image/context-menu-icon.png)\) and select **Configure** &gt; **Form Layout**.
+2.  In the Card Template form, select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/context-menu-icon.png)\) and select **Configure** &gt; **Form Layout**.
 
 3.  In the Configuring Card Template form, select **Root-view attribute JSON** and move it to the selected area.
 

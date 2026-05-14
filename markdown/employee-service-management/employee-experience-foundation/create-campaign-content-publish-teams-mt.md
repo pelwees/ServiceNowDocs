@@ -26,7 +26,7 @@ Create notifications to send messages directly to your employees through campaig
     -   Content Publishing \[sn\_cd\]
     -   Content Experiences \[sn\_ca\]
 -   Role required: sn\_cd.campaign\_manager
--   A Microsoft Teams notification includes a link [Create a video, URL, or to-do link](../../employee-center/task/ecpro-manage-link-content.md)
+-   A Microsoft Teams notification includes a link [Create a video, URL, or to-do link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/ecpro-manage-link-content.md)
 
 ## Procedure
 
@@ -129,9 +129,9 @@ Option to indicate that the notification is active and available.
 
 ## What to do next
 
-Make the content available to users: [Schedule delivery of Microsoft Teams notification content](schedule-delivery-content.md#).
+Make the content available to users: [Schedule delivery of Microsoft Teams notification content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/schedule-delivery-content.md#).
 
-Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](../../employee-center/concept/ecpro-campaigns.md)
+Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/ecpro-campaigns.md)
 
-**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](../concept/create-campaign-content-publishing-mt.md)
+**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/create-campaign-content-publishing-mt.md)
 

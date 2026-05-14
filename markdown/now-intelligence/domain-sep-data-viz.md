@@ -36,9 +36,9 @@ Separated data includes data visualization designs and data visualization conten
 -   Data visualizations created in either the IT, CS, or HR child domains aren’t visible to users in the other child domains, but they are visible to users in the parent Joe's Company domain.
 -   Data visualizations created in the parent \(Joe's Company\) domain are available only to users in that domain, but not to users in the child domains.
 
-![List of company departments in separate domains including IT, CS, and HR. IT, CS, and HR are child domains of Joe's Company.](../../reporting/image/domains-list-example.png)
+![List of company departments in separate domains including IT, CS, and HR. IT, CS, and HR are child domains of Joe's Company.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/domains-list-example.png)
 
 If you create a data visualization in one domain and copy it to another, the data visualization structure remains the same, but the data visualization data is adjusted for the domain. For example, a data visualization with data from the Incident table where Active=true shows all active incidents to a user in the parent global domain, but only IT incidents to a user in the IT domain.
 
-**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 

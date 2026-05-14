@@ -80,5 +80,5 @@ Install Notifications Email Agents by requesting it from the ServiceNow Store. V
 
 The Notification Agent requires the Implementation Agent \(IA\) Orchestration framework and is not supported as a standalone feature.
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

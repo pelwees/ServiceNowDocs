@@ -15,7 +15,7 @@ Before you install the Operational Resilience application, you must install the 
 
 The following example shows the Operational Resilience hierarchy, required GRC applications, and optional GRC applications that you can add to the reporting dashboard.
 
-![Operational Resilience application hierarchy.](../image/or-application-dependency.png "Operational Resilience application hierarchy")
+![Operational Resilience application hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/or-application-dependency.png "Operational Resilience application hierarchy")
 
 ## Required and optional plugins for Operational Resilience
 

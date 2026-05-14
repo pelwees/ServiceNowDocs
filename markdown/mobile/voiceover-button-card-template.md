@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-You can define alternative text for buttons defined as icon types as card elements within both cards and card templates. This topic covers the configuration for card templates. For more information about creating buttons defined as icon type, see [Configure an icon UI section](sg-ui-section-config-navig.md).
+You can define alternative text for buttons defined as icon types as card elements within both cards and card templates. This topic covers the configuration for card templates. For more information about creating buttons defined as icon type, see [Configure an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
 
 ## Procedure
 

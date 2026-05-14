@@ -41,11 +41,11 @@ As a search administrator, you may wish to configure separate search profiles fo
 
 5.  Make changes to the cloned search profile's settings.
 
-    For details on search profile settings, see [Create a search profile](create-search-profile-ais.md), [Synonyms](../concept/synonyms-ais.md), [Stop words](../concept/stop-words-ais.md), [Typo handling](../concept/typo-handling-ais.md), [Genius Results](../concept/genius-results-ais.md), and [Result improvement rules](../concept/result-improvement-rules-ais.md).
+    For details on search profile settings, see [Create a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-search-profile-ais.md), [Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/synonyms-ais.md), [Stop words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/stop-words-ais.md), [Typo handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/typo-handling-ais.md), [Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/genius-results-ais.md), and [Result improvement rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/result-improvement-rules-ais.md).
 
 6.  Publish your cloned search profile by selecting **Publish**.
 
-    For more information on the effects of publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
+    For more information on the effects of publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
 
 ## Result
@@ -54,7 +54,7 @@ Your cloned search profile record appears in the Search Profile table.
 
 ## What to do next
 
-Edit the search application configuration record of your choice and link it to your cloned search profile. For details on search application configurations, see [Search application configurations](../concept/defining-search-app-cfgs-ais.md).
+Edit the search application configuration record of your choice and link it to your cloned search profile. For details on search application configurations, see [Search application configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/defining-search-app-cfgs-ais.md).
 
-**Parent Topic:**[Search profiles in AI Search](../concept/defining-search-profiles-ais.md)
+**Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/defining-search-profiles-ais.md)
 

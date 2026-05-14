@@ -57,7 +57,7 @@ CMDB installation administrator
 
 </td><td>
 
-Users with the cmdb\_inst\_admin role can use [IntegrationHub ETL](../../configuration-management/concept/integrationhub-etl.md) to create and customize integrations. CMDB installation administrators can perform the following tasks:-   Read all Service Graph Connector application modules.
+Users with the cmdb\_inst\_admin role can use [IntegrationHub ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../configuration-management/concept/integrationhub-etl.md) to create and customize integrations. CMDB installation administrators can perform the following tasks:-   Read all Service Graph Connector application modules.
 -   Read and write the system properties that are used by the connectors.
 -   Create, update, and delete custom tables.
 -   Create, update, and delete scheduled imports and data sources.
@@ -66,7 +66,7 @@ Users with the cmdb\_inst\_admin role can use [IntegrationHub ETL](../../configu
 </td></tr></tbody>
 </table>## SGC Central workflow
 
-![Workflow describing various tasks a user with the admin or cmdb_inst_admin role can perform in SGC Central.](../image/sgc-central-infographic.png "Example workflow for the SGC Central users")
+![Workflow describing various tasks a user with the admin or cmdb_inst_admin role can perform in SGC Central.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/sgc-central-infographic.png "Example workflow for the SGC Central users")
 
 A user with the SGC-admin or admin role uses SGC Central to perform the following tasks:
 
@@ -133,7 +133,7 @@ Administrator, SGC-admin
 
 To learn more about configuring and using SGC Central, see:
 
--   [Configuring SGC Central](sgcc-configuring.md)
--   [Managing connections added for Service Graph Connectors in SGC Central](sgcc-managing-connection.md)
--   [SGC Central reference](sgcc-reference.md)
+-   [Configuring SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md)
+-   [Managing connections added for Service Graph Connectors in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-managing-connection.md)
+-   [SGC Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 

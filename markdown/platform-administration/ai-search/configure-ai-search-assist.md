@@ -35,13 +35,13 @@ AI Search Assist is a Service Portal widget that displays relevant Catalog Item 
 
     You can choose from a list of pre-defined configurations for specific features. For example, **\[AI Search Assist\] - Incident Deflection**.
 
-    ![Search Application Configurations.](../image/search-application-configurations.png)
+    ![Search Application Configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/search-application-configurations.png)
 
 4.  On the **Record producer information** tab, select a Record producer and Search variable.
 
     For example, **Service Category Request** as a record producer can have a search variable of **Category name**.
 
-    ![Record Producer Information.](../image/record-producer-information.png)
+    ![Record Producer Information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/record-producer-information.png)
 
 5.  To adjust the visibility of your card or detail view, select **Show UI Actions** under the new Record Producer Configuration record's related links.
 
@@ -65,5 +65,5 @@ If Contextual Search has been configured for the same record producer, and is sh
 
 If these conditions aren't all met, then Contextual Search is the fallback for the same record producer to make sure you see related search results.
 
-**Parent Topic:**[AI Search Assist record producer integration for Service Portal](../concept/ai-search-assist.md)
+**Parent Topic:**[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ai-search-assist.md)
 

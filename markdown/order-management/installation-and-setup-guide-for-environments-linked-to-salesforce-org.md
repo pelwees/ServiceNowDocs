@@ -15,7 +15,7 @@ Step-by-step instructions for setting up CPQ in an environment linked to a Sales
 
 ## Before you begin
 
-Provide the username of a user in the org who will serve as the first CPQ admin user. This user will need to grant other users access after they have attempted to access the CPQ Admin once and appear in the User Access list of users. For more information, see [User access](please_share_your_feedback_on_admin_assist_responses.md).
+Provide the username of a user in the org who will serve as the first CPQ admin user. This user will need to grant other users access after they have attempted to access the CPQ Admin once and appear in the User Access list of users. For more information, see [User access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/please_share_your_feedback_on_admin_assist_responses.md).
 
 Provide CPQ Support with the following information:
 
@@ -26,7 +26,7 @@ The CPQ DevOps team will provision the environment. Once ready, Support will con
 
 **Note:** If your Salesforce site was refreshed from another previously CPQ connected Salesforce site, uninstall the CPQ connected app before continuing. It holds metadata associated with the CPQ environment connected to the original Salesforce site. To uninstall, navigate to Setup &gt; Manage Connected Apps &gt; **Logik Connected App** &gt; Uninstall.
 
-![Connected applications screen](../images/cpq-manage-connected-apps-uninstall.png)
+![Connected applications screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-manage-connected-apps-uninstall.png)
 
 Role required: Admin
 

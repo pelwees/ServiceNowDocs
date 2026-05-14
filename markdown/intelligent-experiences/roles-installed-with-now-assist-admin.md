@@ -14,7 +14,7 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 Certain roles are required to use Now Assist Admin functionality.
 
-**Parent Topic:**[Now Assist reference](now-assist-reference-landing.md)
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
 ## Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]
 

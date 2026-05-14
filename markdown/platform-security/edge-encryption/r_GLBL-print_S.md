@@ -25,5 +25,5 @@ This method is available only in an Edge Encryption rule action script.
 |----|-----------|
 |void| |
 
-**Parent Topic:**[Encryption rule objects and APIs](../concept/api-overview.md)
+**Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/api-overview.md)
 

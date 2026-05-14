@@ -25,6 +25,6 @@ Role required: wm\_agent
 
 2.  Expand a group by clicking the arrow beside the group name.
 
-    ![drop off lists](../../field-service-management/image/all-dropoff-lists.png)
+    ![drop off lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/all-dropoff-lists.png)
 
 

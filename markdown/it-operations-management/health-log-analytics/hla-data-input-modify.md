@@ -202,12 +202,12 @@ Windows using Beats \(Filebeat or Winlogbeat\):
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-setup-extra.md)
 
 **Related topics**  
 
 
-[Configure advanced settings for Rsyslog, Splunk, or TCP data inputs in Health Log Analytics manually](hla-data-input-adv-rsyslog-splunk.md)
+[Configure advanced settings for Rsyslog, Splunk, or TCP data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-rsyslog-splunk.md)
 
-[Configure advanced settings for Beats data inputs in Health Log Analytics manually](hla-data-input-adv-beats.md)
+[Configure advanced settings for Beats data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-beats.md)
 

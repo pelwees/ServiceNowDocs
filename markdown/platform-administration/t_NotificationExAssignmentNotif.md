@@ -51,5 +51,5 @@ Set up your email as a test email address. Navigate to **System Properties** &gt
     2.  Check your email for assignment notifications.
 
 
-**Parent Topic:**[Create an email notification](t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 

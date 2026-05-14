@@ -25,7 +25,7 @@ Vaccine Administration Management provides an appointment configuration that you
 
 Appointments are automatically scheduled for users according to the configuration that you set up. If the automatically scheduled time isn’t convenient, the users can select a different appointment time in the portal.
 
-**Important:** This default appointment scheduling configuration is applied across all centers. Beginning with version 4 of Vaccine Administration Management, advanced appointment scheduling configuration is available. To learn more about how to enable and configure the feature, see [Configure advanced appointment scheduling for a center](configure-location-level-weekly-schedule-config.md).
+**Important:** This default appointment scheduling configuration is applied across all centers. Beginning with version 4 of Vaccine Administration Management, advanced appointment scheduling configuration is available. To learn more about how to enable and configure the feature, see [Configure advanced appointment scheduling for a center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/configure-location-level-weekly-schedule-config.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ Appointments are automatically scheduled for users according to the configuratio
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/vaccine-mgmt-config.md)
 

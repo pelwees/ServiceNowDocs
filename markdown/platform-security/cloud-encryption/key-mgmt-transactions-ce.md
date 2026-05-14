@@ -29,7 +29,7 @@ The Key Management Transactions submodule displays all transactions that have oc
 
 The following screen is a sample of the type of information that displays with a ServiceNow key rotation.
 
-![Displays the key management transactions upon rotation.](../image/key-mgmt-transactions.png)
+![Displays the key management transactions upon rotation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/key-mgmt-transactions.png)
 
 The following table displays the field information available on the Key Managements Transactions page.
 
@@ -84,7 +84,7 @@ Key life-cycle state
 
 </td><td>
 
-See [Key Management Framework key life-cycle states](../../key-management-framework/reference/key-life-cycle-states.md) for definitions.
+See [Key Management Framework key life-cycle states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../../key-management-framework/reference/key-life-cycle-states.md) for definitions.
 
 </td></tr><tr><td>
 
@@ -141,5 +141,5 @@ Request step status
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Encryption with Key Management](../concept/dare-overview.md)
+</table>**Parent Topic:**[Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../concept/dare-overview.md)
 

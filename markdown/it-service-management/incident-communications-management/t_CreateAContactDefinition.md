@@ -23,11 +23,11 @@ Role required: ia\_admin or admin
 
 1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Contact Administration** &gt; **Contact Definitions**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Click **New**.
 
-    ![Contact definition form](../image/CreateContactDefinition.png "Contact definition form")
+    ![Contact definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../image/CreateContactDefinition.png "Contact definition form")
 
 3.  On the form, fill in the fields.
 
@@ -71,8 +71,8 @@ Source
 
 Method to determine the user or group to associate with this definition.The source can be:
 
--   **None**: Use no association. You should associate users or groups [manually](t_AddAContactManually.md) within the Incident Communication Plan form.
--   **Default Override**: Use [default override](t_CreateADefaultOverride.md) to associate users or groups based on conditions.
+-   **None**: Use no association. You should associate users or groups [manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_AddAContactManually.md) within the Incident Communication Plan form.
+-   **Default Override**: Use [default override](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateADefaultOverride.md) to associate users or groups based on conditions.
 -   **Form Field**: Use information from the incident communication plan form based on the value specified in the **Source field**.
 
 
@@ -114,16 +114,16 @@ The conditions that must be met to associate this contact definition to a partic
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Incident Communications Management and Contacts](../concept/c_IncidentAlertContact.md)
+**Parent Topic:**[Incident Communications Management and Contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/c_IncidentAlertContact.md)
 
 **Related topics**  
 
 
-[Responsibilities for Incident Communication Plan](../reference/r_ResponsibilitiesForIncidentAlerts.md)
+[Responsibilities for Incident Communication Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../reference/r_ResponsibilitiesForIncidentAlerts.md)
 
-[Define contact responsibilities](t_CreateAContactResponsibility.md)
+[Define contact responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateAContactResponsibility.md)
 
-[Create a default override](t_CreateADefaultOverride.md)
+[Create a default override](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateADefaultOverride.md)
 
-[Add a user as a contact](t_AddAContactManually.md)
+[Add a user as a contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_AddAContactManually.md)
 

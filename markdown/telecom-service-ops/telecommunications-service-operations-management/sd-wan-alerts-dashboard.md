@@ -23,7 +23,7 @@ Access the SD-WAN Alerts Dashboard by navigating to **All** &gt; **Platform Anal
 
 The **Alert Summary** tab provides the capability to filter SD-WAN alert activity by severity, state, customer, or CI.
 
-![SD-WAN Alert Summary tab](../images/sd-wan-alert-dashboard.png)
+![SD-WAN Alert Summary tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/sd-wan-alert-dashboard.png)
 
 |Title|Type|Description|
 |-----|----|-----------|
@@ -35,7 +35,7 @@ The **Alert Summary** tab provides the capability to filter SD-WAN alert activit
 
 The **Alert Categorization** tab displays SD-WAN alerts grouped by customer and severity.
 
-![SD-WAN Alert Categorization](../images/Events-Dashboard.png)
+![SD-WAN Alert Categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/Events-Dashboard.png)
 
 |Title|Type|Description|
 |-----|----|-----------|

@@ -172,5 +172,5 @@ com.snc.marketing\_service\_automation.cms
 Displays the Marketing Service Automation SM application on the Service Management portal. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Service Management](../task/t_ActivateServiceManagement.md)
+</table>**Parent Topic:**[Activate Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../task/t_ActivateServiceManagement.md)
 

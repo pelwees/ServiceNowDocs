@@ -153,5 +153,5 @@ The following table lists the metrics that are gathered as output from Cassandra
 |cassandra.system\_auth.write\_latency| | | |
 |cassandra.system\_auth.pending\_flushes| |count| |
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

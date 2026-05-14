@@ -38,5 +38,5 @@ Role required: web\_service\_admin
 
 You can use the REST Message workflow activity to send the message, or click **Preview Script Usage** to get a sample script. The sample script includes a setStringParameter call for each defined variable substitution that allows you to assign a value to the variable in your script.
 
-**Parent Topic:**[Variable substitution in outbound REST messages](../concept/c_VariableSubstitutionREST.md)
+**Parent Topic:**[Variable substitution in outbound REST messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_VariableSubstitutionREST.md)
 

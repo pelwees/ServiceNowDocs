@@ -27,14 +27,14 @@ You must have a template from an existing project task that has the required fie
 
 2.  Select **New**.
 
-3.  If the templates do not appear at the bottom, select the ellipsis \(![Ellipsis icon](../../planning-and-policy/image/gannt_chart_icon.png)\) icon at the top of the form, and select **Toggle Template Bar**.
+3.  If the templates do not appear at the bottom, select the ellipsis \(![Ellipsis icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/gannt_chart_icon.png)\) icon at the top of the form, and select **Toggle Template Bar**.
 
 4.  Select the template link in the template bar at the bottom of the form.
 
-    ![Template link](../image/template_link.png)
+    ![Template link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/template_link.png)
 
     The template is applied to the project.
 
 
-**Parent Topic:**[Create a project task from a project](t_CreateATaskFromAProject.md)
+**Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 

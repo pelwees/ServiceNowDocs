@@ -40,5 +40,5 @@ Role required: admin
     3.  Verify that the Now Assist for Code skills are active.
 
 
-**Parent Topic:**[Configuring Now Assist for Code](../concept/configuring-now-assist-code.md)
+**Parent Topic:**[Configuring Now Assist for Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/configuring-now-assist-code.md)
 

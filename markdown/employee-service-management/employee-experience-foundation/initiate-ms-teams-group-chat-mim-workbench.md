@@ -31,11 +31,11 @@ Role required: major\_incident\_manager
 
 5.  Click **Initiate** button.
 
-    ![Initiate Microsoft Teams group chat.](../images/initiate-ms-teams-group-chat.png)
+    ![Initiate Microsoft Teams group chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/initiate-ms-teams-group-chat.png)
 
 6.  Within the dialog box that appears, select the participants for the chat.
 
-    ![Participants for the group chat modal screen.](../images/initiate-ms-teams-group-chat-02.png)
+    ![Participants for the group chat modal screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/initiate-ms-teams-group-chat-02.png)
 
     The dialog box displays the **Recommended** and **Selected** participants for the chat.
 
@@ -60,5 +60,5 @@ Role required: major\_incident\_manager
 
 The Microsoft Teams application opens the tab where the agent can chat with all the selected participants.
 
-**Parent Topic:**[Add collaborative communication task from MIM workbench](add-collab-comm-task-mim-workbench.md)
+**Parent Topic:**[Add collaborative communication task from MIM workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-collab-comm-task-mim-workbench.md)
 

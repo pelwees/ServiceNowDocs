@@ -31,10 +31,10 @@ Role required: admin
 
 5.  In the Activity Context Type form, change the filter condition to include the relevant knowledge bases.
 
-6.  ![activity context type](../image/image-context-activity-type.png "Activity context type")
+6.  ![activity context type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/image-context-activity-type.png "Activity context type")
 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Set the refresh interval for Success Dashboard indicators](configure-knowledge-deflection.md)
+**Parent Topic:**[Set the refresh interval for Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-knowledge-deflection.md)
 

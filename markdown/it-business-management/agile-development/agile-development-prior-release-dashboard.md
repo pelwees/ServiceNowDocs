@@ -17,9 +17,9 @@ Prior Release Dashboard provides data visualization on scope, actual burnup and 
 
 Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Prior Release Dashboard**.
 
-![Agile 2.0 prior release burndown report.](../image/agile-prior-release-burndown.png "Agile 2.0 prior release burndown report")
+![Agile 2.0 prior release burndown report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-prior-release-burndown.png "Agile 2.0 prior release burndown report")
 
-![Agile 2.0 prior release burnup report.](../image/agile-prior-release-burnup.png "Agile 2.0 prior release burnup report")
+![Agile 2.0 prior release burnup report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-prior-release-burnup.png "Agile 2.0 prior release burnup report")
 
 **Note:** Canceled stories are not included in any of this data.
 
@@ -137,7 +137,7 @@ If the actual burndown \(Remaining\) is above the ideal burndown, it implies tha
 
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/customizing-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
+**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 

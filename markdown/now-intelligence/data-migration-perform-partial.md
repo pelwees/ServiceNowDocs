@@ -50,14 +50,14 @@ Reports associated with chart to chart drilldown in migrated dashboards are save
 
 5.  From the **Action on selected rows** menu, choose **Migrate Dashboard**.
 
-    ![Dashboard list with three dashboards highlighted as well as the Migrate Dashboard link on the Actions on selected rows menu](../image/data-migration-mig-selected.png)
+    ![Dashboard list with three dashboards highlighted as well as the Migrate Dashboard link on the Actions on selected rows menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-mig-selected.png)
 
 6.  When the migration is complete, select the banner link to view the migrated dashboards on the dashboard overview.
 
-    The first link takes you to the PAR Dashboards list. You can review the dashboards' forms there. The second takes you to the Dashboard Overview where you can view the migrated dashboards in the Analytics Center. ![Data migration complete banner with link to dashboard overview](../image/data-migration-db-overview-link.png)
+    The first link takes you to the PAR Dashboards list. You can review the dashboards' forms there. The second takes you to the Dashboard Overview where you can view the migrated dashboards in the Analytics Center. ![Data migration complete banner with link to dashboard overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-db-overview-link.png)
 
 
 ## What to do next
 
-Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-mig-unmigrated-content.md).
 

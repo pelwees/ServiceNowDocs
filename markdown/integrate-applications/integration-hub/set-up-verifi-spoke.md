@@ -33,7 +33,7 @@ JSON Web Tokens \(JWTs\) enable the capability to configure server-to-server API
 
 2.  Create credential records for the Verifi Spoke.
 
-    Create a connection and credential record for the Verifi Spoke application. The Verifi Spoke connection and credential alias uses these credentials to authorize actions. For more information, see [Create a connection and a credential record for the Verifi Spoke](set-up-verifi-spoke.md#).
+    Create a connection and credential record for the Verifi Spoke application. The Verifi Spoke connection and credential alias uses these credentials to authorize actions. For more information, see [Create a connection and a credential record for the Verifi Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-verifi-spoke.md#).
 
 
 ## Create a connection and a credential record for the Verifi Spoke

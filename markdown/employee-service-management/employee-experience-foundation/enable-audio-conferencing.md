@@ -27,10 +27,10 @@ Role required: sn\_notify\_msteams.admin
 
 2.  Select **Enable Audio Conferencing**.
 
-    ![Enable audio conferencing option](../image/enable-audio-conf.png)
+    ![Enable audio conferencing option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/enable-audio-conf.png)
 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/config-notify-ms-teams.md)
 

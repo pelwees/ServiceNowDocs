@@ -44,12 +44,12 @@ The Talent profile extension point has four default implementations that pull in
 
 4.  On the Create implementation form, fill in the fields.
 
-    For a description of the field values, see [Create implementation form](../reference/implementation-ref-ta-tp.md).
+    For a description of the field values, see [Create implementation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/implementation-ref-ta-tp.md).
 
 
 ## Result
 
 You've created an implementation for the sn\_ta\_tp.TalentProfileExtPoint extension point. Use it to have a customized talent type.
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-tp.md)
 

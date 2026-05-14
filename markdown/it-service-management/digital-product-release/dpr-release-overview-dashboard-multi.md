@@ -15,7 +15,7 @@ breadcrumb: [Release dashboards, Explore, Digital Product Release, IT Service Ma
 
 The Release overview dashboard provides an overview of all the information about an individual product's release in a multi-product release, which the product team can use to assess its readiness.
 
-![Release Overview dashboard provides high-level information about a single product or service release and its progress.](../image/dpr-release-overview-multi.png)
+![Release Overview dashboard provides high-level information about a single product or service release and its progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-overview-multi.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -23,7 +23,7 @@ sn\_dpr\_model.product\_manager, sn\_dpr\_model.release\_admin, sn\_dpr\_model.r
 
 ## Access the Release Overview dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\) and then select a release from the Releases list.
+To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\) and then select a release from the Releases list.
 
 ## Widgets
 
@@ -41,7 +41,7 @@ Risk score
 
 </td><td>
 
-Risk level of a release. This score is calculated based on the overdue tasks and policy failures.For more information, see [Risk score for a release](dpr-risk-score-release.md#).
+Risk level of a release. This score is calculated based on the overdue tasks and policy failures.For more information, see [Risk score for a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-risk-score-release.md#).
 
 </td></tr><tr><td>
 
@@ -100,14 +100,14 @@ Approvals
 List of all approval tasks, grouped by their approval status.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release dashboards](dpr-dashboard-release.md)
+</table>**Parent Topic:**[Digital Product Release dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-dashboard-release.md)
 
 **Related topics**  
 
 
-[Release Overview dashboard](dpr-release-overview-dashboard.md)
+[Release Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-overview-dashboard.md)
 
-[Release Quality dashboard](dpr-release-quality-dashboard.md)
+[Release Quality dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-quality-dashboard.md)
 
-[Release dashboard for a multi-product release](dpr-release-dashboard-multi.md)
+[Release dashboard for a multi-product release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-dashboard-multi.md)
 

@@ -21,7 +21,7 @@ Role required: Admin
 
 If your CPQ SF Managed Package was installed in June 2022 or later, follow these steps to associate a configurable product with a blueprint.
 
-**Note:** If your CPQ SF Managed Package was installed before June 2022, see [Set up a configurable product in a Salesforce-integrated environment \(older managed package\)](cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment-older-managed-package.md).
+**Note:** If your CPQ SF Managed Package was installed before June 2022, see [Set up a configurable product in a Salesforce-integrated environment \(older managed package\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment-older-managed-package.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ If your CPQ SF Managed Package was installed in June 2022 or later, follow these
 **Related topics**  
 
 
-[Set up a configurable product in a headless environment](cpq-set-up-a-configurable-product-in-a-headless-environment.md)
+[Set up a configurable product in a headless environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[Set up blueprints](../concept/blueprints_101.md)
+[Set up blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/blueprints_101.md)
 

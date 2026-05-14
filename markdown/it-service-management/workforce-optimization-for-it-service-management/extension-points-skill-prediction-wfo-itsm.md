@@ -40,5 +40,5 @@ You can create multiple implementations for each extension point and provide an 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Setting up skill prediction in Workforce Optimization for ITSM](setup-skill-prediction-configurable-wfo-itsm.md)
+**Parent Topic:**[Setting up skill prediction in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-skill-prediction-configurable-wfo-itsm.md)
 

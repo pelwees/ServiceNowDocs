@@ -126,5 +126,5 @@ Steps
 6.  To view the created request, click **View Details**.
 
 
-**Parent Topic:**[Using Request Management](../../request-management/concept/using-request-management.md)
+**Parent Topic:**[Using Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../../request-management/concept/using-request-management.md)
 

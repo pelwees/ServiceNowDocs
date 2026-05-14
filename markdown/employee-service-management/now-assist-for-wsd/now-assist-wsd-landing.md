@@ -19,19 +19,19 @@ Now Assist for Workplace Service Delivery \(WSD\) elevates your Workplace Servic
 
 <table id="table_xwb_rqh_ydc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)](now-assist-wsd-landing.md)Learn more about [Exploring Now Assist for Workplace Service Delivery \(WSD\)](now-assist-wsd-overview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../../reuse/icons/brand-icons/bus-explore.svg)](now-assist-wsd-landing.md)Learn more about [Exploring Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-overview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](now-assist-wsd-configuring.md)Install and configure[Configuring Now Assist for WSD](now-assist-wsd-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../../reuse/icons/brand-icons/bus-sdlc.svg)](now-assist-wsd-configuring.md)Install and configure[Configuring Now Assist for WSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-configuring.md)
 
 </td></tr><tr><td>
 
-[Using AI agent workflows in Now Assist for WSD](now-assist-wsd-using-agentic-use-cases.md)![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for Workplace Service Delivery \(WSD\)
+[Using AI agent workflows in Now Assist for WSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-using-agentic-use-cases.md)![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for Workplace Service Delivery \(WSD\)
 
 </td><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](now-assist-wsd-using.md) Use generative AI capabilities offered by [Using Now Assist for WSD](now-assist-wsd-using.md)
+[Using![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](now-assist-wsd-using.md) Use generative AI capabilities offered by [Using Now Assist for WSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-using.md)
 
 </td></tr></tbody>
 </table>You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).

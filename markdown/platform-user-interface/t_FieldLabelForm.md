@@ -21,7 +21,7 @@ Role required: personalize\_dictionary
 
 You can link to any type of file, document, or wiki, and open it in a separate browser window. The following is an example of a form with field label help enabled.
 
-![Range field label help enabled](../image/FieldLabelHelp.png "Field label help enabled")
+![Range field label help enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/FieldLabelHelp.png "Field label help enabled")
 
 ## Procedure
 
@@ -67,5 +67,5 @@ Not used. The help file opens in a new tab regardless of the **URL target** valu
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
 

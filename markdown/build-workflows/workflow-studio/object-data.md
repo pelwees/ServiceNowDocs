@@ -62,7 +62,7 @@ Template
 Specifies the existing object structure to apply to this object.
 
 </td></tr></tbody>
-</table>**Note:** For more information on using complex object variables, see [Complex data](../concept/complex-data.md).
+</table>**Note:** For more information on using complex object variables, see [Complex data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/complex-data.md).
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

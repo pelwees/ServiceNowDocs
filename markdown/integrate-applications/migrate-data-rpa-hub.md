@@ -19,12 +19,12 @@ There are two ways you can migrate your data from a lower environment to a highe
 -   Using the update set capability described in this page for migrating your data from one environment to another environment
 -   Using the **Migrate** button in RPA Hub
 
-    In RPA Hub, you can migrate the bot process configuration and associated assets from one environment to another environment with a click of a button. After the migration is complete, you will have to create a bot process record, create credentials, make necessary changes, and then publish the bot process. For more information, see [Migrating the bot process configuration in RPA Hub](bot-process-migration.md).
+    In RPA Hub, you can migrate the bot process configuration and associated assets from one environment to another environment with a click of a button. After the migration is complete, you will have to create a bot process record, create credentials, make necessary changes, and then publish the bot process. For more information, see [Migrating the bot process configuration in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/bot-process-migration.md).
 
 
 ## Restructured RPA Hub tables \(Tokyo and earlier releases\)
 
-For more information about the restructuring of the RPA Hub tables, see [Restructuring RPA Hub tables](restructured-rpa-hub-tables-utah.md).
+For more information about the restructuring of the RPA Hub tables, see [Restructuring RPA Hub tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/restructured-rpa-hub-tables-utah.md).
 
 For more information about update sets, see [Get started with update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/get-started-update-sets.md).
 
@@ -38,7 +38,7 @@ RPA release manager manually downloads the zip file from the lower \(non-product
 
 RPA release manager automatically imports package version attachments by selecting the **Import Attachment** button on a package version. RPA admin can also perform this action. A flow is then triggered asynchronously and pulls the attachment from the configured connection using API. The automation zip file is attached to the package version and HashCode validation is performed automatically. An email is also sent to the user who performs the import attachment action.
 
-To execute the orchestration of RPA Hub update sets from third-party tools, it is essential to recreate bot process on the higher environment. The **Change Life Cycle Stage Status of a Bot Process** action in Workflow Studio helps in ensuring the deployment and enablement of RPA Hub process is automated. For more information about this action, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+To execute the orchestration of RPA Hub update sets from third-party tools, it is essential to recreate bot process on the higher environment. The **Change Life Cycle Stage Status of a Bot Process** action in Workflow Studio helps in ensuring the deployment and enablement of RPA Hub process is automated. For more information about this action, see [Workflow Studio actions and subflow in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/rpa-hub-actions.md).
 
 ## List of steps for the migration tasks
 
@@ -66,7 +66,7 @@ Lower \(non-production\) environment
 
 </td></tr><tr><td>
 
-2. [Create a bot process configuration record in RPA Hub](../task/create-botprocess-config.md#).
+2. [Create a bot process configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-botprocess-config.md#).
 
 </td><td>
 
@@ -74,7 +74,7 @@ Lower \(non-production\) environment
 
 </td></tr><tr><td>
 
-3. [Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md).
+3. [Adding details to your bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/post-req-bot-process-rpa.md).
 
 </td><td>
 
@@ -98,7 +98,7 @@ Lower \(non-production\) environment
 
 </td></tr><tr><td>
 
-6. [Download a package version in RPA Hub](../task/download-package-version.md).Perform this task, if you are manually migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
+6. [Download a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/download-package-version.md).Perform this task, if you are manually migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
 
 You can skip step 12.
 
@@ -132,7 +132,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-10. [Associate a bot process to a bot process configuration record](../task/select-botprocess.md#).
+10. [Associate a bot process to a bot process configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/select-botprocess.md#).
 
 </td><td>
 
@@ -140,7 +140,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-11. [Verify the associated schedules, parameters, packages, and queues in RPA Hub](../task/verify-botprocess-tasks.md).
+11. [Verify the associated schedules, parameters, packages, and queues in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/verify-botprocess-tasks.md).
 
 </td><td>
 
@@ -152,7 +152,7 @@ Higher \(production\) environment
 
 Perform this task if you are automatically migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
 
-[Import a package version attachment in RPA Hub](../task/import-attachment-package-version.md).
+[Import a package version attachment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/import-attachment-package-version.md).
 
 You can skip step 13 and 14.
 
@@ -162,7 +162,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-13. [Upload an automation package attachment in RPA Hub](../task/upload-package-version-attach.md).Perform this task in classic environment.
+13. [Upload an automation package attachment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/upload-package-version-attach.md).Perform this task in classic environment.
 
 </td><td>
 
@@ -170,7 +170,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-14. [Verify the HashCode of a package version in RPA Hub](../task/view-hash-code.md).
+14. [Verify the HashCode of a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/view-hash-code.md).
 
 </td><td>
 
@@ -178,7 +178,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-15. [Assign a business application to a bot process in RPA Hub](../task/associate-business-apps.md).
+15. [Assign a business application to a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/associate-business-apps.md).
 
 </td><td>
 
@@ -186,7 +186,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-16. [Create a credential group in RPA Hub](../task/create-credential-group.md#).
+16. [Create a credential group in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-credential-group.md#).
 
 </td><td>
 
@@ -194,7 +194,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-17. [Assign a robot to a bot process in RPA Hub](../task/assign-robots.md).
+17. [Assign a robot to a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-robots.md).
 
 </td><td>
 
@@ -202,7 +202,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-18. [Assign a process robot credential within a bot process in RPA Hub](../task/assign-process-robot-cred-botprocess.md).
+18. [Assign a process robot credential within a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-process-robot-cred-botprocess.md).
 
 </td><td>
 
@@ -210,17 +210,17 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-19. [Assign an attended user or group to an attended bot process](../task/assign-rda-users-botprocess.md).
+19. [Assign an attended user or group to an attended bot process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-rda-users-botprocess.md).
 
 </td><td>
 
 Higher \(production\) environment
 
 </td></tr></tbody>
-</table>-   **[Import a package version attachment in RPA Hub](../task/import-attachment-package-version.md)**  
+</table>-   **[Import a package version attachment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/import-attachment-package-version.md)**  
 Import package version attachments automatically instead of manually uploading a package version attachment, by selecting the **Import Attachment** button on a package version.
--   **[Upload an automation package attachment in RPA Hub](../task/upload-package-version-attach.md)**  
+-   **[Upload an automation package attachment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/upload-package-version-attach.md)**  
 Upload a zip file of the automation package in RPA Hub to manually migrate the package from a lower \(non-production\) to a higher \(production\) environment.
 
-**Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)
+**Parent Topic:**[Migrating data in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/migrating-data-rpa-hub.md)
 

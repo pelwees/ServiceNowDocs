@@ -27,7 +27,7 @@ One way to investigate incidents is to determine whether related records exist, 
 
 -   **Related incidents icon**
 
-    The show related incidents icon \(![Show related incidents icon](../image/ShowRelatedIncidentsIcon.png)\) appears beside the **Caller** field when it is populated. Click the icon to view the list of incidents for the same caller.
+    The show related incidents icon \(![Show related incidents icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/ShowRelatedIncidentsIcon.png)\) appears beside the **Caller** field when it is populated. Click the icon to view the list of incidents for the same caller.
 
     **Note:** Administrators can add this icon to any reference field by modifying the dictionary entry and adding the **ref\_contributions=user\_show\_incidents** dictionary attribute. The icon appears only for users who have read or write access to the field. A UI macro named user\_show\_incidents defines the behavior. The UI macro must be active to view the related incidents icon.
 
@@ -37,16 +37,16 @@ One way to investigate incidents is to determine whether related records exist, 
 
 -   **Dependency views**
 
-    Dependency views can help find related incidents based on configuration items \(CI\). If a configuration item is attached to an incident, click the map icon \(![Dependency view icon](../image/BusinessServiceMapIcon.png)\) to display the dependency views map. In the dependency map, if you want to view the tasks that are attached to the CI, click the down arrow next to the CI and from the menu, select **View Related Tasks**.
+    Dependency views can help find related incidents based on configuration items \(CI\). If a configuration item is attached to an incident, click the map icon \(![Dependency view icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/BusinessServiceMapIcon.png)\) to display the dependency views map. In the dependency map, if you want to view the tasks that are attached to the CI, click the down arrow next to the CI and from the menu, select **View Related Tasks**.
 
-    ![CI options menu](../image/IM_CIOptionsDepViews.png "CI options")
+    ![CI options menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/IM_CIOptionsDepViews.png "CI options")
 
 
 ## Incident promotion
 
 When the incident management team has determined that the cause of an incident is an error or widespread problem, the team initiates the problem management process. When the issue requires a change to the infrastructure or a business service, the team initiates the change management process.
 
-A menu item on the Incident form lets you create a problem or change record easily and associate the incident with the problem or change record. For more information, refer [Create a record from incident](../task/t_PromoteAnIncident.md)
+A menu item on the Incident form lets you create a problem or change record easily and associate the incident with the problem or change record. For more information, refer [Create a record from incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/t_PromoteAnIncident.md)
 
 **Note:** If the incident already has an associated problem or change record, you cannot create another record of the same task type.
 
@@ -58,7 +58,7 @@ Sometimes, the resolution for the user is to request hardware or software for th
 
 There are two escalation methods the platform uses to track and report on incidents that are not being resolved according to your organization standards.
 
--   **[Service level agreements](../../service-level-management/concept/service-level-management-concepts.md) \(SLAs\)**
+-   **[Service level agreements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-level-management/concept/service-level-management-concepts.md) \(SLAs\)**
 
     SLAs monitor the progress of an incident according to a set of agreements between a service provider and customer that define the scope, quality, and speed of the services being provided. As time passes, the SLA escalates the priority of the incident and leaves a marker as to its progress. SLAs are also used as a performance indicator for the service desk.
 

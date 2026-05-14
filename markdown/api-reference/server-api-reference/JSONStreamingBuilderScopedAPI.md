@@ -168,7 +168,7 @@ Output:
 }
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## JSONStreamingBuilder - JSONStreamingBuilder\(\)
 
@@ -268,7 +268,7 @@ expiresAt
 
 </td><td>
 
-[GlideDateTime](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
+[GlideDateTime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
 
 </td><td>
 

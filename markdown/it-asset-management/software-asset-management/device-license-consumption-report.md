@@ -61,7 +61,7 @@ The Microsoft Server Infrastructure and License Consumption report follows a hie
 
 To access all the information on the report, scroll all the way to the right of the report. For enhanced usability, you can also export the entire report to an Excel format, facilitating easier review and analysis.
 
-![Microsoft Infrastructure and License Consumption report](../image/microsoft-infrastructure-report.png)
+![Microsoft Infrastructure and License Consumption report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/microsoft-infrastructure-report.png)
 
 ## Understanding licensing layers
 
@@ -153,5 +153,5 @@ The following use cases are supported by the report:
 -   Dual Usage Rights.
 -   Licensing at the host layer.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

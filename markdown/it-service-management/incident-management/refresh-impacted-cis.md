@@ -42,11 +42,11 @@ When you refresh impacted services, the Impacted Services/CIs, Business Applicat
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Open the incident record for which you want to refresh the related lists those values are based on affected CIs.
 
-3.  Click the Additional actions icon ![The Additional actions icon](../image/context-menu.png) and then select **Refresh Impacted Services**.
+3.  Click the Additional actions icon ![The Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/context-menu.png) and then select **Refresh Impacted Services**.
 
     The records in the Impacted Services/CIs, Business Applications, and Service Offerings related lists are updated.
 

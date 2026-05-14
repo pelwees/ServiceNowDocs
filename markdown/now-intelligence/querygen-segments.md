@@ -132,31 +132,31 @@ You can change the time spans for indicator sources by applying a multiplier usi
 
 ## Disabling segment sources
 
-You can disable segment creation altogether, or for individual source types. You might disable segment generation to troubleshoot, or if segments from a source are "noisy." Each source type has a corresponding **sn\_query\_gen.segments.disable.\*** system property. Disable segments for that source by setting the corresponding system property to **true**. All existing segments created from sources of that type are excluded from AI Data Explorer search results. No new segments of that type are created. During the next Sync Segments job, all segments of that type are deactivated. For more information, see [Query Generation properties](querygen-properties.md).
+You can disable segment creation altogether, or for individual source types. You might disable segment generation to troubleshoot, or if segments from a source are "noisy." Each source type has a corresponding **sn\_query\_gen.segments.disable.\*** system property. Disable segments for that source by setting the corresponding system property to **true**. All existing segments created from sources of that type are excluded from AI Data Explorer search results. No new segments of that type are created. During the next Sync Segments job, all segments of that type are deactivated. For more information, see [Query Generation properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md).
 
--   **[Guidelines for segments](general-guidelines-segments.md)**  
+-   **[Guidelines for segments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)**  
 Follow these suggestions to help you use segments in the semantic layer effectively.
--   **[Create a manual segment](../task/querygen-create-segment-manually.md)**  
+-   **[Create a manual segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/querygen-create-segment-manually.md)**  
 Manual segments are admin-created saved searches with friendly names that bridge natural language questions and database filters for the Query Generation semantic layer.
--   **[Manual segment data model and sync behavior](manual-segment-data-model-sync.md)**  
+-   **[Manual segment data model and sync behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)**  
 Manual segments use a two-table data model with automatic synchronization between the configuration table and the runtime table used for search operations.
--   **[Shipping manual segments via plugins](shipping-manual-segments-plugins.md)**  
+-   **[Shipping manual segments via plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/shipping-manual-segments-plugins.md)**  
 Business unit application developers can ship manual segments with their applications to provide domain-specific saved searches that work from the moment the app is installed.
 
-**Parent Topic:**[Tuning the semantic layer](../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
+**Parent Topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
 
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/querygen-create-segment-manually.md)
 
-[Manual segment data model and sync behavior](manual-segment-data-model-sync.md)
+[Manual segment data model and sync behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)
 
-[Shipping manual segments via plugins](shipping-manual-segments-plugins.md)
+[Shipping manual segments via plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/shipping-manual-segments-plugins.md)
 
-[Guidelines for segments](general-guidelines-segments.md)
+[Guidelines for segments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)
 
-[Roles, tables, and scheduled jobs included with Query Generation](tables-sched-jobs-query-gen.md)
+[Roles, tables, and scheduled jobs included with Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/tables-sched-jobs-query-gen.md)
 
-[Query Generation properties](querygen-properties.md)
+[Query Generation properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md)
 

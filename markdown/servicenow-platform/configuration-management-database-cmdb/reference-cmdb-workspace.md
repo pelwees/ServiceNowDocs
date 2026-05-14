@@ -15,10 +15,10 @@ breadcrumb: [CMDB Workspace, Configuration Management Database \(CMDB\), Configu
 
 Reference topics provide additional information about components such as properties, installed with CMDB Workspace and class-specific criteria for the Cloud vs Non-cloud resources chart.
 
--   **[Class criteria in Cloud vs Non-cloud resources chart in CMDB Workspace](../reference/criteria-cloud-resources-chart.md)**  
+-   **[Class criteria in Cloud vs Non-cloud resources chart in CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/criteria-cloud-resources-chart.md)**  
 The Cloud vs Non-cloud resources chart provides counts for several key classes. The chart uses different classes and relationship criteria for each class to determine which resources count as cloud and which count as non-cloud.
--   **[Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md)**  
+-   **[Components installed with CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/installed-with-cmdb-workspace.md)**  
 Several types of components are installed with the activation of the CMDB Workspace \(sn\_cmdb\_ws\) plugin, including properties, tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[CMDB Workspace store app](cmdb-workspace.md)
+**Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
 

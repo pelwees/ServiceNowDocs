@@ -17,7 +17,7 @@ Set up Agile team structures in Enterprise Agile Planning \(EAP\) for teams asso
 
 ## Before you begin
 
-[Activate Jira configuration in Enterprise Agile Planning](activate-jira-configuration-in-eap.md).
+[Activate Jira configuration in Enterprise Agile Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/activate-jira-configuration-in-eap.md).
 
 Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
@@ -29,9 +29,9 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Agile structure**.
 
-3.  Add an Agile Release Train \(ART\) by selecting the + icon \(![Add icon.](../../spw-eap/images/eap-add-icon.png)\) next to Jira Configuration.
+3.  Add an Agile Release Train \(ART\) by selecting the + icon \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-add-icon.png)\) next to Jira Configuration.
 
-    ![Adding ART to Jira configuration in EAP.](../images/jira-int-eap-structure-01.png)
+    ![Adding ART to Jira configuration in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-eap-structure-01.png)
 
     1.  On the Agile Release Train form, fill in details such as name and description.
 
@@ -39,20 +39,20 @@ Role required: sn\_apw\_advanced.eap\_admin
 
     3.  Repeat the action to add as many ARTs as you need.
 
-4.  For each ART, add Agile Teams by selecting the + icon \(![Add icon.](../../spw-eap/images/eap-add-icon.png)\) next to the ART's name.
+4.  For each ART, add Agile Teams by selecting the + icon \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-add-icon.png)\) next to the ART's name.
 
     If you cannot find your teams, contact your admin.
 
-    ![Adding Agile Team to ART for Jira configuration in EAP.](../images/jira-int-eap-structure-02.png)
+    ![Adding Agile Team to ART for Jira configuration in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-eap-structure-02.png)
 
 
 ## Result
 
 An Agile structure is defined for Jira Configuration in EAP.
 
-![Agile structure for Jira configuration in EAP.](../images/jira-int-eap-structure-03.png)
+![Agile structure for Jira configuration in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-eap-structure-03.png)
 
 ## What to do next
 
-[Start using SPW and EAP with Jira integration](../concept/using-eap-with-spw-jira-integrations.md).
+[Start using SPW and EAP with Jira integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/using-eap-with-spw-jira-integrations.md).
 

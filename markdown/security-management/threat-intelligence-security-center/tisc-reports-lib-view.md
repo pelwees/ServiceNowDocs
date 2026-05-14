@@ -25,7 +25,7 @@ Case Reports contain information specific to an individual case. Using the case 
 
 Access to the Case Reports is strictly controlled. Only users or groups with permission to access the case can view or interact with its reports. Without the appropriate permissions, the report and its contents are not accessible.
 
-Case Reports follow the same structure and capabilities as the existing CTI case reporting. For more information, see [About Report Templates in TISC](tisc-report-templates.md). These case reports appear in **All Reports** and **Case Reports** views of the threat intelligence library **Reports** module providing a structured and secure result for case level investigations.
+Case Reports follow the same structure and capabilities as the existing CTI case reporting. For more information, see [About Report Templates in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-report-templates.md). These case reports appear in **All Reports** and **Case Reports** views of the threat intelligence library **Reports** module providing a structured and secure result for case level investigations.
 
 ## Intelligence Reports
 
@@ -129,43 +129,43 @@ By selecting this option, you can choose any individual from the list of system 
 NA
 
 </td></tr></tbody>
-</table>![Record selection using slash command](../image/tisc-report-slash-cmd.png "Record selection using Slash Command")
+</table>![Record selection using slash command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-report-slash-cmd.png "Record selection using Slash Command")
 
 Reports include pre-defined templates, tables offering a comprehensive view of relevant intelligence.
 
 Intelligence Reports appear in the **All Reports** and **Intelligence Reports** views of the threat intelligence library **Reports** module.
 
--   **[View All Reports](tisc-reports.md)**  
+-   **[View All Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports.md)**  
 Use this section to view all the list of reports.
--   **[View Case Reports](../task/tisc-case-reports.md)**  
+-   **[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-case-reports.md)**  
 View Case Reports.
--   **[View Intelligence Reports](../task/tisc-view-intel-reports.md)**  
+-   **[View Intelligence Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-view-intel-reports.md)**  
 View intelligence reports.
--   **[View my reports](../task/tisc-view-my-reports.md)**  
+-   **[View my reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-view-my-reports.md)**  
 View the reports that you created.
 
-**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-[Indicators](indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-[Threat Entities](tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-[Other Objects](tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-other-objects.md)
 
-[Vulnerability Artifacts](vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-rss-feeds.md)
 
-[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](relationship-objects.md)
+[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-[Potential Relationships](potential-relationships.md)
+[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-relationship-map.md)
 

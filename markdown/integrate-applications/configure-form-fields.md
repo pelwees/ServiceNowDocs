@@ -15,9 +15,9 @@ Configure the form fields in the Form Renderer element while you are building an
 
 ## Before you begin
 
-Create an attended automation form in RPA Desktop Design Studio. For more information, see [Create an attended automation form in RPA Desktop Design Studio](create-rda-form.md).
+Create an attended automation form in RPA Desktop Design Studio. For more information, see [Create an attended automation form in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-rda-form.md).
 
-Ensure that your attended automation form contains a Form Renderer element. For more information, see [Form designer for building attended automation forms](../concept/form-designer-overview.md).
+Ensure that your attended automation form contains a Form Renderer element. For more information, see [Form designer for building attended automation forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/form-designer-overview.md).
 
 Role required: none
 
@@ -31,7 +31,7 @@ The Form Renderer element helps you to build forms quickly with the available co
 
 2.  Right-click the Form Renderer element and select **Configure** to configure the form fields.
 
-3.  In the CONFIGURE FORM FIELDS dialog box, click the add icon \(![Add icon.](../image/add-icon-configure-form-fields.png)\) to add a new **Field** tab.
+3.  In the CONFIGURE FORM FIELDS dialog box, click the add icon \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-icon-configure-form-fields.png)\) to add a new **Field** tab.
 
 4.  In the Fields section, expand a Field option and fill in the following details:
 
@@ -117,7 +117,7 @@ Help link URL for the field.This field appears only when **Link** is selected fr
 
 7.  To delete a field, do the following actions:
 
-    1.  Expand the field option that you want to delete and click the delete icon \(![Delete icon.](../image/delete-icon-configure-form-fields.png)\).
+    1.  Expand the field option that you want to delete and click the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/delete-icon-configure-form-fields.png)\).
 
     2.  In the Confirmation dialog box, click **Yes**.
 
@@ -178,12 +178,12 @@ Option for enabling pop-up windows inside the form.
 </table>9.  Click **OK**.
 
 
-**Parent Topic:**[Create an attended automation form in RPA Desktop Design Studio](create-rda-form.md)
+**Parent Topic:**[Create an attended automation form in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-rda-form.md)
 
 **Related topics**  
 
 
-[Form designer for building attended automation forms](../concept/form-designer-overview.md)
+[Form designer for building attended automation forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/form-designer-overview.md)
 
-[Methods and events of the Form Renderer element](../reference/form-control-formreneder.md)
+[Methods and events of the Form Renderer element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/form-control-formreneder.md)
 

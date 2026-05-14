@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Click the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\) and then go to **Network Sites** &gt; **All Sites**.
+2.  Click the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\) and then go to **Network Sites** &gt; **All Sites**.
 
     You can view the sites that you manage by going to **Network Sites** &gt; **My Sites**.
 
@@ -38,5 +38,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 The Network site map page opens and displays your network site.
 
-**Parent Topic:**[Geo map](../concept/using-network-site-map.md)
+**Parent Topic:**[Geo map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-network-site-map.md)
 

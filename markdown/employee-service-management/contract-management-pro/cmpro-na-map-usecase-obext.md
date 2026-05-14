@@ -34,21 +34,21 @@ The following video walks you through the process of mapping a use case for the 
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    ![Now Assist skills available for Contract Management Pro.](../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
+    ![Now Assist skills available for Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
 
 4.  In the General details page, view the skill details and select **Save and continue**.
 
 5.  In the Use case page, select **Save and continue**.
 
-    For more information on creating a use case, see [Create use cases for contract obligation extraction](cmpro-na-use-case-obext.md).
+    For more information on creating a use case, see [Create use cases for contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-use-case-obext.md).
 
 6.  In the Use case mappings page, select **New**.
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Contract obligation extraction use case mapping form](../reference/cmpro-na-use-case-map-form-obe.md).
+    For a description of the field values, see [Contract obligation extraction use case mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-na-use-case-map-form-obe.md).
 
-    ![Create new use case mapping form to map obligations with request tables and repository tables.](../image/cmpro-na-ob-map.png "Create new use case mapping form")
+    ![Create new use case mapping form to map obligations with request tables and repository tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-ob-map.png "Create new use case mapping form")
 
 8.  Select **Save**.
 
@@ -59,17 +59,17 @@ The use case is mapped to specific tables and conditions, and it’s applied for
 
 ## What to do next
 
-[Activate business rules for the Manage contract repository agentic workflow](conf-repository-agentic-ai.md)
+[Activate business rules for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-repository-agentic-ai.md)
 
--   **[Contract obligation extraction use case mapping form](../reference/cmpro-na-use-case-map-form-obe.md)**  
+-   **[Contract obligation extraction use case mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-na-use-case-map-form-obe.md)**  
 Use the Create use case mapping form in the contract obligation extraction skill to map the use case to specific tables and conditions.
 
-**Parent Topic:**[Configuring contract obligation extraction](cncore-conf-obligation-extraction.md)
+**Parent Topic:**[Configuring contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md)
 
 **Related topics**  
 
 
-[Create use cases for contract obligation extraction](cmpro-na-use-case-obext.md)
+[Create use cases for contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-use-case-obext.md)
 
-[Create use cases for contract obligation extraction](cmpro-na-use-case-obext.md)
+[Create use cases for contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-use-case-obext.md)
 

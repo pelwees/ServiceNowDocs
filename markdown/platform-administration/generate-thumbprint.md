@@ -40,7 +40,7 @@ Role required: admin
 
 ## What to do next
 
-[Create an OAuth API script](oauth-api-script.md)
+[Create an OAuth API script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md)
 
-**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](configure-oauth-profile-using-certificates.md)
+**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 

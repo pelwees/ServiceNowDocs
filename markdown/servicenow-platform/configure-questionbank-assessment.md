@@ -68,5 +68,5 @@ Role required: admin or assessment\_admin
         A copy of the metric and the corresponding metric definitions is created for the selected category in the question bank.
 
 
-**Parent Topic:**[Add a metric category and metric in the question bank for assessments](add-questionbank-assessment.md)
+**Parent Topic:**[Add a metric category and metric in the question bank for assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-assessment.md)
 

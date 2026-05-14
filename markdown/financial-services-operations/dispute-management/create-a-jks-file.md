@@ -42,5 +42,5 @@ A JKS file is generated for use in your ServiceNow instance.
 
 ## What to do next
 
-[Create an X.509 Certificate](create-an-x-509-certificate.md).
+[Create an X.509 Certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-an-x-509-certificate.md).
 

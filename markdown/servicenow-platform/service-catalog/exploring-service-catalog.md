@@ -19,14 +19,14 @@ You can use Service Catalog to customize portals where your customers can reques
 
 You can set up one or more service catalogs and provide self-service opportunities. Organize your catalog offerings by using the ability to publish multiple catalogs targeted to specific audiences.
 
--   **[Catalog Builder overview](../reference/catalog-builder-overview.md)**  
+-   **[Catalog Builder overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/catalog-builder-overview.md)**  
 The Catalog Builder experience enables you to delegate the creation and maintenance of catalog items.
--   **[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)**  
+-   **[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)**  
 Service Catalog offers a few types of catalog items.
--   **[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)**  
+-   **[Service Catalog for managers and end users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)**  
 Every user with a login can view and order items from the Service Catalog from departments within your organization. These catalog items can include goods, services, and information.
--   **[Service Catalog items](c_IntroductionToCatalogItems.md)**  
+-   **[Service Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md)**  
 The overall catalog is made up of a collection of discrete catalog items.
 
-**Parent Topic:**[Service Catalog](service-catalog.md)
+**Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 

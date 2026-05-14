@@ -36,7 +36,7 @@ Fortinet APIs use JSON-RPC to enable programmatic interaction with FortiManager 
 
 The following infographic illustrates the architecture of the Fortinet Service Graph Connector.
 
-![Fortinet SD-WAN architecture](../images/fortinet-service-connector-vertical.svg)
+![Fortinet SD-WAN architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/fortinet-service-connector-vertical.svg)
 
 ## CMDB Integrations Dashboard
 
@@ -45,7 +45,7 @@ The Integration Commons for CMDB application provides a dashboard with a central
 **Related topics**  
 
 
-[Configure a Fortinet SD-WAN Service Graph Connector](configure-fortinet-service-graph-connector.md)
+[Configure a Fortinet SD-WAN Service Graph Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configure-fortinet-service-graph-connector.md)
 
-[Run and verify an import schedule for Fortinet SGC](../task/run-and-verify-import-for-fortinet-sd-wan.md)
+[Run and verify an import schedule for Fortinet SGC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/run-and-verify-import-for-fortinet-sd-wan.md)
 

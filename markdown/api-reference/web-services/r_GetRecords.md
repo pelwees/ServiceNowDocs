@@ -103,11 +103,11 @@ Sample SOAP response that contains more than 1 record
 
 For language-specific getRecords samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md#getRecords)
+[Perl SOAP::Lite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PerlWebServicesClientExamples.md#getRecords)
 
-[Java Apache Axis2](../../examples/concept/c_JAAWbSrvcsClntExUpdt.md)
+[Java Apache Axis2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_JAAWbSrvcsClntExUpdt.md)
 
-[Python](../../examples/concept/c_PythonWebServicesClientExamples.md#getRecords)
+[Python](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PythonWebServicesClientExamples.md#getRecords)
 
-**Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
+**Parent Topic:**[Data Retrieval API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataRetrievalAPI.md)
 

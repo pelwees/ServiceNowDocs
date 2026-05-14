@@ -61,7 +61,7 @@ Number of quarantined files in the instance that were restored for the indicated
 
 </td></tr></tbody>
 </table>-   To access the KPI Details page and view the analytics information for a specific date, click a colored line in the Antivirus Events graph. For example, click the blue graphics line to view analytics information for files quarantined for a specific date.
--   To view the following breakdowns in the KPI Details page, click ![Breakdown icon](../image/Breakdown_icon.png), then click:
+-   To view the following breakdowns in the KPI Details page, click ![Breakdown icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Breakdown_icon.png), then click:
 
 <table id="table_wvf_v5t_1jb"><thead><tr><th>
 
@@ -120,20 +120,20 @@ Lists the infected files in the instance quarantined by Antivirus Scanning:
 |Created|Date and time the quarantine file record was created.|
 |Table sys ID|Table system identifier assigned to the quarantine file record.|
 
-**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [Monitor security events](instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](../task/instance-sec-center-configure-event-ribbon.md).
+**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [Monitor security events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/instance-sec-center-configure-event-ribbon.md).
 
-**Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
 **Related topics**  
 
 
-[Antivirus Scanning](antivirus-protection.md)
+[Antivirus Scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md)
 
-[Configuring Antivirus Scanning](../task/configure-antivirus-protection.md)
+[Configuring Antivirus Scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-antivirus-protection.md)
 
-[Reviewing quarantined files](../task/resolve-infected-file.md)
+[Reviewing quarantined files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/resolve-infected-file.md)
 
-[Review antivirus activity](../task/generate-log-report-of-quarantined-files.md)
+[Review antivirus activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/generate-log-report-of-quarantined-files.md)
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 

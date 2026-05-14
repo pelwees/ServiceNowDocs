@@ -19,19 +19,19 @@ The ServiceNow® HR Service Delivery for Healthcare application creates a standa
 
 <table id="table_nyp_yyr_qbc" class="nav-card"><tbody><tr><td>
 
-[Explore](explore-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about HR Service Delivery for Healthcare features
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/explore-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about HR Service Delivery for Healthcare features
 
 </td><td>
 
-[Configure](../task/configure-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install the necessary applications
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/../task/configure-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install the necessary applications
 
 </td></tr><tr><td>
 
-[Use](../task/using-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Securely access, update and maintain details of an healthcare professional.
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/../task/using-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Securely access, update and maintain details of an healthcare professional.
 
 </td><td>
 
-[Reference](../reference/reference-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about component like fields, tables and properties.
+[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/../reference/reference-hr-healthcare.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about component like fields, tables and properties.
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

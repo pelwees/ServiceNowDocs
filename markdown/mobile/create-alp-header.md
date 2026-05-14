@@ -49,7 +49,7 @@ Role required: admin
 
     When you configure a header function instance, an icon appears in the header:
 
-    ![Screen capture of the mobile screen with the header function.](../image/header-function-instance.png "Header function instance icon")
+    ![Screen capture of the mobile screen with the header function.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/header-function-instance.png "Header function instance icon")
 
     Tapping the icon takes a user to the destination screen that is configured with the header function.
 

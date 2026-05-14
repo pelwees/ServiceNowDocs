@@ -49,7 +49,7 @@ Third-party vendors, like Qualys and Tenable, provide their own risk scores. The
 
 8.  In the **Define Value Weightages** section, add field values, and assign a weightage percentage to the fields.
 
-    ![Source Criticality for risk calculation](../image/source-criticality-cc-risk-calculator.png)
+    ![Source Criticality for risk calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/source-criticality-cc-risk-calculator.png)
 
 9.  Click **Submit**.
 
@@ -133,7 +133,7 @@ Travel and Expense
 
 10. In the **Define Value Weightages** section, add field values and assign weightages.
 
-    ![Custom business criticality risk rule weightage](../image/custom-business-crit-risk-rule-weight.png "Custom business criticality risk rule weightage")
+    ![Custom business criticality risk rule weightage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/custom-business-crit-risk-rule-weight.png "Custom business criticality risk rule weightage")
 
 11. Click **Submit**.
 
@@ -174,7 +174,7 @@ Assuming that your organization has multiple configuration items \(CIs\), of whi
 
 9.  In the **Condition** field, select **Name &gt; starts with**, specify the value as `external`.
 
-    ![Custom conditions for new risk rule](../image/custom-conditions-new-risk-rule.png "Custom conditions for new risk rule")
+    ![Custom conditions for new risk rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/custom-conditions-new-risk-rule.png "Custom conditions for new risk rule")
 
 10. Click **Submit**.
 
@@ -182,7 +182,7 @@ Assuming that your organization has multiple configuration items \(CIs\), of whi
 **Related topics**  
 
 
-[Configuration Compliance calculator groups](../concept/vuln-config-compl-calc-groups.md)
+[Configuration Compliance calculator groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/vuln-config-compl-calc-groups.md)
 
 ## Risk score calculation example for Configuration Compliance
 
@@ -499,7 +499,7 @@ Where, the weights are as follows:
 -   Average risk score: 5
 -   Factor: 15
 
-The default weight of the Average risk score is 0. For more information on how to set the weights, see [Edit risk rollup calculators for Configuration Compliance](../task/v11create-rollup-calc.md).
+The default weight of the Average risk score is 0. For more information on how to set the weights, see [Edit risk rollup calculators for Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../task/v11create-rollup-calc.md).
 
 The factor in the previous equation is determined by the number of test results as shown in the following table.
 

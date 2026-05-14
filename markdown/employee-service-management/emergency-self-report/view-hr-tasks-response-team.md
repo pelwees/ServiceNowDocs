@@ -31,7 +31,7 @@ The Emergency Self Report dashboard enables monitoring by and tasks of the emerg
 
 2.  Review the numbers of reports and updates occurring today, and click any card to see the data.
 
-    ![Emergency Self Report overview dashboard](../image/esr-overview-dashboard.png)
+    ![Emergency Self Report overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../image/esr-overview-dashboard.png)
 
 3.  To add someone who does not have self-reporting access, select the user's name in the **Person** field and select a status from the **Health status** list.
 
@@ -44,5 +44,5 @@ The Emergency Self Report dashboard enables monitoring by and tasks of the emerg
     Click any element in a chart, such as a pie wedge or marker, to see the corresponding data.
 
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../concept/emergency-self-report.md)
 

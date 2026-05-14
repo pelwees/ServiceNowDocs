@@ -17,5 +17,5 @@ A candidate is a group of recommended remote tables that you can use to create a
 
 Good candidates for replatforming tend to be smaller applications that use data from the system of record.
 
-**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](../../../build/erp-integration/reference/erp-integration-glossary.md)
+**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../build/erp-integration/reference/erp-integration-glossary.md)
 

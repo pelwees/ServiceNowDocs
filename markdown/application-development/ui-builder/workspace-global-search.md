@@ -23,9 +23,9 @@ Role required: ui\_builder\_admin
 
 You can control whether the search functionality is visible to the users of your workspace experience. If you choose to display a search option, you can define what search results are returned by choosing a source for the search.
 
-![Workspace experience utility settings.](../image/experience-utilities-settings.png "Workplace experience settings")
+![Workspace experience utility settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/experience-utilities-settings.png "Workplace experience settings")
 
-Before you can edit the experience settings, you must be in the correct application scope. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Learn about security and roles](security-roles.md).
+Before you can edit the experience settings, you must be in the correct application scope. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Learn about security and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/security-roles.md).
 
 ## Procedure
 
@@ -33,17 +33,17 @@ Before you can edit the experience settings, you must be in the correct applicat
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md).
 
 3.  Open or create a page in your workspace experience.
 
 4.  Select **Experience settings** in the upper-right.
 
-    ![Arrow pointing to the Experience settings link on the experience view page.](../image/experience-settings-navigation.png)
+    ![Arrow pointing to the Experience settings link on the experience view page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/experience-settings-navigation.png)
 
 5.  Scroll down to **Global search**.
 
-    ![Global search settings for workspace experiences.](../image/uib-settings-search.png)
+    ![Global search settings for workspace experiences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-settings-search.png)
 
 6.  Select the **Show global search** option.
 
@@ -52,5 +52,5 @@ Before you can edit the experience settings, you must be in the correct applicat
 8.  Click **Advanced settings** to go to the ServiceNow AI Platform® and edit the JSON values of the record.
 
 
-**Parent Topic:**[Configure UI Builder workspace experiences](../concept/ui-builder-workspace-settings.md)
+**Parent Topic:**[Configure UI Builder workspace experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/ui-builder-workspace-settings.md)
 

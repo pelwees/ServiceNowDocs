@@ -152,15 +152,15 @@ When enabled, applies the auth scope to all resources in the API
 
 The first auth scope is mapped to the **Table API** with all the http methods, versions, and resources enabled.
 
-![REST API Auth Scope3](../image/auth-scope3.png)
+![REST API Auth Scope3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/auth-scope3.png)
 
 The second auth scope is mapped to the **Table API** with all the versions and resources enabled. But, you choose the HTTP Method, in this example, the **GET** method.
 
-![REST API Auth Scope2](../image/auth-scope2.png)
+![REST API Auth Scope2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/auth-scope2.png)
 
 The third auth scope is mapped to the **Table API** without the http methods, versions, and resources enabled. But, you choose the HTTP Method, Version, and Resource manually. In this example, HTTP Method is **GET**, REST API Version is **latest**, and Resource is `/now/table/{tableName}`.
 
-![REST API Auth Scope1](../image/auth-scope1.png)
+![REST API Auth Scope1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/auth-scope1.png)
 
 If all these auth scopes are created, you can use **GET** method with all the three scopes, but for **POST**, **PUT**, **DELETE**, or **PATCH** methods only **scope3** can be used.
 

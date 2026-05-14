@@ -30,19 +30,19 @@ For example, you can set up a rule to display records that took more than 7 days
 
 1.  Navigate to Improvement opportunity definition page.
 
-    For information about Improvement opportunity definition page, see [Set improvement opportunities](improve-opportunities.md).
+    For information about Improvement opportunity definition page, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md).
 
 2.  Select **Create** on the Rule-based card.
 
 3.  Provide details in the **Define** section.
 
-    For details, see [Rule-based finding definition form](../reference/finding-definition-form.md).
+    For details, see [Rule-based finding definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../reference/finding-definition-form.md).
 
 4.  Select **Configure**.
 
     The **Configure** tab is displayed.
 
-    ![Configure rule-based finding in Finding Builder](../image/rule-find-config-builder.png)
+    ![Configure rule-based finding in Finding Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/rule-find-config-builder.png)
 
     The predicates available are:
 
@@ -90,14 +90,14 @@ For example, you can set up a rule to display records that took more than 7 days
 
     8.  You can copy or paste a single filter by selecting the **Copy** or **Paste** option from the list.
 
-        ![Copy or paste a filter](../image/copy-process-filter.png)
+        ![Copy or paste a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/copy-process-filter.png)
 
 6.  Select **Create a copy** from the **Actions** list to copy the entire improvement opportunity.
 
-    ![Create a copy of the improvement opportunity](../image/imp-opp-copy.png)
+    ![Create a copy of the improvement opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/imp-opp-copy.png)
 
 7.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting improvement opportunities](../concept/working-with-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/working-with-imp-opp.md)
 

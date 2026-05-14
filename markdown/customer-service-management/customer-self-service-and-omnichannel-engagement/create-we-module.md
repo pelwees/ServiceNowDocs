@@ -92,7 +92,7 @@ Thumbnail image of a module. User can see this thumbnail when browsing modules f
 
 5.  On the module page, select the **Edit** to modify the details.
 
-6.  Select Show module action ![Show module action](../image/we-module-delete-icon.png) icon to delete the module.
+6.  Select Show module action ![Show module action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-module-delete-icon.png) icon to delete the module.
 
     **Note:** This action permanently deletes the module and its component instances, and this action can’t be undone. Existing component instances on your website will continue to function. To remove those instances, delete or comment out the embed codes on your webpages.
 

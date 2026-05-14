@@ -45,7 +45,7 @@ Create Data Stream actions with these considerations in mind.
 
 -   **Consider the size of each page returned**
 
-    When configuring pagination options, try to ensure that the size of each page returned is under one GB. This ensures that flow designers who use the action won't encounter size limit issues when retrieving data from a MID Server. If the action returns more than one GB of data per page, the flow designer may need to increase the attachment size limit. For more information, see [MID Server support for Data Stream actions](dsa-on-mid.md).
+    When configuring pagination options, try to ensure that the size of each page returned is under one GB. This ensures that flow designers who use the action won't encounter size limit issues when retrieving data from a MID Server. If the action returns more than one GB of data per page, the flow designer may need to increase the attachment size limit. For more information, see [MID Server support for Data Stream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/dsa-on-mid.md).
 
 
 **Note:**
@@ -145,5 +145,5 @@ SOAP step
     Iterating over a large number of records can be resource intensive, especially when the For Each logic block includes complex actions for each iteration. To avoid performance issues, turn off reporting using the **com.snc.process\_flow.reporting.level** system property. For more information, see [Workflow Studio flow system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-system-properties.md).
 
 
-**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/data-stream-actions.md)
 

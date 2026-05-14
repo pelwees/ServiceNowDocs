@@ -32,7 +32,7 @@ To create cases in this way, the following configuration is required:
 
 -   Enable the **Create Case** button from the Customer Service Case Types application for each of these records. This enables agents to create a specific type of case.
 
-    See [Configure customer service case types](configure-csm-case-types.md) for more information about using the Customer Service guided setup and the Case Types category to configure case type UI actions.
+    See [Configure customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-types.md) for more information about using the Customer Service guided setup and the Case Types category to configure case type UI actions.
 
 -   Configure the playbook to use the playbook record generator.
 

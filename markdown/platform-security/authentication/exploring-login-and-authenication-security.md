@@ -41,10 +41,10 @@ Control several dimensions of the log in and log out process for users, such as 
 
 </td><td>
 
--   [Define login scenarios](../../login/task/t_LoginScenarios.md)
--   [Configure the logout confirmation prompt](../task/t_EnableTheLogoutConfirmPrompt.md)
--   [Installation exits](../../../script/server-scripting/reference/r_InstallationExits.md)
--   [Specify lockout for failed login attempts](../task/t_LockoutForFailedLogins.md)
+-   [Define login scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../login/task/t_LoginScenarios.md)
+-   [Configure the logout confirmation prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/t_EnableTheLogoutConfirmPrompt.md)
+-   [Installation exits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../script/server-scripting/reference/r_InstallationExits.md)
+-   [Specify lockout for failed login attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/t_LockoutForFailedLogins.md)
 
 </td></tr><tr><td>
 
@@ -56,11 +56,11 @@ Control the password reset process and features like the Remember Me option. You
 
 </td><td>
 
--   [Configure your password policy](../../../integrate/authentication/task/set-your-password-policy.md)
--   [Password Reset](c_SelfServicePasswordReset.md)
--   [Remember me](../../login/concept/c_ChSetRemMeChkbxCookie.md#)
--   [IP range based authentication](../../login/concept/c_IPRangeBasedAuthentication.md)
--   [Implement a nonce](../../login/concept/c_ImplementingANonce.md)
+-   [Configure your password policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../integrate/authentication/task/set-your-password-policy.md)
+-   [Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/c_SelfServicePasswordReset.md)
+-   [Remember me](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../login/concept/c_ChSetRemMeChkbxCookie.md#)
+-   [IP range based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../login/concept/c_IPRangeBasedAuthentication.md)
+-   [Implement a nonce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../login/concept/c_ImplementingANonce.md)
 
 </td></tr></tbody>
 </table>

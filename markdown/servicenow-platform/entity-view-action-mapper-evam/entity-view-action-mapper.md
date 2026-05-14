@@ -19,21 +19,21 @@ The Entity View Action Mapper \(EVAM\) is an application that standardizes how d
 
 <table id="table_ebv_qrn_g2c" class="nav-card presentation"><tbody><tr><td>
 
-[Exploring EVAM](exploring-entity-view-action-mapper.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how different data sources display in cards and lists using EVAM.
+[Exploring EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/exploring-entity-view-action-mapper.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how different data sources display in cards and lists using EVAM.
 
 </td><td>
 
-[Configuring EVAM](configuring-entity-view-action-mapper.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and manage EVAM. View configurations, view templates, and configuration bundles to make it easier to use the feature.
+[Configuring EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/configuring-entity-view-action-mapper.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and manage EVAM. View configurations, view templates, and configuration bundles to make it easier to use the feature.
 
 </td></tr><tr><td>
 
-[Managing EVAM](managing-entity-view-action-mapper.md)
+[Managing EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/managing-entity-view-action-mapper.md)
 
  ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use EVAM to take in different data sources, configure views, and show them in a card display view.
 
 </td><td>
 
-[EVAM reference](entity-view-action-mapper-reference.md) ![](../../../reuse/icons/brand-icons/bus-learn.svg)More information about EVAM and its usage.
+[EVAM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/entity-view-action-mapper-reference.md) ![](../../../reuse/icons/brand-icons/bus-learn.svg)More information about EVAM and its usage.
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

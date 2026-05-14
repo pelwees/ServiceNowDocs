@@ -59,7 +59,7 @@ You can export catalog entities in any sequence, but you must import them to a t
 
     The exported file appears in the **Attachments** pane.
 
-    ![The Catalog Export Request page with an exported JSON file in the Attachments pane.](../image/e-i-attachment-screen.png)
+    ![The Catalog Export Request page with an exported JSON file in the Attachments pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/e-i-attachment-screen.png)
 
 8.  Select the attachment to download the exported file.
 
@@ -68,6 +68,6 @@ You can export catalog entities in any sequence, but you must import them to a t
 
 ## What to do next
 
--   [Import product catalog entities](import-product-catalog-entities.md)
--   [View export job status](view-export-job-status.md)
+-   [Import product catalog entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/import-product-catalog-entities.md)
+-   [View export job status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-export-job-status.md)
 

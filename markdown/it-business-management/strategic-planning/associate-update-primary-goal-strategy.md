@@ -21,7 +21,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 ## About this task
 
-You can associate a goal or target as primary with a planning item by populating the **Primary goal** and **Primary target** fields on the Planning item form respectively. When you populate the **Primary target** field, the **Primary goal** is automatically populated with the goal of the populated target. For more information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+You can associate a goal or target as primary with a planning item by populating the **Primary goal** and **Primary target** fields on the Planning item form respectively. When you populate the **Primary target** field, the **Primary goal** is automatically populated with the goal of the populated target. For more information, see [Planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/reference/planning-item-form.md).
 
 After you associate planning items with goals or targets, you can check these relationships directly on the Planning items tab of the goal's form or on the Goal/Target Relationships tab of the planning item's form.
 
@@ -80,7 +80,7 @@ Alternatively, you can select **Full details** and open the item's record page. 
 
     Alternatively, you can select **Add** in the **Goal/Target Relationships** tab, populate the **Goal** and **Target** fields as needed, and then select **Primary**. The **Primary goal** and **Primary target** fields are then automatically populated on the planning item form.
 
-    For a description of the field values, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+    For a description of the field values, see [Planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/reference/planning-item-form.md).
 
 3.  Select either **Update** or **Save**.
 
@@ -92,13 +92,13 @@ If you want to remove the existing goal or target association, you can remove th
 **Related topics**  
 
 
-[Create a goal](create-goal-strategy.md)
+[Create a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-[Add a target for goal](set-target-for-goal-strategy.md)
+[Add a target for goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/set-target-for-goal-strategy.md)
 
-[Duplicate a goal or target](duplicate-goal-target-strategy.md)
+[Duplicate a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/duplicate-goal-target-strategy.md)
 
-[Align work with a goal or target](associate-work-with-goals-strategy.md)
+[Align work with a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/associate-work-with-goals-strategy.md)
 
-[Send a reminder for target actuals check in](send-reminder-target-checkin-strategy.md)
+[Send a reminder for target actuals check in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 

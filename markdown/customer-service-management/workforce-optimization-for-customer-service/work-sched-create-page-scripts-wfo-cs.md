@@ -29,7 +29,7 @@ Add the **Transform workItem to cardProps** page script to transform the **workI
 
 ## Procedure
 
-1.  Select the Client Scripts icon \(![Client scripts icon](../image/client-scripts-icon.png)\).
+1.  Select the Client Scripts icon \(![Client scripts icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/client-scripts-icon.png)\).
 
 2.  Create the **Handle card clicked** page script.
 
@@ -141,7 +141,7 @@ Add the **Transform workItem to cardProps** page script to transform the **workI
 
 [Define the workItem property in the Work scheduler page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-create-page-properties.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 

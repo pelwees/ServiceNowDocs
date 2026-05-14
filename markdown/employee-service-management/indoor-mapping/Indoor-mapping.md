@@ -23,19 +23,19 @@ Create campus, buildings and floors, import your floor plan source files, and ma
 
 <table id="table_sdw_cwc_qtb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Indoor Mapping concepts and features.](../concept/ind-mapping-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Indoor Mapping concepts and features.](../concept/ind-mapping-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure Indoor Mapping as your map provider](../concept/configure-ind-mapping.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure Indoor Mapping as your map provider](../concept/configure-ind-mapping.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create Indoor Mapping map objects and map data](../concept/using-indoor-mapping.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create Indoor Mapping map objects and map data](../concept/using-indoor-mapping.md)
 
 </td><td>
 
-[References ![](../../../reuse/icons/brand-icons/bus-learn.svg) Work with Indoor Mapping components, roles, and properties](../concept/indoor-mapping-references.md)
+[References ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../../reuse/icons/brand-icons/bus-learn.svg) Work with Indoor Mapping components, roles, and properties](../concept/indoor-mapping-references.md)
 
 </td></tr></tbody>
 </table>## Additional resources

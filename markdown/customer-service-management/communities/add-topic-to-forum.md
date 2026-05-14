@@ -40,5 +40,5 @@ A topic can belong to more than one forum.
     The selected topic is added to the Forum Topics list in the forum. The topic is available to users in this forum.
 
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

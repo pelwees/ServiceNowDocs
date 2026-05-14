@@ -55,7 +55,7 @@ Email layout
 
 </td><td>
 
-If the message body for the template is to be formatted using a predefined [email layout](create-email-layout.md), select the layout.
+If the message body for the template is to be formatted using a predefined [email layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-layout.md), select the layout.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Enter the content of the email template message. You can use the HTML editor too
 
 -   When a template is applied to a notification, the contents of this field are used when you select **HTML and plain text** or **HTML** in the **Content Type** field in the Email Notification form.
 -   You cannot use HTML code to control the appearance of the contents in the `${comments}` variable.
--   If you want to include a link to the record that triggered the notification, see [Enable links to records](../../../script/server-scripting/concept/c_EnableLinksToServiceNowRecords.md).
+-   If you want to include a link to the record that triggered the notification, see [Enable links to records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../script/server-scripting/concept/c_EnableLinksToServiceNowRecords.md).
 
 
 </td></tr><tr><td>
@@ -106,10 +106,10 @@ Create a different message to be delivered to an SMS device. Enter a brief messa
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Email templates](../concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailTemplates.md)
 
 **Related topics**  
 
 
-[Create an email layout](create-email-layout.md)
+[Create an email layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-layout.md)
 

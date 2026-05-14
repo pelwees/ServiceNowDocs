@@ -120,5 +120,5 @@ Ensure that logging for Azure KeyVault is 'Enabled' \(Automated\)
 Microsoft Azure Foundations Benchmark v1.4.0 - 11-26-2021
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)
+</table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 

@@ -115,12 +115,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the Adobe Sign spoke, click **View Details**.
 
-        ![Connection for Adobe Sign spoke](../image/adobe-sign-connection.png)
+        ![Connection for Adobe Sign spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/adobe-sign-connection.png)
 
-    -   To manage more than one Adobe Sign spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Adobe Sign spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![First-time connection configuration.](../image/adobe-sign-connection-configure.png)
+    ![First-time connection configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/adobe-sign-connection-configure.png)
 
 5.  On the **Configure Connection** form, fill in the fields:
 
@@ -137,7 +137,7 @@ Role required: admin
     |OAuth Client Secret|Application Secret created during the Adobe Sign account configuration.|
     |OAuth Redirect URL|OAuth callback endpoint in this format: `https://<ServiceNow-instance-name>.service-now.com/oauth_redirect.do`|
 
-    ![Configure a connection for the Adobe Sign spoke.](../image/adobe-sign-connection-template.png)
+    ![Configure a connection for the Adobe Sign spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/adobe-sign-connection-template.png)
 
 6.  Click **Configure and Get OAuth Token**.
 

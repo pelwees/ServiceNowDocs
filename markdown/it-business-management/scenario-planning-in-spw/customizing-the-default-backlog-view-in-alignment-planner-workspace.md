@@ -19,7 +19,7 @@ Portfolio managers or product owners can show or hide the data for their plannin
 
 |Personalize settings for Prioritization tab|Personalize settings for Kanban tab|Personalize settings for Hierarchy tab|
 |-------------------------------------------|-----------------------------------|--------------------------------------|
-|![Personalize side panel of Strategic Planning in the Prioritization tab showing the column choices.](../images/personalize-list-config.png)|![Personalize side panel of Strategic Planning Kanban tab showing the column choices.](../images/kanban-personalize.png)|![Personalize side panel of Strategic Planning Hierarchy tab showing the column choices.](../../alignment-planner-workspace/images/personalize-hierarchy-config.png)|
+|![Personalize side panel of Strategic Planning in the Prioritization tab showing the column choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/personalize-list-config.png)|![Personalize side panel of Strategic Planning Kanban tab showing the column choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/kanban-personalize.png)|![Personalize side panel of Strategic Planning Hierarchy tab showing the column choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/personalize-hierarchy-config.png)|
 
 Add extra columns as choices to this side panel or remove any of the default column choices by updating the list layout configuration for the planning item types associated to the portfolio plan.
 
@@ -30,5 +30,5 @@ From the form view of the identified table, change the view to **APW Prioritizat
 
 **Note:** List v3 is no longer available for new deployments. If you are already using list v3, you may continue to do so, but in this case some of the functionalities might not be available.
 
-**Parent Topic:**[Prioritization display settings in Strategic Planning](configuring-prioritization-and-roadmap-settings-strategic-planning.md)
+**Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 

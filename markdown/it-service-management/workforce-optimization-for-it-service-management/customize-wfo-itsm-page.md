@@ -39,9 +39,9 @@ For a list of all workspaces ServiceNow offers to target specific users, see [Li
 
     For example, Landing Page or Work Scheduler.
 
-4.  In the **Variants** section, select the menu icon \(![menu-icon](../image/menu-icon.png)\) of the variant you would like to copy select **Duplicate**.
+4.  In the **Variants** section, select the menu icon \(![menu-icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/menu-icon.png)\) of the variant you would like to copy select **Duplicate**.
 
-5.  In the variant that you've duplicated, select the menu icon \(![menu-icon](../image/menu-icon.png)\) and select **Edit page variant settings**.
+5.  In the variant that you've duplicated, select the menu icon \(![menu-icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/menu-icon.png)\) and select **Edit page variant settings**.
 
 6.  In the Edit settings pop-up window, do the following:
 
@@ -51,14 +51,14 @@ For a list of all workspaces ServiceNow offers to target specific users, see [Li
 
         If you do not want to make any updates, select **Cancel** or select **Delete** to delete the variant.
 
-7.  Select the menu icon \(![menu-icon](../image/menu-icon.png)\) and select **Edit conditions**.
+7.  Select the menu icon \(![menu-icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/menu-icon.png)\) and select **Edit conditions**.
 
     -   To add or edit conditions for the variant, in the **Variant Conditions** field, and add your preferred conditions for the variant.
     -   To display the variant in Workforce Optimization for ITSM, in the **Order** field, set the preferred order number.
 8.  Select **Done**.
 
 
-**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](../concept/advanced-configuration-workforce-optimization-itsm.md)
+**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/advanced-configuration-workforce-optimization-itsm.md)
 
 **Related topics**  
 

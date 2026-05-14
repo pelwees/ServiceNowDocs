@@ -164,5 +164,5 @@ Update deployment calendar and continue with next install cohorts
 After successful deployment, continue with data collection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Preparing for Agent Client Collector implementation](acc-preparation.md)
+</table>**Parent Topic:**[Preparing for Agent Client Collector implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-preparation.md)
 

@@ -15,9 +15,9 @@ In the Manufacturing Commercial Operations application, you can use the Install 
 
 |Related list|Description|
 |------------|-----------|
-|[Create a child install base item](mco-create-child-install-base-item.md)|List of child install based items.|
-|[Create a installed product](create-a-sold-product.md)|List of sold products associated with the install base items.|
+|[Create a child install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-child-install-base-item.md)|List of child install based items.|
+|[Create a installed product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/create-a-sold-product.md)|List of sold products associated with the install base items.|
 ||List of entities, such as accounts, customers, or products|
 ||List of cases raised for an account, customer, or product.|
-|[Create sold product or install base item for contract](create-sold-product-covered.md)|List of sold products.|
+|[Create sold product or install base item for contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/create-sold-product-covered.md)|List of sold products.|
 

@@ -22,7 +22,7 @@ Ensure that the following application and plugin are installed:
 -   ITOM Content Service \(sn\_smart\_content\)
 -   Discovery Admin Workspace \(com.snc.itom.daw\)
 
-Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](share-data-itom-content-service.md).
+Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md).
 
 Role required: discovery\_admin
 
@@ -34,7 +34,7 @@ Role required: discovery\_admin
 
 3.  Manually sync with suggestions from your system by selecting **Sync candidates**.
 
-    **Note:** If a message appears about the application scope, select **OK** to exit the message. Then, change the scope by selecting the application scope icon \(![Application scope icon](../../agent-client-collector/image/application-scope-icon.png)\) and selecting **Global**.
+    **Note:** If a message appears about the application scope, select **OK** to exit the message. Then, change the scope by selecting the application scope icon \(![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../agent-client-collector/image/application-scope-icon.png)\) and selecting **Global**.
 
 4.  In the Sync candidates confirmation window, select **Yes**.
 
@@ -58,7 +58,7 @@ The new configuration items are added to the CMDB the next time Discovery runs a
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/discovery-content-services.md)
 
-[Discovery Admin Workspace](../concept/discovery-admin-workspace.md)
+[Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/discovery-admin-workspace.md)
 

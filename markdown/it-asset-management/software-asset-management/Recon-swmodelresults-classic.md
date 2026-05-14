@@ -110,7 +110,7 @@ A product result for a licensable product is generated after reconciliation even
 
 **Note:** A Software Model Results record is only created when a software model or entitlement exists for the product.
 
-For licensable products, a software model is automatically created for any unlicensed installs, subscriptions, or options in the Product Results list that do not have an entitlement by default. See [properties](sam-properties.md) to change the **com.snc.samp.automaticsmrcreation** property setting. You can also set the **com.snc.samp.automaticsmcreation** property to have a software model created automatically for not-licensable products, if desired.
+For licensable products, a software model is automatically created for any unlicensed installs, subscriptions, or options in the Product Results list that do not have an entitlement by default. See [properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-properties.md) to change the **com.snc.samp.automaticsmrcreation** property setting. You can also set the **com.snc.samp.automaticsmcreation** property to have a software model created automatically for not-licensable products, if desired.
 
 To view more information about a specific software product result, select an entry from the Product Results list. Refer to the following table for field descriptions.
 
@@ -575,5 +575,5 @@ Potential savings
 Savings to be gained from reclaiming unused software installations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software license usage](../concept/sam-license-workbench.md)
+</table>**Parent Topic:**[Software license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sam-license-workbench.md)
 

@@ -171,5 +171,5 @@ Select tags to annotate or earmark records ingested into the system from this so
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+**Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 

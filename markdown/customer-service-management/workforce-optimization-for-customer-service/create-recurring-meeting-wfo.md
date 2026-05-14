@@ -23,7 +23,7 @@ Role required: sn\_shift\_planning.admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Schedule \(![Schedule icon.](../image/schedule-new.png)\) icon.
+2.  Select the Schedule \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\) icon.
 
 3.  Navigate to **+New** &gt; **Meeting**.
 
@@ -112,5 +112,5 @@ It is a one-time meeting only.
 
 You can view the meeting series on your team calendar. You can select the meeting invite on the team calendar and edit the whole meeting series or a particular meeting in the whole series.
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

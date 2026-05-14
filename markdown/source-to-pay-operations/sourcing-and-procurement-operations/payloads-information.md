@@ -173,5 +173,5 @@ This section describes the following procurement errors:
 }
 ```
 
-**Parent Topic:**[Data source table information](data-sources-info.md)
+**Parent Topic:**[Data source table information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/data-sources-info.md)
 

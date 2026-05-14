@@ -48,26 +48,26 @@ Typically, neither of the following definitions would be appropriate:
 -   a rack runs on a server
 -   a server runs on a database
 
-For descriptions of some key relationships, see [CI relationships in the CMDB](../concept/c_CIRelationships.md).
+For descriptions of some key relationships, see [CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationships.md).
 
-**Parent Topic:**[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_AddANewSuggestedRelationship.md)
 
-[Relationship governance rules](../concept/relationship-governance.md)
+[Relationship governance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/relationship-governance.md)
 
-[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+[CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationsFormatterNG.md)
 
-[CI relationship editor](../concept/c_RelationshipEditor.md)
+[CI relationship editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_RelationshipEditor.md)
 
-[Relation qualifier](../concept/c_RelationQualifier.md)
+[Relation qualifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_RelationQualifier.md)
 
-[CI relationship security](../concept/c_CIRelationshipSecurity.md)
+[CI relationship security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateACIRelationRollup.md)
 
-[CI Class Manager](../task/t_AddANewSuggestedRelationship.md)
+[CI Class Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_AddANewSuggestedRelationship.md)
 

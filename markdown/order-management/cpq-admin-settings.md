@@ -15,7 +15,7 @@ Explore the admin settings in CPQ.
 
 Several settings in CPQ control how CPQ interacts with the rest of your application. To get to the Settings page in CPQ, navigate to the CPQ Admin screen, click the arrow to expand the Utilities section, and then click the Settings tab near the bottom of the menu.
 
-![Admin settings user interface](../images/cpq-admin-settings.png)
+![Admin settings user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-admin-settings.png)
 
 1.  Admin Version: Determines which UI theme is used for the Admin interface. The setting is maintained at the user level; each administrator can select their preference. If your CPQ environment contains both Configuration Manager and Transaction Manager, we highly recommend you use the new Admin UI.
     -   The new Admin UI introduces top-level navigation and color theming that helps administrators easily identify and access different administration areas.

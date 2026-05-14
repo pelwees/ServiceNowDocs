@@ -23,7 +23,7 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **My Work**, click **Items Pending Approvals**.
 
@@ -45,5 +45,5 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 -   If you approve the matter task, the task is closed. The state of the task updates to Closed Complete.
 -   If you reject the matter task, the task is opened again. The state of the task updates to Work in Progress. The task owner can work on the task again to fulfill the requirements of the task and mark it complete for approval.
 
-**Parent Topic:**[Create a task for a legal matter](add-tasks-to-legal-matter.md)
+**Parent Topic:**[Create a task for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-tasks-to-legal-matter.md)
 

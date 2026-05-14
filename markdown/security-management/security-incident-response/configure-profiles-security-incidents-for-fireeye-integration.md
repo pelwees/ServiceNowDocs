@@ -43,21 +43,21 @@ Configure the profile so that it runs only when the conditions you specify are f
         -   Select the **Define Alternative Field** option to define an alternative input field.
         -   Select the input field from the **Alternate CI Trigger Field**.
 
-            **Note:** For more information, see [Understand how trigger conditions work with a configuration item](../concept/understand-trigger-conditions-work-with-configuration-item.md).
+            **Note:** For more information, see [Understand how trigger conditions work with a configuration item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/understand-trigger-conditions-work-with-configuration-item.md).
 
-        ![Additional Configuration section for FireEye Capability Profile.](../image/additional-config.png)
+        ![Additional Configuration section for FireEye Capability Profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/additional-config.png)
 
     -   **Tags**: You can optionally tag security incidents with the FireEye HX profile initiated, profile completed, and profile failed tags.
 
         Select the **Display Tag** check box to enable tagging security incidents, profile name is prefixed on enabling the tag. By default, this option is disabled for all profiles.
 
-        ![Enabling Tags for security incidents.](../image/display-tag.png)
+        ![Enabling Tags for security incidents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/display-tag.png)
 
     -   **Approvals**: Select the **Require Approval** check box to provide an extra level of control when using the FireEye HX capabilities for isolating host machines, restoring them to the network, and to get the files.
 
         The approvals option in the profile configuration appears only for Isolate Host, Remove Host Isolation, and Get File capabilities.
 
-        ![Setting up parameters in the Approval section.](../image/approval-checkbox.png)
+        ![Setting up parameters in the Approval section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/approval-checkbox.png)
 
 4.  Click **Done**.
 

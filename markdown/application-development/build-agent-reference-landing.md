@@ -16,10 +16,10 @@ Reference topics provide additional information about using Build Agent to creat
 
 Reference topics provide metadata compatibility information and example prompts to support your development workflow. Use the following topics alongside the task and concept documentation to get the most out of Build Agent.
 
--   **[Supported metadata in Build Agent](build-agent-supported-metadata.md)**  
+-   **[Supported metadata in Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-agent-supported-metadata.md)**  
 Metadata and app file types are ServiceNow Fluent plugins that Build Agent can process and manage. Use this reference when determining compatibility for your development workflow.
--   **[Example prompts](build-agent-example-prompts.md)**  
+-   **[Example prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-agent-example-prompts.md)**  
 Explore example prompts for building apps, as well as adding governance, UI and other ServiceNow metadata to help you get started with prompting Build Agent.
 
-**Parent Topic:**[Build Agent](../concept/build-agent.md)
+**Parent Topic:**[Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/build-agent.md)
 

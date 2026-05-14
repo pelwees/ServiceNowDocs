@@ -150,7 +150,7 @@ Enforce Restriction
 
 </td><td>
 
-Select this check box to modify members of allowed group and allowed members. For more information, see [Enforced Restrictions for case\(s\)](../task/tisc-enforced-restrictions.md).
+Select this check box to modify members of allowed group and allowed members. For more information, see [Enforced Restrictions for case\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-enforced-restrictions.md).
 
 </td></tr></tbody>
 </table>6.  Fill in the fields on the Insights section, as appropriate.
@@ -168,34 +168,34 @@ Select this check box to modify members of allowed group and allowed members. Fo
 
     **Note:** If you are importing and processing data from Case Management, then a unique is associated to the import record.
 
-    ![Import intelligence-Case Management](../image/tisc-import-intelligence-case-management.png)
+    ![Import intelligence-Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-import-intelligence-case-management.png)
 
 
--   **[Enforced Restrictions for case\(s\)](../task/tisc-enforced-restrictions.md)**  
+-   **[Enforced Restrictions for case\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-enforced-restrictions.md)**  
 Use this feature to restrict a case and provide list of groups and users who can access it.
--   **[Associate MITRE Techniques to a Case](../task/tisc-associate-mitre-technique.md)**  
+-   **[Associate MITRE Techniques to a Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-associate-mitre-technique.md)**  
 Associate one or more MITRE technique to a case.
--   **[Roll up of MITRE technique associations](../task/tisc-mitre-roll-up.md)**  
+-   **[Roll up of MITRE technique associations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-mitre-roll-up.md)**  
 Roll up of MITRE technique associations from observables, indicators, objects, and security incidents which are linked or unlinked from a case record.
 
-**Parent Topic:**[Threat Analyst Workbench](threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](workbench-overview.md)
+[Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/workbench-overview.md)
 
-[Creating case task using Threat Analyst Workbench](../task/tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-case-task.md)
 
-[Working with Investigation Canvas](tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](../task/add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](../task/run-enrichment-results.md)
+[Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/run-enrichment-results.md)
 
-[View Case Reports](../task/view-case-reports.md)
+[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/view-case-reports.md)
 
-[Create a security incident from a TISC case](../task/tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-si-case.md)
 
-[Upload Secure File Attachments](../task/secure-file-attachments.md)
+[Upload Secure File Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/secure-file-attachments.md)
 

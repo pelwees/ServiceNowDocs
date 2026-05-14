@@ -40,7 +40,7 @@ As an example, a UI effect might enable a button to open a searchable list of pr
 
 Here’s how that button might appear in the resulting UI:
 
-![Add products](../images/cpq-txn-mgr-layouts-ui-effects-add-button.png)
+![Add products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-ui-effects-add-button.png)
 
 ## Programming UI effects
 
@@ -97,7 +97,7 @@ Some UI effects involve running related events. For example, triggering either t
 
 A user’s ability to access a UI effect cannot be controlled in the same way as events. There are no setting comparable to the following event settings:
 
-![Transaction Manager: Layouts - UI effects](../images/cpq-txn-mgr-layouts-ui-effects-event-access.png)
+![Transaction Manager: Layouts - UI effects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-ui-effects-event-access.png)
 
 However, the access conditions for a UI effect can be changed by its context in the transaction or by related events.
 

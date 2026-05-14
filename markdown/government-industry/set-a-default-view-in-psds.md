@@ -21,7 +21,7 @@ Role required: none
 
 1.  Navigate to a business, constituent, or agency record in the Public Sector Digital Services platform.
 
-2.  Select the list controls icon \( ![List Controls icon.](../image/additional-actions-icon.png)\), and select **View**.
+2.  Select the list controls icon \( ![List Controls icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/additional-actions-icon.png)\), and select **View**.
 
 3.  Select **PSDS** from the dropdown menu.
 

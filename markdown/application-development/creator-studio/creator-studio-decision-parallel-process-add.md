@@ -33,7 +33,7 @@ Activities on a process's parallel branches run at the same time as other specif
 
 4.  Select the automation that contains the playbook that you want to add a parallel process to.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation that has the playbook")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation that has the playbook")
 
 5.  Choose one of the following ways to add a parallel branch in the diagram view.
 
@@ -41,11 +41,11 @@ Activities on a process's parallel branches run at the same time as other specif
     -   Select the Drag new connecter dot icon ![](../image/cs-drag-new-connector-icon.png) for the parallel process’s starting activity and drag it to the activity or decision that should be the end point of the parallel process.
     **Note:** If you can't see the Drag new connector dot icon, you might need to hover over the activity to see it.
 
-    ![Hover over the activity to see the Drag new connector icon](../image/cs-drag-new-connector.png)
+    ![Hover over the activity to see the Drag new connector icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-drag-new-connector.png)
 
 6.  Add activities to the parallel branch as needed.
 
-    For more information, see [Add activities to an app's playbook in Creator Studio](creator-studio-add-activities-automation.md).
+    For more information, see [Add activities to an app's playbook in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-add-activities-automation.md).
 
 7.  If you want to have several activities happen in a parallel process as soon as the playbook is triggered, complete the following steps.
 
@@ -56,5 +56,5 @@ Activities on a process's parallel branches run at the same time as other specif
     3.  Select the **Save and close** button.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

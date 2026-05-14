@@ -33,7 +33,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     Data type: **Record**
 
-    Record where you want to add a link to the flow execution details. You can use the [Look Up Record action](lookup-record-flow-designer.md) to find an appropriate record.
+    Record where you want to add a link to the flow execution details. You can use the [Look Up Record action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/lookup-record-flow-designer.md) to find an appropriate record.
 
 -   **Journal Field**
 
@@ -48,17 +48,17 @@ This action has no outputs. Instead it updates the selected record to add a dire
 
 ## Add a link to an incident record
 
-![Configuration of the Add Worknote Link to Context](../images/example-add-worknote-link-to-context-action.png)
+![Configuration of the Add Worknote Link to Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-add-worknote-link-to-context-action.png)
 
 In this example, a flow runs when an priority 1 incident is created in the Network category. The Update Record action assigns the incident to the Network assignment group. The Add Worknote Link to Context action updates the trigger incident record. The action adds the link to Work notes journal field.
 
-![Execution details of the Add Worknote Link to Context](../images/example-add-worknote-link-to-context-execution-details.png)
+![Execution details of the Add Worknote Link to Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-add-worknote-link-to-context-execution-details.png)
 
 The execution details show that the trigger incident record INC008112 was updated to add a link to the work notes field.
 
-![Incident record with a link to the flow execution details for the Demo Add Worknote Link to Context flow](../images/example-add-worknote-link-to-context-record-link.png)
+![Incident record with a link to the flow execution details for the Demo Add Worknote Link to Context flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-add-worknote-link-to-context-record-link.png)
 
 The incident record work notes field contains a text message and a link to the flow execution details for the flow.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

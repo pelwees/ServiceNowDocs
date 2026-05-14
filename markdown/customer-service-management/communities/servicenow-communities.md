@@ -19,59 +19,59 @@ With the ServiceNow® Communities application, connect, engage, and collaborate 
 
 **Explore**
 
- -   [Communities roles](communities-roles.md)
--   [Community content types](../concept/c_communities-content-types.md)
--   [Configure community forums](../task/configure-forums-topics.md)
--   [Forum and user permissions management](../concept/communities-permissions.md)
--   [Community subscriptions](../concept/c_communities-subscriptions.md)
--   [Gamification](../concept/communities-gamification.md)
--   [Domain separation and Communities](../concept/domain-separation-communities.md)
+ -   [Communities roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-roles.md)
+-   [Community content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-content-types.md)
+-   [Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/configure-forums-topics.md)
+-   [Forum and user permissions management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-permissions.md)
+-   [Community subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-subscriptions.md)
+-   [Gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification.md)
+-   [Domain separation and Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/domain-separation-communities.md)
 
 </td><td>
 
 **Set up**
 
- -   [Activate Communities plugins](../task/activate-communities.md)
--   [Properties installed with Communities](communities-properties.md)
--   [Community setup guide for admins](r_setup-communities-admin.md)
+ -   [Activate Communities plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/activate-communities.md)
+-   [Properties installed with Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-properties.md)
+-   [Community setup guide for admins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/r_setup-communities-admin.md)
 
 </td><td>
 
 **Administer**
 
- -   [Create a forum](../task/create-forum.md)
--   [Create a forum user](../task/add-user.md)
--   [Create a forum permission](../task/create-forum-permission.md)
--   [Invite users to become members of a forum](../task/invite-users-forum.md)
--   [Configure the community profile](../task/configure-community-profile.md)
--   [Enable users to self-register to a community](../concept/configure-registration.md)
--   [Enable knowledge harvesting](../concept/communities-km-integration-configure.md)
--   [View the Communities performance dashboard](../task/view-communities-dashboard.md)
--   [Configure announcement for community members](../task/manage-announcements.md)
--   [Moderate a community](../task/moderate-communities.md)
--   [Administer gamification](../concept/communities-gamification-administer.md)
+ -   [Create a forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-forum.md)
+-   [Create a forum user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/add-user.md)
+-   [Create a forum permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-forum-permission.md)
+-   [Invite users to become members of a forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/invite-users-forum.md)
+-   [Configure the community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/configure-community-profile.md)
+-   [Enable users to self-register to a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/configure-registration.md)
+-   [Enable knowledge harvesting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-km-integration-configure.md)
+-   [View the Communities performance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/view-communities-dashboard.md)
+-   [Configure announcement for community members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/manage-announcements.md)
+-   [Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/moderate-communities.md)
+-   [Administer gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-administer.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Community homepage features for logged in users](../concept/c_communities-service-portal.md)
--   [Request membership to a forum](../task/request-membership-forum.md)
--   [Search the community](../task/search.md)
--   [Subscribe to content](../task/subscribe.md)
--   [Ask a question in the community](../task/create-question.md)
--   [Post a blog in the community](../task/create-blog.md)
--   [Post a video in the community](../task/create-video.md)
--   [Post a document in the community](../task/create-document.md)
--   [Post a community event](../task/create-event.md)
--   [Bookmark community content](../task/bookmark-content.md)
--   [Provide feedback on community content](../task/provide-feedback.md)
--   [Report inappropriate community content](../task/report-content.md)
--   [Manage your community profile](../task/view-user-profile.md)
--   [Follow a community user](../task/follow-user.md)
--   [Harvest knowledge from a community](../task/create-knowledge-from-communities.md)
--   [View a list of questions and create a case](../task/case-mgmt-integration-view-list.md)
--   [Moderate gamification](../concept/communities-gamification-moderate.md)
+ -   [Community homepage features for logged in users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-service-portal.md)
+-   [Request membership to a forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/request-membership-forum.md)
+-   [Search the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/search.md)
+-   [Subscribe to content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/subscribe.md)
+-   [Ask a question in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-question.md)
+-   [Post a blog in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-blog.md)
+-   [Post a video in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-video.md)
+-   [Post a document in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-document.md)
+-   [Post a community event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-event.md)
+-   [Bookmark community content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/bookmark-content.md)
+-   [Provide feedback on community content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/provide-feedback.md)
+-   [Report inappropriate community content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/report-content.md)
+-   [Manage your community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/view-user-profile.md)
+-   [Follow a community user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/follow-user.md)
+-   [Harvest knowledge from a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/create-knowledge-from-communities.md)
+-   [View a list of questions and create a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/case-mgmt-integration-view-list.md)
+-   [Moderate gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-moderate.md)
 
 </td><td>
 

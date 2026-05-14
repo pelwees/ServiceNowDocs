@@ -36,5 +36,5 @@ By default, the system assigns the value 1 to **Execution Order** for the first 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Create a new automated test](atf-create-test.md)
+**Parent Topic:**[Create a new automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-create-test.md)
 

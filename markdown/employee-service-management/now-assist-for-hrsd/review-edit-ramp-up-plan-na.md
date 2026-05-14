@@ -23,10 +23,10 @@ The Generate onboarding ramp-up plan agentic workflow must be activated and impl
 
 The configuration tasks in the following topics must be completed:
 
--   [Set Onboarding ramp up trigger to use Employee Center portal](set-trigger-emp-center.md).
--   [Activate Onboarding ramp-up trigger](activate-trigger-rampup.md)
--   [Activate the associated Now Assist skills](turn-on-nowassist-skills.md)
--   [Add Employee Center to the Now Assist in Virtual Agent display experience](enable-na-va-ec.md)
+-   [Set Onboarding ramp up trigger to use Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/set-trigger-emp-center.md).
+-   [Activate Onboarding ramp-up trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/activate-trigger-rampup.md)
+-   [Activate the associated Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/turn-on-nowassist-skills.md)
+-   [Add Employee Center to the Now Assist in Virtual Agent display experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/enable-na-va-ec.md)
 
 Role required: manager
 

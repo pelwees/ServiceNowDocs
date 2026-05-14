@@ -37,8 +37,8 @@ Guest access configuration is applicable to the following tables in both IT Serv
 
 The ServiceNow system admin can extend guest access to other tables.
 
--   **[Enable chat access for a guest user](../task/enable-guest-chat-access-mt.md)**  
+-   **[Enable chat access for a guest user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/enable-guest-chat-access-mt.md)**  
 Enable chat access for a guest user while configuring ServiceNow® for Microsoft Teams settings for a pre-published app.
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 

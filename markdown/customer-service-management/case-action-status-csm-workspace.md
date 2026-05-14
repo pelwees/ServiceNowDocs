@@ -13,7 +13,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 The case action status feature displays the status of cases in the Case list. With this feature, customer service agents can easily identify cases that need attention.
 
-![The Action status column on the Case list displays color-coded indicators and messages for cases that are blocked or need attention.](../image/case-action-status-csm-config-workspace.png "Action status column on the Case list")
+![The Action status column on the Case list displays color-coded indicators and messages for cases that are blocked or need attention.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/case-action-status-csm-config-workspace.png "Action status column on the Case list")
 
 ## Action status column
 
@@ -64,14 +64,14 @@ The case action status feature uses actionable case flows to automatically deter
 
 For more information, see the following topics:
 
--   [Actionable case flows](../reference/case-action-status-triggers.md)
--   [Configure actionable case flows](../task/configure-case-action-status-flows.md)
+-   [Actionable case flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/case-action-status-triggers.md)
+-   [Configure actionable case flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-case-action-status-flows.md)
 
 ## Blocking tasks
 
 A blocking task is something that prevents an agent from making progress toward case resolution. For example, a case might have one or more open related case task records or be waiting for customer feedback.
 
-Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [Blocking tasks](../reference/case-action-status-blocking-tasks.md).
+Certain agent actions trigger case flows that create and resolve blocking tasks for customer service cases. These tasks determine the case action status. Additionally, there are actions that resolve these blocking tasks, such as the customer responding to an agent’s question or an internal user resolving a problem task. For more information, see [Blocking tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/case-action-status-blocking-tasks.md).
 
 ## Blocked by related list
 
@@ -101,7 +101,7 @@ Users with the admin role can configure notification triggers by navigating to *
 **Related topics**  
 
 
-[Configure case action status](../task/configure-case-action-status.md)
+[Configure case action status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-case-action-status.md)
 
-[Administering case action status](customer-service-case-action-status.md)
+[Administering case action status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-action-status.md)
 

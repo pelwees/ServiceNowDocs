@@ -33,7 +33,7 @@ Role required: sn\_grc\_pdr.pdr\_agent
 
     **Note:** You can only accept work on action tasks that are in the Assigned state. If the task is not yet assigned, select **Update state**, then change the state to Assigned.
 
-6.  Provide your notes and select **Accept work**.![Accept work on an assigned action task.](../image/accept-work-on-action-task.png)
+6.  Provide your notes and select **Accept work**.![Accept work on an assigned action task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/accept-work-on-action-task.png)
 
 7.  On the **Details** tab, provide the details for the task.
 
@@ -45,12 +45,12 @@ Role required: sn\_grc\_pdr.pdr\_agent
     |**To close the task without review**|Select **Close as complete**.|
 
 
-**Parent Topic:**[Using Personal Data Rights](../concept/using-personal-data-right.md)
+**Parent Topic:**[Using Personal Data Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-personal-data-right.md)
 
 **Related topics**  
 
 
-[Workflow of Personal Data Rights](../concept/workflow-of-personal-data-rights.md)
+[Workflow of Personal Data Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/workflow-of-personal-data-rights.md)
 
-[Add action tasks to a Personal Data Rights request](add-action-tasks-to-a-personal-data-rights-request.md)
+[Add action tasks to a Personal Data Rights request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-action-tasks-to-a-personal-data-rights-request.md)
 

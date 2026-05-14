@@ -19,23 +19,23 @@ Here's an overview on how ServiceNow Voice is integrated with Amazon Connect.Ser
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, agents, and managers use ServiceNow Voice.](ccc-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, agents, and managers use ServiceNow Voice.](ccc-explore.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Set up ServiceNow Voice.](ccc-setup.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Set up ServiceNow Voice.](ccc-setup.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend ServiceNow Voice capabilities by integrating with other applications.](integrate-ccc-other-apps.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend ServiceNow Voice capabilities by integrating with other applications.](integrate-ccc-other-apps.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Receive inbound calls, place outbound calls, and monitor calls.](use-ccc.md#)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Receive inbound calls, place outbound calls, and monitor calls.](use-ccc.md#)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, contact flows, and operation handlers.](../reference/ccc-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, contact flows, and operation handlers.](../reference/ccc-reference.md)
 
 </td><td>
 

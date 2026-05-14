@@ -33,7 +33,7 @@ Refreshing impacted Services on a change request form is executed in one of the 
 
 2.  Open the change record for which you want to refresh the related lists those values are based on affected CIs.
 
-3.  Click the Additional actions icon ![The Additional actions icon](../../incident-management/image/AdditionalActions.png) and then select **Refresh Impacted Services**.
+3.  Click the Additional actions icon ![The Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../incident-management/image/AdditionalActions.png) and then select **Refresh Impacted Services**.
 
     The records in the Impacted Services/CIs, Business Applications, and Service Offerings related lists are updated according to this flow:
 
@@ -43,8 +43,8 @@ Refreshing impacted Services on a change request form is executed in one of the 
     Once all these services are correlated, a new list is added, and the existing items in the related list are removed, where the **manually\_added** flag is set to false. The list of services is then used to populate the Business Applications and Service Offerings if the properties are enabled.
 
 
--   **[Refresh impacted services properties](../reference/refreshing-impacted-services-properties.md)**  
+-   **[Refresh impacted services properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../reference/refreshing-impacted-services-properties.md)**  
 Use the refresh impacted services properties to enable or disable the refresh impacted services capability, and to configure the criteria for additional refresh impacted services properties.
 
-**Parent Topic:**[Process a change request](t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ProcessAChangeRequest.md)
 

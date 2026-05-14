@@ -44,5 +44,5 @@ Potential cost savings for licenses on your physical hosts and clusters that are
  Select the report to view details about the recommended license optimizations and associated cost savings for each host or cluster. License optimizations include the recommended license, recommended rights, and recommended spending.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

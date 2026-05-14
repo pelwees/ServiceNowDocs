@@ -53,5 +53,5 @@ Proactive Code Check performs leading practice checks related to the categories 
 |Security|Measures implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber attacks, and potential vulnerabilities.|
 |Upgradeability|Assesses the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.|
 
-**Note:** For the complete list checks performed by a Proactive Code Check scan, see [Proactive Code Check scan suite matrix for the Impact Store Application](proactive-code-check-scan-suite.md).
+**Note:** For the complete list checks performed by a Proactive Code Check scan, see [Proactive Code Check scan suite matrix for the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/proactive-code-check-scan-suite.md).
 

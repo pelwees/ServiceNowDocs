@@ -23,7 +23,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\).
 
 3.  In the **Safety Incidents** list, open a safety incident assigned to you in which you want to add the sequence of events.
 
@@ -58,5 +58,5 @@ The logged events appear in the Sequence of events section in the **Incident Ove
 
 Add people involved in the incident such as injured person, witnesses, and collaborators.
 
-**Parent Topic:**[Work on a safety incident](work-hs-incident-observation.md)
+**Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 

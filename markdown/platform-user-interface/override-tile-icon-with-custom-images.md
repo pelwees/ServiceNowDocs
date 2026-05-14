@@ -33,7 +33,7 @@ Verify that your custom images use the desired colors and meet your branding req
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
@@ -45,7 +45,7 @@ Verify that your custom images use the desired colors and meet your branding req
     -   Scroll through the list of tile icon illustrations within the main stage.
     Once you have selected an illustration, the property panel opens.
 
-    ![Image styles tab selected with tile icon illustrations listed on main stage and property panel opened.](../image/tb-tile-icon-property-panel.png "Image styles tab with Tile icons expanded")
+    ![Image styles tab selected with tile icon illustrations listed on main stage and property panel opened.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-tile-icon-property-panel.png "Image styles tab with Tile icons expanded")
 
 6.  From the property panel, select the **Images** tab.
 
@@ -61,13 +61,13 @@ Verify that your custom images use the desired colors and meet your branding req
 
 9.  Preview your image in the modal and select **Save**.
 
-    ![Upload image modal with custom image displayed and Save selected.](../image/tb-tile-icon-custom.png "Upload image modal with custom image displayed")
+    ![Upload image modal with custom image displayed and Save selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-tile-icon-custom.png "Upload image modal with custom image displayed")
 
     Once saved, your custom image appears on the main stage within the card category you have chosen. The file name for your custom image is now listed in the property panel.
 
 10. Select the Remove override symbol if you want to restore the default tile icon illustration.
 
-    ![Remove custom image override symbol.](../image/tb-remove-custom-image-symbol.png "Remove override")
+    ![Remove custom image override symbol.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-remove-custom-image-symbol.png "Remove override")
 
 11. Preview your edits before publishing your theme to your instance.
 
@@ -77,12 +77,12 @@ Verify that your custom images use the desired colors and meet your branding req
 
     3.  Select the Open in new tab icon ![](../image/tb-icon-open-new-tab.png) to open the experience in a new tab.
 
-        ![Global styles experience preview screen with Admin Center experience selected.](../image/tb-experience-preview-1.png "Experience preview")
+        ![Global styles experience preview screen with Admin Center experience selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-experience-preview-1.png "Experience preview")
 
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Tile icon illustrations in Theme Builder](../concept/tile-icons-in-tb.md)
+**Parent Topic:**[Tile icon illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tile-icons-in-tb.md)
 

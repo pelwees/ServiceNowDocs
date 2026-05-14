@@ -41,5 +41,5 @@ Both agents and users can mark an incident as restricted. Users can mark an inci
 4.  Click **Update**.
 
 
-**Parent Topic:**[Universal Request integration - Incident Management](../concept/inci-mgmt-integ-with-univ-req.md)
+**Parent Topic:**[Universal Request integration - Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/inci-mgmt-integ-with-univ-req.md)
 

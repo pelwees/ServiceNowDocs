@@ -21,15 +21,15 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](../../image/eaw-image/technology-portfolio-icon.png).
+2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/technology-portfolio-icon.png).
 
-3.  Select the export icon \(![Export icon.](../../image/eaw-image/export-icon.png)\) on the Technology reference model catalog page.
+3.  Select the export icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/export-icon.png)\) on the Technology reference model catalog page.
 
     **Note:** Verify that **TRM product category** is selected in the View drop-down.
 
 4.  From the File type drop-down on the Export window, select **Excel** or **CSV** to export the data to a Microsoft Excel or CSV file respectively.
 
-    ![Export pane on the Technology reference model catalog page highlighted.](../../image/eaw-image/export-pane-trm.png)
+    ![Export pane on the Technology reference model catalog page highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/export-pane-trm.png)
 
 5.  Select **Export**.
 
@@ -38,5 +38,5 @@ Role required: sn\_apm.apm\_user
 
 A file with the selected format is downloaded and saved in your local system.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-trm.md)
 

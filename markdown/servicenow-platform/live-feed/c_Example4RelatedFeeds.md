@@ -31,5 +31,5 @@ For this example, whenever the status of a story changes to **Complete**, a tabl
     ```
 
 
-**Parent Topic:**[Live Feed table notification examples](c_LFTableNotifiExamples.md)
+**Parent Topic:**[Live Feed table notification examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_LFTableNotifiExamples.md)
 

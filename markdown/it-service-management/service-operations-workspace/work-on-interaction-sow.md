@@ -71,7 +71,7 @@ From the **Complete** drop-down, select **Abandon**. This action marks the state
 
 </td><td>
 
-From the **Create incident** drop-down, select **Create request**. For more information, see [Create a catalog request in Service Operations Workspace](create-catalog-request-sow.md).
+From the **Create incident** drop-down, select **Create request**. For more information, see [Create a catalog request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-catalog-request-sow.md).
 
 </td></tr><tr><td id="d362699e167">
 
@@ -91,7 +91,7 @@ The related records of a requester are displayed as intended for Service Operati
 
 If the type is Walk-up, you can view the walk-up summary of the interaction record.
 
-You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on Digital End-User Experience, refer [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+You can now view the device health of the user's assets to provide a resolution to the user. Select **Assigned assets** &gt; **View device health**. This option is available only if the DEX plugin\[sn\_dex\] is installed and DEX monitoring is enabled for the asset. For more information on Digital End-User Experience, refer [Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../digital-end-user-experience/concept/dex-landing.md).
 
 </td></tr><tr><td id="d362699e272">
 
@@ -99,7 +99,7 @@ You can now view the device health of the user's assets to provide a resolution 
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
 
 </td></tr><tr><td id="d362699e290">
 
@@ -107,11 +107,11 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-1.  From the contextual side panel, click the agent assist icon \(![agent assist icon](../image/agent-assist-icon.png)\).
+1.  From the contextual side panel, click the agent assist icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/agent-assist-icon.png)\).
 2.  Search for a resource and perform the required action, for example, find a relevant knowledge base article and attach a link to it to work notes.
  **Note:** The agent assist icon is available only for users with the following roles: itil or interaction\_agent.
 
- For information on configuring additional search resources, see [Configure search resources for an interaction in Service Operations Workspace for ITSM](configure-resources-for-an-interaction.md).
+ For information on configuring additional search resources, see [Configure search resources for an interaction in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-resources-for-an-interaction.md).
 
 </td></tr><tr><td id="d362699e327">
 
@@ -119,7 +119,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-From the contextual side panel, click the attachments icon \(![attachments icon](../../itsm-workspace/image/attachment-icon.png)\). Alternatively, you can drag and drop the attachment into the **Active Chat** window of the interaction.**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
+From the contextual side panel, click the attachments icon \(![attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/attachment-icon.png)\). Alternatively, you can drag and drop the attachment into the **Active Chat** window of the interaction.**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
 
 </td></tr><tr><td id="d362699e352">
 
@@ -127,18 +127,18 @@ From the contextual side panel, click the attachments icon \(![attachments icon]
 
 </td><td>
 
-From the contextual side panel, click the templates icon \(![templates icon](../image/template-icon.png)\) and create a template or reuse an existing one.
+From the contextual side panel, click the templates icon \(![templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/template-icon.png)\) and create a template or reuse an existing one.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
 **Related topics**  
 
 
-[Create an interaction in Service Operations Workspace](create-interaction-sow.md)
+[Create an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-interaction-sow.md)
 
-[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](collaborate-interaction-ms-teams-sow.md)
+[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaborate-interaction-ms-teams-sow.md)
 
-[Associate an interaction with a task record](associate-interaction-record-sow.md)
+[Associate an interaction with a task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/associate-interaction-record-sow.md)
 

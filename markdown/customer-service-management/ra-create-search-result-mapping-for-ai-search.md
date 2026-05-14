@@ -25,7 +25,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
     If a message appears about the application scope, select **here** to be able to edit the record.
 
-3.  In the **Search Application Configuration** field, select the Lookup using list icon ![Lookup using list icon](../image/lookup-list.jpg) and select either the base system CSM Configurable Workspace Search Config or a custom configuration that specifies AI search as the search engine and contains your desired search settings.
+3.  In the **Search Application Configuration** field, select the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg) and select either the base system CSM Configurable Workspace Search Config or a custom configuration that specifies AI search as the search engine and contains your desired search settings.
 
     You can configure the search result display and refinement settings in the search application configuration. For more information, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
 
@@ -39,11 +39,11 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
     The available actions are determined by the selection in the **Action type** field.
 
-    1.  In the **Action** field, select the Lookup using list icon \(![Lookup using list icon](../image/lookup-list.jpg)\).
+    1.  In the **Action** field, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg)\).
 
         In the resulting pop-up window, the **Table name** field is auto-populated with the table that stores the available actions for the selected action type.
 
-    2.  In the **Document** field, select the Lookup documents using list icon \(![Lookup documents using list icon](../image/lookup-list.jpg)\) and then select the action.
+    2.  In the **Document** field, select the Lookup documents using list icon \(![Lookup documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg)\) and then select the action.
 
     3.  Select **OK**.
 

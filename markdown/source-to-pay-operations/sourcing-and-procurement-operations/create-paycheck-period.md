@@ -17,7 +17,7 @@ Assign a time period for an employee shopper to pay back costs in excess of the 
 
 ## Before you begin
 
-To create a paycheck period, you must have already created some credits to be assigned to employee shoppers. For more information, see [Create an employee credit](create-employee-credit.md).
+To create a paycheck period, you must have already created some credits to be assigned to employee shoppers. For more information, see [Create an employee credit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-employee-credit.md).
 
 Role required: sn\_shop.shopping\_hub\_admin
 
@@ -36,5 +36,5 @@ You can create a paycheck period for an employee shopper from Shopping Hub.
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

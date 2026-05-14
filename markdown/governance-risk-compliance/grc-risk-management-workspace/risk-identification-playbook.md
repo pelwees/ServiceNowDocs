@@ -44,11 +44,11 @@ It is important to remember the following points:
 -   If you finish relating the controls and then again move to risk mapping, the control-mapping stage moves to pending state.
 -   When you reinitiate a workflow, a new workflow instance is created.
 
-For more information, see [Application risk assessment using advanced risk assessment](../../grc-risk/concept/risk-and-apm-better-together.md)
+For more information, see [Application risk assessment using advanced risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/risk-and-apm-better-together.md)
 
 The following figures show the workflow stages and actions:
 
-![Stages of risk identification workflow.](../image/playbook-stages.jpg "Workflow stages")
+![Stages of risk identification workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/playbook-stages.jpg "Workflow stages")
 
-**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 

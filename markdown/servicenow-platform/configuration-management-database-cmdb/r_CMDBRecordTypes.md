@@ -42,22 +42,22 @@ A defined relationship between a CI and either another CI, a user, or a group. R
  CMDB relationships can be established using Discovery or using the tables, lists, and forms within the platform. The CMDB form has a specific Related Items toolbar optimized for modifying relationships.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+</table>**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[Related Lists of CI components](r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_RelatedListsOfCIComponents.md)
 
-[Create a CI class](../task/t_CreateCIType.md)
+[Create a CI class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIType.md)
 
-[Reclassify a CI](../task/t_ManuallyReclassifyCI.md)
+[Reclassify a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ManuallyReclassifyCI.md)
 
-[Delete CIs](../task/delete-class-records-ci-class-mgr.md)
+[Delete CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/delete-class-records-ci-class-mgr.md)
 
-[View and edit class definitions and metadata](../task/t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/update-principal-class-filter.md)
 

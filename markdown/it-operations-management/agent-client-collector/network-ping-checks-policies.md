@@ -76,5 +76,5 @@ c7inc0047383.ping.packets_transmitted 5 1675923886
  **Note:** Windows does not support the **ping.time** and **ping.mdev** metrics.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

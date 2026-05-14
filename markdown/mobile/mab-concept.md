@@ -31,7 +31,7 @@ Benefits and uses of the Mobile App Builder include the following:
 
 Mobile App Builder \(MAB\) is automatically installed on your instance with the base system plugin sn\_mab. Starting in version 22.6, when there is a new version of the plugin, a banner appears at the top of the MAB screen indicating a new version is available. Select **Update** in the banner to install the new version.
 
-For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and Mobile Card Builder, see [Mobile plugins](../reference/sg-mobile-plugins.md).
+For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and Mobile Card Builder, see [Mobile plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-mobile-plugins.md).
 
 ## Mobile App Builder workflow
 
@@ -51,15 +51,15 @@ Video demonstrating how to build a basic app in Mobile App Builder.
 
 In the Washington DC family release and later, Mobile App Builder is now integrated with Mobile Publishing:
 
-![Mobile Publishing sidebar on the Mobile App Builder main page](../image/mob-pub-mab-integration.png)
+![Mobile Publishing sidebar on the Mobile App Builder main page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-pub-mab-integration.png)
 
-Select a custom branded app card in the **Manage your branding** side panel to open it in Mobile Publishing. For more information about Mobile Publishing, see [Publish mobile apps with custom branding](mobile-publishing.md).
+Select a custom branded app card in the **Manage your branding** side panel to open it in Mobile Publishing. For more information about Mobile Publishing, see [Publish mobile apps with custom branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md).
 
 ## Add push notifications to mobile apps with Mobile App Builder
 
 In the Washington DC family release and later, you can now add push notifications to your mobile apps with Mobile App Builder:
 
-![Mobile App Builder menu showing push notifications](../image/push-notif-in-mab.png)
+![Mobile App Builder menu showing push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/push-notif-in-mab.png)
 
-Select **Mobile notifications** in the menu and then select the push notification you want to use. For more information about push notifications, see [Mobile push notifications](sg-mobile-push-notifications.md).
+Select **Mobile notifications** in the menu and then select the push notification you want to use. For more information about push notifications, see [Mobile push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
 

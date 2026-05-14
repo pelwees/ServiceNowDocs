@@ -53,7 +53,7 @@ Users in the SP domain can view assist usage by domain by navigating to **Admin*
 
 Users in tenant domains can only view their own Now Assist usage. Users in tenant domains can't see the number of assists used in parent or sibling domains.
 
-**Parent Topic:**[Subscription Management reference](subscription-management-reference-v2.md)
+**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
 **Related topics**  
 

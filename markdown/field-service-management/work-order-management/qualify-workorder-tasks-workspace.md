@@ -21,7 +21,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 ## Procedure
 
-1.  Click the List icon \(![List icon](../image/ListIcon.png)\)
+1.  Click the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/ListIcon.png)\)
 
 2.  Navigate to **Work Orders** &gt; **Awaiting Qualification**
 
@@ -32,6 +32,6 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
     1.  Select the work order task.
     2.  In the **Dispatch group** field, click the search icon, and select a dispatch group.
     3.  Click **Save**.
-    The work order task moves to **Pending Dispatch** state. When all work order tasks related a work order are qualified the work order moves to **Qualified** state. For more information on qualifying work order tasks, see [Qualify work order tasks](../../planning-and-policy/task/t_QualifyATask.md)
+    The work order task moves to **Pending Dispatch** state. When all work order tasks related a work order are qualified the work order moves to **Qualified** state. For more information on qualifying work order tasks, see [Qualify work order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_QualifyATask.md)
 
 

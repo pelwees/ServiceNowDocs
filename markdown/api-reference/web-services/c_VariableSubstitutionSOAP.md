@@ -25,5 +25,5 @@ To test variable substitution after you have modified the SOAP envelope with the
 
 ![](../image/SoapMessageParameters.png "Soap message parameters")
 
-**Parent Topic:**[SOAP message](c_SOAPMessage.md)
+**Parent Topic:**[SOAP message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SOAPMessage.md)
 

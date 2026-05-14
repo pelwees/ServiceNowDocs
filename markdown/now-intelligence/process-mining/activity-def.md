@@ -79,9 +79,9 @@ If this option is not checked, the process map reflects records of each instance
 -   Changes to assignment group occur and list in the audit log as: Group A &gt; Group B &gt; Group C.
 -   Result: The process map reflects each individual change made, continuing to reflect the changes as is standard from the audit log: 'Change: Group A &gt; Change: Group B &gt; Change: Group C'.
 
- ![Show changes as group](../image/show-changes-group.png "Changes are grouped")
+ ![Show changes as group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/show-changes-group.png "Changes are grouped")
 
- ![Changes shown as standard](../image/dont-show-changes-group.png "Changes shown as standard")
+ ![Changes shown as standard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dont-show-changes-group.png "Changes shown as standard")
 
 </td></tr><tr><td>
 
@@ -108,5 +108,5 @@ Include empty start node
 Includes an empty node on the process graph when the selected activity definition field is empty at the time of record creation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/process-mining-reference.md)
 

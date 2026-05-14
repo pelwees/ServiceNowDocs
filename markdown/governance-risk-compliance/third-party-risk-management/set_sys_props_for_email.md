@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** Third-party contacts see your organization's name in all references on the Third-party portal. You specify the name in the `sn_vdr_risk_asmt.company.name` property setting. See [Configure TPRM properties](tprm-properties-configure.md).
+**Note:** Third-party contacts see your organization's name in all references on the Third-party portal. You specify the name in the `sn_vdr_risk_asmt.company.name` property setting. See [Configure TPRM properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-properties-configure.md).
 
 ## Procedure
 

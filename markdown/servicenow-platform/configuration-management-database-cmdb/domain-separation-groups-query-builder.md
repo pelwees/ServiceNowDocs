@@ -35,5 +35,5 @@ With the CMDB Query Builder you can easily build complex infrastructure and serv
 **Related topics**  
 
 
-[Domain separation and Configuration Management Database \(CMDB\)](domain-separation-cmdb.md)
+[Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 

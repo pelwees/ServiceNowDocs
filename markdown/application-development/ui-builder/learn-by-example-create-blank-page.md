@@ -25,7 +25,7 @@ Role required: ui\_builder\_admin
 
 1.  If you aren't already viewing the experience you created in the previous procedure, navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**, and select the experience you created.
 
-    ![Main page for your new experience](../image/experience-main-page.png "Main page for your new experience")
+    ![Main page for your new experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/experience-main-page.png "Main page for your new experience")
 
 2.  From the main page for your experience, either select **Create new page** or select the plus \(**+**\) sign next to **Pages and variants**.
 
@@ -33,7 +33,7 @@ Role required: ui\_builder\_admin
 
     There are templates you can use, but we are going to create a page from scratch.
 
-    ![Page details including page name, URL path, and page type.](../image/page-details.png "Page details")
+    ![Page details including page name, URL path, and page type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/page-details.png "Page details")
 
 4.  In the **Name** field, type **My test page**, and select **Continue**.
 
@@ -53,25 +53,25 @@ Role required: ui\_builder\_admin
 
     The visual editor opens. Here, you can begin editing your new page.
 
-    ![UI Builder visual editor](../image/visual-editor.png "UI Builder visual editor")
+    ![UI Builder visual editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/visual-editor.png "UI Builder visual editor")
 
 
 ## What to do next
 
 Select the **Next topic** link to learn how to create a button that opens a modal.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-uib-by-example.md)
 
 **Related topics**  
 
 
-[Create a demo experience to explore UI Builder](learn-by-example-create-experience.md)
+[Create a demo experience to explore UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-experience.md)
 
-[Create a record page using a template](learn-by-example-create-page-with-template.md)
+[Create a record page using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-page-with-template.md)
 
-[Define an audience for your variant](learn-by-example-define-audience.md)
+[Define an audience for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-audience.md)
 
-[Define conditions for your variant](learn-by-example-define-conditions.md)
+[Define conditions for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-conditions.md)
 
-[Customize forms within a form component](learn-by-example-edit-form-component.md)
+[Customize forms within a form component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md)
 

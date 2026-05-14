@@ -77,7 +77,7 @@ Enable or disable screenshot capture during test execution.
 
  **sn\_atf.screenshots.mode**
 
- **Note:** For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](../concept/atf-screenshot-modes.md#)
+ **Note:** For additional information, see [Set the system property to control when the Automated Test Framework captures screenshots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-screenshot-modes.md#)
 
 </td><td>
 
@@ -316,5 +316,5 @@ Color to indicate an ATF test was canceled in scheduled suite result emails.
 Hexadecimal code for color to indicate an ATF test was canceled in scheduled suite result emails.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administration](atf-test-admin-module.md)
+</table>**Parent Topic:**[Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-test-admin-module.md)
 

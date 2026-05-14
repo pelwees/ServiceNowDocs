@@ -36,5 +36,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
 5.  Open the onboarding task.
 
 
-**Parent Topic:**[Create an asset onboarding process](create-asset-onboarding-task-eam.md)
+**Parent Topic:**[Create an asset onboarding process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-onboarding-task-eam.md)
 

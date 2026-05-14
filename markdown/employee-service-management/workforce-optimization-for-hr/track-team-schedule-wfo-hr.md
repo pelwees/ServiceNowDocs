@@ -33,14 +33,14 @@ Using the calendar, you can do the following:
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
 
 3.  Modify an agent's shift timings.
 
     The schedule that includes this shift must be in **Preview** or **Published** state.
 
     1.  In the **Team Calendar** tab, navigate and point to the shift for the agent that you want to modify the schedule for.
-    2.  In the shift pop-up window, click the Edit \(![Edit icon](../image/edit-new.png)\) icon.
+    2.  In the shift pop-up window, click the Edit \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../image/edit-new.png)\) icon.
     3.  Modify the agent's shift time as desired.
 
         **Note:** If the existing shift has a break, you can add more breaks to the shift.
@@ -59,5 +59,5 @@ Using the calendar, you can do the following:
     If you approve the request, the schedule gets updated in the team calendar based on the approvals.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/scheduling-configurable-wfo-hr.md)
 

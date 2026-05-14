@@ -50,8 +50,8 @@ The ServiceNow user interface supports image, video, and text-based OG tags. Whe
 
 Link unfurling is automatically enabled by default. To turn it off, admin users can change the **com.glide.cs.enable\_link\_unfurling** system property to **False**.
 
--   **[Configure link unfurling using the Hostname allow list table](../task/configure-link-unfurling-hostname-allow-list.md)**  
+-   **[Configure link unfurling using the Hostname allow list table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-link-unfurling-hostname-allow-list.md)**  
 Use the Hostname allow list \[sys\_cs\_hostname\_allow\_list\] table to identify the list of hosts and domains that can be unfurled.
 
-**Parent Topic:**[Exploring other Virtual Agent features](exploring-other-vad-features.md)
+**Parent Topic:**[Exploring other Virtual Agent features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)
 

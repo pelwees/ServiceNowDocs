@@ -22,7 +22,7 @@ The recorder captures the following items:
 
 You can select any of the following options when needed from the **More options** menu on the Action recorder panel:
 
-![Floating recorder panel that has Discard, Pause, and Start recording UI actions.](../image/recorder-auto-capture-ad.png)
+![Floating recorder panel that has Discard, Pause, and Start recording UI actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/recorder-auto-capture-ad.png)
 
 -   **Start recording**: Start recording the steps
 -   **Pause**: Skip recording steps
@@ -32,7 +32,7 @@ You can select any of the following options when needed from the **More options*
 
 Each step that you perform is captured sequentially and the type of UI action is displayed for each step. For example, Capturing Mouse Left Click event.
 
-![Message in red indicating panel is still capturing step.](../image/recorder-auto-capture-red-ad.png)
+![Message in red indicating panel is still capturing step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/recorder-auto-capture-red-ad.png)
 
 During recording, the steps that you perform are captured as screens. Related steps are captured in the same screen, for example, the steps related to filling in the text fields in the same window. A new screen is captured in the following conditions:
 
@@ -48,9 +48,9 @@ You can capture maximum of 50 steps using the recorder in a recording session. W
 **Related topics**  
 
 
-[AI Desktop Actions Design workspace](agentic-desktop-overview.md)
+[AI Desktop Actions Design workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md)
 
-[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](../task/auto-create-desktop-action-ad.md)
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/auto-create-desktop-action-ad.md)
 
-[Create badge desktop action in AI Desktop Actions](example-badging-magmt-concept-ad.md#)
+[Create badge desktop action in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/example-badging-magmt-concept-ad.md#)
 

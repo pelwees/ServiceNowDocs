@@ -19,11 +19,11 @@ This is a predefined event that occurs when an entry is written to the event log
 
 -   **Event output**
 
-    [Type](parameters-eventlog-methods.md#parameter-input-write-type)
+    [Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-type)
 
-    [Source](parameters-eventlog-methods.md#parameter-input-write-source)
+    [Source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-source)
 
-    [Message](parameters-eventlog-methods.md#parameter-input-write-message)
+    [Message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-message)
 
 
 ## Write
@@ -32,11 +32,11 @@ Writes a warning, information, or error to the Microsoft Event Viewer, which inc
 
 -   **Inputs**
 
-    [Type](parameters-eventlog-methods.md#parameter-input-write-type)
+    [Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-type)
 
-    [Source](parameters-eventlog-methods.md#parameter-input-write-source)
+    [Source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-source)
 
-    [Message](parameters-eventlog-methods.md#parameter-input-write-message)
+    [Message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-eventlog-methods.md#parameter-input-write-message)
 
 
 ## Dispose
@@ -55,5 +55,5 @@ Discontinues listening to the events from the OnEntryWritten event.
 
 Provides as outputs the event type, descriptive message, and the source of the event.
 
-**Parent Topic:**[Eventlog](../concept/eventlog.md)
+**Parent Topic:**[Eventlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/eventlog.md)
 

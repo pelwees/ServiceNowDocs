@@ -17,10 +17,10 @@ Use the scripted extension points in the server-side script includes that store 
 
 You create the scripted extension points and add them to the script includes in the base application code. When customizing a base application, you implement the scripted extension points by creating the custom script includes and registering them against the scripted extension points.
 
-**Note:** For an example of a scripted extension point and to learn more about this process, see [Using extension points to extend application functionality](extension-points.md).
+**Note:** For an example of a scripted extension point and to learn more about this process, see [Using extension points to extend application functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
 
--   **[Creating and adding a scripted extension point](impl-scripted-ext-pts-base-code.md)**  
+-   **[Creating and adding a scripted extension point](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/impl-scripted-ext-pts-base-code.md)**  
 When developing an application, create scripted extension points and add them to the script includes in the application code. Use a scripted extension point to designate the specific location where data or objects can be sent to a registered custom script include and where returned results are processed.
 
-**Parent Topic:**[Using extension points to extend application functionality](extension-points.md)
+**Parent Topic:**[Using extension points to extend application functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 

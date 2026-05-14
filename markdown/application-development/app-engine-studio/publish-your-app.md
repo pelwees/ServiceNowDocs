@@ -15,10 +15,10 @@ breadcrumb: [Build, App Engine Studio, Building low-code applications, Developin
 
 When you have completed your app in App Engine Studio \(AES\), you need to submit it for approval and publishing. The process you use depends on whether you are linked to source control.
 
--   **[Submit your app for approval and publishing](../task/submit-for-approval.md)**  
+-   **[Submit your app for approval and publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/submit-for-approval.md)**  
 Start the process of getting the application you built in App Engine Studio \(AES\) published by submitting it for administrator review.
--   **[Publish an app from App Engine Studio when linked to source control](../task/publish-application.md)**  
+-   **[Publish an app from App Engine Studio when linked to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/publish-application.md)**  
 You can publish a custom application from App Engine Studio \(AES\) when linked to source control.
 
-**Parent Topic:**[Building apps in App Engine Studio](aes-app-creation.md)
+**Parent Topic:**[Building apps in App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-app-creation.md)
 

@@ -21,13 +21,13 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
-You can also add enhancement from an epic. For more information, see [Add a product enhancement from an epic](dpr-add-product-enhancement-from-epic.md).
+You can also add enhancement from an epic. For more information, see [Add a product enhancement from an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-enhancement-from-epic.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select a product or service from the list to open.
 
@@ -35,7 +35,7 @@ You can also add enhancement from an epic. For more information, see [Add a prod
 
 5.  Select **Add enhancement**.
 
-    Alternatively, you can also add enhancements or manage existing ones from the Release planning page of the product or service. For more information, see [Plan product enhancements into different releases](dpr-plan-feature-version.md).
+    Alternatively, you can also add enhancements or manage existing ones from the Release planning page of the product or service. For more information, see [Plan product enhancements into different releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-plan-feature-version.md).
 
 6.  On the Add enhancement dialog box, fill in the fields.
 
@@ -104,6 +104,6 @@ Short description of the enhancement.
 
 11. On the **Work Items** tab, select an epic to review its details and related records.
 
-12. Select the attachment icon \(![Attachment icon.](../image/dpr-icon-attachment.png)\) to open the **Attachments** pane to upload and attach a file related to the feature.
+12. Select the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-attachment.png)\) to open the **Attachments** pane to upload and attach a file related to the feature.
 
 

@@ -17,7 +17,7 @@ The Usage Insights Sessions page in the Data Foundation module lists filterable 
 
 To view the Sessions overview, navigate to **Platform Analytics** &gt; **Usage Insights**, select an application, and then select the **Data Foundation** &gt; **Sessions** module. Select a User ID in the Sessions list to view that user's sessions.
 
-![sessions analysis screen](../image/uxa-session-analytics2-.png)
+![sessions analysis screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-session-analytics2-.png)
 
 <table id="table_pxy_nzp_vjb"><thead><tr><th>
 
@@ -113,7 +113,7 @@ You can filter a Users list by date range, user type, and country by default. Us
 
 You can view a breakdown analysis of sessions by grouping them according to country, state, device type, hourly usage, and so on. The Geographic Analytics visualization, which was available until the Xanadu release, has been replaced by this Analysis Breakdown.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/concept/using-uxa.md)
 
 ## Session Details record
 
@@ -144,7 +144,7 @@ Access a Session Details record from a user sessions record.
 
 View overall session statistics for a user, and event timeline details for a user's specific sessions.
 
-You can access a user sessions record from a sessions or users list screen. Select a hashed user ID to open the sessions record for that user. Select a session tile to view its Activity timeline. ![User sessions record showing the timeline for a single session with user details](../../../use/par-for-workspace/image/uxa-session-record-australia.png)
+You can access a user sessions record from a sessions or users list screen. Select a hashed user ID to open the sessions record for that user. Select a session tile to view its Activity timeline. ![User sessions record showing the timeline for a single session with user details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-session-record-australia.png)
 
 <table id="table_awj_gp4_gkb"><thead><tr><th>
 
@@ -243,5 +243,5 @@ Relevant details associated with the user, including Role, Department, and wheth
 </table>**Related topics**  
 
 
-[Session Details record](viewing-sessions.md#)
+[Session Details record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/viewing-sessions.md#)
 

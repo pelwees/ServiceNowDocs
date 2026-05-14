@@ -23,16 +23,16 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
 ## Procedure
 
-1.  In the tool record, navigate to the **Projects** tab. ![Projects tab in JFrog tool record](../image/jfrog-projects-tab.png)
+1.  In the tool record, navigate to the **Projects** tab. ![Projects tab in JFrog tool record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-projects-tab.png)
 
 2.  Select a project.
 
-3.  In the Project page, select the **Business Applications** tab, and then select **Associate**. ![Business Applications tab in a JFrog project](../image/jfrog-business-applications.png)
+3.  In the Project page, select the **Business Applications** tab, and then select **Associate**. ![Business Applications tab in a JFrog project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-business-applications.png)
 
-4.  In the Associate dialog box, select the required business application, and select **Associate**. ![Associate business application dialog box](../image/jfrog-select-application.png)
+4.  In the Associate dialog box, select the required business application, and select **Associate**. ![Associate business application dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-select-application.png)
 
     An AppTrust application is created in JFrog with the same name as the business application.
 
 
-**Parent Topic:**[Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md)
+**Parent Topic:**[Integration with JFrog AppTrust application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integration-with-jfrog-apptrust-application.md)
 

@@ -124,5 +124,5 @@ Redirect URL
 
 The system validates the OAuth credentials.
 
-**Parent Topic:**[Microsoft OneDrive integration with Document Services](../concept/one-drive-integration.md)
+**Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/one-drive-integration.md)
 

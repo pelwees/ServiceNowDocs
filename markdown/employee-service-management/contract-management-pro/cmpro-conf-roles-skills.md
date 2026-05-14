@@ -45,7 +45,7 @@ You must configure the necessary roles for your workspace to ensure that Now Ass
 
 3.  In the **Role List** field, select the lock icon ![](../../workplace-connectors/images/wsd-unlock-connectors-list-icon.png).
 
-    ![Role list field used to add new roles.](../image/cmpro-lock-role-list.png "Role list")
+    ![Role list field used to add new roles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-lock-role-list.png "Role list")
 
 4.  In the search field, search for the role that you want to add.
 
@@ -54,20 +54,20 @@ You must configure the necessary roles for your workspace to ensure that Now Ass
     The selected role is added to the **Role List** field.
 
 
-**Parent Topic:**[Configure Now Assist in Contract Management](confg-na-in-cmpro.md)
+**Parent Topic:**[Configure Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/confg-na-in-cmpro.md)
 
 **Related topics**  
 
 
-[Select large language models for use cases in Now Assist in Contract Management](cmpro-na-manage-llm.md)
+[Select large language models for use cases in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-manage-llm.md)
 
-[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
+[Configuring contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)
 
-[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+[Configuring contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-contract-analysis.md)
 
-[Configuring contract obligation extraction](cncore-conf-obligation-extraction.md)
+[Configuring contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md)
 
-[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-agentic-workflow.md)
 
-[Post-upgrade steps for Now Assist in Contract Management](cmpro-na-upgrade-steps.md)
+[Post-upgrade steps for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-upgrade-steps.md)
 

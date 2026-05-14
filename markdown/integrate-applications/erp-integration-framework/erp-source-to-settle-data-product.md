@@ -16,8 +16,8 @@ breadcrumb: [Available content packs, Content packs, Building models, Use, Zero 
 
 Find details about the models and process extensions in the Zero Copy Connector for ERP \(Enterprise Resource Planning\) Source to Settle content pack.
 
--   **[Zero Copy Connector for ERP Source to Settle content pack models](../reference/erp-data-product-source-to-settle-models.md)**  
+-   **[Zero Copy Connector for ERP Source to Settle content pack models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-data-product-source-to-settle-models.md)**  
 The Zero Copy Connector for ERP \(Enterprise Resource Planning\) Source to Settle content pack contains models that you may need when interacting with an SAP system.
 
-**Parent Topic:**[Available Zero Copy Connector for ERP content packs](erp-canvas-available-content-packs.md)
+**Parent Topic:**[Available Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-available-content-packs.md)
 

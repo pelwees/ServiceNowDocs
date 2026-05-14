@@ -44,5 +44,5 @@ When published, your knowledge block appears in the Published and All lists unde
 **Related topics**  
 
 
-[View a knowledge block in Agent Workspace](view-block-agent.md)
+[View a knowledge block in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-block-agent.md)
 

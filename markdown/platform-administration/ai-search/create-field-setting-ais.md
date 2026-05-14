@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-For details on available field settings and values, see [List of AI Search indexed source field settings](../reference/field-settings-list-ais.md).
+For details on available field settings and values, see [List of AI Search indexed source field settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/field-settings-list-ais.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ For details on available field settings and values, see [List of AI Search index
 
 3.  In the Field Settings &amp; Mapping related list, select **New**.
 
-4.  On [the Field Setting form](../reference/field-setting-form-ais.md), fill in the fields.
+4.  On [the Field Setting form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/field-setting-form-ais.md), fill in the fields.
 
 5.  Select **Submit**.
 
@@ -42,7 +42,7 @@ The new field setting appears in the Field Settings &amp; Mapping related list.
 
 ## What to do next
 
-To make the new field setting take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
+To make the new field setting take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
-**Parent Topic:**[Field settings for AI Search](../concept/field-settings-ais.md)
+**Parent Topic:**[Field settings for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/field-settings-ais.md)
 

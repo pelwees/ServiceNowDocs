@@ -27,39 +27,39 @@ You can also listen to the Enterprise Asset Management TechBytes podcast on the 
 
 <table id="table_pqb_brw_cdc" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that the Enterprise Asset Management application offers.](exploring-eam.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that the Enterprise Asset Management application offers.](exploring-eam.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Enterprise Asset Management application to meet your specific needs.](configuring-eam.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Enterprise Asset Management application to meet your specific needs.](configuring-eam.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-manage.svg)Create and manage your enterprise models and assets.](managing-eam-assets-models.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-manage.svg)Create and manage your enterprise models and assets.](managing-eam-assets-models.md)
 
 </td></tr><tr><td>
 
-[Procure![](../../../reuse/icons/brand-icons/bus-contract.svg)Create and manage your enterprise asset inventory and contracts.](managing-eam-inv-contracts.md)
+[Procure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-contract.svg)Create and manage your enterprise asset inventory and contracts.](managing-eam-inv-contracts.md)
 
 </td><td>
 
-[Dispatch![](../../../reuse/icons/brand-icons/bus-work-order.svg)Create and manage work orders for enterprise assets.](create-manage-wo-enterprise-assets.md)
+[Dispatch![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-work-order.svg)Create and manage work orders for enterprise assets.](create-manage-wo-enterprise-assets.md)
 
 </td><td>
 
-[Workflows![](../../../common/image/icon-workflow-course.png)Use the Service Catalog application to create catalog requests for workflows.](using-service-catalog-eam-requests-flows.md)
+[Workflows![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../common/image/icon-workflow-course.png)Use the Service Catalog application to create catalog requests for workflows.](using-service-catalog-eam-requests-flows.md)
 
 </td></tr><tr><td>
 
-[Mobile experiences![](../../../reuse/icons/brand-icons/bus-mobile-native.svg)](manage-enterprise-assets-tasks-mobile-app.md)Use the Mobile application to create and manage enterprise assets and asset tasks.
+[Mobile experiences![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-mobile-native.svg)](manage-enterprise-assets-tasks-mobile-app.md)Use the Mobile application to create and manage enterprise assets and asset tasks.
 
 </td><td>
 
-[Acquire![](../../../reuse/icons/brand-icons/bus-asset.svg)Use the Procurement application to source and receive requested enterprise assets.](procuring-assets.md)
+[Acquire![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-asset.svg)Use the Procurement application to source and receive requested enterprise assets.](procuring-assets.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles, field descriptions, domain separation, and terminology.](reference-enterprise-asset-management.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles, field descriptions, domain separation, and terminology.](reference-enterprise-asset-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

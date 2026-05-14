@@ -18,42 +18,42 @@ Learn about ERP \(Enterprise Resource Planning\) terminology and concepts that a
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
--   **[BAPI](../../../reuse/glossary/B/gloss-bapi.md)**  
+-   **[BAPI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/B/gloss-bapi.md)**  
 
--   **[candidate](../../../reuse/glossary/C/gloss-candidate-erp.md)**  
+-   **[candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/C/gloss-candidate-erp.md)**  
 
--   **[candidate score](../../../reuse/glossary/C/gloss-candidate-score-erp.md)**  
+-   **[candidate score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/C/gloss-candidate-score-erp.md)**  
 
--   **[connection and credential alias](../../../reuse/glossary/C/gloss-connection-cred-alias-erp.md)**  
+-   **[connection and credential alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/C/gloss-connection-cred-alias-erp.md)**  
 
--   **[custom fields](../../../reuse/glossary/C/gloss-custom-fields-erp.md)**  
+-   **[custom fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/C/gloss-custom-fields-erp.md)**  
 
--   **[entity](../../../reuse/glossary/E/gloss-entity-erp.md)**  
+-   **[entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-entity-erp.md)**  
 
--   **[ERP application](../../../reuse/glossary/E/gloss-erp-application.md)**  
+-   **[ERP application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-erp-application.md)**  
 
--   **[ERP model](../../../reuse/glossary/E/gloss-erp-model.md)**  
+-   **[ERP model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-erp-model.md)**  
 
--   **[ERP module](../../../reuse/glossary/E/gloss-erp-module.md)**  
+-   **[ERP module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-erp-module.md)**  
 
--   **[ERP system](../../../reuse/glossary/E/gloss-erp-system.md)**  
+-   **[ERP system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-erp-system.md)**  
 
--   **[ERP table](../../../reuse/glossary/E/gloss-erp-table.md)**  
+-   **[ERP table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-erp-table.md)**  
 
--   **[extraction table](../../../reuse/glossary/E/gloss-extraction-table-erp.md)**  
+-   **[extraction table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/E/gloss-extraction-table-erp.md)**  
 
--   **[mapped value](../../../reuse/glossary/M/gloss-mapped-value-erp.md)**  
+-   **[mapped value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/M/gloss-mapped-value-erp.md)**  
 
--   **[odata](../../../reuse/glossary/O/gloss-odata-erp.md)**  
+-   **[odata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/O/gloss-odata-erp.md)**  
 
--   **[operation](../../../reuse/glossary/O/gloss-operation-erp.md)**  
+-   **[operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/O/gloss-operation-erp.md)**  
 
--   **[remote table](../../../reuse/glossary/R/gloss-remote-table-erp.md)**  
+-   **[remote table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/R/gloss-remote-table-erp.md)**  
 
--   **[system of record](../../../reuse/glossary/S/gloss-system-of-record-erp.md)**  
+-   **[system of record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/glossary/S/gloss-system-of-record-erp.md)**  
 
 
-**Parent Topic:**[Zero Copy Connector for ERP reference](erp-integration-reference.md)
+**Parent Topic:**[Zero Copy Connector for ERP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-reference.md)
 
-**Parent Topic:**[ERP Semantic Mining reference](../../erp-customization-mining/reference/erp-customization-mining-ref.md)
+**Parent Topic:**[ERP Semantic Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../erp-customization-mining/reference/erp-customization-mining-ref.md)
 

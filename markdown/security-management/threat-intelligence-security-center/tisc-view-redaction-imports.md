@@ -29,13 +29,13 @@ Role required: sn\_sec\_tisc.admin
 
 3.  Open any record to view the status of the import process.
 
-    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](../concept/importing-threat-intelligence.md) section and proceed further with the respective import type.
+    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/importing-threat-intelligence.md) section and proceed further with the respective import type.
 
 
-**Parent Topic:**[Viewing Redaction Imports](../concept/tisc-radaction-imports.md)
+**Parent Topic:**[Viewing Redaction Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-radaction-imports.md)
 
 **Related topics**  
 
 
-[View my Redaction Imports](view-my-redaction-imports.md)
+[View my Redaction Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-my-redaction-imports.md)
 

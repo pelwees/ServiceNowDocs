@@ -17,7 +17,7 @@ Determine which AI provider to use for each of the generative AI capabilities of
 
 ## Before you begin
 
-Configure your credentials for your preferred provider. See [Configuring API credentials for generative AI capabilities](../concept/configuring-api-credentials-for-generative-ai-capabilities.md) for more details.
+Configure your credentials for your preferred provider. See [Configuring API credentials for generative AI capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../concept/configuring-api-credentials-for-generative-ai-capabilities.md) for more details.
 
 Role required: admin
 
@@ -76,7 +76,7 @@ Create summaries of topics with Workflow Studio and Virtual Agent Designer.
 
     **Note:** By default, you can choose only one provider for a capability. For example, if **Default** is `true` for Sentiment \(OpenAI Completion\), you must set **Default** to `false` before changing **Default** to `true` for Sentiment \(Azure OpenAI\).
 
-    ![Default builder config open with builder capability related list. The capability records and default column are highlighted.](../image/gai-configure-providers.png)
+    ![Default builder config open with builder capability related list. The capability records and default column are highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-configure-providers.png)
 
 <table><thead><tr><th>
 
@@ -153,7 +153,7 @@ Flows, topics, and scripts that use the generative AI capability use the provide
 **Related topics**  
 
 
-[Bring your own key for third-party AI provider integration](../concept/byok-for-azure-open-ai.md)
+[Bring your own key for third-party AI provider integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../concept/byok-for-azure-open-ai.md)
 
-[Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
+[Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 

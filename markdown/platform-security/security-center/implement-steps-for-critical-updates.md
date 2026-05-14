@@ -37,7 +37,7 @@ Customer Actions provides you step by step instructions for how to implement the
 
 4.  Implement the update steps.
 
-    ![Enable 3DES deprecation for Password2 fields](../images/critical-updates-steps.png)
+    ![Enable 3DES deprecation for Password2 fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/critical-updates-steps.png)
 
     1.  Read each group of instructions and implement them within your instance.
 
@@ -50,5 +50,5 @@ Customer Actions provides you step by step instructions for how to implement the
     The Customer Action should appear in the **Complete** tab.
 
 
-**Parent Topic:**[Customer Actions](../concept/critical-updates.md)
+**Parent Topic:**[Customer Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/critical-updates.md)
 

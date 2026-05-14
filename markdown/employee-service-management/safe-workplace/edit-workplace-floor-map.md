@@ -96,8 +96,8 @@ The following changes occur:
 
 A original floor record is updated with the floor plan attached to it. The Spaces related list is also updated. To view your changes, go to **Floor Plan Update Logs**.
 
--   **[View your workplace floor plan update logs](view-workplace-floor-map-logs.md)**  
+-   **[View your workplace floor plan update logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/view-workplace-floor-map-logs.md)**  
 After updating your workplace floor plan, you can view all changes made.
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/providing-your-workplace-data.md)
 

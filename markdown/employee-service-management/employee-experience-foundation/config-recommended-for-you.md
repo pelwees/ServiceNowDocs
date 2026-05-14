@@ -27,7 +27,7 @@ Role required: sp\_admin or admin
 
 2.  Press and hold the control key, right-click the Recommended for you widget, and then select **Instance Options**.
 
-    ![Recommended for you widget instance options.](../images/reco-for-you-inst-opts.png)
+    ![Recommended for you widget instance options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/reco-for-you-inst-opts.png)
 
 3.  Configure the instance options.
 

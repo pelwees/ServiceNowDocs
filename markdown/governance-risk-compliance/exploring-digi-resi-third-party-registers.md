@@ -54,7 +54,7 @@ Digital Operational Resilience Act \(DORA\) comprises the important pillars:
 4.  ICT Third-party Risk Management
 5.  Information and Intelligence Sharing
 
-![Pillars.](../image/dora-pillars.png)
+![Pillars.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dora-pillars.png)
 
 **Note:** Operational Resilience, Release 19.1.x focuses on the ICT Third-party Risk Management pillar only.
 
@@ -62,7 +62,7 @@ Digital Operational Resilience Act \(DORA\) comprises the important pillars:
 
 Customers can manage the contractual arrangements by processing the records by using the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files in the Digital resilience third-party registers application.
 
-For information on processing the records through the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files, see [Using Digital resilience third-party registers](using-dg-registers.md).
+For information on processing the records through the graphical user interface \(GUI\) or by importing or exporting Microsoft Excel files, see [Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md).
 
 ## Licensing requirements
 
@@ -82,18 +82,18 @@ The licensing information and the associated workspaces are listed in the follow
 
 Upon opening the Operational Resilience Workspace, the menu featuring Digital resilience third-party registers is displayed.
 
-![Workspace menu.](../image/opres-ws-drtr.png)
+![Workspace menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/opres-ws-drtr.png)
 
 ## Digital resilience third-party registers in the TPRM Workspace
 
-For information on Digital resilience third-party registers in the TPRM Workspace, see [Third-party Risk Management](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md).
+For information on Digital resilience third-party registers in the TPRM Workspace, see [Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md).
 
--   **[Use cases for updating the information registers](use-cases-for-contra-arrangements.md)**  
+-   **[Use cases for updating the information registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/use-cases-for-contra-arrangements.md)**  
 Users with third-party registers and contractual details spread across various systems can automate the process of populating their information registers. This section outlines common scenarios for recording third-party data into Digital resilience third-party registers.
--   **[Register of Information \(ROI\) regulatory packages](opres-dora-roi-reg-pkg.md)**  
+-   **[Register of Information \(ROI\) regulatory packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-dora-roi-reg-pkg.md)**  
 The Register of Information \(RoI\) is a regulatory reporting requirement under the Digital Operational Resilience Act D \(DORA\) and is supported by the Digital resilience third-party registers application in the Operational Resilience Workspace.
--   **[Validation framework for Register of Information in Operational Resilience](opres-dora-validate-roi.md)**  
+-   **[Validation framework for Register of Information in Operational Resilience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-dora-validate-roi.md)**  
 The validation framework helps to verify that RoI packages meet regulatory requirements defined by the DORA.
 
-**Parent Topic:**[Maintaining Digital resilience third-party registers](digi-resi-third-party-registers.md)
+**Parent Topic:**[Maintaining Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-third-party-registers.md)
 

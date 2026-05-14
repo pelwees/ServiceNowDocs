@@ -24,7 +24,7 @@ By default, new application tables only allow read access from other application
 |**Can delete**|Disabled|
 |**Allow access to this table via web services**|Enabled|
 
-![Default runtime access permissions](../image/DefaultRuntimeAccessPermissions.png "Application access permissions for a table record")
+![Default runtime access permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/DefaultRuntimeAccessPermissions.png "Application access permissions for a table record")
 
-**Parent Topic:**[Runtime access to applications tables](c_RuntimeAccessToAppTables.md)
+**Parent Topic:**[Runtime access to applications tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_RuntimeAccessToAppTables.md)
 

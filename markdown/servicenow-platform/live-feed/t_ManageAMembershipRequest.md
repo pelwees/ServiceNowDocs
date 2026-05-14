@@ -35,12 +35,12 @@ If you are the team administrator, you can manage membership requests.
 
     This shows the users who have received invitations, but who have not yet accepted.
 
-    ![Invited members](../image/InvitedMembers.png "Invited members")
+    ![Invited members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../image/InvitedMembers.png "Invited members")
 
 4.  You can cancel a user's invitation by clicking **Remove**.
 
-5.  You can invite another user to the team by entering their name in the **Add user** field and clicking the Invite member \(![Add member button](../image/AddMemberButton.png)\) button.
+5.  You can invite another user to the team by entering their name in the **Add user** field and clicking the Invite member \(![Add member button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../image/AddMemberButton.png)\) button.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_UseTeamsInLiveFeed.md)
 

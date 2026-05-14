@@ -21,7 +21,7 @@ Manage folders and documents from the Documents component to download, rename, m
 
 ## Before you begin
 
-[Activate Document Management plugin](activate-doc-mgmt-plugin.md)
+[Activate Document Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-doc-mgmt-plugin.md)
 
 Role required: none
 
@@ -33,11 +33,11 @@ Role required: none
 
 3.  To rename or delete a folder, go to the folder
 
-    1.  Select the vertical ellipse ![Translation-indicator icon](../../../administer/dynamic-translation/image/Ellipses.png).
+    1.  Select the vertical ellipse ![Translation-indicator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/dynamic-translation/image/Ellipses.png).
 
     2.  Select **Rename** to rename the folder or **Remove** to delete the folder.
 
-4.  Go to the document card, select the vertical ellipse ![Translation-indicator icon](../../../administer/dynamic-translation/image/Ellipses.png) to perform the following actions.
+4.  Go to the document card, select the vertical ellipse ![Translation-indicator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/dynamic-translation/image/Ellipses.png) to perform the following actions.
 
 <table id="table_iwf_kpg_m3c"><thead><tr><th>
 
@@ -106,7 +106,7 @@ Connect external cloud
 
 </td><td>
 
-See [Manage document versions in external cloud](manage-documents-external-cloud.md).
+See [Manage document versions in external cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/manage-documents-external-cloud.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Send for approval
 
 </td><td>
 
-See [Send a document version for approval](send-document-approval.md).
+See [Send a document version for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/send-document-approval.md).
 
 </td></tr><tr><td>
 
@@ -126,5 +126,5 @@ Select **Remove** to delete the document or the link to the document without act
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-management-workspace.md)
 

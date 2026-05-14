@@ -42,5 +42,5 @@ Role required: Windows system administrator
 9.  Export the following registry key to all clients that use the Password Reset Windows Application:`HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings`
 
 
-**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](win-config-proxy-server-password-reset.md)
+**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 

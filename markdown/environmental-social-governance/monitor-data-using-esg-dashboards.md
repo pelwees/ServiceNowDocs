@@ -25,27 +25,27 @@ The Analytics dashboard landing page opens as a blank canvas, allowing users to 
 
 To learn more about creating and using Operational Sustainability Management dashboards, see:
 
--   [Create an Operational Sustainability Management dashboard using the In-line editor](create-an-esg-dashboard.md)
--   [Edit Operational Sustainability Management dashboard details](edit-esg-dashboard-details.md)
--   [Edit Operational Sustainability Management dashboards](edit-esg-dashboards.md)
--   [Edit Operational Sustainability Management dashboard elements](edit-esg-dashboard-elements.md)
--   [Share an Operational Sustainability Management dashboard](share-an-esg-dashboard.md)
--   [Delete an Operational Sustainability Management dashboard](delete-an-esg-dashboard.md)
+-   [Create an Operational Sustainability Management dashboard using the In-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-esg-dashboard.md)
+-   [Edit Operational Sustainability Management dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-details.md)
+-   [Edit Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboards.md)
+-   [Edit Operational Sustainability Management dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-elements.md)
+-   [Share an Operational Sustainability Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/share-an-esg-dashboard.md)
+-   [Delete an Operational Sustainability Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/delete-an-esg-dashboard.md)
 
 For more information on dashboards, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
--   **[Create an Operational Sustainability Management dashboard using the In-line editor](create-an-esg-dashboard.md)**  
+-   **[Create an Operational Sustainability Management dashboard using the In-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-esg-dashboard.md)**  
 You can create dashboards with data visualizations, filters, and other elements that you can share with others. You can also create elements and add existing elements from the in-line editor.
--   **[Edit Operational Sustainability Management dashboard details](edit-esg-dashboard-details.md)**  
+-   **[Edit Operational Sustainability Management dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-details.md)**  
 You can change a dashboard name, add a description, certify it, configure visibility, and specify the requester, the owner, the owner group.
--   **[Edit Operational Sustainability Management dashboards](edit-esg-dashboards.md)**  
+-   **[Edit Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboards.md)**  
 You can edit dashboard and dashboard tab information in the in-line editor. If the dashboard has been shared, any changes you make are applied globally.
--   **[Edit Operational Sustainability Management dashboard elements](edit-esg-dashboard-elements.md)**  
+-   **[Edit Operational Sustainability Management dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-elements.md)**  
 You can edit the contents of a dashboard or dashboard tab, including data visualizations and filters. Because dashboards are shared, any changes you make are applied globally.
--   **[Share an Operational Sustainability Management dashboard](share-an-esg-dashboard.md)**  
+-   **[Share an Operational Sustainability Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/share-an-esg-dashboard.md)**  
 Share a dashboard with other users, groups, or roles to create a shared view of data that you can use to collaborate. You can grant viewing permissions or both viewing and editing permissions.
--   **[Delete an Operational Sustainability Management dashboard](delete-an-esg-dashboard.md)**  
+-   **[Delete an Operational Sustainability Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/delete-an-esg-dashboard.md)**  
 You can delete a dashboard that is no longer useful. The Analytics Center invokes the Workflow Studio to remove the dashboard from your instance.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 

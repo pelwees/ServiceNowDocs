@@ -23,7 +23,7 @@ Ensure that you have installed Predictive Intelligence \(com.glide.platform\_ml\
 
 Set the **Enable universal request auto categorization** property to true by navigating to **Universal Request** &gt; **Administration** &gt; **Properties**. Enabling this property enables the application to use the **Universal Request Classification solution** for UR.
 
-![Enable universal request auto categorization property](../images/ur-enable-categorization-property.png)
+![Enable universal request auto categorization property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-enable-categorization-property.png)
 
 **Note:** A minimum of ten thousand records are needed to train the classifications.
 
@@ -38,5 +38,5 @@ Set the **Enable universal request auto categorization** property to true by nav
     For more information about the Classification Definition form fields, see [Create and train classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md).
 
 
-**Parent Topic:**[Predictive Intelligence for Universal Request](../concept/predictive-intelligence-ur.md)
+**Parent Topic:**[Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/predictive-intelligence-ur.md)
 

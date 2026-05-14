@@ -31,7 +31,7 @@ The content integration batch table displays the details that are shown in the f
 
 
 
-To learn how you can use the user roles to access the APIs and batch records, see [User roles for the integration process](../../grc-integrations-with-third-party-content/reference/int-integrator-user-roles.md).
+To learn how you can use the user roles to access the APIs and batch records, see [User roles for the integration process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-integrations-with-third-party-content/reference/int-integrator-user-roles.md).
 
 Select a record in the table to display the content integration batch record form and its related lists. See the following example.
 
@@ -61,7 +61,7 @@ You can use the REST APIs to insert the records in the GRC: integrations with th
 
 When you execute the APIs in the Postman API platform as shown in the following example, the staging records are imported in the Policy and Compliance Management tables.
 
-![Create a batch using the Postman API platform.](../image/create-batch-postman.png "Create a batch using the Postman API platform")
+![Create a batch using the Postman API platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/create-batch-postman.png "Create a batch using the Postman API platform")
 
 ## Processing the batch records
 
@@ -80,8 +80,8 @@ The Update batch status to ready API and the Compliance staging processor flow p
 5.  When the library import task is created and the provider that is mentioned in the content integration batch is not found, the state of the task is updated to Provider onboarding. A provider import task is created in the content onboarding task related list of the library import task.
 6.  As the library import task is created, the staging recommendations for each record are generated for the content integration batch as shown in the following example.
 
-    ![Staging recommendations.](../image/staging-recommendations.png "Staging recommendations")
+    ![Staging recommendations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/staging-recommendations.png "Staging recommendations")
 
 
-The library import task is used to import the staging records in the Policy and Compliance Management tables. The library import task and staging recommendations for each record are displayed for the content integration batch table in the GRC: Policy and Compliance integrator module. A user with the sn\_compliance.admin role can assign the library import task to the compliance managers assignment group. To learn how to assign a library import task, see [Assign a library import task for compliance approval](../task/assign-lib-import-task.md).
+The library import task is used to import the staging records in the Policy and Compliance Management tables. The library import task and staging recommendations for each record are displayed for the content integration batch table in the GRC: Policy and Compliance integrator module. A user with the sn\_compliance.admin role can assign the library import task to the compliance managers assignment group. To learn how to assign a library import task, see [Assign a library import task for compliance approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/assign-lib-import-task.md).
 

@@ -27,7 +27,7 @@ Role required: sn\_spend\_psd.agent, sn\_spend\_psd.admin
 
 3.  On the form, fill in the fields.
 
-    ![Create new knowledge base article.](../image/create_kb_article.png)
+    ![Create new knowledge base article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_kb_article.png)
 
     |Field|Description|
     |-----|-----------|
@@ -60,5 +60,5 @@ Role required: sn\_spend\_psd.agent, sn\_spend\_psd.admin
 -   Manage the article workflows, such as reviewing, publishing, updating, or retiring the article.
 -   Monitor the performance metrics of your article by navigating to **Procurement Case Management** &gt; **PSM Dashboards**.
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-pcm.md)
 

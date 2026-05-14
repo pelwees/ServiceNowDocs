@@ -35,13 +35,13 @@ If you do not select any fields, auto-purity automatically determines which insi
 
 2.  Select a solution definition or create a new one.
 
-3.  Select the **Calculate Purity** check box.![The solution definition form for Clustering solutions, with the Calculate Purity check box highlighted and selected.](../images/calculate_purity_checkbox.png)
+3.  Select the **Calculate Purity** check box.![The solution definition form for Clustering solutions, with the Calculate Purity check box highlighted and selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/calculate_purity_checkbox.png)
 
 4.  Select the **Purity Fields** lock icon and choose the fields that you want displayed in cluster results.
 
     **Note:** If you don't select any fields, auto-purity displays the most significant fields based on distribution.
 
-    ![Purity Fields selection in the Clustering Definition form.](../images/select_purity_fields.png)
+    ![Purity Fields selection in the Clustering Definition form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/select_purity_fields.png)
 
 5.  Select **Update** or **Update &amp; Retrain**.
 
@@ -52,5 +52,5 @@ View your insights by opening the **Cluster Visualization** tab of your retraine
 
 field name : value : percent.
 
-For example, the row priority : 5 : 100% means that 100% of the members of this cluster have the value of 5 for the priority field.![Pop up for an individual cluster on the Cluster Visualization view.](../images/purity_insights_cluster.png)
+For example, the row priority : 5 : 100% means that 100% of the members of this cluster have the value of 5 for the priority field.![Pop up for an individual cluster on the Cluster Visualization view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/purity_insights_cluster.png)
 

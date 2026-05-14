@@ -37,8 +37,8 @@ For more details on permissions, see [Service Graph Connector for Microsoft Intu
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   ServiceNow IntegrationHub Zip step \(com.glide.hub.action\_step.zip\), which is automatically installed.
@@ -48,7 +48,7 @@ Multi-instance is supported for importing data from multiple Microsoft Intune in
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## Procedure
 
@@ -206,7 +206,7 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Intune application.
 
 6.  Add multiple instances.
 
-    1.  On the left sidebar, select the Add Multiple Instances icon \(![Add Multiple Instances icon.](../image/duplicate-detection-rules.png)\).
+    1.  On the left sidebar, select the Add Multiple Instances icon \(![Add Multiple Instances icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/duplicate-detection-rules.png)\).
 
     2.  On the Service Graph Connector for Microsoft Intune page, in the Add Multiple Instances section, select the Update Data Source Access task.
 
@@ -220,7 +220,7 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Intune application.
 
     7.  Set the Update Data Source Access task to complete by selecting **Mark as Complete**.
 
-    8.  Repeat the steps [6.c](configure-intune-integration.md#global) to [6.f](configure-intune-integration.md#app) for the Update Scheduled data import access task with the Scheduled data import \[scheduled\_data\_set\] table and set the task to complete by selecting **Mark as Complete**.
+    8.  Repeat the steps [6.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#global) to [6.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#app) for the Update Scheduled data import access task with the Scheduled data import \[scheduled\_data\_set\] table and set the task to complete by selecting **Mark as Complete**.
 
 7.  Clear the cache for the new connection.
 
@@ -467,7 +467,7 @@ Enable retrieving the IP addresses of devices during import and populate the rec
             For more information, see [Schedule script execution form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
         4.  Select **Update**.
-        5.  To activate the scheduled job for the SG-Intune Software Reports data source, repeat steps [11.a.ii](configure-intune-integration.md#select-job) to [11.a.iv](configure-intune-integration.md#exe-job) by selecting the **SG-Intune Trigger Software Reports** scheduled job.
+        5.  To activate the scheduled job for the SG-Intune Software Reports data source, repeat steps [11.a.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#select-job) to [11.a.iv](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#exe-job) by selecting the **SG-Intune Trigger Software Reports** scheduled job.
         6.  Return to the guided setup page and set the Configure scheduled jobs for advanced data sources task to complete by selecting **Mark as Complete**.
         **Important:**
 
@@ -516,7 +516,7 @@ Enable retrieving the IP addresses of devices during import and populate the rec
         6.  Return to the guided setup page and set the Clear cache for scheduled job task to complete by selecting **Mark as Complete**.
     5.  When using multiple instances, create advanced data sources, scheduled jobs, and scheduled imports for the new connections.
 
-        **Tip:** You can create additional connections for multiple instances by following the instructions in the [Add Multiple Instances](configure-intune-integration.md#add-multi-instance) section of the guided setup.
+        **Tip:** You can create additional connections for multiple instances by following the instructions in the [Add Multiple Instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#add-multi-instance) section of the guided setup.
 
         1.  For the Set up advanced data sources for multiple instances task, select **Configure**.
         2.  On the form, fill in the fields to configure your scheduled job details for the new connection.
@@ -555,7 +555,7 @@ User to populate the field on the scheduled data import.
 
 </td></tr></tbody>
 </table>        3.  Select **Submit** to create scheduled imports for your new connection.
-        4.  To activate any newly created scheduled jobs, repeat steps [11.a.ii](configure-intune-integration.md#select-job) to [11.a.iv](configure-intune-integration.md#exe-job).
-        5.  To activate any newly created parent scheduled import, repeat steps [11.b.ii](configure-intune-integration.md#data-import-start) to [11.b.iv](configure-intune-integration.md#data-import-exe).
+        4.  To activate any newly created scheduled jobs, repeat steps [11.a.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#select-job) to [11.a.iv](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#exe-job).
+        5.  To activate any newly created parent scheduled import, repeat steps [11.b.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#data-import-start) to [11.b.iv](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md#data-import-exe).
         6.  Return to the guided setup page and set the Set up advanced data sources for multiple instances task to complete by selecting **Mark as Complete**.
 

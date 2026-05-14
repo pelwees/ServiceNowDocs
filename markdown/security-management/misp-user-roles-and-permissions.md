@@ -30,5 +30,5 @@ Review the user roles that are required in the MISP integration for Security Ope
 |Add New Attribute to event|✓|✓|
 |Create Event in MISP|✓|✓|
 
-**Parent Topic:**[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
+**Parent Topic:**[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)
 

@@ -75,5 +75,5 @@ Icon that appears for the risk appetite status.**Note:** To make this change on 
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Risk appetite setup](../concept/risk-appetite-setup.md)
+**Parent Topic:**[Risk appetite setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-appetite-setup.md)
 

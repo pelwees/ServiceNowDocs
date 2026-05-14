@@ -91,34 +91,34 @@ Country
 Country in which the Professional ID has been issued.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[HR Service Delivery for Healthcare reference](reference-hr-healthcare.md)
+</table>**Parent Topic:**[HR Service Delivery for Healthcare reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/reference-hr-healthcare.md)
 
 **Related topics**  
 
 
-[Installed with HR Service Delivery for Healthcare](installed-with-hr-hc.md)
+[Installed with HR Service Delivery for Healthcare](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/installed-with-hr-hc.md)
 
-[Healthcare professional profile form](hr-service-healthcare.md)
+[Healthcare professional profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-service-healthcare.md)
 
-[Professional liability Insurances form](hr-prof-liab.md)
+[Professional liability Insurances form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-prof-liab.md)
 
-[Professional reference form](hr-professional-ref.md)
+[Professional reference form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-professional-ref.md)
 
-[Professional speciality form](hc-prof-spec.md)
+[Professional speciality form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hc-prof-spec.md)
 
-[Malpractice history form](hr-mal-his.md)
+[Malpractice history form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-mal-his.md)
 
-[Education and Training form](hr-edu-tra.md)
+[Education and Training form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-edu-tra.md)
 
-[Practice location form](hr-prac-loc.md)
+[Practice location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-prac-loc.md)
 
-[Employment history form](hr-emp-det.md)
+[Employment history form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-emp-det.md)
 
-[Languages Spoken form](hr-emp-lan.md)
+[Languages Spoken form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-emp-lan.md)
 
-[Hospital Affiliations form](hr-hos-aff.md)
+[Hospital Affiliations form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-hos-aff.md)
 
-[Payers Enrollment form](hr-payer-en.md)
+[Payers Enrollment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-payer-en.md)
 
-[Healthcare Employee Onboarding form](hr-emp-onboarding.md)
+[Healthcare Employee Onboarding form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/hr-emp-onboarding.md)
 

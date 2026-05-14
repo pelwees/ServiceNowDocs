@@ -27,8 +27,8 @@ This integration enables you to:
 -   Review pre-arbitration and arbitration actions
 -   Get pre-arbitration and arbitration response updates
 
--   **[Processing a Mastercard dispute](processing-mastercard-dispute-case.md)**  
+-   **[Processing a Mastercard dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-mastercard-dispute-case.md)**  
 You can view all the transactions of the dispute in the **Processing** stage of the playbook. This stage provides transaction information such as dispute amount, transaction date and time, merchant name, transaction state, current activity, and activity SLA.
 
-**Parent Topic:**[Managing Disputes](managing-disputes.md)
+**Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 

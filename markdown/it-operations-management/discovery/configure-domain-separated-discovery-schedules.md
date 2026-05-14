@@ -23,7 +23,7 @@ Role required: discovery\_admin
 
 In domain-separated environments, the domain of the user who creates a Discovery schedule typically determines where the discovered data is stored. Assigning a "Run as" user enables the discovery process to run under a different user’s domain and permissions, enabling administrators to control which domain stores the data and what resources the discovery process can access, regardless of who created the schedule.
 
-**Note:** This procedure applies only to existing Discovery schedules. For information about creating a Discovery schedule, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+**Note:** This procedure applies only to existing Discovery schedules. For information about creating a Discovery schedule, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#).
 
 ## Procedure
 
@@ -37,8 +37,8 @@ In domain-separated environments, the domain of the user who creates a Discovery
 
 4.  Enter the name of the user that you want the schedule to run as.
 
-5.  Select the check mark \(![check mark icon](../../cloud-management-v2/image/icon-check-mark.png)\) icon.
+5.  Select the check mark \(![check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../cloud-management-v2/image/icon-check-mark.png)\) icon.
 
 
-**Parent Topic:**[Domain Separation and Discovery](../concept/c_DiscoveryDomainSeparation.md)
+**Parent Topic:**[Domain Separation and Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryDomainSeparation.md)
 

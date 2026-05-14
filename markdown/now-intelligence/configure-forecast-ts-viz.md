@@ -15,7 +15,7 @@ If a time series visualization is configured to show forecasts, you can configur
 
 ## Before you begin
 
-This procedure assumes you have created a [time series visualization](create-dv-time-series-ac.md) for a non-table data source and you want to configure forecasting for that visualization.
+This procedure assumes you have created a [time series visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md) for a non-table data source and you want to configure forecasting for that visualization.
 
 **Note:** Support is not provided for the Hour of day or Day of week aggregations on table data.
 
@@ -53,7 +53,7 @@ Forecast method
 
 </td><td>
 
-The statistical method the system uses to forecast values for this indicator. The default value is Auto, meaning that the system chooses a method that best fits the data. For more information, see [Forecast methods](configure-forecast-ts-viz.md#) and [Automatic selection of forecast methods](configure-forecast-ts-viz.md#).
+The statistical method the system uses to forecast values for this indicator. The default value is Auto, meaning that the system chooses a method that best fits the data. For more information, see [Forecast methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-forecast-ts-viz.md#) and [Automatic selection of forecast methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-forecast-ts-viz.md#).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Period length
 
 </td><td>
 
-The number of data points needed to establish a pattern in the time series. If you select **Use default**, the period length depends on the frequency of the data source. For example, the period length for a time series with a daily frequency is 7 data points by default. For more information, see [Default forecast period lengths](configure-forecast-ts-viz.md#).
+The number of data points needed to establish a pattern in the time series. If you select **Use default**, the period length depends on the frequency of the data source. For example, the period length for a time series with a daily frequency is 7 data points by default. For more information, see [Default forecast period lengths](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-forecast-ts-viz.md#).
 
 </td></tr><tr><td>
 
@@ -118,12 +118,12 @@ All scores collected after a start date. If you select Specific starting date, a
 </table>    **Warning:** If there are insufficient data points to generate a forecast, nothing is shown, neither the forecast nor a message.
 
 
-**Parent Topic:**[Create time series data visualizations](create-dv-time-series-ac.md)
+**Parent Topic:**[Create time series data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md)
 
 **Related topics**  
 
 
-[Performance Analytics scores forecasts](../../performance-analytics/concept/c_ForecastingData.md#)
+[Performance Analytics scores forecasts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/c_ForecastingData.md#)
 
 ## Forecast methods
 

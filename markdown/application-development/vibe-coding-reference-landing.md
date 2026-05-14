@@ -14,10 +14,10 @@ breadcrumb: [Vibe coding and AI-assisted development, Vibe coding and AI app dev
 
 Find reference material for vibe coding and AI-assisted development on the ServiceNow AI Platform, including a list of tools and prompt examples.
 
--   **[ServiceNow Now Assist skills: Developer-oriented list](vibe-coding-skills-list-2.md)**  
+-   **[ServiceNow Now Assist skills: Developer-oriented list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-skills-list-2.md)**  
 The ServiceNow AI Platform offers a range of skills that support efficiency in each development workflow.
--   **[Example prompts for vibe coding and AI-assisted development](vibe-coding-example-prompts.md)**  
+-   **[Example prompts for vibe coding and AI-assisted development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-example-prompts.md)**  
 Use these example prompts to build data models, implement security, create business rules, and generate user interfaces when building an app with ServiceNow AI Platform vibe coding and AI-assisted development tools.
 
-**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](../concept/vibe-coding-landing.md)
+**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vibe-coding-landing.md)
 

@@ -19,19 +19,19 @@ Applicant Center offers a streamlined and tailored experience for applicants thr
 
 <table id="table_wcx_w3c_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Applicant Center](exploring-applicant-center.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Applicant Center](exploring-applicant-center.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Applicant Center application](config-applicant-center.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Applicant Center application](config-applicant-center.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-c-suite-leader.svg)Learn how to use Applicant Center](use-applicant-center.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../../../reuse/icons/brand-icons/bus-c-suite-leader.svg)Learn how to use Applicant Center](use-applicant-center.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Applicant Center](applicant-center-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Applicant Center](applicant-center-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

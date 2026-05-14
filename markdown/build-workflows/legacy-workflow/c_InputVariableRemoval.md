@@ -17,7 +17,7 @@ Deleting workflow input variables, like insert and update actions, creates a cus
 
 These deletions migrate to a new instance with the update set, regardless of whether the workflow that owns the input variables is published in the same update set. Plan carefully and use caution when editing a workflow and selecting update sets.
 
-**Parent Topic:**[Input variable movement](c_InputVariableMovement.md)
+**Parent Topic:**[Input variable movement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_InputVariableMovement.md)
 
 ## Input variable removal risk
 
@@ -47,5 +47,5 @@ If necessary, merge the update set into a more general set targeted for deployme
 
 Prior to publishing a workflow version, the system validates the workflow model to assist the designer in planning for deployment.
 
-This validation warns of critical errors that can prevent a workflow from running successfully, but also warns of dependencies and conflicts in update sets. See [ValidateUpdateSetDependencies](../../workflow-validation/reference/r_VldtUpdtStDpnd.md) for more details.
+This validation warns of critical errors that can prevent a workflow from running successfully, but also warns of dependencies and conflicts in update sets. See [ValidateUpdateSetDependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-validation/reference/r_VldtUpdtStDpnd.md) for more details.
 

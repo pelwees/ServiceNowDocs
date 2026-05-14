@@ -46,7 +46,7 @@ Configuration tables \(strict domain separation\)
 
 Data tables \(data separated\): universal\_request.
 
-**Parent Topic:**[Setting up and configuring Universal Request](setup-configure-ur.md)
+**Parent Topic:**[Setting up and configuring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/setup-configure-ur.md)
 
 **Related topics**  
 

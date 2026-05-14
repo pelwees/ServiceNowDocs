@@ -78,5 +78,5 @@ Make sure that you have the following third-party applications to request, test,
     \* These items are not required to request the branded app for public distribution, but they are required to complete the process.
 
 
-**Parent Topic:**[Publish mobile apps with custom branding](mobile-publishing.md)
+**Parent Topic:**[Publish mobile apps with custom branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md)
 

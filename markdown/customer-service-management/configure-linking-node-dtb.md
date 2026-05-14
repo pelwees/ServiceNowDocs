@@ -25,7 +25,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 3.  Select **Open in Builder**.
 
-4.  In Decision Tree Builder, add a new node by selecting the Add path icon \(![Add path icon](../image/icon-add-path.png)\) on a node.
+4.  In Decision Tree Builder, add a new node by selecting the Add path icon \(![Add path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-add-path.png)\) on a node.
 
 5.  Select **Add node**.
 
@@ -37,7 +37,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 9.  Enter values or link inputs to reuse answers from prior nodes.
 
-    For more information, see [Reuse answers at decision points](map-inputs-in-decision-guidance-node.md).
+    For more information, see [Reuse answers at decision points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/map-inputs-in-decision-guidance-node.md).
 
 10. Select **Save and close**.
 

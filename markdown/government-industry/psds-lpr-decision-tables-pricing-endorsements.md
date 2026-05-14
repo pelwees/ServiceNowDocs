@@ -19,7 +19,7 @@ Applicants can customize their permit by selecting one or more permit endorsemen
 
 An applicant can select as many endorsements as desired. Driver’s license endorsements are special permissions added to a driver’s license that allow the holder to operate specific types of vehicles or carry out specific driving-related tasks not covered under the standard license. The following table contains some examples of endorsements that can be added to the pricing decision table of a driver's license permit request case.
 
-![Endorsement examples.](../image/psds-lpr-endorsement-examples.png)
+![Endorsement examples.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-lpr-endorsement-examples.png)
 
 ## Add an endorsement field to a pricing configuration decision table in License and Permit Playbook
 

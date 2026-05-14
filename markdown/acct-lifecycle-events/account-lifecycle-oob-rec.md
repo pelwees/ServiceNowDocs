@@ -51,7 +51,7 @@ The following recommendations are available:
     -   Specify whether your Service Exchange version is 1.0.4 or later. If you select **No**, the troubleshooting process ends and you must contact customer support for assistance. If you select **Yes**, you will see further information on how to troubleshoot the issue.
     The following image shows the recommended actions and troubleshooting tips for the Service Exchange Consumer Registration &amp; Configuration task. To initiate the registration process, select **Start Registration** and follow the guided flow to register the consumer.
 
-    ![Account onboarding recommended action](../image/account-lifecycle-rec-action.png)
+    ![Account onboarding recommended action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-rec-action.png)
 
 -   Assigned to Field Recommendation: Select **Assign** to assign the recommended user and auto-populate the Assigned to field in the Service Exchange Consumer Registration &amp; Configuration task.
 
@@ -69,5 +69,5 @@ The following recommended actions are available for the data import task:
 
 Depending on your selection, you will see instructions on how to resolve the issue. After the error has been resolved, select **End Troubleshooting**.
 
-**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use.md)
 

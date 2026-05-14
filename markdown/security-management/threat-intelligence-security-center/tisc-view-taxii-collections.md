@@ -40,12 +40,12 @@ Role required: sn\_sec\_tisc.analyst
     When initiating the removal of TAXII collection records, a confirmation message is displayed prompting you to confirm if one or more records can be removed from intelligence sharing. On confirmation the records are removed and a work notes activity is automatically posted in the Activity Stream providing the details of the removed record\(s\).
 
 
-**Parent Topic:**[Viewing Threat Intelligence External Sharing](../concept/tisc-intel-sharing-module.md)
+**Parent Topic:**[Viewing Threat Intelligence External Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-intel-sharing-module.md)
 
 **Related topics**  
 
 
-[Viewing Outbound Intelligence](tisc-view-outbound-intel.md)
+[Viewing Outbound Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-outbound-intel.md)
 
-[Viewing Inbound Intelligence](tisc-view-inbound-intel.md)
+[Viewing Inbound Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-inbound-intel.md)
 

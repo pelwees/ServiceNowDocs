@@ -27,20 +27,20 @@ Employees can access Moveworks embedded AI conversational assistant from Service
 
 After you configure the app, you can access the Moveworks Embedded AI Assistant from Employee Center portals with easier access to relevant knowledge, services, and actions.
 
-![Moveworks Embedded AI assistant experience](../images/mw-employee-center-exp.png "Moveworks for Employee Center: Embedded AI assistant")
+![Moveworks Embedded AI assistant experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/mw-employee-center-exp.png "Moveworks for Employee Center: Embedded AI assistant")
 
 Moveworks unifies the enterprise systems under one intelligent layer to deliver outcomes that matter for every role, team, and business objective. For more information, see [Moveworks documentation](https://help.moveworks.com/).
 
 **Related topics**  
 
 
-[Getting started with Moveworks for Employee Center](moveworks-ec-getting-started.md)
+[Getting started with Moveworks for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/moveworks-ec-getting-started.md)
 
-[Install Moveworks for Employee Center app from store](../task/mw-install-app.md)
+[Install Moveworks for Employee Center app from store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/mw-install-app.md)
 
-[Upload Java KeyStore certificate](../task/mw-upload-jks-cert.md)
+[Upload Java KeyStore certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/mw-upload-jks-cert.md)
 
-[Configure bot ID and AI assistant](../task/mw-setup-botid.md)
+[Configure bot ID and AI assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/mw-setup-botid.md)
 
-[Use Moveworks on employee portal](mw-employee-chat-ui.md)
+[Use Moveworks on employee portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-employee-chat-ui.md)
 

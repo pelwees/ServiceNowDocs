@@ -24,13 +24,13 @@ For example, say that you have an intern that is being transferred to a full-tim
 
 ## About this task
 
-Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\) table to store multiple job records per user and capture the job history of users within your organization. See [Capturing multiple job records for a user](../concept/support-hr-users-with-multiple-jobs.md) for more information.
+Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\) table to store multiple job records per user and capture the job history of users within your organization. See [Capturing multiple job records for a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/support-hr-users-with-multiple-jobs.md) for more information.
 
 ## Procedure
 
 1.  If you are using an integration to pull HR profiles from a third-party system, configure your integration to pull jobs information into the Jobs \(sn\_hr\_core\_job\) table.
 
-    For details on how to configure a third-party integration with HR Service Delivery, see [Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md).
+    For details on how to configure a third-party integration with HR Service Delivery, see [Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/integrate-third-party-systems.md).
 
 2.  For HR case creation, associate the subject person's job to the HR case with the **subject\_person\_job** field.
 
@@ -40,13 +40,13 @@ Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\
 
     For example, the Day 1 activity set in the preconfigured New Hire Onboarding lifecycle event is triggered by the subject person's job start date.
 
-    ![A lifecycle event activity set with trigger field set to the subject person's job start date.](../image/multiple-jobs-le-activity-set-ex.png)
+    ![A lifecycle event activity set with trigger field set to the subject person's job start date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/multiple-jobs-le-activity-set-ex.png)
 
 4.  If you are not using a third-party integration and need to configure the switch of a primary job, you can use the **Switch primary job** subflow to switch the subject person's primary job through a lifecycle event activity.
 
     For example, you can create a lifecycle event activity to switch the primary job of the subject person from the old to the new job by setting the **Activity type** value to **Flow** and the **Flow** value to **Switch primary job**.
 
-    ![A lifecycle event activity with a flow to switch the primary job.](../image/multiple-jobs-switch-primary-job-ex.png)
+    ![A lifecycle event activity with a flow to switch the primary job.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/multiple-jobs-switch-primary-job-ex.png)
 
 
 **Related topics**  

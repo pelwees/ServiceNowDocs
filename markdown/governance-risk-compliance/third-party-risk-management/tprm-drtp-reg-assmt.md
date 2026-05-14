@@ -46,7 +46,7 @@ It's required that you review your contracts and third parties annually. You can
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Contractual arrangement form](../reference/tprm-create-new-cont-arrange-form.md).
+    For descriptions of all these fields, see [Create New Contractual arrangement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-cont-arrange-form.md).
 
 5.  Select **Save**.
 
@@ -83,6 +83,6 @@ It's required that you review your contracts and third parties annually. You can
 
 Once all details are captured, you can perform the following tasks:
 
--   Download the information using the Microsoft Excel download feature. For more information, see [Create a Microsoft Excel download request](tprm-excel-upload-download-request.md).
--   Upload updated records as needed. For more information, see [Update existing records in bulk](tprm-bulk-update.md).
+-   Download the information using the Microsoft Excel download feature. For more information, see [Create a Microsoft Excel download request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-excel-upload-download-request.md).
+-   Upload updated records as needed. For more information, see [Update existing records in bulk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-bulk-update.md).
 

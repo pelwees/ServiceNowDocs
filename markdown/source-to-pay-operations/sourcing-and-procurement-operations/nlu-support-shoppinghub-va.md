@@ -27,5 +27,5 @@ The following intents are provided as part of the Sourcing and Procurement Opera
 -   \#ViewProcurementCase
 -   \#Get help from procurement
 
-**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](virtual-agent-for-psm.md)
+**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)
 

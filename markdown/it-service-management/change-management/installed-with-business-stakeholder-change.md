@@ -46,5 +46,5 @@ Users with this role can view and approve records within all products of ITSM.**
 -   cmdb\_read.business\_stakeholder
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Business Stakeholder](../task/activate-business-stakeholders.md)
+</table>**Parent Topic:**[Activate Business Stakeholder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/activate-business-stakeholders.md)
 

@@ -17,7 +17,7 @@ Reassign or unassign any assigned work from the Resource Management Workspace. Y
 
 ## Before you begin
 
--   When you reassign work, the primary attributes of both the resource should match. For more information about mapping primary attributes to resources, see [Map primary attributes to resources](../../spw-capacity-planning/task/map-primary-attributes-cp.md).
+-   When you reassign work, the primary attributes of both the resource should match. For more information about mapping primary attributes to resources, see [Map primary attributes to resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../spw-capacity-planning/task/map-primary-attributes-cp.md).
 -   You can reassign a work item for the period for which actual hours are not captured.
 -   You cannot reassign a work item if it has associated actual hours captured for the entire duration.
 -   You cannot unassign a work item if it has any associated actual hours captured.
@@ -30,20 +30,20 @@ Role required: resource\_user, resource\_manager
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
-3.  Select the chevron icon \(![Chevron](../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
+3.  Select the chevron icon \(![Chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
 
 4.  To reassign any assigned work:
 
-    1.  Select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
+    1.  Select the row context menu \(![Three vertical dots icon for row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
     2.  Select **Reassign work**.
 
-        **Tip:** [Group the resource board](../concept/using-rmw.md#section_mcj_3sl_cdc) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
+        **Tip:** [Group the resource board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md#section_mcj_3sl_cdc) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
 
     3.  On the Reassign work window, enter the name of the resource in the **User** field to whom you want to reassign the work and duration using the **Start month** and **End month** date picker.
 
-        ![Reassign work window displaying current user assignment and options to select another resource to reassign work.](../images/rmw-reassign-work-window.png)
+        ![Reassign work window displaying current user assignment and options to select another resource to reassign work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-reassign-work-window.png)
 
 5.  Select **Update**.
 
@@ -53,7 +53,7 @@ Role required: resource\_user, resource\_manager
 
 6.  To unassign any assigned work:
 
-    1.  Select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
+    1.  Select the row context menu \(![Three vertical dots icon for row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
     2.  Select **Unassign work**.
     The selected work item will be moved to Unassigned task tray.
 
@@ -78,7 +78,7 @@ The actual hours captured by Tom are retained even though the task is reassigned
 
 ## What to do next
 
-You can allocate the unassigned work and approve the reassigned work. For more information, see [Assign and approve unassigned work using Resource Management Workspace](allocate-resources-rmw.md).
+You can allocate the unassigned work and approve the reassigned work. For more information, see [Assign and approve unassigned work using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-rmw.md).
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

@@ -38,5 +38,5 @@ Activating the data retention policy for the kb\_usage\_metrics table deletes re
 5.  Click **Update**.
 
 
-**Parent Topic:**[Collect knowledge usage metrics](Guest-user-diagnostic.md)
+**Parent Topic:**[Collect knowledge usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/Guest-user-diagnostic.md)
 

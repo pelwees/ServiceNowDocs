@@ -27,9 +27,9 @@ Role required: timecard\_approver or timecard\_admin
 
 3.  Recall the time sheet or time card.
 
-    -   To recall an approved time sheet, navigate to **All** time sheets section, and select a time sheet from the **This week**, **Last week**, or **Older** tab, and then tap the Recall \(![Recall icon](../image/recall_icon.png)\) icon
+    -   To recall an approved time sheet, navigate to **All** time sheets section, and select a time sheet from the **This week**, **Last week**, or **Older** tab, and then tap the Recall \(![Recall icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../image/recall_icon.png)\) icon
     -   To recall the entire time sheet, tap the action icon, and select **Recall Time sheet** or tap the **Recall time sheet** button at the bottom of the screen.
     -   To recall a specific time card, tap the action icon, and select **Recall time card**.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/timesheet-mobile.md)
 

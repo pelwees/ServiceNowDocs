@@ -29,7 +29,7 @@ Role required: kg\_admin
 
     The Knowledge Graph schema​ opens in the Knowledge Graph canvas.
 
-3.  Select the edit icon \(![Edit icon.](../../now-assist-skill-kit/image/icon-edit-pencil.png)\).
+3.  Select the edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../now-assist-skill-kit/image/icon-edit-pencil.png)\).
 
 4.  On the form, fill in the fields.
 
@@ -44,6 +44,6 @@ Role required: kg\_admin
 
 6.  Delete all the changes made to the Knowledge Graph schema by selecting **Discard**.
 
-    ![Discard changes.](../Images/discard-changes-in-kg-schema.png)
+    ![Discard changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/discard-changes-in-kg-schema.png)
 
 

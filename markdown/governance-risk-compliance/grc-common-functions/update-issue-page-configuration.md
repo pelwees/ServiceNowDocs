@@ -34,7 +34,7 @@ Role required: sn\_grc.admin
     -   Issue triage: Configuration to be performed to display the issue triage widget in the workspace.
     -   Tracking: Configuration to be performed to display the Policy exceptions and Evidence requests in the workspace.
     -   Observations: Configuration to be performed to display the audit observations in the workspace.
-    ![Issue page configuration tabs](../../grc-common-workspace/image/issue-page-configuration-tabs.png "Issue page configuration tabs")
+    ![Issue page configuration tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common-workspace/image/issue-page-configuration-tabs.png "Issue page configuration tabs")
 
 3.  In the **Issues** tab, check the filter conditions for the selected table and update the fields if necessary.
 
@@ -51,5 +51,5 @@ Role required: sn\_grc.admin
 7.  To update the issue page configuration record, click **Update**.
 
 
-**Parent Topic:**[Issue Page Configuration module](../../grc-common-workspace/concept/issue-page-config-record.md)
+**Parent Topic:**[Issue Page Configuration module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common-workspace/concept/issue-page-config-record.md)
 

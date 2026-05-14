@@ -33,7 +33,7 @@ Role required: Admin
 
     4.  Update the form, as required.
 
-        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to create a configuration template, see [Create a configuration template](create-template.md).
+        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to create a configuration template, see [Create a configuration template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-template.md).
 
     5.  Select **Submit**.
 
@@ -75,7 +75,7 @@ Parent Alias
 
 </td><td>
 
-Option to select the alias under which you're creating this connection and credential alias. The connection and credential alias that you're creating is a child alias. A child alias is listed under the **Child Aliases** tab on the parent connection and credential alias page.![Child alias under the Child Aliases tab.](../image/child-alias-location.png)
+Option to select the alias under which you're creating this connection and credential alias. The connection and credential alias that you're creating is a child alias. A child alias is listed under the **Child Aliases** tab on the parent connection and credential alias page.![Child alias under the Child Aliases tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/child-alias-location.png)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Capabilities
 
 </td><td>
 
-Option to select one or more MID Server capabilities. Capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Select the MID capabilities icon \(![MID capabilities selection icon.](../image/mid-capabilities-selection.png)\) to select one or more capabilities. **Note:** This option appears if you select **Auto-Select MID Server** in the MID Selection field.
+Option to select one or more MID Server capabilities. Capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Select the MID capabilities icon \(![MID capabilities selection icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/mid-capabilities-selection.png)\) to select one or more capabilities. **Note:** This option appears if you select **Auto-Select MID Server** in the MID Selection field.
 
 </td></tr><tr><td>
 

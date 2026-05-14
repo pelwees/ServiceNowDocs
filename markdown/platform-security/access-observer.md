@@ -21,14 +21,14 @@ With Access Observer security administrators can:
 
 Configure Access Observer by creating Access Observer configuration records. Within these records, you define a specific table and column to be observed and the time in which the column is observed.
 
-![Access Observer configuration record](../images/data-obs-1.png)
+![Access Observer configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/data-obs-1.png)
 
 Find the results of your observations on the Access Observer log record table. On this table you can see a record detailing each time the specified column is accessed.
 
-![Access Observer log records showing details of an observation](../images/data-obs-2.png)
+![Access Observer log records showing details of an observation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/data-obs-2.png)
 
--   **[Configure access observation](../task/config-access-observation.md)**  
+-   **[Configure access observation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/config-access-observation.md)**  
 Create an access observation record to review access to a data column during a specified time window.
--   **[Review Access Observer logs](../reference/review-access-obs-logs.md)**  
+-   **[Review Access Observer logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/review-access-obs-logs.md)**  
 Use information in the Access Observer log records for insights on how your data is accessed.
 

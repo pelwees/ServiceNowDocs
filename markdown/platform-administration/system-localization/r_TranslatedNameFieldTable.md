@@ -23,14 +23,14 @@ This option is available for text fields up to 255 characters in length. Some ex
 -   Language: [BCP 47](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) code of the language for this translated text.
 -   Value: English value that causes this translated text to be displayed.
 
-![The Translated Name/Fields table with Spanish translations for name and field values.](../image/FieldList.png "Translated Name/Fields table")
+![The Translated Name/Fields table with Spanish translations for name and field values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/FieldList.png "Translated Name/Fields table")
 
-**Parent Topic:**[Translation tables](r_TranslationTables.md)
+**Parent Topic:**[Translation tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
 **Related topics**  
 
 
-[Translate a field value for the Classic Environment](../task/t_TranslateAFieldValue.md)
+[Translate a field value for the Classic Environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_TranslateAFieldValue.md)
 
-[Translate a related list name](../task/t_TranslateARelatedListName.md)
+[Translate a related list name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_TranslateARelatedListName.md)
 

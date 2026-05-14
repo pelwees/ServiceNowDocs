@@ -128,5 +128,5 @@ Sales Cart Pricing Adjustment
 Stores pricing adjustments applied to a sales cart or its line items, including adjustment type, value, and related references.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](som-business-portal-reference.md)
+</table>**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 

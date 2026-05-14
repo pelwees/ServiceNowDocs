@@ -41,7 +41,7 @@ On the Workflow Operations Dashboard, you can click widget elements to view the 
     -   Workflows run between yesterday and today
     -   Workflows by state for the current month
     -   Aged workflow contexts for the past month
-2.  Find and add more widgets by selecting the add content icon \(![Add Content icon.](../../../use/homepages/image/AddContent.png)\) in the corner of the dashboard.
+2.  Find and add more widgets by selecting the add content icon \(![Add Content icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../../use/homepages/image/AddContent.png)\) in the corner of the dashboard.
 
 
 ## What to do next

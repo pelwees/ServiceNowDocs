@@ -30,8 +30,8 @@ Due to the sensitivity of such cases, you can view and work on these universal r
     With the sn\_hr\_er.case\_writer role, you can create a Report Misconduct HR case from the universal request.
 
 
--   **[Create an ethics legal matter from a universal request](../task/create-legal-ticket-universal-request.md)**  
+-   **[Create an ethics legal matter from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../task/create-legal-ticket-universal-request.md)**  
 Create an ethics legal matter from a universal request to get the Legal department's assistance in resolving the complaints.
 
-**Parent Topic:**[Managing complaint requests](managing-legal-investigations-request.md)
+**Parent Topic:**[Managing complaint requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/managing-legal-investigations-request.md)
 

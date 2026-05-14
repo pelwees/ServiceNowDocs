@@ -33,7 +33,7 @@ The default routing policy in the Google Directory WebHook Routing Policies modu
 
 4.  Select the subflow.
 
-5.  On the Process Google Directory User Webhook Subflow page, select the More Actions Menu icon \(![More Actions Menu icon.](../image/flow-copy-icon.png)\).
+5.  On the Process Google Directory User Webhook Subflow page, select the More Actions Menu icon \(![More Actions Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/flow-copy-icon.png)\).
 
 6.  Select **Copy Subflow**.
 

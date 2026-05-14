@@ -21,7 +21,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
 ## About this task
 
-For instructions on using the activity template process flow, see [create custom activities](create-custom-activities.md).
+For instructions on using the activity template process flow, see [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md).
 
 ## Procedure
 
@@ -29,11 +29,11 @@ For instructions on using the activity template process flow, see [create custom
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SOAP web service Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#), configure the SOAP web service Execution Command.
 
 <table id="choicetable_m3f_hcs_d1b"><tbody><tr><td id="d334155e109">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -85,7 +85,7 @@ Check box that determines if a MID Server must be used to invoke the SOAP web se
 
 </td><td>
 
-MID Server with the appropriate [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the SOAP endpoint. By default, the system selects a MID Server with SOAP capabilities. This field is available when the **Use MID Server** check box is selected.
+MID Server with the appropriate [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the SOAP endpoint. By default, the system selects a MID Server with SOAP capabilities. This field is available when the **Use MID Server** check box is selected.
 
 </td></tr><tr><td id="d334155e208">
 
@@ -125,11 +125,11 @@ Required REST endpoint basic authentication credentials. This field is available
 [Outbound web services mutual authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundWebServicesMutualAuth.md) to use for authentication. This field is available when the authentication type is either **Override with Certificate Authentication credentials** or **Override with Both Basic and Certificate Authentication credentials**.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
--   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
--   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
+-   Use [auto-mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
+-   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnOutputVariable.md#) and [create parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md#)
 

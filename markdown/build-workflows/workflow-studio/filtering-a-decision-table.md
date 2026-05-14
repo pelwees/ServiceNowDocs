@@ -27,7 +27,7 @@ Role required: admin
 
 3.  From the list of decision tables, select any desired decision table.
 
-4.  In the **Decision table**, select ![Ellipses](../image/ellipses.png) to view the filtering options.
+4.  In the **Decision table**, select ![Ellipses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/ellipses.png) to view the filtering options.
 
 5.  In the **Filter by Value** field, select any desired condition from the drop-down list.
 
@@ -38,5 +38,5 @@ Role required: admin
 
 After applying the filters, you’ll see a table with the data focused on the conditions and values you set.
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/using-decision-builder.md)
 

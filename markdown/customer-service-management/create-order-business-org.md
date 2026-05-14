@@ -47,7 +47,7 @@ When you start an order, a pop-up prompts you to enter details. The pop-up windo
 
     The Create a new order pop-up opens.
 
-    ![create a new order](../image/create-order-business-org.png "Create a new order")
+    ![create a new order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/create-order-business-org.png "Create a new order")
 
 3.  On the Create a new order pop-up, create an order for either an account or consumer.
 

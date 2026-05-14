@@ -25,10 +25,10 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 3.  On the Campaign tasks form, fill in the fields.
 
-    For a description of the field values, see [Campaign tasks form](../reference/mco-campaign-tasks-form.md).
+    For a description of the field values, see [Campaign tasks form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-campaign-tasks-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related lists for my campaigns](mco-related-list-for-my-campaigns.md)
+**Parent Topic:**[Related lists for my campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-my-campaigns.md)
 

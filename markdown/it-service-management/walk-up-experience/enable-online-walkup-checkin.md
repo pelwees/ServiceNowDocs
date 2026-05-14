@@ -64,5 +64,5 @@ The Walk-up Experience online **Walk-up Check-in** module is disabled \(hidden\)
 11. Click **Update**.
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-experience-configuration.md)
 

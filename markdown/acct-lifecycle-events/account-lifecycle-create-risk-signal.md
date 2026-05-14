@@ -238,5 +238,5 @@ The products impacted by this risk or issue.
 </table>4.  Select **Save** to create risk signal.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-basic-config.md)
 

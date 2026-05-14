@@ -44,9 +44,9 @@ When an item drops below a specified quantity, the stock rule automatically crea
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Set up Workplace PPE Inventory Management](set-up-ppe.md)
+**Parent Topic:**[Set up Workplace PPE Inventory Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/set-up-ppe.md)
 
-**Previous topic:**[Reduce PPE stock](reduce-ppe-stock.md)
+**Previous topic:**[Reduce PPE stock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/reduce-ppe-stock.md)
 
-**Next topic:**[PPE Inventory Overview dashboard](../concept/ppe-overview-dashboard.md)
+**Next topic:**[PPE Inventory Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/ppe-overview-dashboard.md)
 

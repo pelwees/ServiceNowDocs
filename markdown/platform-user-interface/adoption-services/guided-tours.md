@@ -23,11 +23,11 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 <table id="table_c2g_zps_nyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the key features and benefits of Guided Tours.](exploring-guided-tours.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the key features and benefits of Guided Tours.](exploring-guided-tours.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable, create, modify, and customize Guided Tours.](../task/configure-guided-tours.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable, create, modify, and customize Guided Tours.](../task/configure-guided-tours.md)
 
 </td><td>
 
@@ -35,11 +35,11 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 </td></tr><tr><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Guided Tours to train and onboard users.](using-guided-tours.md)
+[Using![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Guided Tours to train and onboard users.](using-guided-tours.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get more information about Guided Tours.](../reference/guided-tour-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-learn.svg)Get more information about Guided Tours.](../reference/guided-tour-reference.md)
 
 </td><td>
 

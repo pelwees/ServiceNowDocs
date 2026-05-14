@@ -106,7 +106,7 @@ Select the data pill \[action-&gt;Error Code\]
 
 12. Select **Save**.
 
-    ![Action outline and configuration of the sample action Throw an error.](../images/create-action-throw-error.png)
+    ![Action outline and configuration of the sample action Throw an error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-action-throw-error.png)
 
 13. Select **Test**.
 
@@ -130,7 +130,7 @@ Select the data pill \[action-&gt;Error Code\]
 
     The **Action Status** object should list an error on line 3 and display the text of your custom error message.
 
-    ![Action execution details for a test run of Throw an error.](../images/test-action-throw-error.png)
+    ![Action execution details for a test run of Throw an error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/test-action-throw-error.png)
 
 18. Close the action execution details.
 
@@ -147,5 +147,5 @@ You have a custom action that throws an error when you set the action input **Er
 
 Add this action to a flow to test the contents of the Error Handler section.
 
-**Parent Topic:**[Flow error handler](../concept/flow-error-handler.md)
+**Parent Topic:**[Flow error handler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-error-handler.md)
 

@@ -17,9 +17,9 @@ Use this dashboard to track the progress of open problems across different age b
 
 **Important:**
 
-Starting in Xanadu release, the Problem age dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem age dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/performance-analytics/problem.md) to view, and track the open problems.
 
-![Open Problem Age Monitor workbench](../image/problem-open-age-monitor.png)
+![Open Problem Age Monitor workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-open-age-monitor.png)
 
 ## End user and roles
 

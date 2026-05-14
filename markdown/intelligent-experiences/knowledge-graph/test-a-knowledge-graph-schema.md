@@ -47,6 +47,6 @@ Role required: kg\_admin
 
 9.  Select **Run Query**.
 
-    ![Test Knowledge Graph schema window.](../Images/test-kg-schema.png)
+    ![Test Knowledge Graph schema window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/test-kg-schema.png)
 
 

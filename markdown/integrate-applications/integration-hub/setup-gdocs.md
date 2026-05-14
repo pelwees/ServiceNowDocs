@@ -83,7 +83,7 @@ Add and configure a Google Docs connection to authenticate ServiceNow requests i
 
 ### Before you begin
 
--   [Configure Google Docs application](setup-gdocs.md#)
+-   [Configure Google Docs application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gdocs.md#)
 -   Role required: admin
 
 ### Procedure
@@ -98,11 +98,11 @@ Add and configure a Google Docs connection to authenticate ServiceNow requests i
 
 5.  On the Google Docs card, select **View Details**.
 
-    ![View Details button on Google Docs alias card.](../image/google-docs-alias-view-details.png)
+    ![View Details button on Google Docs alias card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-docs-alias-view-details.png)
 
 6.  Select **Configure**.
 
-    ![Button to open the Google Docs alias connection.](../image/google-docs-conn-config-button.png)
+    ![Button to open the Google Docs alias connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-docs-conn-config-button.png)
 
 7.  On the **Connection** form, fill in the fields.
 
@@ -117,7 +117,7 @@ Add and configure a Google Docs connection to authenticate ServiceNow requests i
 
 8.  Click **Configure and Get OAuth Token**.
 
-    ![Google Docs connection form.](../image/google-docs-conn-form.png)
+    ![Google Docs connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-docs-conn-form.png)
 
 9.  Log in to Google to get the OAuth token.
 

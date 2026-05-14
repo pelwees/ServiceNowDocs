@@ -27,5 +27,5 @@ Make sure that the signals are configured and scheduled to deliver the prompts. 
 |Skills Update Reminder Prompt to Employees|Signal configuration to trigger prompt for employees to either add new skills or update proficiencies for the existing skills.|
 |Review Skills Profile Prompt to Employees|Signal configuration to trigger prompt for employee to update their profile based on the recent activities.|
 
-**Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](drive-adoption-proactive-prompts.md)
+**Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/drive-adoption-proactive-prompts.md)
 

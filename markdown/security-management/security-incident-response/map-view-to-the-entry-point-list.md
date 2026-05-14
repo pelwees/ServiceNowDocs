@@ -25,15 +25,15 @@ Role required: admin
 
 1.  Click **Map Associated Info View** button on the **Entry Point Configs** page.
 
-    ![Map associated info view](../image/map-associated-info-view.png)
+    ![Map associated info view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/map-associated-info-view.png)
 
 2.  Select the newly added entry point list from the **Entry Point List** drop down list.
 
 3.  Enter the view name containing the associated info related lists in the **Associated Info View** field.
 
-    For information on how to create a view for the associated info related lists, see [Creating View for associated info tables](creating-view-for-associated-info-tables.md).
+    For information on how to create a view for the associated info related lists, see [Creating View for associated info tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-view-for-associated-info-tables.md).
 
-    ![Entry point selection for the associated info view](../image/entry-point-list-selection.png)
+    ![Entry point selection for the associated info view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/entry-point-list-selection.png)
 
 4.  **Save** the form.
 
@@ -42,5 +42,5 @@ Role required: admin
     You can also configure the entry point list layout using **Edit Entry Point List Layout** action. Add or remove columns from the slush bucket as desired, and save the form.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-investigation-canvas-records.md)
 

@@ -35,6 +35,6 @@ Role required: Admin
 
 6.  Clear the **Read only** field.
 
-    ![now assist skill variable.](../image/now-assist-configure-questionnaire.png)
+    ![now assist skill variable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-configure-questionnaire.png)
 
 

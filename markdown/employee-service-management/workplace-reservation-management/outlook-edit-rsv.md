@@ -23,11 +23,11 @@ Role required: admin
 
 1.  Create and submit a workplace reservation.
 
-    For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md).
+    For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
 2.  Select the **Actions** tab from the Reservation Summary page to edit the location, date, time, and workplace services within your reservation.
 
-    ![After submitting a reservation, the Reservation Summary page displays the reservation in Draft state.](../image/draft-state-of-reservation-rsv-summary-page.png)
+    ![After submitting a reservation, the Reservation Summary page displays the reservation in Draft state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/draft-state-of-reservation-rsv-summary-page.png)
 
 3.  Select **Change Reservation details** from the drop-down list to edit or update your reservation.
 
@@ -35,25 +35,25 @@ Role required: admin
 
     If the workplace service creation or update is in progress, a message is displayed to show that reservation can’t be edited until the process is complete.
 
-    ![Draft reservation showing the Actions tab to update reservation, if required.](../image/outlook-update-rsv-details-message.png)
+    ![Draft reservation showing the Actions tab to update reservation, if required.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-update-rsv-details-message.png)
 
 4.  Edit Workplace Services or remove workplaces as required.
 
     While editing and updating a reservation to a new location, date, or time, the application shows services that aren’t available for selection in an updated location.
 
-    ![While updating a reservation, if some services are missing from the updated location, date, or time, the application shows missing services message for few service items added to a reservation.](../image/missing-retain-extra-services-message.png)
+    ![While updating a reservation, if some services are missing from the updated location, date, or time, the application shows missing services message for few service items added to a reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/missing-retain-extra-services-message.png)
 
 5.  Review the workplace services that you want to retain before updating the reservation and select the **Retain Services** tab.
 
     The services are retained from the changed location to the updated location.
 
-    ![Retain extra services tab to retain services from the changed location to the udpated one.](../image/outlook-retain-extra-services-tab.png)
+    ![Retain extra services tab to retain services from the changed location to the udpated one.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-retain-extra-services-tab.png)
 
     .
 
 6.  Select the **Update reservation details** tab or **Change location** to update changes to your location, date, and time.
 
-    ![After modifying or updating your reservation, select the Update reservation details tab to update the changes.](../image/outlook-update-reservation-details-tab.png)
+    ![After modifying or updating your reservation, select the Update reservation details tab to update the changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-update-reservation-details-tab.png)
 
 7.  Review the Reservation Summary page for the updated reservation details.
 

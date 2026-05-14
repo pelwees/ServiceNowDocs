@@ -13,7 +13,7 @@ breadcrumb: [Explore, Care Team Operations for Facilities, Healthcare Operations
 
 Use the Healthcare Facilities case \[sn\_cto\_facilities\_case\] to create case types for facilities support requests.
 
-![A healthcare Facilities case in CSM/FSM Configurable Workspace.](../image/cto-facilities-case-overview.png)
+![A healthcare Facilities case in CSM/FSM Configurable Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-facilities-case-overview.png)
 
 If the Field Service Management \[com.snc.work\_management\] plugin is installed, Healthcare Facilities cases automatically generate related work orders, which are assigned to supporting agents with the fulfiller role. If this plugin isn’t installed, support agents must fulfill the case itself.
 
@@ -23,19 +23,19 @@ Any updates, comments, or status changes made to the work order reflect in the c
 
 ## Work order auto-creation
 
-![Work order auto creation.](../image/cto-facilities-work-order-creation.png)
+![Work order auto creation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-facilities-work-order-creation.png)
 
 Work orders are created automatically in synchronization with Healthcare Facilities cases. All information from the Healthcare Facilities case is carried over into the work order.
 
 ## Comment synchronization
 
-![Comment synchronization in Healthcare EVS work orders.](../image/cto-facilities-comment.png)
+![Comment synchronization in Healthcare EVS work orders.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-facilities-comment.png)
 
 Comments on the Healthcare Facilities case are viewable on the work order. Comments in the Compose panel of the work order are viewable on the Healthcare Facilities case.
 
 ## State synchronization
 
-![State synchronization between EVS cases and work orders.](../image/cto-facilities-state-sync.png)
+![State synchronization between EVS cases and work orders.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-facilities-state-sync.png)
 
 The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details in the portal.
 

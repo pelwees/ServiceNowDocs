@@ -69,5 +69,5 @@ Amount funded as an operating expense.
 
 The top-level investment is funded with the specified amount for the selected period.
 
-**Parent Topic:**[Create a top-level investment](create-top-level-investment.md)
+**Parent Topic:**[Create a top-level investment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-top-level-investment.md)
 

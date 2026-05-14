@@ -15,7 +15,7 @@ Configure an empty state to display on empty record screens to provide informati
 
 ## Before you begin
 
-You should already have an empty state configured for record screens that do not contain any data. For more information, see [Configure an empty state](empty-state-default.md).
+You should already have an empty state configured for record screens that do not contain any data. For more information, see [Configure an empty state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/empty-state-default.md).
 
 Role required: admin
 

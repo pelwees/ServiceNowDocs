@@ -21,19 +21,19 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the list icon \(![List Icon.](../image/Lists.png)\).
+2.  Select the list icon \(![List Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/Lists.png)\).
 
 3.  Navigate to **Alternative Dispute Resolution** &gt; **All**.
 
 4.  Select the ADR case record that you want to see the details.
 
 
-**Parent Topic:**[Using alternative dispute resolution case](../concept/use-alternative-dispute-resolution-case.md)
+**Parent Topic:**[Using alternative dispute resolution case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/use-alternative-dispute-resolution-case.md)
 
 **Related topics**  
 
 
-[Create an Alternative Dispute Resolution case](create-adr-case-record.md)
+[Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/create-adr-case-record.md)
 
-[Alternative dispute resolution management](../concept/alternative-dispute-resolution.md)
+[Alternative dispute resolution management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/alternative-dispute-resolution.md)
 

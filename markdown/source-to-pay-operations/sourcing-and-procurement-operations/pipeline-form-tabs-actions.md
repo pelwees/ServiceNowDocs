@@ -17,7 +17,7 @@ View project financial details, add existing procurement objects to pipeline pro
 
 ## Pipeline project record form
 
-![Pipeline project record form tabs and UI actions](../image/pipeline-record-page.png "Pipeline project record form")
+![Pipeline project record form tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-record-page.png "Pipeline project record form")
 
 The following table provides descriptions of the available tabs and UI actions in the Pipeline project record form.
 
@@ -126,20 +126,20 @@ Use this drop-down list to create new objects for the pipeline project. Availabl
 -   New contract
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing and Procurement Operations reference](spo-reference.md)
+</table>**Parent Topic:**[Sourcing and Procurement Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-reference.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](base-system-procurement-case-types.md)
+[Base system procurement case type reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/base-system-procurement-case-types.md)
 
-[Create New Pipeline Project form](create-pipeline-project-form.md)
+[Create New Pipeline Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-project-form.md)
 
-[Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-glossary.md#)
 

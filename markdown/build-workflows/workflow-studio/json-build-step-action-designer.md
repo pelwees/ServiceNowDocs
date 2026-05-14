@@ -48,7 +48,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
     -   **Number**
     -   **Boolean**
     -   **Array**
-    For arrays and objects, use the plus icon \(![plus icon](../../../build/app-engine-studio/image/plus-icon.png)\) to add name-value pairs to the array or object.
+    For arrays and objects, use the plus icon \(![plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../build/app-engine-studio/image/plus-icon.png)\) to add name-value pairs to the array or object.
 
 -   **In case of empty value**
 
@@ -82,7 +82,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Outputs
@@ -135,5 +135,5 @@ The JSON payload generator doesn’t support the following.
 
 **Note:** Generating a JSON payload overrides any existing structures in the JSON Builder step.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

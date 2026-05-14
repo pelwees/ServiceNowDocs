@@ -38,11 +38,11 @@ These multi-sensors pass the data returned by the identity probes to the Discove
 
 ## Example
 
-![Linux identity script](../image/DiscoveryMultisensorAndScript.png "Discovery identity sensors")
+![Linux identity script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryMultisensorAndScript.png "Discovery identity sensors")
 
 ## What to do next
 
-Run a discovery through the [Discovery Schedule](t_CreateADiscoverySchedule.md#) to search for CIs and verify that they are identified correctly in the CMDB.
+Run a discovery through the [Discovery Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#) to search for CIs and verify that they are identified correctly in the CMDB.
 
-**Parent Topic:**[Discovery identifiers](../concept/c_DiscoveryIdentifiers.md)
+**Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryIdentifiers.md)
 

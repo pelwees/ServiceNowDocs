@@ -70,28 +70,28 @@ Each time a user attempts to log in, the action is recorded in an event log. You
 1.  Navigate to **System Policy** &gt; **Event Logs**.
 2.  Filter for **login.failed** in the **Name** field. You can view the attempted login name, date, and IP address logged for the attempt.
 
-**Parent Topic:**[Configure your Password Reset process](../../login/task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../../login/reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/reference/pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../../login/task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../../login/concept/c_CredentialStores.md)
+[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/c_CredentialStores.md)
 
-[Password Reset verifications](../../login/concept/c_PWRVerifications.md)
+[Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-user-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../../login/task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../../login/task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../../login/task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/config-pwd-strength-rqmts.md)
 
-[Configure Google reCAPTCHA for the password reset process](../../login/task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_ConfigureGoogleRecaptcha.md)
 

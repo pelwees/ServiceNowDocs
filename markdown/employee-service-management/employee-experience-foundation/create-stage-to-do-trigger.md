@@ -19,9 +19,9 @@ The content in a stage with a to-do trigger becomes available when a user comple
 
 Role required: sn\_ca.campaign\_manager
 
-Complete the steps to [Create a campaign](ecpro-create-campaign.md)
+Complete the steps to [Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-create-campaign.md)
 
-Create a stage with a to-do content item. For more information on this content type, see [To-do content](../concept/ec-to-do-content.md).
+Create a stage with a to-do content item. For more information on this content type, see [To-do content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-to-do-content.md).
 
 ## About this task
 
@@ -31,7 +31,7 @@ Stages organize and manage the delivery of campaign content. When configuring a 
 
 Create a stage that is triggered when the user completes a to-do item from another stage.
 
-![Example to-do trigger setup](../images/todo-trigger.png)
+![Example to-do trigger setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/todo-trigger.png)
 
 ## Procedure
 
@@ -39,13 +39,13 @@ Create a stage that is triggered when the user completes a to-do item from anoth
 
 2.  Select the campaign and click the **Schedule of content** tab or click **Next**.
 
-    ![Schedule of content tab](../images/campaign-content-builder-1.png)
+    ![Schedule of content tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/campaign-content-builder-1.png)
 
 3.  Click **Create stage**.
 
     A stage is a visible area to add content.
 
-    ![Campaign - Create stage](../images/campaign-create-stage.png)
+    ![Campaign - Create stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/campaign-create-stage.png)
 
 4.  On the form, fill in the fields.
 
@@ -223,5 +223,5 @@ Select to make content from previous stages unavailable.
 ## What to do next
 
 -   Click **Add stage** to configure additional stages
--   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](ecpro-campaigns-manage-content-builder.md)
+-   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 

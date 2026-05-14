@@ -15,7 +15,7 @@ breadcrumb: [Patient Portal widget library, Reference, Healthcare and Life Scien
 
 The Open requests widget displays a list of open requests including healthcare-related cases created for the patient.
 
-![Screenshot displaying the Open requests widget. For the text description, refer to the Key features section.](../image/hcls-widget-open-requests.png "Open requests widget")
+![Screenshot displaying the Open requests widget. For the text description, refer to the Key features section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-open-requests.png "Open requests widget")
 
 ## Key features
 
@@ -25,5 +25,5 @@ The Open requests widget displays a list of open requests including healthcare-r
 
 The Open requests widget does not include instance options.
 
-**Parent Topic:**[Patient Portal widget library](hcls-pat-widget-library.md)
+**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 

@@ -29,19 +29,19 @@ Every shape in Enterprise Modeling and Visualization is associated with an image
 
 3.  Fill in the details in the new image form.
 
-    For more details, see [New image form](../../reference/eaw-reference/eaw-modeling-image-form.md).
+    For more details, see [New image form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-image-form.md).
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-working-custom-shapes.md)
 
 **Related topics**  
 
 
-[Create a diagram action for a custom shape](eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-action-custom-shape.md)
 
-[Add a custom shape library](eaw-modeling-add-custom-shape-library.md)
+[Add a custom shape library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-add-custom-shape-library.md)
 
-[Add a shape library element for a custom shape](eaw-modeling-custom-shape-element.md)
+[Add a shape library element for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-custom-shape-element.md)
 
-[Custom shapes example](eaw-modeling-custom-shape-example.md)
+[Custom shapes example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-custom-shape-example.md)
 

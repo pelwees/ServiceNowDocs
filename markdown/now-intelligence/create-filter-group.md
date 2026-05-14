@@ -27,7 +27,7 @@ If you have many filters that apply to many visualizations on a dashboard, it ca
 
 2.  Locate and open or create the dashboard to which you want to add a filter group.
 
-    Technical dashboards are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+    Technical dashboards are not supported. You can only add a filter group to a dashboard in the inline editor. For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/edit-db-in-ac.md).
 
 3.  Select **Add new element** and add a Filter Group element.
 
@@ -112,9 +112,9 @@ Turn on to have the group border and radius match the pill border and radius. Av
 
     You can add filters of any type except Domain. The filter configuration is the same as for the Filter component:
 
-    -   [Configure a Single/Multiple select or cascading filter](create-select-filter-workspace.md)
-    -   [Configure a True/False filter](create-boolean-filter-workspace.md)
-    -   [Configure a Date filter in the inline editor](create-date-filter-workspace.md)
+    -   [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md)
+    -   [Configure a True/False filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md)
+    -   [Configure a Date filter in the inline editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md)
     When you complete the configuration of each filter, select **Back to group configuration**.
 
 6.  Configure any additional settings that you want to change.
@@ -157,7 +157,7 @@ Combine clear and reset
 
 </td><td>
 
-Turn on to move Clear and Reset into a More actions ![Menu icon](../../../common/image/icon-menu.png) menu.Available only when **Show group reset** is on.
+Turn on to move Clear and Reset into a More actions ![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../common/image/icon-menu.png) menu.Available only when **Show group reset** is on.
 
 </td></tr><tr><td>
 
@@ -181,5 +181,5 @@ Defines number of pixels allowed for each filter in the group. Text that is wide
 
 The following example shows a group of two filters being applied to a data visualization. A simple use case is used here for clarity and brevity. In practice, you would use a filter group with multiple visualizations and filters.
 
-![Filters being set and cleared in a group.](../image/filter-group-simple.gif "Simple filter group")
+![Filters being set and cleared in a group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/filter-group-simple.gif "Simple filter group")
 

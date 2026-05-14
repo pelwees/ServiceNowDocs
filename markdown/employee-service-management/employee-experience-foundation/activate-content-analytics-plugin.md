@@ -58,10 +58,10 @@ Content Analytics requires the following plugins to collect data and generate da
 
 ## What to do next
 
-[Content Analytics](../concept/ecpro-content-automation-analytics.md)
+[Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ecpro-content-automation-analytics.md)
 
 **Related topics**  
 
 
-[Components installed with Content Analytics](../reference/ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ecpro-installed-content-analytics-1.md)
 

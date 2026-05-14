@@ -45,7 +45,7 @@ The following example steps assume you have your own demonstration instance.
         {"sysparm_action":"insert","message":"this is an event","uuid":"abc"}
         ```
 
-    ![The REST JSON request](../image/RESTRequest.png)
+    ![The REST JSON request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RESTRequest.png)
 
 5.  Click **Send**.
 
@@ -53,7 +53,7 @@ The following example steps assume you have your own demonstration instance.
 
 7.  Verify that the instance sends back a response with a `sys_id`.
 
-    ![The REST response](../image/RESTResponse.png)
+    ![The REST response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RESTResponse.png)
 
 8.  Login to your development instance.
 
@@ -61,8 +61,8 @@ The following example steps assume you have your own demonstration instance.
 
 10. Verify that the import set table has an event matching your JSON request.
 
-    ![REST import set table](../image/RESTImportSetTable.png)
+    ![REST import set table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RESTImportSetTable.png)
 
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/references-inbound-email.md)
 

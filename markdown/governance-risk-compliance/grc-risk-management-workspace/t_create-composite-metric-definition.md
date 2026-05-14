@@ -31,7 +31,7 @@ Add the automatic metric definition and the manual metric definition as children
 
 3.  On the form, fill in the fields.
 
-    For information about the fields, refer to [Calculated metric definition form](../reference/calculated-metric-definition-reuse-irm.md).
+    For information about the fields, refer to [Calculated metric definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/calculated-metric-definition-reuse-irm.md).
 
 4.  Click **Save**.
 
@@ -42,10 +42,10 @@ The metric definition is saved in the Metric definitions list.
 
 ## What to do next
 
-You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](t_update-automated-metric-definition.md) for more information.
+You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_update-automated-metric-definition.md) for more information.
 
--   **[Calculated metric definition form](../reference/calculated-metric-definition-reuse-irm.md)**  
+-   **[Calculated metric definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/calculated-metric-definition-reuse-irm.md)**  
 The fields of the calculated metric definition form are explained in this topic.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/configuring-irm-metrics.md)
 

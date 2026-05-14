@@ -38,7 +38,7 @@ When creating HR cases, you must identify an Opened for person. For ER cases, yo
 
 If you are an HR agent and using the HR case form or Agent Workspace, select **Skip verification** from the Case Creation Search for Employee form
 
-![HR ER Case Creation - Skip Verification](../image/hr-er-case-creation-skip2.png)
+![HR ER Case Creation - Skip Verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-er-case-creation-skip2.png)
 
 ## Related information
 

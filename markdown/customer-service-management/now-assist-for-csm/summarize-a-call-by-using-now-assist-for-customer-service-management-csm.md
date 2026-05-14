@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 The call summarization skill enables you to do the following actions:
 
 -   Summarize the call between a live agent and a caller when either the caller or the agent wraps up the conversation and ends the interaction.
--   Generate a call summary on demand from the Now Assist panel. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](request-gen-ai-capabilities-csm-now-assist-panel.md).
+-   Generate a call summary on demand from the Now Assist panel. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/request-gen-ai-capabilities-csm-now-assist-panel.md).
 -   When real-time transcription is enabled, agents can see a transcript of the voice calls while interacting with the customers. With real-time transcription, an agent gets a better understanding of the customer issues, and a manager gains insights into the customer trends and agent training gaps.
 -   When real-time transcription is turned off, agents don't see the conversation panel. Once the transcripts are ready, agents can see a Now Assist banner showing field predictions being generated. Then, another banner shows up with the predicted fields.
 -   A call summary is available for both outbound and inbound calls. For more information, see [Real time transcriptions for ServiceNow Voice for Customer Service Management](https://servicenow.com/docs/csh?topicname=using-voice-rtt.html&version=latest).
@@ -74,14 +74,14 @@ The call summarization skill enables you to do the following actions:
 
 7.  Select **Save**.
 
-    ![AI-generated call summary for an interaction.](../image/now-assist.csm-call-summary.png "Interaction record with call summary")
+    ![AI-generated call summary for an interaction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist.csm-call-summary.png "Interaction record with call summary")
 
 
 ## What to do next
 
 If necessary, you can create a case from an interaction record. The system uses the information from the **Short description** and **Chat Summary** fields in the interaction record to populate the **Short description** and **Description** fields in the case record.
 
-The system displays the Now Assist icon \(![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) next to these fields and removes the icon if the agent changes the fields and saves the record.
+The system displays the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) next to these fields and removes the icon if the agent changes the fields and saves the record.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 

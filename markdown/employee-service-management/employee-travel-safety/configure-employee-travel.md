@@ -15,7 +15,7 @@ breadcrumb: [Employee Travel Safety, Safe Workplace, Health and Safety, Employee
 
 Complete all configuration tasks to ensure that travel notifications and approvals are set up correctly for your company.
 
-**Parent Topic:**[Employee Travel Safety](../concept/employee-travel-safety.md)
+**Parent Topic:**[Employee Travel Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/../concept/employee-travel-safety.md)
 
 ## Set up travel approvers
 
@@ -32,7 +32,7 @@ Setting up manager approval or designated approvers is a required configuration 
     To set up designated travel approvers, add users to the Travel Approvers group. Members of this group can view and approve travel requests for all employees. Don't add managers to the Travel Approvers group unless it's acceptable for them to view and approve travel requests for all employees.
 
 
-By default, a travel request must be approved by both the employee's manager and a member of the Travel Approvers group. If the employee doesn't have a manager listed in your ServiceNow instance or there are no users in the Travel Approvers group, one approval is enough to approve the travel request. An employee's travel request is automatically rejected if the employee doesn't have a manager listed in your ServiceNow instance and there are no users in the Travel Approvers group. For information about changing the default approval settings, see [Modify the travel approval flow](configure-employee-travel.md#).
+By default, a travel request must be approved by both the employee's manager and a member of the Travel Approvers group. If the employee doesn't have a manager listed in your ServiceNow instance or there are no users in the Travel Approvers group, one approval is enough to approve the travel request. An employee's travel request is automatically rejected if the employee doesn't have a manager listed in your ServiceNow instance and there are no users in the Travel Approvers group. For information about changing the default approval settings, see [Modify the travel approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/configure-employee-travel.md#).
 
 ## Set up Employee Travel Safety properties
 
@@ -114,7 +114,7 @@ Enables outreach to relevant employees about travel-related health verifications
 
 </td><td>
 
-When enabled, employees who are approved for travel receive notifications to complete a health verification. To set the frequency of the notifications, select a value for the **sn\_imt\_travel.health.verification.run.type** property. For more information about employee health verification, see [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md).
+When enabled, employees who are approved for travel receive notifications to complete a health verification. To set the frequency of the notifications, select a value for the **sn\_imt\_travel.health.verification.run.type** property. For more information about employee health verification, see [Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/../../employee-health-screening/concept/employee-health-screening.md).
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Enables outreach to traveling employees about their daily travel contacts.\[sn\_
 
 </td><td>
 
-When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the Contact Tracing and Emergency Outreach applications. For more information about contact logs, see [Contact Tracing](../../contact-tracing/concept/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
+When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the Contact Tracing and Emergency Outreach applications. For more information about contact logs, see [Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/../../contact-tracing/concept/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
 
 </td></tr></tbody>
 </table>3.  Click **Save**.
@@ -178,7 +178,7 @@ If you decide to modify the flow, deactivate the original flow and make a copy. 
 
 3.  Click **Deactivate**, then click **OK** to confirm.
 
-4.  In the upper-right corner, click the More actions icon \(![More actions icon](../../../common/image/Form_MoreOptions.png)\), then click **Copy flow**.
+4.  In the upper-right corner, click the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/../../../common/image/Form_MoreOptions.png)\), then click **Copy flow**.
 
 5.  Enter a name for the new flow.
 

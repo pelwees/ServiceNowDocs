@@ -21,13 +21,13 @@ Agents use landing pages as a starting point to get into their work, where they 
 
 Several landing pages are available for CSM Configurable Workspace.
 
--   **[CSM Landing Page](csm-ws-landing-page-original.md) and [CSM Landing Page - Premium](csm-ws-landing-page-premium.md)**
+-   **[CSM Landing Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-original.md) and [CSM Landing Page - Premium](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-premium.md)**
 
     These landing pages use components to display lists and metrics. The admin configures this information in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/using-ui-builder.md) and can create different landing pages for different audiences.
 
-    Two versions of the landing page are available based on plugin activation. For more information, see [CSM Configurable Workspace landing page plugins](csm-workspace-landing-pages.md#section_scy_3kh_4xb).
+    Two versions of the landing page are available based on plugin activation. For more information, see [CSM Configurable Workspace landing page plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-landing-pages.md#section_scy_3kh_4xb).
 
--   **[CSM Dashboards](csm-ws-landing-page-dashboard.md)**
+-   **[CSM Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md)**
 
     This landing page uses dashboards to display information. You can duplicate the provided dashboards and modify them as desired or create dashboards and then share these dashboards with other users.
 

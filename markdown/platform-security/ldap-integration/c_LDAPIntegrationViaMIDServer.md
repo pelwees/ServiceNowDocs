@@ -27,9 +27,9 @@ A MID Server connection communicates over HTTP on port 80 by default. This commu
 
 For a secure communication over SSL, you must [add an SSL certificate for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/add-ssl-certificates.md). Change the LDAP server URL from LDAP to LDAPS and change to port 636.
 
-![LDAPS connection URL and SSL flag](../image/ldaps-midserver-setting.png)
+![LDAPS connection URL and SSL flag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/../image/ldaps-midserver-setting.png)
 
 **Note:** If you create a new LDAP server, the MID Server SSL flag sets to false by default. You can ignore this behavior.
 
-To set connection properties for a specific LDAP server, see [Define an LDAP server](../task/t_DefineAnLDAPServer.md).
+To set connection properties for a specific LDAP server, see [Define an LDAP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/../task/t_DefineAnLDAPServer.md).
 

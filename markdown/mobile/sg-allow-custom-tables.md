@@ -25,7 +25,7 @@ Role required: admin
 
 3.  To permit access to custom tables for data items, set the **Value** field to `false`, otherwise, set the value to `true`.
 
-    This system property is in the global scope. If you are not in the global scope, you see a prompt at the top of the page. Click the **here** link to edit the property.![Out of scope edit warning](../image/scope-edit-warning.png)
+    This system property is in the global scope. If you are not in the global scope, you see a prompt at the top of the page. Click the **here** link to edit the property.![Out of scope edit warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/scope-edit-warning.png)
 
 4.  Click **Update**.
 

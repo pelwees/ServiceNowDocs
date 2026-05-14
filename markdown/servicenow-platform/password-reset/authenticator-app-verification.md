@@ -61,7 +61,7 @@ Password Reset supports the following authenticator apps:
 
     For more information about enrolling using different methods, see the following topics:
 
-    -   [Enroll for the Password Reset program using questions and answers](t_EnrollUsingASecurityQuestion.md)
-    -   [Enroll for the Password Reset program using SMS codes](t_EnrollUsingSMS.md)
-    -   [Enroll for the Password Reset program using emailed codes](enroll-email-verification.md)
+    -   [Enroll for the Password Reset program using questions and answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingASecurityQuestion.md)
+    -   [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingSMS.md)
+    -   [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/enroll-email-verification.md)
 

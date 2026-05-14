@@ -41,10 +41,10 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
     -   A contract with the state set to **Draft** and a start date set in the future is kept in **Draft** until the start date is reached. If the contract has a **Substate** of **Approved**, the system changes the **State** to **Active** and removes the **Substate** value.
     -   When a contract with a **State** of **Draft** and a **Start Date** set to a date in the past is approved, the contract **State** is automatically set to **Active** and **Substate** is left blank.
 
-**Parent Topic:**[Send the contract for approval](t_SendTheContractForApproval.md)
+**Parent Topic:**[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)
 
 **Related topics**  
 
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/contract-approval-workflow.md)
 

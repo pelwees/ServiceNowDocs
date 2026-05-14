@@ -122,5 +122,5 @@ Option to select the state as optional. This field appears only when **As node**
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Create state model transition](prm-create-state-model-transition.md)
+**Parent Topic:**[Create state model transition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-create-state-model-transition.md)
 

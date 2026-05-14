@@ -35,7 +35,7 @@ The evidence request workflow is as follows:
     -   delete the request.
 9.  If the requester accepts all the evidence tasks, the request is closed.
 
-The evidence request workflow is shown in the following figure:![Workflow of evidence request](../image/evidence-request-workflow.png)
+The evidence request workflow is shown in the following figure:![Workflow of evidence request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/evidence-request-workflow.png)
 
 The following table describes the roles and their responsibilities during the evidence request workflow:
 

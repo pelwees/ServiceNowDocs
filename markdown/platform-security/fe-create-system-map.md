@@ -19,7 +19,7 @@ Role required: **security\_admin** and **sn\_kmf.crypto\_manager** \(or **sn\_km
 
 ## About this task
 
-These instructions create a system-based MAP for the system user's role. See [Configure module access policies for Field Encryption](maps-for-fe.md) for information.
+These instructions create a system-based MAP for the system user's role. See [Configure module access policies for Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/maps-for-fe.md) for information.
 
 ## Procedure
 
@@ -37,7 +37,7 @@ These instructions create a system-based MAP for the system user's role. See [Co
 
 7.  Fill out the rest of the form accordingly.
 
-    ![System Module Access Policy Example](../image/fe-system-map.png)
+    ![System Module Access Policy Example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/fe-system-map.png)
 
 8.  Select **Save**.
 
@@ -46,5 +46,5 @@ These instructions create a system-based MAP for the system user's role. See [Co
 
 The system MAP has been created.
 
-**Parent Topic:**[Module access policies for inbound email attachment encryption](../concept/fe-maps-inbound-email-attachment-encryption.md)
+**Parent Topic:**[Module access policies for inbound email attachment encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/fe-maps-inbound-email-attachment-encryption.md)
 

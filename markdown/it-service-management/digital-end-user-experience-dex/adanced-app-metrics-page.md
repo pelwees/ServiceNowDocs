@@ -238,5 +238,5 @@ Configuration Manager Health Evaluation
 Validates client health and auto-fixes known issues.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Device details pages](user-device-details-pages.md)
+</table>**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 

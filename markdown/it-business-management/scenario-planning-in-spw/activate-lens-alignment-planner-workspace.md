@@ -44,5 +44,5 @@ Planning managers can create portfolio plans using only lenses that are active. 
 **Related topics**  
 
 
-[Add or modify lens structure in Strategic Planning](define-lens-structure-in-alignment-planner-workspace.md)
+[Add or modify lens structure in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/define-lens-structure-in-alignment-planner-workspace.md)
 

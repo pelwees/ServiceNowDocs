@@ -15,5 +15,5 @@ The following diagram shows the core role relationships within the Public Sector
 
 ## Core role relationships
 
-![Core roles relationship within Public Sector Digital Services](../image/PSDS-Roles-asset0013179v2.png)
+![Core roles relationship within Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/PSDS-Roles-asset0013179v2.png)
 

@@ -23,7 +23,7 @@ To create a page in UI Builder for a Workspace experience, you navigate to **All
 
 The UI Builder home displays your available experiences under the **Experiences** tab. If you are working in a Workspace experience, you should see the experience listed here.
 
-![The UI Builder home screen showing the experiences tab.](../image/home-screen-experiences.png "UI Builder home")
+![The UI Builder home screen showing the experiences tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/home-screen-experiences.png "UI Builder home")
 
-**Parent Topic:**[Exploring UI Builder](create-custom-experience.md)
+**Parent Topic:**[Exploring UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-custom-experience.md)
 

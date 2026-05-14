@@ -38,10 +38,10 @@ Global text search can render results in parallel to improve performance. To con
 4.  Select **Save**.
 
 
-**Parent Topic:**[Set global text search properties](set-global-text-search-properties.md)
+**Parent Topic:**[Set global text search properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md)
 
 **Related topics**  
 
 
-[Revert to the legacy global search UI](revert-to-legacy-global-search.md#)
+[Revert to the legacy global search UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/revert-to-legacy-global-search.md#)
 

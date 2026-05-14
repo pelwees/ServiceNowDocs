@@ -36,7 +36,7 @@ The following items are installed with Talent Feedback:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Talent Feedback](../reference/components-installed-tf.md).
+For more information, see [Components installed with Talent Feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../reference/components-installed-tf.md).
 
 ### Procedure
 

@@ -17,9 +17,9 @@ Define your page variant to appear as a modal using UI Builder configurations. T
 
 Complete the following actions:
 
--   [Create a form action](create-a-new-form-action.md)
+-   [Create a form action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-new-form-action.md)
 -   Open your record page in UIB or [create a page variant in UIB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-variant.md)
--   [Design your page variant in UIB](design-a-page-variant-in-uib.md#)
+-   [Design your page variant in UIB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/design-a-page-variant-in-uib.md#)
 
 Role required: admin
 
@@ -27,7 +27,7 @@ Role required: admin
 
 1.  Open your page variant.
 
-2.  Open the **sys\_ux\_screen\_type** by selecting the menu icon \(![menu icon](../../workspace/image/menu-icon-save.png)\) and navigating to **Developer** &gt; **Open variant collection record**.
+2.  Open the **sys\_ux\_screen\_type** by selecting the menu icon \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon-save.png)\) and navigating to **Developer** &gt; **Open variant collection record**.
 
 3.  Select the **UX App Route** tab under Related Lists and select your page variant.
 
@@ -35,7 +35,7 @@ Role required: admin
 
 5.  Find the page that you want your modal to appear by opening the overview of records for the experience and selecting the page.
 
-6.  Select the menu icon \(![menu icon](../../workspace/image/menu-icon-save.png)\) and navigate to Open page definition.
+6.  Select the menu icon \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon-save.png)\) and navigate to Open page definition.
 
 7.  Select **Copy sys\_id**.
 

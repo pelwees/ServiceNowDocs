@@ -29,7 +29,7 @@ Role required: Admin
 
     This record is in the Now Assist for Telecommunications, Media and Technology \(TMT\) application, but Global is the current application. To edit this record, click **here**.
 
-    ![generate record summary.](../image/now-assist-wwna-quick-action.png)
+    ![generate record summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-wwna-quick-action.png)
 
 4.  On the record, update the fields.
 
@@ -40,5 +40,5 @@ Role required: Admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Generate service summary for a product inventory using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-summarize-knowledge-graph.md)
+**Parent Topic:**[Generate service summary for a product inventory using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-summarize-knowledge-graph.md)
 

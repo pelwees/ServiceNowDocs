@@ -15,7 +15,7 @@ Capture one or more SAP application screens, UI elements on the screen, and then
 
 ## Before you begin
 
-Ensure that the SAP plugin on the RPA Desktop Design Studio is installed. For more information, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
+Ensure that the SAP plugin on the RPA Desktop Design Studio is installed. For more information, see [Manage plugins in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-plugins-rpa-studio.md).
 
 Ensure that at least one SAP application window is active or open on your machine.
 
@@ -33,19 +33,19 @@ Role required: none
 
 2.  Drag the SAP connector under the Global Objects in the Project Explorer pane.
 
-    To learn more about how to add the SAP connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+    To learn more about how to add the SAP connector, see [Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-connector.md).
 
     The SAP Application object is added under the Global Objects.
 
-    ![SAP Application object added under Global Objects.](../image/SAP-object-added.png)
+    ![SAP Application object added under Global Objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-object-added.png)
 
 3.  Under the Global Objects, right-click the SAP Application and select **Configure**.
 
 4.  In the **SAP Connector** window, select the drop-down and then select the SAP application screen.
 
-    ![SAP screen selection drop down.](../image/SAP-connector-drop-down.png)
+    ![SAP screen selection drop down.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-connector-drop-down.png)
 
-    **Note:** To load any SAP application window that you have opened after opening the **SAP Connector** window, select the Refresh icon \(![Refresh icon.](../image/SAP-connector-refresh.png)\).
+    **Note:** To load any SAP application window that you have opened after opening the **SAP Connector** window, select the Refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-connector-refresh.png)\).
 
 5.  Select **Add Window**.
 
@@ -55,15 +55,15 @@ Role required: none
 
     The SAP application screens that you added appear under the Global Objects in the Project Explorer pane.
 
-    ![SAP applications added under SAP application object.](../image/SAP-screens-added-under-connector.png)
+    ![SAP applications added under SAP application object.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-screens-added-under-connector.png)
 
 7.  To expose the application-level methods, double-click the SAP application object under Global Objects in the Project Explorer pane.
 
     The application-level methods appear under the Object Explorer pane.
 
-8.  To expose the screen-level methods, select the SAP Application object expand icon \(![Expand icon.](../image/SAP-connector-expand-icon.png)\) and double-click the SAP application.
+8.  To expose the screen-level methods, select the SAP Application object expand icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-connector-expand-icon.png)\) and double-click the SAP application.
 
-    ![Expand and double-click SAP screen.](../image/SAP-connector-expose-screen-methods.png)
+    ![Expand and double-click SAP screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/SAP-connector-expose-screen-methods.png)
 
     The screen-level methods appear under the Object Explorer pane.
 
@@ -81,7 +81,7 @@ Role required: none
 
     5.  Use the Capture element dialog to capture one or more SAP application screen elements.
 
-        For more information about how to use the Capture element dialog, see [Use the Capture element dialog](use-context-dialog.md).
+        For more information about how to use the Capture element dialog, see [Use the Capture element dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-context-dialog.md).
 
     6.  To expose the element-level methods, in the Project Explorer pane, expand the SAP Connector under Global Objects.
 

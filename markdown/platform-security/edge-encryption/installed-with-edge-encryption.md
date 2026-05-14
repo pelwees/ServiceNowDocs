@@ -111,5 +111,5 @@ Edge Encryption adds the following properties.
     -   **Default value**: false
     -   **Location**: System Properties \[sys\_properties\] table
 
-**Parent Topic:**[Exploring Edge Encryption](../concept/c_EdgeEncryptionOverview.md)
+**Parent Topic:**[Exploring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_EdgeEncryptionOverview.md)
 

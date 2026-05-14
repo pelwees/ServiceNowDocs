@@ -26,19 +26,19 @@ Employee Center overview
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Employee Center concepts and features.](explore-emp-center.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Employee Center concepts and features.](explore-emp-center.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set-up the portal and Employee Center features.](setup-emp-center.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set-up the portal and Employee Center features.](setup-emp-center.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-task-list.svg) View your profile, applications, to-dos, and articles.](using-emp-center.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-task-list.svg) View your profile, applications, to-dos, and articles.](using-emp-center.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](../reference/emp-center-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](../reference/emp-center-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

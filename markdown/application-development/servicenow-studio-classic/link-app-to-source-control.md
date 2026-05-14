@@ -17,7 +17,7 @@ Linking an application or application-customization to source control allows app
 
 ## Before you begin
 
--   Learn more about [Manage customizations to applications](../../applications/task/manage-customizations-store-apps.md).
+-   Learn more about [Manage customizations to applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../applications/task/manage-customizations-store-apps.md).
 -   Create a dedicated Git repository for the application. For increased security, enable multi-factor authentication for the Git repository.
 -   Generate an access token that the source control integration can use instead of a password and multi-factor authentication passkey while creating a Credential record. Search for personal access token on [GitHub](https://help.github.com) or [GitLab](https://docs.gitlab.com).
 -   Restrict permissions on the access token to allow read and write access to the Git repository.
@@ -39,7 +39,7 @@ The source control integration does not support linking to an application or cus
 
 4.  Select **Source control** &gt; **Link to source control**.
 
-    ![Link to source control dialog box](../../app-engine-studio/image/source-control-link-to-sc-purple.png)
+    ![Link to source control dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../app-engine-studio/image/source-control-link-to-sc-purple.png)
 
 5.  Enter the connection details for the Git repository.
 
@@ -121,7 +121,7 @@ An optional description of the repository or application.
     All application developers on the instance can use the linked Git repository to manage changes.
 
 
-**Parent Topic:**[Source control integration in ServiceNow Studio](../concept/source-control-integration.md)
+**Parent Topic:**[Source control integration in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/source-control-integration.md)
 
 **Related topics**  
 

@@ -62,8 +62,8 @@ Table transform map is associated with the table to transform the `File Based Ca
 |Order Acknowledgment|sn\_spend\_intg\_imp\_purchase\_order\_ack|
 |Price Import|sn\_spend\_intg\_imp\_price|
 
--   **[Payloads samples and errors](payloads-information.md)**  
+-   **[Payloads samples and errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/payloads-information.md)**  
 Use the following sample payloads to enable procurement data import and export.
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/procurement-file-transfer-framework.md)
 

@@ -43,7 +43,7 @@ The action category is created.
 
 ## What to do next
 
-[Create an action type](create-action-type.md)
+[Create an action type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-action-type.md)
 
-**Parent Topic:**[Creating an action](../concept/creating-action.md)
+**Parent Topic:**[Creating an action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/creating-action.md)
 

@@ -41,7 +41,7 @@ By default, you can select from only a limited list of countries in the Next Exp
 **Related topics**  
 
 
-[Choice table](../reference/r_ChoicesTable.md)
+[Choice table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_ChoicesTable.md)
 
-[User administration](../../roles/concept/c_UserAdministration.md)
+[User administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../../roles/concept/c_UserAdministration.md)
 

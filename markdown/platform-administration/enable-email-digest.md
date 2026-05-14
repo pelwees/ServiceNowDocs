@@ -23,7 +23,7 @@ The email digest option is available only if your admin configured email digest 
 
 ## Procedure
 
-1.  Select the gear icon \(![System Settings gear icon](../image/IconUI16Gear.png)\) in the banner frame to open the System Settings window, and select the **Notifications** tab.
+1.  Select the gear icon \(![System Settings gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IconUI16Gear.png)\) in the banner frame to open the System Settings window, and select the **Notifications** tab.
 
 2.  Select the notification:
 
@@ -44,14 +44,14 @@ The email digest option is available only if your admin configured email digest 
     Soon after the interval ends, the system sends the email digest to you instead of sending the individual notifications generated during the digest interval. If you disabled the digest, the system immediately stops accumulating the notifications for the digest and does not send the email digest. The system resumes sending the notifications as they are generated.
 
 
-**Parent Topic:**[Email digests](../concept/email-digests.md)
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-digests.md)
 
 **Related topics**  
 
 
-[Apply notification conditions](apply-notification-conditions.md)
+[Apply notification conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md)
 
-[Email digests](../concept/email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-digests.md)
 
-[Configure email digests](configure-email-digest.md)
+[Configure email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md)
 

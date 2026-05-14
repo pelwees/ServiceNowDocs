@@ -15,25 +15,25 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 Reference topics provide additional information about the KPIs and metrics that CMDB Health uses and about tables, scheduled jobs, and properties that are used by CMDB Health.
 
--   **[Domain separation in CMDB Health](cmdb-health-domain-separation.md)**  
+-   **[Domain separation in CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-domain-separation.md)**  
 This is an overview of domain separation as it pertains to CMDB Health. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[CMDB Health](c_CMDBHealth.md)
+**Parent Topic:**[CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md)
 
 **Related topics**  
 
 
-[Exploring CMDB Health](exploring-cmdb-health-parent.md)
+[Exploring CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-cmdb-health-parent.md)
 
-[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](cmdb-health-exp-cmdb-workspace.md)
+[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-exp-cmdb-workspace.md)
 
-[View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
+[View CMDB Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_MonitorCMDBHealth.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCMDBRemediationRule.md)
 
-[CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
+[CMDB Health process tracking and troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthTroubleshooting.md)
 

@@ -17,7 +17,7 @@ The CimIDSensor script include provides methods to perform identification for Co
 
 Use in any server-side script to perform identification of CIM probe results.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CimIDSensor - configureTriggeredProbe\(String probe\)
 

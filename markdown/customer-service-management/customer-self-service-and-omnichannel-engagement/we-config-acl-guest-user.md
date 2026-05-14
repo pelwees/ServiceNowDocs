@@ -17,7 +17,7 @@ Enable guest users to access catalog items or knowledge articles by activating t
 
 ## Before you begin
 
-You must activate the Web Components for Guest \(sn\_guest\_component\) plugin. For more information, see [Activate Web Embeddables](act-web-embeddables.md).
+You must activate the Web Components for Guest \(sn\_guest\_component\) plugin. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 
 Role required: security\_admin
 

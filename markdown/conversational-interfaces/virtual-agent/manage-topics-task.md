@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin or admin
 
 Virtual Agent Designer includes discovery and visibility options when you select the Show actions for this row icon ![](../images/kebab-menu.png) next to each topic in the Asset library.
 
-![Options for managing active topics include discoverable and visible.](../images/va-active-toggles.png "Topic actions menu")
+![Options for managing active topics include discoverable and visible.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-active-toggles.png "Topic actions menu")
 
 Admins or topic authors can use these options to manage the active topics as follows:
 
@@ -31,7 +31,7 @@ Admins or topic authors can use these options to manage the active topics as fol
 
     By selecting **Discoverable**, admins or topic authors can enable Virtual Agent to discover the topic by using keyword or Natural Language Understanding \(NLU\) discovery.
 
-    **Note:** If these methods don't generate search results, or Virtual Agent can't determine the appropriate conversation to display, use [AI Search](../concept/va-ai-search.md) as a fall-back method.
+    **Note:** If these methods don't generate search results, or Virtual Agent can't determine the appropriate conversation to display, use [AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-ai-search.md) as a fall-back method.
 
 -   Include the topic in the list of topics available for use.
 
@@ -42,17 +42,17 @@ Admins or topic authors can use these options to manage the active topics as fol
     You should then see the **All Topics** menu.
 
 
-![All Topics menu in the chat window.](../images/all-topics-menu-2.png)
+![All Topics menu in the chat window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/all-topics-menu-2.png)
 
 The options you select automatically update the corresponding property in the Topics \[sys\_cs\_topic\] table. For example, if you've enabled **Discoverable**, the **Visible** property in the Topics \[sys\_cs\_topic\] table is set to true.
 
-![Topics table view with Is Topic Discoverable and Is Topic Visible values highlighted.](../images/active-props-table.png "Is Topic Discoverable option in the Topics table")
+![Topics table view with Is Topic Discoverable and Is Topic Visible values highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/active-props-table.png "Is Topic Discoverable option in the Topics table")
 
 **Note:** If the fields are not visible, you can [configure the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to show them.
 
 ## Procedure
 
-1.  [Creating a Virtual Agent topic](create-virtual-agent-topic.md).
+1.  [Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
 
 2.  Set the topic to **Active** either in the topic properties header bar, or in the Show actions for this row icon \(![](../images/kebab-menu.png)\) next to your topic in the Asset library.
 
@@ -79,5 +79,5 @@ The options you select automatically update the corresponding property in the To
 
 Depending on the options enabled, Virtual Agent can discover the topic, the topic is included in the **All Topics** menu in the chat window, or both.
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

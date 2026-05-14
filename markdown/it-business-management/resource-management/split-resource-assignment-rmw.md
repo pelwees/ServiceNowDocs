@@ -26,17 +26,17 @@ Splitting a resource assignment at a specific date creates a resource assignment
 
 When to use split or reassign for assignments.
 
-Use Split when you need to divide a single resource's assignment into two time periods with different allocation levels, effort distributions, or tracking granularity. For example, split an assignment when a resource needs to reduce their allocation after a project milestone. Use Reassign \([Reassign or unassign work using Resource Management Workspace](rmw-reassign-unassign-work.md)\) when you need to transfer work from one resource to another.
+Use Split when you need to divide a single resource's assignment into two time periods with different allocation levels, effort distributions, or tracking granularity. For example, split an assignment when a resource needs to reduce their allocation after a project milestone. Use Reassign \([Reassign or unassign work using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-reassign-unassign-work.md)\) when you need to transfer work from one resource to another.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
-3.  Select the chevron icon \(![Chevron](../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
+3.  Select the chevron icon \(![Chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
 
-4.  In the top tray, select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) for the required work item and select **Split**.
+4.  In the top tray, select the row context menu \(![Three vertical dots icon for row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/image/icon-row-context-menu.png)\) for the required work item and select **Split**.
 
     Split modal appears providing you with the insights related to the task such as name of the task, name of the resource, start date, and end date.
 
@@ -55,9 +55,9 @@ Consider a resource assignment named `Implement GenAI in docs` assigned to Abel 
 
 One resource assignment ranges from July 16 to September 09, and the other assignment ranges from September 10 to December 02.
 
-![Split of a resource assignment.](../images/rmw-split-ra-view.png)
+![Split of a resource assignment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-split-ra-view.png)
 
 Here, you can see an overlap of efforts for `Implement GenAI in docs` in month of September because the split is happening from September 10.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

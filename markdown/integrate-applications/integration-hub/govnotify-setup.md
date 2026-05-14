@@ -33,7 +33,7 @@ Integrate ServiceNow instance and GovNotify account using JWT authentication to 
 
     4.  On the form, provide a name for the API key and select the required key type.
 
-        ![Create an API key.](../image/govnotify-api.png)
+        ![Create an API key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/govnotify-api.png)
 
     5.  Click **Continue**.
 
@@ -46,7 +46,7 @@ Integrate ServiceNow instance and GovNotify account using JWT authentication to 
 
     6.  Click **Copy API key to clipboard** and record the value for later use.
 
-        ![Copy the API key.](../image/govnotify-copy-api.png)
+        ![Copy the API key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/govnotify-copy-api.png)
 
 2.  Configure the default JWT key record in your ServiceNow instance.
 

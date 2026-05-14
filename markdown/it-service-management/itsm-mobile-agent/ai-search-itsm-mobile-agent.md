@@ -34,7 +34,7 @@ AI Search in ITSM Mobile Agent offers the following features:
 -   Synonym handling: The search engine also looks for words similar to the search term.
 -   Genius cards: Genius result cards display the most relevant answers.
 
-![Screenshot for ITSM Mobile Agent](../image/itsm-mobile-agent.png "ITSM Mobile Agent")
+![Screenshot for ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/itsm-mobile-agent.png "ITSM Mobile Agent")
 
 For information about AI search, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md).
 

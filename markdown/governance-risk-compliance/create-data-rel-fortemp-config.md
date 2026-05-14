@@ -31,11 +31,11 @@ When you create data relationships, you can specify how selected records, such a
 
     The Data relationship new record is displayed.
 
-    ![Data relationship new record.](../image/data-rela-new-record.png)
+    ![Data relationship new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-rela-new-record.png)
 
     You can add the source and target relationships.
 
-    ![Source relationships.](../image/data-rel-record-source-rel-list.png)![Target relationships.](../image/data-rel-record-target-rel-list.png)
+    ![Source relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-rel-record-source-rel-list.png)![Target relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-rel-record-target-rel-list.png)
 
 4.  On the form, fill in the fields.
 
@@ -108,10 +108,10 @@ Table from which the data is obtained. This field is automatically populated.
 
     The Data relationships related list is shown in the example.
 
-    ![Data relationships related list.](../image/data-rela-template-config.png)
+    ![Data relationships related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-rela-template-config.png)
 
 
 ## What to do next
 
-Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](create-content-config-for-temp-config.md).
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-content-config-for-temp-config.md).
 

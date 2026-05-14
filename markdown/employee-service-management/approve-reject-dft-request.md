@@ -25,7 +25,7 @@ The approval flow for permitting a digital forensic team member to access the cu
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **My Work**, click **Items Pending Approval**.
 
@@ -61,5 +61,5 @@ Reject
 -   The state of the legal request remains Assigned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+</table>**Parent Topic:**[Managing digital forensics requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/managing-legal-dft-request.md)
 

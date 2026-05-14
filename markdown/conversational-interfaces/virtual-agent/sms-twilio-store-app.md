@@ -21,23 +21,23 @@ Select a tile to get started.
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Integrate Conversational SMS Integration with Twilio with Virtual Agent.](exploring-va-sms-twilio-app.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-explore.svg)Integrate Conversational SMS Integration with Twilio with Virtual Agent.](exploring-va-sms-twilio-app.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational SMS Integration with Twilio implementation.](configure-va-sms-twilio-app.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational SMS Integration with Twilio implementation.](configure-va-sms-twilio-app.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-chat.svg) Agents and requesters can use Conversational SMS Integration with Twilio in portals on your instance.](using-sms-integ-twilio.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-chat.svg) Agents and requesters can use Conversational SMS Integration with Twilio in portals on your instance.](using-sms-integ-twilio.md)
 
 </td></tr></tbody>
-</table>-   **[Exploring Conversational SMS Integration with Twilio](exploring-va-sms-twilio-app.md)**  
+</table>-   **[Exploring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-va-sms-twilio-app.md)**  
 Conversational SMS Integration with Twilio enables users to initiate conversations with Virtual Agent by messaging your Twilio phone number.
--   **[Configuring Conversational SMS Integration with Twilio](configure-va-sms-twilio-app.md)**  
+-   **[Configuring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-sms-twilio-app.md)**  
 Install Conversational SMS Integration with Twilio from the ServiceNow Store, configure it, and then configure SMS authentication.
--   **[Using Conversational SMS Integration with Twilio](using-sms-integ-twilio.md)**  
+-   **[Using Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sms-integ-twilio.md)**  
 Enable a requester to converse with an agent using SMS conversations with Twilio.
 
-**Parent Topic:**[Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md)
+**Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 

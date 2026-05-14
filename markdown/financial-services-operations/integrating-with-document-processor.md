@@ -17,19 +17,19 @@ ServiceNow® Financial Services Document Processor enables other Financial Servi
 
 <table id="table_q2j_cp1_f2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Document Processor](exploring-document-processor.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Document Processor](exploring-document-processor.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set up Document Processor](configuring-fso-document-processor.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set up Document Processor](configuring-fso-document-processor.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-task-list.svg)Submit and manage document related requests](using-document-processor.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-task-list.svg)Submit and manage document related requests](using-document-processor.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components installed](financial-document-processor-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components installed](financial-document-processor-reference.md)
 
 </td></tr></tbody>
 </table>

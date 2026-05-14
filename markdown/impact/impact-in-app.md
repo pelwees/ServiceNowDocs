@@ -33,7 +33,7 @@ Details
 
 </td><td>
 
-[Navigating Impact](impact-in-platform-home.md)
+[Navigating Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-in-platform-home.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Details
 
 </td><td>
 
-[Platform Health](platform-health-idi.md)
+[Platform Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/platform-health-idi.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Use diagnostic tools that help you understand the current health of your instanc
 
 </td><td>
 
-[Use the recommendations list](../task/using-recommendations-iip-ws.md)
+[Use the recommendations list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/using-recommendations-iip-ws.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Use the recommendations full list to view the recommendations tailored for you.
 
 </td><td>
 
-[Initiatives and Accelerators](impact-initiatives.md)
+[Initiatives and Accelerators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-initiatives.md)
 
 </td><td>
 
@@ -85,7 +85,7 @@ Use the recommendations full list to view the recommendations tailored for you.
 
 </td><td>
 
-[Product Adoption Roadmaps](impact-par.md)
+[Product Adoption Roadmaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-par.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ View your capabilities and product adoption roadmaps for your ServiceNow instanc
 
 </td><td>
 
-[Value management](impact-in-platform-business-outcomes.md)
+[Value management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-in-platform-business-outcomes.md)
 
 </td><td>
 
@@ -110,12 +110,12 @@ Captures your objectives, which are high-level goals tied to measurable outcomes
 
 </td><td>
 
-[Consumption Report](ide-consumption-report.md)
+[Consumption Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/ide-consumption-report.md)
 
 </td><td>
 
 View your tier features across various accounts including used and unused accelerators, initiatives, instance observer users, developer support users, and active case breakdowns.
 
 </td></tr></tbody>
-</table>**Important:** In order to access various levels of Impact, a role must be assigned to you. Your Impact Administrator can assign the appropriate roles to you. See [Manage Impact Delivery Instance users](../task/ide-user-management.md) for additional information.
+</table>**Important:** In order to access various levels of Impact, a role must be assigned to you. Your Impact Administrator can assign the appropriate roles to you. See [Manage Impact Delivery Instance users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/ide-user-management.md) for additional information.
 

@@ -32,7 +32,7 @@ The following items are installed with Field Service Agent Efficiency:
 -   Plugins
 -   Tables
 
-For more information, see [Field Service Agent Efficiency components](../reference/field-service-agent-efficiency-components.md).
+For more information, see [Field Service Agent Efficiency components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../reference/field-service-agent-efficiency-components.md).
 
 ## Procedure
 

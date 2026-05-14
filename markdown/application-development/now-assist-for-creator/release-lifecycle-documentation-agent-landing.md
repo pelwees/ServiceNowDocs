@@ -19,19 +19,19 @@ Automate documentation tasks across the app development lifecycle with the relea
 
 <table id="table_wwj_2z2_yhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how the release lifecycle documentation AI agent can help you to manage application development at scale.](exploring-release-lifecycle-documentation-agent.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how the release lifecycle documentation AI agent can help you to manage application development at scale.](exploring-release-lifecycle-documentation-agent.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the release lifecycle documentation AI agent.](configure-release-lifecycle-documentation-ai-agent.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the release lifecycle documentation AI agent.](configure-release-lifecycle-documentation-ai-agent.md)
 
 </td></tr><tr><td>
 
-[Generate release notes![](../../../reuse/icons/brand-icons/bus-documentation.svg)Generate release notes.](../task/generate-release-notes.md)
+[Generate release notes![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-documentation.svg)Generate release notes.](../task/generate-release-notes.md)
 
 </td><td>
 
-[Generate an update set description![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Generate descriptions for local and remote update sets.](../task/generate-update-set-description.md)
+[Generate an update set description![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-start-developing.svg)Generate descriptions for local and remote update sets.](../task/generate-update-set-description.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -59,14 +59,14 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about applications \(and associated application files\) in which app generation was utilized. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
--   **[Exploring release lifecycle documentation agent](exploring-release-lifecycle-documentation-agent.md)**  
+-   **[Exploring release lifecycle documentation agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-release-lifecycle-documentation-agent.md)**  
 Learn about how the release lifecycle documentation AI agent works to help you to manage application development at scale by generating useful, transparent documentation throughout the app lifecycle.
--   **[Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md)**  
+-   **[Configure release lifecycle documentation AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-release-lifecycle-documentation-ai-agent.md)**  
 Configure the release lifecycle documentation AI agent to start automating your app governance tasks.
--   **[Generate release notes](../task/generate-release-notes.md)**  
+-   **[Generate release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-release-notes.md)**  
 Generate release notes to document app changes and versions over time.
--   **[Generate an update set description](../task/generate-update-set-description.md)**  
+-   **[Generate an update set description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-update-set-description.md)**  
 Generate an update set description to quickly communicate the intent and scope of changes.
 
-**Parent Topic:**[Using agentic AI with Now Assist for Creator](../../now-assist-for-creator/concept/using-agentic-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using agentic AI with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-for-creator/concept/using-agentic-ai-now-assist-for-creator.md)
 

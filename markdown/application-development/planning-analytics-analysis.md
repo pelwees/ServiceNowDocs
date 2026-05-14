@@ -24,5 +24,5 @@ Include analytics requirements during the design phase to enable meaningful repo
 
 Embed analytics logic into workflows where possible, validate data quality during development, and use ServiceNow's built-in reporting capabilities to avoid custom solutions. Document your analytics plan for stakeholders.
 
-**Parent Topic:**[Plan your app before you start building](plan-app-building.md)
+**Parent Topic:**[Plan your app before you start building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-app-building.md)
 

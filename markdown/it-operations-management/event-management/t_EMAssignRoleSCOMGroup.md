@@ -38,5 +38,5 @@ Role required: evt\_mgmt\_admin
 
 Only alerts from the specified SCOM group arrive at the instance.
 
-**Parent Topic:**[Configure alert collection from SCOM](t_EMConfigureSCOMConnectorInstance.md)
+**Parent Topic:**[Configure alert collection from SCOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSCOMConnectorInstance.md)
 

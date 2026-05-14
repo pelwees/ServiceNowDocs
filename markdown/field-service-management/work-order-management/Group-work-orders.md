@@ -26,9 +26,9 @@ When grouping is enabled, one work order is generated for all the assets that me
 The steps to configure work order grouping for a work plan are:
 
 1.  Enable work order grouping for the work plan if you have not already enabled it while creating the plan.
-2.  [Add grouping criteria](../task/add-grouping-criteria.md)
-3.  [Configure a work schedule](../task/configure-work-plan.md)
-4.  [Associate a work order template to a work schedule](../task/associate-work-schedule-to-wotemplate.md)
-5.  [Create planned work records](../task/create-planned-work-records.md)
-6.  [Generate work orders](generate-work-orders.md)
+2.  [Add grouping criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/add-grouping-criteria.md)
+3.  [Configure a work schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/configure-work-plan.md)
+4.  [Associate a work order template to a work schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/associate-work-schedule-to-wotemplate.md)
+5.  [Create planned work records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/create-planned-work-records.md)
+6.  [Generate work orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/generate-work-orders.md)
 

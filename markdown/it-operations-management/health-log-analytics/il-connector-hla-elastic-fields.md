@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Elasticsearch integration configuration forms for Health Log Analytics.
 
-For the Elasticsearch integration setup procedure, see [Set up an Elasticsearch integration for Health Log Analytics](../task/il-connector-hla-elasticsearch.md).
+For the Elasticsearch integration setup procedure, see [Set up an Elasticsearch integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-elasticsearch.md).
 
 <table id="table_r45_gzv_mcc"><thead><tr><th>
 
@@ -396,5 +396,5 @@ Polling interval
 How frequently the system polls for new log data.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

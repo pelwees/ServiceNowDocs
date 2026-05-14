@@ -28,24 +28,24 @@ Role required: assessment\_admin or admin
     -   An assessable record to evaluate. The assessable record must be associated with an on-demand type and at least one category that contains non-scripted metrics.
     -   One or more users who should perform the assessment. The API generates a questionnaire about the specified assessable record for each user.
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentGeneration.md)
 
-[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+[Scheduled assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_ScheduledAssessments.md)
 
-[Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
-[Generate a vendor type assessment manually](t_GenAVendorTypeAssmtManually.md)
+[Generate a vendor type assessment manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAVendorTypeAssmtManually.md)
 
-[Set an assessment generation schedule](t_SetAssesstGenerationSchedule.md)
+[Set an assessment generation schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetAssesstGenerationSchedule.md)
 
-[Assessment instances](../concept/c_AssessmentInstances.md)
+[Assessment instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentInstances.md)
 
-[View an assessment instance](t_ViewAnAssessmentInstance.md)
+[View an assessment instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentInstance.md)
 
-[Clean up assessment data](t_CleanUpAssessmentData.md)
+[Clean up assessment data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 

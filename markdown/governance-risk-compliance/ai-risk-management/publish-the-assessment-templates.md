@@ -45,6 +45,6 @@ The templates are published and ready to be used for assessments. The state of t
 
 ## What to do next
 
--   [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md)
--   [Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md)
+-   [Initiate AI assessment on an AI asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-assessment-on-an-ai-asset.md)
+-   [Perform impact assessment on an AI use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-impact-assessment-of-ai-use-case.md)
 

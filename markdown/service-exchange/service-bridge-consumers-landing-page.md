@@ -25,11 +25,11 @@ As a consumer, you can:
 
 <table id="table_k52_dyx_yxb" class="nav-card"><tbody><tr><td>
 
-[Configure for consumers![](../image/bus-optimize-manage-sb.svg)Learn how to install and configure Service Exchange for consumers.](service-bridge-v2-install.md)
+[Configure for consumers![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../image/bus-optimize-manage-sb.svg)Learn how to install and configure Service Exchange for consumers.](service-bridge-v2-install.md)
 
 </td><td>
 
-[User for consumers![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn how to use Service Exchange for consumers.](se-consumer-using.md)
+[User for consumers![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn how to use Service Exchange for consumers.](se-consumer-using.md)
 
 </td></tr></tbody>
 </table>

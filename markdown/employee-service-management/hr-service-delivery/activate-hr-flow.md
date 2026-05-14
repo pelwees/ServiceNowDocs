@@ -40,5 +40,5 @@ Activation is immediate. These flows create an HR case adding an entry in the HR
 3.  Click the **Activate** button.
 
 
-**Parent Topic:**[HR flows and triggers](../concept/hr-flows-and-triggers.md)
+**Parent Topic:**[HR flows and triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-flows-and-triggers.md)
 

@@ -40,7 +40,7 @@ Process
 </td><td>
 
 1.  Open a demand record from the **All Demands** page.
-2.  Update the demand details in the required playbook activity. For more information,see [Use Playbooks](use-playbooks-in-ppw.md).![Update demand details from playbook stage.](../../spw-demand/images/playbook-details-tab.png)
+2.  Update the demand details in the required playbook activity. For more information,see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md).![Update demand details from playbook stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-demand/images/playbook-details-tab.png)
 
 
 </td></tr><tr><td id="d124018e122">
@@ -50,7 +50,7 @@ Process
 </td><td>
 
 1.  Open a demand record from the **All Demands** page.
-2.  Select **Details** and select the **Details** tab.![Update demand details from the Details tab.](../../spw-demand/images/details-tab-spw.png)
+2.  Select **Details** and select the **Details** tab.![Update demand details from the Details tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-demand/images/details-tab-spw.png)
 3.  Update the demand details.
 4.  Select **Save**.
 
@@ -68,15 +68,15 @@ Process
 
 
 </td></tr></tbody>
-</table>    For a description of the field values, see [Demand form](../reference/demand-form-ppw.md).
+</table>    For a description of the field values, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-form-ppw.md).
 
 
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-ppw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md)
 
-[Demand form](../reference/demand-form-ppw.md)
+[Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-form-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-default-playbook-stages-activities-ppw.md)
 

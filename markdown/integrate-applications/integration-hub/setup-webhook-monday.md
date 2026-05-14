@@ -19,7 +19,7 @@ Configure a webhook to subscribe to monday.com with a ServiceNow callback URL.
 
 -   Request an Integration Hub subscription.
 -   Activate the monday.com spoke.
--   [Set up the monday.com spoke](setup-monday.md#).
+-   [Set up the monday.com spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-monday.md#).
 -   Role required: admin.
 
 ## Register the monday webhook in ServiceNow

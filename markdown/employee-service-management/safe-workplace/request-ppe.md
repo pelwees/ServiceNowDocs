@@ -36,5 +36,5 @@ Role required: sn\_imt\_ppe.ppe\_admin
 
 View the status of your request by navigating to **PPE Inventory Management** &gt; **My Requests**.
 
-**Parent Topic:**[Workplace PPE Inventory Management](../concept/ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/ppe-inventory-management.md)
 

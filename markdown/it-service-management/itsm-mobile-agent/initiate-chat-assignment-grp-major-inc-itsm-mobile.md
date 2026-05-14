@@ -25,13 +25,13 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 2.  Tap **Major incidents** tab, tap **See All**.
 
-    ![See All highlighted in major incidents tab.](../image/major-incident-itsm-mobile.png)
+    ![See All highlighted in major incidents tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-incident-itsm-mobile.png)
 
 3.  Tap the major incident record you want to work on.
 
 4.  Tap **Assignment group**.
 
-    ![Assignment group in ITSM Mobile Agent](../image/active-major-incident-assignment-group-itsm-mobile.png)
+    ![Assignment group in ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/active-major-incident-assignment-group-itsm-mobile.png)
 
 5.  Do one of the following:
 
@@ -40,7 +40,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
     |Initiate chat in Slack|Tap on Slack assignment group.|
     |Initiate chat in Microsoft Teams|Tap on the Microsoft Teams assignment group.|
 
-    ![Assignment group in ITSM Mobile Agent](../image/assignment-group-major-inc-itsm-mobile.png)
+    ![Assignment group in ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/assignment-group-major-inc-itsm-mobile.png)
 
     **Note:** The Slack and the Microsoft Teams assignment group contact will be displayed only if the assignment group has a valid Slack and Microsoft Teams accounts.
 

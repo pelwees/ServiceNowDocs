@@ -53,20 +53,20 @@ Some sample use cases for app development with Build Agent include the following
 
 You can access Build Agent in both ServiceNow Studio and the ServiceNow IDE.
 
-**Note:** This document provides an overview of how Build Agent sits in the vibe coding and AI-assisted development workflow. For full product documentation, see [Build Agent and ServiceNow AI Platform tools](vc-build-agent-studio-vs-ide.md).
+**Note:** This document provides an overview of how Build Agent sits in the vibe coding and AI-assisted development workflow. For full product documentation, see [Build Agent and ServiceNow AI Platform tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-studio-vs-ide.md).
 
--   **[Get started vibe coding with Build Agent](vibe-code-with-build-agent.md)**  
+-   **[Get started vibe coding with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-code-with-build-agent.md)**  
 Use Build Agent on the ServiceNow AI Platform to vibe code and create apps by executing complex configuration and development tasks through conversational prompts. This approach simplifies editing and creating ServiceNow applications and metadata such as tables, relationships, and access controls, without manual navigation.
--   **[Build Agent and ServiceNow AI Platform tools](vc-build-agent-studio-vs-ide.md)**  
+-   **[Build Agent and ServiceNow AI Platform tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-studio-vs-ide.md)**  
 Compare how Build Agent behaves in ServiceNow Studio \(UI-first, declarative workflows\) versus the ServiceNow IDE \(code-first, autonomous full-stack development\), so you can choose the right environment for your task and audience.
--   **[Creating custom agentic workflows, in-app agents, and skills with Build Agent](vc-build-agents-in-ba.md)**  
+-   **[Creating custom agentic workflows, in-app agents, and skills with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agents-in-ba.md)**  
 Use Build Agent to create and deploy custom agentic workflows, AI agents, and skills that add agentic experiences to your ServiceNow custom applications, supported by the built-in governance framework.
--   **[Limitations of AI-assisted app generation with Build Agent](vc-build-agent-limitations.md)**  
+-   **[Limitations of AI-assisted app generation with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-limitations.md)**  
 Build Agent accelerates AI-assisted app development, but it also has some limitations that you should understand before using it. These constraints span feature coverage, platform compatibility, and governance requirements, all of which affect how and when you can use the tool effectively in vibe coding workflows.
--   **[Vibe-coded app refinement in ServiceNow Studio](vc-refine-sns.md)**  
+-   **[Vibe-coded app refinement in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-refine-sns.md)**  
 ServiceNow Studio connects AI-generated, vibe-coded apps to enterprise-grade solutions, where you can review, edit, and enhance your application in a dedicated development environment.
--   **[Vibe-coded app refinement in the ServiceNow IDE](vc-refine-using-ide.md)**  
+-   **[Vibe-coded app refinement in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-refine-using-ide.md)**  
 The ServiceNow IDE provides a VS Code, file-based editing experience with syntax highlighting, code completion, and real-time installing to your instance. Use this approach to harden generated, scaffolded apps into production-grade solutions.
 
-**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-using.md)
+**Parent Topic:**[Vibe coding and AI-assisted development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-using.md)
 

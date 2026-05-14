@@ -50,7 +50,7 @@ Tab colors
 This feature uses tab colors to indicate the status of a chat with one or more unread messages.-   Inactive tabs display a purple background color to indicate that a message has been received.
 -   Tab colors shift to yellow and then to red to highlight critical wait times.
 
-For more information, see [Tab colors](sow-itsm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc).
+For more information, see [Tab colors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc).
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Unread message counters
 
 </td><td>
 
-Inactive tabs display a counter that shows the number of unread chat messages.For more information, see [Unread message counters](sow-itsm-workspace-chat-session-tabs.md#section_zq4_1k2_fdc).
+Inactive tabs display a counter that shows the number of unread chat messages.For more information, see [Unread message counters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs.md#section_zq4_1k2_fdc).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ The chat session tabs feature uses tab background colors to provide information 
 
 Administrators can configure threshold levels for chat sessions that set timer values and tab background colors for the thresholds. Agents see different colors in the chat session tabs based on the threshold timer value.
 
-**Note:** Default values are provided for the SLA threshold timers. For more information about changing these values, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+**Note:** Default values are provided for the SLA threshold timers. For more information about changing these values, see [Configure chat session tabs in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/sow-itsm-workspace-chat-session-tabs-configure.md).
 
 <table id="table_v2g_pcc_jdc"><thead><tr><th>
 
@@ -117,7 +117,7 @@ White
 
 </td><td>
 
-![Active chat session tab with white background](../image/chat-session-tabs-white.png)
+![Active chat session tab with white background](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/chat-session-tabs-white.png)
 
 </td><td>
 
@@ -129,7 +129,7 @@ Purple
 
 </td><td>
 
-![Inactive chat session tab with purple background](../image/chat-session-tabs-purple.png)
+![Inactive chat session tab with purple background](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/chat-session-tabs-purple.png)
 
 </td><td>
 
@@ -144,13 +144,13 @@ Yellow
 
 </td><td>
 
-![Inactive chat session tab with yellow background and unread message counter](../image/chat-session-tabs-yellow.png)
+![Inactive chat session tab with yellow background and unread message counter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/chat-session-tabs-yellow.png)
 
 </td><td>
 
 Indicates an inactive tab with unread messages that has reached the warning SLA threshold level.The tab remains yellow for 30-60 seconds \(default value\), at which point the timer reaches the critical SLA threshold level. The tab also includes a warning icon.
 
-See [SLA threshold timers](sow-itsm-workspace-chat-session-tabs.md#section_ffn_zlb_jdc) for more information.
+See [SLA threshold timers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs.md#section_ffn_zlb_jdc) for more information.
 
 </td></tr><tr><td>
 
@@ -158,20 +158,20 @@ Red
 
 </td><td>
 
-![Inactive chat session tab with red background and unread message counter](../image/chat-session-tabs-red.png)
+![Inactive chat session tab with red background and unread message counter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/chat-session-tabs-red.png)
 
 </td><td>
 
 Indicates an inactive tab with unread messages that has reached the critical SLA threshold level. The tab remains red until the agent selects it and restarts the timer. The tab also includes a critical icon.
 
-See [SLA threshold timers](sow-itsm-workspace-chat-session-tabs.md#section_ffn_zlb_jdc) for more information.
+See [SLA threshold timers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs.md#section_ffn_zlb_jdc) for more information.
 
 </td></tr></tbody>
 </table>## SLA threshold timers
 
 Administrators can configure warning and critical SLA threshold timers for inactive chat session tabs. If an agent leaves a customer’s chat unanswered beyond the length of time defined in these threshold timers, the system changes the tab color.
 
-The chat session tabs feature includes the following default SLA threshold timer settings. For more information about changing these values, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+The chat session tabs feature includes the following default SLA threshold timer settings. For more information about changing these values, see [Configure chat session tabs in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/sow-itsm-workspace-chat-session-tabs-configure.md).
 
 <table id="table_b2f_dbd_jdc"><thead><tr><th>
 
@@ -264,10 +264,10 @@ When this feature is enabled, chat session tabs display colors to indicate the c
 -   Warning of SLA breach
 -   Critical SLA breach
 
-For more information, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/sow-itsm-workspace-chat-session-tabs-configure.md).
 
--   **[Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md)**  
+-   **[Configure chat session tabs in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/sow-itsm-workspace-chat-session-tabs-configure.md)**  
 Enable the chat session tabs feature and configure values for the chat SLA threshold timers in the SOW admin center.
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-interaction-management-sow.md)
 

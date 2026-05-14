@@ -55,5 +55,5 @@ You can customize the plan header for each role. Customizations include role-bas
 **Related topics**  
 
 
-[Create and manage Journey Accelerator plan types](create-manage-ja-plans.md)
+[Create and manage Journey Accelerator plan types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-manage-ja-plans.md)
 

@@ -25,11 +25,11 @@ As soon as your data has been migrated, you see the results of the migration. Re
 
 1.  In the Migration Center, select an item from the Fully migrated column, Dashboards, Visualizations, Reports, PA Widgets, or Interactive Filters to review a list of all of the migrated items.
 
-    ![Complete migration dashboard list](../image/data-mig-complete-db-list.png)
+    ![Complete migration dashboard list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-complete-db-list.png)
 
 2.  Choose the **Compare** link for any dashboard to see the Core UI and migrated content back to back.
 
-    ![Top of migrated dashboard Compare window featuring buttons labeled Migrated dashboard and Core UI dashboard](../image/data-mig-core-migrated-db-buttons.png)
+    ![Top of migrated dashboard Compare window featuring buttons labeled Migrated dashboard and Core UI dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-core-migrated-db-buttons.png)
 
 3.  Select the **Compatibility mode** tab to compare content in the Core UI dashboard and the content migrated in compatibility mode.
 

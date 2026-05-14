@@ -30,5 +30,5 @@ Role required: admin or survey\_admin
     When you publish a survey, the system sends email notifications to the recipients and to their managers. The system displays a link to the survey on a card in each recipient's My Assessments &amp; Surveys portal.
 
 
-**Parent Topic:**[Publish a survey](t_PublishASurvey.md)
+**Parent Topic:**[Publish a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurvey.md)
 

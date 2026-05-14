@@ -37,10 +37,10 @@ Role required: sn\_telecom\_c360.admin
     |Invoice search field|The search criteria to be used to filter the list of billing accounts to be displayed.|
 
 
-**Parent Topic:**[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[Billing card](../concept/c360-billing-card.md)
+[Billing card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-billing-card.md)
 

@@ -22,33 +22,33 @@ The Business Continuity Management product provides a framework to perform conti
 -   Develop and provide continuous improvement to the business continuity plans.
 -   Identify, analyze, and manage process continuity during and following a disruptive event.
 
-For more information on Business Continuity Management, see [Exploring Business Continuity Management](exploring-bcm.md).
+For more information on Business Continuity Management, see [Exploring Business Continuity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/exploring-bcm.md).
 
 ## Get started
 
 <table id="table_syn_p1t_dyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore key features of BCM](exploring-bcm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-explore.svg)Explore key features of BCM](exploring-bcm.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the BCM application](configuring-business-continuity-management.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the BCM application](configuring-business-continuity-management.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage your business continuity tasks](manage-bcm-with-uib-workspace.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-manage.svg)Manage your business continuity tasks](manage-bcm-with-uib-workspace.md)
 
 </td></tr><tr><td>
 
-[Notify![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Send emergency notifications with Everbridge](ebn-collective-tasks.md)
+[Notify![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Send emergency notifications with Everbridge](ebn-collective-tasks.md)
 
 </td><td>
 
-[Classic workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use BCM Classic workspace](mainitain-bcm-with-classic-workspace.md)
+[Classic workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use BCM Classic workspace](mainitain-bcm-with-classic-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with BCM](../reference/installed-with-bcm.md#)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with BCM](../reference/installed-with-bcm.md#)
 
 </td></tr></tbody>
 </table>## Support for Business Continuity Management UI Builder Workspace
@@ -57,9 +57,9 @@ You can configure the Business Continuity Management application in the UI Build
 
 For more information on the next generation of the user interface, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
 
-For information on the UI Builder administrative tasks in BCM, see [Setup for the UI Builder](configuring-bcm-workspace-by-using-ui-builder.md).
+For information on the UI Builder administrative tasks in BCM, see [Setup for the UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-bcm-workspace-by-using-ui-builder.md).
 
-For instructions on how to configure your business continuity tasks in BCM UIB Workspace, see [Managing BCM workflow tasks](manage-bcm-with-uib-workspace.md).
+For instructions on how to configure your business continuity tasks in BCM UIB Workspace, see [Managing BCM workflow tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-bcm-with-uib-workspace.md).
 
 ## Troubleshoot and get help
 

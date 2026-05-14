@@ -37,17 +37,17 @@ Role required: none
 **Related topics**  
 
 
-[Merge tool](../concept/diff-merge-tool.md)
+[Merge tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/diff-merge-tool.md)
 
-[Compare to the current version](t_CompareToCurrentVersion.md)
+[Compare to the current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_CompareToCurrentVersion.md)
 
 [Compare two versions of an article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/compare-two-article-versions.md)
 
 [Resolve conflicts for an individual record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflict.md)
 
-[Resolve a collision in Team Development](t_ResolveACollision.md)
+[Resolve a collision in Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_ResolveACollision.md)
 
-[Revert a change](t_RevertAChange.md)
+[Revert a change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../../system-update-sets/task/view-customer-update-records.md)
 

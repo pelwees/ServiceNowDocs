@@ -65,5 +65,5 @@ Document Parameters
 -   Approval Rules: Defines the approvals the document must have before it can be published.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managed Document features](r_ManagedDocumentFeatures.md)
+</table>**Parent Topic:**[Managed Document features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentFeatures.md)
 

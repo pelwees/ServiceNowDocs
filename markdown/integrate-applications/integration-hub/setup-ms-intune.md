@@ -45,7 +45,7 @@ Complete these steps from the Microsoft Azure portal.
 
 3.  For the **Required Permissions**, ensure that you provide these permissions:
 
-    ![API permissions](../image/api-permission-ms-intune.png)
+    ![API permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/api-permission-ms-intune.png)
 
     Depending on your requirement, the permissions can be of the type, **Application**, or **Delegated**. For more information, see [Quickstart: Configure a client application to access a web API](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis) in [Microsoft Docs](https://docs.microsoft.com/en-us/).
 

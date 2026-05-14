@@ -218,20 +218,20 @@ while (count.next()) {
 }
 ```
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_MapPages.md)
 
 **Related topics**  
 
 
-[Set up Google Maps API](../task/set-up-google-maps-api.md)
+[Set up Google Maps API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/set-up-google-maps-api.md)
 
-[Create a map page](../task/t_CreateAMapPage.md)
+[Create a map page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateAMapPage.md)
 
-[Create a map page module](../task/create-map-page-module.md)
+[Create a map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/create-map-page-module.md)
 
-[Create an advanced Map Page](../task/create-advanced-map-page.md)
+[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/create-advanced-map-page.md)
 
-[Set map application scope](../task/set-map-application-scope.md)
+[Set map application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/set-map-application-scope.md)
 
-[Create a smartphone map page module](../task/t_CreateASmartphoneMapPageModule.md)
+[Create a smartphone map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateASmartphoneMapPageModule.md)
 

@@ -49,7 +49,7 @@ The user that the splash screen is turned off for.
 
  To turn off the splash screen for all users, leave this field empty.
 
- To turn off the splash screen for specific users, user the search icon \(![Search image.](../image/SearchIcon.png)\) to find the user and select them in the search results.
+ To turn off the splash screen for specific users, user the search icon \(![Search image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/SearchIcon.png)\) to find the user and select them in the search results.
 
 </td></tr><tr><td id="d147215e150">
 
@@ -93,12 +93,12 @@ Select this check box to apply this user preference system wide.
     **Note:** In the User Preferences table, verify that there is only one user preference record where the **System** field and **Value** field is set to `true`.
 
 
-**Parent Topic:**[User preferences](../concept/c_UserPreferences.md)
+**Parent Topic:**[User preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UserPreferences.md)
 
 **Related topics**  
 
 
-[User preference settings](../reference/r_UserPreferenceSettings.md)
+[User preference settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_UserPreferenceSettings.md)
 
-[Configure available keyboard shortcuts](configure-keyboard-shortcuts.md)
+[Configure available keyboard shortcuts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-keyboard-shortcuts.md)
 

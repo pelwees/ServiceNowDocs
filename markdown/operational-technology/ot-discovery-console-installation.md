@@ -30,7 +30,7 @@ You must be aware of the following information when setting up your VM environme
     **Note:** Be sure you have set this correctly; otherwise, Mongo may crash when you attempt to restart the VM.
 
 -   Allocate 16 GB RAM for the Linux installation.
--   The Discovery Console for OT requires a minimum of 100 GB of storage. See [Requirements for Discovery Console for OT installation](../concept/requirements-installation-deployment.md) for information on storage requirements.
+-   The Discovery Console for OT requires a minimum of 100 GB of storage. See [Requirements for Discovery Console for OT installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/requirements-installation-deployment.md) for information on storage requirements.
 -   You must be on a VM to access images in the Discovery Console for OT.
 
 ## Procedure
@@ -122,5 +122,5 @@ The installation of the Discovery Console for OT is complete. Before you install
 
 ## What to do next
 
-After installation is complete, go to [Generate a certificate](generate-new-certificate-discovery-for-ot.md) for the next steps.
+After installation is complete, go to [Generate a certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/generate-new-certificate-discovery-for-ot.md) for the next steps.
 

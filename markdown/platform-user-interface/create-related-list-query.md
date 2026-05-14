@@ -23,7 +23,7 @@ You can optionally include conditions on the related table. For example, you can
 
 The List v3 filter contains two sections, one for the current table conditions and one for related lists conditions. You can include only one related table in the query, however, you can add multiple conditions for that table.
 
-![Problem filter for open problems](../image/related-list-conditions-problem.png "Problem filter for open problems")
+![Problem filter for open problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/related-list-conditions-problem.png "Problem filter for open problems")
 
 The easiest way to understand the parts of a related list condition is to use an example. The steps below use the example of open problems with some number of related incidents. You can perform these steps for any list view that supports List v3.
 
@@ -45,7 +45,7 @@ The easiest way to understand the parts of a related list condition is to use an
 
     The Quantity popover opens.
 
-    ![Related list conditions quantity](../image/problems-with-related-incidents.png)
+    ![Related list conditions quantity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/problems-with-related-incidents.png)
 
 6.  Select a quantity, enter number of records in the related table that must match, and then select**X** to close the popover.
 
@@ -64,7 +64,7 @@ The easiest way to understand the parts of a related list condition is to use an
 
     The following image shows the example of filtering for problem records with more than two related incidents that are critical priority.
 
-    ![Filter for problems with more than two related critical incidents](../image/related-list-conditions-incident-filter.png)
+    ![Filter for problems with more than two related critical incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/related-list-conditions-incident-filter.png)
 
     **Note:** You cannot perform a keyword search in a related table condition.
 
@@ -75,22 +75,22 @@ The easiest way to understand the parts of a related list condition is to use an
 
 The breadcrumb displays **Related List condition...**. Open the filter to view the related list query statement.
 
-![List breadcrumb and the related list condition query statement](../image/related-list-breadcrumb.png "List breadcrumb and the related list condition query statement")
+![List breadcrumb and the related list condition query statement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/related-list-breadcrumb.png "List breadcrumb and the related list condition query statement")
 
 **Note:** If List v3 is disabled for a list with a related list condition query in the default filter, the filter edit function is disabled. Remove the related list condition to enable list filter editing.
 
-![Remove a related list condition in List v2 filter](../image/related-list-condition-v2-remove.png)
+![Remove a related list condition in List v2 filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/related-list-condition-v2-remove.png)
 
-**Parent Topic:**[Filters](../../using-lists/concept/c_Filters.md)
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/concept/c_Filters.md)
 
 **Related topics**  
 
 
-[Create a filter in List](../../using-lists/task/t_CreatingFilters.md)
+[Create a filter in List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/task/t_CreatingFilters.md)
 
-[OR conditions](../../using-lists/concept/c_UsingORConditions.md)
+[OR conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/concept/c_UsingORConditions.md)
 
-[Filter on multiple string values](../../using-lists/task/t_FilteringOnMultipleStringValues.md)
+[Filter on multiple string values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/task/t_FilteringOnMultipleStringValues.md)
 
-[Dynamic operators](../../using-lists/reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/reference/r_UsingTheDynamicOperator.md)
 

@@ -23,21 +23,21 @@ Get started creating an app quickly using Now Assist for app generation. From th
 
 Access Now Assist for app generation on the main home page next to your user preferences, or on the same page as creating a new custom application.
 
-![Use Now Assist to help you create an app, accessible from the home page menu bar or the New Custom Application workflow.](../image/sn-studio-new-app-w-na-zs2.png)
+![Use Now Assist to help you create an app, accessible from the home page menu bar or the New Custom Application workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-new-app-w-na-zs2.png)
 
-For more information, see [App generation](../../now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md).
+For more information, see [App generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md).
 
 ## Now Assist for app summary generation
 
 After you have created your app, you can use Now Assist for app summary generation to create a summary of the contents and purpose of your app. Rate or update the summary, and use it as the description for your app. Good app descriptions can enable you to govern your app ecosystem and help you see where you might have duplicate apps.
 
-![Now Assist can help you create a summary of your app that you can use for the app description.](../image/sn-studio-app-summary.png)
+![Now Assist can help you create a summary of your app that you can use for the app description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-app-summary.png)
 
-For more information, see [App summary generation](../../now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md).
+For more information, see [App summary generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md).
 
 ## AI metadata types
 
-You can add three different types of AI files to your applications: Agentic Workflows, AI Agents, and Skills. These files open in a new tab so you can edit them in AI Agent Studio. After creating or editing a new AI file, go back to your App details page and select the reload app details icon ![](../image/sn-studio-reload-app-details-icon.png) to capture your changes. For more information about AI file types, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+You can add three different types of AI files to your applications: Agentic Workflows, AI Agents, and Skills. These files open in a new tab so you can edit them in AI Agent Studio. After creating or editing a new AI file, go back to your App details page and select the reload app details icon ![](../image/sn-studio-reload-app-details-icon.png) to capture your changes. For more information about AI file types, see [ServiceNow Studio Navigator panel taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-file-navigator-taxonomy.md).
 
 **Important:** AI options in the ServiceNow Studio file taxonomy are only available if the AI components have been installed and configured.
 
@@ -49,9 +49,9 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     [Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-    [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md)
+    [Vibe coding and AI app development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md)
 
-    [Now Assist for App Engine](../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)
+    [Now Assist for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)
 
 -   **Agentic workflows**
 
@@ -74,5 +74,5 @@ Some ServiceNow resources that can provide you with helpful information are:
     [Create a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
 
-**Parent Topic:**[Using ServiceNow Studio](using-servicenow-studio.md)
+**Parent Topic:**[Using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/using-servicenow-studio.md)
 

@@ -28,5 +28,5 @@ By default, when the URL parameter is present, the description element will be f
 
 This default format string can be overridden using the property **glide.rss.description\_format**.
 
-**Parent Topic:**[RSS feed generator](c_RSSFeedGenerator.md)
+**Parent Topic:**[RSS feed generator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_RSSFeedGenerator.md)
 

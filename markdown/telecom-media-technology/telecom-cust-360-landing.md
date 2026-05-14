@@ -25,7 +25,7 @@ Use the guided setup option to review the default configuration for the Telecomm
 
 1.  Navigate to **All** &gt; **Telecom Customer 360** &gt; **Guided Setup** and select **Get Started**.
 
-    ![Telecom Customer 360 guided setup](../image/guided-setup.jpg)
+    ![Telecom Customer 360 guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/guided-setup.jpg)
 
 2.  Complete the **Define 360 cards** task.
 
@@ -72,10 +72,10 @@ Use the guided setup option to review the default configuration for the Telecomm
 
 ## Result
 
-After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [Telecommunications Customer 360 home page](../concept/c360-home-page.md) for details.
+After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-home-page.md) for details.
 
--   **[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)**  
+-   **[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/c360-configure-variables.md)**  
 Configure the properties for each card, such as data tables, query conditions, and display fields.
 
-**Parent Topic:**[Configure Telecommunications Customer 360](c360-configure.md)
+**Parent Topic:**[Configure Telecommunications Customer 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure.md)
 

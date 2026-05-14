@@ -25,7 +25,7 @@ Role required: sn\_hr\_wfo.admin
 
 1.  Navigate to **All** &gt; **Workforce Optimization for HR** &gt; **Manager Workspace**.
 
-2.  Select the coaching icon \(![Coaching icon](../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png)\).
+2.  Select the coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png)\).
 
 3.  Select the **Learning** tab.
 
@@ -76,5 +76,5 @@ Select **To my groups**.
     You can see the progress your agents have made as they work on a path.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/learning-wfo-hr.md)
 

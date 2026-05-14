@@ -32,7 +32,7 @@ Now Assist for Sourcing and Procurement Operations \(SPO\) includes the followin
 
 ## Now Assist skills for Sourcing and Procurement Operations
 
-![Skills available on Now Assist for Sourcing and Procurement Operations.](../image/now-assist-spo-explore.png)
+![Skills available on Now Assist for Sourcing and Procurement Operations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/now-assist-spo-explore.png)
 
 The following skills are available in Now Assist for Sourcing and Procurement Operations \(SPO\).
 
@@ -65,7 +65,7 @@ The following skills are available in Now Assist for Sourcing and Procurement Op
     **Note:** A fulfiller with the sn\_spend\_gen\_ai.now\_assist\_fulfiller role can use these summarization skills in Source-to-Pay Workspace.
 
 
-For more information about setting up Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md).
+For more information about setting up Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/configure-now-assist-for-spo.md).
 
 As a requester, you can use Now Assist for SPO to:
 
@@ -73,7 +73,7 @@ As a requester, you can use Now Assist for SPO to:
 -   Sourcing requests
 -   Request for products or services that aren't available in the catalog
 
-For guidance on using these capabilities in Now Assist for SPO, see [Use Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-using.md).
+For guidance on using these capabilities in Now Assist for SPO, see [Use Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-using.md).
 
 Now Assist for SPO is also available in Virtual Agent, where it uses large language models \(LLMs\) and generative AI skills to enhance conversational experiences. These capabilities help improve deflection rates and reduce the manual effort required for Natural Language Understanding \(NLU\) topic discovery.
 
@@ -85,10 +85,10 @@ During the Conversational Interfaces Assistants guided setup, a Now Assist assis
 
 Domain separation is supported for Now Assist in Virtual Agent. For more information, see [Now Assist in Virtual Agent domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/na-in-va-domain-separation.md).
 
--   **[Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-supporting-info.md)**  
+-   **[Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-supporting-info.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
--   **[Automatically assign categories during SR and PR creation](automatically-assign-categories.md)**  
+-   **[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)**  
 AI-driven category prediction automatically assigns product and spend categories when service requests, purchase requisitions, or purchase orders are created or updated, ensuring consistent classification at the line level.
 
-**Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)
+**Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 

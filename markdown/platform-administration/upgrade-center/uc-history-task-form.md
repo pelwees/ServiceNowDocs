@@ -114,7 +114,7 @@ Delete
 Button to delete the skipped record task
 
 </td></tr></tbody>
-</table>The Old Resolution Details related list shows the actions taken in the previous upgrade version.![Image showing the Old Resolution Details related list](../image/uc-old-resolution.png)
+</table>The Old Resolution Details related list shows the actions taken in the previous upgrade version.![Image showing the Old Resolution Details related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-old-resolution.png)
 
 <table id="table_shg_xqf_flb"><thead><tr><th>
 

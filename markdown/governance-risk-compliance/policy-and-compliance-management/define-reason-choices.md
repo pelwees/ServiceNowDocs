@@ -25,7 +25,7 @@ Role required: sn\_compliance.manager
 
 2.  Click **New**.
 
-    ![Reason Choice List](../image/reason-choice-list.png)
+    ![Reason Choice List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/reason-choice-list.png)
 
 3.  On the form, fill in the fields.
 
@@ -46,5 +46,5 @@ Role required: sn\_compliance.manager
     **Note:** For additional details about this process, see [KB0783018](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3Dca72a764db1fc050d82ffb243996194e).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/allow-other-app-policy-except.md)
 

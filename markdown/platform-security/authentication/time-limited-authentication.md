@@ -17,21 +17,21 @@ Support time limited authentication for your ServiceNow instance.
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-tla.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-tla.md)
 
- [Learn the features and business value of Time limited authentication.](explore-tla.md)
+ [Learn the features and business value of Time limited authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-tla.md)
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-time-limited-authentication.md)
+[Activate![Activate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-time-limited-authentication.md)
 
- [Understand how to Activate Time limited authentication.](../task/activate-time-limited-authentication.md)
+ [Understand how to Activate Time limited authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/activate-time-limited-authentication.md)
 
 </td></tr><tr><td>
 
-[Tutorial: Time limited authentication![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../task/time-based-authentication-with-mfa.md)
+[Tutorial: Time limited authentication![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-learn.svg)](../task/time-based-authentication-with-mfa.md)
 
- [Know about the properties in Zero Trust Access.](../task/time-based-authentication-with-mfa.md)
+ [Know about the properties in Zero Trust Access.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/time-based-authentication-with-mfa.md)
 
 </td><td>
 

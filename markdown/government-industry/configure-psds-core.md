@@ -25,7 +25,7 @@ Task
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Public Sector Digital Services Core](../task/install-public-sector-digital-services-core.md)
+[Install Public Sector Digital Services Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-public-sector-digital-services-core.md)
 
 </td><td>
 
@@ -35,15 +35,15 @@ Install Public Sector Digital Services Core \(sn\_gsm\) from the ServiceNow® St
 
 </td></tr><tr><td>
 
-[Review and assign roles to public sector users](psds-assigning-roles.md)
+[Review and assign roles to public sector users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-assigning-roles.md)
 
 </td><td>
 
-Assign public sector roles to users or groups that have been configured in the ServiceNow AI Platform®. For additional role information, see [Roles installed with Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md).
+Assign public sector roles to users or groups that have been configured in the ServiceNow AI Platform®. For additional role information, see [Roles installed with Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/roles-installed-with-public-sector-digital-services.md).
 
 </td></tr><tr><td>
 
-[Configure Public Sector Digital Services Core foundational data using guided setup](configure-psds-foundation-data.md#)
+[Configure Public Sector Digital Services Core foundational data using guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md#)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Use guided setup to customize the Government Service Portal used by constituents
 
 </td></tr><tr><td>
 
-[Optionally configure Public Sector Digital Services Core without guided setup](psds-optional-config-steps.md)
+[Optionally configure Public Sector Digital Services Core without guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-optional-config-steps.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Customize the government service portal and configure the CSM Configurable Works
 
 </td></tr><tr><td>
 
-[Configure Virtual Agent for Public Sector Digital Services](psds-configuring-va.md)
+[Configure Virtual Agent for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-configuring-va.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Set up Virtual Agent so that conversation designers \(topic authors\) can create
 
 </td></tr><tr><td>
 
-[Configure a service for constituent, business, or agency](../task/configure-services-offered.md)
+[Configure a service for constituent, business, or agency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/configure-services-offered.md)
 
 </td><td>
 

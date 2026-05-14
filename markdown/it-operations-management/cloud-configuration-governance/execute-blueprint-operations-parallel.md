@@ -40,14 +40,14 @@ By default, the blueprint resource operations are listed serially and follow an 
     The Cloud Provisioning and Governance application looks at the blueprint that you created and based on the attributes, the mappings, and the dependencies of each resource, the application suggests an optimized plan to execute.
 
 
-**Parent Topic:**[Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
+**Parent Topic:**[Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)
 
 **Related topics**  
 
 
-[Add a resource operation to the execution plan](add-resource-operation-cmp.md)
+[Add a resource operation to the execution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-resource-operation-cmp.md)
 
-[Blueprint attributes](../reference/blueprint-attributes.md)
+[Blueprint attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/blueprint-attributes.md)
 
-[Configure a blueprint rule](configure-a-blueprint-rule.md#)
+[Configure a blueprint rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md#)
 

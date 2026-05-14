@@ -25,7 +25,7 @@ Role required: sn\_dex.admin
 
     The alert rule is active by default.
 
-2.  For setting the status of the alert rule, use the **Active** slider \(![Use the toggle switch to activate the alert rule.](../image/icon-toggle-button-enabled.png)\) to enable or disable the rule.
+2.  For setting the status of the alert rule, use the **Active** slider \(![Use the toggle switch to activate the alert rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-toggle-button-enabled.png)\) to enable or disable the rule.
 
 3.  Select **Finish**.
 

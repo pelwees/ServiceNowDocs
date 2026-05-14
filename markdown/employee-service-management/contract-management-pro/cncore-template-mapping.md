@@ -154,19 +154,19 @@ The script configuring the mapping between fields and record producer variables.
 </td></tr></tbody>
 </table>6.  Select **Update**.
 
-    ![Update template mappings](../image/cmpro-template-map-update.png "Template mappings")
+    ![Update template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-template-map-update.png "Template mappings")
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-setup-ct-manual.md)
 
 **Related topics**  
 
 
-[Add content controls in a Microsoft Word document](cncore-word-doc-tmplt-contls.md)
+[Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-word-doc-tmplt-contls.md)
 
-[Create a contract template](cncore-create-contract-template.md)
+[Create a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-template.md)
 
-[Create and configure participants](cncore-add-participants.md)
+[Create and configure participants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-participants.md)
 
-[Classify and map imported clauses](cncore-import-clauses.md)
+[Classify and map imported clauses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-import-clauses.md)
 

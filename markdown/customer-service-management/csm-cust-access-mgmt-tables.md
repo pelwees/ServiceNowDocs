@@ -121,7 +121,7 @@ Responsibility Definition\[sn\_customerservice\_responsibility\_def\]
 -   Type
 -   Unique
 
-For more information on the column types, see [Create a responsibility definition](../task/t_CreateAResponsibilityDefinition.md).
+For more information on the column types, see [Create a responsibility definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_CreateAResponsibilityDefinition.md).
 
 </td></tr><tr><td>
 

@@ -262,7 +262,7 @@ Discovery uses the Oracle Golden Gate pattern to collect the data described in t
 
 The Dependency Views map shows discovered load balancer CIs and the relationships between them.
 
-![CIs and connections on a Dependency Views map](../image/GoldenGateRelations.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/GoldenGateRelations.png)
 
 ## CI relationships
 
@@ -291,5 +291,5 @@ To discover the Oracle Golden Gate process, use the TCP entry point with the pro
 |Counter for extract processes \[count\_extract\]|Counter of extract processes that are managed by the Oracle Golden Gate manager instance.|
 |Counter for replicat processes \[count\_replicat\]|Counter of replicat processes that are managed by the Oracle Golden Gate manager instance.|
 
-**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

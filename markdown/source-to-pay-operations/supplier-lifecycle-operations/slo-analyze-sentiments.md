@@ -25,7 +25,7 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon ![List icon.](../image/cases-list-icon.png).
+2.  Select the list icon ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png).
 
 3.  Go to **Cases** &gt; **Open**.
 
@@ -35,7 +35,7 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 5.  Select the information icon ![](../../sourcing-procurement-operations/image/icon-more-info.png) to view the reasoning behind the generated sentiment.
 
-    ![Generated sentiment for a supplier case and the reasoning behind it.](../image/slo-analyze-sentiments-case.png)
+    ![Generated sentiment for a supplier case and the reasoning behind it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-analyze-sentiments-case.png)
 
 6.  Manually refresh the sentiment analysis.
 
@@ -47,9 +47,9 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 **Related topics**  
 
 
-[Generate an email response for supplier cases](generate-email-response-for-supplier-case.md)
+[Generate an email response for supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/generate-email-response-for-supplier-case.md)
 
-[Summarize supplier performance in Source-to-Pay Workspace](summarize-supp-perf.md)
+[Summarize supplier performance in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/summarize-supp-perf.md)
 
-[Automate supplier case creation from emails](../concept/automated-supplier-case-creation-from-emails.md)
+[Automate supplier case creation from emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/automated-supplier-case-creation-from-emails.md)
 

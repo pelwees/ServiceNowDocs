@@ -1044,7 +1044,7 @@ The following attributes in the VNIC Endpoint \[cmdb\_ci\_endpoint\_vnic\] table
 
 ## Related content
 
-[Data mapping for Service Graph Connector for GCP](cmdb-data-mapping-gcp.md)
+[Data mapping for Service Graph Connector for GCP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-data-mapping-gcp.md)
 
-[Service Graph Connector for GCP properties](cmdb-sgc-gcp-props.md)
+[Service Graph Connector for GCP properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-gcp-props.md)
 

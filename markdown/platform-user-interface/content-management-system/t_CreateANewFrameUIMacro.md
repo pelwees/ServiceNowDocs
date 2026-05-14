@@ -45,10 +45,10 @@ Create a custom frame UI macro if you want to control the style of the frame wit
 -   In any content block form, select the UI macro.
 -   Define the frame in a style sheet.
 
-**Parent Topic:**[Format a frame](t_Frame.md)
+**Parent Topic:**[Format a frame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_Frame.md)
 
 **Related topics**  
 
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 

@@ -96,5 +96,5 @@ A general guiding time within which you plan to complete your aspiration.-   **W
 -   **Within the next several years**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+</table>**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-reference.md)
 

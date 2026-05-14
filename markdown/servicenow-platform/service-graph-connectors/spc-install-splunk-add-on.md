@@ -58,6 +58,6 @@ Role required: admin or security\_admin
 
     2.  In the Status column, select the toggle to activate or deactivate individual workload rules.
 
-    See [Service Graph Connector for Splunk add-on](../concept/sgc-splunk-add-on.md) for more information about target workloads and supported deployments.
+    See [Service Graph Connector for Splunk add-on](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-splunk-add-on.md) for more information about target workloads and supported deployments.
 
 

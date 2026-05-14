@@ -21,7 +21,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 ## About this task
 
-As an admin, you can configure the Workplace Case Summarization skill to customize the input fields and output summary. For more information about customizing the skill, see [Configure the Workplace Case Summarization Skill](customize-workplace-summarization.md).
+As an admin, you can configure the Workplace Case Summarization skill to customize the input fields and output summary. For more information about customizing the skill, see [Configure the Workplace Case Summarization Skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/customize-workplace-summarization.md).
 
 You can use the case summarization skill in either Core UI or Workplace Central.
 
@@ -38,7 +38,7 @@ You can use the case summarization skill in either Core UI or Workplace Central.
 
     The Workplace Analytics dashboard opens.
 
-2.  Select the **Case Management** icon \(![Case Management icon.](../../workplace-central/images/casemgmt-icon.png)\).
+2.  Select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-central/images/casemgmt-icon.png)\).
 
     The Case Management dashboard opens.
 
@@ -46,7 +46,7 @@ You can use the case summarization skill in either Core UI or Workplace Central.
 
     The list view displays the cases as WCASEXXXX for normal workplace cases, WMCXXXX for maintenance cases and WMOVEXXXX for move cases.
 
-    The case details are displayed in a new tab. For more information about the Case details page, see [Case Management - Key features, Actions &amp; Case details](../../workplace-central/reference/case-management-key-features-actions-case-details.md) topic.
+    The case details are displayed in a new tab. For more information about the Case details page, see [Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-central/reference/case-management-key-features-actions-case-details.md) topic.
 
 4.  In the Workplace Case summary by Now Assist component, select **Summarize**.
 
@@ -87,7 +87,7 @@ Select the **Show more** or **Show less** button to see more or fewer summary de
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../human-resources/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../human-resources/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../human-resources/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../human-resources/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
 
 </td></tr><tr><td id="d248883e288">
 
@@ -95,7 +95,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy icon \(![Copy to clipboard icon.](../../human-resources/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
+Select the copy icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../human-resources/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d248883e304">
 
@@ -103,7 +103,7 @@ Select the copy icon \(![Copy to clipboard icon.](../../human-resources/image/ic
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../../human-resources/image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../human-resources/image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

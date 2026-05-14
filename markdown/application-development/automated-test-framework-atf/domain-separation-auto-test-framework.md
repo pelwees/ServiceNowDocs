@@ -35,7 +35,7 @@ Automated test framework design and runtime access are solely for the owner of t
 
 When testing domain separation during ATF test steps, you must set the domain first. This should be part of the first impersonation step of each of the ATF test steps when they are dependent on a domain being set. To learn more about domain separation recommended practices, see [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-**Parent Topic:**[Getting started with the Automated Test Framework](atf-intro.md)
+**Parent Topic:**[Getting started with the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-intro.md)
 
 **Related topics**  
 

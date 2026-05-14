@@ -37,10 +37,10 @@ Use the REST API Explorer to send the following request:
 
     The response indicates the **Status code** and **Execution time** \(in milliseconds\) of the request.
 
-    ![REST API Explorer DELETE response](../image/rest-api-exp-delete-response.png)
+    ![REST API Explorer DELETE response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../image/rest-api-exp-delete-response.png)
 
 5.  Verify that the response **Status code** is `204`.
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/use-REST-API-Explorer.md)
 

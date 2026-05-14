@@ -99,11 +99,11 @@ This would ensure consistency among the topic pages.
 
 3.  To make **Category** available on the page, right-click and navigate to **Configure** &gt; **Form Layout** to make **Category** visible, which is by default inaccessible.
 
-    ![Contextual menu to configure category visibility.](../images/form-layout.png "Category visibility setting")
+    ![Contextual menu to configure category visibility.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/form-layout.png "Category visibility setting")
 
 4.  Add **Category** to the **Selected** list and **Save**.
 
-    ![Category field added to selected list.](../images/category-selected.png "Category field in selected list")
+    ![Category field added to selected list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/category-selected.png "Category field in selected list")
 
     **Note:** It is essential to set the **Category** to **Taxonomy**. Only the templates set to **Category**, **Taxonomy** are visible in the topic form template list.
 

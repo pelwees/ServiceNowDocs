@@ -15,8 +15,8 @@ The dealer portal enables you to manage the repair, recall, and sales promotion 
 
 |Tasks|Description|
 |-----|-----------|
-|[Look up an asset or claim by its serial number](mco-lookup.md)|View asset or claim details.|
-|[Repair claim for the dealer](repair-claim-dealer.md)|Submit a repair claim for warranty and recall.|
-|[Sales promotion for the dealer](mco-sales-promotion-dealer.md)|Submit a sales promotion claim.|
-|[Quality issue management for the dealer](mco-qim-for-the-dealer.md)|Submit a product non-conformance issue report.|
+|[Look up an asset or claim by its serial number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-lookup.md)|View asset or claim details.|
+|[Repair claim for the dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-dealer.md)|Submit a repair claim for warranty and recall.|
+|[Sales promotion for the dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion-dealer.md)|Submit a sales promotion claim.|
+|[Quality issue management for the dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-for-the-dealer.md)|Submit a product non-conformance issue report.|
 

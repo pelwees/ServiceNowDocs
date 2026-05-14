@@ -34,11 +34,11 @@ Plugins required:
 
 2.  Search for and open the **Invoice attachment DI processing** flow.
 
-3.  Select the more actions icon ![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+3.  Select the more actions icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
     The Create a copy of this flow dialog box is displayed.
 
-4.  In the **New flow name** field, enter a name for the copied flow.![Invoice attachment DI processing](../image/inv-process-flow-di-skill.png)
+4.  In the **New flow name** field, enter a name for the copied flow.![Invoice attachment DI processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/inv-process-flow-di-skill.png)
 
 5.  Select **Save**.
 

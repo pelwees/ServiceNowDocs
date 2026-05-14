@@ -27,17 +27,17 @@ By default, the saved views feature is enabled in the Mobile Agent. You have to 
 
 2.  Open the record for the mobile app in which you want to use the saved views feature.
 
-3.  Select the information icon \(![Information icon.](../image/gac-info-icon.png)\) in the **Navigation bar** field of the Mobile App Configuration page. Select **Open Record**.
+3.  Select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) in the **Navigation bar** field of the Mobile App Configuration page. Select **Open Record**.
 
 4.  In the **Navigation Tabs** section, select **New**.
 
-5.  Select the reference lookup icon \(![Reference lookup icon](../image/reference-lookup-icon.png)\) in the **Navigation Tab** field.
+5.  Select the reference lookup icon \(![Reference lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) in the **Navigation Tab** field.
 
 6.  Select the **Saved** navigation tab.
 
-7.  Select the menu icon \(![Menu icon.](../image/context-menu-icon.png)\) and select **Save**.
+7.  Select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/context-menu-icon.png)\) and select **Save**.
 
-8.  Select the information icon \(![Information icon.](../image/gac-info-icon.png)\) in the **Navigation Tab** field. Select **Open Record**.
+8.  Select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) in the **Navigation Tab** field. Select **Open Record**.
 
 9.  Make sure that the **Active** option is selected.
 

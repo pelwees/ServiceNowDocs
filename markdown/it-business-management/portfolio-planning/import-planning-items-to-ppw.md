@@ -29,7 +29,7 @@ Role required: sn\_align\_core.apw\_admin
 
 4.  On the Create Import Request form, fill in the date range for importing the records.
 
-    ![Fill in the dates to import records.](../../apw-internal-integrations/images/create-import-request.png "Create Import Request")
+    ![Fill in the dates to import records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../apw-internal-integrations/images/create-import-request.png "Create Import Request")
 
 5.  Select **OK**.
 

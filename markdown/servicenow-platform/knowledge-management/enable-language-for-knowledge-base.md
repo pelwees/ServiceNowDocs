@@ -29,10 +29,10 @@ Role required: knowledge\_admin or admin
 
 3.  Click the lock icon to unlock the **Languages** field in the Knowledge base form.
 
-    **Note:** You may need to configure the knowledge base form to include the **Languages** field. Click the form context menu icon \(![context menu](../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form layout**. Use slushbucket to add the Languages field.
+    **Note:** You may need to configure the knowledge base form to include the **Languages** field. Click the form context menu icon \(![context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form layout**. Use slushbucket to add the Languages field.
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 

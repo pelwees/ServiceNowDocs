@@ -33,7 +33,7 @@ You can use the keyboard to rearrange multiple features in the Backlog list or i
 
     -   To select consecutive features, use the Down arrow key to highlight the last feature that you want to select. Press the Shift and Enter keys.
     -   To select features that are in different positions on the page, use the Down arrow key to go to the next feature that you want to select. Press the Control and Enter keys. Repeat this process to select other features.
-4.  Highlight the context menu icon \(![Context menu icon.](../images/ContextMenuIcon.png)\) of the feature by pressing the Tab key again.
+4.  Highlight the context menu icon \(![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/ContextMenuIcon.png)\) of the feature by pressing the Tab key again.
 
 5.  Press the Enter key to group all the selected features.
 
@@ -44,5 +44,5 @@ You can use the keyboard to rearrange multiple features in the Backlog list or i
 7.  Fix the position of the features by pressing the Enter key.
 
 
-**Parent Topic:**[Manage your ART backlog from the SAFe Board](plan-program-backlog.md)
+**Parent Topic:**[Manage your ART backlog from the SAFe Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/plan-program-backlog.md)
 

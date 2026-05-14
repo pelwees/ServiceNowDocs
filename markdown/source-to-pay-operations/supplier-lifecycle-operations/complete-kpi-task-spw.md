@@ -35,7 +35,7 @@ A KPI collection task is also generated when an automated KPI fails to extract d
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
 
 3.  In the Name column, select the link to a KPI.
 
@@ -45,7 +45,7 @@ A KPI collection task is also generated when an automated KPI fails to extract d
 
 6.  Do one of the following:
 
-    -   If the requested KPI data is quantitative, in the **Quantitative KPI value** field, enter a numerical value.![Selected field for entering KPI value.](../image/kpi-collection-task.png)
+    -   If the requested KPI data is quantitative, in the **Quantitative KPI value** field, enter a numerical value.![Selected field for entering KPI value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/kpi-collection-task.png)
     -   If the requested KPI data is qualitative, from the **Qualitative KPI value** drop-down list, select a value.
     -   If the KPI value isn't available, select the **KPI Value is not available** check box.
 7.  Select **Complete task**.
@@ -55,20 +55,20 @@ A KPI collection task is also generated when an automated KPI fails to extract d
 
 The KPI collection task is marked as complete.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
-[Run segmentation rule](run-segmentation-rule.md)
+[Run segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-segmentation-rule.md)
 
-[Complete a KPI collection task from the Supplier Collaboration Portal](complete-kpi-task-scp.md)
+[Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md)
 
-[View KPI data from the List page of the Source-to-Pay Workspace](view-kpi-data-slo.md)
+[View KPI data from the List page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-kpi-data-slo.md)
 
-[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](kpi-mgmt-tab-supplier.md)
+[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md)
 
-[View supplier performance dashboard](view-supplier-performance-dashboard.md)
+[View supplier performance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 

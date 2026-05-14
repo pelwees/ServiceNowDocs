@@ -27,11 +27,11 @@ When you decommission a CI record, all the related tables of the CI are removed 
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory**.
 
 3.  Open the inventory list and select an inventory CI record that you want to decommission.
 
-4.  Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission**.
+4.  Select the more options icon \(![More Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) and then select **Decommission**.
 
     All the related tables are removed. Also, the **Life Cycle Stage** field is set to **End of Life** and the **Life Cycle Stage Status** field is set to **Retired** if the **Asset** is not used by the CI. Otherwise, the **Life Cycle Stage** field is set to **Inventory** and the **Life Cycle Stage Status** field is set to **Available**.
 
@@ -47,5 +47,5 @@ When you decommission a CI record, all the related tables of the CI are removed 
     |Equipment|Physical or logical interface linked to a connection or to a physical interface that has a logical connection.|
 
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-telecommunications-network-inventory.md)
 

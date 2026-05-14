@@ -17,15 +17,15 @@ The Picklist Extension Pricing enrichment can be used to dynamically change the 
 
 ## Prerequisites
 
-Submit a support case through the CPQ Support site or by emailing [support@logik.io](mailto:support@logik.io) requesting the enrichment be enabled for your environment. Please provide a use case for using the enrichment.
+Submit a support case through the CPQ Support site or by emailing [support@logik.io](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/mailto:support@logik.io) requesting the enrichment be enabled for your environment. Please provide a use case for using the enrichment.
 
 Picklist extension fields need to have the "Enable for enrichment" toggle turned on to be affected by the enrichment.
 
-![Picklist extension fields](../images/cpq-enrichments-enable-for-enrichment.png)
+![Picklist extension fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-enable-for-enrichment.png)
 
 The enrichments tab will be shown when navigating to a blueprint in the CPQ Admin.
 
-![Picklist extension fields](../images/cpq-enrichments-in-blueprint.png)
+![Picklist extension fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-in-blueprint.png)
 
 Watch this demonstration of the Picklist Extension Pricing enrichment in action.
 
@@ -136,5 +136,5 @@ Referencing elements in the `pleRequest` object is similar to referencing object
 **Related topics**  
 
 
-[CPQ scripting language reference](cpq-logik-io-scripting-language-reference.md)
+[CPQ scripting language reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-logik-io-scripting-language-reference.md)
 

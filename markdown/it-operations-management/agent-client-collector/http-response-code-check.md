@@ -63,5 +63,5 @@ Raises a critical event if the URL response code doesn’t match the regex.Pass 
 `CheckResponseCode OK : URL is in OK state. HTTP Response code is 200, matches regex`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

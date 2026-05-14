@@ -24,24 +24,24 @@ The Asset Management \(com.snc.asset\_management\) plugin is installed.
 
 In the asset life cycle automation process, the In stock assets are transferred from one stockroom to the other through the Transfer Order flow.
 
-![Transfer Order flow.](../image/transfer-order-flow.png "Transfer Order")
+![Transfer Order flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../image/transfer-order-flow.png "Transfer Order")
 
 ## Transfer Order Line
 
 In the asset life cycle automation process, when multiple assets are transferred under one transfer order, the Transfer Order Line flow handles the processing of transfer order lines.
 
-![Transfer Order Line flow.](../image/transfer-order-line-flow.png "Transfer Order Line")
+![Transfer Order Line flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../image/transfer-order-line-flow.png "Transfer Order Line")
 
-**Parent Topic:**[Manage transfer order](manage-transfer-orders.md)
+**Parent Topic:**[Manage transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-transfer-orders.md)
 
 **Related topics**  
 
 
-[Transfer order tasks](work-with-transfer-orders.md)
+[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/work-with-transfer-orders.md)
 
-[Customize transfer order line tasks](customize-transfer-order-line-tasks.md)
+[Customize transfer order line tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/customize-transfer-order-line-tasks.md)
 
-[Transfer order line asset tracking](../reference/r_TransferOrderLineAssetTracking.md)
+[Transfer order line asset tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../reference/r_TransferOrderLineAssetTracking.md)
 
 [t_TransferAssetsUsingTransferOrders]
 

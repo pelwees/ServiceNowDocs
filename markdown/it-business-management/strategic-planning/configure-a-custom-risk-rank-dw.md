@@ -45,7 +45,7 @@ In this case, the calculated risk rank and value are as follows:
 -   Calculated risk rank = 2
 -   Calculated risk value = 2
 
-The following image illustrates a Risk form.![Risk rank and risk value in the Risk form](../../planning-and-policy/image/risk-value-form-color.png)
+The following image illustrates a Risk form.![Risk rank and risk value in the Risk form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../planning-and-policy/image/risk-value-form-color.png)
 
 ## Procedure
 
@@ -55,7 +55,7 @@ The following image illustrates a Risk form.![Risk rank and risk value in the Ri
 
 3.  On the risk value lookup form, fill in the fields.
 
-    For a description of the field names, see [Risk value lookup form](../reference/risk-value-matcher-form-dw.md).
+    For a description of the field names, see [Risk value lookup form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/risk-value-matcher-form-dw.md).
 
 4.  Select **Submit**.
 

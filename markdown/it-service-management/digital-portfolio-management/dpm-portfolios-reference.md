@@ -17,5 +17,5 @@ Use suggestions and tips for creating and organizing portfolios in DPM.
 
 This DPM Academy series video provides tips for creating and organizing personal and enterprise portfolios.Tips and suggestions for personal and enterprise portfolios in DPM. Approximately 16 minutes long.
 
-**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
+**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 

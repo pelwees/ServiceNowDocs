@@ -17,7 +17,7 @@ Add collation information for an unsupported language to enable sorting columns 
 
 ## Before you begin
 
-Add a record for a language not provided by an internationalization \(I18N\) plugin to associate new translations with and translate content into that language. For more information, see [Translating to an unsupported language](self-localize.md).
+Add a record for a language not provided by an internationalization \(I18N\) plugin to associate new translations with and translate content into that language. For more information, see [Translating to an unsupported language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md).
 
 Role required: admin
 
@@ -45,5 +45,5 @@ Collation information must come from the underlying Relational Database Manageme
 
 ## Result
 
-When sorting columns according to the session language is enabled, users can sort columns according to the collation of the unsupported language. For more information, see [Sorting according to the session language](sorting-session-language.md#).
+When sorting columns according to the session language is enabled, users can sort columns according to the collation of the unsupported language. For more information, see [Sorting according to the session language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/sorting-session-language.md#).
 

@@ -13,13 +13,13 @@ breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assi
 
 Use the Now Assist context menu to generate a record summary for the page, using Generative AI application assisted summarization capabilities in workspaces and UI16. The Now Assist context menu can generate a new summary, expand or collapse the summary card, share the summary to work notes, regenerate, or copy the summary.
 
-Go to any record page to access the Now Assist context menu icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) with the message `Incident Summary by Now Assist`. Select **Summarize** to use generative AI to generate a record summary.
+Go to any record page to access the Now Assist context menu icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) with the message `Incident Summary by Now Assist`. Select **Summarize** to use generative AI to generate a record summary.
 
-![Summarize using Now Assist.](../images/nacm-summarize-record.png)
+![Summarize using Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-summarize-record.png)
 
-You can use the **Share to work notes** button to share the summary to work notes. You can also expand or collapse the summary card as required. ![Share to work notes.](../images/nacm-share-to-work-notes.png)
+You can use the **Share to work notes** button to share the summary to work notes. You can also expand or collapse the summary card as required. ![Share to work notes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-share-to-work-notes.png)
 
-To provide feedback, use the feedback icons \(![Thumbs up icon.](../../../reuse/icons/product-icons/thumbs-up-outline-24.svg)\) or \(![Thumbs down icon.](../../../reuse/icons/product-icons/thumbs-down-outline-24.svg)\) If you're not satisfied with the provided summary, use the regenerate icon \(![Regenerate icon.](../../ai-governance-workspace/image/ai-gov-refresh.png)\) to regenerate the summary. You can also copy the summary to the clipboard using the copy icon \( ![Copy icon.](../../document-intelligence/image/icon-docintel-na-copy.png)\)
+To provide feedback, use the feedback icons \(![Thumbs up icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/product-icons/thumbs-up-outline-24.svg)\) or \(![Thumbs down icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/product-icons/thumbs-down-outline-24.svg)\) If you're not satisfied with the provided summary, use the regenerate icon \(![Regenerate icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-governance-workspace/image/ai-gov-refresh.png)\) to regenerate the summary. You can also copy the summary to the clipboard using the copy icon \( ![Copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../document-intelligence/image/icon-docintel-na-copy.png)\)
 
-**Parent Topic:**[Now Assist context menu](now-assist-write-overview.md)
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 

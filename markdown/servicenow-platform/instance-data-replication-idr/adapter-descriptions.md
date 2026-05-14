@@ -379,18 +379,18 @@ Use the time zone conversion adapter to convert one time zone to another.
 |-------------------|-----------|--------------|
 |**Output time zone**: PDT|07:00:00 am GMT|00:00:00 am PDT|
 
-**Parent Topic:**[Instance Data Replication reference](../concept/reference-instance-data-replication.md)
+**Parent Topic:**[Instance Data Replication reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../concept/reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Data privacy in Instance Data Replication](../concept/data-privacy-consumers-idr.md)
+[Data privacy in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../concept/data-privacy-consumers-idr.md)
 
-[Excluded tables in Instance Data Replication](IDR-excluded-tables.md)
+[Excluded tables in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/IDR-excluded-tables.md)
 
-[Domain separation and IDR](instance-data-replication-domain-separation.md)
+[Domain separation and IDR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-domain-separation.md)
 
-[Instance Data Replication system properties](instance-data-replication-properties.md)
+[Instance Data Replication system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-properties.md)
 
-[Instance Data Replication roles](instance-data-replication-roles.md#)
+[Instance Data Replication roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-roles.md#)
 

@@ -37,9 +37,9 @@ Role required: Global administrator and Dynamics 365 administrator in Microsoft 
 
         The permission type can be **Application Permissions** or **Delegated Permissions** depending on the application's data access requirements.
 
-    3.  In the **OAuth Client ID** field, enter the OAuth Client ID that you received from [Set up Microsoft Azure Active Directory](setup-ms-azure-ad.md).
+    3.  In the **OAuth Client ID** field, enter the OAuth Client ID that you received from [Set up Microsoft Azure Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-ms-azure-ad.md).
 
-    4.  In the **OAuth Client Secret** field, enter the OAuth Client Secret key that you received from [Set up Microsoft Azure Active Directory](setup-ms-azure-ad.md).
+    4.  In the **OAuth Client Secret** field, enter the OAuth Client Secret key that you received from [Set up Microsoft Azure Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-ms-azure-ad.md).
 
 5.  Select **Create and Get OAuth Token**.
 

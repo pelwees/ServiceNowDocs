@@ -28,12 +28,12 @@ AI Search fetches the data from the external source. Then AI Enhanced Recommende
 
 By default, AI Search uses the short description, description, site, OT device, and equipment model entity field values to display the most relevant external sources for your OT incident. The following image shows an example of what the **Contextualize document** UI action looks like in an existing OT incident record in the Industrial Workspace.
 
-![Contextualize document UI action under an external document in the Industrial Workspace](../image/conextualize-doc-example.png)
+![Contextualize document UI action under an external document in the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/conextualize-doc-example.png)
 
 ## What to explore next
 
 To learn more about configuring and using , see:
 
--   [Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](configure-ai-enhanced-ra-otsm.md)
--   [Contextualize an external document](../task/use-ai-enhanced-ra-otsm.md)
+-   [Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configure-ai-enhanced-ra-otsm.md)
+-   [Contextualize an external document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/use-ai-enhanced-ra-otsm.md)
 

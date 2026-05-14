@@ -26,5 +26,5 @@ Learn about the fields of planned task relationship form.
 **Related topics**  
 
 
-[Modify a project task dependency](../task/t_ModifyProjectTaskDependencies.md)
+[Modify a project task dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ModifyProjectTaskDependencies.md)
 

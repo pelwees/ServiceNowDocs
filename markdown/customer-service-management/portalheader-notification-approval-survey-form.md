@@ -46,5 +46,5 @@ Notifications, approval, and, survey forms fields for portal header.
 **Related topics**  
 
 
-[Configure notification, approval, and survey for your portal header](../task/portal-config-notification-approval-surveys.md)
+[Configure notification, approval, and survey for your portal header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/portal-config-notification-approval-surveys.md)
 

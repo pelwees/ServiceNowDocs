@@ -32,7 +32,7 @@ After a successful configuration, the system generates a link, and then shares t
 
 **Note:**
 
--   TLA should always be followed by MFA and MFA should be enabled by admin using Adaptive Authentication for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](../concept/mfa-auth-context.md).
+-   TLA should always be followed by MFA and MFA should be enabled by admin using Adaptive Authentication for TLA login. To know more about how to configure MFA with Adaptive Authentication, see [Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../concept/mfa-auth-context.md).
 -   TLA should be used for the users who have limited privileges.
 
 ## Procedure
@@ -45,7 +45,7 @@ After a successful configuration, the system generates a link, and then shares t
 
     3.  Provide the **Account SID** and **Auth token** \(created from Twilio\) and save the record.
 
-    **Note:** You can create your own provider configuration and use that for TLA. In this example, it is Twilio. To know more about how to create a MFA provider configuration, see [Configure MFA Provider](configure-mfa-provider.md).
+    **Note:** You can create your own provider configuration and use that for TLA. In this example, it is Twilio. To know more about how to create a MFA provider configuration, see [Configure MFA Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-mfa-provider.md).
 
 2.  Configuring and enabling Time limited authentication\(TLA\) record.
 
@@ -66,7 +66,7 @@ After a successful configuration, the system generates a link, and then shares t
 
     3.  Click **Submit**.
 
-        ![TLA Record](../images/tla-new-record.png)
+        ![TLA Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/tla-new-record.png)
 
     4.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Administration** &gt; **Properties** and enable the **Enable multiple provider SSO** property and **Save**.
 
@@ -80,17 +80,17 @@ After a successful configuration, the system generates a link, and then shares t
 
     4.  To create a role filter criteria, navigate to **All** &gt; **Adaptive Authentication** &gt; **Role Filter Criteria**, create a new filter **remoteworkerrole** and condition **Role is remote\_worker**.
 
-        ![Role Filter Criteria](../../../administer/users-and-groups/task/role-filter-tla.png)
+        ![Role Filter Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/role-filter-tla.png)
 
     5.  To add policy condition based on the deny policy context based on the IdP and role filter criteria, navigate to **All** &gt; **Adaptive Authentication** &gt; **Post Authentication Context**.
 
     6.  Click the information icon and **Open the Record**.
 
-        ![Deny Policy](../../../administer/users-and-groups/task/tla-deny-policy.png)
+        ![Deny Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/tla-deny-policy.png)
 
     7.  In the Policy Input, click **Edit** and add the role \(remoteworkerrole\) and **Save**.
 
-        ![Edit Members](../../../administer/users-and-groups/task/tla-edit-members.png)
+        ![Edit Members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/tla-edit-members.png)
 
     8.  In the Policy Condition, add the condition for the policy input and **Submit** the record.
 
@@ -100,7 +100,7 @@ After a successful configuration, the system generates a link, and then shares t
 
     2.  Select the **Role based multi-factor authentication** and add the role under Multi-factor Roles section and **Update**. In this example: **remote\_worker**.
 
-        ![MFA - Role Criteria](../../../administer/users-and-groups/task/tla-mfa-criteria.png)
+        ![MFA - Role Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/tla-mfa-criteria.png)
 
     3.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **MFA Context**.
 
@@ -110,7 +110,7 @@ After a successful configuration, the system generates a link, and then shares t
         -   Step-Up MFA Policy is **Step-up MFA Policy**
     5.  Click the Information icon and **Open Record**.
 
-        ![Step-Up MFA Policy](../../../administer/users-and-groups/task/step-up-tla.png)
+        ![Step-Up MFA Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/step-up-tla.png)
 
     6.  On the Step-Up MFA Policy form, in the Policy Inputs, click **Edit**.
 
@@ -130,7 +130,7 @@ After a successful configuration, the system generates a link, and then shares t
 
     4.  Click **Policy Conditions** and create a Policy condition.
 
-        ![SMS - condition](../../../administer/users-and-groups/task/tla-mfa-sms.png)
+        ![SMS - condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/users-and-groups/task/tla-mfa-sms.png)
 
     5.  Click **Submit**.
 

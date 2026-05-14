@@ -44,5 +44,5 @@ Role required: agent\_client\_collector\_admin
     Plugins download automatically when used by their respective checks/policies.
 
 
-**Parent Topic:**[Enabling Agent Client Collector data collection](../concept/data-collection-enabling.md)
+**Parent Topic:**[Enabling Agent Client Collector data collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/data-collection-enabling.md)
 

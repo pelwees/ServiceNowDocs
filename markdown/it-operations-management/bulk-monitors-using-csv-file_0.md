@@ -29,5 +29,5 @@ This is an example of using a CSV file wrapped in a JSON object to create bulk m
 
 `{ "result": { "job_id": "a1b2c3d4e5f6...", "status": "completed", "total_count": 2, "success_count": 2, "error_count": 0, "processed_count": 2 } }`
 
-**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

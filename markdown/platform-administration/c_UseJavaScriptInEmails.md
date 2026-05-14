@@ -21,14 +21,14 @@ The **event.parm1** and **event.parm2** parameters that come from the originatin
 
 For additional information on creating mail scripts, see [Notification Email Scripts](https://developer.servicenow.com/dev.do#!/learn/learning-plans/washingtondc/servicenow_administrator/app_store_learnv2_automatingapps_washingtondc_notification_email_scripts) on the Developer Site.
 
-**Parent Topic:**[Scripting for email notifications](c_ScriptingForEmailNotifications.md)
+**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
 
-[Mail script variables](../reference/r_MailScriptAPI.md)
+[Mail script variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_MailScriptAPI.md)
 
-[Example scripting for email notifications](../reference/r_ExScptEmlNtfn.md)
+[Example scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ExScptEmlNtfn.md)
 
-[Useful attachment scripts](../../useful-scripts/reference/r_UsefulAttachmentScripts.md)
+[Useful attachment scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../useful-scripts/reference/r_UsefulAttachmentScripts.md)
 

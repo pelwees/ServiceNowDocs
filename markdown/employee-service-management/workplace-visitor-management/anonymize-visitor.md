@@ -55,20 +55,20 @@ When you anonymize a visitor, the visitor record is deleted. In all current visi
 
 The visitor is anonymized and all the details of the visitor are deleted. Any future registrations for the visitor are canceled, and the data in the fields is replaced with random values.
 
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Use the receptionist portal](use-receptionist-portal.md)
+[Use the receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/use-receptionist-portal.md)
 
-[Update a visitor registration](update-visitor-registration.md)
+[Update a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/update-visitor-registration.md)
 
-[View visitor registrations](view-visitor-registrations.md)
+[View visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-visitor-registrations.md)
 
-[View visitor policy confirmations](view-policy-confirmations.md)
+[View visitor policy confirmations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/visitor-registration-states.md)
 
-[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/apply-visitor-management-archival-rule.md)
 

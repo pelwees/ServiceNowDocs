@@ -29,5 +29,5 @@ Navigate to **All** &gt; **Procurement Integrations** &gt; **Setup** &gt; **Thir
 |Import shipment|Supplier is allowed to import shipments.|
 |Allow multi location order|Supplier allows orders to be split for multi-location shipping.|
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/procurement-file-transfer-framework.md)
 

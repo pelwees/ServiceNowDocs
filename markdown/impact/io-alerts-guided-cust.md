@@ -55,8 +55,8 @@ If you’re an Impact Guided tier customer, then the important top 6 and commonl
 
 8.  Select **Save**.
 
-    For more information on configuring alerts and setting notifications, see [Configure Key Alerts](configuring-io-alerts.md).
+    For more information on configuring alerts and setting notifications, see [Configure Key Alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts-intro.md)
 

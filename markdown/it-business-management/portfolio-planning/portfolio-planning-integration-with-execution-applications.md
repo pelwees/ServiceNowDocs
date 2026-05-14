@@ -17,7 +17,7 @@ Facilitate execution of the work planned in Portfolio Planning in ServiceNow Pro
 
 While planning personas like portfolio managers or product owners use Portfolio Planning to align their plans with the business objectives, execution teams can use PPM to deliver work on the planned projects and demands.
 
-![The real-time bi-directional sync of information between Portfolio Planning and PPM.](../../apw-internal-integrations/images/ppw-integration.png "Portfolio Planning integration with ServiceNow Project Portfolio Management")
+![The real-time bi-directional sync of information between Portfolio Planning and PPM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../apw-internal-integrations/images/ppw-integration.png "Portfolio Planning integration with ServiceNow Project Portfolio Management")
 
 ## Key benefits of Portfolio Planning with PPM
 
@@ -27,7 +27,7 @@ While planning personas like portfolio managers or product owners use Portfolio 
 -   Synchronize updates for linked planning items of Portfolio Planning with PPM.
 -   Track the progress of the linked planning items in Portfolio Planning.
 
-To get started on integrating Portfolio Planning with PPM, see [Configuring Portfolio Planning with PPM](configuring-portfolio-planning-with-ppm.md).
+To get started on integrating Portfolio Planning with PPM, see [Configuring Portfolio Planning with PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-portfolio-planning-with-ppm.md).
 
-**Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
+**Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 

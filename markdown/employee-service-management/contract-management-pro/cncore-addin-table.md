@@ -23,9 +23,9 @@ The video walks you through the process of configuring dynamic tables using Micr
 
 ## Before you begin
 
-The Microsoft Word add-in for ServiceNow Contracts must be configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must be configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
-An active contract template must exist in the Draft or Editing state. For more information, see [Create a contract template to contain content controls](cncore-create-ct-word-addin.md).
+An active contract template must exist in the Draft or Editing state. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 
@@ -37,14 +37,14 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  On the login screen, enter the credentials of the ServiceNow instance for which the Microsoft Word add-in is configured.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
 4.  In the **Templates** tab of the Microsoft Word add-in screen, select the contract template to which you want to map the data source table.
 
 5.  In the **Table** tab, create a table mapping for the template.
 
     -   For a first table mapping, select **Configure table mapping**.
-    -   For subsequent table mappings, select the add icon ![Add icon](../../ppe-inventory-management/image/plus-icon.png) beside the search bar.
+    -   For subsequent table mappings, select the add icon ![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../ppe-inventory-management/image/plus-icon.png) beside the search bar.
 6.  In the **Table mapping details** section, configure the details for the data source table from which you want to add data in the contract document.
 
     1.  In the **Parent request table**, select the source table from which contract request is created.
@@ -63,7 +63,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
     6.  Select **Next**.
 
-        ![Dynamic table mapping](../image/cmpro-waddin-dyn-table-mapping.png "Table mapping details")
+        ![Dynamic table mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-dyn-table-mapping.png "Table mapping details")
 
 7.  In the **Table display configuration** section, set the display properties to define how the data appears within the table in the contract document and then select **Next**.
 
@@ -124,9 +124,9 @@ The columns for which data should be displayed in the hierarchy view.This field 
 The number of spaces that child columns should be indented.This field appears only when **Enable hierarchy** has been selected.
 
 </td></tr></tbody>
-</table>    ![Define how the data appears within the table in the contract document](../image/cmpro-waddin-dyn-tbl-disp-config.png "Table display configuration")
+</table>    ![Define how the data appears within the table in the contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-dyn-tbl-disp-config.png "Table display configuration")
 
-8.  Display the formatting symbols by selecting the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](../image/lsd-word-formatting-icon.png)\) on the Microsoft Word Home ribbon.
+8.  Display the formatting symbols by selecting the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-word-formatting-icon.png)\) on the Microsoft Word Home ribbon.
 
 9.  Initiate the table mapping in the contract template by selecting it along with the paragraph symbol \(¶\), and then selecting the table tag in the **Map dynamic table** section.
 
@@ -136,7 +136,7 @@ The number of spaces that child columns should be indented.This field appears on
 
 12. Select **Complete**.
 
-    ![Table configuration](../image/cmpro-waddin-table-map-comp.png "Table configuration") ![]( "Table configuration")
+    ![Table configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-table-map-comp.png "Table configuration") ![]( "Table configuration")
 
 
 ## Result
@@ -145,23 +145,23 @@ The table mapping is completed and is listed under the **Table** tab on the add-
 
 The table mappings are synced to the ServiceNow instance.
 
-![Configured dynamic table is synced to your instance](../image/cmpro-waddin-dyn-table-result.png "Table mapping")
+![Configured dynamic table is synced to your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-dyn-table-result.png "Table mapping")
 
-You can add conditions for the table mapping to filter for the data that appears in the contract. For more information, see [Add conditions for a table mapping](cncore-add-filter-table-map.md).
+You can add conditions for the table mapping to filter for the data that appears in the contract. For more information, see [Add conditions for a table mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-filter-table-map.md).
 
--   **[Add conditions for a table mapping](cncore-add-filter-table-map.md)**  
+-   **[Add conditions for a table mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-filter-table-map.md)**  
 As a contract configurator, use condition builders to define criteria for a table mapping in a contract template so only the essential data from the mapped table is displayed in the contract document.
--   **[Configure mapped columns to append or add fields from related tables](cncore-append-data-table.md)**  
+-   **[Configure mapped columns to append or add fields from related tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-append-data-table.md)**  
 Configure dynamic tables in a contract template to display additional data from related table fields by appending it to existing columns or adding it as new columns.
 
-**Parent Topic:**[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
+**Parent Topic:**[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md)
 
 **Related topics**  
 
 
-[Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md)
+[Configure metadata for fields, variables, and variables sets in a contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-metadata.md)
 
-[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+[Configuring signatories in Contract template using Microsoft Word add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-config-sign-addin.md)
 
-[Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-clauses.md)
+[Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-clauses.md)
 

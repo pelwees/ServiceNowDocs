@@ -30,7 +30,7 @@ Once the contract amendment is signed, you can see the details in the following 
 
 You must add these tabs to the contract repository record for your workspace.
 
-![Contract repository record showing amendment related details](../../lsd-sn-legal-contracts/image/lsd-amend-related-lists.png)
+![Contract repository record showing amendment related details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../lsd-sn-legal-contracts/image/lsd-amend-related-lists.png)
 
 ## Procedure
 
@@ -38,13 +38,13 @@ You must add these tabs to the contract repository record for your workspace.
 
 2.  Select the table to which your form is associated.
 
-3.  Select ![Context menu icon](../../universal-task/images/context-menu.png) and select **Configure** &gt; **Related Lists**.
+3.  Select ![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../universal-task/images/context-menu.png) and select **Configure** &gt; **Related Lists**.
 
 4.  In the **View** list, select the workspace view that should include the amendment related tab.
 
 5.  Add the Contract requests tab by moving **Contract Request**, **Contract documents**, and **Amendment history-&gt;Contract** from the Available list to the Selected list.
 
-    ![Moving related lists from Available list to Selected list.](../image/cmpro-bu-add-cr-related-list.png "Add Related Lists")
+    ![Moving related lists from Available list to Selected list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-bu-add-cr-related-list.png "Add Related Lists")
 
 6.  Select **Save**.
 
@@ -55,32 +55,32 @@ You must add these tabs to the contract repository record for your workspace.
 
 The Contract amendment related tabs are available from your workspace to view the amendment details.
 
-For more information on contract amendment, see [Contract amendments](cmpro-amend-landing.md).
+For more information on contract amendment, see [Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-amend-landing.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-uptake-steps.md)
 
 **Related topics**  
 
 
-[Configure non-task tables for contract templates](cmpro-config-non-tsk-tbl-cn-tmplt.md)
+[Configure non-task tables for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-non-tsk-tbl-cn-tmplt.md)
 
-[Add a workspace action button for initiating a contract request](cncore-config-initiate-cont.md)
+[Add a workspace action button for initiating a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-initiate-cont.md)
 
-[Add Contract requests tab to the contract request record](cncore-add-relatedlist-conreq.md)
+[Add Contract requests tab to the contract request record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-relatedlist-conreq.md)
 
-[Add Contract documents tab to the contract repository record](cncore-add-con-doc-relatedl.md)
+[Add Contract documents tab to the contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-con-doc-relatedl.md)
 
-[Copy fields from parent request to contract request](cncore-copy-fld-frm-parent.md)
+[Copy fields from parent request to contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-copy-fld-frm-parent.md)
 
-[Group contract documents by contract type in a contract request](cncore-config-srp-grouping.md)
+[Group contract documents by contract type in a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-srp-grouping.md)
 
-[Add access to obligation management from contract repository records](cmpro-add-access-to-ob-mgmt.md)
+[Add access to obligation management from contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-access-to-ob-mgmt.md)
 
-[Configure the contract request form header for your workspace](cncore-configure-header.md)
+[Configure the contract request form header for your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-configure-header.md)
 
-[Assign a role for configuring template mappings](cncore-tbl-access-config-role.md)
+[Assign a role for configuring template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-tbl-access-config-role.md)
 
-[Enable contract request fields in condition builders](cncore-add-cmr-condtion-build.md)
+[Enable contract request fields in condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
-[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

@@ -18,11 +18,11 @@ Use the Scripting Governance Tool \(SGT\) to provide a single, centralised contr
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore Authentication factors](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Scripting Governance Tool.](explore-sgt.md)
+[Explore![Explore Authentication factors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Scripting Governance Tool.](explore-sgt.md)
 
 </td><td>
 
-[Use![Configure Authentication factors](../../../reuse/icons/brand-icons/bus-sdlc.svg)Understand how to use the Scripting Governance Tool.](../task/use-sgt.md)
+[Use![Configure Authentication factors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-sdlc.svg)Understand how to use the Scripting Governance Tool.](../task/use-sgt.md)
 
 </td></tr></tbody>
 </table>

@@ -27,5 +27,5 @@ In the goal, explain the outcome you're trying to accomplish with your explorati
 |Document evidence and actions taken for future reference|Compile a Post Incident Review report for all P2+ Incidents for the Cloud Services group from Q1 2025. Show all relevant incidents and the related problems and change requests required to address them. Document timeliness of response and relevant SLAs.|
 |Explore data without specific questions in mind|Explore potential drivers for the Cloud Services team's incident spikes.|
 
-**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 

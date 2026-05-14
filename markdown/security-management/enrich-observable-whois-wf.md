@@ -19,11 +19,11 @@ Role required: admin
 
 ## About this task
 
-This workflow is triggered by the [Security Operations Integration- Enrich Observable capability](../../../security-operations-common/concept/enrich-observable-capability.md) when you perform enrichment on one or more observables, and the WhoIs implementation is selected.
+This workflow is triggered by the [Security Operations Integration- Enrich Observable capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../security-operations-common/concept/enrich-observable-capability.md) when you perform enrichment on one or more observables, and the WhoIs implementation is selected.
 
-![Enrich Observable WhoIs workflow](../image/enrich-observ-whois-wf.png "Enrich Observable WhoIs workflow")
+![Enrich Observable WhoIs workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/enrich-observ-whois-wf.png "Enrich Observable WhoIs workflow")
 
-Activities specific to this integration are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this integration are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../security-operations-common/concept/common-wf-activities.md).
 
 ## Observable Enrichment Lookup activity
 

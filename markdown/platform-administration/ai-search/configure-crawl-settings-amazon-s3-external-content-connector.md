@@ -18,7 +18,7 @@ Define inclusion and exclusion filters to specify the buckets and file types you
 
 ## Before you begin
 
-A connector admin must have already created the Amazon S3 external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create an Amazon S3 external content connector](create-ext-cont-connector-amazon-s3.md).
+A connector admin must have already created the Amazon S3 external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create an Amazon S3 external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-amazon-s3.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -71,7 +71,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 6.  Select **Save and validate**.
 
@@ -84,7 +84,7 @@ The Amazon S3 external content connector is updated with your modified crawl set
 
 ## What to do next
 
-To retrieve content from your Amazon S3 source system using your modified crawl settings, create and run a one-time content crawl for your Amazon S3 external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Amazon S3 source system using your modified crawl settings, create and run a one-time content crawl for your Amazon S3 external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Amazon S3 external content connector](../concept/amazon-s3-external-content-connector.md)
+**Parent Topic:**[Amazon S3 external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/amazon-s3-external-content-connector.md)
 

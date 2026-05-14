@@ -29,7 +29,7 @@ Role required: sn\_si.analyst
 
 4.  Click **Add new list**, available at the bottom of **My Lists** view.
 
-    ![New List view: Creating a new list from My Lists view.](../image/create-new-list.png)
+    ![New List view: Creating a new list from My Lists view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create-new-list.png)
 
     Security analysts can create either another version of an existing list or an entirely a new customized list.
 
@@ -51,7 +51,7 @@ Role required: sn\_si.analyst
 
     5.  After a personalized list view is created, then click on the gear icon and customize the list columns by choosing **Edit columns** option to edit the columns and put them in order that you prefer.
 
-        ![Edit List view: Selecting columns that you want to display.](../image/edit-columns.png)
+        ![Edit List view: Selecting columns that you want to display.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/edit-columns.png)
 
         You can also:
 
@@ -75,31 +75,31 @@ Role required: sn\_si.analyst
 
     5.  Click **Create**.
 
-        ![Create your personalized list view.](../image/create-your-list.png)
+        ![Create your personalized list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create-your-list.png)
 
         A new list gets created as defined and customized by you underneath the **My Lists** section.
 
         **Note:** you can **Reorder** your personalized view by moving their positions.
 
 
-**Parent Topic:**[List view in SIR Workspace](setting-up-list-view-in-analyst-workspace.md)
+**Parent Topic:**[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setting-up-list-view-in-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Apply quick filters on Security Incidents and Response Tasks lists](use-quick-filters-for-security-incidents.md)
+[Apply quick filters on Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-quick-filters-for-security-incidents.md)
 
-[Assign Security Incidents](assign-security-incident.md)
+[Assign Security Incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/assign-security-incident.md)
 
-[Close multiple security incidents](../task/close-multiple-incidents-sir.md)
+[Close multiple security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/close-multiple-incidents-sir.md)
 
-[Assign Response Tasks](../task/assign_response_tasks.md)
+[Assign Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/assign_response_tasks.md)
 
-[Report Phish Email](../task/report-phish-email.md)
+[Report Phish Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/report-phish-email.md)
 
-[Working with quick filters](configure-quick-filters.md)
+[Working with quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-quick-filters.md)
 
-[Export Security Incidents or Response Tasks](export-security-incidents-or-response-tasks.md)
+[Export Security Incidents or Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/export-security-incidents-or-response-tasks.md)
 
-[Manage Shift Handover records](manage-shift-handover-records.md)
+[Manage Shift Handover records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-shift-handover-records.md)
 

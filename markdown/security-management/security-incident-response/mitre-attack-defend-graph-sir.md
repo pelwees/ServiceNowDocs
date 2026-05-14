@@ -81,30 +81,30 @@ The graph displays relationships between nodes using connecting lines \(edges\):
 -   Cross-level references: When nodes at the same hierarchical level share relationships, connecting lines appear between them.
 -   Edge labels: Labels on the edges between defend techniques and artifacts indicate the relationship type \(sourced from MITRE-ATT&amp;CK data\).
 
-**Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
+**Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Security Incident Overview section](security-incident-overview.md)
+[Security Incident Overview section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-overview.md)
 
-[Security Incident Details section](security-incident-details.md)
+[Security Incident Details section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-details.md)
 
-[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
+[SIR Workspace Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-orchestration-activities.md)
 
-[Security Incident Response Tasks](security-incident-response-tasks.md)
+[Security Incident Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-tasks.md)
 
-[Security Incident Response Other Records](security-incident-response-other-records.md#)
+[Security Incident Response Other Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-other-records.md#)
 
-[Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
+[Security Incident Response Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
 
-[Reports in Security Incident Response](report-templates-sir.md)
+[Reports in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
 
-[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
+[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-sir-call-chat.md)
 
-[Viewing incident details with a relationship graph](sir-relationship-graph.md)
+[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-relationship-graph.md)
 

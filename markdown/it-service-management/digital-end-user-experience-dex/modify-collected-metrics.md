@@ -63,7 +63,7 @@ Metric collection on any device is managed using agent policies. Agent policies 
 
 12. In the **Check Parameter** form, modify metrics as needed.
 
-    ![Check Parameter form with the metrics value being updated](../image/acc-policy-child-metrics.png)
+    ![Check Parameter form with the metrics value being updated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/acc-policy-child-metrics.png)
 
 13. Select the **Update** button.
 

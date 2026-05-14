@@ -17,7 +17,7 @@ The CertificateEncryption API provides methods for encrypting certificates in sc
 
 Use these methods to generate a hash for the certificate, sign data using a private key, and generate a message authentication code.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CertificateEncryption - CertificateEncryption\(\)
 

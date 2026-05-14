@@ -103,10 +103,10 @@ Add closing comments to complete the case.In the **Close notes** field, add your
 The state of the due diligence case is updated to Closed completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Risk assessment flow when only Vendor Risk Management is installed](risk-flow-slo-vrm.md)
+</table>**Parent Topic:**[Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-vrm.md)
 
 **Related topics**  
 
 
-[Risk assessment flow when only Vendor Risk Management is installed](risk-flow-slo-vrm.md)
+[Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-vrm.md)
 

@@ -35,5 +35,5 @@ You can enforce MFA for the following conditions:
 -   Authentication Scheme
 -   Identity Provider
 
-MFA with SSO is offered as a part of the Adaptive Authentication plugin \(com.snc.adaptive\_authentication\). To know more on how to set up Adaptive Authentication, see [Adaptive authentication](adaptive-authentication.md).
+MFA with SSO is offered as a part of the Adaptive Authentication plugin \(com.snc.adaptive\_authentication\). To know more on how to set up Adaptive Authentication, see [Adaptive authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 

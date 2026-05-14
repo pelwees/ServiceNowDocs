@@ -36,7 +36,7 @@ The technical editor lets you add any UI Builder component to your dashboard. Yo
 
 3.  Choose **Technical editor**.
 
-    ![Create new technical dashboard modal](../image/tech-editor-create-modal.png)
+    ![Create new technical dashboard modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/tech-editor-create-modal.png)
 
     **Warning:** Do not try to create dashboards directly in the Advanced Dashboards experience on the UI Builder. Always begin in runtime from the Platform Analytics library. When you begin the technical dashboard in the library, it has an automatic connection to the par\_dashboards table and is listed in the Dashboard overview component.
 
@@ -62,21 +62,21 @@ The technical editor lets you add any UI Builder component to your dashboard. Yo
 
     The **Configure** panel on the right enables you to configure the component you’ve chosen.
 
-    ![Component menu in UI Builder.](../../par-for-workspace/image/dashboard-add-component.png)
+    ![Component menu in UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dashboard-add-component.png)
 
 9.  Add more containers, components, and configurations.
 
-10. If you have added a data visualization component and you want viewers to drill down to a more detailed data view from that component, follow the instructions in [Add a drilldown event to a data visualization on a technical dashboard](add-custom-drilldown-event.md).
+10. If you have added a data visualization component and you want viewers to drill down to a more detailed data view from that component, follow the instructions in [Add a drilldown event to a data visualization on a technical dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-custom-drilldown-event.md).
 
 11. Click **Save** at any time to save the changes you've made to the dashboard.
 
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/technical-dashboards.md)
 
 **Related topics**  
 
 
-[Data visualizations in Platform Analytics](../../performance-analytics/concept/analytics-center-data-visualizations.md)
+[Data visualizations in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/analytics-center-data-visualizations.md)
 
-[Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md)
+[Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/interactive-filters-workspace.md)
 

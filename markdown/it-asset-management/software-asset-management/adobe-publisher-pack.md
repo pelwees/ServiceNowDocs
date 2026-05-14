@@ -58,7 +58,7 @@ Create an Adobe Cloud integration profile to compare subscriptions with software
 
 **Note:** Installation discovery sources include ServiceNow Discovery, Microsoft SCCM, and other third-party discovery sources that can integrate as a data source in the ServiceNow CMDB.
 
-For instructions on how to create an Adobe Cloud integration profile, see [Integrating with Adobe Cloud](adobe-cloud-integration.md).
+For instructions on how to create an Adobe Cloud integration profile, see [Integrating with Adobe Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-cloud-integration.md).
 
 ## Adobe Cloud reporting
 
@@ -67,12 +67,12 @@ Adobe Cloud reports can be accessed by navigating to **Reports** &gt; **View/Run
 -   Adobe Cloud Users without Installations
 -   Underused Adobe Cloud Installations
 
-You can view Adobe subscriptions, compliance, and cost using the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md) or [Publisher overview for Adobe Systems in the Software Asset Workspace](../reference/publisher-overview-adobe.md).
+You can view Adobe subscriptions, compliance, and cost using the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-saas-subscription-dash.md) or [Publisher overview for Adobe Systems in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/publisher-overview-adobe.md).
 
--   **[Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md)**  
+-   **[Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-saas-subscription-dash.md)**  
 View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in Software Asset Management classic.
--   **[Publisher overview for Adobe Systems in the Software Asset Workspace](../reference/publisher-overview-adobe.md)**  
+-   **[Publisher overview for Adobe Systems in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/publisher-overview-adobe.md)**  
 View license usage information related to Adobe in the publisher overview for Adobe Systems in the Software Asset Workspace.
 
-**Parent Topic:**[Supported software publisher licenses](sam-publisher-packs.md)
+**Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 

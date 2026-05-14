@@ -29,16 +29,16 @@ Roles required:
 
 2.  On the Channels and integrations page, on the Microsoft Teams tile, select **Manage**
 
-3.  In the Manage Microsoft Teams channel page, find the integration \(Now Virtual Agent bot or the Self-configured bot\) that you would like to remove, select the manage bot icon ![Manage bot icon.](../images/manage-bot-icon.png), and select **Remove integration**.
+3.  In the Manage Microsoft Teams channel page, find the integration \(Now Virtual Agent bot or the Self-configured bot\) that you would like to remove, select the manage bot icon ![Manage bot icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-bot-icon.png), and select **Remove integration**.
 
-    ![Remove integration option with ServiceNow Virtual Agent.](../images/remove-snva-integration.png "Remove integration with ServiceNow Virtual Agent")
+    ![Remove integration option with ServiceNow Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-snva-integration.png "Remove integration with ServiceNow Virtual Agent")
 
-    ![Remove integration option with Self-configured bot.](../images/remove-self-bot-integration.png "Remove integration with Self-configured bot")
+    ![Remove integration option with Self-configured bot.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-self-bot-integration.png "Remove integration with Self-configured bot")
 
-4.  In the Remove integration confirmation message, select **Remove** to continue removing the integration.![Banner message confirming removed integration with Microsoft Teams.](../images/remove-integration-success.png)
+4.  In the Remove integration confirmation message, select **Remove** to continue removing the integration.![Banner message confirming removed integration with Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-integration-success.png)
 
     The Virtual Agent integration with the selected Microsoft Teams bot has been removed.
 
 
-**Parent Topic:**[Install Conversational Integration with Microsoft Teams](teams-install.md)
+**Parent Topic:**[Install Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
 

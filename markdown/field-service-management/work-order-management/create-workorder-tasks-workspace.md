@@ -21,7 +21,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 ## Procedure
 
-1.  Click the List icon \(![List icon.](../image/ListIcon.png)\)
+1.  Click the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/ListIcon.png)\)
 
 2.  Navigate to **Work Orders** &gt; **Created by me**
 
@@ -31,7 +31,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
     -   To create a work order task using a work order template, click the search icon in the **Template** field and select the template for this work order.
     -   To create a work order task manually, click **New** and fill in the required fields.
-    For field descriptions, refer to [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md).
+    For field descriptions, refer to [Create a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_CreateAWorkOrderTask.md).
 
 5.  Click **Save**.
 
@@ -39,7 +39,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 **Related topics**  
 
 
-[Qualify work order tasks in CSM Agent Workspace](qualify-workorder-tasks-workspace.md)
+[Qualify work order tasks in CSM Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/qualify-workorder-tasks-workspace.md)
 
-[Book work order appointment in the CSM Configurable Workspace](book-workorder-appointment-workspace.md)
+[Book work order appointment in the CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/book-workorder-appointment-workspace.md)
 

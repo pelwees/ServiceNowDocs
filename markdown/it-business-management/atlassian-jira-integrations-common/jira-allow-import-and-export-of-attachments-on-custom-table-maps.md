@@ -36,5 +36,5 @@ Role required: admin or sn\_jira\_int.admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../reference/custom-map-configuration.md)
 

@@ -61,9 +61,9 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![globe image](../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**.
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![globe image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Mobile App Config
 
 Mobile app configuration for which you want to use the mobile property. This setting limits the mobile property behavior to users who have access to this mobile app configuration. Other users don't have access to this mobile property and instead experience default behavior.
 
- To enter a value, either start entering the application name or select the search icon \(![magnifying glass image](../image/search-icon.png)\). The search dialog box lists the configurations from which you can choose.
+ To enter a value, either start entering the application name or select the search icon \(![magnifying glass image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-icon.png)\). The search dialog box lists the configurations from which you can choose.
 
  Select one of the following mobile app configs:
 
@@ -137,7 +137,7 @@ Mobile Application
 
 Mobile application to which you want to send the mobile property. This setting limits the mobile property behavior to users who have access to this mobile app. Other users don't have access to this mobile property and instead experience default behavior.
 
- To enter a value, either start to type the application name or select the search icon \(![magnifying glass image](../image/search-icon.png)\). The search dialog box lists the applications from which you can choose.
+ To enter a value, either start to type the application name or select the search icon \(![magnifying glass image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-icon.png)\). The search dialog box lists the applications from which you can choose.
 
  Select one of the following mobile applications:
 
@@ -153,5 +153,5 @@ Mobile application to which you want to send the mobile property. This setting l
 
 After updating this property, the end user must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md)
 

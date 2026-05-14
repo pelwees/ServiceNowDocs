@@ -43,32 +43,32 @@ The TNI Design Assign Number Element Creation subflow output are as follows.
 -   Create connection element records.
 -   Update change task that is associated with the Define number element activity.
 
-**Parent Topic:**[Telecommunications Network Inventory subflows](subflow.md)
+**Parent Topic:**[Telecommunications Network Inventory subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subflow.md)
 
 **Related topics**  
 
 
-[Create Logical Connection with template subflow](create-logical-connection-template-subflow.md)
+[Create Logical Connection with template subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-template-subflow.md)
 
-[Logical Connection Creation subflow](logical-connection-creation-subflow.md)
+[Logical Connection Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/logical-connection-creation-subflow.md)
 
-[Physical Connection Creation subflow](physical-connection-creation-subflow.md)
+[Physical Connection Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/physical-connection-creation-subflow.md)
 
-[Design Assign Connection Element Creation subflow](tni-design-assign-connection-element-creation-subflow.md)
+[Design Assign Connection Element Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-connection-element-creation-subflow.md)
 
-[Design Assign Protected Path Assignment subflow](tni-design-assign-protected-path-assignment-subflow.md)
+[Design Assign Protected Path Assignment subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-protected-path-assignment-subflow.md)
 
-[Design Assign IP Address Creation subflow](tni-design-assign-ip-address-creation-subflow.md)
+[Design Assign IP Address Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-ip-address-creation-subflow.md)
 
-[Design assign Logical Connection Creation subflow](tni-design-assign-logical-connection-creation-subflow.md)
+[Design assign Logical Connection Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-logical-connection-creation-subflow.md)
 
-[Design Assign Set Attributes subflow](tni-design-assign-set-attributes-subflow.md)
+[Design Assign Set Attributes subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-set-attributes-subflow.md)
 
-[Design Assign Request Details Update subflow](tni-design-assign-request-details-update-subflow.md)
+[Design Assign Request Details Update subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-request-details-update-subflow.md)
 
-[Design Assign Connection Element Validation subflow](tni-design-assign-connection-element-validation-subflow.md)
+[Design Assign Connection Element Validation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-connection-element-validation-subflow.md)
 
-[Design Assign IP Address Validation subflow](tni-design-assign-ip-address-validation-subflow.md)
+[Design Assign IP Address Validation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-ip-address-validation-subflow.md)
 
-[Design Assign Number Element Validation subflow](tni-design-assign-number-element-validation-subflow.md)
+[Design Assign Number Element Validation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-design-assign-number-element-validation-subflow.md)
 

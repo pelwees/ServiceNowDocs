@@ -54,7 +54,7 @@ Submits searches that the system ignores when generating search or auto-complete
 None
 
 </td></tr></tbody>
-</table>For more details on restricting generation of search suggestions, see [Prevent the creation of suggestions in special cases](../task/preventing-suggestions.md).
+</table>For more details on restricting generation of search suggestions, see [Prevent the creation of suggestions in special cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/../task/preventing-suggestions.md).
 
 ## Scheduled jobs installed
 
@@ -98,5 +98,5 @@ Search Suggestion \[sys\_search\_suggestion\]
 auto-complete suggestions and search suggestions generated from user searches by the Build Search Suggestions scheduled job. The Prune Search Suggestions scheduled job removes the lowest-rated auto-complete suggestions and search suggestions from this table to keep its maximum size at 500,000 suggestion records.
 
 </td></tr></tbody>
-</table>To learn about individual columns on these tables, see [Search Suggestions tables](understanding-search-suggestion-tables.md).
+</table>To learn about individual columns on these tables, see [Search Suggestions tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/understanding-search-suggestion-tables.md).
 

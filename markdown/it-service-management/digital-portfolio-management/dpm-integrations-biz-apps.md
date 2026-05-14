@@ -17,9 +17,9 @@ See business application data in the context of your solutions in the Digital Po
 
 The following image shows the business application data views when you integrate the stated applications with your DPM Workspace.
 
-![Business application integrations.](../image/dpm-integrations-biz-apps-DEB.png)
+![Business application integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-integrations-biz-apps-DEB.png)
 
-The following table explains the data views in the image. For more information, see [View business application details](dpm-business-apps-details.md).
+The following table explains the data views in the image. For more information, see [View business application details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-business-apps-details.md).
 
 <table id="table_mp4_pdz_hcc"><thead><tr><th>
 
@@ -140,7 +140,7 @@ ITSM Performance Analytics \(PA\)
 
 </td><td>
 
-Key performance indicator \(KPI\) data that comes with the base system. The following lists a few but for more information, see [KPI groups installed with Digital Portfolio Management](../reference/dpm-kpi-groups-oob.md).
+Key performance indicator \(KPI\) data that comes with the base system. The following lists a few but for more information, see [KPI groups installed with Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../reference/dpm-kpi-groups-oob.md).
 
 -   Availability
 -   New incidents
@@ -178,7 +178,7 @@ General info
 
 </td><td>
 
-General information about the business application like relationship data, department, business unit, and life-cycle stage. The following lists a few, but for more detailed information on each section of the **Info** tab, see **Table 7. Business application Info tab** in [View business application details](dpm-business-apps-details.md).-   Application description
+General information about the business application like relationship data, department, business unit, and life-cycle stage. The following lists a few, but for more detailed information on each section of the **Info** tab, see **Table 7. Business application Info tab** in [View business application details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-business-apps-details.md).-   Application description
 -   Enterprise portfolio
 -   Personal portfolio
 -   Taxonomy node
@@ -187,12 +187,12 @@ General information about the business application like relationship data, depar
 -   Vendor
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integrate Digital Portfolio Management with other ServiceNow applications](dpm-integrations.md)
+</table>**Parent Topic:**[Integrate Digital Portfolio Management with other ServiceNow applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-integrations.md)
 
 **Related topics**  
 
 
-[Digital Portfolio Management life-cycle management](dpm-lifecylce-management.md)
+[Digital Portfolio Management life-cycle management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-lifecylce-management.md)
 
-[View business application details](dpm-business-apps-details.md)
+[View business application details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-business-apps-details.md)
 

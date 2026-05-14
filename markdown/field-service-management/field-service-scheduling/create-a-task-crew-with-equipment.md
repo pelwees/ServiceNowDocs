@@ -19,8 +19,8 @@ Assign equipment to an ad hoc task crew to ensure they have the necessary tools 
 
 Note the following requirements to assign the equipment:
 
--   The work order task must already have a task crew assigned. See [Create ad hoc crews in Dispatcher Workspace](create-adhoc-crews-disp-wrkspc.md) for more information.
--   The work order task must already have resource requirements. See [Add resource requirement for a work order task in Dispatcher Workspace](add-resource-requirement-disp-wrkspc.md) for more information.
+-   The work order task must already have a task crew assigned. See [Create ad hoc crews in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-adhoc-crews-disp-wrkspc.md) for more information.
+-   The work order task must already have resource requirements. See [Add resource requirement for a work order task in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-resource-requirement-disp-wrkspc.md) for more information.
 
 Role required: wm\_admin, wm\_dispatcher
 

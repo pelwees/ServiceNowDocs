@@ -31,7 +31,7 @@ As a BCM program manager you can create a plan by clicking the **New** button. W
 
 2.  To create a plan from the Business Continuity Home page, click **Create a Plan**.
 
-3.  To view the list of existing plans in different states and to create a plan record, click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+3.  To view the list of existing plans in different states and to create a plan record, click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
     1.  Click **In Draft** state in the Planning list.
 
@@ -51,9 +51,9 @@ As a BCM program manager you can create a plan by clicking the **New** button. W
 
     **Note:**
 
-    The tabs that are available in the Plan view depends on the value that you have selected in the **Plan authoring type** field of the [Configure a business continuity plan template](configure-bcp-template.md) that is used in this plan.
+    The tabs that are available in the Plan view depends on the value that you have selected in the **Plan authoring type** field of the [Configure a business continuity plan template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bcp-template.md) that is used in this plan.
 
-    ![Plan authoring type values](../image/PlanTabAuthoringType.png "Plan authoring type values")
+    ![Plan authoring type values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/PlanTabAuthoringType.png "Plan authoring type values")
 
     When you create a plan using a template, the plan documentations associated to the plan template are copied over to the documentation section of the plan that you created.
 

@@ -40,12 +40,12 @@ To adjust a contract, its state must be Active.
 4.  Select **Submit Adjustments**.
 
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-core-ui.md)
 
 **Related topics**  
 
 
-[Renew workplace contract in Core UI](renew-lease-workplace-contracts.md)
+[Renew workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/renew-lease-workplace-contracts.md)
 
-[Cancel workplace contract in Core UI](cancel-lease-contract.md)
+[Cancel workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/cancel-lease-contract.md)
 

@@ -21,5 +21,5 @@ Operational Technology Manager adds these Configuration Management Database \(CM
 |-----|-----------|-----------------|
 |Network Intrusion Detection System|The Network Intrusion Detection System \(NIDS\) \[cmdb\_ci\_nids\] class builds the relationships between passive network monitoring appliances, and the devices on the network that it discovers.|cmdb\_ci\_nids|
 
-**Parent Topic:**[Exploring the Operational Technology Manager](exploring-operational-technology-manager.md)
+**Parent Topic:**[Exploring the Operational Technology Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/exploring-operational-technology-manager.md)
 

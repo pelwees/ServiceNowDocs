@@ -26,5 +26,5 @@ Field description to create a new variable set record.
 |Layout|Set the layout display.|
 |Description|Description of the variable set.|
 
-**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-risk-mgmt-reference.md)
 

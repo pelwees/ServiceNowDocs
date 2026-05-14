@@ -45,7 +45,7 @@ Role required: agent\_client\_collector\_admin
 
         -   Record sys\_id
         -   Hash id
-        ![Attachments table with the acc-dex-common.tar.gz record](../image/sys_attachments_table.png)
+        ![Attachments table with the acc-dex-common.tar.gz record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/sys_attachments_table.png)
 
 2.  Test the connection by running one of the following commands from the temp folder that you created:
 
@@ -60,5 +60,5 @@ Role required: agent\_client\_collector\_admin
 
 Fix your proxy issues if the command output doesn't match the Attachments table entries.
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/installing-dex-local.md)
 

@@ -69,5 +69,5 @@ The available capacity and the reserved capacity is relative to the current day.
 
 By creating this allocation schedule, you ensure that enough capacity is reserved for urgent tasks that may arise on the same day, while still allowing a significant portion of your capacity to be booked in advance.
 
-![Tabular representation of capacity allocation schedule for Day 0 to Day 10](../image/capacity-allocation-schedule.png)
+![Tabular representation of capacity allocation schedule for Day 0 to Day 10](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../image/capacity-allocation-schedule.png)
 

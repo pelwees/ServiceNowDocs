@@ -97,10 +97,10 @@ Domain
 Domain to which the data belongs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[Configure Partner Program table](../task/configure-partner-program-table.md)
+[Configure Partner Program table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-partner-program-table.md)
 

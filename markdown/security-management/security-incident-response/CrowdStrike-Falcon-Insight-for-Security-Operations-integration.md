@@ -45,7 +45,7 @@ CrowdStrike Falcon Insight for Security Operations
 
 </td><td>
 
-[Getting started with the CrowdStrike Falcon Insight integration](get-started-with-the-crowdstrike-falcon-insight-integration.md)
+[Getting started with the CrowdStrike Falcon Insight integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-started-with-the-crowdstrike-falcon-insight-integration.md)
 
 </td></tr></tbody>
 </table>

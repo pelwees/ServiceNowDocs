@@ -39,9 +39,9 @@ You can import primary model content to only one secondary model at a time.
 
 3.  Select the **Check primary model for new content** button.
 
-    ![The button for Check primary model for new content, on the Build and train your model phase.](../images/import-primary-content01U.png)
+    ![The button for Check primary model for new content, on the Build and train your model phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-primary-content01U.png)
 
-    The banner Import and translate the content to keep this model updated appears at the top of the screen, along with a summary of the updates in the primary model. ![The banner for "Import and translate the content to keep this model updated" is highlighted.](../images/import-primary-content02U.png)
+    The banner Import and translate the content to keep this model updated appears at the top of the screen, along with a summary of the updates in the primary model. ![The banner for "Import and translate the content to keep this model updated" is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-primary-content02U.png)
 
     **Note:** By default, newly imported intents are disabled in secondary models. Activate any imported intents manually.
 
@@ -49,7 +49,7 @@ You can import primary model content to only one secondary model at a time.
 
 5.  In the **Import and translate new content from your primary model** window, choose a translation method and select **Import**.
 
-    ![The window for "Import and translate new content from your primary model". Choose how to translate new content.](../images/import-primary-content03U.png)
+    ![The window for "Import and translate new content from your primary model". Choose how to translate new content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-primary-content03U.png)
 
     The new content begins translating. When finished, the translated content must be reviewed.
 

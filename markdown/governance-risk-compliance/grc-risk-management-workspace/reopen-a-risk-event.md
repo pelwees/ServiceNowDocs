@@ -23,7 +23,7 @@ Role required: sn\_risk\_advanced.risk\_event\_admin
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list icon ![List icon.](../../grc-workspace-risk/image/list-icon-riskworkspace.png) and navigate to the closed risk events.
+2.  Select the list icon ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/image/list-icon-riskworkspace.png) and navigate to the closed risk events.
 
 3.  Open the risk event that you want to reopen.
 
@@ -36,5 +36,5 @@ Role required: sn\_risk\_advanced.risk\_event\_admin
     The risk event moves to the Analyze state.
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-risk-events.md)
 

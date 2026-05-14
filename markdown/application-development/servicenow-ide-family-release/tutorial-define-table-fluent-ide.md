@@ -17,19 +17,19 @@ Create a table and reference it in sample script definitions using the ServiceNo
 
 ## Before you begin
 
-Complete [Tutorial part 2: Initialize a repository for your application](tutorial-initialize-repository-ide.md).
+Complete [Tutorial part 2: Initialize a repository for your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/tutorial-initialize-repository-ide.md).
 
 Role required: admin
 
 ## About this task
 
-ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. You use objects in the ServiceNow Fluent APIs to define metadata in files with the `.now.ts` extension. The ServiceNow IDE has language processing and validation for ServiceNow Fluent APIs and applications by default. For more information about ServiceNow Fluent, see [ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md).
+ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. You use objects in the ServiceNow Fluent APIs to define metadata in files with the `.now.ts` extension. The ServiceNow IDE has language processing and validation for ServiceNow Fluent APIs and applications by default. For more information about ServiceNow Fluent, see [ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../../servicenow-sdk/concept/servicenow-fluent.md).
 
-In this example, you create a simple table for a to-do list using objects in the ServiceNow Fluent Table API. Then, you update the sample code for business rule and client script definitions to reference the new table. Lastly, you review your changes from the File Categories view. For more information about the Table API, see [Table API - ServiceNow Fluent](../../servicenow-sdk/reference/table-api-now-ts.md#).
+In this example, you create a simple table for a to-do list using objects in the ServiceNow Fluent Table API. Then, you update the sample code for business rule and client script definitions to reference the new table. Lastly, you review your changes from the File Categories view. For more information about the Table API, see [Table API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../../servicenow-sdk/reference/table-api-now-ts.md#).
 
 ## Procedure
 
-1.  From the Activity Bar, select the File Explorer view \(![File Explorer](../image/servicenow-ide-file-explorer-icon.png)\).
+1.  From the Activity Bar, select the File Explorer view \(![File Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-file-explorer-icon.png)\).
 
 2.  Navigate to the `src/fluent` directory in your application.
 
@@ -39,13 +39,13 @@ In this example, you create a simple table for a to-do list using objects in the
 
 4.  On a new line at the end of the file, enter `Table({})` to add the Table object.
 
-5.  From the Status Bar, select the diagnostics icon \(![Diagnostics](../image/servicenow-ide-diagnostics-icon.png)\) to open the Problems panel and check for issues in the code.
+5.  From the Status Bar, select the diagnostics icon \(![Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-diagnostics-icon.png)\) to open the Problems panel and check for issues in the code.
 
-    ![Quick Fix menu with options for quick fixes](../image/servicenow-ide-open-panel.png)
+    ![Quick Fix menu with options for quick fixes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-open-panel.png)
 
 6.  Right-click the error that appears and select the **Update import from "@servicenow/sdk/core"** quick fix.
 
-    ![Quick fix to add the Table import from @servicenow/sdk/core in the Problems panel](../image/servicenow-ide-add-import.png)
+    ![Quick fix to add the Table import from @servicenow/sdk/core in the Problems panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-add-import.png)
 
     In line 2, the Table object is added to the list of imports from `@servicenow/sdk/core`:
 
@@ -70,7 +70,7 @@ In this example, you create a simple table for a to-do list using objects in the
 
     **Tip:** Hover over an object to see its in-product documentation.
 
-    ![Documentation for the Table API appears when hovering over the Table object.](../image/servicenow-ide-jsdocs.png)
+    ![Documentation for the Table API appears when hovering over the Table object.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-jsdocs.png)
 
 8.  For type-ahead support when defining columns in the table, before the Table object, add an exported variable with the same name as the name property.
 
@@ -97,7 +97,7 @@ In this example, you create a simple table for a to-do list using objects in the
 
     The schema property is an array of Column objects. There are many types of columns based on the field type. Column objects use the format &lt;Type&gt;Column where *&lt;Type&gt;* is the field type.
 
-    Use the following details to define three columns in the table: Deadline, Matrix, and Task. Refer to the [Column object](../../servicenow-sdk/reference/table-api-now-ts.md#) documentation to help you configure each column.
+    Use the following details to define three columns in the table: Deadline, Matrix, and Task. Refer to the [Column object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../../servicenow-sdk/reference/table-api-now-ts.md#) documentation to help you configure each column.
 
 <table id="table_b33_tq4_32c"><thead><tr><th>
 
@@ -179,7 +179,7 @@ task
 
     2.  Repeat the previous step for the BusinessRule object.
 
-12. If the diagnostics icon \(![Diagnostics](../image/servicenow-ide-diagnostics-icon.png)\) shows any errors or warnings, select it to open the Problems panel and review the diagnostic messages and quick fixes to resolve them.
+12. If the diagnostics icon \(![Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-diagnostics-icon.png)\) shows any errors or warnings, select it to open the Problems panel and review the diagnostic messages and quick fixes to resolve them.
 
 13. Save your changes using one of the following keyboard shortcuts.
 
@@ -201,7 +201,7 @@ task
 
         The table opens in Table Builder.
 
-        ![The To-do Items table in Table Builder accessed from the File Categories view in the ServiceNow IDE.](../image/servicenow-ide-table-builder.png)
+        ![The To-do Items table in Table Builder accessed from the File Categories view in the ServiceNow IDE.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-table-builder.png)
 
 16. Edit the metadata and synchronize your changes into the source code.
 
@@ -211,11 +211,11 @@ task
 
     2.  Select **Save**.
 
-    3.  From the Activity Bar, select the Now SDK view \(![Now SDK](../image/servicenow-ide-sdk-icon.png)\).
+    3.  From the Activity Bar, select the Now SDK view \(![Now SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-sdk-icon.png)\).
 
     4.  Select **Sync Changes**.
 
-        ![The Sync command in the Now SDK view.](../image/servicenow-ide-sync.png)
+        ![The Sync command in the Now SDK view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-sync.png)
 
         In the `index.now.ts` file, you should see the label property of the task column changed to `'To Do'`.
 
@@ -230,11 +230,11 @@ You have created your first application metadata using ServiceNow Fluent APIs. T
 
 From the ServiceNow AI Platform, you can navigate to the list view of the table by entering `x_snc_hello_world_to_do.list` in the navigation filter. Because you updated the client script definition to run on the To-do Items \[x\_snc\_hello\_world\_to\_do\] table, if you select **New** to add a record to the table, the message from the client script appears when the record loads.
 
-![The message string from the client script definition appears when a new record is added to the To-do Items table](../image/servicenow-ide-client-script.png)
+![The message string from the client script definition appears when a new record is added to the To-do Items table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-client-script.png)
 
 ## What to do next
 
-Continue to [Tutorial part 4: Install and use a third-party library](tutorial-install-third-party-library-ide.md).
+Continue to [Tutorial part 4: Install and use a third-party library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/tutorial-install-third-party-library-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/getting-started-create-application-ide.md)
 

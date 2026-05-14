@@ -15,18 +15,18 @@ Manage your business architecture, application portfolio, information portfolio 
 
 **Note:** You can zoom on this page or any of the child pages to 200% or 400% through your browser settings without the loss of content or functionality. Page layouts are transformed into a vertical, stacked view automatically.
 
--   **[Create my list](../../task/create-my-list.md)**  
+-   **[Create my list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/create-my-list.md)**  
 Create your own filtered lists in the Enterprise Architecture Workspace and access them under the **My Lists** tab.
--   **[Using business architecture](eaw-using-business-architecture.md)**  
+-   **[Using business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-using-business-architecture.md)**  
 Manage business units, departments, goals, value streams, value stream stages, business capabilities, business processes, and demands in the Enterprise Architecture Workspace.
--   **[Working with an application portfolio](eaw-work-with-application-portfolio.md)**  
+-   **[Working with an application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-application-portfolio.md)**  
 Manage all your business applications, business capabilities, information objects, application services and also, manage their associated architectural artifacts in the Enterprise Architecture Workspace.
--   **[Working with information portfolio](eaw-work-with-info-portfoliodita.md)**  
+-   **[Working with information portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-info-portfoliodita.md)**  
 Information portfolio helps to capture information from the assets of your organization as information objects. You can categorize the information assets and determine its business application use.
--   **[eaw-working-with-ai-portfolio.md](eaw-working-with-ai-portfolio.md)**  
+-   **[eaw-working-with-ai-portfolio.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-working-with-ai-portfolio.md)**  
 
--   **[Working with your entities](eaw-work-with-your-entities.md)**  
+-   **[Working with your entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-your-entities.md)**  
 Manage all your Enterprise Architecture Workspace entities from a single place.
 
-**Parent Topic:**[Managing Enterprise Architecture Workspace](eaw-managing-ea-workspace.md)
+**Parent Topic:**[Managing Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-managing-ea-workspace.md)
 

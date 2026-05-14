@@ -18,7 +18,7 @@ A content rendering parameter functions similarly to video hosting URL parameter
 ## Before you begin
 
 -   Role required: sn\_cd.content\_admin
--   Complete the steps to [Configure content provider and mapping](configure-content-provider.md)
+-   Complete the steps to [Configure content provider and mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-provider.md)
 
 ## Procedure
 

@@ -33,7 +33,7 @@ The technology product support case progresses through several stages from start
 
 4.  Open the technology product support case that is in the New or Open state.
 
-    ![technology product support case diagnose.](../image/tech-product-case-diagnose.png)
+    ![technology product support case diagnose.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-case-diagnose.png)
 
 5.  Review and verify the technology product support case.
 

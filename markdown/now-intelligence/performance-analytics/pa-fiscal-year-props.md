@@ -34,5 +34,5 @@ Start of the fiscal year of your companyRange: 1 \(January\) - 12 \(December\)
  Default: 1
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Performance Analytics properties](pa-properties.md)
+</table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 

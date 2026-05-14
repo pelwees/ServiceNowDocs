@@ -74,5 +74,5 @@ data_source.update();
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Schedule a data import](../task/t_ScheduleADataImport.md)
+</table>**Parent Topic:**[Schedule a data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../task/t_ScheduleADataImport.md)
 

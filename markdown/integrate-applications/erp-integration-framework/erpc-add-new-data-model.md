@@ -38,7 +38,7 @@ A model functions as a staging area that contains all potential fields you can a
 
 4.  On the new model tab, fill in the fields.
 
-    For a description of the field values, see [Zero Copy Connector for ERP new model field descriptions](../reference/erp-canvas-new-model-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP new model field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-new-model-descriptions.md).
 
 5.  Select **Save**.
 
@@ -53,8 +53,8 @@ A model functions as a staging area that contains all potential fields you can a
 
 After you add a new ERP model, specify additional criteria. For example, which tables it reads and joins, any parameters for inputs and outputs, and whether it uses a BAPI to update the system of record. For more information, see the following topics:
 
--   [Managing how models read and update the ERP system](../concept/erpc-managing-models-read.md)
--   [Add joins between ERP tables](erp-canvas-add-join-data-model.md)
+-   [Managing how models read and update the ERP system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erpc-managing-models-read.md)
+-   [Add joins between ERP tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-add-join-data-model.md)
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/work-with-erp-data-models.md)
 

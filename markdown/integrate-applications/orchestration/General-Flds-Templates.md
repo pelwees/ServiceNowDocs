@@ -89,5 +89,5 @@ Description
 Detailed description of the activity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)
+</table>**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../task/create-custom-activities.md)
 

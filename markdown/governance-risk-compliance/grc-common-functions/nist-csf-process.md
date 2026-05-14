@@ -21,10 +21,10 @@ The NIST CSF navigation structure facilitates the management of the NIST cyberse
 2.  The risk executives and/or the security officers prioritize cybersecurity activities.
 3.  Monitor the NIST CSF Overview dashboard
 
--   **[Identify the framework core](identify-framework-core.md)**  
+-   **[Identify the framework core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/identify-framework-core.md)**  
 Within the NIST CSF application, the **Framework Core** section is used to identify categories and subcategories as cybersecurity policies and their statement policies.
--   **[Align and prioritize cybersecurity activities](align-prioritize-activities.md)**  
+-   **[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/align-prioritize-activities.md)**  
 Within the NIST CSF application, the **Framework Profiling** section is used to help an organization to align and prioritize its cybersecurity activities with its requirements, risk tolerances, and resources.
 
-**Parent Topic:**[NIST CSF Use Case Accelerator](grc-csf-usecase-accelerator.md)
+**Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-csf-usecase-accelerator.md)
 

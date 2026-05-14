@@ -27,5 +27,5 @@ For example: if a retroactive SLA attaches to an incident one hour after its cre
 
 **Note:** This property is only used with audited tables. Tables which are not audited ignore the pause time before the creation of the record.
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 

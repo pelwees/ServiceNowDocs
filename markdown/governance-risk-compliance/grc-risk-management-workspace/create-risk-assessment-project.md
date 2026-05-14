@@ -23,7 +23,7 @@ Role required: sn\_risk\_advanced.project\_user or sn\_risk\_workspace.operation
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![list icon.](../image/list-icon-risk-workspace.png) icon.
+2.  Select the list ![list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-risk-workspace.png) icon.
 
 3.  From the list, navigate to **Risk assessment projects** and select **New**.
 
@@ -156,5 +156,5 @@ Watchlist users from the assessable entity stakeholders list. This field appears
     The project moves to the Assess stage, and a notification goes to the assessor.
 
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-assessment-project.md)
 

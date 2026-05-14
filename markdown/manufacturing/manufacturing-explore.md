@@ -242,7 +242,7 @@ Manage sales promotion campaigns and streamline collaboration with dealers to re
 
 </td><td>
 
-[Sales promotion](mco-sls-prom-clms.md)
+[Sales promotion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-prom-clms.md)
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ Manage collaboration with dealers to submit and resolve claims for repairs perfo
 
 </td><td>
 
-[Repair claim](mco-warranty-clms.md)
+[Repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-warranty-clms.md)
 
 </td></tr><tr><td>
 
@@ -258,7 +258,7 @@ Support creation of a recall campaign, manage it, and track it to closure.
 
 </td><td>
 
-[Recall campaign](mco-rcl-clms.md)
+[Recall campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-rcl-clms.md)
 
 </td></tr><tr><td>
 
@@ -266,7 +266,7 @@ Reduce quality costs, accelerate issue resolution, and build customer trust thro
 
 </td><td>
 
-[Quality issue management](mco-quality-issue-management.md)
+[Quality issue management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-quality-issue-management.md)
 
 </td></tr><tr><td>
 
@@ -274,7 +274,7 @@ Provide dealers a single unified experience to collaborate with New dealer porta
 
 </td><td>
 
-[Dealer portal](mco-dealer-portal.md)
+[Dealer portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-dealer-portal.md)
 
 </td></tr><tr><td>
 
@@ -284,7 +284,7 @@ Resolve customer issues and requests for your customers. By adopting a proactive
 
 Customer Service Management
 
- See, [Additional features](additional-features.md)
+ See, [Additional features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/additional-features.md)
 
 </td></tr><tr><td>
 
@@ -294,7 +294,7 @@ Manage order to cash operation processes. Provides agility to launch new service
 
 Order to cash operations
 
- See, [Additional features](additional-features.md)
+ See, [Additional features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/additional-features.md)
 
 </td></tr><tr><td>
 
@@ -304,7 +304,7 @@ Self-service connectivity between multiple ServiceNow® instances within the ent
 
 Service Exchange
 
- See, [Additional features](additional-features.md)
+ See, [Additional features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/additional-features.md)
 
 </td></tr><tr><td>
 
@@ -314,14 +314,14 @@ Provide self-service capabilities, support requests on products, subscriptions, 
 
 Channel Support Operations
 
- See, [Additional features](additional-features.md)
+ See, [Additional features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/additional-features.md)
 
 </td></tr></tbody>
 </table>## What to explore next
 
 -   [What is Manufacturing Commercial Operations \(MCO\)?](https://www.servicenow.com/industries/manufacturing.html)
--   [Configure Manufacturing Commercial Operations](configuring-manufacturing-foundation.md)
--   [Using Manufacturing Commercial Operations](manufacturing-using.md)
--   [Reference](../reference/manufacturing-reference.md)
--   [Now Assist for Manufacturing Commercial Operations](../../now-assist-mco/reference/now-assist-for-MCO.md)
+-   [Configure Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/configuring-manufacturing-foundation.md)
+-   [Using Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-using.md)
+-   [Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/manufacturing-reference.md)
+-   [Now Assist for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../../now-assist-mco/reference/now-assist-for-MCO.md)
 

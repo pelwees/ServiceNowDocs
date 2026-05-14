@@ -33,7 +33,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 5.  In the Suspend customer contract window, enter the period of suspension for the customer contract in the **Start date and time** and **End date and time** fields.
 
-    **Note:** If you do not enter a value in the **End date and time** field, the customer contract is suspended indefinitely. You can resume the customer contract manually. For more info, see [Resume a customer contract](cce-resume-service-contract.md).
+    **Note:** If you do not enter a value in the **End date and time** field, the customer contract is suspended indefinitely. You can resume the customer contract manually. For more info, see [Resume a customer contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/cce-resume-service-contract.md).
 
 6.  Add a reason for a suspension in the **Reason for suspension** field.
 

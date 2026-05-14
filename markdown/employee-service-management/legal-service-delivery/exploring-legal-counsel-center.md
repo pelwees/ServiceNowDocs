@@ -43,14 +43,14 @@ The Legal Counsel Center is the next experience Workspace for the legal fulfille
 **Important:**
 
 -   The Matters and Matter tasks widgets are visible if the Legal Matter Management plugin is installed.
--   To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for Legal Counsel Center application and Legal Matter Management scope. For more information, see [Interview Management for Employee Relations](../../human-resources/concept/hr-er-interview-1.md#).
+-   To use interview templates, you must first install the Interview Templates plugin \(com.sn\_interview\_templates\) and enable the Requested RCA of Interview Templates for Legal Counsel Center application and Legal Matter Management scope. For more information, see [Interview Management for Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../human-resources/concept/hr-er-interview-1.md#).
 
 The following is an example of the Legal Counsel Center landing page.
 
-![Legal Counsel Center Home page](../image/landing-page.png "Example of the Legal Counsel Center")
+![Legal Counsel Center Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/landing-page.png "Example of the Legal Counsel Center")
 
--   **[Legal Counsel Center Classic](legal-counsel-center.md)**  
+-   **[Legal Counsel Center Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center.md)**  
 Legal Counsel Center Classic enables legal department members to categorize, prioritize, and efficiently address legal issues.
 
-**Parent Topic:**[Legal Counsel Center](legal-counsel-center-landing.md)
+**Parent Topic:**[Legal Counsel Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-landing.md)
 

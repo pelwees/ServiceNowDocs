@@ -45,9 +45,9 @@ This plugin enables customers to capture the current state of their install base
 </table>**Related topics**  
 
 
-[Assign roles](../task/configure-data-model-roles.md)
+[Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-data-model-roles.md)
 
-[Create and manage sold products for a business location](../task/create-sp-for-business-location.md)
+[Create and manage sold products for a business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-sp-for-business-location.md)
 
-[Create and manage install base items for a business location](../task/create-ib-items-for-business-locations.md)
+[Create and manage install base items for a business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-ib-items-for-business-locations.md)
 

@@ -21,5 +21,5 @@ The Active Sessions tab in the Identity Center helps you to identity your sessio
 
 Using this information can help determine if the sessions are real and not a security concern.
 
-![Active Sessions](../images/active-sessions.png)
+![Active Sessions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/active-sessions.png)
 

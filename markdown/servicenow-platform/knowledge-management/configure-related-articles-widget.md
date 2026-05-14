@@ -33,7 +33,7 @@ The knowledge article view page displays the Related Articles section when an ar
 
 3.  On the article page, press Control+right-click and select **Page in Designer**.
 
-4.  In the Service Portal Designer page, click the edit icon \(![edit](../image/Edit.png)\) on **Knowledge Related Articles** widget to add the related articles.
+4.  In the Service Portal Designer page, click the edit icon \(![edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/Edit.png)\) on **Knowledge Related Articles** widget to add the related articles.
 
     **Note:** You can also add **Knowledge Related Articles** widget using **Widgets** search field and drag-and-drop the widget to the blank field.
 
@@ -61,12 +61,12 @@ The knowledge article view page displays the Related Articles section when an ar
 6.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/km-service-portal-widget-instances.md)
 
 **Related topics**  
 
 
-[Map related articles](map-related-articles.md)
+[Map related articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/map-related-articles.md)
 
-[Knowledge Management Service Portal properties](../reference/knowledge-service-portal-properties.md)
+[Knowledge Management Service Portal properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/knowledge-service-portal-properties.md)
 

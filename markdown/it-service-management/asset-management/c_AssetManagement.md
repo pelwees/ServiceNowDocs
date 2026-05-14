@@ -31,16 +31,16 @@ Most successful ITAM programs involve various people and departments, including 
 
 Asset Management and the Configuration Management Database \(CMDB\) are related, but have different goals. Asset Management focuses on the financial tracking of company property. Configuration management focuses on building and maintaining elements that create an available network of services.
 
--   **[ITSM Software Asset Management](itsm-sam.md)**  
+-   **[ITSM Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/itsm-sam.md)**  
 The software asset management features of the ITSM suite can be activated using one of the plugins in the feature table.
--   **[Contract Management](../../contract-management/concept/c_ContractManagement.md)**  
+-   **[Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../contract-management/concept/c_ContractManagement.md)**  
 Manage and track contracts with the ServiceNow® Contract Management application.
--   **[Procurement](../../procurement/concept/c_Procurement.md)**  
+-   **[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../procurement/concept/c_Procurement.md)**  
 Procurement managers can use the ServiceNow® Procurement application to create purchase orders and to obtain items for fulfilling service catalog requests.
--   **[Product Catalog](../../product-catalog/concept/c_ProductCatalog.md)**  
+-   **[Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../product-catalog/concept/c_ProductCatalog.md)**  
 The product catalog is a set of information about individual models. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../it-service-management/reference/r_ITServiceManagement.md)
 
 **Related topics**  
 

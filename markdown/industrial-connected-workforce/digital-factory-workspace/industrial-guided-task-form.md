@@ -114,8 +114,8 @@ Due date
 
 </td><td>
 
-The date by which the task is to be executed. If not set, it’s calculated based on priority. For more details, see [Due date calculation](due-date-calculation.md).
+The date by which the task is to be executed. If not set, it’s calculated based on priority. For more details, see [Due date calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/due-date-calculation.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Guided Tasks reference](industrial-guided-tasks-reference.md)
+</table>**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 

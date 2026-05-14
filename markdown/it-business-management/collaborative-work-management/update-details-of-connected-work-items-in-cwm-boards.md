@@ -33,9 +33,9 @@ The details of connected work items can be updated only from the side panel and 
 
 4.  Update the required details.
 
-    You can also choose to open the original record form and update the details from there using the Detailed form view icon \(![Detailed form view icon.](../images/cwm-icon-detailed-form-view.png)\).
+    You can also choose to open the original record form and update the details from there using the Detailed form view icon \(![Detailed form view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-detailed-form-view.png)\).
 
-    ![Item details in side panel for connected work.](../images/cwm-connected-work-update.png)
+    ![Item details in side panel for connected work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-connected-work-update.png)
 
 5.  If you've edited the details in CWM, select **Update** or **Save**.
 
@@ -44,5 +44,5 @@ The details of connected work items can be updated only from the side panel and 
 
 The updated information is available on the work item both in CWM and in its parent application.
 
-**Parent Topic:**[Connected work in CWM](../concept/unified-boards-for-connected-work-in-cwm.md)
+**Parent Topic:**[Connected work in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/unified-boards-for-connected-work-in-cwm.md)
 

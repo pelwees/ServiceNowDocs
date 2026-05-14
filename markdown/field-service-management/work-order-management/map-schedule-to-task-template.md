@@ -21,7 +21,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 ## About this task
 
-If you set the template type of a work plan to Task plan template, you can link its planned work schedules with task plan templates. For more information, see [Create a work plan](create-work-plan.md).
+If you set the template type of a work plan to Task plan template, you can link its planned work schedules with task plan templates. For more information, see [Create a work plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-work-plan.md).
 
 When the conditions specified in the planned work schedule template are met, tasks, cases, or incidents are created based on the defined task plan templates.
 

@@ -53,5 +53,5 @@ Install Goal Framework for SPM by requesting it from the ServiceNow Store. Visit
     The Goal Framework for SPM application is an extension to the Goal Framework application. When you install Goal Framework for SPM, you get all the features of Goal Framework along with the target automation feature.
 
 
-**Parent Topic:**[Strategic Portfolio Management release notes](it-business-management-rn-landing.md)
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-business-management-rn-landing.md)
 

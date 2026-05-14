@@ -21,16 +21,16 @@ Core UI is required to use Live Feed. Live Feed is not supported in Next Experie
 
 While Live Feed has been discontinued, we are always exploring new ways to enhance our services. Stay tuned for future updates and improvements.
 
--   **[Document feeds](c_DocumentFeeds.md)**  
+-   **[Document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_DocumentFeeds.md)**  
 A document feed is a Live Feed group that is associated with a record, such as an incident or change.
--   **[Record feeds](c_RecordFeeds.md)**  
+-   **[Record feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_RecordFeeds.md)**  
 A record feed is a Live Feed group that is associated with a record, such as an incident or change.
--   **[Live Feed table notifications](c_SetUpLiveFeedTableNotifications.md)**  
+-   **[Live Feed table notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_SetUpLiveFeedTableNotifications.md)**  
 Live feed table notifications generate automatic Live Feed messages. The Live Feed plugin must be activated to use table notifications.
--   **[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)**  
+-   **[Live Feed security and table access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedTableAccessRules.md)**  
 By default, administrators and users with the live\_feed\_admin role can configure live feed security and view all Live Feed tables.
--   **[Provide access to Live Feed from CMS pages](../task/t_AccessLiveFeedFromCMSPages.md)**  
+-   **[Provide access to Live Feed from CMS pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../task/t_AccessLiveFeedFromCMSPages.md)**  
 You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
 
-**Parent Topic:**[Manage people and work capabilities](../../../administer/general/concept/manage-people.md)
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../administer/general/concept/manage-people.md)
 

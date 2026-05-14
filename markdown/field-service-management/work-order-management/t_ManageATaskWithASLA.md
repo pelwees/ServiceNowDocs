@@ -31,7 +31,7 @@ Role required: wm\_admin, wm\_dispatcher, or dispatcher combination role
     |Skills Needed|Skills needed to perform the work.|
     |Parts Needed|Parts needed to perform the work.|
 
-    ![Field Service agent's SLA map showing the low, medium, and high risk SLA tasks at their location.](../../field-service-management/image/SLAMap.png "SLA map detail")
+    ![Field Service agent's SLA map showing the low, medium, and high risk SLA tasks at their location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/SLAMap.png "SLA map detail")
 
 2.  Click the task number link to display the record in a pop-up window in the map.
 

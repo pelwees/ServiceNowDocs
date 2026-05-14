@@ -49,19 +49,19 @@ The Issue Auto Resolution dashboard lets your administrators monitor your dashbo
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees use the request channels and get help through their preferred response channels with Issue Auto Resolution.](exploring-issue-auto-resolution-hr.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees use the request channels and get help through their preferred response channels with Issue Auto Resolution.](exploring-issue-auto-resolution-hr.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Process how HR cases and feedback are handled by Issue Auto Resolution.](using-iar-for-hr.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Process how HR cases and feedback are handled by Issue Auto Resolution.](using-iar-for-hr.md)
 
 </td></tr><tr><td>
 
-[Platform Analytics Solution![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor the success metrics of Issue Auto Resolution based on the application's case resolution performance.](iar-for-hr-dashboard.md)
+[Platform Analytics Solution![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor the success metrics of Issue Auto Resolution based on the application's case resolution performance.](iar-for-hr-dashboard.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn about Issue Auto Resolution implementation.](configuring-issue-auto-resolution.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn about Issue Auto Resolution implementation.](configuring-issue-auto-resolution.md)
 
 </td></tr></tbody>
 </table>

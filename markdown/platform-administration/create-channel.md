@@ -94,7 +94,7 @@ The service provider for SMS messages.
 
 ## What to do next
 
-To receive notifications on your new notification channel, you must enable the channel for individual notifications. After you enable the channel for a notification, you can set conditions to further control the notifications that you receive on the channel. For more information, see [Apply notification conditions](apply-notification-conditions.md).
+To receive notifications on your new notification channel, you must enable the channel for individual notifications. After you enable the channel for a notification, you can set conditions to further control the notifications that you receive on the channel. For more information, see [Apply notification conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md).
 
-**Parent Topic:**[Setting notification preferences in Core UI](../concept/user-notification-preferences.md)
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/user-notification-preferences.md)
 

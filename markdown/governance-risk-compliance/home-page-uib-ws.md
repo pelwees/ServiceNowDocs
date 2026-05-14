@@ -28,7 +28,7 @@ Each tab shows cards that highlight key states, detailed views, and visualizatio
 
 The **Crisis events** tab in the Home page displays various cards that offer information on the crisis events. You can review the crisis events in various states, details of the selected crisis events, and monitoring and tracking of the crisis events. The example shows the cards in the **Crisis events** tab. You can select **Report crisis** to start a new crisis event.
 
-![Crisis events tab in the Home page.](../image/bcm-manager-homepage-view.png)
+![Crisis events tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-manager-homepage-view.png)
 
 See the table for the description of the cards in the **Crisis events** tab:
 
@@ -162,7 +162,7 @@ Action button to report a crisis and create a crisis event from the **Crisis eve
 
 The **Business impact analysis** tab displays various cards that offer information on the business impact analyses. You can review the business impact analyses in various states, details of the selected analyses, and monitoring and tracking of the analyses. The example shows the cards in the **Business impact analysis** tab. You can select **Create BIA** to start a new analysis.
 
-![Business impact analysis tab in the Home page.](../image/bia-home-page.png)
+![Business impact analysis tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-home-page.png)
 
 See the table for the description of the cards in the **Business impact analysis** tab:
 
@@ -235,7 +235,7 @@ Service, process, or company that the business impact analysis applies to.
 
 Finalized RTO populated from the BIA record. If you open the column chart in 'Assets by RTO', the revised column name 'Finalized RTO' is displayed.
 
-![RTO.](../image/bia-rto.png)![Column.](../image/rto-home-page.png)
+![RTO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-rto.png)![Column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-home-page.png)
 
 -   **State**
 
@@ -274,7 +274,7 @@ Action button to create a business impact analysis from the **Business impact an
 
 The **Planning** tab in the Home page displays various cards that offer information on the business continuity plans. You can review the business continuity plans, details of the selected plans, and monitoring and tracking of the plans. The example shows the cards in the **Business continuity plan** tab. You can select **Create BCP** to create a new plan.
 
-![Planning tab in the Home page.](../image/bcp-homepage-uib.png)
+![Planning tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcp-homepage-uib.png)
 
 See the table for the description of the cards in the **Planning** tab:
 
@@ -380,7 +380,7 @@ Action button to create a business continuity plan from the **Planning** tab. Wh
 
 The **Exercises** tab in the Home page displays various cards that offer information on the exercise events. You can review the exercise events in various states, details of the selected exercise events, and monitoring and tracking of the exercise events. The example shows the cards in the **Exercises** tab. You can select **Create exercise** to create a new event.
 
-![Exercises tab in the Home page.](../image/exercises-homepage.png)
+![Exercises tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/exercises-homepage.png)
 
 See the table for the description of the cards in the **Exercises** tab:
 
@@ -516,11 +516,11 @@ When you log in to the BCM application, the Home page view is displayed accordin
 
 A typical Home page view for a BCM manager is shown in the example.
 
-![Exercises tab in the Home page.](../image/exercises-homepage.png)
+![Exercises tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/exercises-homepage.png)
 
 A typical Home page view for a BCM planner is shown in the example.
 
-![Home page view for the BCM planner.](../image/bcm-planner-homepage-view.png)
+![Home page view for the BCM planner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-planner-homepage-view.png)
 
-For information on the tabs and their associated actions in the Home page, see [Home page view](home-page-uib-ws.md).
+For information on the tabs and their associated actions in the Home page, see [Home page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 

@@ -28,7 +28,7 @@ You can use the hierarchy structure of an install base item to perform the follo
 -   Set any node as a home node.
 -   Create a case from the node.
 
-    To learn about different case types and how to create a case from an install base node, see [Customer service case types](customer-service-case-types.md).
+    To learn about different case types and how to create a case from an install base node, see [Customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md).
 
 -   View details of a node. This opens up the entire record of the install base item.
 

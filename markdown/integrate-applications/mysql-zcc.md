@@ -13,10 +13,10 @@ breadcrumb: [Community connectors, Zero Copy Connectors, Workflow Data Fabric]
 
 The MySQL connector provides read-only access to data and metadata from a MySQL instance.
 
-A connection admin can create a connection to MySQL and give data stewards access to that connection in Zero Copy Connector Hub. A data steward can select the established connection to create a data fabric table and map data from MySQL. This allows users to retrieve MySQL data through the table list view or GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](managing-data-fabric-tables-zcc.md).
+A connection admin can create a connection to MySQL and give data stewards access to that connection in Zero Copy Connector Hub. A data steward can select the established connection to create a data fabric table and map data from MySQL. This allows users to retrieve MySQL data through the table list view or GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-data-fabric-tables-zcc.md).
 
 **Related topics**  
 
 
-[Create a MySQL connection](../task/create-mysql-connection-zcc.md)
+[Create a MySQL connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-mysql-connection-zcc.md)
 

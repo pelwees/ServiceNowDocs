@@ -17,7 +17,7 @@ The Process Qualification Request subflow generates a qualification request base
 
 In the first step of the subflow, a TMF-641 compatible payload to be sent to the inventory system is generated. The `serviceQualificationItem` list in the payload consists of the service order information, the hierarchy, and all the characteristics. A sample payload is shown in the following example:
 
-![Infographic displaying the process qualification request subflow. For more information, refer to the text that follows.](../image/order-mgt-tsq-process-subflow.png)
+![Infographic displaying the process qualification request subflow. For more information, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-mgt-tsq-process-subflow.png)
 
 In this example, you can see that the `serviceQualificationItem` has multiple service orders and you can also see the hierarchy or the parent and child relationships between them.
 
@@ -27,9 +27,9 @@ This step launches the Order Qualification Request integration request type from
 
 If the response is received asynchronously, the response should be passed to the Process Qualification Response. Along with the result, if the response has additional information related to alternate service proposal or eligibility unavailability reason, this information is updated for the corresponding service order. A sample response is shown here:
 
-![Infographic displaying the sample qualification response. For more information, refer to the text that follows.](../image/order-mgt-tsq-process-response.png)
+![Infographic displaying the sample qualification response. For more information, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-mgt-tsq-process-response.png)
 
 In this example response, the `qualificationresult` is set to Qualified for all the service orders in the hierarchy and the final `result` is also set to Qualified.
 
-**Parent Topic:**[Service qualification requests](../concept/order-mgt-tsq-about.md)
+**Parent Topic:**[Service qualification requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-tsq-about.md)
 

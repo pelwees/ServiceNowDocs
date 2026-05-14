@@ -23,7 +23,7 @@ Role required: it\_project\_manager or it\_project\_user
 
 1.  Navigate to **All** &gt; **Project** &gt; **Investment Portal**.
 
-2.  From the My Investment Views page, [create an investment report](create-an-investment-report.md) and navigate to Investment Portal.
+2.  From the My Investment Views page, [create an investment report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/create-an-investment-report.md) and navigate to Investment Portal.
 
 3.  Use the following banner icons.
 
@@ -37,7 +37,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d171440e96">
 
-**Home ![Icon to return to the My Investment Views page](../image/HomeIcon.png)**
+**Home ![Icon to return to the My Investment Views page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/HomeIcon.png)**
 
 </td><td>
 
@@ -45,7 +45,7 @@ Return to the My Investment Views page.
 
 </td></tr><tr><td id="d171440e111">
 
-**![Investment Portal list](../image/investment-portal-dropdown.png)**
+**![Investment Portal list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/investment-portal-dropdown.png)**
 
 </td><td>
 
@@ -53,7 +53,7 @@ Select another board to view its details on Investment Portal.
 
 </td></tr><tr><td id="d171440e126">
 
-**Save ![Icon to save the board preferences.](../image/save_icon.png)**
+**Save ![Icon to save the board preferences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/save_icon.png)**
 
 </td><td>
 
@@ -61,7 +61,7 @@ Save your board preferences.
 
 </td></tr><tr><td id="d171440e141">
 
-**Bookmark ![Icon to bookmark a board](../image/bookmark.png)**
+**Bookmark ![Icon to bookmark a board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/bookmark.png)**
 
 </td><td>
 
@@ -69,7 +69,7 @@ Add the board to the **Bookmarked** tab on the My Investment Views page.
 
 </td></tr><tr><td id="d171440e160">
 
-**Edit ![Icon to edit the filter criteria of the board](../image/edit_investment.png)**
+**Edit ![Icon to edit the filter criteria of the board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/edit_investment.png)**
 
 </td><td>
 
@@ -77,7 +77,7 @@ Edit filter criteria of the board to further refine your list. This option is av
 
 </td></tr><tr><td id="d171440e175">
 
-**Copy ![Icon to copy the filter criteria of the board](../image/copy_investment.png)**
+**Copy ![Icon to copy the filter criteria of the board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/copy_investment.png)**
 
 </td><td>
 
@@ -85,7 +85,7 @@ Copy the filter criteria of the board to create another investment board.
 
 </td></tr><tr><td id="d171440e190">
 
-**Delete ![Icon to delete a board](../image/delete_investment.png)**
+**Delete ![Icon to delete a board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/delete_investment.png)**
 
 </td><td>
 
@@ -93,7 +93,7 @@ Delete the board if it is no longer needed. This option is available to you only
 
 </td></tr><tr><td id="d171440e205">
 
-**Users/Groups ![Icon used to share board with other users and groups](../image/share_users.png)**
+**Users/Groups ![Icon used to share board with other users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/share_users.png)**
 
 </td><td>
 
@@ -109,7 +109,7 @@ To share the board with other groups:
 
 </td></tr><tr><td id="d171440e256">
 
-**Widget Configuration ![Icon used to configure widgets on the investment board](../image/configuration_investment.png)**
+**Widget Configuration ![Icon used to configure widgets on the investment board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/configuration_investment.png)**
 
 </td><td>
 
@@ -134,7 +134,7 @@ Action
 
 </td><td>
 
-Drag the column heading to this location![Icon to segregate data based on a group-level column](../image/drag_area.png). This option is available in both the **Overview** and **Financials** tabs.
+Drag the column heading to this location![Icon to segregate data based on a group-level column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/drag_area.png). This option is available in both the **Overview** and **Financials** tabs.
 
 </td></tr><tr><td id="d171440e334">
 
@@ -198,7 +198,7 @@ Select the**Year/Quarter/Month** option, which is available in both the **Timeli
 
 </td><td>
 
-Select the **Configuration** ![Icon to add a column in any tab](../image/configuration_investment.png) icon. 1.  Select **Add column**.
+Select the **Configuration** ![Icon to add a column in any tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/configuration_investment.png) icon. 1.  Select **Add column**.
 2.  In the Add column window, fill in the fields:
     1.  In **Name**, specify a name for the column.
     2.  In **Select Column Type**, the **Demand/Project** value is selected by default.
@@ -216,7 +216,7 @@ Select the **Configuration** ![Icon to add a column in any tab](../image/configu
 
 </td><td>
 
-1.  Select the **Configuration** ![Icon to hide a column in any tab](../image/configuration_investment.png) icon.
+1.  Select the **Configuration** ![Icon to hide a column in any tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/configuration_investment.png) icon.
 2.  Deselect the check box of the column to be hidden.
  **Note:** You can view a CSM column in an Investment Portal board, but you cannot add such columns in the board.
 
@@ -226,7 +226,7 @@ Select the **Configuration** ![Icon to add a column in any tab](../image/configu
 
 </td><td>
 
-1.  Select the **Configuration** ![Icon to hide a column in any tab](../image/configuration_investment.png) icon.
+1.  Select the **Configuration** ![Icon to hide a column in any tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/configuration_investment.png) icon.
 2.  Select **Reset to defaults**.
 
 
@@ -236,22 +236,22 @@ Select the **Configuration** ![Icon to add a column in any tab](../image/configu
 
 </td><td>
 
-1.  Select the **Configuration** ![Icon to hide a column in any tab](../image/configuration_investment.png) icon.
+1.  Select the **Configuration** ![Icon to hide a column in any tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/configuration_investment.png) icon.
 2.  Select **Export to excel**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Investment Portal](../concept/investment-portal.md)
+**Parent Topic:**[Investment Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../concept/investment-portal.md)
 
 **Related topics**  
 
 
-[View all your investment boards in one location](../concept/my-investments-tabs.md)
+[View all your investment boards in one location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../concept/my-investments-tabs.md)
 
-[Create an investment board](create-an-investment-report.md)
+[Create an investment board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/create-an-investment-report.md)
 
-[Configure your investment metrics as widgets](configure-investment-metrics.md)
+[Configure your investment metrics as widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/configure-investment-metrics.md)
 
-[Investment Portal](../concept/investment-portal.md)
+[Investment Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../concept/investment-portal.md)
 

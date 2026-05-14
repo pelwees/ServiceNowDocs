@@ -51,7 +51,7 @@ You can also generate resolution information on demand from the Now Assist panel
     -   **Resolution notes**
     If the **Resolution notes** field on the case record is empty, the resolution notes generation skill adds the information to this field in the modal.
 
-    ![AI-generated resolution information for a case record.](../image/now-assist-csm-propose-solution-modal.png "Propose Solution modal")
+    ![AI-generated resolution information for a case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-propose-solution-modal.png "Propose Solution modal")
 
 3.  Select a **Resolution code** for the case.
 
@@ -78,7 +78,7 @@ You can also generate resolution information on demand from the Now Assist panel
     -   The case moves to the Resolved state.
     -   The resolution is proposed to the customer.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 
 ## Generate resolution notes in case form
 
@@ -109,7 +109,7 @@ An agent can do these actions by using the Now Assist icon ![](../../../common
 
     Now Assist icon ![](../../../common/image/icon-ai-sparkle.png) generates a recommended text that is based on the context of the case.
 
-    ![Resolution notes is generated](../image/now-assist-csm-resolutionnotes-caseform-generate.png "Generate resolution notes using the Now Assist icon")
+    ![Resolution notes is generated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-resolutionnotes-caseform-generate.png "Generate resolution notes using the Now Assist icon")
 
 4.  Select **Insert** to add the generated content into the resolution notes field.
 
@@ -117,6 +117,6 @@ An agent can do these actions by using the Now Assist icon ![](../../../common
 
     You get the option to either elaborate or shorten the content as needed.
 
-    ![Shorten or elaborate the resolution note](../image/now-assist-csm-resolutionnotes-caseform-refine.png "Refine resolution notes using the Now Assist icon")
+    ![Shorten or elaborate the resolution note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-resolutionnotes-caseform-refine.png "Refine resolution notes using the Now Assist icon")
 
 

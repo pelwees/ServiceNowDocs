@@ -17,7 +17,7 @@ Request an electronic signature through the DocuSign service. When the case stat
 
 ## Before you begin
 
-An HR integrations administrator must have set up the integration between HR Service Delivery and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/docusign-integration-for-hr.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 
@@ -32,11 +32,11 @@ Role required: sn\_hr\_core.case\_writer
     -   Request Signature using DocuSign on Adhoc Document
     -   Request Signature using DocuSign Template
     -   &lt;Name of custom HR service&gt;
-    ![Select the employee you are creating the background check request case for.](../image/request-background-check-1.png)
+    ![Select the employee you are creating the background check request case for.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/request-background-check-1.png)
 
 4.  Fill in the other fields on the form, as appropriate.
 
-    For further details on the form fields, see [Create an HR case](search-hr-case.md).
+    For further details on the form fields, see [Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md).
 
 5.  Click **Create Case**.
 
@@ -88,5 +88,5 @@ Document voided or flow errored
 -   No attachments to case
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an HR case](search-hr-case.md)
+</table>**Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 

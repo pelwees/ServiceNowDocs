@@ -19,6 +19,6 @@ As a user with the sn\_vaccine\_sm.admin role, you can configure the scheduling 
 
 Also, you can configure location-specific and inventory-based appointment scheduling. For details, see:
 
--   [Configure advanced appointment scheduling for a center](../task/configure-location-level-weekly-schedule-config.md).
--   [Configure inventory-based scheduling for a center](../task/configure-scheduling-by-inventory.md).
+-   [Configure advanced appointment scheduling for a center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../task/configure-location-level-weekly-schedule-config.md).
+-   [Configure inventory-based scheduling for a center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../task/configure-scheduling-by-inventory.md).
 

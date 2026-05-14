@@ -19,7 +19,7 @@ This API is part of the Domain Separation Center dashboard and is available in t
 
 The com.glide.domain.msp\_extensions.installer plugin must be activated for Domain Separation Center dashboard availability.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## DSCScriptableAPI - DSCScriptableAPI\(\)
 

@@ -39,5 +39,5 @@ The Strategic Portfolio Management KPIs are performance analytic indicators that
 |Average number of scrum teams per ART|Total number of teams in ARTs / Total number of ARTs|
 |Average scrum team size|Total number of members in scrum teams / Total number of scrum teams|
 
-**Parent Topic:**[SPM Benchmarks reference](benchmarks-reference.md)
+**Parent Topic:**[SPM Benchmarks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-reference.md)
 

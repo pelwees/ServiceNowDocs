@@ -27,7 +27,7 @@ Role required: pa\_power\_user or admin
 
 The Text widget provides a word cloud for visualizing the frequency of words and phrases.
 
-![Word cloud of text from open incidents, top half](../image/word-cloud-top.png "Word cloud visualization - text widget")
+![Word cloud of text from open incidents, top half](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/word-cloud-top.png "Word cloud visualization - text widget")
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 
     **Note:** This widget type does not support multiple element selection. If you select multiple elements on a breakdown dashboard with this widget, the widget ignores all selected elements.
 
-    For more information, see [Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md).
+    For more information, see [Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/set-up-widgets-for-breakdown-dashboards.md).
 
 7.  Set the cutoff value, which filters which words and phrases are shown in the widget based on the frequency of a word or phrase in the field:
 
@@ -115,6 +115,6 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 
 -   Add the widget to a dashboard.
 -   The admin or the dashboard owner shares the dashboard containing the widget with these users.
--   Text analysis uses special steps in the [data collection job](../concept/performance-analytics-glossary.md#). If no data is available for the widget, verify that the relevant data collection job has run and that the job collects text indexes. See [Collect initial text analytics data](collect-initial-text-analytics-data.md).
+-   Text analysis uses special steps in the [data collection job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#). If no data is available for the widget, verify that the relevant data collection job has run and that the job collects text indexes. See [Collect initial text analytics data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/collect-initial-text-analytics-data.md).
 -   Filter the word cloud by keywords.
 

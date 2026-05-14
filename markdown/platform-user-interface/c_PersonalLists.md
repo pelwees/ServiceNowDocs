@@ -15,7 +15,7 @@ You can create personal lists to customize which columns appear and the order in
 
 Personal list customizations don’t affect what other users see in their lists. Administrators can [manage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/c_AdministeringPersonalLists.md) the personal lists function.
 
-**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 ## Personalize a list
 
@@ -29,11 +29,11 @@ Role required: personalize\_list or admin
 
 1.  Open the list.
 
-2.  Select the personalize list icon \(![Personalize list icon](../image/PersonalizeListIcon.png)\) in the right corner.
+2.  Select the personalize list icon \(![Personalize list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/PersonalizeListIcon.png)\) in the right corner.
 
 3.  Select the columns and the desired order.
 
-    ![Personalize list columns](../image/PersonalizeListColumns.png)
+    ![Personalize list columns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/PersonalizeListColumns.png)
 
     **Note:**
 
@@ -49,7 +49,7 @@ Role required: personalize\_list or admin
 
 </td><td>
 
-Select the **Wrap column text** check box. Clear the check box to display text on one line.In Core UI, this option is also available in the **Lists** section of the [system settings](../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
+Select the **Wrap column text** check box. Clear the check box to display text on one line.In Core UI, this option is also available in the **Lists** section of the [system settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
 
 </td></tr><tr><td id="d44033e202">
 
@@ -73,7 +73,7 @@ Select the **Active row highlighting** check box. Clear the check box to restore
 
 </td><td>
 
-Select the **Modern cell coloring** check box.In Core UI, this option is also available in the **Lists** section of the [system settings](../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
+Select the **Modern cell coloring** check box.In Core UI, this option is also available in the **Lists** section of the [system settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/reference/r_UI16BannerFrame.md).
 
 </td></tr></tbody>
 </table>5.  Select list editing options \(requires you to configure the list editor\).

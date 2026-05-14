@@ -24,17 +24,17 @@ Enable the following plugins:
 -   Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\)
 -   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\)
 -   
-Complete the steps in the [Request Software Asset Management](t_RequSoftwareAssetMgmt.md) topic.
+Complete the steps in the [Request Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) topic.
 
 ## Procedure
 
 1.  Integrate with Microsoft 365 in the cloud for user subscription data.
 
-    For more information, see [Create a Microsoft 365 integration profile](set-up-microsoft-office-365.md).
+    For more information, see [Create a Microsoft 365 integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/set-up-microsoft-office-365.md).
 
 2.  Configure Microsoft Power BI for gaining access to Power BI service content and APIs.
 
-    Power BI service content and APIs help optimize your Microsoft 365 subscriptions, such as by downgrading subscriptions from Office 365 E5 to Office 365 E3. For more information, see [Enable service principal authentication for Power BI read-only APIs](enable-service-principal-authentication-microsoft.md).
+    Power BI service content and APIs help optimize your Microsoft 365 subscriptions, such as by downgrading subscriptions from Office 365 E5 to Office 365 E3. For more information, see [Enable service principal authentication for Power BI read-only APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/enable-service-principal-authentication-microsoft.md).
 
 3.  Integrate with an inventory tool for installation usage data.
 
@@ -44,9 +44,9 @@ Complete the steps in the [Request Software Asset Management](t_RequSoftwareAsse
         **Note:** ServiceNow Agent Client Collector \(ACC\) is a separately licensed IT Operations Management \(ITOM\) product. For details, contact your ServiceNow account executive.
 
     -   For integrating with Jamf for MAC OS devices, complete the steps in the [Service Graph Connector for Jamf](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-jamf.md) topic and all subtopics.
-    -   To integrate with a third-party inventory tool, complete the steps in the [Software asset connections](../concept/third-party-discovery-sam.md) topic and all subtopics.
+    -   To integrate with a third-party inventory tool, complete the steps in the [Software asset connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/third-party-discovery-sam.md) topic and all subtopics.
 
 ## What to do next
 
-[Validate subscription, installation, and usage data](validate-sub-sg.md)
+[Validate subscription, installation, and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/validate-sub-sg.md)
 

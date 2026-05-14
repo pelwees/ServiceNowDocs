@@ -19,7 +19,7 @@ A risk heatmap is a data visualization tool that is used for communicating the s
 
 To view the operational risk heatmaps, ensure that you activate the GRC Risk Management \(sn\_risk\) plugin. When you click any tile of the heatmap, you can view the risk records and see the entity, the risk statement, the owning group, the owner and the calculated scores.
 
-![Risk heatmap for classic risk assessment.](../image/heatmap-classic-risk-assess.jpg "Classic risk assessment heatmap")
+![Risk heatmap for classic risk assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/heatmap-classic-risk-assess.jpg "Classic risk assessment heatmap")
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
 

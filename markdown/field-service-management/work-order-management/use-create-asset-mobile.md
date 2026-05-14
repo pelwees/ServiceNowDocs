@@ -71,7 +71,7 @@ Record the usage of an asset:
 -   Manually record the usage of an asset by selecting the part from your inventory, swiping to the left, and selecting **Use Part**.
 -   Scan the asset tag to record the asset usage:
     1.  Select the part record.
-    2.  Tap the more actions \(![More actions icon.](../image/OverflowIcon.png)\) icon and select **Scan Part** to scan a single part, or select **Scan Multiple Parts** to scan the barcodes of more than one part sequentially.
+    2.  Tap the more actions \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and select **Scan Part** to scan a single part, or select **Scan Multiple Parts** to scan the barcodes of more than one part sequentially.
 
 **Note:** You can scan a maximum of five parts sequentially. To change the limit for your requirements, see [Configure a grouped input for multiple scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md).
 
@@ -99,7 +99,7 @@ Record the removal of an asset:
 -   Scan the asset tag to record the removal of an asset:
     1.  Select **Remove part**.
     2.  Select **Scan to remove**.
-    3.  Tap the overflow icon \(![Overflow Icon.](../image/OverflowIcon.png)\) and then to scan a part, select **Scan to remove**.
+    3.  Tap the overflow icon \(![Overflow Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) and then to scan a part, select **Scan to remove**.
 
 **Note:** You can scan a maximum of five parts sequentially. To change the limit for your requirements, see [Configure a grouped input for multiple scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md).
 
@@ -150,5 +150,5 @@ Record the replacement of an asset:
 **Related topics**  
 
 
-[Record asset usage](../../planning-and-policy/task/t_RecordAssetUsage.md)
+[Record asset usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_RecordAssetUsage.md)
 

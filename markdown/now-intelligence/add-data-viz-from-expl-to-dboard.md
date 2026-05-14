@@ -21,11 +21,11 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
 1.  Launch AI Data Explorer.
 
-    For more information, see [Launch AI Data Explorer](launch-now-assist-explorer.md).
+    For more information, see [Launch AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md).
 
 2.  Open or create an exploration.
 
-3.  When you get a response with a data visualization that you want to put on a dashboard, select the **Add to dashboard** ![Add visualization to dashboard](../image/nowass-expl-add-viz-dboard-icon.png) button on the visualization.
+3.  When you get a response with a data visualization that you want to put on a dashboard, select the **Add to dashboard** ![Add visualization to dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-add-viz-dboard-icon.png) button on the visualization.
 
 4.  Select a new or existing dashboard, or the current dashboard if applicable.
 
@@ -33,11 +33,11 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
     -   If you are in AI Data Explorer in its own browser tab, you have the choice of adding the visualization to a new dashboard or to an existing one. \(These are also your choices if you have AI Data Explorer open in a floating panel above a page that is not a dashboard.\)
 
-        ![Add to Dashboard options when in an AI Data Explorer tab.](../image/nowass-expl-add-viz-dboard.png)
+        ![Add to Dashboard options when in an AI Data Explorer tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-add-viz-dboard.png)
 
     -   If you have a dashboard open in your main tab and AI Data Explorer in a floating panel on top of it, you can also add a visualization directly to the current dashboard tab without having to go through the **Add to existing dashboard** menu.
 
-        ![Add to dashboard options from a modal on top of a dashboard.](../image/ai-data-expl-add-viz-current-dboard.png)
+        ![Add to dashboard options from a modal on top of a dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/ai-data-expl-add-viz-current-dboard.png)
 
 5.  If you select **Add to existing dashboard**, choose the dashboard and a tab, if applicable.
 
@@ -48,9 +48,9 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
 The dashboard opens in full screen while the exploration moves to a modal in the foreground, if this isn’t already the case. You can now use the **Add to current dashboard** option to copy more data visualizations from your exploration to the dashboard.
 
-To save your visualization in the dashboard, select **Save** in the dashboard controls. You can either edit the dashboard further or continue working where you were in the exploration. You can maximize the modal with the exploration or open it in a new tab. If you hover over the **Explore with AI** button ![Explore with AI button](../image/analyze-ai-icon.png) on the visualization on the dashboard and select one of the follow-up questions, that question is processed in the exploration. Exit the edit mode to enable the **Explore with AI** button.
+To save your visualization in the dashboard, select **Save** in the dashboard controls. You can either edit the dashboard further or continue working where you were in the exploration. You can maximize the modal with the exploration or open it in a new tab. If you hover over the **Explore with AI** button ![Explore with AI button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/analyze-ai-icon.png) on the visualization on the dashboard and select one of the follow-up questions, that question is processed in the exploration. Exit the edit mode to enable the **Explore with AI** button.
 
-![Dashboard and exploration after visualization is copied and follow-up is asked](../image/nowass-expl-imp-viz-w-followup.png "Dashboard and exploration after visualization is copied and follow-up is asked")
+![Dashboard and exploration after visualization is copied and follow-up is asked](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-imp-viz-w-followup.png "Dashboard and exploration after visualization is copied and follow-up is asked")
 
-**Parent Topic:**[Questions and responses in an exploration](../concept/ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/ask-expl-questions.md)
 

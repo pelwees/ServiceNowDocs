@@ -38,7 +38,7 @@ This procedure describes the process as performed from the user interface. Alter
 
 2.  On the Tag Categories list, select **New**.
 
-    For the list of default tag categories, see [List of default tag categories](../reference/default-tag-categories.md).
+    For the list of default tag categories, see [List of default tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/default-tag-categories.md).
 
     **Note:** In this step, you add a single tag name to the category to create the initial category record. You can add any number of tag names to the category later.
 
@@ -82,7 +82,7 @@ Tag names
 
 </td><td>
 
-The list of tag names that you can add to the category.1.  Select the Lookup icon ![Search icon.](../../software-asset-management2/image/search-icon.png) to open the list of tag names that came with the latest Billing Download Job. All tag names appear on the Tag Names list.
+The list of tag names that you can add to the category.1.  Select the Lookup icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../software-asset-management2/image/search-icon.png) to open the list of tag names that came with the latest Billing Download Job. All tag names appear on the Tag Names list.
 2.  Select tag names from the drop-down list.
 
 
@@ -95,13 +95,13 @@ The list of tag names that you can add to the category.1.  Select the Lookup ico
 
     The Tag Category form reopens and the tag name that you added appears in the **Tag names** list.
 
-6.  On the **Tag names** list, select the Lookup icon ![Search icon.](../../software-asset-management2/image/search-icon.png) to add multiple tag names.
+6.  On the **Tag names** list, select the Lookup icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../software-asset-management2/image/search-icon.png) to add multiple tag names.
 
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/using-cloud-insights.md)
 
 **Related topics**  
 
 
-[Tags and tag categories](../reference/tags-overview.md)
+[Tags and tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/tags-overview.md)
 

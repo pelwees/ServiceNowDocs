@@ -33,21 +33,21 @@ Beginning with Release 20.1.x, the Operational Resilience application supports t
 
 4.  On the Impacted area form, fill in the fields.
 
-    To view more information on the fields, see the [Impacted area form](../reference/impacted-area-form.md).
+    To view more information on the fields, see the [Impacted area form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/impacted-area-form.md).
 
 5.  Select **Save**.
 
     When you add the primary origin of the operational vulnerability, its impacted areas with upstream entities are updated on the **Impacted areas** tab.
 
-    ![Impacted areas with upstream entities.](../image/op-vul-pri-ori-imp-area.png)
+    ![Impacted areas with upstream entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-pri-ori-imp-area.png)
 
     When the scheduled job is executed, the updated impacted areas and the overall operational vulnerability count are reflected in the dashboard.
 
-    ![Count 0.](../image/op-vul-count-0.png)
+    ![Count 0.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-count-0.png)
 
     For example, when the impacted areas in the operational vulnerability are updated, the operational vulnerability count on the overview page of SO1 remains at 0 before the scheduled job runs.
 
-    ![Count 1.](../image/op-vul-count-1.png)
+    ![Count 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-count-1.png)
 
     After running the scheduled job, the operational vulnerability count on the overview page of SO1 is updated to 1. This ensures that the updated data is promptly reflected on the Operational Resilience dashboard.
 

@@ -63,12 +63,12 @@ Catalog link
 Link to access the published TRM catalog. This field is auto-populated with a URL after the catalog is published.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a new configuration to publish TRM data](../../task/eaw-task/config-trm-data-to-publish.md)
+[Create a new configuration to publish TRM data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/config-trm-data-to-publish.md)
 
-[Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/publish-trm-cat-to-kb.md)
 

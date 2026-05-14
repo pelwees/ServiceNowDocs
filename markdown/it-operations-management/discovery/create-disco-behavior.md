@@ -29,7 +29,7 @@ Role required: discovery\_admin
 
 4.  Right-click the form header and select **Save**.
 
-    ![Discovery behavior form](../image/DiscoveryBehavior.png)
+    ![Discovery behavior form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryBehavior.png)
 
 5.  In the Discovery Functionality related list, select **New**.
 
@@ -134,23 +134,23 @@ Value
 Enter the actual name of the MID Server \(`mid_server`\) or domain \(`win_domain`\) to pass to Discovery for this criteria. This field can also have a value of `mid_domain`, which defines the Windows domain of the MID Server that is processing the Shazzam results.
 
 </td></tr></tbody>
-</table>    The following graphic shows an example of functionality criteria. ![Discovery functionality criteria](../image/DiscoveryFunctionalityCriteria.png)
+</table>    The following graphic shows an example of functionality criteria. ![Discovery functionality criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryFunctionalityCriteria.png)
 
 10. Select **Submit**.
 
 
 ## What to do next
 
-[Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#) of type **Configuration Item**, and select **Use Behavior** for the MID Server selection method.
+[Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#) of type **Configuration Item**, and select **Use Behavior** for the MID Server selection method.
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
 
-[Set up a load balancing behavior](t_SetUpLoadBalDiscoBehavr.md)
+[Set up a load balancing behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetUpLoadBalDiscoBehavr.md)
 
-[Examples of Discovery behavior functionalities](../reference/r_DefineTheFunctionalities.md)
+[Examples of Discovery behavior functionalities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DefineTheFunctionalities.md)
 
-[Discovery behavior example: access an ACL protected SNMP device](t_AccessAnACLProtectedSNMPDevice.md)
+[Discovery behavior example: access an ACL protected SNMP device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_AccessAnACLProtectedSNMPDevice.md)
 

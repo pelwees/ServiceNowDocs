@@ -19,7 +19,7 @@ Generate a playbook outline and get recommendations for placeholder activities
 
 ## Before you begin
 
-Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](../concept/playbook-assist.md#writing-playbook-prompts).
+Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/playbook-assist.md#writing-playbook-prompts).
 
 Role required:
 
@@ -72,20 +72,20 @@ Directions for the playbook that you want outlined.-   **Be precise and descript
 
 </td><td>
 
-Application scope that you want your playbook to run in. Selecting **Global** lets your playbook run in any application scope. For more information, see [Application scope](../../../build/applications/concept/c_ApplicationScope.md).**Important:** You can't change the application scope of a playbook after you've generated a preview for it.
+Application scope that you want your playbook to run in. Selecting **Global** lets your playbook run in any application scope. For more information, see [Application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../build/applications/concept/c_ApplicationScope.md).**Important:** You can't change the application scope of a playbook after you've generated a preview for it.
 
 </td></tr></tbody>
 </table>4.  Select **Generate playbook preview**.
 
     Workflow Studio uses your text directions to build a playbook outline. If successful, Workflow Studio displays a preview of the playbook in diagramming view.
 
-    ![Generated playbook preview](../images/playbook-preview.png)
+    ![Generated playbook preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/playbook-preview.png)
 
 5.  Scroll horizontally in the preview, and zoom in and out as needed.
 
 6.  Review the preview of the playbook for accuracy.
 
-7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](../concept/playbook-assist.md#writing-playbook-prompts), and select **Regenerate preview**.
+7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/playbook-assist.md#writing-playbook-prompts), and select **Regenerate preview**.
 
 8.  If you're ready to generate your playbook outline, select **Save and edit playbook**.
 
@@ -93,9 +93,9 @@ Application scope that you want your playbook to run in. Selecting **Global** le
 
 9.  To view the prompt that was used to generate a playbook, navigate to **More actions menu** &gt; **Properties** &gt; **General** &gt; **Now Assist directions**.
 
-    ![Playbook properties in the More actions menu.](../images/playbook-properties-menu.png)
+    ![Playbook properties in the More actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/playbook-properties-menu.png)
 
-    ![Prompt that was used to generate a playbook.](../images/playbook-prompt-properties.png)
+    ![Prompt that was used to generate a playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/playbook-prompt-properties.png)
 
 10. Configure your trigger.
 
@@ -103,15 +103,15 @@ Application scope that you want your playbook to run in. Selecting **Global** le
 
 11. Configure placeholder activities by manually selecting the placeholder activity.
 
-    **Tip:** To generate recommendations for activity definitions from Now Assist instead, see [Generate playbook recommendations](generate-playbook-recommendations.md).
+    **Tip:** To generate recommendations for activity definitions from Now Assist instead, see [Generate playbook recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/generate-playbook-recommendations.md).
 
-    1.  Select a placeholder activity that you want to configure \( ![Placeholder activity icon.](../images/placeholder-activity-icon.png)\).
+    1.  Select a placeholder activity that you want to configure \( ![Placeholder activity icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/placeholder-activity-icon.png)\).
 
-        You can also hover over the placeholder activity and select the **replace activity** icon \(![Icon for replacing an activity](../images/replace-activity-icon.png) in the mini-picker to directly open the activity picker.
+        You can also hover over the placeholder activity and select the **replace activity** icon \(![Icon for replacing an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/replace-activity-icon.png) in the mini-picker to directly open the activity picker.
 
     2.  Update the **Label** and **Description**, if needed.
 
-    3.  Under the **Activity definition** field, select the edit button \(![Edit icon in the playbook builder.](../images/playbook-edit-button.png)\).
+    3.  Under the **Activity definition** field, select the edit button \(![Edit icon in the playbook builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/playbook-edit-button.png)\).
 
         The activity picker is displayed.
 
@@ -146,5 +146,5 @@ When your playbook's trigger conditions are met, your playbook runs. As a result
 
 Design the Playbook Experience for your agents and fulfillers in UI Builder. To learn how to design and customize the runtime playbook experience in UI Builder, see [Customizing the Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-customize-playbook.md).
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/playbook-assist-landing.md)
 

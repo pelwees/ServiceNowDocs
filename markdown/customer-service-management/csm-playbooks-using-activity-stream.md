@@ -15,7 +15,7 @@ Customer service agents can access the activity stream in the contextual side pa
 
 The activity stream enables agents to communicate with requesters and make internal notes about the work done on a record. The activity stream updates when the current activity in the playbook is updated.
 
-Click the Activity stream icon \(![Activity stream icon.](../image/contextual-side-panel-activity-stream.jpg)\) in the contextual side panel to access the activity stream.
+Click the Activity stream icon \(![Activity stream icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contextual-side-panel-activity-stream.jpg)\) in the contextual side panel to access the activity stream.
 
 Agents can perform the following tasks in the activity stream.
 
@@ -59,7 +59,7 @@ Filter posts
 
 </td><td>
 
-Click the filter icon \(![Filter icon.](../image/contextual-side-panel-filter-posts.png)\) at the top of the Activity section to display the filter selections:
+Click the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contextual-side-panel-filter-posts.png)\) at the top of the Activity section to display the filter selections:
 
 -   **Post types:** Select the types of posts to view, such as work notes or attachments.
 -   **Field changes:** Select specific fields to view information in posts for only those fields.
@@ -72,7 +72,7 @@ Sort posts
 
 </td><td>
 
-Click the Sort icon \(![Sort icon.](../image/contextual-side-panel-sort-posts.png)\) to sort posts by newest to oldest or oldest to newest.
+Click the Sort icon \(![Sort icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contextual-side-panel-sort-posts.png)\) to sort posts by newest to oldest or oldest to newest.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Expand and collapse posts
 
 </td><td>
 
-Select expand icon \(![More options icon.](../image/expand-arrow.png)\) to expand posts and collapse icon ![](../image/Collapse_icon_eaai_new.png) to collapse posts.
+Select expand icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/expand-arrow.png)\) to expand posts and collapse icon ![](../image/Collapse_icon_eaai_new.png) to collapse posts.
 
 </td></tr><tr><td>
 
@@ -103,15 +103,15 @@ An email draft opens where you can send an email.
 </table>**Related topics**  
 
 
-[Filter playbook activities](../task/csm-playbook-filter-activities.md)
+[Filter playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-playbook-filter-activities.md)
 
-[Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
+[Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
-[Viewing ribbon information in the contextual side panel](csm-playbooks-viewing-ribbon-info.md)
+[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
 
-[Add an optional activity](using-customized-playbook-experience-for-customer-service-management.md)
+[Add an optional activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-customized-playbook-experience-for-customer-service-management.md)
 
-[Summarize a case](case-summarization-in-process-page.md)
+[Summarize a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-summarization-in-process-page.md)
 
-[Create a record using a playbook](../task/csm-playbook-create-record.md)
+[Create a record using a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-playbook-create-record.md)
 

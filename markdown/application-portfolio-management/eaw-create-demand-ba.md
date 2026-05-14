@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Demands**.
 
@@ -33,15 +33,15 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing demand, select the demand.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new demand form](../../reference/eaw-reference/eaw-create-new-demand-form.md).
+    For field information, see [Create new demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-demand-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage demands](../../concept/eaw-concept/eaw-manage-demands.md)
+**Parent Topic:**[Manage demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-demands.md)
 
 **Related topics**  
 
 
-[View all demands](eaw-view-all-demands.md)
+[View all demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-demands.md)
 

@@ -21,10 +21,10 @@ Service catalog variables within order guides define the questions and potential
 
 Pricing is not supported for an order guide variable, even when you define the pricing for the variable though a variable set, and associate the variable set to the order guide.
 
--   **[Create an item variable assignment](../task/t_CreateAnItemVarAssignment.md)**  
+-   **[Create an item variable assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CreateAnItemVarAssignment.md)**  
 Create an item variable assignment that enables the catalog admin set up a default value mechanism in the order guide context so that the user can focus only on required values.
--   **[Cascade an order guide variable](c_CascadeTheOrderGuideVariables.md#)**  
+-   **[Cascade an order guide variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CascadeTheOrderGuideVariables.md#)**  
 Cascading enables values entered for variables in the initial order form to be passed to the equivalent variables in the ordered catalog items.
 
-**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 

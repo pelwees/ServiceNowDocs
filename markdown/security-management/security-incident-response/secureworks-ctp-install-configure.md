@@ -21,11 +21,11 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If you have not installed the Secureworks CTP ticket application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the Secureworks CTP ticket application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Secureworks CTP Ticket Ingestion Integration tile.
 
-    ![Secureworks CTP: Configure](../image/secureworks-config.gif)
+    ![Secureworks CTP: Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-config.gif)
 
 3.  To configure the application, click **New**.
 

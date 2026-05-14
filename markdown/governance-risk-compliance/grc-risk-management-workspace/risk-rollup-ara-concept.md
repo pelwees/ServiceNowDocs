@@ -78,5 +78,5 @@ When you migrate to advanced risk assessment, individual risk score values do no
 -   Contributing risk assessments
 -   Risk rollup status
 
-**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 

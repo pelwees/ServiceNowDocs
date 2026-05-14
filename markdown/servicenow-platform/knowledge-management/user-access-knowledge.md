@@ -105,7 +105,7 @@ Knowledge administrator
 -   Contribute to and read all knowledge bases and their articles.
 -   Modify the definition of all knowledge bases and assign user criteria to them.
 
- **Note:** This access doesn't apply to scoped knowledge bases. For more information, see [Scoped knowledge bases](scoped-knowledge-base-administration.md).
+ **Note:** This access doesn't apply to scoped knowledge bases. For more information, see [Scoped knowledge bases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/scoped-knowledge-base-administration.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Manager of a knowledge base
 -   Contribute to and read that knowledge base.
 -   Modify the definition of that knowledge base and assign user criteria to it.
 
- **Note:** If the article versioning feature is enabled, the manager of a knowledge base can’t modify knowledge articles of other authors that are in the **Draft** state. For more information, see [Article versioning](article-versioning.md).
+ **Note:** If the article versioning feature is enabled, the manager of a knowledge base can’t modify knowledge articles of other authors that are in the **Draft** state. For more information, see [Article versioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Members of an ownership group associated with a knowledge article
 
 </td><td>
 
-Read, modify, approve, and retire that knowledge article \(see [Ownership groups](enable-ownership-group.md)\).
+Read, modify, approve, and retire that knowledge article \(see [Ownership groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md)\).
 
 </td></tr></tbody>
 </table>## Explicit roles and user criteria
@@ -151,7 +151,7 @@ The flowchart in this section illustrates the user criteria checks that determin
 
 **Note:** In order for an unauthenticated user to view knowledge articles within the knowledge base, ensure that the audience for the Knowledge Management Service Portal pages is set to public; that is, the page can be accessed without the need for authentication. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md).
 
-![Flowchart showing how contribute access to a knowledge base and its article using user criteria is evaluated](../image/contribute_access.png "Contribute access to a knowledge base and its article flowchart")
+![Flowchart showing how contribute access to a knowledge base and its article using user criteria is evaluated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/contribute_access.png "Contribute access to a knowledge base and its article flowchart")
 
 When either Cannot Contribute isn’t set or a user doesn’t match Cannot Contribute and additionally Can Contribute is not set, the **glide.knowman.block\_access\_with\_no\_user\_criteria** property value is further evaluated to determine contribute access, as explained in the following table.
 
@@ -169,7 +169,7 @@ true
 
 </td><td>
 
-No user has contribute access to the knowledge base except [users with special knowledge privileges](user-access-knowledge.md#section_uvc_rqf_sjb).
+No user has contribute access to the knowledge base except [users with special knowledge privileges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md#section_uvc_rqf_sjb).
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ false
 
 All users, including unauthenticated users, with at least one role can contribute to the knowledge base. If the Explicit Roles plugin \(com.glide.explicit\_roles\) is activated, users who have at least one role other than snc\_internal can contribute to the knowledge base.
 
- To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](../task/configure-unauthenticated-user.md).
+ To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/configure-unauthenticated-user.md).
 
 </td></tr></tbody>
 </table>When a user has contribute access to a knowledge base, the **glide.knowman.apply\_article\_read\_criteria** property is evaluated to determine contribute access to an article in the knowledge base, as explained in the following table.
@@ -193,7 +193,7 @@ All users, including unauthenticated users, with at least one role can contribut
 
 The following flowchart illustrates the user criteria checks that determine read access to a knowledge article.
 
-![Flowchart showing how read access to a knowledge article using user criteria is evaluated.](../image/read_access.png "Read access to a knowledge article flowchart")
+![Flowchart showing how read access to a knowledge article using user criteria is evaluated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/read_access.png "Read access to a knowledge article flowchart")
 
 When either Cannot Read isn’t set or a user doesn’t match Cannot Read and additionally Can Read is not set, the **glide.knowman.block\_access\_with\_no\_user\_criteria** property value is further evaluated to determine read access, as explained in the following table.
 
@@ -211,7 +211,7 @@ true
 
 </td><td>
 
-No user has read access except [users with special knowledge privileges](user-access-knowledge.md#section_uvc_rqf_sjb) and users who have contribute access to the knowledge base.
+No user has read access except [users with special knowledge privileges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md#section_uvc_rqf_sjb) and users who have contribute access to the knowledge base.
 
 </td></tr><tr><td>
 
@@ -219,7 +219,7 @@ false
 
 </td><td>
 
-All users, including unauthenticated users, have read access to the knowledge base and the article-level user criteria are further evaluated.To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](../task/configure-unauthenticated-user.md).
+All users, including unauthenticated users, have read access to the knowledge base and the article-level user criteria are further evaluated.To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/configure-unauthenticated-user.md).
 
 </td></tr></tbody>
 </table>When a user has contribute access to a knowledge base, the **glide.knowman.apply\_article\_read\_criteria** property is evaluated to determine read access to an article in the knowledge base, as explained in the following table.
@@ -229,25 +229,25 @@ All users, including unauthenticated users, have read access to the knowledge ba
 |true|Article-level read access overrides the default read permission granted by contribute access at the knowledge base level.|
 |false|Contribute access at the knowledge base level takes precedence over article-level user criteria and the user has read access to every article in the knowledge base.|
 
-**Important:** After you add user criteria, you can use the user criteria diagnostics feature to verify the access that users have to a knowledge base or a knowledge article. For more information, see [User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md).
+**Important:** After you add user criteria, you can use the user criteria diagnostics feature to verify the access that users have to a knowledge base or a knowledge article. For more information, see [User criteria diagnostics for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/diagnose-knowledge-user-criteria.md).
 
--   **[Create user criteria for controlling access to knowledge bases and articles](../task/create-user-criteria-record-in-knowledge-management.md)**  
+-   **[Create user criteria for controlling access to knowledge bases and articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-user-criteria-record-in-knowledge-management.md)**  
 Control access to knowledge bases and articles by creating user criteria.
--   **[Control access at the knowledge base level through user criteria](../task/t_SelectUserCriteria.md)**  
+-   **[Control access at the knowledge base level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_SelectUserCriteria.md)**  
 You specify user criteria for a knowledge base to control which users are granted access to read and contribute knowledge articles to that knowledge base.
--   **[Control access at the knowledge article level through user criteria](../task/t_SelectUCArticle.md)**  
+-   **[Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_SelectUCArticle.md)**  
 You specify user criteria for a knowledge article to control which users are granted read access to the knowledge article.
 
-**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Knowledge Management properties](../reference/r_KnowledgeProperties.md#)
+[Knowledge Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#)
 
-[Configuration tasks for knowledge managers](c_KnowledgeManager.md)
+[Configuration tasks for knowledge managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_KnowledgeManager.md)
 
 [Knowledge Management FAQ](https://community.servicenow.com/community?id=community_article&sys_id=637ffc92db519490d82ffb24399619f3)
 
-[Create user criteria for controlling access to knowledge bases and articles](../task/create-user-criteria-record-in-knowledge-management.md)
+[Create user criteria for controlling access to knowledge bases and articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-user-criteria-record-in-knowledge-management.md)
 

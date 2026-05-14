@@ -39,7 +39,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
     2.  Select the contract document and select **Open**.
 
-        ![Attach wet signed contract document when one of the signatories decides to do a wet signature instead of electronic signature](../image/cmpro-mixedsig-attachfile.png "Attach wet signed contract document for upload")
+        ![Attach wet signed contract document when one of the signatories decides to do a wet signature instead of electronic signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-mixedsig-attachfile.png "Attach wet signed contract document for upload")
 
         The contract document is attached.
 
@@ -51,13 +51,13 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
     2.  Select **Next**.
 
-        ![Select signatories who have already signed the contract document.](../image/cmpro-mixedsig-selectsig.png "Select signatories")
+        ![Select signatories who have already signed the contract document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-mixedsig-selectsig.png "Select signatories")
 
 6.  Review and upload the contract document.
 
     -   Upload the signed contract document - If all signatories have signed the contract document, select **Upload** to upload the document.
     -   Send the uploaded document to the next signatories - If some of the signatures are pending, select **Upload and send for signature** to upload and send the document to the next signatory in order.
-    ![Send the contract document to signatories who still need to sign it.](../image/cmpro-mixedsig-sendsig.png "Send for signature")
+    ![Send the contract document to signatories who still need to sign it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-mixedsig-sendsig.png "Send for signature")
 
 
 ## Result
@@ -70,5 +70,5 @@ For own paper contracts, the state of the request updated to **Closed complete**
 
 For third-party contracts, the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
 
-**Parent Topic:**[Signature workflow for a contract request](../concept/cncore-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-signature-workflow.md)
 

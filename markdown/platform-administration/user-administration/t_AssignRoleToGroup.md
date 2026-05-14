@@ -36,5 +36,5 @@ When you assign roles to groups rather than to individual users, members of the 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Create a role](t_CreateARole.md)
+**Parent Topic:**[Create a role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 

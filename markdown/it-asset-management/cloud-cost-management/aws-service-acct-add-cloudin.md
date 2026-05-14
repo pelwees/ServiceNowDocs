@@ -112,7 +112,7 @@ The service account that you created gets listed on the **Service accounts** pag
 **Related topics**  
 
 
-[Schedule and manage the jobs that download AWS billing data](aws-bill-dwnld-job-cloudin.md)
+[Schedule and manage the jobs that download AWS billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-bill-dwnld-job-cloudin.md)
 
-[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](aws-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 

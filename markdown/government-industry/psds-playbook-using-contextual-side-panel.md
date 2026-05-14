@@ -29,15 +29,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Record information icon ![Record information icon.](../../customer-service-management/image/contextual-side-panel-record-info.jpg)
+Record information icon ![Record information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../customer-service-management/image/contextual-side-panel-record-info.jpg)
 
 </td><td>
 
-Relevant information about a record. In Service Request Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [View the ribbon information in Service Request Playbook](psds-playbook-viewing-ribbon.md).
+Relevant information about a record. In Service Request Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [View the ribbon information in Service Request Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-viewing-ribbon.md).
 
 </td></tr><tr><td>
 
-Agent assist icon \(![Agent assist icon.](../image/agent-assist-icon.png)\)
+Agent assist icon \(![Agent assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/agent-assist-icon.png)\)
 
 </td><td>
 
@@ -45,7 +45,7 @@ List of search results with the content that is related to the record that you a
 
 </td></tr><tr><td>
 
-Attachments icon \(![Attachments icon.](../image/attachments-icon.png)\)
+Attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/attachments-icon.png)\)
 
 </td><td>
 
@@ -53,23 +53,23 @@ Ability for you to attach knowledge base content to a response to the requester 
 
 </td></tr><tr><td>
 
-Template icon \(![Template icon.](../image/template-icon-2.png)\)
+Template icon \(![Template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/template-icon-2.png)\)
 
 </td><td>
 
-Standard content that is related to resolving the issue. To create a template, select the template icon ![Template icon.](../image/create-icon.png).
+Standard content that is related to resolving the issue. To create a template, select the template icon ![Template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/create-icon.png).
 
 </td></tr><tr><td>
 
-Response template icon \(![Response template icon.](../image/response-template-icon.png)\)
+Response template icon \(![Response template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/response-template-icon.png)\)
 
 </td><td>
 
-Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Service Request Playbook](../task/use-response-templates-psds.md).
+Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Service Request Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/use-response-templates-psds.md).
 
 </td></tr><tr><td>
 
-Dynamic Related Records icon \(![Dynamic Related Records icon.](../image/checklist-icon.png)\)
+Dynamic Related Records icon \(![Dynamic Related Records icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/checklist-icon.png)\)
 
 </td><td>
 
@@ -77,7 +77,7 @@ Related records in the contextual side panel that dynamically change based on th
 
 </td></tr><tr><td>
 
-Activity stream icon ![Activity stream icon.](../image/activity-stream-icon.png)
+Activity stream icon ![Activity stream icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/activity-stream-icon.png)
 
 </td><td>
 

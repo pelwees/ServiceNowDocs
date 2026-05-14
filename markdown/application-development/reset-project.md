@@ -38,10 +38,10 @@ The project is reset to its original state.
 
 **Note:** This option should be used only when something goes wrong, for example, if the project is corrupted or you are facing sync issues.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vs-code.md)
 
 **Related topics**  
 
 
-[Create a project in VS Code](create-project.md)
+[Create a project in VS Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-project.md)
 

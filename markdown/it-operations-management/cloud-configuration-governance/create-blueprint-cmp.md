@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 **Note:**
 
 -   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Resource profiles and custom-created blueprints will no longer be supported starting with the Australia release.
--   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
+-   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
     The system creates the blueprint record and displays the Deployment Model tab of the blueprint designer. The Deployment Model tab is a visual canvas where you drop resource blocks. Each resource block represents a CI in a multi-tier application stack. The Deployment Model specifies the resources and connections between resources for the cloud items that you are defining.
 
-    ![Blueprint operations](../image/blueprint-operationstab.png)
+    ![Blueprint operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-operationstab.png)
 
 4.  To add a resource to the deployment model, click **Resources** and then select the resource from the list.
 
@@ -71,19 +71,19 @@ Role required: sn\_cmp.cloud\_service\_designer
     To view all published catalog items, click **Published** in the Blueprints landing page.
 
 
--   **[Add a resource operation to the execution plan](add-resource-operation-cmp.md)**  
+-   **[Add a resource operation to the execution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-resource-operation-cmp.md)**  
 The base system includes a large set of predefined resource operations. Rarely, you might add a custom operation for a resource.
--   **[Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)**  
+-   **[Execute blueprint operations in parallel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/execute-blueprint-operations-parallel.md)**  
 You can execute your blueprint resource operations to run in a linear or in a parallel way.
--   **[Blueprint attributes](../reference/blueprint-attributes.md)**  
+-   **[Blueprint attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/blueprint-attributes.md)**  
 When you add a blueprint operation to a resource, the system adds the appropriate attributes. You can choose whether or not to make the attributes available as catalog properties on the form when the system performs the operation.
--   **[Configure a blueprint rule](configure-a-blueprint-rule.md#)**  
+-   **[Configure a blueprint rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md#)**  
 Configure a rule that contains actions the system can take on blueprint attributes.
 
-**Parent Topic:**[Cloud Provisioning Blueprints](../concept/blueprints.md)
+**Parent Topic:**[Cloud Provisioning Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/blueprints.md)
 
 **Related topics**  
 
 
-[Form configuration with blueprints](../concept/blueprint-form-configuration.md)
+[Form configuration with blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/blueprint-form-configuration.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 5.  Select **Investigate &gt; Filter on process step** from the window under the **Investigate** section.
 
-    ![Add activity conditions using the Transitions filter](../image/transition-location-2.png)
+    ![Add activity conditions using the Transitions filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/transition-location-2.png)
 
     The Process step filter dialog box is displayed.
 
@@ -44,5 +44,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 7.  When the task completes, select **View result** in the Scheduled tasks panel of Analyst workbench.
 
 
-**Parent Topic:**[Applying a process step filter on an activity](node-to-node-conditions.md)
+**Parent Topic:**[Applying a process step filter on an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/node-to-node-conditions.md)
 

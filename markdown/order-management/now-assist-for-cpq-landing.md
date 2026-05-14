@@ -18,15 +18,15 @@ Select a tile to learn how you can use AI capabilities in CPQ workflows.
 
 <table id="table_m44_xtx_13c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Configure, Price, Quote \(CPQ\)](explore-now-assist-cpq.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Configure, Price, Quote \(CPQ\)](explore-now-assist-cpq.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Configure, Price, Quote \(CPQ\) application to get started](configure-now-assist-cpq.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Configure, Price, Quote \(CPQ\) application to get started](configure-now-assist-cpq.md)
 
 </td><td>
 
-[Use Now Assist for Configure, Price, Quote \(CPQ\) generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities offered by Now Assist for Configure, Price, Quote \(CPQ\)](using-now-assist-cpq.md)
+[Use Now Assist for Configure, Price, Quote \(CPQ\) generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities offered by Now Assist for Configure, Price, Quote \(CPQ\)](using-now-assist-cpq.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
@@ -56,10 +56,10 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
--   **[Exploring Now Assist for Configure, Price, Quote \(CPQ\)](explore-now-assist-cpq.md)**  
+-   **[Exploring Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-now-assist-cpq.md)**  
 With the Now Assist for Configure, Price, Quote \(CPQ\) application, you can use generative AI to summarize quotes and provide immediate, comprehensive visibility into key quote information such as products, pricing, and terms. This functionality reduces errors, accelerates quote creation, and helps teams deliver accurate quotes faster.
--   **[Configuring Now Assist for Configure, Price, Quote \(CPQ\)](configure-now-assist-cpq.md)**  
+-   **[Configuring Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-now-assist-cpq.md)**  
 Configure the Now Assist for Configure, Price, Quote \(CPQ\) application so that your agents can use the generative AI skills in CSM Configurable Workspace and Business Portal.
--   **[Using Now Assist for Configure, Price, Quote \(CPQ\)](using-now-assist-cpq.md)**  
+-   **[Using Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-now-assist-cpq.md)**  
 Use agents in an agentic workflow or as standalone agents to achieve specific automated outcomes.
 

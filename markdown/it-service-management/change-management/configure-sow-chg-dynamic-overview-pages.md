@@ -26,7 +26,7 @@ With this you can configure the following components in the workspace configurat
 -   Control the display of activity stream bar in the Overview pages
 -   Configure the journal fields
 
-**Parent Topic:**[Using Change Management](../../change-management/concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../change-management/concept/using-change-management.md)
 
 ## Show the activity stream bar
 
@@ -48,7 +48,7 @@ Role required: admin
 
     The action bar is shown on the Service Operations Workspace at the bottom of the screen.
 
-    ![Action bar in change request record](../image/display-action-bar.png)
+    ![Action bar in change request record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/display-action-bar.png)
 
 
 ## Configure the order of the cards in Overview section

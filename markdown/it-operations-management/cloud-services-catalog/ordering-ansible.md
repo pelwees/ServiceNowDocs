@@ -27,7 +27,7 @@ You can use the Ansible Job template deployment form to call an Ansible job temp
 
 1.  Navigate to **Employee Center** &gt; **Cloud Services** &gt; **Integrations** &gt; **CSC Ansible Automation**.
 
-    ![Ansible Job template deployment form.](../image/ansible-template-form.png "Ansible Job template deployment form")
+    ![Ansible Job template deployment form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ansible-template-form.png "Ansible Job template deployment form")
 
 <table id="table_qmb_hgt_41c"><thead><tr><th>
 
@@ -97,5 +97,5 @@ Extra variables that you can modify even if the values are automatically filled 
 
 Verify that a blueprint approval policy \(CSC Content Approval Policy Ansible\) is applied. This policy mandates that approval must be obtained from the Change management group before any provisioning can take place.
 
-**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](../concept/integrating-ansible-with-cloud-services-catalog.md)
+**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/integrating-ansible-with-cloud-services-catalog.md)
 

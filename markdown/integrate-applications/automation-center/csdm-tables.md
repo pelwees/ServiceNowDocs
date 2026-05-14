@@ -33,5 +33,5 @@ When you use Automation Center with any of the following ServiceNow products, yo
 -   Integration Hub
 -   Document Intelligence
 
-**Parent Topic:**[Applying Common Service Data Model guidelines to Automation Center](applying-csdm.md)
+**Parent Topic:**[Applying Common Service Data Model guidelines to Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/applying-csdm.md)
 

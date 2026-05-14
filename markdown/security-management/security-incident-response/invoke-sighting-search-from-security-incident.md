@@ -29,32 +29,32 @@ Role required: ServiceNow AI Platform administrator \(sn\_si.admin\)
 
 4.  Click **Associated Observables** related lists.
 
-    ![Associated Observables related list selected](../image/invoke-sighting-search-from-security-incident.png)
+    ![Associated Observables related list selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-sighting-search-from-security-incident.png)
 
 5.  Add any existing observables or create new observable.
 
-    ![Add a new or existing Associated Observable to the related list](../image/invoke-sighting-search-create-observable.png)
+    ![Add a new or existing Associated Observable to the related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-sighting-search-create-observable.png)
 
 6.  Select the observables and from Actions on selected rows, click **Run Sightings Search**.
 
-    ![Observables in the list selected and Run Sightings Search selected](../image/invoke-sighting-search-run-sighting-search.png)
+    ![Observables in the list selected and Run Sightings Search selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-sighting-search-run-sighting-search.png)
 
 7.  Ignore the inputs in the next dialog box that asks for time data.
 
     There are default values populated. However, the search is performed real time and the time values are ignored for this integration.
 
-    ![Run Sightings search](../image/run-sightings-search.png)
+    ![Run Sightings search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/run-sightings-search.png)
 
 8.  Check the worknotes for status.
 
-    ![Security Incident work notes](../image/invoke-status-worknotes.png)
+    ![Security Incident work notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-status-worknotes.png)
 
 9.  On completion of the search, check the results and details in the related lists.
 
 10. Click on **Sightings Search Details** tab for details and **Sightings Search Results** tab for search results.
 
-    ![Sighting Search Details](../image/invoke-sightings-search-details-tab.png)
+    ![Sighting Search Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-sightings-search-details-tab.png)
 
-    ![Sightings Search Results](../image/invoke-sightings-search-results.png)
+    ![Sightings Search Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/invoke-sightings-search-results.png)
 
 

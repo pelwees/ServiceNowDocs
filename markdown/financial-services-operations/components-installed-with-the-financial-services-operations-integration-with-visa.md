@@ -56,5 +56,5 @@ All four following batch queue subflows call the same RTSI operation \(SIGetBatc
 |Process Incoming Arbitration Batch Queue|The acquirer initiates an arbitration request, or the issuer submits an arbitration and receives an acknowledgment or decision from Visa, which places the case in this queue.|`INCOMING_BQ_ARBITRATIONS`|`/rsrv_rolsi/api/SIGetBatchQueue`|
 |Processes Incoming Recall Batch Queue|The acquirer processes recalls at various stages, including dispute response, pre-arbitration, and pre-arbitration response, which places the Visa case in this queue. Processing this batch queue alerts the FSO case with the received response.|`INCOMING_BQ_RECALLS`|`/rsrv_rolsi/api/SIGetBatchQueue`|
 
-**Parent Topic:**[Components installed with Financial Services Operations Integration with Visa](financial-services-operations-integration-with-visa-reference.md)
+**Parent Topic:**[Components installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-reference.md)
 

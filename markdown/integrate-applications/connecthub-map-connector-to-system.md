@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Choose an existing system to map the connector to.
 
-    To create an new external system, click ![Add new external system](../../../administer/flow-designer/images/create-new-record-icon.png) to [add a new external system](connecthub-create-external-systems.md#) to map an existing connector.
+    To create an new external system, click ![Add new external system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/flow-designer/images/create-new-record-icon.png) to [add a new external system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connecthub-create-external-systems.md#) to map an existing connector.
 
 5.  Choose the connector type.
 

@@ -175,19 +175,19 @@ Time series: Number of active or new users in the date range
 
     You can view your funnel directly from Platform Analytics. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.
 
-    ![View Usage Insights funnel in Platform Analytics](../../../administer/user-exp-analytics/image/uxa-view-funnnel-pa.png)
+    ![View Usage Insights funnel in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/user-exp-analytics/image/uxa-view-funnnel-pa.png)
 
 
-**Parent Topic:**[Selecting data sources for data visualizations](selecting-data-sources.md)
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/selecting-data-sources.md)
 
 **Related topics**  
 
 
-[Select a table data source for a data visualization](../task/select-table-data-source.md)
+[Select a table data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-table-data-source.md)
 
-[Select an indicator data source for a data visualization](../task/select-indicator-data-source.md)
+[Select an indicator data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-indicator-data-source.md)
 
-[Select a Workflow Data Fabric data source for a data visualization](../task/select-wdf-data-source.md)
+[Select a Workflow Data Fabric data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-wdf-data-source.md)
 
-[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)
+[Multiple data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/multiple-data-sources.md#)
 

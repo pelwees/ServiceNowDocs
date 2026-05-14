@@ -25,12 +25,12 @@ Role required: sn\_ti\_admin.tia\_admin or sn\_itsm\_ml\_task.ti\_admin
 
 2.  On the **Predict incident field choices to reduce handle time** card, select **Set up model**.
 
-    ![Categorization_template](../image/ti_Categorization_model_template.png)
+    ![Categorization_template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti_Categorization_model_template.png)
 
     This action opens the model and displays the introductory pages. Each page in the model asks you questions and helps you select the information needed to build an effective model.
 
 
-**Parent Topic:**[Create an incident prediction model in Task Intelligence for ITSM](../concept/create-incident-prediction-model.md)
+**Parent Topic:**[Create an incident prediction model in Task Intelligence for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../concept/create-incident-prediction-model.md)
 
 ## Train your model
 
@@ -38,7 +38,7 @@ Train your incident prediction model with data to predict the incident fields.
 
 ### Before you begin
 
-You can set up a task intelligence model or use the base system template that is shipped with Task Intelligence for ITSM. For more information on setting up a new model, see [Set up your incident prediction model](set-up-model.md#).
+You can set up a task intelligence model or use the base system template that is shipped with Task Intelligence for ITSM. For more information on setting up a new model, see [Set up your incident prediction model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-model.md#).
 
 Role required: sn\_ti\_admin.tia\_admin or admin
 
@@ -64,19 +64,19 @@ Select this information to tell the model what to look for during training.
 
 4.  Select the **Output fields** you want the model to predict.
 
-    ![UI of the output table with its conditions and the output fields.](../image/ti-train-output-fields.png)
+    ![UI of the output table with its conditions and the output fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti-train-output-fields.png)
 
 5.  Select the **Input table** in the training data that you want the model to use to make predictions.
 
 6.  Select the **Input fields** that you want the model to use to make predictions.
 
-    ![UI of the input table and input fields section.](../image/ti-train-input-fields.png)
+    ![UI of the input table and input fields section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti-train-input-fields.png)
 
 7.  Review the resulting **Number of records** in the training data based on the selected conditions.
 
-    The records that are counted include the number of fields, parameters, and data that the model uses to train. Based on the provided information and the set conditions, the number or records gets updated automatically. The model needs a minimum of 10,000 records for effective training. If this minimum number hasn't been reached, try selecting different conditions. You can also click the refresh icon \(![get latest matrix refresh](../../service-operations-workspace/image/get-latest-matrix.png)\) to refresh the number.
+    The records that are counted include the number of fields, parameters, and data that the model uses to train. Based on the provided information and the set conditions, the number or records gets updated automatically. The model needs a minimum of 10,000 records for effective training. If this minimum number hasn't been reached, try selecting different conditions. You can also click the refresh icon \(![get latest matrix refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../service-operations-workspace/image/get-latest-matrix.png)\) to refresh the number.
 
-    ![UI of the "Review the resulting number of records" section.](../image/ti_train_review_resulting_records.png)
+    ![UI of the "Review the resulting number of records" section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti_train_review_resulting_records.png)
 
 8.  Select **Launch training**.
 
@@ -91,7 +91,7 @@ Assess the results from the model training and view sample results for the predi
 
 ### Before you begin
 
-You must train your model with various data. For more information on how to train your model, see [Train your model](set-up-model.md#).
+You must train your model with various data. For more information on how to train your model, see [Train your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-model.md#).
 
 Role required: sn\_ti\_admin.tia\_admin or admin
 
@@ -138,7 +138,7 @@ Adds the best predicted value to the field on the Incident form.
 
 </td><td>
 
-Shows the top recommended values for a field. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+Shows the top recommended values for a field. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
 
 </td></tr><tr><td id="d286683e460">
 
@@ -157,7 +157,7 @@ Stops the model from performing any predictions.
 Monitors and runs the model in the background only without making any predictions on the incident form.
 
 </td></tr></tbody>
-</table>    ![Access the model page](../image/ti_access_set_preferences_page.png)
+</table>    ![Access the model page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti_access_set_preferences_page.png)
 
 5.  Select **Save &amp; continue**.
 
@@ -168,7 +168,7 @@ Deploy the incident prediction model to predict the incident field information.
 
 ### Before you begin
 
-You must access the model and set the preferences for your model. For more information on setting model preferences, see [Assess your model](set-up-model.md#).
+You must access the model and set the preferences for your model. For more information on setting model preferences, see [Assess your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-model.md#).
 
 Role required: sn\_ti\_admin.tia\_admin or admin
 
@@ -176,7 +176,7 @@ Role required: sn\_ti\_admin.tia\_admin or admin
 
 1.  Review your choices from the previous pages and information about how the model was trained.
 
-    ![UI of the page to review the model's information. It shows "How this model was trained" and "What your model will do."](../image/ti-deploy-review-model.png)
+    ![UI of the page to review the model's information. It shows "How this model was trained" and "What your model will do."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti-deploy-review-model.png)
 
 2.  Select **Deploy** to deploy the model.
 
@@ -185,9 +185,9 @@ Role required: sn\_ti\_admin.tia\_admin or admin
 
 A pop-up appears confirming that your model was deployed.
 
-![Model deployed confirmation pop-up.](../image/ti-ra-popup.png)
+![Model deployed confirmation pop-up.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/ti-ra-popup.png)
 
 ### What to do next
 
-Select **Configure Recommended Actions** to configure the implementation of the incident prediction model in the incident fields. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+Select **Configure Recommended Actions** to configure the implementation of the incident prediction model in the incident fields. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
 

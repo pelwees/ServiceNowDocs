@@ -32,7 +32,7 @@ You can use the Hierarchical view in the plan form to view the parent-child rela
 
 You can use the updated dependencies from the most recent BIA record to conduct a dependency assessment on an asset. Employing these updated dependencies enables you to accurately carry out the business impact analysis. Additionally, it assists in determining the essential recovery timeframe and data backup needs for the assets, which are then shown in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
-![Data in scope tab.](../image/data-pulled-in-scope-tab.png)
+![Data in scope tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-pulled-in-scope-tab.png)
 
 The Hierarchical view is used to evaluate the BIA, Recovery time objective \(RTO\), Recovery point objective \(RPO\), and Recovery tier \(RT\) values between the primary and related assets within a plan. The color coding helps Business Continuity Management \(BCM\) planners to compare these metrics:
 
@@ -43,11 +43,11 @@ The Hierarchical view is used to evaluate the BIA, Recovery time objective \(RTO
 
 For example, if the RTO value for the primary asset exceeds that of the related asset, it is marked in Green. If the RTO value for the primary asset is less than that of the related asset, it is marked in Red.
 
-![Columns updated.](../image/columns-plan-record-updated.png)
+![Columns updated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/columns-plan-record-updated.png)
 
 When you hover over the information icon in the column, it shows the comparison data for the primary and related asset as shown in the example.
 
-![Hovering data.](../image/hovering-columns.png)
+![Hovering data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/hovering-columns.png)
 
 ## Procedure
 
@@ -65,14 +65,14 @@ When you hover over the information icon in the column, it shows the comparison 
 
     The purpose of **source\_table\_fields** is to set the columns for the modal based on the asset types. The following examples show the columns that appear when you select **Add primary scope** for Applications and Business Processes asset types.
 
-    ![Assets shown when you select Add primary scope for the Applications asset types.](../image/assets1.png)![Assets shown when you select Add primary scope for the Business Processes asset types.](../image/assets2.png)
+    ![Assets shown when you select Add primary scope for the Applications asset types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assets1.png)![Assets shown when you select Add primary scope for the Business Processes asset types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assets2.png)
 
     A sample plan with various asset types is shown in the example.
 
-    ![Business continuity plan with various asset types.](../image/bcp-plan-sample-asset-types.png)
+    ![Business continuity plan with various asset types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcp-plan-sample-asset-types.png)
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

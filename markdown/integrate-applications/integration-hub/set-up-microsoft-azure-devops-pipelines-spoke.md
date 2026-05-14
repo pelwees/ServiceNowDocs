@@ -37,7 +37,7 @@ Role required: admin
 
     1.  Log in to Azure DevOps portal.
 
-    2.  On the landing page, select the User Settings icon \(![User Settings icon.](../image/ms-aure-devops-pipeline-usr-settings-icon.png)\).
+    2.  On the landing page, select the User Settings icon \(![User Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-aure-devops-pipeline-usr-settings-icon.png)\).
 
     3.  In the menu, select **Personal access tokens**.
 
@@ -90,7 +90,7 @@ Resources or settings in Azure DevOps Pipelines application that you can access 
 
     7.  To copy the personal access token, click the Copy to clipboard button.
 
-        ![Copy to clipboard button.](../image/ms-azure-devops-pipeline-copy-access-token.png)
+        ![Copy to clipboard button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-azure-devops-pipeline-copy-access-token.png)
 
     8.  Select **Close**.
 
@@ -110,7 +110,7 @@ Resources or settings in Azure DevOps Pipelines application that you can access 
 
     7.  Click **Configure**.
 
-        ![Configure button.](../image/ms-azure-devops-pipelines-configure-button.png)
+        ![Configure button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-azure-devops-pipelines-configure-button.png)
 
     8.  Fill the form.
 
@@ -153,6 +153,6 @@ Enter the personal access token you had created.
 
         The connection record is created.
 
-        ![Connection record created.](../image/ms-azure-devops-pipelines-conn-created.png)
+        ![Connection record created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-azure-devops-pipelines-conn-created.png)
 
 

@@ -27,7 +27,7 @@ Role required: admin
 
 2.  In the selected notification record, select the **What to send** tab.
 
-3.  Select the info icon \(![Info icon.](../../now-assist-itsm/image/icon-more-info.png)\) next to the **Push message** field and select **Open record** from the **Push Notification Message** pop-up message.
+3.  Select the info icon \(![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../now-assist-itsm/image/icon-more-info.png)\) next to the **Push message** field and select **Open record** from the **Push Notification Message** pop-up message.
 
 4.  Open the **Push Notification Message Content** table and paste the **return new sn\_itsm\_mobile\_agt.CriticalPushPayloadBuilder\(current, json, attributes\).buildJSON\(\);** attribute in the **Push Message Generation** field.
 

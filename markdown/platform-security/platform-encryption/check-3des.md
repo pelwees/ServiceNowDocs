@@ -31,17 +31,17 @@ The GlideEncrypter API is planned for deprecation as of the Zurich release of Se
 
 4.  In the **Scan Suites Now** window, select **Full Instance**, then select **Execute Scan**.
 
-    The suite scan executes. During the scan execution a **Execute Test Scan**, a window displays the progress of the scan.![Scan progress window](../image/scan-progress.png)
+    The suite scan executes. During the scan execution a **Execute Test Scan**, a window displays the progress of the scan.![Scan progress window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/scan-progress.png)
 
     **Note:** This scan checks only records that have been created or modified by the customer.
 
 5.  When the scan is complete, select **Go to Result** to view the **Scan Result** record.
 
-    ![Completed scan with one finding](../image/scan-progress-2.png)
+    ![Completed scan with one finding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/scan-progress-2.png)
 
 6.  In the **Scan Result** record, select the **Count** field on the **Scan Findings** list to navigate to a record.
 
-    ![Completed scan](../image/scan-progress-3.png)
+    ![Completed scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/scan-progress-3.png)
 
 7.  Modify any scripts in the record that uses the **GlideEncrypter** API.
 
@@ -54,12 +54,12 @@ The GlideEncrypter API is planned for deprecation as of the Zurich release of Se
 
 ## What to do next
 
-[Deprecate GlideEncrypter usage of 3DES for password2 fields](../concept/password2-3des-deprecation.md)
+[Deprecate GlideEncrypter usage of 3DES for password2 fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/password2-3des-deprecation.md)
 
--   **[GlideEncrypter deprecation](../reference/glideencrypter-deprecation.md)**  
+-   **[GlideEncrypter deprecation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../reference/glideencrypter-deprecation.md)**  
 Learn how to remove the use legacy GlideEncrypter calls from the scripts on your instance.
--   **[Deprecate GlideEncrypter usage of 3DES for password2 fields](../concept/password2-3des-deprecation.md)**  
+-   **[Deprecate GlideEncrypter usage of 3DES for password2 fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/password2-3des-deprecation.md)**  
 Deprecate GlideEncrypter usage of 3DES encryption standard on your instance ensure that your instance uses the more secure Advanced Encryption Standard \(AES\) exclusively for the encryption and decryption of your Password2 data.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/concept/encryption.md)
 

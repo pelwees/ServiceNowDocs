@@ -22,10 +22,10 @@ The relationship between a digital interface and an application service API help
 |API|Name of the CMDB API. Select an API that you want to associate with the digital interface. You can also select the child class of the API \(cmdb\_ci\_api\). For example, Managed API \(cmdb\_ci\_managed\_api\).|
 |Description|Description about the connection between the digital interface and the API.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Connect a digital interface with the CMDB API in the EA Workspace](../../task/eaw-task/eaw-relate-dig-interface-api.md)
+[Connect a digital interface with the CMDB API in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-relate-dig-interface-api.md)
 

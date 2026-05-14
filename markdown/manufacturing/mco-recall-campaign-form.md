@@ -136,12 +136,12 @@ Recall campaign Work notes
 Additional notes, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Create a campaign](../concept/mco-rc-my-campaigns.md)
+[Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-rc-my-campaigns.md)
 
-[View All campaigns](../concept/mco-rc-all-campaigns.md)
+[View All campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-rc-all-campaigns.md)
 

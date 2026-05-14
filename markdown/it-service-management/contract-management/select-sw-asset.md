@@ -87,5 +87,5 @@ Add or remove entitlements to indicate the entitlements you want to cover.
 
 ## What to do next
 
-[Update terms and conditions](update-terms-conditions.md)
+[Update terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/update-terms-conditions.md)
 

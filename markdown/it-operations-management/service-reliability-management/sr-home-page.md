@@ -17,9 +17,9 @@ The Service Reliability Management \(SRM\) Home page provides relevant informati
 
 ## Service Reliability Management Home page sections
 
-In the workspace, select **Home** \(![Home icon](../image/icon-sr-homepage.png)\) to view the Home page.
+In the workspace, select **Home** \(![Home icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-homepage.png)\) to view the Home page.
 
-![Service Reliability Management Home](../image/sr-homepage.png)
+![Service Reliability Management Home](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/sr-homepage.png)
 
 When you're on-call, your schedule is listed.
 
@@ -29,7 +29,7 @@ Get started
 
 </td><td>
 
-Contains setup tasks and their progress for teams and services. For more information on completing setup, see [Add a service to SRM](../task/sr-add-service.md) and [Edit service details in SRM](../task/sr-edit-service.md).**Note:** You can skip any section and come back to it later. Progress is marked in percentages by the actions that you take. As long as a step remains incomplete, the tiles are available. You can minimize them, at any point, by selecting the Up icon ![Up icon](../image/icon-sr-caret.png).
+Contains setup tasks and their progress for teams and services. For more information on completing setup, see [Add a service to SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-add-service.md) and [Edit service details in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-edit-service.md).**Note:** You can skip any section and come back to it later. Progress is marked in percentages by the actions that you take. As long as a step remains incomplete, the tiles are available. You can minimize them, at any point, by selecting the Up icon ![Up icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-caret.png).
 
 Use **Dismiss** to remove it from your page.
 
@@ -72,5 +72,5 @@ Your teams' work
 Contains incidents and alerts assigned to your team. Select a card to see the list view for that area.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Get started with Service Reliability Management](../concept/sr-get-started.md)
+</table>**Parent Topic:**[Get started with Service Reliability Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-get-started.md)
 

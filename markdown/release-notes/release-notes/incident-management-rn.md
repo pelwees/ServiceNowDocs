@@ -40,5 +40,5 @@ See [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 Incident Management is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

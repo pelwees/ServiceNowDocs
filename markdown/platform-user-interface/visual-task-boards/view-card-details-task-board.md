@@ -31,12 +31,12 @@ Role required: none
 
 4.  Press the Tab key to navigate through the card until the Open Card Details button appears.
 
-    ![Task board card with the View Card Details button enabled and highlighted](../image/viewcarddetails.png "Card details")
+    ![Task board card with the View Card Details button enabled and highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/viewcarddetails.png "Card details")
 
 5.  Press **Enter** to open the card.
 
 6.  To exit the card, press **Escape**.
 
 
-**Parent Topic:**[Visual Task Board accessibility](../../../use/visual-task-boards/concept/accessibility-vtb.md)
+**Parent Topic:**[Visual Task Board accessibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../use/visual-task-boards/concept/accessibility-vtb.md)
 

@@ -17,13 +17,13 @@ Team Dashboard provides a visualization of the team's progress on stories over a
 
 Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Team Dashboard**.
 
-![Team work item progress](../image/agile-team-wip-tab.png "Work item progress tab")
+![Team work item progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-team-wip-tab.png "Work item progress tab")
 
-![Sprint Variance tab](../image/agile-team-sprint-variance.png "Sprint Performance tab")
+![Sprint Variance tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-team-sprint-variance.png "Sprint Performance tab")
 
-![Agile team members](../image/agile-team-members.png "Team Members tab")
+![Agile team members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-team-members.png "Team Members tab")
 
-![Agile team Cycle Time](../image/team-cycle-time.png "Cycle Time tab")
+![Agile team Cycle Time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/team-cycle-time.png "Cycle Time tab")
 
 ## End user and roles
 
@@ -93,7 +93,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Sprint Variance
 -   Story Cycle Time
 
-For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+For more information, see [Upgrading the layout of Agile 2.0 dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../reference/using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_xvt_hl4_2fb"><thead><tr><th>
 
@@ -283,10 +283,10 @@ Identify the time taken for each story, which the team has worked on, to move fr
 
  If there are too many stories at any area of the chart and the bubbles appear crowded on the report, you can zoom in that particular area of the report for a clearer view.
 
- ![Cycle Time Zoom](../image/cycle-time-zoom.gif)
+ ![Cycle Time Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/cycle-time-zoom.gif)
 
  **Note:** The stories shown in this chart are the ones that the team has completed in the past 30 days.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
+</table>**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 

@@ -55,10 +55,10 @@ This property enables you to exclude a room if you do not want it to appear in t
 -   Default value: &lt;empty&gt;
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](../concept/workplace-rsv-for-outlook-addin-reference.md)
+</table>**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/../concept/workplace-rsv-for-outlook-addin-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Reservations for Microsoft Outlook Add-in](components-installed-with-wsd-reservations-outlookaddin.md)
+[Components installed with Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/components-installed-with-wsd-reservations-outlookaddin.md)
 

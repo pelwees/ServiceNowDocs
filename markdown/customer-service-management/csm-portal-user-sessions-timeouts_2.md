@@ -28,7 +28,7 @@ A user session is a period of activity on the Customer or Consumer Service Porta
 -   Bot session: Separate count of sessions generated due to bots and crawlers
 -   External session: Session where the user is an external user, typically a customer, or consumer who is logged in
 
-The aggregate session count is based on the following calculations:![The infographic displays the calculation for aggregate session count by subtracting guest sessions and bot sessions, and then adding external sessions.](../image/aggregate-session-count-csp.png).
+The aggregate session count is based on the following calculations:![The infographic displays the calculation for aggregate session count by subtracting guest sessions and bot sessions, and then adding external sessions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/aggregate-session-count-csp.png).
 
 A user session times out after a specific period of inactivity.
 

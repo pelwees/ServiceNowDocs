@@ -38,5 +38,5 @@ Common cases where the system auto-generates a default update set are as follows
     -   Your preferred update set is **Complete** or **Ignored**.
     -   There’s no In-Progress default update set for the new scope.
 
-**Parent Topic:**[Update sets reference](update-sets-reference.md)
+**Parent Topic:**[Update sets reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/update-sets-reference.md)
 

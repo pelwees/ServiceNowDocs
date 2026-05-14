@@ -29,21 +29,21 @@ The decrypted TOTP is passed to the Unattended Robot and RPA Desktop Design Stud
 
 The following diagram shows the architecture of the TOTP authentication in RPA Hub.
 
-![Architecture of the TOTP authentication in RPA Hub.](../image/totp-architecture-rpa.png "Architecture of the TOTP authentication in RPA Hub")
+![Architecture of the TOTP authentication in RPA Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/totp-architecture-rpa.png "Architecture of the TOTP authentication in RPA Hub")
 
 ## New fields and tables configuration
 
 To enable TOTP authentication in the RPA Hub, do the following actions:
 
--   Create a multi-factor authentication \(MFA\) authenticator record in the classic environment. For more information, see [Create an MFA authenticator in RPA Hub](../task/create-mfa-authenticator-rpa.md).
--   Associate a TOTP authenticator to a robot credential with the secret key \(Seed\). You can do this task in the workspace and classic environment. For more information, see [Create a TOTP authenticator in RPA Hub](../task/map-totp-credential-set-rpa.md).
+-   Create a multi-factor authentication \(MFA\) authenticator record in the classic environment. For more information, see [Create an MFA authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-mfa-authenticator-rpa.md).
+-   Associate a TOTP authenticator to a robot credential with the secret key \(Seed\). You can do this task in the workspace and classic environment. For more information, see [Create a TOTP authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/map-totp-credential-set-rpa.md).
 
-In the RPA Desktop Design Studio, as an RPA developer, you can define the GetTOTP component \(previously known as the getOKTAtoken component\) with AuthenticatorName as an input parameter. The authenticator name that you provide from the component is compared against the unique authenticator name in the TOTP record. If the comparison is successful, the TOTP password is generated. For more information, see [Use the GetTOTP component](../../rpa-studio/task/use-utilities-token-getoktatoken.md).
+In the RPA Desktop Design Studio, as an RPA developer, you can define the GetTOTP component \(previously known as the getOKTAtoken component\) with AuthenticatorName as an input parameter. The authenticator name that you provide from the component is compared against the unique authenticator name in the TOTP record. If the comparison is successful, the TOTP password is generated. For more information, see [Use the GetTOTP component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/task/use-utilities-token-getoktatoken.md).
 
 **Related topics**  
 
 
-[Delete a TOTP authenticator in RPA Hub](../task/delete-mfa-authenticator-rpa.md)
+[Delete a TOTP authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/delete-mfa-authenticator-rpa.md)
 
-[Retire an MFA authenticator in RPA Hub](../task/retire-mfa-authenticator.md)
+[Retire an MFA authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/retire-mfa-authenticator.md)
 

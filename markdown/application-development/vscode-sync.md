@@ -25,10 +25,10 @@ Synchronization accounts for the following changes:
 
 You can sync your currently selected record or all records in the current application.
 
--   **[Sync the current file between a Visual Studio Code workspace and a ServiceNow instance](../task/sync-current-file.md)**  
+-   **[Sync the current file between a Visual Studio Code workspace and a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/sync-current-file.md)**  
 Identify conflicting files and merge or overwrite the changes, between the current file in your Visual Studio Code workspace and your instance.
--   **[Synchronize the current project between a Visual Studio Code workspace and a ServiceNow instance](../task/synchronize-files.md)**  
+-   **[Synchronize the current project between a Visual Studio Code workspace and a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/synchronize-files.md)**  
 Synchronize files between the Visual Studio Code workspace \(client/local\) and the instance \(server\) bi-directionally.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vs-code.md)
 

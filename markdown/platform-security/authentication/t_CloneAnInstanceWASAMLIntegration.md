@@ -33,7 +33,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
     -   glide.saml2
     -   com.glide.communications
     -   com.snc.integration.saml\_esig
-    ![Data preserver SAML.](../image/DataPreserverSAML.png)
+    ![Data preserver SAML.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/DataPreserverSAML.png)
 
     **Note:** When you create the clone, include attachments so that certificates carry over to the target instance. Also, make sure the **Theme** check box is cleared so these properties are preserved regardless of whether you preserve the instance theme.
 

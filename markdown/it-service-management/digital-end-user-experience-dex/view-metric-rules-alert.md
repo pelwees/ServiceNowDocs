@@ -23,10 +23,10 @@ Role required: sn\_dex.user or sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Express list icon \(![The Express list icon that displays all the active alerts.](../image/icon-express-list.png)\).
+2.  In the primary navigation pane, select the Express list icon \(![The Express list icon that displays all the active alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-express-list.png)\).
 
     **Note:** When multiple alerts are triggered for events that are part of the same rule, these alerts are automatically grouped.
 
-    For more information on alert grouping, see [DEX alert grouping](../concept/alert-grouping.md).
+    For more information on alert grouping, see [DEX alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/alert-grouping.md).
 
 

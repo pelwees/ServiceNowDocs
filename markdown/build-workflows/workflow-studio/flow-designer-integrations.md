@@ -47,7 +47,7 @@ Content available
 
 </td></tr><tr><td>
 
-[Process Automation Designer](../../process-automation-designer/concept/process-automation-designer.md)
+[Process Automation Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../process-automation-designer/concept/process-automation-designer.md)
 
 </td><td>
 
@@ -67,8 +67,8 @@ Build flows to run robots on Microsoft Windows systems.
 
 Add application-specific content to Workflow Studio by installing spokes.
 
--   **[Spokes](spokes.md)**  
+-   **[Spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/spokes.md)**  
 Add application-specific content to Workflow Studio by installing spokes.
 
-**Parent Topic:**[Flows, subflows, and actions reference](../reference/flow-designer-reference.md)
+**Parent Topic:**[Flows, subflows, and actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/flow-designer-reference.md)
 

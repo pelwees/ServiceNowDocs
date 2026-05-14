@@ -23,7 +23,7 @@ The following use cases are supported:
 
 To set up the integration, follow these steps:
 
-**Note:** Before you set the integration, you must configured the Recommended Actions application. See [Set up recommended actions for account onboarding](../task/account-lifecycle-setup-rec-action.md) for details.
+**Note:** Before you set the integration, you must configured the Recommended Actions application. See [Set up recommended actions for account onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-rec-action.md) for details.
 
 1.  Set up the Microsoft Dynamics CRM spoke. See [Microsoft Dynamics CRM Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/microsoft-dynamics-crm-spoke.md) for details.
 2.  On the Microsoft Dynamics CRM platform, you must do the following:
@@ -32,11 +32,11 @@ To set up the integration, follow these steps:
 
         Before creating an opportunity from an internal play task, make a note of the account associated with the task.
 
-        ![Internal play task - account](../image/account-lifecycle-crm-integ-play-task-assn.png)
+        ![Internal play task - account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-crm-integ-play-task-assn.png)
 
         Before creating a task from the risk signal, make a note of the account associated with Risk and Issue record as shown below.
 
-        ![Risk and Issue - account](../image/account-lifecycle-crm-integ-risk-sign-assn.png)
+        ![Risk and Issue - account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-crm-integ-risk-sign-assn.png)
 
         In the Microsoft Dynamics CRM platform, you must create an account with the same account name \(**Genixify**\) associated with your internal play task as shown in the above examples. This account must be configured later in the mapping file.
 
@@ -56,7 +56,7 @@ To set up the integration, follow these steps:
 
     Sample mappings are shown in the following image.
 
-    ![Dynamics CRM script include](../image/account-lifecycle-crm-script-include.png)
+    ![Dynamics CRM script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-crm-script-include.png)
 
 3.  Update the `getRiskSysIdFromCRMRequest()` function in the `DynamicsCRMTaskUpdateHandlerUtilOOB` script include to handle the task updates from Microsoft Dynamics CRM by processing the input parameters and updating the associated risk signal record.
 
@@ -112,13 +112,13 @@ The following examples show how you can create an opportunity or a task in Micro
 
 After you have setup the integration, you can do the following:
 
--   [Create an opportunity in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-opportunity.md)
--   [Create a task in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-task.md)
+-   [Create an opportunity in Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-crm-opportunity.md)
+-   [Create a task in Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-crm-task.md)
 
--   **[Create an opportunity in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-opportunity.md)**  
+-   **[Create an opportunity in Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-crm-opportunity.md)**  
 Create a renewal opportunity in the Microsoft Dynamics CRM platform from your ServiceNow instance.
--   **[Create a task in Microsoft Dynamics CRM](../task/account-lifecycle-create-crm-task.md)**  
+-   **[Create a task in Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-crm-task.md)**  
 Create a task in the Microsoft Dynamics CRM platform from your ServiceNow instance and receive updates to the task in your ServiceNow instance.
 
-**Parent Topic:**[Customer success](account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-config-cust-success.md)
 

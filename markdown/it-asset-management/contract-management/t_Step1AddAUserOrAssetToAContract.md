@@ -44,9 +44,9 @@ Role required: asset, financial\_mgmt\_user\(core UI and Hardware Asset Workspac
         2.  In the dialog box, select the check box for each asset or user that you want to add to the contract.
         3.  Click **Add**.
 
-**Parent Topic:**[Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
+**Parent Topic:**[Generating expense lines based on assets or users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_GenExpnsLinOnAssetsUsers.md)
 
-**Previous topic:**[Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
+**Previous topic:**[Generating expense lines based on assets or users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_GenExpnsLinOnAssetsUsers.md)
 
-**Next topic:**[Create a rate card and assign a user or asset](t_Step2CreatRCAsgnUseAsset.md)
+**Next topic:**[Create a rate card and assign a user or asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step2CreatRCAsgnUseAsset.md)
 

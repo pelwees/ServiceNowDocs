@@ -29,15 +29,15 @@ Role required: sn\_si.admin, sn\_si.analyst
 
 4.  Click the **Configuration Item** related list.
 
-    ![Configuration Item list view.](../image/config-item-related-lists.png)
+    ![Configuration Item list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/config-item-related-lists.png)
 
 5.  Click **Edit** to add the available configuration items, if values are not already present, and click **Save**.
 
-    ![Edit Member view: Selecting additional configuration items.](../image/config-item-related-lists-edit.png)
+    ![Edit Member view: Selecting additional configuration items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/config-item-related-lists-edit.png)
 
 6.  Select the added configuration item\(s\), and from the Actions on selected rows, select a capability.
 
-    ![Actions on selected rows form button: selecting a capability as per your preference.](../image/related-lists-actions.png)
+    ![Actions on selected rows form button: selecting a capability as per your preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-lists-actions.png)
 
 7.  The selected capability is triggered manually.
 

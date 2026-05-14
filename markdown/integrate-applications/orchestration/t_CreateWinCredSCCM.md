@@ -44,5 +44,5 @@ Client software distribution requires Windows credentials that have administrati
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/configuring-sccm.md)
 

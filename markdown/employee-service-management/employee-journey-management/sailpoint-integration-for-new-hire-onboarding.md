@@ -40,7 +40,7 @@ The application provisioning process works as follows. When an onboarding case i
 
 **Important:** New hires must have a user record in the Sailpoint system in order for their applications to be provisioned to them.
 
-![Application provisioning process for the Sailpoint integration for new hire onboarding.](../image/sailpoint-integration-for-new-hire-onboarding.png)
+![Application provisioning process for the Sailpoint integration for new hire onboarding.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../image/sailpoint-integration-for-new-hire-onboarding.png)
 
-**Parent Topic:**[Lifecyle events for enterprise integrations](onbrd-trans-integrations.md)
+**Parent Topic:**[Lifecyle events for enterprise integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/onbrd-trans-integrations.md)
 

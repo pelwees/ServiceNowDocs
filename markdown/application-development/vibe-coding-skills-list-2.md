@@ -157,5 +157,5 @@ See [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowD
 |Supplier summarization|Summarizes supplier records.|
 |Negotiation summarization|Summarizes sourcing and negotiation activity.|
 
-**Parent Topic:**[Vibe coding and AI-assisted development reference](vibe-coding-reference-landing.md)
+**Parent Topic:**[Vibe coding and AI-assisted development reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-reference-landing.md)
 

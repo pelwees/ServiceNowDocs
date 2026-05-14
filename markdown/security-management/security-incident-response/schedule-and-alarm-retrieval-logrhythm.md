@@ -27,7 +27,7 @@ Scheduling permits you to modify the scheduling and the types of alarms selected
 
 1.  Click the **Scheduling** step on the progress bar.
 
-    ![Scheduling highlighted on progress bar.](../image/logrhythm_scheduling.png)
+    ![Scheduling highlighted on progress bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/logrhythm_scheduling.png)
 
 2.  Choose from the following options to configure your alarm retrieval.
 
@@ -98,7 +98,7 @@ Enter specific alarm IDs. You pull the specified alarms, and you can enter multi
 
     2.  In the **Pulling start date** field, click on the calender that is displayed, select the date followed by the green check mark to save your entry.
 
-        ![Task: Select the date in the calendar and save it with green check mark.](../image/logrhythm-scheduling-ingestion.gif)
+        ![Task: Select the date in the calendar and save it with green check mark.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/logrhythm-scheduling-ingestion.gif)
 
         The date is displayed.
 
@@ -120,7 +120,7 @@ Enter specific alarm IDs. You pull the specified alarms, and you can enter multi
 
 ## What to do next
 
-After you configure the Ongoing Alarm Ingestion and One Time Retrieval details, the next step is to [Additional options for LogRhythm alarms](verify-alarm-closure-logrhythm.md).
+After you configure the Ongoing Alarm Ingestion and One Time Retrieval details, the next step is to [Additional options for LogRhythm alarms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-alarm-closure-logrhythm.md).
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 

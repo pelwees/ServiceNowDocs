@@ -19,7 +19,7 @@ The Approval Info Record widget shows details about the approval request and a f
 
 ![image.widgetapprovaldetails]
 
-Configure the field values and the order of the fields from Service Portal Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](../task/configure-approval-assistance-ai-agent.md).
+Configure the field values and the order of the fields from Service Portal Approval Configuration. For more information, see [Configure Service Portal Approval Configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/configure-approval-assistance-ai-agent.md).
 
 ## Instance options
 
@@ -27,5 +27,5 @@ Configure the field values and the order of the fields from Service Portal Appro
 |-----|-----------|
 |Bootstrap color|Color scheme for the widget. The default colors are defined by the portal theme, but if you want the instance to have a specific color, select the option from the list.|
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 

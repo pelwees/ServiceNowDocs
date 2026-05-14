@@ -87,7 +87,7 @@ The Discovery State value is presented as a link to the corresponding Discovery 
 
 If you have opted to manually initiate the Discovery module, or opted for both manual and automatic initiation, then the **Initiate Discovery** related link appears in the Related Links section when the state of the change request matches one of the defined states in the property. When Discovery is triggered, the values in the **Discovery State** and the **Discovery last updated** fields change.
 
-![change management integration with discovery](../image/cm-integration-discovery "Change management integration with discovery")
+![change management integration with discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/cm-integration-discovery "Change management integration with discovery")
 
 ## Integration with ITOM Visibility
 
@@ -97,24 +97,24 @@ If the ServiceNow AI Platform is configured to validate changes, all changes are
 
 The type of change mark depends on the nature of changes that it represents:
 
--   **Light gray balloon \(![Light grey balloon icon](../../service-mapping/image/ChangeHistoryBalloonsLightGray.png)\)**
+-   **Light gray balloon \(![Light grey balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-mapping/image/ChangeHistoryBalloonsLightGray.png)\)**
 
     Unapproved change that does not influence the service instance behavior. For example, a change in a network path or adding a node to a cluster.
 
--   **Dark gray balloon \(![Dark gray balloon icon](../../service-mapping/image/ChangeHistoryBalloonsDarkGray.png)\)**
+-   **Dark gray balloon \(![Dark gray balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-mapping/image/ChangeHistoryBalloonsDarkGray.png)\)**
 
     Unapproved change that changes the service instance behavior.
 
--   **Green balloon \(![Green balloon icon](../../service-mapping/image/ChangeHistoryBalloonsGreen.png)\)**
+-   **Green balloon \(![Green balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-mapping/image/ChangeHistoryBalloonsGreen.png)\)**
 
     An approved change in deployments where the ServiceNow AI Platform is configured to validate changes.
 
--   **Double balloon \(![Green balloon icon](../../service-mapping/image/ChangeHistoryBalloonsDouble.png)\)**
+-   **Double balloon \(![Green balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-mapping/image/ChangeHistoryBalloonsDouble.png)\)**
 
     Multiple separate changes that happened a short time from each other.
 
 
-**Parent Topic:**[Change management integrations](change-mgmt-integrations.md)
+**Parent Topic:**[Change management integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-integrations.md)
 
 **Related topics**  
 

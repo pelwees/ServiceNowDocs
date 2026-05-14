@@ -25,7 +25,7 @@ Add asterisks or underscores around the text to bold or italicize.
 
 The following syntax creates a clickable URL:
 
-`[link text](URL)`
+`[link text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/URL)`
 
 \[The ServiceNow home page\]\(https://www.servicenow.com/\)
 
@@ -33,12 +33,12 @@ The following syntax creates a clickable URL:
 
 The following syntax inserts images via a URL:
 
-`![alt text](image URL)`
+`![alt text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/image URL)`
 
 **Related topics**  
 
 
-[Enable Markdown in text fields](enable-markdown-in-text-fields.md)
+[Enable Markdown in text fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enable-markdown-in-text-fields.md)
 
-[Markdown options for read-only text](layout_readonlytext_markdown_options.md)
+[Markdown options for read-only text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_readonlytext_markdown_options.md)
 

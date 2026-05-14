@@ -32,7 +32,7 @@ Role required: ml\_admin
 
 3.  On the Similarity Definition form, fill in the fields.
 
-    For a description of the fields, see [Similarity Definition Form](../reference/similarity-definition-form.md).
+    For a description of the fields, see [Similarity Definition Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../reference/similarity-definition-form.md).
 
 4.  Select the appropriate button for the solution definition.
 
@@ -42,21 +42,21 @@ Role required: ml\_admin
     |**Update and Retrain**|Modify your solution definition and train it.|
 
 
--   **[Auto-assign configuration for regulatory alerts](set-up-assignment-configuration.md)**  
+-   **[Auto-assign configuration for regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/set-up-assignment-configuration.md)**  
 Set up an assignment configuration record to enable auto-assignments for regulatory alerts of the type regulatory event.
--   **[Similarity Definition Form](../reference/similarity-definition-form.md)**  
+-   **[Similarity Definition Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../reference/similarity-definition-form.md)**  
 Use the Similarity Definition Form form in Compliance Workspace to create a similarity definition for regulatory compliance mapping.
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../concept/regulatory-feeds.md)
 
 **Related topics**  
 
 
-[Perform actions on regulatory alerts](perform-actions-reg-event-feeds.md)
+[Perform actions on regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/perform-actions-reg-event-feeds.md)
 
-[Add an AI-recommended citation to a regulatory alert](add-recommended-citations-to-a-regulatory-alert.md)
+[Add an AI-recommended citation to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/add-recommended-citations-to-a-regulatory-alert.md)
 
-[Manage and assign regulatory event alerts](manage-regulatory-feeds.md)
+[Manage and assign regulatory event alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-regulatory-feeds.md)
 
-[Manage and assign source document alerts](manage-source-document-feeds.md)
+[Manage and assign source document alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-source-document-feeds.md)
 

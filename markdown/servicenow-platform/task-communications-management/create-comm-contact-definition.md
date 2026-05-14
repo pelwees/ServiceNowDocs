@@ -49,7 +49,7 @@ Type
 
 </td><td>
 
-Type of contact such as user, group, or recipient list that you want to involve in the plan. The contact type is assigned dynamically at the time of the table execution. For information on recipient lists, refer [Define a recipient list for communication contact](define-recipient-list-comm-contact.md).
+Type of contact such as user, group, or recipient list that you want to involve in the plan. The contact type is assigned dynamically at the time of the table execution. For information on recipient lists, refer [Define a recipient list for communication contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/define-recipient-list-comm-contact.md).
 
 </td></tr><tr><td>
 
@@ -73,12 +73,12 @@ Name of the user, group, or recipient list to be added to the contact list.**Not
     A communication contact is defined for the communication plan.
 
 
-**Parent Topic:**[Define a communication plan](create-comm-plan-definition.md)
+**Parent Topic:**[Define a communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-plan-definition.md)
 
 **Related topics**  
 
 
-[Define a communication task](create-comm-task-definition.md)
+[Define a communication task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-task-definition.md)
 
-[Define a communication channel](create-comm-channel-definition.md)
+[Define a communication channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-channel-definition.md)
 

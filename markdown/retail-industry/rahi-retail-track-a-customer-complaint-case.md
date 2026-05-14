@@ -24,5 +24,5 @@ Roles required: sn\_rtl\_cs\_cmplnt.agent, sn\_rtl\_cs\_cmplnt.agent\_manager
 2.  Select the case using the case number to track the case.
 
 
-**Parent Topic:**[Manage customer complaints](rahi-retail-manage-customer-complaints.md)
+**Parent Topic:**[Manage customer complaints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
 

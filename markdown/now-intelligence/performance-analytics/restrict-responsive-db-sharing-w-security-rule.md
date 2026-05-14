@@ -39,5 +39,5 @@ Only users whose roles are specified in the field labeled **List of roles \(comm
 **Related topics**  
 
 
-[Share a responsive dashboard](t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 

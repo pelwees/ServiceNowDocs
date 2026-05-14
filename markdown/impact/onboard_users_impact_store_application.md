@@ -27,7 +27,7 @@ Role required: impact app admin
 
     The Assign users to group assignment table contains a list of available Impact groups to assign users to. You can also create a new group.
 
-    **Note:** For information on Impact groups and roles, see [Roles installed with Impact](../reference/impact-roles.md).
+    **Note:** For information on Impact groups and roles, see [Roles installed with Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/impact-roles.md).
 
 3.  Select a **\[Group name\]** to open the user assignment page for the selected group.
 
@@ -35,13 +35,13 @@ Role required: impact app admin
 
 5.  Add users from the Collection list to the Group Members List and select **Save**.
 
-    ![The assign users to groups assignment page.](../image/guided-setup-assign-users.png)
+    ![The assign users to groups assignment page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/guided-setup-assign-users.png)
 
     You are returned to the selected Group page. The added members display as Group Members for the selected group.
 
 6.  Select the back arrow on the header of the Group page to return to the Assign users to group table.
 
-    ![The back arrow to return to the Groups selection list.](../image/guided-setup-group-selection-arrow.png)
+    ![The back arrow to return to the Groups selection list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/guided-setup-group-selection-arrow.png)
 
 7.  Repeat the user assignment steps for each relevant group.
 
@@ -54,11 +54,11 @@ Role required: impact app admin
 
 ## What to do next
 
-[Assign users to Platform Health groups](assign-users-scan-engine-groups.md)
+[Assign users to Platform Health groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/assign-users-scan-engine-groups.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md)
+**Previous topic:**[Use Guided Setup for Impact Store Application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/guided-setup-impact-in-app.md)
 
-**Next topic:**[Assign users to Platform Health groups](assign-users-scan-engine-groups.md)
+**Next topic:**[Assign users to Platform Health groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/assign-users-scan-engine-groups.md)
 

@@ -35,7 +35,7 @@ Many tests follow similar patterns. One common pattern, for example, is to open 
 
 3.  In the **Name** field, enter a name for your template.
 
-4.  In the **Test Template** field, click the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\).
+4.  In the **Test Template** field, click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../../../common/image/icon-lock.png)\).
 
     The **Test Template** field unlocks and expands to allow editing.
 
@@ -52,10 +52,10 @@ Many tests follow similar patterns. One common pattern, for example, is to open 
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Working with test step templates](../concept/atf-templates.md)
+**Parent Topic:**[Working with test step templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-templates.md)
 
 **Related topics**  
 
 
-[Add a predefined list of steps \(template\) to an automated test](atf-use-template.md)
+[Add a predefined list of steps \(template\) to an automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-use-template.md)
 

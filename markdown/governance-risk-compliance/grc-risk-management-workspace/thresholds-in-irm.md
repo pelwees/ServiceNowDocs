@@ -30,9 +30,9 @@ There are two types of threshold for a metric.
 **Related topics**  
 
 
-[Create a threshold for a metric definition](../task/t_create-threshold-for-metrics.md)
+[Create a threshold for a metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/t_create-threshold-for-metrics.md)
 
-[Copy thresholds](../task/copy-thresholds-irm.md)
+[Copy thresholds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/copy-thresholds-irm.md)
 
-[Customize threshold colors](../task/customize-threshold-colors-irm.md)
+[Customize threshold colors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/customize-threshold-colors-irm.md)
 

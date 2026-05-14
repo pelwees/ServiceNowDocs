@@ -17,7 +17,7 @@ The AI Search analytics dashboard displays key performance metrics, trends, and 
 
 To access the AI Search analytics dashboard, navigate to **All** &gt; **Usage Insights**, select an application's **Launch Dashboard** link, then select the Search Analytics icon ![](../image/icon-appsee-ai-srch-analytics.png) or link in the modules menu. To learn more about the Usage Insights dashboard, see [Overview of the dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-dashboard.md).
 
-**Note:** If the dashboard doesn't load, follow the steps from [Configure Service Portal to send analytics data](adv-ais-enable-sp-analytics-data.md) to enable it.
+**Note:** If the dashboard doesn't load, follow the steps from [Configure Service Portal to send analytics data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/adv-ais-enable-sp-analytics-data.md) to enable it.
 
 In the **Queries** section of the dashboard, you can view the query lists on their own page by selecting **View all**. To return to the main dashboard from the sub-page, select **AI Search Analytics**.
 
@@ -125,7 +125,7 @@ This numeric metric shows the total number of unique users who submitted search 
 
 The chart shows the number of unique search users for dates in your selected date range.
 
-![Search users metric, trend, and chart.](../image/ai-search-analytics-dashboard-search-users.png)**Note:** Searches performed while impersonating another user are ignored for this metric, trend, and chart.
+![Search users metric, trend, and chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-search-users.png)**Note:** Searches performed while impersonating another user are ignored for this metric, trend, and chart.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ This numeric metric shows the total number of search queries submitted.The trend
 
 The chart shows the number of search queries submitted for dates in your selected date range.
 
-![Total queries metric, trend, and chart.](../image/ai-search-analytics-dashboard-total-queries.png)
+![Total queries metric, trend, and chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-total-queries.png)
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ This chart shows counts for searches in your selected date range. It includes th
 2.  The number of search results that users clicked \(selected\)
 3.  The number of Genius Result answers that users clicked \(selected\)
 
-![Searches over time chart.](../image/ai-search-analytics-dashboard-searches-over-time.png)
+![Searches over time chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-searches-over-time.png)
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ This numeric metric shows the average response time for search queries in millis
 
 The trend describes how the average response time for search queries has changed since the start of your selected date range.
 
-![Average response time metric, chart, and trend.](../image/ai-search-analytics-dashboard-avg-response-time.png)
+![Average response time metric, chart, and trend.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-avg-response-time.png)
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ This numeric metric indicates the average position of user-selected search query
 
 The trend describes how the average click position has changed since the start of your selected date range.
 
-![Average click position metric, chart, and trend.](../image/ai-search-analytics-dashboard-avg-click-position.png)
+![Average click position metric, chart, and trend.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-avg-click-position.png)
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ This metric indicates the percentage of search queries that produced a search re
 
 The trend describes how the self-solved rate has changed since the start of your selected date range.
 
-![Self-solve rate metric, chart, and trend.](../image/ai-search-analytics-dashboard-self-solve-rate.png)
+![Self-solve rate metric, chart, and trend.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-self-solve-rate.png)
 
 </td></tr></tbody>
 </table><table id="table_uyh_gk5_1hc"><thead><tr><th>
@@ -214,7 +214,7 @@ This list shows user-submitted search queries.Each entry displays the following 
 
 To view entries for these search queries in the Search Events \[sys\_search\_event\] table, select **View all**.
 
-![Search queries list.](../image/ai-search-analytics-dashboard-search-queries.png)
+![Search queries list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-search-queries.png)
 
 </td></tr></tbody>
 </table><table id="table_xl5_nr5_1hc"><thead><tr><th>
@@ -231,7 +231,7 @@ Top queries
 
 </td><td>
 
-This list shows the most frequently submitted search queries.![Top queries list.](../image/ai-search-analytics-dashboard-top-query-themes.png)
+This list shows the most frequently submitted search queries.![Top queries list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-top-query-themes.png)
 
 To view this list on its own sub-page, select **View all**. To return to the main dashboard from the sub-page, select **AI Search Analytics**.
 
@@ -241,7 +241,7 @@ Queries with no clicks
 
 </td><td>
 
-This list shows the most frequently submitted search queries for which users didn't select any search result.![Queries with no clicks list.](../image/ai-search-analytics-dashboard-queries-zero-clicks-themes.png)
+This list shows the most frequently submitted search queries for which users didn't select any search result.![Queries with no clicks list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-queries-zero-clicks-themes.png)
 
 To view this list on its own sub-page, select **View all**. To return to the main dashboard from the sub-page, select **AI Search Analytics**.
 
@@ -251,7 +251,7 @@ Queries with no results
 
 </td><td>
 
-This list shows the most frequently submitted search queries that produced no results. ![Queries with no results list.](../image/ai-search-analytics-dashboard-queries-no-results-themes.png)
+This list shows the most frequently submitted search queries that produced no results. ![Queries with no results list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-queries-no-results-themes.png)
 
 To view this list on its own sub-page, select **View all**. To return to the main dashboard from the sub-page, select **AI Search Analytics**.
 
@@ -270,7 +270,7 @@ Top clicked results
 
 </td><td>
 
-This list shows the most frequently clicked search results.![Top clicked results list.](../image/ai-search-analytics-dashboard-top-clicked-results.png)
+This list shows the most frequently clicked search results.![Top clicked results list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-analytics-dashboard-top-clicked-results.png)
 
 </td></tr></tbody>
 </table>

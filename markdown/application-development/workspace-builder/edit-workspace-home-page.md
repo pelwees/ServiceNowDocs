@@ -24,7 +24,7 @@ This video shows you how to configure a workspace home page in Workspace Builder
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../concept/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -36,7 +36,7 @@ You can edit workspace home pages in Workspace Builder only for workspaces creat
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
 
 2.  Add an element to the page.
 
@@ -44,7 +44,7 @@ You can edit workspace home pages in Workspace Builder only for workspaces creat
 
     1.  In the navigation panel, select **Home**.
 
-        ![Workspace Builder home page](../image/workspace-builder-1-purple.png)
+        ![Workspace Builder home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/workspace-builder-1-purple.png)
 
     2.  In the home page canvas, select **Add new element**.
 
@@ -134,7 +134,7 @@ Table data that you can customize for the dashboard audience.
 
 
 </td></tr></tbody>
-</table>        The [Workspace Builder components for home pages](../reference/workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
+</table>        The [Workspace Builder components for home pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../reference/workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
 
         If you want to include additional elements that aren't available in the **Add new element** menu, you must edit the workspace in UI Builder. For a complete list of elements you can add in UI Builder, see the components documentation on the [ServiceNow](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?availability[]=Draft&availability[]=In+Progress&availability[]=Available&categories[]=Dev-Design+System&releases[]=utah&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades).
 
@@ -156,15 +156,15 @@ Table data that you can customize for the dashboard audience.
 
 A header appears with the name of the element type.
 
-![Data visualization element to be edited](../image/wb-data-viz-purple-new.png)
+![Data visualization element to be edited](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-data-viz-purple-new.png)
 
-2.  Select the settings icon \(![Workspace element settings icon](../image/workspace-element-settings-icon-purple.png)\) in the element header to open the configuration panel within the canvas.
+2.  Select the settings icon \(![Workspace element settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/workspace-element-settings-icon-purple.png)\) in the element header to open the configuration panel within the canvas.
 
-**Note:** You can also select the context menu icon \(![Context menu icon to display options](../image/context-menu-icon-purple.png)\) and select **Configure** to edit the element.
+**Note:** You can also select the context menu icon \(![Context menu icon to display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/context-menu-icon-purple.png)\) and select **Configure** to edit the element.
 
 3.  Edit the configuration of the element in the configuration panel as needed.
 
-For example, if you're editing a data visualization, you must specify the source table. For more information on editing components, see [Add and configure components](../../../administer/ui-builder/task/add-components.md#).
+For example, if you're editing a data visualization, you must specify the source table. For more information on editing components, see [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../administer/ui-builder/task/add-components.md#).
 
 4.  In the canvas header, select **Save**.
 
@@ -175,7 +175,7 @@ For example, if you're editing a data visualization, you must specify the source
 
 </td><td>
 
-Select the context menu icon \(![Context menu icon to display options](../image/context-menu-icon-purple.png)\) and select **Duplicate** to copy the element. You can then make additional changes to the copied element.
+Select the context menu icon \(![Context menu icon to display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/context-menu-icon-purple.png)\) and select **Duplicate** to copy the element. You can then make additional changes to the copied element.
 
 </td></tr><tr><td id="d225997e529">
 
@@ -183,7 +183,7 @@ Select the context menu icon \(![Context menu icon to display options](../image/
 
 </td><td>
 
-Select the context menu icon \(![Context menu icon to display options](../image/context-menu-icon-purple.png)\) and select **Add to library** to include the element in your library to reuse on other dashboards.
+Select the context menu icon \(![Context menu icon to display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/context-menu-icon-purple.png)\) and select **Add to library** to include the element in your library to reuse on other dashboards.
 
 </td></tr><tr><td id="d225997e547">
 
@@ -195,9 +195,9 @@ Select the context menu icon \(![Context menu icon to display options](../image/
 
 A header appears with the name of the element type.
 
-2.  In the header, select the context menu icon \(![Context menu icon to display options](../image/context-menu-icon-purple.png)\) and select **Delete**.
+2.  In the header, select the context menu icon \(![Context menu icon to display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/context-menu-icon-purple.png)\) and select **Delete**.
 
-![Delete workspace element](../image/workspace-delete-element-purple.png)
+![Delete workspace element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/workspace-delete-element-purple.png)
 
 **Note:** There's no confirmation message. The element disappears from the dashboard.
 
@@ -210,7 +210,7 @@ A header appears with the name of the element type.
 
 </td><td>
 
-Select and drag an entire element to move it around the dashboard layout.Resize an element by selecting and dragging the handlebars \(![Element handlebars to drag and resize](../image/wb-element-handlebars-purple.png)\) in the lower corners of the element.
+Select and drag an entire element to move it around the dashboard layout.Resize an element by selecting and dragging the handlebars \(![Element handlebars to drag and resize](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-element-handlebars-purple.png)\) in the lower corners of the element.
 
 </td></tr><tr><td id="d225997e613">
 
@@ -218,11 +218,11 @@ Select and drag an entire element to move it around the dashboard layout.Resize 
 
 </td><td>
 
-To make a copy of the dashboard:-   Select the more options icon for the dashboard \(![More options icon](../image/wb-more-options-icon.png)\).
+To make a copy of the dashboard:-   Select the more options icon for the dashboard \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-more-options-icon.png)\).
 -   Select **Duplicate**.
 -   Enter the **New name** and **Description** for the copied dashboard on the modal.
 -   Select **Duplicate**.
-Access the duplicated dashboard by exiting out of editing mode and selecting the new dashboard from the dashboard name drop-down menu.![Select the duplicated dashboard](../image/wb-switch-dashboards.png)
+Access the duplicated dashboard by exiting out of editing mode and selecting the new dashboard from the dashboard name drop-down menu.![Select the duplicated dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-switch-dashboards.png)
 
 </td></tr><tr><td id="d225997e661">
 
@@ -236,9 +236,9 @@ When you add your first tab to a home page dashboard, a new part of the layout a
 
 A tab labeled **untitled** is added next to any existing tabs.
 
-2.  Rename a tab by selecting the tab name, selecting the edit icon \(![Icon to edit the workspace tab name](../image/wb-edit-icon.png)\), typing the new name, and pressing **Enter**.
+2.  Rename a tab by selecting the tab name, selecting the edit icon \(![Icon to edit the workspace tab name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-edit-icon.png)\), typing the new name, and pressing **Enter**.
 3.  Reorder a tab by selecting the tab and dragging it to the new position.
-4.  Delete a tab by selecting its delete icon \(![Icon to delete a workspace tab](../image/trash-icon.png)\) then selecting **Delete**.
+4.  Delete a tab by selecting its delete icon \(![Icon to delete a workspace tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/trash-icon.png)\) then selecting **Delete**.
 
 **Note:** No confirmation message appears. The tab disappears from the dashboard.
 
@@ -264,7 +264,7 @@ For more information, see [Edit Platform Analytics dashboards](https://raw.githu
 
 </td><td>
 
-Select the more options icon for the dashboard \(![More options icon](../image/wb-more-options-icon.png)\) and select **Printer friendly** to display the workspace home page in a format suitable for printing.
+Select the more options icon for the dashboard \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-more-options-icon.png)\) and select **Printer friendly** to display the workspace home page in a format suitable for printing.
 
 </td></tr><tr><td id="d225997e788">
 
@@ -272,7 +272,7 @@ Select the more options icon for the dashboard \(![More options icon](../image/w
 
 </td><td>
 
-Select the more options icon for the dashboard \(![More options icon](../image/wb-more-options-icon.png)\) and select **Add to bookmarks** to include a bookmark for the workspace in the Analytics Overview Bookmarks section.
+Select the more options icon for the dashboard \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-more-options-icon.png)\) and select **Add to bookmarks** to include a bookmark for the workspace in the Analytics Overview Bookmarks section.
 
 </td></tr><tr><td id="d225997e811">
 
@@ -288,12 +288,12 @@ In the configuration panel, select **Open in UI Builder**.
 
 </td><td>
 
-Select the more options icon for the dashboard \(![More options icon](../image/wb-more-options-icon.png)\) and select **Delete**. You must select **Delete** again to conform.**Note:** Workspaces should have at least one dashboard home page.
+Select the more options icon for the dashboard \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-more-options-icon.png)\) and select **Delete**. You must select **Delete** again to conform.**Note:** Workspaces should have at least one dashboard home page.
 
 </td></tr></tbody>
 </table>5.  Share the dashboard.
 
-    1.  Select the more options icon for the dashboard \(![More options icon](../image/wb-more-options-icon.png)\) and select **Share**.
+    1.  Select the more options icon for the dashboard \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-more-options-icon.png)\) and select **Share**.
 
     2.  On the modal, fill in the fields.
 

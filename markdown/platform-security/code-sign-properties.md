@@ -179,7 +179,7 @@ true\|false
 
 </td><td>
 
-Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build certificates are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [Change your Root of Trust configuration](../concept/change-rot-overview.md).
+Whether the Root of Trust feature is active. The default value is `false`, meaning that ServiceNow build certificates are trusted.**Important:** This property can only be changed using a signed scheduled job from a user with the admin, security admin and KMF manager roles. For details on changing your Root of Trust, see [Change your Root of Trust configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/change-rot-overview.md).
 
 </td></tr><tr><td>
 
@@ -218,5 +218,5 @@ true\|false
 When true, enables RESTMessageV2 Code Signing tracking.**Important:** Elevated Security is needed to modify this property.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code Signing reference](code-signing-reference.md)
+</table>**Parent Topic:**[Code Signing reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-reference.md)
 

@@ -50,7 +50,7 @@ An allocation dimension defines the attributes \(for example, Territory, Product
 
 ## What to do next
 
--   [Managing allocations](../concept/manage-allocations.md)
--   [Add or edit opportunity allocations](add-or-edit-opportunity-allocations.md)
--   [Split opportunity allocation](split-an-opportunity-allocation.md)
+-   [Managing allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/manage-allocations.md)
+-   [Add or edit opportunity allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/add-or-edit-opportunity-allocations.md)
+-   [Split opportunity allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/split-an-opportunity-allocation.md)
 

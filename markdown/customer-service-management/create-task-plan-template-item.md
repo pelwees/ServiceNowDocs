@@ -21,7 +21,7 @@ Role required: sn\_task\_plan.admin or sn\_task\_plan.creator role
 
 Template items include tasks, child cases, and child case tasks. You can also create a hierarchy of template items. For example, you can create a case as a template item and then create case tasks as child template items for that case.
 
-You can create new template items or you can [clone existing template items](clone-task-plan-template-item.md). When you clone a template item, it clones the hierarchy of that item.
+You can create new template items or you can [clone existing template items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/clone-task-plan-template-item.md). When you clone a template item, it clones the hierarchy of that item.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You can create new template items or you can [clone existing template items](clo
 
     The template item form opens in a new tab. The **Number** field displays the number of the template item. The **Task plan template** field displays the number of the parent task plan template.
 
-    For more information about these fields, see [Template item form](../reference/task-plan-template-item-form.md).
+    For more information about these fields, see [Template item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/task-plan-template-item-form.md).
 
 5.  Provide a brief description of the template item in the **Short description** field.
 
@@ -54,5 +54,5 @@ You can create new template items or you can [clone existing template items](clo
 
 ## What to do next
 
-After creating a template item, you can [create one or more conditions for the template item](create-task-plan-template-item-condition.md). You can also create child template items for a template item.
+After creating a template item, you can [create one or more conditions for the template item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-task-plan-template-item-condition.md). You can also create child template items for a template item.
 

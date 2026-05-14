@@ -17,7 +17,7 @@ The ReportCiStatusOutputJS API provides methods that return specific object prop
 
 This class runs is in the `sn_discovery` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## ReportCiStatusOutputJS - getCiOperationStatus\(\)
 
@@ -76,7 +76,7 @@ gs.info("ipResultObj(cmdb): " + ipResultObj.getCmdbCI());
 
 Returns the value from the **State** field in the Discovery Status \[discovery\_status\] table.
 
-The values returned by this method are used to calculate the value returned by the [getCiOperationStatus\(\)](c_ReportCiStatusOutputJSScopedAPI.md#) method
+The values returned by this method are used to calculate the value returned by the [getCiOperationStatus\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_ReportCiStatusOutputJSScopedAPI.md#) method
 
 |Name|Type|Description|
 |----|----|-----------|

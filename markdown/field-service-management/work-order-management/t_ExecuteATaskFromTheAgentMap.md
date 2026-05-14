@@ -23,7 +23,7 @@ Role required: wm\_agent
 
 ## About this task
 
-You can optimize task routes in the map to have the system determine the most efficient route. Initial routing shows the sequence established when the dispatcher assigned the tasks. Route optimization uses your location information and creates an ideal schedule based on variables such as location, task duration, travel time, or any [task windows](t_CreateAWorkOrderTask.md). The agent map, which displays color-coded icons for the tasks and your current location, is updated as you complete each task.
+You can optimize task routes in the map to have the system determine the most efficient route. Initial routing shows the sequence established when the dispatcher assigned the tasks. Route optimization uses your location information and creates an ideal schedule based on variables such as location, task duration, travel time, or any [task windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrderTask.md). The agent map, which displays color-coded icons for the tasks and your current location, is updated as you complete each task.
 
 ## Procedure
 

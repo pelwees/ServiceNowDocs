@@ -15,7 +15,7 @@ Update a robot license distribution record in RPA Hub to evaluate the consumptio
 
 ## Before you begin
 
-Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](../concept/license-rpa-hub.md).
+Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/license-rpa-hub.md).
 
 You must do this task in the classic environment.
 
@@ -66,5 +66,5 @@ Total number of the assigned licenses for attended robots in the current domain.
 **Related topics**  
 
 
-[Create a robot license distribution record in RPA Hub](create-lua-record.md)
+[Create a robot license distribution record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-lua-record.md)
 

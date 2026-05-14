@@ -51,13 +51,13 @@ Your organization has decided to enable the Hardware Asset Management Content Se
 
 Navigate to the Content Service Setup module and review the Hardware Asset Management Content Service agreement.
 
-![Hardware Asset Management Content Service agreement](../image/hardware-normalization-content-service.png "Hardware Asset Management Content Service agreement")
+![Hardware Asset Management Content Service agreement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/hardware-normalization-content-service.png "Hardware Asset Management Content Service agreement")
 
 Select **Yes, I have read and accept the Opt-In Agreement** to display the Content Service Setup page.
 
 You decide that you don't want to send hardware model data to the Hardware Asset Management Content Service. Toggle the button next to Hardware Models to opt out of sending the hardware model asset data.
 
-![Opt-out of sending hardware model asset data to the Hardware Asset Management Content Service.](../image/opt-out-hardware-model.png "Content Service Setup")
+![Opt-out of sending hardware model asset data to the Hardware Asset Management Content Service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/opt-out-hardware-model.png "Content Service Setup")
 
 Click **Save**.
 
@@ -65,11 +65,11 @@ Your organization has decided that they don't want to send any of their data and
 
 A message appears verifying that you want to opt-out of using the Hardware Asset Management Content Service.
 
-![Hardware Asset Management Content Service opt-out message](../image/content-service-opt-out.png "Opting-Out of the ServiceNow Content Service")
+![Hardware Asset Management Content Service opt-out message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/content-service-opt-out.png "Opting-Out of the ServiceNow Content Service")
 
 Click **Opt-Out**.
 
 You are returned to the Hardware Asset Management Content Service agreement and you can opt back in at anytime.
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/Work-with-hardware-normalization.md)
 

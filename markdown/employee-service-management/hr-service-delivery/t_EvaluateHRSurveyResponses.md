@@ -36,15 +36,15 @@ Role required: sn\_hr\_core.manager, or sn\_hr\_core.admin
 
 4.  Select the **View Scorecard** related link to review the survey scorecard.
 
-    For more information, see [Satisfaction Survey Scorecard](t_SatisfactionSurvey.md).
+    For more information, see [Satisfaction Survey Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_SatisfactionSurvey.md).
 
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRDashboardsReports.md)
 
 **Related topics**  
 
 
-[HR surveys](../concept/c_HRSurveysIst.md)
+[HR surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRSurveysIst.md)
 
 [Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 

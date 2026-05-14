@@ -148,5 +148,5 @@ List of parameters that are required for a notification:-   SMS: notify\_number,
     -   Clean - Workflow Context
     -   Update - Escalatee ID, Table Name, Current Record ID, Response
 
-**Parent Topic:**[On-Call Scheduling workflows](workflows-oncall.md)
+**Parent Topic:**[On-Call Scheduling workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/workflows-oncall.md)
 

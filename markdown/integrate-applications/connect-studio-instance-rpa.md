@@ -15,9 +15,9 @@ Connect to an RPA Hub instance in three ways using the Connection Manager so tha
 
 ## Before you begin
 
-Set up the RPA Desktop Design Studio application to add ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+Set up the RPA Desktop Design Studio application to add ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 
-Open an automation project. For more information, see [Open a local automation project in RPA Desktop Design Studio](open-project-rpa-studio.md) and [Open a cloud automation project in RPA Desktop Design Studio](open-project-remote-rpa-studio.md).
+Open an automation project. For more information, see [Open a local automation project in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/open-project-rpa-studio.md) and [Open a cloud automation project in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/open-project-remote-rpa-studio.md).
 
 Role required: none
 

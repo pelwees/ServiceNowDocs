@@ -17,7 +17,7 @@ CPQ native UI allows the administrator to present a calendar display component t
 
 The example below shows a set with 30 records, one for each day, represented as a calendar display component.
 
-![Calendar interface](../images/cpq-layout-calendar-display.png)
+![Calendar interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-calendar-display.png)
 
 Key elements that support this example include a set with the variable name `availableDates`. This set contains the following associated fields:
 
@@ -57,17 +57,17 @@ Note that the loadSize field was left out of the set JSON because the administra
 
 In the blueprint layout, the administrator defines where the set will be displayed and the subfields that will be displayed in each record/calendar day.
 
-![Calendar demo](../images/cpq-layout-calendar-display-blueprint-layout.png)
+![Calendar demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-calendar-display-blueprint-layout.png)
 
 In the Set Properties &gt; Selection Settings, the Admin defines whether the user should be allowed to select one or multiple days. The Boolean field for selection \(in this case, selectedDate\) stores whether a specific set record/calendar day is selected.
 
-![Selectionsettings](../images/cpq-layout-calendar-display-selection-settings.png)
+![Selectionsettings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-calendar-display-selection-settings.png)
 
 The Set Properties &gt; Search Settings help you display the most relevant subset of days for the user when your calendar lets the user select from more than one month. For this purpose, Source Field is the day \(record\) that the Admin wishes to feature in the monthly calendar set. Target Field is the set-associated field that contains the full range of calendar dates.
 
-![Search settings](../images/cpq-layout-calendar-display-search-settings.png)
+![Search settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-calendar-display-search-settings.png)
 
 The Set Properties &gt; Raw Value area contains the JSON output by the selections on the page above. However, as "calendar" is not currently selectable as a displayType, the administrator must edit the JSON to define it explicitly.
 
-![Raw value code](../images/cpq-layout-calendar-display-raw-value.png)
+![Raw value code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-calendar-display-raw-value.png)
 

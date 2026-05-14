@@ -30,20 +30,20 @@ For more information on support levels, see [Application support for domain sepa
 
 The domain owner's employees and tenants can use the same processes if the work is done in the correct domain. When adjusting any configuration, you should be in the domain where you're doing the work. Use the domain picker to select the correct domain to work in.
 
-**Parent Topic:**[Product Catalog](c_ProductCatalog.md)
+**Parent Topic:**[Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ProductCatalog.md)
 
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../reference/r_InstalledWithProductCatalog.md)
 
-[Models](c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md)
 
-[Vendor catalog items](c_ManageVendorCatalogItems.md)
+[Vendor catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManageVendorCatalogItems.md)
 
-[Product catalog items](c_ManagingProductCatalogItems.md)
+[Product catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManagingProductCatalogItems.md)
 
-[Model categories](c_ModelCategories.md)
+[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ModelCategories.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

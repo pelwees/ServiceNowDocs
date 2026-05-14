@@ -19,11 +19,11 @@ Input form screens display inputs to enable your users to enter information into
 
  After you create an input form screen and define its inputs and variables, you must associate the input form screen with an action item. Then these inputs and variables must be mapped to the action item.
 
- You can control how users input data, as well as the appearance of input types. You can further customize your input form screens using [Mobile UI Rules](mobile-ui-rules.md).
+ You can control how users input data, as well as the appearance of input types. You can further customize your input form screens using [Mobile UI Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
 
 </td><td>
 
-![Examples of input form screens](../image/parameter-screen-example-1.png)
+![Examples of input form screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/parameter-screen-example-1.png)
 
 </td></tr></tbody>
 </table>## Input form screen components
@@ -50,7 +50,7 @@ Input form screens consist of a header, and input section, and an option footer 
     -   Signature
     -   String
     -   Screen
-    For more detail on these parameter input types, see [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md)
+    For more detail on these parameter input types, see [Input form screen attributes for inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/parameter-screen-var-attr.md)
 
 -   **Pagination buttons**
 

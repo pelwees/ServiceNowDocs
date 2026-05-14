@@ -19,11 +19,11 @@ The following applications are available with Public Sector Digital Services tha
 
 <table id="table_pkt_tl4_zbc" class="nav-card"><tbody><tr><td>
 
-[Investigative Case Management![](../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Organize, track, and resolve investigations at all levels of government.](psds-config-investigative-case-management.md)
+[Investigative Case Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Organize, track, and resolve investigations at all levels of government.](psds-config-investigative-case-management.md)
 
 </td><td>
 
-[Grants Management![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](configuring-grants-management-playbook.md)
+[Grants Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](configuring-grants-management-playbook.md)
 
 </td><td>
 
@@ -34,15 +34,15 @@ The following applications are available with Public Sector Digital Services tha
 
 <table id="table_pgl_nbl_c3c" class="nav-card"><tbody><tr><td>
 
-[Social Benefits Playbook![](../../../reuse/icons/brand-icons/bus-handshake.svg)Handle applications for social benefit programs.](configuring-social-benefit-playbook.md)
+[Social Benefits Playbook![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-handshake.svg)Handle applications for social benefit programs.](configuring-social-benefit-playbook.md)
 
 </td><td>
 
-[License and Permit Playbook![](../../../reuse/icons/brand-icons/bus-profile.svg)Handle license and permit requests.](configuring-license-permit-playbook.md)
+[License and Permit Playbook![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-profile.svg)Handle license and permit requests.](configuring-license-permit-playbook.md)
 
 </td><td>
 
-[Information Request Playbook![](../../../reuse/icons/brand-icons/bus-discover.svg)Handle public record and information requests.](configuring-information-request-playbook.md)
+[Information Request Playbook![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-discover.svg)Handle public record and information requests.](configuring-information-request-playbook.md)
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ The following applications are available with Public Sector Digital Services tha
 
 </td><td>
 
-[Service Request Playbook![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Handle non-emergency service requests.](configuring-service-request-playbook.md)
+[Service Request Playbook![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-demand-management.svg)Handle non-emergency service requests.](configuring-service-request-playbook.md)
 
 </td><td>
 

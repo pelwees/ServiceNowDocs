@@ -77,5 +77,5 @@ Install base item.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Adding a sub-phase](mco_recall_campaign_phases.md)
+**Parent Topic:**[Adding a sub-phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco_recall_campaign_phases.md)
 

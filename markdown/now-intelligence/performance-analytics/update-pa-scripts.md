@@ -37,7 +37,7 @@ Role required: pa\_admin, admin
 
 3.  In the Source section, click the lock icon next to the list of Fields.
 
-    ![The Fields list in a script record, showing the lock icon](../image/update-scripts-fields-lock.png)
+    ![The Fields list in a script record, showing the lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/update-scripts-fields-lock.png)
 
     The Fields selector opens.
 
@@ -45,7 +45,7 @@ Role required: pa\_admin, admin
 
     For example, if your organization uses the **Created** time stamp field to define a new change, replace **Opened** with **Created**.
 
-    ![Fields selector after Opened has been removed and Created has been added](../image/update-scripts-select-fields.png)
+    ![Fields selector after Opened has been removed and Created has been added](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/update-scripts-select-fields.png)
 
 5.  In the **Script** field, replace the references to disused fields with references to the fields you just selected.
 
@@ -60,9 +60,9 @@ Role required: pa\_admin, admin
 6.  Click **Update** to save your changes.
 
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/configure-nowintel-solutions.md)
 
-**Previous topic:**[Review the indicator sources](review-indicator-sources.md)
+**Previous topic:**[Review the indicator sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/review-indicator-sources.md)
 
-**Next topic:**[Review the breakdown sources](review-breakdown-sources.md)
+**Next topic:**[Review the breakdown sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/review-breakdown-sources.md)
 

@@ -21,19 +21,19 @@ This video provides an introduction to development in the ServiceNow SPM Agile 2
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that Agile Development 2.0 offers](../concept/exploring-agile-development-2.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that Agile Development 2.0 offers](../concept/exploring-agile-development-2.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-manage.svg) Learn how to manage your product development with Agile Development 2.0](../concept/using-agile-development-2-0.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../reuse/icons/brand-icons/bus-manage.svg) Learn how to manage your product development with Agile Development 2.0](../concept/using-agile-development-2-0.md)
 
 </td></tr><tr><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Agile Development with third-party execution systems](../concept/integrating-agile-dev-with-third-party-apps.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Agile Development with third-party execution systems](../concept/integrating-agile-dev-with-third-party-apps.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines](agile-development-2-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines](agile-development-2-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

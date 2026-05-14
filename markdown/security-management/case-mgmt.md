@@ -21,19 +21,19 @@ Each security case consists of three main sections, a header section, a section 
 
 ## Case header
 
-![Case header](../image/case-header.png "Case header section")
+![Case header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/case-header.png "Case header section")
 
 The case header provides basic information used to identify and classify the security case. The case number uses the SECC prefix.
 
 ## Additional case details
 
-![Additional case details](../image/case-addtl-details.png "Additional Case Details section")
+![Additional case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/case-addtl-details.png "Additional Case Details section")
 
 The **Additional Case Details** section provides information specific to the analysis that has already been performed on the case, including its current state, and work notes and activities recorded for the case.
 
 ## Case artifacts
 
-![Case artifacts](../image/case-dossier.png "Case Artifacts section")
+![Case artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/case-dossier.png "Case Artifacts section")
 
 The **Case Artifacts** section provides a series of tabs of information contained in the security case.
 
@@ -41,14 +41,14 @@ You can perform searches within the contents of each tab. You can also exclude s
 
 Within each tab, you can click the Additional Details icon to show related information for the selected record. For example, if you click the **Configuration Items** tab to view the Configuration Items Explorer, and click Additional Details for a specific CI, you can view incidents, vulnerable items, and annotations associated with that CI.
 
-![Related data on CIs](../image/related-data-cis.png "Case Artifacts—related detail")
+![Related data on CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/related-data-cis.png "Case Artifacts—related detail")
 
 You can also select a record and click the **Annotate** button for a case-related artifact to add annotations to the record. Annotations are simply notes that each analyst can make on a particular artifact.
 
-![Annotations](../image/annotations.png "Security Annotations")
+![Annotations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/annotations.png "Security Annotations")
 
 Other tools the analyst can use for examining cases include:
 
--   [Run a sightings search on observables in a case](../task/run-local-sighted-srch.md)
--   [Search for security artifacts](../task/search-for-artifacts.md)
+-   [Run a sightings search on observables in a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/run-local-sighted-srch.md)
+-   [Search for security artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/search-for-artifacts.md)
 

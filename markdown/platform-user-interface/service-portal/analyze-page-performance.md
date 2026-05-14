@@ -33,11 +33,11 @@ Role required: sp\_admin or admin
 
     4.  In the Value field, enter the suffixes of the portals to analyze.
 
-    For users with the sp\_admin or admin roles, the open Performance Analyzer icon \(![Open Performance Analyzer icon.](../image/performance-analyzer-icon.png)\) appears on pages in the specified portals.
+    For users with the sp\_admin or admin roles, the open Performance Analyzer icon \(![Open Performance Analyzer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/performance-analyzer-icon.png)\) appears on pages in the specified portals.
 
 2.  Navigate to the portal page that you want to analyze.
 
-3.  Select the open Performance Analyzer icon \(![Open Performance Analyzer icon.](../image/performance-analyzer-icon.png)\).
+3.  Select the open Performance Analyzer icon \(![Open Performance Analyzer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/performance-analyzer-icon.png)\).
 
     The Performance Analyzer opens in another browser tab. The Portal Page URL field automatically populates with the URL of the page from which you open the Performance Analyzer.
 
@@ -76,7 +76,7 @@ Steps
 
 From the Benchmark results list, select a widget or AJAX API to view additional details about its ACLs, business rules, or database calls.
 
- ![Performance results for each widget on the page from the Benchmark details view](../image/performance-analyzerbenchmark-details.png)
+ ![Performance results for each widget on the page from the Benchmark details view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/performance-analyzerbenchmark-details.png)
 
 </td></tr><tr><td id="d63441e265">
 
@@ -88,9 +88,9 @@ From the Benchmark results list, select a widget or AJAX API to view additional 
 
 Any widgets on the page that exceed the specified benchmarks are highlighted on the page.
 
-2.  Select the information icon \(![Information icon.](../../../administer/workspace/image/icon-information.png)\) for a highlighted widget to view its benchmark results.
+2.  Select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../administer/workspace/image/icon-information.png)\) for a highlighted widget to view its benchmark results.
 
-![A widget's performance results from the Preview view](../image/performance-analyzer-preview.png)
+![A widget's performance results from the Preview view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/performance-analyzer-preview.png)
 
 </td></tr></tbody>
 </table>7.  To evaluate the page against different benchmarks, select **Start Over** and enter new benchmarks.
@@ -100,5 +100,5 @@ Any widgets on the page that exceed the specified benchmarks are highlighted on 
 
 Consider updating any widgets that don’t meet your performance benchmarks to improve the page performance. For example, if a widget's server script takes too long to load, evaluate if the script can be improved to load faster.
 
-**Parent Topic:**[Analyzing portal performance and usage](../concept/using-portal-analytics.md)
+**Parent Topic:**[Analyzing portal performance and usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/using-portal-analytics.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 Notifications are reminders that are created using email templates and sent out for **Lifecycle Event Activities** and **HR Services**.
 
-HR case writers or Lifecycle Event activity writers can set up reminder notifications on HR tasks and task templates to remind the **Assigned to** person about due dates. Reminder emails are created using email templates. See [Add or modify email content for notifications](../task/CreateModEmailTemplate.md).
+HR case writers or Lifecycle Event activity writers can set up reminder notifications on HR tasks and task templates to remind the **Assigned to** person about due dates. Reminder emails are created using email templates. See [Add or modify email content for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/CreateModEmailTemplate.md).
 
 HR notifications for HR services are recurring and are a one-time for Lifecycle Events.
 
@@ -23,17 +23,17 @@ HR notifications for HR services are recurring and are a one-time for Lifecycle 
 
 ## Process
 
--   Create or edit email content. See [Add or modify email content for notifications](../task/CreateModEmailTemplate.md).
--   Create or edit an HR task template. See [Configure an HR task template](../task/configure-hr-task-template.md).
--   Create or edit an HR Service. See [Configure an HR service](../task/configure-hr-service.md).
--   Create or edit an HR service activity. See [Configure a service activity for an HR service](../task/configure-service-activity-for-hr-service.md). Ensure the HR task template selected has the **Set reminder** box checked.
+-   Create or edit email content. See [Add or modify email content for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/CreateModEmailTemplate.md).
+-   Create or edit an HR task template. See [Configure an HR task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-task-template.md).
+-   Create or edit an HR Service. See [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-service.md).
+-   Create or edit an HR service activity. See [Configure a service activity for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-service-activity-for-hr-service.md). Ensure the HR task template selected has the **Set reminder** box checked.
 
 **Note:** Notifications for HR Services are only sent to the **Assigned to** person for the HR task.
 
--   **[Add or modify email content for notifications](../task/CreateModEmailTemplate.md)**  
+-   **[Add or modify email content for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/CreateModEmailTemplate.md)**  
 Use the **Email Content** form to create notification templates to alert the assigned to of an HR task when a due date is approaching.
--   **[Email notification layout for HR Service Delivery notifications](email-notification-hr.md)**  
+-   **[Email notification layout for HR Service Delivery notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/email-notification-hr.md)**  
 Use the email notification layout and template shipped with the Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin to deliver HR notifications. Apply the layout to email notifications to elevate the look and feel, and deliver branded notifications.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

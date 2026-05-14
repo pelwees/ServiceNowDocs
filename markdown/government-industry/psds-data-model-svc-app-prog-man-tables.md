@@ -20,5 +20,5 @@ This section describes the tables installed with the Service Applicant Program M
 |Grant Program \(sn\_svc\_appl\_pgm\_mg\_grant\_program\)|Contains grant-specific program details, including award amounts, award type, and total program budget.|Applicant Program \(sn\_svc\_appl\_pgm\_mg\_applicant\_program\)|
 |Applicant Program \(sn\_svc\_appl\_pgm\_mg\_applicant\_program\)|Contains program definitions for applicant-facing initiatives, including descriptions, objectives, eligibility criteria, and application configurations.|Planning Item \(sn\_align\_core\_planning\_item\)|
 
-**Parent Topic:**[Service Applicant Data Model](psds-data-model-service-applicant.md)
+**Parent Topic:**[Service Applicant Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-service-applicant.md)
 

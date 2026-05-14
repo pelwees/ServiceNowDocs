@@ -27,12 +27,12 @@ Role required: admin
 
 3.  Select and open the record highlighted in the image.
 
-    ![RCA approvals for Now Assist in Contract Management.](../image/spo-cmpro-rcas.png)
+    ![RCA approvals for Now Assist in Contract Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-cmpro-rcas.png)
 
 4.  Set the **Status** field to **Allowed**.
 
 5.  Select **Update**.
 
 
-**Parent Topic:**[Analyze a contract document from Source-to-Pay Workspace](analyze-contract-spo.md)
+**Parent Topic:**[Analyze a contract document from Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-contract-spo.md)
 

@@ -17,7 +17,7 @@ You can test a subflow alone, or when added to a flow. When testing a subflow al
 
 ## Before you begin
 
-[Create a subflow in Workflow Studio](create-subflow.md) that contains at least one action and save it. Workflow Studio only tests saved subflows that contain at least one action.
+[Create a subflow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md) that contains at least one action and save it. Workflow Studio only tests saved subflows that contain at least one action.
 
 Role required: flow\_designer or admin
 
@@ -52,9 +52,9 @@ Because testing a subflow creates or changes records on the instance, flow desig
 
 ## What to do next
 
-Review the [Flow execution details](../concept/flow-execution-details.md).
+Review the [Flow execution details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-execution-details.md).
 
-Once the subflow behaves as desired, you can [publish the subflow](publish-subflow.md) and add it to a flow.
+Once the subflow behaves as desired, you can [publish the subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/publish-subflow.md) and add it to a flow.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

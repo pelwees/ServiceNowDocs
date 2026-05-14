@@ -41,5 +41,5 @@ The instance stores events in the Event \[em\_event\] table and attempts to gene
     -   If another event has the same matching key, associate the events under a single alert.
     -   For root cause analysis purposes, bind the alert to a specific Configuration Item \(CI\).
 
-![Event workflow](../image/EMEventFlow.png "Event workflow")
+![Event workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMEventFlow.png "Event workflow")
 

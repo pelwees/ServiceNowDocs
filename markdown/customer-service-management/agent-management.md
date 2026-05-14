@@ -23,7 +23,7 @@ Manage agents effectively to deliver exceptional customer service. Recruit, trai
 
 </th></tr></thead><tbody><tr><td>
 
-[Time recording for Customer Service Management](customer-service-time-recording.md)
+[Time recording for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-time-recording.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Record time worked on cases and case tasks. Time worked entries automatically ge
 
 </td></tr><tr><td>
 
-[Workforce Optimization for CSM Agent Workspace](../../workforce-optimization-for-customer-service-configurable/concept/wfo-csm-agent-workspace.md)
+[Workforce Optimization for CSM Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../workforce-optimization-for-customer-service-configurable/concept/wfo-csm-agent-workspace.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Manage your profile and schedule using Agent Workspace. Use coaching to review a
 
 </td></tr><tr><td>
 
-[Assign a case from the assignment workbench](../task/assign-case-from-workbench.md)
+[Assign a case from the assignment workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/assign-case-from-workbench.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Users with the customer service manager role can assign a case to an agent from 
 
 </td></tr><tr><td>
 
-[Manage special handling notes](../task/manage-special-handling-notes.md)
+[Manage special handling notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/manage-special-handling-notes.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Managing special handling notes is a critical component of Customer Service Mana
 
 </td></tr><tr><td>
 
-[View team members assigned to an account](../task/t_ViewAccountTeamMembers.md)
+[View team members assigned to an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_ViewAccountTeamMembers.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ View the team members for a specific account.
 
 </td></tr><tr><td>
 
-[Add an agent to the chat support assignment group](../task/t_AddAgentToChatSupAssignGroup.md)
+[Add an agent to the chat support assignment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_AddAgentToChatSupAssignGroup.md)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Agents must be added to the chat support assignment group before they can receiv
 
 </td></tr><tr><td>
 
-[Approve a service contract](../task/approve-service-contract.md)
+[Approve a service contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/approve-service-contract.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Approve a service contract for a customer account.
 
 </td></tr><tr><td>
 
-[Outsourced Service Provider manager tasks](osp-manager-tasks.md)
+[Outsourced Service Provider manager tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/osp-manager-tasks.md)
 
 </td><td>
 

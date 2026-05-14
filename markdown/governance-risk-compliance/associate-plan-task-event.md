@@ -27,7 +27,7 @@ A good business continuity plan is a result of thoughtful assessment of business
 
 2.  To update an active exercise or crisis event from the Home page of the Business continuity workspace, click the link to the event record in the **Event** column of the **My exercises** section.
 
-3.  To update the event from the lists view of the workspace, click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+3.  To update the event from the lists view of the workspace, click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 4.  If the record is an exercise event and is in pending state, Click **Pending** link in the Exercises list.
 
@@ -44,12 +44,12 @@ A good business continuity plan is a result of thoughtful assessment of business
     -   add the assets that are impacted and the plans that are related to the assets
     -   view the plans related to the assets under the respective assets in the grid
     -   add an ad hoc plan that does not have a plan reference
-    -   view the details of asset recovery and the activated plan by clicking the information icon \(![Information icon](../image/InformationIcon.png)\)
-    For information on the logic behind the calculation of recovery task entities, see [Calculation of actual duration and total effort to recover an event asset](view-exercise-crisis-event-details.md#ref-calc-actual-dur).
+    -   view the details of asset recovery and the activated plan by clicking the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/InformationIcon.png)\)
+    For information on the logic behind the calculation of recovery task entities, see [Calculation of actual duration and total effort to recover an event asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/view-exercise-crisis-event-details.md#ref-calc-actual-dur).
 
     If the impacted assets are CMDB CI data that came into the BIA automatically based on CMDB dependencies and when these assets are scoped in the plan, then at the time of recovery of the asset, the related assets and the related plans are automatically pulled into the exercise event as impacted assets and activated plans in the **Impacts** tab.
 
-    For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](../concept/planning-execution-event-bcm.md).
+    For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/planning-execution-event-bcm.md).
 
 8.  Click the **Add assets** button to recover assets in the event.
 
@@ -104,17 +104,17 @@ A good business continuity plan is a result of thoughtful assessment of business
     -   You cannot add event assets, activated plans, or event tasks when the event is in **Closed Complete** or **Closed Incomplete** states.
     You can view the selected assets and plans in a hierarchy on the grid in the **Short description** column.
 
-    ![Impacts grid.](../image/AdhocEventTask.png "Impacts grid")
+    ![Impacts grid.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AdhocEventTask.png "Impacts grid")
 
-11. To update the impact details, click ![Information icon](../image/InformationIcon.png) of the respective record to launch the event asset and activated plan in the form view.
+11. To update the impact details, click ![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/InformationIcon.png) of the respective record to launch the event asset and activated plan in the form view.
 
-    1.  To view the plan details of an activated plan, click ![Information icon](../image/InformationIcon.png) for the respective plan record in the impact grid.
+    1.  To view the plan details of an activated plan, click ![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/InformationIcon.png) for the respective plan record in the impact grid.
 
         You can view the activated plan number, the plan name, its short description, state of the plan, priority, and description details.
 
     2.  Click the **Open Record** link next to the plan name.
 
-        ![Plan details from impact grid.](../image/PlanDetailsImpactGrid.png "Plan details from impact grid")
+        ![Plan details from impact grid.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/PlanDetailsImpactGrid.png "Plan details from impact grid")
 
         The action opens the plan in a separate tab, where you can view its complete details.
 
@@ -132,6 +132,6 @@ A good business continuity plan is a result of thoughtful assessment of business
 
 12. Click **Save**.
 
-13. Click the refresh icon \(![Refresh icon.](../image/RefreshAlertsIcon.png)\) to display the updated state of the asset or plan, and the actual time taken to recover the asset.
+13. Click the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/RefreshAlertsIcon.png)\) to display the updated state of the asset or plan, and the actual time taken to recover the asset.
 
 

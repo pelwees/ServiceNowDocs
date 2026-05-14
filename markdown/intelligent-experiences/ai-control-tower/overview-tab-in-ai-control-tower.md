@@ -23,7 +23,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 The **Overview** tab of the AI Control Tower dashboard provides a comprehensive view of all metrics of AI systems.
 
-![Overview tab that displays all the metric types for AI systems.](../image/aict-overview.png)
+![Overview tab that displays all the metric types for AI systems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-overview.png)
 
 The following widgets are available, showing various metrics. You can view the data in detail on each widget.
 
@@ -35,7 +35,7 @@ The following widgets are available, showing various metrics. You can view the d
     -   Assess
     -   Build and test
     -   Deploy
-    For more information about the AI asset lifecycle stages, see [AI asset lifecycle](ai-asset-lifecycle.md)
+    For more information about the AI asset lifecycle stages, see [AI asset lifecycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
 
 -   **AI systems by type**
 

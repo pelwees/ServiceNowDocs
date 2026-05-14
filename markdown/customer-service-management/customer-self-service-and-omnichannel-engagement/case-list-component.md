@@ -19,5 +19,5 @@ Each case in the case list can include details such as the case number, the cust
 
 **Note:** The Case list component can show the records from any extended table of case or task table.
 
-![Case list component instance displaying list of cases in the Preview tab.](../image/we-case-list-comp.png "Case list component")
+![Case list component instance displaying list of cases in the Preview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-case-list-comp.png "Case list component")
 

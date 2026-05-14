@@ -31,7 +31,7 @@ Role required: sn\_si\_admin
 
 3.  Select **Proofpoint Analytics Dashboard** from the drop-down list.
 
-    ![Proofpoint Analytics Dashboard](../image/proofpoint-analyst-dashboard-sir.png)
+    ![Proofpoint Analytics Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/proofpoint-analyst-dashboard-sir.png)
 
 4.  View information about VAP users.
 

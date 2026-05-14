@@ -79,5 +79,5 @@ To create an advanced search source, you need authenticated access to an externa
     ```
 
 
-**Parent Topic:**[Define a search source](add-table-search-source.md)
+**Parent Topic:**[Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 

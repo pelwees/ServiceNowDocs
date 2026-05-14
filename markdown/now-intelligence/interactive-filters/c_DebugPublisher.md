@@ -38,5 +38,5 @@ To use the debug filter, add it to a dashboard. The debug filter is read-only an
 
 The Debug widget is added to your dashboard.
 
-**Parent Topic:**[Custom interactive filters](c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/c_CustomPublishers.md)
 

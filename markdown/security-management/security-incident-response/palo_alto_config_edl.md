@@ -31,11 +31,11 @@ The figures in the following section are shown with **Tabbed forms** cleared in 
 
 2.  Locate the Palo Alto Networks Next-Generation Firewall tile and click **Configure**.
 
-    ![Palo Alto Networks Next-Generation Firewall Configure button](../image/4-20-tile.png)
+    ![Palo Alto Networks Next-Generation Firewall Configure button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-20-tile.png)
 
 3.  Click **Create new EDL List**.
 
-    ![Create New EDL List.](../image/4-20-config-tile-resize.png)
+    ![Create New EDL List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-20-config-tile-resize.png)
 
 4.  On the form, fill in the fields.
 
@@ -71,7 +71,7 @@ This check box is cleared by default to indicate that the EDL is inactive. When 
 
 </td><td>
 
-Check box is selected by default to automatically tag the observable and the associated security incident record if the observable is blocked on an EDL. When selected, the Tag type and EDL tag for observables fields are available on the form.**Note:** A tag name is created by default from the value you enter in the **Name** field with an EDL- prefix, for example, EDL-Malware OutBound IP. You can change the tag name and color. See: [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](paloalto_edit_sectag_name.md). The tag name is displayed in the EDL tag for observables field once the EDL is saved.
+Check box is selected by default to automatically tag the observable and the associated security incident record if the observable is blocked on an EDL. When selected, the Tag type and EDL tag for observables fields are available on the form.**Note:** A tag name is created by default from the value you enter in the **Name** field with an EDL- prefix, for example, EDL-Malware OutBound IP. You can change the tag name and color. See: [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md). The tag name is displayed in the EDL tag for observables field once the EDL is saved.
 
  When the check box is cleared, no tag is created, and the Tag type and EDL tag for observables fields are not available on the form.
 
@@ -93,7 +93,7 @@ Tags that are available from the choice list.A Block list is a list of observabl
 
  An Allow list is a list of observables you want the Palo Alto Networks Next-Generation Firewall to allow.
 
- By default, the Block list tag color is black, and the Allow list tag color is gray. You can change the color. See: [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](paloalto_edit_sectag_name.md).
+ By default, the Block list tag color is black, and the Allow list tag color is gray. You can change the color. See: [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Clear the check box to manually activate the EDL after receiving notice via emai
 
 </td><td>
 
-This field is displayed only if the Display tag check box is selected. Field is automatically populated after the EDL is saved with a default value from the Name field. For more information on changing the default tag name and color, see [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](paloalto_edit_sectag_name.md)
+This field is displayed only if the Display tag check box is selected. Field is automatically populated after the EDL is saved with a default value from the Name field. For more information on changing the default tag name and color, see [\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md)
 
 </td></tr><tr><td>
 
@@ -146,23 +146,23 @@ Expiration period of the EDL.0 \(the default\) indicates that the EDL entry neve
  All entries in this EDL then inherit this value by default unless you override the value on individual entry basis.
 
 </td></tr></tbody>
-</table>    ![Completed EDL record ready for submission.](../image/4-30-new-edl-cmplt.png)
+</table>    ![Completed EDL record ready for submission.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-new-edl-cmplt.png)
 
 5.  Click **Submit**.
 
 6.  If the Palo Alto Networks Firewall External Dynamic Lists list is not displayed, navigate to **Palo Alto Networks NGFW Integration** &gt; **Firewall EDL Configuration** and click **Firewall EDL Configuration**.
 
-    ![Select Firewall EDL Configuration.](../image/4-30-edl-cr-message.png)
+    ![Select Firewall EDL Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-edl-cr-message.png)
 
     The new EDL is displayed. The EDL status is still inactive \(`false`\), which means the EDL is not available to accept entries. If **Create change request** was configured, a message is displayed indicating a change request and tasks have been created in your ServiceNow AI Platform instance.
 
-    ![Change request message in the EDL list.](../image/4-30-edl-cr-message-callout.png)
+    ![Change request message in the EDL list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-edl-cr-message-callout.png)
 
 7.  In the **Name** column, click an item to open the record.
 
     The EDL record is displayed. This example shows a Malware Outbound IP EDL. The following fields, options, and links are displayed on the new record after submission and described in the following table.
 
-    ![EDL retrieval URL, Email retrieval URL button, and link to the change request.](../image/4-30-edl-record-callouts.png)
+    ![EDL retrieval URL, Email retrieval URL button, and link to the change request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-edl-record-callouts.png)
 
 <table id="table_dts_pxz_tdb"><thead><tr><th>
 
@@ -224,9 +224,9 @@ Delete the record.
 
 Activate an EDL manually, or with a ServiceNow AI Platform change request.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](../reference/paloalto_supported_edls.md)
+**Previous topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/paloalto_supported_edls.md)
 
-**Next topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](paloalto-activate-edl.md)
+**Next topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-activate-edl.md)
 

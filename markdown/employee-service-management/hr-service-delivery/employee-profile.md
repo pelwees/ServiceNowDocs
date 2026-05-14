@@ -19,7 +19,7 @@ The Employee Profile \(sn\_employee\) plugin provides an Employee Profile \(sn\_
 
 Use the Employee Profile \(sn\_employee\_profile\) table to make the **employment\_start\_date** and **employment\_end\_date** fields available outside of HR Service Delivery.
 
-Learn more about the [Employee profile](../../employee-center/concept/employee-profile-portal.md).
+Learn more about the [Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../employee-center/concept/employee-profile-portal.md).
 
 |Field|Description|
 |-----|-----------|
@@ -46,8 +46,8 @@ You must activate the Employee Profile \(sn\_employee\) plugin to use the Employ
 
 **Note:** If you are using the table with Strategic Portfolio Management, see [Update the resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/update-resource-capacity.md) for more information.
 
--   **[Activate Employee Profile](../task/activate-employee-profile.md)**  
+-   **[Activate Employee Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/activate-employee-profile.md)**  
 You can activate the Employee Profile plugin \[sn\_employee\] if you have the admin role.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

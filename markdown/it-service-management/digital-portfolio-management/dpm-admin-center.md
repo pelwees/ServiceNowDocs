@@ -33,7 +33,7 @@ The Admin Center has two tabs: **Overview** and **Settings**.
 
 ## Overview tab
 
-![The Digital Portfolio Management Admin Center has an Overview tab.](../image/dpm-admin-center-overview.png)
+![The Digital Portfolio Management Admin Center has an Overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-admin-center-overview.png)
 
 The **Overview** tab enables you to do the following:
 
@@ -49,7 +49,7 @@ The **Overview** tab enables you to do the following:
 -   Select **Configure** on a solution card from the **Overview** tab.
 -   Follow the guided walk-though. Each step has its own prompts, instructions, and conditions to set up your data in the DPM Workspace.
 
-    **Note:** When you see the information icon \(![Information icon.](../../../administer/on-call-scheduling/image/icon-information.png)\) next to a step heading, select it to view more information about that step.
+    **Note:** When you see the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../administer/on-call-scheduling/image/icon-information.png)\) next to a step heading, select it to view more information about that step.
 
 -   Navigate through the setup steps in one of two ways.
     1.  Select the step number and title to perform the configuration for that step.
@@ -93,16 +93,16 @@ There’s no limit to how many times you can run the recalculation. You can also
 
 ## More options in the DPM Admin Center
 
--   **[Configure page headers in the DPM Admin Center](../task/dpm-configure-page-headers.md)**  
+-   **[Configure page headers in the DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-configure-page-headers.md)**  
 Configure the page header fields for your solutions in the DPM Admin Center. Your configuration determines how the header fields are displayed in the DPM Workspace.
--   **[Configure the Info tab in the DPM Admin Center](../task/dpm-configure-info-tab.md)**  
+-   **[Configure the Info tab in the DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-configure-info-tab.md)**  
 Show or hide various sections of the **Info** tab for your solutions in DPM. You can also configure the general information fields. Your configuration determines how the fields are displayed in the **General info** section of the **Info** tab in the DPM Workspace.
--   **[Configure scheduled email reports in DPM Admin Center](../task/dpm-schedule-email-reports.md)**  
+-   **[Configure scheduled email reports in DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-schedule-email-reports.md)**  
 Send periodic emails of KPI metrics to the DPM solution owners.
--   **[Configure personal portfolio solution cards in the DPM Admin Center](../task/dpm-configure-solution-cards.md)**  
+-   **[Configure personal portfolio solution cards in the DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-configure-solution-cards.md)**  
 Configure the fields that display on the personal portfolio solution cards in the DPM Admin Center. Your configuration determines the fields that display on each solution card in the DPM Workspace.
--   **[View relationships of business applications and service instances in the DPM Admin Center](dpm-view-related-records.md)**  
+-   **[View relationships of business applications and service instances in the DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-view-related-records.md)**  
 In the DPM Admin Center, you can see a comprehensive view of your business applications and service instances. You can see incidents, problems, and changes that are related to your business applications and incidents and changes that are related to your service instances.
 
-**Parent Topic:**[Configuring Digital Portfolio Management](dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-cfw.md)
 

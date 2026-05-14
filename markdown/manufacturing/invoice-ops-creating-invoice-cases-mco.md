@@ -44,5 +44,5 @@ Once an invoice case has been created, agents can add invoices or invoice lines 
 
 The agent can select an invoice line or invoice for the Invoice Case Line record and then select **Save** to add it to the invoice case as an invoice case line.
 
-**Parent Topic:**[Order Management](mco-som-using.md)
+**Parent Topic:**[Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-som-using.md)
 

@@ -36,7 +36,7 @@ Contract fulfillers and assignment group managers with the sn\_cm\_gen\_ai.ai\_c
 
 **Note:** The agentic workflow isn’t supported in the Virtual Agent panel.
 
-For feature limitations, see [Explore Now Assist in Contract Management](cncore-exp-now-assist-land.md).
+For feature limitations, see [Explore Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-exp-now-assist-land.md).
 
 ## Procedure
 
@@ -48,10 +48,10 @@ For feature limitations, see [Explore Now Assist in Contract Management](cncore-
 
 4.  Select CNTR number to view the contract details.
 
-    ![Conversational search for contracts](../image/cmpro-na-search-meta-viewresult.png)
+    ![Conversational search for contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-search-meta-viewresult.png)
 
 5.  Select **Open request** to open the contract record.
 
-    ![Open contract request](../image/cmpro-na-converse-openreq.png)
+    ![Open contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-converse-openreq.png)
 
 

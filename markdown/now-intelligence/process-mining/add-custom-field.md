@@ -48,10 +48,10 @@ Role required: sn\_process\_mining\_admin
 
     **Note:** This screen provides you with the name of the table that is created. You’ll need this table name in the next steps while importing data.
 
-    ![Import external dataset](../image/ext-dataset3.png)
+    ![Import external dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset3.png)
 
     The audit table is ready. You’re now set to import data into the table.
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/external-dataset.md)
 

@@ -47,13 +47,13 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin or sn\_itam\_common.a
 
     The List of assets and models screen is displayed, showing the scanned asset record.
 
-    **Note:** When the scanned asset record doesn't exist in your ServiceNow instance, the List of assets and models screen is empty. You can create an asset record for the new asset in the inventory. For more information, see [Create an asset from the inventory audit screen](inventory-audit-create-asset.md).
+    **Note:** When the scanned asset record doesn't exist in your ServiceNow instance, the List of assets and models screen is empty. You can create an asset record for the new asset in the inventory. For more information, see [Create an asset from the inventory audit screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-audit-create-asset.md).
 
 10. On the List of assets and models screen, slide the scanned asset record to the left side.
 
     The Audit option is displayed on the screen.
 
-    ![Audit option for single scan method](../image/single-scan-audit-option.png)
+    ![Audit option for single scan method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/single-scan-audit-option.png)
 
 11. Tap **Audit**.
 
@@ -72,19 +72,19 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin or sn\_itam\_common.a
 
 ## Result
 
-The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](../reference/audit-results.md).
+The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/audit-results.md).
 
 ## What to do next
 
 -   Review the inventory audit result.
 -   Tap the audit result field values to view the detailed list of the assets.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/ham-inventory-audit.md)
 
 **Related topics**  
 
 
-[View audit results](view-audit-results.md)
+[View audit results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-audit-results.md)
 
-[Create an asset from the inventory audit screen](inventory-audit-create-asset.md)
+[Create an asset from the inventory audit screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-audit-create-asset.md)
 

@@ -27,7 +27,7 @@ With the Service Model Foundation plugins, you can support:
 -   External business locations and staff members
 -   Households and household members
 
-For more information about this feature, see [Service Model Foundation overview](../concept/csm-industry-data-model.md).
+For more information about this feature, see [Service Model Foundation overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-industry-data-model.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activating plugins for Service Model Foundation](../concept/activate-plugins.md)
+[Activating plugins for Service Model Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/activate-plugins.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Activate the plugins:-   Business Location \(com.snc.business\_location\)
 
 </td></tr><tr><td>
 
-[Activate query rules](csm-activate-query-rules.md)
+[Activate query rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-activate-query-rules.md)
 
 </td><td>
 
@@ -65,7 +65,7 @@ Activate the query rules by setting the system property \[sn\_cs\_queryrules.use
 
 </td></tr><tr><td>
 
-[Configure forms and lists](configure-data-model-forms.md)
+[Configure forms and lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-forms.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Configure forms to add the fields and related lists that support the business lo
 
 </td></tr><tr><td>
 
-[Assign responsibilities](csm-assign-responsibilities.md)
+[Assign responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-assign-responsibilities.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Assign responsibilities to the service organization \(SO\) member using the resp
 
 </td></tr><tr><td>
 
-[Assign roles](configure-data-model-roles.md)
+[Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-roles.md)
 
 </td><td>
 
@@ -89,7 +89,7 @@ Roles control access to features, capabilities, and data. The Service Model Foun
 
 </td></tr><tr><td>
 
-[Create relationships](configure-data-model-relationships.md)
+[Create relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-relationships.md)
 
 </td><td>
 

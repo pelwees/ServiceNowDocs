@@ -19,7 +19,7 @@ Use the McAfee ePO integration to leverage the McAfee ePO capabilities on the SI
 
 Role required: sn\_si.admin
 
-Before you use McAfee ePO integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md).
+Before you use McAfee ePO integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/mcaffee-epo-setup-now.md).
 
 ## About this task
 
@@ -42,11 +42,11 @@ The McAfee ePO integration enables analysts to use the following McAfee ePO capa
 
     For example, Get Host Details.
 
-    ![McAfee ePO capability to trigger from the related list](../image/mcafee-workspace-1.png)
+    ![McAfee ePO capability to trigger from the related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-workspace-1.png)
 
 4.  In the Get Host Details pop-up, select the **McAfee ePO** implementation.
 
-    ![Get Host Details](../image/mcafee-workspace-2.png)
+    ![Get Host Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-workspace-2.png)
 
 5.  Click **Submit**.
 
@@ -56,7 +56,7 @@ The McAfee ePO integration enables analysts to use the following McAfee ePO capa
 
 7.  Select the **Configuration Item**, and click the **View Associated Info** action.
 
-    The Associated information of the Configuration Item is displayed. For example, Host Details.![The Associated information of the Configuration Item](../image/mcafee-workspace-results.png)
+    The Associated information of the Configuration Item is displayed. For example, Host Details.![The Associated information of the Configuration Item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-workspace-results.png)
 
 8.  Click the **Configuration Item** to view the host details.
 
@@ -71,9 +71,9 @@ The McAfee ePO integration enables analysts to use the following McAfee ePO capa
 11. Select the **McAfee ePO** implementation, and click **Submit**.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Trigger additional actions in McAfee ePO integration](configure-additional-actions-mcafee.md)
+**Previous topic:**[Trigger additional actions in McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-additional-actions-mcafee.md)
 
-**Next topic:**[Test security incidents to initiate malware scan](mcafee-epo-test-incident-malscan.md)
+**Next topic:**[Test security incidents to initiate malware scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-test-incident-malscan.md)
 

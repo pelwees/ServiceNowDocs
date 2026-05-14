@@ -33,7 +33,7 @@ You can connect a data fabric table included with an application to a different 
 
 3.  Connect the table to a different local table on the instance.
 
-    1.  Select the More Actions icon \(![More actions icon](../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Change connection**.
+    1.  Select the More Actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Change connection**.
 
     2.  On the Select a connection page, select the **ServiceNow local instance** connection.
 
@@ -58,5 +58,5 @@ You can connect a data fabric table included with an application to a different 
 
 The data fabric table is connected to the local table that you selected using the ServiceNow local instance connector. Application users can access real-time data from the local table using the data fabric table.
 
-**Parent Topic:**[Accessing real-time data in applications](../concept/mapping-application-tables-zcc.md)
+**Parent Topic:**[Accessing real-time data in applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/mapping-application-tables-zcc.md)
 

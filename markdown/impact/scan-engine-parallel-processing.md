@@ -61,10 +61,10 @@ Scan initiation capabilities are determined by user roles:
 |Scan User|No scan initiation buttons \(view only\)|
 |Read User|No scan initiation buttons \(view only\)|
 
-**Note:** See [Roles installed with Impact](../reference/impact-roles.md) for additional information on user roles.
+**Note:** See [Roles installed with Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/impact-roles.md) for additional information on user roles.
 
 **Related topics**  
 
 
-[Initiating parallel scans](../task/scan-engine-parallel-processing-task.md)
+[Initiating parallel scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/scan-engine-parallel-processing-task.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 2.  To upload your company logo, select **Update** beside **UI16 Banner Image**.
 
-    ![UI16 banner image field with Update selected.](../image/next-exp-banner-logo.png)
+    ![UI16 banner image field with Update selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-banner-logo.png)
 
 3.  Select **Choose file** and select the file, and then select **OK**.
 
@@ -38,5 +38,5 @@ Role required: admin
 6.  To restore the default instance logo, update the **glide.product.image.light** system property value to **now-next-experience-logo.svg**.
 
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

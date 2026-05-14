@@ -18,7 +18,7 @@ Use the multiple active conversations system, in combination with defined contex
 
 ## Before you begin
 
-A default context is necessary to start out with the multiple active conversations system. See [Set a default NLU context value for multiple active conversations](t_set-default-context-value-multiple-active-conversations.md) for more information.
+A default context is necessary to start out with the multiple active conversations system. See [Set a default NLU context value for multiple active conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/t_set-default-context-value-multiple-active-conversations.md) for more information.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -41,7 +41,7 @@ The multiple active conversations feature is inactive by default in Virtual Agen
 
 ## What to do next
 
-With multiple active conversations activated, you can also send notifications from Virtual Agent to portals using the feature. See [Route Virtual Agent NLU notifications through multiple portals](t_route-va-notifications-multiple-portals.md) for more information.
+With multiple active conversations activated, you can also send notifications from Virtual Agent to portals using the feature. See [Route Virtual Agent NLU notifications through multiple portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/t_route-va-notifications-multiple-portals.md) for more information.
 
-**Parent Topic:**[Using multiple active conversations in Virtual Agent](../concept/c_multiple-active-conversations-va.md)
+**Parent Topic:**[Using multiple active conversations in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/c_multiple-active-conversations-va.md)
 

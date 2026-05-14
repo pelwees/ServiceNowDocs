@@ -17,12 +17,12 @@ You can use a before business rule script to cancel or abort the current databas
 
 If the before business rule is executed during an insert action, and a condition in the script calls current.setAbortAction\(true\), the new record stored in current is not created in the database.
 
-**Parent Topic:**[Business rule use cases](useful-business-rules.md)
+**Parent Topic:**[Business rule use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/useful-business-rules.md)
 
 **Related topics**  
 
 
-[GlideRecord - setAbortAction\(Boolean b\)](../../../app-store/dev_portal/API_reference/GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - setAbortAction\(Boolean b\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideRecord/concept/c_GlideRecordAPI.md#)
 
-[Scoped GlideRecord - setAbortAction\(Boolean b\)](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[Scoped GlideRecord - setAbortAction\(Boolean b\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
 

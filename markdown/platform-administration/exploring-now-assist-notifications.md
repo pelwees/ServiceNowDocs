@@ -44,7 +44,7 @@ Automate inbound email processing by intelligently understanding requests, extra
 
 </td><td>
 
-[Use email agentic workflow](use-agentic-ai-notifications.md)
+[Use email agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/use-agentic-ai-notifications.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Create and modify email notifications, templates, and layouts through conversati
 
 </td><td>
 
-[Notification agent](../concept/notification-creation-agent.md)
+[Notification agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/notification-creation-agent.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Admin
 
 To learn more about configuring and using Now Assist in Notifications, see:
 
--   [Configure email agentic workflows in Notifications](configuring-agentic-workflows-in-notifications.md)
--   [General guidelines for creating and mapping an intent](guidelines-creating-intent.md)
--   [Notification agent](../concept/notification-creation-agent.md)
+-   [Configure email agentic workflows in Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configuring-agentic-workflows-in-notifications.md)
+-   [General guidelines for creating and mapping an intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/guidelines-creating-intent.md)
+-   [Notification agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/notification-creation-agent.md)
 

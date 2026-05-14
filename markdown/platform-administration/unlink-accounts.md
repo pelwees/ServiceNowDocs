@@ -41,8 +41,8 @@ If you unlink your account to a messaging app for Now Actions, you must also dis
 
     2.  Under Notification Channels, disable the appropriate messaging channel.
 
-    **Note:** If you want to link your ServiceNow account again, follow the steps in [Link your ServiceNow user account to your Slack or MS Teams account for Now Actions](link-accounts.md).
+    **Note:** If you want to link your ServiceNow account again, follow the steps in [Link your ServiceNow user account to your Slack or MS Teams account for Now Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/link-accounts.md).
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/messaging-integration.md)
 

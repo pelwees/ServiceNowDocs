@@ -19,9 +19,9 @@ From a single place, you can track the status of legal requests and matters, ana
 
 **Note:** The classic version of Legal Executive Dashboard has been deprecated. If you open a saved URL to access the classic Legal Executive Dashboard, the Next Experience dashboard is automatically displayed. If you have customized the classic version, review and migrate your customizations to the Next Experience Legal Executive Dashboard.
 
-For reports and metrics on legal requests and legal matters and the trend analysis, see [Legal Operations dashboard](legal-operations-dashboard.md).
+For reports and metrics on legal requests and legal matters and the trend analysis, see [Legal Operations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-operations-dashboard.md).
 
-![Legal Executive dashboard showing widgets and reports.](../image/legal-executive-dashboard.gif "Legal Executive dashboard")
+![Legal Executive dashboard showing widgets and reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/legal-executive-dashboard.gif "Legal Executive dashboard")
 
 **Important:** The tabs specific to practice areas are available on the Legal Executive dashboard depending on whether the corresponding application is installed. For example, the **Contracts** tab is available when you have installed the Legal Simple Contracts application. Also, you can add new tabs in the dashboard to view reports related to practice areas created by you.
 
@@ -451,7 +451,7 @@ Total requests \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -467,7 +467,7 @@ Top 3 requests for this month
 
 </td><td>
 
-Scorecard![Scorecard icon.](../../reporting/image/icon-list-report-p.png)
+Scorecard![Scorecard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -483,7 +483,7 @@ Open requests by age
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -499,7 +499,7 @@ Request stats \(YTD\)
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -515,7 +515,7 @@ Avg. requests per attorney by category
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -531,7 +531,7 @@ Requests completion time
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -551,7 +551,7 @@ Total matters \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -567,7 +567,7 @@ Top 3 matters for this month
 
 </td><td>
 
-Scorecard![Scorecard icon.](../../reporting/image/icon-list-report-p.png)
+Scorecard![Scorecard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -583,7 +583,7 @@ Open matters by age
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -599,7 +599,7 @@ Matter stats \(YTD\)
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -615,7 +615,7 @@ Avg. matters per attorney by category
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -631,7 +631,7 @@ Matters completion time
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -651,7 +651,7 @@ Total Contract requests \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -667,7 +667,7 @@ Open Contract requests by deal size
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -683,7 +683,7 @@ Open Contract requests by deal size and age
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -699,7 +699,7 @@ Contract requests by contract type \(YTD\)
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -715,7 +715,7 @@ Contract completion time
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -735,7 +735,7 @@ Total Privacy and Compliance requests \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -751,7 +751,7 @@ Open requests by category and age​
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -767,7 +767,7 @@ Privacy and Compliance requests by category \(YTD\)
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -783,7 +783,7 @@ Number of open legal requests in Privacy or Compliance practice areas.
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -799,7 +799,7 @@ Request completion time​
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -819,7 +819,7 @@ Total Digital Forensics requests \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -835,7 +835,7 @@ Open activities by age
 
 </td><td>
 
-List![List icon.](../../reporting/image/icon-list-report-p.png)
+List![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-list-report-p.png)
 
 </td><td>
 
@@ -851,7 +851,7 @@ Activities completion time
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -886,7 +886,7 @@ Requests by geography \(YTD\)
 
 </td><td>
 
-Map![Map icon.](../../reporting/image/icon-map-report-p.png)
+Map![Map icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-map-report-p.png)
 
 </td><td>
 
@@ -902,7 +902,7 @@ Requested activities \(YTD\)
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -918,7 +918,7 @@ Open requests by category
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -934,7 +934,7 @@ Open activities
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -950,7 +950,7 @@ Matters by geography \(YTD\)
 
 </td><td>
 
-Map![Map icon.](../../reporting/image/icon-map-report-p.png)
+Map![Map icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../reporting/image/icon-map-report-p.png)
 
 </td><td>
 
@@ -961,5 +961,5 @@ Legal Matter \[sn\_lg\_matter\_matter\]
 Number of legal matters created from legal fulfillers in various regions so far this year is displayed on a map.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](../../application-content-packs/concept/legalsd-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../application-content-packs/concept/legalsd-content-pack.md)
 

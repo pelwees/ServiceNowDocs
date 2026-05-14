@@ -27,7 +27,7 @@ Role required: user must have contributor access to the knowledge base.
 
 3.  In the **Related Links** section, click **Preview Article with Blocks**.
 
-    ![Preview article with knowledge blocks.](../image/knowledge-blocks-preview-article-with-blocks.png)
+    ![Preview article with knowledge blocks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/knowledge-blocks-preview-article-with-blocks.png)
 
 4.  Preview the article as one of the following.
 
@@ -59,5 +59,5 @@ Preview the article by user and date:-   In the **View As** field, you can searc
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using knowledge blocks](../concept/using-knowlege-blocks.md)
+**Parent Topic:**[Using knowledge blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/using-knowlege-blocks.md)
 

@@ -608,5 +608,5 @@ meeting\_url
 Join URL for the virtual meeting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reusable ITSM Virtual Agent pre-built topic blocks](itsm-va-topic-blocks.md)
+</table>**Parent Topic:**[Reusable ITSM Virtual Agent pre-built topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md)
 

@@ -29,7 +29,7 @@ Create the rule to match the event by its class and original values. Also, speci
 
 2.  Select **New** or open an existing rule to edit and fill in the fields.
 
-    ![Event field mapping](../image/event-mapping-rule.png "Event field mapping")
+    ![Event field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-mapping-rule.png "Event field mapping")
 
 <table id="table_EventFieldMappingForm"><thead><tr><th>
 
@@ -618,5 +618,5 @@ Transform Value Pairs
 
 Test an event field mapping by sending an event that includes a field that is present in the event field mapping.
 
-**Parent Topic:**[Event field mapping configuration](../concept/c_EMEventFieldMapping.md)
+**Parent Topic:**[Event field mapping configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/c_EMEventFieldMapping.md)
 

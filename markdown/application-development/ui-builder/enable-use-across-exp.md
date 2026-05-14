@@ -25,7 +25,7 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Select **Experience settings**.
 
@@ -37,7 +37,7 @@ Role required: ui\_builder\_admin
 
 6.  Select the **Use across experiences** box.
 
-    ![Arrow pointing to the Use across experiences check box.](../image/use-across-exp-box.png)
+    ![Arrow pointing to the Use across experiences check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/use-across-exp-box.png)
 
 7.  Select **Update**.
 
@@ -46,7 +46,7 @@ Role required: ui\_builder\_admin
 
 The selected page displays the shared page icon, indicating it can be used across multiple experiences.
 
-![Use across experiences pop up displayed in experience view.](../image/use-across-pages-pop-up.png)
+![Use across experiences pop up displayed in experience view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/use-across-pages-pop-up.png)
 
-**Parent Topic:**[Use pages across experiences](../concept/use-across-pages.md)
+**Parent Topic:**[Use pages across experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/use-across-pages.md)
 

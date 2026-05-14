@@ -21,7 +21,7 @@ When a contract request is modified, sync the contract document for self-served 
 
 You can sync a contract document only when the contract request is in the Work in progress state.
 
-**Note:** Tables aren’t updated when you use the **Sync document** option. You must regenerate the document to update the tables. For more information, see [Regenerate contract document after modifying request](cncore-regen-contract-doc.md).
+**Note:** Tables aren’t updated when you use the **Sync document** option. You must regenerate the document to update the tables. For more information, see [Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-regen-contract-doc.md).
 
 ## Before you begin
 
@@ -37,12 +37,12 @@ Role required: sn\_cm\_core.contract\_fulfiller or sn\_cm\_core.contract\_user
 
 4.  Select **Sync document**.
 
-    ![Sync document to update the contract.](../image/cmpro-sync-doc.png "Sync document")
+    ![Sync document to update the contract.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-sync-doc.png "Sync document")
 
 
 ## Result
 
 A new contract document revision is created with the updated metadata and signatories. The changes made in the previous revision are retained.
 
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-request-ss-contract-1.md)
 

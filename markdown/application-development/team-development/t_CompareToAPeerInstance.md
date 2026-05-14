@@ -29,7 +29,7 @@ To compare the local instance to a peer instance:
 
 ## Procedure
 
-1.  Ensure that the peer instance is [defined as a remote instance](t_DefineARemoteInstance.md).
+1.  Ensure that the peer instance is [defined as a remote instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_DefineARemoteInstance.md).
 
 2.  Navigate to **Team Development** &gt; **Team Dashboard**.
 
@@ -41,7 +41,7 @@ To compare the local instance to a peer instance:
 
     The instance comparison record opens.
 
-    ![Compare instance](../image/CompareInstance.png)
+    ![Compare instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/CompareInstance.png)
 
 6.  Review the On Remote and not Local related list, which shows the customized records where the current version on the peer instance is not on the local instance.
 

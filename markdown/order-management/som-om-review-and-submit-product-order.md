@@ -155,7 +155,7 @@ Aggregate cost of all charges, both, one-time and recurring, associated with the
 
 ## What to do next
 
-For complex orders, capture technical details. For more information, see [Capture order enrichment details for complex fulfillment](capture-order-enrichment-details.md).
+For complex orders, capture technical details. For more information, see [Capture order enrichment details for complex fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/capture-order-enrichment-details.md).
 
-If order enrichment tasks don't apply, move to order approval. For more information, see [Approving or rejecting orders](../concept/approving-rejecting-orders-som.md).
+If order enrichment tasks don't apply, move to order approval. For more information, see [Approving or rejecting orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/approving-rejecting-orders-som.md).
 

@@ -27,7 +27,7 @@ Sometimes, Software Spend Detection can't match a transaction to a software publ
 
 1.  Navigate to **All** &gt; **Software Spend Detection** &gt; **Unnormalized Transactions**.
 
-    **Note:** By default, this list shows only transactions identified as software by Software Spend Detection. To include transactions not identified as software, remove the filter condition **Is software = true**.![Remove the Is software = true filter condition by selecting the arrow in the filter.](../image/spend-manually-update.png)
+    **Note:** By default, this list shows only transactions identified as software by Software Spend Detection. To include transactions not identified as software, remove the filter condition **Is software = true**.![Remove the Is software = true filter condition by selecting the arrow in the filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/spend-manually-update.png)
 
 2.  Select a transaction date.
 
@@ -42,5 +42,5 @@ Sometimes, Software Spend Detection can't match a transaction to a software publ
     The transaction is removed from the list of unnormalized transactions and is added to the Software Spend Detection dashboard.
 
 
-**Parent Topic:**[Software Spend Detection](../concept/software-spend-detection.md)
+**Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/software-spend-detection.md)
 

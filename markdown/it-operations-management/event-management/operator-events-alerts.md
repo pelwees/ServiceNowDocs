@@ -23,7 +23,7 @@ Lesson 1
 
 </td><td align="justify">
 
-![Overview icon](../image/progress-wip.png)
+![Overview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -35,11 +35,11 @@ Lesson 2
 
 </td><td align="justify">
 
-![Overview of BS icon](../image/progress-not-started.png)
+![Overview of BS icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[An overview of application services](operator-application-services.md)
+[An overview of application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-application-services.md)
 
 </td></tr><tr><td>
 
@@ -47,11 +47,11 @@ Lesson 3
 
 </td><td align="justify">
 
-![Overview operator icon](../image/progress-not-started.png)
+![Overview operator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[Event Management operator workspaces](operator-user-interfaces.md)
+[Event Management operator workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-user-interfaces.md)
 
 </td></tr><tr><td>
 
@@ -59,16 +59,16 @@ Lesson 4
 
 </td><td align="justify">
 
-![Overview of what operators do icon](../image/progress-not-started.png)
+![Overview of what operators do icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[What operators do](operator-process.md)
+[What operators do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)
 
 </td></tr></tbody>
 </table>Your organization already has an event monitoring tool in place, such as Microsoft System Center Operations Manager \(SCOM\), Nagios, SolarWinds, and so on. When an issue occurs on your network, such as a computer going down or a database failure, the event monitoring tools send events to your ServiceNow instance. The Event Management application processes the events according to the settings that your administrator configured, and then generates alerts. An alert is an indicator that the issue requires some type of action.
 
-![An operator view of Event Management](../image/operator-event-management-overview.png "Alert generation")
+![An operator view of Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-event-management-overview.png "Alert generation")
 
 As an Event Management operator, your role is to view alerts and, depending on how Event Management is implemented in your organization, take an action to help resolve the underlying issue or notify someone who can. Later in this tutorial, you will see the phases of a typical alert management process.
 
@@ -89,7 +89,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Resource icon](../image/severity-critical.png) **Critical**
+![Resource icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-critical.png) **Critical**
 
 </td><td>
 
@@ -97,7 +97,7 @@ The resource is either not functional or critical problems are imminent.
 
 </td></tr><tr><td>
 
-![Functionality icon](../image/severity-major.png) **Major**
+![Functionality icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-major.png) **Major**
 
 </td><td>
 
@@ -105,7 +105,7 @@ Major functionality is severely impaired or performance has degraded.
 
 </td></tr><tr><td>
 
-![Minor icon](../image/severity-minor.png) **Minor**
+![Minor icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-minor.png) **Minor**
 
 </td><td>
 
@@ -113,7 +113,7 @@ Partial, non-critical loss of functionality or performance degradation occurred.
 
 </td></tr><tr><td>
 
-![Warning icon](../image/severity-warning.png) **Warning**
+![Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-warning.png) **Warning**
 
 </td><td>
 
@@ -121,7 +121,7 @@ Attention is required, even though the resource is still functional.
 
 </td></tr><tr><td>
 
-![OK icon](../image/severity-info.png) **OK**
+![OK icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-info.png) **OK**
 
 </td><td>
 
@@ -129,7 +129,7 @@ No severity. An alert is created. The resource is still functional.
 
 </td></tr><tr><td>
 
-![Clear icon](../image/severity-clear.png) **Clear**
+![Clear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-clear.png) **Clear**
 
 </td><td>
 
@@ -143,7 +143,7 @@ Some alerts are related to each other. For example, if a router goes down, sever
 
 In our example, if a router goes down on your network, network communication is also affected for connected servers, assuming they cannot reach any other routers. The router outage becomes the primary alert and the alerts generated on the server are secondary alerts that are correlated under the router alert.
 
-![Correlated alerts](../image/operator-multiple-alerts.png "Secondary alert generation")
+![Correlated alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-multiple-alerts.png "Secondary alert generation")
 
 Depending on your organization's Event Management implementation, alerts might be grouped automatically based on correlation rules that your administrator sets up. Your instance can also learn how to improve the way it correlates alerts based on these rules. As an operator, you should still verify the accuracy of the correlation and, if necessary, manually correlate additional alerts with the primary alert. Later in the tutorial, you will learn how to do this.
 
@@ -153,7 +153,7 @@ In this tutorial, you will learn how to manually correlate alerts.
 
 An alert can flap, meaning that it gets multiple open-close events in rapid succession. Flapping indicates that Event Management does not know whether the underlying events are genuine or not. The events could indicate small issues with the way CIs are configured, or larger issues, like network outages.
 
-![CPU usage](../image/alert-flapping-cpu.png "Alert flapping")
+![CPU usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-flapping-cpu.png "Alert flapping")
 
 For example, if a server that hosts a web service has too many active processes, it might trigger an event about excessive CPU usage. Since CPU usage can fluctuate rapidly depending on web service requests, several events might be triggered, leading to the alert being put in the flapping state. As an operator, you might need to create an incident to have the server restarted, or someone might have to reconfigure the CPU, or possibly make a hardware change on the device.
 
@@ -161,7 +161,7 @@ As another example, consider a loose network cable that causes momentary, repeat
 
 ## Continue the tutorial
 
-Proceed to the next lesson: [Application services for Event Management operators](operator-application-services.md).
+Proceed to the next lesson: [Application services for Event Management operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-application-services.md).
 
-**Parent Topic:**[Event Management Operator Tutorial](operator-guide-em.md)
+**Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 

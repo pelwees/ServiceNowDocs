@@ -175,15 +175,15 @@ Enter footer information for the menu section.
 </table>4.  Click **Submit**.
 
 
--   **[Configure menu items](t_ConfigureMenuItems.md)**  
+-   **[Configure menu items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_ConfigureMenuItems.md)**  
 Menu items are the links that appear within each menu section.
 
-**Parent Topic:**[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
+**Parent Topic:**[Create a navigation menu block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateNavigationMenuBlock.md)
 
 **Related topics**  
 
 
-[Menu types](../reference/r_MenuTypes.md)
+[Menu types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_MenuTypes.md)
 
-[Menu style customization](../concept/c_CustomizeTheMenuStyle.md)
+[Menu style customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_CustomizeTheMenuStyle.md)
 

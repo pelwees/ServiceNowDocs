@@ -27,14 +27,14 @@ To access the policies page, navigate to **All** &gt; **Continuous Authenticatio
 |Tables|Tables selected for the policy|
 |Created|Policy creation details|
 
-![CA Policies page](../images/ca-policy-page.png)
+![CA Policies page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/ca-policy-page.png)
 
 **Related topics**  
 
 
-[Metrics](ca-metrics.md)
+[Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md)
 
-[System properties](ca-system-properties.md)
+[System properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md)
 
-[Exploring Continuous Authentication](explore-continuous-auth.md)
+[Exploring Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/explore-continuous-auth.md)
 

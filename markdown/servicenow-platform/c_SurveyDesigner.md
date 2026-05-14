@@ -23,63 +23,63 @@ You can assign a survey to individual users or groups who receive all the questi
 
 **Note:** The survey designer replaces the survey creator in the Legacy Surveys application. If you are using Internet Explorer version 8 or earlier, the system redirects you to the survey creator.
 
--   **[Survey designer elements](c_SurveyDesignerElements.md)**  
+-   **[Survey designer elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md)**  
 The survey designer is accessible from **Survey** &gt; **Survey Designer**.
--   **[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)**  
+-   **[Configure a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ConfigSurveyInSurveyDesgnr.md)**  
 Configuration settings apply to the entire survey.
--   **[Survey categories](c_SurveyCategory.md)**  
+-   **[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)**  
 Survey categories provide a way to group questions of a similar theme for a given survey.
--   **[Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md)**  
+-   **[Create a question in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateQuestSurveyDesigr.md)**  
 You can create multiple questions for each category in the survey designer, but each question can only be associated with one category.
--   **[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)**  
+-   **[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)**  
 You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on survey questionnaires.
--   **[Create custom metric type](../task/create-custom-templates-questions.md)**  
+-   **[Create custom metric type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/create-custom-templates-questions.md)**  
 Create your own custom metric type if you don’t find the metric type that you want in Survey Designer while designing surveys.
--   **[Edit a survey in the survey designer](../task/t_EditASurveyInTheSurveyDesigner.md)**  
+-   **[Edit a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_EditASurveyInTheSurveyDesigner.md)**  
 You can modify surveys using the survey designer.
--   **[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)**  
+-   **[Configure category weights for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ConfigCatWeightsForSurvey.md)**  
 You can assign a weight to each category in a survey. The system calculates results from the weight that you configure.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/view-survey-overview.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewSurveyInstance.md)
 
-[Survey users and groups](c_SurveyUsersAndGroups.md)
+[Survey users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CustomizingAppearance.md)
 
-[Survey definitions](c_SurveyDefinitions.md)
+[Survey definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateASurveyDesignerTemplateQ.md)
 
-[Survey questions](c_SurveyQuestion.md)
+[Survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
-[Survey trigger conditions](c_TriggerConditions.md)
+[Survey trigger conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-[Survey distribution](c_SurveyDistribution.md)
+[Survey distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
 
-[Sentiment analysis for surveys](sentiment-analysis.md)
+[Sentiment analysis for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis.md)
 
-[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyServicePortal.md)
 
-[Surveys in ITSM Virtual Agent](survey-virtual-agent.md)
+[Surveys in ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-virtual-agent.md)
 
-[Legacy survey migration](c_MigrateSurveys.md)
+[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateASurveyDesignerTemplateQ.md)
 
-[Select recipients for a survey in the Survey Designer](../task/t_SelRecipsForASurveyInDesigner.md)
+[Select recipients for a survey in the Survey Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_SelRecipsForASurveyInDesigner.md)
 
-[Publish a survey in the Survey Designer](../task/t_PublishASurveyInSurveyDesigner.md)
+[Publish a survey in the Survey Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_PublishASurveyInSurveyDesigner.md)
 

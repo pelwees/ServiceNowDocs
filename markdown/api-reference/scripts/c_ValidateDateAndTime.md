@@ -29,7 +29,7 @@ function validate (value){
 }
 ```
 
-For a comprehensive use case, see [Restricting record access](c_ExScptDftBfrQryBsnRu.md).
+For a comprehensive use case, see [Restricting record access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ExScptDftBfrQryBsnRu.md).
 
-**Parent Topic:**[Useful scripts](usefulScripts.md)
+**Parent Topic:**[Useful scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/usefulScripts.md)
 

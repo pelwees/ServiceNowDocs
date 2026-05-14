@@ -25,7 +25,7 @@ Role required: rota\_admin, rota\_manager
 
     -   1.  Navigate to **On-Call Scheduling** &gt; **On-Call Schedules**. The On-Call Schedules page opens to the All On-Call Schedules tab.
 2.  Click a schedule card.
-3.  On the **Shifts** tab, click the Actions icon \(![Actions icon](../image/icon-actions.png)\) for the shift and select **Edit Escalation and Contact Preferences**.
+3.  On the **Shifts** tab, click the Actions icon \(![Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/icon-actions.png)\) for the shift and select **Edit Escalation and Contact Preferences**.
     -   1.  Navigate to **On-Call Scheduling** &gt; **My Group Schedules**.
 2.  Select the shift.
 3.  Click **Edit Escalation and Contact Preferences**
@@ -41,12 +41,12 @@ Role required: rota\_admin, rota\_manager
     -   Email
     -   Slack
     -   Voice
-    -   Microsoft Teams. For information on setting up this channel, see [Set up Microsoft Teams as a contact method for an on-call escalation](set-up-msteams-oncall.md).
-    -   Mobile push. For information on setting up this channel, see [Set up mobile push as a contact method for an on-call escalation](set-up-mobile-push-oncall.md).
+    -   Microsoft Teams. For information on setting up this channel, see [Set up Microsoft Teams as a contact method for an on-call escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/set-up-msteams-oncall.md).
+    -   Mobile push. For information on setting up this channel, see [Set up mobile push as a contact method for an on-call escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/set-up-mobile-push-oncall.md).
     **Note:** SMS and voice require that Notify is active.
 
 4.  Enable the **Override user preference** option.
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/manage-schedules-and-shifts.md)
 

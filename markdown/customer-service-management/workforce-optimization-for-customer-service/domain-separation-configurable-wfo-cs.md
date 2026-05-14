@@ -72,7 +72,7 @@ Domain separated tables for Skill Recommendation
 
 For information on how domain separation works in Coaching for Workforce Optimization for ITSM, refer to Domain separation and Coaching.
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-configurable-wfo-cs.md)
 
 **Related topics**  
 

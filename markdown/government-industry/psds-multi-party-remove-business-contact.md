@@ -30,7 +30,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 4.  Navigate to the **Add related parties** activity in the Intake stage of License and Permit Playbook.
 
-5.  Select the delete icon ![delete icon](../image/psds-lpr-trash-icon.png) next to the business contact you want to delete, or the edit icon ![edit icon](../image/edit-icon.png) next to the business contact you want to edit.
+5.  Select the delete icon ![delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-lpr-trash-icon.png) next to the business contact you want to delete, or the edit icon ![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/edit-icon.png) next to the business contact you want to edit.
 
 6.  Select **Save** once you’re finished editing the related party information.
 

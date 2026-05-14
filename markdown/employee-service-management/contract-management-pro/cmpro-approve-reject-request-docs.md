@@ -99,5 +99,5 @@ If the requested item was assigned to a user group for approval, then the state 
 -   Any approver who isn’t added to **Watch list** in the request loses access to the rejected contract document.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Initiate an ad hoc approval for a contract document revision](cmpro-initiate-approval-contract-request.md)
+</table>**Parent Topic:**[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-initiate-approval-contract-request.md)
 

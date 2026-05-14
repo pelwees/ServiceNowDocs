@@ -36,7 +36,7 @@ Role required: sn\_dlir.admin
     |ServiceNow Incident Status|List of Status of DLP incidents.|
     |Proofpoint Incident Status|Default mapped values for default states available in DLP incidents. For custom states, the default Proofpoint status is **New**. You can modify and add the required Proofpoint status in the input field.|
 
-    ![Map Proofpoint DLP incident status with ServiceNow Incident status](../../data-loss-prevention/image/dlp-proofpoint-map.gif)
+    ![Map Proofpoint DLP incident status with ServiceNow Incident status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-proofpoint-map.gif)
 
 5.  Click **Submit**.
 
@@ -47,5 +47,5 @@ A record for mapping is successfully created. The statuses of the ServiceNow inc
 
 When you change the status of any DLP incident on your ServiceNow instance, then the status of the associated Proofpoint DLP incident will be changed on the source Proofpoint platform as per the mapping set in the record.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-response-integration-proofpoint.md)
 

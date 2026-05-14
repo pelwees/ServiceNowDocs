@@ -23,7 +23,7 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## Procedure
 
-1.  Select the **Applications** icon \(![Applications icon](../image/icon-applications-nav.png)\) and then select one or more applications.
+1.  Select the **Applications** icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-applications-nav.png)\) and then select one or more applications.
 
 2.  Select **Delete** and then confirm the delete action.
 

@@ -17,7 +17,7 @@ Connect intermediate certificates to recently imported certificates or to root c
 
 ## Before you begin
 
-If your root certificate is outside your server, you must first [Discover root certificates hosted outside your server](discover-root-certificate-browser.md). If you need to import certificate files, [Run Certificate Discovery via certificate file import](run-cert-inventory-mgmt-import.md).
+If your root certificate is outside your server, you must first [Discover root certificates hosted outside your server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discover-root-certificate-browser.md). If you need to import certificate files, [Run Certificate Discovery via certificate file import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/run-cert-inventory-mgmt-import.md).
 
 **Note:** If your root certificates are already in your servers, they're discovered and connected to the certificate chain using the standard Discovery probes deployed to your servers.
 

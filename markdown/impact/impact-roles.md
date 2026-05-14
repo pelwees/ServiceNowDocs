@@ -299,5 +299,5 @@ Impact Admin
 -   Has full access to all Impact features.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Impact reference](impact-reference.md)
+</table>**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 

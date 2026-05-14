@@ -28,7 +28,7 @@ Role required: Not applicable
     For detailed information on Task SLA, refer [Create an SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_CreateAnSLADefinition.md).
 
 
-**Parent Topic:**[Product Non-conformance without playbook](mco-related-lists-product-non-conformance.md)
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
 **Related topics**  
 

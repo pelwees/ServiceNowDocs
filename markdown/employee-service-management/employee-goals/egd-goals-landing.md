@@ -19,23 +19,23 @@ The ServiceNow® Employee Goals application lets employees view and track their 
 
 <table id="table_jqf_33d_1bc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how employees and managers use Employee Goals.](egd-goals-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how employees and managers use Employee Goals.](egd-goals-explore.md)
 
 </td><td>
 
-[Install and configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install the Employee Goals app from the ServiceNow store. As an administrator, you can configure application features when configuration options are available.](egd-goals-install-config.md)
+[Install and configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install the Employee Goals app from the ServiceNow store. As an administrator, you can configure application features when configuration options are available.](egd-goals-install-config.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend the capabilities of the Employee Goals app by integrating with HCM software.](egd-goals-integrate.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend the capabilities of the Employee Goals app by integrating with HCM software.](egd-goals-integrate.md)
 
 </td></tr><tr><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)View and revisit your goals to align individual efforts with company objectives.](egd-goals-using.md)
+[Using![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/../../../reuse/icons/brand-icons/bus-explore-careers.svg)View and revisit your goals to align individual efforts with company objectives.](egd-goals-using.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](egd-goals-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-goals/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](egd-goals-reference.md)
 
 </td><td>
 

@@ -35,9 +35,9 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 5.  Select the case\(s\) from the **Add to Case** dialog box.
 
-    ![Add to TISC Case Modal](../image/tisc-add2-case-modal.png)
+    ![Add to TISC Case Modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/tisc-add2-case-modal.png)
 
-    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md).
+    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/create-cases-using-threat-analyst-workbench.md).
 
 6.  Click **Add**.
 
@@ -46,20 +46,20 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
     **Note:** To view the linked security incidents, click on the particular case record from the security incident **Activity** stream. By clicking on this will take you to the case record in TISC workspace and the security incidents will get added under **Artifacts** tab of the Case Management module.
 
 
-**Parent Topic:**[Send data from SIR Workspace to TISC](../concept/send-sir-to-tisc.md)
+**Parent Topic:**[Send data from SIR Workspace to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/send-sir-to-tisc.md)
 
 **Related topics**  
 
 
-[System properties to send data](../reference/tisc-integrations-system-properties.md)
+[System properties to send data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/tisc-integrations-system-properties.md)
 
-[Add observables to TISC Case](observables-to-case.md)
+[Add observables to TISC Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/observables-to-case.md)
 
-[Send Observables to TISC](tisc-context-in-sir-workspace.md)
+[Send Observables to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-context-in-sir-workspace.md)
 
-[Send Threat Lookup to TISC](send-threat-lookup-to-tisc.md)
+[Send Threat Lookup to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-threat-lookup-to-tisc.md)
 
-[Send Sighting Search to TISC](send-sighting-search-to-tisc.md)
+[Send Sighting Search to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-sighting-search-to-tisc.md)
 
-[Send Observable Enrichment to TISC](send-observable-enrichment-to-tisc.md)
+[Send Observable Enrichment to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-observable-enrichment-to-tisc.md)
 

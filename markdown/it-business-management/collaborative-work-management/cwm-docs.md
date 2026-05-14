@@ -30,7 +30,7 @@ Docs can be created within a Space, and organized into folders. Within a Space, 
 -   Cross-references: Add references to other ServiceNow AI Platform tables to connect work across teams.
 -   Slash command \(**/**\) for more options:
     -   Insert tables quickly
-    -   Mention a record. See [Dynamic data linking](cwm-docs.md#section_exg_k2r_khc).
+    -   Mention a record. See [Dynamic data linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md#section_exg_k2r_khc).
     -   Insert a list.
     -   Choose formatting options.
 -   Copy and paste within Docs: Transfer text, images, lists, and tables between Docs pages.
@@ -50,7 +50,7 @@ Insert images into your Docs by uploading a file from your device or adding a we
 
 Save images from your CWM documents directly to your device, making it easier to share or use them outside of the Docs environment. Click an image to access the download icon \(![](../images/cwm-icon-docs-image-download.png)\), then click the icon to save it to your device. Alternatively, right-click the image and use your browser's built-in save option.
 
-![Options to align and download an image in a Doc page.](../images/cwm-docs-image-download.png)
+![Options to align and download an image in a Doc page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-docs-image-download.png)
 
 ## Inline comments
 
@@ -101,11 +101,11 @@ For example, if you add a reference to an Incident record, the reference shows t
 
 A hover popover displays the details of the mentioned record, providing quick access to additional information without leaving the current context.
 
-![Dynamic linking an incident record in CWM Docs.](../images/cwm-docs-dynamic-record.png)
+![Dynamic linking an incident record in CWM Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-docs-dynamic-record.png)
 
 Dynamic linking also enables adding references to a particular field of a record, such as Assigned to of an Incident record.
 
-![Dynamic linking the Assigned to field of an incident record in CWM Docs.](../images/cwm-docs-dynamic-field.png)
+![Dynamic linking the Assigned to field of an incident record in CWM Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-docs-dynamic-field.png)
 
 You can add references from any ServiceNow table you have access to, with no setup or configuration needed.
 
@@ -115,7 +115,7 @@ This feature reduces the need to switch between multiple ServiceNow applications
 
 With the feature of real-time collaboration, edit a Doc page concurrently with multiple other editors. Colored cursors denote the current location of each editor on the page. You can choose to show or hide these live presence indicators based on your preference while working on or reviewing the content of the page.
 
-![Doc real-time collaboration.](../images/cwm-docs-rtc.png)
+![Doc real-time collaboration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-docs-rtc.png)
 
 **Note:** Application performance may degrade with a large number of concurrent editors.
 
@@ -140,7 +140,7 @@ You can interact with Now Assist directly in your Doc to create content, add con
 
     -   If you have a list of stakeholders, you can ask **Elaborate on the scope of these roles.**
     -   **Rewrite this in a casual tone.**
-    ![Now Assist inline prompt for selected content on the page.](../../now-assist-cwm/images/na-inline-open-text.png)
+    ![Now Assist inline prompt for selected content on the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/images/na-inline-open-text.png)
 
 -   **Take assistance on a empty page**
 
@@ -150,7 +150,7 @@ You can interact with Now Assist directly in your Doc to create content, add con
     2.  **Write a 3-paragraph blog post explaining why \[industry trend\] is changing how businesses operate.**
     3.  **Generate an outline for the Instagram campaign tasks for a Hackathon initiative.**
 
-        ![Creating first draft for a page using Now Assist.](../../now-assist-cwm/images/na-blank-page-nacm.png)
+        ![Creating first draft for a page using Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/images/na-blank-page-nacm.png)
 
 -   **Answer questions in the context of this Doc**
 
@@ -158,25 +158,25 @@ You can interact with Now Assist directly in your Doc to create content, add con
 
     For example, if you have a project charter document, you can try asking **What is the total budget of this project and which part is the most expensive?**
 
-    ![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](../../now-assist-cwm/images/cwm-nacm-ask-questions.png)
+    ![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/images/cwm-nacm-ask-questions.png)
 
 
 ## Generate tasks from Docs and add them to Board using Now Assist for CWM
 
 Use the generative AI capabilities of Now Assist to create tasks from the context of your Docs. From the Doc header, select **Create Tasks** and Now Assist generates task recommendations for you and walks you through to add them to the required Board in CWM workspace.
 
-![Automatic task generation from CWM Docs using Now Assist for CWM.](../../now-assist-cwm/images/cwm-task-generation-now-assist.png)
+![Automatic task generation from CWM Docs using Now Assist for CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/images/cwm-task-generation-now-assist.png)
 
--   **[Create a Doc in CWM](../task/create-a-doc-in-cwm.md)**  
+-   **[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/create-a-doc-in-cwm.md)**  
 Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in Collaborative Work Management workspace.
--   **[Add comments to Docs in CWM](../task/add-comments-to-docs-in-cwm.md)**  
+-   **[Add comments to Docs in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/add-comments-to-docs-in-cwm.md)**  
 Streamline collaboration by turning your documents into living conversations. Highlight any passage, add a comment, and watch the discussion through threads, all without leaving the page or switching applications.
--   **[Manage pages and subpages in CWM Docs](../task/manage-pages-and-subpages-in-cwm-docs.md)**  
+-   **[Manage pages and subpages in CWM Docs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/manage-pages-and-subpages-in-cwm-docs.md)**  
 Flexibly organize information for your teams and work items by creating, duplicating, and deleting pages and subpages within a Doc in Collaborative Work Management \(CWM\) workspace.
--   **[Duplicate a Doc in CWM](../task/duplicate-doc-in-cwm.md)**  
+-   **[Duplicate a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/duplicate-doc-in-cwm.md)**  
 Save time by duplicate an existing Doc to copy all its pages and content without having to copy the information manually in the Collaborative Work Management workspace.
--   **[Export a Doc in CWM to a PDF file](../task/export-a-doc-in-cwm-to-a-pdf-file.md)**  
+-   **[Export a Doc in CWM to a PDF file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/export-a-doc-in-cwm-to-a-pdf-file.md)**  
 Use the Docs offline, and share with teams or stakeholders outside Collaborative Work Management \(CWM\) by exporting Docs as PDF.
 
-**Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)
+**Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 

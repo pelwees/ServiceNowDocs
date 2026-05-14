@@ -85,7 +85,7 @@ Category
 
 </td><td>
 
-[Error handling and logging](sc-error-handling-logging.md)
+[Error handling and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
 </td></tr><tr><td>
 
@@ -114,5 +114,5 @@ Dependencies and prerequisites
 This setting only applies to instances using an active Management, Instrumentation, and Discovery \(MID\) Server. A MID Server enables communication and movement of data between a ServiceNow instance and external applications, data sources, and services. Setting up a MID Server requires downloading the MID Server package on a Linux or Windows host, setting up the connection with the given ServiceNow instance and configuring additional settings. Information and references can be found at [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md). After it has been set up, a MID Server appears as a record in the MID Servers \[ecc\_agent\] table on connecting instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Error handling and logging](sc-error-handling-logging.md)
+</table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 

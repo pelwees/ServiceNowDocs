@@ -105,5 +105,5 @@ Advanced
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Customize HR Service Delivery integration with Microsoft Teams](../concept/customize-sn-ms-teams-hr.md)
+**Parent Topic:**[Customize HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/customize-sn-ms-teams-hr.md)
 

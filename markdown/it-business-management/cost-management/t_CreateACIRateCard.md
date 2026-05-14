@@ -101,5 +101,5 @@ A brief description of the rate card.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[CI rate cards](../concept/c_CIRateCards.md)
+**Parent Topic:**[CI rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/c_CIRateCards.md)
 

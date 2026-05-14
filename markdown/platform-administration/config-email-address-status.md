@@ -34,10 +34,10 @@ For detailed information on status codes and explanations of the components, see
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Email bounce management](../concept/email-bounce.md)
+**Parent Topic:**[Email bounce management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-bounce.md)
 
 **Related topics**  
 
 
-[Check the status of bounced email addresses](change-bounce-email-status.md)
+[Check the status of bounced email addresses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/change-bounce-email-status.md)
 

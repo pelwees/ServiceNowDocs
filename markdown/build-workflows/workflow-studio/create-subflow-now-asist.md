@@ -76,7 +76,7 @@ Try and example
 Series of text examples to insert into the Now Assist directions field. Select this option to insert example text in the directions field. Each example illustrates directions that will build a subflow outline. Trying an example overwrites any directions text that you previously added. You can use the undo and redo options to revert to your previous directions.
 
 </td></tr></tbody>
-</table>    For general guidelines about writing Now Assist directions, see [Create a flow with Now Assist](create-flow-now-assist.md).
+</table>    For general guidelines about writing Now Assist directions, see [Create a flow with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow-now-assist.md).
 
 4.  Select **Show additional properties** and fill in the fields.
 
@@ -155,7 +155,7 @@ Priority level at which you want the system to run this subflow by default. Opti
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-priority.md).
 
 </td></tr></tbody>
 </table>5.  Select **Generate subflow preview**.
@@ -179,5 +179,5 @@ Priority level at which you want the system to run this subflow by default. Opti
 
 Now Assist creates a subflow outline with the name you provided. If the large language model couldn't find a matching action, flow logic, or subflow for your request, it may add one or more placeholder steps instead.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

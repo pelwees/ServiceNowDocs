@@ -21,7 +21,7 @@ Role required: web\_service\_admin
 
 ## About this task
 
-The following procedure describes the process for manually defining query parameters for a scripted REST API service. For details about automatically generating query parameters for requests in non-production instances, see [Automatically generate API request definitions](autogenerate-api-request-definitions.md).
+The following procedure describes the process for manually defining query parameters for a scripted REST API service. For details about automatically generating query parameters for requests in non-production instances, see [Automatically generate API request definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/autogenerate-api-request-definitions.md).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ The following procedure describes the process for manually defining query parame
 
 ## What to do next
 
-After defining available query parameters, associate the parameters to a scripted REST resource. For details, see [Associate query parameters with a resource](AssocQueryParmResource.md).
+After defining available query parameters, associate the parameters to a scripted REST resource. For details, see [Associate query parameters with a resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/AssocQueryParmResource.md).
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

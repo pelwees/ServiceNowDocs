@@ -33,12 +33,12 @@ Unfortunately, personal developer instances \(PDI\) have been used both accident
 
     3.  In the **Your instance actions** dialog, activate the **Enable email sending and receiving** toggle.
 
-        ![Manage email properties for an instance](../image/manage-email-properties-pdi.png)
+        ![Manage email properties for an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/manage-email-properties-pdi.png)
 
     4.  Click the **Save** button.
 
 2.  To disable email sending and receiving, deactivate the **Enable email sending and receiving** toggle.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

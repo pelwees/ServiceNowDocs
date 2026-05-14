@@ -126,5 +126,5 @@ Non Custodial Core\[sn\_lg\_forensics\_non\_custodial\_data\]
 Extends the Custodial Core table and has additional fields to store information of non-custodial records added in a digital forensics request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Digital Forensics reference](legal-dft-reference.md)
+</table>**Parent Topic:**[Legal Digital Forensics reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-dft-reference.md)
 

@@ -37,7 +37,7 @@ Table
 
 </td><td>
 
-Name of the table that contains the configuration item \(CI\) class date that you are basing this default template on. Click the search icon \(![Search icon.](../image/search.png)\) and select a table.
+Name of the table that contains the configuration item \(CI\) class date that you are basing this default template on. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a table.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ User
 
 </td><td>
 
-Name of the user that is associated with this default template. Click the search icon \(![Search icon.](../image/search.png)\) and select a user.
+Name of the user that is associated with this default template. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a user.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Groups
 
 </td><td>
 
-Name of the user group that is associated with this default template. Click the search icon \(![Search icon.](../image/search.png)\) and select a user group.
+Name of the user group that is associated with this default template. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a user group.
 
 </td></tr><tr><td>
 
@@ -104,10 +104,10 @@ Template
 Name of the table attribute and its value. You can use this field to select attributes from the table that you selected in the **Table** field and set specific values for each attribute. When you create a Create Equipment Inventory change request to generate the net asset instances by using this template, it enables you to pass specific values to the configuration that it generates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Default Template forms](default-template-forms.md)
+</table>**Parent Topic:**[Default Template forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/default-template-forms.md)
 
 **Related topics**  
 
 
-[Create a default template](../task/create-default-templates.md)
+[Create a default template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-default-templates.md)
 

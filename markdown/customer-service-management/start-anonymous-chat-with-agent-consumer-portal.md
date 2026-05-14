@@ -21,13 +21,13 @@ Role required: none
 
 1.  Navigate to the Consumer Portal.
 
-2.  Select the Chat icon \( ![Chat icon.](../image/chat-icon.png)\) in the Consumer Portal to start a conversation.
+2.  Select the Chat icon \( ![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-icon.png)\) in the Consumer Portal to start a conversation.
 
-3.  Fill in the information and select the send icon \(![send icon](../image/agent-chat-send-button.png)\).
+3.  Fill in the information and select the send icon \(![send icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-chat-send-button.png)\).
 
     A virtual agent or a customer service agent responds.
 
-4.  Select ![Connect Support icon.](../../customer-communities/images/contact-support-icon.png) and then **Contact Support** to talk to a person instead of a virtual agent.
+4.  Select ![Connect Support icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../customer-communities/images/contact-support-icon.png) and then **Contact Support** to talk to a person instead of a virtual agent.
 
 5.  Select **End Conversation** to close the chat.
 

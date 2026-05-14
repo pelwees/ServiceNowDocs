@@ -32,11 +32,11 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 
 You can perform several actions on a building directly instead of working them through scenario planning. The building view enables you to perform the following:
 
--   View space allocations on each floor based on different view options. For more information on the different view by options that are available, refer to [Scenario and Building - Views, states, settings, and key features](../reference/scenario-planning-views-actions-keyfeatures-.md).
+-   View space allocations on each floor based on different view options. For more information on the different view by options that are available, refer to [Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../reference/scenario-planning-views-actions-keyfeatures-.md).
 -   Get space details of each allocation on the stack plan same as in scenarios.
 -   Perform map-based space administration. Such as, editing or updating user assignments to a neighborhood.
 -   View space allocations based on the workplace entities. This view option is supported only in the building view. You can specify the entity type based on which you want to see the space allocations.
--   You can also perform changes on a building using a floor map directly. Refer to [Edit a building's spaces using a map](edit-space-details-for-buildings.md).
+-   You can also perform changes on a building using a floor map directly. Refer to [Edit a building's spaces using a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-space-details-for-buildings.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ You can perform several actions on a building directly instead of working them t
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select **Space Optimization** icon \(![Space optimization icon.](../images/space-optimization-icon.png)\).
+2.  On the left pane, select **Space Optimization** icon \(![Space optimization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-optimization-icon.png)\).
 
     The Space optimization dashboard opens.
 
@@ -60,7 +60,7 @@ You can perform several actions on a building directly instead of working them t
 
 4.  To view the spaces on each floor based on their allocation that are they are assigned to, do the following:
 
-    1.  On the right panel, select the **Stack plan settings** icon \(![Stack plan settings icon.](../images/stack-plan-settings-icon.png)\) to open the settings.
+    1.  On the right panel, select the **Stack plan settings** icon \(![Stack plan settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/stack-plan-settings-icon.png)\) to open the settings.
 
     2.  In the **View by** field, select an option.
 
@@ -80,7 +80,7 @@ You can perform several actions on a building directly instead of working them t
         -   **Occupancy status**
 5.  To view the space details assigned to the allocation that you selected, do the following:
 
-    1.  On the right panel, select the Space details icon \(![Space details icon.](../images/space-details-icon.png)\).
+    1.  On the right panel, select the Space details icon \(![Space details icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-details-icon.png)\).
 
     2.  On the stack plan, select the bar for which you want to view the space details.
 
@@ -122,33 +122,33 @@ You can perform several actions on a building directly instead of working them t
         The allocation changes are saved automatically.
 
 
--   **[Edit or view a building's spaces based on workplace entities](view-a-building-s-spaces-based-on-workplace-entities.md)**  
+-   **[Edit or view a building's spaces based on workplace entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-a-building-s-spaces-based-on-workplace-entities.md)**  
 View the spaces in a building based on their entity types. On the floor map, directly add an allocation or modify an allocation of space. Assign spaces to a workplace entity from the floor map.
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-space-optimization.md)
 
 **Related topics**  
 
 
-[Create a scenario](create-a-scenario.md)
+[Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
-[Review a scenario](review-a-scenario.md)
+[Review a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/review-a-scenario.md)
 
-[Publish a scenario](publish-a-scenario.md)
+[Publish a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md)
 
-[Send a scenario for approval](send-a-scenario-for-approval.md)
+[Send a scenario for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/send-a-scenario-for-approval.md)
 
-[Change owner of a scenario](change-owner-of-a-scenario.md)
+[Change owner of a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/change-owner-of-a-scenario.md)
 
-[Deploy a scenario](deploy-a-scenoria.md)
+[Deploy a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/deploy-a-scenoria.md)
 
-[View scenario change details](view-scenario-change-details.md)
+[View scenario change details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-scenario-change-details.md)
 
-[Create a copy of an existing scenario](create-copy-of-scenario.md)
+[Create a copy of an existing scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md)
 
-[Work on a space assist request](work-on-space-assist-request.md)
+[Work on a space assist request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/map-based-space-administration.md)
 

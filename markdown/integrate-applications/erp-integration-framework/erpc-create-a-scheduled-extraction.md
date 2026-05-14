@@ -22,7 +22,7 @@ Schedule extraction of information for an ERP \(Enterprise Resource Planning\) e
 
 If you have existing scheduled extractions and have upgraded to Zurich or Australia, run the **Scheduled Extraction V2 Move** fix script to place scheduled extractions in a new table where scheduling is done by the scheduled scripts engine. For detailed steps, see [Run fix scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/t_RunFixScripts.md).
 
-You must have a standard or custom ERP extraction table in place to use. For more information, see [Add a new ERP extraction table in Zero Copy Connector for ERP](erp-canvas-add-new-extraction-table.md).
+You must have a standard or custom ERP extraction table in place to use. For more information, see [Add a new ERP extraction table in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-add-new-extraction-table.md).
 
 Role required: en\_erp\_integration.erp\_user
 
@@ -40,9 +40,9 @@ Video that shows how to create a scheduled extraction.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Zero Copy Connector for ERP scheduled extraction field descriptions](../reference/erp-data-hub-scheduled-extraction-field-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP scheduled extraction field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-data-hub-scheduled-extraction-field-descriptions.md).
 
-    ![New scheduled extraction fields.](../image/erpc-schedule-extraction-ys2.png)
+    ![New scheduled extraction fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-schedule-extraction-ys2.png)
 
 5.  Select **Save**.
 
@@ -50,14 +50,14 @@ Video that shows how to create a scheduled extraction.
 
 6.  To run the extraction immediately, select **Run now** at any time.
 
-    ![Scheduled extraction record with run now button highlighted.](../image/erpc-schedule-extraction-run-now-ys2.png)
+    ![Scheduled extraction record with run now button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-schedule-extraction-run-now-ys2.png)
 
 
 ## What to do next
 
 Check the executions. After the scheduled job has run, select the **Executions** tab. For details about an extraction, select any line item in the **Extraction table** column.
 
-![ERP scheduled extraction executions list.](../image/erpc-view-extraction-executions-ys2.png)
+![ERP scheduled extraction executions list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-view-extraction-executions-ys2.png)
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-extraction-tables.md)
 

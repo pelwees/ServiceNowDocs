@@ -17,7 +17,7 @@ Resolve conflicts in ServiceNow Studio before applying remote or stashed changes
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 You must have one or more stashed changes applied.
 
@@ -62,5 +62,5 @@ Role required: admin
 11. Select **Save Merge**.
 
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sns-sc-work-with-changes-in-git.md)
 

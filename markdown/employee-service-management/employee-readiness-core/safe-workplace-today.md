@@ -95,7 +95,7 @@ Key resources
 View featured knowledge articles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Employee Readiness Core](employee-readiness-core.md)
+</table>**Parent Topic:**[Employee Readiness Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md)
 
 ## Set up My Safe Workplace
 

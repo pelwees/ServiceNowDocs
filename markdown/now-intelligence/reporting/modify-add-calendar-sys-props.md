@@ -80,7 +80,7 @@ The **glide.ui.date\_format.first\_day\_of\_week** system property modifies the 
 
 **glide.ui.filter.first\_day\_of\_week** must also be set to the same value as **glide.ui.date\_format.first\_day\_of\_week** for the set day to display properly.
 
-If you change the **glide.ui.filter.first\_day\_of\_week** property after collecting Performance Analytics score data, you won't be able to view the scores for weekly indicators. To access them, you must [collect scores](../../performance-analytics/concept/c_ClctData.md) again.
+If you change the **glide.ui.filter.first\_day\_of\_week** property after collecting Performance Analytics score data, you won't be able to view the scores for weekly indicators. To access them, you must [collect scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/concept/c_ClctData.md) again.
 
 ### Procedure
 
@@ -152,7 +152,7 @@ Set **Value** to `7`
 
 ### What to do next
 
-Configure the system property **glide.db.week\_numbering** to specify how weeks are calculated. For more information, see [Customize calendar weeks](modify-add-calendar-sys-props.md#).
+Configure the system property **glide.db.week\_numbering** to specify how weeks are calculated. For more information, see [Customize calendar weeks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/modify-add-calendar-sys-props.md#).
 
 ## Customize calendar weeks
 

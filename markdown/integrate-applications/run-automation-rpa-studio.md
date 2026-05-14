@@ -15,7 +15,7 @@ Run an automation to execute the workflow in RPA Desktop Design Studio.
 
 ## Before you begin
 
-Create an automation project. For more information, see [Create an automation project manually](create-automation-project.md) or [Create an automation with Now Assist](create-automation-now-assist.md).
+Create an automation project. For more information, see [Create an automation project manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-project.md) or [Create an automation with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-now-assist.md).
 
 Role required: none
 
@@ -32,5 +32,5 @@ The **Run** option starts the execution from the Start component of the activity
 3.  To clear the runtime log, click **Clear Log**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

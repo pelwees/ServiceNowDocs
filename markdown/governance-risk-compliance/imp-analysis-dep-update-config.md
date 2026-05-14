@@ -29,7 +29,7 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
 
     The Impact analysis dependency delta snapshot is displayed.
 
-    ![Snapshot record.](../image/snapshot-record.png)
+    ![Snapshot record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/snapshot-record.png)
 
     -   Added: The **Added** tab shows you the assets which are newly added from the source.
     -   Updated: The **Updated** tab shows you the assets which are updated from the source.
@@ -49,5 +49,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The BIA owners and approvers can update the dependencies by saving the changes to the BIA.
 
 
-**Parent Topic:**[Scheduling an auto-update of dependencies](../concept/update-impactanalysis-dep-based-on-cmdb-changes.md)
+**Parent Topic:**[Scheduling an auto-update of dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/update-impactanalysis-dep-based-on-cmdb-changes.md)
 

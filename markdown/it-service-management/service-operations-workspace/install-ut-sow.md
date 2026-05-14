@@ -30,7 +30,7 @@ The following items are installed with Universal Task:
 -   Store applications
 -   Roles
 
-For more information, see [Universal Task in Service Operations Workspace reference](../reference/components-installed-ut-sow.md).
+For more information, see [Universal Task in Service Operations Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/components-installed-ut-sow.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Universal Task in Service Operations Workspace refere
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](../concept/setting-up-sow-itsm.md)
+**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/setting-up-sow-itsm.md)
 

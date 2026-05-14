@@ -37,9 +37,9 @@ The Out of the Box variables associated with this catalog item are set to read-o
     |------|--------------------|
     |**Insert a new question**|[Create a question for a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-question-cat-builder.md)|
     |**Edit an existing question**|[Edit a question in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-question-cat-builder.md)|
-    |**Change the order of the questions**|[Change the order of the questions](customize-app-intake-form-catalog-builder.md#)|
-    |**Define dynamic behavior for an existing question**|[Define dynamic behavior for an existing App Intake form question](customize-app-intake-form-catalog-builder.md#)|
-    |**Deactivate or remove a question**|[Deactivate a question from the App Intake form](customize-app-intake-form-catalog-builder.md#)|
+    |**Change the order of the questions**|[Change the order of the questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/customize-app-intake-form-catalog-builder.md#)|
+    |**Define dynamic behavior for an existing question**|[Define dynamic behavior for an existing App Intake form question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/customize-app-intake-form-catalog-builder.md#)|
+    |**Deactivate or remove a question**|[Deactivate a question from the App Intake form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/customize-app-intake-form-catalog-builder.md#)|
 
 5.  Edit any other settings on the form that you want to change.
 
@@ -68,7 +68,7 @@ Role required: admin
 
 4.  On the **Questions** tab, point to the question you want to move.
 
-5.  On the left side of the question, select the Row drag and drop gripper icon \(![Row drag and drop gripper icon](../image/drag-icon.png)\) and drag the question to a new position.
+5.  On the left side of the question, select the Row drag and drop gripper icon \(![Row drag and drop gripper icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/drag-icon.png)\) and drag the question to a new position.
 
 
 ## Define dynamic behavior for an existing App Intake form question
@@ -93,7 +93,7 @@ Sometimes, if a user gives a specific answer to one question on the App Intake f
 
 4.  On the **Questions** tab, point to the question you want to update.
 
-5.  Select the Add dynamic behavior icon \(![Add dynamic behavior](../image/dynamic-behavior-icon.png)\) next to the question that you want to update.
+5.  Select the Add dynamic behavior icon \(![Add dynamic behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/dynamic-behavior-icon.png)\) next to the question that you want to update.
 
 6.  Select **Define new behavior**.
 
@@ -190,7 +190,7 @@ Role required: admin
 
 4.  On the **Questions** tab, point to the question you want to remove.
 
-5.  Remove the question from the form by selecting the Deactivate question icon \(![Deactivate question icon](../image/deactivate-question-icon.png)\).
+5.  Remove the question from the form by selecting the Deactivate question icon \(![Deactivate question icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/deactivate-question-icon.png)\).
 
 6.  Select **Deactivate**.
 

@@ -21,7 +21,7 @@ Choose one of the following tiles to learn more about the different applications
 
 <table id="table_odc_qmb_kgc" class="nav-card"><tbody><tr><td>
 
-[Supplier Lifecycle Operations![](../../../reuse/icons/brand-icons/bus-meetings.svg)Learn more about Supplier Lifecycle Operations to create collaboration with suppliers, mitigate risks, and monitor compliance and performance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-landing-page.md)
+[Supplier Lifecycle Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../../../reuse/icons/brand-icons/bus-meetings.svg)Learn more about Supplier Lifecycle Operations to create collaboration with suppliers, mitigate risks, and monitor compliance and performance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-landing-page.md)
 
 </td><td>
 
@@ -32,17 +32,17 @@ Accounts Payable Operations![](../../../reuse/icons/brand-icons/bus-compliance.s
 
 ## Supplier lifecycle requests
 
-![Image displays General inquiry form template in SLO.](../image/slo-form-dec.png)
+![Image displays General inquiry form template in SLO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../image/slo-form-dec.png)
 
-Ask a general category question, using the supplier catalog. For more information, [Raise a general supplier request](../task/request-slo.md).
+Ask a general category question, using the supplier catalog. For more information, [Raise a general supplier request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../task/request-slo.md).
 
 ## Accounts Payable requests
 
-![Invoice inquiry form displayed for Accounts Payable team.](../image/apo-form-dec.png)
+![Invoice inquiry form displayed for Accounts Payable team.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../image/apo-form-dec.png)
 
 As a supplier, use the Supplier Collaboration Portal to create an inquiry related to an invoice and submit it to the Accounts Payable Operations team to evaluate and resolve the inquiry.
 
-For more information, see [Raise an invoice request](../task/request-apo.md).
+For more information, see [Raise an invoice request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../task/request-apo.md).
 
 ## Workflows and applications
 

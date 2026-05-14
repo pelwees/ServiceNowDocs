@@ -33,8 +33,8 @@ Role required: analytics\_admin
 
     Users who fall under an **Explicit Opt-In** or **Notice** consent policy, they receive an annual opt-in or notice message based on the date set in the User Consent Decision record.
 
-    See [How users consent to tracking in Usage Insights](user-exp-analytics-user-set.md) for information on how users manually update their preference.
+    See [How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md) for information on how users manually update their preference.
 
 
-**Parent Topic:**[How users consent to tracking in Usage Insights](user-exp-analytics-user-set.md)
+**Parent Topic:**[How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md)
 

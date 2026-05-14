@@ -42,5 +42,5 @@ If the connection is successful, the **State** field on your Jira instance recor
 
 ## What to do next
 
-[Import Jira projects to SPW](imports-jira-projects-to-spw.md).
+[Import Jira projects to SPW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/imports-jira-projects-to-spw.md).
 

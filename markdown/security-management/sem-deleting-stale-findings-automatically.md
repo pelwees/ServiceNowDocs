@@ -17,10 +17,10 @@ Over time, a significant number of closed records can accumulate in the Findings
 
 By default, auto-delete rules target records that have been closed for 365 days. However, the first run might attempt to purge too many records in a single transaction, which can be problematic in larger environments. To avoid this issue, you may stagger the deletion process. For example, you could start by deleting records that are older than 450 days. Once that run is complete, you can gradually work your way down in smaller increments. For example, delete records older than 425, 400, 375 days until you have reduced the number of records older than 365 days.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configuring auto-delete rules](sem-configure-auto-delete-rules.md#)
+[Configuring auto-delete rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-auto-delete-rules.md#)
 

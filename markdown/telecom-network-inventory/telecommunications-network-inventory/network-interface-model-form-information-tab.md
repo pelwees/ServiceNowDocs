@@ -78,7 +78,7 @@ Port bandwidth
 
 </td><td>
 
-Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](../image/search.png)\) and select a bandwidth.
+Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a bandwidth.
 
 </td></tr><tr><td>
 
@@ -115,10 +115,10 @@ Port position
 Position of a physical or logical port on an equipment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a network interface model](../task/create-network-interface-model.md)
+[Create a network interface model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-network-interface-model.md)
 

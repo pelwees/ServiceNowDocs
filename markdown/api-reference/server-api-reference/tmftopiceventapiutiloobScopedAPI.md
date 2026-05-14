@@ -19,11 +19,11 @@ This script include contains the default implementation for the Event Notificati
 
 This script include runs in the `sn_ind_tmf642` namespace and requires the Telecommunications Alarm Management Open API \(app-ind-tmfapi-alarm\) plugin to be activated.
 
-For additional information on how to override these functions, see the [Event Notification Management Open API Developer Guide](../../../../../integrate/guides/telecom/concept/event-mgmt-notif_dev-guide.md#).
+For additional information on how to override these functions, see the [Event Notification Management Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../integrate/guides/telecom/concept/event-mgmt-notif_dev-guide.md#).
 
-For additional information on the Event Notification Management Open API, see [Event Notification Management Open API](../../../../../integrate/inbound-rest/concept/event_open-api.md#).
+For additional information on the Event Notification Management Open API, see [Event Notification Management Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../integrate/inbound-rest/concept/event_open-api.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## TMFTopicEventAPIUtilOOB - getAlarmChangeEventSchema\(\)
 
@@ -730,7 +730,7 @@ Called by `AlarmDeleteEvent` flow action.
 
 Transforms the passed in create event payload using the associated create event mapping values and stores the information in Event \[em\_event\] table.
 
-This function is called by the [processAlarmCreateEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [processAlarmCreateEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -746,7 +746,7 @@ This function is only called by the `AlarmCreateEvent` flow action, so no code e
 
 Transforms the passed in change event payload using the associated change event mapping values and stores the updated information in the passed GlideRecord within the Event \[em\_event\] table.
 
-This function is called by the [processAlarmChangeEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [processAlarmChangeEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -763,7 +763,7 @@ This function is only called by the `AlarmChangeEvent` flow action, so no code e
 
 Transforms the passed in delete \(clear\) event payload using the associated delete event mapping values and stores the updated information in the passed GlideRecord within the Event \[em\_event\] table.
 
-This function is called by the [&gt;processAlarmDeleteEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [&gt;processAlarmDeleteEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. You can change the functionality of this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1006,7 +1006,7 @@ Successful response from the function call. For example, you could store the pay
 
 Provides the ability to define additional verification of the passed in change event payload.
 
-This function is called by the [processAlarmChangeEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the change payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [processAlarmChangeEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the change payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 <table id="table_tnr_qxs_zyb" class="parameters"><thead><tr><th>
 
@@ -1235,7 +1235,7 @@ if (!gs.nil(changePayloadResponse.responseError.errorMessage))
 
 Provides the ability to define additional verification of the passed in create event payload.
 
-This function is called by the [processAlarmCreateEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the create payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [processAlarmCreateEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the create payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 <table id="table_tnr_qxs_zyb" class="parameters"><thead><tr><th>
 
@@ -1464,7 +1464,7 @@ if (!gs.nil(creatPayloadResponse.responseError.errorMessage))
 
 Provides the ability to define additional verification of the passed in delete event payload.
 
-This function is called by the [processDeleteAlarmEvent\(\)](tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the delete payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
+This function is called by the [processDeleteAlarmEvent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/tmftopiceventapiutiloobScopedAPI.md#) function as part of the flow action. Currently there is no additional payload verification provided for the delete payload. You can add functionality for this function by overriding the default functionality in the `TMFTopicEventAPIUtil` script include.
 
 <table id="table_tnr_qxs_zyb" class="parameters"><thead><tr><th>
 

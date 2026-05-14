@@ -41,9 +41,9 @@ The signature key signs changes to configurations and properties made by the pro
 4.  Click **Next**.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
 
-**Previous topic:**[Configure CyberArk properties protection](configure-cyberark-prop-protection.md)
+**Previous topic:**[Configure CyberArk properties protection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cyberark-prop-protection.md)
 
-**Next topic:**[Configure the HTTPS certificate](configure-cert.md)
+**Next topic:**[Configure the HTTPS certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cert.md)
 

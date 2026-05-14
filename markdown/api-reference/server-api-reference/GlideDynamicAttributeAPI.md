@@ -19,7 +19,7 @@ This API provides methods that enable you to get dynamic schema values defined i
 
 To use this API to create dynamic attributes you must have the dynamic\_schema\_writer role. To read dynamic data using this API you must have the dynamic\_schema\_reader role.
 
-[GlideAggregate - Global](../../GlideAggregate/concept/c_GlideAggregateAPI.md#) methods usable with dynamic schema:
+[GlideAggregate - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideAggregate/concept/c_GlideAggregateAPI.md#) methods usable with dynamic schema:
 
 -   addAggregate\(\)
 -   addHaving\(\)
@@ -30,7 +30,7 @@ To use this API to create dynamic attributes you must have the dynamic\_schema\_
 -   orderBy\(\)
 -   orderByAggregate\(\)
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#) methods usable with dynamic schema:
+[GlideRecord - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) methods usable with dynamic schema:
 
 -   addQuery\(\)
 -   getDisplayValue\(\)
@@ -48,12 +48,12 @@ To use this API to create dynamic attributes you must have the dynamic\_schema\_
 
 See also:
 
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
--   [GlideElement - Global](../../GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideElementDynamicAttributeStore - Global](../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#)
+-   [GlideDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideElement - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElement_global/concept/c_GlideElementAPI.md#)
+-   [GlideElementDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideDynamicAttribute - getGroupName\(\)
 
@@ -422,7 +422,7 @@ Boolean
 
 Flag that indicates if a dynamic attribute is transient.Valid values:
 
--   true: The dynamic attribute is transient. Dynamic attributes are defined in the Dynamic Attribute \[dynamic\_attribute\] table with a data type and a sys\_id. See [GlideDynamicAttribute](GlideDynamicAttributeAPI.md#).
+-   true: The dynamic attribute is transient. Dynamic attributes are defined in the Dynamic Attribute \[dynamic\_attribute\] table with a data type and a sys\_id. See [GlideDynamicAttribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideDynamicAttributeAPI.md#).
 -   false: The dynamic attribute is not transient. Transient dynamic attributes are dynamic attributes that have been added to a DynamicAttributeStore field without a definition in the Dynamic Attribute \[dynamic\_attribute\] table. Transient dynamic attributes are handled as strings and have no sys\_id.
 
 </td></tr></tbody>

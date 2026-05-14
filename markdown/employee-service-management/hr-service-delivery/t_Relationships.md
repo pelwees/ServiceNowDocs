@@ -42,5 +42,5 @@ Create relationship records for your organization.
 6.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManagedLists.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Coaching, Workforce Optimization, Managing workforce, Use, Field Se
 
 Use Skills Overview to analyze skill data, such as how many skills are assigned to users and tasks. You can also see how many experts you have for a particular skill and the overall skill coverage by your teams.
 
-The following image illustrates the information displayed on the Skills Overview main page, which includes different types of data based on skill such as the overall skill coverage and a skills hierarchy.![Skills Overview with user and skill information organized in tiles. Additionally, there is a pie chart depicting skill coverage.](../image/Skills-overview-teams.png)
+The following image illustrates the information displayed on the Skills Overview main page, which includes different types of data based on skill such as the overall skill coverage and a skills hierarchy.![Skills Overview with user and skill information organized in tiles. Additionally, there is a pie chart depicting skill coverage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/Skills-overview-teams.png)
 
 ## Use cases
 
@@ -50,7 +50,7 @@ The data displayed in the MTTR of incidents of skill indicator is calculated bas
 
 ## Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/activate-wfo-fsm.md).
 
 <table id="table_r1n_xnm_v4b"><thead><tr><th>
 
@@ -74,7 +74,7 @@ Assigned Users
 
 </td><td>
 
-![Assigned Users icon.](../../../reuse/reporting/image/single-score-sm.svg)
+![Assigned Users icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../../reuse/reporting/image/single-score-sm.svg)
 
 </td><td>
 
@@ -90,7 +90,7 @@ Assigned Tasks
 
 </td><td>
 
-![Assigned Tasks icon.](../../../reuse/reporting/image/single-score-sm.svg)
+![Assigned Tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../../reuse/reporting/image/single-score-sm.svg)
 
 </td><td>
 
@@ -106,7 +106,7 @@ Pending Users
 
 </td><td>
 
-![Pending Users icon.](../../../reuse/reporting/image/single-score-sm.svg)
+![Pending Users icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../../reuse/reporting/image/single-score-sm.svg)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Course Items
 
 </td><td>
 
-![Course Items icon.](../../../reuse/reporting/image/single-score-sm.svg)
+![Course Items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../../reuse/reporting/image/single-score-sm.svg)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Role required: skill\_admin
 
 You can access Skills Overview from Manager Workspace using the Teams or Shift Scheduling application.
 
-**Note:** You must enable the Coaching with Learning application to view the reports from the application. For information about enabling this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Note:** You must enable the Coaching with Learning application to view the reports from the application. For information about enabling this application, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/activate-wfo-fsm.md).
 
 ### Procedure
 
@@ -235,7 +235,7 @@ Actions
 
 </td><td>
 
-1.  Click the Teams icon \(![Teams icon.](../../itsm-manager-workspace/image/teams-icon.png)\).
+1.  Click the Teams icon \(![Teams icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../itsm-manager-workspace/image/teams-icon.png)\).
 2.  Select a team from the Field Service group list.
 3.  Click the **More** tab and then select **Skills**.
 4.  Select a skill from the Skill list.
@@ -247,7 +247,7 @@ Actions
 
 </td><td>
 
-1.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+1.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 2.  Click the **Team calendar** tab.
 3.  Select an agent from the list of users.
 4.  Click the **More** tab and then select **Skills**.

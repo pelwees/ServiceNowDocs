@@ -27,15 +27,15 @@ Role required: admin or delegated\_developer
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **ServiceNow Studio**.
 
-2.  Select the Add to bookmarks icon ![add to bookmarks icon](../image/sn-studio-bookmark-icon.png) from one of the following locations.
+2.  Select the Add to bookmarks icon ![add to bookmarks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-bookmark-icon.png) from one of the following locations.
 
     -   To bookmark an open app, select the Add to bookmarks icon next to the app name.
 
-        ![Bookmark an app that is open in the canvas.](../image/sn-studio-bookmark-app.png)
+        ![Bookmark an app that is open in the canvas.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-bookmark-app.png)
 
     -   To bookmark an app or file in the Navigator panel, hover over it and select the Add to bookmarks icon.
 
-        ![Bookmark an app or app file from the Navigator panel.](../image/sn-studio-bookmark-file.png)
+        ![Bookmark an app or app file from the Navigator panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-bookmark-file.png)
 
 3.  View your bookmarked apps and files in the **Bookmarks** tab of the Navigator panel.
 

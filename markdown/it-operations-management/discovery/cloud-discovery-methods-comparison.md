@@ -34,14 +34,14 @@ By reviewing the coverage tables for AWS, Azure, and GCP, you can
 -   Understand how the same resource type may be handled differently \(for example, patterns might bring in all zone data, while connectors might bring in only zones tied to an instance\).
 -   Decide on a solution per provider, considering its CI coverage or data model. For example: Use connectors to discover your GCP resources, but use patterns for AWS and Microsoft Azure.
 
-![Bar chart that compares Patterns and Service Graph Connectors resource types: AWS (83 patterns, 70 SGC), Azure (60 patterns, 22 SGC), and GCP (120 patterns, 107 SGC).](../image/patterns-vs-sgc.jpg "Comparison of Discovery and Service Mapping Patters and Service Graph Connectors")
+![Bar chart that compares Patterns and Service Graph Connectors resource types: AWS (83 patterns, 70 SGC), Azure (60 patterns, 22 SGC), and GCP (120 patterns, 107 SGC).](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/patterns-vs-sgc.jpg "Comparison of Discovery and Service Mapping Patters and Service Graph Connectors")
 
--   **[AWS discovery solutions comparison](../reference/aws-discovery-methods.md)**  
+-   **[AWS discovery solutions comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/aws-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of AWS resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
--   **[Microsoft Azure discovery solutions comparison](../reference/azure-discovery-methods.md)**  
+-   **[Microsoft Azure discovery solutions comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/azure-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
--   **[GCP discovery solutions comparison](../reference/gcp-discovery-methods.md)**  
+-   **[GCP discovery solutions comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/gcp-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
-**Parent Topic:**[Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md)
+**Parent Topic:**[Discovery for cloud environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/concept/cloud-discovery-wizard.md)
 

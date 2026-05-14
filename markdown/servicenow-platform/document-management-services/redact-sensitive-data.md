@@ -31,9 +31,9 @@ Role required: none
 
 4.  Select and open the attached PDF document.
 
-5.  Select the redact icon ![icon redact](../image/redact-icon.png) to enable data redaction.
+5.  Select the redact icon ![icon redact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/redact-icon.png) to enable data redaction.
 
-6.  Enter a keyword under **Search a keyword to redact** and select the search icon ![Search icon](../../../administer/virtual-agent/images/icon-search.png).
+6.  Enter a keyword under **Search a keyword to redact** and select the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/virtual-agent/images/icon-search.png).
 
     **Note:**
 
@@ -43,14 +43,14 @@ Role required: none
 
 7.  To select and draw over an area to redact data, select **Draw and redact**.
 
-8.  To undo, select the undo ![icon undo](../image/redact-undo-icon.png).
+8.  To undo, select the undo ![icon undo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/redact-undo-icon.png).
 
 9.  Select **Apply redaction**.
 
 10. Select **Save changes**.
 
-11. To discard, select the close icon ![icon close](../image/redact-close-icon.png) in the Redact document pane.
+11. To discard, select the close icon ![icon close](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/redact-close-icon.png) in the Redact document pane.
 
 
-**Parent Topic:**[Redact sensitive data from documents](../concept/data-redaction-documents.md)
+**Parent Topic:**[Redact sensitive data from documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/data-redaction-documents.md)
 

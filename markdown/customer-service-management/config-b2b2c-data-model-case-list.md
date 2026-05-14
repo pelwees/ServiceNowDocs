@@ -21,9 +21,9 @@ Role required: admin
 
 1.  Navigate to **Customer Service** &gt; **Cases** &gt; **All**.
 
-2.  Select **View** &gt; **Customer Self Service** from the Additional Actions menu ![additional action menu](../../../common/image/icon-menu.png).
+2.  Select **View** &gt; **Customer Self Service** from the Additional Actions menu ![additional action menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/icon-menu.png).
 
-3.  Select the gear icon \(![Gear icon.](../../../common/image/gear.png)\).
+3.  Select the gear icon \(![Gear icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/gear.png)\).
 
 4.  Select the Account, Contact, and Consumer fields in the **Available** column and move them to the **Selected** column.
 

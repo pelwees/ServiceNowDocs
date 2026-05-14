@@ -88,5 +88,5 @@ To debug a SOAP Request coming into the system, create the system property glide
 
 Once you have created it, set it to true to have all SOAP requests be logged in the System Log. Set it to false when you are done to keep the size of your System Log to a managed length.
 
-**Parent Topic:**[Web service import sets](c_WebServiceImportSets.md)
+**Parent Topic:**[Web service import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_WebServiceImportSets.md)
 

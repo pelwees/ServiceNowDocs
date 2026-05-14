@@ -69,5 +69,5 @@ Notes
 Any additional information about the involved party.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
+</table>**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 

@@ -17,7 +17,7 @@ Form templates simplify the process of submitting new records by populating fiel
 
 It appears as a tab within the tabs sidebar for a standard record page.
 
-![Form templates in a Configurable Workspace](../image/configurable-workspace-form-templates.png)
+![Form templates in a Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/configurable-workspace-form-templates.png)
 
 The Form Templates component enables agents to create and update form templates. It's configured and customized by admins in UI Builder. For information on Form Templates component configurations, see [Form Templates UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-common-templates-connected/uib-setup).
 

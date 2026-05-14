@@ -25,7 +25,7 @@ An example of the preview for the entire ServiceNow AI Platform security inciden
 
 In the following figure, the `Configuration item`, `Affected user`, `Priority`, `Assignment Group`, and `Short description` fields of the security incident are populated.
 
-![Upper half of the security incident in Preview.](../image/logrythm-preview.gif "Upper half of the security incident")
+![Upper half of the security incident in Preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/logrythm-preview.gif "Upper half of the security incident")
 
 On the lower half of the security incident form, the `Description` field is populated. Under the Related Items section, the `Configuration item`, `Observable`, and `Work note` fields are populated with values. If multiple values for these fields are mapped, each value is displayed on the security incident, because each of these fields can accept more than one value.
 
@@ -76,7 +76,7 @@ Enter another alarm ID in the **Sample Alarm ID** choice list at the top of the 
 The **Sample Alarm ID** choice list is displayed for every alarm ID you have entered. You can select up to five alarms.This option permits you to preview another LogRhythm alarm ID on a security incident.
 
 </td></tr></tbody>
-</table>After you preview the security incident and are satisfied with the results, the next step is to [Schedule and retrieve LogRhythm alarms](../task/schedule-and-alarm-retrieval-logrhythm.md).
+</table>After you preview the security incident and are satisfied with the results, the next step is to [Schedule and retrieve LogRhythm alarms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/schedule-and-alarm-retrieval-logrhythm.md).
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](../task/create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-alarm-profile-logrhythm.md)
 

@@ -82,7 +82,7 @@ Schema JSON
 Details within the JSON schemas. For more information about defining the extension schema with attributes, see [Datatracker](https://datatracker.ietf.org/doc/html/rfc7643#section-7).
 
 </td></tr></tbody>
-</table>    ![SCIM Extension schema](../images/scim-extension-schemas.png)
+</table>    ![SCIM Extension schema](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/scim-extension-schemas.png)
 
 4.  Validate the attributes by clicking **Validate**.
 
@@ -91,5 +91,5 @@ Details within the JSON schemas. For more information about defining the extensi
 
 ## Result
 
-The extension schema with custom attributes related to User or Group resource type is created. Use the SCIM ETL Definitions to map the resources based on the extension schema on the sys\_user and sys\_user\_group table. For more information, see [Create a SCIM ETL definition](create-scim-etl-definitions.md).
+The extension schema with custom attributes related to User or Group resource type is created. Use the SCIM ETL Definitions to map the resources based on the extension schema on the sys\_user and sys\_user\_group table. For more information, see [Create a SCIM ETL definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-etl-definitions.md).
 

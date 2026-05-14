@@ -21,7 +21,7 @@ Role required: admin
 
 Complete any of the following tasks to work with the navigator in Core UI.
 
-**Parent Topic:**[Core UI application navigator](../../../use/navigation/concept/c_UI16ApplicationNavigator.md)
+**Parent Topic:**[Core UI application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/concept/c_UI16ApplicationNavigator.md)
 
 ## Collapse or expand information in the Core UI application navigator
 
@@ -49,7 +49,7 @@ Click the application or application section label.
 
 </td><td>
 
-Double-click the all applications tab icon \(![All applications tab icon](../image/IconUI16AllApplications.png)\).
+Double-click the all applications tab icon \(![All applications tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI16AllApplications.png)\).
 
 </td></tr><tr><td id="d122418e167">
 
@@ -60,7 +60,7 @@ Double-click the all applications tab icon \(![All applications tab icon](../ima
 Click the arrow icon at the bottom of the application navigator. In the collapsed view, the application navigator displays favorites only. Click the filter icon or the arrow icon in the collapsed view to expand the application navigator.
 
 </td></tr></tbody>
-</table>    ![The collapsed view of the application navigator displays favorites only](../image/UI16CollapsedApplicationNavigator.png "Collapsed navigator")
+</table>    ![The collapsed view of the application navigator displays favorites only](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI16CollapsedApplicationNavigator.png "Collapsed navigator")
 
 
 ## Add or edit favorites in Core UI
@@ -75,7 +75,7 @@ Role required: none
 
 Items you add as favorites appear in the favorites tab of the application navigator, represented by a star icon.
 
-![Core UI favorites in the application navigator favorites tab](../../../use/navigation/image/UI16Favorites.png)
+![Core UI favorites in the application navigator favorites tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/image/UI16Favorites.png)
 
 Favorites also appear in the collapsed view of the application navigator as icons.
 
@@ -106,7 +106,7 @@ In the application navigator, click the star icon by an application.
 </td><td>
 
 1.  Open a list.
-2.  Click the list context menu icon \(![List context menu icon](../image/MenuIconUI14.png)\) by the list title.
+2.  Click the list context menu icon \(![List context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/MenuIconUI14.png)\) by the list title.
 3.  Select **Create Favorite**.
 4.  In the flyout, edit the name and icon as needed.
 
@@ -128,7 +128,7 @@ In the application navigator, click the star icon by an application.
 </td><td>
 
 1.  Open a record.
-2.  Click the form context menu icon \(![Form context menu icon](../image/MenuIconUI14.png)\) by the form title.
+2.  Click the form context menu icon \(![Form context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/MenuIconUI14.png)\) by the form title.
 3.  Select **Create Favorite**.
 4.  In the flyout, edit the name and icon as needed.
 
@@ -203,7 +203,7 @@ Drag a supported link type to the **Favorites** tab of the application navigator
 </td><td>
 
 1.  Point to the favorite.
-2.  Click the remove favorite icon \(![Remove Favorite icon](../image/RemoveFavoriteIcon.png)\).
+2.  Click the remove favorite icon \(![Remove Favorite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/RemoveFavoriteIcon.png)\).
 
 
 </td></tr></tbody>
@@ -220,7 +220,7 @@ Role required: none
 
 Items you have accessed recently appear in the history tab of the application navigator, which is represented by a clock icon. Items appear in chronological order from most to least recently accessed.
 
-![History tab](../../../use/navigation/image/UI16YourHistory.png "History tab")
+![History tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/image/UI16YourHistory.png "History tab")
 
 History entries are stored in the Navigator History \[sys\_ui\_navigator\_history\] table. The system creates history entries for many types of content, including lists, records, and dashboards. Some content types are not tracked in the history, such as UI pages and other non-standard interfaces.
 

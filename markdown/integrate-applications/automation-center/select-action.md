@@ -19,7 +19,7 @@ Select an action suitable for your data import into ServiceNow instance.
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
-Proceed from the **Select a spoke** section. For information on selecting a spoke, see [Select a spoke](select-spoke.md).
+Proceed from the **Select a spoke** section. For information on selecting a spoke, see [Select a spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/select-spoke.md).
 
 **Important:**
 
@@ -30,7 +30,7 @@ Proceed from the **Select a spoke** section. For information on selecting a spok
 
 1.  Select an action.
 
-    If you want to create a new action, select **Create action**. For detailed information, see [Creating an action](../concept/creating-action.md).
+    If you want to create a new action, select **Create action**. For detailed information, see [Creating an action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/creating-action.md).
 
     -   Select a spoke from the **Spoke** list to view only those actions that are associated with the selected spoke.
     -   Sort the list alphabetically using the **Sort** field.
@@ -40,5 +40,5 @@ Proceed from the **Select a spoke** section. For information on selecting a spok
     The **Configure batch import** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/configure-data-import.md)
 

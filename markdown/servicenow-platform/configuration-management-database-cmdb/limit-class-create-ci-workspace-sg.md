@@ -25,8 +25,8 @@ Settings for specific classes available for new CIs are stored in the CI class c
 
 For more information:
 
--   About configuration identifiers, see [Configuration identifiers framework](../concept/configuration-identifiers-framework.md).
--   About the experience of manually creating a new CI in Service Graph Workspace, see [Create a CI manually in Service Graph Workspace](create-ci-manual-sg-workspace.md).
+-   About configuration identifiers, see [Configuration identifiers framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/configuration-identifiers-framework.md).
+-   About the experience of manually creating a new CI in Service Graph Workspace, see [Create a CI manually in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-ci-manual-sg-workspace.md).
 
 ## Before you begin
 

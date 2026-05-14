@@ -30,7 +30,7 @@ Field Service Agent Efficiency provides the following benefits:
 **Related topics**  
 
 
-[Configuring Field Service Agent Efficiency](configuring-agent-efficiency.md)
+[Configuring Field Service Agent Efficiency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-agent-efficiency.md)
 
-[Field Service Agent Efficiency components](../reference/field-service-agent-efficiency-components.md)
+[Field Service Agent Efficiency components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/field-service-agent-efficiency-components.md)
 

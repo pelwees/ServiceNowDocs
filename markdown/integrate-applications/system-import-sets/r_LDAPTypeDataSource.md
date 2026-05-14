@@ -15,7 +15,7 @@ breadcrumb: [Data sources, Import sets, Imports, Workflow Data Fabric]
 
 An LDAP data source is automatically created when you configure your instance to integrate with LDAP.
 
-![LDAP data source example](../image/data-source-ldap.png)
+![LDAP data source example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/data-source-ldap.png)
 
 ## Processing a large LDAP request without paging
 

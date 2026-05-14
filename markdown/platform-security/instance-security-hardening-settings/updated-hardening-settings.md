@@ -43,7 +43,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Maximize reset password SMS complexity](../reference/sc-reset-password-sms-complexity.md)
+[Maximize reset password SMS complexity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-sms-complexity.md)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enable High Security Plugin](../reference/sc-high-security-plugin.md)
+[Enable High Security Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-high-security-plugin.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Enforce strict security of session cookies](../reference/sc-secure-session-cookies.md)
+[Enforce strict security of session cookies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-secure-session-cookies.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Do not use demo certificates for active SAML configurations](../reference/sc-do-not-use-demo-certificates-active-saml-configurations-plugin.md)
+[Do not use demo certificates for active SAML configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-do-not-use-demo-certificates-active-saml-configurations-plugin.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Disable Entity Expansion within the XMLDocument2 Streaming Parser](../reference/sc-disable-entity-expansion.md)
+[Disable Entity Expansion within the XMLDocument2 Streaming Parser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-entity-expansion.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require obfuscation of mobile app UI](../reference/sc-mobile-app-ui-obfuscation.md)
+[Require obfuscation of mobile app UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-mobile-app-ui-obfuscation.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Set Xframe options to prevent embedding third-party websites](../reference/sc-xframe-options.md)
+[Set Xframe options to prevent embedding third-party websites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xframe-options.md)
 
 </td><td>
 
@@ -164,7 +164,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Maximize reset password request retry window duration](../reference/sc-reset-password-request-retry-window.md)
+[Maximize reset password request retry window duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-retry-window.md)
 
 </td><td>
 
@@ -173,7 +173,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require Authorization for XSD Requests](../reference/sc-xsd-request-authorization.md)
+[Require Authorization for XSD Requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xsd-request-authorization.md)
 
 </td><td>
 
@@ -194,7 +194,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Double check inbound transactions](../reference/sc-double-check-inbound-transactions.md)
+[Double check inbound transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-double-check-inbound-transactions.md)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for PDF requests](../reference/sc-require-authorization-for-pdf-requests.md)
+[Require authorization for PDF requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-require-authorization-for-pdf-requests.md)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict uploaded MIME types](../reference/sc-upload-mime-type-restriction.md)
+[Restrict uploaded MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-upload-mime-type-restriction.md)
 
 </td><td>
 
@@ -235,7 +235,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable legacy JQuery behavior](../reference/sc-legacy-jquery-behavior.md)
+[Disable legacy JQuery behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-legacy-jquery-behavior.md)
 
 </td><td>
 
@@ -244,7 +244,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Maximize reset password request unlock window duration](../reference/sc-reset-password-request-unlock-window.md)
+[Maximize reset password request unlock window duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-unlock-window.md)
 
 </td><td>
 
@@ -253,7 +253,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable MultiSSO Debugging](../reference/sc-disable-multisso-debugging.md)
+[Disable MultiSSO Debugging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-multisso-debugging.md)
 
 </td><td>
 
@@ -263,7 +263,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce production instance behavior](../reference/sc-production-instance-behavior.md)
+[Enforce production instance behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-production-instance-behavior.md)
 
 </td><td>
 
@@ -272,7 +272,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Limit Invalid Password Reset Attempts](../reference/sc-reset-password-request-max-attempts.md)
+[Limit Invalid Password Reset Attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-max-attempts.md)
 
 </td><td>
 
@@ -293,7 +293,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize reset password request success window duration](../reference/sc-reset-password-request-success-window.md)
+[Minimize reset password request success window duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-success-window.md)
 
 </td><td>
 
@@ -302,7 +302,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enforce SOAP request strict security](../reference/sc-soap-request-strict-security.md)
+[Enforce SOAP request strict security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-soap-request-strict-security.md)
 
 </td><td>
 
@@ -311,7 +311,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for SOAP requests](../reference/sc-soap-request-authorization.md)
+[Require authorization for SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-soap-request-authorization.md)
 
 </td><td>
 
@@ -325,7 +325,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require XMLdoc2 entity validation with allowlist](../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
+[Require XMLdoc2 entity validation with allowlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
 
 </td><td>
 
@@ -334,7 +334,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Apply domain separation on dot walked fields](../reference/sc-apply-domain-separation.md)
+[Apply domain separation on dot walked fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-apply-domain-separation.md)
 
 </td><td>
 
@@ -359,7 +359,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize reset password max SMS per day](../reference/sc-reset-password-max-sms-per-day.md)
+[Minimize reset password max SMS per day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-max-sms-per-day.md)
 
 </td><td>
 
@@ -368,7 +368,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Maximize reset password verification delay duration](../reference/sc-reset-password-verification-delay.md)
+[Maximize reset password verification delay duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-verification-delay.md)
 
 </td><td>
 
@@ -393,7 +393,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for JSONv2 request](../reference/sc-jsonv2-request-authorization.md)
+[Require authorization for JSONv2 request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-jsonv2-request-authorization.md)
 
 </td><td>
 
@@ -405,7 +405,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable JavaScript tags in embedded HTML](../reference/sc-allow-javascript-tags-in-embedded-html.md)
+[Disable JavaScript tags in embedded HTML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-allow-javascript-tags-in-embedded-html.md)
 
 </td><td>
 
@@ -417,7 +417,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable security jump start plugin \(ACL Rules\)](../reference/sc-security-jump-start-plugin-acl-rules.md)
+[Enable security jump start plugin \(ACL Rules\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-security-jump-start-plugin-acl-rules.md)
 
 </td><td>
 
@@ -426,7 +426,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Set guest user for soap requests](../reference/sc-set-guest-user-for-soap-requests.md)
+[Set guest user for soap requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-set-guest-user-for-soap-requests.md)
 
 </td><td>
 
@@ -435,7 +435,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict XML external entities](../reference/sc-xml-entity-validation-url-allowlist.md)
+[Restrict XML external entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xml-entity-validation-url-allowlist.md)
 
 </td><td>
 
@@ -444,7 +444,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable ACLs to Control Live Profile Details](../reference/sc-enable-acls-to-control-live-profile-details.md)
+[Enable ACLs to Control Live Profile Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-acls-to-control-live-profile-details.md)
 
 </td><td>
 
@@ -482,7 +482,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Reduce the Scope of the IP Allow List for an Instance](../reference/sc-ip-addresses-access-allowlist.md)
+[Reduce the Scope of the IP Allow List for an Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-ip-addresses-access-allowlist.md)
 
 </td><td>
 
@@ -491,7 +491,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Validate SOAP content type](../reference/sc-soap-content-type-checking.md)
+[Validate SOAP content type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-soap-content-type-checking.md)
 
 </td><td>
 
@@ -501,7 +501,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for excel requests](../reference/sc-excel-request-authorization.md)
+[Require authorization for excel requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-excel-request-authorization.md)
 
 </td><td>
 
@@ -513,7 +513,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for API requests](../reference/sc-api-request-authorization.md)
+[Require authorization for API requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-api-request-authorization.md)
 
 </td><td>
 
@@ -525,7 +525,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](../reference/sc-setting-entity-expansion-threshold.md)
+[Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-setting-entity-expansion-threshold.md)
 
 </td><td>
 
@@ -563,7 +563,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable HTTP Only Cookie Flag](../reference/sc-http-only-cookie-flag.md)
+[Enable HTTP Only Cookie Flag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-http-only-cookie-flag.md)
 
 </td><td>
 
@@ -573,7 +573,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable scoped admin application ACLs](../reference/sc-administer-scoped-admin-application-acls.md)
+[Enable scoped admin application ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-administer-scoped-admin-application-acls.md)
 
 </td><td>
 
@@ -583,7 +583,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable UserCookie version 3.1](../reference/sc-enable-usercookie-version-3-1.md)
+[Enable UserCookie version 3.1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-usercookie-version-3-1.md)
 
 </td><td>
 
@@ -592,7 +592,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for XML requests](../reference/sc-xml-request-authorization.md)
+[Require authorization for XML requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xml-request-authorization.md)
 
 </td><td>
 
@@ -604,7 +604,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize external user registration link expiration duration](../reference/sc-external-user-registration-link-expiration.md)
+[Minimize external user registration link expiration duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-external-user-registration-link-expiration.md)
 
 </td><td>
 
@@ -622,7 +622,7 @@ Convert Inbound Email Images to Attachments \[Updated in Security Center 1.3 and
 
 </td></tr><tr><td>
 
-[Minimize SMTP Recipient Quantity](../reference/sc-max-smtp-recipients.md)
+[Minimize SMTP Recipient Quantity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-max-smtp-recipients.md)
 
 </td><td>
 
@@ -653,7 +653,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Escape XML markup](../reference/sc-escape-xml.md)
+[Escape XML markup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-escape-xml.md)
 
 </td><td>
 
@@ -665,7 +665,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Require authorization for RSS requests](../reference/sc-rss-request-authorization.md)
+[Require authorization for RSS requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-rss-request-authorization.md)
 
 </td><td>
 
@@ -677,7 +677,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Minimize Allowed Attachment Size](../reference/sc-max-allowed-attachment-size.md)
+[Minimize Allowed Attachment Size](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-max-allowed-attachment-size.md)
 
 </td><td>
 
@@ -686,7 +686,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Enforce relative links](../reference/sc-enforce-relative-links.md)
+[Enforce relative links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enforce-relative-links.md)
 
 </td><td>
 
@@ -695,7 +695,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Enable SMS code notification for enrollment and verification](../reference/sc-sms-code-notification-for-enrollment-and-verification.md)
+[Enable SMS code notification for enrollment and verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-sms-code-notification-for-enrollment-and-verification.md)
 
 </td><td>
 
@@ -739,7 +739,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Require authorization for script requests](../reference/sc-script-request-authorization.md)
+[Require authorization for script requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-script-request-authorization.md)
 
 </td><td>
 
@@ -751,7 +751,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](../reference/sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
+[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
 
 </td><td>
 
@@ -773,7 +773,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Minimize session activity timeout duration](../reference/sc-session-activity-timeout.md)
+[Minimize session activity timeout duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-session-activity-timeout.md)
 
 </td><td>
 
@@ -791,7 +791,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Restrict access to background script](../reference/sc-restrict-access-to-background-script.md)
+[Restrict access to background script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-restrict-access-to-background-script.md)
 
 </td><td>
 
@@ -812,7 +812,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Minimize absolute session timeout duration](../reference/sc-absolute-session-timeout.md)
+[Minimize absolute session timeout duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-absolute-session-timeout.md)
 
 </td><td>
 
@@ -821,7 +821,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Require authentication by default for client-callable script includes](../reference/sc-privacy-on-client-callable-script-includes.md)
+[Require authentication by default for client-callable script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-privacy-on-client-callable-script-includes.md)
 
 </td><td>
 
@@ -830,7 +830,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Restrict access to GlideSystemUserSession scriptable API](../reference/sc-access-glidesystemusersession-scriptable-api.md)
+[Restrict access to GlideSystemUserSession scriptable API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-access-glidesystemusersession-scriptable-api.md)
 
 </td><td>
 
@@ -839,7 +839,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Enforce HTML Sanitization](../reference/sc-check-unsanitized-html.md)
+[Enforce HTML Sanitization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-check-unsanitized-html.md)
 
 </td><td>
 
@@ -849,7 +849,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Minimize absolute session timeout duration](../reference/sc-absolute-session-timeout.md)
+[Minimize absolute session timeout duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-absolute-session-timeout.md)
 
 </td><td>
 
@@ -858,7 +858,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Activate role based multi-factor authentication](../reference/sc-role-based-multi-factor-authentication.md)
+[Activate role based multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-role-based-multi-factor-authentication.md)
 
 </td><td>
 
@@ -888,7 +888,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Maximize reset password SMS pause window duration](../reference/sc-reset-password-sms-pause-window.md)
+[Maximize reset password SMS pause window duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-sms-pause-window.md)
 
 </td><td>
 
@@ -900,7 +900,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Disable outbound SSLv2/SSLv3 connections](../reference/sc-disabling-sslv2-sslv3.md)
+[Disable outbound SSLv2/SSLv3 connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disabling-sslv2-sslv3.md)
 
 </td><td>
 
@@ -909,7 +909,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Require authorization for unload requests](../reference/sc-require-authorization-for-unload-requests.md)
+[Require authorization for unload requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-require-authorization-for-unload-requests.md)
 
 </td><td>
 
@@ -921,7 +921,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Enable email spam scoring and filtering](../reference/sc-email-spam-scoring-and-filtering.md)
+[Enable email spam scoring and filtering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-email-spam-scoring-and-filtering.md)
 
 </td><td>
 
@@ -948,7 +948,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Require AJAXGlideRecord ACL checking](../reference/sc-enabling-ajaxgliderecord-acl-checking.md)
+[Require AJAXGlideRecord ACL checking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enabling-ajaxgliderecord-acl-checking.md)
 
 </td><td>
 
@@ -957,7 +957,7 @@ Enable Updated Version of Multi SSO Plugin \(Plugin Applicability: Multiple Prov
 
 </td></tr><tr><td>
 
-[Log user impersonation](../reference/sc-log-user-impersonation.md)
+[Log user impersonation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-log-user-impersonation.md)
 
 </td><td>
 
@@ -965,7 +965,7 @@ Rule Script: Script has been updated to improve detection accuracy.Script has be
 
 </td></tr><tr><td>
 
-[Disallow infected file download](../reference/sc-disallow-infected-files-download.md)
+[Disallow infected file download](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disallow-infected-files-download.md)
 
 </td><td>
 
@@ -973,7 +973,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable CAPTCHA for External User Registration](../reference/sc-enable-captcha-external-user-registration.md)
+[Enable CAPTCHA for External User Registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-captcha-external-user-registration.md)
 
 </td><td>
 
@@ -982,7 +982,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable SQL error messages](../reference/sc-disabling-sql-error-messages.md)
+[Disable SQL error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disabling-sql-error-messages.md)
 
 </td><td>
 
@@ -991,7 +991,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize reset password request expiration duration](../reference/sc-reset-password-request-expiration.md)
+[Minimize reset password request expiration duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-expiration.md)
 
 </td><td>
 
@@ -1001,7 +1001,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Control Lockout Time for Invalid Password Reset Attempts](../reference/sc-reset-password-request-max-attempts-window.md)
+[Control Lockout Time for Invalid Password Reset Attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-request-max-attempts-window.md)
 
 </td><td>
 
@@ -1010,7 +1010,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict downloadable MIME types](../reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-downloadable-mime-type-denylist.md)
 
 </td><td>
 
@@ -1028,7 +1028,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable contextual security plugin](../reference/sc-contextual-security-plugin.md)
+[Enable contextual security plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-contextual-security-plugin.md)
 
 </td><td>
 
@@ -1037,7 +1037,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable account recovery](../reference/sc-account-recovery.md)
+[Enable account recovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-account-recovery.md)
 
 </td><td>
 
@@ -1051,7 +1051,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for import requests](../reference/sc-import-request-authorization.md)
+[Require authorization for import requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-import-request-authorization.md)
 
 </td><td>
 
@@ -1063,7 +1063,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable SNC access control plugin](../reference/sc-snc-access-control-plugin.md)
+[Enable SNC access control plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-snc-access-control-plugin.md)
 
 </td><td>
 
@@ -1072,7 +1072,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Limit concurrent sessions across all nodes](../reference/sc-limit-concurrent-sessions-across-all-nodes.md)
+[Limit concurrent sessions across all nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-limit-concurrent-sessions-across-all-nodes.md)
 
 </td><td>
 
@@ -1081,7 +1081,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for XML output requests](../reference/sc-xml-output-authorization.md)
+[Require authorization for XML output requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xml-output-authorization.md)
 
 </td><td>
 
@@ -1093,7 +1093,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Escape scripts in scratchpad](../reference/sc-escape-scratchpad.md)
+[Escape scripts in scratchpad](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-escape-scratchpad.md)
 
 </td><td>
 
@@ -1104,7 +1104,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for WSDL request](../reference/sc-wsdl-request-authorization.md)
+[Require authorization for WSDL request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-wsdl-request-authorization.md)
 
 </td><td>
 
@@ -1116,7 +1116,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Require authorization for SCHEMA requests](../reference/sc-schema-request-authorization.md)
+[Require authorization for SCHEMA requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-schema-request-authorization.md)
 
 </td><td>
 
@@ -1128,7 +1128,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict downloadable MIME types](../reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-downloadable-mime-type-denylist.md)
 
 </td><td>
 
@@ -1137,7 +1137,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable logger for low privilege users in script sandbox](../reference/sc-glide-security-logger-no-loggining-for-sandbox.md)
+[Disable logger for low privilege users in script sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-glide-security-logger-no-loggining-for-sandbox.md)
 
 </td><td>
 
@@ -1147,7 +1147,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Implement the x-frame-options: SAMEORIGIN security header](../reference/sc-x-frame-options-sameorigin.md)
+[Implement the x-frame-options: SAMEORIGIN security header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-x-frame-options-sameorigin.md)
 
 </td><td>
 
@@ -1157,7 +1157,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict performance monitoring access](../reference/sc-performance-monitoring-acl.md)
+[Restrict performance monitoring access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-performance-monitoring-acl.md)
 
 </td><td>
 
@@ -1166,7 +1166,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Turn off verbose SQL error messages for import processor](../reference/sc-turn-off-verbose-sql-error-messages-for-import-processor.md)
+[Turn off verbose SQL error messages for import processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-turn-off-verbose-sql-error-messages-for-import-processor.md)
 
 </td><td>
 
@@ -1174,7 +1174,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Minimize reset password SMS expiry duration](../reference/sc-reset-password-sms-expiracy.md)
+[Minimize reset password SMS expiry duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-sms-expiracy.md)
 
 </td><td>
 
@@ -1183,7 +1183,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Disable creating users from incoming emails](../reference/sc-restrict-emails-by-domain.md)
+[Disable creating users from incoming emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-restrict-emails-by-domain.md)
 
 </td><td>
 
@@ -1195,5 +1195,5 @@ Rule Script: Script has been updated to improve detection accuracy.
 -   Old remediation: Ensure the property **glide.pop3readerjob.create\_caller** is set to false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Updated hardening settings](hardening-settings-updated.md)
+</table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 

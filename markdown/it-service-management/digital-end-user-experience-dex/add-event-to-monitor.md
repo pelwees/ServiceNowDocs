@@ -31,7 +31,7 @@ Role required: sn\_dex.admin
 
 5.  Complete the New record form to add an event to monitor.
 
-    For details about the form fields, see [New DEX event form](../reference/new-dex-event-form.md).
+    For details about the form fields, see [New DEX event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/new-dex-event-form.md).
 
 6.  Select **Submit**.
 

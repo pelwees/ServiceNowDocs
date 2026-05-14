@@ -16,7 +16,7 @@ Use Now Assist Search on Mobile to provide actionable AI-generated or AI-selecte
 
 Now Assist in AI Search can be configured to generate answers from sources such as Catalogs, Microsoft SharePoint, and Knowledge articles.
 
-![Now Assist generating an answer to the search query: "get a new phone"](../image/na-mobile-search.png "Now Assist in AI Search on Mobile")
+![Now Assist generating an answer to the search query: "get a new phone"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-mobile-search.png "Now Assist in AI Search on Mobile")
 
 To give feedback on the answers provided by Now Assist, you can select either the thumbs up or thumbs down icons in the generated response to mark the information as helpful or unhelpful respectively.
 

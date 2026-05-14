@@ -28,5 +28,5 @@ Use the **Mapping Configuration** form to configure your fields and field mappin
 |**Create UR Information**|
 |Create UR template|Select the template that you want to apply to the universal request while a department ticket is created.|
 
-**Parent Topic:**[Universal Request reference](ur-reference-topic.md)
+**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 

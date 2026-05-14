@@ -15,12 +15,12 @@ As a product catalog admin or manager, you can create product offering recommend
 
 Product offering recommendations provide your sales agents with relevant products to supplement or complement existing items in quotes. The recommendations are displayed as cards in the contextual side panel of the CSM Configurable Workspace when your agents update a draft quote. Product offering recommendations enable your agents to find and add relevant items quickly to their quotes.
 
-![Recommended product cards for products that agents can cross-sell to customers in the contextual side panel of the CSM Workspace.](../image/prod-recommendations-panel.png "Example product offering recommendations for a quote")
+![Recommended product cards for products that agents can cross-sell to customers in the contextual side panel of the CSM Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/prod-recommendations-panel.png "Example product offering recommendations for a quote")
 
 As a catalog admin or manager, you configure product recommendations by identifying the source product offerings, the type of recommendation, and the associated recommended product. There are two types of product recommendations:
 
 -   Upsell: An upgraded or enhanced version of a product in the quote.
 -   Cross-sell: A related product that complements a product in the quote.
 
-For details on configuring product recommendations, see [Create a product offering recommendation](../task/create-offer-recommendation.md).
+For details on configuring product recommendations, see [Create a product offering recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-offer-recommendation.md).
 

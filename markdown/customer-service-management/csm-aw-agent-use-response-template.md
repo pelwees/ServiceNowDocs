@@ -27,7 +27,7 @@ The contextual side panel in CSM Configurable Workspace gives you access to info
 
 2.  Open a customer service case or case task.
 
-3.  In the contextual sidebar, click the response templates icon \(![Response template icon.](../image/response-template-icon.png)\) to display a list of templates.
+3.  In the contextual sidebar, click the response templates icon \(![Response template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/response-template-icon.png)\) to display a list of templates.
 
 4.  In the Response Templates side panel, search for a template.
 

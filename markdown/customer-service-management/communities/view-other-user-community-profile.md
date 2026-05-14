@@ -41,7 +41,7 @@ Profile header
 
 The sections of the community profile that the user has made visible. -   To start following the user, click **Follow**.
 -   To report any inappropriate content on the user's community profile, click the **...** icon and then **Report Profile**.
--   To [assign a user points](gamification-award-user-points.md) for a specific contribution to the community as a community administrator, click the **...** icon and then click **Assign Points**.
+-   To [assign a user points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-award-user-points.md) for a specific contribution to the community as a community administrator, click the **...** icon and then click **Assign Points**.
 -   To hide content from the community until it is corrected as a community administrator, click **Display Settings** You can also click **Ban User** to ban a user from creating or editing content.
 
 
@@ -124,5 +124,5 @@ The contributions the user has made to the community.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use a community profile](community-profile.md)
+**Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 

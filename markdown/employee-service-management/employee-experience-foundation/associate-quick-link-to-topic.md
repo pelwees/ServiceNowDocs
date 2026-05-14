@@ -29,11 +29,11 @@ User criteria required: Taxonomy Manager.
 
 3.  On the **Quick Link** tab, click **New**.
 
-    ![Associating topic to the related tabs](../images/associate-topics-tabs.png "Quick link tab")
+    ![Associating topic to the related tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/associate-topics-tabs.png "Quick link tab")
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Quick Link form](../reference/ec-quick-link-form.md).
+    For more information on the fields and description, see [Quick Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-quick-link-form.md).
 
     **Note:** You can't add a quick link as a featured item.
 
@@ -43,7 +43,7 @@ User criteria required: Taxonomy Manager.
 **Related topics**  
 
 
-[Create a quick link](create-quick-links.md)
+[Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-[Assign topics to a quick link](assign-topics-to-quick-links.md)
+[Assign topics to a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/assign-topics-to-quick-links.md)
 

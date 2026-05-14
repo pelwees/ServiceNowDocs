@@ -13,7 +13,7 @@ breadcrumb: [High Security Settings]
 
 High Security Settings refer to several security options available in your instance.
 
-The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [Requesting High Security Settings activation](../task/t_ActivateHighSecuritySettings.md). To learn more about this plugin, see [Enable High Security Plugin](../../security-center/reference/sc-high-security-plugin.md) in Instance Security Hardening Settings. Properties for these types of high security settings are available:
+The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [Requesting High Security Settings activation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ActivateHighSecuritySettings.md). To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-high-security-plugin.md) in Instance Security Hardening Settings. Properties for these types of high security settings are available:
 
 -   Default property values: To harden security on your platform by centralizing all critical security settings to one location for management and auditing.
 -   Default deny property: Provides a security manager property to control the default security behavior for table access.
@@ -27,7 +27,7 @@ The High Security Settings module is activated with the High Security Settings p
 
 -   High Security Settings also automatically activates the Contextual Security plugin, if it is not already active. In addition, Platform Security Settings - High delivers settings and features in the context of increasing the security of your instance.
 -   The Instance Security Hardening Settings content contains detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
--   To learn more about each of these properties, see [Hardening settings](../../security-center/reference/security-hardening-settings.md).
+-   To learn more about each of these properties, see [Hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/security-hardening-settings.md).
 
 There are two ways to set or change High Security Settings properties.
 
@@ -53,7 +53,7 @@ Properties listed in the Properties table have **read\_roles** of admin, and **w
 
 Activation of high security settings also activates security warning messages. The following is an example of a message that appears after an approval.
 
-![Security Warning notification](../image/Highsecuritywarning.png "Security Warning notification")
+![Security Warning notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Highsecuritywarning.png "Security Warning notification")
 
 ## High Security Settings properties
 
@@ -89,7 +89,7 @@ Yes
 
 </td><td>
 
-[Escape XML markup](../../security-center/reference/sc-escape-xml.md)
+[Escape XML markup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-escape-xml.md)
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ If you are using the SAML 2.0 plugin for Single Sign-on authentication, set this
 
 </td><td>
 
-[Rotate HTTP session identifiers](../../security-center/reference/sc-rotate-http-session-identifiers.md)
+[Rotate HTTP session identifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-rotate-http-session-identifiers.md)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Yes
 
 </td><td>
 
-[Enforce strict security of session cookies](../../security-center/reference/sc-secure-session-cookies.md)
+[Enforce strict security of session cookies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-secure-session-cookies.md)
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Yes
 
 </td><td>
 
-[Double check inbound transactions](../../security-center/reference/sc-double-check-inbound-transactions.md)
+[Double check inbound transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-double-check-inbound-transactions.md)
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ Yes
 
 </td><td>
 
-[Check UI action conditions before execution](../../security-center/reference/sc-check-ui-action-conditions-before-execution.md)
+[Check UI action conditions before execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-check-ui-action-conditions-before-execution.md)
 
 </td></tr><tr><td>
 
@@ -253,7 +253,7 @@ Yes
 
 </td><td>
 
-[Remove remember me](../../security-center/reference/sc-remove-remember-me.md)
+[Remove remember me](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-remove-remember-me.md)
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Yes
 
 </td><td>
 
-[Enforce SOAP request strict security](../../security-center/reference/sc-soap-request-strict-security.md)
+[Enforce SOAP request strict security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-soap-request-strict-security.md)
 
 </td></tr><tr><td>
 
@@ -303,7 +303,7 @@ Yes
 
 </td><td>
 
-[Require authorization for WSDL request](../../security-center/reference/sc-wsdl-request-authorization.md)
+[Require authorization for WSDL request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-wsdl-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -337,7 +337,7 @@ Yes
 
 </td><td>
 
-[Require authorization for excel requests](../../security-center/reference/sc-excel-request-authorization.md)
+[Require authorization for excel requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-excel-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -353,7 +353,7 @@ Yes
 
 </td><td>
 
-[Require authorization for import requests](../../security-center/reference/sc-import-request-authorization.md)
+[Require authorization for import requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-import-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -369,7 +369,7 @@ Yes
 
 </td><td>
 
-[Require authorization for PDF requests](../../security-center/reference/sc-require-authorization-for-pdf-requests.md)
+[Require authorization for PDF requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-require-authorization-for-pdf-requests.md)
 
 </td></tr><tr><td>
 
@@ -385,7 +385,7 @@ Yes
 
 </td><td>
 
-[Require authorization for RSS requests](../../security-center/reference/sc-rss-request-authorization.md)
+[Require authorization for RSS requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-rss-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -401,7 +401,7 @@ Yes
 
 </td><td>
 
-[Require authorization for script requests](../../security-center/reference/sc-script-request-authorization.md)
+[Require authorization for script requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-script-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -417,7 +417,7 @@ Yes
 
 </td><td>
 
-[Require authorization for SOAP requests](../../security-center/reference/sc-soap-request-authorization.md)
+[Require authorization for SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-soap-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -433,7 +433,7 @@ Yes
 
 </td><td>
 
-[Require authorization for unload requests](../../security-center/reference/sc-require-authorization-for-unload-requests.md)
+[Require authorization for unload requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-require-authorization-for-unload-requests.md)
 
 </td></tr><tr><td>
 
@@ -449,7 +449,7 @@ Yes
 
 </td><td>
 
-[Require authorization for XML requests](../../security-center/reference/sc-xml-request-authorization.md)
+[Require authorization for XML requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-xml-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -465,7 +465,7 @@ Yes
 
 </td><td>
 
-[Require Authorization for XSD Requests](../../security-center/reference/sc-xsd-request-authorization.md)
+[Require Authorization for XSD Requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-xsd-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -481,7 +481,7 @@ Yes
 
 </td><td>
 
-[Enforce relative links](../../security-center/reference/sc-enforce-relative-links.md)
+[Enforce relative links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-enforce-relative-links.md)
 
 </td></tr><tr><td>
 
@@ -497,7 +497,7 @@ Yes
 
 </td><td>
 
-[Implement the x-frame-options: SAMEORIGIN security header](../../security-center/reference/sc-x-frame-options-sameorigin.md)
+[Implement the x-frame-options: SAMEORIGIN security header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-x-frame-options-sameorigin.md)
 
 </td></tr><tr><td>
 
@@ -513,7 +513,7 @@ A list of comma-separated attachment mime types that do not render inline in the
 
 </td><td>
 
-[Restrict downloadable MIME types](../../security-center/reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-downloadable-mime-type-denylist.md)
 
 </td></tr><tr><td>
 
@@ -545,7 +545,7 @@ No
 
 </td><td>
 
-[Restrict performance monitoring access](../../security-center/reference/sc-performance-monitoring-acl.md)
+[Restrict performance monitoring access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-performance-monitoring-acl.md)
 
 </td></tr><tr><td>
 
@@ -579,7 +579,7 @@ No
 
 </td><td>
 
-[Disable AJAXEvaluate](../../security-center/reference/sc-disable-ajaxevaluate.md)
+[Disable AJAXEvaluate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-disable-ajaxevaluate.md)
 
 </td></tr></tbody>
 </table>The following properties are defined in the sys\_properties table, but are not visible on the High Security Settings page.

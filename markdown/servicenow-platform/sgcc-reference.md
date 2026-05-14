@@ -13,10 +13,10 @@ breadcrumb: [SGC Central, Integrating third-party data into CMDB, Configuration 
 
 Reference topics provide additional information about SGC Central components.
 
--   **[Components installed with SGC Central](sgcc-installed-components.md)**  
+-   **[Components installed with SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-installed-components.md)**  
 Several types of components are installed with activation of the SGC Central \(sn\_sgc\_central\) plugin, including tables, user roles, and scheduled jobs.
--   **[Domain separation and SGC Central](sgcc-domain-separation.md)**  
+-   **[Domain separation and SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-domain-separation.md)**  
 Domain separation is unsupported for SGC Central. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[SGC Central](../reference/sgcc-landing.md)
+**Parent Topic:**[SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/sgcc-landing.md)
 

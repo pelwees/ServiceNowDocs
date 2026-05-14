@@ -34,7 +34,7 @@ You can share a project in two ways:
 
     Alternatively, you can share a project from the Overview page after creating a project.
 
-    ![Share button on Process Mining Workspace](../image/po-share-button.png)
+    ![Share button on Process Mining Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/po-share-button.png)
 
     The Share project window is displayed.
 
@@ -53,5 +53,5 @@ You can share a project in two ways:
     5.  To remove any user, group, or role from giving the access to the project, from the **Actions** list for that user, group, or role select **Remove**.
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-process-mining.md)
 

@@ -24,5 +24,5 @@ The following table describes Agent Client Collector resource consumption. We su
 |Max CPU per check|10 to 15%|15 to 20%|
 |Memory overhead \(avg\)|~13.88 MB|~31.15 MB|
 
-**Parent Topic:**[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)
+**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 

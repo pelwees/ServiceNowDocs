@@ -44,7 +44,7 @@ The Dependency Assessment tree view opens in the same browser window from which 
 
 2.  Select the dashboard you want to analyze.
 
-3.  From the context menu, select **Launch Dependency Assessment**.![Context menu open; Launch Dependency Assessment menu item selected](../../performance-analytics/image/launch-dep-assessment.png)
+3.  From the context menu, select **Launch Dependency Assessment**.![Context menu open; Launch Dependency Assessment menu item selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/launch-dep-assessment.png)
 
     You can also select **Dashboard Properties** and click **Launch Dependency Assessment** in the related links.
 
@@ -53,5 +53,5 @@ The Dependency Assessment tree view opens in the same browser window from which 
 
 The tree view of the selected dashboard opens.
 
-**Parent Topic:**[Dependency Assessment](../../performance-analytics/concept/impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/concept/impact-analysis.md)
 

@@ -65,7 +65,7 @@ For more information, see [Create an AI case in the AI Risk and Compliance works
 
 The following example shows the **AI cases** tab on the AI risk and compliance dashboard.
 
-![AI cases tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](../image/ai-case-landing-page-aict.png "AI cases tab on the AI risk and compliance dashboard")
+![AI cases tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/ai-case-landing-page-aict.png "AI cases tab on the AI risk and compliance dashboard")
 
 ## Inquiries
 
@@ -107,7 +107,7 @@ Use the [**Create inquiry**](https://raw.githubusercontent.com/ServiceNow/Servic
 
 The following example shows the **Inquiries** tab on the AI risk and compliance dashboard.
 
-![Inquiries tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](../../../product/grc-ai-risk-compliance/image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
+![Inquiries tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../product/grc-ai-risk-compliance/image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
 
 For more information, see [AI Risk and Compliance documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md).
 

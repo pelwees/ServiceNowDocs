@@ -29,5 +29,5 @@ When using an emission factor in a calculated metric definition \(CMD\), follow 
 
 By verifying both the date and location alignment, you can accurately build your formulas for calculations.
 
-**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](esg-new-explore.md)
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 

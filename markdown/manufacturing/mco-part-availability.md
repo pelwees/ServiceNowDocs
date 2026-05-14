@@ -23,7 +23,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 2.  Select the corresponding campaign record in which you want to generate the part requirements.
 
-    To generate the part requirement, see [Generate a part requirement](mco-part-requirements.md).
+    To generate the part requirement, see [Generate a part requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-part-requirements.md).
 
 3.  Select **Parts requirements**.
 
@@ -48,5 +48,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 8.  Select **Save**.
 
 
-**Parent Topic:**[Generate a part requirement](mco-part-requirements.md)
+**Parent Topic:**[Generate a part requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-part-requirements.md)
 

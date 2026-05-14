@@ -31,7 +31,7 @@ The insights are generated for the following categories for a portfolio plan:
 -   Date misalignment — Planned versus approved date misalignment
 -   Delayed start — Planning items with delayed starts
 
-![Portfolio Insights panel showing planning items grouped by impact severity.](../images/view-portfolio-insights-spw.gif)
+![Portfolio Insights panel showing planning items grouped by impact severity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/view-portfolio-insights-spw.gif)
 
 ## Procedure
 
@@ -62,5 +62,5 @@ The insights are generated for the following categories for a portfolio plan:
 
 Portfolio Insights identifies prioritized planning items at risk, along with root cause analyses and recommended actions to help you maintain portfolio health.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

@@ -33,7 +33,7 @@ Resource
 
 </th></tr></thead><tbody><tr><td>
 
-![Install Hardware Asset Management](../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management
+![Install Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management
 
 </td><td>
 
@@ -41,11 +41,11 @@ Get the Hardware Asset Management application from the [ServiceNow Store](https:
 
 </td><td>
 
-[Install Hardware Asset Management](../../hardware-asset-management/task/install-ham.md)
+[Install Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/task/install-ham.md)
 
 </td></tr><tr><td>
 
-![Install Hardware Asset Management for DaaS](../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management for DaaS
+![Install Hardware Asset Management for DaaS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management for DaaS
 
 </td><td>
 
@@ -53,11 +53,11 @@ Get the Hardware Asset Management for DaaS application from the [ServiceNow Stor
 
 </td><td>
 
-[Install Hardware Asset Management for DaaS](../task/install-daas.md)
+[Install Hardware Asset Management for DaaS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/install-daas.md)
 
 </td></tr><tr><td>
 
-![Select assets as DaaS assets.](../../../reuse/icons/brand-icons/bus-task-list.svg)Mark assets as DaaS assets
+![Select assets as DaaS assets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-task-list.svg)Mark assets as DaaS assets
 
 </td><td>
 
@@ -65,11 +65,11 @@ Mark your assets as DaaS assets on the Hardware Asset Details form.
 
 </td><td>
 
-[Asset record fields](../../asset-management/reference/asset-record-fields.md)
+[Asset record fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../asset-management/reference/asset-record-fields.md)
 
 </td></tr><tr><td>
 
-![Explore DaaS Provider view in Hardware Asset Workspace.](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore DaaS provider view in Hardware Asset Workspace
+![Explore DaaS Provider view in Hardware Asset Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore DaaS provider view in Hardware Asset Workspace
 
 </td><td>
 
@@ -77,11 +77,11 @@ Explore the intuitive DaaS provider view in Hardware Asset Workspace to manage t
 
 </td><td>
 
-[DaaS provider view](daas-workspace.md)
+[DaaS provider view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/daas-workspace.md)
 
 </td></tr><tr><td>
 
-![Use Hardware Asset Management for DaaS](../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Hardware Asset Management for DaaS
+![Use Hardware Asset Management for DaaS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Hardware Asset Management for DaaS
 
 </td><td>
 
@@ -89,8 +89,8 @@ Use Hardware Asset Management for DaaS to offer assets and asset management serv
 
 </td><td>
 
--   [Managing inbound asset orders for DaaS assets](manage-inbound-orders.md)
--   [Managing RMA response orders for DaaS assets](manage-rma-orders.md)
+-   [Managing inbound asset orders for DaaS assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-inbound-orders.md)
+-   [Managing RMA response orders for DaaS assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-rma-orders.md)
 
 </td></tr></tbody>
 </table>

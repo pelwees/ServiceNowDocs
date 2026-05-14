@@ -55,5 +55,5 @@ The steps you need to complete to access the default access controls auditor sui
     |Advanced|Advanced configuration options.|
 
 
-**Parent Topic:**[Create a scan suite](create-new-suite.md)
+**Parent Topic:**[Create a scan suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md)
 

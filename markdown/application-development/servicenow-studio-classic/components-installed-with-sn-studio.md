@@ -23,7 +23,7 @@ When you activate the ServiceNow Studio plugin, various components like tables a
 |Experience Configurations \[sn\_udc\_experience\_configuration\]|Shows the default role access configurations for the experience switcher. This table is not configurable.|
 |Experience Visibility Controls \[sn\_udc\_experience\_visibility\_control\]|Enables you to give non-default roles access to the experience switcher. This table is configurable.|
 
-No specific roles are shipped with ServiceNow Studio, but Admin and Delegated Developer roles are used. For more information, see [ServiceNow Studio personas and roles](sn-studio-personas-roles.md).
+No specific roles are shipped with ServiceNow Studio, but Admin and Delegated Developer roles are used. For more information, see [ServiceNow Studio personas and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/sn-studio-personas-roles.md).
 
 ## Plugin installed with ServiceNow Studio
 
@@ -57,5 +57,5 @@ ServiceNow Studio provides a unified experience for all ServiceNow development a
 -   sn\_deploy\_pipeline
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installing ServiceNow Studio](installing-servicenow-studio.md)
+</table>**Parent Topic:**[Installing ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/installing-servicenow-studio.md)
 

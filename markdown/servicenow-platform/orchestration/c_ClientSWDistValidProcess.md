@@ -25,5 +25,5 @@ The instance uses the data gathered by Discovery or the SCCM integration plugin 
 -   **Not installed** to **Installed**: The user has installed the requested software within the time limit configured in the **sn\_client\_sf\_dist.softwareInstallExpDays** property.
 -   **Not installed** to **Status check expired**: The time limit has expired for the user to install the requested software. The system stops checking for installation when the time limit expires.
 
-**Parent Topic:**[Client software distribution from SCCM](c_CSDFromAnSCCMHost.md)
+**Parent Topic:**[Client software distribution from SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_CSDFromAnSCCMHost.md)
 

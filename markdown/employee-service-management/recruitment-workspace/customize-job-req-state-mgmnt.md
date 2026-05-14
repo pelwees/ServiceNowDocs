@@ -30,5 +30,5 @@ To add a new job requisition state:
 
 7.  Select **Submit**.
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/config-recruitment.md)
 

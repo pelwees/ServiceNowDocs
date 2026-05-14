@@ -60,5 +60,5 @@ Learn about the fields on the status report form.
 **Related topics**  
 
 
-[Create a project status report](../task/t_CreateAProjectStatusReport.md)
+[Create a project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectStatusReport.md)
 

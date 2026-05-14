@@ -287,5 +287,5 @@ Stores the Key stakeholders record mapped at Case level.
 Privacy Case Management
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Privacy Case Management reference information](pcm-reference-information.md)
+</table>**Parent Topic:**[Privacy Case Management reference information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pcm-reference-information.md)
 

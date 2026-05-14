@@ -15,7 +15,7 @@ The global queue concept provides a single virtual view of tasks that reside in 
 
 ## Overview
 
-![Global queue](../image/global-queue.png)
+![Global queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/global-queue.png)
 
 Service Providers with agents working on tasks from multiple systems tend to integrate the data back to a central instance, or a “swivel chair” between instances. While this method might be appropriate in some cases, it can be expensive and time-consuming to build and maintain. This method also opens the provider up to potential auditing and data requirement considerations such as General Data Protection Regulation \(GDPR\) in all of the instances where the data now lives.
 
@@ -25,5 +25,5 @@ Learn more about the [Global Queue v.2 Proof of Concept](https://support.service
 
 **Note:** In the Quebec release forward, the Global Queue Proof of Concept has been upgraded to Global Queue v. 2.
 
-**Parent Topic:**[Concepts for service providers](sp-concepts.md)
+**Parent Topic:**[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 

@@ -276,5 +276,5 @@ Stores information of all stories created.
 |Populate parent level data for work item and stories|Populates the details of the parent work item up to seven levels.|
 |Populate parent level data for work item and stories \(Bulk\)|Populates the details of the parent work item up to seven levels. Run this scheduled jobs when you have multiple stories that needs update to parent work item details at once.|
 
-**Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
+**Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 

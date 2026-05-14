@@ -35,11 +35,11 @@ By default, all members of the HR group monitor the HR chat queue. When a questi
 
     The Connect workspace opens in a new tab.
 
-2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](../image/IconSupport.png)\).
+2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/IconSupport.png)\).
 
     The support tab displays **Queues** to which you belong. It also displays your open support conversations under **Cases**. When a user starts a support conversation or an agent transfers a conversation to a queue, any agent who belongs to the associated queue can accept the conversation.
 
-    ![The support tab of the Connect sidebar displays queues you belong to and support cases](../image/ConnectSidebarChatTab.png "Support tab of Connect sidebar")
+    ![The support tab of the Connect sidebar displays queues you belong to and support cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/ConnectSidebarChatTab.png "Support tab of Connect sidebar")
 
 3.  Accept a conversation in one of the following ways.
 
@@ -65,7 +65,7 @@ Under **Queues**, click **Accept** by the queue.The conversation opens in the co
 
 </td><td>
 
-Under **Cases**, click **Accept** by a transfer request.![The transfer request contains buttons to Decline or Accept](../image/ConnectSupportTransferRequest.png "Transfer request")
+Under **Cases**, click **Accept** by a transfer request.![The transfer request contains buttons to Decline or Accept](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/ConnectSupportTransferRequest.png "Transfer request")
 
  The conversation opens in the conversation pane. The agent who transferred the conversation can stay in the conversation.
 
@@ -79,5 +79,5 @@ Under **Cases**, click **Accept** by a transfer request.![The transfer request c
 
 If necessary, you can open a new HR case or incident from the conversation for further investigation. You can also transfer the conversation to a different agent or queue, or escalate the conversation to a higher priority queue.
 
-**Parent Topic:**[HR chat from lists and forms](../concept/chat-with-scoped-hr.md)
+**Parent Topic:**[HR chat from lists and forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/chat-with-scoped-hr.md)
 

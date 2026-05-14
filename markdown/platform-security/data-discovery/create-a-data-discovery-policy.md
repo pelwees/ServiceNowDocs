@@ -81,5 +81,5 @@ The data pattern the policy will use.
 
 ## Result
 
-Select the policy when creating a [Data Discovery jobs](../concept/data-discovery-jobs.md).
+Select the policy when creating a [Data Discovery jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../concept/data-discovery-jobs.md).
 

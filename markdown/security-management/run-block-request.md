@@ -81,14 +81,14 @@ Option to specify the severity assigned to the indicator in CrowdStrike when the
 
 
 </td></tr></tbody>
-</table>    ![Allow/Block request](../image/allow:block-obs.png)
+</table>    ![Allow/Block request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/allow:block-obs.png)
 
 8.  Select **Submit**.
 
     The flow execution audit is displayed in the work notes section.
 
-    ![Block Request work note example](../image/run-block-request-worknote.png)
+    ![Block Request work note example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/run-block-request-worknote.png)
 
 
-**Parent Topic:**[Security Operations Integration- Block Request capability](../concept/block-request-capability.md)
+**Parent Topic:**[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/block-request-capability.md)
 

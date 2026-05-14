@@ -20,31 +20,31 @@ The [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store
 
 <table id="table_u2g_3vp_tcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the ServiceNow Store and how apps, products, and integrations can help your organization enhance the ServiceNow AI Platform experience.](exploring-servicenow-store.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the ServiceNow Store and how apps, products, and integrations can help your organization enhance the ServiceNow AI Platform experience.](exploring-servicenow-store.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure notification preferences for each application you procure from the ServiceNow Store.](configuring-servicenow-store.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure notification preferences for each application you procure from the ServiceNow Store.](configuring-servicenow-store.md)
 
 </td></tr><tr><td>
 
-[Get apps![](../../../reuse/icons/brand-icons/ind-shopping-cart.svg)Procure apps for production and non-production instances of the ServiceNow AI Platform, or request trials for non-production instances.](getting-apps-trials.md)
+[Get apps![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/ind-shopping-cart.svg)Procure apps for production and non-production instances of the ServiceNow AI Platform, or request trials for non-production instances.](getting-apps-trials.md)
 
 </td><td>
 
-[Leave feedback![](../../../reuse/icons/brand-icons/bus-why-servicenow.svg)Review the apps your organization uses so providers know what's working well and what future updates you want to see.](reviewing-apps.md)
+[Leave feedback![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-why-servicenow.svg)Review the apps your organization uses so providers know what's working well and what future updates you want to see.](reviewing-apps.md)
 
 </td></tr><tr><td>
 
-[Get apps for an on-premise instance![](../../../reuse/icons/brand-icons/bus-download.svg)Download encrypted apps to install on on-premise \(self-hosted\) instances.](getting-apps-on-prem.md)
+[Get apps for an on-premise instance![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-download.svg)Download encrypted apps to install on on-premise \(self-hosted\) instances.](getting-apps-on-prem.md)
 
 </td><td>
 
-[Use a regulated environment![](../../../reuse/icons/brand-icons/ind-government.svg)If your instance is in a regulated environment, you might need to get apps and products from an isolated federal or regional version of the ServiceNow Store.](using-regulated-store.md)
+[Use a regulated environment![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/ind-government.svg)If your instance is in a regulated environment, you might need to get apps and products from an isolated federal or regional version of the ServiceNow Store.](using-regulated-store.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about guest review form fields and types of ServiceNow Store listings.](../reference/store-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-learn.svg)Get information about guest review form fields and types of ServiceNow Store listings.](../reference/store-reference.md)
 
 </td><td>
 

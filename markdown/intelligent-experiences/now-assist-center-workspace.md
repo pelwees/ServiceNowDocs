@@ -30,7 +30,7 @@ To access the Now Assist Center workspace, navigate to **All** &gt; **Now Assist
 
 The first time you access Now Assist Center, a welcome message displays prompting you to get started by installing essential Now Assist plugins. If you already have these plugins installed, the message simply introduces the benefits of Now Assist Center. Select **Let’s get started** to continue to the home page.
 
-![Welcome message showing the benefits of Now Assist Center.](../image/now-assist-center-home-welcome-message.png "Welcome message")
+![Welcome message showing the benefits of Now Assist Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-home-welcome-message.png "Welcome message")
 
 ## Layout of the Now Assist Center workspace
 
@@ -41,21 +41,21 @@ The following illustration shows the Now Assist Center workspace. The workspace 
 -   3 - Home page
 -   4 - Now Assist panel
 
-![Now Assist Center workspace layout.](../image/now-assist-center-home-workspace-layout-notes.png "Now Assist Center workspace")
+![Now Assist Center workspace layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-home-workspace-layout-notes.png "Now Assist Center workspace")
 
--   **[Side navigation bar](now-assist-center-side-navigation-bar.md)**  
+-   **[Side navigation bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-side-navigation-bar.md)**  
 The side navigation bar provides access to Now Assist applications and features integrated with Now Assist Center.
--   **[Home page](now-assist-center-home-page.md)**  
+-   **[Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-home-page.md)**  
 The Now Assist Center home page provides features to quickly set up your Now Assist implementation, find automation opportunities, track performance of Now Assist solutions, and access related Now Assist applications.
--   **[Now Assist panel](now-assist-center-now-assist-panel.md)**  
+-   **[Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-now-assist-panel.md)**  
 The Now Assist panel is the conversational interface where you can interact with the AI companion to perform setup, solution building, and question answering tasks.
 
-**Parent Topic:**[Exploring Now Assist Center](exploring-now-assist-center.md)
+**Parent Topic:**[Exploring Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-center.md)
 
 **Related topics**  
 
 
-[AI Agent Advisor in Now Assist Center](now-assist-center-ai-agent-advisor.md)
+[AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-ai-agent-advisor.md)
 
-[Supporting information for Now Assist Center](supporting-information-now-assist-center.md)
+[Supporting information for Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/supporting-information-now-assist-center.md)
 

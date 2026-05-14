@@ -31,5 +31,5 @@ Role required: sn\_oper\_res.admin
 **Related topics**  
 
 
-[Create Template configurations](create-template-configuration.md)
+[Create Template configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-template-configuration.md)
 

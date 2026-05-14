@@ -33,8 +33,8 @@ Role required: sn\_imt\_core.admin
     -   **Awaiting Response**: Employees have not responded yet.
     **Note:** The consent history record with the latest preference submitted date is the last response from the employee.
 
-    You can [send the notification](send-outreach-notif-privacy-common.md) again to employees who have not yet responded.
+    You can [send the notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/send-outreach-notif-privacy-common.md) again to employees who have not yet responded.
 
 
-**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](../concept/employee-readiness-core-privacy-consent.md)
+**Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/employee-readiness-core-privacy-consent.md)
 

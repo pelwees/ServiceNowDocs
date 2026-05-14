@@ -41,7 +41,7 @@ Get the Cloud Cost Management application from the [ServiceNow Store](https://st
 
 </td><td>
 
-[Install Cloud Cost Management](../task/install-ci.md)
+[Install Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/install-ci.md)
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Get the Cloud Cost Management Infra Stack application from the [ServiceNow Store
 
 </td><td>
 
-[Install Cloud Cost Management Infra Stack](../task/install-ccm-infra.md)
+[Install Cloud Cost Management Infra Stack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/install-ccm-infra.md)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Assign Cloud Cost Management roles to user groups and to individual users based 
 
 </td><td>
 
-[Cloud Cost Management roles](../reference/cloud-insights-roles.md)
+[Cloud Cost Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/cloud-insights-roles.md)
 
 </td></tr><tr><td>
 
@@ -89,9 +89,9 @@ Configure the MID Servers for enabling the Discovery application to communicate 
 
 </td><td>
 
--   [Configuring access to CI data on your AWS account](../reference/aws-midserver-config-cloudin.md)
--   [Configuring access to CI data on your Microsoft Azure account](../reference/azure-midserver-config-cloudin.md)
--   [Configuring access to CI data on your Google Cloud account](../reference/cloud-in-midserver-config-gcp.md)
+-   [Configuring access to CI data on your AWS account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/aws-midserver-config-cloudin.md)
+-   [Configuring access to CI data on your Microsoft Azure account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/azure-midserver-config-cloudin.md)
+-   [Configuring access to CI data on your Google Cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/cloud-in-midserver-config-gcp.md)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Discover the service accounts, the credentials for accessing the accounts, and t
 
 </td><td>
 
--   [Using the Cloud Discovery application](aws-discovery-cloudin.md)
+-   [Using the Cloud Discovery application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-discovery-cloudin.md)
 -   [Using the Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
 </td></tr><tr><td>
@@ -116,9 +116,9 @@ Provide the Cloud Cost Management application access to the billing and usage da
 
 </td><td>
 
--   [Set up access to AWS billing and usage data](aws-billing-usage-data.md)
--   [Set up access to Microsoft Azure billing and usage data](azure-billing-usage-data.md)
--   [Set up access to Google Cloud billing and usage data](google-cloud-billing-data.md)
+-   [Set up access to AWS billing and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-billing-usage-data.md)
+-   [Set up access to Microsoft Azure billing and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/azure-billing-usage-data.md)
+-   [Set up access to Google Cloud billing and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/google-cloud-billing-data.md)
 
 </td></tr><tr><td>
 
@@ -130,9 +130,9 @@ Enable Cloud Cost Management to download and store price sheet data of the used 
 
 </td><td>
 
--   [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](../task/aws-pricesht-sched-dwnld-cloudin.md)
--   [Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](../task/azure-pricesht-sched-dwnld-cloudin.md)
--   [Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](../task/gcp-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/aws-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/azure-pricesht-sched-dwnld-cloudin.md)
+-   [Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/gcp-pricesht-sched-dwnld-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -144,11 +144,11 @@ Configure the Cloud Cost Management features to rightsize, identify, assign, man
 
 </td><td>
 
--   [Reservation or Saving plans](ri-cloudin.md)
--   [Rightsizing resources](rs-cloudin.md)
--   [Unused resources](um-cloudin.md)
--   [Business hours](bh-cloudin.md)
--   [Unassigned resources](ur-cloudin.md#)
+-   [Reservation or Saving plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ri-cloudin.md)
+-   [Rightsizing resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-cloudin.md)
+-   [Unused resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/um-cloudin.md)
+-   [Business hours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bh-cloudin.md)
+-   [Unassigned resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ur-cloudin.md#)
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ Gain visibility into your total cloud consumption, reduce costs, and optimize op
 
 </td><td>
 
-[Using Cloud Cost Management](using-cloud-insights.md)
+[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
 </td></tr></tbody>
 </table>

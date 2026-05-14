@@ -103,5 +103,5 @@ If the number of custom events exceeds the limit specified in the com.snc.pa.dc.
 See [Breakdown and indicator Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-limit-setting-props.md) and [Data collector Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-dc-props.md) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Conversational Analytics dashboard reference](conversational-analytics-dashboard-reference-pae.md)
+</table>**Parent Topic:**[Conversational Analytics dashboard reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversational-analytics-dashboard-reference-pae.md)
 

@@ -19,8 +19,8 @@ Add supplier contacts so that they can access the Supplier Collaboration Portal 
 
 Before performing this task, ensure that you do the following:
 
--   Configure self-registration for external users. For more information, see [Configure self-registration for external users](config-reg-for-external-users-slm.md).
--   Configure the sn\_supplier.external\_registration\_profile\_id system property to ensure that registration emails are sent to external users. For more information, see [Configure system property to send registration emails to external users](sys-prop-reg-email.md).
+-   Configure self-registration for external users. For more information, see [Configure self-registration for external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
+-   Configure the sn\_supplier.external\_registration\_profile\_id system property to ensure that registration emails are sent to external users. For more information, see [Configure system property to send registration emails to external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sys-prop-reg-email.md).
 
 Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
@@ -52,23 +52,23 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
     -   **Contact**: Supplier contact role is assigned to the selected user.
     -   **Primary**: Primary contact role is assigned to the selected user.
-9.  Select **Send invites**.![Add Supplier contacts dialog box.](../image/add-supplier-contact.png)
+9.  Select **Send invites**.![Add Supplier contacts dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/add-supplier-contact.png)
 
     A confirmation message stating that an email containing the registration link is sent to the email address is displayed.
 
 
 ## What to do next
 
-[Register to the Supplier Collaboration Portal as an invited member](register-invited-member-supp-central.md).
+[Register to the Supplier Collaboration Portal as an invited member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/register-invited-member-supp-central.md).
 
-**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-smw.md)
 
 **Related topics**  
 
 
-[Remove a supplier contact from the Source-to-Pay Workspace](remove-supp-contact-ws.md)
+[Remove a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supp-contact-ws.md)
 
-[Elevate a contact to the primary contact role from the Source-to-Pay Workspace](elevate-contact-ws.md)
+[Elevate a contact to the primary contact role from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/elevate-contact-ws.md)
 
-[Restrict the primary contact role for a contact from the Source-to-Pay Workspace](restrict-contact-ws.md)
+[Restrict the primary contact role for a contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/restrict-contact-ws.md)
 

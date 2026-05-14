@@ -34,16 +34,16 @@ Only model categories that are not referenced by any models can be deleted.
 4.  Click **Delete**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ModelCategories.md)
 
 **Related topics**  
 
 
-[View model categories](t_ViewingModelCategories.md)
+[View model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewingModelCategories.md)
 
-[Create model categories](t_CreatingModelCategories.md)
+[Create model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingModelCategories.md)
 
-[Create assets manually](t_CreatingAssetsManually.md)
+[Create assets manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingAssetsManually.md)
 
-[Edit model categories](t_EditingModelCategories.md)
+[Edit model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_EditingModelCategories.md)
 

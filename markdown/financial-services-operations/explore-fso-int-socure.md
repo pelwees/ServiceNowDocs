@@ -17,7 +17,7 @@ Financial Services integration with Socure enables you to embed the Socure APIs 
 
 The following diagram provides a high-level overview where you can see the design of the Socure integration and the role that each layer plays in Financial Services Operations \(FSO\).
 
-![Diagrams of Know Your Customer, Socure integration for FSO, ServiceNow Integration Hub spoke, and Socure Native APIs. For the text description, refer to the Layers in the Socure integration section.](../image/fso_socure_integration_overview.png "Financial Services Operations Integration with Socure overview")
+![Diagrams of Know Your Customer, Socure integration for FSO, ServiceNow Integration Hub spoke, and Socure Native APIs. For the text description, refer to the Layers in the Socure integration section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso_socure_integration_overview.png "Financial Services Operations Integration with Socure overview")
 
 <table id="table_nwm_zkl_15b"><thead><tr><th>
 

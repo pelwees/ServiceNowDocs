@@ -48,7 +48,7 @@ The variable action logger displays the chronology of actions that happen on all
     -   Order in which scripts and actions are executed. When a new action is triggered from an existing action, the order of the new action is tracked at a sublevel under the order of the existing action. For example, the order of a new action triggered from step 1.2 is 1.2.1.
     -   Source of the action taken on a variable and the variable name.
     -   Details of the action taken on the variable.
-    ![Screenshot for the Variable Action Logger window](../image/VariableActionLogger.png "Variable Action Logger window")
+    ![Screenshot for the Variable Action Logger window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/VariableActionLogger.png "Variable Action Logger window")
 
 6.  Review the results of the variable action logger.
 
@@ -82,7 +82,7 @@ To expand variable logs within a group, click **Expand All**.
 
 </td><td>
 
-To filter variable logs, click the Filter icon \(![Filter icon](../image/Filter.png)\) and select the required options.
+To filter variable logs, click the Filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Filter.png)\) and select the required options.
 
 </td></tr><tr><td id="d266074e236">
 
@@ -90,7 +90,7 @@ To filter variable logs, click the Filter icon \(![Filter icon](../image/Filter.
 
 </td><td>
 
-To clear variable logs, click the Actions icon \(![Icon to clear variable logs](../image/Actions.png)\) and select **Clear Logs**.
+To clear variable logs, click the Actions icon \(![Icon to clear variable logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Actions.png)\) and select **Clear Logs**.
 
 </td></tr><tr><td id="d266074e255">
 
@@ -98,7 +98,7 @@ To clear variable logs, click the Actions icon \(![Icon to clear variable logs](
 
 </td><td>
 
-To export the variable logs to a .csv file, click the Actions icon \( ![Actions icon](../image/Actions.png)\) and select **Export to CSV**.
+To export the variable logs to a .csv file, click the Actions icon \( ![Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Actions.png)\) and select **Export to CSV**.
 
 </td></tr><tr><td id="d266074e273">
 
@@ -106,9 +106,9 @@ To export the variable logs to a .csv file, click the Actions icon \( ![Actions 
 
 </td><td>
 
-To print variable logs, click the Actions icon \(![Actions icon](../image/Actions.png)\) and select **Print Logs**.
+To print variable logs, click the Actions icon \(![Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Actions.png)\) and select **Print Logs**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/debugging-service-catalog.md)
 

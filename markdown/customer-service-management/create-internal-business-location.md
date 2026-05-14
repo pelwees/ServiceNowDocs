@@ -39,7 +39,7 @@ The manager of an internal business location can access all the cases for accoun
 
 2.  Select **New** on the Internal Business Locations list.
 
-3.  Fill in the fields on the [Internal Business Location](../reference/data-model-business-location-form.md) form.
+3.  Fill in the fields on the [Internal Business Location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/data-model-business-location-form.md) form.
 
 4.  Select **Submit**.
 
@@ -51,5 +51,5 @@ The manager of an internal business location can access all the cases for accoun
 **Related topics**  
 
 
-[Create an external business location](create-external-business-location.md)
+[Create an external business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-external-business-location.md)
 

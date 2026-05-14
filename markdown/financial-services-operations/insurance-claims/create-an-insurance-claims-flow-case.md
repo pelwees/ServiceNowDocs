@@ -101,5 +101,5 @@ A claim case is created in the New state and the workflow is triggered. The case
 
 ## What to do next
 
-Processors and adjusters assign cases to themselves and start working on them. For more information, see [Process an Insurance claims case](process-an-insurance-claims-flow-case.md) and [Work on Insurance claims adjuster tasks](manage-an-insurance-claims-flow-case.md).
+Processors and adjusters assign cases to themselves and start working on them. For more information, see [Process an Insurance claims case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/process-an-insurance-claims-flow-case.md) and [Work on Insurance claims adjuster tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/manage-an-insurance-claims-flow-case.md).
 

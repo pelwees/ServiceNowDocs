@@ -17,7 +17,7 @@ Legal Stock Preclearance application keeps you in compliance with your organizat
 
 Employees of your organization on designation as an access person, such as directors and executives, must obtain the preclearance approval from the legal department before they can trade in securities of the organization.
 
-![Legal Stock Preclearance workflow.](../image/workflow-stock-preclearance.png "Legal Stock Preclearance workflow")
+![Legal Stock Preclearance workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../image/workflow-stock-preclearance.png "Legal Stock Preclearance workflow")
 
-**Parent Topic:**[Legal Stock Preclearance](../reference/legal-stock-preclearance-landing-page.md)
+**Parent Topic:**[Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../reference/legal-stock-preclearance-landing-page.md)
 

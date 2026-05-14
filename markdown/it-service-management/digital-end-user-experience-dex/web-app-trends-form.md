@@ -25,5 +25,5 @@ The trends page captures metrics such as alert trends, average page load time, a
 |Failed web requests|Option to view the trend of total number of requests that have failed.|
 |Total usage|Option to view the total amount of time spent on the application by all users.|
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

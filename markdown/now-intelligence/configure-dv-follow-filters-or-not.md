@@ -27,10 +27,10 @@ Role required: You can edit any data visualization you own unless it is a shared
     -   If in a dashboard, select **Edit** on the dashboard, focus on the desired data visualization, and select **Configure** in the visualization header menu.
 3.  In the Data update section, select or deselect **Follow filters**.
 
-4.  To show or not show a filter icon \(![Filter icon](../../dashboards/image/InteractiveFilterFilteringIcon.png)\) on the data visualization when it follows an interactive filter, toggle **Show filter icon** \(on by default\).
+4.  To show or not show a filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/InteractiveFilterFilteringIcon.png)\) on the data visualization when it follows an interactive filter, toggle **Show filter icon** \(on by default\).
 
-    ![Element configuration- Data update section](../../dashboards/image/db-config-data-update-ac.png)
+    ![Element configuration- Data update section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/db-config-data-update-ac.png)
 
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/configure-data-visualizations.md)
 

@@ -17,7 +17,7 @@ Delete an experience, such as a portal or record producer form, that you no long
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -25,12 +25,12 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 
 2.  From the My Apps page, open your application.
 
-3.  Next to an experience, select the menu icon \(![Additional actions icon](../image/additional-actions-icon-purple.png)\) and then select **Delete**.
+3.  Next to an experience, select the menu icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/additional-actions-icon-purple.png)\) and then select **Delete**.
 
-    ![Select Delete to remove an experience from your app](../image/aes-delete-experience-purple.png "Delete an experience")
+    ![Select Delete to remove an experience from your app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-delete-experience-purple.png "Delete an experience")
 
 4.  On the dialog box that appears, enter `delete` and then select **Delete**.
 
 
-**Parent Topic:**[Editing an experience in App Engine Studio](../concept/edit-experience.md)
+**Parent Topic:**[Editing an experience in App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/edit-experience.md)
 

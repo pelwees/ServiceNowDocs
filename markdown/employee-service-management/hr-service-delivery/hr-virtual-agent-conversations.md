@@ -119,7 +119,7 @@ For information on configuring Virtual Agent notifications for certain channels 
 
 Get pre-built topics or create new topics from the recommended topics for HR Service Delivery Virtual Agent using the default configuration sn\_hr\_core\_case in the Topic Recommendations settings. For more information, see [Topic Recommendations settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/tr-settings-page.md).
 
-![Topic recommendation setting.](../image/topic-recom-setting.png)
+![Topic recommendation setting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/topic-recom-setting.png)
 
 For HR Cases, this default setting is shipped with Taxonomy preselected to HRSD and the Filtered by setting set to display the cases created after the last 90 days. For more information on Topic Recommendations, see [Using Virtual Agent Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-topic-recommendations.md).
 
@@ -133,7 +133,7 @@ In the Topic Recommendations page, under Get new recommendations, select **HR Ca
 -   To add a recommended topic to the Virtual Agent, you must be present in the HR Service Delivery Virtual Agent scope.
 -   To get Topic Recommendations, make sure there are a minimum of 10,000 records and a maximum of 300,000 records in the HR Cases table.
 
-**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](integrate-hr-platform-apps.md)
+**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
 ## Activate Virtual Agent for HR Service Delivery
 
@@ -162,7 +162,7 @@ If you want to activate Virtual Agent also with NLU, then activate the following
 
 **Note:** The HR Service Delivery NLU Models in the Dutch, Chinese and Brazilian Portuguese languages do not support entity extraction \(intent matching and entity recognition\).
 
-When an employee opens an HR case using Virtual Agent for HR Service Delivery, the **Source** field on the HR case is **Virtual Agent**. For more information, see [Work an HR case](../task/t_CreateAnHRCase.md).
+When an employee opens an HR case using Virtual Agent for HR Service Delivery, the **Source** field on the HR case is **Virtual Agent**. For more information, see [Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_CreateAnHRCase.md).
 
 ### Procedure
 
@@ -201,7 +201,7 @@ Before existing Virtual Agent topics can use NLU, you must republish them.
 
 **Note:** By default, the base system provides topics as inactive and unpublished.
 
-If your company uses a custom service portal and ticket page, see [Virtual Agent for HR Service Delivery](hr-virtual-agent-conversations.md#).
+If your company uses a custom service portal and ticket page, see [Virtual Agent for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-virtual-agent-conversations.md#).
 
 To view, duplicate, preview, or publish HR topics in the Virtual Agent Designer:
 

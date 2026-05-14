@@ -141,16 +141,16 @@ The configured connections, aliases, credentials, and import schedules can also 
 
 The following snapshot helps you confirm the configuration set up of Nokia Altiplano service graph connector.
 
-![Nokia Altiplano guided setup that has completed all the steps.](../images/Complete-guided-setup.png)
+![Nokia Altiplano guided setup that has completed all the steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/Complete-guided-setup.png)
 
 **Related topics**  
 
 
-[Set up multiple Nokia Altiplano instances](multi-instance-setup.md)
+[Set up multiple Nokia Altiplano instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/multi-instance-setup.md)
 
-[Configure concurrent import and parallel loading for Nokia Altiplano](configure-concurrent-import-and-parallel-loading.md)
+[Configure concurrent import and parallel loading for Nokia Altiplano](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configure-concurrent-import-and-parallel-loading.md)
 
-[Mapping Nokia Altiplano CIs and Relationships in CMDB](../concept/data-mapping.md)
+[Mapping Nokia Altiplano CIs and Relationships in CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/data-mapping.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../reference/properties-installed-with-nokia-altiplano.md)
 

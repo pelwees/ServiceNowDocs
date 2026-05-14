@@ -25,7 +25,7 @@ Assign the task to a group, identifying an owner, to execute the processes and p
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  Click **In Draft** state in the Planning list.
 
@@ -180,13 +180,13 @@ Brief note about the recovery task.
 
     -   **Sort**
 
-        You can sort the data at each column level. The first click in the column header sorts the data of the column in ascending order \(![Ascending icon](../image/AscendingIcon.png)\). The next click makes the sort descending \(![Descending icon](../image/DescendingIcon.png)\). Another click removes the sort.
+        You can sort the data at each column level. The first click in the column header sorts the data of the column in ascending order \(![Ascending icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AscendingIcon.png)\). The next click makes the sort descending \(![Descending icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DescendingIcon.png)\). Another click removes the sort.
 
     -   **Filter**
 
         Apply column filter to filter data that have simple text. For example, you can filter tasks with short descriptions that talk about safety. Use the simple number filter to filter time critical data. For example, you can apply the filter to the **Completion deadline** column to filter the tasks that have to be completed within an hour of a business disruption.
 
-        ![Group and filter tasks](../image/GroupFilter.png "Group and filter tasks")
+        ![Group and filter tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/GroupFilter.png "Group and filter tasks")
 
 9.  To remove the filter, click the **Clear** button.
 

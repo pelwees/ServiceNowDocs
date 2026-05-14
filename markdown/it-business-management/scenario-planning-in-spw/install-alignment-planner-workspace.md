@@ -49,5 +49,5 @@ The following components are installed with installation of the Strategic Planni
 -   Roles
 -   Tables
 
-See [Components installed with Strategic Planning Workspace](../reference/components-installed-with-alignment-planner-workspace.md) for more information.
+See [Components installed with Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/components-installed-with-alignment-planner-workspace.md) for more information.
 

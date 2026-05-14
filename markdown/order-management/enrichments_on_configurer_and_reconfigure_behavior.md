@@ -65,7 +65,7 @@ if (cfgRequest.partner.quote.lineId.value != null) {
 }
 ```
 
-For more information on partner fields, see [CPQ fields, system fields, and partner fields](system_fields_vs_partner_fields.md).
+For more information on partner fields, see [CPQ fields, system fields, and partner fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/system_fields_vs_partner_fields.md).
 
 ## isInitial: creating a text field
 

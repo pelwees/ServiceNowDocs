@@ -19,7 +19,7 @@ You can now discover multiple Terraform configurations from one repository, at a
 
 Role required: admin
 
-Perform the [Run the IaC Discovery](discover-terraform-config-installables-vcs-workspaces.md) steps and specify what repository, branches and folder paths have to be considered for discovering Terraform configurations with these steps.
+Perform the [Run the IaC Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-terraform-config-installables-vcs-workspaces.md) steps and specify what repository, branches and folder paths have to be considered for discovering Terraform configurations with these steps.
 
 ## Procedure
 

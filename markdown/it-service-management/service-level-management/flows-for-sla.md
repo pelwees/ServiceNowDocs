@@ -26,9 +26,9 @@ The **SLA Notification and Escalation flow** creates the events that send out no
 
 **Note:** This feature is available only in new instances starting with Orlando or a later release.
 
-For more information on SLA notifications, refer [SLA notifications](c_SLANotifications.md).
+For more information on SLA notifications, refer [SLA notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLANotifications.md).
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
 **Related topics**  
 

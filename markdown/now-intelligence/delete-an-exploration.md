@@ -23,23 +23,23 @@ Role required: now\_assist\_explorer\_user and ownership of the exploration. Use
 
 2.  Expand the All explorations list.
 
-    ![The Show explorations list button.](../image/nowass-expl-show-explorations.png)
+    ![The Show explorations list button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-show-explorations.png)
 
 3.  To delete an exploration, either
 
     -   Delete the exploration from the All explorations list.
 
-        ![Deletion option from the All explorations list.](../image/nowass-expl-del-list.png)
+        ![Deletion option from the All explorations list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-del-list.png)
 
     -   Open the exploration and delete it from the additional actions list in the toolbar.
 
-        ![Deletion option in the additional options menu.](../image/nowass-del-option.png)
+        ![Deletion option in the additional options menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-del-option.png)
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/use-now-assist-explorer.md)
 
 **Related topics**  
 
 
-[Duplicate, delete, copy to another exploration, or move an answer in an exploration](nowass-expl-dup-del-question-resp.md)
+[Duplicate, delete, copy to another exploration, or move an answer in an exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-expl-dup-del-question-resp.md)
 

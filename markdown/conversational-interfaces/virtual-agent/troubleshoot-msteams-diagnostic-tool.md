@@ -60,7 +60,7 @@ Resolving errors using the CI Diagnostic Tool includes the following steps:
     -   Dependant plugins are available
     -   OIDC token verification records are available
     -   Provider reference is missing in the \[sys\_cs\_provider\_application\] table
-    After successful health check scan, verifications such as recent installation errors, recent syslog errors, and recent HTTP transactions are presented to the user.![Microsoft Teams health check in Now Support using Diagnostic tool.](../images/msteams-health-check-diagnostic-tool.png)
+    After successful health check scan, verifications such as recent installation errors, recent syslog errors, and recent HTTP transactions are presented to the user.![Microsoft Teams health check in Now Support using Diagnostic tool.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/msteams-health-check-diagnostic-tool.png)
 
 4.  The health check report also provides you with an option to view existing Knowledge Base articles that may be associated with your issue. Enter **Yes** and provide a few words to describe your issue.
 
@@ -70,12 +70,12 @@ Resolving errors using the CI Diagnostic Tool includes the following steps:
 
 5.  The CI Diagnostic Tool provides you with an additional support topic available for the Microsoft Teams plugin. Select **Yes** to proceed.
 
-    You are presented with the following issue types to select from.![Virtual Agent chat window showing diagnostic support and issue type selection for the Microsoft Teams plugin.](../images/msteams-troubleshoot-type.png)
+    You are presented with the following issue types to select from.![Virtual Agent chat window showing diagnostic support and issue type selection for the Microsoft Teams plugin.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/msteams-troubleshoot-type.png)
 
     For example, if you select any one of the issue types, the CI Diagnostic Tool provides you with the resolution steps pertaining to that issue type to identify the cause of the issue and to resolve it. You will also be presented with the relevant Knowledge Base articles to get further details about the issue.
 
     Finally, the CI Diagnostic Tool asks you to check if your issue is resolved. Select **Yes** if the issue is resolved.
 
 
-**Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](va-teams-other-features.md)
+**Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)
 

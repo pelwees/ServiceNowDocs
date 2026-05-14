@@ -34,8 +34,8 @@ Role required: timecard\_ user
 
 Add time cards to the time sheet.
 
--   **[Search for a time sheet from time sheet lists](search-timesheet-mobile.md)**  
+-   **[Search for a time sheet from time sheet lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/search-timesheet-mobile.md)**  
 Search for a specific time sheet from the time sheet lists by applying filters.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/timesheet-mobile.md)
 

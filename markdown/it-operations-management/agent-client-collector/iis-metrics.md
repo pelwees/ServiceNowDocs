@@ -23,5 +23,5 @@ The following table lists the metrics that are gathered as output from IIS check
 |iis.\_Total.Web\_Service\(\_Total\).Get\_Requests/sec \(featured metric\)| |count per second|Rate of all HTTP GET requests received by the IIS server.|
 |iis.\_Total.Web\_Service\(\_Total\).Post\_Requests/sec \(featured metric\)| |count per second|Rate of all HTTP POST requests received by the IIS server.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

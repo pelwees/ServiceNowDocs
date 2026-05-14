@@ -53,7 +53,7 @@ Required service organization condition.To learn more about the Service Organiza
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for my promotions](related-list-for-my-promotions.md)
+**Parent Topic:**[Related list for my promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/related-list-for-my-promotions.md)
 
 **Related topics**  
 

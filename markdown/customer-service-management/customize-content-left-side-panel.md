@@ -27,7 +27,7 @@ Any changes made to the configuration will affect other record pages and page va
 
 2.  Select a ribbon setting for your table.
 
-    If a ribbon setting doesn’t exist for your table, you can create one. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](config-csm-config-ws-ribbon.md).
+    If a ribbon setting doesn’t exist for your table, you can create one. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-ribbon.md).
 
 3.  Select values for the **Ribbon component** and the **Ribbon Component Attributes**.
 

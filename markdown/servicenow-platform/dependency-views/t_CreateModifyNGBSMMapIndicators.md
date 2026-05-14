@@ -35,7 +35,7 @@ The Affected CI’s map indicator appears for CIs in two related but not identic
 
 **Note:** Details about affected CIs are derived from the **task** and the **cmdb\_ci** tables and their extensions. Therefore, if you use custom tables to store CIs for incidents, problems and changes, it affects the details that are displayed for affected CIs.
 
-For more information on how map indicators are used to show tasks and outages in clusters and collapsed nodes, see [Cluster nodes in a Dependency Views map](../concept/c_CollapsedNodesInNGBSM.md).
+For more information on how map indicators are used to show tasks and outages in clusters and collapsed nodes, see [Cluster nodes in a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../concept/c_CollapsedNodesInNGBSM.md).
 
 ## Procedure
 
@@ -83,7 +83,7 @@ Icon
 
 </td><td>
 
-File name and path of the icon image file, which can be a system image.-   To create a new icon, see [Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
+File name and path of the icon image file, which can be a system image.-   To create a new icon, see [Create or modify map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIcons.md)
 -   To create or use a system image see [Storing images in the database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_StoringImagesInTheDatabase.md).
 
 
@@ -183,22 +183,22 @@ Suffix portion of the tooltip \(Tooltip Label : Tooltip info\).
 
 For an indicator to appear in a Dependency Views map, a CI must meet all filter conditions, and **Active Dependencies** must be selected.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../topic/p_AdministerNGBSM.md)
 
 **Related topics**  
 
 
-[Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
+[Create or modify map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIcons.md)
 
-[Create a predefined filter](create-predefined-filter.md)
+[Create a predefined filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/create-predefined-filter.md)
 
-[Set a predefined filter as default](set-predefined-filter-default.md)
+[Set a predefined filter as default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/set-predefined-filter-default.md)
 
-[Create or modify Map Related Items](t_CreateModifyNGBSMMapRelatedItems.md)
+[Create or modify Map Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapRelatedItems.md)
 
-[Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
+[Create or modify Dependency Views menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../reference/condition-script-parameters.md)
 
-[Create or edit a dependency type](t_CreateMapScript.md)
+[Create or edit a dependency type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateMapScript.md)
 

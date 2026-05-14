@@ -27,7 +27,7 @@ Role required: wm\_ext\_agent
 
 3.  Open a work order task that is in progress.
 
-4.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon.
+4.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon.
 
 5.  Tap **Pause work**.
 

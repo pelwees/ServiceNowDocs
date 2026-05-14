@@ -45,21 +45,21 @@ Role required: sn\_apm.apm\_admin
     -   **label**: Enter the name of the source table that will be displayed in the **Mention a record** context menu when you enter **/** in the ADR docs component.
 4.  Select **Update**.
 
-    You can start tagging records from the new table in the ADR docs component. For more information, see [Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md).
+    You can start tagging records from the new table in the ADR docs component. For more information, see [Tag users or records in Architectural Decision Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-tag-users-or-records-in-adr.md).
 
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-adr.md)
 
 **Related topics**  
 
 
-[Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md)
+[Tag users or records in Architectural Decision Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-tag-users-or-records-in-adr.md)
 
-[Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-edit-adr.md)
 
-[Request approval for an architectural artifact version of type Architectural Decision Record](eaw-request-approval-adr.md)
+[Request approval for an architectural artifact version of type Architectural Decision Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-request-approval-adr.md)
 
-[Create and manage pages and subpages for architectural decision records](eaw-create-and-mng-page-subpage-for-adr.md)
+[Create and manage pages and subpages for architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-and-mng-page-subpage-for-adr.md)
 
-[Add an architectural decision record version](eaw-add-an-adr-version.md)
+[Add an architectural decision record version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-an-adr-version.md)
 

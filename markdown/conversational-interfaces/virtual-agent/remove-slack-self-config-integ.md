@@ -31,14 +31,14 @@ Roles required:
 
 3.  On the Channels and integration page, in the Slack tile, select **Manage**.
 
-4.  In the Manage Slack Channel page, find the Self-configured bot integration to remove from your ServiceNow instance, select the manage bot icon ![Manage bot icon.](../images/manage-bot-icon.png), and select **Remove integration**.
+4.  In the Manage Slack Channel page, find the Self-configured bot integration to remove from your ServiceNow instance, select the manage bot icon ![Manage bot icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-bot-icon.png), and select **Remove integration**.
 
-    ![Remove integration option with Self-configured bot.](../images/remove-self-bot-integration.png "Remove integration with Self-configured bot")
+    ![Remove integration option with Self-configured bot.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-self-bot-integration.png "Remove integration with Self-configured bot")
 
-5.  In the Remove integration confirmation message, select **Remove**.![Banner message confirming remove Self-configured bot integration with Slack.](../images/remove-slack-integ-success.png)
+5.  In the Remove integration confirmation message, select **Remove**.![Banner message confirming remove Self-configured bot integration with Slack.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-slack-integ-success.png)
 
     The Self-configured bot integration with Slack has been removed successfully.
 
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-single-slack.md)
 

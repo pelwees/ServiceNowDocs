@@ -154,10 +154,10 @@ More information about the authority document.
 
 Create a citation from the **Authority document** related list.
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../reference/r_PoliciesAndProcedures.md)
 
 **Related topics**  
 
 
-[Create or deactivate a citation](t_CreateCitations.md)
+[Create or deactivate a citation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_CreateCitations.md)
 

@@ -16,7 +16,7 @@ Use the **Calculated** metric data source to determine the health score of an en
 ## Before you begin
 
 -   Role required: sn\_acct\_lc.customer\_success\_application\_admin
--   Data source and data context engine mapping must be setup. See [Data Context Engine](../concept/account-lifecycle-setup-metric-data.md).
+-   Data source and data context engine mapping must be setup. See [Data Context Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-setup-metric-data.md).
 
 ## About this task
 
@@ -123,7 +123,7 @@ If multiple data records are returned for a data source, select how the aggregat
 
 ## What to do next
 
-Create visualization using the newly created data source. See [Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md) for details. When the next data collection occurs, the health score is calculated and published on the Engagement page.
+Create visualization using the newly created data source. See [Configure DCE Visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-configure-dce-visual.md) for details. When the next data collection occurs, the health score is calculated and published on the Engagement page.
 
-**Parent Topic:**[Manage engagements](../concept/account-lifecycle-manage-engagement.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-manage-engagement.md)
 

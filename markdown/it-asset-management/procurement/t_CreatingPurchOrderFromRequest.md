@@ -79,14 +79,14 @@ For more information about the Asset Management Integration for Sourcing and Pro
 -   A purchase order is created.
 -   On the request, the **Sourced** check box is selected
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../concept/c_SourcingRequestItems.md)
 
 **Related topics**  
 
 
-[Create a transfer order from a request](t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CreatingTransferOrderFromReq.md)
 
-[Source requests from local stockrooms](consume-local-asset-stock.md)
+[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/consume-local-asset-stock.md)
 
-[Add an assignment from a request](t_AddingAssignmentsFromReq.md)
+[Add an assignment from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_AddingAssignmentsFromReq.md)
 

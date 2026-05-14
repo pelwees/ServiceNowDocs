@@ -123,9 +123,9 @@ You update the ChangeRequestStateModel\_normal with the following configuration.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Update the state handler script include](t_UpdateStateHandlerScriptInclude.md)
+**Previous topic:**[Update the state handler script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_UpdateStateHandlerScriptInclude.md)
 
-**Next topic:**[Create a UI action](t_CreateNewUIAction.md)
+**Next topic:**[Create a UI action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateNewUIAction.md)
 

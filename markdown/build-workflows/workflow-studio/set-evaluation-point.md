@@ -41,13 +41,13 @@ To insert an evaluation point, make sure that:
 
 4.  From the mini-picker, select the variants icon \(![](../images/playbook-variants-icon.png)\) to add variant evaluation point.
 
-    ![Inserting a variant evaluation point.](../images/playbook-variant.png)
+    ![Inserting a variant evaluation point.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-variant.png)
 
 5.  To move the evaluation point to a different location:
 
     1.  Select the evaluation point.
 
-        ![Variant evaluation point.](../images/playbook-evaluation-point.png)
+        ![Variant evaluation point.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-evaluation-point.png)
 
     2.  On the Move the global variants evaluation point dialog box, select one of the following.
 
@@ -59,7 +59,7 @@ To insert an evaluation point, make sure that:
 
 ## What to do next
 
-Test the playbook to make sure that it's working as expected. See, [Test a playbook](test-process.md)
+Test the playbook to make sure that it's working as expected. See, [Test a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/test-process.md)
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/playbook-variants.md)
 

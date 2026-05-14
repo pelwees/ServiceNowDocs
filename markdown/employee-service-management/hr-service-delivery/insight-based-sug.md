@@ -41,8 +41,8 @@ Support your new Hire
 
 </td><td>
 
-Displays employees who are new hires. Support them better.-   To mark the suggestion as complete, select ![Complete](../image/com-mh.png).
--   To dismiss the suggestion, select ![Dismiss](../image/dismiss-mh.png).
+Displays employees who are new hires. Support them better.-   To mark the suggestion as complete, select ![Complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/com-mh.png).
+-   To dismiss the suggestion, select ![Dismiss](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dismiss-mh.png).
 -   To send an email to the new hires from your outlook, select **Email Employee**.
 
 
@@ -52,8 +52,8 @@ Encourage work-life balance
 
 </td><td>
 
-Displays employees who haven’t taken a time off. Encourage work-life balance for your employees.-   To mark the suggestion as complete, select ![Complete](../image/com-mh.png).
--   To dismiss the suggestion, select ![Dismiss](../image/dismiss-mh.png).
+Displays employees who haven’t taken a time off. Encourage work-life balance for your employees.-   To mark the suggestion as complete, select ![Complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/com-mh.png).
+-   To dismiss the suggestion, select ![Dismiss](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dismiss-mh.png).
 -   To send an email to the employees from your outlook, select **Send Reminder**.
 -   To open a KB article that has details on encouraging work-life balance, select **Learn why its important**.
 
@@ -64,8 +64,8 @@ Support your employees with learning
 
 </td><td>
 
-Displays employees who haven’t taken up their assigned learnings. Check if they need time to focus on.-   To mark the suggestion as complete, select ![Complete](../image/com-mh.png).
--   To dismiss the suggestion, select ![Dismiss](../image/dismiss-mh.png).
+Displays employees who haven’t taken up their assigned learnings. Check if they need time to focus on.-   To mark the suggestion as complete, select ![Complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/com-mh.png).
+-   To dismiss the suggestion, select ![Dismiss](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dismiss-mh.png).
 -   To send an email to the employees from your outlook, select **Ask if they need help**.
 
 
@@ -75,8 +75,8 @@ Help your employee grow their career
 
 </td><td>
 
-Displays employees who haven’t had a job change in a while. -   To mark the suggestion as complete, select ![Complete](../image/com-mh.png).
--   To dismiss the suggestion, select ![Dismiss](../image/dismiss-mh.png).
+Displays employees who haven’t had a job change in a while. -   To mark the suggestion as complete, select ![Complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/com-mh.png).
+-   To dismiss the suggestion, select ![Dismiss](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dismiss-mh.png).
 -   To learn about career conversations, select **Learn about career conversations**.
 
 

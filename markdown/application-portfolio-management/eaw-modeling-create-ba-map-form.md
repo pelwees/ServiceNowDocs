@@ -57,10 +57,10 @@ Business application
 Name of the business application. Select a business application to create the hierarchy map for it.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create diagram for a business hierarchy map](../../task/eaw-task/eaw-modeling-ba-map.md)
+[Create diagram for a business hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-ba-map.md)
 

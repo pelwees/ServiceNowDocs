@@ -103,7 +103,7 @@ Install the Google chat \(sn\_va\_google-chat\) application so that Now Virtual 
 
 ## What to do next
 
-[Integrate Virtual Agent with Google chat](integrating-va-google-chat.md)
+[Integrate Virtual Agent with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integrating-va-google-chat.md)
 
-**Parent Topic:**[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+**Parent Topic:**[Configuring your Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-va-google-chat.md)
 

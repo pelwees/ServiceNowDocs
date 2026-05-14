@@ -21,7 +21,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-You can configure the topic header widget display using the following steps. To edit the banner image, page header, or description, see [Create and associate topics](create-topics-for-taxonomy.md).
+You can configure the topic header widget display using the following steps. To edit the banner image, page header, or description, see [Create and associate topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-topics-for-taxonomy.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You can configure the topic header widget display using the following steps. To 
 
 3.  Press and hold the control key, right-click the topic widget, and then select **Instance Options**.
 
-    ![Topic widget instance options. The HR topic is shown as an example.](../images/hr_topic_ins_opt.png)
+    ![Topic widget instance options. The HR topic is shown as an example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/hr_topic_ins_opt.png)
 
 4.  Configure the instance options.
 
@@ -187,5 +187,5 @@ Specify a hex code for the icon background color. Enter a value in this field on
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Employee Center browse experience widgets](../concept/custom-widget-landing-ec.md)
+**Parent Topic:**[Employee Center browse experience widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/custom-widget-landing-ec.md)
 

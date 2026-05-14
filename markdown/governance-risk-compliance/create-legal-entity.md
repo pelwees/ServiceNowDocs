@@ -23,7 +23,7 @@ When you select the Legal entities record in Digital resilience third-party regi
 
 When you install Digital resilience third-party registers, the **Legal entities** tab gets added for the existing companies. You can launch the **Legal entities** tab and configure the details.
 
-![Tab.](../image/tpr-legal-entities-tab.png)![View.](../image/tpr-legal-entities-view.png)
+![Tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpr-legal-entities-tab.png)![View.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpr-legal-entities-view.png)
 
 ## Procedure
 
@@ -33,31 +33,31 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
     The Create New Company form is displayed.
 
-    ![Company form.](../image/leg-ent-create-new-company-form.png)
+    ![Company form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/leg-ent-create-new-company-form.png)
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Company form](../reference/create-new-legal-entity-form.md).
+    For more information, see [Create New Company form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-legal-entity-form.md).
 
 4.  Select **Save**.
 
     The company record is set up. Users can set up the legal entity for the company and the digital resilience information on the **Legal entity** tab.
 
-    ![Tab.](../image/leg-ent-tab.png)
+    ![Tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/leg-ent-tab.png)
 
 5.  To create a legal entity record and set up its digital resilience information for DORA regulation, navigate to the **Legal entity** tab and select **New**.
 
-    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](../reference/create-new-legal-entity.md).
+    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-legal-entity.md).
 
     The Create New Legal Entity form is displayed.
 
-    ![Form.](../image/leg-ent-create-new-form.png)
+    ![Form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/leg-ent-create-new-form.png)
 
 6.  Select **Save**.
 
     The Legal Entity record contains fields that provide the necessary information for regulatory reporting of the legal entity. This includes details like Legal Entity Identifier \(LEI\), name, country of registration, entity type \(as defined by the regulator\), and more. These fields are offered as choice lists within the system for users to select from.
 
-    ![Form.](../image/tpr-leg-ent-form.png)
+    ![Form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpr-leg-ent-form.png)
 
     The system acknowledges the entity hierarchy, with no additional details required for ultimate parents, while subsidiaries must specify their parent entity. The date of registration for each legal entity is also noted.
 
@@ -77,12 +77,12 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 ## What to do next
 
-Set up branches for a legal entity. For more information, see [Create a branch and enhance digital resilience data](create-drtp-reg-branch.md).
+Set up branches for a legal entity. For more information, see [Create a branch and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-branch.md).
 
--   **[Create New Company form](../reference/create-new-legal-entity-form.md)**  
+-   **[Create New Company form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-legal-entity-form.md)**  
 On the Create New Company form, fill in the fields for the legal entity.
--   **[Create New Legal entity form](../reference/create-new-legal-entity.md)**  
+-   **[Create New Legal entity form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-legal-entity.md)**  
 On the Create New Legal entity form, fill in the fields to set up the digital resilience information.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

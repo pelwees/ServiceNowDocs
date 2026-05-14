@@ -25,17 +25,17 @@ Role required: none
 
 3.  On the Metric Category form, fill in the fields.
 
-    For a description of the field values, see [Metric Category form](../reference/metric-category-form.md).
+    For a description of the field values, see [Metric Category form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/metric-category-form.md).
 
 
-**Parent Topic:**[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)
+**Parent Topic:**[Assessment metric categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetricCategories.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 
-[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)
+[Assessment metric categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetricCategories.md)
 
-[Assessable record associations](../reference/r_ManageAssessablRecordAssociation.md)
+[Assessable record associations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_ManageAssessablRecordAssociation.md)
 

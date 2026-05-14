@@ -35,7 +35,7 @@ The project tasks displayed in the planning page of the new project workspace sh
 
 3.  Add the necessary columns to the list.
 
-    1.  Select the Personalize list icon \(![Personalize list icon.](../image/personalize-list-icon-pw.png)\).
+    1.  Select the Personalize list icon \(![Personalize list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/personalize-list-icon-pw.png)\).
 
     2.  Move the required fields from Available to Selected.
 
@@ -46,5 +46,5 @@ The project tasks displayed in the planning page of the new project workspace sh
 
 The Project Workspace view of the pm\_project\_task table is updated according to your changes. The planning page of the new project workspace reflects these changes.
 
-**Parent Topic:**[Personalize the planning page view in Project Workspace](personalize-planning-console-in-project-workspace.md)
+**Parent Topic:**[Personalize the planning page view in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/personalize-planning-console-in-project-workspace.md)
 

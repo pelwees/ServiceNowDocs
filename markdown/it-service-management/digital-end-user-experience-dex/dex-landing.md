@@ -31,7 +31,7 @@ DEX Content Playbook typically includes web or installed application monitoring,
 
 For a unified monitoring workspace and relevant content \(policies, check definitions, and actions\), refer to Application and Device Health and DEX Content Playbook.
 
-The Digital Experience Score​ dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](../../dex-score/concept/dexscr-digital-experience-score.md).
+The Digital Experience Score​ dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../dex-score/concept/dexscr-digital-experience-score.md).
 
 Proactive Engagement can assist your organization to improve employee productivity and satisfaction by proactively detecting digital experience issues and enabling employees to self-solve on a day-to-day basis.
 
@@ -39,23 +39,23 @@ Proactive Engagement can assist your organization to improve employee productivi
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Leverage the system for monitoring and remediation objectives.](explore-dex-console2.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../../reuse/icons/brand-icons/bus-explore.svg)Leverage the system for monitoring and remediation objectives.](explore-dex-console2.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital End-User Experience.](config-dex-console.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital End-User Experience.](config-dex-console.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor and manage the digital workplace with Digital End-User Experience.](use-dex-console.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor and manage the digital workplace with Digital End-User Experience.](use-dex-console.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the DEX Workspace administration.](../reference/dex-console-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the DEX Workspace administration.](../reference/dex-console-reference.md)
 
 </td></tr><tr><td>
 
-[Use agentic AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the DEX agentic workflow to diagnose and resolve device issues.](dex-agentic-workflows.md)
+[Use agentic AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the DEX agentic workflow to diagnose and resolve device issues.](dex-agentic-workflows.md)
 
 </td><td>
 

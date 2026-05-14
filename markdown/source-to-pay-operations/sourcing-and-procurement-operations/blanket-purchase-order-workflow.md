@@ -17,7 +17,7 @@ During checkout, when a shopper selects **I am not sure** in the delivery date o
 
 Purchasing permissions define the list of users, groups, cost centers, or departments that are allowed to purchase against the blanket purchase order without requiring any approvals. As receipts and invoices are not applicable for blanket purchase orders, these related lists are not displayed on the purchase order form view.
 
-For details on the various fields and related lists that are populated for a blanket purchase order, see [Purchase order](purchase-order.md).
+For details on the various fields and related lists that are populated for a blanket purchase order, see [Purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-order.md).
 
 ## Standard purchases against a blanket purchase order
 
@@ -44,5 +44,5 @@ To check if a request should be considered as a release against an existing blan
 -   For goods, check the creation date of the purchase request against the start and end date of the corresponding line on the blanket purchase order.
 -   For services, check the start and end date of the request against the start and end date of the corresponding line on the blanket purchase order.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 

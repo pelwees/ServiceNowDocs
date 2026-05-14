@@ -52,7 +52,7 @@ Description
 
 </td><td>
 
-Click **New** and fill in the form.For details see, [Create a risk](../../grc-risk/task/t_CreateRisk.md).
+Click **New** and fill in the form.For details see, [Create a risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../grc-risk/task/t_CreateRisk.md).
 
 </td></tr><tr><td id="d315414e138">
 
@@ -81,5 +81,5 @@ Click **New** and fill in the form.For details see, [Create a risk](../../grc-ri
 
 The mitigating controls are added to the processing activity.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-privacy-mgmt.md)
 

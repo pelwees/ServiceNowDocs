@@ -28,11 +28,11 @@ Role required:
 
 2.  Select a project.
 
-    You can add an improvement opportunity while creating a project or editing an existing project. For information about adding an improvement opportunity when creating a project, see [Set improvement opportunities](../task/improve-opportunities.md).
+    You can add an improvement opportunity while creating a project or editing an existing project. For information about adding an improvement opportunity when creating a project, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/improve-opportunities.md).
 
 3.  Select ellipses, and then select **Edit project**.
 
-    ![Edit project](../image/edit-project.png)
+    ![Edit project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/edit-project.png)
 
 4.  Select the **Set improvement opportunities** tab.
 
@@ -44,8 +44,8 @@ Role required:
 
     For information on creating improvement opportunities, see the following topics:
 
-    -   [Set rule-based improvement opportunity](../task/rule-based-builder.md)
-    -   [Setting Automated improvement opportunities](automated-findings.md)
+    -   [Set rule-based improvement opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/rule-based-builder.md)
+    -   [Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/automated-findings.md)
 
-**Parent Topic:**[Setting improvement opportunity for projects](project-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunity for projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-imp-opp.md)
 

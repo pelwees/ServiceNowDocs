@@ -72,7 +72,7 @@ Conversion-related reports appear only when currency conversion is enabled. Aggr
 **Related topics**  
 
 
-[Convert and aggregate contractual expenses to regulator-required currencies](../task/tprm-create-report-aggregate-expenses.md)
+[Convert and aggregate contractual expenses to regulator-required currencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-create-report-aggregate-expenses.md)
 
-[Register of information regulatory packages](tprm-dora-roi.md)
+[Register of information regulatory packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-roi.md)
 

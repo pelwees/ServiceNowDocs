@@ -17,26 +17,26 @@ The Organization Management application provides an easy way to perform such ass
 
 It includes managing your vendors and manufacturers, as well as managing locations.
 
-**Parent Topic:**[Using Asset Management](../concept/using-asset-management.md)
+**Parent Topic:**[Using Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/using-asset-management.md)
 
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/concept/work-with-asset-ci.md)
 
-[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_AssetClasses.md)
 
-[Create fixed assets](../concept/c_CreatingFixedAssets.md#)
+[Create fixed assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_CreatingFixedAssets.md#)
 
-[Consumables life cycle](../concept/c_FollowLifeCycleConsumbl.md)
+[Consumables life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_FollowLifeCycleConsumbl.md)
 
-[Stockrooms](../concept/c_Stockrooms.md)
+[Stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_Stockrooms.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/concept/manage-preallocated-asset.md)
 
-[Manage transfer order](../concept/manage-transfer-orders.md)
+[Manage transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/manage-transfer-orders.md)
 
 ## Create a new vendor or manufacturer
 
@@ -68,5 +68,5 @@ The Locations module is the Asset view of the Location table \[cmn\_location\].
 
 In addition to the physical specifics for the location, the Asset view includes the **Stock room** designation and a list of configuration items \(CI\) in stock at that location.
 
-![Asset location](../image/AssetLocation.png "Asset location")
+![Asset location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../image/AssetLocation.png "Asset location")
 

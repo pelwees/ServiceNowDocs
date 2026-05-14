@@ -19,9 +19,9 @@ By using the preconfigured Performance Analytics dashboards, you can provide you
 
 The following example shows a Performance Analytics dashboard with profitability and support trends for the month.
 
-![Performance analytics dashboard that shows profitability and costs.](../image/performance-analytics.png "Customer Service Executive dashboard")
+![Performance analytics dashboard that shows profitability and costs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/performance-analytics.png "Customer Service Executive dashboard")
 
-To learn more about the Performance Analytics solutions, see [Customer Service Platform Analytics Solutions](../../../use/dashboards/application-content-packs/customer-service-content-pack.md).
+To learn more about the Performance Analytics solutions, see [Customer Service Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../use/dashboards/application-content-packs/customer-service-content-pack.md).
 
-To learn more about the different Performance Analytics plugins and what they provide, see [Additional plugins for Customer Service Management](../reference/r_CustServMgmtAddtlPluginsTable.md).
+To learn more about the different Performance Analytics plugins and what they provide, see [Additional plugins for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_CustServMgmtAddtlPluginsTable.md).
 

@@ -30,5 +30,5 @@ The cards show aggregate information for all monitors, whether they're active or
 
 By default, this list displays all monitors that have been created. You can select a card at the top of the page to filter to a list of monitors with that state. Select a monitor to view its details page.
 
-**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

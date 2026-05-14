@@ -45,5 +45,5 @@ The selected content type is added to the **Content Types** related list in the 
 |Question|Answer|
 |Blog, Document, Event, Video|Comment|
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

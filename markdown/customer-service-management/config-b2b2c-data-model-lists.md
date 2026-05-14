@@ -21,9 +21,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Customer Service** &gt; **Products** &gt; **Install Base Items**.
 
-2.  Select **View** &gt; **Self-Service** from the Additional Actions menu ![additional actions menu](../../../common/image/icon-menu.png).
+2.  Select **View** &gt; **Self-Service** from the Additional Actions menu ![additional actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/icon-menu.png).
 
-3.  Select the gear icon \(![Gear icon.](../../../common/image/gear.png)\).
+3.  Select the gear icon \(![Gear icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/gear.png)\).
 
 4.  Select the Account, Contact, and Consumer fields in the **Available** column and move them to the **Selected** column.
 

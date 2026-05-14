@@ -45,7 +45,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
         **Note:** Add only the root topics to the Quick Links for optimal performance. Access the subtopics through the parent topics.
 
-    ![Assign topics and related list](../images/assign-topics.png "Assign topics")
+    ![Assign topics and related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/assign-topics.png "Assign topics")
 
 6.  Click the **Navigation** tab to see the associated **Advanced portal navigation** and **Menu item**.
 
@@ -56,12 +56,12 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
 Ensure you relog in to make the new quick links visible.
 
-**Parent Topic:**[Create a quick link](create-quick-links.md)
+**Parent Topic:**[Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
 **Related topics**  
 
 
-[Modify the Quick links widget display](config-quick-links-widget.md)
+[Modify the Quick links widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-quick-links-widget.md)
 
-[Guided Self-Service in Employee Center](../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/gss-guided-self-service-overview.md)
 

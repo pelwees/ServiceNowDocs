@@ -16,7 +16,7 @@ Insert one or more knowledge blocks into a knowledge article within a knowledge 
 ## Before you begin
 
 -   You must have a 'contribute' access to the knowledge base.
--   Confirm that the knowledge blocks feature is enabled for the knowledge base that the article is in. For more information, see [Enable knowledge blocks in the Knowledge Center](kc-enable-knowledge-blocks.md)
+-   Confirm that the knowledge blocks feature is enabled for the knowledge base that the article is in. For more information, see [Enable knowledge blocks in the Knowledge Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/kc-enable-knowledge-blocks.md)
 
 Role required: knowledge
 
@@ -34,7 +34,7 @@ Role required: knowledge
 
 6.  Select **Blocks** icon from the contextual side panel.
 
-    ![Knowledge blocks in Knowledge Center](../image/knowledge-blocks.png)
+    ![Knowledge blocks in Knowledge Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/knowledge-blocks.png)
 
 7.  Preview the list of **Knowledge Blocks** associated with the knowledge article.
 

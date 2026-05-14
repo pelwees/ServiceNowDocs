@@ -96,5 +96,5 @@ none
 
 For more information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TableAdministration.md).
 
-**Parent Topic:**[Journey Accelerator reference](ja-reference.md)
+**Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 

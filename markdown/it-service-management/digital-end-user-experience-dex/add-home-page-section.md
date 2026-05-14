@@ -17,7 +17,7 @@ Add a section to the Desktop Assistant home page to organize related cards under
 
 ## Before you begin
 
-Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](install-app-device-health.md) and [Download and install Desktop Assistant](download-desktop-experience.md).
+Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Download and install Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/download-desktop-experience.md).
 
 Role required: sn\_dex\_desktop.admin
 
@@ -35,18 +35,18 @@ Role required: sn\_dex\_desktop.admin
 
 4.  In the Tab to Sections Mappings section, select **New**.
 
-    ![Page where you can map a specific section to a specific home page.](../image/desktop-exp-section-mapping.png)
+    ![Page where you can map a specific section to a specific home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/desktop-exp-section-mapping.png)
 
 5.  Select an existing section or create a section.
 
     -   Select an existing section.
-        1.  In the **Desktop Assistant Section** field, select the magnifying glass icon \(![The magnifying glass icon to search for existing sections.](../image/icon-magnifying-glass-blue.png)\).
+        1.  In the **Desktop Assistant Section** field, select the magnifying glass icon \(![The magnifying glass icon to search for existing sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-magnifying-glass-blue.png)\).
         2.  Select the section name and select **Submit**.
 
             The section is created on the Desktop Assistant home page.
 
     -   Create a section.
-        1.  In the **Desktop Assistant Section** field, select the magnifying glass icon \(![The magnifying glass icon to search for existing sections.](../image/icon-magnifying-glass-blue.png)\) and then select **New**.
+        1.  In the **Desktop Assistant Section** field, select the magnifying glass icon \(![The magnifying glass icon to search for existing sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-magnifying-glass-blue.png)\) and then select **New**.
         2.  In the **Name** field, enter the name of the section.
         3.  Select the **Show Title** check box to display the title on the home page.
         4.  Select **Submit**.

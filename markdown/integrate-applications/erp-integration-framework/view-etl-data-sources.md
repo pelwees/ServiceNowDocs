@@ -30,7 +30,7 @@ ERP extraction tables extract and save data to a transform table on the ServiceN
 
 2.  Open the ERP extraction tables page by selecting the extraction tables icon ![](../image/erpc-extraction-table-icon.png) in the side panel.
 
-    ![ERP extraction tables list.](../image/erpc-extraction-tables-ys2.png)
+    ![ERP extraction tables list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-extraction-tables-ys2.png)
 
 3.  View the list of ERP extraction tables.
 
@@ -58,7 +58,7 @@ Table transform map link
 
 Table that the extracted data is cached and stored in.Select the table name to view the table on the ServiceNow AI Platform in a new browser tab.
 
-For more information on creating table transform maps, see [Create a transform map](../../../script/server-scripting/task/t_CreateATransformMap.md).
+For more information on creating table transform maps, see [Create a transform map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../script/server-scripting/task/t_CreateATransformMap.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ ERP model
 
 </td><td>
 
-ERP model used in the ETL extraction.Select the ERP model name to view the details. For more information, see [View and edit the foundation of ERP models](view-and-work-with-erp-data-models.md).
+ERP model used in the ETL extraction.Select the ERP model name to view the details. For more information, see [View and edit the foundation of ERP models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/view-and-work-with-erp-data-models.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Date and time the extraction table record was last saved.
 
 ## What to do next
 
-After the extraction process is run, use import sets to map imported data into ServiceNow AI Platform tables. For more information, see [Import sets](../../../administer/import-sets/reference/import-sets-landing-page.md).
+After the extraction process is run, use import sets to map imported data into ServiceNow AI Platform tables. For more information, see [Import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../administer/import-sets/reference/import-sets-landing-page.md).
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-extraction-tables.md)
 

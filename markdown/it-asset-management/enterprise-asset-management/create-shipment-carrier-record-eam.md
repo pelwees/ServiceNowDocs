@@ -61,7 +61,7 @@ Integration profile
 
 Profile for integrating with the third-party carrier's application.
 
- For more details, see [View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace](view-shipping-carrier-integration-profiles-eam.md).
+ For more details, see [View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-shipping-carrier-integration-profiles-eam.md).
 
 </td></tr><tr><td>
 
@@ -111,5 +111,5 @@ Additional information about the carrier.
     The shipping carrier record is created and added to the Shipping carrier list.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-shipments-eam.md)
 

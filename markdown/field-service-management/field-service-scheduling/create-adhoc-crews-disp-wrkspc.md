@@ -38,7 +38,7 @@ The Create Crew option is available in the work order task form if the following
 
 3.  Search for and open a work order task for which you want to create a crew.
 
-    For more information, see [Search for tasks that need a crew on Dispatcher Workspace](search-crew-task.md).
+    For more information, see [Search for tasks that need a crew on Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/search-crew-task.md).
 
 4.  Select **Create Crew**.
 

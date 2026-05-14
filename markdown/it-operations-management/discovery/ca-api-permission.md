@@ -70,5 +70,5 @@ The patterns available with Certificate Inventory and Management Version 1.2.0 a
 -   Entrust
 -   Sectigo
 
-**Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)
+**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 

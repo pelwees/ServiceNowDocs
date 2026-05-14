@@ -25,7 +25,7 @@ Role required: admin
 
 3.  Create a UI parameter in the UI parameter related list.
 
-    1.  If the **UI parameters**, **Screen UI element mappings**, and **Source and UI element** related lists are not displayed, add them by clicking the Additional actions icon \(![Additional actions icon.](../image/context-menu-icon.png)\), selecting **Configure** &gt; **Related Lists**, and then selecting the required related lists.
+    1.  If the **UI parameters**, **Screen UI element mappings**, and **Source and UI element** related lists are not displayed, add them by clicking the Additional actions icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/context-menu-icon.png)\), selecting **Configure** &gt; **Related Lists**, and then selecting the required related lists.
 
     2.  Click the **UI parameters** tab.
 
@@ -95,5 +95,5 @@ Role required: admin
 
 The screen name dynamically inherits the value from a defined field in an existing record. In the graphic, the screen name comes from the number field.
 
-![Dynamic screen name displayed from field in an existing record.](../image/dynamic-name-form-screen.png)
+![Dynamic screen name displayed from field in an existing record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/dynamic-name-form-screen.png)
 

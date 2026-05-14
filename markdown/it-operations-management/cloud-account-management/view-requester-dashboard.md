@@ -20,5 +20,5 @@ You can access the home page in either of two ways.
 -   Navigate to **All** &gt; **Cloud Workspace**
 -   Navigate to **Workspaces** &gt; **Cloud Workspace**
 
-![Cloud Account Management requester home page view](../image/cam-dashboard.gif "Requester home page")
+![Cloud Account Management requester home page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cam-dashboard.gif "Requester home page")
 

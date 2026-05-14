@@ -21,7 +21,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-The block works with content types in the **Default detail page** field. For more information, see [Configure a content type](t_CreateAContentType.md).
+The block works with content types in the **Default detail page** field. For more information, see [Configure a content type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentType.md).
 
 If you plan to use a script to find a document, configure the form to add the **Script** field if it is not displayed.
 
@@ -63,7 +63,7 @@ Frame
 
 </td><td>
 
-Select a border styling for the detailed content block. For more information, see [Format a frame](t_Frame.md).
+Select a border styling for the detailed content block. For more information, see [Format a frame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_Frame.md).
 
 </td></tr><tr><td>
 
@@ -112,28 +112,28 @@ Enter a script to find an appropriate document if the **Type** is set to **Use a
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a header block](t_HeaderBlock.md)
+[Configure a header block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_HeaderBlock.md)
 
-[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
+[Create a navigation menu block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateNavigationMenuBlock.md)
 
-[Configure dynamic blocks](t_CreateADynamicBlock.md)
+[Configure dynamic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md)
 
-[Customize the list block](t_DefineTheListBlock.md)
+[Customize the list block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheListBlock.md)
 
-[Configure a static HTML block](t_StaticHTMLBlock.md)
+[Configure a static HTML block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md)
 
-[Configure Flash movie blocks](t_FlashMovieBlock.md)
+[Configure Flash movie blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_FlashMovieBlock.md)
 
-[Configure content links](t_ConfigureContentLinks.md)
+[Configure content links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_ConfigureContentLinks.md)
 
-[Configure iFrames](t_IFrame.md)
+[Configure iFrames](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_IFrame.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 
-[Configure a content block](t_CreateAContentBlock.md)
+[Configure a content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 

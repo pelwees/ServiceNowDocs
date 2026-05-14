@@ -23,15 +23,15 @@ Role required: portfolio\_admin or service\_editor
 
 1.  Define the service offerings and commitments.
 
-    Create service offering records that define different levels of service for an existing service. For example, you might offer two levels of desktop support in your organization. You offer a standard offering for upgrades and virus protection and an executive offering that also includes availability guarantee. Create a complete set of [service offerings](../concept/SPM2-service-offerings.md) with [service commitments](define-SPM2-service-commitments.md) that define the specifics of the offering.
+    Create service offering records that define different levels of service for an existing service. For example, you might offer two levels of desktop support in your organization. You offer a standard offering for upgrades and virus protection and an executive offering that also includes availability guarantee. Create a complete set of [service offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-service-offerings.md) with [service commitments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/define-SPM2-service-commitments.md) that define the specifics of the offering.
 
 2.  Define the scope of the service offerings.
 
-    Scope in Service Portfolio Management refers to the detailed service parameters that define the limits of a service. Define specific additional services related to the service as **In Scope** or **Out of Scope**. For instructions to apply scope definitions to services, refer to [Apply scope to a service in Service Portfolio Management](SPM2-apply-scope-to-service.md).
+    Scope in Service Portfolio Management refers to the detailed service parameters that define the limits of a service. Define specific additional services related to the service as **In Scope** or **Out of Scope**. For instructions to apply scope definitions to services, refer to [Apply scope to a service in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-apply-scope-to-service.md).
 
 3.  Configure the price of the service offering.
 
-    Each service offering may have a pricing model and a price unit. Values are set on the parent service and inherited by the offerings. The actual price per unit that is charged for the service is established in the offering. For information about price modeling, refer to [Service Portfolio Management service offering price](../concept/SPM2-set-service-offer-price.md).
+    Each service offering may have a pricing model and a price unit. Values are set on the parent service and inherited by the offerings. The actual price per unit that is charged for the service is established in the offering. For information about price modeling, refer to [Service Portfolio Management service offering price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-set-service-offer-price.md).
 
 4.  Configure the service catalog for the end user.
 
@@ -39,12 +39,12 @@ Role required: portfolio\_admin or service\_editor
 
 5.  Subscribe to service offerings.
 
-    With Service Portfolio Management, service owners can subscribe various business entities to [Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md).
+    With Service Portfolio Management, service owners can subscribe various business entities to [Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-service-offerings.md).
 
 6.  Opt in to the updated availability calculator system property \[com.snc.availability.v2\].
 
-    This updated availability system property \[com.snc.availability.v2\] offers improved calculations and maintenance. For more information, see [.](../concept/SPM2-view-availability-results.md).
+    This updated availability system property \[com.snc.availability.v2\] offers improved calculations and maintenance. For more information, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-view-availability-results.md).
 
 
-**Parent Topic:**[Configuring Service Portfolio Management](../concept/SPM2-configuring.md)
+**Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-configuring.md)
 

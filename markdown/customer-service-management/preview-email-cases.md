@@ -39,7 +39,7 @@ For information about adding or modifying actions on a form, see the following t
 
     The email opens in a sub tab and displays the details.
 
-    ![Details tab displaying email information of a case record.](../image/email-tab.png)
+    ![Details tab displaying email information of a case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/email-tab.png)
 
 5.  Select **Reply** or **Reply All** to reply to the message you’re viewing or select **Forward** to forward the email.
 

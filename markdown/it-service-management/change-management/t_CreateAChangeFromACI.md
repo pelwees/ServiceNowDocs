@@ -48,7 +48,7 @@ Select this option to associate the CIs with an existing change request.
 Select this option to associate the CIs with a new change request.
 
 </td></tr></tbody>
-</table>    ![List action options that you can choose from.](../image/Create-Change-from-CIs.png)
+</table>    ![List action options that you can choose from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/Create-Change-from-CIs.png)
 
     **Note:** CIs with a **Business Service** CI class are added to the **Impacted Services/CIs** related list on the change request. The remaining CIs are added to the **Affected CIs** related list.
 
@@ -57,16 +57,16 @@ Select this option to associate the CIs with a new change request.
 4.  Continue to create or modify the change record as required.
 
 
-**Parent Topic:**[Create a change request](t_CreateAChange.md)
+**Parent Topic:**[Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
 **Related topics**  
 
 
-[Create a standard change request from the catalog](t_RaiseNewStdCngeFmTempl.md)
+[Create a standard change request from the catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RaiseNewStdCngeFmTempl.md)
 
-[Copy a change request](copy-a-change-request.md)
+[Copy a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)
 
-[Create a change task](create-a-change-task.md)
+[Create a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-task.md)
 
-[Unauthorized change request](../concept/unauthorized-change-request.md)
+[Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/unauthorized-change-request.md)
 

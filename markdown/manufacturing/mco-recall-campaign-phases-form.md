@@ -106,12 +106,12 @@ Description
 Brief description about the recall campaign phase.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Create a campaign phase](../concept/mco-rc-all-campaign-phases.md)
+[Create a campaign phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-rc-all-campaign-phases.md)
 
-[Create My campaign phases](../concept/mco-rc-my-campaign-phases.md)
+[Create My campaign phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-rc-my-campaign-phases.md)
 

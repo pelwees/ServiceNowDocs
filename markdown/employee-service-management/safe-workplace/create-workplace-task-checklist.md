@@ -61,7 +61,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>2.  In the **Checklist** section, select the down arrow \(![Checklist icon](../../human-resources/reference/images/checklist-icon.png)\) beside the **Checklist** formatter.
+</table>2.  In the **Checklist** section, select the down arrow \(![Checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../human-resources/reference/images/checklist-icon.png)\) beside the **Checklist** formatter.
 
 3.  Add a checklist.
 
@@ -69,15 +69,15 @@ Steps
     -   If you are using an existing checklist template, select **Create from template** and select a template.
 4.  Add a checklist item.
 
-    1.  Select the Add item icon \(![Add item icon](../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) and enter text for the checklist item.
+    1.  Select the Add item icon \(![Add item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) and enter text for the checklist item.
 
     2.  Press Enter to add the checklist item.
 
     Add as many additional checklist items as desired.
 
-5.  Delete unwanted checklist items by selecting the delete item icon \(![delete item icon](../../../reuse/workplace-safety-mgmt/images/delete-checklist-icon.png)\).
+5.  Delete unwanted checklist items by selecting the delete item icon \(![delete item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../reuse/workplace-safety-mgmt/images/delete-checklist-icon.png)\).
 
-6.  Change the order of checklist items by selecting the drag icon \(![drag icon](../../../reuse/workplace-safety-mgmt/images/drag-checklist-icon.png)\) and dragging the item to a different position in the list.
+6.  Change the order of checklist items by selecting the drag icon \(![drag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../reuse/workplace-safety-mgmt/images/drag-checklist-icon.png)\) and dragging the item to a different position in the list.
 
 7.  Select **Update**.
 
@@ -89,10 +89,10 @@ Steps
 
 ## What to do next
 
-You can [save the checklist as a template](../../workplace-service-delivery/task/save-workplace-task-checklist-template-wsd.md) for easy reuse, if required.
+You can [save the checklist as a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/task/save-workplace-task-checklist-template-wsd.md) for easy reuse, if required.
 
--   **[Save a workplace task checklist as a template](save-workplace-task-checklist-template.md)**  
+-   **[Save a workplace task checklist as a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/save-workplace-task-checklist-template.md)**  
 You can save a Workplace Core workplace task checklist as a template for easy reuse. A template saves time by adding checklist items automatically in a record where you use it.
 
-**Parent Topic:**[Managing workplace tasks](workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-maintenance-tasks.md)
 

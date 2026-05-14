@@ -43,7 +43,7 @@ Pattern \(or probe if indicated\)
 
 </th></tr></thead><tbody><tr id="glassfish-supported-app"><td>
 
-[Oracle GlassFish Server](mapping-services-glassfish.md#)
+[Oracle GlassFish Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/mapping-services-glassfish.md#)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Horizontal and top-down
 GlassFish WAR
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+</table>**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_DefineNewBusinessService.md)
 
 ## Map application services containing Oracle GlassFish Servers
 
@@ -220,7 +220,7 @@ Free text comment to provide information on the endpoint.This field appears when
 
     2.  Review the application service map and make sure that the service layout is as in the following example.
 
-        ![Application service including a GlassFish server.](../image/GlassFish-components.png)
+        ![Application service including a GlassFish server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/GlassFish-components.png)
 
     In addition, verify that the GlassFish Server CIs are inclusions, each of which contains a WAR file.
 

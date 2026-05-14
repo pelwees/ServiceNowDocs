@@ -27,12 +27,12 @@ Roles required: admin and security\_admin.
 
 3.  From the **Actions on select rows** list, select **Delete**.
 
-    ![Ignored users and reports list with ignored user and Delete action selected](../image/rep-acl-reassess-ignored-users.png)
+    ![Ignored users and reports list with ignored user and Delete action selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/rep-acl-reassess-ignored-users.png)
 
 
 ## Result
 
 The ACL Assessment for Reports application includes the users you deleted from this report the next time you run the assessment.
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-acl-dashboard.md)
 

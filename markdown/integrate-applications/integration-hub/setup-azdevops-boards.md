@@ -41,17 +41,17 @@ Role required: admin
 
 2.  Navigate to **User Settings** &gt; **Personal access tokens**.
 
-    ![Generate personal access token.](../image/pat-devops.png)
+    ![Generate personal access token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pat-devops.png)
 
 3.  Click **New Token**.
 
 4.  On the form, fill the required fields.
 
-    ![Create personal access token.](../image/create-pat-devops.png)
+    ![Create personal access token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/create-pat-devops.png)
 
 5.  Click **Create**.
 
-    ![Copy the personal access token.](../image/pat-display-devops.png)
+    ![Copy the personal access token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pat-display-devops.png)
 
     The token is displayed.
 
@@ -197,12 +197,12 @@ Number of milliseconds the system waits for a successful host connection. If a s
 
     -   To configure the default connection and credential alias record that is shipped along with the Azure DevOps Boards spoke, click **View Details**.
 
-        ![Connection for Azure DevOps Board spoke](../image/conn-config-template-azdevops2.png)
+        ![Connection for Azure DevOps Board spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conn-config-template-azdevops2.png)
 
-    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![First-time connection configuration](../image/conn-config-template-azdevops1.png)
+    ![First-time connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conn-config-template-azdevops1.png)
 
 16. On the **Configure Connection** form, fill in the fields:
 
@@ -213,7 +213,7 @@ Number of milliseconds the system waits for a successful host connection. If a s
     |User name|User name to log in to your Azure DevOps instance.|
     |Password|Personal access token to authenticate Azure DevOps.|
 
-    ![Configure a connection for Azure DevOps Boards spoke.](../image/azdevops-conn-template.png)
+    ![Configure a connection for Azure DevOps Boards spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/azdevops-conn-template.png)
 
 17. Click **Configure Connection**.
 

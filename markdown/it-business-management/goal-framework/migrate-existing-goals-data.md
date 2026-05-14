@@ -40,7 +40,7 @@ Use the scheduled job to migrate legacy goals and strategy data to the Goal Fram
 
     2.  Set the value to **true** for the required parameters in the **Run this script** field.
 
-        For parameters information, see [Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables](../reference/scheduled-script-execution-form-gf-1.md#scheduled-job-to-migrate-goals-data).
+        For parameters information, see [Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/scheduled-script-execution-form-gf-1.md#scheduled-job-to-migrate-goals-data).
 
 4.  Click **Execute Now**.
 

@@ -115,5 +115,5 @@ License key of the software.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a SAM Foundation entitlement](t_AddASoftwareEntitlementSAMF.md)
+**Parent Topic:**[Create a SAM Foundation entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareEntitlementSAMF.md)
 

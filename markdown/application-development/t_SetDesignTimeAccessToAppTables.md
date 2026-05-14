@@ -53,12 +53,12 @@ displays applications downloaded on this instance.
 6.  Click **Update**.
 
 
-**Parent Topic:**[Design-time access to application tables](../concept/c_DesignTimeAccessToAppTables.md)
+**Parent Topic:**[Design-time access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_DesignTimeAccessToAppTables.md)
 
 **Related topics**  
 
 
-[Example denying all design access to a table](../concept/c_ExampleDenyingAllDesignAccess.md)
+[Example denying all design access to a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_ExampleDenyingAllDesignAccess.md)
 
-[Example allowing configuration records for a table](../concept/c_ExampleGrantingAccessToConfigRecs.md)
+[Example allowing configuration records for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_ExampleGrantingAccessToConfigRecs.md)
 

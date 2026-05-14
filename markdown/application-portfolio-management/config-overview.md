@@ -79,7 +79,7 @@ Saved Visualization
 
 </td><td>
 
-Name of the configuration. Select the lookup icon \(![Lookup icon](../image/icon-lookup.png)\) to select a configuration from the PAR Visualizations list.**Note:** You can create and save a visualization configuration using the Platform Analytics Workspace. For instructions, see [Create a single score visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md).
+Name of the configuration. Select the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/icon-lookup.png)\) to select a configuration from the PAR Visualizations list.**Note:** You can create and save a visualization configuration using the Platform Analytics Workspace. For instructions, see [Create a single score visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Manage Access
 
 </td><td class="icon">
 
-Option to provide access to the selected users and user groups. Add users or groups by selecting the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\) for **Users** or **Groups**.
+Option to provide access to the selected users and user groups. Add users or groups by selecting the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../common/image/icon-lock.png)\) for **Users** or **Groups**.
 
 </td></tr></tbody>
 </table>    Sample Configuration script to add a card \(Business applications at the same capability hierarchy level\) in the Business Portfolio tab of the Insights section:
@@ -175,5 +175,5 @@ Option to provide access to the selected users and user groups. Add users or gro
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/eaw-concept/configure-eaw.md)
 

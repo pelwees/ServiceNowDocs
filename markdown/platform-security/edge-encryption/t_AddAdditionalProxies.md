@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Add additional proxy servers on additional machines to ensure an optimal environment. See [Sizing your Edge Encryption environment](../concept/edge-environment-size.md) to determine the number of additional proxies needed.
+Add additional proxy servers on additional machines to ensure an optimal environment. See [Sizing your Edge Encryption environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/edge-environment-size.md) to determine the number of additional proxies needed.
 
 **Note:** Make sure that all proxies have the same encryption keys and the same RSA key pair used to digitally sign encryption configuration and encryption rules. If a proxy database was set up as part of the installation, all proxies must use the same proxy database.
 
@@ -29,7 +29,7 @@ Add additional proxy servers on additional machines to ensure an optimal environ
 
 1.  Install the proxy using the appropriate command.
 
-    For more information, see [Install the Edge Encryption proxy server \(interactive installer\)](install-proxy.md).
+    For more information, see [Install the Edge Encryption proxy server \(interactive installer\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/install-proxy.md).
 
 2.  Copy all the encryption keys and the `edgeencryption.properties` file from the first proxy to the new proxy.
 
@@ -60,12 +60,12 @@ Add additional proxy servers on additional machines to ensure an optimal environ
 
 7.  Launch the proxy using the appropriate command.
 
-    For more information, see [Start the Edge Encryption proxy](t_RuntheProxy.md).
+    For more information, see [Start the Edge Encryption proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RuntheProxy.md).
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-**Previous topic:**[Obfuscate passwords in the properties file](t_SetUpPasswordEncryption.md)
+**Previous topic:**[Obfuscate passwords in the properties file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpPasswordEncryption.md)
 
-**Next topic:**[Authenticate an Edge Encryption proxy server](authenticate-edge-proxy.md)
+**Next topic:**[Authenticate an Edge Encryption proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/authenticate-edge-proxy.md)
 

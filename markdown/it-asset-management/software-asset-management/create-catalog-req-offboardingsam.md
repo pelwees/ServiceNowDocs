@@ -42,11 +42,11 @@ Role required: sam\_admin or sam\_user
 
 5.  Select **Submit**.
 
-    The asset reclamation request is created. Once the request is created, the sam\_user needs to close all the tasks mentioned in the request. For more details, see [Close an asset reclamation request](close-an-asset-reclamation-request.md).
+    The asset reclamation request is created. Once the request is created, the sam\_user needs to close all the tasks mentioned in the request. For more details, see [Close an asset reclamation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/close-an-asset-reclamation-request.md).
 
 
--   **[Close an asset reclamation request](close-an-asset-reclamation-request.md)**  
+-   **[Close an asset reclamation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/close-an-asset-reclamation-request.md)**  
 Close an asset reclamation request to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

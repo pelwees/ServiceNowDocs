@@ -15,7 +15,7 @@ breadcrumb: [Using decision tables, Decision tables, Workflow Studio, Build work
 
 Evolve with your business logic by modifying the inputs or columns of your decision table in Workflow Studio.
 
-**Parent Topic:**[Using decision tables](using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 
 ## Modify an input for a decision table
 
@@ -135,7 +135,7 @@ Role required: admin
 
 4.  Select an input or result that you want to modify.
 
-5.  Point to the result column header, and select the Edit column properties icon \(![Edit column properties icon](../image/Pencil.png)\).
+5.  Point to the result column header, and select the Edit column properties icon \(![Edit column properties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/Pencil.png)\).
 
 6.  Select **Modify reference filter**.
 
@@ -162,7 +162,7 @@ Role required: admin, decision\_table\_admin, or delegated developer permissions
 
 3.  Select a decision table.
 
-4.  At the end of the input row, select the Input menu options icon \(![Input menu options icon.](../image/ellipses.png)\), and select **Delete**.
+4.  At the end of the input row, select the Input menu options icon \(![Input menu options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/ellipses.png)\), and select **Delete**.
 
 5.  Select **Save**.
 
@@ -183,7 +183,7 @@ Role required: admin, decision\_table\_admin, or delegated developer permissions
 
 3.  Select a decision table.
 
-4.  Point to the condition column header and select the Edit column properties icon \(![Edit icon.](../image/Pencil.png)\).
+4.  Point to the condition column header and select the Edit column properties icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/Pencil.png)\).
 
 5.  Make your changes and select **Done**.
 
@@ -208,7 +208,7 @@ Role required: admin, decision\_table\_admin, delegated developer permissions. F
 
 3.  Select a decision table.
 
-4.  Point to the results column header and select the Edit column properties icon \(![Edit icon.](../image/Pencil.png)\).
+4.  Point to the results column header and select the Edit column properties icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/Pencil.png)\).
 
 5.  Replace the existing result table with a new source table.
 

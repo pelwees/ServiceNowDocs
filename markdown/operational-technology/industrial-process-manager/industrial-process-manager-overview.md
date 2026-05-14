@@ -21,19 +21,19 @@ Watch an overview about the Industrial Process Manager application.Overview vide
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how manufacturers use the Industrial Process Manager](exploring-manufacturing-process-mgr.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how manufacturers use the Industrial Process Manager](exploring-manufacturing-process-mgr.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-manufacturing-process-mgr.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-manufacturing-process-mgr.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Review Operational Technology devices and equipment model entities](using-manufacturing-process-manager.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../reuse/icons/brand-icons/bus-management-console.svg)Review Operational Technology devices and equipment model entities](using-manufacturing-process-manager.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/manufacturing-process-mgr-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/manufacturing-process-mgr-reference.md)
 
 </td></tr></tbody>
 </table>

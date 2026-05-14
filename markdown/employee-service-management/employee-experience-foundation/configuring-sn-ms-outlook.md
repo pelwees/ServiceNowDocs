@@ -21,5 +21,5 @@ The following table lists the tasks required to configure ServiceNow for Microso
 
 |Task|Description|
 |----|-----------|
-|[Configure system properties to update the survey question limit](../task/configure-survey-question-limit.md)|Update the question limit for a survey displayed in Microsoft Outlook.|
+|[Configure system properties to update the survey question limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/configure-survey-question-limit.md)|Update the question limit for a survey displayed in Microsoft Outlook.|
 

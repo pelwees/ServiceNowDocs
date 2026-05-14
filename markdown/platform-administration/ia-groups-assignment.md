@@ -24,5 +24,5 @@ Organize users and assign roles using groups.
 
 Select **Add a group** if you want to add a group to configure. You can also export the list of groups into an excel sheet or an available file type by selecting **Export**.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

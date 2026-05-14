@@ -23,20 +23,20 @@ Role required: sn\_shop.procurement\_specialist or admin
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Pipeline projects**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Pipeline projects**.
 3.  Select **New**.
 
-    The Create New Pipeline Project form is displayed. For a description of the field values, see [Create New Pipeline Project form](../reference/create-pipeline-project-form.md).
+    The Create New Pipeline Project form is displayed. For a description of the field values, see [Create New Pipeline Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/create-pipeline-project-form.md).
 
 4.  Select **Save**.
 
     The pipeline project is created in the Planned state.
 
-    For more information about the tabs and UI actions available in the pipeline project record, see [Pipeline project record tabs and UI actions](../reference/pipeline-form-tabs-actions.md).
+    For more information about the tabs and UI actions available in the pipeline project record, see [Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/pipeline-form-tabs-actions.md).
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-pipeline-sourcing-mgmt.md)
 

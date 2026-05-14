@@ -27,10 +27,10 @@ Role required: admin
 
 2.  In Theme Variants, choose **Dark mode**.
 
-    For more information about theme variants, see [Create a theme variant](create-theme-variant.md).
+    For more information about theme variants, see [Create a theme variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-theme-variant.md).
 
 3.  Refresh the portal.
 
 
-**Parent Topic:**[Create a portal theme](c_CustomCSS.md)
+**Parent Topic:**[Create a portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 

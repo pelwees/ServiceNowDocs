@@ -21,7 +21,7 @@ View a summary of data usage for an individual table.
 
 Details on this page are refreshed once daily.
 
-![Data usage by table.](../image/dmc-data-usage.png "View data usage by table in the Data Management Console")
+![Data usage by table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dmc-data-usage.png "View data usage by table in the Data Management Console")
 
 ## Required ServiceNow AI Platform roles
 

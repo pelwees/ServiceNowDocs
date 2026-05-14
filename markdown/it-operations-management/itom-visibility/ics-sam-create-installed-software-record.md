@@ -23,9 +23,9 @@ Ensure that the following application and plugins are installed:
 -   Software Asset Management Core \(com.snc.sam.core\) or Software Asset Management Professional \(com.snc.samp\)
 -   File Based Discovery \(com.snc.discovery.file\_based\_discovery\)
 
-Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](share-data-itom-content-service.md).
+Ensure that ITOM Content Service is active. For more information, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md).
 
-Ensure that the content service suggestions in the relevant category are activated. For more information, see [Enable discovery with ITOM Content Service](ics-activate-classifiers.md).
+Ensure that the content service suggestions in the relevant category are activated. For more information, see [Enable discovery with ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ics-activate-classifiers.md).
 
 Role required: discovery\_admin
 
@@ -51,5 +51,5 @@ The new installed software record is created and added to the CI Software Instal
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/discovery-content-services.md)
 

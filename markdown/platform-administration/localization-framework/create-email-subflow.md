@@ -43,7 +43,7 @@ Copy the existing email subflow configured for the Localization Framework and th
     |source\_language|Language from which the localization task was created.|String|
     |target\_language|Language into which the content of the localization task gets translated into.|String|
 
-4.  In the subflow header, click the more actions icon ![More actions](../image/more-actions-icon.png) and select **Copy subflow.**
+4.  In the subflow header, click the more actions icon ![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../image/more-actions-icon.png) and select **Copy subflow.**
 
 5.  In the **New subflow name** field, enter the name of the new subflow.
 
@@ -196,5 +196,5 @@ Represents the email table.
 
 Use the published subflow to define the translation preference for a language.
 
-**Parent Topic:**[Localization Framework settings](../concept/localization-settings.md)
+**Parent Topic:**[Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/localization-settings.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Access Security Best Practices Manager by selecting **All** on your ServiceNow instance and entering best practice.
 
-2.  Navigate to the **Best Practices** table and select a field you want to apply a filter to by selecting its kebab menu, or the one with three vertical dots \(![vertical dots](../../../reuse/icons/product-icons/ellipsis-vertical-fill-24.svg)\).
+2.  Navigate to the **Best Practices** table and select a field you want to apply a filter to by selecting its kebab menu, or the one with three vertical dots \(![vertical dots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../../../reuse/icons/product-icons/ellipsis-vertical-fill-24.svg)\).
 
 <table id="choicetable_k12_2fy_cbc"><thead><tr><th align="left" id="d171356e74">
 
@@ -125,7 +125,7 @@ Combine a conditional operator with a string of text to return security best pra
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Best Practices](../concept/security-best-practices-manager.md)
+**Parent Topic:**[Security Best Practices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/security-best-practices-manager.md)
 
 ## Save a filter for future use
 
@@ -141,7 +141,7 @@ After you create filters in the security best practices table, you can save them
 
 ### Procedure
 
-1.  Select the Show filter \(![filter icon](../../../reuse/icons/product-icons/filter-outline-24.svg)\) panel icon.
+1.  Select the Show filter \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../../../reuse/icons/product-icons/filter-outline-24.svg)\) panel icon.
 
 2.  In the **Filter** dialog panel, scroll down and select **Advanced view**.
 
@@ -172,7 +172,7 @@ After you log out of your instance your filters are reset to the default setting
 
 ### Procedure
 
-1.  Select the Show filter panel \(![filter icon](../../../reuse/icons/product-icons/filter-outline-24.svg)\) icon.
+1.  Select the Show filter panel \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../../../reuse/icons/product-icons/filter-outline-24.svg)\) icon.
 
 2.  In the Filter dialog box, scroll down and select **Advanced view**.
 

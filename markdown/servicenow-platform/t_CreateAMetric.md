@@ -48,28 +48,28 @@ Open a category, and locate the **Assessment Metrics** related list.
 
 3.  On the Assessment Metric form, fill in the fields.
 
-    For a description of the field values, see [Assessment Metric form for a category](../reference/assessment-metric-category-form.md).
+    For a description of the field values, see [Assessment Metric form for a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/assessment-metric-category-form.md).
 
 4.  Save the record.
 
     When you create a **Choice** or **Likert Scale** question, reopen the Assessment Metric form after you submit it to create a metric definition. If you distribute a questionnaire without creating the answers for questions with these data types, recipients are unable to answer the quesitons. If the questions are mandatory, the recipients are unable to submit their questionnaires.
 
 
--   **[Create an assessment metric definition](t_CreateAMetricDefinition.md)**  
+-   **[Create an assessment metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)**  
 Metrics with Choice or Likert Scale data types must have metric definitions defined to represent answer options on questionnaires.
--   **[Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)**  
+-   **[Change the order of an answer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)**  
 By default, the order of answer options is established when a question is created with a data type of **Choice** or **Likert Scale**.
--   **[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)**  
+-   **[Metric types and assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MetricTypesAndAssessableRecords.md)**  
 In the Assessments application, assessment administrators create and administer metric types and assessable records.
 
-**Parent Topic:**[Assessment metrics](../concept/c_AssessmentMetrics.md)
+**Parent Topic:**[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 
-[Create an assessment metric definition](t_CreateAMetricDefinition.md)
+[Create an assessment metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 
-[Update a metric minimum and maximum value to match a template](t_UpdAMetrMinMaxValToMatchATmplate.md)
+[Update a metric minimum and maximum value to match a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdAMetrMinMaxValToMatchATmplate.md)
 

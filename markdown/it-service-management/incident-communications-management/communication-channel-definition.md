@@ -17,5 +17,5 @@ You can define a communication channel for each communication task. The communic
 
 For information on how to create a communication channel definition, refer to [Create communication channel definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-channel-definition.md) .
 
-**Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/working-with-inci-comm-mgmt.md)
 

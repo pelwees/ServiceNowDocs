@@ -33,7 +33,7 @@ Change Management supports the three types of service changes ITIL describes —
     -   Fail or fail situations where the impact to service is imminent if action is not taken.
     These changes do not follow the complete life cycle of a normal change due to the speed with which they must be authorized. Therefore, they progress directly to the **Authorize** state for approval from the CAB Approval group.
 
-    During an emergency change, there are chances that an unplanned CI change activity occurs. During such a case, an unauthorized change request is created and sent for approvals. For more information, see [Unauthorized change request](unauthorized-change-request.md).
+    During an emergency change, there are chances that an unplanned CI change activity occurs. During such a case, an unauthorized change request is created and sent for approvals. For more information, see [Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauthorized-change-request.md).
 
 -   **Normal change**
 
@@ -42,10 +42,10 @@ Change Management supports the three types of service changes ITIL describes —
     Normal change requests follow a prescriptive process which requires two levels of approval before being implemented, reviewed, and closed. These changes require a full range of assessments and authorizations such as peer or technical approval, change management, and Change Advisory Board \(CAB\) authorization, to ensure completeness, accuracy, and the least possible disruption to service. These changes are most often scheduled outside of defined change blackout windows or during defined maintenance windows. The normal type is used to implement beneficial change for any change to a service that is not a standard or emergency change.
 
 
-**Parent Topic:**[Exploring Change Management](exploring-change-management.md)
+**Parent Topic:**[Exploring Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/exploring-change-management.md)
 
 **Related topics**  
 
 
-[Add a new change request type](../task/t_AddNewChangeType.md)
+[Add a new change request type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_AddNewChangeType.md)
 

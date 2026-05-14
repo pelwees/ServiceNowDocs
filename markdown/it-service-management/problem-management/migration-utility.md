@@ -32,7 +32,7 @@ The migration utility consists of several guided activities:
 
 -   **Migrate**
 
-    Guides you through the [Migration job](migrating-existing-records.md).
+    Guides you through the [Migration job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrating-existing-records.md).
 
 -   **Clean-up**
 

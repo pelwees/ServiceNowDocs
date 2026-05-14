@@ -35,7 +35,7 @@ Role required: sn\_doc\_processor.admin
 
 ## What to do next
 
-[Associate document types to a document category](doc-processor-associate-document-types-to-category.md)
+[Associate document types to a document category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-associate-document-types-to-category.md)
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/configuring-fso-document-processor.md)
 

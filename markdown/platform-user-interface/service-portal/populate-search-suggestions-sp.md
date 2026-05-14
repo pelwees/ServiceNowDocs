@@ -57,7 +57,7 @@ Search suggestions improve over time as more people use Service Portal. Search S
 
         Suggestions are not enabled for external search sources. You must push data to both the search source name and the Sys ID.
 
-        For example, push text searches from the Incident table to your custom Incident search source. For more information about custom search sources, see [Define a search source](add-table-search-source.md). By default, the system pushes text searches from the Catalog and Knowledge tables to the respective search sources.
+        For example, push text searches from the Incident table to your custom Incident search source. For more information about custom search sources, see [Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md). By default, the system pushes text searches from the Catalog and Knowledge tables to the respective search sources.
 
         Add the following code after line 11 in the script for each of your custom search sources.
 
@@ -81,5 +81,5 @@ Search suggestions improve over time as more people use Service Portal. Search S
 
 Users see suggestions when they start typing in a Service Portal search widget.
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/zing-search-service-portal.md)
 

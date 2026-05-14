@@ -22,7 +22,7 @@ Role required:
 -   now.assist.creator
 -   flow\_designer or admin
 
-Turn on the flow summarization skill. See [Turn on the Flow execution analysis skill](turn-on-the-flow-execution-analysis-skill.md).
+Turn on the flow summarization skill. See [Turn on the Flow execution analysis skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/turn-on-the-flow-execution-analysis-skill.md).
 
 ## Procedure
 
@@ -41,5 +41,5 @@ Turn on the flow summarization skill. See [Turn on the Flow execution analysis s
 
 Now Assist analyzes the flow, identifies errors, and suggests fixes.
 
-**Parent Topic:**[Flow execution analysis](../reference/flow-execution-analysis-landing.md)
+**Parent Topic:**[Flow execution analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-execution-analysis-landing.md)
 

@@ -17,7 +17,7 @@ Though there are various definitions of vibe coding, at its essence, vibe coding
 -   Vibe coding involves describing a problem that you have or an application that you want in natural language, and having AI generate it for you.
 -   AI-assisted development uses AI tools that work alongside developers to suggest code, auto-complete functions, and explain existing code.
 
-![AI-assisted development vs. vibe coding definitions](../image/vc-ai-dev-two-panels.png "AI-assisted development and vibe coding")
+![AI-assisted development vs. vibe coding definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vc-ai-dev-two-panels.png "AI-assisted development and vibe coding")
 
 The term "vibe coding" can be anything between two distinct philosophies:
 

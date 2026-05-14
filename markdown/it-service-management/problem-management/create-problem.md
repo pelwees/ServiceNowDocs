@@ -44,7 +44,7 @@ Navigate to **Problem** &gt; **Create New**.
 </td></tr></tbody>
 </table>2.  Complete the form, as appropriate.
 
-    For a description of the field values, see [Legacy Problem form](../concept/legacy-problem-form.md).
+    For a description of the field values, see [Legacy Problem form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/legacy-problem-form.md).
 
 3.  To enter work notes for the problem, click the **Notes** tab.
 
@@ -63,5 +63,5 @@ Navigate to **Problem** &gt; **Create New**.
 
 Assess the problem.
 
-**Parent Topic:**[Create a problem](create-a-problem-v2.md)
+**Parent Topic:**[Create a problem](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md)
 

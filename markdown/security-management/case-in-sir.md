@@ -13,19 +13,19 @@ breadcrumb: [Case creation from security artifacts, Security Case Management, Th
 
 In Security Incident Response, you can create cases from security incidents, CIs, and affected users, as well as add those artifacts to existing cases.
 
--   **[Create a case from security incidents](../task/create-cases-from-security-incidents.md)**  
+-   **[Create a case from security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/create-cases-from-security-incidents.md)**  
 In Security Incident Response, you can create cases from security incidents. After the security incidents have been used to create a new case, you can use Security Case Management to analyze the data.
--   **[Add security incidents to an existing case](../task/add-sec-inc-to-cases.md)**  
+-   **[Add security incidents to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/add-sec-inc-to-cases.md)**  
 You can add security incidents to one or more existing cases. After the security incidents have been added to cases, you can use Security Case Management to analyze the data.
 
-**Parent Topic:**[Case creation from security artifacts](case-creation-from-security-artifacts.md)
+**Parent Topic:**[Case creation from security artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/case-creation-from-security-artifacts.md)
 
 **Related topics**  
 
 
-[IoCs and observables in cases](cases-in-threat.md)
+[IoCs and observables in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cases-in-threat.md)
 
-[Configuration items in cases](cases-from-cis.md)
+[Configuration items in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cases-from-cis.md)
 
-[Affected users in cases](cases-from-affected-users.md)
+[Affected users in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cases-from-affected-users.md)
 

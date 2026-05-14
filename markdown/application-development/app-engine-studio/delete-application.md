@@ -17,7 +17,7 @@ If you have the appropriate permissions, you can remove an application from App 
 
 ## Before you begin
 
-Role required: admin, delete application, or delegated developer with permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, delete application, or delegated developer with permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -29,7 +29,7 @@ Delegated developers can delete applications based on their permissions. To requ
 
 2.  From the My Apps page, open your application.
 
-3.  In your application, select the Edit application properties icon \(![Edit application properties icon](../image/edit-application-properties-purple.png)\).
+3.  In your application, select the Edit application properties icon \(![Edit application properties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/edit-application-properties-purple.png)\).
 
 4.  Select **Delete application**.
 

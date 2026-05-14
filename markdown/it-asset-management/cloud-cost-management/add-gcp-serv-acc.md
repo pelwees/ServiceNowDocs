@@ -110,7 +110,7 @@ The service account that you created gets listed on the **Service accounts** pag
 **Related topics**  
 
 
-[Schedule and manage the jobs that download Google Cloud billing data](gcp-bill-dwnld-job-cloudin.md)
+[Schedule and manage the jobs that download Google Cloud billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-bill-dwnld-job-cloudin.md)
 
-[Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](gcp-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-pricesht-sched-dwnld-cloudin.md)
 

@@ -38,5 +38,5 @@ Role required: sn\_imt\_dashboard.admin
 
 A site is created based on the parent name. The parent name is based on the location name. If a region does not exist, a region is created.
 
-**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](../concept/configrng-safe-workplce-dshbrd.md)
+**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../concept/configrng-safe-workplce-dshbrd.md)
 

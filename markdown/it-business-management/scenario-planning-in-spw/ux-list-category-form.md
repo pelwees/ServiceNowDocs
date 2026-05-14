@@ -75,10 +75,10 @@ Configuration that the category is referencing.
  By default, this field is set to **APW List Menu Configuration**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Customize Lists in Strategic Planning Workspace](../task/customize-lists-strategic-planning-workspace.md)
+[Customize Lists in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/customize-lists-strategic-planning-workspace.md)
 

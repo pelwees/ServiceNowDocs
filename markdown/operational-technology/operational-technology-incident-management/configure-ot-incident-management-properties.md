@@ -17,7 +17,7 @@ Set the system properties for the Operational Technology Incident Management app
 
 ## Before you begin
 
--   Set the application scope to **Operational Technology Incident Management** by selecting the Globe icon \(![Globe icon](../../mftg-manufacturing-ot-vulnerability-response/image/icon-scope.png)\) in the navigation bar.
+-   Set the application scope to **Operational Technology Incident Management** by selecting the Globe icon \(![Globe icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../mftg-manufacturing-ot-vulnerability-response/image/icon-scope.png)\) in the navigation bar.
 -   Role required: sn\_ot\_incident\_admin
 
 ## Procedure
@@ -70,5 +70,5 @@ Fields that are visible in the activity formatter.Add any additional fields need
 </table>3.  Select **Save** to save your changes.
 
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../concept/configuring-operational-technology-incident-mgt.md)
 

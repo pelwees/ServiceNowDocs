@@ -108,7 +108,7 @@ To allow the connector to access your GitHub Enterprise Cloud source system via 
 
         For details on generating a JWT for a GitHub App using Ruby, Python, bash, or PowerShell, see the [https://docs.github.com/en/enterprise-cloud@latest/apps/creating-github-apps/authenticating-with-a-github-app/generating-a-json-web-token-jwt-for-a-github-app](https://docs.github.com/en/enterprise-cloud@latest/apps/creating-github-apps/authenticating-with-a-github-app/generating-a-json-web-token-jwt-for-a-github-app) GitHub documentation resource.
 
-        To generate a JWT, you need the client ID that you copied in step [2.a](configure-github-enterprise-cloud-external-content-indexing.md#copy-client-id-step) and the PEM-format client secret certificate file that you downloaded in step [2.c](configure-github-enterprise-cloud-external-content-indexing.md#copy-client-secret-step).
+        To generate a JWT, you need the client ID that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-github-enterprise-cloud-external-content-indexing.md#copy-client-id-step) and the PEM-format client secret certificate file that you downloaded in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-github-enterprise-cloud-external-content-indexing.md#copy-client-secret-step).
 
         **Important:** Your JWT expires 10 minutes after creation. If it expires before you can perform the next step, repeat this step to generate a new JWT.
 
@@ -131,13 +131,13 @@ To allow the connector to access your GitHub Enterprise Cloud source system via 
 
 Provide the following items to your connector admin:
 
--   The client ID that you copied in step [2.a](configure-github-enterprise-cloud-external-content-indexing.md#copy-client-id-step).
--   The PEM-format private key certificate file that you downloaded in step [2.c](configure-github-enterprise-cloud-external-content-indexing.md#copy-client-secret-step).
--   The app installation ID that you copied in step [4.d](configure-github-enterprise-cloud-external-content-indexing.md#copy-app-installation-id-step).
+-   The client ID that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-github-enterprise-cloud-external-content-indexing.md#copy-client-id-step).
+-   The PEM-format private key certificate file that you downloaded in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-github-enterprise-cloud-external-content-indexing.md#copy-client-secret-step).
+-   The app installation ID that you copied in step [4.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-github-enterprise-cloud-external-content-indexing.md#copy-app-installation-id-step).
 
 Your connector admin needs these items to configure a GitHub Enterprise Cloud external content connector to retrieve items and security principals from your GitHub Enterprise Cloud source system.
 
-For details on creating and configuring a GitHub Enterprise Cloud external content connector, see [Create a GitHub Enterprise Cloud external content connector](create-ext-cont-connector-github-enterprise-cloud.md).
+For details on creating and configuring a GitHub Enterprise Cloud external content connector, see [Create a GitHub Enterprise Cloud external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-github-enterprise-cloud.md).
 
-**Parent Topic:**[GitHub Enterprise Cloud external content connector](../concept/github-enterprise-cloud-external-content-connector.md)
+**Parent Topic:**[GitHub Enterprise Cloud external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/github-enterprise-cloud-external-content-connector.md)
 

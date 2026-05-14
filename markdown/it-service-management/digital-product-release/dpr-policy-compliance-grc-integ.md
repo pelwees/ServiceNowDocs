@@ -103,5 +103,5 @@ The policy execution status is listed in the **PaCE results** tab in the newly c
 -
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+</table>**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 

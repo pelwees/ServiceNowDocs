@@ -25,8 +25,8 @@ Mobile applications created in the Madrid release still work in the Australia re
 
 2.  Open a scoped application that you have created, or a base system application that you have modified.
 
-3.  Click **Upgrade** when prompted to start the migration script.![Mobile migration script prompt](../image/migration-script-prompt.png)
+3.  Click **Upgrade** when prompted to start the migration script.![Mobile migration script prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/migration-script-prompt.png)
 
 
-**Parent Topic:**[Mobile migration from Madrid to New York and later releases](../concept/sg-mobile-migration-ny.md)
+**Parent Topic:**[Mobile migration from Madrid to New York and later releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-mobile-migration-ny.md)
 

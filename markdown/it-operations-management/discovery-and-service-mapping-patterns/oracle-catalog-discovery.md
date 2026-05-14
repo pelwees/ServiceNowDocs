@@ -19,7 +19,7 @@ Discovery uses the Oracle DB on Unix and Oracle DB on Windows patterns and the G
 
 You can use this pattern on the ServiceNow AI Platform® using the Madrid release or later.
 
-For information on Oracle database discovery, see [Oracle database discovery](../../discovery/concept/c_OracleDatabaseDiscovery.md).
+For information on Oracle database discovery, see [Oracle database discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/c_OracleDatabaseDiscovery.md).
 
 ## Request apps on the Store
 
@@ -61,7 +61,7 @@ Discovery populates the data in the CMDB when running the Get Catalog info Patte
 
 The following is a dependency view of the relationship between an Oracle Catalog and an Oracle instance.
 
-![CIs and connections on a Dependency Views map](../image/oracle-catalog-discovery.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracle-catalog-discovery.png)
 
 ## CI relationships
 
@@ -71,12 +71,12 @@ This relationship is created to support Oracle Catalog discovery.
 |---|------------|---|
 |​Oracle Catalog \[cmdb\_ci\_db\_ora\_catalog​\]|Contains::Contained by|Oracle Instance \[cmdb\_ci\_db\_ora\_instance\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 
 **Related topics**  
 
 
-[Oracle pluggable database and container database discovery](oracle-cdb-pdb-discovery.md)
+[Oracle pluggable database and container database discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-cdb-pdb-discovery.md)
 
-[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](oracle-glas-discovery.md)
+[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 

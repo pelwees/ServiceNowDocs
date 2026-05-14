@@ -34,5 +34,5 @@ Role required: All employees with direct reports
     -   Deleting tasks or stages permanently removes them from the plan.
     -   Plans immediately update with your saved edits.
 
-**Parent Topic:**[Create and track plans for your employees](create-employee-plan.md)
+**Parent Topic:**[Create and track plans for your employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-employee-plan.md)
 

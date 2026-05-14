@@ -19,19 +19,19 @@ Talent Feedback is a new plugin available in Yokohama release. Skill Feedback is
 
 <table id="table_xmr_b2b_y2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Talent Feedback](exploring-talent-feedback.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Talent Feedback](exploring-talent-feedback.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Talent feedback plugin](configuring-talent-feedback.md#)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Talent feedback plugin](configuring-talent-feedback.md#)
 
 </td></tr><tr><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to use Talent Feedback](using-talent-feedback.md)
+[Using![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to use Talent Feedback](using-talent-feedback.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Other information about Talent Feedback](../reference/talent-feedback-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../../reuse/icons/brand-icons/bus-learn.svg)Other information about Talent Feedback](../reference/talent-feedback-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

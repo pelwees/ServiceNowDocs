@@ -19,8 +19,8 @@ The analyze Service Observability dashboard skill uses generative AI to provide 
 
 Before activating the Now Assist skills, you must install the following:
 
--   Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   Service Observability. For more information, see [Install Service Observability](../../service-observability/task/install-service-observability.md).
+-   Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../now-assist-setup-itom/task/install-now-assist-itom.md).
+-   Service Observability. For more information, see [Install Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-observability/task/install-service-observability.md).
 
 You must configure the following settings:
 
@@ -41,5 +41,5 @@ Role required: admin
 3.  On the **Analyze Service Observability dashboard** tile, select **Activate**.
 
 
-**Parent Topic:**[Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\)](activate-now-assist-skills-itom.md)
+**Parent Topic:**[Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-now-assist-skills-itom.md)
 

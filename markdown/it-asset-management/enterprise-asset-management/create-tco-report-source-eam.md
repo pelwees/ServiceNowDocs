@@ -89,5 +89,5 @@ Description of the report source.
     The new report source is added to the TCO report sources tab.
 
 
-**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](../concept/confifure-eam-asset-tco.md)
+**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/confifure-eam-asset-tco.md)
 

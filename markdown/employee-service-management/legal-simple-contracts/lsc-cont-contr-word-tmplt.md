@@ -53,21 +53,21 @@ Role required: sn\_lg\_contracts.contracts\_config
 
     For example, Microsoft Outlook Add-In for Legal Service Delivery If you are adding a metadata for company name, you would name the tag **field\_company**.
 
-    ![Content control example](../image/lsc-add-ctrl-field.png)
+    ![Content control example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../image/lsc-add-ctrl-field.png)
 
 8.  Select **OK**.
 
 
-**Parent Topic:**[Configure legal contract templates of type Microsoft Word](lsc-configure-ct-msword.md)
+**Parent Topic:**[Configure legal contract templates of type Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-configure-ct-msword.md)
 
 **Related topics**  
 
 
-[Create a Microsoft Word legal contract template](lsc-create-ct-msword.md)
+[Create a Microsoft Word legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-create-ct-msword.md)
 
-[Create and configure participants for legal contract template](lsc-add-config-participants-msword.md)
+[Create and configure participants for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-add-config-participants-msword.md)
 
-[Update contract template mappings for legal contract template](lsc-template-map-msword.md)
+[Update contract template mappings for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md)
 
-[Publish a contract template](lsc-publish-word-template.md)
+[Publish a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-publish-word-template.md)
 

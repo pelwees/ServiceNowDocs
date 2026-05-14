@@ -27,7 +27,7 @@ When you select the **Decline dispute transaction** option in the **Detect frien
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -93,10 +93,10 @@ The **Issue credit** activity is displayed.
 
 The next activity **Report fraud** is displayed.
 
-3.  Proceed with activities in the playbook as required. For more information about resolving fraud, see [Report fraud to a card network](report-fraud-to-card-network.md).
+3.  Proceed with activities in the playbook as required. For more information about resolving fraud, see [Report fraud to a card network](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-to-card-network.md).
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Investigating a dispute](investigate-a-dispute.md)
+**Parent Topic:**[Investigating a dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)
 

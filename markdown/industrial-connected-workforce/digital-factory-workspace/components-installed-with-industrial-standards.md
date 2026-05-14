@@ -68,5 +68,5 @@ Can read standards tables
 -   Industrial Standard Applied to Task \[sn\_icw\_std\_standard\_applied\_to\_task\]
 -   Industrial Standard Task \[sn\_icw\_std\_task\]
 
-**Parent Topic:**[Industrial Standards reference](industrial-standards-reference.md)
+**Parent Topic:**[Industrial Standards reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-standards-reference.md)
 

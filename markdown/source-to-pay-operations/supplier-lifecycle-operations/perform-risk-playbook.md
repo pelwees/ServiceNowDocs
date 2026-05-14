@@ -17,7 +17,7 @@ The Perform risk assessment playbook includes activities that enable you to cond
 
 The type of flow that is triggered in the Perform risk assessment playbook depends on the plugins that you have installed.
 
-![Perform risk assessment playbook](../image/perform-risk-playbook.png "Perform risk assessment playbook")
+![Perform risk assessment playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/perform-risk-playbook.png "Perform risk assessment playbook")
 
 <table id="table_ohx_dmp_11c"><thead><tr><th>
 
@@ -33,7 +33,7 @@ Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_sup
 
 </td><td>
 
-The Perform risk assessment playbook flow creates risk and tiering assessments to verify the eligibility of the supplier. For more information, see [Risk assessment flow when only Vendor Risk Management is installed](risk-flow-slo-vrm.md).
+The Perform risk assessment playbook flow creates risk and tiering assessments to verify the eligibility of the supplier. For more information, see [Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-vrm.md).
 
 </td></tr><tr><td>
 
@@ -48,20 +48,20 @@ The Perform risk assessment playbook flow creates risk and tiering assessments t
 
 </td><td>
 
-The Perform risk assessment playbook flow create a due diligence request to verify the eligibility of the supplier. For more information, see [Risk assessment flow when Third-party Risk Due Diligence is installed](risk-flow-slo-tprm.md).
+The Perform risk assessment playbook flow create a due diligence request to verify the eligibility of the supplier. For more information, see [Risk assessment flow when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-tprm.md).
 
 </td></tr></tbody>
-</table>-   **[Risk assessment flow when only Vendor Risk Management is installed](risk-flow-slo-vrm.md)**  
+</table>-   **[Risk assessment flow when only Vendor Risk Management is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-vrm.md)**  
 If you have installed only the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] plugin, the Perform risk assessment playbook triggers the flow that includes activities to verify the eligibility of the supplier by creating risk assessments.
--   **[Risk assessment flow when Third-party Risk Due Diligence is installed](risk-flow-slo-tprm.md)**  
+-   **[Risk assessment flow when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-slo-tprm.md)**  
 If you have installed both the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] and GRC: Third-party Risk Due Diligence \[com.sn\_tprm\_onboarding\] plugins, the Perform risk assessment playbook triggers the flow that includes activities to create a due diligence request, complete Inherent Risk Questionnaire \(IRQ\) assessments, and conduct risk assessments for a third-party and an engagement.
 
-**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/new-supplier.md)
 
 **Related topics**  
 
 
-[Use the supplier onboarding playbook to onboard suppliers](use-playbooks-onboard-supp.md#)
+[Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Add a subsidiary for a supplier from the Source-to-Pay Workspace](../task/add-subsidiary.md)
+[Add a subsidiary for a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/add-subsidiary.md)
 

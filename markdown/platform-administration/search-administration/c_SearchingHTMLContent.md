@@ -21,32 +21,32 @@ Zing indexes the contents of certain HTML elements to improve document search re
 |Anchor link target|Zing indexes the target URL specified in the **href** attribute of any anchor element.|
 |Alt text for an image|Zing indexes the alternative text of any image element.|
 
-**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_PunctuationForSearchResults.md)
 
-[Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
+[Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
 
-[Configure a text index group to search across multiple tables](../task/index-multiple-tables.md)
+[Configure a text index group to search across multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md)
 
-[Regenerate a text index for a table](../task/t_RegenerateATextIndexForATable.md)
+[Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RegenerateATextIndexForATable.md)
 
-[Remove an index](../task/t_RemoveAnIndex.md)
+[Remove an index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RemoveAnIndex.md)
 
-[Remove an index for a specific field](../task/t_RemoveAnIndexForASpecificField.md)
+[Remove an index for a specific field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RemoveAnIndexForASpecificField.md)
 
-[Remove the text index for a child table](../task/remove-index-child-table.md)
+[Remove the text index for a child table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/remove-index-child-table.md)
 
-[Change the query mode of an indexed table](../task/configure-table-query-mode.md)
+[Change the query mode of an indexed table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-table-query-mode.md)
 
-[Enable indexing of text in multi-row variable sets](../task/index-text-multi-row-variable-sets.md)
+[Enable indexing of text in multi-row variable sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_ViewTextIndexingStatsAndStatus.md)
 
-[Configure tables to use the Japanese tokenizer](../task/configure-tables-japanese-tokenizer.md)
+[Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-tables-japanese-tokenizer.md)
 

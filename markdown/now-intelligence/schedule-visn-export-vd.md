@@ -45,11 +45,11 @@ You can export multiple dashboards and data visualizations together in one sched
 
     Check the list of supported export formats under **About this task**.
 
-3.  From the More actions menu \(![More actions menu icon](../../../administer/integrationhub/images/more-actions-menu-icon.png)\), select **Schedule**.
+3.  From the More actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/integrationhub/images/more-actions-menu-icon.png)\), select **Schedule**.
 
     You cannot be in Edit mode.
 
-    ![Schedule option in More actions menu](../image/paw-vd-schedule.png)
+    ![Schedule option in More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/paw-vd-schedule.png)
 
     All the options appear for exporting the dashboard or data visualization. If you do not want to export this object, select **Change**.
 
@@ -65,11 +65,11 @@ You can export multiple dashboards and data visualizations together in one sched
 
     2.  If you select to export only specific tabs, select which tabs to export and whether to include the top layout contents.
 
-        ![Export configuration for one tab and the top level visualizations.](../image/sched-exp-by-tab.png "Configuring the export of dashboard tabs")
+        ![Export configuration for one tab and the top level visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/sched-exp-by-tab.png "Configuring the export of dashboard tabs")
 
         For example, if you do not turn on **Export all tabs**, you have to select the tabs to export. If you select a tab and turn on **Export all visualizations in the top layout**, you export that tab and any visualizations placed above the tabs.
 
-        ![Tab and top level visualizations that are exported.](../image/sched-exp-top-and-tab.png "The visualizations that are exported")
+        ![Tab and top level visualizations that are exported.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/sched-exp-top-and-tab.png "The visualizations that are exported")
 
 7.  To add more dashboards or data visualizations to the export, do the following steps:
 
@@ -151,5 +151,5 @@ A conditional script that determines if a scheduled job should run. The last exp
 11. Select **Save** to save the schedule.
 
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/common-dv-tasks.md)
 

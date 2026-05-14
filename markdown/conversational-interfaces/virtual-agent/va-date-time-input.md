@@ -60,7 +60,7 @@ Detail description
 
 Description of the information that you need from users. If the **Allow automatic slot filling** toggle is deactivated, you can create a dynamic detail description by selecting the Data Pill Picker icon ![](../images/variable-reference-picker.png) to define conditions, or select the Open Editor icon ![](../images/icon-script.png) to enter a script. If the **Allow automatic slot filling** toggle is activated, you can only enter a static description.
 
- ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](../images/LLM-input-discoverable-toggle.png)
+ ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/LLM-input-discoverable-toggle.png)
 
 </td></tr><tr><td>
 
@@ -139,11 +139,11 @@ Date Time prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Date Time user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-date-time-llm-3.png)
+![All basic Date Time user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-date-time-llm-3.png)
 
 </td><td>
 
-![In the Web client, a calendar pop-up lets the user choose a date and time.](../images/va-datetime-native.png "Web UI Date Time prompt")
+![In the Web client, a calendar pop-up lets the user choose a date and time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-datetime-native.png "Web UI Date Time prompt")
 
 </td></tr></tbody>
 </table>## Date Time user input control properties for NLU topic discovery
@@ -297,11 +297,11 @@ Date Time prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties include the node name, prompt, input format, and NLU entity.](../images/va-datetime-properties.png "Date Time user input control basic properties")
+![Basic properties include the node name, prompt, input format, and NLU entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-datetime-properties.png "Date Time user input control basic properties")
 
 </td><td>
 
-![In the Web client, a calendar pop-up lets the user choose a date and time.](../images/va-datetime-native.png "Web UI Date Time prompt")
+![In the Web client, a calendar pop-up lets the user choose a date and time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-datetime-native.png "Web UI Date Time prompt")
 
 </td></tr></tbody>
 </table>## Channel support
@@ -434,7 +434,7 @@ Supported
 
 </td><td>
 
-If your administrator has set the option to request the time zone from the customer, the selected date and time reflect the customer's time zone. Otherwise, they appear in the UTC time zone. For more information about the time zone setting, see [Set up Conversational Integration with Facebook Messenger](../task/messg-fbm-setup.md).
+If your administrator has set the option to request the time zone from the customer, the selected date and time reflect the customer's time zone. Otherwise, they appear in the UTC time zone. For more information about the time zone setting, see [Set up Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/messg-fbm-setup.md).
 
 </td></tr><tr><td>
 
@@ -517,5 +517,5 @@ Supported
 For best results, enable NLU at the node.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+</table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

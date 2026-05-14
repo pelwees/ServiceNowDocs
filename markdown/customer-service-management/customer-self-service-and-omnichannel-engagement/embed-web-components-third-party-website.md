@@ -17,7 +17,7 @@ Embed the global code and component code of the components that you configured i
 
 ## Before you begin
 
-At least one ServiceNow component should be configured in your instance. For more information, see [Configure the ServiceNow component instance](configure-servicenow-web-components-instance.md).
+At least one ServiceNow component should be configured in your instance. For more information, see [Configure the ServiceNow component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-servicenow-web-components-instance.md).
 
 Role required: none
 

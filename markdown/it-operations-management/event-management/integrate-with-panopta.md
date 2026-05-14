@@ -23,12 +23,12 @@ When the Event Management integration is configured in Panopta, add the integrat
 
 ## Optional Event Management configuration
 
-Configure an alert action rule for launch in context of Panopta. For more information, see [Launch web application from alert](../task/t_EMLaunchAnApplication.md) and [Create or edit an alert action rule](../task/t_EMCreateAlertRule.md).
+Configure an alert action rule for launch in context of Panopta. For more information, see [Launch web application from alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMLaunchAnApplication.md) and [Create or edit an alert action rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMCreateAlertRule.md).
 
-**Parent Topic:**[Integrate with push connectors](../task/configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-listener-transform-script.md)
 
 **Related topics**  
 
 
-[Configure Event Management connectors](connectors-and-listeners.md)
+[Configure Event Management connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 

@@ -24,7 +24,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Tickets sec
 
     The field value is displayed in the Input Expression column. In the following image, `categoryClass` is mapped to the `Category` field on the security incident.
 
-    ![Secureworks CTP: Create Profile: Mapping](../image/secureworks-create-profile-mapping-1.gif)
+    ![Secureworks CTP: Create Profile: Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-mapping-1.gif)
 
     **Note:** If you enter the event field name manually in the **Input Expression** section, you must add a prefix as `${Event:eventfield}$` before the name of the field being mapped.
 
@@ -38,7 +38,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Tickets sec
 
         In the expanded choice list for the new field, some fields are shaded. In the following figure, Category has a gray background, because it has been mapped in the security incident. Similar to the color-coding for the ticket fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the already mapped SIR incident fields.
 
-        ![Secureworks CTP: Create Profile: mapping selection](../image/secureworks-create-profile-mapping-2.gif)
+        ![Secureworks CTP: Create Profile: mapping selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-mapping-2.gif)
 
         **Note:** As multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
@@ -53,7 +53,7 @@ In certain cases, ticket fields may not translate directly to the fields on the 
 
 To use the script editor, click the \{\} icon next to the Category field. The script editor is displayed
 
-![Secureworks CTP: Create Profile: Script Editor](../image/secureworks-create-profile-mapping-3.gif)
+![Secureworks CTP: Create Profile: Script Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-mapping-3.gif)
 
 .
 
@@ -92,7 +92,7 @@ Define additional ticket aggregation criteria that aggregates an incoming ticket
 
     All the field values that you select must be matched to append this incoming ticket to an existing security incident. This includes fields, such as Observables and Configuration Items, that may have multiple ticket field values mapped to them. All values must match. If only a subset of the values are matched, the ticket aggregation conditions will not be met and a new security incident will be created. See screen shot below for multi-value field mapping.
 
-    ![Secureworks CTP: Create Profile: Mapping: Aggregation](../image/secureworks-create-profile-mapping-4.gif)
+    ![Secureworks CTP: Create Profile: Mapping: Aggregation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-mapping-4.gif)
 
     If a new ticket matches all the values that are selected in the aggregation field conditions in the mapping step, the new ticket is automatically added to the most recently opened security incident with the same field values. As a user with the sn\_si.analyst role working with security incidents, you can view all the added aggregated tickets on a related list on a security incident. This list details associated time stamps and aggregated field values. This information helps you understand why these tickets are being aggregated to existing security incidents. If this tab is not displayed in a security incident, scroll to the left side of the record under **Related Links** and click the **Show All Related Lists** link.
 

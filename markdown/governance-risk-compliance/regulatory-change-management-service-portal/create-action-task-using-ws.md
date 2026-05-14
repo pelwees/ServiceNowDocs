@@ -253,5 +253,5 @@ The action task is marked for the users with the sn\_compliance.manager or the s
 
 ## What to do next
 
-[Complete the action task associated with the alert](create-action-task-src-document-alert.md)
+[Complete the action task associated with the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-src-document-alert.md)
 

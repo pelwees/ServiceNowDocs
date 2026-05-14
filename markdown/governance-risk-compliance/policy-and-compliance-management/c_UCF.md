@@ -22,18 +22,18 @@ If your organization wants to use UCF Common Controls Hub as the source for your
 **Warning:** All data imported from UCF Authority Documents is read-only and must be protected. Do not customize the authority documents, citations, or control objectives on any UCF fields transformed into GRC tables.
 
 1.  Sign up for a [UCF CCH](https://commoncontrolshub.com/pricing/) account and customize your basic subscription to include API Access.
-2.  [Activate Compliance UCF](../../grc-common/task/activate-grc-comp-ucf.md).
-3.  [Create a Now Support Case for UCF-CCH account integration information](../task/create-hi-request-ucf-integration.md).
-4.  [Configure the UCF integration using the UCF Common Controls Hub](../task/configure-UCF-integration.md).
-5.  [Download a UCF shared list](../task/download-a-shared-list.md).
+2.  [Activate Compliance UCF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/task/activate-grc-comp-ucf.md).
+3.  [Create a Now Support Case for UCF-CCH account integration information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/create-hi-request-ucf-integration.md).
+4.  [Configure the UCF integration using the UCF Common Controls Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/configure-UCF-integration.md).
+5.  [Download a UCF shared list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/download-a-shared-list.md).
 
 ## Import authority document using single shared list
 
 Every authority document already imported into the ServiceNow® instance must be in any shared list you wish to import from the UCF CCH. This prevents inconsistencies between what is in the UCF CCH \(which may have changed\) and what you’ve already imported.
 
-![Graphic shows all authority documents reimported with the new one](../image/cch-shared-okay.png "Shared list import successful")
+![Graphic shows all authority documents reimported with the new one](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/cch-shared-okay.png "Shared list import successful")
 
-![Graphic shows a mismatch of the imported authority documents](../image/cch-shared-not-okay.png "Shared list import unsuccessful")
+![Graphic shows a mismatch of the imported authority documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/cch-shared-not-okay.png "Shared list import unsuccessful")
 
 An error is rendered since SOX is not being reimported within this Shared List.
 
@@ -58,10 +58,10 @@ Authority documents in the UCF content are organized and mapped to their proper 
 |Citation|Citation|
 |Control|Control Objective|
 
--   **[Create a Now Support Case for UCF-CCH account integration information](../task/create-hi-request-ucf-integration.md)**  
+-   **[Create a Now Support Case for UCF-CCH account integration information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/create-hi-request-ucf-integration.md)**  
 After establishing your UCF CCH account, use the Now Support Service Portal to initiate the account integration process.
--   **[Download a UCF shared list](../task/download-a-shared-list.md)**  
+-   **[Download a UCF shared list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/download-a-shared-list.md)**  
 In order for compliance managers to download UCF authority documents from the UCF CCH, the list must be marked as Shared. When updating Authority Documents or adding new ones, you must update all your authority documents to ensure that the common controls framework remains in sync with the authority documents you are using.
 
-**Parent Topic:**[Configure the UCF integration using the UCF Common Controls Hub](../task/configure-UCF-integration.md)
+**Parent Topic:**[Configure the UCF integration using the UCF Common Controls Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/configure-UCF-integration.md)
 

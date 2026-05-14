@@ -34,33 +34,33 @@ A workflow for getting content reviewed by internal teams might progress as foll
 
 The contract request remains in the Awaiting review State until a review task is active.
 
--   **[Request an internal review](snlc-add-review-task.md)**  
+-   **[Request an internal review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-add-review-task.md)**  
 Initiate a review task for review of the contract document by subject matter experts.
--   **[Work on internal review task](snlc-work-int-review-doc.md)**  
+-   **[Work on internal review task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-int-review-doc.md)**  
 As a contract reviewer, review and provide feedback on contract documents
--   **[Share requested information for internal review](snlc-send-info-reviewtask.md)**  
+-   **[Share requested information for internal review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-send-info-reviewtask.md)**  
 As a contract fulfiller, share information requested by the reviewer to proceed with the contract document review.
--   **[Cancel a review task](snlc-close-int-review-task.md)**  
+-   **[Cancel a review task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-close-int-review-task.md)**  
 As a contract fulfiller, cancel a review task irrespective of its state.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../concept/snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-nda-1.md)
 
-[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](../concept/snlc-amend-req-landing.md)
+[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](../concept/snlc-linking-parent-child.md)
+[Linking parent-child contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-linking-parent-child.md)
 
-[Cancel a legal request](snlc-cancel-request-tpc.md)
+[Cancel a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](snlc-preview-contract.md)
+[View and download a signed contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract.md)
 
-[View contract requests](snlc-view-contract-requests.md)
+[View contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-sn-legal-contracts.md)
 

@@ -24,7 +24,7 @@ The Disclosure Overview tab displays the following sections:
 -   State
 -   Disclosure summary
 
-![Disclosure Overview tab.](../images/disclosure-overview-tab-view.png "Disclosure Overview tab")
+![Disclosure Overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/disclosure-overview-tab-view.png "Disclosure Overview tab")
 
 The State section displays the stepper component for the disclosure. The stepper component displays the completion of various states of the disclosure such as Draft, Work in Progress, Review, and Completed.
 
@@ -32,5 +32,5 @@ The Disclosure summary section displays the goals that are listed in the disclos
 
 If you want to export the data in the disclosure to an Excel spreadsheet, click **Export to excel** in the Disclosure summary section.
 
-**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](esg-analytics-reporting.md)
+**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-analytics-reporting.md)
 

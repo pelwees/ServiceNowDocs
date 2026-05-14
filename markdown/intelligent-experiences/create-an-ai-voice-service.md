@@ -29,11 +29,11 @@ An AI voice assistant enables natural, conversational voice interactions between
 
 2.  Select **Voice-only** option in the Create an assistant window and select **Continue**.
 
-    ![Voice-only option for creating voice assistant](../image/ai-voice-assistant-voice-only-option.png "Voice-only option in Create assistant")
+    ![Voice-only option for creating voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-voice-only-option.png "Voice-only option in Create assistant")
 
 3.  Add basic details of the assistant.
 
-    ![Basic details form for creating voice assistant](../image/ai-voice-assistant-basic-details.png "Basic details form")
+    ![Basic details form for creating voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-basic-details.png "Basic details form")
 
     1.  On the form, fill in the fields.
 
@@ -80,11 +80,11 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
 4.  Add one or more AI voice agents to the voice assistant by selecting **Add from library** and select **Save and continue**.
 
-    **Note:** Add at least one AI voice agent to the voice assistant. The voice assistant uses the AI voice agents to execute AI instructions. You can select an existing agent or select **Create** to create one. See [Create an AI voice agent](create-a-voice-enabled-ai-agent.md) for more information.
+    **Note:** Add at least one AI voice agent to the voice assistant. The voice assistant uses the AI voice agents to execute AI instructions. You can select an existing agent or select **Create** to create one. See [Create an AI voice agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/create-a-voice-enabled-ai-agent.md) for more information.
 
 5.  Select a voice personality.
 
-    ![Voice personality selection for creating voice assistant](../image/ai-voice-assistant-voice-personality.png "Voice personality selection")
+    ![Voice personality selection for creating voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-voice-personality.png "Voice personality selection")
 
     1.  Select the language your assistant will use as the default speaking language for interacting with the callers.
 
@@ -123,17 +123,17 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
     1.  Integrate a telephony provider to connect to the voice assistant.
 
-        For more information, see [Integrating voice assistant with CCaaS provider](../concept/integrating-voice-service-with-ccaas-providers.md).
+        For more information, see [Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/integrating-voice-service-with-ccaas-providers.md).
 
     2.  Configure your voice assistant to be accessible through mobile app voice launcher function.
 
-        For more information, see [Integrate voice assistant with mobile app voice launcher](integrate-voice-assistant-with-mobile-app-voice-launcher.md)
+        For more information, see [Integrate voice assistant with mobile app voice launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-assistant-with-mobile-app-voice-launcher.md)
 
 7.  Identify and authenticate the caller.
 
     Authentication settings apply only to telephony provider communication channel. If you have selected only mobile communication channel, skip this step.
 
-    ![Authentication method selection for creating voice assistant](../image/ai-voice-assistant-authentication.png "Authentication method selection")
+    ![Authentication method selection for creating voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-authentication.png "Authentication method selection")
 
     Identification and authentication factors must be configured at the platform level, where you define which tables and columns the system should use for both identification and authentication. After the factors are defined, they appear here as selectable options for your voice agent configuration. For more information, see [Authentication factors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/authentication-factors.md).
 
@@ -170,7 +170,7 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
 8.  Set up safeguards to create a secure and seamless experience for users interacting with the assistant.
 
-    ![Safeguards selection for creating voice assistants](../image/ai-voice-assistant-safeguards.png "Safeguards selection")
+    ![Safeguards selection for creating voice assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-safeguards.png "Safeguards selection")
 
     1.  Set fallback options to route the call to a live agent or create a ticket.
 
@@ -194,7 +194,7 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
     You can change the configuration later.
 
-    ![Review configuration page for voice assistants](../image/ai-voice-assistant-review.png "Review configuration")
+    ![Review configuration page for voice assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-voice-assistant-review.png "Review configuration")
 
 10. Select **Save and activate** to complete the configuration steps or review a previous step by selecting **Back**.
 
@@ -207,5 +207,5 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
 ## What to do next
 
-Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent transcript and logs tables](voice-agent-reference.md#section_vvs_s1f_nhc) for information on the tables containing transcript and logs.
+Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent transcript and logs tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/voice-agent-reference.md#section_vvs_s1f_nhc) for information on the tables containing transcript and logs.
 

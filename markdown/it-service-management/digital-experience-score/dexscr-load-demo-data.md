@@ -17,7 +17,7 @@ Load the demo data for Digital Experience Score​ after installing the applicat
 
 ## Before you begin
 
-[Install Digital Experience Score​](install-dex-score.md)
+[Install Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/install-dex-score.md)
 
 Role required: admin
 
@@ -47,10 +47,10 @@ Besides loading demo data, the **CreateDemoDataForDEXScoreJob** scheduled job do
 
 After the scheduled job runs successfully, the demo data is loaded into the instance.
 
-**Parent Topic:**[Install Digital Experience Score​](install-dex-score.md)
+**Parent Topic:**[Install Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/install-dex-score.md)
 
 **Related topics**  
 
 
-[Delete Digital Experience Score​ demo data](dexscr-delete-demo-data.md)
+[Delete Digital Experience Score​ demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-delete-demo-data.md)
 

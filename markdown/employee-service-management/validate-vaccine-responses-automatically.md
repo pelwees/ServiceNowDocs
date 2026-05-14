@@ -168,7 +168,7 @@ You have enabled automated vaccine response validation. Work notes in the vaccin
 
 ## What to do next
 
-To automate vaccine response reviews so that they are set to **Approved** if validation was successful or left in the state **Not yet reviewed** \(a manual review is required\), see [Automate reviews of vaccine responses](enable-automated-vaccine-response-reviews.md).
+To automate vaccine response reviews so that they are set to **Approved** if validation was successful or left in the state **Not yet reviewed** \(a manual review is required\), see [Automate reviews of vaccine responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/enable-automated-vaccine-response-reviews.md).
 
-**Parent Topic:**[Automating vaccine response reviews](../concept/vaccination-status-vaccine-validation.md)
+**Parent Topic:**[Automating vaccine response reviews](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/vaccination-status-vaccine-validation.md)
 

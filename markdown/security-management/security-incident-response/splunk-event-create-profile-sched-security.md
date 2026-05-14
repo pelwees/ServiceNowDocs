@@ -94,7 +94,7 @@ Additional text to help you distinguish this profile from other profiles.
 </td></tr></tbody>
 </table>    The following figure is an example of a completed form for a scheduled notable event type.
 
-    ![Splunk ES Event Profile](../image/new-images/notable-event-profile.png)
+    ![Splunk ES Event Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-images/notable-event-profile.png)
 
 5.  For a profile with a scheduled notable event, choose one option to continue with the profile configuration.
 

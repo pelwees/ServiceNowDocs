@@ -26,7 +26,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -53,7 +53,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  From the Cases section, select **My Cases**.
 

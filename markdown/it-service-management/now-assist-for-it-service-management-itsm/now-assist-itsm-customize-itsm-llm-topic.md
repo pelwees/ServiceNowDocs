@@ -39,17 +39,17 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 4.  Select the Topic actions icon at the top-right corner of the screen and select **Duplicate**.
 
-    ![Duplicate a service disruption template](../image/itsm-now-assist-service-disruptions-duplicate.png)
+    ![Duplicate a service disruption template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-service-disruptions-duplicate.png)
 
 5.  In the **Name** field, enter the name for the topic you want to use for the summarization.
 
-    ![Enter a name for the duplicated Service Disruption topic](../image/itsm-now-assist-service-disruption-name.png)
+    ![Enter a name for the duplicated Service Disruption topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-service-disruption-name.png)
 
 6.  Select **Save**.
 
 7.  In the topic you've duplicated, select the **Properties** tab.
 
-    ![Configure a VA topic for Now Assist in Virtual Agent](../image/itsm-now-assist-service-disruptions-properties.png)
+    ![Configure a VA topic for Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-service-disruptions-properties.png)
 
 8.  Enable the following check boxes:
 

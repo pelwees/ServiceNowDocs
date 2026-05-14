@@ -23,7 +23,7 @@ When a supplier manager or supplier owner submits the Offboard a supplier case f
 
 The Offboard a Supplier playbook is displayed only for the cases of type Offboard a supplier.
 
-![Offboard a Supplier playbook tab.](../image/slo-offboard-playbook.png)
+![Offboard a Supplier playbook tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-offboard-playbook.png)
 
 ## Offboard a Supplier playbook stages and activities
 
@@ -295,10 +295,10 @@ Update primary contacts active to false
 This activity deactivates all the contacts of the offboarded supplier. That is, the **Active** check box is deselected and the **Locked out** check box is selected for the contacts in the Vendor Contact \[vm\_vdr\_contact\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+</table>**Parent Topic:**[Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/offboard-supplier.md)
 
 **Related topics**  
 
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/offboard-supplier.md)
 

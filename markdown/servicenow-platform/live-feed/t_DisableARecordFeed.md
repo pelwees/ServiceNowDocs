@@ -32,20 +32,20 @@ Role required: personalize\_dictionary or admin
     **Note:** If the Collaboration feature is activated, you can remove the show Live Feed icon from all form headers. Set the **glide.live\_feed.task\_header\_button** property to **collaboration**.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_DocumentFeeds.md)
 
-**Parent Topic:**[Record feeds](../concept/c_RecordFeeds.md)
+**Parent Topic:**[Record feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_RecordFeeds.md)
 
 **Related topics**  
 
 
-[Add a Live Feed UI action on a table](t_AddALiveFeedUIActionOnATable.md)
+[Add a Live Feed UI action on a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_AddALiveFeedUIActionOnATable.md)
 
-[Configure document feeds](t_ConfigureDocumentFeeds.md)
+[Configure document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_ConfigureFeedSecurity.md)
 
-[Disable a document feed](t_DisableADocumentFeed.md)
+[Disable a document feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_InstalledComponents.md)
 

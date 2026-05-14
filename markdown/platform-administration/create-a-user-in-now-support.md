@@ -36,12 +36,12 @@ Role required: admin
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Now Support administration](now-support-administration.md)
+**Parent Topic:**[Now Support administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/now-support-administration.md)
 
 **Related topics**  
 
 
-[View Now Support users](view-now-support-users.md)
+[View Now Support users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/view-now-support-users.md)
 
-[Manage user access in Now Support](manage-user-access-in-now-support.md)
+[Manage user access in Now Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/manage-user-access-in-now-support.md)
 

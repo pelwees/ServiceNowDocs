@@ -27,7 +27,7 @@ After you receive the merchant’s response for pre-arbitration, the response is
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -49,7 +49,7 @@ After you receive the merchant’s response for pre-arbitration, the response is
 
     You can also view the merchant response as an attachment in the activity stream.
 
-    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
 
 10. In the **Pre arbitration outcome** field, select **Resolved** or **Unresolved**.
 
@@ -95,5 +95,5 @@ Retrieve the letter by selecting `Get acknowledgement letter`. The letter can be
 1.  After a decision by Visa is available, you can access it by selecting **Get case filing response**.
 2.  The task is automatically closed and the **Review case filing response** activity and appeal is available.
 
-**Parent Topic:**[Collaboration dispute workflow](../concept/collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/collaboration-dispute-workflow.md)
 

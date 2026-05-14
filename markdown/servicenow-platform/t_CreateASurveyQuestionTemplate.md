@@ -67,10 +67,10 @@ Enter a numeric value, greater than or equal to zero, to which the answer option
 </table>7.  Click **Update**.
 
 
-**Parent Topic:**[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+**Parent Topic:**[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
 **Related topics**  
 
 
-[Update min and max values to match templates](t_UpdateQMinAndMaxToMatchTemplates.md)
+[Update min and max values to match templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_UpdateQMinAndMaxToMatchTemplates.md)
 

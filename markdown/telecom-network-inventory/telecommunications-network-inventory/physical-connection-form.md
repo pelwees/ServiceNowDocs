@@ -37,7 +37,7 @@ Product Model
 
 </td><td>
 
-Name of the product model that is associated with the physical connection. Click the search icon \(![Search icon.](../image/search.png)\) to select the product model. -   If you selected **Optical Fiber Cable**, the **Cable parameters** tab appears so that you can enter additional information.
+Name of the product model that is associated with the physical connection. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) to select the product model. -   If you selected **Optical Fiber Cable**, the **Cable parameters** tab appears so that you can enter additional information.
 -   If you selected **Fiber Link**, then you must fill in the information for the **Cable** and **Strand number** fields in the Physical connection element form.
 
 </td></tr><tr><td>
@@ -70,7 +70,7 @@ Site A
 
 </td><td>
 
-Originating network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Originating network site for this connection. Select the search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-sites.md).
 
 </td></tr><tr><td>
 
@@ -78,13 +78,13 @@ Site Z
 
 </td><td>
 
-Destination network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Destination network site for this connection. Select the search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-sites.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Physical Connection form](physical-connection-forms.md)
+</table>**Parent Topic:**[Physical Connection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/physical-connection-forms.md)
 
 **Related topics**  
 
 
-[Define the physical connection details](../task/define-tni-physical-connections.md)
+[Define the physical connection details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-physical-connections.md)
 

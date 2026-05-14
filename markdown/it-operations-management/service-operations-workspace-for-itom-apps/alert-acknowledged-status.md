@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_admin
 
 4.  Select an alert.
 
-    ![Maintenance check box for an alert](../image/maintenance-check-box.png)
+    ![Maintenance check box for an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/maintenance-check-box.png)
 
 5.  On the **Details** subtab, select the **Acknowledged** check box to place the alert into the Acknowledged state.
 

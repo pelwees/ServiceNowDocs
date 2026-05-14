@@ -19,7 +19,7 @@ Content Publishing offers robust communications creation tools that enable you t
 
 To create employee communications using Content Publishing, follow the process shown in this infographic.
 
-![filler text](../images/employee-comms-process.jpg "Content creation process")
+![filler text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/employee-comms-process.jpg "Content creation process")
 
 1.  Select the platform
 
@@ -39,13 +39,13 @@ To create employee communications using Content Publishing, follow the process s
 
 5.  Translate your content
 
-    Request a language translation for the content you are creating. For more information, see [Multilingual support in the Content Library](ec-switch-language.md).
+    Request a language translation for the content you are creating. For more information, see [Multilingual support in the Content Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-switch-language.md).
 
 6.  Configure publishing
 
-    Configure publishing to control when the content becomes available, who can see it, and for how long. See [Publishing content](ec-content-publishing-schedule.md).
+    Configure publishing to control when the content becomes available, who can see it, and for how long. See [Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
 
-    Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](ecpro-campaigns.md)
+    Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 
 
 ## Platforms and content formats
@@ -54,39 +54,39 @@ Select a tile to learn about the available platforms and content formats, and to
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Microsites ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Assemble HTML-based rich content using a drag-and-drop interface.](ec-rich-content.md)
+[Microsites ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-management-console.svg) Assemble HTML-based rich content using a drag-and-drop interface.](ec-rich-content.md)
 
 </td><td>
 
-[News articles ![](../../../reuse/icons/brand-icons/bus-demand-management.svg) Keep employees updated on company news and announcements.](ec-news-articles.md)
+[News articles ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-demand-management.svg) Keep employees updated on company news and announcements.](ec-news-articles.md)
 
 </td><td>
 
-[Company events ![](../../../reuse/icons/brand-icons/bus-events.svg) Host live company events in the employee portal.](ec-company-events.md)
+[Company events ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-events.svg) Host live company events in the employee portal.](ec-company-events.md)
 
 </td></tr><tr><td>
 
-[Portal ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create portal content in a variety of formats including video, URL, banners, and events.](ec-streamline-content.md)
+[Portal ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create portal content in a variety of formats including video, URL, banners, and events.](ec-streamline-content.md)
 
 </td><td>
 
-[Notification ![](../../../reuse/icons/brand-icons/bus-email.svg) Create email, push, and SMS notifications to send messages directly to your employees.](ec-notification-content.md)
+[Notification ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-email.svg) Create email, push, and SMS notifications to send messages directly to your employees.](ec-notification-content.md)
 
 </td><td>
 
-[Mobile ![](../../../reuse/icons/brand-icons/bus-ebook.svg) Create content specifically for viewing on mobile devices.](ec-mobile-content.md)
+[Mobile ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-ebook.svg) Create content specifically for viewing on mobile devices.](ec-mobile-content.md)
 
 </td></tr><tr><td>
 
-[To-do ![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) Create tasks that prompt employees to take action.](ec-to-do-content.md)
+[To-do ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) Create tasks that prompt employees to take action.](ec-to-do-content.md)
 
 </td><td>
 
-[Pulse survey ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Send Pulse surveys to employees to obtain feedback.](ec-pulse-content.md)
+[Pulse survey ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Send Pulse surveys to employees to obtain feedback.](ec-pulse-content.md)
 
 </td><td>
 
-[Employee Forums ![](../../../reuse/icons/brand-icons/bus-community.svg) Create content that appears on employee forums.](ecpro-employee-forum.md)
+[Employee Forums ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-community.svg) Create content that appears on employee forums.](ecpro-employee-forum.md)
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Select a tile to learn about the available platforms and content formats, and to
 
 </td><td>
 
-[Microsoft Teams ![](../../../reuse/icons/brand-icons/bus-chat.svg) Send messages on Microsoft Teams to drive employee action.](../../sn-teams/concept/using-campaigns-ms-teams-mt.md)
+[Microsoft Teams ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-chat.svg) Send messages on Microsoft Teams to drive employee action.](../../sn-teams/concept/using-campaigns-ms-teams-mt.md)
 
 </td></tr></tbody>
 </table>

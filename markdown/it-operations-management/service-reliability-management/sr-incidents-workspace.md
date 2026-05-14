@@ -17,7 +17,7 @@ Track and collaborate on incidents in the Incidents tab, helping you and your te
 
 The Incidents tab appears in the Service Reliability Management \(SRM\) Reliability tasks page. Its top header shows description information, tags, priority information, state, service, and assignment group.
 
-**Note:** Tags are imported from third-party integrations and attached to incidents. However, you can also create tags to categorize data and drive system logic using the Tag icon ![Tag icon](../image/icon-sr-tag.png). For more information on creating and viewing tags, see [Manually create SRM tags](../task/sr-create-tags.md).
+**Note:** Tags are imported from third-party integrations and attached to incidents. However, you can also create tags to categorize data and drive system logic using the Tag icon ![Tag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-tag.png). For more information on creating and viewing tags, see [Manually create SRM tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-create-tags.md).
 
 When selecting an incident, you're taken to an overview. This section contains three content panels: Summary, Activity, and Recommended actions.
 
@@ -278,7 +278,7 @@ About Postmortem owner:
 
 Use the drag-and-drop feature to edit postmortem sections. You can exclude sections from PDFs, delete sections, or reorder sections.
 
-To add new sections, select the **Add** icon ![Add icon.](../image/icon-sr-add.png).
+To add new sections, select the **Add** icon ![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-add.png).
 
 **Compose** panel
 
@@ -288,11 +288,11 @@ Comments are added to the Activity timeline automatically. Visible to everyone i
 
 **Activity** section
 
-Stream that contains all the system activity, and resolution notes. You can filter, sort, expand or collapse all posts using the header icons. ![Header icons.](../image/icon-sr-activity-header.png)
+Stream that contains all the system activity, and resolution notes. You can filter, sort, expand or collapse all posts using the header icons. ![Header icons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-activity-header.png)
 
 **Note:** The filter option includes **Post types**, **Field changes**, and **Filter sets**. All choices are selected by default. Flagged entries are either all or none.
 
-![Activity section showing selected filters](../image/sr-incident-timeline-options.png)
+![Activity section showing selected filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/sr-incident-timeline-options.png)
 
 **Actions** panel
 
@@ -302,7 +302,7 @@ The **Notifications**, **Agent assist**, **Expert on-call**, and **Email templat
 
 **Attachments** section
 
-Open the **Attachments** section using the Attachment icon ![Attachment icon](../image/icon-sr-attachment.png).
+Open the **Attachments** section using the Attachment icon ![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-attachment.png).
 
 On the **Attachments** section, you can initially **Browse** your local hard drive for files.
 
@@ -312,12 +312,12 @@ Once you have added attachments, you can:
 
     **Note:** You must have two or more attachments to search.
 
--   Upload a new attachment using the \(![Attachments](../image/icon-sr-add.png)\) icon.
--   Download, remove, or rename existing attachments using the More actions icon \(![More actions icon.](../image/icon-more-options.png)\).
+-   Upload a new attachment using the \(![Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-add.png)\) icon.
+-   Download, remove, or rename existing attachments using the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-more-options.png)\).
 
 **Template** section
 
-Open the **Template** panel using the Template icon ![Template icon](../image/icon-sr-template.png).
+Open the **Template** panel using the Template icon ![Template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-template.png).
 
 **Note:** Existing templates are displayed, but creating templates isn't available in SRM.
 
@@ -371,5 +371,5 @@ Start or join a Slack channel:
     You are taken to the Slack channel.
 
 
-**Parent Topic:**[Exploring Service Reliability Management](../concept/exploring-service-reliability-management.md)
+**Parent Topic:**[Exploring Service Reliability Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/exploring-service-reliability-management.md)
 

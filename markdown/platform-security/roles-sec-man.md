@@ -13,7 +13,7 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 Secrets Management adds these roles.
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/secrets-dashboard.md)
 
 ## Secrets administrator \[sn\_secrets.admin\]
 

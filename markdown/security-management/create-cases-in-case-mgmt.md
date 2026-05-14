@@ -29,7 +29,7 @@ r
 
     The Security Cases screen opens.
 
-    ![New security case](../image/new-sec-case.png)
+    ![New security case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/new-sec-case.png)
 
 3.  Fill in the fields as appropriate.
 
@@ -44,7 +44,7 @@ r
 
 4.  Click the **Additional Case Details** tab.
 
-    ![Additional details fields](../image/additional-details-tab.png)
+    ![Additional details fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/additional-details-tab.png)
 
 5.  Fill in the fields as appropriate.
 
@@ -59,13 +59,13 @@ r
 
 6.  Click **Submit**.
 
-    After the record has been saved, you can click the **Case Artifacts** tab and [add artifacts to the case](add-records-to-cases.md).
+    After the record has been saved, you can click the **Case Artifacts** tab and [add artifacts to the case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md).
 
 
--   **[Add artifacts to a case](add-records-to-cases.md)**  
+-   **[Add artifacts to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md)**  
 After you have created a case, you can add artifacts, such as security incidents, CIs, and indicators of compromise, to the case. These artifacts act as clues in solving the case.
--   **[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)**  
+-   **[Associate MITRE-ATT&amp;CK information with security case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associate-mitre-att-ck-information-with-security-case-management.md)**  
 Associate MITRE-ATT&amp;CK tactics and techniques to a security case for better security case management and threat analysis at a granular level.
 
-**Parent Topic:**[Security Case Management](../concept/case-mgmt.md)
+**Parent Topic:**[Security Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/case-mgmt.md)
 

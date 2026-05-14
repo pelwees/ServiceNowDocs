@@ -54,5 +54,5 @@ A sample payload for each subscription is sent to the consumer as sample data. C
 
 ## What to do next
 
-[Publish a foundation data subscription](service-bridge-v2-publish-fds-subscription.md).
+[Publish a foundation data subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-publish-fds-subscription.md).
 

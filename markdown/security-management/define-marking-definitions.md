@@ -74,5 +74,5 @@ Marked Indicators
 Lists of indicators marked with the marking definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Marking definitions](../concept/marking-definitions.md)
+</table>**Parent Topic:**[Marking definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/marking-definitions.md)
 

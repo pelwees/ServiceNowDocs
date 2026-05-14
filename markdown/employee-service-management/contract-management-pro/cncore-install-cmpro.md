@@ -30,7 +30,7 @@ The following items are installed with Contract Management Pro:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md)
+For more information, see [Components installed with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-ccore.md)
 
 ## Procedure
 

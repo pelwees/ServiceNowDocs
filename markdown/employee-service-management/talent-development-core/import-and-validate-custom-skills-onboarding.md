@@ -25,7 +25,7 @@ Skills import
 
 1.  Navigate to **All** &gt; **Skills Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../../ohs-incident-management/image/list-icon-hs.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../ohs-incident-management/image/list-icon-hs.png)\).
 
 3.  Select **Import history** &gt; **Skill imports**.
 
@@ -53,7 +53,7 @@ Process
 
 </td><td>
 
-Access the predefined skills import template so you can import your skills data in the required format. For more information, see [Import skills through file upload](file-upload-skills-import.md).
+Access the predefined skills import template so you can import your skills data in the required format. For more information, see [Import skills through file upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/file-upload-skills-import.md).
 
 </td></tr><tr><td id="d339263e171">
 
@@ -63,11 +63,11 @@ Access the predefined skills import template so you can import your skills data 
 
 Select an integration source to import skills data from the external systems.-   Workday integration
 
-For more information, see [Workday spoke integration in Skills Foundation](../concept/workday-spoke-with-skills-intelligence.md).
+For more information, see [Workday spoke integration in Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/workday-spoke-with-skills-intelligence.md).
 
 -   SAP SuccessFactors integration
 
-For more information, see [SAP SuccessFactors integration Skills Foundation](../concept/sap-successfactors-with-skills-foundation.md).
+For more information, see [SAP SuccessFactors integration Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/sap-successfactors-with-skills-foundation.md).
 
 </td></tr><tr><td id="d339263e226">
 
@@ -77,7 +77,7 @@ For more information, see [SAP SuccessFactors integration Skills Foundation](../
 
 Skills from Credly \(OOTB source\) that are in the Queue \(Dynamic skills table\) are imported automatically. Shows the number of new skills being imported.
 
- **Note:** You can select specific skills and import them directly from the Queue list. For more information, see [Dynamic skill import for harmonization](dynamic-skill-import.md).
+ **Note:** You can select specific skills and import them directly from the Queue list. For more information, see [Dynamic skill import for harmonization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/dynamic-skill-import.md).
 
 </td></tr></tbody>
 </table>8.  Select **Next**.

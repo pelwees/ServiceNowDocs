@@ -26,9 +26,9 @@ Set up an outbound integration between your ServiceNow instance and the PagerDut
 
 1.  Set up PagerDuty as the OAuth provider.
 
-    1.  Log in to the PagerDuty application.![Log in page for PagerDuty application.](../image/pagerduty-spoke-log-in.png)
+    1.  Log in to the PagerDuty application.![Log in page for PagerDuty application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pagerduty-spoke-log-in.png)
 
-    2.  Navigate to **Integrations** &gt; **DEVELOPER TOOLS** &gt; **App Registration.**![App registration link.](../image/pagerduty-spoke-app-reg.png)
+    2.  Navigate to **Integrations** &gt; **DEVELOPER TOOLS** &gt; **App Registration.**![App registration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pagerduty-spoke-app-reg.png)
 
     3.  Select **Create New App**.
 
@@ -38,13 +38,13 @@ Set up an outbound integration between your ServiceNow instance and the PagerDut
 
     6.  Select **Save**.
 
-    7.  Under the Classic User OAuth heading, select **Add**.![Add OAuth button.](../image/pagerduty-spoke-add-oauth.png)
+    7.  Under the Classic User OAuth heading, select **Add**.![Add OAuth button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pagerduty-spoke-add-oauth.png)
 
     8.  In the Redirect URL field, enter your ServiceNow instance URL.
 
     9.  Select **Save**.
 
-        PagerDuty generates the client ID and client secret.![Client ID and secret.](../image/pagerduty-oauth-secret.png)
+        PagerDuty generates the client ID and client secret.![Client ID and secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pagerduty-oauth-secret.png)
 
     10. Copy and store the client ID and secret.
 
@@ -119,6 +119,6 @@ The redirect URL that you had provided when you set up the OAuth app.
 </td></tr></tbody>
 </table>    8.  Select **Create and Get OAuth Token**.
 
-        The OAuth token becomes available.![OAuth token is available.](../image/pagerduty-oauth-generated.png)
+        The OAuth token becomes available.![OAuth token is available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pagerduty-oauth-generated.png)
 
 

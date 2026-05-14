@@ -19,7 +19,7 @@ Use these methods in a Workflow Studio Script step with the `sn_ih` namespace id
 
 **Note:** You can only use this API within the Workflow Studio environment.
 
-There is no constructor for this class. Instead, you must call the build\(\) method in the [XMLStreamingBuilder](../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#) class to return an XMLStreamingAPI object.
+There is no constructor for this class. Instead, you must call the build\(\) method in the [XMLStreamingBuilder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#) class to return an XMLStreamingAPI object.
 
 ## API call order
 
@@ -141,7 +141,7 @@ Output:
 </phoneNumber>
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## XMLStreamingAPI - close\(\)
 
@@ -381,7 +381,7 @@ try {
 
 Returns the XML document as a string.
 
-To return the XML document as a string, don't call the getAttachementId\(\) method in the XMLStreamingBuilder class. For more information, see [XMLStreamingBuilder - Scoped](../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#).
+To return the XML document as a string, don't call the getAttachementId\(\) method in the XMLStreamingBuilder class. For more information, see [XMLStreamingBuilder - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../XMLStreamingBuilder/concept/XMLStreamingBuilderScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -855,7 +855,7 @@ Optional. Map of child elements and values that the CDATA element includes. For 
 }
 ```
 
-You must associate an XML element's prefix with a namespace using [writeNamespace\(\)](XMLStreamingAPIScopedAPI.md#).
+You must associate an XML element's prefix with a namespace using [writeNamespace\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/XMLStreamingAPIScopedAPI.md#).
 
 </td></tr></tbody>
 </table>|Type|Description|
@@ -1162,7 +1162,7 @@ Optional. Map of prefixes and values associated with the XML element. For exampl
 }
 ```
 
-You must associate an XML element's prefix with a namespace using [writeNamespace\(\)](XMLStreamingAPIScopedAPI.md#).
+You must associate an XML element's prefix with a namespace using [writeNamespace\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/XMLStreamingAPIScopedAPI.md#).
 
 </td></tr></tbody>
 </table>|Type|Description|

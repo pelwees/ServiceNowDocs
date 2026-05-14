@@ -31,13 +31,13 @@ Alert grouping enhances operational efficiency and optimizes alert management by
 
 ## Benefits of alert grouping
 
--   Creating [automated alert groups](c_SACorrelatedAlertGroups.md) by aggregating alerts based on predefined patterns.
+-   Creating [automated alert groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_SACorrelatedAlertGroups.md) by aggregating alerts based on predefined patterns.
 -   Correlating alerts using timestamps and CI identification to form automated alert groups.
--   Forming [CMDB based alert grouping](cmdb-alert-groups.md) by correlating alerts based on CI relationships in the CMDB.
+-   Forming [CMDB based alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/cmdb-alert-groups.md) by correlating alerts based on CI relationships in the CMDB.
 -   Correlating alerts based on text similarity of alerts using NLP \(Natural Language Processing\).
 
 **Related topics**  
 
 
-[Synchronizing alert response with automated alert grouping](../task/coordinating-alert-response-with-automated-alert-grouping.md)
+[Synchronizing alert response with automated alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/coordinating-alert-response-with-automated-alert-grouping.md)
 

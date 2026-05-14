@@ -135,8 +135,8 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Components installed with ITSM Roles — Request Management](req-mgmnt-roles-instld-itsm.md)**  
+-   **[Components installed with ITSM Roles — Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/req-mgmnt-roles-instld-itsm.md)**  
 Several user roles are installed with the activation of the ITSM Roles - Request Management plugin \(com.snc.itsm.roles.request\_management\).
 
-**Parent Topic:**[Request Management reference](../../request-management/concept/request-management-reference.md)
+**Parent Topic:**[Request Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../../request-management/concept/request-management-reference.md)
 

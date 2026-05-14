@@ -16,7 +16,7 @@ Build custom agentic workflows, AI agents, and skills for your applications usin
 
 ## Before you begin
 
-If Now Assist for App Engine is not installed, then install it. For more information, see [Installing Now Assist for App Engine](../../app-engine-studio/task/install-now-assist-for-app-engine.md).
+If Now Assist for App Engine is not installed, then install it. For more information, see [Installing Now Assist for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../app-engine-studio/task/install-now-assist-for-app-engine.md).
 
 Verify that you have access to ServiceNow Studio or the ServiceNow IDE.
 
@@ -57,7 +57,7 @@ Build Agent can recommend in-app agents tailored to specific application use cas
 
     You can also open Build Agent in the ServiceNow IDE if you prefer a more code-centric experience.
 
-    The Build Agent chat panel opens by default in new ServiceNow Studio sessions. If the panel isn't open, select **Open Build Agent** from the status bar in the corner of your browser. ![If Build Agent isn't open, open it from the status bar in the corner of your browser.](../../servicenow-studio/image/sn-studio-access-build-agent.png)
+    The Build Agent chat panel opens by default in new ServiceNow Studio sessions. If the panel isn't open, select **Open Build Agent** from the status bar in the corner of your browser. ![If Build Agent isn't open, open it from the status bar in the corner of your browser.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/image/sn-studio-access-build-agent.png)
 
 2.  Select your application from the Build Agent chat panel drop-down list.
 
@@ -75,7 +75,7 @@ Build Agent can recommend in-app agents tailored to specific application use cas
 
 4.  Review and approve the plan by selecting **Approve plan**.
 
-    ![Five-step plan for creating a swag management application](../image/ba-add-skill-1.png "Plan to create a skill")
+    ![Five-step plan for creating a swag management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-add-skill-1.png "Plan to create a skill")
 
     Build Agent starts creating the agentic workflow, agent or skill, along with its instructions, tools, access control lists \(ACLs\), and supporting scripts.
 
@@ -92,7 +92,7 @@ Build Agent can recommend in-app agents tailored to specific application use cas
 
 -   If you have created a skill, use the Now Assist Skill Kit to test the agent with the built-in tools, make necessary changes, and publish the skill.
 
-**Parent Topic:**[Use Build Agent](use-build-agent.md)
+**Parent Topic:**[Use Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/use-build-agent.md)
 
 **Related topics**  
 

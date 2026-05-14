@@ -57,10 +57,10 @@ Role required:
 13. In Action 13, a response task is created for the user to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Office 365 - Malicious File Detected](../concept/playbook-office-malicious-file-detected-.md)
+**Parent Topic:**[Playbook for Office 365 - Malicious File Detected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-office-malicious-file-detected-.md)
 
 **Related topics**  
 
 
-[Set up the Office Malicous File Detected playbook](playbook-setup-office-malicous-file-detected.md)
+[Set up the Office Malicous File Detected playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-setup-office-malicous-file-detected.md)
 

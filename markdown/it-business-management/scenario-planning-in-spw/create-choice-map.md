@@ -17,7 +17,7 @@ Map the choice list for each field map for fields with a list of values from Str
 
 ## Before you begin
 
-Ensure that you have created a field map and it contains choice fields with a list of values. For more information, see [Create a field map](create-field-map.md).
+Ensure that you have created a field map and it contains choice fields with a list of values. For more information, see [Create a field map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-field-map.md).
 
 Role required: sn\_align\_core.apw\_admin
 
@@ -33,7 +33,7 @@ Role required: sn\_align\_core.apw\_admin
 
 5.  Create a new choice map by selecting **New** in the Choice Maps tab.
 
-6.  In the [Choice map form](../reference/choice-map-form.md), fill in the fields.
+6.  In the [Choice map form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/choice-map-form.md), fill in the fields.
 
 7.  Click **Submit**.
 

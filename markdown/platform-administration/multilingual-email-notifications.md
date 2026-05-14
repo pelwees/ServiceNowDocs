@@ -19,11 +19,11 @@ You can customize email notifications for users across multiple regions based on
 
 Two types of translations are available for email notifications:
 
--   [Static translation](static-translation.md)
+-   [Static translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/static-translation.md)
 
     Customize email notifications for recipients across multiple regions based on their preferred language. With static translations, the translation request goes to a translator.
 
--   [Dynamic translation](dynamic-translation.md)
+-   [Dynamic translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
 
     Customize email notifications automatically for users across multiple regions based on their preferred language.
 
@@ -45,7 +45,7 @@ If there is a group email ID, an email is sent in a single language to all the r
 
 ## Email notification translation plugins
 
-Activate the [glide notification translation plugin](../task/activate-translation-plugin.md) to send multi-lingual emails based on the recipient’s preferred language. The localization framework plugin is activated by default along with the Glide notification translation plugin.
+Activate the [glide notification translation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/activate-translation-plugin.md) to send multi-lingual emails based on the recipient’s preferred language. The localization framework plugin is activated by default along with the Glide notification translation plugin.
 
-Activate the [translated email retention plugin](../task/activate-email-retention-plugin.md) to archive emails.
+Activate the [translated email retention plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/activate-email-retention-plugin.md) to archive emails.
 

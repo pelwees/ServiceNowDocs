@@ -13,7 +13,7 @@ breadcrumb: [Email properties, Configure, Email Administration, Notifications, C
 
 Several properties are available to manage digest intervals for email digests.
 
-The following properties are available for the [email digest feature](email-digests.md).
+The following properties are available for the [email digest feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md).
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -44,19 +44,19 @@ glide.email.digest.max\_intervals
 The maximum number of email digest intervals that can be defined. -   **Type**: integer
 -   **Default value**: 100
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: For details on digest intervals, see [Create or modify email digest intervals](../task/create-digest-intervals.md).
+-   **Learn more**: For details on digest intervals, see [Create or modify email digest intervals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-digest-intervals.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email properties](../../reference-pages/concept/c_EmailProperties.md)
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/concept/c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Outbound email configuration](../../reference-pages/reference/r_OutboundMailConfiguration.md)
+[Outbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_OutboundMailConfiguration.md)
 
-[Inbound email configuration](../../reference-pages/reference/r_InboundMailConfiguration.md)
+[Inbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_InboundMailConfiguration.md)
 
-[Email image filtering properties](email-image-filters.md)
+[Email image filtering properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-image-filters.md)
 
-[Advanced email properties](../../reference-pages/reference/r_AdditionalProperties.md)
+[Advanced email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AdditionalProperties.md)
 

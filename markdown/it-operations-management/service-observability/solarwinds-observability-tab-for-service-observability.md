@@ -164,5 +164,5 @@ SolarWinds
 |Packet Loss|Percentage of packets dropped.|SolarWinds|
 |Error|Percentage of errors on the networking device.|SolarWinds|
 
-**Parent Topic:**[SolarWinds templates for Service Observability](solarwinds-templates.md)
+**Parent Topic:**[SolarWinds templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/solarwinds-templates.md)
 

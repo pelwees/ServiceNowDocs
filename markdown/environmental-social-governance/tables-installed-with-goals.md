@@ -111,5 +111,5 @@ Can create, view, edit, and delete any goal.
 -   sn\_gf.strategy\_planner
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](../concept/reference-data-esg.md)
+</table>**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/reference-data-esg.md)
 

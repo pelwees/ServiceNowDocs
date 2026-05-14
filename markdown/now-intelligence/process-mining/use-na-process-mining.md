@@ -17,12 +17,12 @@ Use Now Assist for Process Mining to run work notes analysis on a transition and
 
 This section covers the following topic:
 
--   **[Run work notes analysis](../task/run-worknotes-analysis.md)**  
+-   **[Run work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/run-worknotes-analysis.md)**  
 Generate a work notes analysis on a transition.
--   **[Generate highlights for improvement opportunities](../task/generate-highlights.md)**  
+-   **[Generate highlights for improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/generate-highlights.md)**  
 Generate highlights for the improvement opportunities to optimize your processes.
--   **[Run intent and activity analysis](../task/run-intent-and-activity-analysis.md)**  
+-   **[Run intent and activity analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/run-intent-and-activity-analysis.md)**  
 Generate a intent and activity analysis on a node.
 
-**Parent Topic:**[Now Assist for Process Mining](now-assist.md)
+**Parent Topic:**[Now Assist for Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/now-assist.md)
 

@@ -17,7 +17,7 @@ Set a breakpoint on a component in RPA Desktop Design Studio so that you can pau
 
 Ensure that the component or components where you want to set a breakpoint in are a part of your automation.
 
-Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](configure-components.md).
+Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-components.md).
 
 Role required: none
 
@@ -27,11 +27,11 @@ Role required: none
 
     After a breakpoint is set on a component, you can see a red icon as shown in the following example.
 
-    ![Red icon that appears after a breakpoint is set on a component.](../image/set-breakpoint-red.png "Red icon that appears after a breakpoint is set on a component")
+    ![Red icon that appears after a breakpoint is set on a component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/set-breakpoint-red.png "Red icon that appears after a breakpoint is set on a component")
 
     During the automation execution, when the robot reaches a component that has a breakpoint, the execution pauses and the component is highlighted with a red border, as shown in the following example.
 
-    ![Red border that appears when the robot reaches a component that has a breakpoint.](../image/set-breakoint-red-border.png "Red border that appears when the robot reaches a component that has a breakpoint")
+    ![Red border that appears when the robot reaches a component that has a breakpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/set-breakoint-red-border.png "Red border that appears when the robot reaches a component that has a breakpoint")
 
 2.  Choose an option and complete the action.
 
@@ -85,5 +85,5 @@ Click **Clear breakpoints** under the **Design** tab.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

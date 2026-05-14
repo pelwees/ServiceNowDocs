@@ -19,7 +19,7 @@ Create a campaign to push communications and important information to your emplo
 
 Role required: sn\_ca.campaign\_manager
 
-If you would like to use Content Analytics to track the success of your campaign, you must set up a tracking profile and activate it. For more information, see [Content Analytics](../concept/ecpro-content-automation-analytics.md).
+If you would like to use Content Analytics to track the success of your campaign, you must set up a tracking profile and activate it. For more information, see [Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ecpro-content-automation-analytics.md).
 
 ## About this task
 
@@ -65,7 +65,7 @@ Audience
 
 </td><td>
 
-Audience that will view the content of a campaign. Click the Unlock Audience icon to select the audience that you want the campaign to target. For more information, see [Create an audience](ec-audiences.md).
+Audience that will view the content of a campaign. Click the Unlock Audience icon to select the audience that you want the campaign to target. For more information, see [Create an audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ The frequency, in days, that you want to re-evaluate the audience. **Important:*
 
 Audiences are re-evaluated after the **Content Experiences: Update Campaign Audience** scheduled job runs based on the value you enter here.This field appears only after you select the **Re-evaluate campaign** check box.
 
- The value you set in this field overrides the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md).
+ The value you set in this field overrides the default \(7 days\) value that is set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-installed-with-content-auto.md).
 
 </td></tr><tr><td>
 
@@ -153,5 +153,5 @@ Click the Lookup using list icon and select the tracking profile that you want t
 
 ## What to do next
 
-Click **Next** or the **Schedule of Content** tab to add stages and content to the campaign: [Create campaign stages with Content Experience Builder](ecpro-campaign-builder.md)
+Click **Next** or the **Schedule of Content** tab to add stages and content to the campaign: [Create campaign stages with Content Experience Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaign-builder.md)
 

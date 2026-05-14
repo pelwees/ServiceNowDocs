@@ -51,8 +51,8 @@ Visit the app store [Collaboration Services](https://store.servicenow.com/sn_app
 
 10. Select **Run Fix Script**.
 
-    The ![Start Zoom chat](../images/icon-start-zoom-chat.png) icon is displayed as a field decorator in a record.
+    The ![Start Zoom chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/icon-start-zoom-chat.png) icon is displayed as a field decorator in a record.
 
 
-**Parent Topic:**[Configuring Collaboration services for Zoom](../concept/configure-sn-zoom.md)
+**Parent Topic:**[Configuring Collaboration services for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/configure-sn-zoom.md)
 

@@ -17,16 +17,16 @@ Use the network topology in the Telecommunications Network Inventory application
 
 To view the network topology, you must create the topology record either manually or using a "design and assign" function. To learn more, see:
 
--   [Manually create a network topology](../task/create-netowrk-topology.md).
--   [Create a network topology record by using design and assign](../task/instantiate-network-topology-design-assign.md).
+-   [Manually create a network topology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-netowrk-topology.md).
+-   [Create a network topology record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/instantiate-network-topology-design-assign.md).
 
--   **[Viewing a network topology](../task/viewing-network-topology.md)**  
+-   **[Viewing a network topology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/viewing-network-topology.md)**  
 View the details of a network topology and visualize how the network elements are organized and connected to one another. You can understand the detailed overview of the network infrastructure of the topology in the Telecommunications Network Inventory application.
 
-**Parent Topic:**[Network visualization view](using-network-visualization.md)
+**Parent Topic:**[Network visualization view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-visualization.md)
 
 **Related topics**  
 
 
-[Network topology](visualization-of-topology.md)
+[Network topology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/visualization-of-topology.md)
 

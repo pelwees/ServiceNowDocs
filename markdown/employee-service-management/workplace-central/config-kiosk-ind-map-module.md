@@ -23,11 +23,11 @@ Role required: sn\_wsd\_kiosk.admin and sn\_wsd\_central.workspace\_user
 
 1.  Navigate to **All** &gt; **Workplace Central**.
 
-2.  Select the Kiosk Indoor Mapping icon \(![Kiosk Indoor Mapping icon.](../images/kiosk-indoor-mapping-icon.png)\).
+2.  Select the Kiosk Indoor Mapping icon \(![Kiosk Indoor Mapping icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/kiosk-indoor-mapping-icon.png)\).
 
 3.  On the Kiosk Map Configurations list, select the record that you want to configure.
 
-    For more information about creating a kiosk configuration, see [Create a kiosk configuration](../../workplace-services-kiosk/task/create-kiosk-device-config.md).
+    For more information about creating a kiosk configuration, see [Create a kiosk configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-services-kiosk/task/create-kiosk-device-config.md).
 
     The **Map configuration** tab is open by default.
 
@@ -59,9 +59,9 @@ Module configuration
 
 </td><td>
 
-Configuration record for the kiosk module.For more information about creating a module, see [Create a kiosk module](../../workplace-services-kiosk/task/create-kiosk-module.md).
+Configuration record for the kiosk module.For more information about creating a module, see [Create a kiosk module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-services-kiosk/task/create-kiosk-module.md).
 
-For more information about creating a map configuration, see [Configure map features for kiosk](config-map-features.md).
+For more information about creating a map configuration, see [Configure map features for kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-map-features.md).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Type
 
 Type of color scheme you want to set for the kiosk module configuration.The type can be set to primary or secondary.
 
-![Homepage of a kiosk showing the primary and secondary module type.](../../workplace-services-kiosk/images/wsd-kiosk-page-type.png)
+![Homepage of a kiosk showing the primary and secondary module type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-services-kiosk/images/wsd-kiosk-page-type.png)
 
 </td></tr><tr><td>
 
@@ -95,16 +95,16 @@ Order of preference of the kiosk module.
     -   The kiosk device automatically maintains the session before it times out. The session timeout value can be configured in the **glide.ui.session\_timeout** property.
     -   The kiosk header contains the session refresh API; ensure that you do not remove or replace the kiosk theme or the kiosk header.
 
-        For information about customizing the kiosk header, see [Customize the kiosk header](../../workplace-services-kiosk/task/customize-kiosk-header.md).
+        For information about customizing the kiosk header, see [Customize the kiosk header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-services-kiosk/task/customize-kiosk-header.md).
 
 7.  Save the record.
 
     The Kiosk module is created and linked to the configuration.
 
 
-**Parent Topic:**[Working with Kiosk Indoor Mapping](../concept/working-kiosk-ind-map.md)
+**Parent Topic:**[Working with Kiosk Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-kiosk-ind-map.md)
 
-**Previous topic:**[Configure the kiosk position and map settings](config-kiosk-map.md)
+**Previous topic:**[Configure the kiosk position and map settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/config-kiosk-map.md)
 
-**Next topic:**[Manage Workplace Central](../concept/manage-workplace-central.md)
+**Next topic:**[Manage Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-workplace-central.md)
 

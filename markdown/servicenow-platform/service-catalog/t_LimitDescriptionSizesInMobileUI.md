@@ -37,20 +37,20 @@ If set to **No**, the full descriptions are given
 
 
 
- ![Screenshot for setting the property to Yes](../image/ServiceCatalog2LineLimitMobileUIYes.png)
+ ![Screenshot for setting the property to Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalog2LineLimitMobileUIYes.png)
 
 </td><td>
 
 
 
- ![Screenshot for setting the property to No](../image/ServiceCatalog2LineLimitMobileUINo.png)
+ ![Screenshot for setting the property to No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalog2LineLimitMobileUINo.png)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure Classic Mobile devices](t_ServiceCatalogOnMobileDevices.md)
+**Parent Topic:**[Configure Classic Mobile devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ServiceCatalogOnMobileDevices.md)
 
 **Related topics**  
 
 
-[Define the mobile layout](t_DefiningMobileLayout.md)
+[Define the mobile layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefiningMobileLayout.md)
 

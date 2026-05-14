@@ -43,5 +43,5 @@ The draft and published status provide clear value for both project managers and
 -   Better communication, helping stakeholders trust the accuracy and readiness of published reports.
 -   Simple state management without introducing workflow automation or approval dependencies.
 
-**Parent Topic:**[Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)
+**Parent Topic:**[Create a status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../task/create-a-status-report-in-project-workspace.md)
 

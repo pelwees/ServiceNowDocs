@@ -64,6 +64,6 @@ The Household form includes the following related lists for household members:
 
     -   Current Households
     -   All Households
-    **Note:** You must configure the Consumer form to display these related lists. For more information, see [Configure Service Model Foundation](configure-industry-data-model.md).
+    **Note:** You must configure the Consumer form to display these related lists. For more information, see [Configure Service Model Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md).
 
 

@@ -29,23 +29,23 @@ Role required: sn\_ti.case\_user\_write
 
 4.  Click the Artifact Filter drop-down list and select **Excluded Artifacts**.
 
-    ![Excluded Artifacts list](../image/exclude-filter.png)
+    ![Excluded Artifacts list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/exclude-filter.png)
 
 5.  Select one or more artifact records that you want to return to the Include list.
 
 6.  From the **Actions on selected items** drop-down list, select **Include**.
 
-    ![Select artifacts and return them to the Include list](../image/re-include-artifacts.png)
+    ![Select artifacts and return them to the Include list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/re-include-artifacts.png)
 
 7.  Click **Include** in the confirmation box.
 
     The selected artifacts are removed from the list of excluded artifacts and returned to the list of artifacts included in the case.
 
 
-**Parent Topic:**[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+**Parent Topic:**[Security artifact exclusion and inclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/artifact-inclusion-exclusion.md)
 
 **Related topics**  
 
 
-[Exclude security artifacts from a case](exclude-records.md)
+[Exclude security artifacts from a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/exclude-records.md)
 

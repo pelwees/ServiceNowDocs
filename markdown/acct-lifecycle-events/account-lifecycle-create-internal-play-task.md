@@ -178,7 +178,7 @@ Any notes to internal team members regarding this internal play.
 ## What to do next
 
 -   Select **Discuss** to start a sidebar discussion about this internal play task. In the pop-up window, select the participants who need to participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this initiative. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
--   Create success play: See [Create a success play](account-lifecycle-create-success-play.md).
+-   Create success play: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-play.md).
 
-**Parent Topic:**[Create an internal play playbook record](account-lifecycle-create-internal-play.md)
+**Parent Topic:**[Create an internal play playbook record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-internal-play.md)
 

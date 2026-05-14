@@ -17,16 +17,16 @@ Accounts Payable Invoice Processing \(com.sn\_ap\_apm\) enables Accounts Payable
 
 Accounts Payable Invoice Processing also enables purchase order matching, invoice exception management, and invoice approval management. Thus, enabling Account Payable Specialists to manage the entire life cycle of an invoice, from its ingestion to approval.
 
-For more information about installing Accounts Payable Invoice Processing, see [Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md).
+For more information about installing Accounts Payable Invoice Processing, see [Install Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-acc-pay-mgmt.md).
 
-**Parent Topic:**[Explore Accounts Payable Operations](explore-acc-pay-mgmt.md)
+**Parent Topic:**[Explore Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Invoice Case Management](acc-pay-case-mgmt-overview.md)
+[Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-case-mgmt-overview.md)
 
-[Source-to-Pay Workspace](acc-pay-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-workspace.md)
 
-[Accounts Payable Operations integration with Document Intelligence](apo-docintel-integration.md)
+[Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-docintel-integration.md)
 

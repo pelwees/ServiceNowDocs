@@ -19,8 +19,8 @@ View the list of Operational Technology \(OT\) devices that aren't assigned to a
 
 The following plugins must be installed:
 
--   [Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)
--   [Industrial Process Manager](../../mftg-manufacturing-process-mgr/concept/industrial-process-manager-overview.md)
+-   [Operational Technology Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)
+-   [Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../mftg-manufacturing-process-mgr/concept/industrial-process-manager-overview.md)
 
 Role required: cmdb\_ot\_isa\_editor and cmdb\_ot\_editor
 
@@ -43,7 +43,7 @@ As part of OT device mapping, you need to assign the device to a site before map
 
 ## What to do next
 
-The OT devices are assigned to a site but not mapped to an equipment model entity. You can view a list of the unmapped OT devices to complete the device mapping. For more information, see [View unmapped OT devices](view-unmapped-ot-devices.md).
+The OT devices are assigned to a site but not mapped to an equipment model entity. You can view a list of the unmapped OT devices to complete the device mapping. For more information, see [View unmapped OT devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-unmapped-ot-devices.md).
 
-**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](automate-mappings-between-ot-assets-and-equipment-model-entity.md)
+**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 

@@ -36,7 +36,7 @@ Applications
 
 </th></tr></thead><tbody><tr><td>
 
-[Telecom Service Management \(TSM\)](tsm-about.md)
+[Telecom Service Management \(TSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/tsm-about.md)
 
 </td><td>
 
@@ -44,13 +44,13 @@ Telecommunications Service Management \(TSM\) breaks down siloed legacy systems 
 
 </td><td>
 
--   [Now Assist for Telecommunications, Media, and Technology](../../tmt-spmc/reference/now-assist-spmc.md)
+-   [Now Assist for Telecommunications, Media, and Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-spmc/reference/now-assist-spmc.md)
 -   [Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-events-landing.md)
 -   [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 -   [Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows.md)
--   [Customer Service Problem Management](../../tmt-spmc/reference/cspm-landing-page.md)
--   [Service Test Management](../../tmt-service-test-management/reference/stm-landing-page.md)
--   [Telecommunications Customer 360](../../tmt-telecom-customer-360/concept/c360-land-page.md)
+-   [Customer Service Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-spmc/reference/cspm-landing-page.md)
+-   [Service Test Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-service-test-management/reference/stm-landing-page.md)
+-   [Telecommunications Customer 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-telecom-customer-360/concept/c360-land-page.md)
 
 </td></tr><tr><td>
 
@@ -62,15 +62,15 @@ Telecommunications applications that enable you to automate operations and manag
 
 </td><td>
 
--   [Telecommunications Network Inventory](../../tmt-telecom-network-inventory/concept/telecom-network-inventory.md)
--   [Telecommunications Service Operations Management](../../tmt-telecom-service-operations-mgt/concept/telecommunications-service-operations-management.md)
--   [Sales Customer Relationship Management for Telecommunications](../../tmt-somt/concept/somt.md)
--   [Field Service Management for Telecommunications](../../tmt-field-service-management/concept/field-service-management-telecommunications.md)
--   [Strategic Portfolio Management for Telecommunications](../../tmt-spmt/concept/spmt-overview.md)
+-   [Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-telecom-network-inventory/concept/telecom-network-inventory.md)
+-   [Telecommunications Service Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-telecom-service-operations-mgt/concept/telecommunications-service-operations-management.md)
+-   [Sales Customer Relationship Management for Telecommunications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-somt/concept/somt.md)
+-   [Field Service Management for Telecommunications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-field-service-management/concept/field-service-management-telecommunications.md)
+-   [Strategic Portfolio Management for Telecommunications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-spmt/concept/spmt-overview.md)
 
 </td></tr><tr><td>
 
-[Technology Provider Service Management \(TPSM\)](tpsm-about.md)
+[Technology Provider Service Management \(TPSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/tpsm-about.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Technology Provider Service Management \(TPSM\) automates work for technology pr
 
 </td><td>
 
--   [Now Assist for Telecommunications, Media, and Technology](../../tmt-spmc/reference/now-assist-spmc.md)
+-   [Now Assist for Telecommunications, Media, and Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-spmc/reference/now-assist-spmc.md)
 -   [Customer Success Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-events-landing.md)
 -   [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 -   [Product Support for Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows.md)
@@ -98,7 +98,7 @@ Open Digital Architecture-aligned REST APIs available across TMT solutions — a
 
 </td><td>
 
-[Browse API reference](../reference/tmt-api-reference.md)
+[Browse API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../reference/tmt-api-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

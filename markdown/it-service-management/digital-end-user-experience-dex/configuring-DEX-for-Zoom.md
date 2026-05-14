@@ -20,7 +20,7 @@ The DEX for Zoom gets installed automatically when you install Digital End-User 
 
     To enable call quality monitoring for Zoom, do the following:
 
-    -   [Create a connected Zoom application](create-a-connected-zoom-app.md).
-    -   [Add Zoom connection](add-zoom-connection.md).
-2.  [Enable application monitoring](../task/enable-app-monitor.md) to gain insights into call quality metrics and diagnose issues to enhance performance.
+    -   [Create a connected Zoom application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-a-connected-zoom-app.md).
+    -   [Add Zoom connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-zoom-connection.md).
+2.  [Enable application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/enable-app-monitor.md) to gain insights into call quality metrics and diagnose issues to enhance performance.
 

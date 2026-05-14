@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Action Assignment form](../reference/action-assignment-form.md).
+    For a description of the field values, see [Action Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/action-assignment-form.md).
 
 4.  Select **Submit**.
 
@@ -38,5 +38,5 @@ The **New** action button is added to the APW List Menu Configuration page.
 
 ## What to do next
 
-[Customize Lists in Portfolio Planning Workspace](customize-lists-in-portfolio-planning-workspace.md).
+[Customize Lists in Portfolio Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/customize-lists-in-portfolio-planning-workspace.md).
 

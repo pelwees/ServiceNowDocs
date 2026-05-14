@@ -20,10 +20,10 @@ Configure Google as calendar provider to start synchronizing reservation. Link i
 Ensure the following:
 
 -   You have created the connection and credential alias. If not, do one of the following:
-    -   Configure the default connection and credential alias. Refer to [Create a Connection and credential record for Google](create-connection-configuration-with-google.md).
+    -   Configure the default connection and credential alias. Refer to [Create a Connection and credential record for Google](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-configuration-with-google.md).
     -   Create your own connection and credential alias if you do not want to use the default alias. Refer to .
 -   Application scope is set to **Google Calendar Spoke**. If it is not set, complete the following:
-    1.  Select the Application scope icon \(![Application scope icon.](../image/application-scope-globe-icon.png)\) your Employee Center homepage.
+    1.  Select the Application scope icon \(![Application scope icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../image/application-scope-globe-icon.png)\) your Employee Center homepage.
     2.  In the drop- down, select **Application scope**.
     3.  In the filter navigator, search and select **Google Calendar Spoke**.
     4.  Refresh the page.
@@ -166,5 +166,5 @@ Google Calendar is configured as calendar provider.
     3.  On the Location form, select **Sync Location**.
     Perform Step 2 and Step 3 on all the Reservable sync config records.
 
--   [Add multiple Reservable Sync Configurations](add-reservable-sync-config.md)
+-   [Add multiple Reservable Sync Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/add-reservable-sync-config.md)
 

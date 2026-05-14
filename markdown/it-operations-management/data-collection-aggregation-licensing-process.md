@@ -13,7 +13,7 @@ breadcrumb: [Exploring ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscripti
 
 ITOM/OT SU Licensing application counts CIs for ITOM applications and uses a daily average count for the last 90 days to produce license statistics for purchased subscription units.
 
-ServiceNow charges for various ITOM applications, including ITOM Visibility, ITOM Discovery, ITOM AIOps, Health Log Analytics, ITOM Cloud Accelerate, and ITOM Optimization. For specific information about the products and features covered by ITOM subscriptions, see [Subscriptions for IT Operations Management](itom-license-module.md).
+ServiceNow charges for various ITOM applications, including ITOM Visibility, ITOM Discovery, ITOM AIOps, Health Log Analytics, ITOM Cloud Accelerate, and ITOM Optimization. For specific information about the products and features covered by ITOM subscriptions, see [Subscriptions for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md).
 
 The process of collecting and aggregating information for licensing purposes involves the following steps:
 
@@ -24,5 +24,5 @@ The process of collecting and aggregating information for licensing purposes inv
 
 As a result, you can view the statistics on how your organization uses purchased subscription units.
 
-![ITOM application license flow](../image/itom-licensing-flow.png "ITOM application license flow")
+![ITOM application license flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-licensing-flow.png "ITOM application license flow")
 

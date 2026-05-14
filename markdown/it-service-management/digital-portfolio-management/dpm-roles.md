@@ -120,10 +120,10 @@ To assign the DPM manager role to a group, the admin does the following:
 |sn\_dpm\_kpi\_group\_m2m\_spm\_nodes|Stores records for key performance indicator \(KPI\) group nodes from Service Portfolio Management.|
 |sn\_team\_perf\_kpi\_group|Stores records for KPIs, a PA indicator, and data visualization properties.|
 
-**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
+**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
 **Related topics**  
 
 
-[Activate Digital Portfolio Management](../task/dpm-activate.md)
+[Activate Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-activate.md)
 

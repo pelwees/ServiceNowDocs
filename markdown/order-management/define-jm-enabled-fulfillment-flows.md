@@ -105,5 +105,5 @@ The flow action checks if an order task has a previous state value and uses the 
 
 ## What to do next
 
-[Configure the Order Task Duration Assignment Policy](configure-order-task-duration-assignment-policy.md).
+[Configure the Order Task Duration Assignment Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-order-task-duration-assignment-policy.md).
 

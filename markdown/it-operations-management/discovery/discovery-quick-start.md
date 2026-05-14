@@ -39,11 +39,11 @@ After Discovery identifies the subnets, it automatically assigns the IP ranges o
 
 2.  Select **Discovery Quick Start** to begin configuration.
 
-    ![Start Quick Start](../image/QS_Start.png)
+    ![Start Quick Start](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/QS_Start.png)
 
     **Note:** If you did not set up a MID Server yet, select **MID Server Guided Setup** when prompted to create the MID Server user, download and install the MID Server, and validate it. Links in Guided Setup return you to Discovery Quick Start to continue configuring subnet discovery. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-    ![MID Server setup link](../image/QS_NoMIDFound2.png)
+    ![MID Server setup link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/QS_NoMIDFound2.png)
 
 3.  In the **Select MID Servers** tab, select qualified MID Servers for subnet discovery.
 
@@ -54,7 +54,7 @@ After Discovery identifies the subnets, it automatically assigns the IP ranges o
         -   Be configured and in an **Up** state.
         -   Be validated.
         -   Have the Discovery application attached or **ALL** applications configured.
-        ![MID Server selection screen](../image/QS_SelectMIDServers.png)
+        ![MID Server selection screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/QS_SelectMIDServers.png)
 
     2.  If you want Discovery to use all new MID Servers that meet the setup criteria, select the **Automatically include new MID Servers** option.
 
@@ -66,13 +66,13 @@ After Discovery identifies the subnets, it automatically assigns the IP ranges o
 
     **Note:** You can return to this phase after creating a schedule to add credentials.
 
-    ![SNMP credentials for routers](../image/snmp-creds-accelerator.png)
+    ![SNMP credentials for routers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/snmp-creds-accelerator.png)
 
     1.  Select **New** to add SNMP community or SNMP V3 credentials, if necessary.
 
     2.  If the list of targeted routers does not include all the routers you expect to use, select the plus icon and add the router by IP address.
 
-        ![Add routers](../image/list-of-routers-accelerator.png)
+        ![Add routers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/list-of-routers-accelerator.png)
 
     3.  After you configure all necessary credentials, select **Test Router Access** to verify that Discovery can use your credentials to access routers.
 
@@ -88,7 +88,7 @@ After Discovery identifies the subnets, it automatically assigns the IP ranges o
 
     1.  Complete the schedule using the fields from the list.
 
-        ![Discovery schedule for accelerator](../image/schedule-accelerator.png)
+        ![Discovery schedule for accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/schedule-accelerator.png)
 
         -   **Active**: Enables or disables this schedule.
         -   **Frequency**: Select how often the schedule should run:
@@ -107,7 +107,7 @@ After Discovery identifies the subnets, it automatically assigns the IP ranges o
         -   **Finish** saves the schedule. Discovery then runs at the interval specified in the schedule.
 6.  View subnet discovery results.
 
-    ![Subnet Discovery results](../image/subnet-discovery-results-accel.png)
+    ![Subnet Discovery results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/subnet-discovery-results-accel.png)
 
     1.  Select each tile for details.
 
@@ -133,7 +133,7 @@ Using the credentials you provide, the Quick Start wizard finds all the configur
 
 ### Before you begin
 
-You should perform this procedure after you complete [Configure and schedule subnet discovery](discovery-quick-start.md#) in the Discovery Quick Start.
+You should perform this procedure after you complete [Configure and schedule subnet discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md#) in the Discovery Quick Start.
 
 Role required: discovery\_admin
 
@@ -143,19 +143,19 @@ The goal of this phase is to create the schedules necessary to discover the CIs 
 
 You must be familiar with the types of credentials that you need for the CIs in your network. Each CI type requires different credentials. For example, if Discovery uses patterns instead of probes, the patterns might require [applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md).
 
-Review the requirements for the CI types you intend to discover. See [Data collected by ITOM Visibility](../reference/data-collected-by-itom-visibility.md), and then locate the specific type of device, computer, or application.
+Review the requirements for the CI types you intend to discover. See [Data collected by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/data-collected-by-itom-visibility.md), and then locate the specific type of device, computer, or application.
 
 ### Procedure
 
 1.  From the Subnet Discovery Results page of the Discovery Quick Start, select **Create Discovery schedules**.
 
-    ![Subnet Discovery results](../image/subnet-discovery-results-accel.png)
+    ![Subnet Discovery results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/subnet-discovery-results-accel.png)
 
 2.  Create the credentials necessary to discover CIs in your network.
 
     1.  Select the credential type you want to manage from the **View** drop-down list.
 
-        All the credentials currently configured for that CI type display in individual tiles.![Create credentials for CI Discovery](../image/credentials-ci-disco-accel.png)
+        All the credentials currently configured for that CI type display in individual tiles.![Create credentials for CI Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/credentials-ci-disco-accel.png)
 
     2.  To add a credential, select **New**.
 
@@ -171,7 +171,7 @@ Review the requirements for the CI types you intend to discover. See [Data colle
 
     The list of gateway routers shows those devices not currently assigned to a location.
 
-    ![Assign routers to locations](../image/router-locations-accelerator.png)
+    ![Assign routers to locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/router-locations-accelerator.png)
 
     1.  Select the check boxes for the routers you want to assign a location.
 
@@ -193,7 +193,7 @@ Review the requirements for the CI types you intend to discover. See [Data colle
 
     1.  Complete the schedule using the fields in the list.
 
-        ![Create a CI Discovery schedule](../image/QS_CI_Schedule.png)
+        ![Create a CI Discovery schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/QS_CI_Schedule.png)
 
         -   **Active**: Enables or disables this schedule.
         -   **Frequency**: Select how often the schedule should run:

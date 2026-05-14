@@ -165,7 +165,7 @@ No
 
 Daily statistics are maintained for 33 days. Monthly totals are maintained for 13 months. Table cleaners for the sys\_api\_stats, sys\_api\_stats\_requestor, and sys\_api\_stats\_requestor\_monthly tables remove analytics records older than these limits.
 
-**Parent Topic:**[Analyze REST and SOAP API usage](c_APIAnalytics.md)
+**Parent Topic:**[Analyze REST and SOAP API usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_APIAnalytics.md)
 
 ## REST &amp; SOAP API analytics naming
 

@@ -15,20 +15,20 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Approval Record widget shows the full record for an approval including the activity stream. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Approval Record widget showing all of the information available about the approval including comments by the requestor.](../image/WidgetApprovalRecord.png "Approval Record widget")
+![Approval Record widget showing all of the information available about the approval including comments by the requestor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetApprovalRecord.png "Approval Record widget")
 
 ## Instance options
 
 The approval record widget does not include instance options.
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

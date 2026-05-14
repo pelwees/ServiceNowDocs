@@ -57,5 +57,5 @@ Role required: admin or sn\_logstoanalytics.admin
     The source type shows up on the Sources list with the selected topic name and other information.
 
 
-**Parent Topic:**[Create a log source configuration](les-create-source-configuration.md)
+**Parent Topic:**[Create a log source configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-create-source-configuration.md)
 

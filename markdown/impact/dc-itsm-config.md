@@ -40,11 +40,11 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
 5.  Repeat these steps for all assignment groups.
 
-    ![Example with Type set to Tier 1.](../image/dct_config_1.png)
+    ![Example with Type set to Tier 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dct_config_1.png)
 
 6.  To validate, run a query against the incident table for assignment groups that are still unclassified to validate you have classified all groups.
 
-    ![Query of Assignment.group.Type > does not contain > Tier 1 AND Assignment.group.Type > does not contain > Tier 2+.](../image/dct_config_2.png)
+    ![Query of Assignment.group.Type > does not contain > Tier 1 AND Assignment.group.Type > does not contain > Tier 2+.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dct_config_2.png)
 
     If your assignment groups change, you will have to reclassify them.
 
@@ -70,6 +70,6 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
     2.  Enter the data point in the relevant month cell.
 
-        ![Example with Mar 2024 cell selected with no Indicator score value entered.](../image/dct_man_data_points_itsm.png)
+        ![Example with Mar 2024 cell selected with no Indicator score value entered.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dct_man_data_points_itsm.png)
 
 

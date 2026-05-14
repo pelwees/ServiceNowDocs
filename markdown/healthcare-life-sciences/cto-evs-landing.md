@@ -17,23 +17,23 @@ Care Team Operations for Environmental Services contains the case types to repor
 
 <table id="table_ayn_jlh_52c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how care teams use Care Team Operations for Environmental Services.](cto-evs-landing.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how care teams use Care Team Operations for Environmental Services.](cto-evs-landing.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your application.](cto-evs-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your application.](cto-evs-configuring.md)
 
 </td><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Environmental Services department.](cto-evs-create-requests.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Environmental Services department.](cto-evs-create-requests.md)
 
 </td></tr><tr><td>
 
-[Resolve![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases or work orders.](cto-evs-fulfill-requests.md)
+[Resolve![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases or work orders.](cto-evs-fulfill-requests.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-evs-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-evs-reference.md)
 
 </td><td>
 

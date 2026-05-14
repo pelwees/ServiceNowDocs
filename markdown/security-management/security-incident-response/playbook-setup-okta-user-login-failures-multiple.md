@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  Create a copy of the Okta User Login Failures from Multiple IPs playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, select the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, select the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the Okta User Login Failures from Multiple IPs playbook.](../image/playbook-okta-login-failures-ips-overview.png "Okta User Login Failures from Multiple IPs playbook")
+    ![Overview of the Okta User Login Failures from Multiple IPs playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-okta-login-failures-ips-overview.png "Okta User Login Failures from Multiple IPs playbook")
 
 4.  Activate the playbooks.
 
@@ -46,8 +46,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     This playbook is triggered and associated with the security incident when the **Category** is **Failed Login**.
 
-    ![Trigger condition for Okta User Login Failures from Multiple IPs playbook.](../image/playbook-okta-login-failures-ips-trigger.png "Okta User Login Failures from Multiple IPs playbook trigger condition")
+    ![Trigger condition for Okta User Login Failures from Multiple IPs playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-okta-login-failures-ips-trigger.png "Okta User Login Failures from Multiple IPs playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](../concept/playbook-okta-user-login-failures-ips.md)
+**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-okta-user-login-failures-ips.md)
 

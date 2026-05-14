@@ -17,9 +17,9 @@ You can modify the checkout form to use an alternate description field or to add
 
 By default, the checkout forms list the **Description**, **Delivery Date**, **Stage**, **Price**, **Quantity,** and **Total** columns. An example of default checkout form is shown:
 
-![Screenshot for checkout default](../image/CheckoutDefault.png "Checkout default")
+![Screenshot for checkout default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/CheckoutDefault.png "Checkout default")
 
-**Parent Topic:**[Legacy flexible checkout and delivery forms](c_FlexibleCheckoutAndDeliveryForms.md)
+**Parent Topic:**[Legacy flexible checkout and delivery forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_FlexibleCheckoutAndDeliveryForms.md)
 
 ## Add the request item number on checkout form
 
@@ -37,7 +37,7 @@ Role required: admin
 
 3.  Select the **Yes** check box to add the number column to the checkout form.
 
-    ![Screenshot for checkout number](../image/CheckoutNumber.png "Checkout number")
+    ![Screenshot for checkout number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/CheckoutNumber.png "Checkout number")
 
 
 ## Use an alternate description field on the checkout form
@@ -58,6 +58,6 @@ Role required: admin
 
     For example, if you've selected **name**:
 
-    ![Screenshot for checkout name.](../image/CheckoutName.png "Checkout name")
+    ![Screenshot for checkout name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/CheckoutName.png "Checkout name")
 
 

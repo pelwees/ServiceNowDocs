@@ -209,5 +209,5 @@ sn\_sow\_synthetics\_bulk\_job\_governance
 Defines governance metadata for rate limiting and auditing for bulk jobs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+</table>**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

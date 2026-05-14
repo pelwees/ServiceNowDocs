@@ -36,5 +36,5 @@ Accounts Payable Specialists can use the Invoice processing detailed form to vie
 |Updated by|Name of the person who updated the invoice processing detail record.|
 |Updates|Integer value set if any updates are performed on the invoice processing detail record.|
 
-**Parent Topic:**[Invoice processing case form](invoice-processing-case-form.md)
+**Parent Topic:**[Invoice processing case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 

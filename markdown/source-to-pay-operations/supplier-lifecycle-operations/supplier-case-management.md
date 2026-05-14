@@ -27,16 +27,16 @@ Supplier Case Management has the following plugin dependencies:
 -   Supplier Common Architecture \(com.snc.sn\_slm\)
 -   Source-to-Pay Workspace \(com.sn\_spend\_workspace\)
 
-For more information about installing and configuring Supplier Case Management, see [Install Supplier Case Management](../task/install-supp-mgmt.md).
+For more information about installing and configuring Supplier Case Management, see [Install Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-mgmt.md).
 
 **Related topics**  
 
 
-[Supplier Common Architecture](supplier-common.md)
+[Supplier Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-common.md)
 
-[Source-to-Pay Workspace](supplier-manager-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-manager-workspace.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-awa.md)
 
-[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 

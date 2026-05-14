@@ -17,7 +17,7 @@ Search for keywords in contract templates easily.
 
 ## Before you begin
 
-Ensure you have enabled the search functionality for the keyword search. For more information, see [Enable keyword search for contract templates](cncore-enable-search-cont-tmplts.md).
+Ensure you have enabled the search functionality for the keyword search. For more information, see [Enable keyword search for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-enable-search-cont-tmplts.md).
 
 Role required: sn\_cm\_core.contract\_config
 
@@ -25,7 +25,7 @@ Role required: sn\_cm\_core.contract\_config
 
 1.  Navigate to **All** &gt; **Contracts Core** &gt; **Contract Templates**.
 
-2.  In the contract template list, select the filter icon ![Filter icon](../image/lsd-filter-icon.png).
+2.  In the contract template list, select the filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-filter-icon.png).
 
 3.  Search for single or multiple keywords.
 
@@ -38,5 +38,5 @@ Role required: sn\_cm\_core.contract\_config
 
 Any contract template that has the keyword is listed.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

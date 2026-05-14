@@ -33,13 +33,13 @@ You can't copy subflows that have a protection policy. You must have write acces
 
 3.  Select the subflow that you want to copy.
 
-4.  Click the more actions icon \(![More actions menu](../images/more-actions-menu-icon.png)\) and select **Copy subflow**.
+4.  Click the more actions icon \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/more-actions-menu-icon.png)\) and select **Copy subflow**.
 
     **Note:** If the **Copy subflow** option is not visible, then you don't have permission to copy the subflow. This could be because the subflow has a protection policy or because you lack the necessary user role or developer permissions.
 
 5.  In **New subflow name**, enter a unique name you want the copied subflow to have.
 
-    ![Copying an item review subflow.](../images/example-copy-subflow-modal.png)
+    ![Copying an item review subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-copy-subflow-modal.png)
 
 6.  From **Application**, select the application scope where you want to copy the subflow.
 
@@ -48,9 +48,9 @@ You can't copy subflows that have a protection policy. You must have write acces
 
 ## Result
 
-![New copied subflow.](../images/example-copy-subflow-result.png)
+![New copied subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-copy-subflow-result.png)
 
 Workflow Studio opens the new subflow.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

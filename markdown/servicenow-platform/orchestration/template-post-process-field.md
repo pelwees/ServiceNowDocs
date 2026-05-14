@@ -37,7 +37,7 @@ The supported messages are:
 -   `ActivityLogger.warn ("Post Processing Log Message");`
 -   `ActivityLogger.error("Post Processing Log Message");`
 
-![ActivityLogger API](../image/Post-ProcessLoggingAPI.png "ActivityLogger API")
+![ActivityLogger API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/Post-ProcessLoggingAPI.png "ActivityLogger API")
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../task/create-custom-activities.md)
 

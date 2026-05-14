@@ -20,9 +20,9 @@ Understand the process required to set up Portfolio Planning to work with Servic
 
 Use the following steps as guidelines for your Portfolio Planning with Project Portfolio Management \(PPM\) setup process. Some of these steps require the admin role \(sn\_align\_core.apw\_admin\) and some require the user role \(sn\_align\_core.apw\_user\).
 
-1.  [Create an alignment integration](create-alignment-integration-ppw.md).
-2.  [Generate default mapping configurations](generate-mapping-configurations-ppw.md).
-3.  [Create custom mapping configurations](../../apw-internal-integrations/task/generate-custom-mapping-configurations-ppw.md).
+1.  [Create an alignment integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-alignment-integration-ppw.md).
+2.  [Generate default mapping configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/generate-mapping-configurations-ppw.md).
+3.  [Create custom mapping configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../apw-internal-integrations/task/generate-custom-mapping-configurations-ppw.md).
 
 ## Guided Setup
 

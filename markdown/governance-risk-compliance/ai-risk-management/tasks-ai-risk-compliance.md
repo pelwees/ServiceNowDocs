@@ -26,7 +26,7 @@ The Tasks page in the AI Risk and Compliance Workspace displays the following ta
 
 A sample Tasks page for a logged-in user is shown in the following example. A user with the sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst role can view the Tasks workspace.
 
-![AI tasks page](../image/ai-tasks.png "Tasks page")
+![AI tasks page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-tasks.png "Tasks page")
 
 ## My pending tasks
 

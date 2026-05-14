@@ -48,11 +48,11 @@ SSP, SAR, POA&amp;Ms, SAP, ATO Letter, and Executive Summary are reports that yo
 
 To configure the predefined CAM Microsoft Word template, you must navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** and set up the following administrative steps:
 
--   [Configuring ATO artifacts report templates](../../grc-cam/reference/cam-configure-word-based-template.md)
--   [Components installed with Continuous Authorization and Monitoring](../../grc-cam/reference/cam-components-installed.md#)
+-   [Configuring ATO artifacts report templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-cam/reference/cam-configure-word-based-template.md)
+-   [Components installed with Continuous Authorization and Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-cam/reference/cam-components-installed.md#)
 
--   **[Generate ATO artifacts](../task/generate-ato-artifacts-steps-cam-ws.md)**  
+-   **[Generate ATO artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../task/generate-ato-artifacts-steps-cam-ws.md)**  
 From the Authorization package overview record page, generate Authority to Operate \(ATO\) artifacts in Microsoft Word format. This action enables you to download your ATO artifacts from CAM.
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 

@@ -17,7 +17,7 @@ See how well the incidents that are subject to a Service Level Agreement meet th
 
 **Important:**
 
-Starting in Xanadu release, the Incident SLA Management dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view whether the incidents that are subject to a Service Level Agreement, meet the deadlines of those SLAs.
+Starting in Xanadu release, the Incident SLA Management dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/performance-analytics/incident.md) to view whether the incidents that are subject to a Service Level Agreement, meet the deadlines of those SLAs.
 
 The dashboard title indicates that it is inactive because you activate the solution after configuration and data collection.
 
@@ -132,5 +132,5 @@ The dashboard title indicates that it is inactive because you activate the solut
 -   Assignment Group
 -   Task SLA Breached Status
 
-**Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](incident-sla-content-pack.md)
+**Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-sla-content-pack.md)
 

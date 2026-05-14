@@ -87,7 +87,7 @@ Role required: sn\_cmdb\_editor or itil
 
     2.  In the Relationships section, add or delete a relationship.
 
-        For information about using the relationship editor, see [Create or edit a CI relationship](../task/t_CreateCIRelationship.md).
+        For information about using the relationship editor, see [Create or edit a CI relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIRelationship.md).
 
     3.  Click **Save Propose Change**.
 
@@ -221,7 +221,7 @@ Before applying proposed changes to affected CIs, use proposed change verificati
 
 ### Before you begin
 
-Create or edit the rules used to verify proposed changes. For details, see [Create or edit a proposed change verification rule](c_ProposedChanges.md#).
+Create or edit the rules used to verify proposed changes. For details, see [Create or edit a proposed change verification rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ProposedChanges.md#).
 
 Role required: none
 

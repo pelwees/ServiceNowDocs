@@ -17,10 +17,10 @@ Configure the manifest file in Microsoft Teams client or admin center to use Not
 
 You can upload the manifest file in Microsoft Teams using one of the following procedures.
 
--   [Configure Notify connector for Microsoft Teams app in Microsoft Teams](configure-nc-ms-teams-ac-client.md#)
--   [Configure Notify connector for Microsoft Teams app in Microsoft Teams](configure-nc-ms-teams-ac-client.md#)
+-   [Configure Notify connector for Microsoft Teams app in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-nc-ms-teams-ac-client.md#)
+-   [Configure Notify connector for Microsoft Teams app in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-nc-ms-teams-ac-client.md#)
 
-**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](setup-meeting-extensibility-multi-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-multi-tenant.md)
 
 ## Configure Notify connector for Microsoft Teams app in Microsoft Teams
 

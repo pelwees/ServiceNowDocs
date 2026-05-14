@@ -28,16 +28,16 @@ For example, once a security incident is linked to MSI, the related information 
 |Sync rolled up affected user \(sn\_si\_m2m\_task\_affected\_user\)|Use this business rule handles the rollup and removal of linked affected users from Security Incident, Security Case and Remediation task.|
 |Sync rolled up affected CI \(task\_ci\)|Use this business rule handles the rollup and removal of associated configuration items from Security Incident, Security Case and Remediation task.|
 
-**Parent Topic:**[Rollup Framework for MSIM](roll-up-framework-for-major-security-incident-management.md)
+**Parent Topic:**[Rollup Framework for MSIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/roll-up-framework-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Configure Linked Records in Major Security Incident Management](../task/configuring-linked-records-in-major-security-incident-management.md)
+[Configure Linked Records in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configuring-linked-records-in-major-security-incident-management.md)
 
-[Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)
+[Configure Rollup Records in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/roll-up-record-configuration-in-major-security-incident-management.md)
 
-[Configure List Layout in Major Security Incident Management](list-layout-confguration.md)
+[Configure List Layout in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/list-layout-confguration.md)
 
-[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
+[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 

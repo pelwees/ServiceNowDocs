@@ -43,13 +43,13 @@ The deferred load is available for the following widgets.
 
     The following page appears.
 
-    ![Defer load page on widgets](../images/defer-load-widgets.png "Defer load in Portal Designer")
+    ![Defer load page on widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/defer-load-widgets.png "Defer load in Portal Designer")
 
 2.  Click the **Defer load** icon.
 
 3.  Fill in the following fields as explained in [Configure widget loading order in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-loading-order.md).
 
-    ![instance option defer widget](../images/defer-load-ec.png "Defer widget loading instance option")
+    ![instance option defer widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/defer-load-ec.png "Defer widget loading instance option")
 
 4.  Click **Save**.
 

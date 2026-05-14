@@ -93,5 +93,5 @@ In the **Assign to** field, specify the user to whom the learning task is applic
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Initiate a learning task from a lifecycle event](ln-task-pst.md)
+**Parent Topic:**[Initiate a learning task from a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ln-task-pst.md)
 

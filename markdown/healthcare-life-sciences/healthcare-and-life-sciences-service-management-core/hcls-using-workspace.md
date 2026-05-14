@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Access the Workspace landing page](hcls-viewing-home-page.md).
+[Access the Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-viewing-home-page.md).
 
 </td><td>
 
@@ -33,7 +33,7 @@ Use the landing page in Workspace to quickly scan and access healthcare cases.
 
 </td></tr><tr><td>
 
-[Respond to a healthcare request](hcls-respond-healthcare-req.md).
+[Respond to a healthcare request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-respond-healthcare-req.md).
 
 </td><td>
 
@@ -41,7 +41,7 @@ Accept a work item and use an interaction record to respond to a healthcare requ
 
 </td></tr><tr><td>
 
-[Associate a patient record with an interaction in Workspace](../task/hcls-verify-patient.md).
+[Associate a patient record with an interaction in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../task/hcls-verify-patient.md).
 
 </td><td>
 
@@ -49,7 +49,7 @@ Look up for the patient information within an interaction, review and confirm th
 
 </td></tr><tr><td>
 
-[View patient information in Workspace](hcls-viewing-patient-info.md).
+[View patient information in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-viewing-patient-info.md).
 
 </td><td>
 

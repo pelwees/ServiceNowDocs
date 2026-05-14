@@ -57,5 +57,5 @@ The following topics describe how to review and export Now Assist Guardian logs 
     Export logs from Now Assist Guardian to get insights into how often different guardrails are being detected and used.
 
 
-**Parent Topic:**[Agentic AI security and governance](now-assist-security.md)
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 

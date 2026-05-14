@@ -32,11 +32,11 @@ Role required: sn\_wsd\_maintenance.manager, sn\_wsd\_maint.admin
 
 1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the **Preventative Maintenance** tab icon \(![Preventive Maintenance icon.](../images/wsd-preventive-maintenance-icon.png)\).
+2.  Select the **Preventative Maintenance** tab icon \(![Preventive Maintenance icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-preventive-maintenance-icon.png)\).
 
 3.  Select **All plans** &gt; **New** on the home page.
 
-    ![Create a new maintenance plan form.](../images/wsd-create-maint-plan.png)
+    ![Create a new maintenance plan form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-create-maint-plan.png)
 
 4.  On the form, fill in the fields.
 
@@ -121,7 +121,7 @@ For example: Select **Building B**.
 
 6.  The maintenance items for a selected location or model are filtered based on your selection of a model or location in Step 4.
 
-    ![Maintenance items tab showing workplace models or assets for maintenance.](../images/wsd-cal-maint-items.png)
+    ![Maintenance items tab showing workplace models or assets for maintenance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-cal-maint-items.png)
 
     Select one or more maintenance items.
 
@@ -139,7 +139,7 @@ For example: Select **Building B**.
 
     Select the **Skip scheduling** option if you don’t want to create a schedule now and prefer to create it later. After publishing a maintenance plan, you can create a schedule or copy an existing schedule for a plan.
 
-    For more information, see [Create or copy a maintenance schedule](create-maint-schedule.md). For more information about how the scheduled job creates maintenance cases for a plan record, see [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+    For more information, see [Create or copy a maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-schedule.md). For more information about how the scheduled job creates maintenance cases for a plan record, see [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/sch-job-planned-nightly.md).
 
 10. Select **Save**.
 
@@ -149,18 +149,18 @@ For example: Select **Building B**.
 
     **Note:** The **Publish** option is not available when you select **Skip Scheduling**. You must open the maintenance plan again separately and select **Publish** to publish the plan.
 
-    The published maintenance plan is available for you to view in a calendar view. For more information, see [Maintenance plan calendar view](cal-view-overview.md).
+    The published maintenance plan is available for you to view in a calendar view. For more information, see [Maintenance plan calendar view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/cal-view-overview.md).
 
 12. Review the maintenance plan details on the calendar view.
 
-    Status of the maintenance plan moves to the **In progress** state. For more information about the calendar view, see [Maintenance plan calendar view](cal-view-overview.md).
+    Status of the maintenance plan moves to the **In progress** state. For more information about the calendar view, see [Maintenance plan calendar view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/cal-view-overview.md).
 
-    The **Schedules tab** shows the **Next run time** for a scheduled job. The scheduled job **Workplace Maintenance Nightly run** runs every 48 hours \(2 days\) and creates maintenance cases for active plan records. For more information, see [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+    The **Schedules tab** shows the **Next run time** for a scheduled job. The scheduled job **Workplace Maintenance Nightly run** runs every 48 hours \(2 days\) and creates maintenance cases for active plan records. For more information, see [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/sch-job-planned-nightly.md).
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/manage-maintenance-plans.md)
 
-**Previous topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Previous topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/manage-maintenance-plans.md)
 
-**Next topic:**[Maintenance plan calendar view](cal-view-overview.md)
+**Next topic:**[Maintenance plan calendar view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/cal-view-overview.md)
 

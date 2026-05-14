@@ -54,5 +54,5 @@ The gs.eventQueue function takes the following parameters:
 
 **Note:** The gs.EventQueue function works directly with the backend and therefore business rules that are called by gs.EventQueue\(\) are not invoked.
 
-**Parent Topic:**[System events reference](system-events-reference.md)
+**Parent Topic:**[System events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/system-events-reference.md)
 

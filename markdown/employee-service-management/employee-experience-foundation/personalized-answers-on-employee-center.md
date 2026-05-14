@@ -82,7 +82,7 @@ If both the prerequisites are in order, move on to the following procedure:
 
 7.  Select **Publish**.
 
-    ![This is a system diagram displaying the API calls made to use the Personalized Answers on Employee Center](../images/pa-api-calls-sys-diagram.jpg "Personalized Answers- Kronos integrated")
+    ![This is a system diagram displaying the API calls made to use the Personalized Answers on Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/pa-api-calls-sys-diagram.jpg "Personalized Answers- Kronos integrated")
 
 8.  To test the published model, navigate to **All** &gt; **NLU Workbench** &gt; **Models** &gt; **Personalized Answers Leave Model** &gt; **Intents** &gt; **Try model**.
 

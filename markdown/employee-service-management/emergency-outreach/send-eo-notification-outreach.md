@@ -17,7 +17,7 @@ Use Emergency Outreach to notify users to report their health status. Use Emerge
 
 ## Before you begin
 
-Users must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Users must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../../administer/mobile-employee/concept/mobile-employee-experience.md).
 
 Note the following requirements to be able to send and receive SMS notifications:
 
@@ -112,7 +112,7 @@ Action
 
 </td><td>
 
-On the **Select targeted audience** tab, select the combination of users to send the outreach notification to. Choose from user lists, groups, departments, locations, or other search filters such as building, cost center, or country code.For more information, see [Add a Safe Workplace audience](../../employee-readiness-core/task/add-safe-workplace-audience.md).
+On the **Select targeted audience** tab, select the combination of users to send the outreach notification to. Choose from user lists, groups, departments, locations, or other search filters such as building, cost center, or country code.For more information, see [Add a Safe Workplace audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../employee-readiness-core/task/add-safe-workplace-audience.md).
 
 </td></tr><tr><td id="d450165e405">
 
@@ -153,7 +153,7 @@ Clear the **Email** check box.
 
 </td><td>
 
-Click the lookup icon \(![Click icon to look up a notification](../../contact-tracing/image/icon-lookup.png)\) and select the notification to use.
+Click the lookup icon \(![Click icon to look up a notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../contact-tracing/image/icon-lookup.png)\) and select the notification to use.
 
 </td></tr><tr><td id="d450165e493">
 
@@ -210,18 +210,18 @@ The check box is active if the ServiceNow NowMobile App Screens and Applet Launc
 
 Review the Emergency Outreach acknowledgements.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../concept/emergency-outreach.md)
 
 **Related topics**  
 
 
-[Add a Safe Workplace audience for Emergency Outreach](add-sw-audience-outreach.md)
+[Add a Safe Workplace audience for Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/add-sw-audience-outreach.md)
 
-[Send an Outreach notification for the daily contact log](../../contact-tracing/task/send-outreach-notif-daily-log.md)
+[Send an Outreach notification for the daily contact log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../contact-tracing/task/send-outreach-notif-daily-log.md)
 
-[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](../../contact-tracing/task/send-outreach-notif-privacy.md)
+[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../contact-tracing/task/send-outreach-notif-privacy.md)
 
-[Send a readiness survey and view responses](send-eo-outreach-survey.md)
+[Send a readiness survey and view responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-eo-outreach-survey.md)
 
-[Send notifications for daily health verification](send-daily-health-verif-notif-outreach.md)
+[Send notifications for daily health verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-daily-health-verif-notif-outreach.md)
 

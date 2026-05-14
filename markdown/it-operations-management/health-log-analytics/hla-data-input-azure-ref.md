@@ -306,5 +306,5 @@ The Customer ID used to call the Microsoft Azure Log Analytics REST API.
 |Polling interval|The interval, in seconds, to wait before polling for new events.|0|
 |Drop if queue is full|Option to discard logs if there is a load on the MID Server.|False|
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-config-fields.md)
 

@@ -21,13 +21,13 @@ The **GRC attestation** template for control category of assessment had two targ
 
 The contextual information such as its name, description, entity, control objective, status, owner, current compliance score, tier value, tiering assessor, enforcement, classification, and others are populated and displayed as you open an assessment in the Details pane on the right.
 
-![Details of the control as reference information on the Details pane.](../image/grc-attestation-reference.png)
+![Details of the control as reference information on the Details pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/grc-attestation-reference.png)
 
 ## Grouping control attestations
 
 You can group a list of assessments assigned to a particular user as Combined Assessments and assign a new name for the grouped assessments.
 
-![Grouping attestations for a user to assess them together.](../image/grc-attestation-combine-group.png)
+![Grouping attestations for a user to assess them together.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/grc-attestation-combine-group.png)
 
-To group assessments, see [Combine assessments for control attestations](../task/smart-assess-combine-attest.md).
+To group assessments, see [Combine assessments for control attestations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../task/smart-assess-combine-attest.md).
 

@@ -22,5 +22,5 @@ Touchpoints support conversations between providers and enterprise customers thr
 |Success Agent|Can create, read, and update touchpoints and meeting records.|
 |Success Customer|Can create and update touchpoints, meeting records, and schedule meetings.|
 
-See [Touchpoint home page](account-lifecycle-touchpoint-home.md) for more details.
+See [Touchpoint home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-touchpoint-home.md) for more details.
 

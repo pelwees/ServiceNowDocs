@@ -17,5 +17,5 @@ The CISO dashboard serves as a central security command interface, bringing toge
 
 This dashboard visualizes insights on security incident trends, MTTR, risk severity distribution, compliance violations, outstanding audit tasks, and vulnerability remediation progress. These indicators help CISOs to identify emerging threats, track operational security maturity, minimize exposure, and strengthen the organization’s overall security posture through timely interventions and informed decision-making.
 
-![CISO Dashboard with Risk Exposure, Compliance, Security Incidents, Vulnerabilities, and Audits pillars, each containing security metrics and visualizations.](../image/ciso-db-tab.png)
+![CISO Dashboard with Risk Exposure, Compliance, Security Incidents, Vulnerabilities, and Audits pillars, each containing security metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/ciso-db-tab.png)
 

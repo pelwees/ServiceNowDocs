@@ -41,6 +41,6 @@ Quick filters help you filter the data shown in the List and Hierarchy views of 
     -   The filters are automatically applied and the data shown in the tabs is automatically refreshed.
     -   The filters set in the Prioritization tab are not applied to the Roadmap tab and vice-versa.
     -   The filters set in to one view are also applied to the other views, within the same tab.
-    ![Quick filters in Priorotization.](../../alignment-planner-workspace/images/hierarchy-with-filters.png)
+    ![Quick filters in Priorotization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/hierarchy-with-filters.png)
 
 

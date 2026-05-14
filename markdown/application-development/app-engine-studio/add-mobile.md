@@ -17,7 +17,7 @@ Add a mobile experience, or interface, to enable users to access your applicatio
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -150,7 +150,7 @@ Screen that displays an existing webpage, which you specify the URL for in the n
 
     After you create the mobile experience in AES, you must edit it in Mobile App Builder.
 
-13. Next to the mobile experience you created, select the menu icon \(![Menu icon](../image/menu-icon-purple.png)\) and then select **Edit**.
+13. Next to the mobile experience you created, select the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\) and then select **Edit**.
 
 14. Edit the mobile experience in Mobile App Builder.
 
@@ -161,12 +161,12 @@ Screen that displays an existing webpage, which you specify the URL for in the n
 
 Scan or copy the QR code for your mobile experience using the **Select app** and **Select platform** fields.
 
-![Scan QR code for the mobile experience.](../image/mobile-experience-qr-code.jpg)
+![Scan QR code for the mobile experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/mobile-experience-qr-code.jpg)
 
 For more information on modifying mobile experiences, see [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md).
 
--   **[Sample mobile experience](../concept/mobile-experiences-examples.md)**  
+-   **[Sample mobile experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/mobile-experiences-examples.md)**  
 A mobile experience enables users to access your application from a ServiceNow native mobile app.
 
-**Parent Topic:**[Add an application experience](../concept/add-experience.md)
+**Parent Topic:**[Add an application experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-experience.md)
 

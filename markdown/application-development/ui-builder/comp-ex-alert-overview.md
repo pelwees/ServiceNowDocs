@@ -18,11 +18,11 @@ Learn how alert messages help you communicate feedback and status updates using 
 
 Alerts are components that display standardized notifications, such as feedback, warnings, and confirmations. They’re easy to configure without scripting, but you can add a script for more advanced functionality.
 
-![A series of different types of alerts.](../image/comp-ex-alerts-types.png "Alert message types")
+![A series of different types of alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-alerts-types.png "Alert message types")
 
 UI Builder supports several types of alert messages. To see how each one behaves, open the [Alert component documentation](https://horizon.servicenow.com/workspace/components/now-alert?release=zurich#overview) and try out different settings in the interactive preview.
 
-**Parent Topic:**[Learn components by example](learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learning-components-by-example.md)
 
 ## Create alert messages in UI Builder
 
@@ -38,7 +38,7 @@ Use the default alert message configuration for simple notifications. In this ex
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](../task/add-components.md#)
+-   [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -67,11 +67,11 @@ Alert
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/create-page.md).
 
 4.  Add an alert.
 
@@ -81,7 +81,7 @@ Alert
 
     3.  In the content tree, hover over **Alert 1** and select the configure icon ![](../image/uib-configure-icon.png), then select **Rename**.
 
-        ![Additional actions menu in the content tree open for the alert component, with a cursor hovering over the Rename option.](../image/comp-ex-cam-rename.png)
+        ![Additional actions menu in the content tree open for the alert component, with a cursor hovering over the Rename option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam-rename.png)
 
     4.  Replace the text in the **Component label** field with `Welcome Message`.
 
@@ -103,13 +103,13 @@ Alert
 
         Your configuration panel should look like this:
 
-        ![Configuration panel for alert, with highlights over the component label, Type, Icon, Header, Link, and Action fields.](../image/comp-ex-cam-config.png)
+        ![Configuration panel for alert, with highlights over the component label, Type, Icon, Header, Link, and Action fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam-config.png)
 
     2.  Hover over the **Message** field and select the bind data icon ![](../image/uib-dynamic-data-binding-button.png).
 
     3.  Select **Formulas**, then **String**, then double-click or drag **CONCAT** to move the formula to the area above.
 
-        ![Bind data dialog showing CONCAT function with empty values.](../image/comp-ex-cam-bind-data.png)
+        ![Bind data dialog showing CONCAT function with empty values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam-bind-data.png)
 
     4.  Double-click **value1** to select the field, then select again to insert text.
 
@@ -123,7 +123,7 @@ Alert
 
     9.  Double-click or drag **fullName** to move it to the area above, then select **Apply**.
 
-        ![Bind data dialog showing CONCAT function with "Welcome! " and @context.session.user.fullName as its values.](../image/comp-ex-cam-bind-data2.png)
+        ![Bind data dialog showing CONCAT function with "Welcome! " and @context.session.user.fullName as its values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam-bind-data2.png)
 
 6.  Save and test your page.
 
@@ -133,7 +133,7 @@ Alert
 
     The alert appears at the top of the page with the text "Heads up! You're logged in as " followed by the logged-in user's name.
 
-    ![Alert appearing under the header menu, greeting the logged-in user.](../image/comp-ex-cam-alert.png)
+    ![Alert appearing under the header menu, greeting the logged-in user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam-alert.png)
 
 
 ## Customize alert messages with a client script in UI Builder
@@ -150,7 +150,7 @@ Scripted alerts provide notifications that respond to events or external data. T
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](../task/add-components.md#)
+-   [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -188,11 +188,11 @@ Alert
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/create-page.md).
 
 4.  Add a button.
 
@@ -212,7 +212,7 @@ Alert
 
     1.  Under **Data and scripts**, select the **+** next to **Client scripts**.
 
-        ![Data and Scripts drawer with a highlight over Client scripts.](../image/comp-ex-cam2-client-scripts.png)
+        ![Data and Scripts drawer with a highlight over Client scripts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam2-client-scripts.png)
 
     2.  Replace the text in **Script name** with `Alerts`.
 
@@ -324,7 +324,7 @@ Alert
 
     4.  Search for `alerts`, then select the **Alerts** handler under **Client Scripts**.
 
-        ![Events dialog showing the handler for the Alerts client script selected.](../image/comp-ex-cam2-events.png)
+        ![Events dialog showing the handler for the Alerts client script selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam2-events.png)
 
     5.  Select **Continue**.
 
@@ -338,6 +338,6 @@ Alert
 
     Selecting the button displays multiple alerts with messages that you define in the client script.
 
-    ![UI Builder editor showing a button and a series of custom scripted alerts.](../image/comp-ex-cam2-alerts.png)
+    ![UI Builder editor showing a button and a series of custom scripted alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-cam2-alerts.png)
 
 

@@ -82,10 +82,10 @@ When a metric crosses or falls within the range of a configured threshold, the s
 
 9.  Verify the name and details of the metric rule.
 
-    To activate the rule, ensure that the **Active** toggle switch ![Active toggle switch.](../image/active-toggle-switch.png) is activated.
+    To activate the rule, ensure that the **Active** toggle switch ![Active toggle switch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/active-toggle-switch.png) is activated.
 
 10. Select **Finish**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 

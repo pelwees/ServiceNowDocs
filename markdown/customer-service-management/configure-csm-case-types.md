@@ -115,11 +115,11 @@ You can also block any inherited case UI actions that you do not want. To block 
 
 </td></tr><tr><td>
 
-[Enable the **Create Case** UI action for case type selection](config-csm-config-ws-ui-action.md)
+[Enable the **Create Case** UI action for case type selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-ui-action.md)
 
 </td><td>
 
-This procedure adds the **Create Case** UI action to records in the configured table. Selecting this UI action displays the [case type selector](../concept/csm-case-type-select-modals.md).
+This procedure adds the **Create Case** UI action to records in the configured table. Selecting this UI action displays the [case type selector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-case-type-select-modals.md).
 
  **Note:** For CSM Configurable Workspace, the **Create Case** UI action for case type selection is disabled out of box.
 
@@ -145,7 +145,7 @@ The Case Type table extends the Application File table \(sys\_metadata\). This t
 -   Email templates
 -   Quick messages
 -   Reports
-For more information, see [Manage customer service case types](../concept/manage-csm-case-types.md).
+For more information, see [Manage customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/manage-csm-case-types.md).
 
 **Note:** These related lists only display information for the new case type. They do not include information for the base case.
 
@@ -250,7 +250,7 @@ Configure the fields that a customer can see when they view a case on the Custom
 **Related topics**  
 
 
-[Enable the case type single select property](enable-case-type-single-select-prop.md)
+[Enable the case type single select property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/enable-case-type-single-select-prop.md)
 
-[Create a configuration for case type single-select](create-case-type-single-selection.md)
+[Create a configuration for case type single-select](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-case-type-single-selection.md)
 

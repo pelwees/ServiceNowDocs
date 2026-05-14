@@ -27,9 +27,9 @@ Role required: user with contribute access
 
 3.  On the knowledge article form, in the **Article body** field, place the cursor where you want to insert an image.
 
-4.  On the HTML editor toolbar, select the Insert/edit image icon \(![Insert or edit image icon](../../../use/using-forms/image/TinyMCEV4Image.png)\).
+4.  On the HTML editor toolbar, select the Insert/edit image icon \(![Insert or edit image icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../use/using-forms/image/TinyMCEV4Image.png)\).
 
-5.  On the Insert/Edit Image dialog box, select the Upload icon \(![Upload icon](../../../use/reporting/image/upload-icon.png)\).
+5.  On the Insert/Edit Image dialog box, select the Upload icon \(![Upload icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../use/reporting/image/upload-icon.png)\).
 
 6.  Select an image.
 

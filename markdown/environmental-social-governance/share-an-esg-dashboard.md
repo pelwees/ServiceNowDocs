@@ -71,5 +71,5 @@ Grant editing permissions to the users, groups, or roles you’re sharing the da
 9.  Select the View dashboard details icon ![](../images/details-icon.png) to view who the dashboard has been shared with and where it’s visible.
 
 
-**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](monitor-data-using-esg-dashboards.md)
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 

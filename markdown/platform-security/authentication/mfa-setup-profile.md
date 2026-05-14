@@ -21,7 +21,7 @@ Role required: none
 
 Multi-factor authentication must be enabled on your instance.
 
-**Note:** Your administrator may require that you use multi-factor authentication. In this case, you are automatically prompted when you log in. See [Set up Multi-factor authentication for the first time](t_SetUpMultiFactorAuthUponLogin.md). Use the process below if your administrator allows you to opt-in to multi-factor authentication.
+**Note:** Your administrator may require that you use multi-factor authentication. In this case, you are automatically prompted when you log in. See [Set up Multi-factor authentication for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpMultiFactorAuthUponLogin.md). Use the process below if your administrator allows you to opt-in to multi-factor authentication.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Multi-factor authentication must be enabled on your instance.
 
 3.  Choose the MFA Authenticator type that you would like to use.
 
-    ![MFA Authenticators](../images/mfa-authenticator.png)
+    ![MFA Authenticators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-authenticator.png)
 
 <table id="table_k2g_xg5_nbc"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Authenticator App
 
 Time-Based One Time Password \(TOTP\) authenticator appSelect **Set up authenticator app** and follow the instructions on the screen to register for an authenticator app as the second factor for authentication.
 
-![MFA Authenticator App setup screen](../images/mfa-authenticator-app.png)
+![MFA Authenticator App setup screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-authenticator-app.png)
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Biometric authenticators
 
 Device-based authenticators such as Windows Hello or Apple Touch IDSelect **Register biometric authentication** and follow the instructions on the screen to register for an authenticator app as the second factor for authentication.
 
-![MFA Biometric setup](../images/mfa-biometric.png)
+![MFA Biometric setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-biometric.png)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Hardware Security Keys
 
 Hardware security keys such as YubiKeySelect **Register hardware security keys** and follow the instructions on the screen to register for an authenticator app as the second factor for authentication.
 
-![MFA - Hardware key setup](../images/mfa-hardware-key.png)
+![MFA - Hardware key setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-hardware-key.png)
 
 </td></tr></tbody>
 </table>

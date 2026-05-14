@@ -37,10 +37,10 @@ The following informational notifications are triggered for a major incident whe
 
 4.  Click the notification to view the details.
 
-    ![Major incident notification](../images/mim-notification.png)
+    ![Major incident notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/mim-notification.png)
 
 5.  Click **View workbench** to view the ticket details in ServiceNow.
 
 
-**Parent Topic:**[Add communication plan from MIM workbench](add-communication-plan-mim-workbench.md)
+**Parent Topic:**[Add communication plan from MIM workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-communication-plan-mim-workbench.md)
 

@@ -17,7 +17,7 @@ The Reserve Space Virtual Agent topic enables you to create a reservation using 
 
 ## Before you begin
 
-The **Reserve Space** topic should be added to Now Assist in Virtual Agent. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](config-now-assist-va-wsd.md).
+The **Reserve Space** topic should be added to Now Assist in Virtual Agent. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md).
 
 Make sure that you have the following applications:
 
@@ -30,7 +30,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Log in to the Employee Center portal.
 
-    For more information, see [Workplace services on the Employee Center portal](../../workplace-service-delivery/concept/workplace-services-on-employee-center.md).
+    For more information, see [Workplace services on the Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-service-delivery/concept/workplace-services-on-employee-center.md).
 
 2.  Select and open the Now Assist in Virtual Agent chat window.
 
@@ -48,9 +48,9 @@ Role required: sn\_wsd\_core.workplace\_user
 
 6.  The Now Assist in Virtual Agent shows options to reserve a space.
 
-    ![Now Assist showing the Reserve space topic.](../image/wsd-reserve-a-space-topic-nowassist.png)
+    ![Now Assist showing the Reserve space topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-reserve-a-space-topic-nowassist.png)
 
-    **Note:** The option to reserve a space using the Now Assist in Virtual Agent is available only if your administrator has added the **Reserve Space** Virtual Agent LLM topic in the Virtual Agent designer. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](config-now-assist-va-wsd.md)
+    **Note:** The option to reserve a space using the Now Assist in Virtual Agent is available only if your administrator has added the **Reserve Space** Virtual Agent LLM topic in the Virtual Agent designer. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md)
 
 7.  Select **\(Topic\) Reserve Space**.
 
@@ -72,7 +72,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     **Note:** Only the **Browse All** Reservable module configuration is supported by Now Assist in Virtual Agent. It shows all reservation types available in the **Browse All** Reservable module. For example, **Desks**, **Desks within a shift**, and so on.
 
-    The **Specific Unit** **Selection type** is supported in the Reservable Table configuration. **Container** isn’t supported for Now Assist in Virtual Agent. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    The **Specific Unit** **Selection type** is supported in the Reservable Table configuration. **Container** isn’t supported for Now Assist in Virtual Agent. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../wsd-reservation-management/task/config-reservable-module.md).
 
 9.  The Now Assist in Virtual Agent bot instructs you to select a location for reserving a space.
 
@@ -80,7 +80,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     For example, **Cal-B2**.
 
-    ![Now Assist in Virtual agent showing location names.](../image/wsd-locations-now-assist.png)
+    ![Now Assist in Virtual agent showing location names.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-locations-now-assist.png)
 
 11. Now Assist in Virtual Agent bot instructs you to provide the Start and End dates for the reservation.
 
@@ -90,15 +90,15 @@ Role required: sn\_wsd\_core.workplace\_user
 
 13. Now Assist in Virtual Agent bot instructs you to provide the floor name, capacity, and space name where you want to reserve a meeting room.
 
-    ![Now Assist in Virtual Agent prompts for adding a floor name.](../image/wsd-floor-reservation-summary-nowassist.png)
+    ![Now Assist in Virtual Agent prompts for adding a floor name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-floor-reservation-summary-nowassist.png)
 
     **Note:** Floor, capacity, and shift schedule are optional inputs. If there are no spaces available, the Now Assist in Virtual Agent bot shows the following message, "Sorry, there are no available spaces currently. Please revise your selections and retry". If the suggestions don't match your requirement, you’re also given the option to select **None match my preference**. If invalid user inputs are provided, for example, an incorrect building name or a past date, the bot asks you to enter the details again.
 
     The Now Assist in Virtual Agent bot shows location results. The name of the building, floor, and capacity are displayed in the result.
 
-    ![Provide the capacity of the floor.](../image/wsd-floor-reservation-summary-nowassist.png)
+    ![Provide the capacity of the floor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-floor-reservation-summary-nowassist.png)
 
-    ![Now Assist in Virtual Agent showing the space name and capacity.](../image/wsd-capacity-floor-nowassist.png)
+    ![Now Assist in Virtual Agent showing the space name and capacity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-capacity-floor-nowassist.png)
 
     Select a space from the suggestions showed by Now Assist in Virtual Agent.
 
@@ -116,15 +116,15 @@ Role required: sn\_wsd\_core.workplace\_user
 
 16. Now Assist in Virtual Agent instructs you to invite guests to your reservation.
 
-    **Note:** The option to add guests is shown only when the **Allow Invitees** configuration is enabled in the Reservation module. This option in the Reservable Module enables you to invite attendees and add them to your reservation. You can invite guests to your reservation. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    **Note:** The option to add guests is shown only when the **Allow Invitees** configuration is enabled in the Reservation module. This option in the Reservable Module enables you to invite attendees and add them to your reservation. You can invite guests to your reservation. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../wsd-reservation-management/task/config-reservable-module.md).
 
 17. Select **Yes** if you want to add guests to your reservation.
 
-    **Note:** You can add multiple invitees to your reservation. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](config-now-assist-va-wsd.md). You also need Workplace Visitor Management.
+    **Note:** You can add multiple invitees to your reservation. For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md). You also need Workplace Visitor Management.
 
 18. Now Assist in Virtual Agent provides suggestions to select your guests.
 
-    ![Adding guests to your reservation.](../image/wsd-add-coworkers-selection-nowassist.png)
+    ![Adding guests to your reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-add-coworkers-selection-nowassist.png)
 
 19. Now Assist in Virtual Agent confirms the guests details that you have provided.
 
@@ -136,7 +136,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     You can only add visitors to a reservation for which you're the host. Workplace users with 'sn\_wsd\_rsv.manager' or 'sn\_wsd\_rsv.reservation\_planner' roles can add invitees to a reservation. Workplace users with 'sn\_wsd\_core.workplace\_user' role can’t add invitees to a reservation when they aren't the host.
 
-    ![Visitor Email Id provided by Employee in theNow Assist in Virtual Agent.](../image/wsd-visitor-email-id.png)
+    ![Visitor Email Id provided by Employee in theNow Assist in Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-visitor-email-id.png)
 
     **Note:** Multiple visitors can’t be added all at once. You should add visitors sequentially. For example, if you have visitor A, visitor B, and visitor C. Start by adding visitor A first, and add visitor B, and Visitor C.
 
@@ -160,13 +160,13 @@ Role required: sn\_wsd\_core.workplace\_user
 
         You can also enter or add a conversational text like "Add lunch, some snacks, and drinks", "Add sparkling water and some snacks, and so on".
 
-        ![Now Assist in Virtual Agent showing the catering services menu options.](../image/wsd-add-catering-options-now-assist.png)
+        ![Now Assist in Virtual Agent showing the catering services menu options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-add-catering-options-now-assist.png)
 
         **Note:** When the requested catering service aren’t available, a message is shown that the requested catering service isn’t available.
 
     2.  After selecting a catering option, the bot asks you to specify the quantity.
 
-        ![Now assist in Virtual Agent asks to specify the quantity for selected catering services.](../image/wsd-add-catering-still-water-use-nowassist.png)
+        ![Now assist in Virtual Agent asks to specify the quantity for selected catering services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-add-catering-still-water-use-nowassist.png)
 
     3.  The bot asks you to specify the quantity for all the selected catering menu items.
 
@@ -174,20 +174,20 @@ Role required: sn\_wsd\_core.workplace\_user
 
     5.  The Now Assist in Virtual Agent successfully adds the catering services to your reservation.
 
-        ![Now Assist in Virtual Agent displaying the Catering services that are added to a reservation.](../image/wsd-add-catering-confirmation-message-now-assist.png)
+        ![Now Assist in Virtual Agent displaying the Catering services that are added to a reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-add-catering-confirmation-message-now-assist.png)
 
 23. Now Assist in Virtual Agent provides prompts to add a zoom meeting link.
 
     Make sure that you have the following:
 
-    1.  For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](config-now-assist-va-wsd.md).
-    2.  Zoom Spoke is configured for Workplace Reservation Management. For more information, see [Connect Workplace Reservation Management with Zoom](../../wsd-reservation-management/task/connect-rsv-mtm-with-zoom.md).
+    1.  For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md).
+    2.  Zoom Spoke is configured for Workplace Reservation Management. For more information, see [Connect Workplace Reservation Management with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../wsd-reservation-management/task/connect-rsv-mtm-with-zoom.md).
 24. Now Assist in Virtual Agent shows an acknowledgment message along with the Workplace case task created after adding the Zoom virtual meeting link.
 
-    ![Now Assist in Virtual Agent acknowledges adding the virtual meeting link to your reservation along with the Workplace Case task created for this request.](../image/wsd-add-zoom-meeting-2-nowassist.png)
+    ![Now Assist in Virtual Agent acknowledges adding the virtual meeting link to your reservation along with the Workplace Case task created for this request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-add-zoom-meeting-2-nowassist.png)
 
 25. The Now Assist in Virtual Agent shows the reservation summary.
 
-    ![Now Assist in Virtual Agent summarizes the reservation details along with services that you have added to your reservation.](../image/wsd-now-assist-reservation-summary-final.png)
+    ![Now Assist in Virtual Agent summarizes the reservation details along with services that you have added to your reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-now-assist-reservation-summary-final.png)
 
 

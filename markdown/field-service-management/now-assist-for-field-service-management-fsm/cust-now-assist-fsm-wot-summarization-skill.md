@@ -51,7 +51,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
 5.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](../concept/now-assist-fsm-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../concept/now-assist-fsm-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 
@@ -69,7 +69,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
         Add multiple base input fields if more inputs are needed.
 
-        ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-wot-summ-skill-view-input.png)
+        ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-wot-summ-skill-view-input.png)
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -122,7 +122,7 @@ Description of the base input field value.
 
         You can also add the rule conditions to these additional related table, activity stream, and relationship data sources.
 
-        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-wot-summ-skill-view-input-2.png)
+        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-wot-summ-skill-view-input-2.png)
 
         The following table lists the data sources you can add to the input data.
 
@@ -204,7 +204,7 @@ Closed
 
 
 </td></tr></tbody>
-</table>    2.  Select **Edit prompt in Now Assist Skill Kit** to make necessary changes to the prompt in the Now Assist Skill Kit.![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](../image/now-assist-wot-summ-skill-cust-prompt.png)
+</table>    2.  Select **Edit prompt in Now Assist Skill Kit** to make necessary changes to the prompt in the Now Assist Skill Kit.![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-wot-summ-skill-cust-prompt.png)
 
     3.  Select **Save and continue** to go to the next step.
 

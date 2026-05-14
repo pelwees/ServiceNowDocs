@@ -88,12 +88,12 @@ Yes
 </td></tr></tbody>
 </table>**Note:**
 
-To set a null-price override on a currency field, the administrator can set `ProductList.extended.<numericField> = ""` in an advanced product action or by using the OnBom enrichment. In the layout, define this numeric field to display as currency in the column properties of the product list, and follow the instructions in [Set a custom message for zero-priced and null-priced items](cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md) regarding override strings in the product list properties.
+To set a null-price override on a currency field, the administrator can set `ProductList.extended.<numericField> = ""` in an advanced product action or by using the OnBom enrichment. In the layout, define this numeric field to display as currency in the column properties of the product list, and follow the instructions in [Set a custom message for zero-priced and null-priced items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md) regarding override strings in the product list properties.
 
 **Related topics**  
 
 
-[Set a custom message for zero-priced and null-priced items](cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md)
+[Set a custom message for zero-priced and null-priced items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md)
 
-[Override the shopping cart total when a null-priced item is included](cpq-override-the-shopping-cart-total-when-a-null-priced-item-is-included.md)
+[Override the shopping cart total when a null-priced item is included](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-override-the-shopping-cart-total-when-a-null-priced-item-is-included.md)
 

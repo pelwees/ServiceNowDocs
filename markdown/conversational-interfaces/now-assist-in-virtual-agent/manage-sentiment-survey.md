@@ -17,7 +17,7 @@ When a user rates a response, they may provide response feedback. Configure the 
 
 ## Before you begin
 
-See [View assistants](view-assistants.md).
+See [View assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/view-assistants.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -35,7 +35,7 @@ Response feedback is available across all chat experiences except for Now Assist
 
     By default, response feedback is turned off.
 
-    ![Toggle response feedback on or off.](../image/NAinVA-response-feedback-0426.png "Toggle response feedback on or off")
+    ![Toggle response feedback on or off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-response-feedback-0426.png "Toggle response feedback on or off")
 
 4.  Turn on response feedback to configure the feedback form options.
 

@@ -40,10 +40,10 @@ Role required: sn\_hr\_sp.esc\_admin
     **Note:** The time off information is available only after relogging.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-topic-inst-options.md)
 
 **Related topics**  
 
 
-[Configure Employee Center Pro Kiosk](deskless-kiosk-config.md)
+[Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 

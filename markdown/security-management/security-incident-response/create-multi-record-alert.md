@@ -25,7 +25,7 @@ Role required: sn\_si.admin
 
 2.  In the **Search** box, create a search that generates your record data.
 
-    See the [examples](../reference/multi-record-examples.md) for recommended search criteria.
+    See the [examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/multi-record-examples.md) for recommended search criteria.
 
 3.  Click **Save As** and select **Alert**.
 

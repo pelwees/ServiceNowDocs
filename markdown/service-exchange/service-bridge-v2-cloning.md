@@ -20,7 +20,7 @@ If the default system profile is used, some of the Service Exchange table data i
 -   Remove the **Remote Process Sync Disable Records** script from the Cleanup scripts related list,
 -   Validate if the following Service Exchange tables are included in the custom profile.
 
-**Note:** After a clone, you must reestablish the connection and activate the Capture Definitions. See [Reestablish connection after a clone for a provider](../task/service-bridge-v2-cloning-instances.md) and [Reestablish connection after a clone for a consumer](../task/service-bridge-v2-cloning-instances-con.md).
+**Note:** After a clone, you must reestablish the connection and activate the Capture Definitions. See [Reestablish connection after a clone for a provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/service-bridge-v2-cloning-instances.md) and [Reestablish connection after a clone for a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/service-bridge-v2-cloning-instances-con.md).
 
 ## Service Exchange tables to preserve and exclude
 

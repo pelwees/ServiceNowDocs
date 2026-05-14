@@ -48,5 +48,5 @@ Labor rate cards are included in the base system. Except for the **Number** fiel
     After a labor rate card is created, expense lines are created based on the value in the **Use time worked** field.
 
 
-**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](../concept/confifure-eam-asset-tco.md)
+**Parent Topic:**[Total Cost of Ownership \(TCO\) for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/confifure-eam-asset-tco.md)
 

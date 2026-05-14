@@ -13,7 +13,7 @@ breadcrumb: [Using MISP to investigate and analyze threats, MISP integration for
 
 By enriching observables with additional information from various MISP sources during incident response investigations, you can contain identified threats.
 
-**Parent Topic:**[Using MISP to investigate and analyze threats](using-misp-to-detect-and-analyze-threats.md)
+**Parent Topic:**[Using MISP to investigate and analyze threats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/using-misp-to-detect-and-analyze-threats.md)
 
 ## Enable automatic observable enrichment in MISP
 
@@ -32,19 +32,19 @@ Enable automatic observable enrichment in the ServiceNow AI Platform MISP when n
 
 3.  Review the work notes after new observables have been associated with the security incident.
 
-    The following example shows that a work note posts when the [Security Operations Integration - Enrich Observable flow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) triggers.
+    The following example shows that a work note posts when the [Security Operations Integration - Enrich Observable flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) triggers.
 
-    ![View the work notes of the Observable Enrichment status.](../image/flows-misp-worknotes-start.png)
+    ![View the work notes of the Observable Enrichment status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/flows-misp-worknotes-start.png)
 
 4.  In the MISP Enrichment Results related list of the security incident, view the enrichment results after the flow execution completes.
 
-    ![View the work notes of the Observable Enrichment status after the execution is completed.](../image/flows-misp-worknotes-end.png)
+    ![View the work notes of the Observable Enrichment status after the execution is completed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/flows-misp-worknotes-end.png)
 
-    **Note:** You must configure that the MISP Enrichment Results related list appears in the security incident related lists. For more information, see [related list configuration](../../security-incident-response/concept/sir-new-ui-setup-form-uiaction.md).
+    **Note:** You must configure that the MISP Enrichment Results related list appears in the security incident related lists. For more information, see [related list configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/concept/sir-new-ui-setup-form-uiaction.md).
 
     The following example shows the enrichment results in the MISP.
 
-    ![View the enrichment results in the MISP Enrichment Results tab.](../image/misp-enrichment-results-tab.png)
+    ![View the enrichment results in the MISP Enrichment Results tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-enrichment-results-tab.png)
 
     The following table shows the MISP enrichment results.
 
@@ -168,7 +168,7 @@ Select individual or multiple observables and perform a manual observable enrich
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -189,11 +189,11 @@ Select individual or multiple observables and perform a manual observable enrich
 
 6.  Click **Submit**.
 
-    A work note shows that the [Security Operations Integration - Enrich Observable workflow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) has triggered. The associated implementation workflows execute to perform the enrichment. You can view the work notes in the security incident to view the status.
+    A work note shows that the [Security Operations Integration - Enrich Observable workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md) has triggered. The associated implementation workflows execute to perform the enrichment. You can view the work notes in the security incident to view the status.
 
     The following example shows how to view the work notes for a manual observable enrichment.
 
-    ![View work notes for manual observable enrichment.](../image/misp-enrichment-manual-worknotes.png "Work notes for manual observable enrichment")
+    ![View work notes for manual observable enrichment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-enrichment-manual-worknotes.png "Work notes for manual observable enrichment")
 
     The enrichment message lists the created event. You can view the event in the ServiceNow AI Platform or in the MISP instance and view the details of the record in the MISP Enrichment Results tab.
 
@@ -204,7 +204,7 @@ Add or remove tags in MISP to classify events or attributes. You can use tagging
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the attribute that you are editing belongs to the same organization as the MISP user.
 -   Note that the tags and galaxies that are available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write
@@ -217,7 +217,7 @@ Add or remove tags in MISP to classify events or attributes. You can use tagging
 
 3.  Click **Show All Related Lists** and the MISP Enrichment Results related list.
 
-4.  Click the preview icon ![Preview icon.](../image/misp-attribute-preview-open.png) next to a record, and then click **Open Record**.
+4.  Click the preview icon ![Preview icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-attribute-preview-open.png) next to a record, and then click **Open Record**.
 
     The following example shows how to review the **MISP Enrichment Results** and how to open a MISP enrichment record.
 
@@ -366,7 +366,7 @@ Galaxies \(Global\)
 Galaxies that are available globally to be shared and synchronized with other MISP instances and sharing communities. When you add global galaxies, MISP events are modified.
 
 </td></tr></tbody>
-</table>6.  To edit either a local or global tag, click the edit icon ![Edit icon.](../image/misp-edit-icon.png) in one of the following options:
+</table>6.  To edit either a local or global tag, click the edit icon ![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-edit-icon.png) in one of the following options:
 
 7.  -   **Tags \(Local\)**
 -   **Tags \(Global\)**
@@ -389,14 +389,14 @@ Add or remove galaxies in MISP so that you can classify these objects as a clust
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   To add local galaxies, the user who has configured the integration should belong to the host organization of the corresponding MISP server.
 -   Note that the tags and galaxies that are available to you are based on the MISP source and its distribution permissions.
 -   Role required: sn\_sec\_misp.write
 
 ### Procedure
 
-1.  Click the edit icon ![Edit icon.](../image/misp-edit-icon.png) in one of the following options.
+1.  Click the edit icon ![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-edit-icon.png) in one of the following options.
 
 2.  -   **Galaxies \(Local\)**
 -   **Galaxies \(Global\)**
@@ -428,13 +428,13 @@ Add comments for the MISP attributes. The comments that you add are for informat
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Verify that the attribute that you are editing belongs to the same organization as the MISP user.
 -   Role required: sn\_sec\_misp.write
 
 ### Procedure
 
-1.  Click the edit icon ![Edit icon.](../image/misp-edit-icon.png) on the Comment field.
+1.  Click the edit icon ![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-edit-icon.png) on the Comment field.
 
 2.  Enter your comment in the Attribute Comment field.
 

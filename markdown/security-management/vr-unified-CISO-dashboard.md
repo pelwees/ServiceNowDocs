@@ -37,11 +37,11 @@ The dashboard provides the following features:
 -   Target setting and KPI tracking capabilities.
 -   Peer benchmarking.
 
-![Top half of CISO dashboard with targets and Overview tab selected](../image/vr-ciso-db-top.png)
+![Top half of CISO dashboard with targets and Overview tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/vr-ciso-db-top.png)
 
 These features enable proactive decision making by providing your organization with quick access to critical security metrics, which makes the dashboard an indispensable tool for enhancing overall security resilience and readiness.
 
-![Bottom half of CISO dashboard with Overview tab and Business units selected](../image/vr-ciso-db-bottom.png)
+![Bottom half of CISO dashboard with Overview tab and Business units selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/vr-ciso-db-bottom.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -56,7 +56,7 @@ To open the dashboard, navigate to **All** &gt; **Cybersecurity Executive Dashbo
 
 ## Data visualization
 
-**Note:** To learn more about a widget, select the information icon ![Information icon](../../../product/vulnerability-response/image/info-icon.png).
+**Note:** To learn more about a widget, select the information icon ![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../product/vulnerability-response/image/info-icon.png).
 
 <table id="table_ofc_mk1_kzb"><thead><tr><th>
 
@@ -84,7 +84,7 @@ Shows the set target to cover for a metric.
 
  The status of the targets is indicated through color coding. It shows all the targets whose review date is either within the past 30 days or upcoming. You can set the number of days for displaying targets using the **sn\_bod.show\_targets\_from** system property. Additionally, these targets can be edited.
 
- See [Set targets](../../../product/vulnerability-response/task/set-targets-cybersecurity-dashboard.md) for more information.
+ See [Set targets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../product/vulnerability-response/task/set-targets-cybersecurity-dashboard.md) for more information.
 
 </td></tr></tbody>
 </table><table id="table_n43_yv4_mbc"><thead><tr><th>
@@ -105,7 +105,7 @@ Security score
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -129,7 +129,7 @@ Compliance score
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -141,7 +141,7 @@ Risk score
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -157,7 +157,7 @@ Business units
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -175,7 +175,7 @@ Business services
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -219,7 +219,7 @@ Average time taken to close vulnerabilities and failed test results across all a
 -   Industry benchmark: Average of metrics from the peers in the same industry.
 -   Global benchmark: Average of metrics from the peers in the global market
 
- See [Opt-in for benchmark scores](../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
+ See [Opt-in for benchmark scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
 
 </td></tr><tr><td>
 
@@ -227,7 +227,7 @@ Average age of active vulnerabilities \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -245,7 +245,7 @@ Remediation efficiency \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -277,7 +277,7 @@ Vulnerabilities by risk rating and age
 
 </td><td>
 
-Heatmap![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -289,7 +289,7 @@ Remediation target adherence by assignment group
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -337,7 +337,7 @@ Active critical and high findings trend
 
 </td><td>
 
-Multiple line![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Multiple line![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -349,7 +349,7 @@ Vulnerabilities by asset category and risk rating
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -361,7 +361,7 @@ Deferred findings by reason and assignment group
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -377,7 +377,7 @@ Active critical and high vulnerability trend
 
 </td><td>
 
-Line![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Line![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -389,7 +389,7 @@ Mean time to remediate \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -402,7 +402,7 @@ Average time taken to close OT vulnerabilities. The ratio of total age of OT vul
 -   Industry benchmark: Average of metrics from the peers in the same industry.
 -   Global benchmark: Average of metrics from the peers in the global market
 
- See [Opt-in for benchmark scores](../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
+ See [Opt-in for benchmark scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
 
 </td></tr><tr><td>
 
@@ -410,7 +410,7 @@ Vulnerabilities by risk rating and age
 
 </td><td>
 
-Heatmap![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -434,7 +434,7 @@ Vulnerabilities by state and age
 
 </td><td>
 
-Heatmap![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -459,7 +459,7 @@ Major security incidents
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -471,7 +471,7 @@ Average security incidents resolution time \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -503,7 +503,7 @@ Average time to identify \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -515,7 +515,7 @@ Average time to contain \(monthly\)
 
 </td><td>
 
-Single Score![Single-score icon](../../performance-analytics/image/single-score.png)
+Single Score![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -527,7 +527,7 @@ Active incidents by priority and category
 
 </td><td>
 
-Heatmap![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -539,7 +539,7 @@ Closed and open incidents trend
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -551,7 +551,7 @@ Active incidents by states
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -560,11 +560,11 @@ Breakdown of active incidents based on their states.
 </td></tr></tbody>
 </table>|Metrics|Type|Description|
 |-------|----|-----------|
-|Monthly phishing simulation overview|Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)|Sum of users who performed the actions such as opened, clicked, and reported in the phishing simulation along with the sum of total users of each simulation for the past six months.|
+|Monthly phishing simulation overview|Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)|Sum of users who performed the actions such as opened, clicked, and reported in the phishing simulation along with the sum of total users of each simulation for the past six months.|
 
 <table id="table_obb_vcp_mbc"><tbody><tr><td colspan="3">
 
-To view Risk and Compliance widgets, you must activate the GRC plugins. For information on GRC plugins, see the Applications to activate section. For information on GRC widgets, see [Risk and compliance dashboard for GRC: Metrics](grc-cybersecurity-risk-compl-dashboard.md).
+To view Risk and Compliance widgets, you must activate the GRC plugins. For information on GRC plugins, see the Applications to activate section. For information on GRC widgets, see [Risk and compliance dashboard for GRC: Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/grc-cybersecurity-risk-compl-dashboard.md).
 
 </td></tr></tbody>
 </table>## Indicators

@@ -25,14 +25,14 @@ Role required: sales\_agent
 
 3.  Fill in the information on the Details tab.
 
-    For more information on the description of the field values, see [Lead details form](../reference/lead-details-form.md).
+    For more information on the description of the field values, see [Lead details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/lead-details-form.md).
 
 4.  Select **Save**.
 
 
 ## What to do next
 
-Use the Product Catalog tab to add products to your lead. To learn more, see [Add products to a lead](lead-management-add-product.md).
+Use the Product Catalog tab to add products to your lead. To learn more, see [Add products to a lead](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-add-product.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md)
 

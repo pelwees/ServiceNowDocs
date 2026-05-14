@@ -29,7 +29,7 @@ Role required: map admin, map editor, map editor limited
 
 4.  Add a new source and select the file you would like to import.
 
-    ![add outdoor elements to your map](../images/outdoor-elements-addsource.png "Add outdoor elements")
+    ![add outdoor elements to your map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/outdoor-elements-addsource.png "Add outdoor elements")
 
 5.  Click **Continue**.
 
@@ -37,7 +37,7 @@ Role required: map admin, map editor, map editor limited
 
 7.  Edit the georeference.
 
-    For more information about editing georeferences, see [Import Raster files](import-raster-files.md).
+    For more information about editing georeferences, see [Import Raster files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-raster-files.md).
 
 8.  Select the layer type.
 
@@ -45,18 +45,18 @@ Role required: map admin, map editor, map editor limited
 
 10. Create a place on your campus by selecting **New point** or **New polygon**.
 
-    For more information about creating a polygon and point, see [Manage places](manage-buildings.md).
+    For more information about creating a polygon and point, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
 11. Make sure that you select the floor on a campus.
 
 12. Start creating directions.
 
-    For more information, see [Manage Directions](enable-interactive-locations.md).
+    For more information, see [Manage Directions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-interactive-locations.md).
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[Working with boundary editor](working-with-boundary-editor.md)
+**Previous topic:**[Working with boundary editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/working-with-boundary-editor.md)
 
-**Next topic:**[Manage places](manage-buildings.md)
+**Next topic:**[Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md)
 

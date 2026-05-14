@@ -30,11 +30,11 @@ if you are the BCM program manager, you can create a crisis event in Business Co
 
 -   You can navigate to the **Crisis events** tab in the Home page and select **Report crisis** as shown in the example.
 
-    ![Crisis events tab in the Home page.](../image/crisis-events-homepage.png)
+    ![Crisis events tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/crisis-events-homepage.png)
 
-    For the description of the cards and action buttons in the **Crisis events** tab of the Home page, see [Home page view](home-page-uib-ws.md).
+    For the description of the cards and action buttons in the **Crisis events** tab of the Home page, see [Home page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Crisis events records.
 
-To create a crisis event in Business Continuity Workspace, see [Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md).
+To create a crisis event in Business Continuity Workspace, see [Structured workflows for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 

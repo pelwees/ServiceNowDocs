@@ -19,7 +19,7 @@ Review a request for adding a component to a component library and approve or re
 
 **Important:** DevOps Config is now deprecated and no longer supported or available for new activation.
 
-Someone has requested to add a local component from an application to the component library as a shared component. If there are such requests in a library that need your approval, you see a **Requests** label \(![The Requests label beside the library name in the list.](../image/cdm-comp-library-request.png)\) beside the library name.
+Someone has requested to add a local component from an application to the component library as a shared component. If there are such requests in a library that need your approval, you see a **Requests** label \(![The Requests label beside the library name in the list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-comp-library-request.png)\) beside the library name.
 
 Role required: cdm\_admin or cdm\_editor
 
@@ -27,7 +27,7 @@ Role required: cdm\_admin or cdm\_editor
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Click the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
+2.  Click the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
 
 3.  Open a component library and select the **Requests** tab.
 

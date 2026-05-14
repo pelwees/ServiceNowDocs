@@ -17,14 +17,14 @@ Create actions to fix issues that cause automations to fail.
 
 You can create action requests and actions.
 
--   **[Creating an action request](../task/create-action-request.md)**  
+-   **[Creating an action request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../task/create-action-request.md)**  
 An action request helps you to automatically solve issues that cause automations to fail, improving efficiency and saving time and cost.
--   **[Creating an action](creating-action.md)**  
+-   **[Creating an action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/creating-action.md)**  
 Create an action to empower users to fix issues automatically.
--   **[Execute actions in Automation Center](../task/execute-action.md)**  
+-   **[Execute actions in Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../task/execute-action.md)**  
 Execute an action to fix common repeated issues efficiently.
--   **[Manage actions](manage-actions.md)**  
+-   **[Manage actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/manage-actions.md)**  
 Manage the actions to set permissions of who can access the actions and view any details or logs of the executed actions.
 
-**Parent Topic:**[Using Automation Center](automation-center-use.md)
+**Parent Topic:**[Using Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-use.md)
 

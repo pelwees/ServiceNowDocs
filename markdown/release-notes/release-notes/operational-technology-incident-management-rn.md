@@ -98,5 +98,5 @@ Install Operational Technology Incident Management by requesting it from the Ser
     Use the ServiceNow Industrial Process Manager application to create the ISA-95 Equipment Model data foundation that is required for the ServiceNow Industrial solution, enabling you to create your own version of the equipment models in each of your industrial solution sites.
 
 
-**Parent Topic:**[Operational Technology release notes](operational-technology-rn-landing.md)
+**Parent Topic:**[Operational Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/operational-technology-rn-landing.md)
 

@@ -21,11 +21,11 @@ Sometimes items in a source application from which you created a custom template
 
 When an error happens during the template creation process, an error message is displayed.
 
-![Template creation failure notification](../image/template-errors-purple.png "Template creation failure notification")
+![Template creation failure notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/template-errors-purple.png "Template creation failure notification")
 
-You can identify which elements of your application are causing it to fail the template creation process by selecting **View all errors**, which displays the Scan Failure \[sys\_app\_scan\_failure\] table. For more information about the errors in the table and their cause, see [Template creation errors in the Scan Failure table](understanding-app-template-creation-errors.md#).
+You can identify which elements of your application are causing it to fail the template creation process by selecting **View all errors**, which displays the Scan Failure \[sys\_app\_scan\_failure\] table. For more information about the errors in the table and their cause, see [Template creation errors in the Scan Failure table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/understanding-app-template-creation-errors.md#).
 
-**Parent Topic:**[Build a custom template](build-custom-template.md)
+**Parent Topic:**[Build a custom template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/build-custom-template.md)
 
 ## Template creation errors in the Scan Failure table
 
@@ -33,7 +33,7 @@ Errors that occurred during the creation of a custom template that are displayed
 
 ### Error messages
 
-For more information about what types of records are allowed and skipped, see [Supported features and metadata in custom templates](../reference/supported-features-metadata-custom-templates.md).
+For more information about what types of records are allowed and skipped, see [Supported features and metadata in custom templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../reference/supported-features-metadata-custom-templates.md).
 
 <table id="table_jyq_4qt_z5b"><thead><tr><th>
 

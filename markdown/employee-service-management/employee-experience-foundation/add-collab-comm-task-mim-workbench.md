@@ -41,7 +41,7 @@ Role required: major\_incident\_manager
     |Frequency|Frequency at which a specific task must be executed. A task can be executed only once or on specific durations.|
     |Due in \(Minutes\)|Time span when the task must be executed after the task initiates. For recurring tasks, it also indicates the time span after which the task must repeat.|
 
-    ![Add collaboration communication task.](../images/add-collab-task-plan.png)
+    ![Add collaboration communication task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/add-collab-task-plan.png)
 
 7.  Click **Next**.
 
@@ -52,8 +52,8 @@ Role required: major\_incident\_manager
     The task appears in the **Collaborate** tab.
 
 
--   **[Initiate Microsoft Teams group chat from MIM workbench](initiate-ms-teams-group-chat-mim-workbench.md)**  
+-   **[Initiate Microsoft Teams group chat from MIM workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/initiate-ms-teams-group-chat-mim-workbench.md)**  
 You can initiate a Microsoft Teams group chat from the MIM workbench to work towards the resolution of the task.
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/agent-sn-ms-teams.md)
 

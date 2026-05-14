@@ -27,7 +27,7 @@ Role required: admin
 
 3.  In the template bar, click the plus icon \(+\).
 
-    ![Template form](../image/TemplateUI16Form.png)
+    ![Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TemplateUI16Form.png)
 
 4.  Enter a descriptive name to make it easy for a user to select the correct template.
 
@@ -36,24 +36,24 @@ Role required: admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md)
 
-[Create templates for related task records](create-templates-for-related-task-records.md)
+[Create templates for related task records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-templates-for-related-task-records.md)
 
-[Schedule record creation from a template](t_ScheduleATemplate.md)
+[Schedule record creation from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleATemplate.md)
 
-[Create a module for a template](t_CreateAModuleForATemplate.md)
+[Create a module for a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/template-bar.md)
 
-[Toggle the template bar](t_ToggleTheTemplateBar.md)
+[Toggle the template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ScriptedTemplates.md)
 
 [ACL rule types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-rule-types.md)
 

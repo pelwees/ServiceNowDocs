@@ -110,7 +110,7 @@ Allow pre-allocation
 
 </td><td>
 
-Add and track items in this category as[Create pre-allocated assets](../../asset-management/task/t_CreatingPreAllocatedAssets.md#).
+Add and track items in this category as[Create pre-allocated assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../../asset-management/task/t_CreatingPreAllocatedAssets.md#).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Allow in bundle
 
 </td><td>
 
-Use items in this category in [bundles](../concept/c_CreatingBundledModels.md).
+Use items in this category in [bundles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_CreatingBundledModels.md).
 
 </td></tr><tr><td>
 
@@ -140,18 +140,18 @@ Prevents the system from automatically creating assets in a specific model categ
 </table>3.  Select **Submit**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ModelCategories.md)
 
 **Related topics**  
 
 
-[View model categories](t_ViewingModelCategories.md)
+[View model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewingModelCategories.md)
 
-[Create assets manually](t_CreatingAssetsManually.md)
+[Create assets manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingAssetsManually.md)
 
-[Edit model categories](t_EditingModelCategories.md)
+[Edit model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_EditingModelCategories.md)
 
-[Delete model categories](t_DeletingModelCategories.md)
+[Delete model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_DeletingModelCategories.md)
 
 [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-discovery.md)
 

@@ -60,23 +60,23 @@ The following points must be considered while defining the workflow:
 
 -   All workflows of your repository must have either a .yml or .yaml file extension. All workflows must be under `.github/workflows` directory and follow the syntax defined in the [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions).
 
-    ![Workflows in the GitHub Actions tab](../image/integration-with-github-actions-2.jpg)
+    ![Workflows in the GitHub Actions tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/integration-with-github-actions-2.jpg)
 
 -   The name of the workflow must match with the workflow file name.
 
-    ![Name of the worflow must match with the file name](../image/integration-with-github-actions-3.jpg)
+    ![Name of the worflow must match with the file name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/integration-with-github-actions-3.jpg)
 
 -   The names of the workflows under **All workflows** on the **Actions** tab must match with the workflows saved under the `.github/workflows` directory of your repository.
 
-    ![Placement of workflow files in the Actions tab](../image/integration-with-github-actions-4.jpg)
+    ![Placement of workflow files in the Actions tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/integration-with-github-actions-4.jpg)
 
 -   A display name must be given for every job and must be unique for every job in the workflow. The job name must match with the stage name in the custom action.
 
-    ![Job name in custom action](../image/github-actions-jobname.png)
+    ![Job name in custom action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-actions-jobname.png)
 
 -   Use the `workflow_dispatch` event to trigger a workflow manually.
 
-    ![Manually triggering a workflow using an event](../image/integration-with-github-actions-5.jpg)
+    ![Manually triggering a workflow using an event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/integration-with-github-actions-5.jpg)
 
 
 ## GitHub Actions workflow run details in DevOps
@@ -106,7 +106,7 @@ Change requests created for GitHub jobs are re-used if the change requests are i
 
 For composite workflows where one workflow calls another workflow and the change step is in the child workflow, the **job-name** parameter for the change step must be of the format `job-name: '<parent-job-name> / <child-job-name>'`. Here the space before and after the forward slash \(/\) is mandatory.
 
-![Sample job-name parameter.](../image/gh-actions-rerun-eg.png "Example of a job-name parameter in the child workflow")
+![Sample job-name parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gh-actions-rerun-eg.png "Example of a job-name parameter in the child workflow")
 
 ## GitHub Actions limitations for DevOps Change Velocity integration
 
@@ -122,10 +122,10 @@ For composite workflows where one workflow calls another workflow and the change
 -   Callback URL to pause and resume workflow run from the ServiceNow instance is supported only with GitHub Actions Deployment Gates feature. However, change creation is possible through both deployment gates and GitHub Custom Action.
 -   User who creates GitHub tool in the ServiceNow instance must be a reviewer to approve the workflow for GitHub Environments.
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-integration-dev-ops.md)
 
 **Related topics**  
 
 
-[Configure webhooks in GitHub manually](../task/config-webhooks-github-manually.md)
+[Configure webhooks in GitHub manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/config-webhooks-github-manually.md)
 

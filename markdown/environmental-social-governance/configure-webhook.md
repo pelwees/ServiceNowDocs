@@ -38,12 +38,12 @@ A statement in Urjanet refers to a bill. Whenever a new statement is generated i
 
 5.  Open the record that you created and select **Generate Webhook URL**.
 
-6.  To copy the Webhook URL, right-click the information message that appears on the screen and select **Copy Link Address**.![Copying the Webhook URL.](../images/webhook-url.png)
+6.  To copy the Webhook URL, right-click the information message that appears on the screen and select **Copy Link Address**.![Copying the Webhook URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/webhook-url.png)
 
 
 ## What to do next
 
 Paste the URL that is generated in the Urjanet console to get real-time Urjanet statement data. For more information, contact your system administrator.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/integrating-esg-management-with-urjanet.md)
 

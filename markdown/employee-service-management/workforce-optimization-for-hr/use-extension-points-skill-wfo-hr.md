@@ -40,5 +40,5 @@ You can create multiple implementations for each extension point and provide an 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Setting up skill prediction in Workforce Optimization for HR](setup-skill-prediction-wfo-hr.md)
+**Parent Topic:**[Setting up skill prediction in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-skill-prediction-wfo-hr.md)
 

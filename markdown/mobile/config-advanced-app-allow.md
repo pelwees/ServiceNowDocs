@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Only use the advanced app allowance configuration if you must configure a link that redirects end users to a mobile app that is authorized to connect to the instance. Otherwise, you should use the basic app allowance list configuration. For more information, see [Configure a basic allowed mobile app list](config-basic-allow-mobile-app-list.md).
+Only use the advanced app allowance configuration if you must configure a link that redirects end users to a mobile app that is authorized to connect to the instance. Otherwise, you should use the basic app allowance list configuration. For more information, see [Configure a basic allowed mobile app list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-basic-allow-mobile-app-list.md).
 
 If both basic and advanced app allowance modes are configured on the same instance, then the system prioritizes the advanced app allowance configuration and always uses it. The advanced app allowance configuration can cause performance issues if the scripted extension point is not written to maximize system performance.
 
@@ -54,7 +54,7 @@ If both basic and advanced app allowance modes are configured on the same instan
         ⋮
         ```
 
-    For an example of a completed script, see [Advanced app allowance example script](../reference/adv-app-allow-sample-script.md).
+    For an example of a completed script, see [Advanced app allowance example script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/adv-app-allow-sample-script.md).
 
 4.  To save the record, select **Update**.
 

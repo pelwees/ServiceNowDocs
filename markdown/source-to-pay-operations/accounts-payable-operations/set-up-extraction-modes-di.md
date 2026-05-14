@@ -26,9 +26,9 @@ Role required: sn\_docintel.manager
 
 2.  In the workflow group, select &gt; **Finance and Supply Chain** &gt; **Invoice data extraction** to view the skills for the APO features.
 
-3.  Select the settings ![docintel settings](../image/icon-docintel-settings-gear.png) icon.
+3.  Select the settings ![docintel settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/icon-docintel-settings-gear.png) icon.
 
-4.  Select the extraction mode for the use case**Accounts Payable Operations**.![Extraction mode](../image/settings-na.png)
+4.  Select the extraction mode for the use case**Accounts Payable Operations**.![Extraction mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/settings-na.png)
 
 5.  Adjust the DocIntel full automation mode.
 

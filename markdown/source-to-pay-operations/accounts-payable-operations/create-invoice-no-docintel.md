@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -37,10 +37,10 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
     `Invoice has been successfully created. Verify all the required fields are correct and add invoice lines before submitting.`
 
-    Verify that the values in the invoice fields are correct and ensure that you add at least one invoice line for the invoice. For more information, see [Create an invoice line manually](create-invoice-line.md).
+    Verify that the values in the invoice fields are correct and ensure that you add at least one invoice line for the invoice. For more information, see [Create an invoice line manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line.md).
 
 6.  Select **Submit invoice**.
 
 
-**Parent Topic:**[Invoice ingestion process when Document Intelligence is unavailable](../concept/invoice-ingest-docintel-unavailable.md)
+**Parent Topic:**[Invoice ingestion process when Document Intelligence is unavailable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/invoice-ingest-docintel-unavailable.md)
 

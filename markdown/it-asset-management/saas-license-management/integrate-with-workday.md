@@ -22,8 +22,8 @@ With this integration, you can track software subscriptions for the following Wo
 
 Use either of the following authentication methods to integrate your ServiceNow instance with Workday.
 
--   [Basic Authentication](integrate-with-workday-basicauth.md#)
--   [OAuth 2.0](integrate-with-workday-oauth.md#)
+-   [Basic Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-workday-basicauth.md#)
+-   [OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-workday-oauth.md#)
 
 **Important:** Minimize security risks and protect information by granting access only to the necessary user or API permissions.
 

@@ -17,9 +17,9 @@ Configure the default behavior of Engagement Messenger to set the default settin
 
 ## Before you begin
 
-[Configure Engagement Messenger](create-engagement-messenger-module.md).
+[Configure Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
 
-[Use Engagement Messenger embed Code to integrate proactive recommendations on a web page](em-contextual-help.md).
+[Use Engagement Messenger embed Code to integrate proactive recommendations on a web page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/em-contextual-help.md).
 
 Role required: sn\_csm\_ec.ec\_admin
 
@@ -35,9 +35,9 @@ Role required: sn\_csm\_ec.ec\_admin
 
 5.  In the **Behavior** tab, configure the **Recommendations** and **Proactive** settings to define the Engagement Messenger functions.
 
-    For more information, see [Proactive Recommendations configuration for Engagement Messenger](../reference/em-behav-recom.md).
+    For more information, see [Proactive Recommendations configuration for Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/em-behav-recom.md).
 
-    **Note:** For information about how to customize the Notification behavior, see [Configure Engagement Messenger](create-engagement-messenger-module.md).
+    **Note:** For information about how to customize the Notification behavior, see [Configure Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
 
 6.  Select **Save**.
 

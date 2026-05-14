@@ -206,7 +206,7 @@ Any additional information that must be provided to the customer. This informati
 ## What to do next
 
 -   Select **Discuss** to start a sidebar discussion about this customer play task. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this initiative. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the **Activity stream**.
--   Create success play: See [Create a success play](account-lifecycle-create-success-play.md).
+-   Create success play: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-play.md).
 
-**Parent Topic:**[Create a customer play record](account-lifecycle-create-success-case.md)
+**Parent Topic:**[Create a customer play record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-case.md)
 

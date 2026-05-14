@@ -35,5 +35,5 @@ For Remote Table API information, refer to:
 })(v_record);
 ```
 
-**Parent Topic:**[Create script definitions for a remote table](../task/create-remote-table-script.md)
+**Parent Topic:**[Create script definitions for a remote table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/../task/create-remote-table-script.md)
 

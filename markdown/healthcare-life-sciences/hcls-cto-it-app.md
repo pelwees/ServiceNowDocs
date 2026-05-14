@@ -17,23 +17,23 @@ Care Team Operations for Healthcare IT contains the case types to report and ful
 
 <table id="table_p3m_nhr_hdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Healthcare IT.](exploring-cto-it.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Healthcare IT.](exploring-cto-it.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-cto-it.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-cto-it.md)
 
 </td><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-manage.svg)Submit support requests for healthcare IT issues.](requesting-cto-it.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-manage.svg)Submit support requests for healthcare IT issues.](requesting-cto-it.md)
 
 </td></tr><tr><td>
 
-[Resolve![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve incidents created from Healthcare IT cases.](fulfilling-cto-it.md)
+[Resolve![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve incidents created from Healthcare IT cases.](fulfilling-cto-it.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details on components like fields, tables, and properties.](cto-it-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg)Get details on components like fields, tables, and properties.](cto-it-reference.md)
 
 </td><td>
 

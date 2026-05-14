@@ -18,15 +18,15 @@ Use the ServiceNow® Now Assist for Purchase Order Management \(POM\) applicatio
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for POM](exploring-na-for-pom.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for POM](exploring-na-for-pom.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for POM application to get started](../task/configure-now-assist-purch-order-mgmt.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for POM application to get started](../task/configure-now-assist-purch-order-mgmt.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use agentic workflows in Now Assist for POM](using-agentic-wf-na-for-pom.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use agentic workflows in Now Assist for POM](using-agentic-wf-na-for-pom.md)
 
 </td></tr></tbody>
 </table>**Important:**

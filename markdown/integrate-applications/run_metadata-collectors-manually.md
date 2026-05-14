@@ -33,8 +33,8 @@ Running a collector manually initiates immediate metadata harvesting from the co
 
 5.  Select the metadata collector you want to run manually.
 
-6.  In the Last run summary section, select **Run now**.![Run a collector manually](../image/dc-mcollector-run.png)
+6.  In the Last run summary section, select **Run now**.![Run a collector manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-mcollector-run.png)
 
 
-**Parent Topic:**[Running metadata collectors](../concept/run-metadata-collectors-dc.md)
+**Parent Topic:**[Running metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/run-metadata-collectors-dc.md)
 

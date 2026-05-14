@@ -289,5 +289,5 @@ List of attributes \(comma-separated\) that will be copied from the child Incide
 Select the fields that must be copied from the incident when creating a major incident.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Incident Management](../concept/incident-configuration.md)
+</table>**Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-configuration.md)
 

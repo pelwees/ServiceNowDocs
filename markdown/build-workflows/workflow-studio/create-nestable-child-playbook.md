@@ -44,7 +44,7 @@ To define a launch playbook permission for the child playbook:
     4.  Select an **Application** scope.
     5.  Select **Standalone** for the **Execution type**:
 
-        ![Playbook user interface that shows how to select the Standalone option.](../images/create-standalone-playbook.png)
+        ![Playbook user interface that shows how to select the Standalone option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-standalone-playbook.png)
 
         When you select **Standalone**, the option **Allow this playbook to be nest-able in another playbook** automatically appears and is selected.
 
@@ -57,10 +57,10 @@ To define a launch playbook permission for the child playbook:
 
 7.  Select **Save and close**.
 
-    For more information about creating a playbook, see [Create a playbook](create-process-definition.md).
+    For more information about creating a playbook, see [Create a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-process-definition.md).
 
 
 ## What to do next
 
-After you have successfully built the nestable child playbook and activated it, build the parent playbook to host the nestable child playbook. See [Create a parent playbook to host a nestable child playbook](create-parent-playbook.md).
+After you have successfully built the nestable child playbook and activated it, build the parent playbook to host the nestable child playbook. See [Create a parent playbook to host a nestable child playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-parent-playbook.md).
 

@@ -46,12 +46,12 @@ Verify that you have a ServiceNow® add-in for Microsoft Outlook \(com.sn\_outlo
     You can connect to your Microsoft Outlook account with your ServiceNow® instance.
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../concept/configuring-product-feedback-in-sp.md)
 
 **Related topics**  
 
 
-[Create feedback from Microsoft Outlook](create-feedback-from-outlook.md)
+[Create feedback from Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-feedback-from-outlook.md)
 
-[Configure email for feedback submission](configure-outlook-email-for-feedback.md)
+[Configure email for feedback submission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/configure-outlook-email-for-feedback.md)
 

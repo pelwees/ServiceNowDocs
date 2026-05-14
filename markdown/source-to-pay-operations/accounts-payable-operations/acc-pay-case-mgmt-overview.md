@@ -15,7 +15,7 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 With Invoice Case Management, agents can manage and work on their assigned invoice cases, request more information from suppliers or employees, and create and assign tasks to users using the Accounts Payable workspace.
 
-Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the Accounts Payable Operations \(com.sn\_ap\_apm\) application. However, you can also install Invoice Case Management independently. For more information, see [Install Invoice Case Management](../task/install-invoice-case-mgmt.md).
+Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the Accounts Payable Operations \(com.sn\_ap\_apm\) application. However, you can also install Invoice Case Management independently. For more information, see [Install Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-invoice-case-mgmt.md).
 
 The agent \[sn\_ap\_cm.agent\] and Invoice Case Management administrator \[sn\_ap\_cm.admin\] roles can access the Invoice Case Management application.
 
@@ -23,14 +23,14 @@ Open the Invoice Case Management application by navigating to **All** &gt; **Acc
 
 **Note:** Check your entitlements to determine whether you have access to Invoice case management.
 
-**Parent Topic:**[Explore Accounts Payable Operations](explore-acc-pay-mgmt.md)
+**Parent Topic:**[Explore Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-invoice-processing.md)
 
-[Source-to-Pay Workspace](acc-pay-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-workspace.md)
 
-[Accounts Payable Operations integration with Document Intelligence](apo-docintel-integration.md)
+[Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-docintel-integration.md)
 

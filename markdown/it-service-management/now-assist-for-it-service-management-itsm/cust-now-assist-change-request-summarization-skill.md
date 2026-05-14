@@ -37,7 +37,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
         You can choose to make a copy of the skill before activating it.
 
-    2.  Select the More actions icon ![More actions icon.](../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
+    2.  Select the More actions icon ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
 
         A confirmation message is displayed.
 
@@ -47,7 +47,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
     1.  Enter a name and description for the skill.
 
@@ -86,7 +86,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
         **Important:** If you add a new field with the same name as an existing field, the name and description of the new field will override the description of the existing field.
 
-        ![Customizing the change request summarization skill with input data](../image/now-assist-cust-change-summarization-1.png)
+        ![Customizing the change request summarization skill with input data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-change-summarization-1.png)
 
     2.  Add rule conditions to determine when the input template is used.
 
@@ -96,7 +96,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
         The data sources could include related tables, activity streams, and relationships. The Change Risk Details, Conflict, Applied Change Policy, Impacted CIs, and Affected CIs related input tables are available by default. You can edit these tables or add new related tables, activity streams, or relationships by selecting **+New data source** and then selecting the desired option.
 
-        ![Add new data source](../image/now-assist-cust-change-summarization-2.png)
+        ![Add new data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-change-summarization-2.png)
 
 <table id="table_pcg_3zw_pdc"><thead><tr><th>
 
@@ -171,7 +171,7 @@ Do this
     -   Authorize &amp; Scheduled
     -   Implement &amp; Review
     -   Closed
-2.  Select **Run Test**. ![Evaluate prompt output for the change request summarization skill](../image/now-assist-cust-prompt-change-summ-1.png)
+2.  Select **Run Test**. ![Evaluate prompt output for the change request summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-prompt-change-summ-1.png)
 Review and test the prompt for each input template configuration and make sure it meets your expectations.The prompt response is shown. You can make changes to the change state selections and retest as needed.
 
 </td></tr><tr><td id="d347843e484">
@@ -181,9 +181,9 @@ Review and test the prompt for each input template configuration and make sure i
 </td><td>
 
 1.  Select **Edit prompt in Now Assist Skill Kit**.
-2.  Select **Go to Now Assist Skill Kit**. ![Edit prompt in Now Assist Skill Kit](../image/now-assist-cust-promt-change-summarization-2.png)
-3.  In the **Skill contents** pane, select the **Edit Skill Input** icon and add any inputs that you'd like to add to the prompt. ![Edit skill input in Now Assist Skill Kit](../image/now-assist-cust-prompt-change-summ-3.png)
-4.  In the **Prompt** screen, clone the required prompt and save it. ![Clone and edit prompt in Now Assist Skill Kit](../image/now-assist-cust-prompt-change-summ-4.png)
+2.  Select **Go to Now Assist Skill Kit**. ![Edit prompt in Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-promt-change-summarization-2.png)
+3.  In the **Skill contents** pane, select the **Edit Skill Input** icon and add any inputs that you'd like to add to the prompt. ![Edit skill input in Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-prompt-change-summ-3.png)
+4.  In the **Prompt** screen, clone the required prompt and save it. ![Clone and edit prompt in Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-cust-prompt-change-summ-4.png)
 5.  Select **Run test**.
 
 The prompt displays in the Test prompt screen.

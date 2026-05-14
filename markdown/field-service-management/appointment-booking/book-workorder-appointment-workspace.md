@@ -19,13 +19,13 @@ Book appointment for an associated work order or work order task to dispatch age
 
 Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier and sn\_customerservice.consumer\_agent
 
-Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](../concept/appointment-booking-administer.md).
+Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/../concept/appointment-booking-administer.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Click the List icon \(![List icon.](../image/ListIcon.png)\).
+2.  Click the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/../image/ListIcon.png)\).
 
 3.  Open either work order or work order task.
 
@@ -42,7 +42,7 @@ Setup the **Field Service Order Configuration** to book an appointment for work 
 **Related topics**  
 
 
-[Reschedule work order appointment in the CSM Configurable Workspace](Reschedule-workorder-appointment-workspace.md)
+[Reschedule work order appointment in the CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/Reschedule-workorder-appointment-workspace.md)
 
-[Cancel work order appointment in CSM Agent Workspace](Cancel-workorder-appointment-workspace.md)
+[Cancel work order appointment in CSM Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/Cancel-workorder-appointment-workspace.md)
 

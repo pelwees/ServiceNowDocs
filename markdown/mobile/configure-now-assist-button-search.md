@@ -148,5 +148,5 @@ Verify that Now Assist in AI Search and Now Assist Self Service Enhanced Chat ar
     |Attribute 3|`TextColorVariable`|`menu_01_TextColorVariable`|`--now-color--primary-1`|
 
 
-**Parent Topic:**[Configuring Now Assist for Mobile](configuring-now-assist-mobile.md)
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 

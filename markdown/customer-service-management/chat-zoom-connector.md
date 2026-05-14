@@ -27,7 +27,7 @@ As an agent manager, you can access an interaction record of type Zoom to view t
 
 As a customer, you can join a Zoom meeting with an agent regardless of whether you have a Zoom account.
 
-To get started with the Chat Zoom Connector application, see [Configure Chat Zoom Connector](../task/config-chat-zoom-connector.md).
+To get started with the Chat Zoom Connector application, see [Configure Chat Zoom Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-chat-zoom-connector.md).
 
 ## Key features
 
@@ -40,7 +40,7 @@ To get started with the Chat Zoom Connector application, see [Configure Chat Zoo
 
 The following example scenario shows the use of the Chat Zoom Connector application in resolving a configuration issue with an agent initiating a Zoom meeting directly from a customer chat.
 
-![Infographic displaying the process of an agent resolving a customer issue over chat. For the text description, refer to the following steps.](../image/chat-zoom-connector.png "Agent resolving a customer issue over Zoom")
+![Infographic displaying the process of an agent resolving a customer issue over chat. For the text description, refer to the following steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-zoom-connector.png "Agent resolving a customer issue over Zoom")
 
 1.  A customer engages with Support over chat to report an issue for a product.
 2.  An agent receives the chat request and realizes that the issue can be resolved through a minor configuration change.

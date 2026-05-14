@@ -31,7 +31,7 @@ The following items are installed with SPW Jira Integrations:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with SPW Jira Integrations](../reference/components-installed-with-spw-jira-integrations.md).
+For more information, see [Components installed with SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/components-installed-with-spw-jira-integrations.md).
 
 ## Procedure
 

@@ -17,7 +17,7 @@ Service Mapping uses traversal rules to bring in related configuration items and
 
 ## About traversal rules
 
-Predefined traversal rules in Service Mapping are key to identifying the relationships between configuration items \(CIs\) and building accurate application service maps. To maintain integrity and avoid issues, such as incomplete maps or service disruptions, these rules are fixed. You can't change, customize, or remove them. To create custom traversal rules to meet your organization's needs, see [Traversal Rules for Application Services form completion](traversal_rules_form_completion.md).
+Predefined traversal rules in Service Mapping are key to identifying the relationships between configuration items \(CIs\) and building accurate application service maps. To maintain integrity and avoid issues, such as incomplete maps or service disruptions, these rules are fixed. You can't change, customize, or remove them. To create custom traversal rules to meet your organization's needs, see [Traversal Rules for Application Services form completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traversal_rules_form_completion.md).
 
 ## Predefined traversal rules
 
@@ -34,7 +34,7 @@ Predefined traversal rules in Service Mapping are key to identifying the relatio
 
 For example, the first row of the table illustrates a traversal rule that identifies and adds the hardware \(cmdb\_ci\_hardware\) supporting a given software application \(cmdb\_ci\). When **Is Reverse** is set to false, the discovery process starts with the application and identifies the hardware it runs on-traversing from the parent CI to the child CI. The relationships are then added to the application service map.
 
-To learn more about traversal rule components and related terminology, see [Traversal rules in Service Mapping](../concept/traversal-rules-service-mapping.md).
+To learn more about traversal rule components and related terminology, see [Traversal rules in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/traversal-rules-service-mapping.md).
 
-**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 

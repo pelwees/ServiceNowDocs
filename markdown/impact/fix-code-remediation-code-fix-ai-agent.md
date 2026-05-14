@@ -15,7 +15,7 @@ As a ServiceNow developer, you can access code fix suggestions when an error is 
 
 ## Before you begin
 
-Complete the pre-requisites and setup steps in order to activate Resolve Scan Engine findings with Now Assist. See [Configure Remediate Scan Engine findings with Now Assist](configure-remediation-code-fix-ai-agent.md) for details.
+Complete the pre-requisites and setup steps in order to activate Resolve Scan Engine findings with Now Assist. See [Configure Remediate Scan Engine findings with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-remediation-code-fix-ai-agent.md) for details.
 
 **Tip:**
 
@@ -48,7 +48,7 @@ Role required: sn\_impact\_gen\_ai\_ai\_code\_fix\_user, impact developer
 3.  Select **Fix with Now Assist** to start the batch processing.
 
     -   A modal displays a summary and confirmation.
-    -   Not all findings are eligible for AI fixes and non-AI-fixable findings are filtered from the Open findings list. See [Remediate Scan Engine findings with Now Assist](../concept/code-fix-ai-remediation-agent.md) for information on findings that are eligible for AI resolution.
+    -   Not all findings are eligible for AI fixes and non-AI-fixable findings are filtered from the Open findings list. See [Remediate Scan Engine findings with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/code-fix-ai-remediation-agent.md) for information on findings that are eligible for AI resolution.
     -   Once Now Assist processes your request and generates the suggested fixes, the AI status updates to ready for review.
 4.  Select **Review AI Fixes** to open the review page.
 

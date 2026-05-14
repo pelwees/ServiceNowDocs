@@ -106,7 +106,7 @@ Starting
 For periodical workflows, the first date and time to run the workflow. For scheduled workflows run once, the date and time to run the workflow.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+</table>**Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow/concept/c_WorkflowAdministration.md)
 
 **Related topics**  
 

@@ -44,7 +44,7 @@ If the current domain does not match the domain of the variant or dashboard, the
 
 The following diagram shows what is \(in green\) and is not \(in blue\) domain separated in UI Builder.
 
-![Diagram of what is, and what is not, domain separated in UI Builder.](../image/UIB-domain-separation-included.png)
+![Diagram of what is, and what is not, domain separated in UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-domain-separation-included.png)
 
 Not shown in the diagram are viewports, declarative actions, and screen applicabilities, which are domain supported as process.
 
@@ -84,7 +84,7 @@ After the override and the conditions and audiences are set, the content and con
 
 In addition, a user can access the domain hierarchy to view existing overrides from higher domains. For example, Global &lt;- Top &lt;- Acme &lt;- Current domain. If no overrides exist, the default variant or dashboard are displayed. The exception is if the default variant or dashboard is in a child domain or a peer domain.
 
-![Example overrides in domain separation.](../image/UIB-domnain-separation-example1.png)
+![Example overrides in domain separation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-domnain-separation-example1.png)
 
 If you select **Expand Domain Scope** while in Global, all variants and overrides in sub domains are shown as previously mentioned.
 
@@ -98,7 +98,7 @@ Viewports are variants that can be nested in page definition content. They can b
 
 Declarative Actions can be overridden per domain as well. A system administrator or ui\_builder\_admin should select the appropriate domain prior to creating a domain specific declarative action override.
 
-**Parent Topic:**[Learning UI Builder](learning-uib.md)
+**Parent Topic:**[Learning UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learning-uib.md)
 
 **Related topics**  
 

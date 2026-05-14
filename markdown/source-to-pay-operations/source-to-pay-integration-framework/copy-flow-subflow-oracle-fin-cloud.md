@@ -31,7 +31,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
     **Important:** Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Copy a flow or subflow in Oracle Financial Cloud](../../source-to-pay-operations/image/oracle-fin-copy-subflow.png "Copy a flow or subflow in Oracle Financial Cloud")
+    ![Copy a flow or subflow in Oracle Financial Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-fin-copy-subflow.png "Copy a flow or subflow in Oracle Financial Cloud")
 
 5.  Activate the flow or subflow.
 
@@ -46,7 +46,7 @@ Role required: sn\_fcms\_intg.integration\_user
     -   **Status** is **Pending Submission**
     **Note:** Do not modify the trigger condition.
 
-    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](../concept/s2p-transform-maps-flows.md)
+    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/s2p-transform-maps-flows.md)
 
     You have successfully copied and executed the flow.
 

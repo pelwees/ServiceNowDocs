@@ -28,32 +28,32 @@ To link a contract as a parent, the following conditions must be met:
 -   Only one parent contract can be selected while linking.
 -   The parent contract must be a single contract type using own paper or third-party paper.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](snlc-request-nda-1.md)
+[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-request-nda-1.md)
 
-[Third-party contract review requests](snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](snlc-amend-req-landing.md)
+[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-amend-req-landing.md)
 
-[Internal review overview](../task/snlc-expert-review.md)
+[Internal review overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../task/snlc-expert-review.md)
 
-[Cancel a legal request](../task/snlc-cancel-request-tpc.md)
+[Cancel a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../task/snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](../task/snlc-preview-contract.md)
+[View and download a signed contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../task/snlc-preview-contract.md)
 
-[View contract requests](../task/snlc-view-contract-requests.md)
+[View contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../task/snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-manage-sn-legal-contracts.md)
 
-[Link parent contract requests](../../contract-mgmt-pro/task/cmpro-link-parent-cmr.md)
+[Link parent contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cmpro-link-parent-cmr.md)
 
-[Link and inherit parent contract fields](../../contract-mgmt-pro/task/cmpro-link-inhrt-prnt-flds.md)
+[Link and inherit parent contract fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cmpro-link-inhrt-prnt-flds.md)
 
-[Remove a linked contract](../../contract-mgmt-pro/task/cmpro-remove-linked-cntr.md)
+[Remove a linked contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cmpro-remove-linked-cntr.md)
 
-[Configure field mapping for parent-child contract linking](../../contract-mgmt-pro/task/cncor-conf-parent-child.md)
+[Configure field mapping for parent-child contract linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncor-conf-parent-child.md)
 

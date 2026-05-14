@@ -30,5 +30,5 @@ By default, the MID Server searches for SSH commands in the following paths:
 -   /bin
 -   /sbin
 
-**Parent Topic:**[SSHCommand probe](c_SSHCommandProbe.md)
+**Parent Topic:**[SSHCommand probe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md)
 

@@ -43,13 +43,13 @@ Cloud Cost Management 10.0 and later versions support the FOCUS billing format i
 
     -   For the Cloud Native billing format, create exports with the **Cost and usage \(actual\)** and **Cost and usage \(amortized\)** templates to ensure accuracy of billing data.
     -   For the FOCUS billing format, create exports with the **Cost and usage \(FOCUS\)** to ensure efficient billing data management.
-    ![Cost Management page on Microsoft Azure portal showing templates for various billing formats](../image/focus-billing-azure.png)
+    ![Cost Management page on Microsoft Azure portal showing templates for various billing formats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/focus-billing-azure.png)
 
 6.  Select **Next**.
 
 7.  On the Datasets tab, enter **Export prefix** to customize your export name.
 
-8.  Select the edit icon ![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png) next to the export name that you want to edit.
+8.  Select the edit icon ![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/itom/image/workspace-icon-edit.png) next to the export name that you want to edit.
 
 9.  In the Edit export window, fill in the fields.
 
@@ -130,5 +130,5 @@ The export that you have created appears in the list of exports.
 **Related topics**  
 
 
-[Schedule and manage the jobs that download Azure billing data](schedule-azure-billing-job.md)
+[Schedule and manage the jobs that download Azure billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/schedule-azure-billing-job.md)
 

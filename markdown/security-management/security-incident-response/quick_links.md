@@ -33,7 +33,7 @@ You can add and modify any useful quick links and bookmark those links that help
 
 4.  Click **Save Link**.
 
-    ![Add quick links](../image/add-quick-links.png)
+    ![Add quick links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/add-quick-links.png)
 
     The new link gets added below the quick links section.
 
@@ -47,12 +47,12 @@ You can add and modify any useful quick links and bookmark those links that help
 
     4.  Click **Done**.
 
-        ![Modify quick links](../image/modify-quick-links.png)
+        ![Modify quick links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/modify-quick-links.png)
 
     5.  Use the upward and downward arrows to move the position of the links.
 
     6.  Click **Delete** to delete the links while editing that were bookmarked.
 
 
-**Parent Topic:**[Quick links section](../concept/quick-links.md)
+**Parent Topic:**[Quick links section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/quick-links.md)
 

@@ -90,12 +90,12 @@ Since date
 The date since historical incidents were ingested from Microsoft.
 
 </td></tr></tbody>
-</table>    ![Schedule incident retrieval](../image/ms-def-scheduling.png)
+</table>    ![Schedule incident retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-def-scheduling.png)
 
 3.  Select **Continue**.
 
 
 ## What to do next
 
-[Automate incident updates and closures](ms-defender-additional-op.md)
+[Automate incident updates and closures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-defender-additional-op.md)
 

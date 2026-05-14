@@ -17,7 +17,7 @@ Configure the client actions to migrate list actions from ITSM Agent Workspace t
 
 ## Before you begin
 
-When performing the migration, you must have selected the **List actions** option for ITSM Agent Workspace features. For example, the **List actions** option for List. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **List actions** option for ITSM Agent Workspace features. For example, the **List actions** option for List. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -83,5 +83,5 @@ At the end of the migration process, a confirmation message specifies if the mig
     **Note:** The **ITEM\_SELECTED** and **PREVIEW\_RECORD** actions function in the ITSM Agent Workspace but not in SOW. Therefore, an action payload named CREATE\_NEW\_RECORD Is introduced in SOW. While there could be other action payloads that might not function properly, the base system client actions for the list continue to work effectively in SOW post-migration.
 
 
-**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-actions-migration-itsm-aw-sow.md)
+**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/list-actions-migration-itsm-aw-sow.md)
 

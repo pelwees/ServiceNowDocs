@@ -158,5 +158,5 @@ Make new connections
 Lets you search the org chart to browse peers with whom you can make connections.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Talent Development Core](egd-explore.md)
+</table>**Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 

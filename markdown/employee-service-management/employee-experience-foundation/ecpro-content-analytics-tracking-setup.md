@@ -32,7 +32,7 @@ options="{ 'tracking_profile_name': '{PROFILE_NAME}', 'enable_logging': false}"
 ></widget>
 ```
 
-**Note:** If you don’t specify a tracking profile in the options, content analytics tries to use the default tracking profile. See [Create a Content Analytics tracking profile](ecpro-content-analytics-setup.md).
+**Note:** If you don’t specify a tracking profile in the options, content analytics tries to use the default tracking profile. See [Create a Content Analytics tracking profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-analytics-setup.md).
 
 ## Procedure
 

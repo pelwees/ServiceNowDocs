@@ -49,5 +49,5 @@ Role required: sn\_sales\_forecast.submission\_writer
     The forecast has been submitted. The forecast values have been locked and cannot be changed.
 
 
-**Parent Topic:**[Using Sales Forecasting](using-sales-forecasting.md)
+**Parent Topic:**[Using Sales Forecasting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 

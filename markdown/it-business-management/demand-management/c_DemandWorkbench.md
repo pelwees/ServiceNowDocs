@@ -27,18 +27,18 @@ By default, the workbench displays demands screened by stakeholders or qualified
 
 With the demand manager role, you can view and evaluate demands.
 
-![Assessing demands using bubble charts from the Demand Workbench.](../image/demand-workbench.png "Demand Workbench")
+![Assessing demands using bubble charts from the Demand Workbench.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/demand-workbench.png "Demand Workbench")
 
 The demand workbench includes the following components:
 
 -   The top pane displays demands in a bubble chart.
 -   The bottom pane displays demands in a list view.
--   The header includes a back button \(![back button](../image/DemandWorkbenchBackButton.png)\) that opens the Demands list.
+-   The header includes a back button \(![back button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/DemandWorkbenchBackButton.png)\) that opens the Demands list.
 
--   **[Demand workbench bubble chart](c_DemandWorkbenchBubbleChart.md)**  
+-   **[Demand workbench bubble chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbenchBubbleChart.md)**  
 The interactive bubble chart on the demand workbench is a dynamically updated graph that plots metrics for multiple demand records.
--   **[Demand workbench list view](c_DemandWorkbenchListView.md)**  
+-   **[Demand workbench list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandWorkbenchListView.md)**  
 The lower pane of the demand workbench displays a list of the demands shown in the bubble chart.
 
-**Parent Topic:**[Exploring Demand Management](exploring-demand-management.md)
+**Parent Topic:**[Exploring Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/exploring-demand-management.md)
 

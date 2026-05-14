@@ -18,7 +18,7 @@ Stages group tasks or to-do lists for managers, mentors, or employees as part of
 ## Before you begin
 
 -   Role required: admin \[sn\_jny.admin\]
--   Create a stage: [Create and manage stages](jny-create-manage-stages.md)
+-   Create a stage: [Create and manage stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-create-manage-stages.md)
 
 
 ## Procedure
@@ -40,5 +40,5 @@ Stages group tasks or to-do lists for managers, mentors, or employees as part of
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-configuration.md)
 

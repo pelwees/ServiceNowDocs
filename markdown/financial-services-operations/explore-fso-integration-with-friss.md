@@ -28,7 +28,7 @@ You can use the Financial Services Operations Integration with FRISS application
 
 The following diagram is a workflow of the FRISS integration. The diagram shows the role that each layer plays in the Financial Services Operations application.
 
-![Diagram of a high-level overview of the design of the FRISS integration and the role each layer plays in Financial Services Operations applications. For more details, refer to the following table.](../../fso-common/image/jha-thirdparty-integ.png "Workflow of Financial Services Operations integration with FRISS")
+![Diagram of a high-level overview of the design of the FRISS integration and the role each layer plays in Financial Services Operations applications. For more details, refer to the following table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/image/jha-thirdparty-integ.png "Workflow of Financial Services Operations integration with FRISS")
 
 |Layer|Description|
 |-----|-----------|
@@ -42,5 +42,5 @@ FRISS can help you solve the fraudulent activity that occurs in the insurance in
 
 FRISS provides real-time, data-driven scores and insights that can help you to assess the inherent risks of your customers and interactions quickly. Because your services are primarily focused on Auto, Property, and General Liability claims, by using FRISS, you can build automated fraud detection into your claims processes. By scoring the claims in real time, Financial Services Operations Integration with FRISS helps your company to reduce the number of false positives, increase the number of avoided claims, and process the genuine claims immediately.
 
-**Parent Topic:**[Financial Services Operations Integration with FRISS](fso-integration-with-friss-overview.md)
+**Parent Topic:**[Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-friss-overview.md)
 

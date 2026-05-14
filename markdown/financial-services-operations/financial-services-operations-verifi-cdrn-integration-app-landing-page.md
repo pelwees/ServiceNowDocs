@@ -17,19 +17,19 @@ The ServiceNow® Financial Services Operations Integration with Verifi applicati
 
 <table id="table_ktr_vld_53c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the Financial Services Operations Integration with Verifi application.](explore-fso-integration-with-verifi-cdrn.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the Financial Services Operations Integration with Verifi application.](explore-fso-integration-with-verifi-cdrn.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Plan and configure Financial Services Operations Integration with Verifi.](../task/configure-financial-services-integration-with-verifi-cdrn.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Plan and configure Financial Services Operations Integration with Verifi.](../task/configure-financial-services-integration-with-verifi-cdrn.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Using the Financial Services Operations Integration with Verifi application as a dispute agent.](../task/use-financial-services-operations-integration-with-verifi-cdrn.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg)Using the Financial Services Operations Integration with Verifi application as a dispute agent.](../task/use-financial-services-operations-integration-with-verifi-cdrn.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details to help you use Financial Services Operations Integration with Verifi application better.](referring-financial-services-operations-integration-with-verifi-cdrn.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details to help you use Financial Services Operations Integration with Verifi application better.](referring-financial-services-operations-integration-with-verifi-cdrn.md)
 
 </td></tr></tbody>
 </table>## Download Financial Services Operations Integration with Verifi from the store
@@ -84,14 +84,14 @@ Some ServiceNow resources that can provide you with helpful information are:
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   [Known Error Portal](https://support.servicenow.com/kb?id=known_error_portal)
 
--   **[explore-fso-integration-with-verifi-cdrn.md](explore-fso-integration-with-verifi-cdrn.md)**  
+-   **[explore-fso-integration-with-verifi-cdrn.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/explore-fso-integration-with-verifi-cdrn.md)**  
 
--   **[../task/configure-financial-services-integration-with-verifi-cdrn.md](../task/configure-financial-services-integration-with-verifi-cdrn.md)**  
+-   **[../task/configure-financial-services-integration-with-verifi-cdrn.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../task/configure-financial-services-integration-with-verifi-cdrn.md)**  
 
--   **[../task/use-financial-services-operations-integration-with-verifi-cdrn.md](../task/use-financial-services-operations-integration-with-verifi-cdrn.md)**  
+-   **[../task/use-financial-services-operations-integration-with-verifi-cdrn.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../task/use-financial-services-operations-integration-with-verifi-cdrn.md)**  
 
--   **[referring-financial-services-operations-integration-with-verifi-cdrn.md](referring-financial-services-operations-integration-with-verifi-cdrn.md)**  
+-   **[referring-financial-services-operations-integration-with-verifi-cdrn.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/referring-financial-services-operations-integration-with-verifi-cdrn.md)**  
 
 
-**Parent Topic:**[Integrate applications](../../fso-common/concept/fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/fso-integrate-other-applications.md)
 

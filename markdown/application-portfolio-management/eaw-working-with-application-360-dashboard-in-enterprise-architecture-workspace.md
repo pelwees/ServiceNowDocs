@@ -27,12 +27,12 @@ The Application 360 dashboard contains the following sections:
 -   Business application
 -   Fiscal period
 
-You can manually refresh the dashboard by using the refresh icon \(![Refresh dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-refresh-icon.png)\).
+You can manually refresh the dashboard by using the refresh icon \(![Refresh dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-refresh-icon.png)\).
 
-**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
+**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
 
 **Related topics**  
 
 
-[Monitor performance in Application 360 dashboard](../task/eaw-monitor-performance-in-application-360-dashboard.md)
+[Monitor performance in Application 360 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../task/eaw-monitor-performance-in-application-360-dashboard.md)
 

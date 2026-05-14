@@ -29,13 +29,13 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  On the add-in login screen, enter the credentials of the ServiceNow instance from where you downloaded the manifest file.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](../task/cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-config-word-addin.md)
 
 4.  In the **Template** tab, select the contract template.
 
 5.  Navigate to the **Signatory** tab.
 
-6.  Select the Edit or delete signatory icon \(![Edit or delete signatory icon](../image/lsd-three-dots-icon.png)\).
+6.  Select the Edit or delete signatory icon \(![Edit or delete signatory icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-three-dots-icon.png)\).
 
 7.  Edit or delete the signatory.
 
@@ -74,5 +74,5 @@ Steps
 
 The changes made to the participants are synced to the ServiceNow instance in Participants related list.
 
-**Parent Topic:**[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](../task/cncore-edit-ct-addin.md)
+**Parent Topic:**[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-edit-ct-addin.md)
 

@@ -59,7 +59,7 @@ For more information, see the [ServiceNow® Developer Site](https://developer.se
 
 ## Application scope
 
-When you deploy a Next Experience UI Framework component, it deploys into a scoped application on the instance. You can provide an application scope for the component to use as a namespace identifier. Use the namespace identifier guidelines for application development on the instance. For more information, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+When you deploy a Next Experience UI Framework component, it deploys into a scoped application on the instance. You can provide an application scope for the component to use as a namespace identifier. Use the namespace identifier guidelines for application development on the instance. For more information, see [Application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/c_ApplicationScope.md).
 
 When reserving an application scope, follow these requirements:
 
@@ -79,10 +79,10 @@ Alternatively, you can add a value to the `scopeName` parameter in the `now-ui.j
 
 To see the Now CLI reference guide, visit the [Developer Site](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/cli/getting-started).
 
--   **[Develop a component for Virtual Agent](va-components.md)**  
+-   **[Develop a component for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/va-components.md)**  
 Create a custom Virtual Agent component to gather input or display information in the Virtual Agent client interface.
--   **[Add a component to Agent Workspace](workspace-component.md#)**  
+-   **[Add a component to Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-component.md#)**  
 Use custom components to create a custom Workspace interface to fulfill the specific need of your company's agents.
 
-**Parent Topic:**[Builder library](../../custom-application/concept/builder-library-table.md)
+**Parent Topic:**[Builder library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../custom-application/concept/builder-library-table.md)
 

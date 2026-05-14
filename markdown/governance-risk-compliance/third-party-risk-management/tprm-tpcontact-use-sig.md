@@ -55,7 +55,7 @@ Steps
 
 Select **Import**, navigate to the file, and then select **Open**.
 
- ![Import SIG questionnaire widget.](../image/import-sig.png)
+ ![Import SIG questionnaire widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/import-sig.png)
 
 </td></tr><tr><td id="d104909e135">
 

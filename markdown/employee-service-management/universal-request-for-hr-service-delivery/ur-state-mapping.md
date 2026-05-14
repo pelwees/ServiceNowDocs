@@ -23,7 +23,7 @@ Role required: admin
 
 For example, consider a universal request that has an HR payroll case attached to it as a primary task. When the HR case state changes from **In-progress** to **Awaiting Acceptance**, then the universal request state is updated to **Awaiting Response From User**.
 
-![UR state mapping](../images/statemap.png)
+![UR state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/statemap.png)
 
 By mapping the states of the service to the UR state, it is ensured that the correct state of UR is displayed. The state transition of the primary ticket is hidden from the requester and they only see the simplified UR state transitions that are driven by the state mappings. The following table describes the universal request states and the suggested mappings.
 
@@ -41,8 +41,8 @@ By mapping the states of the service to the UR state, it is ensured that the cor
 
 3.  On the form, fill in the fields.
 
-    For more information on the field description, see [State mapping form](../reference/ur-state-mapping-form.md).
+    For more information on the field description, see [State mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../reference/ur-state-mapping-form.md).
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/config-service-for-ur.md)
 

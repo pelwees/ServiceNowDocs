@@ -15,7 +15,7 @@ Administrators can add fields to event bodies so dispatchers have more informati
 
 ## About this task
 
-Administrators can show up to five fields on the event body in Dispatcher Workspace. Dispatchers can choose what fields show on event bodies in the Dispatcher Settings under the Events tab. For more information on the Events tab, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+Administrators can show up to five fields on the event body in Dispatcher Workspace. Dispatchers can choose what fields show on event bodies in the Dispatcher Settings under the Events tab. For more information on the Events tab, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-wrkspc-settings.md).
 
 ## Before you begin
 
@@ -82,6 +82,6 @@ The order that the field shows on an event body in relation to the other fields.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    ![event body fields form](../image/event-body-fields.png)
+    ![event body fields form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/event-body-fields.png)
 
 

@@ -25,13 +25,13 @@ Role required: sn\_pace.admin
 
 2.  In the All Tags table, click the name of the relevant tag.
 
-    ![All tags table.](../image/pace-all-tags-2.jpg)
+    ![All tags table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-all-tags-2.jpg)
 
 3.  In the displayed Details form, click the **Policies** tab.
 
     The policies associated with the selected tag are displayed.
 
-    ![Associated policies.](../image/pace-tags-policies-2.jpg)
+    ![Associated policies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-tags-policies-2.jpg)
 
 4.  Click a policy name to view the policy and its settings.
 

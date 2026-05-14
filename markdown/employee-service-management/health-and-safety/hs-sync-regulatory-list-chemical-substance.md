@@ -17,7 +17,7 @@ You can trigger a sync with the 3E Regulatory Intelligence server to retrieve al
 
 ## Before you begin
 
-Verify 3E credentials are configured correctly. A valid 3E subscription is required. For more information see, [Configure the application registry for 3E Regulatory Intelligence](hs-configure-app-register-3e-reg-intelligence.md).
+Verify 3E credentials are configured correctly. A valid 3E subscription is required. For more information see, [Configure the application registry for 3E Regulatory Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-app-register-3e-reg-intelligence.md).
 
 Role required: sn\_hs\_chm.manager
 
@@ -25,7 +25,7 @@ Role required: sn\_hs\_chm.manager
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select **Environmental Management** \(![environmental management](../../hs-environmental-management/image/icon-hs-envt-mgmt.png)\) icon.
+2.  Select **Environmental Management** \(![environmental management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-environmental-management/image/icon-hs-envt-mgmt.png)\) icon.
 
 3.  In the **Chemical substance** list, select **All** and then open a record.
 
@@ -40,8 +40,8 @@ Role required: sn\_hs\_chm.manager
 
 ## What to do next
 
--   Use the filter options to narrow regulations by regulatory list topic, country, or region. Open individual regulation records to review detailed parameters, thresholds, and conformance status. For more information, see [Monitor and manage the Regulatory list for a chemical substance](hs-monitor-manage-regulatory-tab.md).
--   In the **Regulatory** tab select **New** to create a 3E regulatory list manually when integration with 3E Regulatory Intelligence is not available. For more information on completing the 3E regulatory list regulation form, see [Regulatory list regulation form](../reference/hs-regulatory-list-regulation-form.md).
+-   Use the filter options to narrow regulations by regulatory list topic, country, or region. Open individual regulation records to review detailed parameters, thresholds, and conformance status. For more information, see [Monitor and manage the Regulatory list for a chemical substance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-monitor-manage-regulatory-tab.md).
+-   In the **Regulatory** tab select **New** to create a 3E regulatory list manually when integration with 3E Regulatory Intelligence is not available. For more information on completing the 3E regulatory list regulation form, see [Regulatory list regulation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../reference/hs-regulatory-list-regulation-form.md).
 
-**Parent Topic:**[3E Regulatory Intelligence](../concept/hs-3e-regulatory-intelligence.md)
+**Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-3e-regulatory-intelligence.md)
 

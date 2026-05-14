@@ -69,5 +69,5 @@ Duration, in days, to refresh the expiration details for a user whose password n
 </table>**Related topics**  
 
 
-[Configure password expiration reminder](../task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/password-reset-expiration-setup.md)
 

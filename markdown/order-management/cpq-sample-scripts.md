@@ -13,7 +13,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 View a selection of commonly requested sample scripts.
 
-This article shows some commonly requested sample scripts. If you would like to see more examples, please send a message to [documentation@logik.io](mailto:documentation@logik.io) with your suggestions.
+This article shows some commonly requested sample scripts. If you would like to see more examples, please send a message to [documentation@logik.io](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/mailto:documentation@logik.io) with your suggestions.
 
 Sample number field determination:
 
@@ -196,5 +196,5 @@ if (yourVariable.includes("CU")) {
 **Related topics**  
 
 
-[CPQ scripting language reference](cpq-logik-io-scripting-language-reference.md)
+[CPQ scripting language reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-logik-io-scripting-language-reference.md)
 

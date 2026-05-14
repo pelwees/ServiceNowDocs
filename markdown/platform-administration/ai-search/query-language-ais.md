@@ -134,5 +134,5 @@ Universal wildcard operator. Specify `***` as a search query to find all indexed
 </td></tr></tbody>
 </table>**Note:** When expanding search terms that contain `%` or `*` wildcard operators, AI Search ignores terms defined as stop words. For example, suppose you define `the` and `their` as stop words. A search for `the*` won't expand to match `the` or `their`, but will still match non-stop word terms such as `there` and `these`.
 
-**Parent Topic:**[Searching in AI Search](use-ais.md)
+**Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 

@@ -42,5 +42,5 @@ To view the list of scope entries in your system, enter `service_scope.list` in 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-using.md)
 

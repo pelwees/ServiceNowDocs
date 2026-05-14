@@ -83,7 +83,7 @@ Role required: sn\_risk\_advanced.ara\_reader
 
     1.  Select the check boxes for the links that you want to refresh.
 
-    2.  Select the refresh ![Refresh icon.](../image/refresh-icon.jpg) icon.
+    2.  Select the refresh ![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/refresh-icon.jpg) icon.
 
         The data is refreshed while displaying the time of refresh and retaining the formatting of the document.
 

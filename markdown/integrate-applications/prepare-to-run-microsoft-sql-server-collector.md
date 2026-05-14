@@ -26,15 +26,15 @@ The collector supports three authentication methods for Microsoft SQL Server. Al
 
 1.  Select an authentication method and complete the corresponding setup task.
 
-    -   Username and password authentication - See [Set up username and password authentication](prepare-to-run-microsoft-sql-server-collector.md#)
-    -   NTLM authentication- See [Set up NTLM authentication](prepare-to-run-microsoft-sql-server-collector.md#)
-    -   Microsoft Entra Service Principal authentication - See [Set up Service Principal authentication](prepare-to-run-microsoft-sql-server-collector.md#)
+    -   Username and password authentication - See [Set up username and password authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-microsoft-sql-server-collector.md#)
+    -   NTLM authentication- See [Set up NTLM authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-microsoft-sql-server-collector.md#)
+    -   Microsoft Entra Service Principal authentication - See [Set up Service Principal authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-microsoft-sql-server-collector.md#)
 2.  Grant SQLAgentReaderRole permissions to harvest Agent job metadata.
 
-    See [Set up permissions for harvesting SQL Server Agent jobs](prepare-to-run-microsoft-sql-server-collector.md#).
+    See [Set up permissions for harvesting SQL Server Agent jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-microsoft-sql-server-collector.md#).
 
 
-**Parent Topic:**[Microsoft SQL Server metadata collector](../concept/microsoft-sql-server-metadata-collector.md)
+**Parent Topic:**[Microsoft SQL Server metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/microsoft-sql-server-metadata-collector.md)
 
 ## Set up NTLM authentication
 

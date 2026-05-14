@@ -49,7 +49,7 @@ If there’s enough data, the Case summary component displays the **Summarize** 
 
 2.  In the Case Summary by Now Assist component, select **Summarize**.
 
-    ![Selecting Summarize generates a case summary for the dispute or claims case.](../image/now-assist-fso-summarize-dispute.png)
+    ![Selecting Summarize generates a case summary for the dispute or claims case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/now-assist-fso-summarize-dispute.png)
 
     The Case Summary by Now Assist component appears next to the claim details panel or case information panel. The component is collapsed by default and expands to display the summary. For longer summaries that don't fit the window, select **View more** and use the scroll bar to view the rest of the content.
 
@@ -82,7 +82,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../../customer-service-management/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../../customer-service-management/image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d34861e292">
 
@@ -90,7 +90,7 @@ Select the expand card icon \(![Expand card icon.](../../customer-service-manage
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../customer-service-management/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../customer-service-management/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d34861e315">
 
@@ -98,7 +98,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../../customer-service-management/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d34861e331">
 
@@ -106,7 +106,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../../customer-se
 
 </td><td>
 
-Select the refresh icon \(![Refresh icon.](../image/icon-refresh.png)\) to reload the case summary with any new information that was added to the case.
+Select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/icon-refresh.png)\) to reload the case summary with any new information that was added to the case.
 
 </td></tr><tr><td id="d34861e346">
 
@@ -114,9 +114,9 @@ Select the refresh icon \(![Refresh icon.](../image/icon-refresh.png)\) to reloa
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../../customer-service-management/image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../concept/using-now-assist-for-financial-services-operations-fso.md)
 

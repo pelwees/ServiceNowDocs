@@ -27,7 +27,7 @@ While the display text can be customized for the default landing page, the visua
 
 Suppose you are on call until Monday, March 21. You can update your greetings to reflect your on-call status.
 
-![Greetings text](../image/greeting-text-itom.png "Header")
+![Greetings text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/greeting-text-itom.png "Header")
 
 ## Procedure
 
@@ -45,11 +45,11 @@ Suppose you are on call until Monday, March 21. You can update your greetings to
 
     2.  From the list of Script Includes, open SOWServiceDeskAgentShiftSNC.
 
-        ![Script Includes list](../image/greeting-text.png "Script Includes list")
+        ![Script Includes list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/greeting-text.png "Script Includes list")
 
     3.  Copy the **Script** field value.
 
-        ![Script includes details page](../image/greeting-script-includes-edit.png "Script includes details page")
+        ![Script includes details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/greeting-script-includes-edit.png "Script includes details page")
 
 5.  Edit the SOWServiceDeskAgentShift script.
 
@@ -506,5 +506,5 @@ Suppose you are on call until Monday, March 21. You can update your greetings to
 6.  Select **Update**.
 
 
-**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](customize-sow-landing-page-itom.md)
+**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-sow-landing-page-itom.md)
 

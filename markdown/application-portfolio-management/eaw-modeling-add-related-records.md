@@ -28,17 +28,17 @@ You can add both upstream and downstream related entities to a shape in a diagra
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Select an existing diagram from the Diagrams page.
 
-4.  Select a shape in the diagram and then open the context menu and then the More Actions menu \(![More actions menu icon](../../image/eaw-image/eaw-icon-menu.png)\).
+4.  Select a shape in the diagram and then open the context menu and then the More Actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\).
 
-5.  Open the **Add related records** pop-up window by selecting the Add related records icon \(![Add related records icon](../../image/eaw-image/modeling/icon-add-related-records.png)\).
+5.  Open the **Add related records** pop-up window by selecting the Add related records icon \(![Add related records icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-add-related-records.png)\).
 
 6.  Select the entities that you want to add to the diagram.
 
-    -   Select the Expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Upstream** or **Downstream** to view the list of available related entities.
+    -   Select the Expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Upstream** or **Downstream** to view the list of available related entities.
     -   Select the check box next to the relevant entity.
 7.  Select **Add**.
 
@@ -47,22 +47,22 @@ You can add both upstream and downstream related entities to a shape in a diagra
 
 The selected entities are added to the diagram for the object.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Share a modeling diagram](eaw-modeling-share-diagram.md)
+[Share a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-share-diagram.md)
 
-[Commit diagram changes](eaw-modeling-sync-diagram-servicenow.md)
+[Commit diagram changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-diagram-servicenow.md)
 
-[Save as a new version](eaw-modeling-save-as-new.md)
+[Save as a new version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-save-as-new.md)
 
-[Duplicate a modeling diagram](eaw-modeling-duplicate.md)
+[Duplicate a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-duplicate.md)
 
-[Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md)
+[Submit a modeling diagram for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-submit-for-approval.md)
 
-[Synchronize a shape to the database](eaw-modeling-sync-shape.md)
+[Synchronize a shape to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-shape.md)
 
-[Delete a shape](eaw-modeling-delete-shape.md)
+[Delete a shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-delete-shape.md)
 

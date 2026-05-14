@@ -32,13 +32,13 @@ Role required: Accounts Payable specialist \(sn\_ap\_apm.accounts\_payable\_spec
 
     The missing or invalid business owner exception opens. A message that Now Assist has a resolution plan to solve the exception displays.
 
-5.  Select **View plan**.![View resolution plan](../image/apo-view-resolution-plan.png)
+5.  Select **View plan**.![View resolution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-view-resolution-plan.png)
 
-    The AI agent summarizes the exception and provides a resolution plan. For more details on the resolution plan, see [Resolution plan scenarios](../reference/resolution-plan-scenarios.md).
+    The AI agent summarizes the exception and provides a resolution plan. For more details on the resolution plan, see [Resolution plan scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/resolution-plan-scenarios.md).
 
-6.  Review and confirm the resolution plan.![Confirm recommendation](../image/apo-confirm-resolution-plan.png)
+6.  Review and confirm the resolution plan.![Confirm recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-confirm-resolution-plan.png)
 
-    In this scenario, a business owner is assigned. ![Review and confirm the resolution plan](../image/apo-resolution-plan.png)
+    In this scenario, a business owner is assigned. ![Review and confirm the resolution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-resolution-plan.png)
 
 
 ## Result

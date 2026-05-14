@@ -21,15 +21,15 @@ Now Assist Skill Kit video that shows how to build a custom skill.
 
 <table id="table_k4y_wm5_sbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist Skill Kit and creating effective prompts.](exploring-now-assist-skill-kit.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist Skill Kit and creating effective prompts.](exploring-now-assist-skill-kit.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist Skill Kit prompt and deployment settings.](configuring-now-assist-skill-kit.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist Skill Kit prompt and deployment settings.](configuring-now-assist-skill-kit.md)
 
 </td></tr><tr><td colspan="2">
 
-[Use![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist Skill Kit to create custom skills.](using-now-assist-skill-kit.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist Skill Kit to create custom skills.](using-now-assist-skill-kit.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -55,5 +55,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 

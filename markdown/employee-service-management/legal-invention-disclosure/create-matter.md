@@ -17,7 +17,7 @@ Create a matter from a Legal Invention Disclosure request or add the request to 
 
 ## Before you begin
 
-A Legal Invention Disclosure request must have been submitted and accepted. For more information, see [Create a Legal Invention Disclosure request](submit-legal-invention-disclosure.md).
+A Legal Invention Disclosure request must have been submitted and accepted. For more information, see [Create a Legal Invention Disclosure request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/submit-legal-invention-disclosure.md).
 
 Role required: sn\_lg\_ops.legal\_fulfiller
 
@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
 3.  Select the Legal Invention Disclosure request to open.
 
@@ -85,5 +85,5 @@ A new matter is created from the request or the request is added to an existing 
 -   The State is updated to Work In Progress.
 -   The Application status is In Patent Application for the new matter or In Review for an existing matter.
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/use-legal-invention-disclosure.md)
 

@@ -130,5 +130,5 @@ Associated Allegation
 Association between an allegation and its subjects of allegation. One allegation can be associated with one or more subjects of allegation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
+</table>**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 

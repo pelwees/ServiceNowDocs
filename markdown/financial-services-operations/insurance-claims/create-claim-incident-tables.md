@@ -40,7 +40,7 @@ Role required: admin
 
 ## What to do next
 
-Create roles for the new Claim Incident \[sn\_ins\_claim\_property\] table. For more information, see [Create roles for a claim incident table](create-roles-for-a-claim-incident-table.md).
+Create roles for the new Claim Incident \[sn\_ins\_claim\_property\] table. For more information, see [Create roles for a claim incident table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-roles-for-a-claim-incident-table.md).
 
 You can add script includes for the new incident table, including the code for getting the reference qualifier strings.
 

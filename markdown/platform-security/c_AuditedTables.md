@@ -14,27 +14,27 @@ Track record changes on auditing-enabled tables. By default, the system tracks c
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../common/image/icon-explore.png)](exploring-auditing.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-explore.png)](exploring-auditing.md)
 
- [Learn the features and business values of Auditing.](exploring-auditing.md)
+ [Learn the features and business values of Auditing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/exploring-auditing.md)
 
 </td><td>
 
-[Configure![Use](../../../common/image/icon-set-up.png)](../../security/task/t_EnableAuditingForATable.md)
+[Configure![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-set-up.png)](../../security/task/t_EnableAuditingForATable.md)
 
- [Understand how to configure Auditing.](../../security/task/t_EnableAuditingForATable.md)
+ [Understand how to configure Auditing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/task/t_EnableAuditingForATable.md)
 
 </td></tr><tr><td>
 
-[View![Reviewing](../../../common/image/icon-manage.png)](../../security/concept/c_UnderstandingTheSysAuditTable.md#)
+[View![Reviewing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-manage.png)](../../security/concept/c_UnderstandingTheSysAuditTable.md#)
 
- [Review the Sys Audit and Audit Relationship Change tables.](../../security/concept/c_UnderstandingTheSysAuditTable.md#)
+ [Review the Sys Audit and Audit Relationship Change tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/c_UnderstandingTheSysAuditTable.md#)
 
 </td><td>
 
-[Reference![Reference](../../../common/image/icon-reference.png)](../../security/concept/c_HistorySets.md)
+[Reference![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-reference.png)](../../security/concept/c_HistorySets.md)
 
- [Know about the History sets.](../../security/concept/c_HistorySets.md)
+ [Know about the History sets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/c_HistorySets.md)
 
 </td></tr></tbody>
 </table>

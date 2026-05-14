@@ -27,7 +27,7 @@ You can add additional connection attributes to an alias, which are available in
 
 The credential alias resolves only credential data. Along with alias data model, you can use a scriptable API which can get connection and credential data during runtime.
 
-**Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_WorkflowActivityDesigner.md)
 
 ## Using Connection and Credential Alias with Orchestration
 

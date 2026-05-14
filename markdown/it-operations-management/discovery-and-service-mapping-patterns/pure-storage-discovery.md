@@ -99,7 +99,7 @@ Discovery populates the data in the CMDB when running the FlashBlade Pure Storag
 
 The graphic illustrates CIs that are part of FlashBlade discovery.
 
-![The FlashBlade components](../image/PureBlade-dependency-views.png)
+![The FlashBlade components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PureBlade-dependency-views.png)
 
 ## CI relationships
 
@@ -111,5 +111,5 @@ Discovery creates these relationships to support the Pure Storage FlashBlade dis
 |Storage Device \[cmdb\_ci\_storage\_device\]|Contains::Contained by|Storage Server \[cmdb\_ci\_storage\_server\]|
 |Storage Server \[cmdb\_ci\_storage\_server\]|Contains::Contained by|Pure Storage Processor \[cmdb\_ci\_storage\_processor\_pure\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

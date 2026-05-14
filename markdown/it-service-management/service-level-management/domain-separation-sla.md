@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Service Level Management
 
-The intention of SLM is to provide customers with an expectation of service within a known timescale and the ability to monitor when service levels are not being met. To learn specific terms and definitions see [Service Level Management concepts](service-level-management-concepts.md).
+The intention of SLM is to provide customers with an expectation of service within a known timescale and the ability to monitor when service levels are not being met. To learn specific terms and definitions see [Service Level Management concepts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-concepts.md).
 
 -   SLA definitions and task SLAs have domain fields. However, task SLAs are created only in the domain of its attached task record.
 -   SLA definitions must be defined in a tenant domain \(or global\) in order for task SLAs to be created and attached to a given task \(or extensions\).
@@ -57,7 +57,7 @@ The intention of SLM is to provide customers with an expectation of service with
 -   If an SLA definition exists in the Acme domain and doesn’t meet the needs of an Acme sub-domain \(Acme child\) an SLA Administrator can remediate. SLA Administrators can navigate to the ACME SLA definition when their session domain is ACME child, make the relevant changes, and save them. The SLA Administrator is alerted that an override has been created.
 -   An ITIL user sets the session domain to Acme child and creates an incident. The task SLA is created using the SLA definition from Acme child.
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
 **Related topics**  
 

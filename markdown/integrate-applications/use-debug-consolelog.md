@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the ConsoleLog component. For more information about these properties, see [Properties of the Debug components](../reference/util-debug-prop.md).
+You can configure the properties for the ConsoleLog component. For more information about these properties, see [Properties of the Debug components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-debug-prop.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ You can configure the properties for the ConsoleLog component. For more informat
 
 2.  Drag the ConsoleLog component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the ConsoleLog component to the corresponding ports of the other components as described in the following table.
 
@@ -71,7 +71,7 @@ String
 
 Open the console log to check the messages.
 
-![Console displaying messages provided in the ConsoleLog component.](../image/console-log-debug-studio.png "Console with provided messages in the ConsoleLog component")
+![Console displaying messages provided in the ConsoleLog component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/console-log-debug-studio.png "Console with provided messages in the ConsoleLog component")
 
-**Parent Topic:**[Debug](../concept/debug-utility.md)
+**Parent Topic:**[Debug](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/debug-utility.md)
 

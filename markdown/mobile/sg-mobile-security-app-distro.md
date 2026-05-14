@@ -19,11 +19,11 @@ Customers are able to pull the app for iOS or Android from the Apple App store a
 
 Mobile app distribution providers:
 
--   Airwatch: For more information, see [AirWatch Mobile Device Management \(MDM\)](airwatch-mdm.md)
--   Blackberry: For more information, see [BlackBerry Unified Endpoint Management \(UEM\)](blackberry-uem.md)
--   Intune: For more information, see [Intune mobile device management \(MDM\)](intune-mdm.md)
--   IBM: For more information, see [IBM Maas360 mobile device management \(MDM\)](IBM-MaaS360-mdm.md)
--   MobileIron - For more information, see [MobileIron Mobile Device Management \(MDM\)](mobileiron-mdm.md)
+-   Airwatch: For more information, see [AirWatch Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/airwatch-mdm.md)
+-   Blackberry: For more information, see [BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/blackberry-uem.md)
+-   Intune: For more information, see [Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md)
+-   IBM: For more information, see [IBM Maas360 mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/IBM-MaaS360-mdm.md)
+-   MobileIron - For more information, see [MobileIron Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobileiron-mdm.md)
 
-**Parent Topic:**[Device security for ServiceNow Mobile apps](sg-mobile-security.md)
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 

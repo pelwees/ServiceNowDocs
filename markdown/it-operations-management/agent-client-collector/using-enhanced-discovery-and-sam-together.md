@@ -57,7 +57,7 @@ The software usage records are domain separated. The records are populated with 
 
 For the list of software in the payload, query the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table to fetch the corresponding product and publisher. Once the product is fetched, check if the reclamation rule is enabled for that product to persist the last usage information in the Software Usage \[samp\_sw\_usage\] table. See the flowchart for details.
 
-![Describes the flow how SAM works with ACC-VC for basic metering](../image/sam_flow.png "SAM basic metering flowchart")
+![Describes the flow how SAM works with ACC-VC for basic metering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/sam_flow.png "SAM basic metering flowchart")
 
 **Note:** In the target, query the last accessed time from the UserAssist table via the OSQuery by taking the application or software name as the input to the Query.
 
@@ -88,7 +88,7 @@ Domain information can be collected during the data collection. This can help la
 
 Using the list of processes, you can perform SAM normalization to map the processes for the relevant installed software records. This provides flexibility since installed software names and processes are not usually the same. For the list of processes in the payload, query the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table and Software Product \[samp\_sw\_product\] table to fetch the corresponding product and publisher. Once the product is fetched, check if the reclamation rule is enabled for that product to persist the total usage time in the Software Usage \[samp\_sw\_usage\] table. See the flowchart for details.
 
-![Describes the flow how SAM works with ACC-VC for total usage metering](../image/sam_total_usage_metrics.png "SAM total usage metrics flowchart")
+![Describes the flow how SAM works with ACC-VC for total usage metering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/sam_total_usage_metrics.png "SAM total usage metrics flowchart")
 
 install and configure Osqueryd for Windows using the following script.
 
@@ -149,7 +149,7 @@ Restart-Service osqueryd
 
 ```
 
-For details on Windows and macOS see [Configure Osqueryd schedule for SAM total usage metrics](../task/import-external-pack-file-for-sam-total-usage-metrics.md) and [Configure Osqueryd logs for SAM total usage metrics](../task/configure-osquery-logs-for-sam-total-usage-metrics.md).
+For details on Windows and macOS see [Configure Osqueryd schedule for SAM total usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/import-external-pack-file-for-sam-total-usage-metrics.md) and [Configure Osqueryd logs for SAM total usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/configure-osquery-logs-for-sam-total-usage-metrics.md).
 
 ## Collecting SAM metrics without osqueryd
 
@@ -172,7 +172,7 @@ Starting in ACC-VC version 2.3.0, edition information is supported for Adobe Acr
 **Related topics**  
 
 
-[Configure Osqueryd schedule for SAM total usage metrics](../task/import-external-pack-file-for-sam-total-usage-metrics.md)
+[Configure Osqueryd schedule for SAM total usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/import-external-pack-file-for-sam-total-usage-metrics.md)
 
-[Configure Osqueryd logs for SAM total usage metrics](../task/configure-osquery-logs-for-sam-total-usage-metrics.md)
+[Configure Osqueryd logs for SAM total usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/configure-osquery-logs-for-sam-total-usage-metrics.md)
 

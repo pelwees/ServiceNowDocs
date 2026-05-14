@@ -35,13 +35,13 @@ Employee Center Pro expands the portal experience beyond service delivery with e
     Employees stay informed on news and events, engage with coworkers and leaders, receive targeted communications, and find cross-enterprise answers.
 
 
-![Employee Center Pro includes a suite of tools for service delivery, targeted communications, and unified systems](../images/ecpro-overview.jpg)
+![Employee Center Pro includes a suite of tools for service delivery, targeted communications, and unified systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ecpro-overview.jpg)
 
 ## Employee Center Pro workflow
 
 The Employee Center Pro enables organizations to assemble an employee portal tailored to their needs. The following illustration provides an overview of how users interact with Employee Center Pro.
 
-![Infographic showing the end-to-end workflow to configure and use the Employee Center Pro](../images/ecpro-roles-workflow.png "Employee Center Pro workflow")
+![Infographic showing the end-to-end workflow to configure and use the Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ecpro-roles-workflow.png "Employee Center Pro workflow")
 
 1.  System admin installs plugins and assigns roles.
 2.  Taxonomy admin configures the Unified taxonomy, dynamic topic pages, and quick links.
@@ -57,7 +57,7 @@ The Employee Center Pro enables organizations to assemble an employee portal tai
 
 To learn more about configuring and using Employee Center Pro, see:
 
--   [Configuring Employee Center Pro](configuring-employee-center-pro.md)
--   [Authoring and managing employee communications](manage-emp-center.md)
--   [Employee Center Pro reference](../reference/emp-center-pro-reference.md)
+-   [Configuring Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-employee-center-pro.md)
+-   [Authoring and managing employee communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-emp-center.md)
+-   [Employee Center Pro reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/emp-center-pro-reference.md)
 

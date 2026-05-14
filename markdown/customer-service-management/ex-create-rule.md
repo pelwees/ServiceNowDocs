@@ -33,7 +33,7 @@ New rules can only be created from context records.
 
 4.  In the **Name** field, enter `Active rule`.
 
-5.  In the **Roles** field, select the Edit User Roles ![Edit User Roles icon](../image/icon-pencil-ac.png) icon and then select Customer service agent \[sn\_customerservice\_agent\] and Consumer service agent \[sn\_customerservice.consumer\_agent\].
+5.  In the **Roles** field, select the Edit User Roles ![Edit User Roles icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-pencil-ac.png) icon and then select Customer service agent \[sn\_customerservice\_agent\] and Consumer service agent \[sn\_customerservice.consumer\_agent\].
 
     The selected user roles can see recommendations for this rule.
 
@@ -45,7 +45,7 @@ New rules can only be created from context records.
 
 8.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
 
-    For more information, see [Apply rules to tables extended from the context table](../concept/ra-csm-rules.md#section_rules-apply-extended-tables).
+    For more information, see [Apply rules to tables extended from the context table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ra-csm-rules.md#section_rules-apply-extended-tables).
 
 9.  In the **Field affecting this rule** field, select Short description from the slush bucket.
 

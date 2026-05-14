@@ -24,11 +24,11 @@ Role required: admin and sn\_msi.workspace\_admin.
 1.  Navigate to **Major Security Incident Response** &gt; **Linked Records Configuration**. The Linked Record Configurations page displays.
 2.  Select or create a new linked record and navigate to the **Roll up Record Configuration** section from the same page.
 
-    ![Rollup record configuration](../image/roll-up-record-config.png "Rollup Record Configuration section")
+    ![Rollup record configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/roll-up-record-config.png "Rollup Record Configuration section")
 
 3.  Select **New**.
 
-    ![Rollup record configuration page](../image/roll-up-record-config-page.png)
+    ![Rollup record configuration page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/roll-up-record-config-page.png)
 
 4.  On the configuration page, fill the details.
 
@@ -145,16 +145,16 @@ Script should rollup information to Linked Record\(sn\_msi\_m2m\_child\) table.-
 -   After the data is fetched, roll up the data to a Linked Record \(sn\_msi\_m2m\_child\) using MSIRollupEngine utility to roll up data.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Rollup Framework for MSIM](roll-up-framework-for-major-security-incident-management.md)
+</table>**Parent Topic:**[Rollup Framework for MSIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/roll-up-framework-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Configure Linked Records in Major Security Incident Management](../task/configuring-linked-records-in-major-security-incident-management.md)
+[Configure Linked Records in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configuring-linked-records-in-major-security-incident-management.md)
 
-[Configure List Layout in Major Security Incident Management](list-layout-confguration.md)
+[Configure List Layout in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/list-layout-confguration.md)
 
-[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
+[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-[Perform on demand atomic rollup](perform-on-demand-atomic-rollup.md)
+[Perform on demand atomic rollup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/perform-on-demand-atomic-rollup.md)
 

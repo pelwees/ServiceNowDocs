@@ -15,11 +15,11 @@ breadcrumb: [Performance Analytics Content Pack for Essential SAFe, Scaled Agile
 
 The SAFe Prior Sprint Dashboard provides data visualization on scope, actual burnup and burndown, and forecast trends of previous sprints. Analyze the data and plan the work for upcoming sprints.
 
-![SAFe prior sprint dashboard widgets.](../image/safe-prior-sprint-widgets.png "SAFe prior sprint dashboard widgets")
+![SAFe prior sprint dashboard widgets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-sprint-widgets.png "SAFe prior sprint dashboard widgets")
 
-![Agile 2.0 prior sprint dashboard burndown report.](../image/safe-prior-sprint-burndown.png "SAFe prior sprint dashboard burndown report")
+![Agile 2.0 prior sprint dashboard burndown report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-sprint-burndown.png "SAFe prior sprint dashboard burndown report")
 
-![Agile 2.0 prior sprint dashboard burnup report.](../image/safe-prior-sprint-burnup.png "SAFe prior sprint dashboard burnup report")
+![Agile 2.0 prior sprint dashboard burnup report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-sprint-burnup.png "SAFe prior sprint dashboard burnup report")
 
 **Note:** Canceled stories are not included in any of this data.
 
@@ -88,7 +88,7 @@ SAFe\_scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup report. For more information, see [Using Solution Library for Essential SAFe dashboards](../reference/using-solution-library-for-essential-safe-dashboards.md).
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup report. For more information, see [Using Solution Library for Essential SAFe dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_mbk_ndk_k3b"><thead><tr><th>
 
@@ -145,7 +145,7 @@ Shows the previous sprint burnup trend indicating scope changes. Analyze future 
 -   **Completed**: Indicates the amount of work completed in the sprint.
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/customizing-safe-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
+**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 

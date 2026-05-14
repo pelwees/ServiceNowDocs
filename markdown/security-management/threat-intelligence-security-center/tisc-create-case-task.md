@@ -45,7 +45,7 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
     |Assigned to|The Analyst who is responsible for working on a case task.|
     |Due Date|The date and time that the case task is due to be completed or closed.|
     |TLP|Unique value that indicates the Data sensitivity setting per TLP.|
-    |Enforce Restriction|As an sn\_sec\_tisc\_admin, select this check box to modify members of allowed group and allowed members. For more information, see [Enforced Restrictions for case\(s\)](tisc-enforced-restrictions.md).|
+    |Enforce Restriction|As an sn\_sec\_tisc\_admin, select this check box to modify members of allowed group and allowed members. For more information, see [Enforced Restrictions for case\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enforced-restrictions.md).|
 
 6.  Fill in the fields on the Insights section, as appropriate.
 
@@ -58,27 +58,27 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
 
     Your case task will be associated with your case.
 
-    **Note:** After saving the case task, you can add tags and taxonomies to the task. For more information, see [Creating Taxonomies](../concept/create-taxonomies.md).
+    **Note:** After saving the case task, you can add tags and taxonomies to the task. For more information, see [Creating Taxonomies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-taxonomies.md).
 
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-cases-using-threat-analyst-workbench.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](run-enrichment-results.md)
+[Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/run-enrichment-results.md)
 
-[View Case Reports](view-case-reports.md)
+[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-case-reports.md)
 
-[Create a security incident from a TISC case](tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-si-case.md)
 
-[Upload Secure File Attachments](secure-file-attachments.md)
+[Upload Secure File Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/secure-file-attachments.md)
 

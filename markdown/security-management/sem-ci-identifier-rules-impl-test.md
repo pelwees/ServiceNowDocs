@@ -64,5 +64,5 @@ There are four options for deleting data from tables:
     **Note:** Never use **truncateTable** in a production environment. Consult you Support representative before executing large deletions in production or shared environments.
 
 
-**Parent Topic:**[Associating finding with a configuration item using lookup rules](sem-associate-finding-configuration-item-using-lookup-rules.md)
+**Parent Topic:**[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 

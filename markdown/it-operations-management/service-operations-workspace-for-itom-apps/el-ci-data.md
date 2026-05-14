@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 5.  Hover over the Configuration item name to display information icons.
 
-    ![Configuration item on the preview panel Info tab.](../image/el-ci-info.png)
+    ![Configuration item on the preview panel Info tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-ci-info.png)
 
 6.  Display additional information on a CI by selecting the relevant icon.
 
@@ -49,7 +49,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Additional information icon.](../image/el-info-icon.png)
+![Additional information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-info-icon.png)
 
 </td><td>
 
@@ -63,7 +63,7 @@ If metrics data exists for this service, you can open the Metric Explorer from t
 
 </td></tr><tr><td>
 
-![Contact information icon.](../image/el-contact-person-icon.png)
+![Contact information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-contact-person-icon.png)
 
 </td><td>
 
@@ -74,10 +74,10 @@ Contact person/group
 Shows the name of the owner of the CI, the support group assigned to it, and avatars of the individual team members.
 
 </td></tr></tbody>
-</table>7.  Select the Additional information icon ![Additional information icon.](../image/el-info-icon.png) and then select **View CI topology**.![Configuration information additional information options.](../image/configuration-item-information.png)
+</table>7.  Select the Additional information icon ![Additional information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-info-icon.png) and then select **View CI topology**.![Configuration information additional information options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/configuration-item-information.png)
 
     The **Dependency View** map opens. The map visually represents the relationships between CIs, helping you understand how different components are interconnected.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/dependency-maps.md)
 

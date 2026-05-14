@@ -50,12 +50,12 @@ Use this field in domain‑separated or multi‑tenant environments to control v
 In single‑domain instances, leave this field set to the default domain. In domain‑separated environments, select the domain that is responsible for governing and maintaining the application family.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Manage application families](../../concept/eaw-concept/eaw-configure-application-families.md)
+[Manage application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-configure-application-families.md)
 
-[Add or edit an application family](../../task/eaw-task/eaw-create-app-family.md)
+[Add or edit an application family](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-family.md)
 

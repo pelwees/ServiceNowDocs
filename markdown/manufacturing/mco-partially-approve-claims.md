@@ -21,7 +21,7 @@ Role required: claims agent
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Repair**.
 
-    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](../concept/mco-create-repair-claim.md).
+    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-create-repair-claim.md).
 
 2.  Select **Review &amp; approve** from **Activities**.
 
@@ -33,7 +33,7 @@ Role required: claims agent
 
     |Action|Description|
     |------|-----------|
-    |**Approve the claim**|Select **![Check icon](../../../reuse/icons/product-icons/check-outline-24.svg)**.|
+    |**Approve the claim**|Select **![Check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../../../reuse/icons/product-icons/check-outline-24.svg)**.|
     |**Reject the claim**|Select **![](../../../reuse/icons/product-icons/close-outline-24.svg)**.|
     |**Delete the claim**|Select **![](../../../common/image/Form_DeleteIcon.png)**.|
     |**Approve a lesser amount than the requested one**|Enter an amount in **Approved amount**.|
@@ -46,5 +46,5 @@ Role required: claims agent
 7.  Select **Comment** and **Confirm**.
 
 
-**Parent Topic:**[Reviewing and approving repair claims](../concept/mco-approve-repair-claims.md)
+**Parent Topic:**[Reviewing and approving repair claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-approve-repair-claims.md)
 

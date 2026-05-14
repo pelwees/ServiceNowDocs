@@ -18,27 +18,27 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Manage the Configuration Management Database \(CMDB\) ![](../../../reuse/icons/brand-icons/bus-database.svg) Configure connected devices, apps, and services you use with a powerful decision support tool.](manage-cmdb.md)
+[Manage the Configuration Management Database \(CMDB\) ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-database.svg) Configure connected devices, apps, and services you use with a powerful decision support tool.](manage-cmdb.md)
 
 </td><td>
 
-[Manage Instance Data Sources ![](../../../reuse/icons/brand-icons/bus-it-leader.svg) Handle all your data efficiently across instances, databases, and more.](manage-data-sources.md)
+[Manage Instance Data Sources ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-it-leader.svg) Handle all your data efficiently across instances, databases, and more.](manage-data-sources.md)
 
 </td><td>
 
-[Manage Content ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Create and share documents and knowledge articles with your users.](../reference/manage-content.md)
+[Manage Content ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-documentation.svg) Create and share documents and knowledge articles with your users.](../reference/manage-content.md)
 
 </td></tr><tr><td>
 
-[Manage Services ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Manage service-related applications like self-service, and the service catalog.](manage-services.md)
+[Manage Services ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Manage service-related applications like self-service, and the service catalog.](manage-services.md)
 
 </td><td>
 
-[Manage People and Work ![](../../../reuse/icons/brand-icons/bus-community.svg) Take care of administrative and management demands in one place.](manage-people.md)
+[Manage People and Work ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-community.svg) Take care of administrative and management demands in one place.](manage-people.md)
 
 </td><td>
 
-[Additional Capabilities ![](../../../reuse/icons/brand-icons/bus-start-developing.svg) Explore additional capabilities.](now-platform-additional-capabilities.md)
+[Additional Capabilities ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-start-developing.svg) Explore additional capabilities.](now-platform-additional-capabilities.md)
 
 </td></tr></tbody>
 </table>## Manage the CMDB

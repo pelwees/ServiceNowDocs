@@ -50,13 +50,13 @@ Tanium Platform 7.6.2 or later versions support token-based authorization only. 
 
 ## Configuring a connection
 
-Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Tanium using SGC Central](../../sgc-central/task/sgcc-configure-tanium.md).
+Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Tanium using SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../sgc-central/task/sgcc-configure-tanium.md).
 
 **Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Tanium integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Tanium integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -90,7 +90,7 @@ SG-Tanium Applications \[sn\_tanium\_integ\_sg\_tanium\_applications\]
 
 </td><td>
 
-[Application](../reference/cmdb-tanium-classes.md#section_h4r_vpz_lbc)
+[Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_h4r_vpz_lbc)
 
  Running Process
 
@@ -110,23 +110,23 @@ SG Tanium Import \[sn\_tanium\_integ\_sg\_tanium\_import\]
 
 </td><td>
 
-[Computer](../reference/cmdb-tanium-classes.md#section_fsp_4f3_k5b)
+[Computer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_fsp_4f3_k5b)
 
- [File System](../reference/cmdb-tanium-classes.md#section_xck_rpz_lbc)
+ [File System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_xck_rpz_lbc)
 
- [Disk](../reference/cmdb-tanium-classes.md#section_y5n_qpz_lbc)
+ [Disk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_y5n_qpz_lbc)
 
- [IP Address](../reference/cmdb-tanium-classes.md#section_xc2_spz_lbc)
+ [IP Address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_xc2_spz_lbc)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](../reference/cmdb-tanium-classes.md#section_shg_5pz_lbc)
+ [Software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_shg_5pz_lbc)
 
- [Software Instance](../reference/cmdb-tanium-classes.md#section_fvw_5pz_lbc)
+ [Software Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_fvw_5pz_lbc)
 
  When the SAM application is installed:
 
- [Software Installation](../reference/cmdb-tanium-classes.md#section_jpl_1q1_mbc)
+ [Software Installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-tanium-classes.md#section_jpl_1q1_mbc)
 
 </td><td>
 
@@ -168,10 +168,10 @@ None
 </table>**Note:**
 
 -   The SG-Tanium Usage data source is available only when the Software Asset Management Professional plugin \(com.snc.samp\) plugin is activated on your ServiceNow instance. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
--   The SG-Tanium Remove Software data source creates import sets and uses the transform map-based method for removing any target records for software data that weren't updated in the last delta query check. See [Managing CMDB data deletion](cmdb-integ-record-removal.md).
+-   The SG-Tanium Remove Software data source creates import sets and uses the transform map-based method for removing any target records for software data that weren't updated in the last delta query check. See [Managing CMDB data deletion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integ-record-removal.md).
 -   Starting with the Service Graph Connector for Tanium 1.8.0 release, a buffer time is added for software removal when the **buffer\_days\_from\_last\_scan\_for\_hardware** system property is enabled. When this system property is enabled, the software removal candidate is removed only if the last scan time of the hardware on which the software removal candidate is installed is earlier than the last success import time + buffer time. To enable this property, set the value of the **buffer\_days\_from\_last\_scan\_for\_hardware** system property to a non-zero numeral value according to the number of days of buffer that you require. To disable this property, set the value to `0`.
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integrationhub-etl.md) for more information.
 
 ## Additional resource
 
@@ -180,5 +180,5 @@ You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHu
 **Related topics**  
 
 
-[Service Graph Connectors](cmdb-sgc-available.md)
+[Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 

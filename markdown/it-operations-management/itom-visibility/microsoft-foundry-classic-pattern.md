@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The following diagram illustrates the tables and relationships that the AI Agent Topology Mapping application creates when discovering Microsoft Foundry resources.
 
-![Microsoft Foundry data model](../images/microsoft-foundry-data-model.png "Tables and relationships populated during Microsoft Foundry discovery")
+![Microsoft Foundry data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/microsoft-foundry-data-model.png "Tables and relationships populated during Microsoft Foundry discovery")
 
 **Note:** The **Deployed as::Deployment of** relationship between the AI Function \[cmdb\_ci\_function\_ai\] and AI System Digital Asset \[alm\_ai\_system\_digital\_asset\] tables is stored in the Asset-CI Relationship \[cmdb\_rel\_asset\_ci\] table and isn't represented in the Dependency View map.
 
@@ -40,7 +40,7 @@ The following diagram illustrates the tables and relationships that the AI Agent
     -   CMDB CI Class Models
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../../service-mapping/concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/concept/tag_discovery_configuration.md).
 
 -   **Azure Availability Set**
 
@@ -54,19 +54,19 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
     Enable Cloud Discovery to access your Azure environment.
 
-    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/task/setup-azure-service-accounts.md).
 
 -   **Create an Azure cloud discovery schedule**
 
-    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-azure-schedule-DAW.md).
+    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../discovery/task/create-azure-schedule-DAW.md).
 
 -   **\(Optional\) Discover datacenters only for new subscriptions**
 
-    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../../service-mapping/task/discover-datacenter-only-new-account.md).
+    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/task/discover-datacenter-only-new-account.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/concept/query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -289,11 +289,11 @@ Resource kind of the Microsoft Foundry project. For example: AIServices.
 
 The following dependency views display the relationships between Microsoft Foundry resources. The CI relationships table captures all relationships across the three views.
 
-![Microsoft Foundry AI Foundry CI and connections on a Dependency Views map](../images/microsoft-foundry-ai-foundry-dependency-view.png "Azure AI Foundry dependency view")
+![Microsoft Foundry AI Foundry CI and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/microsoft-foundry-ai-foundry-dependency-view.png "Azure AI Foundry dependency view")
 
-![Microsoft Foundry AI Project CI and connections on a Dependency Views map](../images/microsoft-foundry-ai-project-dependency-view.png "Azure AI Project dependency view")
+![Microsoft Foundry AI Project CI and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/microsoft-foundry-ai-project-dependency-view.png "Azure AI Project dependency view")
 
-![Microsoft Foundry AI Function CI and connections on a Dependency Views map](../images/microsoft-foundry-ai-function-dependency-view.png "AI Function dependency view")
+![Microsoft Foundry AI Function CI and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/microsoft-foundry-ai-function-dependency-view.png "AI Function dependency view")
 
 ## CI relationships
 
@@ -341,10 +341,10 @@ The Azure - AI Service Foundry Project pattern collects tags and populates them 
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Azure AI Project \[cmdb\_ci\_azure\_ai\_project\] table.|
 
-**Parent Topic:**[AI Agent Topology Mapping reference](ai-agent-topology-mapping-reference.md)
+**Parent Topic:**[AI Agent Topology Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ai-agent-topology-mapping-reference.md)
 
 **Related topics**  
 
 
-[Microsoft Azure Cloud discovery using patterns](../../service-mapping/reference/azure-cloud-discovery-patterns.md)
+[Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/azure-cloud-discovery-patterns.md)
 

@@ -25,7 +25,7 @@ Each content pack is organized around a specific business process area. Currentl
 -   Source to Settle: Procurement models covering purchase orders, purchase requisitions, and purchasing info records.
 -   Hire to Retire: Employee life cycle models covering candidates, employee profiles, job applications, job requisitions, and positions.
 
-![Infographic showing steps for using a content pack: installing from store, exploring models, cloning into scope, customizing, and building.](../image/erp-explore-content-packs-infographic.png)
+![Infographic showing steps for using a content pack: installing from store, exploring models, cloning into scope, customizing, and building.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-explore-content-packs-infographic.png)
 
 ## Key benefits
 
@@ -41,5 +41,5 @@ Rather than spending days researching, they install the Quote to Cash content pa
 
 The developer clones the model into their own application scope, copies the process extension into Workflow Studio, and wires it to their application, without ever needing to know the underlying SAP field names. What might have taken weeks of research is reduced to configuration work that any developer can do.
 
-**Parent Topic:**[Exploring Zero Copy Connector for ERP](exploring-erp-integration.md)
+**Parent Topic:**[Exploring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/exploring-erp-integration.md)
 

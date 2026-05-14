@@ -38,7 +38,7 @@ Response automation aims to make the assessment process efficient by reducing ma
     -   Generate dynamic default responses based on other questions, creating real-time adaptability.
     -   Query tables to fetch specific data and incorporate it into the response, confirming relevant information is included.
     -   Set up conditions within the script to handle different scenarios, enabling complex and dynamic automation workflows.
-    ![Setting up a default response for a question using a script.](../image/automate-response-script.png)
+    ![Setting up a default response for a question using a script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/automate-response-script.png)
 
 
 ## Set resonse as editable
@@ -56,5 +56,5 @@ Under Additional options, the Set response as editable setting controls whether 
 
 **Note:** When Set response as editable is disabled, the Required toggle on the question is automatically turned off, since the system provides the response.
 
-When setting up the automated response, you can use if-then conditions to build the required criteria for the response. For more information, see [Configure an automatic response for a question](../task/configure-automatic-response-for-a-question.md).
+When setting up the automated response, you can use if-then conditions to build the required criteria for the response. For more information, see [Configure an automatic response for a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../task/configure-automatic-response-for-a-question.md).
 

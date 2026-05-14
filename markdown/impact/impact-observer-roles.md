@@ -59,10 +59,10 @@ Grants limited read-only access to the Instance Observer.
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Instance Observer reference](instance-observer-reference.md)
+</table>**Parent Topic:**[Instance Observer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/instance-observer-reference.md)
 
 **Related topics**  
 
 
-[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+[Overview of Instance Observer metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-ovr-metric.md)
 

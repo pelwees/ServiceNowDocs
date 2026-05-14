@@ -38,5 +38,5 @@ Role required: document\_management\_user
 6.  Click **OK**.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_CreateADocument.md)
 

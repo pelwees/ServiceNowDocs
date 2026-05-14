@@ -121,5 +121,5 @@ Threads running​
 </td></tr></tbody>
 </table>**Note:** As soon as any of the aforementioned alerts or Critical or Warning performance are identified, the system automatically generates an RCA report after waiting for a maximum of 10 minutes, depending on the conditions.
 
-**Parent Topic:**[Generative AI powered Root cause analysis](generative-ai-root-cause-anal.md)
+**Parent Topic:**[Generative AI powered Root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/generative-ai-root-cause-anal.md)
 

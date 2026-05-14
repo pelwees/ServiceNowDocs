@@ -31,7 +31,7 @@ In the following example, you’re logged in to Prod1. Prod1 has granted access 
 
 Prod2 hasn’t granted access to Prod1, as indicated by the `False` value in the **Is granting access** column.
 
-![The configurations in the MIF table.](../image/eg-1.png)
+![The configurations in the MIF table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/eg-1.png)
 
 To revoke access for the Subscription Management app from Prod1 to Prod2, update the value in the **Grant access** column to `False` while logged in to Prod1.
 
@@ -41,7 +41,7 @@ In the following example, you’re logged in to Prod2. Prod1 has granted access 
 
 Prod2 hasn’t granted access to Prod1, as indicated by the `False` value in the **Grant access** column.
 
-![The configurations in the MIF table.](../image/eg-2.png)
+![The configurations in the MIF table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/eg-2.png)
 
 To grant access from Prod2 to Prod1 for the Subscription Management application, update the value in the **Grant access** column to `True` while logged in to Prod2.
 
@@ -51,7 +51,7 @@ In the following example, you’re logged in to Sub-prod2. Prod1 hasn’t grante
 
 Sub-prod2 has granted access to Prod1, as indicated by the `True` value in the **Grant access** column.
 
-![The configurations in the MIF table.](../image/eg-3.png)
+![The configurations in the MIF table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/eg-3.png)
 
 To revoke access from Sub-prod2 to Prod1 for the Subscription Management application, update the value in the **Grant access** column to `True` while logged in to Sub-prod2.
 
@@ -59,5 +59,5 @@ To revoke access from Sub-prod2 to Prod1 for the Subscription Management applica
 
 In the following example, you’re logged in to Sub-prod3. Sub-prod4 has granted access to the instance Sub-prod3 for the application Subscription Management, as indicated by the `True` value in the **Is granting access** column. Sub-prod3 has also granted access to Sub-prod4, as indicated by the `True` value in the **Grant access** column.
 
-![The configurations in the MIF table.](../image/eg-4.png)
+![The configurations in the MIF table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/eg-4.png)
 

@@ -45,7 +45,7 @@ If you see unexpected detections in the logs, adjust your Guardian configuration
 
 ## Go-live validation gate
 
-Do not proceed to [Go live and monitor](naai-tutorial-go-live-monitor.md) until all of the following are true:
+Do not proceed to [Go live and monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-go-live-monitor.md) until all of the following are true:
 
 -   Agent execution tests pass for your defined use case scenarios.
 -   Access control tests confirm that only intended users can invoke the agent.
@@ -54,7 +54,7 @@ Do not proceed to [Go live and monitor](naai-tutorial-go-live-monitor.md) until 
 
 ## Next step
 
-When all validation gate criteria are met, proceed to [Go live and monitor](naai-tutorial-go-live-monitor.md).
+When all validation gate criteria are met, proceed to [Go live and monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-go-live-monitor.md).
 
-**Parent Topic:**[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 

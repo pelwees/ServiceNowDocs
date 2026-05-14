@@ -88,5 +88,5 @@ For example:
 <Axis path>\bin\wsdl2java.bat -u -p cr2 -ns2p http://www.service-now.com/change_request=my.change_request -uri change_request
 ```
 
-**Parent Topic:**[Java Apache Axis2 web services client examples](c_JAAWbSrvcsClntEx.md)
+**Parent Topic:**[Java Apache Axis2 web services client examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_JAAWbSrvcsClntEx.md)
 

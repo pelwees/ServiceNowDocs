@@ -162,5 +162,5 @@ Other options
 Make the required selections for the remaining options.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a Risk Assessment Methodology](../task/create-a-risk-assessment-methodology.md)
+</table>**Parent Topic:**[Create a Risk Assessment Methodology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../task/create-a-risk-assessment-methodology.md)
 

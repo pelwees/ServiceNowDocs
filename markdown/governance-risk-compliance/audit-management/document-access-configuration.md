@@ -28,7 +28,7 @@ Workspace users with the following roles can access the Cloud file configuration
 
 If you're the Workspace administrator with the sn\_grc\_workspace.admin role, you can update the following fields in the Cloud file configuration module to configure the permissions as shown in the example.
 
-![File access permissions.](../image/cloud-file-config-file-access-permission.png)
+![File access permissions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/cloud-file-config-file-access-permission.png)
 
 -   Name: Name of the document access record. For example, Engagement document access.
 -   Table: Table that is used for the document access record. For example, Engagement \[sn\_audit\_engagement\].

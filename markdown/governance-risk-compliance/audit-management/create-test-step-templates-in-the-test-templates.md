@@ -23,7 +23,7 @@ Role required: sn\_audit.admin, sn\_audit.manager, or sn\_audit.user
 
 1.  Navigate to **Workspaces** &gt; **Audit Workspace**.
 
-2.  Select the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+2.  Select the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
 
 3.  Select **Test templates** under **Execution**.
 

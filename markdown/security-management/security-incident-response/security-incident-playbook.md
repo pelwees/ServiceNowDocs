@@ -28,7 +28,7 @@ For a Playbook to be invoked automatically, a process needs to be defined using 
 
 ## Add playbook manually
 
-For a Playbook to be invoked manually, navigate to the Form UI action drop down and select **Add Playbook**. For more information see, [Add Playbook](security-incident-playbook.md#)
+For a Playbook to be invoked manually, navigate to the Form UI action drop down and select **Add Playbook**. For more information see, [Add Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-playbook.md#)
 
 **Note:** If there is already a playbook available then the new playbooks added will run in parallel to the existing playbooks.
 
@@ -42,60 +42,60 @@ For a Playbook to be invoked manually, navigate to the Form UI action drop down 
 1.  Navigate to **All** &gt; **Playbook Experiences**.
 2.  In the Playbook Experiences page, select an **SIR Playbook Experience**.
 
-    ![The Security Incident Playbook experience](../image/playbook-experience.png "Playbook Experience")
+    ![The Security Incident Playbook experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-experience.png "Playbook Experience")
 
     The **Playbook Experience SIR Playbook Experience** page is displayed.
 
-    ![Editing the SIR Playbook Experience record](../image/playbook-expereince-record.png "Playbook Experience Record")
+    ![Editing the SIR Playbook Experience record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-expereince-record.png "Playbook Experience Record")
 
 3.  Click on the **Configuration** record.
 
-    ![Playbook configuration record](../image/playbook-expereince-config-record.png)
+    ![Playbook configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-expereince-config-record.png)
 
 4.  In the Configuration tab, click the SIR Playbook Experience Configuration.
 
-    ![Edit the Playbook Configuration](../image/playbook-config-record.png "Playbook Configuration")
+    ![Edit the Playbook Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-config-record.png "Playbook Configuration")
 
 5.  Navigate to the **Pending Item Visibility** field's drop down list, select the desired option and save the record. Choose from the following options:
     -   **Hide pending activities**: Select this option to hide the pending activities that you would like to see on the playbook section of the workspace.
 
-        ![Hide pending activities in Phishing Manual playbook.](../image/playbook-hide-pending-activities.png "User Reported Phishing Example")
+        ![Hide pending activities in Phishing Manual playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-hide-pending-activities.png "User Reported Phishing Example")
 
     -   **Show pending stages and activities**: Select this option to show pending stages and activities that you would to like to see on the playbook section of the workspace.
 
-        ![Show pending stages and activities in Phishing Manual playbook](../image/playbook-show-pending-stages.png "Show pending stages and activities")
+        ![Show pending stages and activities in Phishing Manual playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-show-pending-stages.png "Show pending stages and activities")
 
     -   **Hide pending activities and stages**: Select this option to hide pending activities and stages,that you would like to see on the playbook section of the workspace.
 
-        ![Hide pending activities and stages in Phishing Manual playbook](../image/playbook-hide-pending-activities-stages.png "Hide pending activities and stages")
+        ![Hide pending activities and stages in Phishing Manual playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-hide-pending-activities-stages.png "Hide pending activities and stages")
 
 6.  On the Playbook section, use the filter option to filter the activities by Playbook card status \(activity definition\).
 
-    ![Playbook card status](../image/playbook-card-status-filters.png "Playbook card status")
+    ![Playbook card status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-card-status-filters.png "Playbook card status")
 
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](using-analyst-workspace.md)
+[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
 
-[Working with MSI Records](working-with-msi-records.md)
+[Working with MSI Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-msi-records.md)
 
-[Working with Form UI actions](enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/handle-incidents-using-awa.md)
 
 ## Add Playbook
 
@@ -113,11 +113,11 @@ Role required: sn\_si.analyst
 
 3.  Click **Add Playbook**.
 
-    ![Add a playbook manually](../image/manually-invoke-playbook.png)
+    ![Add a playbook manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/manually-invoke-playbook.png)
 
     The **Add Playbook** dialogue box is displayed.
 
-    ![Add playbook](../image/manually-invoke-playbook1.png)
+    ![Add playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/manually-invoke-playbook1.png)
 
 4.  Select the playbook template.
 
@@ -127,15 +127,15 @@ Role required: sn\_si.analyst
 
 6.  Click **Add Anyway**.
 
-    ![Confirmation message](../image/addanyway-button.png)
+    ![Confirmation message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/addanyway-button.png)
 
 7.  The **Playbook** gets added next to the **Details** tab.
 
-    ![Playbook confirmation message](../image/playbook-attached.png)
+    ![Playbook confirmation message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-attached.png)
 
 8.  Click the **Playbook** tab.
 
-    ![Playbook activities](../image/playbook-tasks.png)
+    ![Playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-tasks.png)
 
 9.  Perform the series of activities as listed to move to the next level.
 

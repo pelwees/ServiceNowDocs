@@ -30,7 +30,7 @@ Users can also create own groups. For more information on creating own service- 
 
 1.  Navigate to **Source-to-Pay workspace** &gt; **List** &gt; **Universal request**.
 
-    The AP agent validates the UR case details and creates an invoice case for further processing.![Universal Request List view](../image/universal-req-list.png)
+    The AP agent validates the UR case details and creates an invoice case for further processing.![Universal Request List view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/universal-req-list.png)
 
 2.  Select a specific UR case to view case details.
 
@@ -38,7 +38,7 @@ Users can also create own groups. For more information on creating own service- 
 
 3.  Select **Create case** &gt;**Create invoice case**.
 
-    The **Create New Invoice case** form appears. The associated UR details appear as a banner in the case. For more information on creating invoice case, see [Create an invoice manually](create-invoice.md).![Create invoice case](../image/create-invoice-ur.png)
+    The **Create New Invoice case** form appears. The associated UR details appear as a banner in the case. For more information on creating invoice case, see [Create an invoice manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md).![Create invoice case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/create-invoice-ur.png)
 
 4.  Select **Save** to save the changes.
 
@@ -46,7 +46,7 @@ Users can also create own groups. For more information on creating own service- 
 
     If a ticket is transferred to another team and the user who submitted the UR doesn't have the necessary permissions to access that team's case, updates to the UR will not be visible to them.
 
-    For more information on transferring a UR, see [Transfer a primary ticket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/route-primarytask-to-ur.md).![Transfer UR](../image/transfer-ur.png)
+    For more information on transferring a UR, see [Transfer a primary ticket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/route-primarytask-to-ur.md).![Transfer UR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/transfer-ur.png)
 
 6.  Select **Create Associated Ticket** to request other departments for assistance in resolving a universal request \(UR\).
 
@@ -54,7 +54,7 @@ Users can also create own groups. For more information on creating own service- 
 
     If the ticket is assigned to another team, and the original user who submitted the UR doesn’t possess the necessary privileges or access to view that team's case, they’ll be unable to monitor updates on the UR.
 
-    ![Associated ticket](../image/ur-associated-ticket-success.png)
+    ![Associated ticket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/ur-associated-ticket-success.png)
 
     An associated ticket is created.
 
@@ -63,10 +63,10 @@ Users can also create own groups. For more information on creating own service- 
 
 Invoice case is created and processed. Once the case is resolved, the agent closes the case with appropriate reason. The UR is synced with invoice case details for invoice owners and suppliers to track the status of the UR.
 
-**Parent Topic:**[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+**Parent Topic:**[Universal Request in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/universal-request-in-apo.md)
 
 **Related topics**  
 
 
-[Using Invoice Case Management](../concept/use-invoice-case-mgmt.md)
+[Using Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-invoice-case-mgmt.md)
 

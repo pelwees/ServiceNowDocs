@@ -28,7 +28,7 @@ The following table displays the tax status \[tax\_status\] fields in the invoic
 |Integration error|Tax engine connectivity or communication failure occurred.|
 |Recalculate tax|Invoice header or invoice line needs field changes, invoice tax status changes to recalculate tax. The invoice is sent for tax revalidation manually or through scheduler.|
 
-For more information on using tax status, see [Tax Engine Integration](../concept/tax-engine-integration.md).
+For more information on using tax status, see [Tax Engine Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tax-engine-integration.md).
 
-**Parent Topic:**[Tax lines](create-tax-lines-apo.md)
+**Parent Topic:**[Tax lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 

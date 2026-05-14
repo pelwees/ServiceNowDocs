@@ -19,7 +19,7 @@ React is an industry-standard web framework for building UI components that you 
 
 With the ServiceNow IDE or ServiceNow SDK, you can use React in an application to create a UI page in ServiceNow Fluent code. The ServiceNow Fluent UI Page API refers to an HTML entry point \(`index.html`\) that loads the page at the endpoint provided. After building and installing the application on an instance, the static assets are stored in the appropriate tables. For an example of a React application in source code, see the [ServiceNow SDK examples](https://github.com/ServiceNow/sdk-examples) GitHub repository. To get started using React, select one of the React templates when creating an application with the ServiceNow IDE or ServiceNow SDK.
 
-**Note:** You can use some Next Experience Components in a React application with the React Wrapper Component Library Node Package Manager \(npm\) package on the [public npm registry](https://www.npmjs.com/package/@servicenow/react-components). To use the React Wrapper Component Library in an application, you can use Build Agent or you must install it from the ServiceNow IDE or ServiceNow SDK. For more information, see [Use third-party libraries with the ServiceNow IDE](../../servicenow-ide/task/use-third-party-libraries-ide.md) or [Use third-party libraries with the ServiceNow SDK](../task/use-third-party-libraries.md).
+**Note:** You can use some Next Experience Components in a React application with the React Wrapper Component Library Node Package Manager \(npm\) package on the [public npm registry](https://www.npmjs.com/package/@servicenow/react-components). To use the React Wrapper Component Library in an application, you can use Build Agent or you must install it from the ServiceNow IDE or ServiceNow SDK. For more information, see [Use third-party libraries with the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-ide/task/use-third-party-libraries-ide.md) or [Use third-party libraries with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/use-third-party-libraries.md).
 
 ## UI development process
 
@@ -113,12 +113,12 @@ if (rootElement) {
 
 After building and installing the application, you can open the page from the endpoint provided in the UiPage object \(`https://<instance>/<scope>_incident_manager.do`\), which displays an interface for creating and managing incidents.
 
-![An example UI page for Incident Response Management created with React](../image/servicenow-sdk-react-ui-page.png "Example of a UI page created with React")
+![An example UI page for Incident Response Management created with React](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/servicenow-sdk-react-ui-page.png "Example of a UI page created with React")
 
 **Related topics**  
 
 
-[UI Page API - ServiceNow Fluent](../reference/fluent-ui-page-api.md#)
+[UI Page API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/fluent-ui-page-api.md#)
 
-[ServiceNow Fluent](servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-fluent.md)
 

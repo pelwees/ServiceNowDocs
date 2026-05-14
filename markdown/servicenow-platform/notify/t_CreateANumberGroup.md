@@ -29,13 +29,13 @@ Numbers associated with a group appear on the **Notify Phone Numbers** related l
 
 1.  Navigate to **All** &gt; **Notify** &gt; **Number Groups**.
 
-    ![Use the Notify Number Groups module to group phone numbers into groups](../image/NumberGroups.png)
+    ![Use the Notify Number Groups module to group phone numbers into groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/NumberGroups.png)
 
 2.  Click **New**.
 
 3.  Enter a **Name**, and select **Notify: \(Re\)join Conference Call** for the **Incoming call workflow** field.
 
-    ![Notify Phone Number Groups form, which lists the names and workflows of number groups](../image/NumberGroupFields.png)
+    ![Notify Phone Number Groups form, which lists the names and workflows of number groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/NumberGroupFields.png)
 
     **Note:** Ensure not to configure a workflow, which sends an outbound SMS itself, resulting in recursive calling of the workflow.
 
@@ -97,7 +97,7 @@ Workflow to run when there is an outgoing SMS message for this group.**Note:** T
 
 ## What to do next
 
-[Associate a number to a number group](t_AssignANumberGroup.md)
+[Associate a number to a number group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_AssignANumberGroup.md)
 
 After creating a number group, associate numbers with that group to use the selected workflows.
 
@@ -105,5 +105,5 @@ After creating a number group, associate numbers with that group to use the sele
 
 You can create multiple number groups and configure with different Twilio numbers. You can then the associate the number groups with the various workflows based on your requirement.
 
-**Parent Topic:**[Numbers and number groups](../concept/c_NumberGroups.md)
+**Parent Topic:**[Numbers and number groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NumberGroups.md)
 

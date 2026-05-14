@@ -19,5 +19,5 @@ You can navigate to the action in **Flow Designer &gt; Designer &gt; Actions** a
 
 To customize the retry configuration, access the DevOps Custom HTTP Retry Policy settings in **IntegrationHub &gt; Retry Policy**.
 
-**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 

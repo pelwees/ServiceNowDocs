@@ -33,8 +33,8 @@ Indicates the application quota update period in seconds. If this value is less 
 
  Default value: 300 \(5 minutes\)
 
- Location: [Add to the System Properties](../../reference-pages/reference/r_AvailableSystemProperties.md#) `[sys_properties]` table
+ Location: [Add to the System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../../reference-pages/reference/r_AvailableSystemProperties.md#) `[sys_properties]` table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/platform-performance-references.md)
 

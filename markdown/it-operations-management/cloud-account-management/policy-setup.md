@@ -35,9 +35,9 @@ Role required: sn\_itom\_cam.cw\_admin
     -   To stop data validation or edit a policy, select **Deactivate Policy**.
     -   After the policy is executed, view tasks by selecting the **My Work** tab.
     -   Once the tasks are assigned to the Cloud Account Management Certifier group, it enables certifiers to review read-only fields and modify those fields that they’re permitted to edit.
-    -   For certifying an account, see [Certify an account](certify-account.md).
+    -   For certifying an account, see [Certify an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/certify-account.md).
 
 ## What to do next
 
-[Review request policies](../concept/viewing-pace-policy.md)
+[Review request policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/viewing-pace-policy.md)
 

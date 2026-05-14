@@ -37,10 +37,10 @@ You can also filter on each related list to find specific items.
 
 When a service offering is added to the impacted service or to the affected CI related list, the SLA breach reporting is triggered for that offering. The trigger happens even if the offering isn’t listed in the service offering field on the record.
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
 **Related topics**  
 
 
-[View availability results in Service Portfolio Management](SPM2-view-availability-results.md)
+[View availability results in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-view-availability-results.md)
 

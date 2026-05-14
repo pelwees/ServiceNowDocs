@@ -23,13 +23,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## List of store upgrades
 
--   [Agent Client Collector](../../agent-client-collector/concept/acc-landing-page.md)
--   [Certificate Inventory and Management](../reference/cert-inventory-mgmt.md)
--   [Discovery patterns](../../service-mapping/concept/available-patterns.md)
--   [Firewall Audit and Reporting](../reference/firewall-audit-reporting.md)
+-   [Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../agent-client-collector/concept/acc-landing-page.md)
+-   [Certificate Inventory and Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../reference/cert-inventory-mgmt.md)
+-   [Discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-mapping/concept/available-patterns.md)
+-   [Firewall Audit and Reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../reference/firewall-audit-reporting.md)
 -   [CMDB CI Class Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
--   [Health Log Analytics](../../health-log-analytics-admin/reference/hla-landing-page.md)
--   [Performance Analytics Content Pack for Cloud Resources](../../../use/dashboards/application-content-packs/cloud-resources-content-pack.md)
--   [Application service readiness dashboard in configurable workspace](../../service-mapping/reference/readiness-dashboard-ml.md)
--   [ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/itom-cloud-accelerate-landing-page.md)
+-   [Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../health-log-analytics-admin/reference/hla-landing-page.md)
+-   [Performance Analytics Content Pack for Cloud Resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../use/dashboards/application-content-packs/cloud-resources-content-pack.md)
+-   [Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-mapping/reference/readiness-dashboard-ml.md)
+-   [ITOM Cloud Accelerate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../itom-cloud-accelerate/reference/itom-cloud-accelerate-landing-page.md)
 

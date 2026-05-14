@@ -27,7 +27,7 @@ When you create a network function record, it creates a corresponding configurat
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then select **Inventory** &gt; **Network Function**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then select **Inventory** &gt; **Network Function**.
 
 3.  Select **New**
 
@@ -38,5 +38,5 @@ When you create a network function record, it creates a corresponding configurat
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Manage your network functions](../concept/services.md)
+**Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/services.md)
 

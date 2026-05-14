@@ -28,11 +28,11 @@ Scaled Agile Framework application overview. Approximately three minutes long.
 
 ServiceNow provides applications that support two different configurations of SAFe: Essential SAFe and Portfolio SAFe. The sections below explain the features of each configuration, and will help you choose the right configuration for your organization.
 
--   **[Essential SAFe](essential-overview.md)**
+-   **[Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/essential-overview.md)**
 
     With Essential SAFe, you can apply lean and agile principles to your Agile Release Trains and teams, and develop and deliver work with fewer defects in the shortest viable lead time.
 
--   **[Portfolio SAFe](portfolio-overview.md)**
+-   **[Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-overview.md)**
 
     With Portfolio SAFe, you can align your organizational goals and strategies with your portfolios, and apply lean and agile principles to seamlessly manage and deliver your portfolio work.
 

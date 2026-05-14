@@ -23,11 +23,11 @@ Role required: sn\_shift\_planning.admin
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Click the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  In the **Team Calendar** tab, navigate and point to the shift for the agent that you want to swap with another agent.
 
-4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon](../image/shift-swap-icon.png)\).
+4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/shift-swap-icon.png)\).
 
 5.  In the **Requested Shift** section, click the **Agent** field and select the agent who can work on that shift.
 
@@ -36,5 +36,5 @@ Role required: sn\_shift\_planning.admin
     The team calendar displays the updated schedule.
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/scheduling-configurable-workforce-optimization-itsm.md)
 

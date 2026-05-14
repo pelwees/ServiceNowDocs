@@ -15,7 +15,7 @@ Design attended automations by creating an attended user interface \(UI\) form i
 
 ## Before you begin
 
-Ensure that the project type is **Attended Automation**. For more information, see [Create an automation project manually](create-automation-project.md).
+Ensure that the project type is **Attended Automation**. For more information, see [Create an automation project manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-project.md).
 
 Role required: none
 
@@ -51,18 +51,18 @@ Right-click **Forms** in the Project Explorer pane and select **New Form**.
 
 </td><td>
 
-Right-click a form in the Project Explorer pane and select **Design**.For more information on the Form Designer, see [Form designer for building attended automation forms](../concept/form-designer-overview.md).
+Right-click a form in the Project Explorer pane and select **Design**.For more information on the Form Designer, see [Form designer for building attended automation forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/form-designer-overview.md).
 
 </td></tr></tbody>
 </table>3.  In the Form Designer, from the Toolbox pane, select an element that you want to add to your form and draw it on the Design surface.
 
     For example, to draw a text block on the form, select the TextBlock element from the Toolbox pane and draw it on the Design surface. Similarly, select the TextBox and Button element and draw them on the Design surface, as shown in the following example.
 
-    ![TextBlock, TextBox, and Button element on the Design Surface.](../image/form-designer-textblock.png "TextBlock, TextBox, and Button element on the Design Surface")
+    ![TextBlock, TextBox, and Button element on the Design Surface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/form-designer-textblock.png "TextBlock, TextBox, and Button element on the Design Surface")
 
 4.  In the Form Designer, from the Properties pane, update the name of an element in the **Name** field, as shown in the following example.
 
-    ![Update the Name field in the Properties pane.](../image/form-designer-textblock-name.png "Update the Name field in the Properties pane")
+    ![Update the Name field in the Properties pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/form-designer-textblock-name.png "Update the Name field in the Properties pane")
 
 5.  Choose an option and complete the action.
 
@@ -82,7 +82,7 @@ Action
 
 Select the desired element in the Outline pane or on the Design surface and edit the required properties in the Properties pane.For example, to edit the display label of the TextBlock element, enter a label in the **Text** field in the Properties pane, as shown in the following example.
 
- ![Enter a name in the Text field in the Properties pane.](../image/form-designer-text-name-change.png "Enter a name in the Text field in the Properties pane")
+ ![Enter a name in the Text field in the Properties pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/form-designer-text-name-change.png "Enter a name in the Text field in the Properties pane")
 
 </td></tr><tr><td id="d285967e236">
 
@@ -92,7 +92,7 @@ Select the desired element in the Outline pane or on the Design surface and edit
 
 Select the window in the Outline pane and edit the required properties in the Properties pane.For example, to resize the window, select an option from the **ResizeMode** field in the Properties pane, as shown in the following example.
 
- ![Resize the window in the ResizeMode field in the Properties pane.](../image/form-designer-window-properties.png "Resize the window in the ResizeMode field in the Properties pane")
+ ![Resize the window in the ResizeMode field in the Properties pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/form-designer-window-properties.png "Resize the window in the ResizeMode field in the Properties pane")
 
 </td></tr><tr><td id="d285967e264">
 
@@ -111,7 +111,7 @@ Move them as required in the Outline pane.
 Perform the following actions:1.  In the Project Explorer pane, close the form in which you added the elements.
 2.  Expand the form and view the elements that are added under the form as shown in the following example.
 
-![Elements appear under the form.](../image/elements-form-appear.png "Elements appear under the form")
+![Elements appear under the form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/elements-form-appear.png "Elements appear under the form")
 
 </td></tr><tr><td id="d285967e304">
 
@@ -127,7 +127,7 @@ In the Outline pane, right-click the element to be deleted and select **Delete**
 
 </td><td>
 
-Double-click the created form in the Project Explorer pane.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of an attended automation form](../reference/form-methods-events.md).
+Double-click the created form in the Project Explorer pane.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of an attended automation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/form-methods-events.md).
 
 </td></tr><tr><td id="d285967e338">
 
@@ -135,7 +135,7 @@ Double-click the created form in the Project Explorer pane.The methods and event
 
 </td><td>
 
-Double-click the element in the Toolbox pane of the Form Designer.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of elements](../reference/form-control-methods-events.md).
+Double-click the element in the Toolbox pane of the Form Designer.The methods and events are displayed in the Object Explorer pane. For more information, see [Methods and events of elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/form-control-methods-events.md).
 
 </td></tr><tr><td id="d285967e357">
 
@@ -171,17 +171,17 @@ Do any of the following actions:-   In the Project Explorer pane, right-click th
 
 </td></tr></tbody>
 </table>
--   **[Form designer for building attended automation forms](../concept/form-designer-overview.md)**  
+-   **[Form designer for building attended automation forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/form-designer-overview.md)**  
 Form designer is an Integrated Development Environment \(IDE\) for building attended automation forms in RPA Desktop Design Studio.
--   **[Configure the form fields for the Form Renderer element](configure-form-fields.md)**  
+-   **[Configure the form fields for the Form Renderer element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-form-fields.md)**  
 Configure the form fields in the Form Renderer element while you are building an attended automation form in RPA Desktop Design Studio.
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Methods and events of an attended automation form](../reference/form-methods-events.md)
+[Methods and events of an attended automation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/form-methods-events.md)
 
-[Methods and events of elements](../reference/form-control-methods-events.md)
+[Methods and events of elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/form-control-methods-events.md)
 

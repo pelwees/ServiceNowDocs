@@ -21,11 +21,11 @@ The Employee Center portal is a unified portal that helps connect systems across
 
 If you integrate Privacy Management with the Employee Center, you can provide all employees an interface to create a privacy impact assessment that would result in the creation of a processing activity. Only users with the roles sn\_privacy.assessment\_responder and sn\_privacy.business\_user can view the option to create a privacy impact assessment. The following image shows the page from where you can submit a new implementation request. For example, a team can use the Employee Center if a business plans a new implementation. Before creating a business application record, the team can contact the privacy team by responding to the Privacy Impact Assessment for the new implementation request. This helps to get the privacy team’s guidance in the initial or inception phase of the new implementation.
 
-![Create privacy impact assessment from the employee center.](../image/privacy-and-employee-portal.png "Privacy management integration with Employee center")
+![Create privacy impact assessment from the employee center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/privacy-and-employee-portal.png "Privacy management integration with Employee center")
 
 ## Risk portal
 
 If a privacy analyst assigns a processing activity to a business user to get more details on the processing activity, the business users can access the assigned processing activity from the risk portal.
 
-![Access My to-dos tasks on the Risk portal.](../image/grc-tasks-risk-portal.png "Accessing GRC tasks on the Risk portal")
+![Access My to-dos tasks on the Risk portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/grc-tasks-risk-portal.png "Accessing GRC tasks on the Risk portal")
 

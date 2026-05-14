@@ -153,15 +153,15 @@ The default signature type is Electronic Signature.
 
     -   To add a signatory, select **Add** and provide the signatory's details.
 
-    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
+    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
 
-    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
+    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
 
 4.  Select **Submit**.
 
 5.  Modify the request details or manage signatories by selecting **Actions** and then selecting **Edit Request**.
 
-    This option is available only if the request state is Draft or Work in progress. For more information, see [Modify a non-disclosure agreement legal request](snlc-modify-nda-req.md).
+    This option is available only if the request state is Draft or Work in progress. For more information, see [Modify a non-disclosure agreement legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-modify-nda-req.md).
 
 
 ## Result
@@ -176,7 +176,7 @@ The default signature type is Electronic Signature.
     -   Replacing the metadata with data from the request.
     -   Replacing the signatory information.
     -   Placing the content of the clauses in the contract document according to the clause variation rules.
--   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md).
+-   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md).
 
     **Note:**
 
@@ -185,7 +185,7 @@ The default signature type is Electronic Signature.
     A record for each external signatory is created in the Signer \[sn\_cm\_core\_signer\] table.
 
 
-For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](snlc-view-legal-req-details.md).
+For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-legal-req-details.md).
 
-**Parent Topic:**[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+**Parent Topic:**[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-nda-1.md)
 

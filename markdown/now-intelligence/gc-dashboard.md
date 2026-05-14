@@ -17,5 +17,5 @@ The GC Dashboard serves as a central command center for monitoring how effective
 
 This dashboard visualizes the end-to-end performance of legal operations, including open contracts by deal size, legal request MTTR, privacy request backlogs, invoice cycle times, and adoption of digital legal services. These indicators help legal leaders understand workload distribution, identify operational bottlenecks, improve compliance responsiveness, and ensure that legal processes are timely, effective, and scalable.
 
-![General Counsel Dashboard with Contracts, Service Delivery, Privacy and Compliance, Digital Forensics, and Self Service pillars, each containing legal metrics and visualizations.](../image/gc-db-tab.png)
+![General Counsel Dashboard with Contracts, Service Delivery, Privacy and Compliance, Digital Forensics, and Self Service pillars, each containing legal metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/gc-db-tab.png)
 

@@ -21,7 +21,7 @@ Role required: admin, playbook.admin
 
 Before you configure a wizard layout, ensure that you:
 
--   Have an existing playbook with the activities you want end users to complete. For more information, see [Create a playbook](create-process-definition.md).
+-   Have an existing playbook with the activities you want end users to complete. For more information, see [Create a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-process-definition.md).
 -   Have access to UI Builder and can edit or create a UI Builder page to host the playbook that you created. For more information, see [Create a page in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 ## Procedure
@@ -60,5 +60,5 @@ End users see the playbook displayed as a guided wizard, with clear step-by-step
 -   Refine step labels or layout configuration based on feedback.
 -   Reuse the wizard layout pattern for other multi-step playbooks.
 
-**Parent Topic:**[Wizard layouts for playbooks](../concept/wizard-layouts-playbooks.md)
+**Parent Topic:**[Wizard layouts for playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/wizard-layouts-playbooks.md)
 

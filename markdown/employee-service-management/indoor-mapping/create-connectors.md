@@ -25,7 +25,7 @@ Role required: map admin, map editor, map editor limited
 
 1.  To create an icon for your connector type, navigate to **All** &gt; **Indoor Mapping** &gt; **Icons**.
 
-    Indoor Mapping provides a pre-existing icon library. To edit an existing icon, select an icon record and apply your edits. For more information, see [Create Indoor Mapping icons and place types](place-icons-place-type.md).
+    Indoor Mapping provides a pre-existing icon library. To edit an existing icon, select an icon record and apply your edits. For more information, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md).
 
 2.  After creating your icon, navigate to **All** &gt; **Indoor Mapping** &gt; **Connector types**.
 
@@ -33,7 +33,7 @@ Role required: map admin, map editor, map editor limited
 
 3.  Select **New** to create a new connector type.
 
-    ![Create connectors](../images/manage-directions-2.png)
+    ![Create connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/manage-directions-2.png)
 
     On the form, fill in the fields.
 
@@ -146,5 +146,5 @@ Select any of the following from the drop-down list:-   Up
 10. Select **Save this view** to save your changes.
 
 
-**Parent Topic:**[Manage Directions](enable-interactive-locations.md)
+**Parent Topic:**[Manage Directions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-interactive-locations.md)
 

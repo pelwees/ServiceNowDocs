@@ -19,7 +19,7 @@ Add courses from external sources such as Udemy, Pluralsight, or Cornerstone to 
 
 Role required: sn\_wfo\_cfg\_itsm.manager
 
-You must integrate Coaching with third-party learning management systems. For information on how to perform this integration, see [Integrate Coaching with Learning with third-party learning management systems](integrate-learning-third-party-configurable-wfo-itsm.md).
+You must integrate Coaching with third-party learning management systems. For information on how to perform this integration, see [Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/integrate-learning-third-party-configurable-wfo-itsm.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ You must integrate Coaching with third-party learning management systems. For in
     You can review and learn the external course.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/workforce-learning-configurable-wfo-itsm.md)
 
 **Related topics**  
 

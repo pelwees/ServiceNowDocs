@@ -17,7 +17,7 @@ Once the application is built and validated, the application needs to be moved t
 
 Publishing an application to the App Repo makes this version of the application available to all of an organization’s ServiceNow instances. Use the App Repo to deploy an application to QA / Test instances \(for testing\) and finally to Production \(Prod\) instances.
 
-![Deploy apps through the Application Repository](../image/deploy-app-repo.png)
+![Deploy apps through the Application Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/deploy-app-repo.png)
 
 For more information, see [Publishing an application to the application repo](https://servicenow.com/docs/bundle/paris-application-development/page/build/applications/task/t_PublishAppsToTheAppRepository.html), [Install an application](https://servicenow.com/docs/bundle/paris-application-development/page/build/applications/task/t_InstallApplications.html).
 
@@ -25,7 +25,7 @@ For more information, see [Publishing an application to the application repo](ht
 
 If the application repository cannot be used to deploy applications, use Update Sets instead. The diagram shows the best practice lifecycle of an Update Set to deploy a customization from the development instance to the test instance.
 
-![Deploy apps using Update Sets](../image/deploy-update-sets.png)
+![Deploy apps using Update Sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/deploy-update-sets.png)
 
 Practices that lead to a quality development and release process:
 

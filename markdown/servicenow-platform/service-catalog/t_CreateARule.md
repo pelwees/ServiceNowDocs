@@ -117,5 +117,5 @@ Option to select the default quantity of a catalog item for the order guide. Whe
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Order guides](../concept/c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogOrderGuides.md)
 

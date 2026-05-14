@@ -29,16 +29,16 @@ Role required: admin
 
 3.  Select the document.
 
-4.  In the **Target Record** field, select the Lookup documents using list icon ![Lookup documents using list icon](../image/lookup-icom.png).
+4.  In the **Target Record** field, select the Lookup documents using list icon ![Lookup documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/lookup-icom.png).
 
 5.  In the Select the document dialog box, for the **Table name** field, select the table for the record you want to link the document to.
 
-6.  In the **Document** field, select the Lookup using list icon \(![Lookup using list icon](../image/lookup-icom.png)\) and select the record to which you are linking the document.
+6.  In the **Document** field, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/lookup-icom.png)\) and select the record to which you are linking the document.
 
 7.  Select **OK**.
 
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Document references](../concept/doc-mgt-references.md)
+**Parent Topic:**[Document references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-mgt-references.md)
 

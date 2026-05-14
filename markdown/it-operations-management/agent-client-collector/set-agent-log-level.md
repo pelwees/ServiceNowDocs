@@ -38,5 +38,5 @@ Role required: agent\_client\_collector\_admin
     -   In the related links, select **Reset Log Level**.
     -   Restart the agent.
 
-**Parent Topic:**[Using Agent Client Collector logs](../concept/logs-acc.md)
+**Parent Topic:**[Using Agent Client Collector logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/logs-acc.md)
 

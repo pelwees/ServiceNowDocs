@@ -96,5 +96,5 @@ Name of the automation source that you’ve selected for this execution state ma
 
 The automation summary execution configuration is complete.
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-auto-sum-exe.md)
 

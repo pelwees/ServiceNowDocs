@@ -63,5 +63,5 @@ Actions
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[View and download a signed contract document](snlc-preview-contract.md)
+**Parent Topic:**[View and download a signed contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract.md)
 

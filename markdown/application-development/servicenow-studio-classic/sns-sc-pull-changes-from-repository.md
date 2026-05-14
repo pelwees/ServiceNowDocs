@@ -17,7 +17,7 @@ App developers using ServiceNow Studio can pull changes from a linked Git reposi
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 Role required: admin
 
@@ -58,7 +58,7 @@ Saves local changes before switching to an alternate branch. You can later merge
 Permanently deletes all local changes before switching to an alternate branch. If you choose to discard, you will not be able to recover those files.**Note:** Use caution when discarding local changes. Since all application developers share repository credentials, there is no way to discard just one set of user changes.
 
 </td></tr></tbody>
-</table>    ![Before you pull from the repository, select whether you want to stash or discard local changes.](../image/sn-studio-pull-from-repo.png)
+</table>    ![Before you pull from the repository, select whether you want to stash or discard local changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-pull-from-repo.png)
 
 6.  Select **Pull from repository**.
 
@@ -75,5 +75,5 @@ If there are conflicts, the system displays the **Resolve Conflicts** window.
 
 Delta loading is enabled by default in sys\_properties so your data isn't removed. You can disable this feature if you want data automatically deleted.
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sns-sc-work-with-changes-in-git.md)
 

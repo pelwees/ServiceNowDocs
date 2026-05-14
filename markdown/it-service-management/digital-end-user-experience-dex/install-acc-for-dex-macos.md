@@ -108,15 +108,15 @@ Optional **ACC\_VALIDATE\_SIG=0** string that you can add to disable the verific
 </td></tr></tbody>
 </table>4.  Configure the ServiceNow sudoers file.
 
-    For details on the procedure, see [Configure ServiceNow sudoers file](config-sudoers-file.md).
+    For details on the procedure, see [Configure ServiceNow sudoers file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/config-sudoers-file.md).
 
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/installing-dex-local.md)
 
 **Related topics**  
 
 
-[Create an ACC registration key](setup-acc.md)
+[Create an ACC registration key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/setup-acc.md)
 
-[DEX Architecture](../concept/dex-architecture.md)
+[DEX Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-architecture.md)
 

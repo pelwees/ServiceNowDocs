@@ -39,5 +39,5 @@ Keep the following in mind when you cancel a purchase order line item.
 4.  Click **Cancel**.
 
 
-**Parent Topic:**[Create a purchase order](t_CreateAPurchaseOrder.md)
+**Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CreateAPurchaseOrder.md)
 

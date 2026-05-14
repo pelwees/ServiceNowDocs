@@ -21,9 +21,9 @@ Role required: business\_process\_manager or asset or itil
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **My Entities**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **My Entities**.
 
 4.  Select **My Business Processes**.
 
@@ -33,21 +33,21 @@ Role required: business\_process\_manager or asset or itil
     -   To update details of an existing business process, select the business process, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create business process form](../../reference/eaw-reference/eaw-business-process-form.md).
+    For field information, see [Create business process form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-business-process-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-your-entities.md)
 
 **Related topics**  
 
 
-[View your business processes](eaw-my-business-processes.md)
+[View your business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-my-business-processes.md)
 
-[View all business processes](eaw-view-all-business-processes.md)
+[View all business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-business-processes.md)
 
-[Add or edit a business process](eaw-create-business-process.md)
+[Add or edit a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-business-process.md)
 
-[Manage architectural artifacts of a business process](eaw-assoicate-artifact-bp.md)
+[Manage architectural artifacts of a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-bp.md)
 

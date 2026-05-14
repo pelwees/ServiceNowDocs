@@ -19,57 +19,57 @@ Threat Actors use their resources, and the resources of an Intrusion Set, to con
 
 You can identify Threat Actors by their motives, capabilities, goals, sophistication level, past activities, resources they have access to, and their role in the organization.
 
--   **[Define threat actors](../task/define-threat-actors.md)**  
+-   **[Define threat actors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/define-threat-actors.md)**  
 Define threat actors who are individuals, groups, or organizations who act with malicious intent.
 
-**Parent Topic:**[IoC Repository](ioc-repository.md)
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
 
-[Attack modes and methods](c_AttackModeMethod.md)
+[Attack modes and methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_AttackModeMethod.md)
 
-[Indicators of compromise](c_IoCs.md)
+[Indicators of compromise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
-[Observables](c_Observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_Observables.md)
 
-[Attack patterns](attack-patterns.md)
+[Attack patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/attack-patterns.md)
 
-[Campaigns](threat-intelligence-campaigns.md)
+[Campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-campaigns.md)
 
-[Course of actions](threat-intelligence-course-actions.md)
+[Course of actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-course-actions.md)
 
-[Identities](threat-intelligence-identities.md)
+[Identities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-identities.md)
 
-[Infrastructure](threat-intelligence-infrastructure.md)
+[Infrastructure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-infrastructure.md)
 
-[Intrusion set](threat-intelligence-intrusion-sets.md)
+[Intrusion set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-intrusion-sets.md)
 
-[Locations](threat-intelligence-locations.md)
+[Locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-locations.md)
 
-[Malware](threat-intelligence-malware.md)
+[Malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-malware.md)
 
-[Malware analysis](threat-intelligence-malware-analysis.md)
+[Malware analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-malware-analysis.md)
 
-[Observed data](threat-intelligence-observed-data.md)
+[Observed data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-observed-data.md)
 
-[Threat groupings](threat-groupings.md)
+[Threat groupings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-groupings.md)
 
-[Marking definitions](marking-definitions.md)
+[Marking definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/marking-definitions.md)
 
-[Threat notes](threat-intelligence-threat-notes.md)
+[Threat notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-threat-notes.md)
 
-[Threat opinions](threat-opinions.md)
+[Threat opinions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-opinions.md)
 
-[Threat reports](threat-reports.md)
+[Threat reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-reports.md)
 
-[Sightings](indicator-sightings.md)
+[Sightings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/indicator-sightings.md)
 
-[Tools](tools.md)
+[Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/tools.md)
 
-[Vulnerabilities](vulnerabilities.md)
+[Vulnerabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/vulnerabilities.md)
 
-[Relationships](stix-relationships.md)
+[Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/stix-relationships.md)
 
-[STIX Visualizer](stix-visualizer.md)
+[STIX Visualizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/stix-visualizer.md)
 

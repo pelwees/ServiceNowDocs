@@ -25,7 +25,7 @@ Role required: admin or app\_engine\_admin
 
 2.  On the Workflow Studio home page, select **Decision tables**.
 
-    ![Select Decision tables on the Workflow Studio home page to display only decision tables.](../image/aemc-workflow-studio-decision-tables.png)
+    ![Select Decision tables on the Workflow Studio home page to display only decision tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/aemc-workflow-studio-decision-tables.png)
 
 3.  Select the decision table with the name **Deployment Migration to ReleaseOps**.
 

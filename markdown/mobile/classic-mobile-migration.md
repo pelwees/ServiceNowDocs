@@ -25,7 +25,7 @@ ServiceNow Mobile Platform is a native, mobile-first design that introduces new 
 -   Offline capabilities, including offline read and write.
 -   Enhanced security features including data loss prevention.
 
-For more detail on ServiceNow® mobile, see [Mobile Configuration and Navigation](mobile-config-navigation.md).
+For more detail on ServiceNow® mobile, see [Mobile Configuration and Navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-config-navigation.md).
 
 ## Evaluate your organization's current mobile use
 
@@ -66,17 +66,17 @@ Use these applications right away, or customize them to suit your business needs
 
 ## Create your own applications
 
-Use Mobile App Builder to make new applications, and give your users the ability to work in areas not covered by the current base system applications. For details on the components of ServiceNow® mobile and examples of application creation, see [Configuring the Mobile Platform](config-mobile-platform-landing.md) and [Building mobile apps](build-mobile-apps-landing.md).
+Use Mobile App Builder to make new applications, and give your users the ability to work in areas not covered by the current base system applications. For details on the components of ServiceNow® mobile and examples of application creation, see [Configuring the Mobile Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-mobile-platform-landing.md) and [Building mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md).
 
 ## Understand the current limitations for ServiceNow® mobile
 
 -   **General**
-    -   Limited support for client scripts. Basic functionality can be addressed with Mobile UI Rules. See, [Mobile UI Rules](mobile-ui-rules.md).
+    -   Limited support for client scripts. Basic functionality can be addressed with Mobile UI Rules. See, [Mobile UI Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
     -   Geolocation and Offline mode is not supported in the Now Mobile app.
 -   **Offline mode**
 
     Mobile apps do not automatically go into offline mode when internet connection is lost.
 
 
-**Parent Topic:**[Mobile plugins and upgrades](plugins-upgrades.md)
+**Parent Topic:**[Mobile plugins and upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/plugins-upgrades.md)
 

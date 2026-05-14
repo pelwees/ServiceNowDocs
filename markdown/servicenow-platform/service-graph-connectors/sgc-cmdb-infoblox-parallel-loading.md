@@ -22,5 +22,5 @@ Parallel data loading is supported in Service Graph Connector for Infoblox versi
 
 ## Related content
 
-[Service Graph Connector for Infoblox properties](../reference/cmdb-sgc-infoblox-props.md)
+[Service Graph Connector for Infoblox properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-sgc-infoblox-props.md)
 

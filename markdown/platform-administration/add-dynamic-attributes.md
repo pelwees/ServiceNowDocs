@@ -17,8 +17,8 @@ Define one or more dynamic attributes that describe a record.
 
 You can define each of the dynamic attributes that describe your records in a dynamic namespace that's associated with a dynamic attribute store field. You can create a dynamic namespace the following ways:
 
--   Create a dynamic attribute store field. When you create a dynamic attribute store field, a dynamic namespace is automatically created and associated with the store field. See [Create a dynamic attribute store field](create-dynamic-attribute-store-field.md).
--   Create a dynamic namespace manually. See [Create a dynamic namespace](create-dynamic-namespace.md).
+-   Create a dynamic attribute store field. When you create a dynamic attribute store field, a dynamic namespace is automatically created and associated with the store field. See [Create a dynamic attribute store field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-attribute-store-field.md).
+-   Create a dynamic namespace manually. See [Create a dynamic namespace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-namespace.md).
 
 Role required: dynamic\_schema\_writer
 
@@ -81,7 +81,7 @@ Choice Set
 
 </td><td>
 
-Fixed set of values defined in a choice set. For example, if you created a choice set for Colors with choices for red, green, and blue, you can select the Colors choice set to limit the attribute's values to the color choices defined in the choice set. See [Create a dynamic choice set](create-choice-set.md).
+Fixed set of values defined in a choice set. For example, if you created a choice set for Colors with choices for red, green, and blue, you can select the Colors choice set to limit the attribute's values to the color choices defined in the choice set. See [Create a dynamic choice set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-choice-set.md).
 
  This option only appears when you select String in the **Type** field.
 
@@ -107,7 +107,7 @@ Option to activate the dynamic attribute.
 
 ## Add a dynamic attribute for screen resolution
 
-![Add a dynamic attribute that captures the screen resolution of products in the Departments namespace.](../image/dynamic-attribute-example.png)
+![Add a dynamic attribute that captures the screen resolution of products in the Departments namespace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-attribute-example.png)
 
 ## What to do next
 

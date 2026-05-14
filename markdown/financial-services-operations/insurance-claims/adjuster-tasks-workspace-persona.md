@@ -27,7 +27,7 @@ You always work from the original case. A claim is created for each policy that 
 
 The following example shows a related policy claim that is associated with a claim case.
 
-![Claim that has multiple associated policy claims.](../image/individual-death-claim-related-claims-exp.png "Related policy claims associated with a claim case")
+![Claim that has multiple associated policy claims.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/individual-death-claim-related-claims-exp.png "Related policy claims associated with a claim case")
 
 By using the workspace cards, you can navigate through the following sections:
 

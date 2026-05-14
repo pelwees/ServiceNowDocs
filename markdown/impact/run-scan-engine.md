@@ -15,7 +15,7 @@ An initial full Scan Engine completion is required to set a baseline from a seri
 
 ## Before you begin
 
-[Activate Scan Engine and review settings](configure-initial-scan-engine-settings.md) before beginning this task.
+[Activate Scan Engine and review settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-initial-scan-engine-settings.md) before beginning this task.
 
 You can complete the configuration steps directly in the Guided Setup interface or can configure the properties using the indicated navigation path.
 
@@ -35,7 +35,7 @@ Role required: impact app admin or admin
 
 3.  Navigate to **All** &gt; **Impact** &gt; **Platform Health** &gt; **Scan Engine** &gt; **Scan Status**.
 
-    See [Analytics Dashboards](../concept/scan-engine-diagnostic-dashboards.md):
+    See [Analytics Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/scan-engine-diagnostic-dashboards.md):
 
     -   View the different charts and reports available at **Impact****Platform Health****Analytics Dashboard**.
     -   Access refreshed Health Scan Engine dashboards each time a scan is completed.
@@ -43,18 +43,18 @@ Role required: impact app admin or admin
 
 4.  Integrate with your other environments running Impact and utilize Scan Engine diagnostics.
 
-    You can connect your instances with a one-time configuration, available in both Basic Auth and OAuth 2.0. Refer to [Scan Engine integrations](../concept/instance-integration-scan-engine.md) for details.
+    You can connect your instances with a one-time configuration, available in both Basic Auth and OAuth 2.0. Refer to [Scan Engine integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-integration-scan-engine.md) for details.
 
 5.  **Mark as Complete** to progress to the next step in Guided Setup.
 
 
 ## What to do next
 
-See [Use automated registration to connect to the Impact Delivery Instance](start-automated-registration-IDI.md) to further configure the Impact Store Application and import data from the Impact Delivery Instance.
+See [Use automated registration to connect to the Impact Delivery Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/start-automated-registration-IDI.md) to further configure the Impact Store Application and import data from the Impact Delivery Instance.
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Activate Scan Engine and review settings](configure-initial-scan-engine-settings.md)
+**Previous topic:**[Activate Scan Engine and review settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-initial-scan-engine-settings.md)
 
-**Next topic:**[Use automated registration to connect to the Impact Delivery Instance](start-automated-registration-IDI.md)
+**Next topic:**[Use automated registration to connect to the Impact Delivery Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/start-automated-registration-IDI.md)
 

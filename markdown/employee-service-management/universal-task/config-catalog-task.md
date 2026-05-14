@@ -39,16 +39,16 @@ You can add filters to manage the catalog items that are available to a user. Fo
 
 6.  Add a parent table **Condition** for the catalog item, if any.
 
-    For example, in the following configuration, the catalog item filter is applicable only if the assignment group of the parent table \[incident\] is Change Management. ![Condition field sample.](../images/ut-condition-field.png)
+    For example, in the following configuration, the catalog item filter is applicable only if the assignment group of the parent table \[incident\] is Change Management. ![Condition field sample.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/ut-condition-field.png)
 
     You can create multiple conditions to configure your catalog items. The conditions with lower order values get precedence over higher order values.
 
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Configure Universal Task for your service](config-ut-for-service.md)
+**Previous topic:**[Configure Universal Task for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-ut-for-service.md)
 
-**Next topic:**[Configure the roles to view employee forms](ut-config-empform-view-roles.md)
+**Next topic:**[Configure the roles to view employee forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-empform-view-roles.md)
 

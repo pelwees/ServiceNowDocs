@@ -45,7 +45,7 @@ When the references are fixed, all table fields directly corresponding to sys\_d
 
     The system updates any references to records that match aliases and rules to instead point to the normal record. The system also deletes the duplicate records from the table.
 
-6.  [Start](t_ApplyAliases.md) all the **Alias application** data jobs to replace the aliases with the normal value in existing records in the database.
+6.  [Start](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ApplyAliases.md) all the **Alias application** data jobs to replace the aliases with the normal value in existing records in the database.
 
     The system starts the **Coalesce to normal** data jobs for each alias.
 

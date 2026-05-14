@@ -51,10 +51,10 @@ License metric for CrowdStrike that identifies how licenses are measured, billed
 -   **Sensor Subscription**: This metric calculates license usage by averaging endpoint counts over four consecutive weeks. Weekly endpoint counts are based on the total number of endpoints consumed in the previous seven days.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[View calculations for your licenses in workspace](../task/licenses-required-workspace.md)
+[View calculations for your licenses in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/licenses-required-workspace.md)
 

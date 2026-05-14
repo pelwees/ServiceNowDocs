@@ -37,12 +37,12 @@ Role required: sn\_fin\_ops.specialist
 
     **Note:** The **Assign to me** option is available only for unassigned cases that are in draft state.
 
-    ![The Assign to me option](../image/fin-ops-assign-draft.png)
+    ![The Assign to me option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-assign-draft.png)
 
-    The case is assigned to you and the state is Work in Progress. ![The state of an assigned case](../image/fin-ops-assign-wip.png)
+    The case is assigned to you and the state is Work in Progress. ![The state of an assigned case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-assign-wip.png)
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

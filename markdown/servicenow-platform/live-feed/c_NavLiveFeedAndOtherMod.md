@@ -17,5 +17,5 @@ If you are participating in a feed and navigate to another module, when you retu
 
 For example, assume you are viewing a public feed and then navigate to a particular incident record. Upon returning to Live Feed, the feed you were previously viewing opens. If you were last viewing a private feed that you are not a member of, returning to Live Feed opens the Company Feed.
 
-**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 

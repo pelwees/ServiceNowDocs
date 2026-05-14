@@ -98,5 +98,5 @@ The Retail case \[sn\_retail\_case\] table can be extended to expand the flow an
 |Assignment Group|The associated assignment group responsible for working on this request.|
 |Assigned to|Person primarily responsible for working on this request.|
 
-**Parent Topic:**[Retail organization data model](rahi-retail-data-model.md)
+**Parent Topic:**[Retail organization data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-data-model.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.telco\_inventory\_cat
 
 A model relationship captures the relationships between the inventory models. By defining the relationships between the various network model entities, you can also define the compatibility between these entities.
 
-For example, if you select **Equipment to Slot** in the **Relationship Type** field, you can define the relationship between a specific equipment inventory model and a specific slot inventory model. In this case, you would see that the number of slots in the specified slot model are compatible with the specified equipment model. To learn more, see [Model relationships](../concept/inventory-modeling-process.md).
+For example, if you select **Equipment to Slot** in the **Relationship Type** field, you can define the relationship between a specific equipment inventory model and a specific slot inventory model. In this case, you would see that the number of slots in the specified slot model are compatible with the specified equipment model. To learn more, see [Model relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/inventory-modeling-process.md).
 
 When you create a network model relationship, it creates a model in the Network Model \[sn\_ni\_core\_network\_model\_relationship\] table.
 
@@ -31,27 +31,27 @@ When you create a network model relationship, it creates a model in the Network 
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Click the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Network Model Relationships**.
+2.  Click the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Network Model Relationships**.
 
 3.  Click **New**.
 
 4.  Fill in the general information to create a network model relationship.
 
-    **Note:** To learn more about the fields, see [Network Model Relationship fields](../reference/tni-network-model-relationship-form.md).
+    **Note:** To learn more about the fields, see [Network Model Relationship fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-network-model-relationship-form.md).
 
-5.  To add attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+5.  To add attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 6.  Click **Save**.
 
-7.  To delete a model, click the options icon \(![Options icon.](../image/options-icon.png)\) next to the **Save** button, and click **Delete**.
+7.  To delete a model, click the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) next to the **Save** button, and click **Delete**.
 
 
-**Parent Topic:**[Create inventory models](../concept/creating-your-inventory-models.md)
+**Parent Topic:**[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-your-inventory-models.md)
 
 **Related topics**  
 
 
-[Network inventory models](../concept/using-inventory-models-tni.md)
+[Network inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-inventory-models-tni.md)
 
-[Model relationships](../concept/inventory-modeling-process.md)
+[Model relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/inventory-modeling-process.md)
 

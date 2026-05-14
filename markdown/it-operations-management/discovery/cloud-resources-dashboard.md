@@ -15,7 +15,7 @@ breadcrumb: [Cloud discovery reporting, Discovery for cloud environment, Discove
 
 The Cloud Resources dashboard shows the aggregated view of all your cloud resources, their combined analytical views, and a visual summary and detail of all your cloud resources.
 
-![Animated gif of the four Cloud Resources dashboard tabs](../image/cloud-resources-dashboard.gif "Cloud Resources dashboard tabs")
+![Animated gif of the four Cloud Resources dashboard tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/cloud-resources-dashboard.gif "Cloud Resources dashboard tabs")
 
 ## Use cases
 
@@ -24,7 +24,7 @@ For examples of how someone in your organization could use this dashboard, see t
 |User|Dashboard use|
 |----|-------------|
 |Cloud user|Discovery customers have an enormous number of CIs obtained from Cloud Discovery which can be viewed in one place.|
-|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom dashboards. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](cloud-resources-dashboard.md#section_zcf_lvc_3nb) for more information.|
+|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom dashboards. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-resources-dashboard.md#section_zcf_lvc_3nb) for more information.|
 
 ## Data visualizations
 

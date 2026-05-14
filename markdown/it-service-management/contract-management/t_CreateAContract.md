@@ -470,43 +470,43 @@ Lists all service commitments for this vendor's offerings.
     -   Select **Update** to save and exit the contract.
     -   Select **Submit for Review** to send a notification to the approver.
 
--   **[Create a software maintenance contract example](t_UseCaseCreateSWMaintContract.md)**  
+-   **[Create a software maintenance contract example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_UseCaseCreateSWMaintContract.md)**  
 One common use case for the Contract Management application is creating a contract to track maintenance payments for enterprise software. You can use this example to learn how to create a software maintenance contract.
--   **[Add an asset to a contract](t_AddAnAssetToAContract.md)**  
+-   **[Add an asset to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAnAssetToAContract.md)**  
 You can associate contracts with specific assets, including software licenses.
--   **[Add a user to a contract](t_AddAUserToAContract.md)**  
+-   **[Add a user to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAUserToAContract.md)**  
 A contract can cover specific users. For example, you may use a contract to hire a group of temporary workers.
--   **[Add a configuration item to a contract](t_AddAConfigurationItemToAContract.md)**  
+-   **[Add a configuration item to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAConfigurationItemToAContract.md)**  
 Contracts can be associated with configuration items. You can link a contract with configuration items to clarify what the contract legally covers.
--   **[Add a document to a contract](t_AddADocumentToAContract.md)**  
+-   **[Add a document to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddADocumentToAContract.md)**  
 Contracts can be associated with documents. Linking a contract to related documents helps keep all relevant information about a contract together and easily accessible.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_Contracts.md)
 
 **Related topics**  
 
 
-[Adjust a contract](t_AdjustAContract.md)
+[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AdjustAContract.md)
 
-[Verify contract administrator assignment for notification](t_SendAContractNotification.md)
+[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendAContractNotification.md)
 
-[Send the contract for approval](t_SendTheContractForApproval.md)
+[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_TermsAndConditions.md)
 
-[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
-[Monitor a contract](t_MonitoringContracts.md)
+[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_MonitoringContracts.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../product-catalog/concept/c_Models.md)
 
-[Service Portfolio Management](../../service-portfolio-management2/reference/SPM2-landing-page.md)
+[Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../service-portfolio-management2/reference/SPM2-landing-page.md)
 
-[Add a commitment to a service offering](../../service-portfolio-management2/task/define-SPM2-service-commitments.md)
+[Add a commitment to a service offering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../service-portfolio-management2/task/define-SPM2-service-commitments.md)
 
-[Contract renewal workflow](../concept/cont-renew-wf.md)
+[Contract renewal workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/cont-renew-wf.md)
 
-[Contracts](../concept/c_Contracts.md)
+[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_Contracts.md)
 
 [extract-metadata-from-uploaded-contract-document]
 

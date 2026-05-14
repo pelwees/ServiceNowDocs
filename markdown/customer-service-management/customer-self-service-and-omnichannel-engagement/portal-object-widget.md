@@ -19,7 +19,7 @@ The Portal Object widget enables you to display information from a specified tab
 
 The Portal Object widget currently supports both desktop and mobile versions.
 
-![Portal Object widget displaying information and related actions for a record.](../image/port-object.png "Portal Object widget")
+![Portal Object widget displaying information and related actions for a record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/port-object.png "Portal Object widget")
 
-For more information about how to configure the Portal Object widget, see [Add and configure the Portal Object widget](../task/add-conf-port-object-widget.md).
+For more information about how to configure the Portal Object widget, see [Add and configure the Portal Object widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/add-conf-port-object-widget.md).
 

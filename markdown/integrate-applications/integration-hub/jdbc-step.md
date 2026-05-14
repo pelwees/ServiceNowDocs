@@ -178,7 +178,7 @@ SQL Statement
 
 </td><td>
 
-SQL statement that the step executes.**Note:** When you use data pills in step SQL statements, sanitize them first using a preprocessing [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md). For more information, see [Sanitizing inputs using the escape functions](jdbc-step.md#section_gqd_cy4_qhb).
+SQL statement that the step executes.**Note:** When you use data pills in step SQL statements, sanitize them first using a preprocessing [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md). For more information, see [Sanitizing inputs using the escape functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/jdbc-step.md#section_gqd_cy4_qhb).
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ Test JDBC Step
 
 </td><td>
 
-Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](../task/test-jdbc-step.md).
+Test the JDBC step. View test results directly in the Test JDBC Step window. For more information, see [Test JDBC step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/test-jdbc-step.md).
 
 </td></tr><tr><td colspan="2">
 

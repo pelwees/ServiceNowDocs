@@ -15,5 +15,5 @@ The Proactive Customer Service Operations plugin \(com.snc.proactive\_cs\_itom\)
 
 This integration enables you to create cases proactively from alerts either manually or through automation and track the accounts and the corresponding install base items affected by the alert. It also enables you to view the service health status of their install base items.
 
-For more information, see [Integration with Event Management](pcso-event-management.md).
+For more information, see [Integration with Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/pcso-event-management.md).
 

@@ -21,9 +21,9 @@ Role required: System Administrator \(admin\)
 
 See Uninstall applications on the [ServiceNow Product Documentation website](https://servicenow.com/docs).
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](paloalto_edit_sectag_name.md)
+**Previous topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md)
 
-**Next topic:**[PhishTank integration](../../secops-integration-phishtank/concept/phishtank-lookups.md)
+**Next topic:**[PhishTank integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-phishtank/concept/phishtank-lookups.md)
 

@@ -109,14 +109,14 @@ These probes are available but not currently used:
 -   SMI - Array - Ports
 -   SMI - Array - Volumes
 
--   **[Discovery of storage area networks \(SAN\)](storage-area-networks.md)**  
+-   **[Discovery of storage area networks \(SAN\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/storage-area-networks.md)**  
 Discovery collects information about storage area networks from specialized devices, such as storage arrays and Fibre Channel \(FC\) switches, and creates specific references between the tables in the SAN schema.
--   **[How CIM Discovery works](r_HowCIMDiscoveryWorks.md)**  
+-   **[How CIM Discovery works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_HowCIMDiscoveryWorks.md)**  
 This is the processing flow for classifying Common Information Model \(CIM\) storage systems.
--   **[Configure SMI-S Provider for storage Discovery](../task/t_ConfigDiscoForStandaloneStorage.md)**  
+-   **[Configure SMI-S Provider for storage Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/t_ConfigDiscoForStandaloneStorage.md)**  
 Use this procedure for configuring a standalone storage device with the required SMI-S Provider for Discovery.
--   **[Data collected by Discovery on storage devices](r_DataCollDiscoStorageDevices.md)**  
+-   **[Data collected by Discovery on storage devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageDevices.md)**  
 Discovery identifies and classifies information about storage devices.
 
-**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+**Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Storage.md)
 

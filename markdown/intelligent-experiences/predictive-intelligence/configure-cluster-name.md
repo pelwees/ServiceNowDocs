@@ -30,7 +30,7 @@ Name your clusters to help identify and organize them.
 
 4.  Enter a name in the **Cluster Name** field.
 
-    ![Cluster Name field on the Cluster Summary form.](../images/cluster_name.png)
+    ![Cluster Name field on the Cluster Summary form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/cluster_name.png)
 
 5.  Select **Update**.
 

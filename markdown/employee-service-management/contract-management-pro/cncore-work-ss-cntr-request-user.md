@@ -49,7 +49,7 @@ Modify the fields of the self-served review request.If you want to add a company
 
 </td><td>
 
-Create a contract document revision from the contract template that includes the latest values and discards the changes made in the previous version of the document. For more information, see [Regenerate contract document after modifying request](cncore-regen-contract-doc.md).
+Create a contract document revision from the contract template that includes the latest values and discards the changes made in the previous version of the document. For more information, see [Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-regen-contract-doc.md).
 
 </td></tr><tr><td id="d767106e108">
 
@@ -59,7 +59,7 @@ Create a contract document revision from the contract template that includes the
 
 </td><td>
 
-Create a new version of the contract document with updated metadata and signatories while retaining the changes made in the previous version. For more information, see [Create an updated contract document revision after modifying a self-served contract request \(starting Contract Management Pro 1.2.1\)](cncore-sync-document.md).
+Create a new version of the contract document with updated metadata and signatories while retaining the changes made in the previous version. For more information, see [Create an updated contract document revision after modifying a self-served contract request \(starting Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-document.md).
 
 </td></tr><tr><td id="d767106e129">
 
@@ -69,7 +69,7 @@ Create a new version of the contract document with updated metadata and signator
 
 </td><td>
 
-Update the contract document with the latest signatory details. For more information, see [Updating and synchronizing signatories](cncore-update-sync-signatories.md)
+Update the contract document with the latest signatory details. For more information, see [Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 
 </td></tr><tr><td id="d767106e150">
 
@@ -77,7 +77,7 @@ Update the contract document with the latest signatory details. For more informa
 
 </td><td>
 
-See [Send a contract document for signature](cncore-send-doc-signature.md).
+See [Send a contract document for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-doc-signature.md).
 
 </td></tr><tr><td id="d767106e166">
 
@@ -91,5 +91,5 @@ See [Send a contract document for signature](cncore-send-doc-signature.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-request-ss-contract-1.md)
 

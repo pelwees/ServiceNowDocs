@@ -35,5 +35,5 @@ The skipped records are prioritized based on the importance of the file types. T
 -   Priority 4: Form Sections, Choice Sets, and more
 -   Priority 5 \(lowest priority\): other
 
-![Image showing the VTB view of skipped records resolution status](../image/uc-vtb.png)
+![Image showing the VTB view of skipped records resolution status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-vtb.png)
 

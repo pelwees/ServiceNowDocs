@@ -49,7 +49,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  In the **Lists** tab, under **Personal auto claim cases**, open the case list.
 3.  In the list, select the case that contains the task.
 4.  If the claim case is in New status or not assigned to you, select **Accept** to be able to work on it.
@@ -66,7 +66,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  In the **Lists** tab, under **Personal auto claim cases**, select **Assigned to me**.
 3.  In the list, select the case that you want to open.
 4.  If the claim case is in New status, select **Accept** to be able to work on it.
@@ -79,7 +79,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  In the **Lists** tab, under **Personal auto claim tasks**, select **All**.
 3.  In the list, select the task that you want to open.
 

@@ -17,16 +17,16 @@ Conversations with managers, peers, and mentors are a critical part of your care
 
 You must have the Career Conversations app installed for Conversations to work.
 
-**Parent Topic:**[Exploring Talent Development Core](egd-explore.md)
+**Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 
 **Related topics**  
 
 
-[Career Conversations](egd-activities-landing-page.md)
+[Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-activities-landing-page.md)
 
-[Install Career Conversations](../task/egd-activities-install.md)
+[Install Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/egd-activities-install.md)
 
-[Create a growth conversation in Career Conversations](../task/egd-create-growth-conversation.md)
+[Create a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/egd-create-growth-conversation.md)
 
-[Update a growth conversation in Career Conversations](../task/egd-act-update-growth-conversation.md)
+[Update a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/egd-act-update-growth-conversation.md)
 

@@ -30,7 +30,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 
 3.  On the agentic workflow page, under the **Add AI agents that can perform these steps** section, select an AI agent.
 
-    ![Select an AI agent.](../image/agentic-wf-connect-ai-agents.png)
+    ![Select an AI agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/agentic-wf-connect-ai-agents.png)
 
 4.  On the AI agent page, perform the following steps:
 
@@ -42,7 +42,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 
     4.  Under the **Toggle display** section, set the status as active.
 
-        ![Status of the AI agent.](../image/ai-agent-status-active.png)
+        ![Status of the AI agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/ai-agent-status-active.png)
 
     5.  Select **Save and test**.
 

@@ -86,8 +86,8 @@ MID Server is optional. Select MID Server for an on-premises tool that is attach
 
 ## What to do next
 
--   [Configure SonarQube scans on Azure DevOps pipelines](config-sonarqube-azure-devops.md)
--   [Configure SonarQube scans on Jenkins pipelines](config-sonarqube-jenkins-devops.md)
+-   [Configure SonarQube scans on Azure DevOps pipelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-sonarqube-azure-devops.md)
+-   [Configure SonarQube scans on Jenkins pipelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-sonarqube-jenkins-devops.md)
 
-**Parent Topic:**[SonarQube integration with DevOps Change Velocity](../concept/sonarqube-devops-integration-devops.md)
+**Parent Topic:**[SonarQube integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/sonarqube-devops-integration-devops.md)
 

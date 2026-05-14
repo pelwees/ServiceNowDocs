@@ -59,7 +59,7 @@ Role required: asset
 
 ## What to do next
 
-[Associate a hardware model with a Calculated lifecycle template](associate-hardware-model-cal-temp.md).
+[Associate a hardware model with a Calculated lifecycle template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-hardware-model-cal-temp.md).
 
-**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](../concept/manage-ham-lifecycle-temp.md)
+**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-ham-lifecycle-temp.md)
 

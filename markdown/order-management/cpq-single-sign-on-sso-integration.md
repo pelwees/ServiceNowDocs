@@ -65,7 +65,7 @@ For information about how to validate your Authority URL, see "Find your app's O
 
 **Note:** It may be possible to directly associate your users with the application via the **Manager** &gt; **Users and groups** &gt; **Add user/group** option in your application.
 
-![Users and groups interface](../../servicenow-cpq/images/cpq-single-sign-on-integration.png)
+![Users and groups interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../servicenow-cpq/images/cpq-single-sign-on-integration.png)
 
 Optionally, add an app role for the users whom you wish to test with. For more information, see "Add a user account to your directory, and add that account to an appRole" on the following Microsoft Entra documentation website: [Add sign-in with Microsoft Entra account to a Spring web app](https://learn.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-entra?toc=%2Fentra%2Fidentity-platform%2Ftoc.json&bc=%2Fentra%2Fidentity-platform%2Fbreadcrumb%2Ftoc.json#create-microsoft-entra-instance)
 

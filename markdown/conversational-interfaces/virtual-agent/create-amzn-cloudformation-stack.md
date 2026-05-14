@@ -153,7 +153,7 @@ Prompt audio S3 file key
 
 </td><td>
 
-Provide the name of the Prompt file that you have uploaded in [Create an Amazon S3 bucket](create-amazon-s3-bucket.md).The Prompt file is an audio file containing the ringtone when customer connects to an agent.
+Provide the name of the Prompt file that you have uploaded in [Create an Amazon S3 bucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-amazon-s3-bucket.md).The Prompt file is an audio file containing the ringtone when customer connects to an agent.
 
 </td><td>
 
@@ -237,7 +237,7 @@ n/a
 
 ## What to do next
 
-[Claim a phone number](claim-phone-nmbr-ivr.md).
+[Claim a phone number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/claim-phone-nmbr-ivr.md).
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-aws-account.md)
 

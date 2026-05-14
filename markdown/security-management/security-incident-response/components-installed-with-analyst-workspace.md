@@ -31,22 +31,22 @@ Installing the Security Incident Response application version 13.4.5 or later au
 
 **Enterprise Security Case Management PAD Commons** requires the Playbook Experience \[playbook\_experience\] plugin.
 
-For information on the Security Incident Response roles, tables, properties, and scheduled jobs, see [Components installed with Security Incident Response](../../security-incident-response/reference/installed-with-sir.md).
+For information on the Security Incident Response roles, tables, properties, and scheduled jobs, see [Components installed with Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/reference/installed-with-sir.md).
 
-**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace features](key-features.md)
+[SIR Workspace features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/key-features.md)
 
-[SIR Workspace interface overview](overview.md)
+[SIR Workspace interface overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/upcoming-section.md)
 
-[Quick links section](../concept/quick-links.md)
+[Quick links section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/quick-links.md)
 
-[Shift Handover Records section](../concept/shift-handover-records-section.md)
+[Shift Handover Records section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/shift-handover-records-section.md)
 
-[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/setting-up-list-view-in-analyst-workspace.md)
 

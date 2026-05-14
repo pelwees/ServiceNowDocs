@@ -33,10 +33,10 @@ As a compliance\_case\_manager, you can associate one or more jurisdictions with
 
 4.  Choose one or more jurisdictions from the list \(for example, North America, EU, APAC\).
 
-    For more information on creating jurisdictions, see [Map the taxonomy](../../grc-rcm/task/manage-taxonomy.md).
+    For more information on creating jurisdictions, see [Map the taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/task/manage-taxonomy.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/regulatory-agency-library-rcm.md)
 

@@ -27,13 +27,13 @@ Role required: admin
 
 2.  Select the appropriate **Active layer** on the CAD editor can.
 
-3.  Select the Text tool icon \(![Text tool icon.](../images/wsd-text-icon.png)\) from the menu.
+3.  Select the Text tool icon \(![Text tool icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-text-icon.png)\) from the menu.
 
 4.  Select to add the text.
 
 5.  The text edit panel opens.
 
-    ![Text panel to add a text element.](../images/wsd-add-text-panel.png)
+    ![Text panel to add a text element.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-add-text-panel.png)
 
 6.  Add the text and close the panel.
 
@@ -46,5 +46,5 @@ Role required: admin
 8.  Select **Remove** to remove a text.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/editing-tools-cad-editor.md)
 

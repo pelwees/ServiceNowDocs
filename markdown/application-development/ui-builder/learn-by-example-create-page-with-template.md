@@ -23,11 +23,11 @@ Role required: ui\_builder\_admin
 
 1.  Open the main page for your demo experience.
 
-    ![Demo Experience.](../image/demo-experience.png "Demo Experience")
+    ![Demo Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/demo-experience.png "Demo Experience")
 
 2.  From the main page for your experience, select the plus \(**+**\) sign next to **Pages**.
 
-    ![Create new page or variant](../image/create-new-or-variant.png "Create a new page or variant")
+    ![Create new page or variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-new-or-variant.png "Create a new page or variant")
 
 3.  Select **Create a new page** to create a page that resides at a different URL.
 
@@ -35,7 +35,7 @@ Role required: ui\_builder\_admin
 
     **Note:** Optionally, you could select **Learn more** to read about the template before selecting it.
 
-    ![Page details for the standard record template.](../image/page-details-standard-record.png "Page details")
+    ![Page details for the standard record template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/page-details-standard-record.png "Page details")
 
 5.  In the **Name** field of the Page details screen, type `Task record page`, and select **Continue**.
 
@@ -51,7 +51,7 @@ Role required: ui\_builder\_admin
 
     3.  In the **Value** field, enter `task`.
 
-    ![Parameter field with dropdown options 'table' and 'sysId', along with Operator and Value fields.](../image/demo-experience-declare-conditions.png "Condition fields")
+    ![Parameter field with dropdown options 'table' and 'sysId', along with Operator and Value fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/demo-experience-declare-conditions.png "Condition fields")
 
     This page is visible to users accessing a record from the Task table.
 
@@ -63,28 +63,28 @@ Role required: ui\_builder\_admin
 
 10. You can select the area above the Page content pane to view information about test values included in the template.
 
-    ![Edit test values included in the template.](../image/edit-test-values.png "Edit test values included in the template")
+    ![Edit test values included in the template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/edit-test-values.png "Edit test values included in the template")
 
 
 ## What to do next
 
 Select the **Next topic** link to learn how to define audiences who can view your pages in UI Builder.
 
--   **[Create a button that opens a modal](learn-by-example-button-modal.md)**  
+-   **[Create a button that opens a modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-button-modal.md)**  
 After you've created your demo experience and added a blank page, you can edit the page variant as needed. For the sake of this demo, you can create a button and a modal, and configure the button to open the modal.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-uib-by-example.md)
 
 **Related topics**  
 
 
-[Create a demo experience to explore UI Builder](learn-by-example-create-experience.md)
+[Create a demo experience to explore UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-experience.md)
 
-[Create a blank page](learn-by-example-create-blank-page.md)
+[Create a blank page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-blank-page.md)
 
-[Define an audience for your variant](learn-by-example-define-audience.md)
+[Define an audience for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-audience.md)
 
-[Define conditions for your variant](learn-by-example-define-conditions.md)
+[Define conditions for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-conditions.md)
 
-[Customize forms within a form component](learn-by-example-edit-form-component.md)
+[Customize forms within a form component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md)
 

@@ -65,9 +65,9 @@ To configure the Provide customer 360 insights agentic workflow, perform the fol
 
 The agent executes the **testing** in AI Agent Studio for the agentic workflow.
 
-![AI Agent Studio showing the testing output for Provide customer 360 insight agentic workflow](../image/customer-360-ai-agent.png "Example of Provide customer 360 insight agentic workflow testing in AI Agent Studio")
+![AI Agent Studio showing the testing output for Provide customer 360 insight agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/customer-360-ai-agent.png "Example of Provide customer 360 insight agentic workflow testing in AI Agent Studio")
 
-In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../task/request-gen-ai-capabilities-csm-now-assist-panel.md).
 
 ## Access Control lists \(ACLs\)
 
@@ -90,7 +90,7 @@ The following tables list the agents that are used in the Provide customer 360 i
 
 ## Use Provide customer 360 insights Agentic Workflow
 
-The Provide customer 360 insights agentic workflow in Now Assist for Customer Service Management \(CSM\) gives agents contextual, GenAI-driven insights about customers directly within a case. By selecting the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png) in a case record, agents can access the Now Assist panel that delivers real-time insights based on customer data.
+The Provide customer 360 insights agentic workflow in Now Assist for Customer Service Management \(CSM\) gives agents contextual, GenAI-driven insights about customers directly within a case. By selecting the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png) in a case record, agents can access the Now Assist panel that delivers real-time insights based on customer data.
 
 Agents can ask natural language questions, such as "What products is this customer currently using?" The AI agent responds with accurate, contextually relevant answers and maintains conversational context across multiple questions.
 

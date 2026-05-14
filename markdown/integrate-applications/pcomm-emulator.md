@@ -27,21 +27,21 @@ Role required: none
 
 2.  Select **Configure**.
 
-    ![Configure option that you navigated to in Step 1.](../image/terminal-connector-right-click-object.png)
+    ![Configure option that you navigated to in Step 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/terminal-connector-right-click-object.png)
 
 3.  On the Terminal Connector window, make sure that Pcomm is selected.
 
     By default, Pcomm is selected.
 
-    ![Pcomm emulator list is selected by default.](../image/pcomm-emulator-selected.png)
+    ![Pcomm emulator list is selected by default.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/pcomm-emulator-selected.png)
 
-    **Tip:** To load a PCOMM emulator screen that doesn't appear in the list, select the refresh icon \(![Screen refresh icon.](../image/connector-refresh-icon.png)\).
+    **Tip:** To load a PCOMM emulator screen that doesn't appear in the list, select the refresh icon \(![Screen refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/connector-refresh-icon.png)\).
 
 4.  Capture a PCOMM emulator screen.
 
     1.  In the Pcomm list, select a PCOMM Mainframe emulator screen.
 
-        ![PCOMM Mainframe emulator screen selection.](../image/select-PCOMM-screen.png)
+        ![PCOMM Mainframe emulator screen selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/select-PCOMM-screen.png)
 
         **Note:** When the PCOMM emulator establishes a connection with the server, a session is created with the name of the session. For example, the name of the session in the example is A.
 
@@ -49,27 +49,27 @@ Role required: none
 
         The emulator screen is added and appears in the Screens and elements pane and under the TerminalSession object in the Project Explorer pane.
 
-        ![PCOMM emulator screen added in the Screens and elements pane and under the TerminalSession object in the Project Explorer pane.](../image/PCOMM-emulator-screen-added.png)
+        ![PCOMM emulator screen added in the Screens and elements pane and under the TerminalSession object in the Project Explorer pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/PCOMM-emulator-screen-added.png)
 
-        When you capture multiple screens and elements and want to automate tasks on one screen or element, the connector must first find the screen or element by using the match rules. To know about the match rules, see [Use the screen or element match rules](find-the-screen-or-element-to-perform-automation.md).
+        When you capture multiple screens and elements and want to automate tasks on one screen or element, the connector must first find the screen or element by using the match rules. To know about the match rules, see [Use the screen or element match rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/find-the-screen-or-element-to-perform-automation.md).
 
 5.  Capture an element from the Pcomm emulator screen.
 
     1.  Right-click the screen that you have captured and select **Add Element**.
 
-        ![Add Element option for PCOMM screen.](../image/PCOMM-capture-element.png)
+        ![Add Element option for PCOMM screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/PCOMM-capture-element.png)
 
     2.  In the TERMINAL PREVIEW screen, move your mouse device to the element that you want to capture.
 
         The element displays its information.
 
-        ![PCOMM emulator screen text information.](../image/PCOMM-emulator-text-info.png)
+        ![PCOMM emulator screen text information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/PCOMM-emulator-text-info.png)
 
     3.  Add the element as a field by right-clicking the element and selecting **Add as Field**.
 
         The data in a Mainframe screen is displayed within fields. The emulator screen that you configure in the RPA Desktop Design Studio indicates a field with a rectangle. The following image shows a field within a rectangle.
 
-        ![Mainframe screen field.](../image/terminal-conn-mainframe-field.png)
+        ![Mainframe screen field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/terminal-conn-mainframe-field.png)
 
         When you select **Add as Field**, the connector treats the element as a field that displays the data or enables data entry. With this option, you can get the text or data from a field and then enter the data in a form.
 
@@ -77,7 +77,7 @@ Role required: none
 
         To add fields after selecting them in a tabular format, select the contiguous fields that make up a table. The following example shows how you must select the fields to capture a table.
 
-        ![Field selection. For the text description, refer to the text that follows this example.](../image/terminal-conn-fields-as-table.png)
+        ![Field selection. For the text description, refer to the text that follows this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/terminal-conn-fields-as-table.png)
 
         Select the fields.
 
@@ -88,9 +88,9 @@ Role required: none
 
     5.  In the context dialog box, enter the name of the field or table in the **NAME** field.
 
-        ![Context dialog box that shows the POSITION, LENGTH, and NAME fields.](../image/terminal-connector-context-dialog.png)
+        ![Context dialog box that shows the POSITION, LENGTH, and NAME fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/terminal-connector-context-dialog.png)
 
-    6.  Select the Add Field icon ![Add field icon.](../image/add-element-icon-RPA.png).
+    6.  Select the Add Field icon ![Add field icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-element-icon-RPA.png).
 
         To capture more elements, you can repeat steps 5a through 5f.
 
@@ -98,11 +98,11 @@ Role required: none
 
         The element is added and appears in the Screens and elements pane in the Terminal Connector screen under the TerminalScreen\_0 object.
 
-        ![Text field added in the Screens and elements pane under the TerminalSession_0 object.](../image/PCOMM-text-field-added.png)
+        ![Text field added in the Screens and elements pane under the TerminalSession_0 object.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/PCOMM-text-field-added.png)
 
 6.  Use the screen match rules to enable the terminal connector to locate a screen or element.
 
-    When you capture multiple screens, fields, or tables and want to automate tasks on one screen or element, the connector must first find the screen or element. To enable the connector to find the screen or element, use the screen match rules at [Use the screen or element match rules](find-the-screen-or-element-to-perform-automation.md).
+    When you capture multiple screens, fields, or tables and want to automate tasks on one screen or element, the connector must first find the screen or element. To enable the connector to find the screen or element, use the screen match rules at [Use the screen or element match rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/find-the-screen-or-element-to-perform-automation.md).
 
 7.  View the screen and element methods.
 
@@ -115,10 +115,10 @@ Role required: none
         The methods appear in the Object Explorer pane.
 
 
-**Parent Topic:**[Configure the Terminal connector](../concept/configure-terminal-connector.md)
+**Parent Topic:**[Configure the Terminal connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/configure-terminal-connector.md)
 
 **Related topics**  
 
 
-[IBM Personal Communications emulator methods](../reference/pcomm-terminal-methods.md)
+[IBM Personal Communications emulator methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/pcomm-terminal-methods.md)
 

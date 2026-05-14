@@ -35,5 +35,5 @@ Resource assignments aren’t associated with the demand by default. Don’t use
 
 ## Actual cost and effort
 
-The actual effort for work performed on the demand task is derived from the time card. The actual cost is derived from the hourly resource rate defined in the rate model, default labor rate, or default system property. The actual cost and effort for a demand task roll up to derive the actual cost and effort for the associated demand. For more information, see [Actual cost and effort calculation for a demand and demand task](actual-cost-and-effort-calculation-ppw.md).
+The actual effort for work performed on the demand task is derived from the time card. The actual cost is derived from the hourly resource rate defined in the rate model, default labor rate, or default system property. The actual cost and effort for a demand task roll up to derive the actual cost and effort for the associated demand. For more information, see [Actual cost and effort calculation for a demand and demand task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/actual-cost-and-effort-calculation-ppw.md).
 

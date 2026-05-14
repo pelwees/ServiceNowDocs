@@ -163,5 +163,5 @@ The following table describes how you can run the following playbooks.
 |Export\_URL\_Entity|On a Sentinel incident, select **URL entity** &gt; **Run Playbook** for execution.|
 |Incident\_Enrichment|On a Sentinel incident, select **Incident Actions** &gt; **Run Playbook** for execution.|
 
-**Parent Topic:**[Microsoft Sentinel integration](tisc-sentinel-integration.md)
+**Parent Topic:**[Microsoft Sentinel integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sentinel-integration.md)
 

@@ -60,7 +60,7 @@ Action
 
 Type of action performed by the participant: Sign**Note:** In addition, the participant can choose to decline signing the document. The option to decline signing appears only when the **Signing Type** is **ServiceNow**.
 
-For more information, see [Sign an HTML document](sign-html-document.md).
+For more information, see [Sign an HTML document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sign-html-document.md).
 
 </td></tr><tr><td>
 

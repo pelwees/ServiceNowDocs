@@ -102,8 +102,8 @@ Executives
 Executives who access the Health and Safety executive landing page to view safety metrics and gain insight into how the safety team and company are performing in terms of safety.
 
 </td></tr></tbody>
-</table>-   **[Health and Safety Incident Management workflow example](hs-incident-mgmt-workflow.md)**  
+</table>-   **[Health and Safety Incident Management workflow example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-workflow.md)**  
 The safety incident workflow available with Health and Safety Incident Management connects employees and safety department and agents to quickly initiate, investigate, and resolve safety incidents and observations in your organization.
 
-**Parent Topic:**[Health and Safety Incident Management](hs-incident-mgmt-landing-page.md)
+**Parent Topic:**[Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-landing-page.md)
 

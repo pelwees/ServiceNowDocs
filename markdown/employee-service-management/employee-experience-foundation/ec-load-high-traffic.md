@@ -21,10 +21,10 @@ Employees see slow or unresponsive pages with clear message on the home page and
 -   Reduce visual complexity and resource usage for faster performance. T
 -   Help you navigate to your tasks, requests, favorites, and search effectively.
 
-![High-traffic visual for EC homepage and widgets](../images/high-traffic-experience.png "High-load or high-traffic experience")
+![High-traffic visual for EC homepage and widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/high-traffic-experience.png "High-load or high-traffic experience")
 
 **Related topics**  
 
 
-[Modify homepage banner instance for high-traffic](../task/config-defer-load-widget-instance-options.md)
+[Modify homepage banner instance for high-traffic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-defer-load-widget-instance-options.md)
 

@@ -17,13 +17,13 @@ CPQ Admins can control access to the Admin interface by granting admin access on
 
 **Note:** If you try to access CPQ Admin without admin access enabled, you receive the message "An unknown error occurred." If you encounter this message, ask a user who has admin access to enable your access.
 
-![Error message](../images/cpq-error-unknown.png)
+![Error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-error-unknown.png)
 
 ## Managing user access
 
 Configure user access by visiting Utilities &gt; User Access.
 
-![User access screen](../images/cpq-user-access-pane.png)
+![User access screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-pane.png)
 
 1.  Username: Email address of the user. Click to edit \(see below\)
 2.  Access: The level of access a user has \(END\_USER or ADMIN\)
@@ -34,7 +34,7 @@ Configure user access by visiting Utilities &gt; User Access.
 
 To edit a user, click a username in the table.
 
-![Edit user screen](../images/cpq-user-access-edit-user.png)
+![Edit user screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-edit-user.png)
 
 1.  Username: email address of the user being edited
 2.  Enable Admin Access: Toggle for controlling access to the Admin features of CPQ. The toggle to the right indicates that the user has Admin privileges
@@ -50,7 +50,7 @@ To edit a user, click a username in the table.
 **Related topics**  
 
 
-[Using CPQ user access management](cpq-using-uam.md)
+[Using CPQ user access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-uam.md)
 
-[User Access Control reference](../reference/cpq-user-access-control-ref.md)
+[User Access Control reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/cpq-user-access-control-ref.md)
 

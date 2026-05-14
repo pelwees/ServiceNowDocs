@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-The **Allow time card reporting on** field on the [project form](../../project-management/task/t_CreateAProject.md) determines the level at which time cards for the project tasks can be created. For example, at the project level, if a user is assigned to multiple tasks in a project, then the time spent on all the tasks is recorded under one time card only; and at the project task level, separate time cards are created corresponding to each planned task.
+The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../../project-management/task/t_CreateAProject.md) determines the level at which time cards for the project tasks can be created. For example, at the project level, if a user is assigned to multiple tasks in a project, then the time spent on all the tasks is recorded under one time card only; and at the project task level, separate time cards are created corresponding to each planned task.
 
 ## Procedure
 
@@ -94,8 +94,8 @@ Add from category
 6.  Tap **Save**.
 
 
--   **[Update time card hours for a task](update-hours-timecard.md)**  
+-   **[Update time card hours for a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/update-hours-timecard.md)**  
 Update hours in a time card for a particular day.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/timesheet-mobile.md)
 

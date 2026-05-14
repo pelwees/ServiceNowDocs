@@ -15,7 +15,7 @@ Create a tool from a Now Assist skill to expose it to Model Context Protocol \(M
 
 ## Before you begin
 
-If you aren't using the Quickstart Server, create a server to which you can add tools. For more information, see [Create a Model Context Protocol server](create-mcp-server.md).
+If you aren't using the Quickstart Server, create a server to which you can add tools. For more information, see [Create a Model Context Protocol server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/create-mcp-server.md).
 
 Role required: sn\_mcp\_server.tools\_admin, sn\_mcp\_server.admin, or admin
 
@@ -23,7 +23,7 @@ Role required: sn\_mcp\_server.tools\_admin, sn\_mcp\_server.admin, or admin
 
 Each server must include at least one tool.
 
--   Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. Tools are based on capabilities, such as Knowledge Graph, Subflows and Action, REST APIsand Now Assist skills, including custom skills created with Now Assist Skill Kit. For a list of Now Assist skills that can be used as tools, see [Now Assist skill support in MCP Server Console](../reference/now-assist-skill-support-mcp.md).
+-   Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. Tools are based on capabilities, such as Knowledge Graph, Subflows and Action, REST APIsand Now Assist skills, including custom skills created with Now Assist Skill Kit. For a list of Now Assist skills that can be used as tools, see [Now Assist skill support in MCP Server Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/now-assist-skill-support-mcp.md).
 -   Tools include inputs that correspond to the fields of the existing capability. Inputs that are enabled for a tool are exposed to clients.
 
 **Note:** The minimum version required is: Zurich patch 9 and Australia patch 2.
@@ -40,7 +40,7 @@ Each server must include at least one tool.
 
 4.  Select a tool type you wish to create from these categories: REST API, Action, Knowledge graph, Subflow and Now Assist skill.
 
-    ![Tool creation](../image/mcp-create-tool-moveworks.png)
+    ![Tool creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-create-tool-moveworks.png)
 
     The steps are similar for any category you use for tool creation.
 
@@ -111,12 +111,12 @@ One or more servers you want to add your tool to.
 
 ## What to do next
 
-Configure clients to connect to the server and use the tool. For more information, see [Connecting to an MCP server from an MCP client](../concept/connect-mcp-server-client.md#).
+Configure clients to connect to the server and use the tool. For more information, see [Connecting to an MCP server from an MCP client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/connect-mcp-server-client.md#).
 
 **Related topics**  
 
 
-[Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md)
+[Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-skills/concept/now-assist-skills.md)
 
-[Now Assist Skill Kit](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
+[Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
 

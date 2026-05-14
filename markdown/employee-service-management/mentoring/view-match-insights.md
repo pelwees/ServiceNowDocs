@@ -17,9 +17,9 @@ View the Match Insights score that is calculated based on the match score of the
 
 ## Before you begin
 
-Enroll as a mentee. See [Enroll as a mentor or mentee](enroll-mentoring.md).
+Enroll as a mentee. See [Enroll as a mentor or mentee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
-Add mentee preferences. See [Add mentee preferences](add-preferences-mentee.md).
+Add mentee preferences. See [Add mentee preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/add-preferences-mentee.md).
 
 Role required: none
 

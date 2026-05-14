@@ -21,7 +21,7 @@ Role required: Data Steward \(df\_data \_ steward\)
 
 Catalog domains help you organize data assets into logical groupings based on business areas, departments, or data types. Domains provide a hierarchical classification system that makes it easier for users to discover and navigate related data assets.
 
-You can create root domains at the top level and subdomains \(child domains\) under existing domains to build multi-level organizational structures that reflect your business taxonomy. ![View list of domains](../image/dc-domain-manager.png)
+You can create root domains at the top level and subdomains \(child domains\) under existing domains to build multi-level organizational structures that reflect your business taxonomy. ![View list of domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-domain-manager.png)
 
 ## Procedure
 
@@ -59,7 +59,7 @@ You can create root domains at the top level and subdomains \(child domains\) un
 
 ## What to do next
 
-After creating domain, apply them to data assets in the Domains field of the Classification section when editing a data asset. For details, see [Update a data asset](update-data-asset.md).
+After creating domain, apply them to data assets in the Domains field of the Classification section when editing a data asset. For details, see [Update a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/update-data-asset.md).
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-catalog.md)
 

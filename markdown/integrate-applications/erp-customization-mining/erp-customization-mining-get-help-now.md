@@ -26,5 +26,5 @@ Some ServiceNow resources that can provide you with helpful information are:
     [ERP Semantic Mining Community](https://www.servicenow.com/community/app-engine-for-erp/ct-p/app-engine-erp)
 
 
-**Parent Topic:**[Exploring ERP Semantic Mining](exploring-ecm.md)
+**Parent Topic:**[Exploring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/exploring-ecm.md)
 

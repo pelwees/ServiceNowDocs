@@ -31,17 +31,17 @@ Get the Bing News Search API subscription key.
 
 4.  In the HTTP Request related list, under HTTP Headers, double-click the **Value** column and enter the Bing News Search API subscription key.
 
-5.  Select the green check mark icon \(![Green check mark icon.](../image/green-check-mark.png)\) to save your changes.
+5.  Select the green check mark icon \(![Green check mark icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/green-check-mark.png)\) to save your changes.
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[News Integration for Supplier Lifecycle Operations](../concept/supp-news-integration.md)
+**Parent Topic:**[News Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-news-integration.md)
 
 **Related topics**  
 
 
-[News Integration for Supplier Lifecycle Operations](../concept/supp-news-integration.md)
+[News Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-news-integration.md)
 
-[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+[Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/config-supplier-news-api.md)
 

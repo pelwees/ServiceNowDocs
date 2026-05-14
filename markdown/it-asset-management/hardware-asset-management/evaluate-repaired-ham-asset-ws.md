@@ -41,7 +41,7 @@ Role required: asset
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-repair-time-ham-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Evaluate asset task.
 
@@ -69,20 +69,20 @@ Role required: asset
     1.  The repair order and the repair order line are in the Completed stage.
     2.  The state of the asset changes to In stock and the substate changes to Available.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 
 
-[View open repair orders for your stockroom in the Hardware Asset Workspace](view-open-repair-orders-stockroom-ham.md)
+[View open repair orders for your stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-repair-orders-stockroom-ham.md)
 
-[Troubleshoot assets requested for repair in the Hardware Asset Workspace](troubleshoot-ham-assets-for-repair.md)
+[Troubleshoot assets requested for repair in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/troubleshoot-ham-assets-for-repair.md)
 
-[Complete the repair asset task in the Hardware Asset Workspace](repair-ham-assets-ws.md)
+[Complete the repair asset task in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-ham-assets-ws.md)
 
-[Bulk close asset repair tasks in the Hardware Asset Workspace](bulk-close-repair-tasks-ham-ws.md)
+[Bulk close asset repair tasks in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/bulk-close-repair-tasks-ham-ws.md)
 
-[Cancel a repair order in the Hardware Asset Workspace](cancel-repair-orders-ham-ws.md)
+[Cancel a repair order in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-repair-orders-ham-ws.md)
 
-[Cancel a repair order line in the Hardware Asset Workspace](cancel-repair-order-line-ham-ws.md)
+[Cancel a repair order line in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-repair-order-line-ham-ws.md)
 

@@ -46,5 +46,5 @@ Some sample use cases for app development with Build Agent include the following
 -   Creating custom AI agents tailored to your organization's specific workflows, such as service desk, HR, or IT operations
 -   Generating skills that extend Now Assist with domain-specific capabilities
 
-**Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
+**Parent Topic:**[Exploring Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-build-agent.md)
 

@@ -44,7 +44,7 @@ The following procedure describes the steps for accessing Access Analyzer and us
 
 4.  Click **Analyze permissions**.
 
-    ![Permission evaluation of Abel Tuter](../images/use-access-analyzer.png)
+    ![Permission evaluation of Abel Tuter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/use-access-analyzer.png)
 
     Access Analyzer displays **Access results** for the user. Similarly, you can analyze the permissions of a Group or Role for the following rule types:
 
@@ -53,7 +53,7 @@ The following procedure describes the steps for accessing Access Analyzer and us
     -   REST endpoints
     Access Analyzer displays **Access results** for the selected rule type.
 
-    ![Permission results](../images/permissions-for-a-user.png)
+    ![Permission results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/permissions-for-a-user.png)
 
 5.  Click **Export**.
 
@@ -61,12 +61,12 @@ The following procedure describes the steps for accessing Access Analyzer and us
 
         Available file types are **Excel**, **CSV**, **JSON**, **PDF**.
 
-        ![Export File Type](../images/export-access-analyzer-queries.png)
+        ![Export File Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/export-access-analyzer-queries.png)
 
     2.  Choose the **Delivery Type**.
 
         Available delivery types are **Download** and **Email**.
 
-        ![Delivery Types](../images/analyzer-queries.png)
+        ![Delivery Types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/analyzer-queries.png)
 
 

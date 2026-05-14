@@ -21,21 +21,21 @@ Role required: sn\_si.admin
 
 ## About this task
 
-As a user with the sn\_si.admin role, you may prefer to edit the colors and names of the security tags that are displayed on SIR security incidents. You may also assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so the start tag of a capability is one color, and the completion tag is another color. These different colors can help you quickly identify when scans start and are successfully completed. For more information on how to set up security tag groups and tags, see [Set up security tag groups and tags](../../security-operations-common/task/create-class-group-and-tags.md).
+As a user with the sn\_si.admin role, you may prefer to edit the colors and names of the security tags that are displayed on SIR security incidents. You may also assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so the start tag of a capability is one color, and the completion tag is another color. These different colors can help you quickly identify when scans start and are successfully completed. For more information on how to set up security tag groups and tags, see [Set up security tag groups and tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/task/create-class-group-and-tags.md).
 
 ## Procedure
 
 1.  To edit the names and colors of the security tags, navigate to **McAfee EPO Capabilities**, and, in the Name column, click an item in the list.
 
-    ![McAfee ePO Capabilities list with Initiate Malware Scan capability profile highlighted.](../image/mcafee-edit-tag-1.png)
+    ![McAfee ePO Capabilities list with Initiate Malware Scan capability profile highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-edit-tag-1.png)
 
     The record for the capability is displayed.
 
-    ![Initiate Malware Scan capability record.](../image/mcafee-edit-tag-im-2.png)
+    ![Initiate Malware Scan capability record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-edit-tag-im-2.png)
 
 2.  To edit a tag, to the right of a tag name, click the information icon, and open the tag record.
 
-    ![Information icon highlighted.](../image/mcafee-edit-tag-im-5.png)
+    ![Information icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-edit-tag-im-5.png)
 
     In the record that is displayed, edit the fields.
 
@@ -112,9 +112,9 @@ A description for the tag.
     |**Delete**|Delete this tag record from the McAfee ePO capability.|
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Test security incidents and approve requests for the isolate host](mcafee-epo-test-incident-ih.md)
+**Previous topic:**[Test security incidents and approve requests for the isolate host](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-test-incident-ih.md)
 
-**Next topic:**[McAfee ESM - Email Parser integration](../../secops-integration-sir/secops-integration-intel-mcafee-esm-emailparser/concept/mcafee-esm-emailparser-integration.md)
+**Next topic:**[McAfee ESM - Email Parser integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-sir/secops-integration-intel-mcafee-esm-emailparser/concept/mcafee-esm-emailparser-integration.md)
 

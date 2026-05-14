@@ -43,5 +43,5 @@ Reverse twinning extended product data also enables admins to populate quote lin
 **Related topics**  
 
 
-[Adding custom attributes to the product list](productlist_extended_adding_custom_attributes_in_the_productlist.md)
+[Adding custom attributes to the product list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/productlist_extended_adding_custom_attributes_in_the_productlist.md)
 

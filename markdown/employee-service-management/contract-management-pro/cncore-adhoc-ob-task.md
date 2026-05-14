@@ -42,7 +42,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Obligations**.
 4.  Select **All obligations**.
 5.  Select an active obligation record.
@@ -78,5 +78,5 @@ Steps
 
 The obligation task is created and the assigned user is notified through email.
 
-**Parent Topic:**[Create obligation records](cncore-create-obligations.md)
+**Parent Topic:**[Create obligation records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-obligations.md)
 

@@ -35,7 +35,7 @@ All tables in Digital Product Release can be domain-separated and include the re
 -   Each table in Digital Product Release includes the domain separation field called **Domain**.
 -   Customers can use this field to configure domain separation in their implementation of Digital Product Release.
 
-**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
+**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
 **Related topics**  
 

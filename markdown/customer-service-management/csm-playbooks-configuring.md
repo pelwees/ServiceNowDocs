@@ -29,8 +29,8 @@ Create or customize a playbook record page
 
 </td><td>
 
-A record page provides the base structure for how a record is displayed in CSM Configurable Workspace. The following playbook record pages are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]:-   [Case playbook: horizontal stages page](csm-playbook-horizontal-stages.md)
--   [Case playbook: vertical stages page](csm-playbook-vertical-stages.md)
+A record page provides the base structure for how a record is displayed in CSM Configurable Workspace. The following playbook record pages are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]:-   [Case playbook: horizontal stages page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-horizontal-stages.md)
+-   [Case playbook: vertical stages page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-vertical-stages.md)
 
 For more information, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-pages.md).
 
@@ -47,12 +47,12 @@ Each UI Builder record page includes the following settings:-   **Active**: Enab
 
 For more information, see the following topics:
 
--   [Case playbook: horizontal stages page variant settings](csm-playbook-horizontal-stages.md#table_f5m_bhx_qbc)
--   [Case playbook: vertical stages page variant settings](csm-playbook-vertical-stages.md#table_f5m_bhx_qbc)
+-   [Case playbook: horizontal stages page variant settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-horizontal-stages.md#table_f5m_bhx_qbc)
+-   [Case playbook: vertical stages page variant settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-vertical-stages.md#table_f5m_bhx_qbc)
 
 </td></tr><tr><td>
 
-[Select a playbook activity view](../task/playbook-select-activity-view.md)
+[Select a playbook activity view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/playbook-select-activity-view.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Users with the system administrator role can select a playbook activity view in 
 
 </td></tr><tr><td>
 
-[Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md)
+[Configure playbook stage and activity visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/playbook-config-activity-visibility.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Different playbooks for the same record type can use different playbook experien
 
 </td></tr><tr><td>
 
-[Set up a record generator for a case type](../task/setup-record-generator-for-case-type.md)
+[Set up a record generator for a case type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/setup-record-generator-for-case-type.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Create a record for a case type by using a playbook record generator. With a rec
 
 </td></tr><tr><td>
 
-[Configure an optional activity for a playbook](../task/configure-optional-activity-for-a-case-type-playbook.md)
+[Configure an optional activity for a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-optional-activity-for-a-case-type-playbook.md)
 
 </td><td>
 
@@ -134,5 +134,5 @@ Within UI Builder, system administrators can configure playbook component settin
 -   Selecting an activity view
 -   Enabling compact mode
 
-For more information, see [Configuring playbooks for Customer Service Management](csm-playbooks-configuring.md).
+For more information, see [Configuring playbooks for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-configuring.md).
 

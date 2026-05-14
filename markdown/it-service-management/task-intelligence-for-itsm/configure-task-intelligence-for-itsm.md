@@ -19,8 +19,8 @@ Configure Task Intelligence for ITSM so agents can use the application to get th
 
 Configuring Task Intelligence for ITSM involves installing the application from ServiceNow® Store.
 
--   **[Install Task Intelligence for ITSM](../task/install-ti-itsm.md)**  
+-   **[Install Task Intelligence for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../task/install-ti-itsm.md)**  
 You can install the Task Intelligence for ITSM application \(com.snc.itsm\_ml\_task\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they aren't already installed.
 
-**Parent Topic:**[Task Intelligence for ITSM](c-itsm-task-intelligence.md)
+**Parent Topic:**[Task Intelligence for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/c-itsm-task-intelligence.md)
 

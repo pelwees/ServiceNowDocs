@@ -92,7 +92,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 </table>    3.  Right-click the header of the Discovery Schedule form and select **Save**.
     4.  Click the **Serverless Execution Patterns** tab, click **New**, and then fill in the form.
 
-        ![Serverless execution pattern](../image/serverless-execution-pattern.png)
+        ![Serverless execution pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/serverless-execution-pattern.png)
 
         |Field|Description|
         |-----|-----------|
@@ -158,7 +158,7 @@ The discovered SolidFire configuration data includes the following tables and fi
 
 The Dependency Views map shows all discovered SolidFire storage system clusters and nodes in your organization and the relationships between them.
 
-![SolidFire storage system dependency view](../image/storage-system-dependency.jpg)
+![SolidFire storage system dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/storage-system-dependency.jpg)
 
 ## CI relationships
 
@@ -171,5 +171,5 @@ The Dependency Views map shows all discovered SolidFire storage system clusters 
 |Storage server \(main CI\)|Runs On::Runs|Storage cluster|
 |Storage server \(main CI\)|Contains::Contained By|Disk|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

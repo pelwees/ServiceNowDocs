@@ -14,19 +14,19 @@ Use IT Service Management \(ITSM\) to manage and resolve IT service requests, in
 
 The ITSM solution can help increase your agents' productivity, resolve issues quickly, and improve user satisfaction. Also, powered by platform native AI, you can quickly accelerate technology changes and view recommended actions for incoming tickets or requests and drive self-service and automation through enterprise chatbot technology. The ServiceNow AI Platform® also provides users access to ITSM via mobile or web-portal interfaces.
 
-![ITSM is the foundation of digital transformation](../image/itsm-digi-trans.png "ITSM is the foundation of digital transformation")
+![ITSM is the foundation of digital transformation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/itsm-digi-trans.png "ITSM is the foundation of digital transformation")
 
 ## Transform the impact, speed, and delivery of IT services
 
 The ServiceNow AI Platform was built for the cloud and has its own shared data model, AI, and workflow automation that are leveraged by many IT applications. The combination of the ServiceNow platform and applications helps you increase productivity by automatically identifying and resolving issues, which reduces the negative business impacts of unplanned, non-strategic work.
 
-![Comparing a typical IT department with scattered tools to the ServiceNow AI Platform linking IT functions](../image/transform-experience.png "Comparing a typical IT department with scattered tools to the ServiceNow AI Platform linking IT functions")
+![Comparing a typical IT department with scattered tools to the ServiceNow AI Platform linking IT functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/transform-experience.png "Comparing a typical IT department with scattered tools to the ServiceNow AI Platform linking IT functions")
 
 [View and download the full infocard](https://downloads.docs.servicenow.com/resource/enus/infocard/itsm-statcard-paris.pdf) for a highlight of ITSM features.
 
 <table id="table_uw5_lxw_sjb"><tbody><tr><td>
 
-![Automate IT service](../image/landing-elevate-experience.png)
+![Automate IT service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/landing-elevate-experience.png)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Enhance the service experienceAutomate support for common requests with virtual 
 
 </td></tr><tr><td>
 
-![Consolidate IT service](../image/landing-consolidate-services.png)
+![Consolidate IT service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/landing-consolidate-services.png)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Consolidate IT servicesRapidly consolidate existing tools to a single system of 
 
 </td></tr><tr><td>
 
-![Improve IT productivity with ML solutions](../image/landing-productivity.png)
+![Improve IT productivity with ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/landing-productivity.png)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Improve IT productivityUse machine learning algorithms and virtual agents to aut
 
 </td></tr><tr><td>
 
-![Dashboards and analytics solutions](../image/landing-new-heights.png)
+![Dashboards and analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/landing-new-heights.png)
 
 </td><td>
 
@@ -58,7 +58,7 @@ Gain visibility into processes and servicesGet full visibility into any process 
 
 </td></tr><tr><td>
 
-![Mobile connectivity](../image/landing-mobile.png)
+![Mobile connectivity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/landing-mobile.png)
 
 </td><td>
 
@@ -67,13 +67,13 @@ Provide mobile connectivityEnable employees to find answers and get work done fr
 </td></tr></tbody>
 </table>## Enhance the service experience
 
-![Employee Center home page](../../service-catalog-management/image/employee-center-home-page.png)
+![Employee Center home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../service-catalog-management/image/employee-center-home-page.png)
 
 Automate routine agent interactions and increase the speed of resolution from the Employee Center portal. With supervised machine learning, you can automate incident categorization and assignment and eliminate bottlenecks created by manual incident triaging. Meet increasing demands without further adding staff and empower existing IT staff to focus on more meaningful work. For more information on the Employee Center portal and the features, see [Employee Center for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/itsm-n-ec-integration.md).
 
 ## Consolidate IT services
 
-![Consolidated IT services diagram](../image/consolidate-it.png "Consolidated IT services diagram")
+![Consolidated IT services diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/consolidate-it.png "Consolidated IT services diagram")
 
 Reduce the number of separate tools your company uses to provide a consistent service experience regardless of the issue or the request. Consolidating IT services enables you to better manage and allocate resources and track performance. You can have a single reliable source of information where performance is monitored in real time and data is easy to capture and report.
 
@@ -83,7 +83,7 @@ Accelerate resolution with built-in machine learning. Chatbots provide immediate
 
 ## Gain visibility into processes and services
 
-![Gain visibility into processes and services](../image/achieve-heights.png "Gain visibility into processes and services")
+![Gain visibility into processes and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/achieve-heights.png "Gain visibility into processes and services")
 
 Make smarter decisions with real-time analytics across the entire IT value chain. Get new insights into service performance using data trends and forecasts. With Performance Analytics, you can anticipate trends based on current conditions and past performance and identify areas where automation can increase efficiency.
 
@@ -123,45 +123,45 @@ To configure edge encryption, see [Edge Encryption configuration](https://raw.gi
 
 ## Applications and features
 
--   [Machine learning solutions for IT Service Management](../concept/machine-learning-itsm.md)
--   [Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm.md)
--   [Asset Management](../../asset-management/concept/c_AssetManagement.md)
--   [Benchmarks](../../benchmarks/reference/r_Benchmarks.md)
--   [Change Management](../../change-management/concept/c_ITILChangeManagement.md)
+-   [Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../concept/machine-learning-itsm.md)
+-   [Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../now-assist-itsm/concept/now-assist-itsm.md)
+-   [Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../asset-management/concept/c_AssetManagement.md)
+-   [Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../benchmarks/reference/r_Benchmarks.md)
+-   [Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../change-management/concept/c_ITILChangeManagement.md)
 -   Coaching
--   [Collaboration services](../../itsm-tcm/concept/collab-services-tcm.md)
--   [Continual Improvement Management](../../continual-improvement-management/concept/cim-landing-page.md)
--   [Contract Management](../../contract-management/concept/c_ContractManagement.md)
--   [DevOps Change Velocity](../../enterprise-dev-ops/concept/devops-landing-page-new.md)
--   [DevOps Config](../../devops-config/concept/devops-config-landing-page.md)
--   [Digital Product Release](../../digital-product-release/reference/dpr-landing-page.md)
--   [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md)
--   [Digital Portfolio Management](../../digital-portfolio-management/reference/dpm-landing.md)
--   [Expense Line](../../asset-and-configuration/concept/c_ExpenseLine.md)
+-   [Collaboration services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../itsm-tcm/concept/collab-services-tcm.md)
+-   [Continual Improvement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../continual-improvement-management/concept/cim-landing-page.md)
+-   [Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../contract-management/concept/c_ContractManagement.md)
+-   [DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../enterprise-dev-ops/concept/devops-landing-page-new.md)
+-   [DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../devops-config/concept/devops-config-landing-page.md)
+-   [Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../digital-product-release/reference/dpr-landing-page.md)
+-   [Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../digital-end-user-experience/concept/dex-landing.md)
+-   [Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../digital-portfolio-management/reference/dpm-landing.md)
+-   [Expense Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../asset-and-configuration/concept/c_ExpenseLine.md)
 -   [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md)
--   [Incident Management](../../incident-management/concept/c_IncidentManagement.md)
--   [Incident Communications Management](../../incident-alert-management/concept/c_IncidentAlertManagement.md)
--   [ITSM Virtual Agent](../../itsm-virtual-agent/concept/itsm-virtual-agent.md)
--   [ITSM Mobile Agent](../../incident-management/concept/itsm-mobile-agent.md)
--   [ITSM Success Dashboard](../../itsm-success-dashboard/concept/success-dashboard-indicator-landing.md)
--   [ITSM Platform Analytics Solutions](../../../use/dashboards/application-content-packs/itsm-dashboards-content-pack.md)
+-   [Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../incident-management/concept/c_IncidentManagement.md)
+-   [Incident Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../incident-alert-management/concept/c_IncidentAlertManagement.md)
+-   [ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../itsm-virtual-agent/concept/itsm-virtual-agent.md)
+-   [ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../incident-management/concept/itsm-mobile-agent.md)
+-   [ITSM Success Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../itsm-success-dashboard/concept/success-dashboard-indicator-landing.md)
+-   [ITSM Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../../use/dashboards/application-content-packs/itsm-dashboards-content-pack.md)
 -   ITSM Predictive Intelligence Workbench
--   [On-call scheduling](../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md)
+-   [On-call scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md)
 -   [Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 -   [Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-management-landing-page.md)
--   [Procurement](../../procurement/concept/c_Procurement.md)
--   [Product Catalog](../../product-catalog/concept/c_ProductCatalog.md)
--   [Problem Management](../../problem-management/concept/c_ProblemManagement.md)
+-   [Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../procurement/concept/c_Procurement.md)
+-   [Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../product-catalog/concept/c_ProductCatalog.md)
+-   [Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../problem-management/concept/c_ProblemManagement.md)
 -   Recommendation Framework
--   [Release Management](../../release-management/concept/c_ITILReleaseManagement.md)
--   [Request Management](../../planning-and-policy/concept/c_RequestManagement.md)
--   [Service Operations Workspace for ITSM](../../service-operations-workspace/concept/sow-landing-page.md)
--   [Service Portfolio Management](../../service-portfolio-management2/reference/SPM2-landing-page.md)
--   [Service Builder](../../service-builder/concept/service-builder.md)
+-   [Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../release-management/concept/c_ITILReleaseManagement.md)
+-   [Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../planning-and-policy/concept/c_RequestManagement.md)
+-   [Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../service-operations-workspace/concept/sow-landing-page.md)
+-   [Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../service-portfolio-management2/reference/SPM2-landing-page.md)
+-   [Service Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../service-builder/concept/service-builder.md)
 -   Site Reliability Operations
--   [Task Outage](../../task-outage/concept/task-outage.md)
--   [Task Intelligence for ITSM](../../task-intelligence-for-itsm/concept/c-itsm-task-intelligence.md)
+-   [Task Outage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../task-outage/concept/task-outage.md)
+-   [Task Intelligence for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../task-intelligence-for-itsm/concept/c-itsm-task-intelligence.md)
 -   
--   [Walk-up Experience](../../walk-up-experience/reference/walkup-experience-landing-page.md)
--   [Workforce Optimization for ITSM](../../configurable-workforce-optimization-itsm/reference/workforce-optimization-itsm-landing-page.md)
+-   [Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../walk-up-experience/reference/walkup-experience-landing-page.md)
+-   [Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../configurable-workforce-optimization-itsm/reference/workforce-optimization-itsm-landing-page.md)
 

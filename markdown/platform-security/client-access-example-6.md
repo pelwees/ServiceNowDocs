@@ -25,17 +25,17 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 
 2.  Create an action in ServiceNow by selecting **New** and selecting **Action**.
 
-    ![Creating a new action in flow designer](../images/client-side-8.png)
+    ![Creating a new action in flow designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-8.png)
 
 3.  Enter a name in the **Action name** field, and select **Submit**.
 
 4.  Create a step by selecting the plus sign between **Inputs** and **Error Evaluation** in the **Action Outline**.
 
-    ![Creating a new action step](../images/client-side-9.png)
+    ![Creating a new action step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-9.png)
 
 5.  In the **Choose a step to add to your action** window, select **Look Up Record**.
 
-    ![Selecting an action step](../images/client-side-10.png)
+    ![Selecting an action step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-10.png)
 
 6.  In the **Look Up Record step** section, select **MID Server \[ecc\_agent\]** in the **Table** field.
 
@@ -57,7 +57,7 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 
 10. To fill the **MID Server** field, drag the **MID Server Record** pill from the **Data** section into the field.
 
-    ![Dragging MID server data pill](../images/client-side-12.png)
+    ![Dragging MID server data pill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-12.png)
 
     **Warning:** When dragging the pill into the field, select the pill and not the black arrow next to the pill.
 
@@ -74,5 +74,5 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 12. Select the **Save** button to save the workflow.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/client-access-secret-landing.md)
 

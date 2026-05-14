@@ -36,5 +36,5 @@ Role required: admin
     4.  Select **Save**.
 
 
-**Parent Topic:**[Create a service provider](t_CreateAServiceProvider.md)
+**Parent Topic:**[Create a service provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAServiceProvider.md)
 

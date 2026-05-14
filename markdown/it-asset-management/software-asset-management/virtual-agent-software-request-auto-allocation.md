@@ -23,7 +23,7 @@ Before you can begin using Virtual Agent for your software requests, complete th
 
 -   Activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance.
 
-    See [Request Software Asset Management](../task/t_RequSoftwareAssetMgmt.md) for more information on how to activate this plugin.
+    See [Request Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/t_RequSoftwareAssetMgmt.md) for more information on how to activate this plugin.
 
 -   Activate the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin on your ServiceNow instance.
 
@@ -50,5 +50,5 @@ If the corresponding software entitlements do not contain enough active rights a
 
 **Important:** Software can be requested and allocated using this same flow in the ServiceNow® Service Catalog and Employee Center. See [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md) for more information on the Service Catalog. See [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md) for more information on the Employee Center.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

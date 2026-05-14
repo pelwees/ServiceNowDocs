@@ -40,14 +40,14 @@ Role required: sn\_lg\_ops.legal\_user
     Any associated active flows are terminated. Any pending approval record is also canceled and a comment is posted in the Additional Comments section of the approval record.
 
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../concept/privacy-assessment-requests.md)
 
 **Related topics**  
 
 
-[Submit a privacy assessment request](submit-legal-privacy-assessment-request.md)
+[Submit a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/submit-legal-privacy-assessment-request.md)
 
-[Update a privacy assessment request](update-existing-legal-privacy-assessment-request.md)
+[Update a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/update-existing-legal-privacy-assessment-request.md)
 
-[Assign a privacy assessment request](assign-legal-privacy-assessment-request.md)
+[Assign a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/assign-legal-privacy-assessment-request.md)
 

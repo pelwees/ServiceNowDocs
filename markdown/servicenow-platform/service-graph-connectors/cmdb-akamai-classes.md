@@ -52,5 +52,5 @@ The following attributes in the Key Value \[cmdb\_key\_value\] table are populat
 **Related topics**  
 
 
-[Service Graph Connector for Akamai API Security](../concept/sgc-integration-akamai.md)
+[Service Graph Connector for Akamai API Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-integration-akamai.md)
 

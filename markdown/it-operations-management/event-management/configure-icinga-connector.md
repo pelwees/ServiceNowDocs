@@ -45,7 +45,7 @@ Supported version: 2.4.1.
 
     The connector instance values are added to the form and the parameters that are relevant to the connector appear.
 
-    ![Icinga Connector Instance Values](../image/icinga2-connector-values.png)
+    ![Icinga Connector Instance Values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/icinga2-connector-values.png)
 
     1.  debug: Display debug messages. Default value: false. Specify true to see debug messages.
     2.  logPayloadForDebug: Display payload related debug messages. Default value: false. Specify true to see payload related debug messages.
@@ -117,5 +117,5 @@ Provide the Icinga alert type details. There are 2 types of an alert in Icinga2:
 9.  Click **Update**.
 
 
-**Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)
+**Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 

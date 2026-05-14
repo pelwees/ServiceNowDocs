@@ -37,7 +37,7 @@ Configure the Event Management environment for the collection of events from Azu
 
     2.  Create an action group with a secure webhook, and provide the rest endpoint as `https://<instance-name>.service-now.com/api/sn_em_connector/em/inbound_event?source=azuremonitor`.
 
-        **Note:** If you have multiple tenants on the Azure portal and you want to use bidirectional functionality to acknowledge, close, or reopen an alert on the Azure Portal, then the URL for the secure webhook has to be in the following format: `https://<username>:<password>@<instance-name>.service-now.com/api/sn_em_connector/em/inbound_event?source=azuremonitor&event_class=<new_connector_instance_name>`. The &lt;new\_connector\_instance\_name&gt; is the new Azure pull connector instance that you need to create for each tenant with other Azure service principal credentials. To know how to create the pull connector, see [Configure Azure Monitor Bi-directional connector](configure-azure-bi-directional-connector.md).
+        **Note:** If you have multiple tenants on the Azure portal and you want to use bidirectional functionality to acknowledge, close, or reopen an alert on the Azure Portal, then the URL for the secure webhook has to be in the following format: `https://<username>:<password>@<instance-name>.service-now.com/api/sn_em_connector/em/inbound_event?source=azuremonitor&event_class=<new_connector_instance_name>`. The &lt;new\_connector\_instance\_name&gt; is the new Azure pull connector instance that you need to create for each tenant with other Azure service principal credentials. To know how to create the pull connector, see [Configure Azure Monitor Bi-directional connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-azure-bi-directional-connector.md).
 
         For servicenowservices.com instances, the rest endpoint has to be `https://<instance-name>.servicenowservices.com/api/sn_em_connector/em/inbound_event?source=instana&x-sn-apikey=<api-key>`.
 
@@ -73,7 +73,7 @@ Configure the Event Management environment for the collection of events from Azu
 
         If the application is using an Azure V1 token, the **Source** field must be populated with the Application ID URI of the registered application. If the application is using an Azure V2 token, the **Source** field must be populated with the Application \(client\) ID of the registered application.
 
-        If the **Source** field is not displayed, change the form layout to display this field. Click the context menu icon \(![Context menu icon](../image/context-menu-icon.png)\) and select **Configure &gt; Form Layout**. Move **Source** to the Selected list.
+        If the **Source** field is not displayed, change the form layout to display this field. Click the context menu icon \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/context-menu-icon.png)\) and select **Configure &gt; Form Layout**. Move **Source** to the Selected list.
 
         **Note:** If your ServiceNow AI Platform instance version is earlier than Paris Patch 2 or Orlando Patch 9, the **Source** field value must be enclosed in square brackets. For example, `[api://azuretest]`.
 
@@ -85,11 +85,11 @@ Configure the Event Management environment for the collection of events from Azu
 
     If the registered application is using an Azure V1 token, the `Client ID` should be the same as the `Application ID URI` of the app registrations defined in your Azure Monitor portal \(the exposed API\).
 
-6.  In the **OAuth OIDC Provider Configuration** field, click the info icon \(![Info icon](../image/info.png)\).
+6.  In the **OAuth OIDC Provider Configuration** field, click the info icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/info.png)\).
 
 7.  In the OIDC Provider Configuration window, click **Open Record**.
 
-    ![OIDC Provider Configuration window](../image/em-azure-authentication.png)
+    ![OIDC Provider Configuration window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-azure-authentication.png)
 
 8.  Enter the `OIDC Metadata URL` according to the Azure token used by the registered application, as shown in the following table.
 
@@ -121,7 +121,7 @@ In the OIDC Provider Configuration form, add the following URL to the **OIDC Met
 
 In the OIDC Provider Configuration form:-   In the Claim Name column, change `azp` to `appid`.
 
-![Change AZP to APPID](../image/em-azp.png)
+![Change AZP to APPID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-azp.png)
 
 **Note:** If attempting to integrate Azure Gov Cloud with the ServiceNow Azure Monitor Connector, remember to change the claim value to `f1f34126-d4ef-40e1-ad4b-bf5d47b4860d`.
 
@@ -133,7 +133,7 @@ Ensure that `<tenant-id>` is replaced with the correct Azure Tenant ID.
 </table>
 ## Result
 
-When an alert is created in Azure Monitor as part of the alert rule, the notification is sent to the ServiceNow AI Platform using the secure webhook endpoint. In your ServiceNow AI Platform instance, navigate to **All Events** to see the events. If you want to send alert state changes on the ServiceNow instance from the ServiceNow alerts to the Azure Portal, you need to enable the Azure Monitor Bi-directional connector. For more information, see [Configure Azure Monitor Bi-directional connector](configure-azure-bi-directional-connector.md).
+When an alert is created in Azure Monitor as part of the alert rule, the notification is sent to the ServiceNow AI Platform using the secure webhook endpoint. In your ServiceNow AI Platform instance, navigate to **All Events** to see the events. If you want to send alert state changes on the ServiceNow instance from the ServiceNow alerts to the Azure Portal, you need to enable the Azure Monitor Bi-directional connector. For more information, see [Configure Azure Monitor Bi-directional connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-azure-bi-directional-connector.md).
 
-**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](../concept/azure-integration.md)
+**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/azure-integration.md)
 

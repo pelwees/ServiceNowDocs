@@ -21,7 +21,7 @@ Role required: admin
 
 A condition consists of three parts: field, operator, and value.
 
-![Condition builder with the Active field, the is operator, and the true value highlighted.](../image/condition-builder.png)
+![Condition builder with the Active field, the is operator, and the true value highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/condition-builder.png)
 
 |Part|Description|
 |----|-----------|
@@ -37,13 +37,13 @@ A condition consists of three parts: field, operator, and value.
 
 3.  To remove a condition, select the delete icon \(X\) next to the condition.
 
-    ![Example AND condition](../image/ExampleConditionActiveIsTrueAndCallerIsNotEmpty.png "Example AND condition")
+    ![Example AND condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ExampleConditionActiveIsTrueAndCallerIsNotEmpty.png "Example AND condition")
 
 
--   **[Condition builder](../concept/c_ConditionBuilder.md)**  
+-   **[Condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_ConditionBuilder.md)**  
 A condition builder constructs a condition statement with a series of contextually generated fields. Condition builders are used in many operations, such as creating filters, administering surveys, and administering access control.
--   **[Operators available for filters and queries](../reference/r_OpAvailableFiltersQueries.md)**  
+-   **[Operators available for filters and queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_OpAvailableFiltersQueries.md)**  
 The system provides a set of operators for use with filters, condition builders, and encoded queries. The data type of a field determines what operators are available for it.
 
-**Parent Topic:**[Common UI elements](../topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../topic/p_CommonUIElements.md)
 

@@ -173,5 +173,5 @@ Total Rewards Template Setup\[sn\_hr\_workday\_adv\_total\_rewards\_template\_se
 Store details of Total Rewards templates with sections and plans associated to it.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference](reference-hr-service-delivery-advanced-integration-with-workday.md)
+</table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hr-service-delivery-advanced-integration-with-workday.md)
 

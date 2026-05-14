@@ -60,5 +60,5 @@ Also, if you’re a shopper with store credits allocated to you, you can view th
 
 **Note:** This hide pricing feature doesn’t impact the checkout flows, sourcing flows, or any other flows that are run in the back-end.
 
-**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 

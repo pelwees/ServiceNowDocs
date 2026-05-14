@@ -31,19 +31,19 @@ Role required: evt\_mgmt\_user
 
     For example, if you click **View Service** for SNMP1000, you can drill down to the contents of the service and the related topology map appears.
 
-    ![Event Management service](../image/monitored-services-view-service.png)
+    ![Event Management service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/monitored-services-view-service.png)
 
 3.  To view service definition details of a service, click the name of the service on the **Monitored services** page.
 
-    For example, in the **Name** column, click SNMP1000 \(![Event Management icon](../image/view-service.png)\).
+    For example, in the **Name** column, click SNMP1000 \(![Event Management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/view-service.png)\).
 
-    ![Event Management service](../image/monitored-services-drill.png)
+    ![Event Management service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/monitored-services-drill.png)
 
 
-**Parent Topic:**[Monitor service health](t_EMViewDashboard.md)
+**Parent Topic:**[Monitor service health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 
 **Related topics**  
 
 
-[Monitor service health](t_EMViewDashboard.md)
+[Monitor service health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 

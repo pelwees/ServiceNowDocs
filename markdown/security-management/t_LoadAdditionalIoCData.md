@@ -37,22 +37,22 @@ Role required: sn\_ti.admin
     **Note:** To load more location-related information, edit the **ThreatAdditionalInfo** script include and provide the appropriate API key from the website that provides the additional information.
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_Observables.md)
 
 **Related topics**  
 
 
-[Define an observable](t_AddObservable.md)
+[Define an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddObservable.md)
 
-[Add a related IoC to an observable](t_AddIoCToObserv.md)
+[Add a related IoC to an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddIoCToObserv.md)
 
-[Add associated tasks to an observable](t_AddAssociatedTasksToObservable.md)
+[Add associated tasks to an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddAssociatedTasksToObservable.md)
 
-[Add a related observable](t_AddRelatedObservable.md)
+[Add a related observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddRelatedObservable.md)
 
-[Identify observable sources](t_IdentifyObservbleSources.md)
+[Identify observable sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyObservbleSources.md)
 
-[Perform lookups on observables](perform-lookups-on-observables.md)
+[Perform lookups on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
 
-[Perform threat enrichment on observables](perform-enrich-on-observs.md)
+[Perform threat enrichment on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-enrich-on-observs.md)
 

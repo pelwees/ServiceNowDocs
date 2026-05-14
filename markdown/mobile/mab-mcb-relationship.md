@@ -70,7 +70,7 @@ The card or icon option that you selected is displayed.
 
 </td><td>
 
-Select the **Open in Mobile Card Builder** button \(![Open in Mobile Card Builder button.](../image/mab-button-open-mcb.png)\). The button is displayed in the configuration panel for card, card template, icon, or legacy card records.
+Select the **Open in Mobile Card Builder** button \(![Open in Mobile Card Builder button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-open-mcb.png)\). The button is displayed in the configuration panel for card, card template, icon, or legacy card records.
 
 </td></tr></tbody>
 </table>

@@ -27,7 +27,7 @@ When a sourcing request is added to a sourcing event, in the Qualification neede
 
 1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Cases**.
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Cases**.
 
 3.  Select the Due Diligence procurement case from the list for further processing.
 
@@ -262,5 +262,5 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+**Parent Topic:**[Streamlining the supplier risk assessment workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/simplify-risk-assessment-wf.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 Product managers or release admins can request for a new product or service in Digital Product Release.
 
-For more information, see [Request a new product or service](../task/dpr-request-product.md).
+For more information, see [Request a new product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-request-product.md).
 
 <table id="table_xxf_syb_y2c"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Configuration item
 
 </td><td>
 
-Configuration item \(CI\) to which this product or service is linked to.You can associate the product or service with configuration item of types as listed in the [system property](digital-product-release-properties.md#dpr-sys-prop-citype), **sn\_dpr\_workspace.cmdb\_model\_creation.supported\_ci\_types**. For example, CI of type Technology Management Service, Business Service, Service Instance, or Business Application can be linked.
+Configuration item \(CI\) to which this product or service is linked to.You can associate the product or service with configuration item of types as listed in the [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/digital-product-release-properties.md#dpr-sys-prop-citype), **sn\_dpr\_workspace.cmdb\_model\_creation.supported\_ci\_types**. For example, CI of type Technology Management Service, Business Service, Service Instance, or Business Application can be linked.
 
 </td></tr><tr><td>
 
@@ -66,5 +66,5 @@ Short description
 Short description about the product or service is being requested.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-reference.md)
 

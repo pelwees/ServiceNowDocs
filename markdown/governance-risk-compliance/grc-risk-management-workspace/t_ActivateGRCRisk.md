@@ -21,8 +21,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/download-grc-first-time.md).
 
 
-**Parent Topic:**[Risk Management implementation](../../grc-risk/concept/risk-impl-overview.md)
+**Parent Topic:**[Risk Management implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/risk-impl-overview.md)
 

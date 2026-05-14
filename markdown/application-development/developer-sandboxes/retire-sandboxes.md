@@ -31,12 +31,12 @@ You should manually retire sandboxes when your work is complete to maintain a he
 
 2.  Select the more options icon ![](../../servicenow-studio/image/sn-studio-more-options-icon.png)in the Developer Sandboxes dashboard, and then select **Retire sandbox**.
 
-    ![Select to Retire sandbox](../image/dev-sbx-retire-home-2.png "Retire a sandbox")
+    ![Select to Retire sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../image/dev-sbx-retire-home-2.png "Retire a sandbox")
 
 3.  Confirm the retirement by selecting **Retire**.
 
 
 ## Result
 
-After it's retired, the sandbox is no longer available for use. However, you can allocate new sandboxes as needed. For more information, see [Allocate a sandbox](allocating-sandboxes.md).
+After it's retired, the sandbox is no longer available for use. However, you can allocate new sandboxes as needed. For more information, see [Allocate a sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/allocating-sandboxes.md).
 

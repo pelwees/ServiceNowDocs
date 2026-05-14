@@ -17,9 +17,9 @@ The InvokeAction component returns the context ID of an action in Workflow Studi
 
 To understand more about flows in Workflow Studio, see [Building flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
 
-Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](connect-studio-instance-rpa.md).
+Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connect-studio-instance-rpa.md).
 
-Enable the client callable option on an RPA Hub flow or subflow. For more information, see [Enable the client callable option on a flow or subflow in RPA Hub](enable-client-flow-rpa.md).
+Enable the client callable option on an RPA Hub flow or subflow. For more information, see [Enable the client callable option on a flow or subflow in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/enable-client-flow-rpa.md).
 
 Role required: fd\_read role. For more information on this role, see [User access to Workflow Studio flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/user-access-flow-designer.md).
 
@@ -33,7 +33,7 @@ Add the InvokeAction component to get the context ID of an action so other Flow 
 
 2.  Drag the InvokeAction component to the Design surface.
 
-3.  On the Design surface, select the Configure button ![Configure icon.](../image/component-settings-icon.png) of the InvokeAction component to show the InvokeAction dialog box.
+3.  On the Design surface, select the Configure button ![Configure icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png) of the InvokeAction component to show the InvokeAction dialog box.
 
 4.  In the **Action name** field, enter a minimum of three characters to search and select Enter.
 
@@ -47,12 +47,12 @@ Add the InvokeAction component to get the context ID of an action so other Flow 
 
 7.  Configure the properties of the InvokeSubFlow component.
 
-    For more information, see [Properties of the Flow Designer components](../reference/properties-flow-designer-components.md).
+    For more information, see [Properties of the Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-flow-designer-components.md).
 
     You can now connect the **Context ID** port to another Flow Designer component such as GetExecutionStatus or GetOutputs.
 
 8.  To test the component, in the **Design** tab, select **Run**.
 
 
-**Parent Topic:**[Flow Designer components](../concept/flow-designer-components.md)
+**Parent Topic:**[Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/flow-designer-components.md)
 

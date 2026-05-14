@@ -79,5 +79,5 @@ Actions
 -   A new document revision is created and the file name is appended with the version number.
 -   The Contract status is marked as Ready revision.
 
-**Parent Topic:**[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+**Parent Topic:**[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-nda-1.md)
 

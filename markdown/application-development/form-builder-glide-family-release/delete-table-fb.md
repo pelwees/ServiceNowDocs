@@ -19,13 +19,13 @@ Delete a table from your application so that it no longer appears in the app das
 
 **Note:** Parent tables can't be deleted until all existing child tables are deleted.
 
-Role required: Users must have canDelete access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: Users must have canDelete access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
 1.  Navigate to the **Data** tab.
 
-2.  Select the menu icon \(![Menu icon.](../../../build/app-engine-studio/image/menu-icon.png)\), and then select **Delete Table**.
+2.  Select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/image/menu-icon.png)\), and then select **Delete Table**.
 
 3.  In the dialog box, enter `delete` and then select **Delete**.
 
@@ -36,5 +36,5 @@ Role required: Users must have canDelete access to **sys\_db\_object** or AES us
 
 The table is no longer available in the app dashboard.
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/table-builder.md)
 

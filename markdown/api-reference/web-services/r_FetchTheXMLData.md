@@ -50,5 +50,5 @@ Use the resulting data in a similar manner as you would a direct SOAP call. An e
 ?>
 ```
 
-**Parent Topic:**[SOAP strategies](../concept/c_SOAPStrategies.md)
+**Parent Topic:**[SOAP strategies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPStrategies.md)
 

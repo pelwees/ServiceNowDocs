@@ -82,5 +82,5 @@ When the assessment is complete, the skill is automatically added for the traine
     You can navigate to the **All Awarded Skills** related list in a **Coaching Assessments** record for a trainee to view all skills to be awarded for that trainee. The **Source** field displays whether the award came from an opportunity, assessment, or training.
 
 
-**Parent Topic:**[Assess a trainee](cf-assess-trainee.md)
+**Parent Topic:**[Assess a trainee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-assess-trainee.md)
 

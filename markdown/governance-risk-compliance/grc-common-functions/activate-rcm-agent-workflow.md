@@ -20,7 +20,7 @@ Configure and activate the get regulatory analysis agentic workflow that uses AI
 
 Install the Now Assist for IRM plugin \(sn\_irm\_gen\_ai\).
 
-The regulatory alert recommendation and summarization skills are required to generate enriched insights and identify impacted areas. For more information, see [AI-generated recommendations for a regulatory alert skill](../../grc-rcm/concept/recommendations-for-a-regulatory-alert.md) and [AI-driven regulatory alert summarization skill](../concept/regulatory-alert-summarization.md).
+The regulatory alert recommendation and summarization skills are required to generate enriched insights and identify impacted areas. For more information, see [AI-generated recommendations for a regulatory alert skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/recommendations-for-a-regulatory-alert.md) and [AI-driven regulatory alert summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/regulatory-alert-summarization.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 

@@ -42,7 +42,7 @@ By default, the KPIs that are associated with your KPI assignment groups are sch
 
     5.  Right-click the form header and click **Save**.
 
-        You can add up to five KPIs to a KPI group. For more information about KPIs and how the aggregates are calculated, see the overview video in the [Teams example](../concept/example-team-reporting-configurable-wfo-itsm.md) section.
+        You can add up to five KPIs to a KPI group. For more information about KPIs and how the aggregates are calculated, see the overview video in the [Teams example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/example-team-reporting-configurable-wfo-itsm.md) section.
 
 2.  Add KPIs to a KPI group.
 
@@ -62,5 +62,5 @@ By default, the KPIs that are associated with your KPI assignment groups are sch
     **Note:** When you open a KPI Group, by default, the KPI Groups form displays the KPI Group's type based on the application you’ve currently selected.
 
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-teams-configurable-workforce-optimization-itsm.md)
 

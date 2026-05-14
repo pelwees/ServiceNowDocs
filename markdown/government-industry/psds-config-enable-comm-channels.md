@@ -15,11 +15,11 @@ Configure communication channels such as chat, email, phone, virtual agent, and 
 
 <table id="table_mhz_4gb_l1c" class="nav-card"><tbody><tr><td>
 
-[Virtual Agent![](../../../reuse/icons/brand-icons/bus-customer-service-agent.svg)Set up Virtual Agent to use the predefined Virtual Agent topics \(chatbot conversations\) designed to help constituents complete common self-service tasks.](psds-configuring-va.md)
+[Virtual Agent![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-customer-service-agent.svg)Set up Virtual Agent to use the predefined Virtual Agent topics \(chatbot conversations\) designed to help constituents complete common self-service tasks.](psds-configuring-va.md)
 
 </td><td>
 
-[Engagement Messenger![](../../../reuse/icons/brand-icons/bus-chat.svg)Set up Engagement Messenger to enable your users to find the information or service that they need from third-party web applications.](../task/psds-configure-engagement-messenger.md#)
+[Engagement Messenger![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-chat.svg)Set up Engagement Messenger to enable your users to find the information or service that they need from third-party web applications.](../task/psds-configure-engagement-messenger.md#)
 
 </td></tr><tr><td>
 

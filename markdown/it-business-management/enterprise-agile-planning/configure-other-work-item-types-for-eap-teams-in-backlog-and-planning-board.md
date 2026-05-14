@@ -33,17 +33,17 @@ This task provides guidance on updating the **Planning work types** or **Backlog
 
 2.  Select a configuration that you need to update the work item type selections for.
 
-    s![List of Enterprise agile configurations.](../images/eap-team-level-config-01.jpg)
+    s![List of Enterprise agile configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-team-level-config-01.jpg)
 
 3.  In the Enterprise agile configuration details related list, select the team level that you want to update.
 
-    ![Enterprise agile configuration form for Full Configuration highlighting the Enterprise agile configuration details related list.](../images/eap-team-level-config-02.jpg)
+    ![Enterprise agile configuration form for Full Configuration highlighting the Enterprise agile configuration details related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-team-level-config-02.jpg)
 
 4.  Update the work types in the following fields.
 
     -   **Backlog work types** to enable viewing multiple work item types in the Backlog page.
     -   **Planning work types** to enable viewing multiple work item types in the Planning board page.
-    ![Enterprise agile configuration detail form highlighting the Backlog work types and Planning work types fields.](../images/eap-team-level-config-03.jpg)
+    ![Enterprise agile configuration detail form highlighting the Backlog work types and Planning work types fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-team-level-config-03.jpg)
 
 5.  Select **Update** to save your changes to the form.
 
@@ -53,7 +53,7 @@ This task provides guidance on updating the **Planning work types** or **Backlog
 **Related topics**  
 
 
-[Manage team backlog in EAP](../concept/using-eap.md)
+[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 
-[Perform PI planning in EAP](../concept/pi-planning-eap.md)
+[Perform PI planning in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/pi-planning-eap.md)
 

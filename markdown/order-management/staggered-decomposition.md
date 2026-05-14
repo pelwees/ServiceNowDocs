@@ -19,7 +19,7 @@ However, the one-time order decomposition process \(before the staggered decompo
 
 The following diagram shows how the staggered decomposition process works in comparison to the standard order decomposition. You can start the decomposition process with the information that you already have for your order and order line items. The decomposition process skips the domain orders \(product or service or resource orders\) that you don't have the required information for at this time. When you add this information later, the decomposition process triggers and completes the processing for the remaining domain orders.
 
-![Comparison between order decomposition and staggered decomposition.](../image/staggered-decomposition.svg "Decomposition process")
+![Comparison between order decomposition and staggered decomposition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/staggered-decomposition.svg "Decomposition process")
 
 ## Contrast to earlier decomposition processing
 
@@ -35,5 +35,5 @@ When you approve an order, the order decomposition process starts. The decomposi
 
 When the characteristic values are available either from a user’s action or from an attribute propagation rule, the decomposition process is retriggered. The process then creates the required domain orders and completes the order decomposition. If you again update the characteristic value after the order decomposition is complete, it does not trigger the decomposition for the domain order.
 
-To understand staggered decomposition with the help of an example, see [Customer order decomposition](customer-order-decomposition.md).
+To understand staggered decomposition with the help of an example, see [Customer order decomposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/customer-order-decomposition.md).
 

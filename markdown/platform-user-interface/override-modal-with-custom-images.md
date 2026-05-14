@@ -33,7 +33,7 @@ Verify that your custom images use the desired colors and meet your branding req
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
@@ -45,7 +45,7 @@ Verify that your custom images use the desired colors and meet your branding req
     -   Scroll through the list of modal illustrations within the main stage.
     Once you have selected an illustration, the property panel opens.
 
-    ![Image styles tab selected with modal illustrations listed on main stage and property panel opened.](../image/tb-modal-property-panel.png "Image styles tab with Modals selected and Platform/Onboarding all illustration selected")
+    ![Image styles tab selected with modal illustrations listed on main stage and property panel opened.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-modal-property-panel.png "Image styles tab with Modals selected and Platform/Onboarding all illustration selected")
 
 6.  From the property panel, select the **Images** tab.
 
@@ -65,11 +65,11 @@ Verify that your custom images use the desired colors and meet your branding req
 
     Your custom image appears on the main stage within the modal type that you have chosen. The file name for your custom image is now listed in the property panel.
 
-    ![Platform/Onboarding all modal illustration type with custom image displayed on main stage.](../image/tb-modal-platform-onboarding.png "Platform/Onboarding all modal illustration with custom image displayed")
+    ![Platform/Onboarding all modal illustration type with custom image displayed on main stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-modal-platform-onboarding.png "Platform/Onboarding all modal illustration with custom image displayed")
 
 10. Select the Remove override symbol if you want to restore the default modal illustration.
 
-    ![Remove custom image override symbol.](../image/tb-remove-custom-image-symbol.png "Remove override")
+    ![Remove custom image override symbol.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-remove-custom-image-symbol.png "Remove override")
 
 11. Preview your edits before publishing your theme to your instance.
 
@@ -79,12 +79,12 @@ Verify that your custom images use the desired colors and meet your branding req
 
     3.  Select the Open in new tab icon ![](../image/tb-icon-open-new-tab.png) to open the experience in a new tab.
 
-        ![Global styles experience preview screen with Admin Center experience selected.](../image/tb-experience-preview-1.png "Experience preview")
+        ![Global styles experience preview screen with Admin Center experience selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-experience-preview-1.png "Experience preview")
 
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Modal illustrations in Theme Builder](../concept/modals-in-tb.md)
+**Parent Topic:**[Modal illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/modals-in-tb.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Primary connectors, Zero Copy Connectors, Workflow Data Fabric]
 
 The Google BigQuery connector provides read-only access to data and metadata from the Google BigQuery data warehouse service.
 
-A connection admin can set up a connection to Google BigQuery in the Zero Copy Connector Hub and grant data stewards access to this connection. Data stewards can then use the established connection to create a data fabric table and map data from Google BigQuery. This allows users to access Google BigQuery data through the table list view or by using GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](managing-data-fabric-tables-zcc.md).
+A connection admin can set up a connection to Google BigQuery in the Zero Copy Connector Hub and grant data stewards access to this connection. Data stewards can then use the established connection to create a data fabric table and map data from Google BigQuery. This allows users to access Google BigQuery data through the table list view or by using GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-data-fabric-tables-zcc.md).
 
 The connector has been enhanced to improve the performance of the following Glide queries and list view operations. These improvements allow the majority of queries to be executed at the data source.
 
@@ -45,5 +45,5 @@ The following table lists supported Google BigQuery data types and the default m
 **Related topics**  
 
 
-[Create a Google BigQuery connection](../task/create-bigquery-connection-zcc.md)
+[Create a Google BigQuery connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-bigquery-connection-zcc.md)
 

@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 
 Task-Outage Relationship \[cmdb\_ci\_outage\] is domain separated. Outages are now data separated, meaning they can be exposed to the appropriate personas without risk of data exposure. Fulfillers can view any Task-Outage Relationship records regardless of the domain that the records belong to. The Task-Outage Relationship table is installed when administrator activates the optional Task-Outage Relationship plugin.
 
-**Parent Topic:**[Task Outage](task-outage.md)
+**Parent Topic:**[Task Outage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-outage/task-outage.md)
 
 **Related topics**  
 

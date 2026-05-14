@@ -144,5 +144,5 @@ Now Assist AI web agents\[sn\_naa\]
 Contains system property, default AI agent and agentic workflow named Web Automation Agent and Web Automation respectively, and functionality to perform adaptive automation on web.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Desktop Actions reference](agentic-desktop-reference.md)
+</table>**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 

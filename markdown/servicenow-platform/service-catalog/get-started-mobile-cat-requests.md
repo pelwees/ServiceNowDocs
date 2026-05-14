@@ -25,14 +25,14 @@ Download the ServiceNow® mobile application on an iOS platform from the Apple A
 
 ## Procedure
 
-1.  Open the mobile app and tap the plus icon \(![plus icon](../image/mobileAddInstance.png)\).
+1.  Open the mobile app and tap the plus icon \(![plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/mobileAddInstance.png)\).
 
 2.  Add a ServiceNow instance. For more information on adding the instance, refer to [Add a ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/login-end-user.md).
 
 3.  Tap **My Approvals** to start managing your requests.
 
 
-**Parent Topic:**[Fulfiller experience in Mobile Agent](../concept/itsm-mobile-request-approval.md)
+**Parent Topic:**[Fulfiller experience in Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/itsm-mobile-request-approval.md)
 
 **Related topics**  
 

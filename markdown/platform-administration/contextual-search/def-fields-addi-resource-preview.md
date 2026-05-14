@@ -29,18 +29,18 @@ If a Cxs\_popup view isn't defined for the additional resource table, the sys\_p
 
 2.  Open the incident record whose view you want to change to Cxs\_popup.
 
-3.  Select the additional actions icon \(![Additional actions icon](../image/additional-actions.png)\) and in the **View** option, select **Cxs\_popup**.
+3.  Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/additional-actions.png)\) and in the **View** option, select **Cxs\_popup**.
 
-    ![Incident form in Cxs_popup view.](../image/cxs-popup-view.png)
+    ![Incident form in Cxs_popup view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/cxs-popup-view.png)
 
     The view of the incident record changes to Cxs\_popup view.
 
-4.  Select the additional actions icon \(![Additional actions icon](../image/additional-actions.png)\), and in the **Configure** option, select **Form Layout**.
+4.  Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/additional-actions.png)\), and in the **Configure** option, select **Form Layout**.
 
 5.  From the **Available** list of fields, select the fields that you want to be available in the Cxs\_popup view and move them under **Selected**.
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

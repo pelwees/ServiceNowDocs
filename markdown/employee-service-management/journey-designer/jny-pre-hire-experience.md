@@ -145,5 +145,5 @@ This widget reflects the employee's onboarding team. A list of the following ind
 </table>**Related topics**  
 
 
-[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
+[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 

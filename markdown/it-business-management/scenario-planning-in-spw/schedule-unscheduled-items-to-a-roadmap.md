@@ -55,17 +55,17 @@ Navigation
 From the Free-form Roadmaps tab, select a roadmap.
 
 </td></tr></tbody>
-</table>2.  From the sidebar, select Unscheduled items \(![Unscheduled items icon.](../../alignment-planner-workspace/images/unscheduled-items-icon.png)\).
+</table>2.  From the sidebar, select Unscheduled items \(![Unscheduled items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/unscheduled-items-icon.png)\).
 
 3.  From the list of unscheduled items in the side panel, drag and drop a planning item at a place of your choice on the roadmap.
 
-    ![Schedule unscheduled items.](../images/unscheduled-items.gif)
+    ![Schedule unscheduled items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/unscheduled-items.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/roadmaps-in-alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Reschedule roadmap items](reschedule-items-on-a-roadmap.md)
+[Reschedule roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/reschedule-items-on-a-roadmap.md)
 

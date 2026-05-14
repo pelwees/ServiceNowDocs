@@ -15,19 +15,19 @@ breadcrumb: [Delivering enterprise assets, Managing work orders for your enterpr
 
 Manage and record time worked on Drop off and Receive asset tasks in the Enterprise Asset Workspace. After you start work on a task, you can pause and resume work. You can also record the time worked manually.
 
--   **[Record time worked on a Drop off task or Receive task manually](../task/record-time-manual-drop-receive.md)**  
+-   **[Record time worked on a Drop off task or Receive task manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/record-time-manual-drop-receive.md)**  
 Create an entry for the time worked on a Drop off or a Receive task manually in the Enterprise Asset Workspace.
--   **[Pause a Drop off task or Receive task for enterprise assets](../task/pause-dropoff-repair-eam.md)**  
+-   **[Pause a Drop off task or Receive task for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/pause-dropoff-repair-eam.md)**  
 Record a break from a Drop off or Receive task in the Enterprise Asset Workspace if you’re not continuing to work on it.
 
-**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](drop-off-receive-assets-eam.md)
+**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/drop-off-receive-assets-eam.md)
 
 **Related topics**  
 
 
-[Create a Drop off task for enterprise assets](../task/create-dropoff-task-eam.md)
+[Create a Drop off task for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-dropoff-task-eam.md)
 
-[Drop off enterprise assets at a stockroom](../task/add-eam-assets-drop-off.md)
+[Drop off enterprise assets at a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/add-eam-assets-drop-off.md)
 
-[Verify the enterprise assets received through a Drop off task](../task/verify-assets-eam-receive.md)
+[Verify the enterprise assets received through a Drop off task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/verify-assets-eam-receive.md)
 

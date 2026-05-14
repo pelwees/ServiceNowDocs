@@ -25,7 +25,7 @@ Edit or reassign a task directly from the list of records. Alternatively, add a 
 
 ## Procedure
 
-1.  If you're not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-risk-mobileapp.md).
+1.  If you're not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-login-risk-mobileapp.md).
 
 2.  With the Risk landing screen displayed, under the `Team's Overdue Work` section, tap **Issues**.
 
@@ -33,7 +33,7 @@ Edit or reassign a task directly from the list of records. Alternatively, add a 
 
     The Issues screen is displayed with a list of records.
 
-3.  See [Filter records with the GRC Mobile application](mobile-risk-set-filters.md) to search for records that match specific search criteria.
+3.  See [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
@@ -43,8 +43,8 @@ Edit or reassign a task directly from the list of records. Alternatively, add a 
 
     |Option|Description|
     |------|-----------|
-    |**Edit**|In the Extend by days field on the Edit Issue screen that is displayed, enter a value. This value is added to the Duration field in your ServiceNow AI Platform instance. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
-    |**Reassign**|On the Issue Assignment screen that is displayed, tap the Assignment Group and Assigned to fields to reassign the issue. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
+    |**Edit**|In the Extend by days field on the Edit Issue screen that is displayed, enter a value. This value is added to the Duration field in your ServiceNow AI Platform instance. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
+    |**Reassign**|On the Issue Assignment screen that is displayed, tap the Assignment Group and Assigned to fields to reassign the issue. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
 
 6.  Alternatively, with the Issues screen displayed, tap a record on the list to open it and view more details.
 
@@ -69,7 +69,7 @@ With the Details tab selected, choose one to continue.-   View the fields for de
 Tap the **Control Objective/Risk Statement** field to expand it. A list of records is displayed. Tap an item to display the record.
 
 -   Tap the **Control/Risk** field to expand it. A list of records is displayed. Tap an item on the list to open the record. With the record displayed, select the **Details** or **Activity Stream** tabs for more information.
--   At the top right of the screen with the Issue record displayed, tap the menu icon \( ![Menu icon.](../../grc-common/image/mobile-top-menu.png)\) to edit and reassign the issue. Follow the steps described in the preceding table.
+-   At the top right of the screen with the Issue record displayed, tap the menu icon \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to edit and reassign the issue. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d70457e256">
@@ -78,8 +78,8 @@ Tap the **Control Objective/Risk Statement** field to expand it. A list of recor
 
 </td><td>
 
-With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
--   At the top right of the screen, tap the menu icon \( ![Menu icon.](../../grc-common/image/mobile-top-menu.png)\) to edit and reassign the issue. Follow the steps described in the preceding table.
+With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
+-   At the top right of the screen, tap the menu icon \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to edit and reassign the issue. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d70457e286">
@@ -91,7 +91,7 @@ With the Activity Stream tab selected, choose one to continue.-   View work note
 With the Related List tab selected, follow these steps.
 
  1.  Tap **Remediation Tasks** to expand the field. On the Remediation Task screen, view the items on the related list that are associated with the Issue record. Tap an item to open a record and view details and work notes.
-2.  After your review, navigate back to the open record on the Issue screen and tap the menu icon \( ![Menu icon.](../../grc-common/image/mobile-top-menu.png)\) to reassign or edit the issue. Follow the steps described in the preceding table.
+2.  After your review, navigate back to the open record on the Issue screen and tap the menu icon \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to reassign or edit the issue. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d70457e316">
@@ -109,5 +109,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/mobile-risk-overview.md)
 

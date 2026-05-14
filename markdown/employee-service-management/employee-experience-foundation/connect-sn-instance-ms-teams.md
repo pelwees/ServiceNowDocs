@@ -25,11 +25,11 @@ Role required: External admin \(external\_app\_install\_admin\)
 
 2.  Click **Connect** to install Microsoft Teams in your instance.
 
-    ![Install Azure apps.](../image/install-azure-apps-02.png)
+    ![Install Azure apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/install-azure-apps-02.png)
 
 3.  Select the **Consent on behalf of your organization** option to provide the consent for all your users, and click **Accept** button to provide the admin consent.
 
-    ![Admin consent for the app.](../../sn-teams/images/sso-activity-notification-admin-consent.png)
+    ![Admin consent for the app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/images/sso-activity-notification-admin-consent.png)
 
     SSO and Activity Notification is one of the apps to verify the users and connect the Microsoft tenant to the ServiceNow instance. Provide the desired Microsoft tenant details to connect to the ServiceNow instance.
 
@@ -38,5 +38,5 @@ Role required: External admin \(external\_app\_install\_admin\)
     **Note:** All the users must also accept the permissions, not accepting the permissions result in not being able to use the ServiceNow integrations with Microsoft Teams.
 
 
-**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md)
+**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-notify-ms-teams-multi-tenant.md)
 

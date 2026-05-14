@@ -21,7 +21,7 @@ Role required: sn\_oper\_res.manager, action task owner
 
 The details of the action task and assessment history are displayed in the record as shown in the example.
 
-![Assessment history.](../image/op-vul-action-task-assmt-history.png)
+![Assessment history.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-action-task-assmt-history.png)
 
 ## Procedure
 
@@ -29,7 +29,7 @@ The details of the action task and assessment history are displayed in the recor
 
 2.  To complete the assessment for the action task, select **Take assessment**.
 
-    ![Assessment form.](../image/assessment.png)
+    ![Assessment form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assessment.png)
 
 3.  Answer the questions and select **Submit**.
 
@@ -37,7 +37,7 @@ The details of the action task and assessment history are displayed in the recor
 
 4.  Navigate to the Assessment history, select the assessment, and review the responses to the questions.
 
-    ![Assessment history.](../image/asmt-history.png)![Instance.](../image/op-vul-act-task-assmt-instance-response.png)
+    ![Assessment history.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-history.png)![Instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-act-task-assmt-instance-response.png)
 
 5.  To add a new assessment instance question, select **New**.
 
@@ -50,5 +50,5 @@ The details of the action task and assessment history are displayed in the recor
 
 ## What to do next
 
-Request an approval on the action task and complete its workflow. For more information, see [Request an approval for the action task](request-approval-for-action-task.md).
+Request an approval on the action task and complete its workflow. For more information, see [Request an approval for the action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-approval-for-action-task.md).
 

@@ -28,14 +28,14 @@ A processing activity stores the following type of information:
 -   Privacy regulations, policies, risks, controls, and issues related to each processing activity​.
 -   Key stakeholders of the processing activity such as the entity owners and others who are involved in the processing activity.
 
-The following image shows the overview of a processing activity:![Overview of the reports on a processing activity in Privacy management.](../image/processing-activity-prm-hr-onboarding-sample.png)
+The following image shows the overview of a processing activity:![Overview of the reports on a processing activity in Privacy management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/processing-activity-prm-hr-onboarding-sample.png)
 
 **Note:** The policies and controls that appear on the **Overview** page of the processing activity are specific to Privacy Management.
 
--   **[Understanding processing activity hierarchy](processing-activity-hierarchy.md)**  
+-   **[Understanding processing activity hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/processing-activity-hierarchy.md)**  
 Track how personal data flows across vendors, applications, and systems within and beyond a processing activity to identify and mitigate privacy-related risks.
--   **[Hierarchy tab](hierarchy-tab.md)**  
+-   **[Hierarchy tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/hierarchy-tab.md)**  
 Use the Hierarchy tab to connect your processing activity to applications, vendors, companies, entities, business processes, and other activities. The Hierarchy tab builds a clear picture of how data moves through your organization.
 
-**Parent Topic:**[Exploring Privacy Management](explore-privacy-management.md)
+**Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 

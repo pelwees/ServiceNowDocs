@@ -26,7 +26,7 @@ The SSH step is available as an Workflow Studio action step. Users with the acti
 
 ## Sanitizing inputs
 
-Escape all user inputs to eliminate the possibility of a malicious user executing arbitrary commands on your target server. Escape and validate data pills before the command field uses them by sanitizing arguments using [Sanitize shell arguments transform functions](sanitize-shell-arguments-transform-functions.md). This transform function category automatically appears when a data pill is dropped into the **Command** input.
+Escape all user inputs to eliminate the possibility of a malicious user executing arbitrary commands on your target server. Escape and validate data pills before the command field uses them by sanitizing arguments using [Sanitize shell arguments transform functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/sanitize-shell-arguments-transform-functions.md). This transform function category automatically appears when a data pill is dropped into the **Command** input.
 
 ## Fields
 
@@ -150,7 +150,7 @@ Command
 
 </td><td>
 
-Command that runs on the target directory. The command can also include MID Server scripts. See [Advanced SSH script options](ssh-step-action-designer.md#adv-ssh-section_l1v_jqk_phb) for more information.**Note:** Escape and validate data pills before the command field uses them by sanitizing arguments using a preprocessing [Script step](javascript-step-action-designer.md). For more information, see [Sanitizing arguments using the escape class and function](jdbc-step.md#section_gqd_cy4_qhb).
+Command that runs on the target directory. The command can also include MID Server scripts. See [Advanced SSH script options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/ssh-step-action-designer.md#adv-ssh-section_l1v_jqk_phb) for more information.**Note:** Escape and validate data pills before the command field uses them by sanitizing arguments using a preprocessing [Script step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md). For more information, see [Sanitizing arguments using the escape class and function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/jdbc-step.md#section_gqd_cy4_qhb).
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Option to elevate privileges to execute the script.
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Advanced SSH script options
@@ -215,5 +215,5 @@ rm ~/specialFunctions.py
 
 To see the list of available MID Server scripts, navigate to **MID Server** &gt; **Script Files**.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

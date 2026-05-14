@@ -68,5 +68,5 @@ To use similar case/recommendation with the following features, activate the ass
 **Related topics**  
 
 
-[Machine learning solutions for Customer Service Management](machine-learning-csm.md)
+[Machine learning solutions for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/machine-learning-csm.md)
 

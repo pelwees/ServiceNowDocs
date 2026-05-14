@@ -26,7 +26,7 @@ For example, the Assignment Group automated breakdown uses the Groups breakdown 
 Restricting the number of elements that a breakdown source returns has the following benefits:
 
 -   Smaller element lists make it easier for consumers to find the data they need. Sorting through a list of 25 groups associated with a particular process is easier than trying to sort through thousands of groups.
--   Smaller element lists lead to less data collection and more efficient use of data. Instead of the [data collector](../concept/performance-analytics-glossary.md#) crunching through 1,000 different groups, the data collector can analyze the 25 groups that are meaningful to the process.
+-   Smaller element lists lead to less data collection and more efficient use of data. Instead of the [data collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#) crunching through 1,000 different groups, the data collector can analyze the 25 groups that are meaningful to the process.
 
 **Note:** You probably do not need to change the breakdown sources in Platform Analytics Solutions. However, you may find it helpful to review and understand exactly what is being measured in your processes.
 
@@ -38,17 +38,17 @@ Restricting the number of elements that a breakdown source returns has the follo
 
 3.  In the Source tab, examine the definition for the breakdown elements, including the table that contains the unique list of sys\_ids.
 
-    For example, in the Change.Impact breakdown source, the unique values contained in the Change Request Impact field come from the Choice \[sys\_choice\] table. The conditions provide additional filters to ensure that the query returns only the Change Impact fields from the Choice \[sys\_choice\] table.![Change.Impact breakdown source showing unique values table and conditions](../image/review-bkdown-source.png)
+    For example, in the Change.Impact breakdown source, the unique values contained in the Change Request Impact field come from the Choice \[sys\_choice\] table. The conditions provide additional filters to ensure that the query returns only the Change Impact fields from the Choice \[sys\_choice\] table.![Change.Impact breakdown source showing unique values table and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/review-bkdown-source.png)
 
 4.  Click **Preview** to see the number of elements that the query returns.
 
     In the example, the query returns three impact elements.
 
-    ![The number of matching conditions link that appears after clicking Preview](../image/review-bkdown-source-numb-conditions.png)
+    ![The number of matching conditions link that appears after clicking Preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/review-bkdown-source-numb-conditions.png)
 
 5.  Click **x records match condition** to see the specific values that the query returned.
 
-    In the example, clicking **3 records match condition** opens a new browser tab with a filtered list of records from the Choice \[sys\_choice\] table.![Filtered list of choices matching the indicator source conditions](../image/review-bkdown-source-choices.png)
+    In the example, clicking **3 records match condition** opens a new browser tab with a filtered list of records from the Choice \[sys\_choice\] table.![Filtered list of choices matching the indicator source conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/review-bkdown-source-choices.png)
 
 6.  Verify that the list of records match what you expect to see in the breakdown element list.
 
@@ -59,16 +59,16 @@ Restricting the number of elements that a breakdown source returns has the follo
 
 ## What to do next
 
-You are now ready to collect data, as described in [Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md).
+You are now ready to collect data, as described in [Collect data for Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/collect-data-nowintel-solutions.md).
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/configure-nowintel-solutions.md)
 
-**Previous topic:**[Update Performance Analytics scripts](update-pa-scripts.md)
+**Previous topic:**[Update Performance Analytics scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/update-pa-scripts.md)
 
-**Next topic:**[Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md)
+**Next topic:**[Collect data for Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/collect-data-nowintel-solutions.md)
 
 **Related topics**  
 
 
-[Define a breakdown source](t_DefiningABreakdownSource.md)
+[Define a breakdown source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_DefiningABreakdownSource.md)
 

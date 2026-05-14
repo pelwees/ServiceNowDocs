@@ -107,12 +107,12 @@ In the **Model** field, select the asset model.
 
 ## What to do next
 
-Add asset details to the onboarding order. For details, see [Add details of the enterprise assets to an onboarding order](add-eam-assets-onboard-order.md).
+Add asset details to the onboarding order. For details, see [Add details of the enterprise assets to an onboarding order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-eam-assets-onboard-order.md).
 
-**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](../concept/onboarding-multi-asset-from-ws.md)
+**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/onboarding-multi-asset-from-ws.md)
 
 **Related topics**  
 
 
-[Add details of the enterprise assets to an onboarding order](add-eam-assets-onboard-order.md)
+[Add details of the enterprise assets to an onboarding order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-eam-assets-onboard-order.md)
 

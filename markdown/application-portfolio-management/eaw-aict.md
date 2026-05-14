@@ -103,7 +103,7 @@ An AI system is associated with a business application in one of two ways:
 
     For information on the **Request an AI use case** form fields, see [Request an AI use case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system-form.md).
 
--   A user with the APM user \(sn\_apm.apm\_user\) role manually adds an AI system from the **AI systems** tab on a business application record in the Enterprise Architecture Workspace. This is useful for associating AI systems that were not submitted through the service portal intake form. For information, see [Add an existing AI system to a business application](../../task/eaw-task/eaw-add-ai-system-to-ba.md).
+-   A user with the APM user \(sn\_apm.apm\_user\) role manually adds an AI system from the **AI systems** tab on a business application record in the Enterprise Architecture Workspace. This is useful for associating AI systems that were not submitted through the service portal intake form. For information, see [Add an existing AI system to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-ai-system-to-ba.md).
 
 Only active business applications are available for association. Business applications with a status of Retired or a lifecycle stage of End of Life are excluded automatically, so the associations on an AI system record reflect only applications that are currently in scope for portfolio management.
 
@@ -113,22 +113,22 @@ Removing an AI system association from a business application record does not de
 
 The association between AI systems and business applications is bidirectional. To view linked business applications in AI Control Tower, navigate to **Workspaces** &gt; **AI Control Tower** &gt; **AI Assets** &gt; **AI systems** &gt; **Select an AI system** &gt; **Details** &gt; **Business applications**. This view is read-only in AI Control Tower; to add or remove associations, use the **Related assets** &gt; **Business applications** &gt; **AI systems** tab on the business application record in the Enterprise Architecture Workspace.
 
-For enterprise architects who work primarily in the Enterprise Architecture Workspace and AI stewards who work primarily in AI Control Tower, this bidirectionality means each team sees the same associations from their own workspace without requiring the other team to maintain a separate record.![Business applications related list displayed for an AI system in the AI Control Tower workspace.](../../image/eaw-image/ai-system-aict-related-list.png)
+For enterprise architects who work primarily in the Enterprise Architecture Workspace and AI stewards who work primarily in AI Control Tower, this bidirectionality means each team sees the same associations from their own workspace without requiring the other team to maintain a separate record.![Business applications related list displayed for an AI system in the AI Control Tower workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/ai-system-aict-related-list.png)
 
 ## Required roles
 
 To view the **AI systems** tab on a business application record, you must have the APM User role \(sn\_apm.apm\_user\) or higher. Users with the AI Steward \(sn\_aig.ai\_steward\) or AI Asset Owner \(sn\_aig.ai\_asset\_owner\) role can add or remove AI system associations.
 
-**Parent Topic:**[Exploring the application portfolio](eaw-app-portfolio.md)
+**Parent Topic:**[Exploring the application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-app-portfolio.md)
 
 **Related topics**  
 
 
 [AI Control Tower Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-home-page.md)
 
-[eaw-exploring-the-ai-portfolio.md](eaw-exploring-the-ai-portfolio.md)
+[eaw-exploring-the-ai-portfolio.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-exploring-the-ai-portfolio.md)
 
-[Remove an AI system from a business application](../../task/eaw-task/eaw-unassign-ai-system-from-ba.md)
+[Remove an AI system from a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-unassign-ai-system-from-ba.md)
 
-[View AI system details from a business application](../../task/eaw-task/eaw-view-ai-system-in-aict-from-ba.md)
+[View AI system details from a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-ai-system-in-aict-from-ba.md)
 

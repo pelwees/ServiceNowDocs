@@ -23,10 +23,10 @@ Customize Guided Tours callout colors in Service Portal.
 |Callout close button \(X\) color|Text muted|$gtd-callout-close-color|
 |Callout primary button color|Primary button background color|$gtd-callout-active-color|
 
-**Parent Topic:**[Guided Tour Reference](guided-tour-reference.md)
+**Parent Topic:**[Guided Tour Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-reference.md)
 
 **Related topics**  
 
 
-[Create a portal theme](../../service-portal/concept/c_CustomCSS.md)
+[Create a portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../service-portal/concept/c_CustomCSS.md)
 

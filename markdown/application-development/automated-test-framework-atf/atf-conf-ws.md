@@ -15,10 +15,10 @@ breadcrumb: [Administering the Automated Test Framework \(ATF\), Automated Test 
 
 Simplify test creation by directly interacting with components on most Configurable Workspace pages via the Page Inspector.
 
-![Gif showing the cw access and test step creation](../image/atf-access-add-test-step-cw.gif)
+![Gif showing the cw access and test step creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-access-add-test-step-cw.gif)
 
--   **[Create a test for Configurable Workspace interaction via Page Inspector](../task/atf-create-tests-ws.md)**  
+-   **[Create a test for Configurable Workspace interaction via Page Inspector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-create-tests-ws.md)**  
 Leverage the Page Inspector to create tests by directly interacting with components on most Configurable Workspace pages.
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-admin-overview.md)
 

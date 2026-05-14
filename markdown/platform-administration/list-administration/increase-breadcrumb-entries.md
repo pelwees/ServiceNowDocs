@@ -41,6 +41,6 @@ Role required: admin
 
     The number of entries you entered in the Value field displays before ending in a \[…\].
 
-    ![Breadcrumb entries for incidents numbering from INC0010001 to INC0010015](../image/BreadcrumbEntries.png "Breadcrumb entries")
+    ![Breadcrumb entries for incidents numbering from INC0010001 to INC0010015](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/BreadcrumbEntries.png "Breadcrumb entries")
 
 

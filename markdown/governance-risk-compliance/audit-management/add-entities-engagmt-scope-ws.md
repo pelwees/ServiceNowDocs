@@ -29,7 +29,7 @@ When you add an entity to an engagement, the corresponding risks, controls, test
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
 
 3.  Click **All engagements** or **My engagements** in the Execution list.
 

@@ -21,15 +21,15 @@ Based on your Impact package, the deliverable outputs may vary:
 
 ✓ = Common standardized feature set.
 
-![Green check mark icon](../image/dark-green-checks.png) = Includes unique package-specific features
+![Green check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dark-green-checks.png) = Includes unique package-specific features
 
 |Impact deliverable|Description|Guided|Advanced|Total|
 |------------------|-----------|:----:|:------:|:---:|
-|[Get started with Impact](../reference/getting-started-with-impact.md)|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|![Green check mark icon](../image/dark-green-checks.png)|![Green check mark icon](../image/dark-green-checks.png)|
-|[Customer Impact plan](../reference/customer-impact-plan.md)|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
-|[Product Adoption Roadmaps](impact-par.md)|View a recommended implementation sequence for your capabilities.|✓|✓|✓|
-|[Value management](impact-in-platform-business-outcomes.md)|Identify your high-level goals and tie them to measurable outcomes and success metrics that helps illustrate value over time.|✓|✓|✓|
-|[Capabilities maps](capabilities-map.md)|See the applications, or capabilities, at your disposal for achieving your objectives.​|✓|✓|✓|
+|[Get started with Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/getting-started-with-impact.md)|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|![Green check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dark-green-checks.png)|![Green check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dark-green-checks.png)|
+|[Customer Impact plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/customer-impact-plan.md)|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
+|[Product Adoption Roadmaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-par.md)|View a recommended implementation sequence for your capabilities.|✓|✓|✓|
+|[Value management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-in-platform-business-outcomes.md)|Identify your high-level goals and tie them to measurable outcomes and success metrics that helps illustrate value over time.|✓|✓|✓|
+|[Capabilities maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/capabilities-map.md)|See the applications, or capabilities, at your disposal for achieving your objectives.​|✓|✓|✓|
 
        
 

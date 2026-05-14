@@ -15,7 +15,7 @@ Generate summary and ask questions to gain quick insights from your documents by
 
 ## Before you begin
 
-Configure the smart document skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](configure-skill-smart-documents.md).
+Configure the smart document skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-skill-smart-documents.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -35,10 +35,10 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     The document insights is generated based on the question.
 
-5.  Copy the response by selecting the copy icon ![copy icon](../image/icon-copy-icon.png).
+5.  Copy the response by selecting the copy icon ![copy icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/icon-copy-icon.png).
 
     The responses are copied and can easily be shared across emails, reports, or collaboration tools.
 
-6.  Provide feedback on whether the result is helpful or not by selecting the liked icon ![liked icon](../../../administer/virtual-agent/images/llm-thumbs-up-like.png) or the not liked icon ![not liked icon](../../../administer/virtual-agent/images/llm-thumbs-down-dislike.png).
+6.  Provide feedback on whether the result is helpful or not by selecting the liked icon ![liked icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../administer/virtual-agent/images/llm-thumbs-up-like.png) or the not liked icon ![not liked icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../administer/virtual-agent/images/llm-thumbs-down-dislike.png).
 
 

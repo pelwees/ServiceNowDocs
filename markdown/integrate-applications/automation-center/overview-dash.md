@@ -40,7 +40,7 @@ Deployed automations by business criticality
 
 </td><td>
 
-This chart displays data about all active automations. It also provides details about the business criticality of each of the automation. This helps you in understanding how many automations are highly critical and how many aren’t.![Deployed automations by business criticality](../images/overview-deploy-auto.png)
+This chart displays data about all active automations. It also provides details about the business criticality of each of the automation. This helps you in understanding how many automations are highly critical and how many aren’t.![Deployed automations by business criticality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-deploy-auto.png)
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Executions summaries by source
 
 </td><td>
 
-Automation Center supports data from several sources, such as ServiceNow Flow, ServiceNow RPA, and other third-party sources. This chart provides execution summary details of all active automations along with their sources. This information helps you in evaluating from which sources you’re getting data and how many automations from each of the sources are active.![Executions summaries by source](../images/overview-exe-source.png)
+Automation Center supports data from several sources, such as ServiceNow Flow, ServiceNow RPA, and other third-party sources. This chart provides execution summary details of all active automations along with their sources. This information helps you in evaluating from which sources you’re getting data and how many automations from each of the sources are active.![Executions summaries by source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-exe-source.png)
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Robotic Process Automation \(RPA\) by source
 
 </td><td>
 
-This chart displays the automations for all RPAs grouped by sources. The graph gives details of the time lines when the RPA data was sent to Automation Center.![Robotic Process Automation RPA by source](../images/overview-rpa-source.png)
+This chart displays the automations for all RPAs grouped by sources. The graph gives details of the time lines when the RPA data was sent to Automation Center.![Robotic Process Automation RPA by source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-rpa-source.png)
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Automations by ServiceNow Flow
 
 </td><td>
 
-This chart provides details of the ServiceNow flow automations with the time lines.![Automations by ServiceNow Flow](../images/overview-flow.png)
+This chart provides details of the ServiceNow flow automations with the time lines.![Automations by ServiceNow Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-flow.png)
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Document Intelligence \(DocIntel\)
 
 </td><td>
 
-This chart provides details of the Document Intelligence automations with the time lines.![Document Intelligence DocIntel](../images/overview-docintel.png)
+This chart provides details of the Document Intelligence automations with the time lines.![Document Intelligence DocIntel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-docintel.png)
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Top 10 applications used
 
 </td><td>
 
-This graph provides a vertical bar report of the top 10 business applications used. For more information on associating business applications to your automations, see .![Top 10 applications used](../images/overview-top10.png)
+This graph provides a vertical bar report of the top 10 business applications used. For more information on associating business applications to your automations, see .![Top 10 applications used](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-top10.png)
 
 </td></tr></tbody>
 </table>## Spokes &amp; Transactions
@@ -103,7 +103,7 @@ Total entitled spokes
 
 </td><td>
 
-Displays the number of spokes that you are entitled and installed in your instance.![Total entitled spokes](../images/overview-spoke1.png)
+Displays the number of spokes that you are entitled and installed in your instance.![Total entitled spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke1.png)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Installed spokes
 
 </td><td>
 
-Displays the number of spokes that are installed in your instance.![Installed spokes](../images/overview-spoke2.png)
+Displays the number of spokes that are installed in your instance.![Installed spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke2.png)
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Configured spokes
 
 </td><td>
 
-Displays the number of spokes for which connections are configured in your instance.![Configured spokes](../images/overview-spoke3.png)
+Displays the number of spokes for which connections are configured in your instance.![Configured spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke3.png)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Total entitled transactions
 
 </td><td>
 
-Displays the number of transactions that are available for use.![Total entitled transactions](../images/overview-spoke-4.png)
+Displays the number of transactions that are available for use.![Total entitled transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke-4.png)
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Consumed transactions
 
 </td><td>
 
-Displays the number of transactions that you have used.![Consumed transactions](../images/overview-spoke-5.png)
+Displays the number of transactions that you have used.![Consumed transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke-5.png)
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Applications with most transactions
 
 Displays the applications \(scope applications\) with most transactions.You can filter the results for specific time period. By default, the last one month's data is displayed.
 
-![Applications with most transactions](../images/overview-spoke6.png)
+![Applications with most transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke6.png)
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Spokes with most transactions
 
 Displays the spokes with most transactions.You can filter the results for specific time period. By default, the last one month's data is displayed.
 
-![Spokes with most transactions](../images/overview-spoke7.png)
+![Spokes with most transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-spoke7.png)
 
 </td></tr></tbody>
 </table>## Future automations
@@ -166,10 +166,10 @@ You can filter the data by department. If no department is selected, the data is
 
 |Section|Description|
 |-------|-----------|
-|New requests|Displays all automation requests that are in the New state.![New requests](../images/overview-future-1.png)|
-|Requests by intake source|Displays all automation requests grouped by intake source, such as Web, Process Mining, or Service Request.![Requests by intake source](../images/overview-future-2.png)|
-|Requests to be deployed|Displays the automation requests ready to be deployed.![Requests to be deployed](../images/overview-future-3.png)|
-|Most recent requests|Lists the automation requests sorted from most recent to oldest.![Most recent requests](../images/overview-future-4.png)|
+|New requests|Displays all automation requests that are in the New state.![New requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-future-1.png)|
+|Requests by intake source|Displays all automation requests grouped by intake source, such as Web, Process Mining, or Service Request.![Requests by intake source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-future-2.png)|
+|Requests to be deployed|Displays the automation requests ready to be deployed.![Requests to be deployed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-future-3.png)|
+|Most recent requests|Lists the automation requests sorted from most recent to oldest.![Most recent requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/overview-future-4.png)|
 
-**Parent Topic:**[Automation Center Workspace](automation-center-workspace-ui.md)
+**Parent Topic:**[Automation Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-workspace-ui.md)
 

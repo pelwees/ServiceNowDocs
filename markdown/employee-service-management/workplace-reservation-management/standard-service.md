@@ -19,5 +19,5 @@ Standard service is like a basic provision available to employees which they can
 
 Employees can see details of the available standard services with each workplace item that an employee can reserve in the Workplace Reservation Management. The standard services are also displayed as icons in the card view of workplace items when you search for an item. For example, the following image shows standard services available with a meeting room:
 
-![Standard services available with a meeting room](../image/standard-services.png "Standard services")
+![Standard services available with a meeting room](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/standard-services.png "Standard services")
 

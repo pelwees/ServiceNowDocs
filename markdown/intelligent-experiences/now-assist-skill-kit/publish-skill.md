@@ -24,7 +24,7 @@ Role required: sn\_skill\_builder.admin
 
 Publishing a skill is a two-part process. First, you must finalize at least one prompt. Finalizing a prompt marks it as ready for use and is required before the skill can be published. Then you publish the skill, it's state changes from **Draft** to **Published**. It also makes it visible to a Now Assist admin for activation in Now Assist Admin.
 
-**Tip:** Confirm that your deployment settings are configured before publishing. Once published, the skill appears in Now Assist Admin under the workflow category you selected. To learn more, see [Configure skill deployment settings](configure-skill-settings.md).
+**Tip:** Confirm that your deployment settings are configured before publishing. Once published, the skill appears in Now Assist Admin under the workflow category you selected. To learn more, see [Configure skill deployment settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-settings.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Publishing a skill is a two-part process. First, you must finalize at least one 
 
 3.  Make any necessary changes to the prompt.
 
-    Always test after making changes to your prompts. Learn more about testing your prompt at [Test a prompt](test-prompt-template.md).
+    Always test after making changes to your prompts. Learn more about testing your prompt at [Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/test-prompt-template.md).
 
 4.  In the **Skill contents** sidebar, select the prompt that you want to finalize.
 
@@ -51,24 +51,24 @@ Publishing a skill is a two-part process. First, you must finalize at least one 
 
 ## What to do next
 
-A Now Assist admin must activate the skill before users can trigger it. To learn more about activating a skill, see [Activate a skill](activate-skill.md).
+A Now Assist admin must activate the skill before users can trigger it. To learn more about activating a skill, see [Activate a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md).
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/using-now-assist-skill-kit.md)
 
 **Related topics**  
 
 
-[Create a skill](create-new-skill.md)
+[Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
-[Create a prompt](create-prompt-template.md)
+[Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 
-[Use prompt assistance](use-prompt-assistance.md)
+[Use prompt assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/use-prompt-assistance.md)
 
-[Test a prompt](test-prompt-template.md)
+[Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/test-prompt-template.md)
 
-[Evaluate a prompt](evaluate-prompt.md)
+[Evaluate a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/evaluate-prompt.md)
 
-[Activate a skill](activate-skill.md)
+[Activate a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md)
 
-[Call a custom skill from a script](call-custom-skill-from-script.md)
+[Call a custom skill from a script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/call-custom-skill-from-script.md)
 

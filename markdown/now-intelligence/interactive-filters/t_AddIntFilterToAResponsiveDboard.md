@@ -21,43 +21,43 @@ Role required: The dashboard\_admin role is required to create or edit Core UI R
 
 ## About this task
 
-To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](t_MakeAReportASubscriber.md).
+To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportASubscriber.md).
 
-For more information on which interactive filters are available, see [Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md). From this topic you can learn more about creating and configuring the different filters.
+For more information on which interactive filters are available, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../reference/r_AvailableHomepagePublisherTypes.md). From this topic you can learn more about creating and configuring the different filters.
 
 In this animation, the two visualizations and the interactive filter are all based on the incident table. Both visualizations are configured to follow filters. When you select one of the filter options, in this case, Active is true, Active is False, or All, both visualizations refresh to follow the choice.
 
-![Dashboard with a filter and two visualizations that follow it - a single score and a bar chart. The animation flows through the filter choices: All, true, and false.](../image/if-example.gif)
+![Dashboard with a filter and two visualizations that follow it - a single score and a bar chart. The animation flows through the filter choices: All, true, and false.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/if-example.gif)
 
 ## Procedure
 
 1.  Navigate to a Core UI dashboard.
 
-2.  Click the add content icon \(![Add content icon](../image/AddWidgetButton.png) \).
+2.  Click the add content icon \(![Add content icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/AddWidgetButton.png) \).
 
 3.  Select **Interactive filters**.
 
 4.  Select the type of filter to add, such as **Choice list** or **Reference**.
 
-    You can also add a new filter. For more information, see [Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md).
+    You can also add a new filter. For more information, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../reference/r_AvailableHomepagePublisherTypes.md).
 
 5.  Select the filter you want to add.
 
 6.  Click **Add** or drag the filter onto the dashboard.
 
-    ![Animated gif showing the steps to add an interactive filter to a dashboard](../image/add-if-resp-db.gif)
+    ![Animated gif showing the steps to add an interactive filter to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/add-if-resp-db.gif)
 
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../concept/c_PublishersOnHomepages.md)
 
 **Related topics**  
 
 
-[Make a breakdown act as an interactive filter](make-breakdown-interactive-filter.md)
+[Make a breakdown act as an interactive filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/make-breakdown-interactive-filter.md)
 
-[Make a report follow interactive filters](t_MakeAReportASubscriber.md)
+[Make a report follow interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportASubscriber.md)
 
-[Make a report act as an interactive filter](t_MakeAReportAPublisher.md)
+[Make a report act as an interactive filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportAPublisher.md)
 
-[Reset all interactive filters on a dashboard tab](reset-all-filters.md)
+[Reset all interactive filters on a dashboard tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/reset-all-filters.md)
 

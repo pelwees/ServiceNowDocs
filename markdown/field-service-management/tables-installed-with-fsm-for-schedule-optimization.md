@@ -50,12 +50,12 @@ Captures agent/task events from the following pre-defined triggers:-   PTO submi
 Relates a group or territory to an intraday job
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Schedule Optimization components](schedule-optimization-components.md)
+</table>**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 
 **Related topics**  
 
 
-[Optimizing technician schedules at set intervals throughout the day](../task/optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/optimize-your-schedules-intraday.md)
 
-[Configure intraday optimization](../task/configure-intraday-optimization.md)
+[Configure intraday optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/configure-intraday-optimization.md)
 

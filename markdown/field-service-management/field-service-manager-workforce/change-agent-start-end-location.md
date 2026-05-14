@@ -21,7 +21,7 @@ Role required: wm\_dispatcher, wm\_manager, sn\_fsm\_tp.fsm\_territory\_planner,
 
 ## About this task
 
-Ensure the Territory Planning plugin is activated. For more information, see [Activate Field Service Territory Planning](Activate-fsm-territory-planning.md).
+Ensure the Territory Planning plugin is activated. For more information, see [Activate Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/Activate-fsm-territory-planning.md).
 
 ## Procedure
 

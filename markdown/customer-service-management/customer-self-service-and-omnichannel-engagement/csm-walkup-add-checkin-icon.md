@@ -37,5 +37,5 @@ Service Portal for Enterprise Service Management \(com.glide.service-portal.esm\
 **Related topics**  
 
 
-[System properties for configuring Walk-up Experience for guest users](../reference/csm-walkup-guest-configure.md)
+[System properties for configuring Walk-up Experience for guest users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/csm-walkup-guest-configure.md)
 

@@ -62,7 +62,7 @@ Procedure
 </td></tr></tbody>
 </table>2.  Select a component to inspect.
 
-    -   Drag the inspect icon \(![inspect icon](../image/inspect-icon.png)\) from the Page Inspector pane to a component on the page.
+    -   Drag the inspect icon \(![inspect icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/inspect-icon.png)\) from the Page Inspector pane to a component on the page.
     -   Select an available component from the Page Inspector pane.
     The Page Inspector retrieves the list of testable page components when you first load a page. Testable components consist of standard HTML and JavaScript that are accessible to the Automated Test Framework. Test designers can use these components as part of custom UI testing.
 
@@ -73,7 +73,7 @@ Procedure
 
 ## What to do next
 
-[Create a custom UI test](create-custom-ui-test.md)
+[Create a custom UI test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/create-custom-ui-test.md)
 
-**Parent Topic:**[Custom UI test steps](../concept/custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/custom-ui-test-steps.md)
 

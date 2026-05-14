@@ -15,7 +15,7 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 Investigate and resolve unexpected behavior with Topic Recommendations, or find answers to common questions.
 
-For information about using Topic Recommendations, see [Quick start for Topic Recommendations](getting-started-topic-recommendations.md).
+For information about using Topic Recommendations, see [Quick start for Topic Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/getting-started-topic-recommendations.md).
 
 **Note:** Topic Recommendations tries to train the model when you add new topics to Virtual Agent. If an error occurs during training, the topic is still added, but the model remains in a draft state.
 
@@ -33,7 +33,7 @@ Topic Recommendations page is blank
 
 </td><td>
 
-No analysis reports have been configured.[Configure an analysis report](../task/define-tr-settings.md). You can also install or activate ITSM Virtual Agent Conversations, which will add default configurations to Topic Recommendations. For more information, see [Set up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent.md).
+No analysis reports have been configured.[Configure an analysis report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/define-tr-settings.md). You can also install or activate ITSM Virtual Agent Conversations, which will add default configurations to Topic Recommendations. For more information, see [Set up ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent.md).
 
 </td></tr><tr><td>
 

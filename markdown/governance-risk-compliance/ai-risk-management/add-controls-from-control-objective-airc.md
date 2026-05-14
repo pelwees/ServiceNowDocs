@@ -38,5 +38,5 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
     The corresponding controls are created and activated for the AI asset.
 
 
-**Parent Topic:**[Manage controls using AI Risk and Compliance](../concept/manage-controls-in-airc.md)
+**Parent Topic:**[Manage controls using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/manage-controls-in-airc.md)
 

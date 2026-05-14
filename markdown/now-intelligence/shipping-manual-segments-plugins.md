@@ -94,14 +94,14 @@ After shipping manual segments with your application:
 
 If a segment is matching but producing wrong results, the issue is usually the name being too generic or the filter being too broad. Refine the name and description before adjusting system properties.
 
-**Parent Topic:**[Segments in the Query Generation semantic layer](querygen-segments.md)
+**Parent Topic:**[Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/querygen-create-segment-manually.md)
 
-[Manual segment data model and sync behavior](manual-segment-data-model-sync.md)
+[Manual segment data model and sync behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)
 
-[Guidelines for segments](general-guidelines-segments.md)
+[Guidelines for segments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)
 

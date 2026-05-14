@@ -13,5 +13,5 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 To work with ServiceNow mobile applications, you must add at least one web-based UI instance to each of the mobile applications. The added instance or instances contains the mobile features and capabilities that are configured by your administrator.
 
-For information on administrator-based documentation regarding instances, see [Mobile instances](mobile-instances-admin-concept.md).
+For information on administrator-based documentation regarding instances, see [Mobile instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-instances-admin-concept.md).
 

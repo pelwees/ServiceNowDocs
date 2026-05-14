@@ -25,7 +25,7 @@ Role required: sn\_ohs\_im.compliance\_manager
 
     The Health and Safety Workspace opens in a new tab of the browser window.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/list-icon-hs.png)\).
 
 3.  In the **Lists** tab, under the **Establishments** list, select **All**.
 
@@ -34,5 +34,5 @@ Role required: sn\_ohs\_im.compliance\_manager
 5.  In the **Attachments** section, select the required OSHA form PDF file to open it.
 
 
-**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](../concept/generating-osha-forms.md)
+**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/generating-osha-forms.md)
 

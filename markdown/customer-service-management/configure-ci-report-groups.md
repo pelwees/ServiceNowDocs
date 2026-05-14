@@ -21,7 +21,7 @@ Role required: admin
 
 Report groups are displayed in the Customer Information view in Agent Workspace.
 
-![Configured report group shows high priority cases in the Customer Information view.](../image/report-groups.jpg)
+![Configured report group shows high priority cases in the Customer Information view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/report-groups.jpg)
 
 ## Procedure
 

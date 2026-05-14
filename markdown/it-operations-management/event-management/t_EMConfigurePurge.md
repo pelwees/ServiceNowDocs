@@ -29,22 +29,22 @@ If records are older than 90 days, by default they are purged. If records are re
 
 2.  To shorten the retention period, use the highlighted properties.
 
-    ![Event Management Properties](../image/em-purge-properties.png)
+    ![Event Management Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-purge-properties.png)
 
 
--   **[Clean alert history and impact status tables](clean-alert-tables.md)**  
+-   **[Clean alert history and impact status tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/clean-alert-tables.md)**  
 Schedule jobs to mark and remove old alert records in the Alert History \[em\_alert\_history\] and Impact Status \[em\_impact\_status\] tables, to prevent the tables from becoming overloaded with data.
 
-**Parent Topic:**[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+**Parent Topic:**[Rotate event and alert table for cleanup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/rotate-tables-purge-data.md)
 
 **Related topics**  
 
 
-[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+[Rotate event and alert table for cleanup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/rotate-tables-purge-data.md)
 
-[Modify event table rotation](event-table-rotation.md)
+[Modify event table rotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-table-rotation.md)
 
-[Clean alert history and impact status tables](clean-alert-tables.md)
+[Clean alert history and impact status tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/clean-alert-tables.md)
 
-[Alert table clean up](auto-close-alerts.md)
+[Alert table clean up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/auto-close-alerts.md)
 

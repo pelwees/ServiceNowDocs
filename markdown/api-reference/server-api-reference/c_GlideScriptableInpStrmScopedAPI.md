@@ -17,10 +17,10 @@ A GlideScriptableInputStream object cannot be instantiated directly, but is used
 
 The public APIs that can consume this input stream include:
 
--   [GlideDigest](../../GlideDigestScoped/concept/c_GlideDigestScopedAPI.md#)
--   [GlideExcelParser](../../GlideExcelParserScoped/concept/GlideExcelParserScopedAPI.md#)
--   [GlideTextReader](../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#)
--   [XMLDocument2](../../XMLDocument2ScopedAPI/concept/c_XMLDocument2ScopedAPI.md#)
+-   [GlideDigest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDigestScoped/concept/c_GlideDigestScopedAPI.md#)
+-   [GlideExcelParser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideExcelParserScoped/concept/GlideExcelParserScopedAPI.md#)
+-   [GlideTextReader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#)
+-   [XMLDocument2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../XMLDocument2ScopedAPI/concept/c_XMLDocument2ScopedAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 

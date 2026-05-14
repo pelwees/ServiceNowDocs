@@ -17,7 +17,7 @@ The Social Benefits Playbook uses an Eligibility Rules Engine, a series of pre-d
 
 ![](../image/psds_pace_engine_solution.png)
 
-A PaCE policy is  a set of pre-defined rules and logic that determines the desired behavior of an application or a service. When invoked, the rules in the policy are applied on the provided input, and a decision is reached. In PSDS, a PaCE policy represents a set of eligibility criteria that must be satisfied for a constituent to receive benefits. When invoked, the rules in the policy are applied to the case, and an auto-calculated eligibility recommendation is provided to the agent. For more information on understanding PaCE within the Social Benefits Playbook, see [Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook](psds-understanding-pace.md).
+A PaCE policy is  a set of pre-defined rules and logic that determines the desired behavior of an application or a service. When invoked, the rules in the policy are applied on the provided input, and a decision is reached. In PSDS, a PaCE policy represents a set of eligibility criteria that must be satisfied for a constituent to receive benefits. When invoked, the rules in the policy are applied to the case, and an auto-calculated eligibility recommendation is provided to the agent. For more information on understanding PaCE within the Social Benefits Playbook, see [Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-understanding-pace.md).
 
 You can use the eligibility rules engine to manage the life cycle of a policy and create, update, review, and execute policies. With the eligibility rules engine, you can:
 

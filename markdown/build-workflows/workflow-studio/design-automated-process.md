@@ -17,7 +17,7 @@ Create a sample playbook to standardize and automate how Service Desk agents han
 
 ## Before you begin
 
--   Enable the **Process Automation Designer for App Engine \[com.glide.pad.license\]** plugin with a subscription to the ServiceNow AI Platform App Engine. For more information, see [Activate Playbooks](../concept/activate-process-automation-designer.md).
+-   Enable the **Process Automation Designer for App Engine \[com.glide.pad.license\]** plugin with a subscription to the ServiceNow AI Platform App Engine. For more information, see [Activate Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activate-process-automation-designer.md).
 -   Ensure that your current application is set to **Global**. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Role required: admin or playbook.admin
 
@@ -114,7 +114,7 @@ The manual business process for this example consists of the following stages:
 
     9.  From the Fields list, select **Assigned To**.
 
-    10. Next to the **Assigned To** field, select the data pill picker icon \(![Data pill picker icon](../images/data-pill-picker-icon.png)\).
+    10. Next to the **Assigned To** field, select the data pill picker icon \(![Data pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data-pill-picker-icon.png)\).
 
     11. Dot-walk to the Interaction record's **Assigned To** field by selecting **Context** &gt; **Input Record - interaction** &gt; **Assigned To**.
 
@@ -154,7 +154,7 @@ The manual business process for this example consists of the following stages:
 
     7.  On the Configure your activity screen, locate the Variables section under Inputs.
 
-    8.  Next to the **Record** field, select the data pill picker icon \(![Data pill picker icon](../images/data-pill-picker-icon.png)\).
+    8.  Next to the **Record** field, select the data pill picker icon \(![Data pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data-pill-picker-icon.png)\).
 
     9.  Dot-walk to the **Create incident from interaction** activity's **record** output by selecting **Activities** &gt; **1:1 - automated\_create\_record** &gt; **Outputs** &gt; **record**.
 
@@ -208,7 +208,7 @@ The manual business process for this example consists of the following stages:
 
     7.  On the Configure your activity screen, locate the Variables section under Inputs.
 
-    8.  Next to the **Record** field, select the data pill picker icon \(![Data pill picker icon](../images/data-pill-picker-icon.png)\).
+    8.  Next to the **Record** field, select the data pill picker icon \(![Data pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data-pill-picker-icon.png)\).
 
     9.  Dot-walk to the **Create incident from interaction** activity's **record** output by selecting **Activities** &gt; **1:1 - automated\_create\_record** &gt; **Outputs** &gt; **record**.
 
@@ -252,7 +252,7 @@ The manual business process for this example consists of the following stages:
 
     1.  Close the Playbooks tab and navigate to **Playbook Experience**.
 
-    2.  In the side menu, click the lists icon \(![Lists icon](../images/workspace-lists-icon.png)\).
+    2.  In the side menu, click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workspace-lists-icon.png)\).
 
     3.  In the **Lists** tab under Interactions, click **My Interactions**.
 
@@ -269,7 +269,7 @@ The manual business process for this example consists of the following stages:
 
     6.  In the form header, click **Save**.
 
-    7.  In the Contextual side panel, click the playbook icon \(![Playbook icon](../images/workspace-playbook-icon.png)\).
+    7.  In the Contextual side panel, click the playbook icon \(![Playbook icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workspace-playbook-icon.png)\).
 
 
 ## Result
@@ -278,7 +278,7 @@ Your process appears in as a playbook. Here, agents and fulfillers can get a tas
 
 ## What to do next
 
-Customize the Playbook layout for deployment. To learn more, see [Customizing the Playbook Experience](../../workspace/concept/playbook-customize-playbook.md)
+Customize the Playbook layout for deployment. To learn more, see [Customizing the Playbook Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-customize-playbook.md)
 
-**Parent Topic:**[Building your first playbook](../concept/getting-started-processes.md)
+**Parent Topic:**[Building your first playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/getting-started-processes.md)
 

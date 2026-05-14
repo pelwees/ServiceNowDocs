@@ -268,10 +268,10 @@ Pre-approval requested amount
 Total amount claimed includes parts, labor, external services, and miscellaneous items.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Create a pre-authorization request](../task/mco-agents-create-pre-auth-request.md)
+[Create a pre-authorization request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-agents-create-pre-auth-request.md)
 

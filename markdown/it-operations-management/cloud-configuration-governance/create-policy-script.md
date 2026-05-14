@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_governor or admin.
 
 ## About this task
 
-For more information on using scripts, see [Cloud scripts and cloud script templates](../concept/cloud-scripts-and-templates.md).
+For more information on using scripts, see [Cloud scripts and cloud script templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-scripts-and-templates.md).
 
 ## Procedure
 
@@ -158,5 +158,5 @@ gs.info( "Output of script is = " + outputParams);
 **Related topics**  
 
 
-[Example policy action script that tags resources](add-tag-for-policy-1.md)
+[Example policy action script that tags resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-tag-for-policy-1.md)
 

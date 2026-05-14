@@ -21,11 +21,11 @@ Role required: admin
 
 ## About this task
 
-You can activate the [Approval with e-signature plugin](../../../administer/service-administration/reference/r_InstalledWApprWithEsignature.md) to require that users type in a user name and password when reviewing and approving documents.
+You can activate the [Approval with e-signature plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/service-administration/reference/r_InstalledWApprWithEsignature.md) to require that users type in a user name and password when reviewing and approving documents.
 
 The digital signature is not tracked or stored in the document record. Users must simply type in a user name and password after clicking the **Approve** or **Reject** button.
 
-![Approver Authentication](../image/MDOCDigitalSignature.png "Digital signature")
+![Approver Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/MDOCDigitalSignature.png "Digital signature")
 
 After activating the Approval with E-Signature plugin, ensure that a row in the e-signature registry table is created for the dms\_document\_revision table.
 
@@ -41,10 +41,10 @@ After activating the Approval with E-Signature plugin, ensure that a row in the 
 
 5.  Select Enabled.
 
-    ![e-Signature Registry](../image/EsigRegistry.png)
+    ![e-Signature Registry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/EsigRegistry.png)
 
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_CreateADocument.md)
 

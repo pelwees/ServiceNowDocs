@@ -25,7 +25,7 @@ Role required: admin
 
 As an administrator, you can create custom context variables for items such as non-product characteristics, that your pricing and product catalog administrators can use in rule matrices to control pricing features or product offering eligibility. For example, your pricing administrator might want to define pricing adjustments based on sales segment, but sales segment isn’t a system-defined context variable.
 
-You create the variable name and define the variable type, so that the variable can be used in a decision rule for a rule matrix. After you create the variable, you must also [map the context variable to the transaction entity](som-map-variable.md), such as quote or order, from which the system retrieves the context.
+You create the variable name and define the variable type, so that the variable can be used in a decision rule for a rule matrix. After you create the variable, you must also [map the context variable to the transaction entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-map-variable.md), such as quote or order, from which the system retrieves the context.
 
 ## Procedure
 
@@ -135,5 +135,5 @@ Option that indicates the context variable is available for use in rule matrices
 
 ## What to do next
 
-[Map the custom context variable to a transaction entity](som-map-variable.md).
+[Map the custom context variable to a transaction entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-map-variable.md).
 

@@ -27,12 +27,12 @@ Role required: sn\_itom\_cam.cw\_admin
 
 3.  Enter the details in the **New Configuration** form.
 
-    To fill the form fields, see [Cloud native interface configuration account fields](../reference/cloud-native-interface-details.md).
+    To fill the form fields, see [Cloud native interface configuration account fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/cloud-native-interface-details.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-[Review default Cloud Account Management certification policy](policy-setup.md)
+[Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 

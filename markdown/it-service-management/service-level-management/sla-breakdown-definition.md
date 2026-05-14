@@ -17,10 +17,10 @@ Using SLA breakdown, the service owner or service desk manager can see detailed 
 
 SLA breakdown is configurable and typically should be configured for the more significant SLAs such as P1 and P2 resolution. By default, the system deletes SLA breakdown data that is more than one year old. This is performed by a new table cleanup job **sla\_breakdown\_by\_assignment**. Table cleanup jobs are defined in the \[sys\_auto\_flush\] table.
 
-**Parent Topic:**[Exploring Service Level Management](exploring-slm.md)
+**Parent Topic:**[Exploring Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/exploring-slm.md)
 
 **Related topics**  
 
 
-[Configure Service Level Agreement \(SLA\)](c_ConfigureSLAs.md)
+[Configure Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_ConfigureSLAs.md)
 

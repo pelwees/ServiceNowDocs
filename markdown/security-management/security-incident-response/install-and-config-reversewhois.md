@@ -62,7 +62,7 @@ Madrid and later release requirements
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>Role required: admin
@@ -75,13 +75,13 @@ Madrid and later release requirements
 
     2.  Install and create a new configuration using the API key that you have obtained.
 
-2.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+2.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 3.  After the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Reverse Whois API tile.
 
 4.  Click **Configure**.
 
-    ![A description of the app and the button used to initiate the configuration.](../images/reverse-whois-config-tile.png)
+    ![A description of the app and the button used to initiate the configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-whois-config-tile.png)
 
 5.  In the **Reverse Whois API Configuration** dialog box, enter the API key you obtained from the Whois XML API website.
 
@@ -96,7 +96,7 @@ Madrid and later release requirements
 
     These configuration settings remain saved until you change them and apply to all Reverse Whois API searches.
 
-    ![Reverse Whois API Configuration completed configuration.](../images/reverse-config-9-4.png)
+    ![Reverse Whois API Configuration completed configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-config-9-4.png)
 
 7.  Click **Submit**.
 
@@ -105,11 +105,11 @@ Madrid and later release requirements
 
 If an error message is displayed, the API key may be invalid.
 
-![Configuration error message example.](../images/reverse-whois-config-error.png "Error message")
+![Configuration error message example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-whois-config-error.png "Error message")
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/reversewhois-lookups.md)
 
-**Previous topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Previous topic:**[Reverse Whois integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/reversewhois-lookups.md)
 
-**Next topic:**[\(Optional\) Install and configure Whois](whois-install-and-config.md)
+**Next topic:**[\(Optional\) Install and configure Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/whois-install-and-config.md)
 

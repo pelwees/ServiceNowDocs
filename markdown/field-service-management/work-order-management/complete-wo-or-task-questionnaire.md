@@ -57,5 +57,5 @@ Complete any remaining work and then close the task.
 **Related topics**  
 
 
-[Configuring survey-based work order questionnaires](../concept/work-order-questionnaire.md)
+[Configuring survey-based work order questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/work-order-questionnaire.md)
 

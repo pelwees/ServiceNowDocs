@@ -39,7 +39,7 @@ Users that the investment owner adds in the **Viewable by** field can also revie
 
     If you want to open a different investment, access the drop-down menu next to the name of the currently displayed investment. Either search for another investment by entering its name in the **Search My Investments** field or choose it from the five most recently visited investments.
 
-3.  On the **Allocate Funds** tab, click the tree view icon \(![Tree view](../image/tree-view-icon.png)\).
+3.  On the **Allocate Funds** tab, click the tree view icon \(![Tree view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/tree-view-icon.png)\).
 
     Your investment and the investments that you funded directly display as cards in a hierarchical view. The number of child investments is displayed in the parent investment card. If there are more than 10 investment cards, you can access a compact card view.
 
@@ -50,5 +50,5 @@ Users that the investment owner adds in the **Viewable by** field can also revie
 5.  Click the **Actions** menu and select **View Investment** to navigate to the investment grid.
 
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../concept/investment-funding-overview.md)
 

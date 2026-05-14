@@ -17,7 +17,7 @@ Place requests to the SuccessFactors system using the HR Service Delivery AI age
 
 ## HCM AI agents Overview
 
-You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](../task/config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](../reference/sf-agent-mapping.md).
+You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/sf-agent-mapping.md).
 
 ## Worker profile retriever AI agent
 
@@ -43,18 +43,18 @@ The Employee details updater AI agent enables you to update personal information
 
 The View paychecks AI agent enables you to view paycheck summaries for the selected period.
 
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View job tracker details](view-job-tracker-details-sf.md)
+[View job tracker details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/field-mappings-sf.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/na-va-sf.md)
 

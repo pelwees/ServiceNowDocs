@@ -17,7 +17,7 @@ Approve or reject requests by using the approval notification in Microsoft Teams
 
 ## Before you begin
 
-For information about configuring approval notifications, see [Approvals hub](../../employee-center/concept/approval-hub-intro.md).
+For information about configuring approval notifications, see [Approvals hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/approval-hub-intro.md).
 
 Role required: user
 
@@ -33,7 +33,7 @@ Role required: user
     -   Change Request
 4.  Select a notification to view the details.
 
-    ![Approve or reject notification](../images/approve-reject-notification.png)
+    ![Approve or reject notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/approve-reject-notification.png)
 
 5.  Select **View details** to view the complete details of the ticket.
 
@@ -42,5 +42,5 @@ Role required: user
 7.  Select either **Approve** or **Reject** to update the request.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-sn-ms-teams.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 3.  In the **Terms and Conditions** section, double-click **Insert a new row**.
 
-4.  Select the Lookup using list icon ![Lookup using list icon](../images/look-up-icon.png) and see whether the terms and conditions record you want to add to the record exists.
+4.  Select the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../images/look-up-icon.png) and see whether the terms and conditions record you want to add to the record exists.
 
 5.  If the record doesn't exist, create it.
 
@@ -48,5 +48,5 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
     All records from the Terms and Conditions related list are added to the **Terms and Conditions** section of the contract record. The terms and conditions records are built in the sequence specified in the **Order** field.
 
 
-**Parent Topic:**[Create workplace contracts in Core UI](create-lease-contracts.md)
+**Parent Topic:**[Create workplace contracts in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/create-lease-contracts.md)
 

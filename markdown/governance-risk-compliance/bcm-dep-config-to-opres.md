@@ -21,5 +21,5 @@ When the Business Continuity Management application is installed in an instance,
 -   Plan related assets
 -   Upstream related plans
 
-![BCM related dependencies.](../image/bcm-related-main-node-configs.png)
+![BCM related dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-related-main-node-configs.png)
 

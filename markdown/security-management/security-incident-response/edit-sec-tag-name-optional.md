@@ -27,21 +27,21 @@ Security tags help you quickly identify which security incidents have observable
 
 1.  Navigate to **All** &gt; **Check Point NGTP Integration** &gt; **Block Request List Configuration**.
 
-    ![Activate block list](../image/activate-block-list.png)
+    ![Activate block list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/activate-block-list.png)
 
 2.  Click an item in the **Name** column to open it.
 
     The Block List record is displayed. By default, the security tag name is the same value you entered in the Name field of the Block List when you created it. By default, the name also includes a Block List prefix, for example, Block List – Malware Malicious URLs.
 
-    ![Tag for Observables field](../image/block-ip.png)
+    ![Tag for Observables field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/block-ip.png)
 
 3.  Click the information icon next to tag for observables then Open record.
 
-    ![Information for observables](../image/open-record.png)
+    ![Information for observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/open-record.png)
 
     The Security Tag Form is displayed.
 
-    ![Security Tag form](../image/security-tag-form.png)
+    ![Security Tag form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-tag-form.png)
 
 4.  In the **Name** field, modify the security tag name.
 
@@ -51,14 +51,14 @@ Security tags help you quickly identify which security incidents have observable
 
     **Note:** In the following example, Outbound has been added to the tag name. Keep the Check Point prefix in your new tag name to help you identify the tag is associated with the Check Point next-generation firewall integration.
 
-    ![Block IP](../image/block-ip.png)
+    ![Block IP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/block-ip.png)
 
     The security tags are displayed for each observable type \(IP, URL, Domain\) on the Security Incident record and the Observable record each time that observable is added to Block List.
 
 
 ## Result
 
-![Observable added to a block list](../image/sec-tag-displayed-in-observ.png)
+![Observable added to a block list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sec-tag-displayed-in-observ.png)
 
 If an observable has already been added to a Block List, and a security tag is displayed on a security incident for this observable, the Block List security tag also is displayed automatically on any subsequent security incident records that are created. This duplication tells you that the observable is already on a block list. You do not need to add this observable and re-block it.
 

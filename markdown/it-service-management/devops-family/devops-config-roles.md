@@ -103,8 +103,8 @@ DevOps Config admin
 -   sn\_cdm.cdm\_admin
 
 </td></tr></tbody>
-</table>-   **[Roles in CDM](../../configuration-data-management/reference/cdm-roles.md)**  
+</table>-   **[Roles in CDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../configuration-data-management/reference/cdm-roles.md)**  
 List of roles and permissions in CDM.
 
-**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 

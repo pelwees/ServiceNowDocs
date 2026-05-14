@@ -97,5 +97,5 @@ Upgrade Status
 The upgrade status of Informers in the cluster. Possible values are: Upgrade Pending, Upgrading, Desired image in use, Upgrade using kubectl/Helm.**Note:** When the upgrade status of an Informer is Upgrade using kubectl/Helm, contact your Kubernetes admin to upgrade the informer manually.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Kubernetes Visibility Agent Reference](cnov-reference.md)
+</table>**Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 

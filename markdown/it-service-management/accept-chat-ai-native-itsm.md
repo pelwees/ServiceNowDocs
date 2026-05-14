@@ -29,7 +29,7 @@ Role required: sn\_service\_desk\_agent
 
     **Note:** You must have both **Chat** and **Incident** check boxes selected to accept an incoming chat.
 
-    ![AI native Inbox availability setting.](../image/inbox-chat-ai-native-itsm.png)
+    ![AI native Inbox availability setting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/inbox-chat-ai-native-itsm.png)
 
 3.  Select **Accept** to accept the incoming chat.
 
@@ -54,7 +54,7 @@ Role required: sn\_service\_desk\_agent
 
 ## Incident created without an associated chat \(for example, using Employee Center portal or email\)
 
-![Ai native incident form with no chat panel.](../image/incident-ai-native-itsm.png)
+![Ai native incident form with no chat panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/incident-ai-native-itsm.png)
 
-**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](../concept/fulfiller-experience-ai-native-itsm.md)
+**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../concept/fulfiller-experience-ai-native-itsm.md)
 

@@ -78,9 +78,9 @@ To keep the XML attributes and enclosing text in their original format when expo
 **Related topics**  
 
 
-[Uploading your config data](cdm-upload-process.md)
+[Uploading your config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-upload-process.md)
 
-[Add the nodes that will contain config data to a new CDM application](../task/cdm-data-structure-add-for-upload.md)
+[Add the nodes that will contain config data to a new CDM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../task/cdm-data-structure-add-for-upload.md)
 
-[Parsing of CSV files in CDM](cdm-parsing-csv-file.md)
+[Parsing of CSV files in CDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-parsing-csv-file.md)
 

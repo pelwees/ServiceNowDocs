@@ -27,6 +27,6 @@ Role required: sn\_cmp.cloud\_service\_user
 
     In this example, only **Stacks** that include the search text `s` appear in the **Search results** list:
 
-    ![Search results in the Cloud User Portal](../image/search-results.png)
+    ![Search results in the Cloud User Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/search-results.png)
 
 

@@ -27,7 +27,7 @@ When you want to block an observable that you have determined is malicious, or a
 
 1.  Navigate to **All** &gt; **Palo Alto Networks NGFW Integration** &gt; **Firewall EDL Entries**.
 
-    ![Firewall EDL Entries on the application navigator.](../image/edl-entries-list.png)
+    ![Firewall EDL Entries on the application navigator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/edl-entries-list.png)
 
 2.  Click the **Firewall EDL Entries** module.
 
@@ -47,7 +47,7 @@ When you want to block an observable that you have determined is malicious, or a
 
     The following figure shows an example of an existing domain observable and how the fields are completed automatically.
 
-    ![Matching observable exists.](../image/4-30-existing-obsv-url.png)
+    ![Matching observable exists.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-existing-obsv-url.png)
 
 5.  Click the search icon to select the EDL you want to attach the entry to.
 
@@ -57,7 +57,7 @@ When you want to block an observable that you have determined is malicious, or a
 
 7.  If a message is displayed that requests you to fill in the rest of the information manually, fill in the fields.
 
-    ![No matching observable exists.](../image/4-30-notexisting-obsv-url.png)
+    ![No matching observable exists.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-notexisting-obsv-url.png)
 
 <table id="choicetable_r4s_ryh_vdb"><thead><tr><th align="left" id="d326613e195">
 
@@ -124,7 +124,7 @@ The expiration period inherited from the EDL by default. You can override this v
 
     If you have changed the default expiration period of the EDL entry, a warning confirmation dialog box is displayed indicating that the period differs from the selected EDL.
 
-    ![Confirmation dialog box for expiration period.](../image/4-20-expiry-confirm-4-2.png)
+    ![Confirmation dialog box for expiration period.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-20-expiry-confirm-4-2.png)
 
 9.  Choose one option to configure the expiration period.
 
@@ -155,7 +155,7 @@ Cancels the override. At this point, you can change the value for the **Expirati
 </td></tr></tbody>
 </table>10. If not displayed, navigate to the **Palo Alto Networks Firewall External Dynamic List Entries** list and note that the status for the entry is Pending.
 
-    ![Firewall EDL Entries list with pending entry.](../image/4-30-boston-entry-pending.png)
+    ![Firewall EDL Entries list with pending entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-boston-entry-pending.png)
 
     The entry is now ready for approval.
 
@@ -164,14 +164,14 @@ Cancels the override. At this point, you can change the value for the **Expirati
 
 Approve EDL entries.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[Submit EDL entries from a security incident record for Palo Alto Networks Next-Generation Firewall](paloalto-submit-edl-snsi.md)
+**Previous topic:**[Submit EDL entries from a security incident record for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-submit-edl-snsi.md)
 
-**Next topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](paloalto-apprv-edl-entries-sncr.md)
+**Next topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-apprv-edl-entries-sncr.md)
 
 **Related topics**  
 
 
-[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/paloalto-edl-execptions.md)
 

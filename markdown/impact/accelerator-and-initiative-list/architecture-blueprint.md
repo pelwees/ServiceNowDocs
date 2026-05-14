@@ -39,7 +39,7 @@ The Architecture Blueprint - Advanced Accelerator provides Impact Customers with
     -   Communicate expectations for Customer participation
     -   Define scope in reference to the current architecture implementation and state
     -   Identify participant roles for the working meetings, per the defined scope
-    -   Request the completion of an intake questionnaire, and any other necessary inputs. See the [Requested information/access](architecture-blueprint.md#requested-info) section for examples.
+    -   Request the completion of an intake questionnaire, and any other necessary inputs. See the [Requested information/access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-blueprint.md#requested-info) section for examples.
 -   **Three Customer Working Sessions \(up to 120 minutes each\)**
     -   Introduce Architecture Blueprint and Accelerator to Working Session participants
     -   Introduce Architecture Blueprint categories, per the defined scope
@@ -225,7 +225,7 @@ The Architecture Blueprint - Total Accelerator provides Impact Customers with ex
     -   Communicate expectations for Customer participation
     -   Define scope in reference to the current architecture implementation and state
     -   Identify participant roles for the working meetings, per the defined scope
-    -   Request the completion of an intake questionnaire, and any other necessary inputs. See the [Requested information/access](architecture-blueprint.md#requested-info) section for examples.
+    -   Request the completion of an intake questionnaire, and any other necessary inputs. See the [Requested information/access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-blueprint.md#requested-info) section for examples.
 -   **Five Customer Working Sessions \(up to 120 minutes each\)**
     -   Introduce Architecture Blueprint and Accelerator to Working Session participants
     -   Introduce Architecture Blueprint categories, per the defined scope

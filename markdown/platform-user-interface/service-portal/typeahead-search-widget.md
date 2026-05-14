@@ -15,13 +15,13 @@ breadcrumb: [Search widgets, Widget library, Using portal widgets, Configuring S
 
 Predictive search feature that shows words as users type. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Typeahead Search widget](../image/WidgetTypeaheadSearch.png "Typeahead Search widget")
+![Typeahead Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetTypeaheadSearch.png "Typeahead Search widget")
 
 ## Instance options
 
 Use the instance options to configure the Typeahead Search widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-ais-sp.md).
 
 <table id="table_ghq_ddf_kz"><thead><tr><th>
 
@@ -85,7 +85,7 @@ Contextual Search Sources
 
 </td><td>
 
-Limit the results available in the typeahead search by only configuring specific search sources. For example, users searching in the Service Catalog only see results for the Service Catalog when that search sources is configure. For more information on contextual search, see [Configure Search Sources available on a page](configure-contextual-search.md)
+Limit the results available in the typeahead search by only configuring specific search sources. For example, users searching in the Service Catalog only see results for the Service Catalog when that search sources is configure. For more information on contextual search, see [Configure Search Sources available on a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-contextual-search.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -138,14 +138,14 @@ AI Search Source Filter
 Content that portal users can search on, including tables in your instance or external data sources. For more information, see [Defining search sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Search widgets](search-widgets.md)
+</table>**Parent Topic:**[Search widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

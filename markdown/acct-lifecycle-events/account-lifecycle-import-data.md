@@ -33,7 +33,7 @@ To import data into these default tables, follow these steps:
 
     The uploaded file appears in the Upload &amp; process file page.
 
-    ![Account onboarding: uploaded files](../image/account-onboarding-data-upload.png)
+    ![Account onboarding: uploaded files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-onboarding-data-upload.png)
 
     You can upload multiple files. For each uploaded file, the name of the file, the date on which it was uploaded, the person who uploaded the file, and upload status \(Unprocessed\) is displayed.
 
@@ -74,5 +74,5 @@ To import data into these default tables, follow these steps:
     **Note:** You can send emails only to the team members associated with the account.
 
 
-**Parent Topic:**[Data capture and validation](../concept/account-lifecycle-use-playbook-data-capture.md)
+**Parent Topic:**[Data capture and validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-use-playbook-data-capture.md)
 

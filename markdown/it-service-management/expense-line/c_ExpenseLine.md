@@ -23,27 +23,27 @@ Users with the financial\_mgmt\_admin and financial\_mgmt\_user roles can work w
 
 Expense lines integrate closely with asset management, CMDB, cost management, and contract management, but can be used with any application. The **Source ID** field on an expense line record can be linked to any record in any table. This identifier allows expenses to be associated with a wide variety of items, such as a contract, an individual asset, a single configuration item, a software installation, a lease, a service contract, a user, or a group.
 
-![Expense line for a monthly lease](../image/ExpenseLines.png "Example expense line for an asset monthly lease")
+![Expense line for a monthly lease](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../image/ExpenseLines.png "Example expense line for an asset monthly lease")
 
--   **[Components installed with Expense Line](../../expense-line/reference/r_InstalledWithExpenseLine.md#)**  
+-   **[Components installed with Expense Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../expense-line/reference/r_InstalledWithExpenseLine.md#)**  
 Several types of components are installed with the Expense Line plugin.
--   **[View an expense](../task/t_ExpenseLinesExample.md)**  
+-   **[View an expense](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../task/t_ExpenseLinesExample.md)**  
 Expense lines can be used in various ways, for example, how to view expenses that are associated with a given contract.
--   **[Expense lines and expense allocations](../../expense-line/concept/c_ExpenseLinesAndAllocations.md)**  
+-   **[Expense lines and expense allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../expense-line/concept/c_ExpenseLinesAndAllocations.md)**  
 The Expense lines application tracks costs and record expenses incurred. Expense allocations let you associate expenses with items such as users, groups, or departments.
--   **[Domain separation and Expense Line](../../expense-line/concept/domain-separation-expense-line.md)**  
+-   **[Domain separation and Expense Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../expense-line/concept/domain-separation-expense-line.md)**  
 Domain separation is unsupported in Expense Line processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../it-service-management/reference/r_ITServiceManagement.md)
 
 **Related topics**  
 
 
-[Asset Management](../../asset-management/concept/c_AssetManagement.md)
+[Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../asset-management/concept/c_AssetManagement.md)
 
 [Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md)
 
 [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-[Contract Management](../../contract-management/concept/c_ContractManagement.md)
+[Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../contract-management/concept/c_ContractManagement.md)
 

@@ -21,7 +21,7 @@ Role required: adt\_admin
 
 ## About this task
 
-The results of the filter conditions that you specify in a [diagnostic feature](add-diagnostic-feature.md) are used as an input for the diagnostic script while executing. You can also use the result of one script in subsequent scripts.
+The results of the filter conditions that you specify in a [diagnostic feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/add-diagnostic-feature.md) are used as an input for the diagnostic script while executing. You can also use the result of one script in subsequent scripts.
 
 ## Procedure
 
@@ -31,13 +31,13 @@ The results of the filter conditions that you specify in a [diagnostic feature](
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Diagnostic Scripts form](../reference/diagnostic-scripts-form.md).
+    For more information, see [Diagnostic Scripts form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/diagnostic-scripts-form.md).
 
 4.  Include a script for fixing the corrupt or invalid data identified by the diagnostic script.
 
     1.  Select the **Has Fix script** check box.
 
-    2.  Select the Edit User Roles icon \(![Edit User Roles icon](../image/edit_user_roles_icon.png)\) and choose the roles that can access the diagnostic script.
+    2.  Select the Edit User Roles icon \(![Edit User Roles icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/edit_user_roles_icon.png)\) and choose the roles that can access the diagnostic script.
 
     3.  In the **Fix script** section, add the code for the fix script.
 
@@ -47,5 +47,5 @@ The results of the filter conditions that you specify in a [diagnostic feature](
 **Related topics**  
 
 
-[Project Diagnostics](../../project-management/concept/project-diagnostics-overview.md)
+[Project Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-management/concept/project-diagnostics-overview.md)
 

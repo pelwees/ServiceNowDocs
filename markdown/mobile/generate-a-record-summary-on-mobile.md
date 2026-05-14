@@ -35,5 +35,5 @@ You can generate record summary from within the record you want summarized, or s
 5.  Now Support will confirm which record you want to summarize. Select **Yes** if the listed record is correct.
 6.  The record summary will display.
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

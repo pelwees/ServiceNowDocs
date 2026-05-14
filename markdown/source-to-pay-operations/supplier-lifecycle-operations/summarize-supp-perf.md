@@ -29,7 +29,7 @@ You can use the supplier performance summarization skill in the Source-to-Pay Wo
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  Navigate to **Lists** &gt; **Suppliers** and select the legal name of the supplier for which you want to generate the performance summary.
 
@@ -37,7 +37,7 @@ You can use the supplier performance summarization skill in the Source-to-Pay Wo
 
 4.  Under the **KPI management** tab, select **Summarize** to generate the performance summary with Now Assist.
 
-    ![Select Summarize button to generate the performance summary](../image/supp-perf-summararize.png)
+    ![Select Summarize button to generate the performance summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-perf-summararize.png)
 
 5.  Review the summary details.
 

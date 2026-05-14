@@ -23,7 +23,7 @@ Role required: sn\_pace.policy\_editor
 
 1.  Navigate to **Categories** &gt; **All Categories**.
 
-    ![All Categories form.](../image/pace-all-categories-2.jpg)
+    ![All Categories form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-all-categories-2.jpg)
 
 2.  Click the name of the category that you want to edit.
 

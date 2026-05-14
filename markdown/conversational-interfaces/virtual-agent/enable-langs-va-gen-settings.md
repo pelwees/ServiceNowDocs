@@ -35,12 +35,12 @@ Role required: virtual\_agent\_admin or admin
 
     For example, in the following image, German, Portuguese, and Japanese are not enabled.
 
-    ![For each language, the Enabled column shows either true or false.](../images/nlu-settings-example.png)
+    ![For each language, the Enabled column shows either true or false.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/nlu-settings-example.png)
 
 6.  Select the **Enabled** check box.
 
 7.  Click **Save**.
 
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/localize-va-topic.md)
 

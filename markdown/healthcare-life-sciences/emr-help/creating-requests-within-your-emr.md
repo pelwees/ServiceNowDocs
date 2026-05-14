@@ -25,6 +25,6 @@ Incidents are the task type configured by default with the EMR Help application.
 
 Use EMR Help for the following:
 
--   [Submitting ServiceNow IT service requests from EMR systems](emr-help-issues-reporting.md)
--   [Creating healthcare cases from within your EMR](submitting-cases-from-emr-systems.md)
+-   [Submitting ServiceNow IT service requests from EMR systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-reporting.md)
+-   [Creating healthcare cases from within your EMR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/submitting-cases-from-emr-systems.md)
 

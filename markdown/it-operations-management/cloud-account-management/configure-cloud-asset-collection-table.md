@@ -27,9 +27,9 @@ Role required: sn\_itom\_cam.cw\_admin
 
     The table entries are as follows.
 
-    ![Cloud Asset Collection Configs](../image/cloud-asset-collection.png)
+    ![Cloud Asset Collection Configs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cloud-asset-collection.png)
 
-3.  Double-click an entry to update the Active or Comments column, then select the Save icon![Save](../../itom-cloud-accelerate/image/save-icon.png).
+3.  Double-click an entry to update the Active or Comments column, then select the Save icon![Save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../itom-cloud-accelerate/image/save-icon.png).
 
     **Note:** You can stop collecting cloud assets by setting the Active column as false.
 

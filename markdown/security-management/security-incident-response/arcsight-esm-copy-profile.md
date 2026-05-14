@@ -29,7 +29,7 @@ As a user with the sn\_si.admin role, if you copy a profile, the profile name is
 
 2.  In the ArcSight Profiles list that is displayed, select a profile that you want to copy, and, from the Actions on selected rows list, select **Copy**.
 
-    ![ArcSight ESM: Profiles](../image/sir-arcsight-esm-copy-profile.png)
+    ![ArcSight ESM: Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-copy-profile.png)
 
     The profile is copied and displayed on the list. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the configuration settings apply to the new profile as required.
 

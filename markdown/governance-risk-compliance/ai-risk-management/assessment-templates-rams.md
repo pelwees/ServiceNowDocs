@@ -36,7 +36,7 @@ Use the Assessment Workspace to perform the following actions:
 -   Publish draft templates to make them available for use in assessments.
 -   Create assessment templates to support custom assessment requirements.
 
-**Note:** You must publish a template before you can initiate assessments that use it. For more information, see [Publish the assessment templates](../task/publish-the-assessment-templates.md). For more information on creating and editing assessments using Smart Assessment Engine, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md) and [Post-assessment automations](../../assessment-engine/concept/impact-automation.md).
+**Note:** You must publish a template before you can initiate assessments that use it. For more information, see [Publish the assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/publish-the-assessment-templates.md). For more information on creating and editing assessments using Smart Assessment Engine, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../assessment-engine/task/sae-asmnt-template-create.md) and [Post-assessment automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../assessment-engine/concept/impact-automation.md).
 
 ## Assessment template structure
 
@@ -137,7 +137,7 @@ Business configuration enables organizations to tailor assessment automation and
 
     After configuration, complete a test assessment and verify that the expected control objectives and risk statements are generated and mapped to the AI system once the assessment is marked as Closed complete.
 
-    For more information on post-assessment automations and configurations, see [Post-assessment automations](../../assessment-engine/concept/impact-automation.md) and [Configure post-assessment actions](../../assessment-engine/task/configure-post-assessment-actions.md).
+    For more information on post-assessment automations and configurations, see [Post-assessment automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../assessment-engine/concept/impact-automation.md) and [Configure post-assessment actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../assessment-engine/task/configure-post-assessment-actions.md).
 
 -   **Post-assessment action configuration example**
 
@@ -177,7 +177,7 @@ Business configuration enables organizations to tailor assessment automation and
     -   Data Breaches and Theft
     -   Adversarial Attacks
     -   Unauthorized Access to AI Models
-    ![Risk statement mapping automation rule example](../image/automation-rule-ex.png "Automation rule view for an impact assessment")
+    ![Risk statement mapping automation rule example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/automation-rule-ex.png "Automation rule view for an impact assessment")
 
     When the assessment is submitted and marked as Closed complete, these mappings are evaluated and the corresponding risk and control records are automatically associated with the AI system.
 
@@ -195,14 +195,14 @@ Business configuration enables organizations to tailor assessment automation and
 
     To define the default RAM used for risk assessments across AI systems, set the `sn_grc_ai_gov.aisystem_primary_ram` property.
 
-    For more information, see [Set up AI Risk and Compliance properties](../task/configure-airc-properties.md).
+    For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/configure-airc-properties.md).
 
-    **Important:** To enable risk score roll-up across AI assets, install the Advanced Risk application and set the Migrate to Advanced Risk Assessments property to Yes. This is a one-way configuration change that permanently transitions risk calculation and roll-up behavior to the Advanced Risk framework. See [Set up Advanced Risk assessments properties](../task/advanced-risk-assessments-properties-airc.md).
+    **Important:** To enable risk score roll-up across AI assets, install the Advanced Risk application and set the Migrate to Advanced Risk Assessments property to Yes. This is a one-way configuration change that permanently transitions risk calculation and roll-up behavior to the Advanced Risk framework. See [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/advanced-risk-assessments-properties-airc.md).
 
 
 ## Assessment templates
 
-The following table lists assessment templates available for AI systems, AI models, and AI cases. Templates delivered with AI Risk and Compliance are provided in **Draft** state. A user with the AI Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role publishes draft templates through the Assessment Workspace. For instructions, see [Publish the assessment templates](../task/publish-the-assessment-templates.md).
+The following table lists assessment templates available for AI systems, AI models, and AI cases. Templates delivered with AI Risk and Compliance are provided in **Draft** state. A user with the AI Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role publishes draft templates through the Assessment Workspace. For instructions, see [Publish the assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/publish-the-assessment-templates.md).
 
 |Name|Description|Applies to|Default state|When to use|
 |----|-----------|----------|-------------|-----------|
@@ -309,7 +309,7 @@ When models or datasets require independent governance evaluation. Unlike AI sys
  It’s selected when initiating a risk assessment on an AI model or dataset and evaluates characteristics such as data sensitivity, intended use, and associated risk factors.
 
 </td></tr></tbody>
-</table>For information about coordinating multiple risk assessments together, see [Risk assessment project in AI Risk and Compliance](risk-assessment-project-airc.md).
+</table>For information about coordinating multiple risk assessments together, see [Risk assessment project in AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/risk-assessment-project-airc.md).
 
 **Important:** Automated and advanced risk scoring behavior depends on RAM configuration. To enable risk score roll-up across AI assets, install the Advanced Risk application and migrate to Advanced Risk Assessments. This is a one-way configuration change.
 
@@ -328,7 +328,7 @@ A typical assessment sequence for an AI system demonstrates how these components
 5.  After the assessment is marked as closed complete, the system generates risk and control records and maps them to the AI asset. The Risk assessment for AI inventory RAM then evaluates each identified risk using quantitative scoring to calculate inherent and residual risk scores.
 6.  For AI systems subject to the EU AI Act, additional assessments such as the EU AI Act Conformity Assessment and the Fundamental Rights Impact Assessment \(FRIA\) provide specialized regulatory evaluation.
 
-Throughout this progression, assessment outcomes and risk scores inform governance decisions about whether an AI system can advance to the next life-cycle phase. For an overview of how these activities align with life-cycle stages, see [AI governance life cycle](ai-gov-lifecycle.md).
+Throughout this progression, assessment outcomes and risk scores inform governance decisions about whether an AI system can advance to the next life-cycle phase. For an overview of how these activities align with life-cycle stages, see [AI governance life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md).
 
 **Note:** Automated risk classification provides early risk context only. It doesn’t approve deployment, initiate life-cycle workflows, or replace downstream impact or risk assessments.
 

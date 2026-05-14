@@ -118,7 +118,7 @@ Body text in the template.
 
  For example, you can select **Fullscreen** to view how the PDF layout is formatted.
 
- In the Root cause analysis \(Overall observations\) section of the PDF, you can include the following related lists information:![Related lists.](../image/op-vul-doc-template-pdf-rel-lists.png)
+ In the Root cause analysis \(Overall observations\) section of the PDF, you can include the following related lists information:![Related lists.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-doc-template-pdf-rel-lists.png)
 
 -   Action tasks
 -   Impacted areas

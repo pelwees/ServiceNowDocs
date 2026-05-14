@@ -34,10 +34,10 @@ A task record, for example, problem or incident, has the following editable view
 
     |Option|Description|
     |------|-----------|
-    |**Edit the form view that appears while creating a record**|Select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header and navigate to **View** &gt; **Service Operations Workspace New Record**.|
-    |**Edit the form view that appears after saving the record**|Select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header and navigate to **View** &gt; **Service Operations Workspace**.|
+    |**Edit the form view that appears while creating a record**|Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header and navigate to **View** &gt; **Service Operations Workspace New Record**.|
+    |**Edit the form view that appears after saving the record**|Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header and navigate to **View** &gt; **Service Operations Workspace**.|
 
-3.  On the task record form, for example, in an incident form, select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) and perform any of the following actions.
+3.  On the task record form, for example, in an incident form, select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) and perform any of the following actions.
 
     |Option|Description|
     |------|-----------|
@@ -49,5 +49,5 @@ A task record, for example, problem or incident, has the following editable view
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-record-pages-sow-itsm.md)
 

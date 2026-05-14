@@ -35,7 +35,7 @@ Role required: admin.
 
 4.  Select a target for the scan.
 
-    ![Image showing the Scan Suites Now modal.](../image/hc-scan-suites-modal.png)
+    ![Image showing the Scan Suites Now modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hc-scan-suites-modal.png)
 
     -   **Full Instance**: Scans all the available records in the instance.
     -   **Scoped App**: Scans selected scoped apps. You can select multiple scoped apps.
@@ -45,16 +45,16 @@ Role required: admin.
     **Note:** If a record is inactive, the checks don't generate any findings for that record.
 
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-execute-scans.md)
 
 **Related topics**  
 
 
-[Execute a point scan](hs-execute-point-scan.md)
+[Execute a point scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md)
 
-[Execute a test scan](hs-execute-test-scan.md)
+[Execute a test scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-test-scan.md)
 
-[Execute a full scan](hs-execute-full-scan.md)
+[Execute a full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-full-scan.md)
 
-[Execute a reactive scan](hs-reactive-scan.md)
+[Execute a reactive scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-reactive-scan.md)
 

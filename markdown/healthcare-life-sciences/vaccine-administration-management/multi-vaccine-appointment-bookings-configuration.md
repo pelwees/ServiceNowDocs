@@ -39,5 +39,5 @@ If the slot selection system property \(**sn\_vaccine\_sm.enable\_appointment\_s
 
 **Note:** For the functionality to run properly, make sure that both the inventory management system property \(**sn\_vaccine\_sm.enable\_inventory\_management**\) and the enable multi-vaccine system property \(**sn\_vaccine\_sm.enable\_multi\_vaccine**\) values are **true**.
 
-**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 

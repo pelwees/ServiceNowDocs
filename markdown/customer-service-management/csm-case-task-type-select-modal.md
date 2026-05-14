@@ -21,7 +21,7 @@ When an agent creates a case task from a case task list, they can select a servi
 
 </td><td>
 
-![Case task type selector with a Service task field that you can use to select a case task service](../image/case-task-type-selector-list.png "Case task type selector (case task list view)")
+![Case task type selector with a Service task field that you can use to select a case task service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/case-task-type-selector-list.png "Case task type selector (case task list view)")
 
 </td></tr><tr><td>
 
@@ -29,7 +29,7 @@ When an agent creates a case task from a case record, the case task type selecto
 
 </td><td>
 
-![Case task type selector with fields that display the service from the case and a dropdown list of selectable case task services](../image/case-task-type-selector-record.png "Case task type selector (case record view)")
+![Case task type selector with fields that display the service from the case and a dropdown list of selectable case task services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/case-task-type-selector-record.png "Case task type selector (case record view)")
 
 </td></tr></tbody>
 </table>An agent working on a case or a case type can create case tasks in the following ways.
@@ -86,11 +86,11 @@ Select **Create Task** in the activity viewer
 The **Service** field is auto-filled with the case service. The **Case task service** field lists the task services related to the case service.
 
 </td></tr></tbody>
-</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](../task/config-case-type-declarative-action.md).
+</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-case-type-declarative-action.md).
 
 ## Configuring service definitions for cases and case tasks
 
-The system administrator creates the [service definitions](csm-service-definitions.md) for cases and case tasks, along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
+The system administrator creates the [service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) for cases and case tasks, along with their relationships. The service definition manager and service definition admin can also create these service definitions and relationships.
 
-For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [Configuring service definitions](csm-service-definitions-configure.md).
+For case task service definitions, the system administrator can include logic and default field values that the system uses when creating the case tasks. For more information, see [Configuring service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md).
 

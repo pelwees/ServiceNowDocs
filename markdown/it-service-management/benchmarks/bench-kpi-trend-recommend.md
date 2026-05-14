@@ -19,7 +19,7 @@ The KPI Performance Trends chart section is shown only for users with the Benchm
 
 ## KPI Performance Trends chart
 
-![KPI Performance Trends](../image/BenchTrend.png "6-month monthly data mapped against global data")
+![KPI Performance Trends](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/BenchTrend.png "6-month monthly data mapped against global data")
 
 Your 6-month monthly data is mapped against global data, and your percentile rank indicating your standing within the participating peer group is shown.
 
@@ -39,7 +39,7 @@ Recommendation candidates are provided in the performance trend view to help imp
 
 **Note:** Some KPI recommendations that use guided setup require system admin permission. Work with your system administrator to implement these recommendations.
 
-![Recommendations filtered into Implemented or Saved tabs](../image/bench-recommend.png "Recommendations filtered into Implemented or Saved tabs")
+![Recommendations filtered into Implemented or Saved tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/bench-recommend.png "Recommendations filtered into Implemented or Saved tabs")
 
 Actions are available for each recommendation candidate. Based on the action, recommendations get filtered into the appropriate group tab \(Implemented or Saved\). Closing out the recommendation removes the recommendation candidate from the list.
 
@@ -80,5 +80,5 @@ Tabs for recommendation candidates:
     Lists all recommendation candidates that have been saved to implement later.
 
 
-**Parent Topic:**[Deprecated Benchmarks dashboard](c_BenchDashboard.md)
+**Parent Topic:**[Deprecated Benchmarks dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/c_BenchDashboard.md)
 

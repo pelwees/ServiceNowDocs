@@ -19,9 +19,9 @@ This API provides methods that enable you to get and set dynamic schema attribut
 
 To use this API to create dynamic attributes you must have the dynamic\_schema\_writer role. To read dynamic data using this API you must have the dynamic\_schema\_reader role.
 
-There are methods in this API that have the same functionality as dynamic schema methods in the [GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) API. Use this API if you want to set the same dynamic attributes on multiple records. Using this API, you can stage a GlideDynamicAttributeStore object with the intended attributes and then copy that object to records using the setDynamicAttributeValue\(\) or setDynamicAttributeValues\(\) method.
+There are methods in this API that have the same functionality as dynamic schema methods in the [GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) API. Use this API if you want to set the same dynamic attributes on multiple records. Using this API, you can stage a GlideDynamicAttributeStore object with the intended attributes and then copy that object to records using the setDynamicAttributeValue\(\) or setDynamicAttributeValues\(\) method.
 
-[GlideAggregate - Global](../../GlideAggregate/concept/c_GlideAggregateAPI.md#) methods usable with dynamic schema:
+[GlideAggregate - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideAggregate/concept/c_GlideAggregateAPI.md#) methods usable with dynamic schema:
 
 -   addAggregate\(\)
 -   addHaving\(\)
@@ -32,7 +32,7 @@ There are methods in this API that have the same functionality as dynamic schema
 -   orderBy\(\)
 -   orderByAggregate\(\)
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#) methods usable with dynamic schema:
+[GlideRecord - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) methods usable with dynamic schema:
 
 -   addQuery\(\)
 -   getDisplayValue\(\)
@@ -50,12 +50,12 @@ There are methods in this API that have the same functionality as dynamic schema
 
 See also:
 
--   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
--   [GlideElement - Global](../../GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideElementDynamicAttributeStore - Global](../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#)
+-   [GlideDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
+-   [GlideElement - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElement_global/concept/c_GlideElementAPI.md#)
+-   [GlideElementDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideDynamicAttributeStore - clear\(\)
 
@@ -230,7 +230,7 @@ Array
 
 </td><td>
 
-Array containing all transient and non-transient dynamic attributes present in the store.-   Dynamic attributes are defined in the Dynamic Attribute \[dynamic\_attribute\] table with a data type and a sys\_id. See [GlideDynamicAttribute](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#).
+Array containing all transient and non-transient dynamic attributes present in the store.-   Dynamic attributes are defined in the Dynamic Attribute \[dynamic\_attribute\] table with a data type and a sys\_id. See [GlideDynamicAttribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#).
 -   Transient dynamic attributes are dynamic attributes that have been added to a DynamicAttributeStore field without a definition in the Dynamic Attribute \[dynamic\_attribute\] table. Transient dynamic attributes are handled as strings and have no sys\_id.
 
 </td></tr></tbody>
@@ -431,7 +431,7 @@ Output:
 
 Clears the current GlideDynamicAttributeStore object and then stores the passed JSON map in the GlideDynamicAttributeStore object.
 
-This method is functionally the same as [GlideDynamicAttributeStore - setValue\(Object value\)](GlideDynamicAttStoreAPI.md#), except that it assumes that all date values are provided in the user's locale.
+This method is functionally the same as [GlideDynamicAttributeStore - setValue\(Object value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideDynamicAttStoreAPI.md#), except that it assumes that all date values are provided in the user's locale.
 
 <table id="table_zpm_m2j_1bc" class="parameters"><thead><tr><th>
 
@@ -509,7 +509,7 @@ Output:
 
 Sets the value of the dynamic attribute located at a specified path within a dynamic attribute store element.
 
-This method works the same as the [GlideDynamicAttributeStore - setDynamicAttributeValue\(String attrPath, Object value\)](GlideDynamicAttStoreAPI.md#) method except in its handling of Boolean and date/time values. This method assumes that all date/time values are provided in the user's locale.
+This method works the same as the [GlideDynamicAttributeStore - setDynamicAttributeValue\(String attrPath, Object value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideDynamicAttStoreAPI.md#) method except in its handling of Boolean and date/time values. This method assumes that all date/time values are provided in the user's locale.
 
 <table id="table_zqq_cxp_1bc" class="parameters"><thead><tr><th>
 
@@ -780,7 +780,7 @@ Output:
 
 Clears the current GlideDynamicAttributeStore object and then stores the passed JSON map in that GlideDynamicAttributeStore object.
 
-This method is functionally the same as [GlideDynamicAttributeStore - setDisplayValue\(Object value\)](GlideDynamicAttStoreAPI.md#) except that it assumes that all date values are in UTC.
+This method is functionally the same as [GlideDynamicAttributeStore - setDisplayValue\(Object value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideDynamicAttStoreAPI.md#) except that it assumes that all date values are in UTC.
 
 <table id="table_uh2_2hj_1bc" class="parameters"><thead><tr><th>
 

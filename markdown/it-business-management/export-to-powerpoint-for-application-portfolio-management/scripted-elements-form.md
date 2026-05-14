@@ -53,7 +53,7 @@ Data Script
 
 </td><td>
 
-Script used to fetch data for the report.For more information on how to manage Scripted Elements, see [Manage Related Tables and Scripted Elements forms](../task/manage-components-export-ppt.md).
+Script used to fetch data for the report.For more information on how to manage Scripted Elements, see [Manage Related Tables and Scripted Elements forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../task/manage-components-export-ppt.md).
 
 </td></tr></tbody>
 </table>## Line chart parameter
@@ -188,5 +188,5 @@ Size of overlapping among the bars in the chart.
 Accepted numeric value range is from 0 to 100.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Export to PowerPoint Reference](export-ppt-reference.md)
+</table>**Parent Topic:**[Export to PowerPoint Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-reference.md)
 

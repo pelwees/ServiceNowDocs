@@ -35,7 +35,7 @@ Use action items to define what an action function does when a user uses that fu
 
 4.  In the **Action item** area of the form, select **New** and complete the fields for the action item as needed.
 
-    For more information on creating an action item, see [Configure an action item](sg-studio-create-action-item.md).
+    For more information on creating an action item, see [Configure an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 5.  In the **Data parameters** area of the Action Item form, select **New**.
 

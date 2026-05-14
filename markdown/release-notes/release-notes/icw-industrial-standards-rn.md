@@ -75,5 +75,5 @@ Industrial Standards is automatically installed when you install Industrial Conn
     The ICW Mobile Experience provides a mobile‑first interface that enables frontline workers to perform tasks, report deviations, and access standards and knowledge while on the shop floor. It offers offline readiness, barcode or QR scanning, and streamlined execution flows optimized for industrial environments. Mobile capabilities extend the functions of ICW Core, Industrial Standards, and Industrial Guided Tasks directly to operators’ handheld devices.
 
 
-**Parent Topic:**[Industrial Connected Workforce release notes](industrial-connected-workforce-rn-landing.md)
+**Parent Topic:**[Industrial Connected Workforce release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/industrial-connected-workforce-rn-landing.md)
 

@@ -35,13 +35,13 @@ To configure Session Validation, you must perform the following steps:
 
     2.  Choose the kind of Policy Input \(Filter Criteria\) that you want to create.
 
-        Available options are IP, Role, and Group Filter Criteria. Let's choose **IP Filter Criteria**.![IP Filter Criteria](../images/use-ip-session-context-filter.png)
+        Available options are IP, Role, and Group Filter Criteria. Let's choose **IP Filter Criteria**.![IP Filter Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/use-ip-session-context-filter.png)
 
     3.  Fill the form with the filter details and provide the **IP Range**.
 
-        ![IP Filter Criteria](../images/ip-range-session-context.png)
+        ![IP Filter Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/ip-range-session-context.png)
 
-        To learn more about how to create an IP Filter, see [Create IP filter criteria](create-ip-filter-criteria.md).
+        To learn more about how to create an IP Filter, see [Create IP filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-ip-filter-criteria.md).
 
     4.  Select **Submit**.
 
@@ -53,15 +53,15 @@ To configure Session Validation, you must perform the following steps:
 
         **Note:** You can set the conditions to `true` or `false` based on the configuration of the policy input. In this example, it is set to `true`. Setting the condition to true in this case allows only the user with the configured IP address to log in.
 
-        ![Condition](../images/condition-session-context.png)
+        ![Condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/condition-session-context.png)
 
 5.  Select the `Active` check box to activate the policy after the Session Validation Policy is set up with policy inputs and conditions.
 
-    ![Activate Session Context](../images/activate-session-context.png)
+    ![Activate Session Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/activate-session-context.png)
 
 6.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **Properties** and enable the Session Validation property.
 
-    ![Session Validation property](../images/session-context.png)
+    ![Session Validation property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/session-context.png)
 
 7.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Contexts** &gt; **Session Validation Context**.
 
@@ -72,7 +72,7 @@ To configure Session Validation, you must perform the following steps:
     -   The Session Validation context is set to **Allow Policy**.
     -   Allow Policy is selected as **Session Validation Policy**.
     -   The Session Validation Context for an authentication policy can only be with **Allow Policy**.
-    ![Policy Context](../images/policy-session-context.png)
+    ![Policy Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/policy-session-context.png)
 
 
 ## Result

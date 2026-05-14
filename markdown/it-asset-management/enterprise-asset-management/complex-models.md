@@ -45,7 +45,7 @@ For enterprise model components, serialized child assets are created that are ba
 
 The model component relationship defined with the multi-component model is extended and visible in the child asset records. Swapping of child assets can only be performed with the same model component. A child asset can't be swapped with a different model component.
 
-![Multi-component model and multi-component asset](../image/eammodel-asset.png "Relationship between multi-component model and multi-component asset")
+![Multi-component model and multi-component asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eammodel-asset.png "Relationship between multi-component model and multi-component asset")
 
 ## Pre-assembled and user-assembled assets
 
@@ -53,9 +53,9 @@ Assets associated with pre-assembled and user-assembled multi-component models a
 
 -   Pre-assembled asset: when the parent asset is created, the child assets are automatically created. Child assets are created in the same stockroom where the parent asset is created. The child assets inherit the parent asset's properties such as stockroom, state, sub status. No asset tag or serial tag is attached to the child asset when it's created. You can add additional child assets, add-ons, even if it's not defined in the model component. When an add-on asset is added, the **Asset type** field displays the value **Pre-assembled with add-on**.
 -   User-assembled asset: assemble assets using assets present in the parent asset stockroom.
-    -   Assemble the assets yourself by using the **Assemble** button in the asset record. For details, see [Select assets for user-assembled asset](../task/assemble-assets-eam.md).
+    -   Assemble the assets yourself by using the **Assemble** button in the asset record. For details, see [Select assets for user-assembled asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/assemble-assets-eam.md).
     -   Automatically assemble assets via the **Auto-assemble** button to trigger a process to automatically select assets from a stockroom and associate the assets to a parent asset. If the required quantity of assets isn’t available in the stockroom, an error appears and you can't automatically assemble assets. Use the **Assemble** button to assemble the assets on your own.
-    -   Release all child and add-on assets from the parent asset. For details on releasing assets, see [Release assets from the parent asset](../task/release-assets-eam.md).
+    -   Release all child and add-on assets from the parent asset. For details on releasing assets, see [Release assets from the parent asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/release-assets-eam.md).
 
 You can swap child assets for any multi-component asset that is in one of the following states:
 
@@ -64,7 +64,7 @@ You can swap child assets for any multi-component asset that is in one of the fo
 -   In Stock Defective
 -   In Stock Pending Repair
 
-**Note:** For more details on swapping assets, see [Swap assets for parent multi-component asset](../task/swap-assets-eam.md).
+**Note:** For more details on swapping assets, see [Swap assets for parent multi-component asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/swap-assets-eam.md).
 
 ## Multiple model components for an enterprise model
 

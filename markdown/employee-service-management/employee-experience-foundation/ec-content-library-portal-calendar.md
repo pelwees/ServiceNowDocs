@@ -81,12 +81,12 @@ Schedule
 
 </td><td>
 
-The calendar you want to appear on the Employee Center.Select the Lookup using list icon \(![Lookup using list icon](../../human-resources/image/magnify-glass-outline-icon.png)\) to view a list of link content.
+The calendar you want to appear on the Employee Center.Select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/image/magnify-glass-outline-icon.png)\) to view a list of link content.
 
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    The **Schedule Content** related list displays. For information on publishing your content, see [Scheduling the delivery of content](ecpro-schedule-content.md).
+    The **Schedule Content** related list displays. For information on publishing your content, see [Scheduling the delivery of content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-schedule-content.md).
 
 7.  Or select **Submit** to save the record and return to the list of content.
 

@@ -73,5 +73,5 @@ Cancel the milestone altogether. On the **Cancel milestone** window, provide you
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/shopper-todos.md)
 

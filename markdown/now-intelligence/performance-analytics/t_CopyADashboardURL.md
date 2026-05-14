@@ -13,7 +13,7 @@ breadcrumb: [Working with responsive dashboards, Create and use dashboards, Resp
 
 # Copy a responsive dashboard URL
 
-It is not possible to copy a dashboard URL from the browser. You can, however, create a URL that opens the current view of the dashboard, including tabs and [breakdown elements](../concept/performance-analytics-glossary.md#). When the link is followed, the ServiceNow platform frame around the dashboard is not included.
+It is not possible to copy a dashboard URL from the browser. You can, however, create a URL that opens the current view of the dashboard, including tabs and [breakdown elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#). When the link is followed, the ServiceNow platform frame around the dashboard is not included.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: You must be able to access the dashboard.
 
 3.  Select a tab, breakdown, and breakdown element.
 
-4.  From the context menu ![context menu icon](../image/ContextMenu.png) select **Copy Dashboard URL**.
+4.  From the context menu ![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ContextMenu.png) select **Copy Dashboard URL**.
 
 
 ## Result
@@ -104,7 +104,7 @@ sysparm\_element=&lt;value&gt;
 
 </td><td>
 
-The sys\_id or value of the [breakdown element](../concept/performance-analytics-glossary.md#) to show. This parameter applies only if **sysparm\_breakdown\_source** also exists. Values are case-sensitive.
+The sys\_id or value of the [breakdown element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#) to show. This parameter applies only if **sysparm\_breakdown\_source** also exists. Values are case-sensitive.
 
 </td></tr><tr><td>
 

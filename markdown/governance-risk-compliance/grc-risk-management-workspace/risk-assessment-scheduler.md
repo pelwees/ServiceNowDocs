@@ -26,12 +26,12 @@ Based on this information, the system automatically creates the risk assessment 
 
 The following figure shows the states, the descriptions, and the expected outcomes of each of the actions for the risk scheduler form:
 
-![The complete life cycle of the risk assessment scheduler](../image/risk_assessment_scheduler.png "Workflow and actions of the risk assessment scheduler")
+![The complete life cycle of the risk assessment scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk_assessment_scheduler.png "Workflow and actions of the risk assessment scheduler")
 
-**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
 **Related topics**  
 
 
-[Schedule risk assessments in the Risk Workspace](../../grc-workspace-risk/task/schedule-risk-assessment-workspace.md)
+[Schedule risk assessments in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/task/schedule-risk-assessment-workspace.md)
 

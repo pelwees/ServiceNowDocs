@@ -26,17 +26,17 @@ After setting up the records in the required tables, Operational Resilience admi
 
 You can configure the node relationships such as the sequence, source table, relationship table, target table, and active flag in the Opres with CSDM header Main node configuration as shown in the example.
 
-![Opres with CSDM header Main node configuration.](../image/node-rel-config-opres-w-csdm-header.png)
+![Opres with CSDM header Main node configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-config-opres-w-csdm-header.png)
 
 The following illustration shows the node relationship configurations for Opres with CSDM header Main node configuration, provided as the base version. For each relationship \[cmdb\_rel\_ci\] table, you can set up combined relationship configurations. For example, for a business service as the parent class, you can configure its relationship to a service offering, then to a business process, and to an application service.
 
-![Relationships.](../image/node-rel-example.png)
+![Relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-example.png)
 
 The relationship of the CMDB objects is shown in the illustration. The data shown in the illustration exists in the CMDB tables. Main node relationships are configured to inform Operational Resilience about the type of data that should be imported into the application.
 
-![CSDM objects.](../image/csdm-objects-rel.png)
+![CSDM objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/csdm-objects-rel.png)
 
-For information on updating the node relationship configurations, see [Configure the Node relationship configurations](../task/update-node-rel-config.md)
+For information on updating the node relationship configurations, see [Configure the Node relationship configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/update-node-rel-config.md)
 
 .
 

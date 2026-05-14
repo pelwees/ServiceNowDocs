@@ -81,5 +81,5 @@ Applies an alternate color from the UX Theme Properties \[sys\_ux\_theme\_proper
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Predefined colors in reports](../concept/colors-reports.md)
+**Parent Topic:**[Predefined colors in reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/colors-reports.md)
 

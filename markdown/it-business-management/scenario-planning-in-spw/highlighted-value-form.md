@@ -21,5 +21,5 @@ Learn about the fields of the Highlighted Value form. Use this form to customize
 |Application|Scope of yourServiceNow instance. By default, this field is set to **Portfolio Planning**.|
 |Field|Column of the table that is highlighted in the workspace.|
 
-**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 

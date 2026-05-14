@@ -33,13 +33,13 @@ To add a button to your mobile web screen, you must use UI Builder. For more inf
 
 5.  In the region of the mobile web screen where you want to add the button that launches Virtual Agent, select the plus sign to add a component.
 
-    ![UI Builder shown where you can select the plus sign.](../image/mobwebscre-add-va.png)
+    ![UI Builder shown where you can select the plus sign.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobwebscre-add-va.png)
 
 6.  Select the **Component** you want to use to launch Virtual Agent in the mobile web screen.
 
     For example, if you want to add a button that users can select to launch Virtual Agent, select **Components** and then select **Button**.
 
-    ![UI Builder dialog box where you can select a button component.](../image/mobwebscre-select-button.png)
+    ![UI Builder dialog box where you can select a button component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobwebscre-select-button.png)
 
 7.  Select the button in your mobile web screen UXF page to configure the component in the menu on the side of the screen:
 
@@ -55,5 +55,5 @@ To add a button to your mobile web screen, you must use UI Builder. For more inf
 
 In your mobile web screen on your device, refresh the mobile app to display the button you added for Virtual Agent.
 
-**Parent Topic:**[Mobile web screen](../concept/url-screen.md)
+**Parent Topic:**[Mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/url-screen.md)
 

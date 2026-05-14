@@ -39,5 +39,5 @@ Internet Explorer isn’t supported.
     App Engine Studio \(AES\) is a guided, low-code tool for developing rich web applications to store information, automate business processes, and solve business problems.
 
 
-**Parent Topic:**[Workflow Studio release notes](workflow-studio-rn-landing.md)
+**Parent Topic:**[Workflow Studio release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/workflow-studio-rn-landing.md)
 

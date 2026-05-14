@@ -23,7 +23,7 @@ Forbearance is also a temporary postponement of scheduled loan repayments where 
 
 The following diagram shows how the application helps bank agents resolve a Loan Deferment service request.
 
-![Workflow that shows how a loan service request for deferment is resolved using the Loan Operations application.](../image/loan-deferment-workflow.png "Loan Deferment workflow")
+![Workflow that shows how a loan service request for deferment is resolved using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/loan-deferment-workflow.png "Loan Deferment workflow")
 
 The following workflow routes the case and tasks for a Loan Deferment service request to agents in different departments. The agents log in to Workspace to work on the tasks in their queue. For Loan Deferment workflow for personal loan operations, agents can also use the case playbook that guides them through the steps that are needed to resolve the case.
 

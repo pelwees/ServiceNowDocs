@@ -29,7 +29,7 @@ Role required: admin
 
     For example, if you select Brand, a second entry field options and provides a pop-up list of brands. You can select more than one type of filter and the associated list, but you can only delete one group of assets.
 
-    ![Brand filter](../../msi-console/image/filter-brands.png)
+    ![Brand filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/filter-brands.png)
 
 5.  After you have filtered your assets, select **Enter**.
 
@@ -37,7 +37,7 @@ Role required: admin
 
 6.  Select the **Action** button.
 
-    ![Action>Delete Assets](../../msi-console/image/actions-delete-assets-choice.png)
+    ![Action>Delete Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/actions-delete-assets-choice.png)
 
 7.  Select **Delete Assets**.
 

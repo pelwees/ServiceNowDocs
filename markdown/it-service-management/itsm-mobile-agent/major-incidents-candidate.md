@@ -18,5 +18,5 @@ View a list of major incident candidates and add comments to the incidents propo
 **Related topics**  
 
 
-[Review and work on a major incident candidate](../task/major-incident-candidate.md)
+[Review and work on a major incident candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../task/major-incident-candidate.md)
 

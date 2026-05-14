@@ -19,7 +19,7 @@ Configure the Virtual Agent \(VA\) topics for ITSM Success Dashboard indicators 
 
 Role required: admin
 
-To update the live agent script include see, [Update the live agent script include](update-live-agent-script-include.md).
+To update the live agent script include see, [Update the live agent script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ To update the live agent script include see, [Update the live agent script inclu
 8.  Select **Save**.
 
 
-**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](../concept/configure-va.md)
+**Parent Topic:**[Configure Virtual Agent topics for ITSM Success Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/configure-va.md)
 

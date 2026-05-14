@@ -19,7 +19,7 @@ Create a connection and credential record for the Lucidchart application. The Lu
 
 -   Request an Integration Hub subscription.
 -   Activate the Lucidchart spoke.
--   Register your application using Lucid API console and record the client ID and client secret. For more information, see [Create OAuth 2.0 Client in Lucidchart](set-up-lucidchart.md).
+-   Register your application using Lucid API console and record the client ID and client secret. For more information, see [Create OAuth 2.0 Client in Lucidchart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-lucidchart.md).
 -   Role required: ServiceNow admin
 
 ## Procedure

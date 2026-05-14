@@ -29,7 +29,7 @@ In certain cases, Splunk Enterprise Security notable event values are mapped to 
 
 1.  With the mapping form displayed, click the link to open the script editor.
 
-    ![Script editor link](../image/splunk_es_script_editor1_security.png)
+    ![Script editor link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_script_editor1_security.png)
 
 2.  From the choice list, select a destination field for the value that you want to edit.
 
@@ -41,7 +41,7 @@ In certain cases, Splunk Enterprise Security notable event values are mapped to 
 
     The editor opens with the field displayed in Destination Field. The following image shows the editor with the `Configuration item` field as the Destination Field.
 
-    ![Script editor](../image/splunk_es_script_editor2_security.png)
+    ![Script editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_script_editor2_security.png)
 
 4.  Enter any changes to then script, and click **Update** to save your changes.
 

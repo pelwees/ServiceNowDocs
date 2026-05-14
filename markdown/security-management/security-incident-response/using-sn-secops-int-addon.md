@@ -43,6 +43,6 @@ Role required: sn\_si.integration\_user, sn\_si.analyst
 
         **Note:** The mapping is pre defined as we don't have a profile for this add-on.
 
-    ![Event actions in Splunk enterprise](../image/splunk-event-actions.png)
+    ![Event actions in Splunk enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-event-actions.png)
 
 

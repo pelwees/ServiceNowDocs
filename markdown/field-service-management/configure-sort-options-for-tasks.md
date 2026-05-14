@@ -49,6 +49,6 @@ By default, dispatchers can sort tasks based on only the following options:
 
 4.  Select **Submit**.
 
-    ![sort option configuration form](../image/task-panel-sort.png)
+    ![sort option configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/task-panel-sort.png)
 
 

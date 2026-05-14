@@ -15,7 +15,7 @@ Synchronize files between the Visual Studio Code workspace \(client/local\) and 
 
 ## Before you begin
 
-[Create your project](create-project.md) and start editing your applications.
+[Create your project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-project.md) and start editing your applications.
 
 Role required: none.
 
@@ -29,7 +29,7 @@ The changes made to the application files in the Visual Studio Code workspace ar
 
     You can also use a keyboard shortcut, Control+Shift+P on Windows or Command+Shift+P on MacOS, to open the command palette and choose **Now: Sync Current Project** from the list.
 
-    ![Command to sync project](../image/vscode-syncproject.png "Sync current project")
+    ![Command to sync project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-syncproject.png "Sync current project")
 
     -   If the changes occur either on the server or on the client, the extension synchronizes the file successfully without showing up any errors.
     -   If there are no differences between local and server versions, then the message **No changes detected** appears on the bottom of the page.
@@ -38,12 +38,12 @@ The changes made to the application files in the Visual Studio Code workspace ar
 
     Alternatively, select the file and click **Open Diff** menu from the top of the page.
 
-    ![Conflicting files display](../image/vscode-conflict-changes.png "Conflicting files display")
+    ![Conflicting files display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-conflict-changes.png "Conflicting files display")
 
     -   Choose **Override Server** if you want to overwrite the server version with the client version
     -   Choose **Override Local** to overwrite the client version with the server version.
     -   Choose **Mark as resolved** to remove the flag indicating a conflict. The server version will be overwritten in the next synchronization.
-    ![Differences between client and server file versions](../image/vscode-opendiff.png "Differences in client and server versions")
+    ![Differences between client and server file versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-opendiff.png "Differences in client and server versions")
 
 3.  Retain the desired changes in the client file and save.
 
@@ -58,5 +58,5 @@ The changes made to the application files in the Visual Studio Code workspace ar
 
 All the changes are tagged to the update set in the status bar. When a project is loaded or selected, the default update set is displayed in the status bar. Click the update set picker to choose the current update set \(valid until the IDE or project is closed\). If you do not explicitly select an update set, all writes happen to the default update set.
 
-**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](../concept/vscode-sync.md)
+**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vscode-sync.md)
 

@@ -29,7 +29,7 @@ The Employee Center Pro provides the following content destinations:
 -   Latest News Home Page: the news widget on the portal Home page
 -   Other News: the news feed widget on the article detail page
 
-To view a graphic of these content destinations, see the Publishing News articles section of [News articles](../concept/ec-news-articles.md).
+To view a graphic of these content destinations, see the Publishing News articles section of [News articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-news-articles.md).
 
 ## Procedure
 
@@ -103,5 +103,5 @@ This enables you to fine-tune the content duration based on its publishing locat
 
 ## What to do next
 
-After you finish creating a custom content destination, proceed to [Create a Content template](ec-create-content-template.md).
+After you finish creating a custom content destination, proceed to [Create a Content template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md).
 

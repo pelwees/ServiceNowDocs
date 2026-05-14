@@ -25,7 +25,7 @@ Role required: sn\_si.analyst
 
 2.  At the bottom of the record, click the **Show IoC**link in **Related Links**.
 
-    ![Observables tab.](../image/shodan-incident.png)
+    ![Observables tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/shodan-incident.png)
 
 3.  On the **Observables** tab, click **New**.
 
@@ -35,7 +35,7 @@ Role required: sn\_si.analyst
 
 5.  Click the search icon and from the **Observable Type Categories** dialog box, click the desired observable type in the list to populate the field.
 
-    ![Observables Type Categories list.](../image/shodan-observable.png)
+    ![Observables Type Categories list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/shodan-observable.png)
 
 6.  Click **Submit**.
 
@@ -43,13 +43,13 @@ Role required: sn\_si.analyst
 
 7.  Navigate to your security incident and review the work notes.
 
-    ![Look up status in work notes.](../image/shodan-activities.png)
+    ![Look up status in work notes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/shodan-activities.png)
 
 8.  At the bottom of the record, click the **Show All Related Lists** related link.
 
 9.  Click the **Observable Enrichment Results** or **Network Banners** tabs for results, and click the blue information icon next to an observable for more information on a specific item.
 
-    ![Look up results on security form.](../image/shodan-enrichment-results.png)
+    ![Look up results on security form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/shodan-enrichment-results.png)
 
 10. In the dialog that is displayed, click **Open Record** to view raw data and more details.
 
@@ -60,9 +60,9 @@ Role required: sn\_si.analyst
 
 Review the **Work notes** for more information and how to proceed if you cannot verify that the lookup ran successfully.
 
-**Parent Topic:**[Shodan integration](../concept/shodan-lookups.md)
+**Parent Topic:**[Shodan integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/shodan-lookups.md)
 
-**Previous topic:**[Verify expected results for Shodan](shodan-verify-expected-results.md)
+**Previous topic:**[Verify expected results for Shodan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/shodan-verify-expected-results.md)
 
-**Next topic:**[Secureworks CTP Ticket Ingestion Integration](../../secops-integration-sir/secops-integration-secureworks-ticket/concept/secureworks-ctp-about.md)
+**Next topic:**[Secureworks CTP Ticket Ingestion Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-sir/secops-integration-secureworks-ticket/concept/secureworks-ctp-about.md)
 

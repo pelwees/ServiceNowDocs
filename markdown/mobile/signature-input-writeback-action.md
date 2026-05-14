@@ -15,9 +15,9 @@ Configure an action item's scripted writeback action that can save the signature
 
 ## Before you begin
 
-You must create an input form screen with signature inputs. For more information, see [Configure input form screens with signature inputs](configure-signature-inputs.md).
+You must create an input form screen with signature inputs. For more information, see [Configure input form screens with signature inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-signature-inputs.md).
 
-In addition, you must have configured an action item to use for this input form screen. For more information, see [Configure an action item](sg-studio-create-action-item.md).
+In addition, you must have configured an action item to use for this input form screen. For more information, see [Configure an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 Role required: admin
 

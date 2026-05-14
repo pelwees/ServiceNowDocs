@@ -23,31 +23,31 @@ Walk-up Experience offers a convenient and efficient way for users to seek immed
 
 <table id="table_mfv_1ql_s1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Understand Walk-up Experience features and benefits.](../concept/use-walkup-to-manage-demand.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-explore.svg)Understand Walk-up Experience features and benefits.](../concept/use-walkup-to-manage-demand.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Walk-up Experience to meet your specific needs.](../concept/walkup-experience-configuration.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Walk-up Experience to meet your specific needs.](../concept/walkup-experience-configuration.md)
 
 </td></tr><tr><td>
 
-[Plan![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Plan your Walk-up Experience visit.](../task/plan-your-visit.md)
+[Plan![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Plan your Walk-up Experience visit.](../task/plan-your-visit.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Walk-up Experience queue and interaction.](../concept/use-walkup-to-manage-demand.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Walk-up Experience queue and interaction.](../concept/use-walkup-to-manage-demand.md)
 
 </td></tr><tr><td>
 
-[Monitor![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor Walk-up Experience performance.](../concept/walkup-dashboard-overview.md)
+[Monitor![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Monitor Walk-up Experience performance.](../concept/walkup-dashboard-overview.md)
 
 </td><td>
 
-[Walk-up on Now Mobile®.![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore Walk-up Experience on Now Mobile®.](../concept/walk-up-experience-now-mobile.md)
+[Walk-up on Now Mobile®.![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Explore Walk-up Experience on Now Mobile®.](../concept/walk-up-experience-now-mobile.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about the Walk-up Experience service.](walk-up-experience-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about the Walk-up Experience service.](walk-up-experience-reference.md)
 
 </td><td>
 

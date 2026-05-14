@@ -178,5 +178,5 @@ Store
 Yes
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile plugins](sg-mobile-plugins.md)
+</table>**Parent Topic:**[Mobile plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins.md)
 

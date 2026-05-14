@@ -32,7 +32,7 @@ The client application generates a signed JWT with identity-related claims such 
     The token identifies and authenticates the client application. Instead of using a shared secret, the application signs the token with a private key. This offers a more secure alternative to the client credentials grant.
 
 
-![JWT Grant Workflow](../images/mic-jwt-grant-workflow.png "JWT Grant workflow")
+![JWT Grant Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mic-jwt-grant-workflow.png "JWT Grant workflow")
 
 ## Procedure
 

@@ -75,5 +75,5 @@ Access that is restricted to entities based on associated contacts.
 **Related topics**  
 
 
-[Add additional contacts for the sold product](adding-additional-contacts-soldproduct.md)
+[Add additional contacts for the sold product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/adding-additional-contacts-soldproduct.md)
 

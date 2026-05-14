@@ -101,5 +101,5 @@ Includes Grouped by details.
     Validate the experience by running it against test cases in controlled environments to ensure that it functions according to your requirements.
 
 
-**Parent Topic:**[Exploring UI generation](exploring-ui-generation.md)
+**Parent Topic:**[Exploring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-ui-generation.md)
 

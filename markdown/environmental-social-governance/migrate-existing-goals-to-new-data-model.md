@@ -84,5 +84,5 @@ migrateStrategyWorkItemRelData
 </table>4.  Select **Execute Now**.
 
 
-**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md)
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-goal.md)
 

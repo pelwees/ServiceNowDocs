@@ -101,5 +101,5 @@ The following is a sample payload to create software install records for Oracle 
 |className|cmdb\_ci\_linux\_server|Name of the related Linux Server table.|
 |mac address|4653XYZAA|MAC address of the interface in the Linux server.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

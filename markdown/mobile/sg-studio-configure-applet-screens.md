@@ -37,7 +37,7 @@ Screens are a collection of components used to visualize your data templates. De
 
 4.  Select one of the displayed screen types, and then select **Continue**.
 
-    ![Menu of screen types.](../image/mab-screen-select.png)
+    ![Menu of screen types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-screen-select.png)
 
 
 ## What to do next

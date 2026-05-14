@@ -26,7 +26,7 @@ The following record types are compatible with component recommendations:
 -   Data item
 -   List stream
 
-![component recommendations pop-up showing three recommendations](../image/now-assist-component-recc.png "Component recommendations pop-up")
+![component recommendations pop-up showing three recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/now-assist-component-recc.png "Component recommendations pop-up")
 
 Component recommendations are suggested based on information such as the record's name and description, as well as a semantic search of existing records that are related to the current record type, such as list screen or function.
 

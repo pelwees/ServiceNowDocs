@@ -51,5 +51,5 @@ For more information about the OT Device Network Connection data model, see the 
     |Parent Managed Network|Higher-level managed network that contains or oversees the current managed network.|
 
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

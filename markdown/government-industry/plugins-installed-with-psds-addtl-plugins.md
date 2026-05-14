@@ -408,5 +408,5 @@ The following plugins are installed with Now Assist for Public Sector Digital Se
 
 - Geo Map \(sn\_geo\_map\) for Service Request Playbook
 
-**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md)
+**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md)
 

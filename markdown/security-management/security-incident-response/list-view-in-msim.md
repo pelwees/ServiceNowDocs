@@ -27,7 +27,7 @@ You can also create new incidents using the **New** button available in the top 
 
 2.  Select the Lists tab to display the Lists view.
 
-    ![Major Security Incidents selected. Lists tab and New button highlighted.](../image/using-list-view-in-msim-workpsace.png)
+    ![Major Security Incidents selected. Lists tab and New button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/using-list-view-in-msim-workpsace.png)
 
 3.  Select **My Lists** to create your own list of major security incidents.
 
@@ -85,26 +85,26 @@ Create a new MSI record.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Major Security Incident Management](../concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/promoting-sir-to-msim.md)
 
-[View Major Security Incident impact metrics](../../secops-integration-major-security-incident-management/concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/concept/viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../../secops-integration-major-security-incident-management/concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/concept/viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../../secops-integration-major-security-incident-management/concept/msim-details-tab.md)
+[Update Major Security Incident details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/concept/msim-details-tab.md)
 
-[Link additional records to Major Security Incident](../../secops-integration-major-security-incident-management/task/linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/task/linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](../../secops-integration-major-security-incident-management/task/unlinking-msi-records.md)
+[Unlink records from Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/task/unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](../../secops-integration-major-security-incident-management/concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/concept/tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../../secops-integration-major-security-incident-management/concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/concept/collab-tab.md#)
 
-[Create and distribute MSIM Status Reports](../../secops-integration-major-security-incident-management/task/creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/task/creating-and-distributing-major-security-incident-status-reports.md)
 

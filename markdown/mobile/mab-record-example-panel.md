@@ -30,5 +30,5 @@ Live component previews are available for the following components:
 -   Icons
 -   Empty states and pop-ups
 
-![examples of mobile interface panel types](../image/mobile-live-preview.png "Mobile interface preview")
+![examples of mobile interface panel types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-live-preview.png "Mobile interface preview")
 

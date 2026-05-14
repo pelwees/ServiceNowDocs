@@ -17,7 +17,7 @@ As a member of the legal contracts support team, work on the legal request. Uplo
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/assign-legal-request-1.md).
 
 Role required: sn\_lg\_cnt.contract\_fulfiller
 
@@ -29,13 +29,13 @@ As a collaborator added to a request, you can access and work on the request jus
 
 1.  Assign a legal request to yourself or to someone in your assignment group.
 
-    For more information, see [Assign a legal request](../../legal-request-management/task/assign-legal-request-1.md)
+    For more information, see [Assign a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/assign-legal-request-1.md)
 
 2.  Start working on a legal request.
 
     1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-    2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+    2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
     3.  Select **Legal requests** option.
 
@@ -96,7 +96,7 @@ Steps
 
 8.  Initiate an ad hoc approval for the contract document revision when an approval is required from other stakeholders.
 
-    For more information, see [Initiate an ad hoc approval for a contract document revision](snlc-initiate-approval-cr.md).
+    For more information, see [Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-initiate-approval-cr.md).
 
 9.  Add internal or external signatories to the contract request by accessing the **Signatories** tab and selecting **Add**.
 
@@ -144,7 +144,7 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
 11. In the **Signatories** tab, select **Sync signatories** to update the contract document with the latest signatory details.
 
-    For more information, see [Updating and synchronizing signatories](snlc-update-sync-signatories.md)
+    For more information, see [Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)
 
     **Note:** This option is not available on Contract Management Pro starting with version 1.2.1.
 
@@ -178,13 +178,13 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
 14. When a legal request changes, create a new version of the contract document with updated metadata and signatories and retain the changes in the previous version by selecting **Sync document**.
 
-    For more information, see [Synchronize a non-disclosure agreement document after modifying a self-served contract request \(Contract Management Pro 1.2.1\)](snlc-sync-doc.md).
+    For more information, see [Synchronize a non-disclosure agreement document after modifying a self-served contract request \(Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-sync-doc.md).
 
     **Note:** This option is available on Contract Management Pro starting version 1.2.1
 
 15. For any changes in legal request, select **Regenerate** option to create a new version of the contract document with updated metadata and signatories, and discard the changes in the previous version.
 
-    For more information, see [Regenerate contract document after modifying request](snlcregen-contract-doc.md).
+    For more information, see [Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlcregen-contract-doc.md).
 
 16. Set up an email to stakeholders to request to have the completed contract document reviewed and the changes confirmed.
 
@@ -206,9 +206,9 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
     6.  Either enter your own message in the email body or copy and paste the content from an email response template into the email body.
 
-        Using response templates, you can insert predefined content into the email body. Select the response template icon \(![Response template icon.](../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the email body.
+        Using response templates, you can insert predefined content into the email body. Select the response template icon \(![Response template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the email body.
 
-        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](../../legal-request-management/task/create-lsd-response-template.md).
+        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/create-lsd-response-template.md).
 
     7.  Either send the email immediately or indicate that it should be sent later.
 
@@ -218,20 +218,20 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
             If you choose to save the email as a draft, you can modify it later. If a newer document revision has been posted, you have to substitute that revision for the document you attached.
 
 
--   **[Synchronize a non-disclosure agreement document after modifying a self-served contract request \(Contract Management Pro 1.2.1\)](snlc-sync-doc.md)**  
+-   **[Synchronize a non-disclosure agreement document after modifying a self-served contract request \(Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-sync-doc.md)**  
 Synchronize the contract document for non-disclosure agreements contract requests to create a new revision of the document with updated metadata and signatories while retaining the changes made in the previous version of the contact document.
--   **[Regenerate contract document after modifying request](snlcregen-contract-doc.md)**  
+-   **[Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlcregen-contract-doc.md)**  
 As a legal user or legal fulfiller, regenerate the contract document for non-disclosure agreement contract requests when the legal request has been modified.
--   **[Updating and synchronizing signatories](snlc-update-sync-signatories.md)**  
+-   **[Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)**  
 As a legal user or fulfiller, update and sync signatory details when the contract submission has failed, or contract document cannot be sent due to incomplete signatory information.
--   **[Reviewing and finalizing a self-served contract document](snlc-review-finalize-contract.md)**  
+-   **[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)**  
 Review and finalize the contract document generated after the self-serve contract request is submitted, then send it for signature.
--   **[Initiate an ad hoc approval for a contract document revision](snlc-initiate-approval-cr.md)**  
+-   **[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-initiate-approval-cr.md)**  
 Initiate an ad hoc approval for a contract document revision from a user or a user group.
--   **[Send a non-disclosure agreement document for signature](snlc-send-doc-sign-nda.md)**  
+-   **[Send a non-disclosure agreement document for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-send-doc-sign-nda.md)**  
 After a non-disclosure agreement contract document has been reviewed and finalized, send the document for signature.
--   **[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)**  
+-   **[Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md)**  
 Contract Management Pro for Legal Service Delivery supports electronic signature or wet \(manual\) signature for a contract request.
 
-**Parent Topic:**[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+**Parent Topic:**[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-nda-1.md)
 

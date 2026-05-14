@@ -27,18 +27,18 @@ Role required: sam
 
     All fields on the form are read-only.
 
-    ![Software counter detail form](../image/SoftwareCounterDetailForm.png "Software counter detail form")
+    ![Software counter detail form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SoftwareCounterDetailForm.png "Software counter detail form")
 
     |Field|Description|
     |-----|-----------|
     |Type|Type of the counter detail.|
     |Software install|Name of the related software install record, if applicable. This field is blank if the type is Entitled not in use or Not allocated.|
-    |Software usage|Name of the related [software usage record](t_ViewAUsageCounterResult.md), if applicable.|
-    |Software counter|Name of the related [software counter](t_CreateASoftwareCounter.md).|
-    |Software counter summary|Name of the related [software counter summary](t_ViewASoftwareCounterSummary.md).|
-    |Valuation|A valuation of 1 indicates that the license right is being used. A valuation of 0 indicates that the license right is part of a [software suite](../../product-catalog/concept/c_Models.md), or that the license allows more than one installation per right. The 0 indicates that this installation does not count against the license.|
-    |Entitlement|Name of the related [software license entitlement](t_CreatSWLicenseEntitlemnt.md), if applicable. This field is blank if the type is Not entitled or Not allocated.|
-    |Software license|Name of the related [software license](t_AddANewSoftwareLicense.md), if applicable. This field is blank if the type is Not entitled.|
+    |Software usage|Name of the related [software usage record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ViewAUsageCounterResult.md), if applicable.|
+    |Software counter|Name of the related [software counter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreateASoftwareCounter.md).|
+    |Software counter summary|Name of the related [software counter summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ViewASoftwareCounterSummary.md).|
+    |Valuation|A valuation of 1 indicates that the license right is being used. A valuation of 0 indicates that the license right is part of a [software suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../../product-catalog/concept/c_Models.md), or that the license allows more than one installation per right. The 0 indicates that this installation does not count against the license.|
+    |Entitlement|Name of the related [software license entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatSWLicenseEntitlemnt.md), if applicable. This field is blank if the type is Not entitled or Not allocated.|
+    |Software license|Name of the related [software license](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_AddANewSoftwareLicense.md), if applicable. This field is blank if the type is Not entitled.|
     |Usage Section|
     |Foreground|Total duration of foreground usage of the software, based on the related software install record.|
     |Background|Total duration of background usage of the software, based on the related software install record.|
@@ -46,5 +46,5 @@ Role required: sam
     |Duration|Total duration of foreground and background software usage, based the related software usage record.|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseCountersSWLicenseReconcil.md)
 

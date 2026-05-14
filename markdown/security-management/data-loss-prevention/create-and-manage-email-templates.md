@@ -305,11 +305,11 @@ Please review the response for these incidents ${link_to_incidents_in_period_use
 </td></tr></tbody>
 </table>    The following example shows the DLP Email Template with the target users defined as all recipients.
 
-    ![Create and manage DLP email templates.](../image/dlp-email-template.png "Email template")
+    ![Create and manage DLP email templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-email-template.png "Email template")
 
     The following example shows an email template with the subject "User incident notification" and a variable *new\_incidents\_in\_period*. The email body contains multiple variables that are added from the Select variables column.
 
-    ![Email template with fields to select variables.](../image/dlp-email-templates-variables.png "Email template variables")
+    ![Email template with fields to select variables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-email-templates-variables.png "Email template variables")
 
 4.  Click **Submit**.
 
@@ -318,50 +318,50 @@ Please review the response for these incidents ${link_to_incidents_in_period_use
 
 The end user receives a digest notification email with all the selected variable fields in the template.
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/data-loss-prevention-administration.md)
 
 **Related topics**  
 
 
-[DLP default configuration settings](configure-data-loss-prevention.md)
+[DLP default configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-data-loss-prevention.md)
 
-[Create end user lookup rules](configure-enduser-lookup-rules.md)
+[Create end user lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-enduser-lookup-rules.md)
 
-[Create assignment rules](create-assignment-rules.md)
+[Create assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-assignment-rules.md)
 
-[Create incident consolidation rules](configure-incident-consolidation-rules-to-consolidate-your-dlp-incidents.md)
+[Create incident consolidation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-incident-consolidation-rules-to-consolidate-your-dlp-incidents.md)
 
-[Create response due date rules](setup-response-due-date-rules.md)
+[Create response due date rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/setup-response-due-date-rules.md)
 
-[Create Approval Rules](configure-approval-rules.md)
+[Create Approval Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-approval-rules.md)
 
-[Create user instructions templates](create-and-manage-user-instructions-template-for-dlp-incidents.md)
+[Create user instructions templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-user-instructions-template-for-dlp-incidents.md)
 
-[Create a Data Loss Prevention Incident Response SLA trigger](sla-records.md)
+[Create a Data Loss Prevention Incident Response SLA trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/sla-records.md)
 
-[Create a Data Loss Prevention Incident Response SLA definition](dlp-sla-definitions.md)
+[Create a Data Loss Prevention Incident Response SLA definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-sla-definitions.md)
 
-[Create assessments](create-and-manage-assessments-for-dlp-incidents.md)
+[Create assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-assessments-for-dlp-incidents.md)
 
-[Configure response option for your DLP incidents](configure-response-option-mapping.md)
+[Configure response option for your DLP incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-response-option-mapping.md)
 
-[Create incident response option rules](configure-end-user-action.md)
+[Create incident response option rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-end-user-action.md)
 
-[Create age chart configurations](configure-age-chart.md)
+[Create age chart configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-age-chart.md)
 
-[Create user delegate configurations](configure-delegation.md)
+[Create user delegate configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-delegation.md)
 
-[Create repeat offender identification rules](repeat-offender-identification-rules.md)
+[Create repeat offender identification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/repeat-offender-identification-rules.md)
 
-[Create additional incident data fields](create-custom-fields-dlp.md)
+[Create additional incident data fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../reference/dlp-sla-def-properties.md)
 
-[Configure advanced settings](configure-advanced-settings-dlp.md)
+[Configure advanced settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-access-restrictions.md)
 
-[DLP Incidents Archival](dlp-archiving-rule.md)
+[DLP Incidents Archival](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-archiving-rule.md)
 

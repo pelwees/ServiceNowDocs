@@ -29,7 +29,7 @@ Role required: sn\_wsd\_central.workspace\_user
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  Select the **Lists** icon \(![Lists icon.](../images/wsd-central-lists-icon.png)\).
+2.  Select the **Lists** icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-central-lists-icon.png)\).
 
 3.  Select the **My Lists** tab, then select **Add new list**.
 
@@ -126,5 +126,5 @@ Select fields that are to sort the results in the custom lists in ascending or d
 </table>7.  Select **Create**.
 
 
-**Parent Topic:**[Creating custom lists on Workplace Central](../concept/creating-custom-lists-wsd.md)
+**Parent Topic:**[Creating custom lists on Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/creating-custom-lists-wsd.md)
 

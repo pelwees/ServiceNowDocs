@@ -118,5 +118,5 @@ Run the following fix scripts manually by setting the **runManually=true** to up
 |Mobile Next Exp - EC Core|Employee Center Core|
 |Mobile Next Exp - EP|Employee Profile|
 
-**Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 

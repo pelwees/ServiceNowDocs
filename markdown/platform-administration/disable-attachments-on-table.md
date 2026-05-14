@@ -27,8 +27,8 @@ Role required: admin
 
 4.  Add `no_attachment` to the **Attributes** field, separated by commas from any existing attributes.
 
-    See [Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md) for more information.
+    See [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/concept/c_DictionaryAttributes.md) for more information.
 
 
-**Parent Topic:**[Administering attachments](../reference/r_AdministeringAttachments.md)
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_AdministeringAttachments.md)
 

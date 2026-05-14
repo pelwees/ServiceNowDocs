@@ -23,7 +23,7 @@ If the left navigation pane is visible, the span label is visible in the left pa
 
 If the left pane is hidden, point the cursor over a span to view the tooltip.
 
-![Timeline showing list of high priority incidents](../image/TimelineTooltip.png "Timeline Tooltip")
+![Timeline showing list of high priority incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/TimelineTooltip.png "Timeline Tooltip")
 
 ## Span focus and zoom
 
@@ -40,11 +40,11 @@ If the timeline has been configured for editing \(horizontal moving, start and e
 
 Move the start or end dates to change the duration of the task.
 
-![Timeline showing the edited span to adjust the start date](../image/TimelineDragStart.png "Timeline Drag Start")
+![Timeline showing the edited span to adjust the start date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/TimelineDragStart.png "Timeline Drag Start")
 
 Move the entire span horizontally to adjust the start and end dates but not the duration.
 
-![Timeline showing a span that has been dragged horizontally to adjust the start and end dates](../image/TimelineDragSpan.png "Timeline Drag Span")
+![Timeline showing a span that has been dragged horizontally to adjust the start and end dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/TimelineDragSpan.png "Timeline Drag Span")
 
-**Parent Topic:**[Timelines](c_UsingTimelines.md)
+**Parent Topic:**[Timelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UsingTimelines.md)
 

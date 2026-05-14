@@ -18,7 +18,7 @@ The Discovery Admin Workspace URL Discovery Insights dashboard displays captured
 
 To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **URL Discovery Insights**.
 
-![URL Discovery insights dashboard](../image/url-disco-insights-dash.png)
+![URL Discovery insights dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/url-disco-insights-dash.png)
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Works
 
     Set the **sn\_acc\_vis\_content.enable\_full\_monitoring** property to **True**.
 
-    For more information, see [Collect web usage data using Agent Client Collector for Visibility - Content](../../agent-client-collector/task/collect-web-data-usage-accvc.md).
+    For more information, see [Collect web usage data using Agent Client Collector for Visibility - Content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../agent-client-collector/task/collect-web-data-usage-accvc.md).
 
 
 ## Required ServiceNow AI Platform roles
@@ -45,7 +45,7 @@ To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Works
 
 The URL Discovery insights dashboard enables you to make data-driven decisions through powerful visualizations. The data is extracted from the Application Domain \[sn\_acc\_vis\_content\_application\_domain\] table.
 
-Select the **More options** icon \(![More options icon](../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
+Select the **More options** icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
 
 <table id="table_jsk_zl3_cfc"><thead><tr><th>
 
@@ -100,9 +100,9 @@ Displays the distribution of targeted URL visits grouped by URL category since a
 
 ## Targeted URLs visited
 
-This section lists the targeted URLs visited across managed devices since a given date. Targeted URLs are those configured for monitoring in **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Settings** &gt; **URL Discovery**. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
+This section lists the targeted URLs visited across managed devices since a given date. Targeted URLs are those configured for monitoring in **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Settings** &gt; **URL Discovery**. For more information, see [Discovery Admin Workspace Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-setup.md).
 
-Select a URL from the list to view detailed information about it. Select the filter icon \(![filter icon](../image/filter-icon-daw.png)\) to apply filters to the table.
+Select a URL from the list to view detailed information about it. Select the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/filter-icon-daw.png)\) to apply filters to the table.
 
 ## Other URLs visited
 
@@ -118,5 +118,5 @@ The Broad URLs visited list displays URLs accessed on managed devices that are n
 
 Select **Save** to add the URL to the Targeted URL discovery. The URL is then monitored and appears in the **Targeted URLs visited** tab.
 
-Select the filter icon \(![filter icon](../image/filter-icon-daw.png)\) to apply filters to the table.
+Select the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/filter-icon-daw.png)\) to apply filters to the table.
 

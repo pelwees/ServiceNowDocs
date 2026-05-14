@@ -17,7 +17,7 @@ The ServiceNow® Discovery Console for Operational Technology \(OT\) provides yo
 
 The Discovery Console for OT provides complete operational technology visibility across your entire OT environment. This awareness starts at the Human Machine Interface \(HMI Purdue Reference Model Levels 2 and 3\) and goes down to the field devices \(Level 0\) through the Discovery Console for OT Network and Sensors. From the Discovery Console for OT you can enable and configure device management capabilities. The Discovery Console for OT and Discovery Sensor for OT work together to create a comprehensive device inventory that you can monitor and manage from a single interface.
 
-![Purdue levels](../images/updated-purdue.png)
+![Purdue levels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/updated-purdue.png)
 
 ## Discovery Console for OT uses and benefits
 

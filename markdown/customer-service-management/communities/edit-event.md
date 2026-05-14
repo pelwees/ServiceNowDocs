@@ -23,7 +23,7 @@ Role required: sn\_communities.community\_user, sn\_communities.moderation\_admi
 
 1.  Search for an event that you want to modify.
 
-2.  Click the More Options icon \(![More Options.](../images/moreoptions-icon.png)\) and then click **Edit**.
+2.  Click the More Options icon \(![More Options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/moreoptions-icon.png)\) and then click **Edit**.
 
 3.  On the form, edit the fields as required.
 
@@ -254,12 +254,12 @@ To publish an event draft, click **Publish**. As an author, you can edit or dele
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Community events](community-events.md)
+**Parent Topic:**[Community events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-events.md)
 
 **Related topics**  
 
 
-[Post a community event](create-event.md)
+[Post a community event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-event.md)
 
-[Disable comments](disable-comments.md)
+[Disable comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 

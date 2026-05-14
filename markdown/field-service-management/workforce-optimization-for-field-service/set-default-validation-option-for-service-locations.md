@@ -17,7 +17,7 @@ Set the default validation option that will be used when adding locations to a w
 
 ## Before you begin
 
-Set the **sn\_fsm\_service\_loc.max\_new\_location\_per\_day** property to limit the addition of service locations per day. For more information, see [Set the limit of maximum service locations added per day](set-max-locations-limit.md).
+Set the **sn\_fsm\_service\_loc.max\_new\_location\_per\_day** property to limit the addition of service locations per day. For more information, see [Set the limit of maximum service locations added per day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/set-max-locations-limit.md).
 
 Role required: admin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 3.  In the **Validation** field, choose the default validation option.
 
-    -   **Using map**: Add locations using a Google map interface. For information about selecting the default location when the map is opened, see [Set the default location on a map](set-default-location-while-using-map.md).
+    -   **Using map**: Add locations using a Google map interface. For information about selecting the default location when the map is opened, see [Set the default location on a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/set-default-location-while-using-map.md).
     -   **Without map**: Provide location details to add locations without map. The location details will be validated using the global.ServiceLocationAddressValidationExtPoint API.
     -   **No validation**: The provided location details will not be validated.
 4.  Click **Save**.

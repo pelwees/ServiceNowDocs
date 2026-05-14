@@ -32,21 +32,21 @@ In Now Assist in Contract Management, you can select the LLM provider at the use
 
 2.  Navigate to **Employee** &gt; **CM Pro**.
 
-3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(![Options menu icon.](../image/cmpro-na-three-dot-icon.png)\).
+3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(![Options menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-three-dot-icon.png)\).
 
-    ![Now Assist skills in Contract Management Pro.](../image/cmpro-na-active-skills.png "Active skills in Contract Management Pro")
+    ![Now Assist skills in Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-active-skills.png "Active skills in Contract Management Pro")
 
 4.  In the skill guided setup, select **Use cases**.
 
 5.  Open the use case for which you want to set the LLM.
 
-6.  Select the settings icon \(![Settings icon.](../../workplace-space-mapping/images/gear-icon.png)\).
+6.  Select the settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-space-mapping/images/gear-icon.png)\).
 
-    ![Settings in the Use case page.](../image/cmpro-na-use-case-gear.png "Use case settings")
+    ![Settings in the Use case page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-use-case-gear.png "Use case settings")
 
 7.  In the Settings window, select **Manage LLMs**.
 
-    ![Manage LLM Provider in use case settings.](../image/cmpro-na-llm-setting.png "Manage LLMs")
+    ![Manage LLM Provider in use case settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-llm-setting.png "Manage LLMs")
 
 8.  From the LLM provider drop-down list, select the LLM provider.
 
@@ -61,26 +61,26 @@ In Now Assist in Contract Management, you can select the LLM provider at the use
 
 The LLM provider is set for the use case and is used for contract analysis or metadata extraction where this use case is applicable.
 
-**Parent Topic:**[Configure Now Assist in Contract Management](confg-na-in-cmpro.md)
+**Parent Topic:**[Configure Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/confg-na-in-cmpro.md)
 
 **Related topics**  
 
 
-[Configure data permissions for Now Assist skills](cmpro-conf-roles-skills.md)
+[Configure data permissions for Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-roles-skills.md)
 
-[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
+[Configuring contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)
 
-[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+[Configuring contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-contract-analysis.md)
 
-[Configuring contract obligation extraction](cncore-conf-obligation-extraction.md)
+[Configuring contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md)
 
-[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-agentic-workflow.md)
 
-[Post-upgrade steps for Now Assist in Contract Management](cmpro-na-upgrade-steps.md)
+[Post-upgrade steps for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-upgrade-steps.md)
 
-[Configure Now Assist in Contract Management](confg-na-in-cmpro.md)
+[Configure Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/confg-na-in-cmpro.md)
 
-[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 
-[Create use cases for contract analysis](cmpro-na-usecase-ca.md)
+[Create use cases for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md)
 

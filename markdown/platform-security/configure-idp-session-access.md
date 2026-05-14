@@ -50,7 +50,7 @@ The following procedure shows steps to configure the IDP attribute from the SAML
 
     3.  Choose the **Policy**.
 
-        To know more on how to create policy using different filter criteria using Adaptive Authentication policy creation, see [Filter criteria](../concept/adaptive-auth-filter-criteria.md).
+        To know more on how to create policy using different filter criteria using Adaptive Authentication policy creation, see [Filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/adaptive-auth-filter-criteria.md).
 
     4.  Choose Action as Remove Roles.
 
@@ -62,11 +62,11 @@ The following procedure shows steps to configure the IDP attribute from the SAML
 
         -   **Policy Input**: Risk score attribute from Okta \(IDP\).
         -   **Policy Conditions**: Risk score from 60 through 80 as a condition.
-        ![Identity Attribute Risk Score](../images/idp-attri.png)
+        ![Identity Attribute Risk Score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/idp-attri.png)
 
         Based on this configuration, when the risk score attribute value from the Okta \(IDP\) beyond 80, the user isn’t authenticated with the roles \(**employee**\) and its child roles that were removed to the instance, the user is only authenticated with other roles assigned. If the risk score is from 60 through 80, the user is authenticated to the instance with all the roles.
 
-        For more information on how to create Post Authentication Context's Policy with Policy inputs and Condition, see [Post-authentication context](../concept/post-auth-context.md).
+        For more information on how to create Post Authentication Context's Policy with Policy inputs and Condition, see [Post-authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/post-auth-context.md).
 
         **Note:** If the **Enable Session Access** property is inactive, then the configuration for Session Access doesn’t restrict or remove the roles of the user.
 

@@ -20,9 +20,9 @@ You can configure the system to send certificate ownership attestation reviews b
 **Related topics**  
 
 
-[Configure a certificate attestation review](../task/configure-certificate-attestation.md)
+[Configure a certificate attestation review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/configure-certificate-attestation.md)
 
-[Attest or Reject Certificate Ownership by Email](../task/attest-reject-certificate-notification.md)
+[Attest or Reject Certificate Ownership by Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/attest-reject-certificate-notification.md)
 
-[Reassign Certificate Ownership](../task/reassign-certificate-ownership.md)
+[Reassign Certificate Ownership](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/reassign-certificate-ownership.md)
 

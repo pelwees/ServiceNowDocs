@@ -17,6 +17,6 @@ Install and configure Now Assist for Workplace Service Delivery \(WSD\). As a sy
 
 ## Configuration overview
 
-1.  [Install Now Assist for Workplace Service Delivery \(WSD\)](../task/now-assist-wsd-install.md)
-2.  [Configure Now Assist in Virtual Agent for Workplace Service Delivery](../task/config-now-assist-va-wsd.md)
+1.  [Install Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../task/now-assist-wsd-install.md)
+2.  [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../task/config-now-assist-va-wsd.md)
 

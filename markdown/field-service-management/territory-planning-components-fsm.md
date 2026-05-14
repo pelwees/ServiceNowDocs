@@ -450,7 +450,7 @@ Field Service Territory Planning adds the following Schedule Optimization adds t
 |Territory Planning- Calculate Overlapping Territories - Agent|Calculates the overlaps for agents. When executed, the scheduled job triggers events to calculate the overlap between two agents.|
 |Territory Planning- Calculate Overlapping Territories - Geography|Calculates the overlaps for geographies. When executed, the scheduled job triggers events to calculate the overlap between two geographies.|
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 ## Field Service Territory Planning console properties
 

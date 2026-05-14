@@ -131,7 +131,7 @@ As a Project Owner, you can create and manage Schedule Plans.
 </td></tr></tbody>
 </table>## Tables installed with Workplace Space Management
 
-**Note:** Neighborhood is moved from Workplace Space Management \[version\] to Workplace Core \[version\]. For more information, see [Components installed with Workplace Core](../../workplace-service-delivery/reference/components-installed-with-workplace-service-delivery.md).
+**Note:** Neighborhood is moved from Workplace Space Management \[version\] to Workplace Core \[version\]. For more information, see [Components installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../workplace-service-delivery/reference/components-installed-with-workplace-service-delivery.md).
 
 <table id="table_t5k_1kj_qpb"><thead><tr><th>
 
@@ -230,12 +230,12 @@ Space Allocation Type Change Tracker\[sn\_wsd\_spcmgmt\_space\_allocation\_type\
 Stores information about changes made to types of allocation, which can be reviewed to plan and edit scenarios.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/workplace-space-mgmt-references.md)
 
 **Related topics**  
 
 
-[Properties installed with Workplace Space Management](properties-installed-with-workplace-space-mgmt.md)
+[Properties installed with Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/properties-installed-with-workplace-space-mgmt.md)
 
-[View by Configuration form](view-by-configuration-form.md)
+[View by Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/view-by-configuration-form.md)
 

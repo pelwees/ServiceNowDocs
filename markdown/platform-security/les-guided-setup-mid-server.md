@@ -39,7 +39,7 @@ Role required: admin
 
 2.  Generate certificates for a secure connection to Hermes Messaging Service and pull log events from it.
 
-    Setup secure connection to Hermes Messaging Service. See [Set up a secure connection to the Hermes Messaging Service for LES](les-hermes-cert.md) for more information. You will need these certificates for authentication and authorization in the client which will pull the logs from Hermes.
+    Setup secure connection to Hermes Messaging Service. See [Set up a secure connection to the Hermes Messaging Service for LES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-hermes-cert.md) for more information. You will need these certificates for authentication and authorization in the client which will pull the logs from Hermes.
 
     **Note:** admin or Hermes\_admin roles are required for this step.
 
@@ -160,5 +160,5 @@ Role required: admin
         **Note:** If you make any change in one of the Consumer records, it shows up on the Consumer Status view page. If you select a consumer record name on the Consumer Status list, the Consumer form for the selected record opens. You can then update the Name and Destination Configuration of the selected record.
 
 
-**Parent Topic:**[MID server consumer](../concept/les-mid-server-consumer.md)
+**Parent Topic:**[MID server consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/les-mid-server-consumer.md)
 

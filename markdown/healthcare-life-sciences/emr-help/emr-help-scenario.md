@@ -29,11 +29,11 @@ The following workflow steps elaborate how an IT agent resolves a typical clinic
 **Related topics**  
 
 
-[Exploring EMR Help](emr-help.md)
+[Exploring EMR Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help.md)
 
-[Configuring EMR Help](configuring-emr-help.md)
+[Configuring EMR Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configuring-emr-help.md)
 
-[Submitting ServiceNow IT service requests from EMR systems](emr-help-issues-reporting.md)
+[Submitting ServiceNow IT service requests from EMR systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-reporting.md)
 
-[Viewing and resolving ServiceNow IT service requests submitted from EMR systems](emr-help-issues-resolve.md#)
+[Viewing and resolving ServiceNow IT service requests submitted from EMR systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-resolve.md#)
 

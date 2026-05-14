@@ -108,18 +108,18 @@ If this property isn't set or present, there's no limit on the number of records
 -   Default value:
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Instance Data Replication reference](../concept/reference-instance-data-replication.md)
+</table>**Parent Topic:**[Instance Data Replication reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../concept/reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Data privacy in Instance Data Replication](../concept/data-privacy-consumers-idr.md)
+[Data privacy in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../concept/data-privacy-consumers-idr.md)
 
-[Adapter descriptions for Instance Data Replication](adapter-descriptions.md)
+[Adapter descriptions for Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/adapter-descriptions.md)
 
-[Excluded tables in Instance Data Replication](IDR-excluded-tables.md)
+[Excluded tables in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/IDR-excluded-tables.md)
 
-[Domain separation and IDR](instance-data-replication-domain-separation.md)
+[Domain separation and IDR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-domain-separation.md)
 
-[Instance Data Replication roles](instance-data-replication-roles.md#)
+[Instance Data Replication roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-roles.md#)
 

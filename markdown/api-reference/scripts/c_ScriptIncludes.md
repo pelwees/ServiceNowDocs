@@ -17,11 +17,11 @@ Script includes are used to store JavaScript that runs on the server.
 
 Create script includes to store JavaScript functions and classes for use by server scripts. Each script include defines either an object class or a function.
 
-Consider using script includes instead of global business rules because script includes are only loaded on request. See [Privacy settings on Glide AJAX enabled script includes](c_ScriptIncludes.md#) and [Discovery script includes](c_ScriptIncludes.md#) for more information.
+Consider using script includes instead of global business rules because script includes are only loaded on request. See [Privacy settings on Glide AJAX enabled script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md#) and [Discovery script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md#) for more information.
 
-For additional examples of scripts, see [Useful scripts](../../useful-scripts/concept/usefulScripts.md).
+For additional examples of scripts, see [Useful scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../useful-scripts/concept/usefulScripts.md).
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 
 ## Script include form
 
@@ -59,7 +59,7 @@ Glide AJAX enabled \(or Client callable\)
 
 </td><td>
 
-The script include is available to client scripts, list/report filters, reference qualifiers, or if specified as part of the URL. Glide AJAX enabled script includes are invoked from `GlideAjax` and require that users satisfy an ACL associated with the script include. When selected, the **Access Controls** Related Link is available. See [Privacy settings on Glide AJAX enabled script includes](c_ScriptIncludes.md#) for more information.
+The script include is available to client scripts, list/report filters, reference qualifiers, or if specified as part of the URL. Glide AJAX enabled script includes are invoked from `GlideAjax` and require that users satisfy an ACL associated with the script include. When selected, the **Access Controls** Related Link is available. See [Privacy settings on Glide AJAX enabled script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md#) for more information.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Sandbox enabled
 
 The script include is available to scripts invoked from the script sandbox, such as a query condition.**Important:** Script includes should only be made available to the script sandbox if necessary.
 
-For information about the script sandbox, see [Script sandbox evaluator](script-sandbox.md).
+For information about the script sandbox, see [Script sandbox evaluator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md).
 
 </td></tr><tr><td>
 
@@ -232,11 +232,11 @@ Role required: admin
 
 2.  Select **New** or select an existing script include for viewing or editing.
 
-    See [Use script includes](c_ScriptIncludes.md#) for additional information on writing script includes.
+    See [Use script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md#) for additional information on writing script includes.
 
 3.  Complete the form and select the **Glide AJAX enabled** option.
 
-    A role selector pops up to select a user role and automatically create an Access Control entry. Select a user role and click **OK**.![Select a user role window.](../../../administer/security/image/role-selector-ccsi.png)
+    A role selector pops up to select a user role and automatically create an Access Control entry. Select a user role and click **OK**.![Select a user role window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../administer/security/image/role-selector-ccsi.png)
 
     **Note:** To disable the role selector window, set the glide.script.ccsi.enable\_acl\_create\_ux to **false**.
 
@@ -325,7 +325,7 @@ Discovery script includes define JavaScript classes that you can use to accompli
 
 ### Using GlideRecordUtil to Work with GlideRecords
 
-GlideRecordUtil is a utility class that provides methods that are useful for working with GlideRecords during Discovery. Refer to [GlideRecordUtil](../../../app-store/dev_portal/API_reference/GlideRecordUtil/concept/c_GlideRecordUtilAPI.md#) for descriptions of available methods.
+GlideRecordUtil is a utility class that provides methods that are useful for working with GlideRecords during Discovery. Refer to [GlideRecordUtil](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideRecordUtil/concept/c_GlideRecordUtilAPI.md#) for descriptions of available methods.
 
 ### Getting a GlideRecord Instance
 

@@ -17,7 +17,7 @@ Verify that the ribbons in Service Operations Workspace \(SOW\) are consistent w
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Ribbons in the record form** option for ITSM Agent Workspace features. For example, the **Ribbons in the record form** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Ribbons in the record form** option for ITSM Agent Workspace features. For example, the **Ribbons in the record form** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -49,12 +49,12 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     1.  On the migration completion page in SOW Admin Center, select **View migration details**.
 
-    2.  Select the **Go to system logs** \(![System logs icon](../../service-builder/image/sb-service-triangle.png)\) icon.
+    2.  Select the **Go to system logs** \(![System logs icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-builder/image/sb-service-triangle.png)\) icon.
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](../reference/ribbons-migration-itsm-aw-sow.md#section_irt_kq3_ccc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/ribbons-migration-itsm-aw-sow.md#section_irt_kq3_ccc) section.
 
 
-**Parent Topic:**[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/ribbons-migration-itsm-aw-sow.md)
+**Parent Topic:**[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/ribbons-migration-itsm-aw-sow.md)
 

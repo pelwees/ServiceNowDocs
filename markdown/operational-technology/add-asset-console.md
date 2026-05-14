@@ -54,7 +54,7 @@ Role required: admin
 
     1.  Select the **Actions** button.
 
-        ![Actions drop-down menu](../../msi-console/image/asset-page-action-drop-down.png)
+        ![Actions drop-down menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/asset-page-action-drop-down.png)
 
     2.  Select **Import Assets**.
 

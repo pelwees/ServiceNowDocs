@@ -19,7 +19,7 @@ The Policy Acknowledgement dashboard gives you the acknowledgement status of the
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-![Policy Acknowledgement dashboard in the Next Experience UI Framework.](../image/policy-acknowledgement-pa-db-pc.png "Policy Acknowledgement dashboard in the Next Experience UI Framework")
+![Policy Acknowledgement dashboard in the Next Experience UI Framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/policy-acknowledgement-pa-db-pc.png "Policy Acknowledgement dashboard in the Next Experience UI Framework")
 
 ## Required ServiceNow AI Platform roles
 
@@ -34,11 +34,11 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Policy acknowledgement status|Donut chart![Donut icon](../../performance-analytics/image/donut-icon.png)|Displays the overall status of the policy acknowledgements.|
-|Policy acknowledgement status by Policy|Bar chart![Column icon](../../performance-analytics/image/column-icon.png)|Displays the total number of acknowledgements related to each policy. The chart is stacked to display the overall acknowledgement status for each policy.|
-|Past due acknowledgements|Bar chart![Column icon](../../performance-analytics/image/column-icon.png)|Displays the total number of past due acknowledgements over a period of time.|
-|Pending acknowledgements|Bar chart![Column icon](../../performance-analytics/image/column-icon.png)|Displays the total number of pending acknowledgements related to each policy.|
-|Policy Exceptions|List ![List icon3](../../performance-analytics/image/scorecard-icon.png)List|Displays a list of policy exceptions opened for a policy with details of the .|
+|Policy acknowledgement status|Donut chart![Donut icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/donut-icon.png)|Displays the overall status of the policy acknowledgements.|
+|Policy acknowledgement status by Policy|Bar chart![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/column-icon.png)|Displays the total number of acknowledgements related to each policy. The chart is stacked to display the overall acknowledgement status for each policy.|
+|Past due acknowledgements|Bar chart![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/column-icon.png)|Displays the total number of past due acknowledgements over a period of time.|
+|Pending acknowledgements|Bar chart![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/column-icon.png)|Displays the total number of pending acknowledgements related to each policy.|
+|Policy Exceptions|List ![List icon3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/scorecard-icon.png)List|Displays a list of policy exceptions opened for a policy with details of the .|
 
-**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](grc-policy-compliance-content-pack.md)
+**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 

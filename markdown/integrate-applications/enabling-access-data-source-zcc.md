@@ -24,5 +24,5 @@ To connect to a data source behind a private network using a zero copy connectio
     For data sources hosted behind private Virtual Private Clouds \(VPCs\) or Virtual Networks \(VNets\) in the public cloud, connectivity options are available that enable query traffic to transit over private IP address space, end to end. This private connectivity is enabled by technologies such as [Private Link](https://learn.microsoft.com/en-us/azure/private-link/private-link-overview). Each cloud provider implements this technology differently. To explore private connectivity options for your specific topology, contact your account manager or Customer Service and Support.
 
 
-**Parent Topic:**[Configuring Zero Copy Connectors](configuring-zcc.md)
+**Parent Topic:**[Configuring Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configuring-zcc.md)
 

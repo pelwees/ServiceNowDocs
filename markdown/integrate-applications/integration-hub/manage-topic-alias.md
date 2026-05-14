@@ -19,7 +19,7 @@ Use topic aliases to simplify topic management in Stream Connect. A topic alias 
 
 This example shows the form for a topic alias that is connected to a Direct Kafka topic.
 
-![Screen shot of a topic alias record.](../images/topic-alias.png)
+![Screen shot of a topic alias record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/topic-alias.png)
 
 The full name of the topic alias is Incoming-Messages \[Global\]. A topic alias has a qualified name: It's a combination of the name that it's given \(in this case, Incoming-Messages\) followed by its application scope. It’s possible for there to be multiple topic aliases with the same given name if the aliases are in different application scopes.
 
@@ -31,14 +31,14 @@ The links you see here are also determined by which plugins are installed.
 -   If the ServiceNow Stream Connect Hermes \(com.glide.hub.stream\_connect.hermes\) plugin is installed, links to connect or disconnect Hermes topics appear.
 -   If both plugins are installed, links for both Hermes topics and Direct Kafka topics appear.
 
-For a list of Stream Connect plugins, see [Integration Hub plugins](../reference/ih-plugins.md).
+For a list of Stream Connect plugins, see [Integration Hub plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/ih-plugins.md).
 
 Below the Related Links are tabs for Topics, Kafka Subscriptions, and Kafka Producers.
 
 -   The Hermes Topics tab displays any connected Hermes topics. This tab only appears on hosted instances that have access to the ServiceNow hosted Hermes service.
 -   The Direct Kafka Topics tab displays any connected Direct Kafka topics. This tab generally appears only for on-premise instances where the ServiceNow Stream Connect Direct Kafka \(com.glide.hub.stream\_connect.direct\_kafka\) plugin is installed.
--   The Kafka Subscriptions tab displays any associated subscriptions and related statistics. For more on subscription statistics, see [Viewing Kafka subscriptions and statistics](kafka-subscriptions-statistics.md).
--   The Kafka Producers tab displays any associated producers and their related statistics. For descriptions of producer statistics, see [Viewing producer statistics](producer-statistics.md).
+-   The Kafka Subscriptions tab displays any associated subscriptions and related statistics. For more on subscription statistics, see [Viewing Kafka subscriptions and statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/kafka-subscriptions-statistics.md).
+-   The Kafka Producers tab displays any associated producers and their related statistics. For descriptions of producer statistics, see [Viewing producer statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/producer-statistics.md).
 
 ## Topic and topic alias tables
 

@@ -21,14 +21,14 @@ A filter for **Last week** returns incidents from midnight on Sunday the week pr
 
 For the **at or before** and **at or after** filters, use midnight as a start or end point. For example, if you filter a list of incidents created **\[at or after\] \[Yesterday\]**, the resulting list shows all incidents created at midnight yesterday or later. If it is Thursday, August 7, and you filter a list of incidents created **\[at or before\] \[Last week\]**, the resulting list shows all incidents created at and before midnight on Sunday August 3, which is the end of last week.
 
-**Parent Topic:**[Condition builder](c_ConditionBuilder.md)
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
 **Related topics**  
 
 
-[Filtering on empty fields](../task/t_FilteringOnEmptyFields.md)
+[Filtering on empty fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_FilteringOnEmptyFields.md)
 
-[Comparing field values](../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
+[Comparing field values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
 
 ## Operators and values available for date and time fields
 

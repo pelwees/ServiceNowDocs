@@ -17,7 +17,7 @@ Learn how agents, using the Close deposit account workflow, resolve service requ
 
 The following diagram shows how the application helps bank agents resolve a deposit request for an account closure.
 
-![Workflow showing how the closure of a deposit account is completed using the deposit operations application. For the image description, see the text that follows.](../image/close-deposit-account-workflow.png "Close deposit account workflow example")
+![Workflow showing how the closure of a deposit account is completed using the deposit operations application. For the image description, see the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../image/close-deposit-account-workflow.png "Close deposit account workflow example")
 
 The deposit admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -49,5 +49,5 @@ The following workflow routes the case and tasks for closing a deposit account t
 
 The case is complete and the state and stage of the case are set to Closed Complete.
 
-**Parent Topic:**[Financial Services Deposit Operations workflows](deposit-operations-workflows.md)
+**Parent Topic:**[Financial Services Deposit Operations workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/deposit-operations-workflows.md)
 

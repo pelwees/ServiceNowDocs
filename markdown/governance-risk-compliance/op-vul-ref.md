@@ -31,5 +31,5 @@ Reference topics provide additional information about the Operational vulnerabil
 |Regulation \[sn\_grc\_case\_mgmt\_regulation\]|Stores the regulations mapped at the case level.|GRC: Core Case Management|
 |Related area \[sn\_grc\_case\_mgmt\_related\_area\]|Stores the related areas associated with the case.|GRC: Core Case Management|
 
-**Parent Topic:**[Tables installed with Operational Resilience](tables-installed-with-op-res.md)
+**Parent Topic:**[Tables installed with Operational Resilience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/tables-installed-with-op-res.md)
 

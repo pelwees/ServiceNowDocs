@@ -36,16 +36,16 @@ Ensure that the following applications have compatible upgraded versions:
 |6.1.1|26.1.y|
 |7.0.x|26.3.y|
 
-**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+**Parent Topic:**[Service Operations Workspace for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/terminology-used-in-sow-for-itsm.md)
 
-[Additional roles for SOW admin](additional-roles-sow-admin.md)
+[Additional roles for SOW admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/additional-roles-sow-admin.md)
 
-[Service Operations Workspace for ITSM data model](sow-itsm-data-model.md)
+[Service Operations Workspace for ITSM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-data-model.md)
 
-[Components installed with Service Operations Workspace ITSM Applications](components-installed-with-sow.md)
+[Components installed with Service Operations Workspace ITSM Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-with-sow.md)
 

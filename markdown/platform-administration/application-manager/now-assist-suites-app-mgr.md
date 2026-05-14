@@ -19,7 +19,7 @@ Now Assist applications often function interdependently, which can result in run
 
 The Application Manager uses Now Assist suite versions to verify compatibility between every new Now Assist application version you install and all Now Assist application versions already present on your instance. This verification happens when installing new applications for the first time and when updating application versions. The installation details for Now Assist applications enable you to select a Now Assist suite version and review which applications, if any, need to be updated or procured for suite compatibility.
 
-![Based on the Now Assist suite version selected, 35 other Now Assist applications need to be updated for compatibility.](../image/app-mgr-suite-installation.png "Now Assist installation details")
+![Based on the Now Assist suite version selected, 35 other Now Assist applications need to be updated for compatibility.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-mgr-suite-installation.png "Now Assist installation details")
 
 A Now Assist application version might be included in multiple Now Assist suite versions based on its compatibility with other applications. When you install or update a Now Assist application, you can choose any suite version that the application is compatible with. Based on the Now Assist suite version you choose, multiple applications might be updated.
 

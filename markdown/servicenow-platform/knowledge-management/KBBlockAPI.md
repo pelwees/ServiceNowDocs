@@ -15,7 +15,7 @@ breadcrumb: [Integrating a custom search or knowledge article viewer with knowle
 
 The `KBBlock` API is included with knowledge blocks \[com.snc.knowledge\_blocks\] as a script include. It provides methods to use with the knowledge blocks feature, such as integration with a custom knowledge article viewer.
 
-**Parent Topic:**[Integrating a custom search or knowledge article viewer with knowledge blocks](integrating-with-custom-search-or-knowledge-article-viewer.md)
+**Parent Topic:**[Integrating a custom search or knowledge article viewer with knowledge blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/integrating-with-custom-search-or-knowledge-article-viewer.md)
 
 ## KBBlock - KBBlock\(\)
 

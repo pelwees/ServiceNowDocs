@@ -43,5 +43,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 A purchase order revision is created for the alternative supplier and is assigned to the supplier contact.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/resolving-purchase-order-exceptions.md)
 

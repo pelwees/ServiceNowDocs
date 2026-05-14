@@ -23,11 +23,11 @@ Use color variables in **Card template element attributes** to control color val
 -   **BorderColorVariable**
 -   **TextColorVariable**
 
- For more information on these attributes, see [Card template element attributes](mca-attributes.md).
+ For more information on these attributes, see [Card template element attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mca-attributes.md).
 
 </td><td>
 
-![Color variable used in a card view template element](../image/color-var-example-6.png)
+![Color variable used in a card view template element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-6.png)
 
 </td></tr></tbody>
 </table>## Button style guide
@@ -50,7 +50,7 @@ Primary
 
 </td><td>
 
-![Primary button example](../image/icon-colors/button-primary.png)
+![Primary button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-primary.png)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Secondary
 
 </td><td>
 
-![Secondary button example](../image/icon-colors/button-secondary.png)
+![Secondary button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-secondary.png)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Positive
 
 </td><td>
 
-![Positive button example](../image/icon-colors/button-positive.png)
+![Positive button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-positive.png)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Destructive
 
 </td><td>
 
-![Destructive button example](../image/icon-colors/button-destructive.png)
+![Destructive button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-destructive.png)
 
 </td><td>
 
@@ -148,7 +148,7 @@ Bare
 
 </td><td>
 
-![Bare button example](../image/icon-colors/button-bare.png)
+![Bare button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-bare.png)
 
 </td><td>
 
@@ -177,7 +177,7 @@ Disabled
 
 </td><td>
 
-![Disabled button example](../image/icon-colors/button-disabled.png)
+![Disabled button example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/button-disabled.png)
 
 </td><td>
 

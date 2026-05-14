@@ -21,19 +21,19 @@ Getting started with Sidebar
 
 <table id="table_h2y_wyt_nwb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Sidebar concepts and features.](exploring-sidebar.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Sidebar concepts and features.](exploring-sidebar.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Sidebar and activate relevant plugins.](configure-sidebar.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Sidebar and activate relevant plugins.](configure-sidebar.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-person.svg)Use Sidebar to help agents have discussions with others to solve issues faster.](using-sidebar.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../../../reuse/icons/brand-icons/bus-person.svg)Use Sidebar to help agents have discussions with others to solve issues faster.](using-sidebar.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Sidebar details for domain separation.](../reference/sidebar-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../../../reuse/icons/brand-icons/bus-learn.svg)Get Sidebar details for domain separation.](../reference/sidebar-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -38,7 +38,7 @@ Integrate your ServiceNow instance with the SumTotal host by setting up the conn
 
 The image provides the flow of creating a connection and credential record.
 
-![Flow to set up SumTotal connection and credential record.](../image/sumtotal-flow.png)
+![Flow to set up SumTotal connection and credential record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-flow.png)
 
 ### Procedure
 
@@ -46,9 +46,9 @@ The image provides the flow of creating a connection and credential record.
 
 2.  Navigate to **ADMINISTRATION** &gt; **System** &gt; **Configuration** &gt; **Technical Configuration** &gt; **OAuth Configuration** &gt; **.**
 
-3.  On the OAUTH CLIENTS page, click **+Add**.![Add button to add OAuth client in SumTotal.](../image/sumtotal-add.png)
+3.  On the OAUTH CLIENTS page, click **+Add**.![Add button to add OAuth client in SumTotal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-add.png)
 
-4.  In the EDIT page, enter the details.![SumTotal OAuth client setup page.](../image/sumtotal-edit.png)
+4.  In the EDIT page, enter the details.![SumTotal OAuth client setup page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-edit.png)
 
 <table id="table_qj1_cxj_qwb"><thead><tr><th>
 
@@ -150,12 +150,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the SumTotal spoke, select**View Details**.
 
-        ![Connection for the SumTotal spoke](../image/sumtotal-spoke-tile.png)
+        ![Connection for the SumTotal spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-spoke-tile.png)
 
-    -   To manage more than one Sumtotal spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Sumtotal spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
-    ![Initial connection configuration](../image/sumtotal-spoke-configure.png)
+    ![Initial connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-spoke-configure.png)
 
 5.  In the form, fill these details.
 
@@ -216,7 +216,7 @@ OAuth Redirect URL
 OAuth callback endpoint in this format: `https://<instance-name>.service-now.com/oauth_redirect.do`.
 
 </td></tr></tbody>
-</table>    ![Configure a connection for the SumTotal spoke](../image/sumtotal-spoke-conf-connection.png)
+</table>    ![Configure a connection for the SumTotal spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sumtotal-spoke-conf-connection.png)
 
 6.  Select **Save and Get OAuth Token**.
 

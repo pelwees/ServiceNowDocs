@@ -42,11 +42,11 @@ The supported record types enable actions like the following:
 -   Connect the data to the certificate on the DNS.
 -   Connect the data to the CDN provider.
 
-![DNS resource record class model.](../image/cmdb-ci-class-models-dns.png "DNS resource record classes integrated with the CMDB class hierarchy")
+![DNS resource record class model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/cmdb-ci-class-models-dns.png "DNS resource record classes integrated with the CMDB class hierarchy")
 
 ## Table: cmdb\_ci\_dns\_resource\_record
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 DNS record detail from Domain Name Server \(DNS\) for a WWW domain.
 

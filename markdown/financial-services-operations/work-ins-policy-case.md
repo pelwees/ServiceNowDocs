@@ -27,7 +27,7 @@ Use the case playbook that provides the activities and tasks required to researc
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Policy Service Cases**, open the case list.
 
@@ -60,14 +60,14 @@ The case workflow triggers next tasks for underwriter and document agent and the
 
 Work on the tasks associated with the case to resolve it.
 
--   [Work on an insurance underwriting task](work-insurance-underwriting-task.md).
--   [Work on a document task to verify documents for a policy service case](work-document-task-ins-policy-ops.md).
+-   [Work on an insurance underwriting task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-insurance-underwriting-task.md).
+-   [Work on a document task to verify documents for a policy service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-document-task-ins-policy-ops.md).
 -   Work on a policy service task.
 
--   **[Work on an insurance underwriting task](work-insurance-underwriting-task.md)**  
+-   **[Work on an insurance underwriting task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-insurance-underwriting-task.md)**  
 Work on a personal insurance underwriting task to evaluate the policy request and analyze risks for an insurance policy customer.
--   **[Work on a document task to verify documents for a policy service case](work-document-task-ins-policy-ops.md)**  
+-   **[Work on a document task to verify documents for a policy service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-document-task-ins-policy-ops.md)**  
 Work on a document task to manage and track documents \(inbound and outbound\) that are needed for a policy service case.
 
-**Parent Topic:**[Using Personal Lines Servicing](../concept/using-financial-services-insurance-policy-operations.md)
+**Parent Topic:**[Using Personal Lines Servicing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/using-financial-services-insurance-policy-operations.md)
 

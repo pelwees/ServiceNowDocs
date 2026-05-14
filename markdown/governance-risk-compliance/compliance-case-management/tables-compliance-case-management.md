@@ -166,5 +166,5 @@ Compliance case
 Stores the compliance case records.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Compliance Case Management reference](reference-data-compliance-case-management.md)
+</table>**Parent Topic:**[Compliance Case Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reference-data-compliance-case-management.md)
 

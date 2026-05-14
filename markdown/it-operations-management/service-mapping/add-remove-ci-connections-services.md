@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-If discovery based on Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated from traffic-related data in the Configuration Management Database \(CMDB\) and an analysis of application fingerprints, CIs, and processes. Predictive Intelligence evaluates and ranks the relevancy of these connections, and Service Mapping then uses this information to create connections and provide suggestions for servers and load balancers. Then you can decide which connections to add or remove from service instances. For more information, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+If discovery based on Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated from traffic-related data in the Configuration Management Database \(CMDB\) and an analysis of application fingerprints, CIs, and processes. Predictive Intelligence evaluates and ranks the relevancy of these connections, and Service Mapping then uses this information to create connections and provide suggestions for servers and load balancers. Then you can decide which connections to add or remove from service instances. For more information, see [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/traffic-based-discovery.md).
 
 **Important:** You can add or remove CIs using connection suggestions only in application services discovered by Service Mapping.
 
@@ -32,7 +32,7 @@ If discovery based on Predictive Intelligence is enabled, Service Mapping automa
 
 1.  View information about all application CIs in connection suggestions.
 
-    See [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md) for more information.
+    See [Discover applications based on fingerprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/task/discover-application-based-process.md) for more information.
 
     **Important:** If you don’t use fingerprint-based discovery, some application CIs might be mapped as generic applications, lacking specific identification or detailed information.
 
@@ -50,11 +50,11 @@ If discovery based on Predictive Intelligence is enabled, Service Mapping automa
 
 4.  Review the suggestion details paying attention to the parameters covered in the Connections Suggestions list.
 
-    See [Connection Suggestions list](../reference/connection-suggestions-list.md).
+    See [Connection Suggestions list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/connection-suggestions-list.md).
 
 5.  If you haven't discovered application CIs, discover a standalone CI of the application class based on fingerprints:
 
-    1.  Select the **Preview** icon ![Preview connection suggestion icon](../image/preview-connection-suggestion-icon.png) next to the relevant suggestion based on the application fingerprints \(AFP\).
+    1.  Select the **Preview** icon ![Preview connection suggestion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/preview-connection-suggestion-icon.png) next to the relevant suggestion based on the application fingerprints \(AFP\).
 
         The Connection Suggestion list opens showing details of this suggestion.
 
@@ -106,10 +106,10 @@ Service Mapping reverses earlier decisions, whether made manually or by rule. Th
 
 The application service map reflects the changes that you made. The connections you added, along with the CIs they lead to, appear on the map.
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
 **Related topics**  
 
 
-[Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md)
+[Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/traffic-based-discovery.md)
 

@@ -43,9 +43,9 @@ Role required: adaptive\_auth\_admin
 
 5.  Select one or more filter criteria from the **Collection** list and move them to **Policy Inputs List** of **Allow Access Policy** list.
 
-    ![sample filter criteria for allow access policy](../images/filter-criteria-allow-access-policy.png)
+    ![sample filter criteria for allow access policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/filter-criteria-allow-access-policy.png)
 
-    **Note:** For information on creating your own filter criteria to use in this section, see [Filter criteria](../concept/adaptive-auth-filter-criteria.md).
+    **Note:** For information on creating your own filter criteria to use in this section, see [Filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../concept/adaptive-auth-filter-criteria.md).
 
 6.  From the **Policy Conditions** tab, click **New**.
 

@@ -13,7 +13,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 Use this dashboard to view and analyze performance analytics such as open work order tasks, agent utilization on work order tasks, and average travel time across territories.
 
-![Field Service Performance Analytics dashboard showing work order and work order task information with tiles containing line graphs.](../../../product/field-service-management/image/territory-performance-analytics.png)
+![Field Service Performance Analytics dashboard showing work order and work order task information with tiles containing line graphs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/image/territory-performance-analytics.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -70,5 +70,5 @@ Can manage territories, create new child territories and see how the territories
 |Territory|Reference|Multi select Input|Filter the report results based on a selected territory.|
 |Date|Date|Single select date|Filter the report based on the selected date.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/concept/analytics-reporting-fsm.md)
 

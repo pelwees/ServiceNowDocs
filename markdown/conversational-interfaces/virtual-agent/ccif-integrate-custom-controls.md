@@ -94,7 +94,7 @@ Provider
 
 </td><td>
 
-The name of the channel identifier for your custom chat integration. For details, see [Create a channel identifier for your custom chat integration](create-channel-id-va-cccif.md).
+The name of the channel identifier for your custom chat integration. For details, see [Create a channel identifier for your custom chat integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-channel-id-va-cccif.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Control type
 
 Select the custom control that you designed. For custom controls, the type is always DefaultCustomControl.
 
- To learn more about custom controls, see [Customizing Virtual Agent with custom controls](../concept/custom-controls.md).
+ To learn more about custom controls, see [Customizing Virtual Agent with custom controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/custom-controls.md).
 
 </td></tr><tr><td>
 
@@ -134,5 +134,5 @@ Name of the outbound transformer action script for this rich control, such as, s
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](../concept/va-features-custom-chat-integrations.md)
+**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-features-custom-chat-integrations.md)
 

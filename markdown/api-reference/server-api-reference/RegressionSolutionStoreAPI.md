@@ -17,7 +17,7 @@ Enables storing and retrieving solutions.
 
 The RegressionSolutionStore API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## RegressionSolutionStore - add\(Object mlSolution\)
 
@@ -27,13 +27,13 @@ Adds a new solution object to the store and returns a unique name.
 
 |Name|Type|Description|
 |----|----|-----------|
-|mlSolution|[RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#)|[RegressionSolution\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object to add to the store.|
+|mlSolution|[RegressionSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)|[RegressionSolution\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) object to add to the store.|
 
 |Type|Description|
 |----|-----------|
 |String|System-generated solution name.|
 
-The following example shows how to add a solution to the store. Use [RegressionSolution - submitTrainingJob\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#) to train the Solution after adding it to the store.
+The following example shows how to add a solution to the store. Use [RegressionSolution - submitTrainingJob\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) to train the Solution after adding it to the store.
 
 ```
 // Create a dataset 
@@ -65,7 +65,7 @@ Removes a specified solution object from the store.
 
 |Name|Type|Description|
 |----|----|-----------|
-|name|String|Name of the [RegressionSolution\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object to be deleted.|
+|name|String|Name of the [RegressionSolution\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) object to be deleted.|
 
 |Type|Description|
 |----|-----------|
@@ -87,9 +87,9 @@ Gets a solution object from the store.
 
 |Type|Description|
 |----|-----------|
-|Object|[RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object. Returns an error if the object does not exist.|
+|Object|[RegressionSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) object. Returns an error if the object does not exist.|
 
-The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [RegressionSolution - getActiveVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#) and [RegressionSolutionVersion - getStatus\(\)](../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) methods.
+The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [RegressionSolution - getActiveVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) and [RegressionSolutionVersion - getStatus\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolutionVersion/concept/RegressionSolutionVersionAPI.md#) methods.
 
 ```
 // Get status
@@ -228,7 +228,7 @@ Replaces an existing object in the store with the object passed as a parameter. 
 |Name|Type|Description|
 |----|----|-----------|
 |name|String|Name of the solution to update.|
-|mlSolution|[RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#)|[RegressionSolution\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object properties to update.|
+|mlSolution|[RegressionSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)|[RegressionSolution\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) object properties to update.|
 
 |Type|Description|
 |----|-----------|

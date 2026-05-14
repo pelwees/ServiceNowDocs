@@ -51,7 +51,7 @@ From a claims list, select the claim case that you want to create a task for.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  On the **Lists** tab, navigate to one of the following applicable lists \(or the list category that is specific to your custom workflow\):
     -   As a processor, select **Insurance claim cases**, and then select **All**.
     -   As an adjuster, select **Insurance claim adjuster tasks**, and then select **All**.

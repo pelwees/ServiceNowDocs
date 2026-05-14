@@ -19,7 +19,7 @@ Install MID-less Agent Client Collector manually on a Linux machine to enable se
 
 -   Install the ITOM Cloud Services Core \(sn\_itom\_cloud\_svc\) plugin.
 -   Onboard your instance to use ITOM Cloud Services. For details, contact Customer Support.
--   Configure an agent registration key. For details, see [Configure an agent registration key](agent-registration-key-configuration.md).
+-   Configure an agent registration key. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
 -   Role required: agent\_client\_collector\_admin
 
 ## About this task
@@ -218,5 +218,5 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
         `# systemctl start acc`
 
 
-**Parent Topic:**[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+**Parent Topic:**[Installing MID-less Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-itom-cloud-services.md)
 

@@ -33,19 +33,19 @@ In this task, you configure a component event on a page to trigger an existing U
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md).
 
 3.  Create or open a page within the experience.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  Select the component that should trigger the interaction.
 
-    If the page doesn’t already include the component you want to use, add it to the page first. For more information about adding components to a page, see [Add and configure components](add-components.md#).
+    If the page doesn’t already include the component you want to use, add it to the page first. For more information about adding components to a page, see [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-components.md#).
 
 5.  In the component configuration panel, select the **Events** tab.
 
-    ![Button selected on a page, with Events tab displayed.](../image/uib-uii-event-tab.png "Events tab")
+    ![Button selected on a page, with Events tab displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-event-tab.png "Events tab")
 
 6.  Select **Add handler**.
 
@@ -55,7 +55,7 @@ In this task, you configure a component event on a page to trigger an existing U
 
     **Note:** If your interaction type is Form or List and the applicable controller isn’t already on the page, it is added automatically. If multiple controllers exist on the page, you’re prompted to choose which one feeds data to the interaction.
 
-    ![Add handler modal with UI interaction selected.](../image/uib-uii-select-a-response.png "Add handler modal")
+    ![Add handler modal with UI interaction selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-select-a-response.png "Add handler modal")
 
 9.  Select **Add**.
 
@@ -68,5 +68,5 @@ In this task, you configure a component event on a page to trigger an existing U
 
 When the specified page event occurs, the UI interaction runs and executes its configured actions.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/uib-ui-interactions.md)
 

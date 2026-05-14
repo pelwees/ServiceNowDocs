@@ -23,7 +23,7 @@ For example, say that you’re building a record page that displays a form for a
 
 To get test values to show data, add a data resource, then configure the data resource to bind a record to the test value in the URL. For example, you could add `incident` as a test value.
 
-![Edit test values for URL parameters popup displayed with required and optional parameter fields.](../image/test-values.png)
+![Edit test values for URL parameters popup displayed with required and optional parameter fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/test-values.png)
 
-**Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-pages.md)
 

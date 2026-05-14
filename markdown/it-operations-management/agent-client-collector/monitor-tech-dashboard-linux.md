@@ -45,11 +45,11 @@ You can filter the dashboard data according to the following filters:
 |Metrics by selected CI filter|The CIs for which you want metric data to display on the dashboard.|
 |Metrics by selected OS filter|The OS for which you want metric data to display on the dashboard.|
 
-On the right side of widgets displaying a single metric, you can select the More options icon \(![More options icon](../image/three-vertical-icon.png)\) and select **Change group by**. Select the category you want to view the metric by: Host name, Class, Operating System, or OS Version.
+On the right side of widgets displaying a single metric, you can select the More options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/three-vertical-icon.png)\) and select **Change group by**. Select the category you want to view the metric by: Host name, Class, Operating System, or OS Version.
 
 ## Linux server dashboard
 
-![Linux Server dashboard](../image/monitor-tech-dash-linux.png)
+![Linux Server dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/monitor-tech-dash-linux.png)
 
 The Metrics subtab displays the top five performing CIs and servers over the past six hours, according to the following metrics.
 
@@ -64,7 +64,7 @@ The Metrics subtab displays the top five performing CIs and servers over the pas
 -   Swap
 -   Disk Usage
 
-You can customize the appearance of the individual widgets on the Linux Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the Linux Monitoring Technology Dashboard. For example, you could change the timeframe for which the alerts appear. You can also include customized widgets when you are creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/customize-dashboard-widgets.md).
 
-**Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
+**Parent Topic:**[Understanding the Monitoring Technology Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-concept.md)
 

@@ -17,8 +17,8 @@ Identities represent actual individuals, organizations or groups, and classes of
 
 An Identity SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and threat actor identities.
 
--   **[Define identities](define-identity.md)**  
+-   **[Define identities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-identity.md)**  
 Define identities who represent actual individuals, organizations, or groups.
 
-**Parent Topic:**[Threat Entities](tisc-threat-entities.md)
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 

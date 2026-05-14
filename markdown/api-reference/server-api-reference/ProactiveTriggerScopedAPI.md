@@ -27,17 +27,17 @@ Similarly, if a user performs an AI Search from a Service Portal and no results 
 
 When calling the ProactiveTriggerAPI, there's a specific sequence in which you should call the methods. This API runs in the `sn_pt` namespace.
 
-First, you should call the [ProactiveTriggerAPI - createTrigger\(String triggerTypeId\)](ProactiveTriggerScopedAPI.md#) method to specify the type of trigger that you want to create. This call is required. For the list of available trigger types, see [How Proactive Triggers work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/how-proactive-triggers-work.md).
+First, you should call the [ProactiveTriggerAPI - createTrigger\(String triggerTypeId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#) method to specify the type of trigger that you want to create. This call is required. For the list of available trigger types, see [How Proactive Triggers work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/how-proactive-triggers-work.md).
 
 Next, you should call one of the methods that identifies the user to whom the messages should be sent. You can do this by calling one of the following methods:
 
--   [ProactiveTriggerAPI - setUserId\(String userId\)](ProactiveTriggerScopedAPI.md#): Identifies the user by the sys\_id of their associated User \[sys\_users\] record.
--   [ProactiveTriggerAPI - setUserName\(String userName\)](ProactiveTriggerScopedAPI.md#): Identifies the user by their user name, such as "abel.tuter".
--   [ProactiveTriggerAPI - setUserSessionId\(String userId\)](ProactiveTriggerScopedAPI.md#): Identifies the user by their current session sys\_id.
+-   [ProactiveTriggerAPI - setUserId\(String userId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#): Identifies the user by the sys\_id of their associated User \[sys\_users\] record.
+-   [ProactiveTriggerAPI - setUserName\(String userName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#): Identifies the user by their user name, such as "abel.tuter".
+-   [ProactiveTriggerAPI - setUserSessionId\(String userId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#): Identifies the user by their current session sys\_id.
 
-Next, you should call the [ProactiveTriggerAPI - setTriggerRecord\(String triggerRecord\)](ProactiveTriggerScopedAPI.md#) method to specify the trigger record on which to apply the Proactive Triggers' rules and actions.
+Next, you should call the [ProactiveTriggerAPI - setTriggerRecord\(String triggerRecord\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#) method to specify the trigger record on which to apply the Proactive Triggers' rules and actions.
 
-Finally, call the [ProactiveTriggerAPI - process\(\)](ProactiveTriggerScopedAPI.md#) method to execute the call chain. Both the setTriggerRecord\(\) and process\(\) method calls are required.
+Finally, call the [ProactiveTriggerAPI - process\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ProactiveTriggerScopedAPI.md#) method to execute the call chain. Both the setTriggerRecord\(\) and process\(\) method calls are required.
 
 For example:
 
@@ -47,7 +47,7 @@ var eventSysId = sn_pt.ProactiveTriggerAPI.createTrigger(triggerTypeId)
 
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## ProactiveTriggerAPI - createTrigger\(String triggerTypeId\)
 

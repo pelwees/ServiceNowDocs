@@ -127,14 +127,14 @@ Cost savings that you have achieved for licenses on your physical hosts and clus
 Select the report to view details about the cost savings that you have achieved for each host or cluster.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md)
+[Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/o365-usage-activity.md)
 
-[Reclamation rules for Microsoft 365 integration](m365-reclamation-rules.md)
+[Reclamation rules for Microsoft 365 integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-reclamation-rules.md)
 
-[Microsoft 365 integration](../concept/microsoft-o365.md)
+[Microsoft 365 integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/microsoft-o365.md)
 

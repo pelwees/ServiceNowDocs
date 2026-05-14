@@ -57,5 +57,5 @@ Considerations for creating custom Service Portal widgets for an application:
 
 For more information, see [Service Portal training](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_serviceportal_utah_service_portal).
 
-**Parent Topic:**[Create design elements](create-design-elements.md)
+**Parent Topic:**[Create design elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-design-elements.md)
 

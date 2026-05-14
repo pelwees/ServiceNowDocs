@@ -15,7 +15,7 @@ From within in the Security Posture Control \(SPC\) Workspace, gain insight into
 
 ## Mitigation controls monitoring
 
-For supported applications for Security Posture Control and Mitigation Controls Monitoring, see [Exploring Security Posture Control](spc-overview.md).
+For supported applications for Security Posture Control and Mitigation Controls Monitoring, see [Exploring Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-overview.md).
 
 The Security Posture Control application focuses on three core problem areas:
 

@@ -73,10 +73,10 @@ Then the field of the Strategic Program \[sn\_align\_core\_program\] table that 
  This field is available only if the **Top entity** field isn’t selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Portfolio Planning](form-field-information-for-portfolio-planning.md)
+</table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
 **Related topics**  
 
 
-[Modify lens structure in Portfolio Planning](../task/modify-lens-portfolio-planning.md)
+[Modify lens structure in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/modify-lens-portfolio-planning.md)
 

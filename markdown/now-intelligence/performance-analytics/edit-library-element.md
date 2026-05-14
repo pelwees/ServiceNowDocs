@@ -27,11 +27,11 @@ Role required: sn\_kpi\_composer.admin or admin for full editing functions
 
     Bookmark icons \(![](../image/kpi-comp-bookmark-icon-sm.png)\) identify the artifacts that are in a library element. The root artifacts, or parent artifacts, are the most top-level artifacts in each library element.
 
-    ![A KPI tree with two root artifacts, for each of two library elements.](../image/kpi-comp-root-artifacts.png)
+    ![A KPI tree with two root artifacts, for each of two library elements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-root-artifacts.png)
 
 3.  To delete a library element, select **Unlink element from library**.
 
-    ![Artifact properties for an artifact in a library element, showing Unlink element from library link.](../image/kpi-comp-unlink-element.png)
+    ![Artifact properties for an artifact in a library element, showing Unlink element from library link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-unlink-element.png)
 
     The artifacts are no longer members of that library element. However, every KPI tree that contained that library element still contains those artifacts, only now they are a separate set of ordinary artifacts in each tree.
 
@@ -41,20 +41,20 @@ Role required: sn\_kpi\_composer.admin or admin for full editing functions
 
     -   You can open a library element from any artifact in that element, not only the root artifact.
     -   If you have the sn\_kpi\_composer.admin or admin role, you can instead navigate to **KPI Composer** &gt; **Library** and open a library element from a set of library element tiles.
-5.  To add an artifact to the library element, follow the instructions in [Add artifacts to a KPI tree](../concept/design-kpi-tree.md#).
+5.  To add an artifact to the library element, follow the instructions in [Add artifacts to a KPI tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/design-kpi-tree.md#).
 
     **Note:**
 
     -   You do not need to click **Add this element to the library** in the properties of the new artifact. If you click this link, you add the new artifact to a new library element that is nested inside this library element.
-    -   Instead of adding a new artifact, you can add another library element, which is then nested inside this library element. For more information, see [Use a library element](use-library-element.md).
-6.  To add indicator definitions to the artifacts in a library element, open the Data Definition tab and follow the instructions in [Create an indicator definition](create-indicator-definition.md#).
+    -   Instead of adding a new artifact, you can add another library element, which is then nested inside this library element. For more information, see [Use a library element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/use-library-element.md).
+6.  To add indicator definitions to the artifacts in a library element, open the Data Definition tab and follow the instructions in [Create an indicator definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-indicator-definition.md#).
 
 7.  Select the information icon \(![](../image/kpi-comp-info-icon-sm.png)\) to view or edit the library element properties, such as whether the library element is global or personal in scope.
 
     You need the sn\_kpi\_composer.admin or admin role to edit properties. Otherwise, they are read-only.
 
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/cross-project-artifact-libraries.md)
 
 ## Library element properties
 
@@ -140,7 +140,7 @@ Responsible
 
 </td><td>
 
-A responsible user has full editing privileges but also is expected to be responsible for maintaining the library element. For more information, see [Access to KPI Composer](../concept/access-to-kpi-composer.md).
+A responsible user has full editing privileges but also is expected to be responsible for maintaining the library element. For more information, see [Access to KPI Composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/access-to-kpi-composer.md).
 
 </td><td>
 

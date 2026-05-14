@@ -21,7 +21,7 @@ You can use the filters to specify login actions to help security investigations
 
 Pagination in the login history is 20 by default and can be set to a maximum of 100.
 
-![Login History Details](../images/login-history.png)
+![Login History Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/login-history.png)
 
 Following are some of the other details from the Login History:
 

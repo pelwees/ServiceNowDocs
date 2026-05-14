@@ -42,14 +42,14 @@ Role required: sn\_asc.alumni
 4.  Select **Save**.
 
 
-**Parent Topic:**[Using your Alumni Center](../concept/asc-use.md)
+**Parent Topic:**[Using your Alumni Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../concept/asc-use.md)
 
 **Related topics**  
 
 
-[Register on the Alumni Center website](alumni-self-registration.md)
+[Register on the Alumni Center website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/alumni-self-registration.md)
 
-[Alumni job preferences](alumni-job-preferences.md)
+[Alumni job preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/alumni-job-preferences.md)
 
-[Add other employment details](add-other-emp-details.md)
+[Add other employment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/add-other-emp-details.md)
 

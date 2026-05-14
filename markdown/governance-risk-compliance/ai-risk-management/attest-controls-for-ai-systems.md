@@ -38,9 +38,9 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 ## What to do next
 
--   [Attest a control](../../grc-policy-and-compliance/task/attest-a-control.md)
--   [Group control attestations using the Same Response feature](../../grc-policy-and-compliance/concept/c_Attestations.md#)
--   [Group control attestations using the Different Response feature](../../grc-policy-and-compliance/concept/c_Attestations.md#)
+-   [Attest a control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-policy-and-compliance/task/attest-a-control.md)
+-   [Group control attestations using the Same Response feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-policy-and-compliance/concept/c_Attestations.md#)
+-   [Group control attestations using the Different Response feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-policy-and-compliance/concept/c_Attestations.md#)
 
-**Parent Topic:**[Manage controls using AI Risk and Compliance](../concept/manage-controls-in-airc.md)
+**Parent Topic:**[Manage controls using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/manage-controls-in-airc.md)
 

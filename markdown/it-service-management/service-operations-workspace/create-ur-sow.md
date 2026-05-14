@@ -219,5 +219,5 @@ How or why the universal request was closed.
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/using-ur-sow.md)
 

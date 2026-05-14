@@ -25,23 +25,23 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_ojj_jjv_qdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Enterprise Architecture \(EA\)](exploring-now-assist-for-ea.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Enterprise Architecture \(EA\)](exploring-now-assist-for-ea.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Enterprise Architecture \(EA\) application to get started](../task/configure-now-assist-ea.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Enterprise Architecture \(EA\) application to get started](../task/configure-now-assist-ea.md)
 
 </td><td>
 
-[Use AI agents![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for Enterprise Architecture \(EA\)](using-na-ea-ai-agents.md)
+[Use AI agents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for Enterprise Architecture \(EA\)](using-na-ea-ai-agents.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities offered by Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities offered by Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for Enterprise Architecture \(EA\)](../reference/now-assist-ea-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for Enterprise Architecture \(EA\)](../reference/now-assist-ea-reference.md)
 
 </td><td>
 
@@ -74,16 +74,16 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[Exploring Now Assist for Enterprise Architecture \(EA\)](exploring-now-assist-for-ea.md)**  
+-   **[Exploring Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/exploring-now-assist-for-ea.md)**  
 With the Now Assist for Enterprise Architecture \(EA\) application, you can generate a summary of Architectural Decision Records \(ADR\) or gather insights into business applications in the Enterprise Architecture Workspace.
--   **[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)**  
+-   **[Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../task/configure-now-assist-ea.md)**  
 If you have the admin role, you can configure the Now Assist for Enterprise Architecture \(EA\) to enable generative AI skills in Enterprise Architecture Workspace \(EA\).
--   **[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)**  
+-   **[Using Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/using-now-assist-for-ea.md)**  
 With the Now Assist for Enterprise Architecture \(EA\) application, you can summarize Architectural decision records \(ADR\) and help gather insights into business applications in the Enterprise Architecture Workspace.
--   **[Using AI agent agentic workflow in Now Assist for Enterprise Architecture \(EA\)](using-na-ea-ai-agents.md)**  
+-   **[Using AI agent agentic workflow in Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/using-na-ea-ai-agents.md)**  
 Use the AI agents in Enterprise Architecture to help complete tasks autonomously.
--   **[Now Assist for Enterprise Architecture reference](../reference/now-assist-ea-reference.md)**  
+-   **[Now Assist for Enterprise Architecture reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../reference/now-assist-ea-reference.md)**  
 Reference information to provide additional information about tables, roles, and properties installed with Now Assist for Enterprise Architecture \(EA\).
 
-**Parent Topic:**[Enterprise Architecture](../../application-portfolio-management/concept/application-portfolio-management-landing-page.md)
+**Parent Topic:**[Enterprise Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/concept/application-portfolio-management-landing-page.md)
 

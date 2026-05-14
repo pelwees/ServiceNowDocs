@@ -64,7 +64,7 @@ The Accounts Payable Operations serves as entry point for tax calculation. When 
 
 </td><td>
 
--   If tax calculation is required, then a record is created in the tax staging table \[sn\_spend\_intg\_tax\_staging\], and the tax status is set to in progress. For more information on tax status, see [Tax status](../reference/tax-status.md)
+-   If tax calculation is required, then a record is created in the tax staging table \[sn\_spend\_intg\_tax\_staging\], and the tax status is set to in progress. For more information on tax status, see [Tax status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/tax-status.md)
 -   If tax calculation isn’t required, then the invoice processing continues through the regular exception flow and proceeds to payment.
 
 </td></tr><tr><td>
@@ -77,7 +77,7 @@ The Source-to-Pay integration framework is a processing layer between Accounts P
 -   Mapping tables are used during request creation \(outbound\) and response processing \(inbound\) between APO attributes and Accounts Payable Operations.
 -   Responses from the tax engine are sent back to the staging table.
 -   Invoice tax status is updated based on the response.
--   Failed records are processed manually. For more information on the tables, see [Configuration tables and prerequisites for Tax integration](config-tax-integ.md).
+-   Failed records are processed manually. For more information on the tables, see [Configuration tables and prerequisites for Tax integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-tax-integ.md).
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ Tax calculation and validation can be triggered in multiple ways:
 
 A high level workflow of how tax integration works in Accounts Payable Operations is shown below.
 
-![Tax integration workflow](../image/tax-integ-workflow.png)
+![Tax integration workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/tax-integ-workflow.png)
 
 **Note:** If you're upgrading from previous version of APO to latest version, you must execute the scheduled job \[APO - close open exception for deactivated exception definition\]. This scheduled job updates the status of invoice exceptions to inactive and closes the corresponding invoice exceptions.
 

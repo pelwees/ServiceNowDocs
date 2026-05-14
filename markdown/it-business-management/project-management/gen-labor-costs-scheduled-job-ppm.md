@@ -27,17 +27,17 @@ Role required: admin
 
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-    For a description of the field names, see [Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md).
+    For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Generate labor costs](gen-cost-pln-prj-wrkspc.md)
+**Parent Topic:**[Generate labor costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-cost-pln-prj-wrkspc.md)
 
 **Related topics**  
 
 
-[Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md)
+[Scheduled Script Execution Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/scheduled-script-execution-form.md)
 
-[Generate labor costs](gen-cost-pln-prj-wrkspc.md)
+[Generate labor costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-cost-pln-prj-wrkspc.md)
 

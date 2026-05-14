@@ -27,7 +27,7 @@ You can edit the Project, project dates, business case, financials, score, notes
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the details page of the project by selecting **Details** from the list.
 
@@ -41,8 +41,8 @@ You can edit the Project, project dates, business case, financials, score, notes
 
 4.  Select **Save**.
 
-    You can view the project or project task details from the side panel. Select Open task in the new tab \(![Open task in new tab icon.](../image/open-task-new-tab-icon.png)\) icon to open the project in a new tab. You can use the Full Details page to add work notes, attachments, and view related lists of a project or task.
+    You can view the project or project task details from the side panel. Select Open task in the new tab \(![Open task in new tab icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/open-task-new-tab-icon.png)\) icon to open the project in a new tab. You can use the Full Details page to add work notes, attachments, and view related lists of a project or task.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

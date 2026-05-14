@@ -17,7 +17,7 @@ Create different Now Assist in Virtual Agent branding configurations for the var
 
 ## Before you begin
 
-For more information about Now Assist in Virtual Agent, see [Now Assist in Virtual Agent](../concept/now-assist-in-va-landing.md) and [Configuring assistants overview](configure-now-assist-va.md).
+For more information about Now Assist in Virtual Agent, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/now-assist-in-va-landing.md) and [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -33,6 +33,6 @@ Create different chat widget branding configurations.
 
 3.  Select **New** to create a branding configuration or select **Now Assist in VA** to update it.
 
-4.  To edit the settings, see [Set up your Virtual Agent bot's branding](../../conversational-interfaces/task/ac-configure-chat-branding.md).
+4.  To edit the settings, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../conversational-interfaces/task/ac-configure-chat-branding.md).
 
 

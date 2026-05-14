@@ -19,7 +19,7 @@ Use the PDF document template to initiate digital signing, review, and generate 
 
 Adobe Acrobat Reader must be installed on your desktop.
 
-A document template must be set up for signing documents. For more information, see [Set up a document template for signing documents using a CAC or PIV smart card](create-document-template.md).
+A document template must be set up for signing documents. For more information, see [Set up a document template for signing documents using a CAC or PIV smart card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-document-template.md).
 
 Role required: none
 
@@ -56,5 +56,5 @@ Role required: none
     The signature is successfully captured and authenticated after document validation.
 
 
-**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](../concept/digital-signature.md)
+**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/digital-signature.md)
 

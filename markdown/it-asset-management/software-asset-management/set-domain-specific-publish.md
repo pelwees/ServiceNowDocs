@@ -71,14 +71,14 @@ Domain that you want the application property value to apply to.
 
 ## What to do next
 
-Publish the software products that you want to manage as part of phase-wise implementation of Software Asset Management. For more information, see [Publish a specific set of your software products](add-published-products.md).
+Publish the software products that you want to manage as part of phase-wise implementation of Software Asset Management. For more information, see [Publish a specific set of your software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-published-products.md).
 
-**Parent Topic:**[Manage phase-wise Software Asset Management implementation](../concept/manage-phasewise-imp-of-sam.md)
+**Parent Topic:**[Manage phase-wise Software Asset Management implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-phasewise-imp-of-sam.md)
 
 **Related topics**  
 
 
-[Publish a specific set of your software products](add-published-products.md)
+[Publish a specific set of your software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-published-products.md)
 
-[Remove published software products](remove-published-products.md)
+[Remove published software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/remove-published-products.md)
 

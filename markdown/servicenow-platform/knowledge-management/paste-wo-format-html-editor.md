@@ -21,13 +21,13 @@ Open the knowledge article in which you want to use the HTML editor.
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](create-knowledge-article.md) or [Edit a knowledge article](edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](edit-article-workspace-1.md).
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace-1.md).
 
 ## Procedure
 
 1.  Copy your text from a content source.
 
-2.  Click the paste as text icon \(![Paste as text icon](../image/paste-text.png)\) on the HTML toolbar.
+2.  Click the paste as text icon \(![Paste as text icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/paste-text.png)\) on the HTML toolbar.
 
 3.  In the Article body section, place your cursor at the point where you want to paste the content, right-click, and select **Paste** from the context menu.
 

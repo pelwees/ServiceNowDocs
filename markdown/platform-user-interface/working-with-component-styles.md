@@ -19,12 +19,12 @@ A search and filter bar at the top of the panel lets you narrow down components 
 
 Each component is represented as a tile and grouped by function, such as Navigation, Messaging, Forms. Selecting a component tile opens a side panel with editable properties for that component and its subcomponents.
 
-![Component styles panel with filter and component tiles displayed.](../image/tb-component-styles.png "Component styles panel")
+![Component styles panel with filter and component tiles displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-styles.png "Component styles panel")
 
--   **[Preview components](../task/tb-preview-components.md)**  
+-   **[Preview components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/tb-preview-components.md)**  
 As you’re creating or managing your theme, you can preview the components available for inclusion on your instance.
--   **[Edit components](../task/tb-edit-components.md)**  
+-   **[Edit components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/tb-edit-components.md)**  
 Edit Theme Builder individual components to better suit your brand and to meet accessibility conformance standards. The theme hooks that you can edit are specific to each type of component.
 
-**Parent Topic:**[Manage or edit a theme with Theme Builder](../task/tb-edit-theme.md)
+**Parent Topic:**[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/tb-edit-theme.md)
 

@@ -71,5 +71,5 @@ Install Data products by requesting it from the ServiceNow Store. Visit the [Ser
     The ServiceNow® Data Catalog is the self-service discovery layer where consumers find published data products, review metadata and documentation, and request access. After a data product is published and the metadata collector runs, it becomes discoverable in the Data Catalog.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

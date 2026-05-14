@@ -21,19 +21,19 @@ Role required: activity\_creator or workflow\_admin
 
 ## About this task
 
-For instructions on using the activity template process flow, see [create custom activities](create-custom-activities.md).
+For instructions on using the activity template process flow, see [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
 ## Procedure
 
-1.  Create a [custom activity](create-custom-activities.md).
+1.  Create a [custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SSH Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#), configure the SSH Execution Command.
 
 <table id="choicetable_j2l_k2s_d1b"><tbody><tr><td id="d384812e120">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -96,7 +96,7 @@ If checked, disables the SSH connection timeout for commands that might take lon
 If checked, enables the use of [sudo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md) to run commands.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md).
 
 
 ## Advanced SSH script options
@@ -134,16 +134,16 @@ rm ~/specialFunctions.py
 
 ## What to do next
 
--   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
--   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
+-   Use [auto-mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules
+-   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAnOutputVariable.md#) and [create parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 ## SSH template execution parameters
 
 Use execution parameters to create the input process script in the **Pre Processing** form of the activity designer.
 
-For descriptions of the command fields, see [Configure the SSH execution command](t_CreateAnSSHActivity.md#).
+For descriptions of the command fields, see [Configure the SSH execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAnSSHActivity.md#).
 
 **Note:** You must use the `executionParam.` prefix with all variables in this table.
 
@@ -416,7 +416,7 @@ Role required: activity\_creator, admin
 
     The system formats the variable in the proper syntax for the command.
 
-    ![SSH execution command](../image/SSHExecutionCommand.png "SSH execution command")
+    ![SSH execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/SSHExecutionCommand.png "SSH execution command")
 
 2.  Complete the fields shown in the table.
 
@@ -434,7 +434,7 @@ Input
 
 </td><td>
 
-Input variable builder. [Create input variables](CreateInputVariables.md#) to map to available fields.
+Input variable builder. [Create input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#) to map to available fields.
 
 </td></tr><tr><td>
 

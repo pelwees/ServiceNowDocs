@@ -23,7 +23,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the Migration accelerator icon \(![Migration accelerator icon](../images/mig-acc-icon.png)\) on the side bar.
+2.  Select the Migration accelerator icon \(![Migration accelerator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-icon.png)\) on the side bar.
 
 3.  Select the report whose details you want to view.
 
@@ -43,7 +43,7 @@ Illustration
 
 </td><td>
 
-![Time saved on Insights tab](../images/mig-acc-1.png)
+![Time saved on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-1.png)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Illustration
 
 </td><td>
 
-![Cost saved on Insights tab](../images/mig-acc-2.png)
+![Cost saved on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-2.png)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Illustration
 
 </td><td>
 
-![Automations complexity levels on Insights tab](../images/mig-acc-3.png)
+![Automations complexity levels on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-3.png)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Illustration
 
 </td><td>
 
-![Attended and unattended automations on Insights tab](../images/mig-acc-4.png)
+![Attended and unattended automations on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-4.png)
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Illustration
 
 </td><td>
 
-![Conversion rate (%) on Insights tab](../images/mig-acc-5.png)
+![Conversion rate (%) on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-5.png)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ The first value means that out of 78, 60 were fully converted. The second value 
 
 </td><td>
 
-![Conversion readiness section on insights tab](../images/mig-acc-cal.png)
+![Conversion readiness section on insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-cal.png)
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ The first value means that out of 78, 60 were fully converted. The second value 
 
 </td><td>
 
-![Total integrations on Insights tab](../images/mig-acc-7.png)
+![Total integrations on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-7.png)
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Select **View all integrations** to view the list of integrations.
 
 </td><td>
 
-![Top 20 integrations by app on Insights tab](../images/mig-acc-8.png)
+![Top 20 integrations by app on Insights tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/mig-acc-8.png)
 
 </td></tr></tbody>
 </table>    On the **All automations** tab, you can view the list of automations that you want to migrate with all the details.
@@ -113,5 +113,5 @@ Select **View all integrations** to view the list of integrations.
     You can select the automation that you want to migrate from this list.
 
 
-**Parent Topic:**[Migrating automations from UiPath to ServiceNow RPA Hub](migrating-automations-from-uipath.md)
+**Parent Topic:**[Migrating automations from UiPath to ServiceNow RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/migrating-automations-from-uipath.md)
 

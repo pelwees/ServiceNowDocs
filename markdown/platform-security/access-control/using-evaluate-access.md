@@ -107,7 +107,7 @@ Specify a field name to select from the list.
     -   REST endpoints
     The access results are displayed.
 
-    ![Access results](../images/use-access-analyzer-results.png)
+    ![Access results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/use-access-analyzer-results.png)
 
     The Access results table includes the following fields:
 
@@ -202,6 +202,6 @@ A unique ID for each access result execution.
     |Required ACL Roles|Details of the role that is required to access the resource.|
     |Role|Status of the role. Passed, Skipped, or Blocked.|
 
-    ![ACL Details](../images/acl-details-for-user.png)
+    ![ACL Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acl-details-for-user.png)
 
 

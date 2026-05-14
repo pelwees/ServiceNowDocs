@@ -33,17 +33,17 @@ Sometimes different questions or follow-up questions return the same extended an
 -   You don't need to posit as many follow-up questions to get the insights you need, because the system drills down automatically, directing you to the interesting part of the data to focus on.
 -   Results are faster, because extended analysis focuses on an increasingly specific subset of the data.
 
-Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [Query Generation skills](../task/enable-query-generation.md).
+Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/enable-query-generation.md).
 
 To turn on extended analysis for an exploration, select it in the **Ask Now Assist a question about data** field. You have the same choice when you launch AI Data Explorer in a data visualization or list.
 
-![Selecting extended or standard analysis.](../image/nowass-expl-extended-vs-standard-analysis.png)
+![Selecting extended or standard analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-extended-vs-standard-analysis.png)
 
 ## Standard vs. extended analysis
 
 Consider the following request made in an exploration: "Analyze the incident creation trend over the past 12 months." Using standard analysis, you get the following insights: "Incident creation peaked in July 2025 with 2,441 incidents, while the lowest monthly count was 1,177 incidents in August 2025. The first half of the period \(September 2024 to February 2025\) saw monthly incident counts consistently above 1,700, but the final month dropped by more than 50% compared to the peak."
 
-![Resulting insights from a standard analysis of the request to analyze the incident creation trend over the past 12 months.](../image/nowass-expl-std-analysis.png "Insights from standard analysis")
+![Resulting insights from a standard analysis of the request to analyze the incident creation trend over the past 12 months.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-std-analysis.png "Insights from standard analysis")
 
 Making the same request with extended analysis, you get the same insight plus the following information:
 
@@ -56,7 +56,7 @@ Making the same request with extended analysis, you get the same insight plus th
 -   Monthly incident counts vary widely \(range: 1,264; standard deviation: 369.24\), indicating unstable operational demand.
 
 
-![Resulting insights from an extended analysis of the request to analyze the incident creation trend over the past 12 months.](../image/nowass-explr-extd-analysis.png "Insights from extended analysis")
+![Resulting insights from an extended analysis of the request to analyze the incident creation trend over the past 12 months.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-explr-extd-analysis.png "Insights from extended analysis")
 
-**Parent Topic:**[Questions and responses in an exploration](ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/ask-expl-questions.md)
 

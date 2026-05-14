@@ -66,10 +66,10 @@ The hold releases automatically. When the blocking case is closed, the next time
 
 **Note:** If you cancel a purchase order or purchase requisition that has open procurement cases, the system displays a warning and cancels all associated open cases when the cancellation is confirmed.
 
-**Parent Topic:**[Procurement Case Management](psd-overview.md)
+**Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/base-system-procurement-case-types.md)
 

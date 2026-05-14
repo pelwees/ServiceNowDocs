@@ -39,7 +39,7 @@ The safety inspection quick link in the Employee center lists the safety inspect
 
     1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-    2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+    2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
     3.  Select the **Inspections** list and then select **All**.
 
@@ -66,5 +66,5 @@ The safety inspection record and the related survey are assigned to the safety a
 
 **Note:** When the survey is assigned to a different agent, any progress made on the survey does not transfer to the new agent. The new agent assigned to the survey must review and, if necessary, start the survey from the beginning, as partially completed surveys are not carried over.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-safety-inspections.md)
 

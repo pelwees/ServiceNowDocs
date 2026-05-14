@@ -32,22 +32,22 @@ Look up logic for reference fields is enhanced for invoices ingested via APIs an
 
 For more information on the AP invoice API, see [AP Invoice API Developer Guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md).
 
-**Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
+**Parent Topic:**[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-ap-invoice-processing.md)
 
 **Related topics**  
 
 
-[Rules based engine](rules-based-engine.md)
+[Rules based engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/rules-based-engine.md)
 
-[Work with invoices](work-with-invoices.md)
+[Work with invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md)
 
-[Invoice processing cases](working-with-ingestion-cases.md)
+[Invoice processing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-[Invoice exceptions](work-with-invoice-exceptions.md)
+[Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
+[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-[Invoice approvals](invoice-approvals.md)
+[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-invoice-attachment.md)
 

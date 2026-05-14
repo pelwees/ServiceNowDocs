@@ -19,7 +19,7 @@ The contact tracing visualization in a case is a graphical representation of the
 
 The contact tracing visualization available on the case form provides multiple options based on the status of the potentially exposed contacts. While working on a case, the case manager can use this visualization to view all potentially exposed contacts added to the case, their status, drill down to the next two levels of potential exposures , and take action as needed.
 
-![Contact tracing visualization area of the Case form.](../image/contact-tracing-visualization-5.png "Contact tracing visualization")
+![Contact tracing visualization area of the Case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/contact-tracing-visualization-5.png "Contact tracing visualization")
 
 Each card represents a potentially exposed contact who might have been potentially impacted by the affected user.You can view how many potentially exposed and infected contacts users have for their current case \(where they are the reported person\) and the totals for other active cases they are in.
 
@@ -91,9 +91,9 @@ Options available on the card
 
 Organizations with Contact Tracing and the Vaccination Status application can view vaccination statuses on the **Exposed Contacts** list and contact tracing visualization. The **Vaccinated** label on a card indicates that the user is vaccinated.
 
-For more information, see [Configure contact tracing visualization to show vaccination status](../task/add-vaccination-status-to-case-visualization.md).
+For more information, see [Configure contact tracing visualization to show vaccination status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/add-vaccination-status-to-case-visualization.md).
 
-![Contact tracing visualization area with examples of vaccinated contacts.](../image/contact-tracing-visualization-vaccine-status.png "Potentially exposed contacts with Vaccinated status")
+![Contact tracing visualization area with examples of vaccinated contacts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/contact-tracing-visualization-vaccine-status.png "Potentially exposed contacts with Vaccinated status")
 
 <table id="table_cqt_vwp_z4b"><thead><tr><th>
 
@@ -123,5 +123,5 @@ Vaccination filter
 Case managers with the sn\_imt\_vaccine.vaccine\_profile\_reader role can filter exposed contacts based on their vaccination status. In the contact tracing visualization, click **Filter**. Select the **Vaccinated** check box to hide contacts who are not vaccinated. Clear the check box to remove the filter and show all contacts.**Note:** The **Vaccinated** filter is visible to case managers without the sn\_imt\_vaccine.vaccine\_profile\_reader role but it does not reveal any vaccination data. Selecting the check box \(without the role\) hides all contacts as if none of them were vaccinated because the user does not have the necessary permissions to see vaccination statuses.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+</table>**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/exposure-case-management.md)
 

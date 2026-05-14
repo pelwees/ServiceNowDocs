@@ -27,7 +27,7 @@ Role required: sn\_cmp.cloud\_admin
 **Related topics**  
 
 
-[Create a Microsoft Azure service principal](create-ms-azure-service-principal.md)
+[Create a Microsoft Azure service principal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/create-ms-azure-service-principal.md)
 
-[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](azure-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/azure-pricesht-sched-dwnld-cloudin.md)
 

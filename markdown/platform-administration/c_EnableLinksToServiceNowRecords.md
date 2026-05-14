@@ -39,5 +39,5 @@ current.assigned_to.nil()
 
 Additionally, the script sets the view to incident\_active.
 
-**Parent Topic:**[Links to records in email notifications](../../../administer/notification/concept/c_EnablingLinksToServiceNowRecords.md)
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/notification/concept/c_EnablingLinksToServiceNowRecords.md)
 

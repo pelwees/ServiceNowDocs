@@ -235,5 +235,5 @@ Sets the timeout interval for all Windows probes on a specific MID Server. This 
 -   Default value: 600
 
 </td></tr></tbody>
-</table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](r_PowerShellForDiscovery.md)
+</table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 

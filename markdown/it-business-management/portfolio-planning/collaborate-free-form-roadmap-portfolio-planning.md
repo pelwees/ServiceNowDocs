@@ -46,7 +46,7 @@ Action
 
 </td><td>
 
-From the roadmap header, select the **Comments** icon \(![Comments icon.](../../alignment-planner-workspace/images/icon-comments.png)\)
+From the roadmap header, select the **Comments** icon \(![Comments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-comments.png)\)
 
 </td></tr><tr><td id="d215652e139">
 
@@ -89,5 +89,5 @@ In the Comments tab, add notes or comments and select **Post Worknotes**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md)
+**Parent Topic:**[Create a free-form roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-portfolio-planning-workspace.md)
 

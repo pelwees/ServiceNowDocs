@@ -41,18 +41,18 @@ To reorder the tests in the test set, open the test set record and use the drag-
 
 **Tip:**
 
-To change the order of steps within an individual test, see [Create a test in Test Management 2.0](create-test2.md).
+To change the order of steps within an individual test, see [Create a test in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md).
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/release-readiness-testing.md)
 
 **Related topics**  
 
 
-[Create a test in Test Management 2.0](create-test2.md)
+[Create a test in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md)
 
-[Create a test execution suite in Test Management 2.0](create-test-execution-suite.md)
+[Create a test execution suite in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-execution-suite.md)
 
-[Run your test assignments in Test Management 2.0](run-your-test-assignments.md)
+[Run your test assignments in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-your-test-assignments.md)
 

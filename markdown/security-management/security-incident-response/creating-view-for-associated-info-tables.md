@@ -31,18 +31,18 @@ The following is a procedure to create a view and add related lists to it.
 
     The slush bucket window is displayed.
 
-    ![Related list classic UI](../image/related-list-classic-ui.png)
+    ![Related list classic UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-classic-ui.png)
 
 4.  Go to **View name** drop-down list and click **New** to create a new view.
 
     You must add a name to the view.
 
-    ![Create new view](../image/create-new-view-related-list.png)
+    ![Create new view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create-new-view-related-list.png)
 
 5.  Add the desired related lists to the right bucket under the newly created view and save the view.
 
     This view will be used to render the associated info on the Investigation tab.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-investigation-canvas-records.md)
 

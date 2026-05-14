@@ -24,5 +24,5 @@ In the playbook, you can do the following:
 -   Review the AI calculated contract reminder date, adjust it if needed, and specify recipients who will receive notifications to either renew or terminate the contract.
 -   Review the obligations extracted from signed contracts, and edit, approve, or reject them to create obligation records in the contract repository.
 
-![Contract playbook displaying extracted obligations details.](../image/cmpro-na-playbook.png "Contract playbook")
+![Contract playbook displaying extracted obligations details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-playbook.png "Contract playbook")
 

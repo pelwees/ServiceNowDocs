@@ -77,7 +77,7 @@ Tags generated for Amazon Web Services \(AWS\) resources are sent to AWS and are
 **Related topics**  
 
 
-[View tagged resources on the Tag dashboard](cloud-dashboards.md#)
+[View tagged resources on the Tag dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-dashboards.md#)
 
 ## Create a custom tag for cloud resources
 
@@ -129,7 +129,7 @@ Value type
 
 </td><td>
 
-The [type of value](cloud-tagging.md#table_db3_vzx_vy) for this tag.
+The [type of value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-tagging.md#table_db3_vzx_vy) for this tag.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ An indicator that specifies if the tag is in use. Select this option to apply th
 **Related topics**  
 
 
-[View tagged resources on the Tag dashboard](cloud-dashboards.md#)
+[View tagged resources on the Tag dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-dashboards.md#)
 
 ## Group billing data using custom tags from provisioned resources
 
@@ -209,7 +209,7 @@ Provisioned resources with existing tags are discovered as part of Cloud discove
 
 5.  Perform Cloud Discovery again to view updated ServiceNow \(Custom\) tags.
 
-    For more information, see [Cloud Discovery](../../discovery/concept/discovery-manager.md#).
+    For more information, see [Cloud Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/concept/discovery-manager.md#).
 
 6.  Run the Billing schedule.
 
@@ -226,5 +226,5 @@ Provisioned resources with existing tags are discovered as part of Cloud discove
 
 ### What to do next
 
-[View cloud costs on the Billing dashboard](cloud-dashboards.md#).
+[View cloud costs on the Billing dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-dashboards.md#).
 

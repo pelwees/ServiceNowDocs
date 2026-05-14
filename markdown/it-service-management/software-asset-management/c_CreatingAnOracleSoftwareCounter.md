@@ -21,5 +21,5 @@ Oracle software that uses the **Oracle Processor** license calculation type coun
 
 Oracle software that uses the **Oracle Named User** or **Oracle Named User Plus** license calculation types count by number of unique users or number of unique users plus devices. This license calculation type must exist in the Software Usage \[cmdb\_sam\_sw\_usage\] table. A software installation record must be inserted with a discovery model that matches the correct Oracle software. For a usage to be counted by an Oracle New User or Oracle New User Plus counter, the **Target host** field on the Software Usage \[cmdb\_sam\_sw\_usage\] table should reference a configuration item with a **Metric type** of **Oracle NU** or **Oracle NUP**.
 
-**Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_OracleProcessPack.md)
 

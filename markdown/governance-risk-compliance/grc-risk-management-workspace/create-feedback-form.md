@@ -162,5 +162,5 @@ Additional comments \(Customer visible\)
 Additional information about the feedback that you want to share with the customers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create feedback in the Risk Workspace](../task/create-feedback.md)
+</table>**Parent Topic:**[Create feedback in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-feedback.md)
 

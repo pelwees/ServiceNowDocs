@@ -17,7 +17,7 @@ Use outbound email accounts to send emails.
 
 Use Accounts to process the outbound emails. On selecting Accounts under Outbound email, a list of existing accounts shows up. Select **Add an account** to create a new account.
 
-![Image showing outbound accounts](../image/ia-outbound-accounts.png)
+![Image showing outbound accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-outbound-accounts.png)
 
 <table id="table_scf_btj_nhc"><thead><tr><th>
 
@@ -121,7 +121,7 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 Manage the behavior of outgoing emails with Properties.
 
-![Image showing outbound properties](../image/ia-outbound-properties.png)
+![Image showing outbound properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-outbound-properties.png)
 
 -   Outbound sending and delivery options: You can either enable or disable the following options:
     -   Enable sending emails
@@ -136,7 +136,7 @@ Manage the behavior of outgoing emails with Properties.
 
 **Note:** Select **Save** to save the recent property settings. You can also undo the most recent change by selecting **Undo**. By selecting **Undo**, the values are reverted back to the most recent saved values.
 
-See [Outbound email configuration](../../reference-pages/reference/r_OutboundMailConfiguration.md) for more information.
+See [Outbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_OutboundMailConfiguration.md) for more information.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

@@ -21,7 +21,7 @@ Verify chat connector process scheduled jobs in case if collaboration chat messa
 -   On the external collaboration activity stream of the MSIM workspace.
 
 
-**Parent Topic:**[Configure Microsoft Teams](chat-channel-provider-config.md)
+**Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/chat-channel-provider-config.md)
 
 ## Scheduled jobs for Microsoft Teams
 

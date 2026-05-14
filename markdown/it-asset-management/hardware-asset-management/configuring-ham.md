@@ -33,7 +33,7 @@ Resource
 
 </th></tr></thead><tbody><tr><td>
 
-![Install Hardware Asset Management](../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management
+![Install Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-download.svg)Install Hardware Asset Management
 
 </td><td>
 
@@ -41,11 +41,11 @@ Get the Hardware Asset Management application from the [ServiceNow Store](https:
 
 </td><td>
 
-[Install Hardware Asset Management](../task/install-ham.md)
+[Install Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/install-ham.md)
 
 </td></tr><tr><td>
 
-![Use Hardware Asset Management](../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Hardware Asset Management
+![Use Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Hardware Asset Management
 
 </td><td>
 
@@ -53,7 +53,7 @@ Use Hardware Asset Management to manage your hardware and consumable assets and 
 
 </td><td>
 
-[Using Hardware Asset Management](using-ham-classic.md)
+[Using Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
 </td></tr></tbody>
 </table>

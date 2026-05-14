@@ -87,5 +87,5 @@ sn\_sow\_synthetics.auto\_mid\_selection.dns\_cache\_ttl
 Determines the DNS cache time for IP affinity phase. The default value is 300 seconds.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+</table>**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

@@ -21,7 +21,7 @@ Your instance must meet the following prerequisites:
 
 -   Activate AI Search. Navigate to **All** and search for **AI Search Status**. The status page must display **AI Search is ready**. For instructions, see [Activate AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md)
 -   Enable the Now Assist panel. Navigate to **Now Assist Admin** &gt; **Now Assist Experiences** &gt; **Now Assist panel** and confirm the panel is turned on. For instructions, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
--   Install the Now Assist for EA plugin. For instructions, see [Configure Now Assist for Enterprise Architecture \(EA\)](../../../now-assist-ea/task/configure-now-assist-ea.md).
+-   Install the Now Assist for EA plugin. For instructions, see [Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/task/configure-now-assist-ea.md).
 -   Install the EA Workspace May 2026 update from the ServiceNow Store.
 
 ## About this task
@@ -38,7 +38,7 @@ Installing the May 2026 EA Workspace update registers the TRM catalog as an inde
 
 4.  Select the **Index Selected Table/s** button.
 
-    ![Adding a Technology Reference Model child table to the indexed source](../../image/eaw-image/index-trm-table.png)
+    ![Adding a Technology Reference Model child table to the indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/index-trm-table.png)
 
     The **Generate Text Index - Single Table** dialog opens.
 
@@ -49,10 +49,10 @@ Installing the May 2026 EA Workspace update registers the TRM catalog as an inde
 
 Previously published TRM catalog records are indexed and searchable through the Now Assist panel.
 
-**Parent Topic:**[AI Search on the TRM catalog](../../concept/eaw-concept/ai-search-trm-cat.md)
+**Parent Topic:**[AI Search on the TRM catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/ai-search-trm-cat.md)
 
 **Related topics**  
 
 
-[AI Search on the TRM catalog](../../concept/eaw-concept/ai-search-trm-cat.md)
+[AI Search on the TRM catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/ai-search-trm-cat.md)
 

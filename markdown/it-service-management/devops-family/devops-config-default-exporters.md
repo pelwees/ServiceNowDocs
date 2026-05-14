@@ -250,5 +250,5 @@ Returns the value of a specific key based on its name in the snapshot. Unlike `e
     -   If the keyName is not provided, `no keyName argument provided`.
     -   If the key is not found, `key not found: <keyName>`.
 
-**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 

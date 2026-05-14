@@ -37,7 +37,7 @@ Each Preventive Care engagement includes three phases:
 2.  Presentation to customer stakeholders: A senior ServiceNow performance expert presents findings and reviews proactive recommendations that address specific issues with the instance that actively impact end user experience, platform stability, database efficiency or cost.
 3.  Guided Remediation: A focused remediation plan that provides hands-on, guided help to steer a customer through implementing improvements and validating expected results.
 
-![Preventive Care Engagement](../image/preventive-care.png "Preventive Care Phases")
+![Preventive Care Engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/preventive-care.png "Preventive Care Phases")
 
 **Note:** Offered pursuant to the applicable legal description available at [https://www.servicenow.com/legal/servicenow-impact.html](https://www.servicenow.com/legal/servicenow-impact.html).
 

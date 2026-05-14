@@ -27,7 +27,7 @@ As a fulfiller or matter owner, you can disable attorney client privilege on a l
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -64,11 +64,11 @@ The state of the legal matter updates to Work in Progress.
 </td></tr></tbody>
 </table>4.  Disable Privileged and Confidential status.
 
-    1.  Click the More actions icon \(![More actions icon](../../workplace-central/images/more-actions-move-schedule.png)\).
+    1.  Click the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../workplace-central/images/more-actions-move-schedule.png)\).
 
     2.  Select **Remove Privileged and Confidential**.
 
-        ![Disable privileged and confidential](../../legal-request-management/image/lmm-disable-acp.png)
+        ![Disable privileged and confidential](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lmm-disable-acp.png)
 
     3.  In the confirmation modal enter work notes and select **Disable**.
 
@@ -81,5 +81,5 @@ The state of the legal matter updates to Work in Progress.
 -   In the Privileged Document Access tab, the document permissions is reset to Public.
 -   Stakeholders are notified of the change.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

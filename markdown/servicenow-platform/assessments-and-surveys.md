@@ -25,5 +25,5 @@ You can assess projects that executives want to evaluate for effective managemen
 
 The quiz functionality is built on the assessment engine and provides many of the same features as assessments and surveys.
 
-**Parent Topic:**[Assessments and Surveys](assessments-surveys-landing-page.md)
+**Parent Topic:**[Assessments and Surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)
 

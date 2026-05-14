@@ -17,7 +17,7 @@ You can show Performance Analytics indicators and breakdowns using Service Porta
 
 When you edit a portal, add the **Performance Analytics** widget. Use the widget options to select an existing Performance Analytics widget to show on the portal and whether to show its title.
 
-![Performance Analytics widget opened in the Service Portal Designer](../image/service-portal-pa-widget2.png "Performance Analytics widget")
+![Performance Analytics widget opened in the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/service-portal-pa-widget2.png "Performance Analytics widget")
 
 ## Security requirements for viewing widgets
 
@@ -41,9 +41,9 @@ Upgraded instances cannot automatically follow the rules introduced in Quebec be
 
 [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md)
 
-[Reports on Service Portal](../../reporting/concept/service-portal-reporting-widget.md#)
+[Reports on Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/concept/service-portal-reporting-widget.md#)
 
-[Performance Analytics widgets](c_Widgets.md)
+[Performance Analytics widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
 
 ## Activate the Performance Analytics and Reporting - Service Portal Widgets plugin
 

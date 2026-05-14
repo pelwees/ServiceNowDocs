@@ -17,7 +17,7 @@ You can activate the Problem Management Best Practice — Madrid — State Model
 
 ## Before you begin
 
-Before you activate the plugin, be sure to resolve blocking modifications. For more information, see [Resolve blocking modifications](resolve-blocking-modifications.md).
+Before you activate the plugin, be sure to resolve blocking modifications. For more information, see [Resolve blocking modifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/resolve-blocking-modifications.md).
 
 Role required: admin
 
@@ -68,5 +68,5 @@ The plugin status changes to **Activated**. You can return to the Migration Util
 
 ## What to do next
 
-[Prepare base plugins](prepare-base-plugins.md).
+[Prepare base plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/prepare-base-plugins.md).
 

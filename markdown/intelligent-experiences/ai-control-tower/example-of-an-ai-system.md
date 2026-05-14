@@ -25,5 +25,5 @@ For instance, an organization might use AI to generate credit scores for loan ap
 
 The figure in the following example illustrates how an AI system is interrelated with datasets, models, and the broader ecosystem.
 
-![Illustration displaying how an AI system is fed data from various LLMs](../image/example-ai-system.png "Example of an AI system")
+![Illustration displaying how an AI system is fed data from various LLMs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/example-ai-system.png "Example of an AI system")
 

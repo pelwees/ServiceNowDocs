@@ -25,13 +25,13 @@ Time to complete this task: 5-10 minutes.
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](mobile-sir-get-started.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sir-get-started.md).
 
 2.  With the Security Incidents landing screen displayed, tap **Search Incidents**.
 
     If you navigate away from the Security Incident Response Mobile app after you have logged in, tap the Now Agent at any time to return to the last screen you had displayed.
 
-    ![Search Incidents applet highlighted.](../image/mobile_SIR_search_si.jpg)
+    ![Search Incidents applet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile_SIR_search_si.jpg)
 
 3.  To limit the number of search results that are returned, you may prefer to fill out as many fields on the form as you can.
 
@@ -57,7 +57,7 @@ Number
 
 Enter an alpha-numeric value for a security incident, for example, `SIR0010004`. This number is displayed in the upper right of the security incident. The feature searches on numeric strings and partial numeric strings. For more refined searches, enter more digits. Wild cards \(\*\) are not accepted.
 
- Tap a new field to enter more criteria or ![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png) to submit a search.
+ Tap a new field to enter more criteria or ![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png) to submit a search.
 
 </td><td>
 
@@ -71,7 +71,7 @@ Short Description
 
 Enter text in the field for example, `malware`. The feature searches on text strings and partial text strings from the Short Description field. For more refined searches, enter more text. Wild cards \(\*\) are not accepted.
 
- Tap a new field to enter more criteria or ![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png) to submit a search.
+ Tap a new field to enter more criteria or ![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png) to submit a search.
 
 </td><td>
 
@@ -165,7 +165,7 @@ To clear all entered criteria, with the Search Incidents screen displayed, tap t
 
 </td><td>
 
-With the Search Incidents screen displayed with your entered search criteria, tap the send icon \(![Send icon.](../../vulnerability-response/image/mobile_instances_send_droid.png)\).The security incidents that match your search criteria are displayed. After the search is completed, the search criteria are not saved.
+With the Search Incidents screen displayed with your entered search criteria, tap the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png)\).The security incidents that match your search criteria are displayed. After the search is completed, the search criteria are not saved.
 
 </td></tr></tbody>
 </table>4.  For iOS devices, with the Search Incidents screen displayed, choose one to continue.
@@ -198,6 +198,6 @@ To clear all criteria and return to the landing screen, tap the close icon \(X\)
 With the Search Incidents screen displayed with your entered search criteria, tap **Search**.The security incidents that match your search criteria are displayed. After the search is completed, the search criteria are not saved.
 
 </td></tr></tbody>
-</table>5.  If your search returns multiple records, you can [Filter records with the Security Incident Response Mobile app](mobile-sire-filters.md) to refine the search results.
+</table>5.  If your search returns multiple records, you can [Filter records with the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sire-filters.md) to refine the search results.
 
 

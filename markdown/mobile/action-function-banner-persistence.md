@@ -60,5 +60,5 @@ Only one banner message is displayed at a time. Newer banner messages replace ex
 
 A banner remains on the screen until the user actively dismisses it.
 
-![Mobile screen with banner displayed awaiting user to tap the dismiss button.](../image/banner-persistence.png)
+![Mobile screen with banner displayed awaiting user to tap the dismiss button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/banner-persistence.png)
 

@@ -24,7 +24,7 @@ Role required: Only users with the dashboard\_admin or admin role can change a d
 
 To learn who owns a dashboard, navigate to pa\_dashboards\_list.do and search for the dashboard.
 
-This topic refers to owners of Core UI dashboards. To change the owner of a dashboard in Platform Analytics experience, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
+This topic refers to owners of Core UI dashboards. To change the owner of a dashboard in Platform Analytics experience, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/config-db-in-ac.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ This topic refers to owners of Core UI dashboards. To change the owner of a dash
 
 4.  Select a new owner in the **Owner** field.
 
-    ![Animation showing selection of dashboard properties and owner field](../image/resp-db-change-owner.gif)
+    ![Animation showing selection of dashboard properties and owner field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/resp-db-change-owner.gif)
 
 5.  Click **Update**.
 
@@ -44,7 +44,7 @@ This topic refers to owners of Core UI dashboards. To change the owner of a dash
 **Related topics**  
 
 
-[Share a responsive dashboard](t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
-[Edit a responsive dashboard](t_EditADashboard.md)
+[Edit a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md)
 

@@ -19,32 +19,32 @@ Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\
 
 You can add skills to the learning courses using skill sensing in two ways:
 
--   Add skills at the individual course level. For more information, see [Add skills to a course with skill sensing](../task/add-skill-course-skill-sensing.md).
--   Add multiple skills automatically using the skill sensing configuration or you can review the skills manually. For more information, see [Configuration for bulk skill sensing](../task/skill-sensing-configuration.md) and [Add or discard multiple skills with skill sensing](../task/bulk-skill-sensing.md).
+-   Add skills at the individual course level. For more information, see [Add skills to a course with skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/add-skill-course-skill-sensing.md).
+-   Add multiple skills automatically using the skill sensing configuration or you can review the skills manually. For more information, see [Configuration for bulk skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/skill-sensing-configuration.md) and [Add or discard multiple skills with skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/bulk-skill-sensing.md).
 
--   **[Add skills to a course with skill sensing](../task/add-skill-course-skill-sensing.md)**  
+-   **[Add skills to a course with skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/add-skill-course-skill-sensing.md)**  
 Add skills to a course manually using the Large Language Model \(LLM\) skills recommendations based on the title and description of the course.
--   **[Configuration for bulk skill sensing](../task/skill-sensing-configuration.md)**  
+-   **[Configuration for bulk skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/skill-sensing-configuration.md)**  
 Define conditions to create a sub set of learning courses on which you can run the scheduled job enabling you to accept multiple recommended skills.
--   **[Add or discard multiple skills with skill sensing](../task/bulk-skill-sensing.md)**  
+-   **[Add or discard multiple skills with skill sensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/bulk-skill-sensing.md)**  
 Review and approve the Large Language Model \(LLM\) recommended skills before tagging​ them to the learning courses.
 
-**Parent Topic:**[Using My Learning](manage-your-learning.md)
+**Parent Topic:**[Using My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md)
 
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/resume-course.md)
 
-[Create a personal course collection](create-personal-collection.md)
+[Create a personal course collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-personal-collection.md)
 
-[Create a Learning challenge](learning-challenge.md)
+[Create a Learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-challenge.md)
 
-[View recent activity](view-recent-activity-lxp.md)
+[View recent activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/assign-learning-lxp.md)
 
-[Manage Learning](manage-learning-achievements.md)
+[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 

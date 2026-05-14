@@ -23,12 +23,12 @@ This API runs in the `sn_ws` namespace.
 
 See also:
 
--   [Direct SOAPMessageV2 example](../../SOAPMessageV2/reference/r_DirectSOAPMessageV2Example.md)
--   [Recordless SOAPMessageV2 example](../../SOAPMessageV2/reference/r_RecordlessSOAPMessageV2Example.md)
--   [Asynchronous SOAPMessageV2 example](../../SOAPMessageV2/reference/r_AsyncronousSOAPMessageV2Example.md)
--   [SOAPMessageV2 MID server example](../../SOAPMessageV2/reference/r_SOAPMessageV2MIDServerExample.md)
+-   [Direct SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SOAPMessageV2/reference/r_DirectSOAPMessageV2Example.md)
+-   [Recordless SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SOAPMessageV2/reference/r_RecordlessSOAPMessageV2Example.md)
+-   [Asynchronous SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SOAPMessageV2/reference/r_AsyncronousSOAPMessageV2Example.md)
+-   [SOAPMessageV2 MID server example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SOAPMessageV2/reference/r_SOAPMessageV2MIDServerExample.md)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SOAPResponseV2 - getAllHeaders\(\)
 

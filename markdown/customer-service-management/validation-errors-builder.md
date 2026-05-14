@@ -13,7 +13,7 @@ breadcrumb: [Configuring decision trees in Decision Tree Builder, Configuring gu
 
 Notifications of errors that you might encounter while building and activating a decision tree in Decision Tree Builder enable you to recover easily from errors.
 
-![Error presentation in Decision Tree Builder.](../image/gd-error-presentation.png)
+![Error presentation in Decision Tree Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/gd-error-presentation.png)
 
 ## Error display
 
@@ -25,5 +25,5 @@ The errors are indicated in the following ways:
 -   A label for a count of nodes and paths that have errors in the top-right corner
 -   An alert message in the side panel showing a list of errors in the selected node or path
 
-For more information on errors and recovery across various nodes and paths, see [Validation errors](../reference/ra-validation-errors.md).
+For more information on errors and recovery across various nodes and paths, see [Validation errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/ra-validation-errors.md).
 

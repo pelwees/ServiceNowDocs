@@ -31,5 +31,5 @@ For more information on database limitations and general questions on tables in 
 **Related topics**  
 
 
-[Application access settings](c_ApplicationAccessSettings.md)
+[Application access settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_ApplicationAccessSettings.md)
 

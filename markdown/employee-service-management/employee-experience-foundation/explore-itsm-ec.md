@@ -32,7 +32,7 @@ Service management is also easier with the Rich Content Editor and the Unified B
 
 The infographic highlights how Employee Center can enhance the ITSM managing and service experience.
 
-![The image depicts how the EC and ITSM workflows can work together to provide solutions.](../../images/ec-itsm-wrkflw.jpg "Employee Center and ITSM workflows")
+![The image depicts how the EC and ITSM workflows can work together to provide solutions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../images/ec-itsm-wrkflw.jpg "Employee Center and ITSM workflows")
 
 Connect everything and easily scale across the enterprise to deliver experiences you need. Provide a modern employee experience platform across the enterprise to:
 
@@ -72,11 +72,11 @@ Service catalog and Knowledge Base articles
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -84,204 +84,204 @@ AI Search
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-Chat \([live agent](../../concept/employee-center-chat-configuration.md), virtual agent\)
+Chat \([live agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-chat-configuration.md), virtual agent\)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-Curated Experiences \([Unified Taxonomy for Employee Center](../../concept/config-taxonomy.md), [Dynamic topic pages](../../concept/dynamic-topic-page.md), [Mega Menu](../config-mega-menu.md)\)
+Curated Experiences \([Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/config-taxonomy.md), [Dynamic topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/dynamic-topic-page.md), [Mega Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../config-mega-menu.md)\)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Complete tasks](../../concept/employee-center-to-dos-page-configuration.md) and [Manage requests](../../concept/employee-center-requests-page-configuration.md)
+[Complete tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-to-dos-page-configuration.md) and [Manage requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-requests-page-configuration.md)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Content recommendations \(via "recommended for you"\)](../../concept/rfy-ec.md)
+[Content recommendations \(via "recommended for you"\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/rfy-ec.md)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Cross-channel Favorites](../../concept/employee-center-favorites.md)
+[Cross-channel Favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-favorites.md)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Unified employee profile](../../concept/employee-profile-portal.md)
+[Unified employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-profile-portal.md)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Guided Self-Service in Employee Center](../../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/gss-guided-self-service-overview.md)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-Employee communications-   [Portal content](../../concept/ec-streamline-content.md)
--   [Microsites](../../concept/ec-rich-content.md)
--   [Employee News](../../concept/ec-news-articles.md)
--   [Content engagement](../../concept/ec-content-engagement.md)
--   [Campaigns](../../concept/ecpro-campaigns.md)
--   [Content Analytics](../../concept/ecpro-content-automation-analytics.md)
--   [Content Governance](../../concept/ec-content-governance.md)
+Employee communications-   [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-streamline-content.md)
+-   [Microsites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-rich-content.md)
+-   [Employee News](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-news-articles.md)
+-   [Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-content-engagement.md)
+-   [Campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ecpro-campaigns.md)
+-   [Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ecpro-content-automation-analytics.md)
+-   [Content Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-content-governance.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-Enterprise Search \(with [SharePoint Online Search Connector](../../../sharepoint-online-search/concept/sharepoint-search-overview.md)\)
+Enterprise Search \(with [SharePoint Online Search Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../sharepoint-online-search/concept/sharepoint-search-overview.md)\)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-Integration-powered capabilities-   [App Launcher](../../concept/web-application-employee-about.md)
--   [Approval Hub](../../concept/approval-hub-intro.md)
+Integration-powered capabilities-   [App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/web-application-employee-about.md)
+-   [Approval Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/approval-hub-intro.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Manager Hub](../../../human-resources/concept/manager-hub-overview.md)
+[Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../human-resources/concept/manager-hub-overview.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Org chart](../../concept/employee-profile-org-chart.md) and [Dotted-line relationships](../add-other-manager-relationship.md)
+[Org chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-profile-org-chart.md) and [Dotted-line relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../add-other-manager-relationship.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Employee Forums](../../concept/ecpro-employee-forum.md)
+[Employee Forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ecpro-employee-forum.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Employee Center Pro Kiosk](../../concept/deskless-kiosk-overview.md)
+[Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/deskless-kiosk-overview.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
-[Integrated experience and service feedback](../../concept/ex-fdback-ovrvw.md)
+[Integrated experience and service feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ex-fdback-ovrvw.md)
 
 </td><td>
 
-![No](../../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## What to explore next
 
 To learn more about configuring and using Employee Center for ITSM, see:
 
--   [Configuring Employee Center for ITSM](config-itsm-ec-new.md)
--   [Using Employee Center for ITSM](use-itsm-ec-new.md)
+-   [Configuring Employee Center for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-itsm-ec-new.md)
+-   [Using Employee Center for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/use-itsm-ec-new.md)
 

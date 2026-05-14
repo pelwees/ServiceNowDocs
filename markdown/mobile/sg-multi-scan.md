@@ -19,7 +19,7 @@ Use the scan screen to scan items into your instance by using your mobile device
 
 <table id="table_ecx_ml3_5jb"><tbody><tr><td>
 
-![Mobile scan screen.](../image/mobile-scan-screen.png)
+![Mobile scan screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-scan-screen.png)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Use the scan screen to scan in your barcode items. You see this screen when you 
 -   Disable camera \(2\): Tap **Disable camera** to disable the camera on your mobile device. This button is available only on Android. Disable your camera to scan using a non-phone scanner.
 -   Enable flashlight \(3\): Tap **Enable flashlight** to enable the flashlight feature on your mobile device.
 -   Scan crosshair \(4\): Center a barcode to be scanned using the cross-hair icon in the center of the screen.
--   Last Scan \(5\): See the last three entries that you scanned. Press the **Rescan** \(![Rescan button](../image/mobile-rescan.png)\) button to discard the scanned values.
+-   Last Scan \(5\): See the last three entries that you scanned. Press the **Rescan** \(![Rescan button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-rescan.png)\) button to discard the scanned values.
 -   Inputs \(6\): See the UI parameters that are used in the scanned input. Scanning a barcode adds a value to the top parameter. Further scans add values to the next parameters in the display order. You can tap any entry to manually enter a value.
 -   Scan next item \(7\): Tap **Scan next item** to accept the current scanned values and continue to a new item. If all fields in the Inputs \(6\) section have values, the scan screen automatically continues to the next item. If there are any mandatory fields without values, you can't tap **Scan next item**.
 -   Review \(8\): Tap the review button to review your scanned items. See the next section for details on the review screen.
@@ -41,7 +41,7 @@ Use the scan screen to scan in your barcode items. You see this screen when you 
 
 <table id="table_h4r_2s3_5jb"><tbody><tr><td>
 
-![Scan review screen.](../image/scan-preview-screen.png)
+![Scan review screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/scan-preview-screen.png)
 
 </td><td>
 
@@ -51,8 +51,8 @@ After scanning your items, use the review screen to review, delete, and submit s
 
  -   Submit \(1\): Tap **Submit** to save your scanned items.
 -   Scanned items \(2\): See your scanned items in this section. Each item displays the UI parameter name and its scanned value.
--   Delete item \(3\): Tap the **delete** icon \(![Delete item icon](../image/delete-scan-item.png)\) next to a scanned item to remove that item.
+-   Delete item \(3\): Tap the **delete** icon \(![Delete item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/delete-scan-item.png)\) next to a scanned item to remove that item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile barcode scanning](sg-mobile-scanning.md)
+</table>**Parent Topic:**[Mobile barcode scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-scanning.md)
 

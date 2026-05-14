@@ -17,23 +17,23 @@ Care Team Operations for Facilities contains the case types to report and fulfil
 
 <table id="table_vhd_qkh_52c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Facilities.](cto-facilities-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Facilities.](cto-facilities-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](cto-facilities-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](cto-facilities-configuring.md)
 
 </td><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Facilities department.](cto-facilities-create-request.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Facilities department.](cto-facilities-create-request.md)
 
 </td></tr><tr><td>
 
-[Resolve![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases or work orders.](cto-facilities-fulfilling-requests.md)
+[Resolve![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases or work orders.](cto-facilities-fulfilling-requests.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-facilities-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-facilities-reference.md)
 
 </td><td>
 

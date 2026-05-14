@@ -15,7 +15,7 @@ By default, a reference field auto-completes as the user types in the field.
 
 Administrators can configure additional auto-complete options. A user must have table-level read permission on the referenced table for auto-complete to display any options.
 
-![A user types in joe, and autocomplete suggests Joe Employee for the field.](../image/RefAutoComplete.png "Auto complete")
+![A user types in joe, and autocomplete suggests Joe Employee for the field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RefAutoComplete.png "Auto complete")
 
 ## Dictionary attributes for auto-completion of reference fields
 
@@ -104,7 +104,7 @@ Use these steps to define auto-complete attributes for all fields in a table tha
 
 To test the new auto-complete attributes, open a form that references the User \[sys\_user\] table, such as an open incident. Enter a single character in the **Assigned to** field. The auto-complete options now include both the user name and department.
 
-![Auto-complete list](../image/AutocompleteTableAttributes2.png)
+![Auto-complete list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AutocompleteTableAttributes2.png)
 
 ## Remove the display value column
 
@@ -154,7 +154,7 @@ This example describes how to remove the display value column from references to
 
 To test the new auto-complete attributes, open a form that references the User \[sys\_user\] table, such as an open incident. Enter a single character in the **Assigned to** field. The auto-complete options now hide the display value column \(user\_name\) and only display the first\_name and last\_name columns.
 
-![Auto-complete no display value](../image/AutocompleteNoDisplayValue.png)
+![Auto-complete no display value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AutocompleteNoDisplayValue.png)
 
 ## Improve auto-complete queries
 
@@ -168,7 +168,7 @@ Role required: admin
 
 The following example illustrates a **contains** query. Note that the letter "d" appears anywhere in the user's first or last name.
 
-![Auto-complete contains query](../image/AutocompleteContains.png)
+![Auto-complete contains query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AutocompleteContains.png)
 
 This procedure describes how to change the **glide.ui.ref\_ac.startswith** system property to always use a **starts with** query.
 
@@ -188,7 +188,7 @@ This procedure describes how to change the **glide.ui.ref\_ac.startswith** syste
 
 5.  Test the change by opening a record with a reference field and entering a character in it, as illustrated in the example below.
 
-    ![Auto-complete starts with query](../image/AutocompleteStartswith.png)
+    ![Auto-complete starts with query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AutocompleteStartswith.png)
 
 
 ## Configure auto-complete to match text from any reference field
@@ -244,7 +244,7 @@ Role required: admin
 
 1.  Disable the **glide.ui.ref\_ac.startswith** system property.
 
-    For more information, see [Improve auto-complete queries](c_AutoCompleteForReferenceFields.md#).
+    For more information, see [Improve auto-complete queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_AutoCompleteForReferenceFields.md#).
 
     **Note:** Setting the **glide.ui.ref\_ac.startswith** system property to **true** overrides any existing "autocomplete.contains" settings in both user and system level preferences. This property changes the auto-complete query method for all users regardless of preferences.
 

@@ -17,7 +17,7 @@ Before you ship the DaaS asset that you picked for an inbound asset order line, 
 
 ## Before you begin
 
-Before you can begin the Asset prepare task, you must complete the preceding Asset pick task by picking the asset from the stockroom that the provider asset manager specifies. For detailed instructions, see [Complete the Asset pick task for a requested Device as a Service \(DaaS\) asset](pick-selected-daas-asset-inbound-asset-order.md).
+Before you can begin the Asset prepare task, you must complete the preceding Asset pick task by picking the asset from the stockroom that the provider asset manager specifies. For detailed instructions, see [Complete the Asset pick task for a requested Device as a Service \(DaaS\) asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pick-selected-daas-asset-inbound-asset-order.md).
 
 Role required: sn\_eam\_provider.provider\_asset\_technician
 
@@ -100,7 +100,7 @@ From the navigation menu of the Asset operations view, navigate to **Provider** 
 
 ## What to do next
 
-Complete the corresponding Asset ship task by shipping the prepared asset to the customer that the asset is requested for. For detailed instructions, see [Complete the Asset ship task for a requested Device as a Service \(DaaS\) asset](ship-prepared-daas-asset-inbound-asset-order.md).
+Complete the corresponding Asset ship task by shipping the prepared asset to the customer that the asset is requested for. For detailed instructions, see [Complete the Asset ship task for a requested Device as a Service \(DaaS\) asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ship-prepared-daas-asset-inbound-asset-order.md).
 
-**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md)
+**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/completing-inbound-asset-order-daas-assets.md)
 

@@ -42,5 +42,5 @@ Use **System messages** in Chat Settings to change the properties that control s
     Any changes are immediately applied to the system messages displayed in your instance.
 
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/ci-configuring-chat-features.md)
 

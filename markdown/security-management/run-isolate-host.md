@@ -31,11 +31,11 @@ The **Security Operations Integration - Isolate Host or Endpoint** flow can be t
 
 3.  Click **Isolate Host** in the **Actions on selected rows...** drop-down menu.
 
-    ![Isolate Host](../image/IsolateHost.png)
+    ![Isolate Host](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/IsolateHost.png)
 
     The dialog box appears.
 
-    ![Isolate Host dialog box](../image/IsolateHostDiaglogBox.png)
+    ![Isolate Host dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/IsolateHostDiaglogBox.png)
 
 4.  Choose the implementation.
 
@@ -43,8 +43,8 @@ The **Security Operations Integration - Isolate Host or Endpoint** flow can be t
 
     The flow execution audit is displayed in the work notes section.
 
-    ![Isolate Host work note example](../image/IsolateHostWorkNote.png)
+    ![Isolate Host work note example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/IsolateHostWorkNote.png)
 
 
-**Parent Topic:**[Security Operations Integration- Isolate Host capability](../concept/isolate-host-capability.md)
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/isolate-host-capability.md)
 

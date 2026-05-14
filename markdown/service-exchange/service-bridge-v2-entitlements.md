@@ -37,5 +37,5 @@ You can update Service Exchange entitlements in the following ways:
 
 ## Define a consumer criteria
 
-To define a consumer criteria, see [Create a consumer criteria](service-bridge-v2-create-consumer-criteria.md).
+To define a consumer criteria, see [Create a consumer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-consumer-criteria.md).
 

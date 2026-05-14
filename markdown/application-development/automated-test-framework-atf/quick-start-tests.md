@@ -27,7 +27,7 @@ See [Getting started with quick start tests](https://www.youtube.com/watch?v=wV0
 
 ## Activation
 
-Each application or feature has its own plugin activation requirements for enabling quick start tests. See [Available quick start tests by application or feature](../reference/available-quick-start-tests.md) for activation information.
+Each application or feature has its own plugin activation requirements for enabling quick start tests. See [Available quick start tests by application or feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/available-quick-start-tests.md) for activation information.
 
 ## Managing copies
 
@@ -35,21 +35,21 @@ When you copy a test, Automated Test Framework populates the **Copied from** fie
 
 **Tip:** If a QST is updated, the previously copied versions of the QST does not have the recent changes. Review the old copies using **Copies to Review** for all the tests that have an associated warning message.
 
--   **[Available quick start tests by application or feature](../reference/available-quick-start-tests.md)**  
+-   **[Available quick start tests by application or feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/available-quick-start-tests.md)**  
 Validate that your instance still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize the ServiceNow -provided quick start tests to pass when using your instance-specific data.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](atf-test-type-testing.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-test-type-testing.md)
 
 **Related topics**  
 
 
-[Reusable tests](atf-reuse-tests.md)
+[Reusable tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-reuse-tests.md)
 
-[Mutually exclusive tests](mutual-exclusion-rule.md)
+[Mutually exclusive tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/mutual-exclusion-rule.md)
 
-[Parallel testing](parallel-testing.md)
+[Parallel testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-test-triage.md)
 
-[Performance profiling](atf-perf-prof.md#)
+[Performance profiling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-perf-prof.md#)
 

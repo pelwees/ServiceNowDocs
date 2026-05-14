@@ -17,7 +17,7 @@ Use a chat experience for your Now Assist panel - Platform \(default\) assistant
 
 ## Before you begin
 
-See [Add assets to a chat assistant](add-assets.md).
+See [Add assets to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-assets.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -29,7 +29,7 @@ For Now Assist panel – Platform assistant, new customers and upgraded instance
 
 For more information about premium chat, see [Premium chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-premium.md), otherwise, proceed to step 1.
 
-Due to the premium chat upgrade, legacy messages \(chat messages\) and legacy fallbacks \(chat fallbacks\) settings haven't been migrated and you must review, configure, and customize them in premium messages and premium fallbacks. See [Manage an assistant chat experience](manage-assistant-chat-experience.md). If you need help, contact Support.
+Due to the premium chat upgrade, legacy messages \(chat messages\) and legacy fallbacks \(chat fallbacks\) settings haven't been migrated and you must review, configure, and customize them in premium messages and premium fallbacks. See [Manage an assistant chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md). If you need help, contact Support.
 
 For Now Assist panel – Developer assistant, premium chat is not available. Proceed to step 2.
 
@@ -39,24 +39,24 @@ For Now Assist panel – Developer assistant, premium chat is not available. Pro
 
     1.  The **Add ServiceNow platform** &gt; **Unified Navigation app shell** is preselected as the display experience.
 
-        ![Display experience for Now Assist panel - Platform](../image/NAinVA-nap-premium-0426.png "Display experience for Now Assist panel - Platform")
+        ![Display experience for Now Assist panel - Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-nap-premium-0426.png "Display experience for Now Assist panel - Platform")
 
         **Note:** If you're a new or upgrading customer, you can edit your chat experience from premium chat to your previous chat experience \(standard or enhanced chat\). By default, the **sn\_nowassist\_va.enable\_nap\_aix\_experience** system property is set to `false`. Setting the system property to `true` disables chat experience editing.
 
     2.  Select the pencil icon if you want to edit the chat experience. The **Edit chat experience** modal appears.
 
-        ![Select a chat experience from the modal.](../image/NAinVA-display-NAP-platform-modal-0426.png "Edit the chat experience")
+        ![Select a chat experience from the modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-display-NAP-platform-modal-0426.png "Edit the chat experience")
 
 2.  Use ServiceNow Studio with standard chat for your Now Assist panel Developer assistant.
 
     ServiceNow Studio with standard chat is the only available display experience for the Now Assist panel - Developer assistant.
 
-    ![Display experience for Now Assist panel - Developer](../image/NAinVA-nap-dev-display-122025.png "Display experience for Now Assist panel - Developer") ![]( "Display experience for Now Assist panel - Developer")
+    ![Display experience for Now Assist panel - Developer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-nap-dev-display-122025.png "Display experience for Now Assist panel - Developer") ![]( "Display experience for Now Assist panel - Developer")
 
 3.  Select **Save and continue**.
 
 
 ## What to do next
 
-See [Brand an assistant](brand-assistant.md).
+See [Brand an assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
 

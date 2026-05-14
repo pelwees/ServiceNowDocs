@@ -23,23 +23,23 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Enterprise Architecture Workspace Dashboard page by selecting the application dashboard icon \(![Application dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-icon.png)\).
+2.  Open the Enterprise Architecture Workspace Dashboard page by selecting the application dashboard icon \(![Application dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-icon.png)\).
 
-3.  Open the Application 360 - EA Workspace dashboard page by selecting the change dashboard icon \(![Change dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/change-dashboard-icon.png)\) and then select **Application 360- EA Workspace**.
+3.  Open the Application 360 - EA Workspace dashboard page by selecting the change dashboard icon \(![Change dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/change-dashboard-icon.png)\) and then select **Application 360- EA Workspace**.
 
-    ![Enterprise Architecture Dashboard page with the change dashboard icon highlighted.](../../../product/application-portfolio-management/image/eaw-image/eaw-change-dashboard-icon.png)
+    ![Enterprise Architecture Dashboard page with the change dashboard icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-change-dashboard-icon.png)
 
 4.  From the Business Application list, select the business application that you want to analyze indicator details for.
 
 5.  From the Breakdown list, select the type of breakdown that you want to see the trend and distribution details for.
 
 
-**Parent Topic:**[Working with Dashboards](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
+**Parent Topic:**[Working with Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
 
 **Related topics**  
 
 
-[Explore the Application 360 dashboard in Enterprise Architecture Workspace](../concept/eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace.md)
+[Explore the Application 360 dashboard in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace.md)
 
-[View the performance of applications using the Application Assessments dashboard](eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard.md)
+[View the performance of applications using the Application Assessments dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard.md)
 

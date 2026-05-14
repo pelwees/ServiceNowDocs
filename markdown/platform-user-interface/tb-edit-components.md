@@ -24,9 +24,9 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 The components that you can edit in Theme Builder were created in the ServiceNow AI Platform Design System. For more information, see [Next Experience Components](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?releases[]=vancouver&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades) on the ServiceNow Developer Site.
 
-For instructions on editing the Unified Navigation component, see [Align with your brand by using the Unified Navigation component](edit-unified-navigation-component.md).
+For instructions on editing the Unified Navigation component, see [Align with your brand by using the Unified Navigation component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-unified-navigation-component.md).
 
-The total number of accessibility violations is indicated on the red numbered badge icon ![Accessibility inspector badge.](../image/tb-a11y-inspector-badge.png) alongside the Accessibility inspector panel.
+The total number of accessibility violations is indicated on the red numbered badge icon ![Accessibility inspector badge.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-a11y-inspector-badge.png) alongside the Accessibility inspector panel.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The total number of accessibility violations is indicated on the red numbered ba
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit components for.
 
@@ -44,25 +44,25 @@ The total number of accessibility violations is indicated on the red numbered ba
 
     The component styles are graphically listed.
 
-    ![Component styles.](../image/tb-component-styles-list.png)
+    ![Component styles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-styles-list.png)
 
 5.  Select the **Editing** tab.
 
-    ![Component styles Editing tab.](../image/tb-editing-tab.png)
+    ![Component styles Editing tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editing-tab.png)
 
-    **Note:** The components that can be edited are displayed. For information on how to filter the list of components to locate the component you want to edit, see [Preview components](tb-preview-components.md).
+    **Note:** The components that can be edited are displayed. For information on how to filter the list of components to locate the component you want to edit, see [Preview components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-preview-components.md).
 
 6.  Select the component that you want to edit to access the Configurable Style panel.
 
     When you’re looking at the components listed in the Editing page, notice that some components may display the following symbol.
 
-    ![Accessibility error.](../image/tb-accessibility.png)
+    ![Accessibility error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility.png)
 
-    **Note:** The accessibility warning symbol indicates that the color contrast of the selected component doesn’t adhere to Web Content Accessibility Guidelines \(WCAG\) 2.1 accessibility standards for color contrast. For information on editing components with accessibility violations, see [Adjust a component to meet accessibility standards](tb-adjust-component-wcag.md).
+    **Note:** The accessibility warning symbol indicates that the color contrast of the selected component doesn’t adhere to Web Content Accessibility Guidelines \(WCAG\) 2.1 accessibility standards for color contrast. For information on editing components with accessibility violations, see [Adjust a component to meet accessibility standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-adjust-component-wcag.md).
 
 7.  From the Configurable style panel, edit the theme hooks that are available for the selected component, as needed.
 
-    ![Configurable style panel.](../image/tb-configurable-styles-panel.png "Configurable style panel")
+    ![Configurable style panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-configurable-styles-panel.png "Configurable style panel")
 
     The editable theme hooks that are available depend on the type of component you selected. For example, if you select a Badge component, you can edit the colors and accessibility hooks for the badge. If you select a Text link component, you can edit the base color and accessibility hooks.
 
@@ -70,7 +70,7 @@ The total number of accessibility violations is indicated on the red numbered ba
 
 8.  If you select a color to be edited, the color picker opens.
 
-    ![Color picker.](../image/tb-color-picker.png "Color picker")
+    ![Color picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-picker.png "Color picker")
 
     **Note:** By default, the color picker shows all the available colors for the component. Use the **My Colors** tab to select from a predefined list of colors or choose the **Custom** tab to select the specific color model that you prefer: HEX, RGB, or HSL.
 
@@ -82,9 +82,9 @@ The total number of accessibility violations is indicated on the red numbered ba
 
 12. If you select a font family or font face to be edited, the selector modal opens.
 
-    ![Edit font family selector modal.](../image/tb-component-font-modal.png "Edit font family modal")
+    ![Edit font family selector modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-font-modal.png "Edit font family modal")
 
-    **Note:** If you have uploaded a custom font, it will appear in the modal for selection. You can also upload a custom font directly from the selector modal making it available for use throughout your theme. For more information, see [Upload a custom font to your theme](upload-custom-font.md).
+    **Note:** If you have uploaded a custom font, it will appear in the modal for selection. You can also upload a custom font directly from the selector modal making it available for use throughout your theme. For more information, see [Upload a custom font to your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md).
 
 13. When you have completed your font changes, select **Save changes**.
 
@@ -97,20 +97,20 @@ The total number of accessibility violations is indicated on the red numbered ba
 
         **Note:** Not all components contain editable parts.
 
-        ![Component editor page.](../image/tb-component-editor-page.png "Component Editor")
+        ![Component editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-editor-page.png "Component Editor")
 
 16. From the Component Editor, choose the interaction, variant, or subcomponent of the selected component, then edit the available theme hooks.
 
     **Note:** After you save the changes to any of the color hooks, a Remove override symbol appears. The Remove override symbol enables you to revert your color changes back to the original auto-generated colors.
 
-    ![Remove override symbol.](../image/tb-color-undo.png)
+    ![Remove override symbol.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-undo.png)
 
 17. Return to the Component Overview screen using the links within the navigational path.
 
-    ![Component editing breadcrumb navigation.](../image/tb-component-breadcrumb.png "Component editing breadcrumb navigation")
+    ![Component editing breadcrumb navigation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-breadcrumb.png "Component editing breadcrumb navigation")
 
 
 ## Result
 
-If your theme is published, your component edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your component edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 

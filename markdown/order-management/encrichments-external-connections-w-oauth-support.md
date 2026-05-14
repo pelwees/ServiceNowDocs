@@ -29,7 +29,7 @@ To set an OAuth external connection, follow these steps:
 
 1.  Define the external connection by visiting Admin &gt; Utilities &gt; External Connections.
 
-    ![External connections user interface](../images/cpq-enrichments-external-connections.png)
+    ![External connections user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-external-connections.png)
 
 2.  Define your authentication token.
     -   If the external connection calls an open API, no authentication token is needed.

@@ -82,7 +82,7 @@ Site
 
 </td><td>
 
-Network site or data center in which the network inventory asset is installed. Click the search icon \(![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Network site or data center in which the network inventory asset is installed. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-sites.md).
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Type
 
 </td><td>
 
-Optional user-defined type code that you use to categorize the types of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a type code.
+Optional user-defined type code that you use to categorize the types of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a type code.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Role
 
 </td><td>
 
-Optional user-defined role code that you use to categorize the roles or purposes of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a role code.
+Optional user-defined role code that you use to categorize the roles or purposes of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a role code.
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Function
 
 </td><td>
 
-Optional user-defined function code that you use to categorize the functions of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a function code.
+Optional user-defined function code that you use to categorize the functions of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a function code.
 
 </td></tr><tr><td>
 
@@ -173,10 +173,10 @@ Operation notes
 Free-form operation note text for this network asset. For example, `Check diesel fuel for generator`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telecommunications equipment instance](../task/define-equipment-type.md)
+[Create a telecommunications equipment instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-equipment-type.md)
 

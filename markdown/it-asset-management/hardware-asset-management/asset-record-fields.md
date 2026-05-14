@@ -196,7 +196,7 @@ If you meet the following criteria, the asset form displays an interactive map t
 -   Access indoor maps through the Indoor Mapping for Assets \(com.sn\_ima\) application. This application gets installed on your ServiceNow instance along with Hardware Asset Management. You can also install this application explicitly from the ServiceNow Store.
 -   The **sn\_itam\_common.sn\_enable\_indoormap\_for\_assets** system parameter is set to **true** on your ServiceNow instance.
 
-The Location map doesn’t appear by default. To view the map, select the Location map \(![Location map icon.](../../enterprise-asset-management/image/asset-indoor-location-icon.png)\) icon on the contextual sidebar of the asset record.
+The Location map doesn’t appear by default. To view the map, select the Location map \(![Location map icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/asset-indoor-location-icon.png)\) icon on the contextual sidebar of the asset record.
 
 Location map doesn’t appear for excluded assets.
 
@@ -354,7 +354,7 @@ Asset TCO
 
 </td><td>
 
-The total cost of ownership of the asset, where the total cost includes initial capital cost and operation cost.For more information about Asset TCO, see [Asset Total Cost of Ownership for Hardware Asset Management](../../hardware-asset-management/concept/asset-mgmt-tco.md).
+The total cost of ownership of the asset, where the total cost includes initial capital cost and operation cost.For more information about Asset TCO, see [Asset Total Cost of Ownership for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/concept/asset-mgmt-tco.md).
 
 **Note:** Amount displayed in the system currency.
 
@@ -364,7 +364,7 @@ TCO benchmark cost
 
 </td><td>
 
-Predefined benchmark cost of the asset model.**Note:** This field is referenced from the Hardware model details form. For more information, see [Hardware model details](../../hardware-asset-management/reference/hardware-model-fields.md).
+Predefined benchmark cost of the asset model.**Note:** This field is referenced from the Hardware model details form. For more information, see [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/reference/hardware-model-fields.md).
 
 </td></tr><tr><td>
 
@@ -374,7 +374,7 @@ TCO benchmark threshold
 
 The threshold value of your asset model cost identifying that the asset is reaching the TCO benchmark cost value. The benchmark threshold is set to 75% of the TCO benchmark cost by default. For example, if you set the TCO benchmark cost of an asset model as $1000, the TCO benchmark threshold is set to $750 automatically.
 
-Use the system property **sn\_itam\_common.asset\_tco\_benchmark\_threshold\_percentage** to update the benchmark threshold value. This field is referenced from the Hardware model details form. For more information, see [Hardware model details](../../hardware-asset-management/reference/hardware-model-fields.md).
+Use the system property **sn\_itam\_common.asset\_tco\_benchmark\_threshold\_percentage** to update the benchmark threshold value. This field is referenced from the Hardware model details form. For more information, see [Hardware model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/reference/hardware-model-fields.md).
 
 </td></tr><tr><td>
 
@@ -903,5 +903,5 @@ RMA
 Return Merchandise Authorization associated with the asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../../hardware-asset-management/concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/concept/reference-hardware-asset-management.md)
 

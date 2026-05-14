@@ -20,10 +20,10 @@ Several types of components are installed when you activate the Customer Service
 |Service Exchange for Providers|[Components installed with Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-installed-components-provider.md)|
 |Service Exchange for Consumers|[Components installed with Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-installed-components-customer.md)|
 
-**Parent Topic:**[Reference](manufacturing-reference.md)
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
 **Related topics**  
 
 
-[Additional features](../concept/additional-features.md)
+[Additional features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/additional-features.md)
 

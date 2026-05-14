@@ -31,24 +31,24 @@ You can invite collaborators or manage collaborators depending on your permissio
 
 3.  Access the Collaborators with others modal in one of two ways:
 
-    -   From the Creator Studio home page, select the app's more actions icon ![Option to manage collaborators](../image/cs-more-options-icon.png) and select **Manage collaborators** from the menu that appears.
+    -   From the Creator Studio home page, select the app's more actions icon ![Option to manage collaborators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-more-options-icon.png) and select **Manage collaborators** from the menu that appears.
     -   Open the app, select the more actions icon ![](../../servicenow-studio/image/sn-studio-more-options-icon.png) in the navigation panel, and select **Manage collaborators** from the menu that appears.
 
-        ![Select the more options menu to manage collaborators](../image/crs-manage-collab.png "Open Manage collaborators")
+        ![Select the more options menu to manage collaborators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-manage-collab.png "Open Manage collaborators")
 
 4.  Change the permission of existing collaborators in the Collaborator section using the **Select descriptor** field.
 
     -   **Owner** changes the user or group to be an owner for the app.
     -   **Editor** changes the user or group to be an editor for the app.
-    -   **Customize permissions** enables you to select specific things that users can do with the app. For more information, see [Customized app collaboration permissions in Creator Studio](../reference/creator-studio-collab-custom-permissions.md).
+    -   **Customize permissions** enables you to select specific things that users can do with the app. For more information, see [Customized app collaboration permissions in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../reference/creator-studio-collab-custom-permissions.md).
     -   **Remove** revokes the user or group's access to work on the app.
     **Note:** The collaboration descriptor must be in the global scope for it to be used by others.
 
-    ![Option to customize collaboration permissions](../image/cs-collab-custom-1.png "Customize collaboration permissions")
+    ![Option to customize collaboration permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-collab-custom-1.png "Customize collaboration permissions")
 
 5.  Customize collaboration permissions by selecting **Customize permissions** and selecting the permissions the user should have.
 
-    ![Select custom collaboration permissions](../image/cs-collab-custom-2.png "Customize collaboration permissions")
+    ![Select custom collaboration permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-collab-custom-2.png "Customize collaboration permissions")
 
 6.  Add any additional collaborators.
 
@@ -69,5 +69,5 @@ Unless you customized permissions, which requires the **Save** button, your chan
 
 Your App Engine admin must then approve the changes to collaborators.
 
-**Parent Topic:**[Collaborating with others to build apps in Creator Studio](../reference/creator-studio-collaboration-roles.md)
+**Parent Topic:**[Collaborating with others to build apps in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../reference/creator-studio-collaboration-roles.md)
 

@@ -34,7 +34,7 @@ Key features of Investigative Case Management include:
 
     The Investigative Entity Management feature provides investigative agencies with a structured system that enables the creation and management of master indexes for persons, locations, organizations, vehicles, and property associated with an investigation, as well as a dedicated firearm master index. It enables creation and management of incident and investigation event timelines, role assignments, and entity linking within case workspaces.
 
-    ![Investigative Case Management Entity Management Firearms view](../image/psds-entity-management-firearms-view.png)
+    ![Investigative Case Management Entity Management Firearms view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-entity-management-firearms-view.png)
 
     With Entity Management, investigators can:
 
@@ -43,13 +43,13 @@ Key features of Investigative Case Management include:
     -   Create incident and investigation event records to help capture the timeline for important events that happen during the investigation, and the timeline of the investigation itself.
     -   View audit logs for all firearm record changes and relationship updates.
     -   Associate multiple entities to each other and to the case, as well as manage all entities and their relationships to the case.
-    For more information on Entity Management, see [Using Entity Management](psds-explore-icm-entity-management.md).
+    For more information on Entity Management, see [Using Entity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-entity-management.md).
 
 -   **Evidence Management**
 
     The ICM Investigative Evidence Management feature users to upload or log evidence—such as documents, images, or physical items— and and map them to the relevant investigations, subjects, events, locations, vehicles, organizations, and properties, capturing key metadata like type, source, date received, notes, and optional custody tracking. With Evidence Management, investigators have a single, centralized interface for viewing and managing all evidence associated with a case, regardless of where it is physically stored, ensuring evidence can be consistently classified, accessed, and associated with relevant investigative records.
 
-    ![Investigative Case Management Evidence Management Chain of Custody Log View](../image/psds-evid-management-coc-view.png)
+    ![Investigative Case Management Evidence Management Chain of Custody Log View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-evid-management-coc-view.png)
 
     With Entity Management, investigators can:
 
@@ -57,11 +57,11 @@ Key features of Investigative Case Management include:
     -   Link to external evidence storage solutions via a configurable URL field.
     -   Introduce a digital chain of custody feature that tracks the movement, transfer, and status changes of evidence records with timestamps and responsible personnel for each action.
     -   Enable relationship mapping between pieces of evidence and all relevant case entities \(People, Locations, Vehicles, Events, Property, and Organizations\).
-    For more information on Evidence Management, see [Using Evidence Management](psds-explore-icm-evidence-management.md).
+    For more information on Evidence Management, see [Using Evidence Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-evidence-management.md).
 
 -   **Case summarization and Narrative refinement gen-AI skills**
 
-    ![Investigative Case Management genai case summary view](../image/psds-icm-case-summary.jpg)
+    ![Investigative Case Management genai case summary view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-icm-case-summary.jpg)
 
     Synthesize case narratives, entities, evidence, and activity into a condensed, structured summary using the Now Assist for Public Sector Digital Services \(PSDS\) Investigative Case summarization skill, allowing agents to grasp case context, respond to inquiries, propose solutions, and integrate generated resolution information for investigative outcomes into the case record. This skill integrates into the ICM workspace, allowing agents to generate a summary directly from the case record page.
 
@@ -76,5 +76,5 @@ Key personas of Investigative Case Management include:
 -   a Witness, who wants to be able to report a potential crime to an investigative agency. An investigator can create a case from a witness complaint.
 -   an Attorney, who prepare cases for court and advises on legal compliance and case strategy. An investigator can create a case based on information received from an Attorney's office.
 
-For more information on the personas and roles involved in Investigative Case Management, see [Investigative Case Management Personas](../reference/psds-data-model-icm-personas.md).
+For more information on the personas and roles involved in Investigative Case Management, see [Investigative Case Management Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/psds-data-model-icm-personas.md).
 

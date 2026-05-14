@@ -29,7 +29,7 @@ Role required: admin
 
 2.  In the dropdown, select **Customer** &gt; **PSDS**.
 
-    ![Now Assist Panel showing NA skills and features in PSDS](../image/now-assist-psds-panel.png)
+    ![Now Assist Panel showing NA skills and features in PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/now-assist-psds-panel.png)
 
 3.  On the Government case feature card, select **View Details**, then select **Case Summarization** under Active Skills.
 
@@ -37,7 +37,7 @@ Role required: admin
 
 4.  In the Active skills section, locate the **Government case summarization** skill.
 
-5.  Select the More actions icon![More actions icon](../image/more-actions-na-psds.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
+5.  Select the More actions icon![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/more-actions-na-psds.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
 
     The copy that you make is listed in the Active skills section.
 
@@ -47,7 +47,7 @@ Role required: admin
 
 7.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Public Sector Digital Services \(PSDS\)](now-assist-psds-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 
@@ -65,7 +65,7 @@ Role required: admin
 
         Add multiple base input fields, as necessary.
 
-        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](../image/choose-input-data-na-psds.png "View input step")
+        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/choose-input-data-na-psds.png "View input step")
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -209,6 +209,6 @@ Resolved
 
 12. Review your choices and select **Activate** to complete the skill customization.
 
-    ![Review and activate step for Now Assist case summarization.](../image/case-summarization-activate-now-assist-psds.png)
+    ![Review and activate step for Now Assist case summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/case-summarization-activate-now-assist-psds.png)
 
 

@@ -34,5 +34,5 @@ Role required: sam\_admin or sam\_user
     Each product classification includes the classified product, product edition, product version, and assigned license metric.
 
 
-**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](../concept/ibm-asp-integration.md)
+**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/ibm-asp-integration.md)
 

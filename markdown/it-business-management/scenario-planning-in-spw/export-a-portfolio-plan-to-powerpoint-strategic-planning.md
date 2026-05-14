@@ -17,7 +17,7 @@ Export the status of goals, work items, roadmap, and key metrics of your portfol
 
 ## Before you begin
 
-[Install Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/task/install-export-to-ppt.md).
+[Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../export-to-ppt/task/install-export-to-ppt.md).
 
 **Important:** Export to PowerPoint is available only in the GCC, NSC, SPP-AU, SPP-SG, and Australia IRAP-Protected data center environments.
 
@@ -33,7 +33,7 @@ The following three PowerPoint templates are provided by default to generate a s
 -   Portfolio plan &amp; goals status: Contains slides for Goals and targets for this portfolio, achieved goals, goals at risk, and individual detailed slides for the top five items prioritized by rank.
 -   Roadmap Template - default: Contains slides for Roadmap for this portfolio. You can export roadmap data for maximum period of a year at a time.
 
-You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](../../export-to-ppt/task/create-ppt-template.md).
+You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../export-to-ppt/task/create-ppt-template.md).
 
 ## Procedure
 
@@ -56,13 +56,13 @@ Perform these steps
 </td><td>
 
 1.  From the list of portfolio plans, select one.
-2.  From the portfolio plan header, select the More options icon \(![More actions icon in the portfolio plan header.](../images/more-actions.png)\) and then select **Export to PowerPoint**.
+2.  From the portfolio plan header, select the More options icon \(![More actions icon in the portfolio plan header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/more-actions.png)\) and then select **Export to PowerPoint**.
 
-![Export to PowerPoint option from the More options menu.](../images/pp-actions-export-to-ppt.png)
+![Export to PowerPoint option from the More options menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/pp-actions-export-to-ppt.png)
 
 3.  On the Export to PowerPoint window, select **Portfolio plan status**, **Portfolio plan &amp; goals status**, or **Roadmap Template - default** and select **Export**.
 
-![Select PPT template.](../images/ppt-select-template.png)
+![Select PPT template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/ppt-select-template.png)
 
 **Note:** The **Roadmap Template - default** option appears only when you select **Export to PowerPoint** from the Scoring or Planning page.
 
@@ -74,7 +74,7 @@ Perform these steps
 
 1.  \(For a portfolio plan roadmap\) Select a portfolio plan from the list of portfolio plans and then select **Roadmap** from the Planning section.
 2.  \(For a free-form roadmap\) From the Free-form Roadmaps tab, select a roadmap.
-3.  From the Personalize side panel, select Export to PowerPoint icon \(![Export icon.](../images/icon-export-data.png)\).
+3.  From the Personalize side panel, select Export to PowerPoint icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/icon-export-data.png)\).
 
 If you want to export the progress tracking details, select the Tracking mode option on the roadmap before selecting the Export to PowerPoint icon.
 
@@ -85,7 +85,7 @@ If you want to export the progress tracking details, select the Tracking mode op
     3.  Compact mode: Select to export 25 horizontal lanes per slide. The default mode exports 15 horizontal lanes per slide.
     4.  Show on slides: Select the items you want to see on slides. The available items are Roadmap milestones, Item milestones, Vertical lines, and Horizontal lanes.
     5.  Select **Export**.
-![Export roadmap to PowerPoint.](../images/export-roadmap-from-side-panel.png)
+![Export roadmap to PowerPoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/export-roadmap-from-side-panel.png)
 
  **Note:** Dependencies and metrics on roadmap bar are not exported. Grouping is supported only with the first attribute selected in the Group by option.
 
@@ -95,5 +95,5 @@ If you want to export the progress tracking details, select the Tracking mode op
 
 A PowerPoint file is generated with the relevant data.
 
-The following image shows the example for an exported roadmap.![Exported roadmap.](../images/exported-roadmap-to-ppt.png)
+The following image shows the example for an exported roadmap.![Exported roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/exported-roadmap-to-ppt.png)
 

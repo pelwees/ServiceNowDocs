@@ -23,24 +23,24 @@ Rating variances are highlighted as follows:
 
 In the following example, the ratings of the current group are compared against other groups for which Don Goodliffe is the manager.
 
-![Group scorecard with ratings filter](../images/GroupScorecardWithRatingsFilter.png "Group scorecard with ratings filter")
+![Group scorecard with ratings filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/GroupScorecardWithRatingsFilter.png "Group scorecard with ratings filter")
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateALinkToAScorecard.md)
 
-[Assessment scorecard categories](r_Categories.md)
+[Assessment scorecard categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Categories.md)
 
-[Assessment scorecard category metrics](r_CategoryMetrics.md)
+[Assessment scorecard category metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryMetrics.md)
 
-[Assessment scorecard head-to-head compare view](r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_HeadToHeadCompare.md)
 
-[Assessment scorecard history](r_History.md)
+[Assessment scorecard history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_History.md)
 
-[Live feed view of assessable records](r_LiveFeed.md)
+[Live feed view of assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_LiveFeed.md)
 
-[Assessment scorecard ratings](r_Ratings.md)
+[Assessment scorecard ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Ratings.md)
 

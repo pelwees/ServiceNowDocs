@@ -19,9 +19,9 @@ Use Workspace in a ServiceNow instance to work on healthcare cases created from 
 
 Use Workspace to fulfill healthcare cases generated from EMR Help.
 
-In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../task/configure-hcls-case-types-for-emr-help.md).
 
-![A healthcare case generated from EMR help in Workspace for fulfillment.](../image/hcls-emr-health-case-workspace.png)
+![A healthcare case generated from EMR help in Workspace for fulfillment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../image/hcls-emr-health-case-workspace.png)
 
 Information from the EMR request is captured in the EMR session overview contextual side panel.
 

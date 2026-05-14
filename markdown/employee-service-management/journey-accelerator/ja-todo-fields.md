@@ -107,5 +107,5 @@ Save as Template
 Save a to-do as a template so that you can use it in other action plans.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey Accelerator reference](ja-reference.md)
+</table>**Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 

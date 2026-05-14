@@ -27,7 +27,7 @@ This task enables you to update, and delete a record of an item of any inventory
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List Icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory number allocation**.
+2.  Select the list icon \(![List Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory number allocation**.
 
 3.  Select any one of the following items of inventory number allocation.
 
@@ -70,5 +70,5 @@ This task enables you to update, and delete a record of an item of any inventory
     Fields and the records list are updated.
 
 
-**Parent Topic:**[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+**Parent Topic:**[Inventory number allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/vlan_or_lag_number_management.md)
 

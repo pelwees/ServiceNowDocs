@@ -89,7 +89,7 @@ Your company's health testing managers use your request to schedule a COVID-19 d
 
 ## What to do next
 
-When you receive your test result, you can choose to report the result to your company. For instructions, see [Report your COVID-19 diagnostic test result](report-health-test-result.md).
+When you receive your test result, you can choose to report the result to your company. For instructions, see [Report your COVID-19 diagnostic test result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/report-health-test-result.md).
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/../concept/health-safety-testing.md)
 

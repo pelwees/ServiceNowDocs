@@ -25,13 +25,13 @@ Define quick actions for a launcher screen so that your users can access commonl
 
  Users access quick actions by tapping the quick action icon.
 
- For Android users, this icon appears as a plus symbol \(![Android quick action icon](../image/quick-action-icon-ios.png)\) at the upper right corner of the launcher screen.
+ For Android users, this icon appears as a plus symbol \(![Android quick action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/quick-action-icon-ios.png)\) at the upper right corner of the launcher screen.
 
- For iOS users this icon appears as an ellipsis symbol \(![iOS quick action icon](../image/quick-action-icon.png)\)
+ For iOS users this icon appears as an ellipsis symbol \(![iOS quick action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/quick-action-icon.png)\)
 
 </td><td>
 
-![Quick actions screen.](../image/quick-actions-screenshot2.png)
+![Quick actions screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/quick-actions-screenshot2.png)
 
 </td></tr></tbody>
 </table>## Procedure
@@ -124,7 +124,7 @@ Icon
 
 </td><td>
 
-Icon that displays for the quick action. Select **Choose** to use an existing icon or select **New** to add one. For more information about creating an icon, see [Mobile icons](../reference/sg-mobile-icon.md).
+Icon that displays for the quick action. Select **Choose** to use an existing icon or select **New** to add one. For more information about creating an icon, see [Mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-mobile-icon.md).
 
 </td></tr></tbody>
 </table>7.  In the **Function placement** section, for **Button emphasis color**, select the emphasis color for the button from the following options.
@@ -135,11 +135,11 @@ Icon that displays for the quick action. Select **Choose** to use an existing ic
     |Primary|The emphasis color is the color that is set as the primary color in the mobile theme that you are using.|
     |Destructive|The emphasis color is the color that is set as the destructive color in the mobile theme that you are using.|
 
-    **Note:** For more information about mobile themes, see [Mobile theme color guidelines](../reference/sg-theme-colors.md). If you have enabled Next Experience theming for mobile, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+    **Note:** For more information about mobile themes, see [Mobile theme color guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-theme-colors.md). If you have enabled Next Experience theming for mobile, see [Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/explore-ne-theming.md).
 
 8.  In the **Function** section, select **Choose** to use an existing function or select **New** to create one.
 
-    For information about creating a new function, see [Mobile functions](../concept/sg-studio-mobile-button-types.md).
+    For information about creating a new function, see [Mobile functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-studio-mobile-button-types.md).
 
 9.  Select **Save**.
 

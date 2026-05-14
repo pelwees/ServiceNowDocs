@@ -17,7 +17,7 @@ You can compare two versions of tracked CI configuration files to see the actual
 
 ## Before you begin
 
-If Discovery and Service Mapping don’t track a configuration file you want to track, perform advanced configuration as described in [Modify tracking changes in configuration files](../../discovery/task/track-configuration-files.md).
+If Discovery and Service Mapping don’t track a configuration file you want to track, perform advanced configuration as described in [Modify tracking changes in configuration files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/task/track-configuration-files.md).
 
 Role required: one of the following roles.
 
@@ -54,7 +54,7 @@ Steps
 
 **Important:** The name of the change must be **File Modified**.
 
-![Change record for a modified configuration file.](../image/ChangesTabFileModified.png)
+![Change record for a modified configuration file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/ChangesTabFileModified.png)
 
 4.  Select and hold \(or right-click\) the change record for the modified CI configuration file, and select **View Change in Tracked File Content**.
 
@@ -92,5 +92,5 @@ The Tracked Configuration File Comparison tab opens, displaying the configuratio
 **Related topics**  
 
 
-[Tracked Configuration file form](../reference/tracked-configuration-file-form.md)
+[Tracked Configuration file form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/tracked-configuration-file-form.md)
 

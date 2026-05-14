@@ -70,5 +70,5 @@ Role required: admin or sp\_admin
 4.  Attach the CSS record you created to the new dependency using the **CSS Includes** related list.
 
 
-**Parent Topic:**[Create a widget dependency](widget-dependencies.md)
+**Parent Topic:**[Create a widget dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dependencies.md)
 

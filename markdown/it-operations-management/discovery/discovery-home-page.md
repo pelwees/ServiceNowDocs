@@ -17,7 +17,7 @@ The Discovery Home page provides a summary of discoveries that were triggered by
 
 To open the Discovery Home page, navigate to **Discovery** &gt; **Home**. The Home page shows the Discovery totals for each of the following categories. Select a tile to see details for that category.
 
-![Discovery Home page](../image/DiscoHomeSummary.png)
+![Discovery Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoHomeSummary.png)
 
 <table id="table_home-page-categories"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Cloud Resources
 
 </td><td>
 
-The total number of resources \(virtual machines\) discovered for the service accounts selected. See [Enable discovery of virtual machines](discovery-manager.md#) for details about setting up Discovery for your cloud resources.
+The total number of resources \(virtual machines\) discovered for the service accounts selected. See [Enable discovery of virtual machines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md#) for details about setting up Discovery for your cloud resources.
 
  Select **View Cloud Resources** to open a list of discovered cloud resources, by type.
 
@@ -70,7 +70,7 @@ The total number of unresolved errors that occurred during discovery.
 
 The schedule view displays details for each schedule that ran for the selected filter. By default, the list shows all of the active Discovery schedules in alphabetical order, regardless of their current running status.
 
-![Default view of aggregated Discovery schedules](../image/DiscoScheduleMgrDefault.png)
+![Default view of aggregated Discovery schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoScheduleMgrDefault.png)
 
 Use these controls to filter Discovery results by schedules:
 
@@ -81,17 +81,17 @@ Use these controls to filter Discovery results by schedules:
     -   **All**: Results of all Discovery schedules that ran. This is the default filter.
     -   **Cloud Schedules**: Results of all Cloud Discovery schedules that ran. When you select this filter, a second filter appears, allowing you to display cloud schedules by **Service Account**.
 
-        ![Cloud schedule filters](../image/DiscoScheduleMgrCloud.png)
+        ![Cloud schedule filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoScheduleMgrCloud.png)
 
     -   **IP Based Schedules**: Results of all Discovery schedules that ran for Configuration Items \(CI\), using IP ranges. When you select this filter, a second filter appears, allowing you to display the CI schedules by a specific location or all locations.
 
-        ![IP-based schedule filters](../image/CloudIPBasedFilter.png)
+        ![IP-based schedule filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CloudIPBasedFilter.png)
 
 -   **Schedule sorter**
 
     From the schedule selector in the left pane, select a sorting criteria, from left to right:
 
-    ![Schedule sorting selections](../image/CloudScheduleSorter.png)
+    ![Schedule sorting selections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CloudScheduleSorter.png)
 
     -   Errors for each schedule listed.
     -   Unidentified IP addresses.
@@ -119,13 +119,13 @@ Use these controls to filter Discovery results by schedules:
 
     Place the cursor over any circle to see a summary of that discovery.
 
-    ![Resource trend chart detail](../image/discovery-trend-circle.png)
+    ![Resource trend chart detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/discovery-trend-circle.png)
 
     Select the circle to filter the values you see in the Discovery topics. The results populate the appropriate tiles above the graph.
 
 -   **Errors by category**
 
-    Category tiles for the errors encountered during the Discovery for the selected schedule. Select a tile to view the errors in that category and to see recommended actions for remediation. See [Discovery error messages](c_DiscoveryErrorMessages.md) for additional details.
+    Category tiles for the errors encountered during the Discovery for the selected schedule. Select a tile to view the errors in that category and to see recommended actions for remediation. See [Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryErrorMessages.md) for additional details.
 
 -   **Discovered cloud resources**
 
@@ -135,7 +135,7 @@ Use these controls to filter Discovery results by schedules:
 
     Types of schedules to add.
 
-    ![Add cloud schedule selections](../image/CloudScheduleOptions.png)
+    ![Add cloud schedule selections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CloudScheduleOptions.png)
 
 -   **Advanced View**
 
@@ -151,7 +151,7 @@ To display results from IP range discoveries, select **IP Based Schedules** in t
 -   **Unidentified IPs**: Count of unidentified CIs discovered by the IP-based scheduled.
 -   **Targeted IPs**: Count of CIs found that were configured in the IP-based schedule.
 
-![Virtual machine view in the Discovery Home page](../image/DiscoScheduleMgrVM.png)
+![Virtual machine view in the Discovery Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoScheduleMgrVM.png)
 
 ## Resolve CI Discovery Schedule errors
 
@@ -167,7 +167,7 @@ Role required: discovery\_admin
 
     The summary page for all schedules appears.
 
-    ![CI schedule summary](../image/DiscoHomeSummary.png)
+    ![CI schedule summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoHomeSummary.png)
 
 2.  View the errors, using one of these methods:
 
@@ -177,38 +177,38 @@ Role required: discovery\_admin
 
             If you have numerous schedules, you can filter by location, using the location dropdown list, or filter by the schedule name in the **Search by name** field.
 
-            ![CI schedule results](../image/CIScheduleMgrFilter.png)
+            ![CI schedule results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrFilter.png)
 
         2.  After you select the schedule, click the **Errors** tile.
         3.  Scroll down to view the errors by category.
 
-            ![Errors by category for a schedule](../image/CIScheduleMgrErrorbyCat.png)
+            ![Errors by category for a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrErrorbyCat.png)
 
 3.  Click a category tile to display the specific error codes that occurred in that category.
 
 4.  Click the tile for the error code you want to investigate.
 
-    ![Errors by category](../image/CIScheduleMgrCategories.png)
+    ![Errors by category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrCategories.png)
 
     The list displays all occurrences of that error code, either for a single CI schedule or for all schedules, depending on the path you took to view the errors. The list shows the IP address of each instance that experienced the error and the error status **Active error**. The **Recommended Actions** pane on the right contains the recommended action for the selected error. The **ACTION ON ALL** pane contains operations you can execute on all the errors in the list.
 
-    ![Automation Error Messages filter](../image/CIScheduleMgrErrorControls.png)
+    ![Automation Error Messages filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrErrorControls.png)
 
 5.  Click **View instructions** to see details and remediation suggestions for the error code.
 
-    ![Error details and remediation instructions](../image/CIScheduleMgrErrorInst.png)
+    ![Error details and remediation instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrErrorInst.png)
 
 6.  To begin work, either select the check box next to an error to resolve that specific error or select an action for **ALL** to resolve that error code for all instances of that error.
 
     In this example, the system recommends creating new Windows credentials to resolve this error code.
 
-    ![Error detail and recommended actions](../image/CIScheduleMgrErrorDetail.png)
+    ![Error detail and recommended actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrErrorDetail.png)
 
 7.  Complete the suggested remediation tasks before attempting to retry Discovery.
 
     In this example, the **Create new Windows Credentials** link opens a form for creating and testing new Windows credentials.
 
-    ![Create new Windows credentials](../image/CIScheduleMgrWinCred.png)
+    ![Create new Windows credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/CIScheduleMgrWinCred.png)
 
 8.  After all the recommended tasks are complete, click **Retry Discovery**.
 
@@ -229,11 +229,11 @@ Role required: discovery\_admin
 **Related topics**  
 
 
-[Discovery status](c_DiscoveryStatus.md)
+[Discovery status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md)
 
-[Review the logs for horizontal discovery](../reference/r_DiscoveryLog.md#)
+[Review the logs for horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DiscoveryLog.md#)
 
-[The ECC queue for Discovery](../reference/r_DiscoveryStatusECCQueue.md)
+[The ECC queue for Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DiscoveryStatusECCQueue.md)
 
-[Create Discovery schedules for cloud resources](discovery-manager.md#)
+[Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md#)
 

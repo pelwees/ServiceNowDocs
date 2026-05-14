@@ -27,7 +27,7 @@ As a fulfiller, you can disable Privilege and Confidential status for a legal re
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal request by selecting an option under **Legal Requests**.
 
@@ -64,11 +64,11 @@ The state of the legal request is Work in progress and the document is Legal rev
 </td></tr></tbody>
 </table>4.  Disable Privileged and Confidential status.
 
-    1.  Click the More actions icon \(![More actions icon](../../workplace-central/images/more-actions-move-schedule.png)\).
+    1.  Click the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../workplace-central/images/more-actions-move-schedule.png)\).
 
     2.  Select **Remove Privileged and Confidential**.
 
-        ![Disable privileged and confidential](../image/lr-disable-acp.png)
+        ![Disable privileged and confidential](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lr-disable-acp.png)
 
     3.  In the confirmation modal enter work notes and select **Disable**.
 
@@ -81,5 +81,5 @@ The state of the legal request is Work in progress and the document is Legal rev
 -   In the Privileged Document Access tab, the document permissions is marked as Public.
 -   Stakeholders are notified of the change.
 
-**Parent Topic:**[Work on a legal request](../task/work-on-legal-request.md)
+**Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/work-on-legal-request.md)
 

@@ -91,5 +91,5 @@ Details that are related to the reason why this request is being made. This mand
     For more information on the Policy Exception Integration and the hand-off between the remediation owner and the compliance manager, see [Policy and Compliance optional setup](https://www.servicenow.com/docs/bundle/zurich-governance-risk-compliance/page/product/grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.html).
 
 
-**Parent Topic:**[Configure Exception Management for Security Exposure Management](sem-configure-exp-mngmt-vr.md)
+**Parent Topic:**[Configure Exception Management for Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-exp-mngmt-vr.md)
 

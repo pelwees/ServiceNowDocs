@@ -41,10 +41,10 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Static translation](../concept/static-translation.md)
+**Parent Topic:**[Static translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/static-translation.md)
 
 **Related topics**  
 
 
-[Request a translation for an email notification, template or layout](request-translation-and-send-email-notification.md)
+[Request a translation for an email notification, template or layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/request-translation-and-send-email-notification.md)
 

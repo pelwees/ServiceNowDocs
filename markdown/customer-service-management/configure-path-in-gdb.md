@@ -31,7 +31,7 @@ Because you can add a question node only after a guidance node, the path configu
 
 3.  Select **Open in Builder**.
 
-4.  In Decision Tree Builder, select the Add path icon \(![Add path icon](../image/icon-add-path.png)\) on a node.
+4.  In Decision Tree Builder, select the Add path icon \(![Add path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-add-path.png)\) on a node.
 
     A new path and a new node are added to the canvas.
 
@@ -58,6 +58,6 @@ Because you can add a question node only after a guidance node, the path configu
 
 Continue building your decision tree.
 
--   Add a next set of questions. For more information, see [Add a follow-up set of questions or instructions in a decision tree](configure-decision-node-in-gdb.md).
--   Provide guidance to agents. For more information, see [Provide actions to agents in a decision tree](configure-guidance-in-gdb.md)
+-   Add a next set of questions. For more information, see [Add a follow-up set of questions or instructions in a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-decision-node-in-gdb.md).
+-   Provide guidance to agents. For more information, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md)
 

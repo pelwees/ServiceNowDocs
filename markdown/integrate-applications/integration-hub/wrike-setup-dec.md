@@ -34,12 +34,12 @@ Integrate your ServiceNow instance with Wrike by creating a custom OAuth applica
 
     -   To configure the default connection and credential alias record that is shipped along with the Wrike, click **View Details**.
 
-        ![Connection for the Wrike spoke](../image/wrike-spoke-tile.png)
+        ![Connection for the Wrike spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wrike-spoke-tile.png)
 
-    -   To manage more than one Wrike spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Wrike spoke connection records, you should create child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you're configuring the spoke for the first time, click **Configure**. Otherwise, select **Edit**.
 
-    ![Initial connection configuration.](../image/wrike-spoke-configure.png)
+    ![Initial connection configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wrike-spoke-configure.png)
 
 5.  On the form, fill in these fields:
 
@@ -51,7 +51,7 @@ Integrate your ServiceNow instance with Wrike by creating a custom OAuth applica
     |OAuth Client Secret|OAuth client secret that you generated when you set up the OAuth app.|
     |OAuth Redirect URL|Redirect URL that you had provided when you set up the OAuth app. The redirect URL must be in the format `https://instance-name.service-now.com/oauth_redirect.do`.|
 
-    ![Configure a connection for the Wrike spoke.](../image/wrike-spoke-connection-config.png)
+    ![Configure a connection for the Wrike spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wrike-spoke-connection-config.png)
 
 6.  Select **Create and Get OAuth Token**.
 

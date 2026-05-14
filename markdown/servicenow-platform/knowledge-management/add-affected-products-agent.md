@@ -37,7 +37,7 @@ This task provides steps to add affected products to a knowledge article in Agen
 
 4.  On the Knowledge form, in the Affected Products related list, click **New**.
 
-5.  On the Knowledge Related to Products form, in the **Configuration item** field, click the search for record icon \(![Search for Record icon](../image/lookup-icon.png)\).
+5.  On the Knowledge Related to Products form, in the **Configuration item** field, click the search for record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/lookup-icon.png)\).
 
 6.  In the Configuration item dialog box, click the related product.
 
@@ -47,5 +47,5 @@ This task provides steps to add affected products to a knowledge article in Agen
 **Related topics**  
 
 
-[Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
+[Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace.md)
 

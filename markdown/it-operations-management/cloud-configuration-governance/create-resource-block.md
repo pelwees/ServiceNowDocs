@@ -99,7 +99,7 @@ Select the interface that the potential host of this resource block must offer u
 
     2.  In the **Guest interface** field, select an interface.
 
-        ![Selecting a guest interface](../image/selecting-a-guest-interface.png)
+        ![Selecting a guest interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/selecting-a-guest-interface.png)
 
     3.  Click **Submit** or **Update**.
 
@@ -109,7 +109,7 @@ Select the interface that the potential host of this resource block must offer u
 
     For example select **vSphere Datacenter** in the **Host Resource** field for this resource to be hosted in a VMWare cloud.
 
-    ![example host resource](../image/host-resource-example.png)
+    ![example host resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/host-resource-example.png)
 
     **Note:** You can select only the host resources that support the **Host interface** previously specified for this resource block.
 
@@ -129,7 +129,7 @@ Select the interface that the potential host of this resource block must offer u
 
     For example, a virtual server can connect to virtual storage. By default, the base system provides a Virtual Server resource block with a binding to the Storage Volume resource block to enable this connection.
 
-    ![Example binding to storage volume](../image/example-binding.png)
+    ![Example binding to storage volume](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/example-binding.png)
 
 7.  Complete the following steps to configure endpoint operations between the two resources to bind.
 
@@ -137,7 +137,7 @@ Select the interface that the potential host of this resource block must offer u
 
     Implement an endpoint type, such as **Block EP**, for the virtual server to consume the endpoint. Later, when you create blueprints, create the binding between the storage volume and the virtual server.
 
-    ![Endpoint mapping for a storage volume](../image/connection-in-blueprint-canvas.png "Example of binding in a blueprint")
+    ![Endpoint mapping for a storage volume](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/connection-in-blueprint-canvas.png "Example of binding in a blueprint")
 
     1.  Under **Endpoint Operations**, click **New**.
 
@@ -156,12 +156,12 @@ Select the interface that the potential host of this resource block must offer u
     6.  Click **Submit** or **Update**.
 
 
--   **[Specify a host resource for a resource block](specify-host-resource-cmp.md)**  
+-   **[Specify a host resource for a resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/specify-host-resource-cmp.md)**  
 Hosts that support the **Host interface** of a resource block are potential hosts for the resource block. You use the **Host interface** setting to further limit the options that are presented to the stack requester while selecting a host type.
--   **[Specify the bindings for resource blocks](specify-resource-bindings-cmp.md)**  
+-   **[Specify the bindings for resource blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/specify-resource-bindings-cmp.md)**  
 Bindings represent endpoint relationships. For example, a storage volume might implement an endpoint type of Block EP \(cmdb\_ci\_endpoint\_block\). A virtual server might consume an endpoint of that type. Bindings must support the Guest interface that is specified for the resource block.
--   **[Configure endpoint operation mapping](configure-endpoint-mapping-cmp.md)**  
+-   **[Configure endpoint operation mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-endpoint-mapping-cmp.md)**  
 You can configure endpoint mapping on a storage volume to make a connection to a resource.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

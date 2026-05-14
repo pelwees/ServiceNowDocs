@@ -37,11 +37,11 @@ The JAMF deployment creates two scripts, two policies, and a configuration profi
 
     2.  Select an existing key or create one.
 
-        ![Screenshot of registration key selection.](../image/tm-agent-3.png)
+        ![Screenshot of registration key selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-3.png)
 
     3.  Copy the **Instance URL** and **Registration key** on the Agent Installation page.
 
-    ![Screenshot of instance URL and registration key.](../image/tm-agent-4.png)
+    ![Screenshot of instance URL and registration key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-4.png)
 
 2.  Install the macOS agent by running the terminal script.
 
@@ -49,7 +49,7 @@ The JAMF deployment creates two scripts, two policies, and a configuration profi
 
     2.  Select **Copy** next to **Download and Install** to collect the one-line macOS command line script.
 
-        ![Screenshot of macOS command line.](../image/tm-agent-2.png)
+        ![Screenshot of macOS command line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-2.png)
 
     3.  Open the macOS **Terminal** application.
 
@@ -59,7 +59,7 @@ The JAMF deployment creates two scripts, two policies, and a configuration profi
 
     **Note:** For a manual install, download the Intel &amp; Apple Silicon and JSON files. Place both files in the same folder. Do not rename the JSON file. Double-click \(or use the keyboard shortcut\) the .pkg file to launch the installer, and follow the on-screen instructions.
 
-    ![Screenshot of JSON and Intel & Apple Silicon.](../image/tm-agent-1.png)
+    ![Screenshot of JSON and Intel & Apple Silicon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-1.png)
 
 3.  Add the agent package to JAMF.
 

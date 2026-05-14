@@ -33,7 +33,7 @@ A function can be a service, a service offering, or a process.
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Function form](../reference/tprm-create-new-function-form.md).
+    For descriptions of all these fields, see [Create New Function form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-function-form.md).
 
 4.  Select **Save**.
 

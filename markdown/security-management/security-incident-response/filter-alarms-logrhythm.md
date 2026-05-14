@@ -29,7 +29,7 @@ Use the filtering conditions at the bottom of the mapping form to filter out spe
 
 1.  To edit the filtering criteria, select the **Filter based on conditions** check box.
 
-    ![Filter based on conditions check box selected and highlighted.](../image/profilemapping06__add_filter_condition_button.png)
+    ![Filter based on conditions check box selected and highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profilemapping06__add_filter_condition_button.png)
 
 2.  To the right of the **Filter conditions** field, click **OR** or **AND**.
 
@@ -37,7 +37,7 @@ Use the filtering conditions at the bottom of the mapping form to filter out spe
 
     The following image shows an additional filter added to the criteria in which risk-based priority \(`RBP max`\) is greater than `50`. With this filter setting, only LogRhythm alarms with a risk-based priority value that is greater than 50 are pulled.
 
-    ![Add a new filter condition to ingest alarms with a risk-based priority greater than 50.](../image/profilemapping07__added_risk_based_priority_filter.png)
+    ![Add a new filter condition to ingest alarms with a risk-based priority greater than 50.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profilemapping07__added_risk_based_priority_filter.png)
 
 4.  After you have verified that all critical LogRhythm alarm fields are mapped to the ServiceNow AI Platform security incident, and you have set filtering criteria to limit alarm ingestion, choose one to continue the configuration.
 
@@ -85,7 +85,7 @@ Delete this alarm profile and the **Alarm Profiles** list is displayed.
 </table>
 ## What to do next
 
-The next step is to preview your mapped fields on the security incident. See [Previewing the security incident with mapped LogRhythm alarm values](../concept/preview-si-logrhythm.md).
+The next step is to preview your mapped fields on the security incident. See [Previewing the security incident with mapped LogRhythm alarm values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/preview-si-logrhythm.md).
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 

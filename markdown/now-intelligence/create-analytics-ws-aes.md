@@ -17,20 +17,20 @@ The event handlers for the Analytics Center components of the workspace are all 
 
 For more information about using App Engine Studio to create a workspace with an Analytics Center, see [Add an application experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/add-experience.md).
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Add Platform Analytics pages to a configurable workspace](../task/add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](../task/add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/add-dashboard-to-workspace.md)
 
-[Configure custom redirection from a dashboard component](../task/config-custom-redirection-from-db.md)
+[Configure custom redirection from a dashboard component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
 

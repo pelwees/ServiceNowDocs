@@ -39,7 +39,7 @@ As an AI Search admin, you can perform this task to choose the fields from and i
 
 4.  On the Semantic Index Configuration form, fill in the fields.
 
-    For a description of the field values, see [Semantic Index Configuration form](../reference/semantic-index-configuration-form.md).
+    For a description of the field values, see [Semantic Index Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/semantic-index-configuration-form.md).
 
 5.  Select **Submit**.
 
@@ -53,7 +53,7 @@ As an AI Search admin, you can perform this task to choose the fields from and i
 
     2.  On the Semantic Index Field form, fill in the fields.
 
-        For a description of the field values, see [Semantic Index Field form](../reference/semantic-index-field-form.md).
+        For a description of the field values, see [Semantic Index Field form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/semantic-index-field-form.md).
 
     3.  Select **Submit**.
 
@@ -62,9 +62,9 @@ As an AI Search admin, you can perform this task to choose the fields from and i
 
 ## What to do next
 
-After changing the semantic index configuration settings for an indexed source, you need to reindex content from that indexed source. For reindexing steps, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
+After changing the semantic index configuration settings for an indexed source, you need to reindex content from that indexed source. For reindexing steps, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
 **Note:** Indexing content for semantic vector search is typically slower than indexing for keyword search. Your indexed source may take more time to reindex once you've defined a semantic index configuration for it.
 
-**Parent Topic:**[Semantic index configuration for indexed sources](../concept/semantic-index-cfg-ais.md)
+**Parent Topic:**[Semantic index configuration for indexed sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/semantic-index-cfg-ais.md)
 

@@ -23,7 +23,7 @@ Role required: discovery\_admin.
 
 ## About this task
 
-If you use a service mesh, a pod running on every node \(Informer\) communicates with a Prometheus server to get the traffic information. For more information, see [Install Kubernetes Visibility Agent \(KVA\) Informer](cnov-deploy-install.md)
+If you use a service mesh, a pod running on every node \(Informer\) communicates with a Prometheus server to get the traffic information. For more information, see [Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
 ## Procedure
 
@@ -82,7 +82,7 @@ kubectl apply -f k8s_informer.yaml
 </table>
 ## What to do next
 
-[Create application service maps](create-an-app-service-map-kva.md)
+[Create application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-an-app-service-map-kva.md)
 
-**Parent Topic:**[Enabling application service maps](../concept/enabling-application-service-maps.md)
+**Parent Topic:**[Enabling application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/enabling-application-service-maps.md)
 

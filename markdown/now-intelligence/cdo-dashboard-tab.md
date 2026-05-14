@@ -128,7 +128,7 @@ Spend optimization
 Provides financial visibility into digital transformation impact, tracking spending patterns and savings achieved from technology and automation initiatives.
 
 </td></tr></tbody>
-</table>![CDO Dashboard with Sentiment, Usage, Operations, Transformation, and Outcome pillars, each containing key metrics and visualizations.](../image/cdo-db-tab.png)
+</table>![CDO Dashboard with Sentiment, Usage, Operations, Transformation, and Outcome pillars, each containing key metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cdo-db-tab.png)
 
 ## CDO Dashboard overview
 

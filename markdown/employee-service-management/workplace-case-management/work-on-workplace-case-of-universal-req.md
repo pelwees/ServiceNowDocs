@@ -21,7 +21,7 @@ Role required: sn\_wsd\_case.case\_writer
 
 ## About this task
 
-You can configure the state changes that are described in the following procedure as per your requirements. For more information, see [Universal Request state mapping](../../universal-request/task/ur-state-mapping.md).
+You can configure the state changes that are described in the following procedure as per your requirements. For more information, see [Universal Request state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../universal-request/task/ur-state-mapping.md).
 
 ## Procedure
 
@@ -31,28 +31,28 @@ You can configure the state changes that are described in the following procedur
 
 3.  On the form, change the **State** field to **Work in progress**.
 
-    **Note:** If the workplace case does not relate to any workplace service, then transfer the case to the relevant department or back to the Universal Request queue. Select **Transfer** to transfer the case. For more details on how to transfer a case, see [Transfer a workplace case created from a universal request](transfer-a-workplace-case-created-from-a-universal-request.md).
+    **Note:** If the workplace case does not relate to any workplace service, then transfer the case to the relevant department or back to the Universal Request queue. Select **Transfer** to transfer the case. For more details on how to transfer a case, see [Transfer a workplace case created from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/transfer-a-workplace-case-created-from-a-universal-request.md).
 
 4.  When you resolve the case, change the state to **Closed complete**.
 
 
 ## Result
 
-The state of the Universal Request is updated based on the state of the workplace case. For more information about state changes of a Universal Request, see [Universal Request states and reasons](../../universal-request/concept/ur-states.md).
+The state of the Universal Request is updated based on the state of the workplace case. For more information about state changes of a Universal Request, see [Universal Request states and reasons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../universal-request/concept/ur-states.md).
 
 If you change the state of the workplace case to Close incomplete without transferring the case back to the Universal Request queue or to another department, then one of the following actions is performed:
 
 -   If the **Needs Additional Review** option is selected on the Universal Request, then the state of the request changes to the In progress state.
 -   If the **Needs Additional Review** option is not selected on the Universal Request, then the request is closed based on the state mapping.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 
 
-[Configure a workplace service record producer as a Universal Request](configure-workplace-service-record-prod-as-universal-req.md)
+[Configure a workplace service record producer as a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-workplace-service-record-prod-as-universal-req.md)
 
-[Create a workplace case from Universal Request](create-workplace-case-from-universal-req.md)
+[Create a workplace case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-case-from-universal-req.md)
 
-[Transfer a workplace case created from a universal request](transfer-a-workplace-case-created-from-a-universal-request.md)
+[Transfer a workplace case created from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/transfer-a-workplace-case-created-from-a-universal-request.md)
 

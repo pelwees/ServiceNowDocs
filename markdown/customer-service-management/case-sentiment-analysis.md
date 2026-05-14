@@ -93,7 +93,7 @@ The sentiment analysis model evaluates the following text to make a prediction:
  If the model can't make a prediction, no information gets recorded and the value in the **Current sentiment** field remains the same.
 
 </td></tr></tbody>
-</table>For more information about the pre-trained machine learning model, see [Create a model to predict case sentiment](csm-task-intel-create-sentiment-solution.md).
+</table>For more information about the pre-trained machine learning model, see [Create a model to predict case sentiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md).
 
 ## Prediction feedback
 
@@ -102,16 +102,16 @@ The system stores feedback on prediction results in the Predictor Result \[ml\_p
 -   The default value in the **Predicted correctly** field for each sentiment prediction is set to true.
 -   The **Final input value** and **Final output value** fields remain empty because sentiment analysis predictions do not collect feedback from agents.
 
-The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](../reference/case-categorization-components.md).
+The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/case-categorization-components.md).
 
-**Parent Topic:**[Task Intelligence for Customer Service](csm-task-intelligence.md)
+**Parent Topic:**[Task Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 **Related topics**  
 
 
-[Configure Sentiment Analysis](case-sentiment-analysis-configure.md)
+[Configure Sentiment Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis-configure.md)
 
-[Configure Sentiment Analysis](case-sentiment-analysis-configure.md)
+[Configure Sentiment Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis-configure.md)
 
-[Create a model to predict case sentiment](csm-task-intel-create-sentiment-solution.md)
+[Create a model to predict case sentiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md)
 

@@ -17,7 +17,7 @@ Initiate an outbound email interaction from a contact or consumer record to proa
 
 The Email Interaction for CSM application must be installed and activated.
 
-When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [Using Email Interaction for Customer Service Management](../concept/using-email-interaction-customer-service-management.md) Customer Service Management.
+When multiple agents initiate outbound emails for the same customer, the system consolidates drafts by default. For details on the behavior, see Multiple agents composing for the same customer in [Using Email Interaction for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/using-email-interaction-customer-service-management.md) Customer Service Management.
 
 Role required: sn\_customerservice\_agent
 
@@ -25,7 +25,7 @@ Role required: sn\_customerservice\_agent
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \( ![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \( ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -41,7 +41,7 @@ Role required: sn\_customerservice\_agent
 
 6.  Compose your email.
 
-7.  Select the Send email \(![Send email to contact or customer icon](../image/send-email-icon-eaai.png) \) icon.
+7.  Select the Send email \(![Send email to contact or customer icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/send-email-icon-eaai.png) \) icon.
 
 
 ## Result

@@ -91,7 +91,7 @@ obsolete-custom-processors
 
 </td><td>
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -103,7 +103,7 @@ Access Controls
 
 </td><td>
 
-View and configure access controls for the UI page. See [Use access controls on UI pages](r_UIPages.md#) for more information.
+View and configure access controls for the UI page. See [Use access controls on UI pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_UIPages.md#) for more information.
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ UI pages are considered high risk with any of the following attributes:
 -   For instances with glide.installation.developer is set to **true**.
 -   If resource is customized content for a customer instance.
 
-**Parent Topic:**[Creating custom UI Pages and UI macros](../../general-scripting/concept/create-custom-ui-pages.md)
+**Parent Topic:**[Creating custom UI Pages and UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/concept/create-custom-ui-pages.md)
 
 ## UI page access
 
@@ -202,7 +202,7 @@ Role required: security\_admin and admin
 
 4.  Complete the form.
 
-    See [UI pages](r_UIPages.md#) for additional information for UI field descriptions.
+    See [UI pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_UIPages.md#) for additional information for UI field descriptions.
 
 5.  Select **Submit** or **Save**.
 
@@ -238,7 +238,7 @@ Access controls and related security messages are integrated on high risk UI Pag
 
 An informational message displays on high risk UI pages to inform the customer to add a role-based Access Control to the UI page.
 
-![UI page security recommendation messages.](../image/new-ui-html-processing-errors.png)
+![UI page security recommendation messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/new-ui-html-processing-errors.png)
 
 The message displays under the following conditions:
 
@@ -249,7 +249,7 @@ The message displays under the following conditions:
     **Note:** Public UI Pages that are public or that use GlideRecord don’t show a missing ACL warning.
 
 
-See [UI pages](r_UIPages.md#) for details on high risk UI pages.
+See [UI pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_UIPages.md#) for details on high risk UI pages.
 
 #### Conditions that display the security recommendations message
 

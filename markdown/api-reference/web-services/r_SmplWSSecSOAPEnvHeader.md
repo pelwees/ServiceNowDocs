@@ -117,5 +117,5 @@ An example of a valid WS-Security SOAP envelope header.
 </SOAP-ENV:Header>
 ```
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md)
 

@@ -17,5 +17,5 @@ Performance tests are available for Kubernetes Visibility Agent \(KVA\) \(former
 
 For the performance results from multiple scenarios that are tested, see the [Performance results for Kubernetes Visibility Agent \[KB1555851\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1555851) article in the Now Support knowledge base.
 
-**Parent Topic:**[Kubernetes Visibility Agent support matrix](cnov-support-matrix.md)
+**Parent Topic:**[Kubernetes Visibility Agent support matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-support-matrix.md)
 

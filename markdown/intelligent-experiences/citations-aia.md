@@ -25,9 +25,9 @@ Generating citations:
 
 Citations with similar incidents and relevant knowledge articles appear in the Sources section of the AI Agent Studio Chat and on the Now Assist panel and in with click-able links that direct you to the incident or knowledge article.
 
-![Citations in the output of an executed agentic workflow with sources on AI Agent Studio.](../image/aia-citations.png)
+![Citations in the output of an executed agentic workflow with sources on AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-citations.png)
 
-![Citations in the output of an executed agentic workflow with sources on the Now Assist panel.](../image/aia-citations-nap.png)
+![Citations in the output of an executed agentic workflow with sources on the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-citations-nap.png)
 
-You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [Disable citations in AI Agent Studio](../task/aia-hide-citations.md).
+You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [Disable citations in AI Agent Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/aia-hide-citations.md).
 

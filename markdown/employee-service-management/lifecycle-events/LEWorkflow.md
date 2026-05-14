@@ -25,7 +25,7 @@ When a lifecycle event case is created:
     **Note:** You can access the workflows from **Execution Contexts**.
 
 
-![Activity set workflow diagram.](../image/LEWorkflow1-Brand2.png)
+![Activity set workflow diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/LEWorkflow1-Brand2.png)
 
 Each activity set in a lifecycle event has an associated workflow. Each workflow:
 
@@ -36,7 +36,7 @@ Each activity set in a lifecycle event has an associated workflow. Each workflow
 
     The base system limits the total number of activity sets that can run at the same time to 25. This value can be increased, but system performance can be affected.
 
-    **Note:** The **Evaluation interval** field is not revealed by default. This field works with the **Max activity count** field on the **Activities** tab under Workflow Properties. See [Workflow properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowProperties.md) . If you reveal the **Evaluation interval** field with the intention of changing the default value \(four hours\), use caution. Frequent updates mean that more events fire and could cause your lifecycle event activity sets to cancel before the Lifecycle Event completes. For workflows associated with Lifecycle Events, the value of the **Max activity count** field has been increased to accommodate long running business processes that contain multiple workflow activities. For an alternative method, see [Lifecycle Events evaluation interval](le-evaluation-interval1.md).
+    **Note:** The **Evaluation interval** field is not revealed by default. This field works with the **Max activity count** field on the **Activities** tab under Workflow Properties. See [Workflow properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowProperties.md) . If you reveal the **Evaluation interval** field with the intention of changing the default value \(four hours\), use caution. Frequent updates mean that more events fire and could cause your lifecycle event activity sets to cancel before the Lifecycle Event completes. For workflows associated with Lifecycle Events, the value of the **Max activity count** field has been increased to accommodate long running business processes that contain multiple workflow activities. For an alternative method, see [Lifecycle Events evaluation interval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-evaluation-interval1.md).
 
     1.  Open Workflow Editor.
     2.  From Workflows, select **HR Activity Set Launcher**.
@@ -46,5 +46,5 @@ Each activity set in a lifecycle event has an associated workflow. Each workflow
         See [Parallel Flow Launcher workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/r_ParallelFlowLauncher.md) .
 
 
-**Parent Topic:**[Activate Lifecycle Events](../task/activate-enterprise-onboarding-and-transitions-scoped.md)
+**Parent Topic:**[Activate Lifecycle Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../task/activate-enterprise-onboarding-and-transitions-scoped.md)
 

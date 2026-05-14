@@ -34,7 +34,7 @@ A worker is an object that performs some work in one or more background threads.
 
 To upload an attachment larger than 1 GB, you need to update the **com.glide.attachment.max\_size** system property to reflect the size of the content zip file.
 
-You can also export your data for participation in the [Software Asset Management content service](../concept/c_SAMContentService.md) to contribute to the improvement of the normalization service.
+You can also export your data for participation in the [Software Asset Management content service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMContentService.md) to contribute to the improvement of the normalization service.
 
 ## Procedure
 
@@ -61,5 +61,5 @@ You can also export your data for participation in the [Software Asset Managemen
     4.  Select the attachment to open or save.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMAdministration.md)
 

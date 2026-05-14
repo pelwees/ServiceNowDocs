@@ -19,7 +19,7 @@ ICC integration with CSM Configurable Workspace enables agents to manage voice c
 
 The CSM Configurable Workspace provides a unified interface that integrates contact center platform with the Customer Service Management \(CSM\) service offering. This integration helps you manage inbound and outbound interactions within a single interface.
 
-See [CSM Configurable Workspace](csm-workspaces-configure.md).
+See [CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md).
 
 With this expanded framework, voice interactions from a contact center platform and native digital channels can be routed seamlessly. Skills, queues, agents, and presence statuses can be synced automatically to optimize the admin experience and help reduce operational costs.
 
@@ -31,7 +31,7 @@ The following CCaaS Store Apps offer voice channel integration:
 
 The following visual displays the voice workflow when CCaaS integrates with ICC within the CSM Configurable Workspace .
 
-![Voice Call flow via ICC](../image/icc-integration-with-nvc-workflow-MMASSET0020993.png "Voice call flow")
+![Voice Call flow via ICC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icc-integration-with-nvc-workflow-MMASSET0020993.png "Voice call flow")
 
 ## Key benefits
 

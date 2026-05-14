@@ -133,5 +133,5 @@ Each ILMT and BigFix Inventory transform map processes data using field maps or 
     The ILMT Software License Usage transform map processes data from the source License Consumption \[imp\_samp\_ilmt\_license\_usage\] table to the target IBM Peak Consumption \[samp\_ilmt\_sw\_install\] table using the onStart transform map script. The onStart transform map script is an event script that processes at the beginning of an import. For more information on this transform map script, see [Map with transformation event scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/r_MapWithTransformationEventScripts.md).
 
 
-**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v1 APIs](integrating-ilmt-bigfix-v1-apis.md)
+**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v1 APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v1-apis.md)
 

@@ -19,19 +19,19 @@ Open and edit apps and app files in any scope — global or custom — in Servic
 
 Each app or file you open in ServiceNow Studio opens in its own tab, showing the file name, file type, and scope.
 
-![Each file opens in its own tab within ServiceNow Studio, showing the file type and application the file is in.](../image/sn-studio-integrated-tab-as1.png)
+![Each file opens in its own tab within ServiceNow Studio, showing the file type and application the file is in.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-integrated-tab-as1.png)
 
 If your browser window is narrow, open tabs may overflow. Select the more actions icon and choose **Show Opened Editors** to see a list of all open files. Select any file to open it in the canvas.
 
-![View a list of all opened files from the more actions menu.](../image/sn-studio-open-tabs-as1.png)
+![View a list of all opened files from the more actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-open-tabs-as1.png)
 
 ## Update sets
 
 The scope and update set associated with the current file appear at the bottom of the screen. Switch update sets or create one to package your changes.
 
-![See the scope and update set associated with an open file at the bottom of the screen.](../image/sn-studio-scope-update-set.png)
+![See the scope and update set associated with an open file at the bottom of the screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-update-set.png)
 
 Some builders override automatic scope switching. For example, when you use Table Builder to edit a form or table file, a message indicates that the scope is controlled by the builder.
 
-![Some builders control the scope for apps open in ServiceNow Studio.](../image/sn-studio-scope-builder.png)
+![Some builders control the scope for apps open in ServiceNow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-builder.png)
 

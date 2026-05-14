@@ -17,7 +17,7 @@ Perform all tasks that are required for an on-site repair so that you can comple
 
 ## Before you begin
 
-Before you can proceed with the RMA process for a defective enterprise asset on-site, you must complete the Prepare task for the associated RMA order line. See [Complete the Prepare task for an RMA order line](complete-rma-assessment.md) for detailed instructions.
+Before you can proceed with the RMA process for a defective enterprise asset on-site, you must complete the Prepare task for the associated RMA order line. See [Complete the Prepare task for an RMA order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-rma-assessment.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technician
 
@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
     1.  On the **RMA Line Tasks** tab of the RMA order line record, select the task number for the **On-site repair** task.
 
-        Alternatively, select the task number that is displayed in the **Current task** field of the RMA order line record header.![Current task field.](../image/rma-order-line-details-header.png)
+        Alternatively, select the task number that is displayed in the **Current task** field of the RMA order line record header.![Current task field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/rma-order-line-details-header.png)
 
         The On-site repair task opens.
 
@@ -135,14 +135,14 @@ Notes about the task that are visible to all users within your organization.
 
     The On-site repair task automatically closes with an updated state of Closed Complete.
 
-    If you set the **RMA decision** field to **Off-site**, proceed to [Complete the RMA process for a defective enterprise asset through an off-site replacement or repair](complete-off-site-rma.md) to continue with the RMA process off-site.
+    If you set the **RMA decision** field to **Off-site**, proceed to [Complete the RMA process for a defective enterprise asset through an off-site replacement or repair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-off-site-rma.md) to continue with the RMA process off-site.
 
 
 ## Result
 
 If you successfully repaired the defective enterprise asset, the RMA order line moves to the Completed stage. In the corresponding asset record, the **State** field changes to **In stock** and the **Substate** field changes to **Available**.
 
-If you moved the RMA process off-site, a Shipment task automatically populates on the **RMA Line Tasks** tab of the RMA order line. You must then ship the defective enterprise asset back to the asset vendor so that they can complete the remaining replacement or repair tasks off-site. See [Complete the RMA process for a defective enterprise asset through an off-site replacement or repair](complete-off-site-rma.md) for detailed instructions on how to replace or repair a defective enterprise asset off-site.
+If you moved the RMA process off-site, a Shipment task automatically populates on the **RMA Line Tasks** tab of the RMA order line. You must then ship the defective enterprise asset back to the asset vendor so that they can complete the remaining replacement or repair tasks off-site. See [Complete the RMA process for a defective enterprise asset through an off-site replacement or repair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-off-site-rma.md) for detailed instructions on how to replace or repair a defective enterprise asset off-site.
 
 If you rejected the on-site repair request, the RMA order line moves to the Completed stage. However, the defective enterprise asset remains in the In stock state and Pending repair substate. You must submit a new RMA order to take additional action on the asset.
 
@@ -150,5 +150,5 @@ If you rejected the on-site repair request, the RMA order line moves to the Comp
 
 Complete the RMA process for any remaining RMA order lines within the RMA order. After all RMA order lines reach the Completed stage, the RMA order is closed.
 
-**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](../concept/closing-rma-order.md)
+**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/closing-rma-order.md)
 

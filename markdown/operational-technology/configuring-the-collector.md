@@ -21,6 +21,6 @@ Depending on how you have deployed the Console, you may need to manually edit th
 
 To install the OT Discovery Collector, see:
 
--   [Install the OT Discovery Collector on a Windows system](installing-collector-on-windows.md)
--   [Install OT Discovery Collector on a Linux system](linux-install-ot-discovery-collector.md)
+-   [Install the OT Discovery Collector on a Windows system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/installing-collector-on-windows.md)
+-   [Install OT Discovery Collector on a Linux system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/linux-install-ot-discovery-collector.md)
 

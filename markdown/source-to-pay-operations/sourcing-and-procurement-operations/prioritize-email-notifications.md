@@ -29,10 +29,10 @@ Role required: admin
 
 4.  On the **When to send** tab, add the condition: "Table does not contain sn\_shop\_"
 
-    ![Adding a condition manually to suppressdefault global notifications](../image/spo-prioritize-sh-email-notifications.png)
+    ![Adding a condition manually to suppressdefault global notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-prioritize-sh-email-notifications.png)
 
 5.  Save the record.
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

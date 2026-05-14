@@ -68,5 +68,5 @@ Steps
     If you're on the SAFe planning board, click the dependencies icon to show or hide dependency lines between stories.
 
 
-**Parent Topic:**[Define a story in SAFe](create-SAFestory.md)
+**Parent Topic:**[Define a story in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)
 

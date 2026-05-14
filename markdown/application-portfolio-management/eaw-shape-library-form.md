@@ -22,5 +22,5 @@ You can add new shapes to the shapes library as per your requirement. Use these 
 |Active|Select the check box to show the shape library in the Enterprise Architecture Workspace.|
 |Domain|Name of the domain. Use the look up icon to select a domain name.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

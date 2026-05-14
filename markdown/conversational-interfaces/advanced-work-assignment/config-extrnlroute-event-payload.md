@@ -51,13 +51,13 @@ Configuring AWA with external routing enables you to consolidate the routing of 
 
     **Note:** If you selected an existing AQA Queue item, verify that external routing is enabled with the **External** field checked.
 
-4.  In the External third-party routing section of the queue form, select the Preview this record icon ![Preview this record icon.](../image/preview-record-icon.png) and select **Open record**.
+4.  In the External third-party routing section of the queue form, select the Preview this record icon ![Preview this record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/preview-record-icon.png) and select **Open record**.
 
     **Note:** You are notified to save the Queue record for any changes you made upon navigating. Select **Update** for an existing queue or select **Submit** for a new queue.
 
 5.  Select the **Subflow** from the list of flows available to send events to the selected provider.
 
-    ![Select subflow to send events to the provider.](../image/select-awa-exrnl-subflow.png)
+    ![Select subflow to send events to the provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/select-awa-exrnl-subflow.png)
 
 6.  Select the required External Event Definitions for the provider.
 
@@ -65,7 +65,7 @@ Configuring AWA with external routing enables you to consolidate the routing of 
 
 7.  Select an external event definition to see the **Event type** and **Payload** that it contains.
 
-    ![Event type and payload of the subflow associated with the provider.](../image/awa-extrnl-event-defntn.png)
+    ![Event type and payload of the subflow associated with the provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-extrnl-event-defntn.png)
 
     **Note:** Ensure that you do not add any info message or error message after answer block. Answer should be always return string, if answer is in try block, you can add info/error messages in catch block.
 
@@ -86,5 +86,5 @@ After the configuration, all the incoming chats are routed to the external queue
 
 To view the execution details of the event payload, open an event record from the Flow engine contexts \[sys\_flow\_context\] table and select **Open in Operations View**. You will see the AWA Post External Routing Events flow with the payload.
 
-![Executed external event payload.](../image/executed-external-routing.png "AWA Post External Routing Events")
+![Executed external event payload.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/executed-external-routing.png "AWA Post External Routing Events")
 

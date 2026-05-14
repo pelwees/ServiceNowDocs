@@ -65,12 +65,12 @@ Click **Add to selected**.
 
 Any SMS records created from a task are associated with that task. You can view associated SMS messages from the task record in the **SMS Messages** related list. You might need to configure the form to add this related list.
 
-**Parent Topic:**[Using Notify with tasks](../concept/c_NotifyOnTask.md)
+**Parent Topic:**[Using Notify with tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyOnTask.md)
 
 **Related topics**  
 
 
-[Start a conference call from a task](t_StartAConferenceCallFromATask.md)
+[Start a conference call from a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_StartAConferenceCallFromATask.md)
 
-[Manage conference calls on task](manage-conf-call.md)
+[Manage conference calls on task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/manage-conf-call.md)
 

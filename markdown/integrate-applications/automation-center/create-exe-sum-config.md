@@ -129,7 +129,7 @@ An action that triggers the flow.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-    You’re taken to the previous page. When an execution summary configuration is created, a flow is automatically created to match the configuration. The value set for the **Trigger type** field triggers this newly created flow.![Execution summary configuration](../images/exe-sum-config.png)
+    You’re taken to the previous page. When an execution summary configuration is created, a flow is automatically created to match the configuration. The value set for the **Trigger type** field triggers this newly created flow.![Execution summary configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/exe-sum-config.png)
 
 6.  Select the summary configuration in the Execution Summary Configurations section.
 
@@ -142,7 +142,7 @@ An action that triggers the flow.
 
 ## What to do next
 
-[Create execution state mapping](create-exe-state-mapping.md)
+[Create execution state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-exe-state-mapping.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-auto-sum-exe.md)
 

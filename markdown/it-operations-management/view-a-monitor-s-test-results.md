@@ -19,7 +19,7 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](../image/sys-mon-icon.png)\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/sys-mon-icon.png)\).
 
 2.  Select a monitor from the list of all monitors.
 
@@ -33,11 +33,11 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
     -   To refresh the chars, use the context menu.
 5.  View the status of each test in the **Monitor result history** card.
 
-    To view the details for a test, select its timestamp. For more information about the test details, see [View test details](view-test-details.md).
+    To view the details for a test, select its timestamp. For more information about the test details, see [View test details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/view-test-details.md).
 
     **Note:** If your monitor uses OAuth and a test fails with a 4xx error, it may be because your refresh token expired. Re-authenticate by visiting the OAuth credential page and clicking the credential link.
 
-    To view [active alerts](view-alerts-for-a-synthetic-monitor.md) created by the monitor, select the Alert link to open its details.
+    To view [active alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/view-alerts-for-a-synthetic-monitor.md) created by the monitor, select the Alert link to open its details.
 
     **Note:** Filtering the list affects the data displayed in the metric charts.
 

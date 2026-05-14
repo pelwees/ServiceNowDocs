@@ -109,21 +109,21 @@ System-generated ID number for the status report with a configurable prefix.
 
 5.  Select a different status color to override the rolled-up color for various aspects of the program or select **None** if you do not want the status of an aspect to appear in the program status report.
 
-    Selecting **None** displays a grey X icon \(![None icon](../image/none_icon.png)\) for that program aspect on the program status report.
+    Selecting **None** displays a grey X icon \(![None icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../image/none_icon.png)\) for that program aspect on the program status report.
 
     The override color that you set is not retained from one report to next. When the next program status report is generated, it takes the color from the associated projects.
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Create a program to manage projects and demands](t_CreateAProgram.md)
+**Parent Topic:**[Create a program to manage projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgram.md)
 
 **Related topics**  
 
 
-[Create a program task](t_CreateAProgramTask.md)
+[Create a program task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgramTask.md)
 
-[Allocate budget to a program](allocate-budget-to-program.md)
+[Allocate budget to a program](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/allocate-budget-to-program.md)
 
-[View program status reports](view-program-status-report.md)
+[View program status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/view-program-status-report.md)
 

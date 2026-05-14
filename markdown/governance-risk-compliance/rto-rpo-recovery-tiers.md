@@ -19,11 +19,11 @@ Recovery time objective \(RTO\) is the maximum amount of time a computer, system
 
 The business users and IT owners can perform business impact analysis and technical impact analysis respectively by responding to the assessment in the BIA component in the BCM UIB Workspace. A sample view of the **Assessments** tab is shown in the example.
 
-![Assessments in the BIA.](../image/bia-assessments-tab.png)
+![Assessments in the BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-assessments-tab.png)
 
 If you are the business user, you can estimate the recovery time objective for your business services and processes by responding to the Recovery time objective assessment in the **Assessments** tab. The questions are displayed in the **Recovery time objective assessment** tab according to the configuration set up by BCM administrators. A sample Recovery time objective assessment with demo data is shown in the example.
 
-![Recovery time objective assessment.](../image/rto-assessment-questions.png)
+![Recovery time objective assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-assessment-questions.png)
 
 ## Recovery point objective
 
@@ -31,7 +31,7 @@ Recovery point objective \(RPO\) defines the maximum acceptable data loss that a
 
 If you are the IT owner, you can estimate the recovery point objective for your data applications and systems by responding to the Recovery point objective assessment in the BIA. Based on the configuration set up by the BCM administrator, the questions are displayed in the **Recovery time objective assessment** tab as shown in the example.
 
-![Recovery point objective assessment.](../image/rpo-assessment-questions-1.png)
+![Recovery point objective assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-assessment-questions-1.png)
 
 ## Recovery tier
 
@@ -39,11 +39,11 @@ With BCM administrator role, classify a set of business applications that follow
 
 The recovery tiers and their associated recovery time objectives are displayed in the example.
 
-![Recovery tiers and their configured recovery time objectives.](../image/recovery-tiers-rto.png)
+![Recovery tiers and their configured recovery time objectives.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/recovery-tiers-rto.png)
 
 BCM administrators can configure a recovery tier and set its recovery time objective as shown in the example.
 
-![Recovery tier and its recovery time objective.](../image/new-recovery-tier-rto.png)
+![Recovery tier and its recovery time objective.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-recovery-tier-rto.png)
 
 Recovery tiers are also associated with other organizational expectations such as levels of support, escalation, and communication.
 
@@ -65,7 +65,7 @@ Recovery tiers can be classified as per their importance and criticality:
 
 ## Recovery tier configuration by the administrators
 
-For more information on how to configure a recovery tier in the Business Continuity Management application, see [Configure recovery tiers for BIA](../task/configure-recovery-tier-bia-uib-ws.md).
+For more information on how to configure a recovery tier in the Business Continuity Management application, see [Configure recovery tiers for BIA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-recovery-tier-bia-uib-ws.md).
 
 ## Recovery timeframe
 
@@ -80,11 +80,11 @@ You can set up the recovery timeframe for a recovery tier. It is the timeframe t
 -   1 Week
 -   2 weeks
 
-The example shows the configured recovery timeframes in the Business Continuity Management application. ![Recovery timeframes.](../image/recovery-timeframes.png)
+The example shows the configured recovery timeframes in the Business Continuity Management application. ![Recovery timeframes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/recovery-timeframes.png)
 
-The example shows the configuration of a recovery timeframe in the Business Continuity Management application. ![New recovery timeframe.](../image/new-recovery-timeframe.png)
+The example shows the configuration of a recovery timeframe in the Business Continuity Management application. ![New recovery timeframe.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-recovery-timeframe.png)
 
-For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [Set up recovery timeframe for a recovery tier](../task/configure-recovery-timeframe-bcm.md).
+For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [Set up recovery timeframe for a recovery tier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-recovery-timeframe-bcm.md).
 
-**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 

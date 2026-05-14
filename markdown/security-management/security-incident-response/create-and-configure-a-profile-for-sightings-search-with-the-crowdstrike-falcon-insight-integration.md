@@ -117,7 +117,7 @@ Sightings Search Parameters
 Parameters to define more complex queries that include logic and other operators supported by the specified log storeYou can use the Related Links at the bottom of the page to generate a test query after defining Sighting Search Parameters.
 
 </td></tr></tbody>
-</table>    ![Configuring sightings search.](../image/falcon-insight-sightings-search.png)
+</table>    ![Configuring sightings search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-sightings-search.png)
 
 5.  Select **Submit**.
 

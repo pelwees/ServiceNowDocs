@@ -239,7 +239,7 @@ An abstract and ideally visual representation \(model\) of how an organization d
 Typically represents the various elements of how an organization operates. It usually incorporates strategy positions such as the innovation model, degree of intelligent automation, industry alignment, provider delivery models, and the business expectations of IT.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
+</table>**Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
 
 **Related topics**  
 

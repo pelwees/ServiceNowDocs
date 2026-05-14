@@ -23,19 +23,19 @@ Role required: Microsoft Intune admin
 
 2.  In the menu on the left side of the screen, navigate to **Apps**.
 
-    ![Microsoft Endpoint Manager admin center menu showing the 'Apps' option.](../image/intune-mdm-config-select-apps.png)
+    ![Microsoft Endpoint Manager admin center menu showing the 'Apps' option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-select-apps.png)
 
 3.  On the Apps page, select **All apps** &gt; **Add**.
 
-    ![Microsoft Endpoint Manager admin center showing the 'Add' apps option.](../image/intune-mdm-config-add-apps.png)
+    ![Microsoft Endpoint Manager admin center showing the 'Add' apps option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-add-apps.png)
 
 4.  Select the app type and then click **Select**.
 
-    ![Microsoft Endpoint Manager admin center showing where to select the app type.](../image/intune-mdm-config-select-app-type.png)
+    ![Microsoft Endpoint Manager admin center showing where to select the app type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-select-app-type.png)
 
 5.  Select **Search the App Store**.
 
-    ![Microsoft Endpoint Manager admin center showing how to search the App Store for a ServiceNow mobile app.](../image/intune-mdm-config-search-app-store.png)
+    ![Microsoft Endpoint Manager admin center showing how to search the App Store for a ServiceNow mobile app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-search-app-store.png)
 
 6.  Select the ServiceNow mobile app that you want to add.
 
@@ -43,12 +43,12 @@ Role required: Microsoft Intune admin
 
 8.  On the Assignments tab, add the specific groups or all users who will be using this app.
 
-    ![Microsoft Endpoint Manager admin center Assignments tab.](../image/intune-mdm-config-add-assignments.png)
+    ![Microsoft Endpoint Manager admin center Assignments tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-add-assignments.png)
 
 9.  Click **Next**.
 
 10. Review the information you entered and when you are finished, click **Create**.
 
 
-**Parent Topic:**[Intune mobile device management \(MDM\)](../concept/intune-mdm.md)
+**Parent Topic:**[Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/intune-mdm.md)
 

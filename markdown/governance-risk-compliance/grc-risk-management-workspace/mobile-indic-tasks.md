@@ -25,7 +25,7 @@ Assign an Indicator Task from the list of records. Alternatively, view the detai
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-risk-mobileapp.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-login-risk-mobileapp.md).
 
 2.  With the Risk landing screen displayed, under the `Team's Unassigned Work` section, tap **Indicator Tasks**.
 
@@ -33,7 +33,7 @@ Assign an Indicator Task from the list of records. Alternatively, view the detai
 
     The Indicator Tasks screen is displayed with a list of records.
 
-3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](mobile-risk-set-filters.md) to search for records that match specific search criteria.
+3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
@@ -47,7 +47,7 @@ Assign an Indicator Task from the list of records. Alternatively, view the detai
 
     The name of the user is displayed on the Assign Indicator Task screen. You can assign indicator tasks to any user.
 
-7.  Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+7.  Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
     After you assign the task to a user, the record is no longer displayed on the Indicator Tasks list.
 
@@ -69,7 +69,7 @@ Description
 
 </td><td>
 
-With the Details tab selected, to assign the record, at the top right of the screen, tap the menu icon \(![Menu icon](../../grc-common/image/mobile-top-menu.png)\). Follow the steps described in the preceding table.
+With the Details tab selected, to assign the record, at the top right of the screen, tap the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\). Follow the steps described in the preceding table.
 
 </td></tr><tr><td id="d381664e215">
 
@@ -77,8 +77,8 @@ With the Details tab selected, to assign the record, at the top right of the scr
 
 </td><td>
 
-With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
--   At the top right of the screen, tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\). Tap Assign. On the screen that is displayed, tap a user. Alternatively, enter text in the Search field. Tap the send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
+-   At the top right of the screen, tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\). Tap Assign. On the screen that is displayed, tap a user. Alternatively, enter text in the Search field. Tap the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 
 </td></tr><tr><td id="d381664e254">
@@ -96,5 +96,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/mobile-risk-overview.md)
 

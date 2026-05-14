@@ -33,7 +33,7 @@ You can use an existing or create an HR PDF document template. You can add signe
 
 3.  On the PDF Document Template form, set the **Template type** field to `HR PDF Templates`.
 
-    ![Set the Template type field to HR PDF Templates.](../image/hr-pdf-document-template-for-adhoc.png)
+    ![Set the Template type field to HR PDF Templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-pdf-document-template-for-adhoc.png)
 
 4.  Fill in the fields on the form, as appropriate.
 
@@ -124,5 +124,5 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 8.  Click **Update**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrating-with-adobe-sign-service.md)
 

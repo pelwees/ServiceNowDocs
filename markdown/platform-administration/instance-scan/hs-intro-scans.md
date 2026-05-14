@@ -17,8 +17,8 @@ Execute the different kinds of scans that Instance Scan offers to keep a check o
 
 **Note:** Instance Scan scans only customized records, but point scan scans all records including the default records.
 
-1.  [Execute scans](../task/hs-execute-point-scan.md): Execute the different types of scans available as per your requirements.
-2.  [Schedule scans](../task/hs-schedule-full-scan.md): Create a schedule to regularly trigger either a full or a suite scan even when you don’t have an active session.
-3.  [Monitor scans](../task/hs-progress-status-full-scan.md): Track the progress status of the executed and scheduled scans.
-4.  [Review scans](../reference/hs-review-scans.md): Review your executed scans with the findings and results components.
+1.  [Execute scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../task/hs-execute-point-scan.md): Execute the different types of scans available as per your requirements.
+2.  [Schedule scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../task/hs-schedule-full-scan.md): Create a schedule to regularly trigger either a full or a suite scan even when you don’t have an active session.
+3.  [Monitor scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../task/hs-progress-status-full-scan.md): Track the progress status of the executed and scheduled scans.
+4.  [Review scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-review-scans.md): Review your executed scans with the findings and results components.
 

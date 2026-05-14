@@ -57,12 +57,12 @@ Role that enables with the following permissions:-   Create and read access to t
 -   Change the status of registration to deregister a topic subscription.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Service Operations Management reference](components-installed-with-tsom.md)
+</table>**Parent Topic:**[Telecommunications Service Operations Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/components-installed-with-tsom.md)
 
 **Related topics**  
 
 
-[External event management via Telecommunications API notifications](../concept/telecommunications-api-notification.md)
+[External event management via Telecommunications API notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/telecommunications-api-notification.md)
 
-[Configuring Telecommunications API notifications](../concept/configuring-telecommunications-api-notifications.md)
+[Configuring Telecommunications API notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/configuring-telecommunications-api-notifications.md)
 

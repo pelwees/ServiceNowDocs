@@ -71,7 +71,7 @@ Category
 
 </td><td>
 
-[Data protection](sc-data-protection.md)
+[Data protection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 
 </td></tr><tr><td>
 
@@ -97,8 +97,8 @@ References
 
 </td><td>
 
--   [OAuth 2.0](../../security/concept/c_OAuthApplications.md)
--   [Manage OAuth tokens](../../security/task/t_ManageTokens.md)
+-   [OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/concept/c_OAuthApplications.md)
+-   [Manage OAuth tokens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/task/t_ManageTokens.md)
 
 </td></tr><tr><td>
 
@@ -109,5 +109,5 @@ Functional impact
 Ensures that oauth\_token.do processor accepts only POST body parameters as input for all supported grant types.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data protection](sc-data-protection.md)
+</table>**Parent Topic:**[Data protection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 

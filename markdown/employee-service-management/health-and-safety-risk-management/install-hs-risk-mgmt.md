@@ -30,7 +30,7 @@ The following items are installed with Health and Safety Risk Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Health and Safety Risk Management](../reference/components-installed-with-hs-risk-mgmt.md).
+For more information, see [Components installed with Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../reference/components-installed-with-hs-risk-mgmt.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Components installed with Health and Safety Risk Mana
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-setting-up-risk-mgmt.md)
 

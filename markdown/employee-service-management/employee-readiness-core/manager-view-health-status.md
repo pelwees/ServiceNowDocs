@@ -34,5 +34,5 @@ All users can view the health and safety status of their direct reports. However
 2.  View the specific list of requirements that a user has cleared or not cleared by clicking **View Details**.
 
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/employee-health-safety-status.md)
 

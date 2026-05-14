@@ -63,5 +63,5 @@ The following table lists the metrics that are gathered as output from Windows c
 |system.network.TCP\_RSC\_Coalesced\_Packets/sec| | |The large-packet receive rate across all TCP connections.|
 |system.network.TCP\_RSC\_Exceptions/sec| | |The RSC exception rate for received packets across all TCP connections.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

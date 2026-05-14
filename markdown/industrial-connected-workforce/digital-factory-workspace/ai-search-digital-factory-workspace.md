@@ -50,7 +50,7 @@ While synonym matching is predefined, you can also configure custom keywords, sy
 
 To learn more about the AI Search capability, see [Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md). The following image shows an example of AI Search results for a query run in the Digital Factory Workspace.
 
-![AI search all results page for the word 'brew' with the Deviations tab selected](../image/ai-search-workspace.png)
+![AI search all results page for the word 'brew' with the Deviations tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/ai-search-workspace.png)
 
-**Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)
+**Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 

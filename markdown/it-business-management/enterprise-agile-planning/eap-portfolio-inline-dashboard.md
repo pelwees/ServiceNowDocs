@@ -15,9 +15,9 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 The Portfolio dashboard provides a high-level view of all the active work items in your portfolio.
 
-![Portfolio Planning Inline dashboard.](../images/eap-portfolio-inline-dashboard.png)
+![Portfolio Planning Inline dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-portfolio-inline-dashboard.png)
 
-You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](configuring-eap-dashboard.md).
+You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configuring-eap-dashboard.md).
 
 ## Required EAP roles
 
@@ -77,7 +77,7 @@ Epics by state
 
 Bar graph
 
-![Epics by state.](../../../use/reporting/image/inline-data-vis-bar-column.png)
+![Epics by state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-bar-column.png)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Work item distribution
 
 Donut
 
-![Work item distribution.](../../../use/reporting/image/inline-data-vis-96px-donut.png)
+![Work item distribution.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-donut.png)
 
 </td><td>
 

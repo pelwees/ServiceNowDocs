@@ -19,27 +19,27 @@ The Workplace Concierge application is a Workplace Service Delivery application 
 
 <table id="table_qld_tw1_gvb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Concierge concepts and features.](explore-workplace-concierge.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Concierge concepts and features.](explore-workplace-concierge.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Workplace Concierge to get started.](configure-workplace-concierge.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Workplace Concierge to get started.](configure-workplace-concierge.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Concierge - Employee presence to enable employees to set routines.](use-workplace-concierge.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Concierge - Employee presence to enable employees to set routines.](use-workplace-concierge.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg)Manage employee routines and collaborators.](manage-workplace-concierge.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-headset.svg)Manage employee routines and collaborators.](manage-workplace-concierge.md)
 
 </td><td>
 
-[Components ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components installed and key features of Workplace Concierge.](workplace-concierge-reference.md)
+[Components ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components installed and key features of Workplace Concierge.](workplace-concierge-reference.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the forms and lists used in Workplace Concierge.](workplace-concierge-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the forms and lists used in Workplace Concierge.](workplace-concierge-reference.md)
 
 </td></tr></tbody>
 </table>

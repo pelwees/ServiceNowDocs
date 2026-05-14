@@ -58,10 +58,10 @@ Option to provide access to share documents with other users and groups. You can
 -   Group Permissions
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Associate an Architectural Artifact to a TRM product](../../task/eaw-task/eaw-assoicate-artifact-trm-prod.md)
+[Associate an Architectural Artifact to a TRM product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-assoicate-artifact-trm-prod.md)
 

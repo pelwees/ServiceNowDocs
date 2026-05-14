@@ -17,7 +17,7 @@ If the Palo Alto Networks firewall administrator is not using the ServiceNow AI 
 
 ## Before you begin
 
-In Palo Alto Networks, assign an EDL object, policy, and the source URL to the EDL you created. For more information about configuring the EDL to the Palo Alto Networks Next-Generation Firewall in Palo Alto Networks, see [Configure an EDL](paloalto-config_firewall_pa.md).
+In Palo Alto Networks, assign an EDL object, policy, and the source URL to the EDL you created. For more information about configuring the EDL to the Palo Alto Networks Next-Generation Firewall in Palo Alto Networks, see [Configure an EDL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-config_firewall_pa.md).
 
 Role required: sn\_si.admin
 
@@ -29,7 +29,7 @@ As the ServiceNow AI Platform security incident administrator, you are notified 
 
 1.  Navigate to **All** &gt; **Palo Alto Networks NGFW Integration** &gt; **Firewall EDL Configuration**.
 
-    ![Select Firewall EDL Configuration.](../image/4-30-fedl-nav.png)
+    ![Select Firewall EDL Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-fedl-nav.png)
 
 2.  Select the **Firewall EDL Configuration** module.
 
@@ -37,13 +37,13 @@ As the ServiceNow AI Platform security incident administrator, you are notified 
 
 4.  On the record that opens, select the **Active** check box.
 
-    ![Select Active check box.](../image/4-30-active-edl.png)
+    ![Select Active check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-active-edl.png)
 
 5.  Click **Update**.
 
     In the **Active** column of the Palo Alto Networks Firewall External Dynamic Lists list, `true` is displayed for the state of the EDL.
 
-    ![EDL activated (true) in Active column.](../image/4-30-edl-list-active.png)
+    ![EDL activated (true) in Active column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-edl-list-active.png)
 
 
 ## Result
@@ -54,8 +54,8 @@ The EDL is activated and ready to receive EDL entries
 
 Submit EDL entries from a security incident or from the blocklist.
 
--   **[Configure an EDL](paloalto-config_firewall_pa.md)**  
+-   **[Configure an EDL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-config_firewall_pa.md)**  
 The Palo Alto Networks firewall administrator configures an EDL to the Palo Alto Networks Next-Generation Firewall once notified the Retrieval URL is available from the ServiceNow AI Platform. Before the EDL can accept EDL entries, it must be configured in Palo Alto Networks, and activated in the ServiceNow AI Platform®.
 
-**Parent Topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](paloalto-activate-edl.md)
+**Parent Topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-activate-edl.md)
 

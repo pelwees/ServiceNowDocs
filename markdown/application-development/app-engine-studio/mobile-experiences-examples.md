@@ -19,9 +19,9 @@ A mobile experience enables users to access your application from a ServiceNow n
 
 The following example illustrates a sample mobile experience that you can build using the Mobile App Builder integration in App Engine Studio.
 
-![Sample mobile experience that includes an employee's work dashboard including analytics.](../image/aes-sample-mobile-experience-w.jpg)
+![Sample mobile experience that includes an employee's work dashboard including analytics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-sample-mobile-experience-w.jpg)
 
 For more examples of mobile experiences that you can build, see [Native Mobile Examples](https://horizon.servicenow.com/native-mobile/basics/examples).
 
-**Parent Topic:**[Add a mobile experience](../task/add-mobile.md)
+**Parent Topic:**[Add a mobile experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/add-mobile.md)
 

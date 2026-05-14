@@ -24,11 +24,11 @@ The AI Agent Advisor application is supported in the Now Assist Center workspace
 
 The Now Assist Center workspace provides features that enable you to set up of your AI solutions in a unified experience without switching between separate Now Assist applications.
 
-For more information, see [Now Assist Center workspace](now-assist-center-workspace.md).
+For more information, see [Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md).
 
 ## Licensing requirements
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 ## Application information
 
@@ -49,5 +49,5 @@ This store app has the following dependencies.
 |Generative AI Controller|sn\_generative\_ai|13.0.3|App|
 |Predictive Intelligence| |Platform version|Plugin|
 
-For more information, see [Configuring AI Agent Advisor](configuring-ai-agent-advisor.md).
+For more information, see [Configuring AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agent-advisor.md).
 

@@ -30,7 +30,7 @@ By bridging the gap between strategic planning and operational execution, this i
 
 The following infographic shows how the integration between SPW and Jira work in both the applications.
 
-![Working of SPW Jira integration between the two applications. For details, see the following description.](../images/jira-int-workflow.png)
+![Working of SPW Jira integration between the two applications. For details, see the following description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-workflow.png)
 
 -   One-to-One Mapping: Each Jira Project is directly mapped to an EAP Team.
 -   Bidirectional Sync of Work Items:
@@ -49,6 +49,6 @@ The following infographic shows how the integration between SPW and Jira work in
 
 To learn more about configuring and using SPW Jira Integrations, see:
 
--   [Configuring SPW Jira Integrations](configuring-spw-jira-integrations.md)
--   [SPW Jira Integrations reference](../reference/spw-jira-integrations-reference.md)
+-   [Configuring SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configuring-spw-jira-integrations.md)
+-   [SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/spw-jira-integrations-reference.md)
 

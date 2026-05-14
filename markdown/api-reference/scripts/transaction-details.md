@@ -17,7 +17,7 @@ The Script Debugger displays transaction details for the current paused user ses
 
 Transaction details are available in a dedicated resizeable section underneath the Call Stack on the bottom left of the Script Debugger.
 
-![Transaction details](../image/sd_transaction_details.png "Example transaction details")
+![Transaction details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/sd_transaction_details.png "Example transaction details")
 
 The Script Debugger only displays transaction details when it pauses on a script. Developers can use transaction details to:
 
@@ -26,12 +26,12 @@ The Script Debugger only displays transaction details when it pauses on a script
 -   Inspect network information about the current transaction.
 -   Inspect the user and session ID that initiated the debug transaction.
 
-**Parent Topic:**[Script Debugger user interface](../reference/parts-script-debugger-interface.md)
+**Parent Topic:**[Script Debugger user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/parts-script-debugger-interface.md)
 
 **Related topics**  
 
 
-[Available transaction details](transaction-details.md#)
+[Available transaction details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/transaction-details.md#)
 
 ## Available transaction details
 
@@ -60,5 +60,5 @@ The Script Debugger provides a standard set of transaction details for developer
 **Related topics**  
 
 
-[Transaction details](transaction-details.md#)
+[Transaction details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/transaction-details.md#)
 

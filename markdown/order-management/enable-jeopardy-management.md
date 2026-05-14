@@ -29,7 +29,7 @@ Use Workflow Studio to define which product, service, or resource specification 
 
 3.  In the **Specification** column under the **Conditions** section, select a product or service specification to link to Jeopardy Management.
 
-4.  In the **results** column, set the **Jeopardy Enabled** field to **True**.![Order Jeopardy Enablement Policy in Workflow Studio.](../image/jm-enablement-policy.png)
+4.  In the **results** column, set the **Jeopardy Enabled** field to **True**.![Order Jeopardy Enablement Policy in Workflow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/jm-enablement-policy.png)
 
     **Note:** Entries in this decision table are for top-level product or service specifications. In a single order, customers can purchase multiple top-level products or services. However, if any one of the products or services isn’t jeopardy-enabled, the entire order is treated as a non-jeopardy-enabled order.
 
@@ -40,5 +40,5 @@ Use Workflow Studio to define which product, service, or resource specification 
 
 ## What to do next
 
-After configuring Jeopardy Management, see [Monitoring order jeopardy](monitoring-jeopardy-management.md) to review different ways to monitor Jeopardy Management.
+After configuring Jeopardy Management, see [Monitoring order jeopardy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md) to review different ways to monitor Jeopardy Management.
 

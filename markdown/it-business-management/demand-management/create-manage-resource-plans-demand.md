@@ -29,13 +29,13 @@ Role required: it\_demand\_manager
 
 4.  On the Resource assignment new record form, fill in the fields.
 
-    For a description of the field names, see [New Resource Assignment form](../../resource-management-workspace/concept/create-ra-form-rmw.md).
+    For a description of the field names, see [New Resource Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../resource-management-workspace/concept/create-ra-form-rmw.md).
 
 5.  Select **Submit**.
 
 
--   **[Recalculate costs of resource assignments of a demand](recalculate-resource-costs-of-a-demand.md)**  
+-   **[Recalculate costs of resource assignments of a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/recalculate-resource-costs-of-a-demand.md)**  
 Recalculate the costs of all active resource assignments of a demand whenever the hourly rates change in the associated rate model so that the plan costs are up to date.
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

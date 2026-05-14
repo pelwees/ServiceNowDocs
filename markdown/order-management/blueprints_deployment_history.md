@@ -13,7 +13,7 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 Track the deployment history of blueprints in CPQ Admin. View details like deployment date, time, and user for troubleshooting and reference.
 
-![Deployments](../images/cpq-blueprints-deployment-history.png)
+![Deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-deployment-history.png)
 
 1.  To access the blueprint deployment history, click Blueprints in CPQ Admin.
 2.  On the Blueprints tab, the Deployments tile lets you view the deployment history for a selected blueprint.
@@ -23,5 +23,5 @@ Track the deployment history of blueprints in CPQ Admin. View details like deplo
 **Related topics**  
 
 
-[Viewing blueprint deployments](deployments_page.md)
+[Viewing blueprint deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/deployments_page.md)
 

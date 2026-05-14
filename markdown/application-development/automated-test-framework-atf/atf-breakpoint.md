@@ -31,7 +31,7 @@ Role required: admin
 
 5.  Select Add/Remove Breakpoint from the list.
 
-    ![Image showing how to add a breakpoint](../image/atf-add-breakpoint.png)
+    ![Image showing how to add a breakpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-add-breakpoint.png)
 
     The test step gets marked for the modified breakpoint.
 
@@ -39,7 +39,7 @@ Role required: admin
 
     The breakpoints you set on a test are user-specific. Other users can't see and modify your breakpoints on a test, and vice versa.
 
-    ![Image showing multiple breakpoints](../image/atf-multiple-breakpoints.png)
+    ![Image showing multiple breakpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-multiple-breakpoints.png)
 
     **Note:** You can set multiple breakpoints for a test but can have only 1 breakpoint every test step.
 
@@ -47,13 +47,13 @@ Role required: admin
 
 7.  Click **Debug Test** to run the test with breakpoints.
 
-    The Debug Test modal displays.![Image showing debug test modal](../image/atf-debug-test-modal.png)
+    The Debug Test modal displays.![Image showing debug test modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-debug-test-modal.png)
 
     -   Safari – the browser used to run the client-side steps of the selected test
     -   Pause before rollback – Option to pause the test just before rollback happens after the completion of the test
 8.  Analyze and debug the steps at which breakpoints have been implemented.
 
-    ![Image showing paused minutes and other options](../image/atf-debug-breakpoint.png)
+    ![Image showing paused minutes and other options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-debug-breakpoint.png)
 
     **Note:** Every breakpoint causes the running of the test to pause for 10 minutes. You can debug the test step within the allocated 10 minutes and then the test starts running again until it reaches the next breakpoint.
 
@@ -62,5 +62,5 @@ Role required: admin
     -   Continue: Test execution continues until the next breakpoint.
     -   Step over: Test pauses at every step. If you don’t want to pause in the current step, select the Step over option to jump to the next step.
 
-**Parent Topic:**[Implementing breakpoints](../concept/atf-breakpoints-rollback.md)
+**Parent Topic:**[Implementing breakpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-breakpoints-rollback.md)
 

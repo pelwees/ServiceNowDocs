@@ -35,7 +35,7 @@ The edit enhancement offers flexibility for managing the event tasks. The BCM ma
 -   Edit multiple recovery tasks in the **Task status**, **Actual start**, **Actual end**, **Assigned to**, **Assigned group**, and **Additional assignee** fields in the recovery tasks list at one go.
 -   Open a closed task for editing that was closed by mistake. For this scenario, the **Closed failed** task state is added to the tasks. Moving a task to the **Closed failed** state brings an entire exercise to a stop unless the program manager \(sn\_bcm.program\_manager\) unblocks the task and moves it to the **Closed complete** state.
 
-For more information on editing of tasks, see [Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md) and [Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md).
+For more information on editing of tasks, see [Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md) and [Structured workflows for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/perform-tasks-to-manage-crisis-events.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ For more information on editing of tasks, see [Structured workflows for exercise
 
     **Note:** The **Event tasks** tab is displayed for the exercise events when the exercise method is **Functional**.
 
-    When you add or update the plan to the exercise event, the related plans, assets, and tasks that are associated with the plan also get pulled into the event as shown in the example.![Event tasks with phases.](../image/event-tasks-w-phases.png)
+    When you add or update the plan to the exercise event, the related plans, assets, and tasks that are associated with the plan also get pulled into the event as shown in the example.![Event tasks with phases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-tasks-w-phases.png)
 
     You can update the phase of the event task from the list view. You can also create an ad-hoc task and then associate a phase with that event task.
 
@@ -55,13 +55,13 @@ For more information on editing of tasks, see [Structured workflows for exercise
 
     **Note:** When you add an ad-hoc task to the exercise event that is in the **Work in progress** state and if the activated plan is in the **Work in progress** state, the tasks get moved to the **Open** state. If the activated plan is the **Pending** state, the task moves to the **Pending** state.
 
-    For more information on the fields in the New Event Task form, see [Create New Event Task form](../reference/create-new-event-task-form-uib-ws.md).
+    For more information on the fields in the New Event Task form, see [Create New Event Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-event-task-form-uib-ws.md).
 
     **Note:** You cannot create an ad-hoc task for the activated plans that are in **Closed Complete** or **Closed Incomplete** state.
 
     The **Create New Event task** form is displayed.
 
-    ![Create New Event task form.](../image/create-new-event-task.png)
+    ![Create New Event task form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-event-task.png)
 
 4.  To exclude specific tasks from time calculation, select the **Do not include in time calculation** option.
 
@@ -73,7 +73,7 @@ For more information on editing of tasks, see [Structured workflows for exercise
 
     **Note:** If you have more than 500 tasks for an event or exercise, the planned times are not calculated automatically. A UI action named **Refresh tasks data** is shown. Select the UI action to refresh the Planned start date, Planned end date, and Order.
 
-    ![Refresh tasks data.](../image/refresh-tasks-data-in-events.png)
+    ![Refresh tasks data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/refresh-tasks-data-in-events.png)
 
 6.  To indicate the achieved recovery level of the impacted asset of the task, update **Asset recovery level**.
 
@@ -85,11 +85,11 @@ For more information on editing of tasks, see [Structured workflows for exercise
 
     The Asset recovery level column in the event task list view also features color coding, providing visual indicators for different recovery progress levels. Specifically, **Partially Recovered** is represented by an info color, and **Recovered** is represented by a success color, making it easier to track recovery status.
 
-    ![Event task list view.](../image/event-task-list-view-color.png)
+    ![Event task list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-list-view-color.png)
 
     If you open the Hierarchical view \(Gantt chart\), it shows the background colors for the partial recovery and recovery levels.
 
-    ![Hierarchical view.](../image/event-task-hier-gantt-view-color.png)![Asset Recovery Level column in event task.](../image/asset-reco-level-column-event-task.png)
+    ![Hierarchical view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-hier-gantt-view-color.png)![Asset Recovery Level column in event task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asset-reco-level-column-event-task.png)
 
     Completing specific tasks now automatically updates the corresponding event asset state. Assets are marked as **Partially Recovered** when they’re operational enough to support dependent assets, and **Recovered** when they’re fully functional. This change improves visibility into operational readiness and enables recovery coordinators to identify when dependent assets can safely start their recovery process.
 
@@ -98,8 +98,8 @@ For more information on editing of tasks, see [Structured workflows for exercise
     The event tasks are displayed in the **Event tasks** tab.
 
 
--   **[Create New Event Task form](../reference/create-new-event-task-form-uib-ws.md)**  
+-   **[Create New Event Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-event-task-form-uib-ws.md)**  
 Use the Create New Event Task form in BCM UIB Workspace to add details about an event task.
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

@@ -31,7 +31,7 @@ Photo search requires a Google Cloud / Firebase account to analyze images and re
 
 4.  From the project setup page, add an iOS or Android app to your project by selecting the **iOS** or **Android** button.
 
-    ![The Firebase homepage with highlighted iOS and Android buttons.](../image/firebase-add-app.png)
+    ![The Firebase homepage with highlighted iOS and Android buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/firebase-add-app.png)
 
 5.  In the **App setup** page, fill in the form to add an app to your Firebase project.
 
@@ -72,5 +72,5 @@ Photo search requires a Google Cloud / Firebase account to analyze images and re
 19. Click **Update**.
 
 
-**Parent Topic:**[Configure photo search](sg-configure-image-search.md)
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 

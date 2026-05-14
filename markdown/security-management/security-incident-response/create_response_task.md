@@ -25,7 +25,7 @@ Role required: sn\_si.analyst
 
 2.  Select **Create Response Task** from the UI actions.
 
-    ![Creating a response task](../image/new-response-task.png "Create Response Task")
+    ![Creating a response task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-response-task.png "Create Response Task")
 
 3.  Fill in the fields on the form, as appropriate.
 
@@ -134,12 +134,12 @@ Affected User
 The person affected by the security issue.
 
 </td></tr></tbody>
-</table>    ![New response task](../image/new-response-task-1.png)
+</table>    ![New response task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-response-task-1.png)
 
 4.  Select **Save**.
 
     The new Response Task \(SIT\) gets created.
 
 
-**Parent Topic:**[Security Incident Response Tasks](security-incident-response-tasks.md)
+**Parent Topic:**[Security Incident Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-tasks.md)
 

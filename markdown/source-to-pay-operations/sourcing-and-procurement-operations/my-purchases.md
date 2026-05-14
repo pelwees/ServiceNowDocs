@@ -19,63 +19,63 @@ As a shopper, you can view all the purchases made from your shopping account by 
 
 You can also track the progress of an order from the progress bar within the product details page, view its activity stream, review to-dos, add users to watchlist, and view and upload attachments associated with the purchase line or purchase order line. From **My purchases**, you can view details like quantity, amount, supplier contact information, product information, expected delivery date, delivery location, and so on. You can view some information such as product and service details in the **View by purchase** tab, some others such as delivery dates, delivery locations, and supplier contact details in the **View by line** tab, and some in both. You can view, sort, filter, and search from within your purchases.
 
--   **[Process visibility](process-visibility.md)**  
+-   **[Process visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-visibility.md)**  
 You can track the complete procurement process post request submission. The process steps and work items can be configured to meet your business requirements.
--   **[Purchase refinement options](../reference/purchase-refinement-options.md)**  
+-   **[Purchase refinement options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-refinement-options.md)**  
 You can refine your purchases through filtering, sorting, searching, and perform actions from the My purchases landing page.
--   **[Purchase highlights](purchase-highlights.md)**  
+-   **[Purchase highlights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-highlights.md)**  
 Your purchases, which include purchase requisitions, purchase requisition lines, purchase orders, purchase order lines, and sourcing requests, are highlighted with color coding to help you quickly understand their state and due date. The progress bar on these purchases follows a similar color coding.
--   **[Activity stream](activity-stream.md)**  
+-   **[Activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activity-stream.md)**  
 Track the updates on a selected purchase by navigating to the **Activity** tab. The activity stream shows the progress that your order has made since the time you placed it.
--   **[My to-dos and purchasing to-dos](../reference/my-todos-purchasing-todos.md)**  
+-   **[My to-dos and purchasing to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/my-todos-purchasing-todos.md)**  
 As a shopper, you can review to-dos from the **To-dos** tab.
--   **[My requests](my-requests.md)**  
+-   **[My requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-requests.md)**  
 As a shopper, you can view all the order revisions from your shopping account anytime by selecting My requests from your profile in Shopping Hub.
--   **[Multi-currency support in Shopping Hub](sh-multicurrency-overview.md)**  
+-   **[Multi-currency support in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sh-multicurrency-overview.md)**  
 Shoppers can view and select their local currency during shopping in Shopping Hub, providing a seamless multi-currency experience.
--   **[Purchase requisition line-level questions in Shopping Hub](prl-question-shoppinghub.md)**  
+-   **[Purchase requisition line-level questions in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/prl-question-shoppinghub.md)**  
 Line-level questions let procurement admins capture product-specific information during checkout, improving data accuracy and enabling flexible purchase requisition workflows.
--   **[Purchase on behalf of another user in Shopping Hub](purchase-on-behalf-sh.md)**  
+-   **[Purchase on behalf of another user in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-on-behalf-sh.md)**  
 Shoppers can purchase products and services on behalf of another user in Shopping Hub. When purchasing on behalf of another user, shoppers can also view the carts and purchases associated with that user. A shopper who is authorized to purchase on behalf of other users is referred to as a super shopper.
--   **[Decimal quantity support for service-based purchases in Shopping Hub](decimal-support-services.md)**  
+-   **[Decimal quantity support for service-based purchases in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/decimal-support-services.md)**  
 As a shopper, you can now specify decimal quantity values for service-based products when you create or edit a purchase requisition \(PR\) or purchase order \(PO\) in Shopping Hub.
 
-**Parent Topic:**[Explore Sourcing and Procurement Operations](exploring-spo.md)
+**Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
 **Related topics**  
 
 
-[Shopping Hub](shopping-hub-overview.md)
+[Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-[Shopping Hub Mobile](shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-mobile.md)
 
-[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
+[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 
-[Procurement Case Management](psd-overview.md)
+[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-[Source-to-Pay Workspace](procurement-specialist-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-specialist-workspace.md)
 
-[Spend and Savings Management](spo-spend-mgmt.md)
+[Spend and Savings Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
+[Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-[Understanding Punchout](punchout-overview.md)
+[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-[AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
+[AI Search for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ai-search-sourcing-procurement-operations.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/application-plugin-list.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 
-[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/service-portal-configuration-for-shoppinghub.md)
 
-[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/configure-supplier-punchout.md)
 
-[Customize your top suppliers on Shopping Hub](../task/customize-top-suppliers.md)
+[Customize your top suppliers on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/customize-top-suppliers.md)
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

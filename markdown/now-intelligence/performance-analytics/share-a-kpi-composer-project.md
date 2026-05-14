@@ -16,7 +16,7 @@ breadcrumb: [KPI Composer projects, Design your indicator solution, Configure fu
 You can share a KPI Composer project that you own or that you are responsible for. You can provide the user with either read-write or read-only access.
 
 Prerequisites
-:   [Create a KPI Composer project](create-kpi-composer-project.md)
+:   [Create a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-kpi-composer-project.md)
 
 ## Before you begin
 
@@ -36,16 +36,16 @@ When you share a project with the right to edit, that user has the same rights t
 
 4.  Type to search for either a group or a user.
 
-    ![Share tab of KPI Composer sidebar, with autocompleting user field](../image/kpi-composer-share.png)
+    ![Share tab of KPI Composer sidebar, with autocompleting user field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-composer-share.png)
 
 5.  Select either **Can view** or **Can edit** access.
 
 6.  Select **Share** or **Cancel**.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Previous topic:**[Write journal entries for a project](write-journal-entries-kpi-composer.md)
+**Previous topic:**[Write journal entries for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/write-journal-entries-kpi-composer.md)
 
-**Next topic:**[Export a KPI Composer project](export-kpi-composer-project.md)
+**Next topic:**[Export a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/export-kpi-composer-project.md)
 

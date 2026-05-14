@@ -30,5 +30,5 @@ Enabling the property turns off all user presence features.
 3.  Set the **Value** to **true**.
 
 
-**Parent Topic:**[User presence](../concept/c_UserPresence.md)
+**Parent Topic:**[User presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UserPresence.md)
 

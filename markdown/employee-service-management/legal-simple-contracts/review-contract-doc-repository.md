@@ -34,7 +34,7 @@ Access to a contract document is based on the following user roles and condition
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the list icon \(![List icon.](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **Simple Contracts**, select **Legal Contracts** .
 
@@ -67,10 +67,10 @@ Select the link in the Signed Contract list in the **Details** tab
 </td><td>
 
 1.  Select the attachment icon in the Counsel Assist sidebar.
-2.  In the Attachments section, select the actions icon \(![Actions icon.](../image/menu-icon.png)\) and then select **Download**.
+2.  In the Attachments section, select the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../image/menu-icon.png)\) and then select **Download**.
 
 
 </td></tr></tbody>
 </table>    -   If an external integration is active and published, open the external storage location to download the contract document by selecting the link in the Signed Contract list in the **Details** tab.
-    -   If an external storage integration is not available, select the attachment icon in the Counsel Assist sidebar and then in the Attachments section, click the actions icon \(![Actions icon.](../image/menu-icon.png)\) and select **Download**.
+    -   If an external storage integration is not available, select the attachment icon in the Counsel Assist sidebar and then in the Attachments section, click the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../image/menu-icon.png)\) and select **Download**.
 

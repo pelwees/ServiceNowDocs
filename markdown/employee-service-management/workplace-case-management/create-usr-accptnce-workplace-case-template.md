@@ -50,5 +50,5 @@ The Case template is created with user acceptance options enabled.
 
 ## What to do next
 
-Use the template in Workplace services where user acceptance is required. For more information about creating Workplace services, see [Create a Workplace service](create-workplace-service.md).
+Use the template in Workplace services where user acceptance is required. For more information about creating Workplace services, see [Create a Workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
 

@@ -23,23 +23,23 @@ For additional debug node logs, enable **com.glide.codesigning.tracking.debug** 
 
 Access the error message regarding to the signature validation failure, by navigating to **System Web Services** &gt; **Outbound** &gt; **REST Message** and opening the required REST message record.
 
-![REST message signature validation failure.](../image/CS-REST-logs.png "Signature validation failure on MID Server")
+![REST message signature validation failure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/CS-REST-logs.png "Signature validation failure on MID Server")
 
 **Note:** Error messages related to the ECC firewall rejections start with `ECC message execution denied`.
 
-![ECC queue input when signature validation fails.](../image/CS-ECC.png "ECC queue when signature validation fails on MID Server")
+![ECC queue input when signature validation fails.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/CS-ECC.png "ECC queue when signature validation fails on MID Server")
 
-![Error message when the ECC message is blocked.](../image/CS-ECC2.png "Error message when ECC message is blocked by the user rule")
+![Error message when the ECC message is blocked.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/CS-ECC2.png "Error message when ECC message is blocked by the user rule")
 
 ## JDBC probe
 
 When a JDBC data source with an invalid or missing signature is executed on a MID Server, an error message with the required details is displayed.
 
-![JDBC probe error message.](../image/CS-JDBC.png)
+![JDBC probe error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/CS-JDBC.png)
 
 **Source** also displays the details of the error message.
 
-![Error details in Source.](../image/CS-JDBC2.png)
+![Error details in Source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/CS-JDBC2.png)
 
 ## MID Server logs
 
@@ -51,5 +51,5 @@ To enable the detailed ECC firewall logging, increase the log level by setting t
 
 **Note:** If `boot-config.xml` is invalid, the MID Server fails to start and the failure details are logged in the MID agent logs.
 
-**Parent Topic:**[Code Signing reference](code-signing-reference.md)
+**Parent Topic:**[Code Signing reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-reference.md)
 

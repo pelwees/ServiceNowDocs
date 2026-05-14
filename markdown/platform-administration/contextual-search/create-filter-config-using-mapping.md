@@ -43,7 +43,7 @@ Resource configuration
 
 </td><td>
 
-Lookup icon ![Lookup icon to select a search context](../image/look-up-icon.png) to select a resource such as Knowledge Articles.
+Lookup icon ![Lookup icon to select a search context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/look-up-icon.png) to select a resource such as Knowledge Articles.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Option to activate the filter configuration.
 
 7.  In the Filter Conditions related list, click **New**.
 
-    ![Filter conditions](../image/cxs-filter-conditions.png)
+    ![Filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/cxs-filter-conditions.png)
 
 8.  In the form, fill in the fields.
 
@@ -97,5 +97,5 @@ Option to activate the filter configuration.
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Filter configuration for contextual search](../concept/filter-configuration-for-cxs.md)
+**Parent Topic:**[Filter configuration for contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/filter-configuration-for-cxs.md)
 

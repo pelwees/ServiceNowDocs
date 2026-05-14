@@ -15,7 +15,7 @@ breadcrumb: [Build a custom template, Use an app template, Create your app, Buil
 
 Assign permissions for developers to publish a custom template to the application repository or the ServiceNow Store. You can grant permissions to publish either a specific custom template or publish all existing custom templates in App Engine Studio \(AES\).
 
-**Parent Topic:**[Build a custom template](build-custom-template.md)
+**Parent Topic:**[Build a custom template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/build-custom-template.md)
 
 ## Assign permissions to publish an individual custom template
 
@@ -29,7 +29,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **Templates** &gt; **App Templates**.
 
-2.  Select the personalize List icon \(![Personalize list icon.](../../../administer/ui-builder/image/gear-icon.png)\).
+2.  Select the personalize List icon \(![Personalize list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/ui-builder/image/gear-icon.png)\).
 
 3.  Add the Package column by moving the **Package** value from the **Available** list to the **Selected** list and select **OK**.
 

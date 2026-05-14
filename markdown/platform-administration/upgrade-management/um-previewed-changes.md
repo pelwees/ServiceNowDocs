@@ -93,5 +93,5 @@ Related record
 Record that the changelist entry applies to
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Upgrade Preview tool in Upgrade Console](../concept/um-upgrade-preview-tool.md)
+</table>**Parent Topic:**[Upgrade Preview tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-upgrade-preview-tool.md)
 

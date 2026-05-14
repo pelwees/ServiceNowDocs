@@ -17,7 +17,7 @@ Add or remove artifacts from a release.
 
 ## Before you begin
 
-Make sure you have associated an artifact repository with the product. For more information, see [View and manage data from external tools](dpr-manage-product-ext-tool.md).
+Make sure you have associated an artifact repository with the product. For more information, see [View and manage data from external tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-product-ext-tool.md).
 
 Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
@@ -25,7 +25,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\).
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\).
 
 3.  Select a release from the list to open.
 
@@ -33,7 +33,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
     The **Artifacts** label is available when you select **Overview**, **Release scope**, or **Change requests**.
 
-    ![Number of artifacts listed on the Release form header.](../image/dpr-release-artifacts.png)
+    ![Number of artifacts listed on the Release form header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-artifacts.png)
 
 5.  On the Release Artifacts list view, add or remove artifacts.
 
@@ -75,5 +75,5 @@ A valid semantic version has the format as major.minor.patch. For example, 5.4.2
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage releases for digital products and services](dpr-manage-releases.md)
+**Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 

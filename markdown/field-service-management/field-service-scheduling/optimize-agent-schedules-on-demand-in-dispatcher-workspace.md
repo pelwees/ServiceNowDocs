@@ -17,9 +17,9 @@ Reassign tasks and maximize productivity by running Schedule Optimization on dem
 
 ## Before you begin
 
-Schedule Optimization must be activated. For more information, see [Activate Schedule Optimization](../task/schedule-optimization-engine-plugin.md).
+Schedule Optimization must be activated. For more information, see [Activate Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/schedule-optimization-engine-plugin.md).
 
-Intraday optimization must be configured. For more information, see [Configure intraday optimization](../task/configure-intraday-optimization.md).
+Intraday optimization must be configured. For more information, see [Configure intraday optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/configure-intraday-optimization.md).
 
 Role required: schedule\_optimization\_user
 
@@ -27,7 +27,7 @@ Role required: schedule\_optimization\_user
 
 Schedule Optimization can be configured to run the optimization engine in batches overnight or at selected intervals throughout the day. This procedure describes how dispatchers can run optimization on demand from Dispatcher Workspace.
 
-For more information on running the optimization engine automatically, see [Configuring Schedule Optimization](schedule-optimization-engine.md).
+For more information on running the optimization engine automatically, see [Configuring Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/schedule-optimization-engine.md).
 
 Schedule Optimization considers the agent's start and end locations from the **Resource Schedule Attributes** table for the given day.
 
@@ -53,5 +53,5 @@ Schedule Optimization doesn’t detect changes you make to agents or tasks durin
 **Related topics**  
 
 
-[Configure on demand optimization](../task/configure-on-demand-optimization.md)
+[Configure on demand optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/configure-on-demand-optimization.md)
 

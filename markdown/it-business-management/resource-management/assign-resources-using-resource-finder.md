@@ -29,19 +29,19 @@ AI resource finder helps resource and project managers identify the best-fit res
 -   Rationale: AI-generated explanation for the fit score.
 -   Availability: The availability of the resource for a task.
 
-For more information regarding how the Resource finder works and the resources are mapped, see [Resource finder](../concept/explore-rmw.md#section_kz2_fml_bjc).
+For more information regarding how the Resource finder works and the resources are mapped, see [Resource finder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/explore-rmw.md#section_kz2_fml_bjc).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
     Alternatively, you can view unassigned tasks using the Unassigned assignment requests widget from the overview dashboard.
 
-3.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Resource finder**.
+3.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Resource finder**.
 
-    ![Resource-finder-modal.](../../now-assist-spm/images/resource-finder-modal.png)
+    ![Resource-finder-modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../now-assist-spm/images/resource-finder-modal.png)
 
 4.  From Resource finder modal, select **Show monthly availability** toggle or weekly.
 
@@ -49,10 +49,10 @@ For more information regarding how the Resource finder works and the resources a
 
 6.  From Assign resources modal, review the allocations and distributions and select **Assign**.
 
-    ![assign-resources](../../now-assist-spm/images/assign-resources-ai.png)
+    ![assign-resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../now-assist-spm/images/assign-resources-ai.png)
 
     The resource is assigned to the task.
 
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

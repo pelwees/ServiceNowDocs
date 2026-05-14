@@ -23,9 +23,9 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
-3.  Select the expand row icon \(![Expand row icon.](../../image/ExpandIcon.png)\) next to the business application that you want to edit the associated project details for.
+3.  Select the expand row icon \(![Expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to the business application that you want to edit the associated project details for.
 
     A list of projects associated with that business application is displayed.
 
@@ -37,15 +37,15 @@ Role required: sn\_apm.apm\_analyst
 
 5.  On the Edit a project form, fill in the fields.
 
-    For a description of the field values, see [Edit a project form](../../reference/eaw-reference/eaw-edit-project-form.md).
+    For a description of the field values, see [Edit a project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-edit-project-form.md).
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 
 
-[Edit a demand associated with a business application](eaw-edit-a-demand-associated-with-a-business-application.md)
+[Edit a demand associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-edit-a-demand-associated-with-a-business-application.md)
 

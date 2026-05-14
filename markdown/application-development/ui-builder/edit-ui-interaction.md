@@ -23,7 +23,7 @@ Role required: ui\_builder\_admin
 
 When you create a UI interaction, you can return to the diagram editor to modify its flow. You can insert steps before or after existing steps, swap the outgoing event that connects one step to the next, delete events or steps you no longer need, update step configurations, and add or remove branches.
 
-**Important:** Before editing a UI interaction that is already in use, check the Settings and Usage pages to understand where the interaction is triggered. Consider duplicating the interaction before making changes to avoid unintended impacts to active pages or declarative actions. For information on duplicating an interaction, see [Duplicate a UI interaction](duplicate-ui-interaction.md).
+**Important:** Before editing a UI interaction that is already in use, check the Settings and Usage pages to understand where the interaction is triggered. Consider duplicating the interaction before making changes to avoid unintended impacts to active pages or declarative actions. For information on duplicating an interaction, see [Duplicate a UI interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/duplicate-ui-interaction.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ When you create a UI interaction, you can return to the diagram editor to modify
 
 3.  In the search field, enter the name of the interaction you want to edit.
 
-    ![UI interactions list with search field highlighted.](../image/uib-uii-search.png "UI interactions list")
+    ![UI interactions list with search field highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-search.png "UI interactions list")
 
 4.  Select the interaction from the search results.
 
@@ -63,7 +63,7 @@ Select **+** before the step, then choose a step from the toolbox. The step is i
 
 </td><td>
 
-![Inserting step before a step.](../image/uib-uii-insert-step-before.png)
+![Inserting step before a step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-insert-step-before.png)
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ If a step cannot be added at the selected location, it appears in the Unavailabl
 
 </td><td>
 
-![List of unavailable steps.](../image/uib-uii-unavailable-steps.png)
+![List of unavailable steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-unavailable-steps.png)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Select the step and select the delete icon ![](../image/uib-delete-event-mapping
 
 </td><td>
 
-![Delete a step.](../image/uib-uii-delete-step.png)
+![Delete a step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-delete-step.png)
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Insert an **And** step from the Logic section of the toolbox. Branches execute i
 
 </td><td>
 
-![Added an And branch.](../image/uib-uii-add-and-branch.png)
+![Added an And branch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-add-and-branch.png)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Insert an If/Else step from the Logic section of the toolbox. When inserted befo
 
 </td><td>
 
-![Insert If/Else logic.](../image/uib-uii-if-else.png)
+![Insert If/Else logic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-if-else.png)
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ Select the If branch and select the delete icon ![](../image/uib-delete-event-ma
 
 </td><td>
 
-![Delete If branch.](../image/uib-uii-delete-if-branch.png)
+![Delete If branch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-delete-if-branch.png)
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Select the event node on the diagram and choose which outgoing event continues t
 
 </td><td>
 
-![Swap outgoing events.](../image/uib-uii-swap-event.png)
+![Swap outgoing events.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-swap-event.png)
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Select the event on the diagram and select the delete icon ![](../image/uib-dele
 
 </td><td>
 
-![Delete the event.](../image/uib-uii-delete-event.png)
+![Delete the event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-delete-event.png)
 
 </td></tr></tbody>
 </table>6.  Select **Save**.
@@ -157,5 +157,5 @@ Select the event on the diagram and select the delete icon ![](../image/uib-dele
 
 The updated UI interaction is saved. Any page events or declarative actions that reference this interaction automatically use the updated flow the next time the interaction is triggered.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/uib-ui-interactions.md)
 

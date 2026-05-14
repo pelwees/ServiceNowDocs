@@ -21,7 +21,7 @@ Role required: none
 
 This method is used to extract text that precedes a specified find string up to a specified length. If the length is 0, it extracts text from the beginning of the string.
 
-You can configure the properties for the GetTextBefore component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the GetTextBefore component. For more information about these properties, see [Properties of the String Utilities components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-stringutil-prop.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You can configure the properties for the GetTextBefore component. For more infor
 
 2.  Drag the GetTextBefore component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the GetTextBefore component to the corresponding ports of the other components as described in the following table.
 
@@ -101,5 +101,5 @@ Connects to the Control In port of another component or the default end componen
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/string-utilities.md)
 

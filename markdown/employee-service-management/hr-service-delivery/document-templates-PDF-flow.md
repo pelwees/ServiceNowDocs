@@ -24,10 +24,10 @@ You can create a PDF document template either:
 
 The following flow describes how you can use a PDF document template from configuring the template until filling, signing, reviewing, and generating a PDF document.
 
--   [Configure a PDF document template](../task/configure-editable-pdf.md).
--   [Create participants for a PDF document template](../task/create-participant.md).
--   [Define a PDF field mapping](../task/edit-pdf-mappings.md).
--   [Mark a signature block](../task/mark-signature-doctemp.md).
+-   [Configure a PDF document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-editable-pdf.md).
+-   [Create participants for a PDF document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-participant.md).
+-   [Define a PDF field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/edit-pdf-mappings.md).
+-   [Mark a signature block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/mark-signature-doctemp.md).
 -   Publish the PDF document template.
--   [Document tasks generation](../task/task-mapped-participants.md).
+-   [Document tasks generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/task-mapped-participants.md).
 

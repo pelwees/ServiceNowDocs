@@ -39,5 +39,5 @@ Role required: change\_manager
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Create a Change model](create-a-change-model.md)
+**Parent Topic:**[Create a Change model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md)
 

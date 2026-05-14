@@ -17,7 +17,7 @@ The approval summarizer formatter creates the summary at the bottom of an approv
 
 The approval summarizer displays full information for the record used to request approval.
 
-![The approval summarizer displays information from the original request directly in the approval request.](../image/SummaryOfAChangeRequest.png "Summary of a change request")
+![The approval summarizer displays information from the original request directly in the approval request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/SummaryOfAChangeRequest.png "Summary of a change request")
 
 The **Reject** button allows the approver to deny one or more requested items in a multi-item request, before approving the overall request. If a requested item is denied, the workflow for that item never starts. The approver can then choose to **Accept** the item.
 

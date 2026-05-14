@@ -83,12 +83,12 @@ The multi-language search feature is available when more than one supported lang
 </td></tr></tbody>
 </table>**Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-pages.md).
 
-**Parent Topic:**[Using the homepage of Knowledge Management v3](../concept/c_KnowledgeHomepage.md)
+**Parent Topic:**[Using the homepage of Knowledge Management v3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/c_KnowledgeHomepage.md)
 
 **Related topics**  
 
 
-[Knowledge Management properties](r_KnowledgeProperties.md#)
+[Knowledge Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md#)
 

@@ -20,13 +20,13 @@ To fix a Discovery sensor error message, you must fix the JavaScript file contai
 Verify the following:
 
 -   You have access to the Discovery Definition modules.
--   You have completed the steps in [Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md).
+-   You have completed the steps in [Find the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md).
 
 Role required: admin
 
 ## About this task
 
-Use the sensor name and stack trace you identified in [Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md) to locate the failing code. The stack trace provides the line number and function name where the error occurred.
+Use the sensor name and stack trace you identified in [Find the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md) to locate the failing code. The stack trace provides the line number and function name where the error occurred.
 
 **Note:** The exact fix depends on the specific sensor and payload. This topic describes where and how to fix the error, not specific code changes. Contact ServiceNow Support for complex cases.
 
@@ -51,14 +51,14 @@ Use the sensor name and stack trace you identified in [Find the cause of a senso
 
 Rerun Discovery to verify the sensor no longer generates the error. If the error persists after applying the fix, contact ServiceNow Support and provide the full stack trace, the sensor name, and a description of the changes you made.
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 
 
-[Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md)
+[Find the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md)
 
-[Find the cause of a "No Sensor Defined" error message](t_IdentifyCauseNoSenDefEM.md)
+[Find the cause of a "No Sensor Defined" error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_IdentifyCauseNoSenDefEM.md)
 
-[Find the cause of a "Probe not found" error](t_FindTheCauseOfAProbeNotFoundError.md)
+[Find the cause of a "Probe not found" error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfAProbeNotFoundError.md)
 

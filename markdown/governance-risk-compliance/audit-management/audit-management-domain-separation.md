@@ -48,7 +48,7 @@ While GRC supports separation of data, separation of logic and process is not fu
 
     For example, suppose you have domains that look like:
 
-    ![Domain separation in GRC Audit Management application.](../../grc-policy-and-compliance/image/domain-separation-pc.png)
+    ![Domain separation in GRC Audit Management application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-policy-and-compliance/image/domain-separation-pc.png)
 
 
 -   If you have a risk or control that you want to be assessed by users in domains A and B, the risk or control should be generated or manually created at the global level. If the risk or control is created in Domain B, you will not be able to recreate the risk or control in Domain A due to indexing.
@@ -115,7 +115,7 @@ The following changes are made to the domain assignment process to manage data s
 |Observation|Engagement|
 |Plan|User|
 
-**Parent Topic:**[Audit Management reference](../reference/audit-management-reference.md)
+**Parent Topic:**[Audit Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../reference/audit-management-reference.md)
 
 **Related topics**  
 

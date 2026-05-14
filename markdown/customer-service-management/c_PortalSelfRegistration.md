@@ -13,7 +13,7 @@ breadcrumb: [Use Customer Service Portal, Customer communication, Use, Customer 
 
 The self-registration feature enables new customer contacts to submit registration requests through the customer portal.
 
-A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [Approve a change request, or registration request](../task/approve-request-from-cust-portal.md).
+A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [Approve a change request, or registration request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/approve-request-from-cust-portal.md).
 
 If an account has multiple customer administrators, they all receive the registration request, but only one approval is necessary.
 
@@ -21,7 +21,7 @@ The request is either accepted or rejected. If accepted, a new account is create
 
 **Note:** If a request is submitted with an incorrect registration code, a notification message appears `Invalid Registration Code`.
 
-![A self-registration form with various fields for customer contact information.](../image/customer-self-registration.png "Customer contact self-registration form")
+![A self-registration form with various fields for customer contact information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-self-registration.png "Customer contact self-registration form")
 
 The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the Account form. After the code is created, customer administrators can distribute the code to customers as needed.
 

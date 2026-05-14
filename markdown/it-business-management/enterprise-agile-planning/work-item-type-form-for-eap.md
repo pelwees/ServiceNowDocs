@@ -66,12 +66,12 @@ Select **EAP planning item**.
 |------------------|
 |Enable the **Can read**, **Can create**, **Can update**, and **Can delete** fields.|
 
-**Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
+**Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
 **Related topics**  
 
 
-[Create a custom work item type in EAP](../task/create-custom-work-item-type-in-eap.md)
+[Create a custom work item type in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../task/create-custom-work-item-type-in-eap.md)
 
-[Agile configurations in EAP](../concept/agile-configurations-in-eap.md)
+[Agile configurations in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/agile-configurations-in-eap.md)
 

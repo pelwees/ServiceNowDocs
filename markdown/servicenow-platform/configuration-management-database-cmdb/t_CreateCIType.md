@@ -102,7 +102,7 @@ Principal Class
 
 </td><td>
 
-Denotes whether this class is included in the [Principal Class filter](update-principal-class-filter.md). If this class is included in the Principal Class filter, then CIs from this class appear in CI list views when the Principal Class filter is applied.
+Denotes whether this class is included in the [Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-principal-class-filter.md). If this class is included in the Principal Class filter, then CIs from this class appear in CI list views when the Principal Class filter is applied.
 
 </td></tr></tbody>
 </table>6.  On the **Add Attributes** tab, click the + sign and enter details for each new class column.
@@ -113,17 +113,17 @@ Denotes whether this class is included in the [Principal Class filter](update-pr
 
 8.  On the **Set Identification Rule** tab, examine the **Derived** identification rule and its **Identifier Entries**.
 
-    You can click **Replace** to replace the derived rule with a new identification rule and new identifier entries specific to the new class. See [Identification rules](t_CreateCIIdentificationRule.md) for details about identification rules and identifier entries.
+    You can click **Replace** to replace the derived rule with a new identification rule and new identifier entries specific to the new class. See [Identification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md) for details about identification rules and identifier entries.
 
-9.  On the **Dependencies** tab, click **Add dependency** to add [dependent rules](../concept/c_ServiceRulesMetadata.md).
+9.  On the **Dependencies** tab, click **Add dependency** to add [dependent rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_ServiceRulesMetadata.md).
 
     The **Dependencies** tab appears only if there are dependent identification rules for the selected class.
 
 10. On the **Add Reconciliation Rules** tab, click **Add** to create the following rules:
 
-    1.  [Reconciliation Rules](../concept/create-reconciliation-rule.md#)
+    1.  [Reconciliation Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/create-reconciliation-rule.md#)
 
-    2.  [Data Refresh Rules](create-datasource-staleness-rule.md)
+    2.  [Data Refresh Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-datasource-staleness-rule.md)
 
 11. On the **Add Suggested Relationships** tab, review the diagram of the class derived suggested relationships.
 
@@ -142,24 +142,24 @@ Denotes whether this class is included in the [Principal Class filter](update-pr
 14. Click **Done**.
 
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_RelatedListsOfCIComponents.md)
 
-[Reclassify a CI](t_ManuallyReclassifyCI.md)
+[Reclassify a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ManuallyReclassifyCI.md)
 
-[Delete CIs](delete-class-records-ci-class-mgr.md)
+[Delete CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/delete-class-records-ci-class-mgr.md)
 
-[View and edit class definitions and metadata](t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-principal-class-filter.md)
 
-[CMDB Identification and Reconciliation \(IRE\)](../concept/c_CMDBIdentifyandReconcile.md)
+[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBIdentifyandReconcile.md)
 

@@ -19,7 +19,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
 ## About this task
 
-The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [Using multiple encryption modules](../../encryption/concept/using-multiple-encryption-modules.md). This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
+The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [Using multiple encryption modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/using-multiple-encryption-modules.md). This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
 
 **Note:** Only encryption on columns supports multiple modules. Attachment encryption doesn’t. Mass encryption isn’t available when using the multiple encryption modules method.
 
@@ -35,7 +35,7 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 2.  Navigate to **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configurations** &gt; **New**.
 
-    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](../../encryption/task/set-encrypted-field-config.md).
+    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/task/set-encrypted-field-config.md).
 
 3.  In the **Type** field, you must select **Column**.
 
@@ -43,7 +43,7 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 4.  Select **Multiple Modules** in the **Method** field.
 
-    ![Multiple Modules selected as the method Encrypted Field Configurations.](../../encryption/image/EFC-multi-modules.png)
+    ![Multiple Modules selected as the method Encrypted Field Configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/image/EFC-multi-modules.png)
 
 5.  Select the **Table** and the **Column** in the table that you want to encrypt.
 
@@ -71,9 +71,9 @@ To encrypt the Short Description column on the Incident table. You would do the 
     Although all users with the HR and Sales roles have access to incidents, only a user with the HR role can decrypt and view the short description for those incidents created by user A, who had the HR role. Likewise, only users with the Sales role can decrypt and view the short descriptions for those incidents created by the user B, who had the Sales role.
 
 
-![Shows a diagram of multiple modules.](../image/MultipleModules.png)
+![Shows a diagram of multiple modules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/MultipleModules.png)
 
-**Parent Topic:**[Using multiple encryption modules](../../encryption/concept/using-multiple-encryption-modules.md)
+**Parent Topic:**[Using multiple encryption modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/using-multiple-encryption-modules.md)
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/using-column-level-encryption-2.md)
 

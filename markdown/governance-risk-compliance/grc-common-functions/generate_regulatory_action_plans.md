@@ -22,7 +22,7 @@ Generate regulatory action plans by using the generate regulatory action plan ag
 
 Role required: sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user
 
-Impacted areas must be associated with the regulatory alert. If no impacted areas are associated with the alert, the workflow returns a validation message and no tasks are created. For more information on adding impacted areas, see [Add impacted areas manually to a regulatory alert](add-impacted-area-reg-alert.md).
+Impacted areas must be associated with the regulatory alert. If no impacted areas are associated with the alert, the workflow returns a validation message and no tasks are created. For more information on adding impacted areas, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md).
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
@@ -66,11 +66,11 @@ Description
 
 </td><td>
 
-After initiating the generate regulatory action plan agentic workflow, it creates structured change tasks and action tasks based on the impacted areas identified in the alert and patterns from similar historical alerts.![Details on initiating the get regulatory alerts workflow in the Now Assist panel.](../image/generate-regulatory-action-plan.png)
+After initiating the generate regulatory action plan agentic workflow, it creates structured change tasks and action tasks based on the impacted areas identified in the alert and patterns from similar historical alerts.![Details on initiating the get regulatory alerts workflow in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/generate-regulatory-action-plan.png)
 
  On the Now Assist panel, ask the agent to create regulatory change and action task records by selecting `Yes`.
 
-![Details on the get regulatory alerts workflow outcome in the Now Assist panel.](../image/generate-regulatory-action-plan-2.png)
+![Details on the get regulatory alerts workflow outcome in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/generate-regulatory-action-plan-2.png)
 
 **Note:**
 
@@ -86,7 +86,7 @@ After initiating the generate regulatory action plan agentic workflow, it create
 
 In the Now Assist panel, ask the agent to dismiss the regulatory change and action task record creation by entering `No`.
 
- ![Details on the get regulatory alerts workflow dismissal in the Now Assist panel.](../image/generate-regulatory-action-plan-3.png)
+ ![Details on the get regulatory alerts workflow dismissal in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/generate-regulatory-action-plan-3.png)
 
  **Note:**
 
@@ -104,16 +104,16 @@ In the Now Assist panel, ask the agent to dismiss the regulatory change and acti
 
 Navigate to the **Regulatory tasks** tab to review, assign, or delete the generated tasks. You can manage all tasks created by the workflow from this tab. Only change and action tasks in the New state can be deleted manually from a regulatory alert. You can assign tasks to users and update task details for tasks in the New and In Progress state.
 
-For more information on tasks, see [Regulatory change tasks](../../grc-rcm/concept/regulatory-change-tasks.md) and [Action tasks in Regulatory Change Management](../../grc-rcm/concept/action-tasks.md).
+For more information on tasks, see [Regulatory change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/regulatory-change-tasks.md) and [Action tasks in Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/action-tasks.md).
 
 **Related topics**  
 
 
-[Using agentic workflows in IRM](../../grc-common/concept/using-agentic-ai-workflows.md)
+[Using agentic workflows in IRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/concept/using-agentic-ai-workflows.md)
 
-[Activate the generate regulatory action plan agentic workflow](activate-rcm-agent-actions-workflow.md)
+[Activate the generate regulatory action plan agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-rcm-agent-actions-workflow.md)
 
-[Add impacted areas manually to a regulatory alert](add-impacted-area-reg-alert.md)
+[Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md)
 
-[Accept or dismiss recommendations for regulatory alert impacted citations](manage-recommendation-reg-alert.md)
+[Accept or dismiss recommendations for regulatory alert impacted citations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-recommendation-reg-alert.md)
 

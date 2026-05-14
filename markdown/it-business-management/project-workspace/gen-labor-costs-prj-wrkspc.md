@@ -27,12 +27,12 @@ Role required: it\_project\_manager
 
 2.  Select **Financials** from the left menu.
 
-3.  Select **Generate labor costs** \(![Generate labor costs button.](../../spw-financials/images/financials-gen-labor-costs.png)\).
+3.  Select **Generate labor costs** \(![Generate labor costs button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/financials-gen-labor-costs.png)\).
 
 4.  Select **Generate** on the Generate labor costs confirmation window.
 
-    **Note:** Alternatively, you can [activate a scheduled job](../../spw-financials/task/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
+    **Note:** Alternatively, you can [activate a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/task/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
 
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/using-financials-prj-wrkspc.md)
 

@@ -22,7 +22,7 @@ Use the software asset overview view to:
 
 Click any widget to view detailed information. All the widgets are updated whenever a new reconciliation result is available.
 
-![Software asset overview landing page](../image/software-asset-overview-samf.png "Software asset overview dashboard")
+![Software asset overview landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../image/software-asset-overview-samf.png "Software asset overview dashboard")
 
 <table id="table_nq2_bjl_2qb"><thead><tr><th>
 
@@ -73,5 +73,5 @@ Product Results\[samp\_product\_result\]
 Cost to be compliant based on the average prices in entitlements for the rights by publisher.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](using-samf-workspace.md)
+</table>**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)
 

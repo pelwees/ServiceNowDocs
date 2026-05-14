@@ -33,19 +33,19 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Flow analysis
 
-![Flow execution analysis sidebar option.](../images/flow-execution-analysis-animated.gif)
+![Flow execution analysis sidebar option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-execution-analysis-animated.gif)
 
 You can generate and view a flow execution analysis from the Workflow Studio sidebar.
 
-![Flow execution analysis sidebar option.](../images/flow-execution-analysis-01.png)
+![Flow execution analysis sidebar option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-execution-analysis-01.png)
 
 From the Analysis sidebar, you can generate an analysis of the flow execution details. A flow that has never been analyzed displays a **Analyze flow** button.
 
-![Analyze flow option.](../images/flow-execution-analysis-02.png)
+![Analyze flow option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-execution-analysis-02.png)
 
 An existing flow analysis lists its creation date.
 
-![A summary of the Change - Standard flow, which also lists a creation date.](../images/flow-execution-analysis-03.png)
+![A summary of the Change - Standard flow, which also lists a creation date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-execution-analysis-03.png)
 
 You can regenerate a flow execution analysis from the Analysis sidebar.
 
@@ -57,5 +57,5 @@ Flow execution analysis requires flow execution details to analyze. When flow re
 
 This application uses artificial intelligence \(AI\) and machine learning, which are rapidly evolving fields of study that generate predictions based on patterns in data. As a result, this application may not always produce accurate, complete, or appropriate information. Furthermore, there is no guarantee that this application has been fully trained or tested for your use case. To mitigate these issues, it is your responsibility to test and evaluate your use of this application for accuracy, harm, and appropriateness for your use case, employ human oversight of output, and refrain from relying solely on AI-generated outputs for decision-making purposes. This is especially important if you choose to deploy this application in areas with consequential impacts such as healthcare, finance, legal, employment, security, or infrastructure. You agree to abide by [ServiceNow’s AI Acceptable Use Policy](https://www.servicenow.com/ai-acceptable-use-policy.html), which may be updated by ServiceNow.
 
-**Parent Topic:**[Flow execution analysis](../reference/flow-execution-analysis-landing.md)
+**Parent Topic:**[Flow execution analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-execution-analysis-landing.md)
 

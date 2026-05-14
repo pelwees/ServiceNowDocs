@@ -27,16 +27,16 @@ If you haven't manually allocated user-based subscriptions before, allocations a
 
 1.  Before the renewal date, monitor the subscription end dates on the details page and document the current group allocations.
 
-    See [Viewing product subscription details in Subscription Management](../concept/subscription-details-v2.md).
+    See [Viewing product subscription details in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/subscription-details-v2.md).
 
 2.  After the renewal date, add the documented groups to the renewed subscription in Subscription Management.
 
-    See [Allocate subscriptions in Subscription Management](allocate-subscriptions-v2.md).
+    See [Allocate subscriptions in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/allocate-subscriptions-v2.md).
 
 
 ## What to do next
 
 Continue to monitor subscription renewal dates to ensure that your allocations are accurate throughout each renewal.
 
-**Parent Topic:**[Managing per-user subscriptions in Subscription Management](../concept/managing-user-subscriptions-v2.md)
+**Parent Topic:**[Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/managing-user-subscriptions-v2.md)
 

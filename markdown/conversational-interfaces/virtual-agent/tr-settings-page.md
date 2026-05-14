@@ -17,11 +17,11 @@ Use the Topic Recommendations settings page to configure analysis reports based 
 
 You can find the Topic Recommendations settings in the Conversational Interfaces Chat Settings \(**All** &gt; **Conversational Interfaces** &gt; **Settings**\) under Virtual Agent. When you first install Topic Recommendations, nothing is configured, so the settings page appears empty.
 
-![The Topic Recommendations settings page is empty until you configure reports.](../images/tr-settings-new-install.png "Empty Topic Recommendations settings page")
+![The Topic Recommendations settings page is empty until you configure reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-settings-new-install.png "Empty Topic Recommendations settings page")
 
 Once configured, you can view or edit analysis reports on this page.
 
-![The Topic Recommendations settings page with two configured reports by data source: sc_request and incident.](../images/tr-settings-configured.png "Configured Topic Recommendations settings")
+![The Topic Recommendations settings page with two configured reports by data source: sc_request and incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-settings-configured.png "Configured Topic Recommendations settings")
 
 ## Topic Recommendations analysis settings
 
@@ -85,5 +85,5 @@ The schedule for running the analysis, which is triggered through the Run Topic 
 </table>**Related topics**  
 
 
-[Configure analysis reports for Topic Recommendations](../task/define-tr-settings.md)
+[Configure analysis reports for Topic Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/define-tr-settings.md)
 

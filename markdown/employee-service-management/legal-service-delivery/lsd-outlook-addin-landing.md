@@ -19,19 +19,19 @@ The ServiceNow® Microsoft Outlook Add-In for Legal Service Delivery enables you
 
 <table id="table_p5b_vh5_vbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Microsoft Outlook Add-In for Legal Service Delivery to submit legal requests and matters from within Microsoft Outlook](lsd-outlook-addin-use.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Microsoft Outlook Add-In for Legal Service Delivery to submit legal requests and matters from within Microsoft Outlook](lsd-outlook-addin-use.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](lsd-outlook-addin-refrence.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, plugins, and store applications that are installed.](lsd-outlook-addin-refrence.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

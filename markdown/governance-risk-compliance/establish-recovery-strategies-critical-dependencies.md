@@ -23,13 +23,13 @@ As a program manager, you can check if there are recovery strategies for various
 
 When you see the details of a loss scenario associated to a plan, you can also view the assets that are attached to the plan, and the recovery strategies for each of these assets. For example, NYC datacenter can be a related asset for a datacenter outage loss scenario of a customer support plan. You can create a recovery strategy by estimating the time to implement the strategy to get the NYC datacenter up and running.
 
-![Strategy coverage for a related asset](../image/AssetRecoveryStrategy.png "Strategy coverage for related assets")
+![Strategy coverage for a related asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AssetRecoveryStrategy.png "Strategy coverage for related assets")
 
 ## Procedure
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  Click the **In Draft** state in the Planning list.
 
@@ -41,7 +41,7 @@ When you see the details of a loss scenario associated to a plan, you can also v
 
 7.  To add a related asset to the existing list of assets that can be impacted and dependent on the plan loss scenario, click the **Related Asset Dependencies** tab.
 
-    For more information, see [Identify loss scenarios and align them to a business continuity plan](loss-scenarios-align-with-bcp.md#rel-asset-dependencies).
+    For more information, see [Identify loss scenarios and align them to a business continuity plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/loss-scenarios-align-with-bcp.md#rel-asset-dependencies).
 
 8.  To remove an asset from the plan, select the item and click **Remove**.
 
@@ -57,6 +57,6 @@ When you see the details of a loss scenario associated to a plan, you can also v
 
 10. To add a recovery task to the recovery strategy of a plan’s loss scenario, click the **Recovery Tasks** tab.
 
-    You can create a recovery task at the recovery strategy level and also at the plan level. See: [Create, update, and group recovery tasks](bcp-recovery-tasks-grid.md#create-rec-task).
+    You can create a recovery task at the recovery strategy level and also at the plan level. See: [Create, update, and group recovery tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-recovery-tasks-grid.md#create-rec-task).
 
 

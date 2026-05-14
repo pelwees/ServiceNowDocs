@@ -23,7 +23,7 @@ Role required: atf\_test\_admin
 
 This example tests a business rule that sets the value of **Locked out** to **true** when **active** is set to **false**.
 
-![Test steps](../image/atf-biz-rule-use-small.png "Automated Test Framework: Business rule example")
+![Test steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-biz-rule-use-small.png "Automated Test Framework: Business rule example")
 
 ## Procedure
 
@@ -31,30 +31,30 @@ This example tests a business rule that sets the value of **Locked out** to **tr
 
     In this example, the step impersonates the admin user.
 
-    ![Form for Impersonate](../image/atf-use-biz-rule-01.png "Step 1 - Impersonate")
+    ![Form for Impersonate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-biz-rule-01.png "Step 1 - Impersonate")
 
 2.  Open a form for the table to which this business rule applies.
 
     This example opens a new User form.
 
-    ![Form for Open a New Form](../image/atf-use-biz-rule-02.png "Step 2 - Open a New Form")
+    ![Form for Open a New Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-biz-rule-02.png "Step 2 - Open a New Form")
 
 3.  Set values on the form that meet the requirements for submitting the form and for triggering the business rule.
 
     This example sets values for the **Active**, **Last name**, and **First name** fields.
 
-    ![Form for Set Field Values](../image/atf-use-biz-rule-03.png "Step 3 - Set Field Values")
+    ![Form for Set Field Values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-biz-rule-03.png "Step 3 - Set Field Values")
 
 4.  Submit the form.
 
-    ![Form for Submit Form](../image/atf-use-biz-rule-04.png "Step 4 - Submit Form")
+    ![Form for Submit Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-biz-rule-04.png "Step 4 - Submit Form")
 
 5.  Validate that the business rule ran.
 
     In this example the business rule tested sets **Locked out** to **true** if **Active** is set to **false**.
 
-    ![Form for Field Values Validation](../image/atf-use-biz-rule-05.png "Step 5 - Field Values Validation")
+    ![Form for Field Values Validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-biz-rule-05.png "Step 5 - Field Values Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-use-cases.md)
 

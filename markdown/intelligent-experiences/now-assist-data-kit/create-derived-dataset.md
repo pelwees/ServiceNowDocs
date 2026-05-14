@@ -31,7 +31,7 @@ After you add a dataset to the data catalog, you can create a smaller dataset or
 
 3.  Add information for the new derived dataset.
 
-    ![Create derived dataset form](../image/nadk-derived-dataset.png)
+    ![Create derived dataset form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../image/nadk-derived-dataset.png)
 
 4.  |Field|Description|
 |-----|-----------|

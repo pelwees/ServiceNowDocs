@@ -65,7 +65,7 @@ Order
 
 Field used for sorting the order of the assessment rating. Based on the Importance and Impact Assessment score, the application selects the corresponding rating.
 
-![Rating scales.](../image/or-rating-scales.png)
+![Rating scales.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/or-rating-scales.png)
 
 </td></tr><tr><td>
 

@@ -190,12 +190,12 @@ Proposed delivery quantity
 Revised delivery quantity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Purchase Order Management reference](purchase-order-mgmt-reference.md)
+</table>**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Purchase order exception form](purch-order-exception-form.md)
+[Purchase order exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form.md)
 
-[Delivery plan change form](create-delivery-plan-change.md)
+[Delivery plan change form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-delivery-plan-change.md)
 

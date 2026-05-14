@@ -28,7 +28,7 @@ Use a replacement filter to anonymize sensitive data for either the details of a
 -   Replace the details of a native application to prevent the Task Mining agent from collecting any information from a specific application while still collecting correct timestamps of activities. For example, you might not want to collect any data from workstation users working in a native app supporting payroll data.
 -   Replace a page in any of its occurrences to prevent the Task Mining agent from collecting sensitive information from a specific page in any application. For example, you might not want to collect data from a personal payslip page through whatever browser workstation users use.
 
-The Event Field Replacement Value anonymization value affects the output of this filter. For more information, see [Define Task Mining anonymization](define-anonymization.md).
+The Event Field Replacement Value anonymization value affects the output of this filter. For more information, see [Define Task Mining anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/define-anonymization.md).
 
 ## Procedure
 

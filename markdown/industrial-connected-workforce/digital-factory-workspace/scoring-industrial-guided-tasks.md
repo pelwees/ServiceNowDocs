@@ -53,10 +53,10 @@ When normalization is enabled:
 -   Authors enable normalized scoring on a Guided Task Standard through the Advanced configuration view in the Smart Assessment Workspace.
 -   The system saves the normalized score to the guided task instead of the raw score.
 
-**Parent Topic:**[Exploring Industrial Guided Tasks](exploring-industrial-guided-tasks.md)
+**Parent Topic:**[Exploring Industrial Guided Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-industrial-guided-tasks.md)
 
 **Related topics**  
 
 
-[Configure scoring and automation in Industrial Guided Tasks](../task/configure-scoring-automation-igt.md)
+[Configure scoring and automation in Industrial Guided Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../task/configure-scoring-automation-igt.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit.user, sn\_
 
     You can also create a test template by navigating to the Audit workspace List page.
 
-    1.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+    1.  Click the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
     2.  Click **Test templates** in the Execution list.
     3.  Click **New**.
 3.  On the form, fill in the fields.

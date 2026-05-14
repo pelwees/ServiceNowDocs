@@ -40,5 +40,5 @@ Role required: admin
     -   Type \(type\)
     -   Service offering \(service\_offering\)
 
-**Parent Topic:**[Create an improvement request](create-cim-request.md)
+**Parent Topic:**[Create an improvement request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-cim-request.md)
 

@@ -41,21 +41,21 @@ Board views in CWM can be classified as personal and shared:
 
     **Note:** Shared views cannot be created in **My Space** because it's your personal Space.
 
-    When you save a Board with shared views as a template, the shared views are also saved as part of the template. For more information on templates, see [Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md).
+    When you save a Board with shared views as a template, the shared views are also saved as part of the template. For more information on templates, see [Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/templates-in-cwm-for-spaces-boards-and-docs.md).
 
 
 The view that you last visited for a Board is saved as your user preference and is selected the next time you reload the Board.
 
 Use the following sections to learn more on how to make the most out of Board views and their customizations for your team.
 
--   **[List, Gantt, and Kanban views in CWM](cwm-board-views.md)**  
+-   **[List, Gantt, and Kanban views in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-board-views.md)**  
 Switch between List, Gantt, and Kanban views to manage and visualize work on a CWM Board in the way that best fits your team's workflow.
--   **[Create a custom view for CWM Boards](../task/create-a-custom-view-for-cwm-boards.md)**  
+-   **[Create a custom view for CWM Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/create-a-custom-view-for-cwm-boards.md)**  
 Modify Board display preferences and save them as custom personal or shared views that suit the working preferences for you and your team members in Collaborative Work Management \(CWM\).
--   **[Update a CWM Board view](../task/update-a-cwm-board-view.md)**  
+-   **[Update a CWM Board view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/update-a-cwm-board-view.md)**  
 Modify the display preferences of your Collaborative Work Management \(CWM\)Boards and update the existing personal or shared views.
--   **[Delete a custom CWM Board view](../task/remove-a-new-view.md)**  
+-   **[Delete a custom CWM Board view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/remove-a-new-view.md)**  
 Delete the custom personal or shared views for your CWM Boards and keep your Board views current for your workflow.
 
-**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 

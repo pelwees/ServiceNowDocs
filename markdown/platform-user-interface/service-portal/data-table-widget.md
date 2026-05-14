@@ -17,7 +17,7 @@ Display a filtered list on your portal using the data table from instance defini
 
 After you add the data table from instance definition widget to a page, use the instance options to configure the appearance of the table.
 
-![Data table from instance definition widget with instance option set to table=incident](../image/DataTableInstanceDefinition.png "Data table from instance definition widget")
+![Data table from instance definition widget with instance option set to table=incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/DataTableInstanceDefinition.png "Data table from instance definition widget")
 
 **Note:** If you want this widget to be accessed by guest users, you must select the **Public** option in the widget record for both this widget and the Data Table widget.
 
@@ -37,14 +37,14 @@ After you add the data table from instance definition widget to a page, use the 
 |Bootstrap color|Color scheme for the widget. The default colors are defined by the portal theme, but if you want the instance to have a specific color, select the option from the list.|
 |Link to this page|Direct users to a specific page when they click a record. By default, clicking an entry in the table opens that entry in a form.|
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

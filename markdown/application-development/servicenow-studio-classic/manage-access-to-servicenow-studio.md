@@ -19,16 +19,16 @@ Delegated development enables designated users without a system admin role to de
 
 **Note:** Currently, only admins and GAC users can create apps in ServiceNow Studio, but delegated developers can work on existing apps and app files.
 
-If a user has the Guided Application Creator role \(sn\_g\_app\_creator.app\_creator\), they can access ServiceNow Studio and create apps. After creating an application, they are automatically assigned the delegated\_developer role. For more information about delegated developer permissions, see [ServiceNow Studio personas and roles](sn-studio-personas-roles.md).
+If a user has the Guided Application Creator role \(sn\_g\_app\_creator.app\_creator\), they can access ServiceNow Studio and create apps. After creating an application, they are automatically assigned the delegated\_developer role. For more information about delegated developer permissions, see [ServiceNow Studio personas and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/sn-studio-personas-roles.md).
 
-For more information about delegated development, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md). If you're an admin, you can also assign collaboration permissions to your development team. For more information, see [Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md).
+For more information about delegated development, see [Delegated development and deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../applications/concept/c_DelegatedDevelopment.md). If you're an admin, you can also assign collaboration permissions to your development team. For more information, see [Collaborating on apps using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/manage-app-collab-servicenow-studio.md).
 
--   **[Working with roles and access in app development tools](working-with-roles-and-access.md)**  
+-   **[Working with roles and access in app development tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/working-with-roles-and-access.md)**  
 Access to ServiceNow Studio, Creator Studio, and ServiceNow IDE depends on the roles and permissions your admin sets. However, there are some scenarios in which you might want to update the roles allowed to access each tool.
--   **[ServiceNow Studio personas and roles](sn-studio-personas-roles.md)**  
+-   **[ServiceNow Studio personas and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/sn-studio-personas-roles.md)**  
 Admins, delegated developers, and users with Guided Application Creator roles have access to work in ServiceNow Studio.
--   **[Elevate your role in ServiceNow Studio](../task/elevate-your-role-in-servicenow-studio.md)**  
+-   **[Elevate your role in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../task/elevate-your-role-in-servicenow-studio.md)**  
 Configure roles and access control lists \(ACLs\) easily by elevating your role to security\_admin from within ServiceNow Studio.
 
-**Parent Topic:**[Configuring ServiceNow Studio](configuring-servicenow-studio.md)
+**Parent Topic:**[Configuring ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/configuring-servicenow-studio.md)
 

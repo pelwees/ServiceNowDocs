@@ -30,5 +30,5 @@ Form design is an alternative to configuring forms that combines several configu
 2.  Follow the directions in [Form design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormDesign.md) to customize elements in the problem form.
 
 
-**Parent Topic:**[Configure the problem form](problem-configure-forms.md)
+**Parent Topic:**[Configure the problem form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-configure-forms.md)
 

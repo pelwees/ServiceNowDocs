@@ -23,25 +23,25 @@ When your changes are ready, build and install the local application on the inst
 
 Learn how to get started developing applications with the ServiceNow SDK in the following topics.
 
--   **[Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK](../task/define-metadata-code-fluent-sdk.md)**  
+-   **[Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../task/define-metadata-code-fluent-sdk.md)**  
 Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK.
--   **[Create and use JavaScript modules in applications with the ServiceNow SDK](../task/create-use-javascript-modules.md)**  
+-   **[Create and use JavaScript modules in applications with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../task/create-use-javascript-modules.md)**  
 Optimize your codebase by defining reusable code blocks with JavaScript modules and the ServiceNow SDK.
--   **[Use third-party libraries in applications with the ServiceNow SDK](../task/use-third-party-libraries.md)**  
+-   **[Use third-party libraries in applications with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../task/use-third-party-libraries.md)**  
 Call third-party libraries in your application to use existing open-source functionality with the ServiceNow SDK.
--   **[Downloading dependencies with the ServiceNow SDK](downloading-dependencies-now-sdk.md#)**  
+-   **[Downloading dependencies with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/downloading-dependencies-now-sdk.md#)**  
 Download application dependencies and TypeScript definitions from an instance for IntelliSense and validation of scripts and ServiceNow Fluent code.
--   **[Build and install an application with the ServiceNow SDK](../task/build-deploy-application-now-sdk.md)**  
+-   **[Build and install an application with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../task/build-deploy-application-now-sdk.md)**  
 Build and install a local application developed with the ServiceNow SDK on a ServiceNow instance.
 
-**Parent Topic:**[ServiceNow SDK](servicenow-sdk-landing.md)
+**Parent Topic:**[ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-sdk-landing.md)
 
 **Related topics**  
 
 
-[Using TypeScript in JavaScript modules with the ServiceNow SDK](using-typescript.md#)
+[Using TypeScript in JavaScript modules with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/using-typescript.md#)
 
-[ServiceNow SDK CLI](../reference/servicenow-sdk-cli-commands.md#)
+[ServiceNow SDK CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../reference/servicenow-sdk-cli-commands.md#)
 
-[ServiceNow Fluent API reference](../reference/servicenow-fluent-api-reference.md)
+[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../reference/servicenow-fluent-api-reference.md)
 

@@ -29,7 +29,7 @@ Role required: sam\_user or sam\_admin
 
     -   **Software Asset Workspace** &gt; **Software asset overview** &gt; **Run Reconciliation**
     -   **Software Asset Workspace** &gt; **License usage** &gt; **Run Reconciliation**
-    ![Run reconciliation process](../image/run-recon-workspace.png) ![]()
+    ![Run reconciliation process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/run-recon-workspace.png) ![]()
 
     **Note:** If domain separation is enabled on your instance, then the Domain filter drop-down appears in the Run Reconciliation dialog box.
 
@@ -138,5 +138,5 @@ The date and time when the particular reconciliation process was completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

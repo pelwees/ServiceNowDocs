@@ -19,7 +19,7 @@ For example, in the base system service catalog, a request for a new PC always u
 
 To provide this flexibility, you can use a script to override the default execution plan on a specific catalog item.
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 
 ## Limitations during script execution
 

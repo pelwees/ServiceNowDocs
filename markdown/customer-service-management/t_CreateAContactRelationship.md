@@ -67,7 +67,7 @@ Type
 
 </td><td>
 
-Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations.**Note:** Starting with the Yokohama release, the **Type** field is added to the Contact Relationship form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](migration-of-account-manager-responsibility-access.md).
+Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations.**Note:** Starting with the Yokohama release, the **Type** field is added to the Contact Relationship form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/migration-of-account-manager-responsibility-access.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Responsibility
 
 </td><td>
 
-Role or responsibility selected for this customer contact.**Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [Create account teams](../concept/configure-csm-account-teams.md).
+Role or responsibility selected for this customer contact.**Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [Create account teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configure-csm-account-teams.md).
 
 </td></tr><tr><td>
 

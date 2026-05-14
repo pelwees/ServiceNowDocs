@@ -23,11 +23,11 @@ From the **Workspaces** menu, select **Service Operations Workspace** and select
 
     The following example shows the List tab.
 
-    ![List view of all incidents, and tasks, and planned incidents.](../image/list-tab-sow-proactive.png "List tab")
+    ![List view of all incidents, and tasks, and planned incidents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/list-tab-sow-proactive.png "List tab")
 
 -   Records: Open any task record to navigate to its record view as shown in the following example.
 
-    ![Record view page of Service Operations Workspace.](../image/record-view-proactive.png "Record view")
+    ![Record view page of Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/record-view-proactive.png "Record view")
 
 
 ## Example
@@ -58,5 +58,5 @@ The following example demonstrates how Proactive Service Experience Workflows is
     The resolution information is copied down to each case record, while the Major Issue Manager resolves the major case record and any associated cases.
 
 
-**Parent Topic:**[Exploring the Product Support for Technology](../concept/explore-assurance-workflows.md)
+**Parent Topic:**[Exploring the Product Support for Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/explore-assurance-workflows.md)
 

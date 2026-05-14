@@ -21,7 +21,7 @@ Role required: none
 
 An activity stream enables you to communicate with other users about the work done on a record.
 
-![Activity stream tab and records.](../image/activity-stream-widescreen.png)
+![Activity stream tab and records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/activity-stream-widescreen.png)
 
 ## Procedure
 
@@ -57,7 +57,7 @@ Procedure
 
 </td><td>
 
-1.  Tap the file icon \(![File icon within the activity stream.](../image/activity-stream-file.png)\).
+1.  Tap the file icon \(![File icon within the activity stream.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/activity-stream-file.png)\).
 2.  Browse to the files that you want to post.
 3.  Tap **Add**.
 
@@ -69,7 +69,7 @@ An upload screen opens, detailing the upload progress of the files you selected.
 
 </td><td>
 
-1.  Tap the image icon \(![Image icon within the activity stream.](../image/activity-stream-image.png)\).
+1.  Tap the image icon \(![Image icon within the activity stream.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/activity-stream-image.png)\).
 2.  Tap on the images and videos that you want to post to the activity stream.
 3.  Tap **Add**.
 
@@ -81,7 +81,7 @@ An upload screen opens, detailing the upload progress of the multimedia files yo
 
 </td><td>
 
-1.  Tap the camera icon \(![Camera icon within the activity stream.](../image/activity-stream-camera.png)\).
+1.  Tap the camera icon \(![Camera icon within the activity stream.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/activity-stream-camera.png)\).
 2.  Select to either take a photo or record a video and then use your mobile device to perform one of those actions.
 3.  Approve the photo or video.
 

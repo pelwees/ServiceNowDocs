@@ -83,7 +83,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Not supported|Not applicable|
 |WhatsApp|Not supported|Not applicable|
 |Apple Messages for Business|Not supported|Not applicable|
-|Alexa \(Voice\)|Partial support|Support depends on the type of response. For example, images and links may only be available on devices with screens. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Support depends on the type of response. For example, images and links may only be available on devices with screens. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-settings-for-alexa.md).|
 
 ## Example script
 
@@ -116,12 +116,12 @@ Script bot response output
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties include the node name, script output type, and the script itself.](../images/va-script-output-properties.png "Script bot response control basic properties")
+![Basic properties include the node name, script output type, and the script itself.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-script-output-properties.png "Script bot response control basic properties")
 
 </td><td>
 
-![A sample script output in a chat window that reads, "This is my script output."](../images/va-script-output-web.png "Web UI Script bot response output")
+![A sample script output in a chat window that reads, "This is my script output."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-script-output-web.png "Web UI Script bot response output")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+</table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

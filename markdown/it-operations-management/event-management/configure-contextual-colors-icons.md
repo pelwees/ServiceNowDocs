@@ -155,5 +155,5 @@ Icon that is displayed when the context includes an icon and when accessibility 
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure email notification on application service severity change](t_EMCreateEmailNotificationBusinessService.md)
+**Parent Topic:**[Configure email notification on application service severity change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateEmailNotificationBusinessService.md)
 

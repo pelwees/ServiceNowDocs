@@ -33,7 +33,7 @@ The Basic-Standard level of domain separation is achieved through data visibilit
 
 Team should define a few examples with data-driven properties. There should be three different buckets with short description for each one
 
-**Parent Topic:**[Integration with third-party applications and data sources](c_IntegrateWThirdPartyAppsDataSrces.md)
+**Parent Topic:**[Integration with third-party applications and data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_IntegrateWThirdPartyAppsDataSrces.md)
 
 **Related topics**  
 

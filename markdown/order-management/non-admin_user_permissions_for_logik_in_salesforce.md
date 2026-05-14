@@ -62,7 +62,7 @@ For issues specifically with reconfiguration, make sure that the user has the co
 
 To check whether the user has the necessary permissions for these fields, go to Settings &gt; Object Manager &gt; \[Object\] &gt; Fields &amp; Relationships &gt; \[Committed Configuration ID/Configuration ID\] &gt; Set Field-Level Security and check whether the "Visible" checkbox is checked for Field-Level Security for Profile of the user.
 
-![Product Options](../images/cpq-product-option-page.png)
+![Product Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-option-page.png)
 
 The full list of objects and fields contained in the CPQ packages can be found by navigating to SFDC Setup and searching for "Installed Packages". "CPQ Managed Package" is used for parts of our SFDC Integration and custom objects, while CPQ Extension for Salesforce CPQ" contains the fields used in the standard user flow.
 

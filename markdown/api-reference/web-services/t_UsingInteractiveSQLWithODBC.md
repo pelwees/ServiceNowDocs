@@ -29,7 +29,7 @@ Role required: admin
     CONNECT odbcuser*password@ServiceNow
     ```
 
-    ![Connecting the SQL.](../image/ConnectingTheSQL.png)
+    ![Connecting the SQL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ConnectingTheSQL.png)
 
 3.  Issue a `SELECT` SQL command.
 
@@ -39,13 +39,13 @@ Role required: admin
 
     Make sure to include the semicolon at the end of your query statement. Otherwise, you are presented with a `'Cont>'` prompt.
 
-    ![Sample SQL Query.](../image/SampleSQLQuery.png)
+    ![Sample SQL Query.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/SampleSQLQuery.png)
 
 
--   **[Specify the maximum number of rows returned](../reference/r_MaxRowsReturned.md)**  
+-   **[Specify the maximum number of rows returned](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_MaxRowsReturned.md)**  
 By default, ServiceNow only returns 100 rows of data with each iSQL query. If you need to return more rows of data, set the maxrows parameter for the iSQL session.
--   **[SQL support](../reference/r_SQLSupport.md)**  
+-   **[SQL support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_SQLSupport.md)**  
 The ODBC driver embeds a third party SQL/ODBC engine from DataDirect, a division of Progress Software.
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_ODBCAndClientApplications.md)
 

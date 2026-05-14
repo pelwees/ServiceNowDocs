@@ -21,7 +21,7 @@ Role required: sn\_dex.service\_desk\_user, sn\_dex.engineer
 
 ## About this task
 
-In addition to the suggested resolutions, you can run remedial actions from the Action library in incident investigation with DEX. For more information, see [Run remedial actions from the Action library](remedial-actions-action-library.md).
+In addition to the suggested resolutions, you can run remedial actions from the Action library in incident investigation with DEX. For more information, see [Run remedial actions from the Action library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/remedial-actions-action-library.md).
 
 ## Procedure
 

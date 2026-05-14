@@ -21,28 +21,28 @@ Role required: admin or impersonator
 
 ## Procedure
 
-1.  In your ServiceNow mobile app, tap the **Settings** \(![Settings icon](../image/settings.png)\) tab in the navigation bar.
+1.  In your ServiceNow mobile app, tap the **Settings** \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/settings.png)\) tab in the navigation bar.
 
-    **Note:** If you do not see a **Settings** tab, tap **More** \(![More icon](../image/mobile-more-icon.png)\) and then tap **Settings** from the list.
+    **Note:** If you do not see a **Settings** tab, tap **More** \(![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-more-icon.png)\) and then tap **Settings** from the list.
 
 2.  In the settings screen, tap the user card.
 
-    ![User card on the settings screen](../image/mobile-imperson-1.png)
+    ![User card on the settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-imperson-1.png)
 
 3.  At the bottom on the screen, tap **Impersonate user**.
 
-    ![Impersonate user option in the settings screen](../image/mobile-imperson-2.png)
+    ![Impersonate user option in the settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-imperson-2.png)
 
 4.  Select a user to impersonate in the **Select User** list.
 
-    ![Select user list form impersonation](../image/mobile-imperson-3.png)
+    ![Select user list form impersonation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-imperson-3.png)
 
     You are now impersonating the selected user. A banner appears at the top of the screen to indicate which user you are impersonating.
 
 5.  To end impersonation, return to the settings screen, tap the user card, and tap **End Impersonation**.
 
-    ![End impersonation option in the settings screen.](../image/mobile-imperson-4.png)
+    ![End impersonation option in the settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-imperson-4.png)
 
 
-**Parent Topic:**[Mobile impersonation](../concept/mobile-impersonation.md)
+**Parent Topic:**[Mobile impersonation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-impersonation.md)
 

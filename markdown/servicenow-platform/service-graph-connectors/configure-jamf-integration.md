@@ -23,8 +23,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   ITOM Licensing plugin \(com.snc.itom.license\). An unlicensed plugin that contains computation logic for SU consumption as necessary. For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   Jamf Classic API version 10.x.
 
@@ -61,7 +61,7 @@ Role required: admin
 
     1.  Enter Basic or Bearer token authentication details.
 
-        **Important:** Skip this step if using Client credentials for authentication, and instead go to step [4.c](configure-jamf-integration.md#client-credentials).
+        **Important:** Skip this step if using Client credentials for authentication, and instead go to step [4.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#client-credentials).
 
         1.  For the Configure Jamf authentication: Basic or Bearer token authentication task, select **Configure**.
         2.  On the form, fill in the fields.
@@ -103,7 +103,7 @@ Password that is used to authenticate the HTTP or HTTPS request when this Basic 
         4.  Set the Configure Jamf authentication: Basic or Bearer token authentication task to complete by selecting **Mark as Complete**.
     2.  Configure the Jamf HTTP connection.
 
-        **Important:** Skip this step if using Client credentials for authentication, and instead go to step [4.c](configure-jamf-integration.md#client-credentials).
+        **Important:** Skip this step if using Client credentials for authentication, and instead go to step [4.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#client-credentials).
 
         1.  For the Configure Jamf HTTP connection task, select **Configure**.
         2.  On the form, fill in the fields.
@@ -233,7 +233,7 @@ Base path for HTTPS connection. This field appears only when the **URL builder**
         4.  Set the Configure Jamf HTTP connection task to complete by selecting **Mark as Complete**.
     3.  Configure the client authentication credentials.
 
-        **Important:** Skip this step if using basic token for authentication, and instead go to step [4.a](configure-jamf-integration.md#basic-credentials).
+        **Important:** Skip this step if using basic token for authentication, and instead go to step [4.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#basic-credentials).
 
         1.  For the Configure Jamf authentication: Client credentials task, select **Configure**.
         2.  Select **Edit** for the SG-Jamf OAuth Connection, the default connection.
@@ -281,7 +281,7 @@ OAuth Client ID
 
 </td><td>
 
-Application \(client\) ID of your Jamf client application as noted in the [Before you begin](configure-jamf-integration.md#prereq) section.**Note:** Verify that the Jamf client has read privileges for the **Computers** and **Mobile Devices** categories in Jamf.
+Application \(client\) ID of your Jamf client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#prereq) section.**Note:** Verify that the Jamf client has read privileges for the **Computers** and **Mobile Devices** categories in Jamf.
 
 </td></tr><tr><td>
 
@@ -289,7 +289,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client Secret of your Jamf client application as noted in the [Before you begin](configure-jamf-integration.md#prereq) section.
+Client Secret of your Jamf client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#prereq) section.
 
 </td></tr></tbody>
 </table>    4.  Test the connection.
@@ -395,7 +395,7 @@ Client Secret of your Jamf client application as noted in the [Before you begin]
 
     4.  Select **Update**.
 
-    5.  Repeat the steps [6.b](configure-jamf-integration.md#select-job) to [6.d](configure-jamf-integration.md#exe-job) for each scheduled job for data import.
+    5.  Repeat the steps [6.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#select-job) to [6.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-jamf-integration.md#exe-job) for each scheduled job for data import.
 
     6.  Set the Configure scheduled jobs task to complete by selecting **Mark as Complete** in the guided setup.
 

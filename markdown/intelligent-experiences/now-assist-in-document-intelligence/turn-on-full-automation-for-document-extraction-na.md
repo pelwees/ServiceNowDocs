@@ -18,12 +18,12 @@ Turn on Full automation mode to automatically complete and submit document tasks
 
 ## Before you begin
 
--   Set up a use case fora Now Assist in Document Intelligence skill. For more information, see [Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md).
+-   Set up a use case fora Now Assist in Document Intelligence skill. For more information, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
 -   Role required: sn\_docintel.manager
 
 ## About this task
 
-The extraction mode determines how Now Assist in Document Intelligence processes document tasks for a use case. For more information, see [Data extraction modes in Now Assist in Document Intelligence](../reference/data-extraction-modes-now-assist-document-intelligence.md).
+The extraction mode determines how Now Assist in Document Intelligence processes document tasks for a use case. For more information, see [Data extraction modes in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/data-extraction-modes-now-assist-document-intelligence.md).
 
 Turn on Full automation mode if you want Now Assist to bypass the agent review used to check the accuracy of the predicted values. Now Assist auto-fills the values for all required fields or marks them as missing in the document. Document tasks created for the use case are automatically completed and submitted by Now Assist.
 
@@ -35,11 +35,11 @@ Turn on Full automation mode if you want Now Assist to bypass the agent review u
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( ![Field options menu icon](../image/icon-docintel-field-options-menu.png)\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( ![Field options menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-field-options-menu.png)\).
 
 4.  Select the use case you would like to configure.
 
-5.  Click the settings icon \(![Use case settings icon](../image/icon-docintel-settings-gear.png)\).
+5.  Click the settings icon \(![Use case settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-settings-gear.png)\).
 
 6.  On the Extraction mode screen, selectthe **Full automation mode \(no agent review required\)** option.
 
@@ -48,22 +48,22 @@ Turn on Full automation mode if you want Now Assist to bypass the agent review u
 8.  Close the Settings box.
 
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/docintel-configuring-now-assist.md)
 
 **Related topics**  
 
 
-[Activate a Now Assist in Document Intelligence skill](activate-now-assist-in-document-intelligence-skill.md)
+[Activate a Now Assist in Document Intelligence skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/activate-now-assist-in-document-intelligence-skill.md)
 
-[Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md)
+[Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md)
 
-[Change the language models for a use case](change-llm-for-use-case.md)
+[Change the language models for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/change-llm-for-use-case.md)
 
-[Edit a use case in Now Assist in Document Intelligence](edit-now-assist-document-intelligence-use-case.md)
+[Edit a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/edit-now-assist-document-intelligence-use-case.md)
 
-[Make a copy of a use case in Now Assist in Document Intelligence](make-copy-of-now-assist-document-intelligence-use-case.md)
+[Make a copy of a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/make-copy-of-now-assist-document-intelligence-use-case.md)
 
-[Deactivate a use case in Now Assist in Document Intelligence](deactivate-now-assist-document-intelligence-use-case.md)
+[Deactivate a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/deactivate-now-assist-document-intelligence-use-case.md)
 
-[Delete a use case in Now Assist in Document Intelligence](delete-now-assist-document-intelligence-use-case.md)
+[Delete a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/delete-now-assist-document-intelligence-use-case.md)
 

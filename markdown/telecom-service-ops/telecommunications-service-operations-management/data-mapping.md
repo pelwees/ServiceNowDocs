@@ -99,7 +99,7 @@ Slot components such as fan, power, and traffic slots are mapped to the `Slot` c
 
 The following infographics describes the CI relationships.
 
-![CI relationships structure](../images/ci-relationships.png)![CI relationship structure](../images/ci-relationship-diagram.png)
+![CI relationships structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/ci-relationships.png)![CI relationship structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/ci-relationship-diagram.png)
 
 ## Example: OLT to ONU Structure
 

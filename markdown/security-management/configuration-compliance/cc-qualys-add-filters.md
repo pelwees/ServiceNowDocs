@@ -43,7 +43,7 @@ Role required: sn\_vul.vulnerability\_admin
 
     In the following image, as an example, the parameter that ingests only certain IP addresses/ranges, **ips=\{value\}** has been added. In this case, **value** is one or more IPs/ranges that you specify. Multiple entries are comma separated, `172.10.2.71, 172.10.3.159`, and a range is specified with a hyphen, `10.10.10.1-10.10.10.100`. Refer to the Qualys developer site for more information.
 
-    ![Content field in Qualys HTTP Method record populated with IP address range](../../../secops-integration-vr/qualys/image/qualys-add-filters.png)
+    ![Content field in Qualys HTTP Method record populated with IP address range](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../secops-integration-vr/qualys/image/qualys-add-filters.png)
 
     If you want to enter more than one parameter, refer to the Qualys documentation for more information about how to separate each value.
 

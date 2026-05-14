@@ -21,23 +21,23 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_bj1_24q_sxb" class="nav-card"><tbody><tr><td>
 
-[Explore](../concept/smart-assessment-engine-cf-explore.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Smart Assessment Engine
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/smart-assessment-engine-cf-explore.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Smart Assessment Engine
 
 </td><td>
 
-[Configure](../concept/smart-assessment-engine-cf-config.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Smart Assessment Engine application
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/smart-assessment-engine-cf-config.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Smart Assessment Engine application
 
 </td><td>
 
-[Use](../concept/sae-template-designer.md)![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Set up Smart Assessment Engine templates
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/sae-template-designer.md)![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Set up Smart Assessment Engine templates
 
 </td></tr><tr><td>
 
-[Manage](../concept/sae-respond-to-asmnt.md)![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage Smart Assessment Engine tasks
+[Manage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/sae-respond-to-asmnt.md)![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage Smart Assessment Engine tasks
 
 </td><td>
 
-[Reference](../concept/smart-assessment-engine-cf-ref.md) ![](../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with Smart Assessment Engine
+[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/smart-assessment-engine-cf-ref.md) ![](../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with Smart Assessment Engine
 
 </td><td>
 

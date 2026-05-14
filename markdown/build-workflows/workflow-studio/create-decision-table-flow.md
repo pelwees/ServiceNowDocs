@@ -37,7 +37,7 @@ Creating a decision table in-line in a flow creates only the structure of the ta
 
 6.  In the **Decision Label** field, enter a unique label for the decision.
 
-7.  In the **Decision Table** field, select the Create new record \(![Create new record icon](../images/create-new-record-icon.png)\) icon.
+7.  In the **Decision Table** field, select the Create new record \(![Create new record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-new-record-icon.png)\) icon.
 
     In the Create decision table modal, on the Set Properties page, two editable fields are populated from your flow.
 
@@ -50,7 +50,7 @@ Creating a decision table in-line in a flow creates only the structure of the ta
 
 9.  Select **Add input** to add inputs to the decision table.
 
-    Inputs are the variables that define the type of data the decision table looks for to make decisions. When creating a decision table in a flow, you can add inputs directly from the data in the flow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](../../decision-table/task/create-decision-table-in-decision-designer.md).
+    Inputs are the variables that define the type of data the decision table looks for to make decisions. When creating a decision table in a flow, you can add inputs directly from the data in the flow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../decision-table/task/create-decision-table-in-decision-designer.md).
 
     **Note:** Some inputs must be added or adjusted when you open the decision table to populate its values.
 
@@ -79,5 +79,5 @@ Creating a decision table in-line in a flow creates only the structure of the ta
 17. Select **Done**.
 
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

@@ -48,5 +48,5 @@ Staff members with the sn\_customerservice\_manager role, create install base it
 **Related topics**  
 
 
-[Create an install base item](create-install-base-item.md)
+[Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md)
 

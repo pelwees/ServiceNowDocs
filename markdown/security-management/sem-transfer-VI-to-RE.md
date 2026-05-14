@@ -19,7 +19,7 @@ If confronted by a zero-day threat or a very critical vulnerability that you wan
 
 Say, for example, you created a remediation effort that has one, high-priority vulnerability in it. Because this vulnerability is widespread and potentially impacts the other areas in your environment, you might have records that are associated with this vulnerability already in existing remediation efforts. To combine these records so they are all in one remediation effort, you can transfer any records from existing remediation efforts into a new remediation effort.
 
-**Note:** You cannot transfer records from recurring remediation efforts into new remediation efforts. For more information, see [Create a recurring remediation effort in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-create-recurringRE-steal-VI.md).
+**Note:** You cannot transfer records from recurring remediation efforts into new remediation efforts. For more information, see [Create a recurring remediation effort in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/task/vr-ws-create-recurringRE-steal-VI.md).
 
 Role required:
 
@@ -61,7 +61,7 @@ Role required:
     -   By Assignment group
     -   By Assignment group and finding
     -   By Assignment group and vulnerability
-    -   None \(No remediation tasks are created\). Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-create-rt-frm-re.md).
+    -   None \(No remediation tasks are created\). Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/task/vr-ws-create-rt-frm-re.md).
 8.  To automatically refresh the duplicate findings, you must select the **Automatically refresh duplicate vulnerable items for the created remediation tasks** option.
 
 9.  Click **Next**.
@@ -72,7 +72,7 @@ Role required:
 
     Select the **Transfer matching records from other active remediation efforts** check box and then select the check boxes for the records that you want to transfer from other active remediation efforts.
 
-    ![Version 18.0 Create Remediation Effort](../../vulnerability-response/image/vr-ws-create-re-step-3-v18.png "Version 18.0 Create Remediation Effort")
+    ![Version 18.0 Create Remediation Effort](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/vr-ws-create-re-step-3-v18.png "Version 18.0 Create Remediation Effort")
 
 12. Click **Create Remediation Effort**.
 
@@ -84,8 +84,8 @@ Role required:
 
     **Note:** If there are neither any records available from the watch topic, nor any records selected for transfer, the **Create Remediation Effort** button is deactivated.
 
-    For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Transferring records or record carry over](../../vulnerability-response/concept/vr-ws-re-lifecycle.md#section-wmws-re-transfer-records).
+    For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Transferring records or record carry over](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/vr-ws-re-lifecycle.md#section-wmws-re-transfer-records).
 
 
-**Parent Topic:**[Use Remediation Effort records](sem-ws-remed-eff-rcd.md)
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 

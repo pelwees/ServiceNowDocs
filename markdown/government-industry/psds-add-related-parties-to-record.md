@@ -19,7 +19,7 @@ Role required: admin, sn\_gsm.constituent, sn\_gsm.constituent\_agent, sn\_gsm.b
 
 ## Procedure
 
-1.  Navigate to the CSM Configurable Workspace and select the Lists icon ![Lists icon.](../image/lists-icon.png) in the sidebar.
+1.  Navigate to the CSM Configurable Workspace and select the Lists icon ![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/lists-icon.png) in the sidebar.
 
 2.  Navigate to **Item Received** &gt; **All**.
 

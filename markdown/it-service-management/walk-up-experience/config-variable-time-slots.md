@@ -31,7 +31,7 @@ To use the appointment booking feature, administrators must create a configurati
 
     -   To create a new configuration for appointment booking, select **New**.
     -   To modify an existing configuration, select the configuration from the list.
-    **Note:** For more information on creating or modifying appointment booking configuration for Walk-up Experience and field-related information, see [Create or modify a Walk-up Experience appointment booking service configuration](configure-walkup-appointments.md).
+    **Note:** For more information on creating or modifying appointment booking configuration for Walk-up Experience and field-related information, see [Create or modify a Walk-up Experience appointment booking service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-appointments.md).
 
 3.  Select the **Enable advanced configurations** check box.
 
@@ -60,7 +60,7 @@ To use the appointment booking feature, administrators must create a configurati
 
 ## What to do next
 
-You must map the defined advance configurations with the defined service configuration rule for a location. Use the Reasons for Visit related list on the Walk-up Location Queue form. For more information, see [Create or modify Walk-up Experience locations](configure-walkup-location.md).
+You must map the defined advance configurations with the defined service configuration rule for a location. Use the Reasons for Visit related list on the Walk-up Location Queue form. For more information, see [Create or modify Walk-up Experience locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-location.md).
 
-**Parent Topic:**[Configure Variable time slots for appointment booking](../concept/variable-time-slots.md)
+**Parent Topic:**[Configure Variable time slots for appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/variable-time-slots.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 5.  On the corrective action form, fill in the fields.
 
-    For a description of the field values, see [Corrective action form](../reference/mco-corrective-action-form.md).
+    For a description of the field values, see [Corrective action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-corrective-action-form.md).
 
 6.  Select **Save**.
 
@@ -40,10 +40,10 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
     Corrective action must contain at least one action charge line to move it to In use.
 
 
--   **[Corrective action charges](mco_corrective_action_charges.md)**  
+-   **[Corrective action charges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco_corrective_action_charges.md)**  
 Create correction action charges to enable the expenses incurred to address a non-conformance and implement measures to help prevent its recurrence.
--   **[Generate a part requirement](mco-part-requirements.md)**  
+-   **[Generate a part requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-part-requirements.md)**  
 Capture all the part requirements at the campaign level.
 
-**Parent Topic:**[Related lists for my campaigns](../concept/mco-related-list-for-my-campaigns.md)
+**Parent Topic:**[Related lists for my campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-related-list-for-my-campaigns.md)
 

@@ -15,12 +15,12 @@ This section outlines the Service Applicant data model and the Service Applicant
 
 The following logical diagram shows the tables and their relationships that build the Service Applicant Information and Service Applicant Program Management data model.
 
-![Public Sector Digital Services Service Applicant Data Model](../image/psds-datamodel-sa.png "Public Sector Digital Services Service Applicant Data Model")
+![Public Sector Digital Services Service Applicant Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-datamodel-sa.png "Public Sector Digital Services Service Applicant Data Model")
 
--   **[Tables installed with Service Applicant Information Plugin](psds-data-model-svc-app-in-tables.md)**  
+-   **[Tables installed with Service Applicant Information Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-svc-app-in-tables.md)**  
 This section describes the tables installed with the Service Applicant Information plugin and shows how they store and manage information. The Service Applicant Information plugin tables focus on capturing detailed applicant data for eligibility assessments, and enable the addition of any supplementary applicants \(either constituents or business contacts\) to a case or application.
--   **[Tables installed with Service Applicant Program Management Plugin](psds-data-model-svc-app-prog-man-tables.md)**  
+-   **[Tables installed with Service Applicant Program Management Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-svc-app-prog-man-tables.md)**  
 This section describes the tables installed with the Service Applicant Program Management plugin and shows how they store and manage information.
 
-**Parent Topic:**[Public Sector Digital Services Data Model](public-sector-digital-services-data-model.md)
+**Parent Topic:**[Public Sector Digital Services Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/public-sector-digital-services-data-model.md)
 

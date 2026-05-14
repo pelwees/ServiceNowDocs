@@ -20,7 +20,7 @@ Run real-time validation on Register of Information \(RoI\) packages to help ens
 
 Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
-Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [Generate a register of information package](tprm-drtp-roi-packages.md).
+Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [Generate a register of information package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-roi-packages.md).
 
 ## About this task
 

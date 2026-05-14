@@ -35,7 +35,7 @@ The job logs may include errors that aren't about the indicator sources. You mus
 
 1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Sources** &gt; **Indicator Sources**.
 
-2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](../../mftg-manufacturing-oper-tech-mgr/image/show-hide-filter-icon.png)\) icon and add the following filter:
+2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../mftg-manufacturing-oper-tech-mgr/image/show-hide-filter-icon.png)\) icon and add the following filter:
 
     `[Application] [is] [Industrial Workspace Common]`
 
@@ -50,5 +50,5 @@ The job logs may include errors that aren't about the indicator sources. You mus
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/setting-up-the-ot-progress-scorecard.md)
 

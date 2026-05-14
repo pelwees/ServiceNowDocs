@@ -17,11 +17,11 @@ If an existing automation template doesn't fit your application goal, define cus
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## About this task
 
-If a pre-built flow already exists, you can easily add its template to your app and then customize it. For more information, see [Add a pre-built flow using a template](use-flow-template.md).
+If a pre-built flow already exists, you can easily add its template to your app and then customize it. For more information, see [Add a pre-built flow using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/use-flow-template.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ If a pre-built flow already exists, you can easily add its template to your app 
 
 5.  Select **Build from scratch**.
 
-    ![Select to build the flow from scratch](../image/aes-automation-scratch-purple.png "Build from scratch")
+    ![Select to build the flow from scratch](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-automation-scratch-purple.png "Build from scratch")
 
 6.  On the form, fill in the fields and then select **Continue**.
 
@@ -93,7 +93,7 @@ Run with roles
 
 Roles that the flow runs with. This option is available only when **Run as** is set to **User who initiates session**.
 
- To use a custom role for your flow, you must create one in **Security** first. For more information, see [Add application security](../concept/add-security.md).
+ To use a custom role for your flow, you must create one in **Security** first. For more information, see [Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md).
 
 </td></tr></tbody>
 </table>7.  On the summary screen, select **Edit this flow** to open your flow.
@@ -182,8 +182,8 @@ Test your flow until you're ready to activate it. For more information on testin
 
 **Note:** Your application can trigger only activated flows.
 
--   **[Modify a flow](edit-flow.md)**  
+-   **[Modify a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/edit-flow.md)**  
 To update or change an existing flow for an app you built in App Engine Studio \(AES\), edit it.
 
-**Parent Topic:**[Add logic and automation](../concept/add-automation.md)
+**Parent Topic:**[Add logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-automation.md)
 

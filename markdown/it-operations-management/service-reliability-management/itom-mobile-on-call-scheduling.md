@@ -29,9 +29,9 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 -   [View on-call group members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/view-who-is-on-call.md)
 -   [View upcoming shifts with On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/view-upcoming-shifts.md)
 
-**Parent Topic:**[Use ITOM Mobile](../concept/use-itom-mobile.md)
+**Parent Topic:**[Use ITOM Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/use-itom-mobile.md)
 
-**Previous topic:**[Managing incidents and major incidents on mobile](itom-mobile-incidents.md)
+**Previous topic:**[Managing incidents and major incidents on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-incidents.md)
 
-**Next topic:**[Working with tasks on mobile](itom-mobile-tasks.md)
+**Next topic:**[Working with tasks on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-tasks.md)
 

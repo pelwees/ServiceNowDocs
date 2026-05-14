@@ -17,19 +17,19 @@ The ServiceNow®synthetic monitoring application empowers organizations to proac
 
 <table id="table_omn_wg4_pdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about synthetic monitoring](exploring-synthetic-monitoring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about synthetic monitoring](exploring-synthetic-monitoring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Add users and create and manage a synthetic monitor](configuring-synthetic-monitoring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Add users and create and manage a synthetic monitor](configuring-synthetic-monitoring.md)
 
 </td></tr><tr><td>
 
-[Identify![](../../../reuse/icons/brand-icons/bus-extend-visability.svg)Use synthetic monitoring to identify performance issues](identifying-system-issues.md)
+[Identify![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-extend-visability.svg)Use synthetic monitoring to identify performance issues](identifying-system-issues.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about synthetic monitoring](../reference/synthetic-monitoring-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about synthetic monitoring](../reference/synthetic-monitoring-reference.md)
 
 </td></tr></tbody>
 </table>

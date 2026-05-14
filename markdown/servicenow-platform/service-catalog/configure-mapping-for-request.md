@@ -65,11 +65,11 @@ Parent requestor
 
 </td><td>
 
-User reference field on the parent table that is specified as the requestor of the request.**Note:** For delegated request experience, the user from the parent table record is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+User reference field on the parent table that is specified as the requestor of the request.**Note:** For delegated request experience, the user from the parent table record is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/delegated-request-exp.md).
 
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Service Catalog request fulfillment](../concept/request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/request-fulfillment.md)
 

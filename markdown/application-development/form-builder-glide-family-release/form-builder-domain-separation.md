@@ -47,7 +47,7 @@ In the global domain, a developer can expand the domain scope to see all form vi
 
 **Note:** Single section form records do not have a **sys\_ui\_forms** record attached to it. Instead, these records only have an attached **sys\_ui\_section** record until a second section is created. If a single section form has existing domain overrides, and the developer adds another section to the form, the existing domain overrides will break.
 
-**Parent Topic:**[Exploring Table Builder](exploring-fb.md)
+**Parent Topic:**[Exploring Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/exploring-fb.md)
 
 **Related topics**  
 

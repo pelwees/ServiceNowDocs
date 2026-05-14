@@ -28,9 +28,9 @@ An activity context is the person or user who is interacting with the customer s
 
 Facets are displayed in the Customer History view in Agent Workspace. Dynamic facets display record details associated with the facet.
 
-![Customer History tab displaying Cases facet with list of cases and with a brief description.](../image/dynamic-facet.png)
+![Customer History tab displaying Cases facet with list of cases and with a brief description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/dynamic-facet.png)
 
-Static facets display a subcategorization of the facets without any record details. ![Customer History tab with the Interactions facet highlighted.](../image/static-facet.png)
+Static facets display a subcategorization of the facets without any record details. ![Customer History tab with the Interactions facet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/static-facet.png)
 
 ## Procedure
 

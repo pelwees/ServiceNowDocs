@@ -17,9 +17,9 @@ Visually analyze the progress of the stories of an epic over a given period usin
 
 Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Epic Dashboard**.
 
-![Epic Summary](../image/agile-epic-summary.png "Epic Summary tab")
+![Epic Summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-epic-summary.png "Epic Summary tab")
 
-![Epic cycle time report](../image/agile-epic-cycle-time.png "Cycle Time tab")
+![Epic cycle time report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-epic-cycle-time.png "Cycle Time tab")
 
 The Agile 2.0 Epic Dashboard provides the following information:
 
@@ -104,7 +104,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Epic Cumulative Flow Diagram
 -   Story Cycle Time
 
-For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+For more information, see [Upgrading the layout of Agile 2.0 dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../reference/using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_fcx_vdk_k3b"><thead><tr><th>
 
@@ -201,10 +201,10 @@ From the Story State section towards the right of the report, you can filter the
 
  If there are too many stories at any area of the chart and the bubbles appear crowded on the report, you can zoom in that particular area of the report for a clearer view.
 
-![Cycle Time Zoom](../image/cycle-time-zoom.gif)
+![Cycle Time Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/cycle-time-zoom.gif)
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/customizing-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
+**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 

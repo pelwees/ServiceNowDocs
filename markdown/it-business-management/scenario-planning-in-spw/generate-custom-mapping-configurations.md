@@ -17,7 +17,7 @@ Create mapping configurations for planning items that are not created by default
 
 As an admin, you can choose to create table maps, field maps, and choice maps for the planning items that are not created by default. For more information, see:
 
-1.  [Create a table map](create-custom-table-maps-for-custom-planning-items.md)
-2.  [Create a field map](create-field-map.md)
-3.  [Create a choice map](create-choice-map.md)
+1.  [Create a table map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-custom-table-maps-for-custom-planning-items.md)
+2.  [Create a field map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-field-map.md)
+3.  [Create a choice map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-choice-map.md)
 

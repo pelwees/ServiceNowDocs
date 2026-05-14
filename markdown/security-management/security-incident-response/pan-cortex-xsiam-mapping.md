@@ -54,7 +54,7 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 </td></tr></tbody>
 </table>2.  To add fields to the default fields that are displayed on the security incident, do the following actions:
 
-    1.  Select ![Map another field button.](../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) in the SIR Incident Target Fields section.
+    1.  Select ![Map another field button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) in the SIR Incident Target Fields section.
 
         It shows a list of SIR fields, from which you can select a new field.
 
@@ -73,7 +73,7 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
         -   For any other fields, you must select the check box that corresponds to a field for any new or updated changes made in the XSIAM incident record within XSIAM. This will automatically replace the respective SIR incident data with the new incident data.
         **Important:** Due diligence is required to be done before selecting this functionality as overriding the existing data may result in unstable data for the analyst to work with and any other automation that is set even by the field values of security incident may also get affected. So, it is very important to do the due diligence before you select any override functionality.
 
-3.  To remove a field, use the ![Remove button](../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png) Remove item button next to the input expression field in the SIR Incident Target Fields section.
+3.  To remove a field, use the ![Remove button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png) Remove item button next to the input expression field in the SIR Incident Target Fields section.
 
 4.  To map a field value from the Incident and Event Fields section to a field on the SIR incident Target Fields section, use one of the following actions:
 
@@ -95,9 +95,9 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
 5.  To format a field translation for a new field from a Cortex XSIAM Incident to match a field value on a Security Incident, select the **Click here** link in the **SIR Incident Target Fields** header.
 
-6.  To modify the fields which support field translation, select the ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
+6.  To modify the fields which support field translation, select the ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
 
-    The fields that support field translation are **Affected user**, **Configuration Item**, and **Priority**. For example, click on ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The Cortex XSIAM Field Translation script editor opens.
+    The fields that support field translation are **Affected user**, **Configuration Item**, and **Priority**. For example, click on ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The Cortex XSIAM Field Translation script editor opens.
 
 7.  Enter any changes to the script and select **Update** to save the changes and return to the Mapping page.
 
@@ -113,7 +113,7 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
     You can use the same field values in the Incident Generation Conditions builder to define additional criteria that an incoming Incident must satisfy to create a security incident.
 
-    ![Map Incident Fields to SIR Incident Target Fields](../image/xsiam-mapping.png)
+    ![Map Incident Fields to SIR Incident Target Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/xsiam-mapping.png)
 
 9.  Select **Continue**.
 
@@ -122,5 +122,5 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
 Define and set filter conditions to specify which incidents should create security incidents. You can use the same field values \(defined in the Mapping section\) in the incident Generation Conditions builder \(in the Filtering and Aggregation section\) to define additional criteria that an incoming incident must satisfy to create a security incident.
 
-For more information, see [Define filter and aggregation criteria](../concept/xsiam-filtering-and-aggregation.md#)
+For more information, see [Define filter and aggregation criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/xsiam-filtering-and-aggregation.md#)
 

@@ -17,7 +17,7 @@ For creating work items with details similar to an existing item, save time and 
 
 ## Before you begin
 
-[Create work items for teams in EAP Backlog](create-work-items-for-teams-in-eap-backlog.md).
+[Create work items for teams in EAP Backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-work-items-for-teams-in-eap-backlog.md).
 
 Role required: sn\_apw\_advanced.eap\_user
 
@@ -29,7 +29,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 3.  From the Backlog page, locate the item that you want to create a copy of.
 
-4.  Select the more icon \(![More icon.](../images/eap-more-icon.png)\) and select **Create copy**.
+4.  Select the more icon \(![More icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-more-icon.png)\) and select **Create copy**.
 
     Alternatively, you can right-click the work item to view the options.
 
@@ -40,14 +40,14 @@ A copy of the selected work item is created, with the information in the require
 
 ## What to do next
 
-From the full details page of the work item, you can refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md). This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
+From the full details page of the work item, you can refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md). This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 
 **Related topics**  
 
 
-[Manage team backlog in EAP](../concept/using-eap.md)
+[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 
-[Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md)
+[Schedule work items into iterations in EAP Backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/schedule-work-items-into-iterations-in-eap-backlog.md)
 

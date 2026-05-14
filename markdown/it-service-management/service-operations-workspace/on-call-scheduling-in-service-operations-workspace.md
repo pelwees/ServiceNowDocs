@@ -19,14 +19,14 @@ You can access your shifts and schedules within Service Operations Workspace usi
 
 Managers can also use the **Teams** menu to perform all the administrative tasks.
 
-See [On-Call Scheduling in Service Operations Workspace](../concept/on-call-scheduling-in-sow.md) for more details.
+See [On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/on-call-scheduling-in-sow.md) for more details.
 
 ## On-Call Scheduling in Service Operations Workspace workflow
 
-The various members of an organisation use On-Call Scheduling to work together. See a sample end-to-end workflow:![On-call scheduling workflow](../../../administer/on-call-scheduling/image/Oncall_workflow.png)
+The various members of an organisation use On-Call Scheduling to work together. See a sample end-to-end workflow:![On-call scheduling workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/image/Oncall_workflow.png)
 
 1.  Shift admin creates shift and group templates.
-2.  Shift admin assigns role and configures escalation trigger rules. See [Roles in Service Operations Workspace for ITSM](../reference/roles-in-sow.md) and [Assigning On-Call Scheduling roles](../../../administer/on-call-scheduling/concept/roles-assigning-oncall.md)
+2.  Shift admin assigns role and configures escalation trigger rules. See [Roles in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/roles-in-sow.md) and [Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/concept/roles-assigning-oncall.md)
 3.  The shift manager creates a shift and add or delete members to the shift.
 4.  Shift manager designs the entire escalation process for the new shift.
 5.  Roster member views their on-call schedules and find out who the other members on their shift are.
@@ -62,7 +62,7 @@ Create a new shift, assign members to the shift, set the shift preferences like 
 
 </td><td>
 
-[Create and edit shift in Service Operations Workspace](../concept/create-a-schedule-in-sow.md)
+[Create and edit shift in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/create-a-schedule-in-sow.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Manage your shift by accepting or rejecting time-off requests. Resolve gaps and 
 
 </td><td>
 
-[Manage shifts in service operation workspace](../concept/manage-shifts-in-service-operation-workspace.md)
+[Manage shifts in service operation workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/manage-shifts-in-service-operation-workspace.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Create your own escalation policies and path. On-Call Scheduling allows you to c
 
 </td><td>
 
-[Escalation triggers and policies](../concept/work-on-escalation-trigger-rules-and-policies-in-sow.md)
+[Escalation triggers and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/work-on-escalation-trigger-rules-and-policies-in-sow.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Create and edit Notification preferences for an entire team.
 
 </td><td>
 
-[Edit On-call team preference using Teams menu](../concept/oncall-team-preference-tab-in-teams.md)
+[Edit On-call team preference using Teams menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/oncall-team-preference-tab-in-teams.md)
 
 </td><td>
 
@@ -110,30 +110,30 @@ Use any one of the multiple channels such as Slack, Microsoft Teams, mobile push
 
 </td><td>
 
-[Manage delivery channel](../concept/work-on-a-notification-preference-rule-in-sow.md)To configure delivery channels, see:
+[Manage delivery channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/work-on-a-notification-preference-rule-in-sow.md)To configure delivery channels, see:
 
--   For Slack: [Setting up Slack as a contact method](../../../administer/on-call-scheduling/reference/slack-setup-oncall.md)
--   For SMS and voice message: [Setting up SMS and voice messaging as contact methods](../../../administer/user-administration/concept/c_UseNotifyWithOnCallScheduling.md)
+-   For Slack: [Setting up Slack as a contact method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/reference/slack-setup-oncall.md)
+-   For SMS and voice message: [Setting up SMS and voice messaging as contact methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/user-administration/concept/c_UseNotifyWithOnCallScheduling.md)
 -   For teams: Microsoft Teams
--   For mobile push notifications: [Set up mobile push as a contact method for an on-call escalation](../../../administer/on-call-scheduling/task/set-up-mobile-push-oncall.md)
+-   For mobile push notifications: [Set up mobile push as a contact method for an on-call escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/task/set-up-mobile-push-oncall.md)
 
 </td><td>
 
 rota\_admin, admin
 
 </td></tr></tbody>
-</table>**Note:** For more details on user roles, see [Assigning On-Call Scheduling roles](../../../administer/on-call-scheduling/concept/roles-assigning-oncall.md).
+</table>**Note:** For more details on user roles, see [Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/concept/roles-assigning-oncall.md).
 
-**Parent Topic:**[Exploring Service Operations Workspace for ITSM](../concept/explore-sow.md)
+**Parent Topic:**[Exploring Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/explore-sow.md)
 
 **Related topics**  
 
 
-[Access Service Operations Workspace for ITSM](access-sow-itsm.md)
+[Access Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/access-sow-itsm.md)
 
-[Service Operations Workspace for ITSM user interface](../concept/service-operations-workspace-ui.md)
+[Service Operations Workspace for ITSM user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/service-operations-workspace-ui.md)
 
-[Service Operations Workspace for ITSM landing page](../concept/sow-ui-landing-page.md)
+[Service Operations Workspace for ITSM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-ui-landing-page.md)
 
-[Exploring Recommended Actions for ITSM in Service Operations Workspace](../concept/exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)
+[Exploring Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)
 

@@ -19,7 +19,7 @@ An authenticator application is third-party software that generates temporary pa
 
 If your administrator has enabled MFA on your instance, you see a prompt for a pass-code after entering your user and password during login.
 
-![TOTP setup](../images/mfa-new-exp-auth-app.png)
+![TOTP setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-new-exp-auth-app.png)
 
 ServiceNow requires authenticator applications that support Time-based One-time Passwords \(TOTP\).
 

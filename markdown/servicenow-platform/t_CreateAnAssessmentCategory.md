@@ -32,14 +32,14 @@ The Demand Management application comes with an assessment metric type named **D
     |Assessment metric category|Data source|Description|
     |--------------------------|-----------|-----------|
     |**Size**|**T-Shirt size** field on the [Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md) form.|Assesses demand size relative to the size of other demands.|
-    |**Strategic Alignment**|[View an assessment category result](t_ViewACategoryResult.md) field in the assessment category result for the Strategic Alignment metric category.|Assesses how closely the demand aligns with strategic goals of the organization compared to other demands.|
+    |**Strategic Alignment**|[View an assessment category result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md) field in the assessment category result for the Strategic Alignment metric category.|Assesses how closely the demand aligns with strategic goals of the organization compared to other demands.|
     |**Risk**|**Rating** field in the assessment category result for the Risk metric category.|Assesses demand risks compared to other demands.|
     |**ROI**|**Impact** and **Financial return** fields on the Demand form.|Assesses demand return on investment compared to other demands.|
     |**Cost**|**Labor costs**, **Capital expense**, and **Operating expense** fields on the Demand form.|Assesses demand cost compared to other demands.|
 
 
--   **[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)**  
+-   **[Assessment metric categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetricCategories.md)**  
 In the Assessments application, a metric category represents a theme for evaluating assessable records in a given metric type.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentProcess.md)
 

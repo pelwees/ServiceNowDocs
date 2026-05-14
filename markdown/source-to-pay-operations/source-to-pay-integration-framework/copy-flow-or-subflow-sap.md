@@ -37,7 +37,7 @@ Role required:
 
     **Important:** Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Copy of a Create non-purchase order flow](../../source-to-pay-operations/image/sap-integration-copy-flow.png "Copy of a Create non-purchase order flow")
+    ![Copy of a Create non-purchase order flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-copy-flow.png "Copy of a Create non-purchase order flow")
 
 5.  Activate the flow or subflow.
 
@@ -52,19 +52,19 @@ Role required:
     -   **Status** is **Pending Submission**
     **Note:** Don’t modify the trigger condition.
 
-    ![Trigger conditions for Creating a non-purchase order invoice flow](../../source-to-pay-operations/image/sap-integration-flow-trigger.png "Trigger conditions for Creating a non-purchase order invoice flow")
+    ![Trigger conditions for Creating a non-purchase order invoice flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-flow-trigger.png "Trigger conditions for Creating a non-purchase order invoice flow")
 
     **Note:**
 
-    Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](../concept/s2p-transform-maps-flows.md).
+    Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/s2p-transform-maps-flows.md).
 
     You have successfully copied and executed the flow.
 
 
-**Parent Topic:**[Use schedule flows in SAP](../concept/using-schedule-flows-sap.md)
+**Parent Topic:**[Use schedule flows in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-schedule-flows-sap.md)
 
 **Related topics**  
 
 
-[Use a flow or subflow in SAP \(Outbound\)](use-flow-or-subflow-sap.md)
+[Use a flow or subflow in SAP \(Outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-sap.md)
 

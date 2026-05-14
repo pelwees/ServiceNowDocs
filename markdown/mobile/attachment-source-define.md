@@ -105,5 +105,5 @@ Values can be `camera`, `files`, or `gallery`, or any combination separated by c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with images and attachments in mobile](../concept/images-and-attachments.md)
+**Parent Topic:**[Working with images and attachments in mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/images-and-attachments.md)
 

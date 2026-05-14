@@ -83,8 +83,8 @@ Unit of measure. Available options are:-   Box
 </table>    **Note:** When corrective action status changes to Draft, part details in part requirements are reset to 0.
 
 
--   **[Create a part availability](mco-part-availability.md)**  
+-   **[Create a part availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-part-availability.md)**  
 Track current part availability and expected availability dates for required parts.
 
-**Parent Topic:**[Corrective actions](mco-corrective-actions.md)
+**Parent Topic:**[Corrective actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-actions.md)
 

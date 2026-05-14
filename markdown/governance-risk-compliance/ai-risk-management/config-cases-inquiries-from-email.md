@@ -29,24 +29,24 @@ You can submit AI‑related cases or inquiries by sending emails to configured a
 
 2.  Enable inbound email processing on the instance by selecting **Yes** for the **Email receiving enabled** \(`glide.email.smtp.active`\) and **Automatically create users for incoming emails from trusted domains** \(`glide.pop3readerjob.create_caller`\) properties.
 
-    This enables inbound email processing so the instance can receive and evaluate incoming email messages.![Inbound email configuration settings that control email processing at the instance level.](../image/inbound-email-properties-airc.png)
+    This enables inbound email processing so the instance can receive and evaluate incoming email messages.![Inbound email configuration settings that control email processing at the instance level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/inbound-email-properties-airc.png)
 
 3.  Navigate to **All** &gt; **AI Case Management** &gt; **Case Type**.
 
 4.  Select the **Inbound Email Configuration** related list and enter the group email address configured for inbound email.
 
-    Configuring the **Group email** field on the AI case intake type record sets the email address used for case intake.![AI case intake type showing the group email configuration.](../image/ai-case-group-email.png)
+    Configuring the **Group email** field on the AI case intake type record sets the email address used for case intake.![AI case intake type showing the group email configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-case-group-email.png)
 
 5.  Navigate to **All** &gt; **AI Case Management** &gt; **Inquiry Type**.
 
 6.  Select the **Inbound Email Configuration** related list and enter the group email address configured for inbound email.
 
-    Configuring the **Group email** field on the AI inquiry intake type record sets the email address used for inquiry intake.![AI inquiry intake type showing the group email configuration.](../image/ai-inquiry-group-email.png)
+    Configuring the **Group email** field on the AI inquiry intake type record sets the email address used for inquiry intake.![AI inquiry intake type showing the group email configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-inquiry-group-email.png)
 
 
 ## Result
 
 Emails sent to the configured group email address and the instance email address create corresponding intake records in AI Risk and Compliance.
 
-For more information, see [Automatic creation of AI cases and inquiries from inbound email](../concept/automatic-creation-cases-inquiries-from-email.md).
+For more information, see [Automatic creation of AI cases and inquiries from inbound email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/automatic-creation-cases-inquiries-from-email.md).
 

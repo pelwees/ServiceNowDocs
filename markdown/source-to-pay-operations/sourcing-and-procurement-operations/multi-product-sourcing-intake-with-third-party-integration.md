@@ -37,15 +37,15 @@ When a requester submits a sourcing intake form with multiple products, the thir
 
 3.  Select the **I need a product** record producer.
 
-    ![Purchase requests displayed.](../image/multi-prod-3p-step3.png)
+    ![Purchase requests displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step3.png)
 
 4.  Select your request details.
 
-    ![Select your requirement for the request.](../image/multi-prod-3p-step4.png)
+    ![Select your requirement for the request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step4.png)
 
 5.  Select your preferred supplier.
 
-    ![Add existing supplier in the system.](../image/multi-prod-3p-step5.png)
+    ![Add existing supplier in the system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step5.png)
 
     To add an existing supplier:
 
@@ -59,7 +59,7 @@ When a requester submits a sourcing intake form with multiple products, the thir
     3.  Select **Add**.
 6.  Select your delivery address and delivery date.
 
-    ![Selected a saved address for delivery address and as soon as possible for delivery date.](../image/multi-prod-3p-step6.png)
+    ![Selected a saved address for delivery address and as soon as possible for delivery date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step6.png)
 
 7.  Under **Products** section, select **Add**.
 
@@ -67,20 +67,20 @@ When a requester submits a sourcing intake form with multiple products, the thir
 
 8.  For each product, enter the product name, quantity or budget, delivery address, and delivery date.
 
-    ![Form to add product details.](../image/multi-prod-3p-step8.png)
+    ![Form to add product details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step8.png)
 
 9.  Enter the reason why you need these products.
 
-    ![Enter the reason to request the products.](../image/multi-prod-3p-step9.png)
+    ![Enter the reason to request the products.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-step9.png)
 
 10. Select **Submit**.
 
-    ![Multiple sourcing requests are created for the same purchase requisition.](../image/multi-prod-3p-result.png)
+    ![Multiple sourcing requests are created for the same purchase requisition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/multi-prod-3p-result.png)
 
 
 ## Result
 
 Multiple sourcing requests are created and linked to the same purchase record. All related requests are visible and manageable in the Source-to-Pay Workspace, and each sourcing request has its own sourcing event and RFQ identifier.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-integration-third-party-sourcing.md)
 

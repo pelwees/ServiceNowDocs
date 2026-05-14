@@ -17,7 +17,7 @@ As a CMDB administrator, you can use the CMDB success advisor landing page to co
 
 The CMDB success advisor landing page opens when you select CMDB success advisor from the Product highlights section in the Home view of CMDB Workspace, the Management view in CMDB Workspace, or the Data Governance tab in Service Graph Workspace.
 
-![Landing page of CMDB success advisor.](../image/cmdb-sa-landing-page.png "CMDB success advisor landing page")
+![Landing page of CMDB success advisor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/cmdb-sa-landing-page.png "CMDB success advisor landing page")
 
 ## Role required
 

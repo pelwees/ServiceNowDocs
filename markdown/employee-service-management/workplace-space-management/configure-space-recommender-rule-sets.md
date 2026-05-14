@@ -58,7 +58,7 @@ The Space Recommender Rule set is created.
 
 ## What to do next
 
-[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+[Create a Space Recommender rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 
-**Parent Topic:**[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+**Parent Topic:**[Create a Space Recommender rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 

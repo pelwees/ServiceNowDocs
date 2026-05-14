@@ -20,7 +20,7 @@ Table joins link different tables through shared fields. Joins enable you to acc
 
 Join fields defines the common attribute or key used to connect records in a child table with their corresponding parent records.
 
-For process details, see [Add joins between ERP tables](../task/erp-canvas-add-join-data-model.md).
+For process details, see [Add joins between ERP tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-add-join-data-model.md).
 
 <table id="table_alq_dmh_cyb"><thead><tr><th>
 
@@ -87,5 +87,5 @@ Statement operator
 Operator that defines the condition or comparison in your statement. The options are `AND` and `OR`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Zero Copy Connector for ERP field descriptions](erp-canvas-field-descriptions.md)
+</table>**Parent Topic:**[Zero Copy Connector for ERP field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-field-descriptions.md)
 

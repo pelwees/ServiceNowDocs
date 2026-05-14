@@ -150,7 +150,7 @@ Alternate name for these credentials. As an example, `cf` If this field is close
 
     4.  Right-click the header of the Discovery Schedule form and select **Save**.
 
-        ![Serverless execution pattern](../image/serverless-execution-pattern.png)
+        ![Serverless execution pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/serverless-execution-pattern.png)
 
     5.  Select the Serverless Execution Patterns tab.
     6.  Select **New**.
@@ -234,7 +234,7 @@ Alternate name for these credentials. As an example, `cf` If this field is close
 
     CloudFoundry Get Call parses the input JSON to populate the tables and variables.
 
-    ![Cloud Foundry custom operation](../image/cloud-foundry-custom-operation.png)
+    ![Cloud Foundry custom operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cloud-foundry-custom-operation.png)
 
 
 ## Pivotal Cloud Foundry BOSH extension section
@@ -1030,5 +1030,5 @@ Contains::Contained by
 BOSH Deployment \[cmdb\_ci\_bosh\_deployment\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

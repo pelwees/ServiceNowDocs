@@ -27,7 +27,7 @@ The **Outcome Recommendations** panel appears on the **Outcome Detail** page. Th
 -   Tailored ServiceNow University training recommendations derived from the capabilities associated with the selected outcome. Select a course to launch it in an external browser.
 -   Relevant training courses based on the user’s adoption level of each capability.
 
-![outcomes_learning_recommendations](../image/outcomes_learning_recommendation.png)
+![outcomes_learning_recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/outcomes_learning_recommendation.png)
 
 You can provide feedback by selecting thumbs-up ![](../../../reuse/icons/product-icons/thumbs-up-outline-24.svg) or thumbs-down ![](../../../reuse/icons/product-icons/thumbs-down-outline-24.svg). You can also provide feedback about the recommendation.
 

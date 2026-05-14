@@ -21,23 +21,23 @@ The Vaccine Administration Management application accelerates the immunization p
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how clinicians and healthcare providers use Vaccine Administration Management.](exploring-vaccine-administration-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how clinicians and healthcare providers use Vaccine Administration Management.](exploring-vaccine-administration-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](vaccine-mgmt-config.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](vaccine-mgmt-config.md)
 
 </td><td>
 
-[Register![](../../../reuse/icons/brand-icons/bus-manage.svg)Use the Patient Portal to register for a vaccination.](hcls-vam-user-experience.md)
+[Register![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../../reuse/icons/brand-icons/bus-manage.svg)Use the Patient Portal to register for a vaccination.](hcls-vam-user-experience.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-manager.svg)Use the Clinician Portal to find and manage vaccination appointments for users.](hcls-vam-clinician-experience.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../../reuse/icons/brand-icons/bus-manager.svg)Use the Clinician Portal to find and manage vaccination appointments for users.](hcls-vam-clinician-experience.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](vaccine-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](vaccine-management-reference.md)
 
 </td><td>
 

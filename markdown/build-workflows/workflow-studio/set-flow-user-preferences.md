@@ -27,16 +27,16 @@ Role required: admin or flow\_designer
 
 3.  Create or select the flow you want to edit.
 
-4.  Select the **More Actions menu** icon. ![The More Actions icon](../images/more-actions-menu-icon.png)
+4.  Select the **More Actions menu** icon. ![The More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/more-actions-menu-icon.png)
 
 5.  From the list of menu options, select **User preferences**.
 
-    ![User preferences option in the More Actions menu](../images/example-user-preferences-menu-option.png)
+    ![User preferences option in the More Actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-user-preferences-menu-option.png)
 
 6.  Select the user preferences you want for building and editing flows.
 
-    ![Sample user preferences selected](../images/example-user-preferfences-options.png)
+    ![Sample user preferences selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-user-preferfences-options.png)
 
-    For more information about available user preferences, see [User preferences for flows](../reference/flow-preferences.md).
+    For more information about available user preferences, see [User preferences for flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/flow-preferences.md).
 
 

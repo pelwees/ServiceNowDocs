@@ -23,7 +23,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  View all contracts by navigating to **Legal Contracts** &gt; **All Contracts**.
 
@@ -38,12 +38,12 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
     2.  In the **Contract History** related list, select a date in the **Contract Starts** column to view the earlier version.
 
 
-**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-sn-legal-contracts.md)
 
 **Related topics**  
 
 
-[Modify a contract record](snlc-modify-contract-rec.md)
+[Modify a contract record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-modify-contract-rec.md)
 
-[Manage clauses and contract templates](../concept/snlc-manage-clauses-ctemplates.md)
+[Manage clauses and contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-clauses-ctemplates.md)
 

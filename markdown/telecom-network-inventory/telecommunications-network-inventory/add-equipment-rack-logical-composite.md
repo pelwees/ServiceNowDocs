@@ -27,7 +27,7 @@ You can add only equipment or rack to a logical composite. The logical composite
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
 
 3.  Select the **New** button.
 
@@ -39,7 +39,7 @@ You can add only equipment or rack to a logical composite. The logical composite
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -103,12 +103,12 @@ List of equipment that you want to add to the logical composite.**Note:** This f
 
 The equipment or rack record is added to the logical composite record.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Create an equipment record by using design and assign](create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-record-design-and-assign.md)
 
-[Define a network model relationship](create-network-model-relationships.md)
+[Define a network model relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 

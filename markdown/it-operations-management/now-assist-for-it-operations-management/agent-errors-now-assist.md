@@ -29,10 +29,10 @@ Role required: agent\_client\_collector\_admin
 
 4.  Enable the **Now Assist** option by sliding the **Display** toggle switch to the right.
 
-    ![Display toggle bar](../image/ai-agent-toggle-bar.png "Display toggle bar")
+    ![Display toggle bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/ai-agent-toggle-bar.png "Display toggle bar")
 
     Now Assist retrieves information on errors within agents.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-use.md)
 

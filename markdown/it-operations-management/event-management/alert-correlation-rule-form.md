@@ -152,10 +152,10 @@ Relationship
 
 Description of the CI relationship between primary and secondary, for example, *Allocated from::Allocated to* or *Allocated to::Allocated from*. This field displays only if either **Primary is Parent** or **Primary is Child** is selected for the **Relationship Type**.
 
- ![Relationship](../image/alert-relationship-type.png)
+ ![Relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-relationship-type.png)
 
 This field does not appear when **Advanced** is selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

@@ -15,28 +15,28 @@ The XMLTemplate methods classify the templates and get the fields added to the t
 
 ## Clasify
 
-Classifies the template created. To see the steps to create templates, see [Use the XmlTemplate component](../task/configure-xml-template.md).
+Classifies the template created. To see the steps to create templates, see [Use the XmlTemplate component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-xml-template.md).
 
 You must first configure the method before executing it. To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the required template.
 3.  Click **OK**.
 
 -   **Input**
 
-    [FilePath](parameters-xmlTemplate-methods.md#parameter-input-clasify-filepath)
+    [FilePath](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-xmlTemplate-methods.md#parameter-input-clasify-filepath)
 
-    [Status](parameters-xmlTemplate-methods.md#parameter-input-clasify-status)
+    [Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-xmlTemplate-methods.md#parameter-input-clasify-status)
 
-    [Template](parameters-xmlTemplate-methods.md#parameter-input-clasify-template)
+    [Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-xmlTemplate-methods.md#parameter-input-clasify-template)
 
 
 ## GetFields
 
 Returns the fields that were added to the template. You must configure the method before using it. To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the required template.
 3.  Select the corresponding field.
 
@@ -44,5 +44,5 @@ Returns the fields that were added to the template. You must configure the metho
 
 4.  Click **OK**.
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/data-modellers.md)
 

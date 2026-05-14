@@ -13,7 +13,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 The Order Line Items form enables you to select, review, and modify the captured customer or service order line items.
 
-**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 ## Order Line items form - Details fields
 
@@ -83,9 +83,9 @@ State
 
 </td><td>
 
-Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon ![](../image/field-selection-list.png). **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [Order line item form states](order-mgt-state-values.md#section-cust-order-line-state).
+Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon ![](../image/field-selection-list.png). **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [Order line item form states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md#section-cust-order-line-state).
 
-For service order line item states, see [Service order states](service-order-mgt-state-values.md).
+For service order line item states, see [Service order states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/service-order-mgt-state-values.md).
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Type of action that is taking place in the order line item. Options include:
 -   Resume
 -   No change
 
- For more information, see [Action types for customer and service orders](../concept/order-mgt-customer-order-types.md).
+ For more information, see [Action types for customer and service orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-customer-order-types.md).
 
 </td></tr><tr><td>
 

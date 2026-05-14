@@ -40,5 +40,5 @@ You can cancel a universal request only if there are no active or closed primary
 6.  Select **Update**.
 
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/using-ur-sow.md)
 

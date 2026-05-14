@@ -29,7 +29,7 @@ Ensure you have the application key configured in the Datadog. For more informat
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -37,7 +37,7 @@ Ensure you have the application key configured in the Datadog. For more informat
 
 4.  In the **Browse Integrations** tab, select the **All integrations** drop-down list and select **Metrics** &gt; **Pull**.
 
-    ![Metric pull integrations.](../image/sow-metricintegration-pull.png)
+    ![Metric pull integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-metricintegration-pull.png)
 
     Only metric pull connector tiles are displayed.
 
@@ -71,7 +71,7 @@ Ensure you have the application key configured in the Datadog. For more informat
     -   in the **Application key** field, enter the application key that is associated with the user account.
 8.  If you want to customize configurations to meet specific requirements, select **Advanced settings** and fill in the form.
 
-    For more information on fields, see [Datadog advanced settings fields](../reference/datadog-advanced-settings-fields.md).
+    For more information on fields, see [Datadog advanced settings fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../reference/datadog-advanced-settings-fields.md).
 
 9.  Test the connector before activating it by selecting **Test and Save**.
 

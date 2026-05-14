@@ -30,7 +30,7 @@ Enabling an OpenSSL secure signing mechanism for plugins works with an Agent Cli
 
 1.  Create a plugin file with a `tar.gz` extension.
 
-    For more information, see [Create and edit Agent Client Collector plugins](create-edit-assets.md).
+    For more information, see [Create and edit Agent Client Collector plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-edit-assets.md).
 
 2.  Generate your own secure self-certificate for the plugin file.
 
@@ -92,5 +92,5 @@ Enabling an OpenSSL secure signing mechanism for plugins works with an Agent Cli
 8.  In the `acc.yml` file, set `verify-plugin-signature` to **true**.
 
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-certificates.md)
 

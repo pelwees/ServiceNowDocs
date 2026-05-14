@@ -87,5 +87,5 @@ The order in which your view displays.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Getting started with Digital Portfolio Management](../concept/dpm-using-cfx.md)
+**Parent Topic:**[Getting started with Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-using-cfx.md)
 

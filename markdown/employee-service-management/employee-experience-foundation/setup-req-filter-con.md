@@ -31,6 +31,6 @@ Role required: sn\_hr\_sp.esc\_admin
 
 5.  On the Request filter conditions form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Request filter condition form](../reference/filter-cond-form-req.md).
+    For a description of the field values, see [Request filter condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/filter-cond-form-req.md).
 
 

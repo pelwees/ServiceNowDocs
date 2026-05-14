@@ -31,7 +31,7 @@ Role required: sn\_lg\_investigate.config or admin
 
 4.  Select the **Active** option to enable the allegation type.
 
-    Only active allegation types are listed in the **Allegation type** field on the [Allegation form](add-allegation-matter.md) of a legal matter.
+    Only active allegation types are listed in the **Allegation type** field on the [Allegation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/add-allegation-matter.md) of a legal matter.
 
 5.  Save the allegation type.
 

@@ -17,7 +17,7 @@ Add the EAP teams that you frequently work with to Favorites so that you can sav
 
 ## Before you begin
 
-[Define agile structure in EAP](define-agile-structure-in-eap.md).
+[Define agile structure in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/define-agile-structure-in-eap.md).
 
 Role required: sn\_apw\_advanced.eap\_user
 
@@ -29,9 +29,9 @@ Role required: sn\_apw\_advanced.eap\_user
 
     1.  From the left navigation panel, locate the team that you want to favorite.
 
-    2.  Select the Add to favorites icon \(![Add to favorites icon.](../images/eap-add-favorite-star.png)\) next to the team name.
+    2.  Select the Add to favorites icon \(![Add to favorites icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-add-favorite-star.png)\) next to the team name.
 
-        ![Add EAP team to favorites.](../images/eap-add-favorite.png)
+        ![Add EAP team to favorites.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-add-favorite.png)
 
     The team is added to the Favorites section of the navigation panel.
 
@@ -39,12 +39,12 @@ Role required: sn\_apw\_advanced.eap\_user
 
     1.  From the Favorites section, locate the team that you want to remove.
 
-    2.  Select the Remove from favorites icon \(![Remove from favorites icon.](../images/eap-remove-favorite-star.png)\) next to the team name.
+    2.  Select the Remove from favorites icon \(![Remove from favorites icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-remove-favorite-star.png)\) next to the team name.
 
-        ![Remove EAP team from Favorites.](../images/eap-remove-favorite.png)
+        ![Remove EAP team from Favorites.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-remove-favorite.png)
 
     The team is removed from the Favorites section.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 

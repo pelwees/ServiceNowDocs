@@ -21,7 +21,7 @@ Role required: admin or delegated\_developer
 
 ## About this task
 
-The App Repo is one deployment option available in ServiceNow. You can also [create update sets](qs-create-update-set.md) to publish changes. If your company has a deployment pipeline configured, you can deploy changes through the pipeline in ServiceNow Studio. For more information about the App Repo, see [ServiceNow application repository](../../applications/concept/app-repo.md).
+The App Repo is one deployment option available in ServiceNow. You can also [create update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/qs-create-update-set.md) to publish changes. If your company has a deployment pipeline configured, you can deploy changes through the pipeline in ServiceNow Studio. For more information about the App Repo, see [ServiceNow application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../applications/concept/app-repo.md).
 
 ## Procedure
 
@@ -30,7 +30,7 @@ The App Repo is one deployment option available in ServiceNow. You can also [cre
 2.  Open the **App details** page for the application you want to update.
 
     -   On the ServiceNow Studio home page, select the **Deployment** tab, select **Applications**, then select your application from the **Name** column.
-    -   In the Navigator panel, select the Apps icon ![Apps icon](../image/sn-studio-app-nav-icon.png), select your application, then select **App details**.
+    -   In the Navigator panel, select the Apps icon ![Apps icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-app-nav-icon.png), select your application, then select **App details**.
 3.  On the App details page, select **Publish**.
 
 4.  In the **New version** field, enter a version number for the changes.

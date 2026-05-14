@@ -20,7 +20,7 @@ Set up a data input that periodically pulls log data from Splunk by using a quer
 
 -   Verify that a MID Server is installed and configured with the Log Ingestion capability enabled. For more information, see [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerSystemRequirements.md).
 
-    ![MID Server configuration with Log Ingestion capability enabled.](../image/hla-mid-log-ingestion.png)
+    ![MID Server configuration with Log Ingestion capability enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-mid-log-ingestion.png)
 
     **Important:** Health Log Analytics does not support IPv6. To work with the application, configure the MID Server to IPv4.
 
@@ -39,11 +39,11 @@ Role required: evt\_mgmt\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Splunk Polling data input configuration fields](../reference/hla-data-input-splunk-polling-ref.md).
+    For a description of the fields, see [Splunk Polling data input configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-data-input-splunk-polling-ref.md).
 
 5.  Select **Advanced** to set additional configuration fields.
 
-    On the **Transport tab** and **Advanced tab**, fill in the fields. For a description of the fields, see [Splunk Polling data input configuration fields](../reference/hla-data-input-splunk-polling-ref.md).
+    On the **Transport tab** and **Advanced tab**, fill in the fields. For a description of the fields, see [Splunk Polling data input configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-data-input-splunk-polling-ref.md).
 
 6.  Select **Save**.
 
@@ -62,5 +62,5 @@ Role required: evt\_mgmt\_admin
 8.  Select **Publish** to publish the data input to the MID Server.
 
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-inputs-configuring.md)
 

@@ -27,11 +27,11 @@ After comparing your existing records based on similarity, the system recommends
 
 When applied in your forms and flows, similarity solutions are domain-aware, so records from other domains on the instance are not displayed to users. For more information, see KB article [Similarity prediction behavior in domain separated environment](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2035643) on Now Support.
 
-For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md).
+For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../reference/predictive-intelligence-encryption.md).
 
 In this example procedure, you're working on Incident records and you want to locate relevant Knowledge Base articles that could provide resolutions to those incidents.
 
-![Form view of a new Predictive Intelligence similarity solution definition](../images/predictiveintel_similaritysolution_newW.png)
+![Form view of a new Predictive Intelligence similarity solution definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictiveintel_similaritysolution_newW.png)
 
 ## Procedure
 
@@ -75,7 +75,7 @@ If you have a legacy similarity solution, you can select a relevant word corpus 
 
  **Note:** Starting from the Washington DC release, a word corpus is not required because a pre-trained model is used instead. The **Word Corpus** field is not visible in the definition form for pre-trained models.
 
- For more information, see [Create a word corpus](create-word-corpus.md).
+ For more information, see [Create a word corpus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-word-corpus.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Stopwords
 
 </td><td>
 
-When you select your processing language, the system automatically adds a Stopwords list for that language. For example, if your processing language is Italian, the **Default Italian Stopwords** list appears. The **Default English Stopwords** list is also included.To use a custom stopwords list, select the lock icon\(![Lock icon.](../../../common/image/icon-lock.png) \) and then search in the **Select target record** field.
+When you select your processing language, the system automatically adds a Stopwords list for that language. For example, if your processing language is Italian, the **Default Italian Stopwords** list appears. The **Default English Stopwords** list is also included.To use a custom stopwords list, select the lock icon\(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../../../common/image/icon-lock.png) \) and then search in the **Select target record** field.
 
 </td></tr><tr><td>
 
@@ -180,5 +180,5 @@ However, for KB Knowledge article records, which are typically not created often
 
 ## What to do next
 
-Review the similarity examples on the Related Links section of your Solution form. See [Review solution similarity examples](review-similarity-examples.md).
+Review the similarity examples on the Related Links section of your Solution form. See [Review solution similarity examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 

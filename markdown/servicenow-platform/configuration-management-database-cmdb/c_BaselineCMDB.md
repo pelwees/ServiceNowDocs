@@ -75,7 +75,7 @@ Changes are displayed only for the cmdb\_ci table and child tables. You can chan
 
 3.  To add a relationship to the CI, click the green plus icon in the **Related Items** toolbar.
 
-    The new relationship appears below the toolbar. For more information about the Related Items toolbar and how to control the display, see [CI relations formatter](c_CIRelationsFormatterNG.md).
+    The new relationship appears below the toolbar. For more information about the Related Items toolbar and how to control the display, see [CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md).
 
 4.  Update a related CI and see the changes displayed as **Basic attribute changes** in the current CI record.
 
@@ -126,7 +126,7 @@ Lets you manually run the **CMDB Baseline convert XML to attachment** fix script
  -   Type: true \| false
 -   Default value: false
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Baseline CMDB](c_BaselineCMDB.md#)
+-   Learn more: [Baseline CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_BaselineCMDB.md#)
 
 </td></tr></tbody>
 </table>

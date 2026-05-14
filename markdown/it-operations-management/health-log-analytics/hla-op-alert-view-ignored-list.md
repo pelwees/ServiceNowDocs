@@ -32,12 +32,12 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
     |Created|Date and time when the metric was added to the list.|
 
 
-**Parent Topic:**[Mute an unimportant alert in Health Log Analytics](hla-op-alert-mute-sow.md)
+**Parent Topic:**[Mute an unimportant alert in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-mute-sow.md)
 
 **Related topics**  
 
 
-[Mute an unimportant alert in Health Log Analytics](hla-op-alert-mute-sow.md)
+[Mute an unimportant alert in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-mute-sow.md)
 
-[Restore normal importance to an alert metric in Health Log Analytics](hla-op-alert-restore-user-defined-sow.md)
+[Restore normal importance to an alert metric in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-restore-user-defined-sow.md)
 

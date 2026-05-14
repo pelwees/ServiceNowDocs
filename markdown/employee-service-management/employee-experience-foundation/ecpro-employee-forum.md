@@ -17,7 +17,7 @@ Employee Forums delivers Communities features to the Employee Center Pro portal 
 
 Employee Forums enhances employee self-service by providing access to Communities through an out-of-the-box menu item, which takes users to the community where they can post, view, and subscribe to topics.
 
-![The Communities plugin includes an out-of-the-box menu item for employee forums](../images/emp-forum-menu.jpg)
+![The Communities plugin includes an out-of-the-box menu item for employee forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/emp-forum-menu.jpg)
 
 Employee Forums integrate with campaigns and content publishing so that:
 

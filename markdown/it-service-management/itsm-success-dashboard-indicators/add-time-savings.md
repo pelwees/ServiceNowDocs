@@ -34,5 +34,5 @@ Role required: sn\_sd.success\_dashboard\_admin
     **Note:** You can update the record only in the application scope.
 
 
-**Parent Topic:**[Configure Success Dashboard indicators KPIs](config-kpis-sdb.md)
+**Parent Topic:**[Configure Success Dashboard indicators KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/config-kpis-sdb.md)
 

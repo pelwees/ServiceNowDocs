@@ -25,14 +25,14 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 ## About this task
 
-The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](../concept/itom-autonomous-operator-workflow.md).
+The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/itom-autonomous-operator-workflow.md).
 
 **Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
 There are several ways to explore AI insights in Express List.
 
 -   Quickly review if alerts have been processed by checking for the AI insights badge ![](../image/ai-insights-icon.png).
--   Search for specific information and key words in the Insights column. To add the column, see [Add or modify Express List columns](../../service-operations-workspace-itom/task/edit-list-columns-el.md) for more information.
+-   Search for specific information and key words in the Insights column. To add the column, see [Add or modify Express List columns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/task/edit-list-columns-el.md) for more information.
 -   Filter for information by using the **Insights** filter attribute in the filter panel.
 -   Review **AI insights** in the preview panel or the alert record.
 
@@ -41,7 +41,7 @@ These options present differently, depending on whether the workflow is configur
 -   When the workflow operates automatically, alerts are addressed as they’re created and AI insight information is displayed in Express List.
 -   When the workflow operates manually, you must manually generate AI insights. For more information, see details in the following procedure.
 
-For information about configuring this workflow, see [Configure the manage alerts autonomously agentic workflow](configure-manage-alerts-autonomously-workflow.md).
+For information about configuring this workflow, see [Configure the manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/configure-manage-alerts-autonomously-workflow.md).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Procedure
 
 </td><td>
 
-Search for content with the free text search. For more information, see [Find alert records in Express List using text search](../../service-operations-workspace-itom/task/el-free-text-search.md).
+Search for content with the free text search. For more information, see [Find alert records in Express List using text search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/task/el-free-text-search.md).
 
 </td></tr><tr><td id="d123129e261">
 
@@ -83,7 +83,7 @@ Search for content with the free text search. For more information, see [Find al
 
 </td><td>
 
-Filter using the **Insights** attribute with a minimum string of two characters. For more information, see [Filtering the alert display in the Express List pane](../../service-operations-workspace-itom/concept/filter-express-list.md).
+Filter using the **Insights** attribute with a minimum string of two characters. For more information, see [Filtering the alert display in the Express List pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/concept/filter-express-list.md).
 
 </td></tr><tr><td id="d123129e280">
 
@@ -91,7 +91,7 @@ Filter using the **Insights** attribute with a minimum string of two characters.
 
 </td><td>
 
-1.  In the alerts list, select an alert by selecting the check box or the information icon ![Information icon.](../../event-management/image/info.png) next to the alert.
+1.  In the alerts list, select an alert by selecting the check box or the information icon ![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/image/info.png) next to the alert.
 2.  -   In the **Insights** tab, review **AI insights**.
 -   If data isn’t available for this alert, you can initiate the process by selecting **Generate**.
 

@@ -27,12 +27,12 @@ Portfolio managers can create personalized views as needed by applying settings 
 
 **Note:** Views are available only for the Planning module and are supported in live mode, but not in scenario mode.
 
--   **[Create a portfolio plan view](../task/create-portfolio-plan-view-spw.md)**  
+-   **[Create a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/create-portfolio-plan-view-spw.md)**  
 Create a customized portfolio plan view based on your requirements, so you can access it when you log in again and share it with stakeholders for collaboration.
--   **[Edit a portfolio plan view](../task/edit-portfolio-plan-view-spw.md)**  
+-   **[Edit a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/edit-portfolio-plan-view-spw.md)**  
 Edit a customized portfolio plan view based on your requirements, so you can access it when you log in again and share it with stakeholders for collaboration.
--   **[Delete a portfolio plan view](../task/delete-portfolio-plan-view-spw.md)**  
+-   **[Delete a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/delete-portfolio-plan-view-spw.md)**  
 Delete a customized portfolio plan view if it is no longer needed or if the maximum limit of ten shared or three private views has been reached.
 
-**Parent Topic:**[Portfolio Planning in Strategic Planning Workspace](planning-in-spw.md)
+**Parent Topic:**[Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-in-spw.md)
 

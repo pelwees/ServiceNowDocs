@@ -25,11 +25,11 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Add** &gt; **New Action**.
 
-    ![New action button highlighted on the home page.](../image/create-new-action.png)
+    ![New action button highlighted on the home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/create-new-action.png)
 
 2.  On the Action form, fill in the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form.md).
+    For a description of the field values, see [Action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/action-form.md).
 
 3.  Select **Save**.
 
@@ -38,5 +38,5 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 The new action is displayed in the action list and the list of all tasks.
 
-**Parent Topic:**[Action Management](../concept/industrial-action-management.md)
+**Parent Topic:**[Action Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/industrial-action-management.md)
 

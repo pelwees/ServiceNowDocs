@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Select **Source control** &gt; **Edit repository configuration**.
 
-    ![Edit Repository Configuration menu item](../../app-engine-studio/image/source-control-edit-repo-purple.png)
+    ![Edit Repository Configuration menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../app-engine-studio/image/source-control-edit-repo-purple.png)
 
 5.  On the form, fill in the fields.
 
@@ -90,10 +90,10 @@ Credential
 Saved credentials to use for the source control connection. All application developers on the instance share a single set of credentials per repository. For information on working with credentials, see [Get started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-getting-started.md).
 
 </td></tr></tbody>
-</table>    ![View and edit application repository configurations](../../app-engine-studio/image/aes-app-properties-repo-purple.png)
+</table>    ![View and edit application repository configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../app-engine-studio/image/aes-app-properties-repo-purple.png)
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Source control integration in ServiceNow Studio](../concept/source-control-integration.md)
+**Parent Topic:**[Source control integration in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/source-control-integration.md)
 

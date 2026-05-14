@@ -65,5 +65,5 @@ Install Now Assist for FSO by requesting it from the ServiceNow Store. Visit the
     Leverage the new skills and AI agents in the Customer 360 and Interaction pages in Agentic Contact Center for Banking.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

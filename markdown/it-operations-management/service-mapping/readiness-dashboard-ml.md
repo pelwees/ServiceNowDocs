@@ -31,7 +31,7 @@ service\_mapping\_admin
 
 ## Access the Application service readiness dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **Service Mapping**. Then select the Application service readiness icon![application service readiness icon](../image/readiness-dashboard-navigation.png). ![Assessment dashboard](../image/readiness-dashboard.png)
+To open the dashboard, navigate to **Workspaces** &gt; **Service Mapping**. Then select the Application service readiness icon![application service readiness icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/readiness-dashboard-navigation.png). ![Assessment dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/readiness-dashboard.png)
 
 ## Reports
 
@@ -59,7 +59,7 @@ Mapping status of application service
 
 </td><td>
 
-A bar report![Bar report icon](../../../use/reporting/image/icon-bar-report-p.png)
+A bar report![Bar report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../../use/reporting/image/icon-bar-report-p.png)
 
 </td><td>
 
@@ -67,7 +67,7 @@ ML-Related Service Status \[ml\_related\_service\_status\]
 
 </td><td>
 
-A bar report that provides the summary of ML-related issues in mapped application services. For detailed information, see [Mapping status of application services](readiness-dashboard-ml.md#section_kpj_npq_xrb).
+A bar report that provides the summary of ML-related issues in mapped application services. For detailed information, see [Mapping status of application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md#section_kpj_npq_xrb).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Application fingerprints training status
 
 </td><td>
 
-A donut report![Donut report icon](../../../use/reporting/image/icon-donut-report-p.png)
+A donut report![Donut report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../../use/reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Traffic-based connection suggestions for existing discovered services
 
 </td><td>
 
-A donut report![Donut report icon](../../../use/reporting/image/icon-donut-report-p.png)
+A donut report![Donut report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../../use/reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -194,18 +194,18 @@ Ensure that the **Status** of the **Service Mapping - Traffic Process to Process
 
 Review the list of service instances most affected by ML-related issues. The list of most affected services is available if the connection suggestions feature is enabled in your deployment. The list shows service names and the number of ML-related issues for each of them. It also indicates if the traffic-based feature is enabled for the services.
 
-**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
 **Related topics**  
 
 
-[Learn about ADME probes](../../discovery/reference/r_DataCollDiscoTCPConnections.md)
+[Learn about ADME probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/reference/r_DataCollDiscoTCPConnections.md)
 
-[Enable and configure discovery using ADME probes](../../discovery/reference/r_DiscoveryProperties.md)
+[Enable and configure discovery using ADME probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/reference/r_DiscoveryProperties.md)
 
-[Calibrate fingerprint-based discovery](../../discovery/concept/calibrate-process-based-discovery.md#)
+[Calibrate fingerprint-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/concept/calibrate-process-based-discovery.md#)
 
-[Ensure that the fingerprint-based discovery generates suggestions](../../discovery/concept/calibrate-process-based-discovery.md#)
+[Ensure that the fingerprint-based discovery generates suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/concept/calibrate-process-based-discovery.md#)
 
 [Troubleshooting guide for Service Mapping ML Connection Suggestions \[KB0963421\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0963421)
 

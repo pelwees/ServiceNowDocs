@@ -29,7 +29,7 @@ The following items are installed with Field Service Template Management:
 -   Script includes
 -   Business roles
 
-For more information, see [Template Management for Field Service components](../reference/template-management-components.md).
+For more information, see [Template Management for Field Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/template-management-components.md).
 
 ## Procedure
 

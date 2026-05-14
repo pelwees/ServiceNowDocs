@@ -27,10 +27,10 @@ ServiceNow Vault is best used with other ServiceNow security products. Make the 
 
     |Status|Description|
     |------|-----------|
-    |![Limited access](../images/vault-tool-status-1.png)|Tool has a limited access license. Reported metrics may be affected or unavailable.|
-    |![Included with platform](../images/vault-tool-status-2.png)|Tool is included by default with the platform|
-    |![Needs license](../images/vault-tool-status-3.png)|Tool has no license. Reported metrics may be affected or unavailable.|
-    |![Premium license](../images/vault-tool-status-4.png)|Tool has full access.|
+    |![Limited access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/vault-tool-status-1.png)|Tool has a limited access license. Reported metrics may be affected or unavailable.|
+    |![Included with platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/vault-tool-status-2.png)|Tool is included by default with the platform|
+    |![Needs license](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/vault-tool-status-3.png)|Tool has no license. Reported metrics may be affected or unavailable.|
+    |![Premium license](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/vault-tool-status-4.png)|Tool has full access.|
 
 3.  If a status is either limited or needs a license, review its respective installation page.
 
@@ -44,15 +44,15 @@ Installation page
 
 </th></tr></thead><tbody><tr><td>
 
-[Data Discovery](../../security/concept/data-discovery-landing.md)
+[Data Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/data-discovery-landing.md)
 
 </td><td>
 
-[Activating Data Discovery](../../security/task/activate-data-discovery.md)
+[Activating Data Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/task/activate-data-discovery.md)
 
 </td></tr><tr><td>
 
-[Data Classification](../../security/concept/data-classification.md)
+[Data Classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/data-classification.md)
 
 </td><td>
 
@@ -60,15 +60,15 @@ Included with the platform.
 
 </td></tr><tr><td>
 
-[Data anonymization](../../data-privacy-store/concept/dps-data-anonymization.md)
+[Data anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../data-privacy-store/concept/dps-data-anonymization.md)
 
 </td><td>
 
-[Activate data privacy](../../data-privacy-store/task/dps-activate-data-privacy.md)**Note:** Data anonymization is installed as part of [Data privacy](../../data-privacy-store/concept/dps-data-privacy.md).
+[Activate data privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../data-privacy-store/task/dps-activate-data-privacy.md)**Note:** Data anonymization is installed as part of [Data privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../data-privacy-store/concept/dps-data-privacy.md).
 
 </td></tr><tr><td>
 
-[Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)
+[Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption-dare/concept/dare-overview.md)
 
 </td><td>
 
@@ -76,22 +76,22 @@ Included with the platform.
 
 </td></tr><tr><td>
 
-[Field Encryption](../../encryption/concept/field-encryption.md)
+[Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/field-encryption.md)
 
 </td><td>
 
-[Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md)
+[Activate Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-platform-encryption/task/activate-platform-encryption.md)
 
 </td></tr><tr><td>
 
--   [Zero Trust Access \(ZTA\)](../../../integrate/authentication/concept/session-access.md)
--   [Continuous Authentication \(CA\)](../../../integrate/authentication/concept/ca-homepage.md)
+-   [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/authentication/concept/session-access.md)
+-   [Continuous Authentication \(CA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/authentication/concept/ca-homepage.md)
 
 
 </td><td>
 
--   [Activating Zero Trust Access](../../../integrate/authentication/task/activate-session-access.md)
--   [Activating Continuous Authentication](../../../integrate/authentication/task/activate-continuous-authentication.md)
+-   [Activating Zero Trust Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/authentication/task/activate-session-access.md)
+-   [Activating Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/authentication/task/activate-continuous-authentication.md)
 
 
 </td></tr></tbody>

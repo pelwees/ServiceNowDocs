@@ -28,8 +28,8 @@ ServiceNow HTTP client code means:
 
 Users should monitor performance, such as the decreased time for loading Discovery data and improved ODBC driver performance. For systems with an unusually large amount of simultaneous outbound HTTP\(S\) activity, such as numerous third-party integrations or high-volume automated activities which generate HTTP\(S\) requests from the base system instance to other places, review the `max_connections` and `max_connections_per_host` properties to ensure that the settings are sufficient. This enhancement has no impact on end-user connections from browsers and no impact on connections from customer-developed Web Services client applications.
 
--   **[HTTP Connection Management Properties](r_HTTPConnectionManagementProps.md)**  
+-   **[HTTP Connection Management Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_HTTPConnectionManagementProps.md)**  
 Connection pooling is controlled by three properties.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../outbound-web-services/concept/additional-integration-resources.md)
 

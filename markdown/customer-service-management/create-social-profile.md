@@ -91,5 +91,5 @@ The link to the user's social media account.
 **Related topics**  
 
 
-[Social media communication channel](../concept/social-media-integration.md)
+[Social media communication channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/social-media-integration.md)
 

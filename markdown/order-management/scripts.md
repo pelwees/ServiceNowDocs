@@ -153,5 +153,5 @@ The scripting interface includes built-in tools:
 **Related topics**  
 
 
-[Create scripts](scripting.md)
+[Create scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/scripting.md)
 

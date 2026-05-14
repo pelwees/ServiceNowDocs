@@ -19,12 +19,12 @@ When a task is qualified or marked as **Ready for Work**, the following evaluati
 
     For more information on how the ratings are calculated, see:
 
-    -   [Agent auto assignment using location](c_AgentAutoAssignmentUsingLocation.md)
-    -   [Agent auto assignment using skills](c_AgentAutoAssignmentUsingSkills.md)
-    -   [Agent auto assignment using time zones](c_AgAtAssgnZones.md)
+    -   [Agent auto assignment using location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignmentUsingLocation.md)
+    -   [Agent auto assignment using skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignmentUsingSkills.md)
+    -   [Agent auto assignment using time zones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnZones.md)
 2.  If the **Auto-selection of agents will consider agent or task schedules** configuration option is enabled, the schedules of the agents whose ratings are acceptable for auto-assignment are compared to the schedule for the task, and the agent with the best match is auto-assigned. For more information on time-based methods for auto-assigning agents, see:
-    -   [Agent auto assignment using schedules](c_AgAtAssgnSchd.md)
-    -   [Agent auto assignment using priority assignment](c_AgentAutoAssignUsePrioAssign.md)
+    -   [Agent auto assignment using schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnSchd.md)
+    -   [Agent auto assignment using priority assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignUsePrioAssign.md)
 
 Auto assignment is based on the following calculation:
 
@@ -53,5 +53,5 @@ Auto assignment for the agents uses this calculation:
 
 In this example, Agent A is auto assigned the task.
 
-**Parent Topic:**[Agent auto assignment](../../service-management-core/concept/c_AgentAutoAssignment.md)
+**Parent Topic:**[Agent auto assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../service-management-core/concept/c_AgentAutoAssignment.md)
 

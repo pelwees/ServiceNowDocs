@@ -19,7 +19,7 @@ Define user access to define who has read access to internal learning content.
 
 Role required: admin
 
-Create internal learning content. For more information, see [Create internal Learning content](create-internal-learning-content.md).
+Create internal learning content. For more information, see [Create internal Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ Create internal learning content. For more information, see [Create internal Lea
     **Note:** When a user is present in both Can Read and Cannot Read related lists then Cannot Read takes precedence, and the user is restricted from read access to that internal learning course.
 
 
-**Parent Topic:**[Create internal Learning content](create-internal-learning-content.md)
+**Parent Topic:**[Create internal Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md)
 

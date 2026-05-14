@@ -39,7 +39,7 @@ When a space request is submitted, a workplace case is created in the applicatio
 -   Add work notes on the request. Work notes are displayed only to the space planner who is working on that request.
 -   Add comments on the request so that the user can view. You can inform the progress or notify them with any information that they must know.
 
-For a detailed information about the functionality, views, and states, refer to [Space request approvals, states, actions, and key features](../reference/space-request-states-and-view.md).
+For a detailed information about the functionality, views, and states, refer to [Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../reference/space-request-states-and-view.md).
 
 **Note:** You can deploy only a space request that is in the Approved state.
 
@@ -53,7 +53,7 @@ For a detailed information about the functionality, views, and states, refer to 
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select **Space Optimization** icon \(![Space optimization.](../images/space-optimization-icon.png)\).
+2.  On the left pane, select **Space Optimization** icon \(![Space optimization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-optimization-icon.png)\).
 
     The Space optimization dashboard opens.
 
@@ -67,7 +67,7 @@ For a detailed information about the functionality, views, and states, refer to 
 
 5.  Select the workplace case of the space request that you want to work on.
 
-    The workplace case opens in a separate tab and displays various details of the request. For detailed information of the various options displayed on the request, refer to [Space request approvals, states, actions, and key features](../reference/space-request-states-and-view.md).
+    The workplace case opens in a separate tab and displays various details of the request. For detailed information of the various options displayed on the request, refer to [Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../reference/space-request-states-and-view.md).
 
 6.  In the **Workplace Case** panel, you can perform any of the following:
 
@@ -92,7 +92,7 @@ For a detailed information about the functionality, views, and states, refer to 
 
     The legend of the color related with each department is displayed on the right panel.
 
-    **Note:** You can view the floor map only if the floor on which the space plan is made has a floor map configured. Ensure that you have configured Indoor Mapping as your map provider to view maps and have the Indoor Mapping components plugin. For more information, see [Customize the map properties](../../workplace-space-mapping/task/wsm-configure-map-properties.md).
+    **Note:** You can view the floor map only if the floor on which the space plan is made has a floor map configured. Ensure that you have configured Indoor Mapping as your map provider to view maps and have the Indoor Mapping components plugin. For more information, see [Customize the map properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-mapping/task/wsm-configure-map-properties.md).
 
 12. After making changes, select **Save**.
 
@@ -114,30 +114,30 @@ The space plan is deployed for the space request. The state of the request is ch
 -   If any one workplace case associated with an allocation is unsuccessful, that is, if the state is changed to Closed incomplete. In such cases, the deployment fails and the state of the space request is set to Closed incomplete. You can add comments if you want to notify the user with the failure details.
 -   If all the workplace cases associated with allocations are successfully implemented, that is, they all have the state set to Closed complete, then the deployment is successful. When the deployment is successful, the space request is set to Closed complete.
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-space-optimization.md)
 
 **Related topics**  
 
 
-[Create a scenario](create-a-scenario.md)
+[Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
-[Review a scenario](review-a-scenario.md)
+[Review a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/review-a-scenario.md)
 
-[Publish a scenario](publish-a-scenario.md)
+[Publish a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md)
 
-[Send a scenario for approval](send-a-scenario-for-approval.md)
+[Send a scenario for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/send-a-scenario-for-approval.md)
 
-[Change owner of a scenario](change-owner-of-a-scenario.md)
+[Change owner of a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/change-owner-of-a-scenario.md)
 
-[Deploy a scenario](deploy-a-scenoria.md)
+[Deploy a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/deploy-a-scenoria.md)
 
-[View scenario change details](view-scenario-change-details.md)
+[View scenario change details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-scenario-change-details.md)
 
-[Create a copy of an existing scenario](create-copy-of-scenario.md)
+[Create a copy of an existing scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md)
 
-[View or edit space allocations of a building](view-or-edit-space-alloctions-of-a-building.md)
+[View or edit space allocations of a building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-or-edit-space-alloctions-of-a-building.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/map-based-space-administration.md)
 

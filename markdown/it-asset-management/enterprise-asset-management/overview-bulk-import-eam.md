@@ -38,7 +38,7 @@ Modes refer to the type of import that you want to process. There are modes for 
 
 Based on the mode you select in the import record, you can download the corresponding template.
 
-**Note:** Ensure that you enter valid values in all the mandatory fields for the import process to run effectively. For a list of all the mandatory fields, see [Mandatory fields in the bulk import spreadsheets](../reference/mandatory-bulk-fields.md).
+**Note:** Ensure that you enter valid values in all the mandatory fields for the import process to run effectively. For a list of all the mandatory fields, see [Mandatory fields in the bulk import spreadsheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/mandatory-bulk-fields.md).
 
 <table id="table_ofy_kbk_3xb"><thead><tr><th>
 
@@ -100,7 +100,7 @@ You can customize the templates to add more columns. Make the following modifica
 
 The following scheduled jobs execute as part of the EAM Bulk Import subflow.
 
-![Scheduled jobs for bulk import](../image/bulk-import-scheduledjobs.png)
+![Scheduled jobs for bulk import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/bulk-import-scheduledjobs.png)
 
 The scheduled jobs execute based on the mode that you select.
 

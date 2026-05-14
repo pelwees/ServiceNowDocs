@@ -66,7 +66,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a Discovery schedule**
 
-    To configure a Discovery schedule through Discovery Admin Workspace, see [Create an IBM Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-ibm-schedule-DAW.md).
+    To configure a Discovery schedule through Discovery Admin Workspace, see [Create an IBM Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/task/create-ibm-schedule-DAW.md).
 
     To configure a serverless Discovery schedule:
 
@@ -84,7 +84,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     4.  Right-click the header of the Discovery Schedule form and select **Save**.
 
-        ![Serverless execution pattern](../image/serverless-execution-pattern.png)
+        ![Serverless execution pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/serverless-execution-pattern.png)
 
     5.  Click the **Serverless Execution Patterns** tab.
     6.  Click **New**.
@@ -112,7 +112,7 @@ Pattern
 
 </td><td>
 
-Name of the pattern that you want to run.![IBM patterns](../image/ibm-patterns.png)
+Name of the pattern that you want to run.![IBM patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/ibm-patterns.png)
 
  If you want to run multiple patterns, create multiple records.
 
@@ -154,14 +154,14 @@ Option for enabling this schedule for Discovery. Select this check box to enable
 
     -   Specify all the fields with the same values as in the Cloud REST Query custom operation, except to specify the table for the response, which is set in the **Response Variable Name** field.
 
-        ![Response field](../image/response-variable-name.png)
+        ![Response field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/response-variable-name.png)
 
     -   Set **Define parsing** to None.
     Methods to retrieve data for the IBM account
 
     1.  Navigate to **Pattern Designer** &gt; **Custom Operations**.
 
-        ![Cloud REST query](../image/cloud-rest-query.png)
+        ![Cloud REST query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cloud-rest-query.png)
 
     2.  Click **Cloud REST – add response to context**.
     Method: Get Call
@@ -587,11 +587,11 @@ Option for enabling this schedule for Discovery. Select this check box to enable
 
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/tag_discovery_configuration.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/query-service-account-ldc-fields.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -2310,7 +2310,7 @@ Status of last execution of Discover Datacenters.
 </td></tr></tbody>
 </table>-   **IBM Cloud Virtual Server – Related Items view**
 
-    ![IBM Cloud Virtual Server – Related Items view](../image/ibm-vserver-related-items-1.png)
+    ![IBM Cloud Virtual Server – Related Items view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/ibm-vserver-related-items-1.png)
 
 
 ## CI Relationships
@@ -2486,5 +2486,5 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+</table>**Parent Topic:**[Available cloud discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns-cloud.md)
 

@@ -15,7 +15,7 @@ Learn about the SharePoint Online Search Connector searches and the results disp
 
 This example shows the SharePoint Online Search Connector search results page. Based on your settings, the layout and appearance may vary. For more information, see [View configurations, view templates, and configuration bundles for EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/use-configuration-bundle.md).
 
-![SharePoint tab on the search results page.](../image/sp-search.png "Search results")
+![SharePoint tab on the search results page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/sp-search.png "Search results")
 
 For more information, see the [Using AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md) page.
 

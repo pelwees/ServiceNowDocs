@@ -44,10 +44,10 @@ After you download the script file, perform the following steps.
     You can now access the Supplier Collaboration Portal.
 
 
-**Parent Topic:**[Enable access to Supplier Collaboration Portal](enable-access-supp-central.md)
+**Parent Topic:**[Enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-access-supp-central.md)
 
 **Related topics**  
 
 
-[Enable access to Supplier Collaboration Portal](enable-access-supp-central.md)
+[Enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-access-supp-central.md)
 

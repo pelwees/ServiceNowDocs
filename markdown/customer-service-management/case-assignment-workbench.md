@@ -20,7 +20,7 @@ The assignment workbench displays all the relevant information for task assignme
 -   An overall ranking for each agent in the assignment group.
 -   A filter with the current assignment group and the skills identified for the task, including any mandatory skills.
 
-![Task Assignment Workbench displaying suggested team members, their skills, availability, and assigned cases.](../image/CaseAssignWorkbench.png "Assignment Workbench")
+![Task Assignment Workbench displaying suggested team members, their skills, availability, and assigned cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/CaseAssignWorkbench.png "Assignment Workbench")
 
 Agents are ranked from 1 to any number based on the criteria configured for the workbench. The more criteria that matches, the higher an agent's rank. When the criteria for two agents is the same, the agents have the same rank. Point to an agent's rank to display the details.
 
@@ -29,7 +29,7 @@ Use the filter to change the assignment group and to add or remove skills. Chang
 -   Changing the assignment group displays a different list of agents.
 -   Adding or removing skills can change the agent ranking.
 
-If you are using the [mandatory skills](configure-mandatory-skills-feature.md) feature, the agents displayed in the assignment workbench are filtered by the skills in the **Mandatory Skills Added** list and then ranked by the other matching criteria.
+If you are using the [mandatory skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-mandatory-skills-feature.md) feature, the agents displayed in the assignment workbench are filtered by the skills in the **Mandatory Skills Added** list and then ranked by the other matching criteria.
 
 **Note:** Agents cannot add or remove mandatory skills or make a skill not mandatory.
 
@@ -51,7 +51,7 @@ If you are using mandatory skills, you must replace the **Matching Skills** crit
 
 ## Using the assignment workbench
 
-Access the assignment workbench by clicking the Find Agents icon \(![Find Agents icon.](../image/FindAgentsIcon.png)\) next to the **Assigned to** field on the task form.
+Access the assignment workbench by clicking the Find Agents icon \(![Find Agents icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/FindAgentsIcon.png)\) next to the **Assigned to** field on the task form.
 
 **Note:** The state of the current record determines the availability of the Find Agents icon. The icon is available for records in the **Open**, **Awaiting**, and **Cancelled** states, and if the user has write access for the **Assigned to** field. The icon is not available for records in the **New** or **Closed** states or when the **Assigned to** field is read-only for the current user.
 
@@ -183,5 +183,5 @@ Number of agents per page. \(To get better performance, do not use more than 50 
 </table>**Related topics**  
 
 
-[Configure assignment workbench](../task/configure-assignment-workbench.md)
+[Configure assignment workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-assignment-workbench.md)
 

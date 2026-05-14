@@ -17,7 +17,7 @@ You can create customized catalogs where you can request items such as a specifi
 
 ## Service Catalog use case
 
-Catalogs contain catalog items and are the starting points for accessing available services. Request Catalogs and Product Catalogs are two of the customized catalogs you can create from the Service Catalog. For details, see [Service Catalog](service-catalog.md).
+Catalogs contain catalog items and are the starting points for accessing available services. Request Catalogs and Product Catalogs are two of the customized catalogs you can create from the Service Catalog. For details, see [Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md).
 
 -   A Request Catalog is a list of business and technical products, services, service commitment options, and offerings that you can order.
 
@@ -40,7 +40,7 @@ The Catalog Item form includes the following tabs.
 -   Pricing: Pricing details for the catalog item.
 -   Portal Settings: Provides specific settings on how you interact with the catalog item in the catalog portal.
 
-![Catalog Item form with numbered fields.](../../csdm-implementation/image/catalog-items.png "Catalog Item form")
+![Catalog Item form with numbered fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../csdm-implementation/image/catalog-items.png "Catalog Item form")
 
 ## Product Catalog use case
 
@@ -52,11 +52,11 @@ A detailed and well-maintained Product Catalog can coordinate with the Service C
 
 This use case lets you include hardware and software product information as items in the Product Catalog.
 
-![Product Catalog items.](../../csdm-implementation/image/product-cat-items.png "Product Catalog items")
+![Product Catalog items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../csdm-implementation/image/product-cat-items.png "Product Catalog items")
 
 ## Results of Product Catalog use case
 
 The CSDM framework ensures that product models are available in the catalog and that there are processes defined to consume the models.
 
-**Parent Topic:**[Service Catalog and CSDM](request-cat-use-case-product-view.md)
+**Parent Topic:**[Service Catalog and CSDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-use-case-product-view.md)
 

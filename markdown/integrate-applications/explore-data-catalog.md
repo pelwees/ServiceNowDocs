@@ -21,19 +21,19 @@ The Data Catalog addresses a common enterprise challenge. Data exists across doz
 
 Search and discovery:
 
-Find data assets through keyword search, faceted filtering, and browsing by source system, domain, or collection. Search looks across asset names, descriptions, tags, classifications, and business glossary terms. Results include trust scores and quality indicators. ![View of data assets in the data catalog](../image/data-catalog-home.png)
+Find data assets through keyword search, faceted filtering, and browsing by source system, domain, or collection. Search looks across asset names, descriptions, tags, classifications, and business glossary terms. Results include trust scores and quality indicators. ![View of data assets in the data catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/data-catalog-home.png)
 
 Asset details and relationships:
 
-View comprehensive details for each data asset including schema, field descriptions, ownership, data classifications, and data relationships, including lineage. ![View details of a data asset](../image/dc-data-asset-details.png)
+View comprehensive details for each data asset including schema, field descriptions, ownership, data classifications, and data relationships, including lineage. ![View details of a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-data-asset-details.png)
 
 Business glossary:
 
-Create and maintain business glossary terms that define enterprise data vocabulary. Link glossary terms to catalog assets to provide business context. This promotes consistent use of data definitions across the organization. ![List of glossary terms](../image/dc-glossary-list.png)
+Create and maintain business glossary terms that define enterprise data vocabulary. Link glossary terms to catalog assets to provide business context. This promotes consistent use of data definitions across the organization. ![List of glossary terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-glossary-list.png)
 
 Metadata collectors:
 
-Automated scanners that connect to source systems, discover schemas, and build lineage relationships. They populate the Data Catalog with technical metadata. Collectors run on schedules or on demand to keep catalog metadata current as source systems evolve. ![List of metadata collectors](../image/dc-mcollector-list.png)
+Automated scanners that connect to source systems, discover schemas, and build lineage relationships. They populate the Data Catalog with technical metadata. Collectors run on schedules or on demand to keep catalog metadata current as source systems evolve. ![List of metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-mcollector-list.png)
 
 ## Data Catalog users
 
@@ -68,7 +68,7 @@ This lifecycle shows the distinct phases of discovery, governance, and consumpti
 
 To learn more about using the Data Catalog, see:
 
--   [Configuring metadata collectors](configure-metadata-collectors-dc.md)
--   [Finding and accessing data assets](find-access-data-assets-dc.md)
--   [Governing the Data Catalog](manage-data-catalog.md)
+-   [Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
+-   [Finding and accessing data assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/find-access-data-assets-dc.md)
+-   [Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/manage-data-catalog.md)
 

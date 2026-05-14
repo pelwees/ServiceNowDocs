@@ -20,16 +20,16 @@ On a regulatory change management case, select **Discuss** from other options. C
 -   Identify subject matter experts to help and collaborate with the discussion.
 -   Managers can access multiple discussions at once using the docked windows feature.
 
-**Parent Topic:**[Exploring Regulatory Change Management](what-is-rcm.md)
+**Parent Topic:**[Exploring Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/what-is-rcm.md)
 
 **Related topics**  
 
 
-[Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)
+[Regulatory Change Management application in the Compliance Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-workspace-overview.md)
 
-[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
+[Differences between regulatory event alert and source document alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
 
-[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
+[Regulatory process flow and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-workflow-swimlane.md)
 
-[Exploring Now Assist in Regulatory Change Management \(RCM\)](rcm-exploring-now-assist-for-irm.md)
+[Exploring Now Assist in Regulatory Change Management \(RCM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-exploring-now-assist-for-irm.md)
 

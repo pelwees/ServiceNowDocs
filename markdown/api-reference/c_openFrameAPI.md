@@ -21,7 +21,7 @@ OpenFrame has two significant parts. One lives in the ServiceNow application \(r
 
 **Note:** To stay current with reference to the OpenFrame library, use the following resource URI: `https://[servicenow instance]/scripts/openframe/latest/openFrameAPI.min.js`.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## openFrameAPI - getAWAAgentPresence\(String success, String failure\)
 
@@ -870,7 +870,7 @@ Object
 
 </td><td>
 
-Details about the capabilities that the current \(agent\) participant can perform during a call. The associated icons appear in the Active call component for the capabilities that are enabled.![Screen shot of Active call component with capabilities icons](../image/OF-active_call-capabilities.png)
+Details about the capabilities that the current \(agent\) participant can perform during a call. The associated icons appear in the Active call component for the capabilities that are enabled.![Screen shot of Active call component with capabilities icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-active_call-capabilities.png)
 
 ```
 "capabilities": {
@@ -1660,7 +1660,7 @@ Boolean
 
 For agent use case only - only valid when the **activeCall.currentParticipant.actor** is "agent".Flag that indicates whether to display the **Wrap up** component once the call is complete.
 
-![Screen shot of Wrap up component](../image/OF-active_call-wrapup.png)
+![Screen shot of Wrap up component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-active_call-wrapup.png)
 
 Valid values:
 
@@ -1679,7 +1679,7 @@ String
 
 </td><td>
 
-State of the participant's call leg. Appears beneath the phone number in the **Active call** component.![Active call window showing state](../image/OF-active_call-state.png)
+State of the participant's call leg. Appears beneath the phone number in the **Active call** component.![Active call window showing state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-active_call-state.png)
 
 This can be any meaningful text, such as:
 
@@ -1827,7 +1827,7 @@ Details about the information message to display on the user's dial pad, such as
 
 In the following example, the **label** is **Selected queue:** and the **value** is **Customer Inquiries**. You can also just use either the **label** or the **value** parameter with **Selected queue: Customer Inquiries**.
 
-![Screen shot of dial pad with information message](../image/OF-dialpadInfoMessage.png)
+![Screen shot of dial pad with information message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-dialpadInfoMessage.png)
 
 </td></tr><tr><td>
 
@@ -2386,7 +2386,7 @@ Object
 
 Details about the information to display in the transfer call control.The following is an example of a **Transfer call** control that contains a list of agents that the call can be transferred to. The screen shot shows what elements of the UI that each parameter in the **list.payload** controls.
 
-![Screen shot of Transfer call window showing parameter association](../image/OF-search_payload_parms.png)
+![Screen shot of Transfer call window showing parameter association](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-search_payload_parms.png)
 
 ```
 "payload": {
@@ -2585,7 +2585,7 @@ Array of Objects
 
 Details about the type of transfer supported for the specified **searchTargetList.targets.type**. This information appears when the user clicks the ellipse next to the target's name in the UI.
 
-![Transfer call component showing transfer types](../image/OF-transferSuptypes.png)
+![Transfer call component showing transfer types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/OF-transferSuptypes.png)
 
 For example, if only a consult type is supported for the current target type, say queue, this array will contain one object to denote the consult type of transfer.
 
@@ -2710,7 +2710,7 @@ Error \(offerContext\)
 
 </td><td>
 
-Error messages associated with the **offerContext** object used for resiliency. To view these messages, use the [subscribe\(\)](c_openFrameAPI.md#) method to subscribe to **openframe\_awa\_client\_offer** event.Context values are represented as follows:
+Error messages associated with the **offerContext** object used for resiliency. To view these messages, use the [subscribe\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_openFrameAPI.md#) method to subscribe to **openframe\_awa\_client\_offer** event.Context values are represented as follows:
 
 1.  success
 2.  error

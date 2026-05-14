@@ -17,7 +17,7 @@ Connect to your Sonar instance using the DevOps Change Workspace playbook.
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -49,8 +49,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\).
-2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](app-create-all.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\).
+2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-all.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select SonarQube from the **Software quality** category.
 
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\).
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\).
 2.  From the Capability list, select **Software quality**.
 3.  Select **Connect a tool**.
 4.  On the  **Connect to a tool ** modal, select **SonarQube**.
@@ -84,7 +84,7 @@ Steps
 
 4.  Click **Connect** and review the details of the successfully connected Sonar instance.
 
-    ![Connect to SonarQube instance in DevOps Change workspace.](../image/sonar-plybk-01.png)
+    ![Connect to SonarQube instance in DevOps Change workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/sonar-plybk-01.png)
 
 5.  Specify the access for the tool.
 
@@ -103,16 +103,16 @@ Steps
         This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
     3.  Select **Assign**.
-    ![Specify tool access](../image/sonar-plybk-03.png)
+    ![Specify tool access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/sonar-plybk-03.png)
 
 6.  From the **Summary** page, select **View tool record** to review the details of the connected instance.
 
-    ![Connection summary](../image/sonar-plybk-04.png)
+    ![Connection summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/sonar-plybk-04.png)
 
 
 ## Result
 
 You’ve successfully onboarded your SonarQube tool to DevOps Change Velocity.
 
-**Parent Topic:**[SonarQube integration with DevOps Change Velocity](../concept/sonarqube-devops-integration-devops.md)
+**Parent Topic:**[SonarQube integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/sonarqube-devops-integration-devops.md)
 

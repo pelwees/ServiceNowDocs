@@ -52,5 +52,5 @@ New dashboard records are added to the dashboard. Updates to dashboard records t
 
 If the dashboard does not appear as you expected after installing the solution content, see if the uninstalled records appear on the customer update table. Any uninstalled records on this table were previously customized. To view the customer updates table, enter `sys_update_xml.list` in the filter navigator.
 
-**Parent Topic:**[Install a dashboard](install-content.md)
+**Parent Topic:**[Install a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content.md)
 

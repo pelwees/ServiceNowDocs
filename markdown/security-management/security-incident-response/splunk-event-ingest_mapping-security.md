@@ -25,7 +25,7 @@ If Multiple correlations are used, then notable events can be fetched by selecti
 
 After you click to fetch data, the Splunk notable event field names and corresponding values are populated on the left side of the form. These are the Splunk notable event fields that are available to map to the SIR security incident fields. Some fields can be mapped multiple times to the SIR security incident fields.
 
-![Default mapping for scheduled notable events](../image/new-images/splunk_es_default_notable.png)
+![Default mapping for scheduled notable events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-images/splunk_es_default_notable.png)
 
 You may prefer to review a few sample notable events on your Splunk console to ingest for the field mapping configuration step. This step is labeled Mapping on the progress bar. If this page is not displayed, click **Mapping** on the progress bar. You can ingest up to five sample notable events from Splunk Enterprise Security to assist with the notable event field mapping process. There are options to either ingest the five most recent notable events for the correlation rule selected or ingest up to five specific notable events based on the notable event IDs.
 

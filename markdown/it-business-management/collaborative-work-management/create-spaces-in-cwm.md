@@ -17,7 +17,7 @@ Create Spaces in Collaborative Work Management to enable cross-functional teams 
 
 ## Before you begin
 
-[Install Collaborative Work Management](install-cwm.md).
+[Install Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/install-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -27,11 +27,11 @@ Role required: sn\_cwm.cwm\_user
 
 2.  From the left side panel, select **+ Create** &gt; **New Space**.
 
-    ![Create Space option in CWM workspace.](../images/cwm-create-menu.png)
+    ![Create Space option in CWM workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-create-menu.png)
 
 3.  In the **Space name** field, enter a name for the Space.
 
-    ![Create Space modal in CWM workspace.](../images/cwm-space-create.png)
+    ![Create Space modal in CWM workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-space-create.png)
 
 4.  Select **Create**.
 
@@ -42,8 +42,8 @@ A new Space is created and added right below the **My Space** section. You can a
 
 ## What to do next
 
--   Create a Board to organize and manage work for your team or projects. See [Create a Board in CWM](create-boards-in-cwm.md).
--   Share the Space with others on your team. See [Share a Space in CWM and manage sharing permissions](share-space-in-cwm.md).
+-   Create a Board to organize and manage work for your team or projects. See [Create a Board in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md).
+-   Share the Space with others on your team. See [Share a Space in CWM and manage sharing permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/share-space-in-cwm.md).
 
-**Parent Topic:**[Collaborating with Spaces in CWM](../concept/cwm-spaces.md)
+**Parent Topic:**[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-spaces.md)
 

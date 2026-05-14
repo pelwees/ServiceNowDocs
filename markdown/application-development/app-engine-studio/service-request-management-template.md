@@ -17,7 +17,7 @@ Build an application in App Engine Studio \(AES\) using the Service Request Mana
 
 To use the Service Request Management template, install the application from the ServiceNow Store.
 
-![Service Request Management template](../image/template-service-request-mgmt.png)
+![Service Request Management template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/template-service-request-mgmt.png)
 
 ## Personas in the Service Request Management template
 
@@ -68,7 +68,7 @@ This template contains several important roles that correspond to individuals or
 
 For information about how to set up a service for your Service Request Management application, see [Service catalog setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogs.md).
 
-**Parent Topic:**[Available templates](template-library.md)
+**Parent Topic:**[Available templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/template-library.md)
 
 ## Service Request Management template contents
 

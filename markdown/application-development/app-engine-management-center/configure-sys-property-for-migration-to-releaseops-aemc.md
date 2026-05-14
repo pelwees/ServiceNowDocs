@@ -19,7 +19,7 @@ Update the **sn\_deploy\_pipeline.migrate\_releaseops** system property to enabl
 
 Role required: admin or app\_engine\_admin
 
-You must have ReleaseOps installed and set up on your production and other pipeline environments to complete the following procedure. See [Migrating App Engine pipelines to ReleaseOps](../concept/migrating-ae-pipelines-to-releaseops-aemc.md) for more information.
+You must have ReleaseOps installed and set up on your production and other pipeline environments to complete the following procedure. See [Migrating App Engine pipelines to ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../concept/migrating-ae-pipelines-to-releaseops-aemc.md) for more information.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You must have ReleaseOps installed and set up on your production and other pipel
 
 5.  In the **Value** field, enter `true`.
 
-    ![Set the system property to enable migration to ReleaseOps.](../image/aemc-system-property-enable-migration.png)
+    ![Set the system property to enable migration to ReleaseOps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/aemc-system-property-enable-migration.png)
 
 6.  Select **Update** or select and hold \(or right-click\) in the header and select **Save** to update the record.
 
@@ -46,5 +46,5 @@ You have set the **sn\_deploy\_pipeline.migrate\_releaseops** system property to
 
 ## What to do next
 
-If you customized your ReleaseOps deployment request states, you must map the deployment request states onto the corresponding App Engine deployment request states. See [Map deployment request states](map-deployment-request-states-aemc.md) for more information.
+If you customized your ReleaseOps deployment request states, you must map the deployment request states onto the corresponding App Engine deployment request states. See [Map deployment request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/map-deployment-request-states-aemc.md) for more information.
 

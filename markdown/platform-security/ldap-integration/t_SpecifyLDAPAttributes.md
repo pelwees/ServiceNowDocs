@@ -31,6 +31,6 @@ By default, the system loads all of the attributes for each object that it has p
 
     **Note:** To use the manager lookup scripts described in Select or Create a Transform Map for LDAP Data, specify **manager** and **dn** \(distinguished name\) in the **Attributes** field. Neither attribute is required to be a part of a transform map.
 
-    ![LDAP attributes.](../image/LdapAttributes.png)
+    ![LDAP attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/../image/LdapAttributes.png)
 
 

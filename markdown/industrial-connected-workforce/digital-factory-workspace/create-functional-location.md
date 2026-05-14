@@ -29,20 +29,20 @@ Role required: sn\_icw.admin
 
 4.  On the Functional location form, fill in the fields.
 
-    For a description of the field values, see [Functional location form](../reference/functional-location-form.md).
+    For a description of the field values, see [Functional location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/functional-location-form.md).
 
 5.  Select **Save**.
 
     The following image shows an example of the form for creating a functional location.
 
-    ![New functional location form](../image/functional-location-form.png)
+    ![New functional location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/functional-location-form.png)
 
 
 ## Result
 
 The functional location is displayed in the list of functional locations for the parent functional location.
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/setting-up-prerequisites-digital-factory-workspace.md)
 
 **Related topics**  
 

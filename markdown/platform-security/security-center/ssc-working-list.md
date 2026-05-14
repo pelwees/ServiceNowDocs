@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Select **All settings**.
 
-5.  Select the **Show filter panel** button \(![Show filter panel](../images/filter-panel-icon.png)\).
+5.  Select the **Show filter panel** button \(![Show filter panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/filter-panel-icon.png)\).
 
 6.  In the **Filter** window, select **Advanced view**.
 
@@ -46,5 +46,5 @@ Role required: admin
 
 After saving a filter you can load it in the **Advanced View** using the **Use existing filter** button.
 
-**Parent Topic:**[All settings](../concept/all-settings.md)
+**Parent Topic:**[All settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/all-settings.md)
 

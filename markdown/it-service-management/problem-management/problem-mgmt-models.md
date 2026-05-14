@@ -40,9 +40,9 @@ You can create custom models for problems and problem tasks to extend their defa
 
 To begin working with custom models, see the following topics:
 
--   [Create a problem model](../task/create-problem-model.md)
--   [Create a problem task model](../task/create-problem-task-model.md)
--   [Enable Problem Management models](../task/enable-problem-mgmt-models.md) \(Required only for customers upgrading to Yokohama.\)
+-   [Create a problem model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../task/create-problem-model.md)
+-   [Create a problem task model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../task/create-problem-task-model.md)
+-   [Enable Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../task/enable-problem-mgmt-models.md) \(Required only for customers upgrading to Yokohama.\)
 
 **Note:** Any problems or problem tasks that were created before you enable Problem Management models will continue to use the non-model life cycle.
 
@@ -60,5 +60,5 @@ Service Operations Workspace 5.x is based on the Washington DC release and it do
 
 If you are using Service Operations Workspace 5.x and you enable Problem Management models, you will manage problems and problem tasks in the classic UI16 experience, rather than in Service Operations Workspace.
 
-**Parent Topic:**[Exploring Problem Management](exploring-problem-management.md)
+**Parent Topic:**[Exploring Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/exploring-problem-management.md)
 

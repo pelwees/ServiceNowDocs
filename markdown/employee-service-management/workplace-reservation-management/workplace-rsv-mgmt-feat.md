@@ -20,27 +20,27 @@ The ServiceNow® Workplace Reservation Management application makes it easier fo
 
 <table class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Reservation Management concepts and features.](wsd-reservation-mgmt-ovw.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Reservation Management concepts and features.](wsd-reservation-mgmt-ovw.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application and setup the reservable modules and related settings for employees to make a reservation.](wsd-reservation-setup.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application and setup the reservable modules and related settings for employees to make a reservation.](wsd-reservation-setup.md)
 
 </td><td>
 
-[Request ![](../../../reuse/icons/brand-icons/bus-start-discussion.svg) Make a single, recurring, or a group reservation. Invite colleagues and visitors.](reserve-workplace-items.md)
+[Request ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-start-discussion.svg) Make a single, recurring, or a group reservation. Invite colleagues and visitors.](reserve-workplace-items.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace reservations and approvals.](manage-reservation-requests.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace reservations and approvals.](manage-reservation-requests.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with dashboards and reports.](analytics-reporting-for-rsv-mgmt.md)
+[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with dashboards and reports.](analytics-reporting-for-rsv-mgmt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](rsv-mgmt-references.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](rsv-mgmt-references.md)
 
 </td></tr></tbody>
 </table>## Additional resources

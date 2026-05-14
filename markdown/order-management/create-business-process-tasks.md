@@ -125,7 +125,7 @@ Work notes
 
 ## What to do next
 
-Monitor the business process task from the sales process dashboard. For more information, see [Monitoring and tracking sales activities](../concept/monitor-track-sales-activities.md).
+Monitor the business process task from the sales process dashboard. For more information, see [Monitoring and tracking sales activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/monitor-track-sales-activities.md).
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-lead-cash-process-management.md)
 

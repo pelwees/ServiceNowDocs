@@ -23,7 +23,7 @@ The CSM Landing Page is available with the CSM Configurable Workspace \(sn\_csm\
 
 **Note:** Upgrade customers who haven’t customized the existing CSM Configurable Workspace landing page are automatically upgraded to the landing page available with the Australia release. Upgrade customers who have customized the existing CSM Configurable Workspace landing page must manually accept the Australia landing page.
 
-![Landing page to track your active cases and important items. For the text description, refer to the CSM Landing Page and CSM Landing Page - Premium sections and components table.](../image/csm-config-ws-polaris-case-section.png "CSM Landing Page")
+![Landing page to track your active cases and important items. For the text description, refer to the CSM Landing Page and CSM Landing Page - Premium sections and components table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-ws-polaris-case-section.png "CSM Landing Page")
 
 ## CSM Landing Page sections and components
 
@@ -84,7 +84,7 @@ Select an indicator to display either a filtered list of records or a KPI detail
 </td></tr></tbody>
 </table>## Create a landing page for CSM Configurable Workspace
 
-Use UI Builder to create landing pages for your agents. For more information, see [Create a CSM Configurable Workspace landing page](../task/config-csm-config-ws-landing-page.md).
+Use UI Builder to create landing pages for your agents. For more information, see [Create a CSM Configurable Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-landing-page.md).
 
 ## Create multiple landing pages
 

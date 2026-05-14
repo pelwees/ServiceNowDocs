@@ -22,9 +22,9 @@ Each ERP system record organizes the connection to the system of record and poin
 
 You can have multiple ERP system records on one instance \(license-dependent\). Once created, each system is regularly pinged to confirm that the connection is healthy.
 
-![Infographic showing steps for configuring connection, creating ERP system, and verifying heartbeat.](../image/erp-explore-systems-infographic.png)
+![Infographic showing steps for configuring connection, creating ERP system, and verifying heartbeat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-explore-systems-infographic.png)
 
-For more information, see [Working with ERP systems in Zero Copy Connector for ERP](erp-canvas-work-with-systems.md).
+For more information, see [Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-work-with-systems.md).
 
-**Parent Topic:**[Exploring Zero Copy Connector for ERP](exploring-erp-integration.md)
+**Parent Topic:**[Exploring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/exploring-erp-integration.md)
 

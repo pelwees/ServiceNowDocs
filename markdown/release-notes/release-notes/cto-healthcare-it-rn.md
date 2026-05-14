@@ -66,5 +66,5 @@ Install Care Team Operations for Healthcare IT by requesting it from the Service
     ServiceNow® Care Team Mobile provides a mobile experience for hospital care teams to report issues to support departments.
 
 
-**Parent Topic:**[Healthcare and Life Sciences release notes](healthcare-life-sciences-rn-landing.md)
+**Parent Topic:**[Healthcare and Life Sciences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/healthcare-life-sciences-rn-landing.md)
 

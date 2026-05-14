@@ -33,15 +33,15 @@ The Emergency Outreach notification feature supports the following applications 
 
 ## Procedure
 
-1.  [Add an email notification](configure-outreach-email-notif.md) to customize the send conditions and notification content for an outreach.
+1.  [Add an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/configure-outreach-email-notif.md) to customize the send conditions and notification content for an outreach.
 
-2.  [Update the email notification](edit-add-emergency-outreach-notif.md) used in the outreach notification.
+2.  [Update the email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/edit-add-emergency-outreach-notif.md) used in the outreach notification.
 
-3.  [Add a Safe Workplace audience](add-sw-audience-outreach.md) for the employees to whom you want to send the notification.
+3.  [Add a Safe Workplace audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/add-sw-audience-outreach.md) for the employees to whom you want to send the notification.
 
-4.  [Configure response options](config-emergency-outreach-responses.md) if an outreach requires them.
+4.  [Configure response options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/config-emergency-outreach-responses.md) if an outreach requires them.
 
-5.  [Create additional notification channels](create-emer-outreach-notif-channel.md), such as Slack or Microsoft Teams through which you want to send notifications.
+5.  [Create additional notification channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/create-emer-outreach-notif-channel.md), such as Slack or Microsoft Teams through which you want to send notifications.
 
 6.  Add a survey such as the Employee Readiness survey to be sent with the outreach notification.
 

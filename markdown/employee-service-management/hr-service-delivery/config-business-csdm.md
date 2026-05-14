@@ -30,11 +30,11 @@ Customers require a common interface, a single place for monitoring metrics, vie
 
 1.  Create a business or technical service and corresponding service offering records for your business unit.
 
-2.  [Create a service table configuration in Service Portfolio Management](config-service-table.md).
+2.  [Create a service table configuration in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-service-table.md).
 
 3.  Map your BU service to CSDM Service or Service Offering.
 
-    For more information, see [Configure CSDM service mappings](config-csdm-ser-map.md).
+    For more information, see [Configure CSDM service mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-csdm-ser-map.md).
 
 4.  Add your business unit logic to populate Service and Service Offering columns in task records or resulting BU records that are created by using the BU service \(For example: HR service use case\).
 

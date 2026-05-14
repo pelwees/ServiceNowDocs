@@ -18,7 +18,7 @@ Dynamic Guidance is the proactive AI assistant invoked from Help Center and Now 
 
 Dynamic Guidance addresses the need for personalized contextual support by leveraging artificial intelligence to queries raised by you in natural language. Thus, it can respond conversationally, guiding you more effectively within the product experience. Dynamic Guidance uses Google services to share real-time screen and get guidance.
 
-![Dynamic guidance](../image/ads-dynamic-guide.png)
+![Dynamic guidance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/ads-dynamic-guide.png)
 
 **Note:** The minimum version required is: Zurich patch 8 and Australia patch 1.
 

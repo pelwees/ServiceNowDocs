@@ -19,76 +19,76 @@ Enter the mandatory fields in the primary table for successful processing of an 
 
 Data in the following key tables should be populated for processing an invoice within Accounts Payable Operations.
 
--   [Purchase order](purchase-order-table.md)
--   [Purchase order lines](purchase-order-lines.md)
--   [Supplier](supplier.md)
--   [Supplier Legal Entity Mapping](supplier-legal-entity-mapping.md)
--   [Supplier contact](supplier-contact.md)
--   [Legal entity](legal-entity.md)
--   [Cost center](cost-center.md)
--   [Ledger account](ledger-account.md)
--   [Payment terms](payment-terms.md)
--   [Tax code fields](create-tax-code-fields.md)
--   [Tax type fields](tax-type-fields.md)
--   [Organization tax details](organization-tax-details.md)
+-   [Purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/purchase-order-table.md)
+-   [Purchase order lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/purchase-order-lines.md)
+-   [Supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier.md)
+-   [Supplier Legal Entity Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier-legal-entity-mapping.md)
+-   [Supplier contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier-contact.md)
+-   [Legal entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/legal-entity.md)
+-   [Cost center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/cost-center.md)
+-   [Ledger account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ledger-account.md)
+-   [Payment terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/payment-terms.md)
+-   [Tax code fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-code-fields.md)
+-   [Tax type fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-type-fields.md)
+-   [Organization tax details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/organization-tax-details.md)
 
--   **[Purchase order](purchase-order-table.md)**  
+-   **[Purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/purchase-order-table.md)**  
 A purchase order is a binding contract between a buyer and a supplier that authorizes a purchasing transaction. It contains the descriptions, quantities, prices, applicable discounts, payment terms, delivery dates, and other associated terms and conditions with the supplier.
--   **[Purchase order lines](purchase-order-lines.md)**  
+-   **[Purchase order lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/purchase-order-lines.md)**  
 Purchase order lines provide information of the individual lines under a purchase requisition or a sourcing request for the referenced supplier.
--   **[Supplier](supplier.md)**  
+-   **[Supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier.md)**  
 You can add a supplier to the primary data and add products related to that supplier. The supplier data is managed effortlessly and enhance productivity of the teams that engage with suppliers.
--   **[Supplier Legal Entity Mapping](supplier-legal-entity-mapping.md)**  
+-   **[Supplier Legal Entity Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier-legal-entity-mapping.md)**  
 The linking of supplier registered legal entity to the customer's corresponding legal entity within APO is referred as Supplier legal entity mapping. Mapping ensures that invoices, purchase orders, and payments are correctly routed, validated, and processed across systems.
--   **[Supplier contact](supplier-contact.md)**  
+-   **[Supplier contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/supplier-contact.md)**  
 You can add the supplier contacts allowing them to access the  Supplier Collaboration Portal  and start working on the most important tasks. You can view information about the supplier contacts and also indicates which user is the primary contact.
--   **[Legal entity](legal-entity.md)**  
+-   **[Legal entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/legal-entity.md)**  
 View the legal entity corresponding to a purchase.
--   **[Cost center](cost-center.md)**  
+-   **[Cost center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/cost-center.md)**  
 Cost centers are a commonly used reference between financial systems and IT. Cost center records represent business entities and have a related list of CI Cost Center Relationships that measure the cost center's consumption of business services.
--   **[Ledger account](ledger-account.md)**  
+-   **[Ledger account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ledger-account.md)**  
 A reference field for the account used to generate the  invoice.​
--   **[Payment terms](payment-terms.md)**  
+-   **[Payment terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/payment-terms.md)**  
 Specify the terms and conditions that apply to customers while paying for an invoice. These are usually imposed by suppliers during the purchase.
--   **[Tax code fields](create-tax-code-fields.md)**  
+-   **[Tax code fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-code-fields.md)**  
 As a Tax manager, you can create tax codes to be applied in an invoice.
--   **[Tax type fields](tax-type-fields.md)**  
+-   **[Tax type fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-type-fields.md)**  
 As a Tax manager, you can create tax types to be applied to an invoice.
--   **[Organization tax details](organization-tax-details.md)**  
+-   **[Organization tax details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/organization-tax-details.md)**  
 Accounts Payable specialist uses the organization tax table to view the supplier's tax registration details.
 
-**Parent Topic:**[Accounts Payable Operations reference](acc-pay-reference.md)
+**Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
 **Related topics**  
 
 
-[Accounts Payable Operations properties](acc-pay-properties.md)
+[Accounts Payable Operations properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-properties.md)
 
-[Create New Invoice Line form](create-invoice-line-form.md)
+[Create New Invoice Line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 
-[Create invoice cost allocation form](create-invoice-cost-allocation-form.md)
+[Create invoice cost allocation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md)
 
-[Outbound cost allocation staging table](outbound-cost-allocation-table.md)
+[Outbound cost allocation staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-cost-allocation-table.md)
 
-[Distribution set form](distribution-set-form.md)
+[Distribution set form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/distribution-set-form.md)
 
-[Create New Invoice case form](create-new-ap-case-form.md)
+[Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 
-[Create New Invoice task form](create-apm-task-form.md)
+[Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task-form.md)
 
-[Invoice processing case form](invoice-processing-case-form.md)
+[Invoice processing case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-[Tax lines](create-tax-lines-apo.md)
+[Tax lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 
-[Invoice exception form](exception-form-fields.md)
+[Invoice exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 
-[Request Help form](ur-request-help-form.md)
+[Request Help form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ur-request-help-form.md)
 
-[Invoice exception definition form](invoice-exception-definition-form.md)
+[Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md)
 
-[Approval Rule form](new-approval-rule-form.md)
+[Approval Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/new-approval-rule-form.md)
 
-[Approval Plan form](approval-plan-form.md)
+[Approval Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/apo-glossary.md#)
 

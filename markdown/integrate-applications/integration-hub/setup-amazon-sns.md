@@ -23,7 +23,7 @@ Integrate the ServiceNow instance and Amazon SNS using AWS credential to authent
 
 ## About this task
 
-To receive events at your ServiceNow instance from Amazon SNS, see [Receive events at your ServiceNow instance from Amazon SNS](notification-sns.md#). Spoke set up described here enables you to use spoke subflow and actions.
+To receive events at your ServiceNow instance from Amazon SNS, see [Receive events at your ServiceNow instance from Amazon SNS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/notification-sns.md#). Spoke set up described here enables you to use spoke subflow and actions.
 
 ## Create Credential record for the Amazon SNS spoke
 

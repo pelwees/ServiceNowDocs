@@ -19,7 +19,7 @@ Events are stored in the instance's Events database, while metrics are stored in
 
 The following image displays the data flow from the Agent Client Collector to the instance.
 
-![Agent client collector data flow](../image/acc-dataflow.png)
+![Agent client collector data flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-dataflow.png)
 
 The numbered entries in the flow indicate the following:
 

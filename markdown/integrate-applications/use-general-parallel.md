@@ -21,7 +21,7 @@ Role required: none
 
 For example, you can set two threads. In thread 1, the component launches the Google Chrome window with the START APP component and in thread 2, the component uses the Send Keys component to enter a URL.
 
-You can configure the properties for the Parallel component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Parallel component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You can configure the properties for the Parallel component. For more informatio
 
 2.  Drag the Parallel component to the Design surface.
 
-3.  Click the add thread icon \(![Add thread icon](../image/add-image-icon.png)\).
+3.  Click the add thread icon \(![Add thread icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
     The Control Out port of the thread passes the control and executes the next component.
 
@@ -55,5 +55,5 @@ You can configure the properties for the Parallel component. For more informatio
     **Note:** The Send Keys and the Mouse components under the Utilities category don't work with the Parallel component.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

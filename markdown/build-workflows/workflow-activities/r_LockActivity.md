@@ -25,7 +25,7 @@ When an instance of the workflow reaches the **Lock** activity, it attempts to o
 
 We recommend placing a one-second timer activity before the lock activity. This helps prevent a rare condition in which the lock activity may not be able to distinguish one workflow instance from another. This condition can occur because the entity owning the lock is not the specific workflow instance, but rather the code-execution thread in which that instance is running. In most cases, each workflow instance runs on a different thread. Adding a timer activity ensures that this is the case.
 
-![Workflow with timer activity before lock activity](../image/WF_lock_with_timer_before.png "Example of Lock Activity Preceded by Timer Activity")
+![Workflow with timer activity before lock activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../image/WF_lock_with_timer_before.png "Example of Lock Activity Preceded by Timer Activity")
 
 Since a **Lock** activity can only temporarily prevent processing of other workflow instances, do not add activities that cause the workflow to wait between a **Lock** and **Unlock** activity block. This may cause the **Unlock** activity to be unable to acquire the lock to release it and instead take 60 seconds to complete. Restricted wait activities include:
 

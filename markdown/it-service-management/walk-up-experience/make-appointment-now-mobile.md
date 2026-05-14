@@ -21,15 +21,15 @@ Role required: user
 
 ## Procedure
 
-1.  On your mobile device, tap the Now® Mobile app icon \(![NOW mobile app icon](../../asset-management/image/now-mobile.png)\).
+1.  On your mobile device, tap the Now® Mobile app icon \(![NOW mobile app icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../asset-management/image/now-mobile.png)\).
 
 2.  Navigate to the list of available Tech Lounges using any of these options.
 
     |Tab|Navigation|
     |---|----------|
-    |**My Items**|Tap the headphones icon \(![Headphones icon.](../image/quickaction.png)\).|
-    |**Services**|Tap the more options icon **\(![More options icon.](../image/quickaction2.png)\)** &gt; **Visit a Tech Lounge**.|
-    |**Information**|Tap the headphones icon \(![Headphones icon.](../image/quickaction.png)\).|
+    |**My Items**|Tap the headphones icon \(![Headphones icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/quickaction.png)\).|
+    |**Services**|Tap the more options icon **\(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/quickaction2.png)\)** &gt; **Visit a Tech Lounge**.|
+    |**Information**|Tap the headphones icon \(![Headphones icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/quickaction.png)\).|
 
 3.  From the list of active Tech Lounges, tap your preferred Tech Lounge.
 
@@ -56,5 +56,5 @@ Role required: user
     Another way to view your appointment confirmation is to return to the Tech Lounge list view and tap the **Visits** tab, or return to the Now® Mobile app home page and tap **My Tech Visits**.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walk-up-experience-now-mobile.md)
 

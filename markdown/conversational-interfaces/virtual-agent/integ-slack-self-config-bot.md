@@ -24,9 +24,9 @@ This installation requires a ServiceNow instance other than the one integrated w
 
 **Note:** The ServiceNow instance that you will use to integrate the self-configured bot with a single Slack workspace must not be an instance that you have used for integrating the ServiceNow Virtual Agent.
 
-Ensure that you created a bot on the Slack workspace and fetched the bot details to complete the integration. For more information, see [Create a bot in Slack](create-self-config-bot-slack.md).
+Ensure that you created a bot on the Slack workspace and fetched the bot details to complete the integration. For more information, see [Create a bot in Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-self-config-bot-slack.md).
 
-Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for your bot created in Slack. For more information, see [Retrieve bot details](setup-slack-bot-snow.md). Use this information when setting up the bot in your ServiceNow instance.
+Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for your bot created in Slack. For more information, see [Retrieve bot details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-slack-bot-snow.md). Use this information when setting up the bot in your ServiceNow instance.
 
 ## Procedure
 
@@ -42,9 +42,9 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
 
     3.  Under the Available Channels section in the Slack tile, select **Add Integrations** and select **Integrate with Self-configured bot**.
 
-        ![Slack Add integration dropdown. The Integrate with Self-configured bot option is highlighted.](../images/add-slack-self-integ.png)
+        ![Slack Add integration dropdown. The Integrate with Self-configured bot option is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-slack-self-integ.png)
 
-        **Note:** The **Add Integrations** button is available only after installing the Conversational Integration with Slack plugin \(sn\_va\_slack\) on your ServiceNow instance. For more information about getting the plugin installed, see [Install the Conversational Integration with Slack](install-slack-from-store.md).
+        **Note:** The **Add Integrations** button is available only after installing the Conversational Integration with Slack plugin \(sn\_va\_slack\) on your ServiceNow instance. For more information about getting the plugin installed, see [Install the Conversational Integration with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-slack-from-store.md).
 
     4.  In the Integrate Slack with self-configured bot page, provide the following details that you made a note while creating the Slack bot and select **Submit**.
 
@@ -52,18 +52,18 @@ Fetch the Name of the bot, Team ID, Signing Secret, and Access Token details for
         -   **Team ID**
         -   **Signing Secret**
         -   **Access Token**
-        For more information, see [Retrieve bot details](setup-slack-bot-snow.md).
+        For more information, see [Retrieve bot details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-slack-bot-snow.md).
 
-        ![To integrate Slack, provide the bot name, Team ID, Signing Secret, and Access Token.](../images/slack-self-bot-integ.png "Integrate Slack with self-configured bot page")
+        ![To integrate Slack, provide the bot name, Team ID, Signing Secret, and Access Token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/slack-self-bot-integ.png "Integrate Slack with self-configured bot page")
 
         **Note:** For each additional ServiceNow instance to be integrated, repeat steps 1 and 2.
 
         If you would like to integrate your ServiceNow instance with another Slack bot, select the Plus icon against the Self-configured bot or select the **Add integration** button on the Manage Slack channel page and select **Integrate with Self-configured bot**.
 
-        ![Manage Slack channel view in Conversational Interfaces general settings. The Add integration for self-configured bot button and Integrate with Self-configured bot option in the Add integration dropdown are highlighted.](../images/add-self-config-integ-slck.png)
+        ![Manage Slack channel view in Conversational Interfaces general settings. The Add integration for self-configured bot button and Integrate with Self-configured bot option in the Add integration dropdown are highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-self-config-integ-slck.png)
 
         You will receive a message that the installation is successful.
 
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-single-slack.md)
 

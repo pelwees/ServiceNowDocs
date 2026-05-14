@@ -17,7 +17,7 @@ The On BOM Response enrichment is enabled by default in environments and can be 
 
 **Note:** The CPQ environment must include rules with product actions, or there will be nothing for the enrichment to loop through.
 
-![BOM response](../images/cpq-enrichments-on-bom-response.png)
+![BOM response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-on-bom-response.png)
 
 In the following sample, the On BOM Response enrichment loops through products and changes the price of a product.
 

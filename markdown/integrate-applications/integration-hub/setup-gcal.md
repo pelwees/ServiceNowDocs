@@ -49,7 +49,7 @@ Role required: admin.
 
     1.  Select the button.
 
-        ![Create project button for Google Calendar on Google Workspace.](../image/google-calendar-spokes-click-create-project.png)
+        ![Create project button for Google Calendar on Google Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-spokes-click-create-project.png)
 
     2.  On the Select a Project window, select **NEW PROJECT**.
 
@@ -61,7 +61,7 @@ Role required: admin.
 
         The Notifications window confirms that the project is created.
 
-        ![Project creation confirmation.](../image/gcalendar-spoke-proj-created.png)
+        ![Project creation confirmation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcalendar-spoke-proj-created.png)
 
     6.  Select SELECT PROJECT.
 
@@ -69,11 +69,11 @@ Role required: admin.
 
     1.  Select **+ ENABLE APIS AND SERVICES**.
 
-        ![Enable API and Services button.](../image/gcalendar-spoke-enable-api.png)
+        ![Enable API and Services button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcalendar-spoke-enable-api.png)
 
     2.  On the Welcome to the API Library page, navigate to the Google calendar API card under the Google Workspace heading.
 
-        ![Google Calendar API button.](../image/gcalendar-spoke-api-button.png)
+        ![Google Calendar API button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcalendar-spoke-api-button.png)
 
     3.  Select **Google Calendar API**.
 
@@ -81,13 +81,13 @@ Role required: admin.
 
         The Google calendar API is enabled on your project.
 
-        ![Google Calendar API is enabled.](../image/google-calendar-api-enabled.png)
+        ![Google Calendar API is enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-api-enabled.png)
 
 4.  Create the credentials that the connection and credential form will store.
 
     1.  Select **CREATE CREDENTIALS**.
 
-        ![Create credentials button to access Google Calendar API.](../image/google-calendar-create-creds.png)
+        ![Create credentials button to access Google Calendar API.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-create-creds.png)
 
     2.  Fill the form.
 
@@ -135,13 +135,13 @@ Type of data that your ServiceNow instance accesses from the Google Calendar app
 
     2.  In the Update selected scopes window, enter `Google Calendar` in the Enter property name or value field.
 
-        ![Enter Google Calendar in the field.](../image/gcalendar-spoke-scope.png)
+        ![Enter Google Calendar in the field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcalendar-spoke-scope.png)
 
     3.  From the list, select Google Calendar API.
 
     4.  Select the required APIs from the list.
 
-        ![Select required Google Calendar APIs.](../image/gcalendar-spoke-api-selection.png)
+        ![Select required Google Calendar APIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcalendar-spoke-api-selection.png)
 
     5.  Select **UPDATE**.
 
@@ -159,7 +159,7 @@ Type of data that your ServiceNow instance accesses from the Google Calendar app
 
     5.  Select **CREATE**.
 
-        The credentials for the OAuth application are created, as shown in the image.![Copy or download the OAuth credentials.](../image/google-calendar-copy-creds.png)
+        The credentials for the OAuth application are created, as shown in the image.![Copy or download the OAuth credentials.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-copy-creds.png)
 
 7.  Select **DONE**.
 
@@ -174,7 +174,7 @@ Role required: admin.
 
 ### About this task
 
-The connection and credential record includes the details that you had set up when you created the OAuth app. See [Create OAuth application on Google Calendar](setup-gcal.md#).
+The connection and credential record includes the details that you had set up when you created the OAuth app. See [Create OAuth application on Google Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcal.md#).
 
 ### Procedure
 
@@ -182,11 +182,11 @@ The connection and credential record includes the details that you had set up wh
 
 2.  Select Connections.
 
-3.  In the Search all connections field, enter `Google Calendar`.![Search the Google Calendar connection card.](../image/google-calendar-search-conn-card.png)
+3.  In the Search all connections field, enter `Google Calendar`.![Search the Google Calendar connection card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-search-conn-card.png)
 
 4.  On the Google\_Calendar card, click **View Details**.
 
-5.  Click **Configure**.![Google Calendar connection and credential record configure button.](../image/google-calendar-configure-button.png)
+5.  Click **Configure**.![Google Calendar connection and credential record configure button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-calendar-configure-button.png)
 
 6.  Fill the details in the form.
 
@@ -228,7 +228,7 @@ OAuth Client ID
 
 </td><td>
 
-The ID of the client that accesses the OAuth app you had created.**Tip:** You can find the OAuth Client ID in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](setup-gcal.md#).
+The ID of the client that accesses the OAuth app you had created.**Tip:** You can find the OAuth Client ID in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcal.md#).
 
 </td></tr><tr><td>
 
@@ -236,7 +236,7 @@ OAuth Client Secret
 
 </td><td>
 
-The secret that your ServiceNow instance uses to prove its identity to the OAuth app.**Tip:** You can find the OAuth Client secret in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](setup-gcal.md#).
+The secret that your ServiceNow instance uses to prove its identity to the OAuth app.**Tip:** You can find the OAuth Client secret in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcal.md#).
 
 </td></tr><tr><td>
 
@@ -244,7 +244,7 @@ OAuth Redirect URL
 
 </td><td>
 
-The redirect URL to the application after the OAuth app authenticates the request from your ServiceNow instance.**Tip:** You can find the OAuth Redirect URL in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](setup-gcal.md#).
+The redirect URL to the application after the OAuth app authenticates the request from your ServiceNow instance.**Tip:** You can find the OAuth Redirect URL in the JSON file you had downloaded while creating the OAuth app. See [Create OAuth application on Google Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcal.md#).
 
 </td></tr><tr><td>
 

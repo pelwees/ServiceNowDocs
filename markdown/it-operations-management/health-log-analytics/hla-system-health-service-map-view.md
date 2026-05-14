@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## About this task
 
-Viewing the configuration items \(CIs\) that comprise Health Log Analytics and their relationships helps you visualize the impact of HLA system health issues on the service. For more information, see [Viewing Health Log Analytics system health alerts on the service map](../concept/hla-system-health-service-map.md).
+Viewing the configuration items \(CIs\) that comprise Health Log Analytics and their relationships helps you visualize the impact of HLA system health issues on the service. For more information, see [Viewing Health Log Analytics system health alerts on the service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-system-health-service-map.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Viewing the configuration items \(CIs\) that comprise Health Log Analytics and t
 
 2.  On the **Mapped Application Services** page, locate ServiceNow Event Management and select **View Service**.
 
-    ![Event Management Mapped Application Services page.](../../event-management/image/application-service.png)
+    ![Event Management Mapped Application Services page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../event-management/image/application-service.png)
 
     The Event Management service map shows the Health Log Analytics core components and the system health alerts that affect them.
 
@@ -40,10 +40,10 @@ Viewing the configuration items \(CIs\) that comprise Health Log Analytics and t
 
 ## What to do next
 
-Address the alert by performing the action proposed in the notification. For more information, see [Health Log Analytics self-health checks, notifications, and proposed actions](../reference/hla-self-health-notifications.md).
+Address the alert by performing the action proposed in the notification. For more information, see [Health Log Analytics self-health checks, notifications, and proposed actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-self-health-notifications.md).
 
 **Related topics**  
 
 
-[Health Log Analytics system health notifications](../reference/hla-sys-health-notifications-ref.md)
+[Health Log Analytics system health notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-sys-health-notifications-ref.md)
 

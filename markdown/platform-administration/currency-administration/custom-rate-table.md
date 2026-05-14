@@ -40,7 +40,7 @@ A conversion rate can be quoted in different ways.
 
 5.  Complete the remaining fields to create the new extended table.
 
-    For more details, see [Create a table](../../table-administration/task/t_CreateATable.md) for details.
+    For more details, see [Create a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../../table-administration/task/t_CreateATable.md) for details.
 
 6.  Click **Submit**.
 
@@ -118,22 +118,22 @@ After you create the custom rate table:
     To use it for a specific FX Currency field, change the **Conversion Rate Table** field setting in **System Localization** &gt; **FX Currency Configuration.**
 
 
-**Parent Topic:**[Setting up defaults required for FX Currency use](../concept/setting-up-defaults-fx-currency-use.md)
+**Parent Topic:**[Setting up defaults required for FX Currency use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/setting-up-defaults-fx-currency-use.md)
 
 **Related topics**  
 
 
-[Configuring FX Currency global settings](fx-currency-configure.md)
+[Configuring FX Currency global settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md)
 
-[Add an FX Currency field to a table](add-fx-currency-field-table.md)
+[Add an FX Currency field to a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/add-fx-currency-field-table.md)
 
-[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+[Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md)
 
-[Update a Currency Instance record](updating-fx-currency-instance-record.md)
+[Update a Currency Instance record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/updating-fx-currency-instance-record.md)
 
-[FX Currency values in import and export](../concept/fx-currency-values-import-export.md)
+[FX Currency values in import and export](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/fx-currency-values-import-export.md)
 
-[Configuring FX Currency global settings](fx-currency-configure.md)
+[Configuring FX Currency global settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md)
 
-[Specify the rate table and date source for currency conversions](fx-currency-conv-rate-table-date-source.md)
+[Specify the rate table and date source for currency conversions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-conv-rate-table-date-source.md)
 

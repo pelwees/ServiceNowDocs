@@ -25,7 +25,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
 3.  In the conceptual panel, open the **Related Items**.
 
-    ![Related items.](../image/customer-success-related-items-success-outcome.png)
+    ![Related items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-related-items-success-outcome.png)
 
 4.  In the Related Items, expand **Applicable Success Outcomes** card.
 
@@ -35,10 +35,10 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
     A single initiative can be associate with the multiple success outcomes under the same success objective.
 
-    ![applicable success outcomes.](../image/customer-success-application-success-outcome.png)
+    ![applicable success outcomes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-application-success-outcome.png)
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Create a success initiative](account-lifecycle-success-initiative.md)
+**Parent Topic:**[Create a success initiative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-initiative.md)
 

@@ -24,7 +24,7 @@ The following enhancements are available for the entities:
 
     You can also view the **Auto-update owner** option on the entity form in the workspace view. See the following example.
 
-    ![Entity form in the workspace view.](../../grc-common-workspace/image/workspace-view-entity-form.png "Entity form in the workspace view")
+    ![Entity form in the workspace view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common-workspace/image/workspace-view-entity-form.png "Entity form in the workspace view")
 
 -   Form design changes: The following form design changes are introduced in the entity and entity filter forms.
     -   You must fill in the **Entity class** and **Default owner** fields in the form as shown in the following example.
@@ -38,5 +38,5 @@ The following enhancements are available for the entities:
         Activate the job that synchronizes the entity owner before enabling the property. You can enable the **Maximum batch size while syncing the entity owner with that of its source record** property under GRC properties to set the maximum batch size to an integer value. By doing this action, you synchronize the entity owner with its source record value.
 
 
-**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 

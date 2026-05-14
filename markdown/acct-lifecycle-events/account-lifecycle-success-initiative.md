@@ -53,7 +53,7 @@ Primary success outcome
 
 The primary success outcome associated with this initiative.
 
- To create applicable success outcome, see [Create an applicable success outcome](account-lifecycle-create-applicable-outcome.md).
+ To create applicable success outcome, see [Create an applicable success outcome](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-applicable-outcome.md).
 
 </td></tr><tr><td>
 
@@ -199,16 +199,16 @@ You can perform the following actions:
 -   Discuss: Select **Discuss** to start a sidebar discussion about this initiative. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this initiative. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the **Activity stream**.
 -   Assign to me: Select this option to reassign this initiative to yourself.
 -   Close initiative: Once the initiative has been completed and the Closure code is set to **Achieved**, you can close this initiative.
--   Create success play: Select this option to create a success play. See [Create a success play](account-lifecycle-create-success-play.md) for the details.
+-   Create success play: Select this option to create a success play. See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-play.md) for the details.
 -   Email: Open the **Activity stream** and select **Email** from the More drop down list. Enter the required details and select **Send email**.
 
     **Note:** You can send emails only to the team members associated with the account.
 
 
--   **[Create an applicable success outcome](account-lifecycle-create-applicable-outcome.md)**  
+-   **[Create an applicable success outcome](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-applicable-outcome.md)**  
 Create the applicable success outcomes to support the primary success outcome.
--   **[Close or cancel a success initiative](account-lifecycle-cancel-success-initiative.md)**  
+-   **[Close or cancel a success initiative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-cancel-success-initiative.md)**  
 You can close or cancel a success initiative and all the related tasks.
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-basic-config.md)
 

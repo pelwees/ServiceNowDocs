@@ -23,7 +23,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 This topic collection provides information about how ServiceNow manages authentication and API access when acting as both the authorization server and the resource server. It describes the behavior when SSO is enabled, including redirection to the identity provider \(IdP\) for user authentication and the issuance of an authorization code by ServiceNow after successful authentication. The usage of authorization code ensures that ServiceNow retains control over token issuance and access to protected resources.
 
-![Authorization Workflow](../../machine-identity/images/mic-authorization-flow.png "Authorization workflow")
+![Authorization Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../machine-identity/images/mic-authorization-flow.png "Authorization workflow")
 
 ## Procedure
 

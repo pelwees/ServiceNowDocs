@@ -31,10 +31,10 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 4.  From the **Utilities** panel, select **Dependency View**.
 
-    ![Alert record in Express list with Dependency View button highlighted.](../image/express-alert-dependency.png)
+    ![Alert record in Express list with Dependency View button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/express-alert-dependency.png)
 
     The **Dependency View** map opens.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/dependency-maps.md)
 

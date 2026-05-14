@@ -33,7 +33,7 @@ The Microsoft Graph Security API integration addresses these issues by using the
 
 ## Summary of feature differences
 
-![A visual comparision of Azure Sentinel and Graph API](../image/sentinel-graph-api.png)
+![A visual comparision of Azure Sentinel and Graph API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-graph-api.png)
 
 <table id="table_azf_vmp_wpb"><thead><tr><th>
 

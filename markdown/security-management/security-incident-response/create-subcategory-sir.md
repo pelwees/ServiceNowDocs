@@ -47,10 +47,10 @@ Role required: sn\_si.admin
 
 The newly created subcategory is saved and appears on the Subcategory page.
 
-**Parent Topic:**[Category management in Security Incident Response](../concept/category-management-sir.md)
+**Parent Topic:**[Category management in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/category-management-sir.md)
 
 **Related topics**  
 
 
-[Create a security incident category](create-category-sir.md)
+[Create a security incident category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-category-sir.md)
 

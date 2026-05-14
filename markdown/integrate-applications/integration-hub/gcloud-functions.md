@@ -39,9 +39,9 @@ The Google Cloud Functions spoke requires a custom app that you create in Google
 
 If you’re having trouble installing the app, ensure that these dependent plugins are installed:
 
--   [Google Identity and Access Spoke](gidentityaccess-spoke-1.md)
--   [Google Cloud VPC Access Spoke](gcloud-vpc-access-1.md)
--   [Google Cloud Storage Spoke](gcloudstorage-spoke-1.md)
+-   [Google Identity and Access Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gidentityaccess-spoke-1.md)
+-   [Google Cloud VPC Access Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gcloud-vpc-access-1.md)
+-   [Google Cloud Storage Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gcloudstorage-spoke-1.md)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
 -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
@@ -74,5 +74,5 @@ The Google Cloud Functions spoke provides actions to automate Google Cloud Funct
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Google Cloud Functions spoke](../task/gcloud-func-setup.md#).
+For information about setting up the spoke, see [Set up the Google Cloud Functions spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/gcloud-func-setup.md#).
 

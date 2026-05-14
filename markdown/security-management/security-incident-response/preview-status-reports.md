@@ -42,5 +42,5 @@ Role required: sn\_msi.workspace\_manager
     The report generates a preview according to the selected template configuration. If you selected the Report Type as **Email**, then the preview is in email template format. The status reports in email format are mobile-friendly.
 
 
-**Parent Topic:**[Create a Report Template](create-report-template.md)
+**Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 

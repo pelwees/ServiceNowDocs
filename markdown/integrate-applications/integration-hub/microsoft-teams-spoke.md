@@ -56,5 +56,5 @@ The following inputs are common to the Microsoft Teams actions:
 
 You can add a Microsoft Teams Post Incident Details action to a flow which identifies newly created high priority incidents and a specified theme color.
 
-![Post Incident Details action added to a flow](../images/example-msteams-action.png)
+![Post Incident Details action added to a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/example-msteams-action.png)
 

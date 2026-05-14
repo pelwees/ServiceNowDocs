@@ -31,25 +31,25 @@ By default, not all properties are selected in the Change Management Conflict An
 
 3.  Configure the remaining customization properties.
 
-    For more information on conflict detection properties, see [Conflict detection properties](configure-conflict-properties.md#).
+    For more information on conflict detection properties, see [Conflict detection properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md#).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ConflictDetection.md)
 
 **Related topics**  
 
 
-[Create blackout and maintenance schedules in Change Management](t_CreateBlkoutMaintSched.md)
+[Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)
 
-[Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
+[Configure a change request to monitor outside maintenance schedule conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 
-[Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
+[Enable automatic change conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunAutomatedConflictDetection.md)
 
-[Detect conflicts manually and review conflict details](t_RunManualConflictDetection.md#)
+[Detect conflicts manually and review conflict details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md#)
 
 ## Conflict detection properties
 

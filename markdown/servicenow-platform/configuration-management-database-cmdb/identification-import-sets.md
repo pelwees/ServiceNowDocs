@@ -74,7 +74,7 @@ The following restrictions apply:
 -   The CMDBTransformUtil API does not check if mandatory fields have values when used with Import Sets . Regardless of how **enforce mandatory fields** is set in the transform map, data import fails if a mandatory field does not have a value.
 -   CI Identification and Reconciliation cannot be applied to Import Sets for dependent CIs \(CIs with dependent identification rules\).
 
-**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md)
+**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
 **Related topics**  
 

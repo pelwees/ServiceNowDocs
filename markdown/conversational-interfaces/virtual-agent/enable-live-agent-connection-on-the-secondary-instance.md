@@ -40,14 +40,14 @@ Role required: admin or virtual\_agent\_admin
     |Script|JavaScript script that specifies the conditions for the interaction to be routed to this live agent connection. The condition in the script editor must evaluate to true. This field is enabled only when you select the **Advanced** check box.|
     |Subflow|Subflow transforms the request into the secondary instance request format and routes the request to the secondary instance. Select **VA API Bot Interconnect Integration Handler**.|
 
-    ![Live agent connection configuration with condition builder](../images/live-agent-connection-condition-builder.png)![Live agent connection configuration with JavaScript](../images/live-agent-connection-javascript-condition-editor.png)
+    ![Live agent connection configuration with condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/live-agent-connection-condition-builder.png)![Live agent connection configuration with JavaScript](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/live-agent-connection-javascript-condition-editor.png)
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
+**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-secondary-bot-with-sn-primary.md)
 
-**Previous topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](../task/create-va-topic-sn-primary-secondary-config.md)
+**Previous topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/create-va-topic-sn-primary-secondary-config.md)
 
-**Next topic:**[Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](../task/debug-bot-sn-sn-configuration.md)
+**Next topic:**[Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/debug-bot-sn-sn-configuration.md)
 

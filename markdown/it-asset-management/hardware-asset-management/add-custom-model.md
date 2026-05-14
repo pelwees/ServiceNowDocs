@@ -39,7 +39,7 @@ Role required: ham\_admin
 
 ## What to do next
 
-After you've created the hardware model, [normalize the model](normalize-hardware-consumable-models.md).
+After you've created the hardware model, [normalize the model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/normalize-hardware-consumable-models.md).
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/Work-with-hardware-normalization.md)
 

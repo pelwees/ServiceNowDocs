@@ -48,5 +48,5 @@ The following are the Change Success Score indicators that are used to collect d
 
 For more information on the PA indicators, see [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md)
 
-**Parent Topic:**[Change success score](change-success-score.md)
+**Parent Topic:**[Change success score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 

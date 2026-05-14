@@ -17,15 +17,15 @@ Agentic evaluations enable you to test agentic AI assets against defined dataset
 
 <table id="table_gyk_3rj_q3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore what agentic evaluations are and general guidelines for running them.](explore-aia-eval.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Explore what agentic evaluations are and general guidelines for running them.](explore-aia-eval.md)
 
 </td><td>
 
-[Evaluate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create evaluation runs, track their progress, and analyze and act on results.](evaluating-aia.md)
+[Evaluate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create evaluation runs, track their progress, and analyze and act on results.](evaluating-aia.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the roles, parser tool for custom metrics, and the results page.](../reference/ref-aia-eval.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the roles, parser tool for custom metrics, and the results page.](../reference/ref-aia-eval.md)
 
 </td></tr></tbody>
 </table>Automated evaluations for agentic AI are a structured quality assurance capability for agentic AI assets built in AI Agent Studio. Each evaluation run tests your agents against a defined dataset, applies LLM-powered judges to score key quality dimensions, and surfaces issues with recommended fixes. Use automated evaluations to get objective, explainable evidence that your agentic AI is ready to deploy.

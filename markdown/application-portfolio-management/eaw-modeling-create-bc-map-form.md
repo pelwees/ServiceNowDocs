@@ -73,12 +73,12 @@ Business capability
 Name of the business capabilities for which you want to generate the hierarchy map. You can level-0 capabilities from the list.**Note:** This field does not appear when you select the check box for the field **Include all business capabilities**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a diagram for a business capability map](../../task/eaw-task/eaw-modeling-bc-map.md)
+[Create a diagram for a business capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-bc-map.md)
 
-[Create a business hierarchy map form](eaw-modeling-create-ba-map-form.md)
+[Create a business hierarchy map form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-create-ba-map-form.md)
 

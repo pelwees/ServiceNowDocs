@@ -31,20 +31,20 @@ By default, this property is set as true. If you set the property as false, all 
 
 2.  In the Name column, search for `sn_now_teams.link_unfurl.view_action_choice` property.
 
-    ![Unfurl link property](../images/unfurl-link-option.png)
+    ![Unfurl link property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/unfurl-link-option.png)
 
 3.  Click the property.
 
     If the record is uneditable, click here to edit the record.
 
-    ![Edit the record](../images/edit-link-unfurl-property.png)
+    ![Edit the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit-link-unfurl-property.png)
 
 4.  Update the **Value** field as `false` to view the links in a browser.
 
-    ![Update unfurl link record](../images/update-link-unfurl-property2.png)
+    ![Update unfurl link record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/update-link-unfurl-property2.png)
 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling-it.md)
+**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/enable-link-unfurling-it.md)
 

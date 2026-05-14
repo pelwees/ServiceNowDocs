@@ -47,7 +47,7 @@ Source Type
 
 Types of log sources-   Node Log
 -   Table
-See [Log sources](../concept/les-log-sources-export.md) for more information.
+See [Log sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/les-log-sources-export.md) for more information.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Conditions to forward logs selectively.**Note:** This field is visible only if y
     2.  Select the required table in the Log Table field.
     3.  Select the lookup icon in the Topic field.
 
-        **Note:** You can select an existing topic from the list. You can also create a new topic by selecting **New** in the Kafka Topics list. See [Create source type and multi topics in the LES source table](les-multi-topics-v2.md) to create a new Kafka topic.
+        **Note:** You can select an existing topic from the list. You can also create a new topic by selecting **New** in the Kafka Topics list. See [Create source type and multi topics in the LES source table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-multi-topics-v2.md) to create a new Kafka topic.
 
     4.  Select **Submit** on the Source Topics form.
 6.  View the recently created log table and its corresponding topic in the Source Topics related list.
@@ -110,8 +110,8 @@ Conditions to forward logs selectively.**Note:** This field is visible only if y
 7.  Select **Submit** to create a new source configuration.
 
 
--   **[Create source type and multi topics in the LES source table](les-multi-topics-v2.md)**  
+-   **[Create source type and multi topics in the LES source table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-multi-topics-v2.md)**  
 Consume logs for each source type by creating multiple topics per source type. You can now leverage the option of customized selection of specific topics for different log sources during the debugging process, without impacting the other log tables.
 
-**Parent Topic:**[Administering Log Export Service \(LES\)](../concept/les-administer.md)
+**Parent Topic:**[Administering Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/les-administer.md)
 

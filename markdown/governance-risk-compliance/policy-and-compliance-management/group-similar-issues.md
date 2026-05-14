@@ -36,11 +36,11 @@ Grouping issues under a parent can save you valuable time. For example, assume y
     -   **Audit** &gt; **Issues** &gt; **Create New**.
 2.  On the form, locate the **Parent issue** field.
 
-    ![Parent field](../image/parent-no-num.png)
+    ![Parent field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/parent-no-num.png)
 
-3.  Click the bulb icon \(![bulb icon](../image/bulb.png)\) to view similar issues that you may want to assign to this parent issue.
+3.  Click the bulb icon \(![bulb icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/bulb.png)\) to view similar issues that you may want to assign to this parent issue.
 
-    ![Similar issue suggestions](../image/similar-issue-suggestion.png)
+    ![Similar issue suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/similar-issue-suggestion.png)
 
     **Note:** Standalone issues are similar to the current issue, but that are not assigned to a parent issue group. The Confidence score is calculated using a similarity definition included in the GRC: Predictive Intelligence application base system.
 
@@ -48,7 +48,7 @@ Grouping issues under a parent can save you valuable time. For example, assume y
 
 5.  Select the similar issues you want to group with the current issue, and click **Group**.
 
-    ![Group issues](../image/group-ssues.png)
+    ![Group issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/group-ssues.png)
 
 6.  On the form, fill in the fields.
 
@@ -100,5 +100,5 @@ This field displays only if you selected **Create a new group**. Select the user
 8.  You can view the issue in the group by clicking the **Issues** tab.
 
 
-**Parent Topic:**[Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md)
+**Parent Topic:**[Manually create GRC issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/task/t_CreateAnIssue.md)
 

@@ -17,7 +17,7 @@ Configure email notifications so you can be informed when Localization Workspace
 
 ## Before you begin
 
-Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](../../notification/task/create-notification-categories.md).
+Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/create-notification-categories.md).
 
 Role required: admin.
 
@@ -25,7 +25,7 @@ Role required: admin.
 
 From Zurich Patch 1, along with tracking the progress of translation jobs in Localization Workspace, you can set up email notifications to be alerted upon completion of translation jobs.
 
-For detailed information about configuring email notifications, see [Create an email notification](../../notification/task/t_CreateANotification.md). The following procedure is specific to notifications for Localization Workspace jobs.
+For detailed information about configuring email notifications, see [Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/t_CreateANotification.md). The following procedure is specific to notifications for Localization Workspace jobs.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ For detailed information about configuring email notifications, see [Create an e
     |-----|-----------|
     |**Name**|Enter a unique, descriptive name for these notifications.|
     |**Table**|Select the Translation Request \[sn\_lw\_trans\_request\] table from the list of tables.|
-    |**Category**|If you have already set up your own category for these notifications, you can select it from the drop-down list. For information see [Create notification categories](../../notification/task/create-notification-categories.md).|
+    |**Category**|If you have already set up your own category for these notifications, you can select it from the drop-down list. For information see [Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/create-notification-categories.md).|
 
 4.  On the **When to send** tab, fill in the fields.
 
@@ -93,7 +93,7 @@ Select the lock icon to add a group of users, such as Localization Requestor, fr
 Option to enable all users to subscribe to the notification.**Note:** Recipients can receive email about records that they can’t normally access from the user interface, so consider the sensitivity of the information before selecting this option.
 
 </td></tr></tbody>
-</table>    ![The Who will receive tab on a new email notification for Localization Workspace's Translation Request table.](../image/lw-email-notif-completed-jobs-who.png)
+</table>    ![The Who will receive tab on a new email notification for Localization Workspace's Translation Request table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-email-notif-completed-jobs-who.png)
 
 6.  On the **What it will contain** tab, fill in the fields according to your organizational requirements.
 
@@ -139,9 +139,9 @@ You can use variables from the Translation Request \[sn\_lw\_trans\_request\] ta
 
 After creating a new notification, you can review its record in the Notifications \[sysevent\_email\_action\] table. From that finished record you can select **Preview Notification** to open an example of the email notification. Use this function to confirm how the notification appears to recipients.
 
-![The Preview Notification button is highlighted on a submitted email notification record.](../image/lw-email-notif-completed-jobs-preview.png)
+![The Preview Notification button is highlighted on a submitted email notification record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-email-notif-completed-jobs-preview.png)
 
-For more information, see [Preview email notifications](../../notification/task/t_PreviewingNotifications.md).
+For more information, see [Preview email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/t_PreviewingNotifications.md).
 
-**Parent Topic:**[Creating email notifications for Localization Workspace](../concept/lw-email-notifications.md)
+**Parent Topic:**[Creating email notifications for Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/lw-email-notifications.md)
 

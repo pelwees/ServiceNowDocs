@@ -30,5 +30,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 3.  Select the **Floor** link to view the floor record.
 
 
-**Parent Topic:**[Update a workplace floor plan](edit-workplace-floor-map.md)
+**Parent Topic:**[Update a workplace floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/edit-workplace-floor-map.md)
 

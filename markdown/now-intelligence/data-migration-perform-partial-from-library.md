@@ -40,19 +40,19 @@ The migrated dashboard appears in the Platform Analytics library. The original C
 
 3.  Select **Switch to Next UI**.
 
-    ![Dashboard library with two Core UI dashboards that are ready to migrate selected and the Switch to Next UI button highlighted](../image/data-mig-selected-from-library.png)
+    ![Dashboard library with two Core UI dashboards that are ready to migrate selected and the Switch to Next UI button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-selected-from-library.png)
 
     A message confirming the number of dashboards you want to migrate appears. Select **Switch to Next UI** again to open the Migration Center.
 
 4.  In the Migration Center, you can compare the two versions of the selected dashboards, view the logs, and choose which to migrate to Next Experience.
 
-    For more information, see [Evaluate full data migration](data-migration-evaluate.md).
+    For more information, see [Evaluate full data migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 
 5.  Select **See All Content** to replace the list of selected dashboards with the list of all dashboards on the instance.
 
 6.  Select the dashboard's name in the Migration Center to edit it before you activate.
 
-7.  When you are satisfied, choose which dashboards to migrate and select **Activate selected**.![Migration center with two dashboards selected and the Activate selected button enabled.](../image/data-mig-activate-selected.png)
+7.  When you are satisfied, choose which dashboards to migrate and select **Activate selected**.![Migration center with two dashboards selected and the Activate selected button enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-activate-selected.png)
 
 
 ## Result
@@ -61,5 +61,5 @@ In the library, migrated dashboards are listed next to their Core UI counterpart
 
 ## What to do next
 
-Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-mig-unmigrated-content.md).
 

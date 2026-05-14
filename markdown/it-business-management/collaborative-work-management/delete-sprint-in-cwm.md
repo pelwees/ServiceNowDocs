@@ -27,9 +27,9 @@ Role required: sn\_cwm.cwm\_user
 
 3.  Select the Sprint planning tab.
 
-4.  From the sprint header, select the More options icon \(![More options icon.](../images/cwm-icon-more-options.png)\) and select **Delete**.
+4.  From the sprint header, select the More options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-more-options.png)\) and select **Delete**.
 
-    ![Delete Sprint in CWM.](../images/cwm-delete-sprint.png)
+    ![Delete Sprint in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-delete-sprint.png)
 
 5.  In the Delete Sprint confirmation modal, select **Delete**.
 
@@ -38,5 +38,5 @@ Role required: sn\_cwm.cwm\_user
 
 The sprint is deleted and any active incomplete work items that were scheduled into this sprint are moved to the backlog.
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/agile-sprint-planning-in-cwm.md)
 

@@ -17,7 +17,7 @@ Set up the rules at each approval level for your due diligence requests by selec
 
 ## Before you begin
 
-Set up the approval levels. For more information, see [Set up the approval levels for due diligence requests](tprm-set-request-approval-levels.md).
+Set up the approval levels. For more information, see [Set up the approval levels for due diligence requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-levels.md).
 
 Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
@@ -43,7 +43,7 @@ Each approval level can contain multiple approval rules. Each approval rule can 
 
 7.  Select the source for the request.
 
-    For descriptions of all these fields, see [Approval rule form](../reference/tprm-ar-form.md).
+    For descriptions of all these fields, see [Approval rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-ar-form.md).
 
 8.  Select **Submit**.
 
@@ -51,5 +51,5 @@ Each approval level can contain multiple approval rules. Each approval rule can 
 **Related topics**  
 
 
-[Set up the approval levels for due diligence requests](tprm-set-request-approval-levels.md)
+[Set up the approval levels for due diligence requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-levels.md)
 

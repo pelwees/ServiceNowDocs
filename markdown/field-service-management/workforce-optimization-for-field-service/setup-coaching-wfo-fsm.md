@@ -18,5 +18,5 @@ Manage agent skills and assess the quality of completed tasks. Use Predictive In
 **Related topics**  
 
 
-[Coaching in Workforce Optimization for Field Service](coaching-wfo-fsm.md)
+[Coaching in Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/coaching-wfo-fsm.md)
 

@@ -30,5 +30,5 @@ Role required: admin
     If the building has any floors defined for it, a warning box opens and identifies the floors. Delete the floors before deleting the building.
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

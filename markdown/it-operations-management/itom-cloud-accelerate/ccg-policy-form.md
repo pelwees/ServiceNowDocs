@@ -46,7 +46,7 @@ Resource type
 
 </td><td>
 
-Cloud resource type to be scanned through the policy. If the required resource type is not available, you can create a resource type. For more information, see [Create a resource collector](../task/create-ccg-resource-collector.md).
+Cloud resource type to be scanned through the policy. If the required resource type is not available, you can create a resource type. For more information, see [Create a resource collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../task/create-ccg-resource-collector.md).
 
 </td></tr></tbody>
 </table>## Policy condition
@@ -71,7 +71,7 @@ Cloud Configuration Governance supports the following types:-   **Condition buil
 -   **Integration Hub Flow**: The low-code method for creating policies.
 -   **Script**: The code-based method for creating policies.
 
- Select the show available keys icon \(![Show available keys icon.](../image/show-available-keys-icon.png)\) to view the list of all available configuration keys for the selected resource type. You can use any of the keys in the policy.
+ Select the show available keys icon \(![Show available keys icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../image/show-available-keys-icon.png)\) to view the list of all available configuration keys for the selected resource type. You can use any of the keys in the policy.
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Condition script
 
 </td><td>
 
-Script that implements the policy conditions to identify and report the policy violations. Cloud Configuration Governance contains several scriptable objects and variables for use in the policy scripts. For more information see, [Scripting reference](ccg-scripting-reference.md).
+Script that implements the policy conditions to identify and report the policy violations. Cloud Configuration Governance contains several scriptable objects and variables for use in the policy scripts. For more information see, [Scripting reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-scripting-reference.md).
 
  You can create script includes to externalize the decision making and reuse the code across different scripts. For more information on creating the script includes, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
@@ -154,7 +154,7 @@ Report violation as
 
 Violation definition to be included in the audit violation report. Cloud Configuration Governance uses the violation definition to report the policy non-compliances.If an appropriate violation definition is not available, you can create one as follows:
 
-1.  Select the lookup using list icon \(![Lookup using list icon.](../image/lookup-using-list.png)\).
+1.  Select the lookup using list icon \(![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../image/lookup-using-list.png)\).
 2.  Select **New**.
 3.  Enter a name that uniquely identifies the violation definition.
 
@@ -172,5 +172,5 @@ Severity
 Severity level of the violation. If you do not select the severity level in the policy, Cloud Configuration Governance uses the default severity defined in the violation definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)
+</table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 

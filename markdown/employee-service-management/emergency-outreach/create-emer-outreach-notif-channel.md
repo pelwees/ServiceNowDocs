@@ -33,7 +33,7 @@ If the **Email notification** and **Now Mobile Push notification** check boxes a
 
 2.  Click **New**.
 
-    ![New channel record with the script option selected and default script.](../image/emer-outreach-notif-channel.png)
+    ![New channel record with the script option selected and default script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../image/emer-outreach-notif-channel.png)
 
 3.  Enter the name of your notification channel.
 
@@ -116,7 +116,7 @@ If the **Email notification** and **Now Mobile Push notification** check boxes a
 
 When an outreach is sent using a custom notification channel, a Delivery Logs related list appears in the Outreach message.
 
-![Delivery logs related list showing a failed log status.](../image/outreach-delivery-log-list.png "Delivery logs related list")
+![Delivery logs related list showing a failed log status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../image/outreach-delivery-log-list.png "Delivery logs related list")
 
 1.  Test the notification channel for an outreach message, and open the failed record to review the error message.
 2.  Fix errors that caused the notification to fail.

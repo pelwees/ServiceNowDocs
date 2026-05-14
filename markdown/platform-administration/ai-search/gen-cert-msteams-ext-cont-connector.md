@@ -69,7 +69,7 @@ To configure public/private key pair authentication for the connector, you need 
 
     **Important:** Ignore the keytool warning message about migrating your keystore to the PKCS12 format. The external content connector only supports the Java KeyStore format.
 
-2.  Export your public key in DER-encoded binary X.509 certificate format by running the following keytool command, replacing `<cer-file>` with a filename of your choice and replacing `<alias>`, `<jks-file>`, and `<password>` with the same values you used in step [1](gen-cert-msteams-ext-cont-connector.md#generate-keypair-jks):
+2.  Export your public key in DER-encoded binary X.509 certificate format by running the following keytool command, replacing `<cer-file>` with a filename of your choice and replacing `<alias>`, `<jks-file>`, and `<password>` with the same values you used in step [1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/gen-cert-msteams-ext-cont-connector.md#generate-keypair-jks):
 
     ```
     keytool -export -alias <alias> -file <cer-file>.cer -keystore <jks-file>.jks -storepass "<password>" -storetype JKS
@@ -104,7 +104,7 @@ DER-encoded binary X.509 format public key certificate file
 
 </td><td>
 
-Provide this certificate file to your Microsoft Teams administrator. They will need to upload the certificate to the Microsoft Entra admin center when configuring an OAuth 2.0 application for the Microsoft Teams external content connector. For more information on configuring an OAuth 2.0 application in the Microsoft Entra admin center for the Microsoft Teams external content connector, see [Configure Microsoft Teams for external content indexing](cfg-src-sys-settings-msteams-ext-cont-connector.md).
+Provide this certificate file to your Microsoft Teams administrator. They will need to upload the certificate to the Microsoft Entra admin center when configuring an OAuth 2.0 application for the Microsoft Teams external content connector. For more information on configuring an OAuth 2.0 application in the Microsoft Entra admin center for the Microsoft Teams external content connector, see [Configure Microsoft Teams for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-src-sys-settings-msteams-ext-cont-connector.md).
 
 </td></tr><tr><td>
 
@@ -112,8 +112,8 @@ JKS keystore file and password
 
 </td><td>
 
-Provide this Java KeyStore file and its password to your ServiceNow AI Platform admins. They will need the file and password when configuring the Microsoft Teams external content connector. For details on creating and configuring the Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](create-ext-cont-connector-msteams.md).
+Provide this Java KeyStore file and its password to your ServiceNow AI Platform admins. They will need the file and password when configuring the Microsoft Teams external content connector. For details on creating and configuring the Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-msteams.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Teams external content connector](../concept/microsoft-teams-external-content-connector.md)
+</table>**Parent Topic:**[Microsoft Teams external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-teams-external-content-connector.md)
 

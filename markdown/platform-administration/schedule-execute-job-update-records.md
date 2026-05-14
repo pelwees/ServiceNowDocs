@@ -64,7 +64,7 @@ Description
 </table>
 ## Result
 
-The records are scheduled for update or updated immediately. If you want to revert the updates to the records, see [Rollback an update job](rollback-update-job.md).
+The records are scheduled for update or updated immediately. If you want to revert the updates to the records, see [Rollback an update job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/rollback-update-job.md).
 
-**Parent Topic:**[Updating records safely in Core UI](../concept/updating-records-safely.md)
+**Parent Topic:**[Updating records safely in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/updating-records-safely.md)
 

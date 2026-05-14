@@ -116,7 +116,7 @@ Name of the view in which you want this form to open. The testing user must have
 
 Open a form to an existing record in the specified table and **Form UI**.
 
-**Note:** Using an existing record may cause unexpected behavior for this test. See [Automated Test Framework design considerations](../concept/automated-test-framework-design-considerations.md) for more information.
+**Note:** Using an existing record may cause unexpected behavior for this test. See [Automated Test Framework design considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/automated-test-framework-design-considerations.md) for more information.
 
 <table id="table_od3_dgb_hzb"><thead><tr><th>
 
@@ -223,7 +223,7 @@ To run this step, your test must have already opened a form using either the **O
 
 The **Field Values Validation**, **Set Field Values**, **Field State Validation**, and **UI Action Visibility** steps can appear in any order.
 
-**Note:** This step waits for the form to load before setting field values. This step doesn't support reference qualifiers, neither at test design time nor at test runtime. A modal form appears either on top of another form or a list. To submit a modal form after setting the field values, your test must have already opened it on top of a form or a list.![Image showing modal form](../image/atf-modal-form.png)
+**Note:** This step waits for the form to load before setting field values. This step doesn't support reference qualifiers, neither at test design time nor at test runtime. A modal form appears either on top of another form or a list. To submit a modal form after setting the field values, your test must have already opened it on top of a form or a list.![Image showing modal form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-modal-form.png)
 
 <table id="table_od3_dgb_hzb"><thead><tr><th>
 
@@ -1213,7 +1213,7 @@ To run this step, your test must have already opened a form using either the **O
 
 A modal form appears either on top of another form or a list. To submit a modal form, your test must have already opened it on top of a form or a list.
 
-![Add Test Step modal form.](../image/atf-modal-form.png)
+![Add Test Step modal form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-modal-form.png)
 
 <table id="table_od3_dgb_hzb"><thead><tr><th>
 

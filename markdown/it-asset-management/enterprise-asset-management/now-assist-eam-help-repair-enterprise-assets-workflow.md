@@ -70,15 +70,15 @@ Enterprise asset repair initiation
 1.  A user with the sn\_eam.asset\_technician role requests the repair of a defective enterprise asset through one of the following options:
     -   The Service Catalog application
 
-For more information on this request option, see [Request repair of enterprise assets using Service Catalog](../../enterprise-asset-management/task/repair-req-eam-assets-using-catalog.md).
+For more information on this request option, see [Request repair of enterprise assets using Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/repair-req-eam-assets-using-catalog.md).
 
     -   The Inventory view of the Enterprise Asset Workspace
 
-For more information on this request option, see [Create repair orders for enterprise assets in the Inventory view](../../enterprise-asset-management/task/repair-orders-for-eam-assets-in-inventory-view.md).
+For more information on this request option, see [Create repair orders for enterprise assets in the Inventory view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/repair-orders-for-eam-assets-in-inventory-view.md).
 
     -   The Repair option on the corresponding asset record
 
-For more information on this request option, see [Request repair of an enterprise asset using the Repair option](../../enterprise-asset-management/task/repair-requests-using-asset-form-eam.md).
+For more information on this request option, see [Request repair of an enterprise asset using the Repair option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/repair-requests-using-asset-form-eam.md).
 
 2.  A repair order and corresponding repair order line are created.
 3.  A troubleshooting-based repair asset task is automatically generated for the repair order line.
@@ -105,7 +105,7 @@ Repair asset task validation
 
 </td><td>
 
-The asset next best action AI agent validates the repair asset task.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
+The asset next best action AI agent validates the repair asset task.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
 
 -   If the validation is successful, the workflow can proceed with helping the user troubleshoot the asset.
 -   If the validation is unsuccessful, the task must be updated and then re-validated.
@@ -124,19 +124,19 @@ After the repair asset task is successfully validated, the workflow helps the us
 3.  The user who is assigned to the repair asset task must perform all troubleshooting steps to determine the asset issue.
 4.  In the Now Assist panel, the AI agent asks the user to confirm if the troubleshooting steps helped with determining the asset issue.
 5.  Depending on if the troubleshooting steps helped the user, the workflow proceeds as follows:
-    -   If the troubleshooting steps helped, the AI agent asks the user to confirm whether the asset is repairable, unrepairable, or redeployable. The workflow then proceeds to [step 6](now-assist-eam-help-repair-enterprise-assets-workflow.md#user-input).
+    -   If the troubleshooting steps helped, the AI agent asks the user to confirm whether the asset is repairable, unrepairable, or redeployable. The workflow then proceeds to [step 6](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#user-input).
 
 **Note:** If the user confirms that the asset is repairable, a corresponding repair-based repair asset task is automatically generated. The user is automatically assigned to this task.
 
-    -   If the troubleshooting steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](now-assist-eam-help-repair-enterprise-assets-workflow.md#web-search).
+    -   If the troubleshooting steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#web-search).
 6.  The AI agent requests details about the asset issue.
 7.  After the user provides all necessary details, the repair asset task is closed.
 
 **Note:** You can view details about the completed troubleshooting steps in the work notes of the repair asset task.
 
 8.  Depending on whether the asset is repairable, unrepairable, or redeployable, the workflow proceeds as follows:
-    -   If the asset is repairable, the workflow proceeds with [helping the user repair it](now-assist-eam-help-repair-enterprise-assets-workflow.md#repair).
-    -   If the asset is unrepairable, the user must dispose of it. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](../../enterprise-asset-management/task/create-eamdisposal-order.md).
+    -   If the asset is repairable, the workflow proceeds with [helping the user repair it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#repair).
+    -   If the asset is unrepairable, the user must dispose of it. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/create-eamdisposal-order.md).
     -   If the asset is redeployable, the user can help redeploy it.
 
 </td></tr><tr><td>
@@ -145,7 +145,7 @@ Repair asset task validation
 
 </td><td id="repair">
 
-If the user confirmed that the asset is repairable, the asset next best action AI agent validates the corresponding repair-based repair asset task that was automatically generated.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
+If the user confirmed that the asset is repairable, the asset next best action AI agent validates the corresponding repair-based repair asset task that was automatically generated.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
 
 -   If the validation is successful, the workflow can proceed with helping the user repair the asset.
 -   If the validation is unsuccessful, the task must be updated and then re-validated.
@@ -164,14 +164,14 @@ After the repair asset task is successfully validated, the workflow helps the us
 3.  The user who is assigned to the repair asset task must perform the repair steps.
 4.  In the Now Assist panel, the AI agent asks the user to confirm if the repair steps helped with resolving the asset issue.
 5.  Depending on if the repair steps helped the user, the workflow proceeds as follows:
-    -   If the repair steps helped, the AI agent asks the user to confirm whether the asset was repaired, unrepairable, or redeployable. The workflow then proceeds to [step 6](now-assist-eam-help-repair-enterprise-assets-workflow.md#close-repair-task).
-    -   If the repair steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](now-assist-eam-help-repair-enterprise-assets-workflow.md#web-search-repair).
+    -   If the repair steps helped, the AI agent asks the user to confirm whether the asset was repaired, unrepairable, or redeployable. The workflow then proceeds to [step 6](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#close-repair-task).
+    -   If the repair steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/now-assist-eam-help-repair-enterprise-assets-workflow.md#web-search-repair).
 6.  The repair asset task is closed.
 
 **Note:** You can view details about the completed repair steps in the work notes of the repair asset task.
 
-    -   If the repair asset task is closed with a resolution of Repaired, a corresponding Evaluate asset task is automatically generated. The user must then evaluate the repair to confirm if the asset is redeployable or must be disposed of. For more information on evaluating an asset repair, see [Evaluate the repaired asset in the Enterprise Asset Workspace](../../enterprise-asset-management/task/evaluate-repaired-eam-asset-ws.md).
-    -   If the repair asset task is closed with a resolution of Unrepairable, the user must dispose of the asset. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](../../enterprise-asset-management/task/create-eamdisposal-order.md).
+    -   If the repair asset task is closed with a resolution of Repaired, a corresponding Evaluate asset task is automatically generated. The user must then evaluate the repair to confirm if the asset is redeployable or must be disposed of. For more information on evaluating an asset repair, see [Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/evaluate-repaired-eam-asset-ws.md).
+    -   If the repair asset task is closed with a resolution of Unrepairable, the user must dispose of the asset. For more information on asset disposals, see [Create a disposal order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/task/create-eamdisposal-order.md).
     -   If the repair asset task is closed with a resolution of Redeployable, the user can help redeploy it.
 
 </td></tr></tbody>
@@ -218,5 +218,5 @@ Repair asset AI agent
 -   Updates and closes repair-based repair asset tasks.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](../../enterprise-asset-management/concept/fulfilling-repair-orders-eam.md)
+</table>**Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../enterprise-asset-management/concept/fulfilling-repair-orders-eam.md)
 

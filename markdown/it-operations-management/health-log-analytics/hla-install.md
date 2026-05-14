@@ -39,5 +39,5 @@ Role required: admin
     **Note:** This plugin requires an additional fee.
 
 
-**Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](hla-content-pack.md)
+**Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)
 

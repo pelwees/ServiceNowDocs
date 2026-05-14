@@ -17,14 +17,14 @@ MetricBase is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[MetricBase reference](../concept/reference-metricbase.md)
+**Parent Topic:**[MetricBase reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../concept/reference-metricbase.md)
 
 **Related topics**  
 
 
-[Developer resources](../concept/developer-resources.md)
+[Developer resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../concept/developer-resources.md)
 
-[Domain separation and MetricBase](../concept/domain-separation-metricbase.md)
+[Domain separation and MetricBase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../concept/domain-separation-metricbase.md)
 
 ## MetricBase administrator \[clotho\_admin\]
 

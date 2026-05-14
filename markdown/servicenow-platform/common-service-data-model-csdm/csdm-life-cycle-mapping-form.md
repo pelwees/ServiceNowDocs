@@ -134,12 +134,12 @@ Business Application records define a restricted set of Life Cycle Stage values 
 
 In contrast, in sys\_choice inheritance definitions in child tables override the values in parent tables.
 
-**Parent Topic:**[CSDM reference](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../csdm-implementation/concept/csdm-content-frame-reference.md)
 
 **Related topics**  
 
 
-[Asset status values aligned to CSDM life cycle values](csdm-lifecycle-map-csdm-to-asset.md)
+[Asset status values aligned to CSDM life cycle values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-lifecycle-map-csdm-to-asset.md)
 
 [Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 

@@ -32,5 +32,5 @@ Role required: admin
 
 If the number of cases returned is more than the value listed in the system property, the reverse matching rule doesn’t run for Scripted and Selection Criteria matching rules.
 
-**Parent Topic:**[Reverse matching](t_ReverseMatching.md)
+**Parent Topic:**[Reverse matching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_ReverseMatching.md)
 

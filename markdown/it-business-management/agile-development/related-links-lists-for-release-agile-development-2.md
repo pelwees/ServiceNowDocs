@@ -50,5 +50,5 @@ Groups
 Lists the groups assigned to the release. You can assign an existing agile group to the release by selecting **Edit**. When you associate a product to a release, the groups assigned to this product are automatically added to the release.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+</table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 

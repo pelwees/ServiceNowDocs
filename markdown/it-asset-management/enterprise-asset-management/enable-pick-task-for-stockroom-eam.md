@@ -32,12 +32,12 @@ Role required: inventory\_user
 5.  Select **Save**.
 
 
-**Parent Topic:**[Manage enterprise asset picking within your stockrooms](../concept/manage-asset-picking-stockroom-eam-ws.md)
+**Parent Topic:**[Manage enterprise asset picking within your stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-asset-picking-stockroom-eam-ws.md)
 
 **Related topics**  
 
 
-[Add aisles and spaces to a stockroom in the Enterprise Asset Workspace](add-aisle-space-stockroom-eam-ws.md)
+[Add aisles and spaces to a stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-aisle-space-stockroom-eam-ws.md)
 
-[View the open enterprise asset pick tasks for your stockroom](view-open-pick-tasks-eam.md)
+[View the open enterprise asset pick tasks for your stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-open-pick-tasks-eam.md)
 

@@ -21,7 +21,7 @@ If you have the sn\_hr\_core.admin role, you can customize HR profile informatio
 
 You can collect more profile information in a separate table. For example, you can create a Dependents table that extends the HR Profile \[hr\_profile\] table.
 
-Because profile information is sensitive and confidential, the system administrator cannot view it. For more information, see [HR profile and HR case security](c_HRProfileSecurity.md).
+Because profile information is sensitive and confidential, the system administrator cannot view it. For more information, see [HR profile and HR case security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileSecurity.md).
 
 ## Associate profiles with user records
 
@@ -106,5 +106,5 @@ The HR profile contains both personal and work email fields, while the user reco
 </td></tr></tbody>
 </table>**Note:** The User form must be configured to show address, country, and email fields.
 
-**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 

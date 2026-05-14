@@ -28,7 +28,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
 
 ## About this task
 
-**Note:** If you're customizing a theme that you created with Theme Builder and enter invalid JSON code, you can't save your theme record. While working in the UX theme record, you can navigate to the Editor page by using the **Open in Theme Builder** button. For more information, see [Manage or edit a theme with Theme Builder](tb-edit-theme.md).
+**Note:** If you're customizing a theme that you created with Theme Builder and enter invalid JSON code, you can't save your theme record. While working in the UX theme record, you can navigate to the Editor page by using the **Open in Theme Builder** button. For more information, see [Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
 
 2.  Create a theme record by selecting **New**.
 
-3.  Enter a name and a description for your theme.![UX Theme form.](../image/next-exp-theming-form.png)
+3.  Enter a name and a description for your theme.![UX Theme form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-theming-form.png)
 
 4.  Select the Additional actions icon ![](../image/icon-context-p.png) and select **Save**.
 
@@ -66,7 +66,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
         -   **Typography:** Specifies the fonts that are used throughout the application.
     -   **Type**
 
-        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [Working with themes in Next Experience](../concept/next-experience-theming.md).
+        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-theming.md).
 
 6.  Select the **Style** field and select the lookup icon ![](../image/ux-style-search.png).
 
@@ -88,7 +88,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
 
 13. Gather your CSS variables by selecting **Copy JSON**.
 
-14. Fill in the UX style form.![UX Style form.](../image/ux-style-theme-form.png)
+14. Fill in the UX style form.![UX Style form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ux-style-theme-form.png)
 
 <table id="table_hh5_w11_45b"><thead><tr><th>
 
@@ -114,7 +114,7 @@ Type
 
 -   Core
 -   Variant
- For more information on types, see [Difference between core styles and variants](../reference/difference-themes-variants.md).
+ For more information on types, see [Difference between core styles and variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/difference-themes-variants.md).
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Style
 
 </td><td>
 
-Values for the colors, shapes, and forms. Some of the values are colors and some, like borders, are pixel values.**Important:** JSON code must be wrapped as shown in the following example.![Property value string.](../image/property-values.png)
+Values for the colors, shapes, and forms. Some of the values are colors and some, like borders, are pixel values.**Important:** JSON code must be wrapped as shown in the following example.![Property value string.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/property-values.png)
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Scope of the UX style.
 
 ## What to do next
 
-To publish your custom theme, see [Publish multiple themes in Next Experience](configure-presentation-order-of-themes.md).
+To publish your custom theme, see [Publish multiple themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md).
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

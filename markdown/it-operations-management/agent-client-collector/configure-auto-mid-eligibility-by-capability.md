@@ -25,13 +25,13 @@ Agents with different levels of Agent Client Collector \(ACC\) capability can’
 
 ## Procedure
 
-1.  Configure the Agent Client Collector capabilities for MID Servers, as described in [Configure the Agent Client Collector capabilities for MID Servers](configure-acc-capability.md).
+1.  Configure the Agent Client Collector capabilities for MID Servers, as described in [Configure the Agent Client Collector capabilities for MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-acc-capability.md).
 
 2.  Navigate to **All** &gt; **Agent Client Collector** &gt; **MID Servers**.
 
 3.  Select the MID Server that you want to be ineligible for automatic MID Server selection.
 
-4.  Select the additional actions icon ![Additional Actions icon.](../image/additional-actions-icon.png) and select **View** &gt; **Default View**.
+4.  Select the additional actions icon ![Additional Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/additional-actions-icon.png) and select **View** &gt; **Default View**.
 
 5.  Select the **Capabilities** tab.
 
@@ -53,5 +53,5 @@ Agents with different levels of Agent Client Collector \(ACC\) capability can’
     MID Server B is ineligible for automatic selection, because it doesn’t have the same ACC capability as MID Server A. MID Server C is eligible, because it has the same ACC capability as MID Server A.
 
 
-**Parent Topic:**[Automatic MID Server selection](../concept/acc-auto-mid-selection.md)
+**Parent Topic:**[Automatic MID Server selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-auto-mid-selection.md)
 

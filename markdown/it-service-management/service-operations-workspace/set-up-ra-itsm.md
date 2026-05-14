@@ -19,7 +19,7 @@ The standard version of Recommended Actions for ITSM is provided as a part of th
 
 The Advanced Recommended actions for ITSM \(sn\_sow\_itsm\_ra\_adv\) plugin is included with the ITSM Pro package subscription.
 
-For more information, see [Configuring Recommended Actions for ITSM in Service Operations Workspace](configuring-recommended-actions-for-itsm-in-service-operations-workspace.md).
+For more information, see [Configuring Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-recommended-actions-for-itsm-in-service-operations-workspace.md).
 
-**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](setting-up-sow-itsm.md)
+**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setting-up-sow-itsm.md)
 

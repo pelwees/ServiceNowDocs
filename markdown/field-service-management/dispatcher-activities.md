@@ -25,21 +25,21 @@ With Dispatcher Workspace, you can manage work efficiently, simplify resource ma
 
 -   **Single workspace**
 
-    See everything in one configurable screen, from unassigned tasks to technician schedules and maps. For more information, see [Customize Dispatcher Workspace](dispatch-work-ui-builder.md) and [Dispatcher dashboard](dispatcher-dashboard.md).
+    See everything in one configurable screen, from unassigned tasks to technician schedules and maps. For more information, see [Customize Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/dispatch-work-ui-builder.md) and [Dispatcher dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-dashboard.md).
 
 -   **Automated work assignment**
 
     Schedule work orders based on technician skills, parts, distance, recommendations, and access hours.
 
-    -   Utilize dynamic scheduling to automatically assign work orders based on various factors, including skills, availability, and distance. For more information, see [Dynamic scheduling](dynamic-scheduling.md).
-    -   Streamline work assignments for crews by automating the scheduling process. For more information, see [Field Service Crew Operations](field-service-crew-scheduling.md).
+    -   Utilize dynamic scheduling to automatically assign work orders based on various factors, including skills, availability, and distance. For more information, see [Dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md).
+    -   Streamline work assignments for crews by automating the scheduling process. For more information, see [Field Service Crew Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-crew-scheduling.md).
 -   **Route optimization**
 
     Reduce travel time and costs by visualizing and improving multiple technician routes simultaneously.
 
 -   **Intelligent task recommendations**
 
-    Improve agent utilization through intelligent task recommendations. For more information, see [Intelligent Task Recommendation](fsm-task-recommendation.md).
+    Improve agent utilization through intelligent task recommendations. For more information, see [Intelligent Task Recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation.md).
 
 -   **Multiple time zones**
 
@@ -67,7 +67,7 @@ With Dispatcher Workspace, you can manage work efficiently, simplify resource ma
 **Related topics**  
 
 
-[Configuring Dispatcher Workspace](configuring-dispatcher-workspace.md)
+[Configuring Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-dispatcher-workspace.md)
 
-[Using Dispatcher Workspace](using-dispatcher-workspace.md)
+[Using Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/using-dispatcher-workspace.md)
 

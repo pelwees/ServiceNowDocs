@@ -21,7 +21,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-Adherence and conformance calculations are based on a defined configuration and your agents' actual and planned work schedules. For more information, see [Setting up scheduling in Workforce Optimization for Field Service](../concept/set-up-scheduling-wfo-fsm.md).
+Adherence and conformance calculations are based on a defined configuration and your agents' actual and planned work schedules. For more information, see [Setting up scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/set-up-scheduling-wfo-fsm.md).
 
 **Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-scheduling-configurable-wfo-cs.md).
 
@@ -45,7 +45,7 @@ Analyze time worked summary of your team
 
 </td><td>
 
-1.  Click the Lists icon \(![Lists icon.](../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
+1.  Click the Lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
 2.  Under Schedule Adherence, click **Time Worked Summary**.
 
 **Note:** The **Available Non Planned** time captures the time the agent was available and clocked in outside of the agent's scheduled work events. For example, if an agent is scheduled to attend a training from 13:00 to 14:00 but forgets to clock out that attendance, that time is considered the clocked-in time. The training time from 13:00 to 14:00 is captured as the available non-planned time.
@@ -56,14 +56,14 @@ View your agents' time attendance
 
 </td><td>
 
-1.  Click the Lists icon \(![Lists icon.](../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
+1.  Click the Lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
 2.  Under Schedule Adherence, click **Time Attendance**.
 
 
 </td></tr></tbody>
 </table>    The following schedule adherence example shows how to measure how well your team is adhering and conforming with their work schedules.
 
-    ![Complete summary of the attendance, schedule adherence, and conformance of all the agents in the team.](../../workforce-optimization-for-customer-service-configurable/image/time_worked_summary_new.png)
+    ![Complete summary of the attendance, schedule adherence, and conformance of all the agents in the team.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/time_worked_summary_new.png)
 
 
 ## Example

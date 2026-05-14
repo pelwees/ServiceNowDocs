@@ -23,7 +23,7 @@ If **glide.live\_feed.custom\_journal.acl\_check\_enabled** is not set to the re
 |---------|-----------|
 |Property name|**glide.live\_feed.custom\_journal.acl\_check\_enabled**|
 |Configuration type|System Properties \(/sys\_properties\_list.do\)|
-|Category|[Access control](sc-access-control.md)|
+|Category|[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)|
 |Purpose|To control which users see which journal entries based on ACLs.|
 |Recommended value|true|
 |Default value|true|
@@ -32,5 +32,5 @@ If **glide.live\_feed.custom\_journal.acl\_check\_enabled** is not set to the re
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Access control](sc-access-control.md)
+**Parent Topic:**[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 

@@ -28,10 +28,10 @@ Industrial Deviation Management helps you with the following:
 
 Deviations can be created directly from the Workspace or as part of another task's execution.
 
--   To create a deviation directly from the Workspace, select the **Plus** button \(![Plus icon.](../image/plus-button.png)\) that is available on any window or page.
+-   To create a deviation directly from the Workspace, select the **Plus** button \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/plus-button.png)\) that is available on any window or page.
 -   To create a deviation from an action, open the action task. Then, select the three-dot menu at the top corner and select **Create deviation**.
 
-You can start the sidebar discussion with an expert user to close the resolved deviation. To learn more about this functionality, see [Initiate a Sidebar chat in the Digital Factory Workspace](../task/initiate-sidebar-chat-digital-factory-workspace.md).
+You can start the sidebar discussion with an expert user to close the resolved deviation. To learn more about this functionality, see [Initiate a Sidebar chat in the Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../task/initiate-sidebar-chat-digital-factory-workspace.md).
 
 ## Example use case
 
@@ -48,14 +48,14 @@ During a routine quality check on a beverage filling line, an operator notices t
 
 This use of Deviation Management helps maintain product quality, supports traceability for audits, and enables timely corrective actions to minimize production impact.
 
--   **[Create a deviation](../task/create-industrial-deviation.md)**  
+-   **[Create a deviation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../task/create-industrial-deviation.md)**  
 Create a deviation in the Digital Factory Workspace.
--   **[Deviations life cycle](deviations-life-cycle.md)**  
+-   **[Deviations life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/deviations-life-cycle.md)**  
 The deviation life cycle is the list of states that a deviation can go through.
--   **[Deviation categories](../reference/industrial-deviation-categories.md)**  
+-   **[Deviation categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/industrial-deviation-categories.md)**  
 This page contains the reference information about the deviation categories and subcategories.
--   **[Priority matrix for deviations](../reference/priority-matrix-industrial-deviations.md)**  
+-   **[Priority matrix for deviations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/priority-matrix-industrial-deviations.md)**  
 Use the priority matrix to see how priority is calculated based on impact and urgency.
 
-**Parent Topic:**[Industrial Workflows](industrial-workflows.md)
+**Parent Topic:**[Industrial Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-workflows.md)
 

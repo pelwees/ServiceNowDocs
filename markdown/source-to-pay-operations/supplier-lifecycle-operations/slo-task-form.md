@@ -197,10 +197,10 @@ Duration
 Duration to complete the case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create new task form](create-new-supplier-task-form.md)
+</table>**Parent Topic:**[Create new task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-task-form.md)
 
 **Related topics**  
 
 
-[Create a task for a supplier case from the Source-to-Pay Workspace](../task/create-new-task-for-supp-case.md)
+[Create a task for a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-new-task-for-supp-case.md)
 

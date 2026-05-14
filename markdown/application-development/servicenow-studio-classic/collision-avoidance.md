@@ -17,7 +17,7 @@ Avoid modifying an application file across different update sets to ensure seaml
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 When the logged in user opens an application file that was modified in an update set different from the user’s current update set for the corresponding application:
 
@@ -25,7 +25,7 @@ When the logged in user opens an application file that was modified in an update
 -   Logged in user to prompted to choose an update set.
 -   Read-only protection policy is applied to the application file.
 
-![Collision avoidance message](../image/collision-avoidance.png)
+![Collision avoidance message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/collision-avoidance.png)
 
 User can make changes to the application file only after selecting the required update set.
 
@@ -37,5 +37,5 @@ When the feature is enabled, users can't work in the default update set of the a
 
 Name of the update set specific to the logged in user is, User ID or user name based on the value specified for the **glide.ui.vcs.updateset\_identifier** property in the System Property \[sys\_properties\] table. See [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) for more information. By default, the update set name is set to user name of the logged in user. However, users can rename the update set.
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_SourceControlIntegration.md)
 

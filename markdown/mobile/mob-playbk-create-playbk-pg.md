@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-You must create a Now Experience Framework page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md) before you can configure mobile web screens that can leverage a playbook on mobile devices. After you configure the page, you must configure a web screen in Mobile App Builder \(MAB\). For details about configuring mobile web screens that use Mobile App Bridge to leverage platform features on mobile devices, see [Configure mobile web screens with Mobile App Bridge](configure-mobile-playbooks.md).
+You must create a Now Experience Framework page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md) before you can configure mobile web screens that can leverage a playbook on mobile devices. After you configure the page, you must configure a web screen in Mobile App Builder \(MAB\). For details about configuring mobile web screens that use Mobile App Bridge to leverage platform features on mobile devices, see [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
 3.  Complete the **Create an experience** dialog box and select **Create** when you're finished.
 
-    ![UI Builder dialog box where you can name your Now Experience Framework page, specify roles for it, and specify the App shell UI.](../image/mob-playbk-select-app-shell-ui.png)
+    ![UI Builder dialog box where you can name your Now Experience Framework page, specify roles for it, and specify the App shell UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-select-app-shell-ui.png)
 
     **Note:** Select **UXR Base Experience Shell** from the **App shell UI** drop-down list.
 
@@ -51,7 +51,7 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
 11. In the Search data resources dialog box **Applications** column, select **@servicenow/now-mobile-app-bridge**, and then in the **Data resources** column, select **Mobile app**.
 
-    !['Search data resources' dialog box showing selection of @servicenow/now-mobile-app-bridge > Mobile app, and then selecting the Add button.](../image/mob-playbk-sel-mob-app-brdg.png)
+    !['Search data resources' dialog box showing selection of @servicenow/now-mobile-app-bridge > Mobile app, and then selecting the Add button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-sel-mob-app-brdg.png)
 
 12. In the lower right corner of the dialog box, select **Add** to add the Mobile App Bridge data resource to the page.
 
@@ -63,18 +63,18 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
     1.  Select **Body** on the left side of the editor page, and then select **Add component**.
 
-        ![UI Builder user interface showing how to add a component.](../image/mob-playbk-add-button.png)
+        ![UI Builder user interface showing how to add a component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-add-button.png)
 
     2.  Select the **Components** tab and then select the type of button you want to use.
     3.  Select the button component you just added in the body of the page, select the **Events** tab in the dialog box on the right, and then select **Add event handler**.
 
-        ![UI Builder user interface showing how to select the option to 'Configure the component manually.'](../image/mob-playbk-config-comp-man.png)
+        ![UI Builder user interface showing how to select the option to 'Configure the component manually.'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-config-comp-man.png)
 
     4.  In the **Select event handler below…** dialog box, select one of the event handlers under **Mobile app 1**, and then configure it.
 
         **Note:** Be sure to enter the `sysid` of a valid mobile screen in the **Screen ID** field:
 
-        ![UI Builder user interface showing where to add the mobile screen sysid in the 'Screen ID' field.](../image/mob-playbk-add-sysid4mobapp.png)
+        ![UI Builder user interface showing where to add the mobile screen sysid in the 'Screen ID' field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-add-sysid4mobapp.png)
 
     5.  When you've finished configuring the event handler, select **Add** in the lower right corner of the dialog box.
 14. In the Now Experience Framework editor page, select **Save** in the upper right corner to save the page.
@@ -86,7 +86,7 @@ You must create a Now Experience Framework page in [UI Builder](https://raw.gith
 
 ## What to do next
 
-After you’ve created the Now Experience Framework page, you must create a mobile web screen in MAB. Then you must add the Now Experience Framework page URL to the mobile web screen configuration in MAB. For details on completing this configuration, see Step 2 in [Configure mobile web screens with Mobile App Bridge](configure-mobile-playbooks.md).
+After you’ve created the Now Experience Framework page, you must create a mobile web screen in MAB. Then you must add the Now Experience Framework page URL to the mobile web screen configuration in MAB. For details on completing this configuration, see Step 2 in [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
-**Parent Topic:**[Configure mobile web screens with Mobile App Bridge](configure-mobile-playbooks.md)
+**Parent Topic:**[Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md)
 

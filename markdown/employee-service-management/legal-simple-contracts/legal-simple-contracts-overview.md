@@ -29,9 +29,9 @@ Legal Simple Contracts enables employees to submit legal requests for the creati
 
 Legal Simple Contracts enables your organization to provide legal support for the following contract requests:
 
--   [Non-disclosure agreement requests in Legal Simple Contracts](legal-request-nda.md)
--   [Sales contract review requests](legal-request-sales-contracts.md)
--   [Third-party contract review requests](legal-request-third-party-contract.md)
+-   [Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-nda.md)
+-   [Sales contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-sales-contracts.md)
+-   [Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-third-party-contract.md)
 
-To find out how to provide legal support for a custom contract type, see [Create a legal contract intake workflow](../task/create-legal-contract.md).
+To find out how to provide legal support for a custom contract type, see [Create a legal contract intake workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../task/create-legal-contract.md).
 

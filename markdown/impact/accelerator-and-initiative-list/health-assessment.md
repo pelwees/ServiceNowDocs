@@ -15,8 +15,8 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 The Health Assessment Accelerators provide insights into your instance health.
 
--   [Health Assessment – Advanced](health-assessment.md#)
--   [Health Assessment - Total](health-assessment.md#)
+-   [Health Assessment – Advanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment.md#)
+-   [Health Assessment - Total](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment.md#)
 
 ## Health Assessment – Advanced
 

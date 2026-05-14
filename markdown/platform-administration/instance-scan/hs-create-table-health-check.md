@@ -20,7 +20,7 @@ Create a check by selecting **Create a new Table Check** if you know which speci
 Role required: scan\_admin
 
 ```
-Before performing this task you must complete [Create a check](hs-create-health-check.md).
+Before performing this task you must complete [Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md).
 ```
 
 ## Procedure
@@ -175,5 +175,5 @@ The script that executes against each record that matches the condition in the d
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a check](hs-create-health-check.md)
+**Parent Topic:**[Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 

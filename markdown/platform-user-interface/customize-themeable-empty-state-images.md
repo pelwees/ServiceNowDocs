@@ -94,7 +94,7 @@ Role required: admin
 
         **Note:** Verify that your image is in SVG format.
 
-        1.  For detailed instructions, see [Upload one or more images](upload-multiple-images.md).
+        1.  For detailed instructions, see [Upload one or more images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-multiple-images.md).
         2.  From the Imagery style record, enter the image file name into the **Style** field using the following format: `"/FILENAME.svg"`.
 6.  Select **Update**.
 
@@ -107,5 +107,5 @@ Role required: admin
     **Note:** Using the default theme hooks is recommended.
 
 
-**Parent Topic:**[Working with theme-able empty state images](../concept/themeable-empty-state-images.md)
+**Parent Topic:**[Working with theme-able empty state images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/themeable-empty-state-images.md)
 

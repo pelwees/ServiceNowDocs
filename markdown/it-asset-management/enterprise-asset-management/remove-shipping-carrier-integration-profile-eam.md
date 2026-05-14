@@ -38,5 +38,5 @@ Role required: sn\_eam.enterprise\_admin
 
 The shipping carrier is no longer associated with the integration profile.
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-shipments-eam.md)
 

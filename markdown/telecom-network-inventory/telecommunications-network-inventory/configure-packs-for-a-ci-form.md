@@ -18,7 +18,7 @@ Configure an attribute pack table against a configuration item \(CI\) with filte
 ## Before you begin
 
 -   Make sure that the Attribute Pack plugin is installed with the Telecommunications Network Inventory application.
--   Create a pack table with a set of attributes. To learn more, see [Create table](create-pack-table.md).
+-   Create a pack table with a set of attributes. To learn more, see [Create table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-pack-table.md).
 
 Role required: admin, sn\_ni\_core.inventory\_admin
 
@@ -108,12 +108,12 @@ The pack table is mapped against the CI and is displayed in the Pack Config list
 
 ## What to do next
 
-Use the pack tables in the CI record. To learn more, see [Use an attribute pack in the CI record](use-telecommunication-network-inventry-pack.md).
+Use the pack tables in the CI record. To learn more, see [Use an attribute pack in the CI record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/use-telecommunication-network-inventry-pack.md).
 
-**Parent Topic:**[Configuring an attribute pack table](../concept/configuring-pack-table.md)
+**Parent Topic:**[Configuring an attribute pack table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configuring-pack-table.md)
 
 **Related topics**  
 
 
-[Create table](create-pack-table.md)
+[Create table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-pack-table.md)
 

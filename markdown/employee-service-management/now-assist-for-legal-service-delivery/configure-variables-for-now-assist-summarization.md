@@ -29,7 +29,7 @@ Role required: admin or sn\_lg\_ops.legal\_admin
 
 4.  In the information message at the top of the page, select the link **here** to edit the intake form record.
 
-5.  Unlock and select the variables by selecting the variables for summarization \(![Lock icon.](../image/lock.png)\) icon.
+5.  Unlock and select the variables by selecting the variables for summarization \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lock.png)\) icon.
 
     **Note:** Only single-row variables that aren’t mapped to a field are visible.
 
@@ -49,7 +49,7 @@ Steps
 
 </td><td>
 
-1.  Open the list of variables by selecting the Lookup using list icon \(![Lookup using list icon](../../human-resources/image/magnify-glass-outline-icon.png)\).
+1.  Open the list of variables by selecting the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../human-resources/image/magnify-glass-outline-icon.png)\).
 2.  Find the variable by using the search bar or scrolling.
 3.  Select the variable to add.
 
@@ -60,16 +60,16 @@ Steps
 
 </td><td>
 
-1.  Open the Edit Members window by selecting the Add/Remove multiple icon \(![Add/Remove multiple icon.](../../legal-matter-management/image/add-multiple-icon.png)\) icon.
+1.  Open the Edit Members window by selecting the Add/Remove multiple icon \(![Add/Remove multiple icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../legal-matter-management/image/add-multiple-icon.png)\) icon.
 2.  In the Available Variables list, use the search bar or scroll to find and select the required variables.
-3.  Move the variables to the Selected Variable list by selecting the right arrow icon \( ![Right arrow icon.](../../employee-center/images/right-arrow-icon.png)\).
-4.  If you want to remove a variable, select it from the Selected Variables list and select the left arrow icon \(![Left arrow icon.](../../legal-matter-management/image/left-arrow-icon.png)\).
+3.  Move the variables to the Selected Variable list by selecting the right arrow icon \( ![Right arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../employee-center/images/right-arrow-icon.png)\).
+4.  If you want to remove a variable, select it from the Selected Variables list and select the left arrow icon \(![Left arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../legal-matter-management/image/left-arrow-icon.png)\).
 5.  Apply the selected variables by selecting **Save**.
 6.  If you don’t want to save changes, select **Cancel**.
 
 
 </td></tr></tbody>
-</table>7.  Lock the selected variables by selecting the unlock key icon ![Unlock key icon.](../../wsd-reservation-management/image/unlock-icon.png)\).
+</table>7.  Lock the selected variables by selecting the unlock key icon ![Unlock key icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../wsd-reservation-management/image/unlock-icon.png)\).
 
 8.  Select **Update**.
 
@@ -82,5 +82,5 @@ All the selected variables are added to the intake form of the practice area.
 
 You can add variables to the intake forms of other practice areas by repeating the steps in this procedure.
 
-To summarize a legal request or legal matter, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-summarize-case.md).
+To summarize a legal request or legal matter, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-summarize-case.md).
 

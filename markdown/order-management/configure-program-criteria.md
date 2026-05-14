@@ -29,17 +29,17 @@ Role required: sn\_prm.partner\_program\_writer or sn\_prm.enterprise\_partner\_
 
 5.  On the form, fill in the fields.
 
-    To learn about the fields on the program criteria table, see [Program criteria table fields](../reference/program-criteria-table-fields.md).
+    To learn about the fields on the program criteria table, see [Program criteria table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/program-criteria-table-fields.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Configure Program Segment Mapping](configure-program-segment-mapping.md)
+[Configure Program Segment Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-mapping.md)
 
-[Configure Program Segment Criteria](configure-program-segment-criteria.md)
+[Configure Program Segment Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-criteria.md)
 

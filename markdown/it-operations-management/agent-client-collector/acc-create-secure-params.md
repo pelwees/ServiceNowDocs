@@ -33,7 +33,7 @@ Role required: agent\_client\_collector\_admin
 
     The **Check Secure Parameter Definition New Record** page appears.
 
-    ![Check Secure Parameter Definition New Record page](../image/ACC-Check-Secure-Parameter.png)
+    ![Check Secure Parameter Definition New Record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Check-Secure-Parameter.png)
 
 5.  Configure the fields on the page.
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-The XmlTemplate component also provides methods to work with the templates. To expose the methods, see [View the XmlTemplate methods](view-xmltemplate-methods.md).
+The XmlTemplate component also provides methods to work with the templates. To expose the methods, see [View the XmlTemplate methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-xmltemplate-methods.md).
 
 ## Procedure
 
@@ -33,13 +33,13 @@ The XmlTemplate component also provides methods to work with the templates. To e
 
 5.  Click **Configure**.
 
-6.  Under the **TEMPLATES** section, click the add templates icon \(![Add templates icon.](../image/add-image-icon.png)\).
+6.  Under the **TEMPLATES** section, click the add templates icon \(![Add templates icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
 7.  Click the template added.
 
     A new template is by default named in the `Template<number>` format. You can rename it from the Name field in the PROPERTIES section on the XML TEMPLATE DESIGNER window.
 
-8.  To select an existing PDF or XML document, in the **XML/PDF File** field, click the Load XML or PDF File icon \(![Load XML or PDF File icon.](../image/folder-icon.png)\).
+8.  To select an existing PDF or XML document, in the **XML/PDF File** field, click the Load XML or PDF File icon \(![Load XML or PDF File icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/folder-icon.png)\).
 
 9.  Select the XML or PDF file from the local drive.
 
@@ -62,5 +62,5 @@ The XmlTemplate component also provides methods to work with the templates. To e
 14. Close the XML TEMPLATE DESIGNER window.
 
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/data-modellers.md)
 

@@ -29,7 +29,7 @@ To filter the notifications, do the following.
 
 2.  Select a filter from the drop-down menu.
 
-![Notifications filter](../images/notifications-page-filter.png)
+![Notifications filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/notifications-page-filter.png)
 
 The Notifications are automatically sorted by the selected filter and displayed on the page.
 

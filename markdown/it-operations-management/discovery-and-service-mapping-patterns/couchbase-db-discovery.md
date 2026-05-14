@@ -181,7 +181,7 @@ Couchbase Cluster \[cmdb\_ci\_couchbase\_cluster\]
 </td></tr></tbody>
 </table>## CMDB data model
 
-![Couchbase DB discovery CMDB data model.](../image/couchbase-db-discovery-model.png "Couchbase DB discovery CMDB data model")
+![Couchbase DB discovery CMDB data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/couchbase-db-discovery-model.png "Couchbase DB discovery CMDB data model")
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

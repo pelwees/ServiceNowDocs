@@ -98,5 +98,5 @@ Stores the charges incurred for each repair job.
 </td></tr></tbody>
 </table>To learn more about the Case and Case Line, see [Case Lines and Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md).
 
-**Parent Topic:**[Repair claims data model](repair-claims.md)
+**Parent Topic:**[Repair claims data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-claims.md)
 

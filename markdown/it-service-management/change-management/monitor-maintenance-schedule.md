@@ -45,18 +45,18 @@ The Outside maintenance schedule check box is informational and the instance set
 
 When you save a change request that is outside the maintenance schedule, a warning appears for each item \(primary or affected\). This warning also displays the planned dates that fall outside the maintenance window.
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ConflictDetection.md)
 
 **Related topics**  
 
 
-[Detect change conflicts](configure-conflict-properties.md#)
+[Detect change conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md#)
 
-[Create blackout and maintenance schedules in Change Management](t_CreateBlkoutMaintSched.md)
+[Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 
-[Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
+[Enable automatic change conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunAutomatedConflictDetection.md)
 
-[Detect conflicts manually and review conflict details](t_RunManualConflictDetection.md#)
+[Detect conflicts manually and review conflict details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md#)
 

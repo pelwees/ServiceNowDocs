@@ -33,7 +33,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
         **Note:** These checklist items are displayed on the case line.
 
-    -   To delete a checklist item, select ![Delete](../../../common/image/icon-delete-trashcan.png)
+    -   To delete a checklist item, select ![Delete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../../../common/image/icon-delete-trashcan.png)
 5.  Select **Create**.
 
 
@@ -48,10 +48,10 @@ To duplicate a checklist, do the following:
 1.  Select **Edit checklist**.
 2.  Select **Duplicate**.
 
-**Parent Topic:**[My promotions](mco-my-promotions.md)
+**Parent Topic:**[My promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions.md)
 
 **Related topics**  
 
 
-[Create a checklist template](mco-checklist-template.md)
+[Create a checklist template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-checklist-template.md)
 

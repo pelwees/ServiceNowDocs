@@ -21,7 +21,7 @@ You can include or exclude Create, Read, Write or Update, and Delete \(CRUD\) ri
 
 For additional flexibility around managing the CRUD access, you can set the user criteria for each event type. For example, if team members don't have access to edit their work shifts using their role-based access, you can set that access using user criteria. You can set this access for specific team members or for the whole group.
 
-![The flow diagram diaplying the logic on how inclusion and exclusion user criteria access work for event types.](../image/inclusion-exclusion-criteria-event-types.svg "Inclusion and exclusion logic for event types")
+![The flow diagram diaplying the logic on how inclusion and exclusion user criteria access work for event types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/inclusion-exclusion-criteria-event-types.svg "Inclusion and exclusion logic for event types")
 
 **How inclusion and exclusion user criteria access works**
 
@@ -40,7 +40,7 @@ When the user criteria rules get evaluated, it's done in the following order:
 
 **Note:** The exclusion access always takes precedence over the inclusion access. If no inclusion or exclusion access is set, then the role-based access is used for managing event types.
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-configurable-wfo-cs.md)
 
 ## Create user criteria for event types in Workforce Optimization for Customer Service
 

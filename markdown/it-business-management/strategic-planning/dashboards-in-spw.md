@@ -17,15 +17,15 @@ Dashboards in Strategic Planning Workspace help product and portfolio managers m
 
 <table id="table_kzf_qkz_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key benefits of using dashboards in Strategic Planning](exploring-dashboards-spw.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key benefits of using dashboards in Strategic Planning](exploring-dashboards-spw.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Learn how to use dashboards and monitor performance, track progress, and make informed decisions](using-dashboards-spw.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../../reuse/icons/brand-icons/bus-alignment.svg) Learn how to use dashboards and monitor performance, track progress, and make informed decisions](using-dashboards-spw.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Add existing Platform Analytics dashboards to Strategic Planning Workspace](../Task/add-platform-dashboard-to-spw.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Add existing Platform Analytics dashboards to Strategic Planning Workspace](../Task/add-platform-dashboard-to-spw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

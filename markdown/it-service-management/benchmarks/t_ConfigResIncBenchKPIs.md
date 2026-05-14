@@ -60,5 +60,5 @@ Configure the KPI conditions and script to use your custom field \(instead of th
 3.  Verify that you are no longer receiving errors in the Benchmarks Data Collection job log.
 
 
-**Parent Topic:**[Configure KPI participation](t_EnableABenchKPI.md)
+**Parent Topic:**[Configure KPI participation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_EnableABenchKPI.md)
 

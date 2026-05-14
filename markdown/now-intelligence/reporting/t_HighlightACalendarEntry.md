@@ -40,11 +40,11 @@ If calendar reports are configured to use field styles from their tables or repo
 
 2.  Filter the list to show the tables you want to address and then group the result by field name.
 
-    ![Field styles table with filter button highlighted](../image/filter-field-styles-table.gif)
+    ![Field styles table with filter button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/filter-field-styles-table.gif)
 
 3.  Select the name of the table next to the field and value that you want to highlight.
 
-    ![A section of the field styles list with the task table highlighted](../image/field-style-list-selection.png)
+    ![A section of the field styles list with the task table highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/field-style-list-selection.png)
 
 4.  Change the background-color value as desired.
 
@@ -53,14 +53,14 @@ If calendar reports are configured to use field styles from their tables or repo
 5.  Select **Update**.
 
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CustomizeCalendarReports.md)
 
 **Related topics**  
 
 
-[Configure how calendar entries look](t_ConfigureACalendarAttribute.md)
+[Configure how calendar entries look](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_ConfigureACalendarAttribute.md)
 
-[Modifying and adding calendar report system properties](modify-add-calendar-sys-props.md#)
+[Modifying and adding calendar report system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/modify-add-calendar-sys-props.md#)
 
-[Customize start and end dates](t_CustomizeAStartAndEndDate.md)
+[Customize start and end dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CustomizeAStartAndEndDate.md)
 

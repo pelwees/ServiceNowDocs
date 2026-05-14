@@ -25,32 +25,32 @@ Role required: itil, itil\_admin
 
 2.  From your inbox, click **Accept** to accept a chat.
 
-    The interaction record appears in the agent workspace.![An incident record in the agent workspace.](../images/incident-record-agent-workspace.png)
+    The interaction record appears in the agent workspace.![An incident record in the agent workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/incident-record-agent-workspace.png)
 
 3.  In the message input field, enter the command `/teams_call`.
 
-    A Microsoft Teams conference call will be initiated, and the link appears in the active chat area.![Active chat in agent workspace.](../images/active-chat-incident-agent-workspace.png)
+    A Microsoft Teams conference call will be initiated, and the link appears in the active chat area.![Active chat in agent workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/active-chat-incident-agent-workspace.png)
 
 4.  Click the meeting link to join the conference call.
 
-    The user receives a call in Microsoft Teams.![Active call in Microsoft Teams.](../images/active-call-ms-teams.png)
+    The user receives a call in Microsoft Teams.![Active call in Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/active-call-ms-teams.png)
 
     The user’s can initiate a chat conversation in Microsoft Teams.
 
-5.  Click ![Chat icon in Microsoft Teams](../images/chat-icon-ms-teams.png) to open the conversation pane.
+5.  Click ![Chat icon in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-icon-ms-teams.png) to open the conversation pane.
 
-6.  After the conversation ends, click ![Leave button in Microsoft Teams](../images/leave-button-ms-teams.png) to leave the conference call.
+6.  After the conversation ends, click ![Leave button in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/leave-button-ms-teams.png) to leave the conference call.
 
     All the information is logged in the Activity \(Work notes\). You can view the child interaction, and the chat conversation occurred in Microsoft Teams.
 
-    ![Activity in incident in agent workspace.](../images/activity-incident-agent-workspace.png)
+    ![Activity in incident in agent workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/activity-incident-agent-workspace.png)
 
 7.  Click the child interaction record to view the participants, call duration details.
 
-    ![Work notes in agent workspace.](../images/work-notes-incident-agent-workspace.png)
+    ![Work notes in agent workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/work-notes-incident-agent-workspace.png)
 
     Click meeting chat link to view the conversation occurred in Microsoft Teams.
 
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/agent-sn-ms-teams.md)
 

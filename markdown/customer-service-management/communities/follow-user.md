@@ -37,5 +37,5 @@ There are several ways of following users in the community.
 3.  Point to **Following** and click **Unfollow** to stop following a user.
 
 
-**Parent Topic:**[Use a community profile](community-profile.md)
+**Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 

@@ -37,7 +37,7 @@ Domain‑specific data models build on the Telecom data model by refining and sp
 **Related topics**  
 
 
-[SD-WAN data model](sd-wan-data-model.md)
+[SD-WAN data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/sd-wan-data-model.md)
 
 [Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/uses-for-network-inventory-data.md)
 

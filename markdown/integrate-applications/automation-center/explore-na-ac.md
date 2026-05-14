@@ -25,7 +25,7 @@ Now Assist for Automation Center includes the User task step summarization skill
 
 ## Saving Estimator skill
 
-Now Assist for Automation Center includes the Saving Estimator skill, which must be activated to explore and discover automations from your ServiceNow® instance. For information about activating the skill, see [Activate skills for Now Assist for Automation Center](../task/activate-skill.md). For information about how to explore automations, see [Explore automations](../task/auto-explorer.md).
+Now Assist for Automation Center includes the Saving Estimator skill, which must be activated to explore and discover automations from your ServiceNow® instance. For information about activating the skill, see [Activate skills for Now Assist for Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../task/activate-skill.md). For information about how to explore automations, see [Explore automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../task/auto-explorer.md).
 
-**Parent Topic:**[Now Assist for Automation Center](nowassist-ac.md)
+**Parent Topic:**[Now Assist for Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/nowassist-ac.md)
 

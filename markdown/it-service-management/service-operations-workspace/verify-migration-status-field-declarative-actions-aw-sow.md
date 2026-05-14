@@ -17,7 +17,7 @@ Verify that the field decorators form actions in Service Operations Workspace \(
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Field decorators form actions** option for ITSM Agent Workspace features. For example, the **Field decorators form actions** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Field decorators form actions** option for ITSM Agent Workspace features. For example, the **Field decorators form actions** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -45,16 +45,16 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     1.  On the migration completion page in SOW Admin Center, select **View migration details**.
 
-    2.  Select the **Go to system logs** \(![System logs icon](../../service-builder/image/sb-service-triangle.png)\) icon.
+    2.  Select the **Go to system logs** \(![System logs icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-builder/image/sb-service-triangle.png)\) icon.
 
     3.  Review the logs to determine which items failed during migration.
 
     4.  Based on each failed item, identify which step has failed and perform the steps mentioned in the following topics.
 
-        -   [Migrate the client script from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-client-script-aw-sow.md)
-        -   [Migrate the server script from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-server-script-aw-sow.md)
-        -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-client-action-aw-sow.md)
-        -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](migrate-field-declarative-ui-component-aw-sow.md)
+        -   [Migrate the client script from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-field-declarative-client-script-aw-sow.md)
+        -   [Migrate the server script from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-field-declarative-server-script-aw-sow.md)
+        -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-field-declarative-client-action-aw-sow.md)
+        -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for field decorators actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-field-declarative-ui-component-aw-sow.md)
 
-**Parent Topic:**[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/field-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/field-declarative-actions-aw-sow.md)
 

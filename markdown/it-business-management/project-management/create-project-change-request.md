@@ -29,18 +29,18 @@ Role required: it\_project\_manager
 
 4.  On the form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/ridac-forms.md).
 
 5.  Select **Submit**.
 
 
 ## What to do next
 
--   Associate the request change with your existing risk, issue, decision, and action records so you can track dependencies and recognize trends for future. For more information, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](reassociate-ridac-project.md).
--   Create tasks for working on the change request. For more information see, [Create a task from an incident, problem, or change request](t_CreateTaskIntPrblmChange.md).
+-   Associate the request change with your existing risk, issue, decision, and action records so you can track dependencies and recognize trends for future. For more information, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md).
+-   Create tasks for working on the change request. For more information see, [Create a task from an incident, problem, or change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTaskIntPrblmChange.md).
 
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ridac-entries-for-project.md)
 

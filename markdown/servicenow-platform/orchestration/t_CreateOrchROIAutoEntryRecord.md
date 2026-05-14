@@ -19,7 +19,7 @@ The ROI automation entry record couples the cost of performing a task with the s
 
 Role required: orchestration\_manager
 
-Before starting this procedure, verify that the appropriate [labor rate cards](t_CreateOrchROILaborRateCard.md) were created.
+Before starting this procedure, verify that the appropriate [labor rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateOrchROILaborRateCard.md) were created.
 
 ## About this task
 
@@ -136,5 +136,5 @@ Actual average number of times this task is performed manually per month.
     -   **Submit**: Saves the record to the table without running any calculations.
     -   **Submit and process now**: Saves the record and calculates the savings based on the hourly rate and the number of workflow contexts for this automation entry.
 
-**Parent Topic:**[Orchestration ROI](../concept/c_OrchestrationROI.md)
+**Parent Topic:**[Orchestration ROI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrationROI.md)
 

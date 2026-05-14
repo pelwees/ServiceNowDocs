@@ -24,23 +24,23 @@ Starting with the Australia release, Mobile Studio is being prepared for future 
 
 <table id="table_pzb_2hx_rvb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the ServiceNow mobile apps that are available on iOS and Android.](explore-mobile-platform-landing.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the ServiceNow mobile apps that are available on iOS and Android.](explore-mobile-platform-landing.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Learn how to use ServiceNow mobile apps to get your work done from anywhere using your mobile device.](use-mobile-platform-landing.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-mobile-native.svg) Learn how to use ServiceNow mobile apps to get your work done from anywhere using your mobile device.](use-mobile-platform-landing.md)
 
 </td></tr><tr><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure a mobile experience for any of the ServiceNow mobile apps.](config-mobile-platform-landing.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure a mobile experience for any of the ServiceNow mobile apps.](config-mobile-platform-landing.md)
 
 </td><td>
 
-[Build ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Create and modify base system mobile app components for ServiceNow mobile apps.](build-mobile-apps-landing.md)
+[Build ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-application-development.svg) Create and modify base system mobile app components for ServiceNow mobile apps.](build-mobile-apps-landing.md)
 
 </td></tr><tr><td>
 
-[Additional Resources![](../image/additional-resources.png)Explore additional Mobile Platform resources to upgrade your mobile experience to the next level.](../reference/mobile-additional-resources.md)
+[Additional Resources![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/additional-resources.png)Explore additional Mobile Platform resources to upgrade your mobile experience to the next level.](../reference/mobile-additional-resources.md)
 
 </td><td>
 

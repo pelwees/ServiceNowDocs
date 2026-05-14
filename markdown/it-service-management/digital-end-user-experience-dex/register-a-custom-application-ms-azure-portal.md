@@ -25,15 +25,15 @@ Role required: Azure Active Directory admin
 
 2.  Under **Azure services**, select **App registrations**.
 
-    ![Register an app.](../image/ms-teams-app-reg.png)
+    ![Register an app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-app-reg.png)
 
 3.  Under **App Registrations**, select **New registration**.
 
-    ![New app registration.](../image/ms-teams-new-reg.png)
+    ![New app registration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-new-reg.png)
 
 4.  Provide a name and select **Register**.
 
-    ![Registering an app.](../image/ms-teams-regapp.png)
+    ![Registering an app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-regapp.png)
 
     The application is registered and essential application details are displayed.
 
@@ -43,11 +43,11 @@ Role required: Azure Active Directory admin
 
 7.  In the form, provide the **Description** and select **Add**.
 
-    ![Add a client secret.](../image/ms-teams-client-sec.png)
+    ![Add a client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-client-sec.png)
 
 8.  Copy the **Value** of client secret for later use.
 
-    ![Copy the client secret.](../image/ms-teams-copy-sec.png)
+    ![Copy the client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-copy-sec.png)
 
 9.  Select **API permissions**.
 
@@ -55,7 +55,7 @@ Role required: Azure Active Directory admin
 
 11. Under **Request API permissions**, select **Microsoft Graph**.
 
-    ![Add permissions.](../image/ms-teams-api-perm.png)
+    ![Add permissions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/ms-teams-api-perm.png)
 
 12. Select **Application permissions**.
 
@@ -67,11 +67,11 @@ Role required: Azure Active Directory admin
 
 14. Select **Add permissions**.
 
-    ![Application_permissions](../image/Application_permissions.png)
+    ![Application_permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/Application_permissions.png)
 
 15. Select **Grant admin consent**.
 
-    ![Grant_permissions](../image/Configured_permissions.png)
+    ![Grant_permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/Configured_permissions.png)
 
     The system prompts you to confirm your consent.
 
@@ -79,6 +79,6 @@ Role required: Azure Active Directory admin
 
     A confirmation message is displayed that admin consent is granted for the requested permissions.
 
-    ![Confirmation_message](../image/Granted_permision.png)
+    ![Confirmation_message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/Granted_permision.png)
 
 

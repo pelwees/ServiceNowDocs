@@ -27,7 +27,7 @@ Typically, you might assign high criticality to service instances, which impact 
 
 You can also use a criticality value to define recovery strategies.
 
-![Criticality levels as displayed on the Operator Workspace page](../../service-operations-workspace-itom/image/Operator-Workspace-Page.png "Criticality levels displayed in Operator Workspace page")
+![Criticality levels as displayed on the Operator Workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../service-operations-workspace-itom/image/Operator-Workspace-Page.png "Criticality levels displayed in Operator Workspace page")
 
 ## Procedure
 
@@ -61,7 +61,7 @@ You can also use a criticality value to define recovery strategies.
 
     5.  Click the **Open Preview** icon.
 
-        ![Open Preview icon next to the selected application service.](../image/workspace-all-services-open-preview.png)
+        ![Open Preview icon next to the selected application service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/workspace-all-services-open-preview.png)
 
         The Details pane opens on the right.
 
@@ -70,16 +70,16 @@ You can also use a criticality value to define recovery strategies.
     7.  Click **Update**.
 
 
-**Parent Topic:**[Application service completion](../concept/advanced-business-service-definitions.md)
+**Parent Topic:**[Application service completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/advanced-business-service-definitions.md)
 
 **Related topics**  
 
 
-[Group application services](organizing_services-into-groups.md)
+[Group application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/organizing_services-into-groups.md)
 
-[Control user access to application services](control-user-access-to-business-services.md)
+[Control user access to application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/control-user-access-to-business-services.md)
 
-[Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
+[Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md)
 
-[Service definition transfer from one instance to another](../concept/transfer-service-definitions.md#)
+[Service definition transfer from one instance to another](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/transfer-service-definitions.md#)
 

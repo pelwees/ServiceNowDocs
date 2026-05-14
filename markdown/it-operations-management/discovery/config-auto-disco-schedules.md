@@ -59,10 +59,10 @@ The IPAM to Discovery integration monitors your IPv6 network structure by tracki
 
 ## What to do next
 
-After you enable auto-created schedules and configure the IP data refresh settings, IPAM generates a corresponding Discovery schedule. The schedule is inactive when it's created, so make sure to activate it before it runs. For more information, see [Activate auto-created Discovery schedules](activate-auto-disco-schedule.md).
+After you enable auto-created schedules and configure the IP data refresh settings, IPAM generates a corresponding Discovery schedule. The schedule is inactive when it's created, so make sure to activate it before it runs. For more information, see [Activate auto-created Discovery schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/activate-auto-disco-schedule.md).
 
 **Related topics**  
 
 
-[IPAM Discovery integration](../concept/ipv6-ipam-disco-integration.md)
+[IPAM Discovery integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/ipv6-ipam-disco-integration.md)
 

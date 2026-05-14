@@ -59,7 +59,7 @@ You can also convert your existing Survey templates related to Health and Safety
 
 ## What to do next
 
-You can configure which question in the smart assessment should have action creation enabled. For more information, see [Configure creating actions from smart assessment questionnaire](hs-configure-property-smart-assessment-action-creation.md).
+You can configure which question in the smart assessment should have action creation enabled. For more information, see [Configure creating actions from smart assessment questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-configure-property-smart-assessment-action-creation.md).
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-setting-up-risk-mgmt.md)
 

@@ -111,5 +111,5 @@ Service Operations Workspace for ITSM is active by default and its default versi
     Manage walk-up interactions and queues effortlessly by using Service Operations Workspace for ITSM.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

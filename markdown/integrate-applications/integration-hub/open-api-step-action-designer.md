@@ -175,7 +175,7 @@ Default retry policy associated with **Connection Alias**. If **Override Default
     Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-error-evaluation.md).
 
 
-![Demonstrates on how to import a Postman collection into an OpenAPI/Postman step](../images/openapi-postman-step-example.gif)
+![Demonstrates on how to import a Postman collection into an OpenAPI/Postman step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/openapi-postman-step-example.gif)
 
 ## Action error evaluation
 

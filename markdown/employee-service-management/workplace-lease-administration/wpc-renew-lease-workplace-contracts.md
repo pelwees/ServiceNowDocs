@@ -128,12 +128,12 @@ Percentage increase or decrease in the price of the renewed contract. A negative
 
 If you selected the **Save** option, ensure that you click **Renew** when you’re ready to submit the contract renewal for approval.
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-wpc.md)
 
 **Related topics**  
 
 
-[Adjust workplace contract in Workplace Central](wpc-adjust-lease-contract.md)
+[Adjust workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-adjust-lease-contract.md)
 
-[Cancel workplace contract in Workplace Central](wpc-cancel-lease-contract.md)
+[Cancel workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-cancel-lease-contract.md)
 

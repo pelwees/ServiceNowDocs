@@ -35,5 +35,5 @@ The Universal Request Overview dashboard is the default landing page of the Univ
 
 You can view more details of the universal requests by clicking the universal request number.
 
-**Parent Topic:**[Universal Request in Agent Workspaces](universal-request-workspace.md)
+**Parent Topic:**[Universal Request in Agent Workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-workspace.md)
 

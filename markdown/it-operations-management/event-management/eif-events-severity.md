@@ -23,5 +23,5 @@ If the EIF event payload has a warning severity, it will be mapped differently i
 |Critical|Critical|
 |Fatal|Critical|
 
-**Parent Topic:**[Integrate Event Integration \(EIF\) format event connector](../task/eif-events-integration.md)
+**Parent Topic:**[Integrate Event Integration \(EIF\) format event connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/eif-events-integration.md)
 

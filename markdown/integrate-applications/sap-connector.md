@@ -17,8 +17,8 @@ To create automations using the SAP Graphical user interfaces \(GUI\), you must 
 
 To use the SAP connector, do the following steps:
 
--   Enable the SAP connector. See [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   Configure the SAP connector. See [Configure the SAP connector](../task/configure-the-sap-connector.md).
--   Expose the methods. See [Use connector method](../task/use-connector-method.md).
--   Use the methods. See [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   Enable the SAP connector. See [Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector.md).
+-   Configure the SAP connector. See [Configure the SAP connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-the-sap-connector.md).
+-   Expose the methods. See [Use connector method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector-method.md).
+-   Use the methods. See [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-components.md).
 

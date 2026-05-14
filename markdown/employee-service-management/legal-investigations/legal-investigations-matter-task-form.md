@@ -220,5 +220,5 @@ Additional interviewers
 Users other than the main interviewer \(user selected in the **Assigned to** field of the task\) who would be on the interview panel.When the task is saved, the additional interviewers are notified via email about the interview task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
+</table>**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 

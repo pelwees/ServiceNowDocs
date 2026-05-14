@@ -44,5 +44,5 @@ For security reasons, the default property value is -1, which means the guest se
 
 4.  Select **Update**.
 
-**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 

@@ -27,10 +27,10 @@ Role required: admin
 
 3.  View the order's progress in the **Stage** field.
 
-    ![Requested Item form](../image/RequestStatus.png)
+    ![Requested Item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../image/RequestStatus.png)
 
 4.  Check the **Backordered** field, and if the item is backordered, review comments for information about its return to stock.
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../topic/p_ServiceCatalogRequests.md)
 

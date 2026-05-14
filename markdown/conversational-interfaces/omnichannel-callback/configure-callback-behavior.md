@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Select a callback topic from the Callback Topic drop-down list.
 
-    Select **Callback-Phone** for voice channels and **Callback-General** for messaging or chat channels. These default callback topics are triggered when there are no agents available to take the call or when the average wait time in the queue is over the predefined threshold. You can also use a custom callback topic based on your requirements. For more information on how to customize a callback topic, see [Customize a default callback topic](customize-callback-topic.md).
+    Select **Callback-Phone** for voice channels and **Callback-General** for messaging or chat channels. These default callback topics are triggered when there are no agents available to take the call or when the average wait time in the queue is over the predefined threshold. You can also use a custom callback topic based on your requirements. For more information on how to customize a callback topic, see [Customize a default callback topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/customize-callback-topic.md).
 
 5.  Provide the **Max callback attempts**.
 

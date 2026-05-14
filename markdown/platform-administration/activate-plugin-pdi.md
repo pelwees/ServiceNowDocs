@@ -47,7 +47,7 @@ All Applications page
 
 In your PDI, navigate to **System Applications** &gt; **All Available Applications** &gt; **All**. Find the plugin and then activate it.
 
- For more information on using the All Applications page, see [Activate a plugin](t_ActivateAPlugin.md).
+ For more information on using the All Applications page, see [Activate a plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
 </td></tr><tr><td>
 

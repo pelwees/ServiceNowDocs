@@ -30,36 +30,36 @@ The architecture type values help in the following business cases:
 
 For example, you can create a business application record for the ServiceNow® platform. Then, create individual business application records such as Enterprise Architecture, Financial Management, and Project Portfolio Management and associate these applications to the ServiceNow® platform. The distinction between the records whether it’s a business application running on a host or a platform hosting the applications lies in the **Architecture type** values of platform application and platform host.
 
-**Parent Topic:**[Exploring the application portfolio](eaw-app-portfolio.md)
+**Parent Topic:**[Exploring the application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-app-portfolio.md)
 
 **Related topics**  
 
 
-[View all business applications](../../task/eaw-task/view-all-business-apps.md)
+[View all business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/view-all-business-apps.md)
 
-[Add or edit a business application](../../task/eaw-task/eaw-create-business-app.md)
+[Add or edit a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-business-app.md)
 
-[View business capabilities associated with a business application](../../task/eaw-task/eaw-view-business-capabilities-assoc-with-ba.md)
+[View business capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-business-capabilities-assoc-with-ba.md)
 
-[Add an existing business capability to a business application](../../task/eaw-task/eaw-add-existing-business-capability-to-ba.md)
+[Add an existing business capability to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-existing-business-capability-to-ba.md)
 
-[Remove business capabilities associated with a business application](../../task/eaw-task/eaw-unassign-business-capabilities-from-ba.md)
+[Remove business capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-unassign-business-capabilities-from-ba.md)
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
 
-[Open business application form in Core UI from EA Workspace](../../task/eaw-task/view-ba-form-in-coreui.md)
+[Open business application form in Core UI from EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/view-ba-form-in-coreui.md)
 
-[View a unified map for a business application](../../task/eaw-task/eaw-open-map-ba.md)
+[View a unified map for a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-open-map-ba.md)
 
-[View roadmap of a business application](../../task/eaw-task/eaw-view-roadmap-ba.md)
+[View roadmap of a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-roadmap-ba.md)
 
-[Manage information objects of a business application in EA Workspace](../../task/eaw-task/eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-associate-info-obj-ba.md)
 
-[View architectural artifacts associated with a business application](../../task/eaw-task/eaw-view-archi-artfct-assoc-with-ba.md)
+[View architectural artifacts associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-archi-artfct-assoc-with-ba.md)
 
-[Create an architectural artifact and associate it with a business application](../../task/eaw-task/eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-assoicate-artifact-ba.md)
 
-[Add an existing architectural artifact to a business application](../../task/eaw-task/eaw-add--existing-archi-artfct-to-a-ba.md)
+[Add an existing architectural artifact to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add--existing-archi-artfct-to-a-ba.md)
 
-[Remove architectural artifacts associated with a business application](../../task/eaw-task/eaw-unassign-archi-artfct-assoc-ba.md)
+[Remove architectural artifacts associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-unassign-archi-artfct-assoc-ba.md)
 

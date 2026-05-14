@@ -47,10 +47,10 @@ Team member
 
 **Note:** PPM Collaboration is not supported for teamspaces.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-management/concept/using-project-management.md)
 
 **Related topics**  
 
 
-[Install PPM Collaboration](../task/install-ppm-collab-store-app.md)
+[Install PPM Collaboration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/install-ppm-collab-store-app.md)
 

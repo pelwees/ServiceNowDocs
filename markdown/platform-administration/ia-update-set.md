@@ -22,7 +22,7 @@ This application is available to all users with Foundation SKUs for ITSM, CBS, I
 The following conditions should be met:
 
 -   Preset and manual configurations are completed and verified in the non-production instance.
--   The batch update set is packaged in the non-production instance, and the XML file is downloaded. These update set files are then uploaded in the production instances. See [Understand the Configuration page flow in Now Assist for Setup](ia-configure-il.md) for more information.
+-   The batch update set is packaged in the non-production instance, and the XML file is downloaded. These update set files are then uploaded in the production instances. See [Understand the Configuration page flow in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-configure-il.md) for more information.
 -   The production instance version is compatible with the source non-production instance.
 
 The following task is performed on a production instance only after the above conditions are met:
@@ -81,7 +81,7 @@ Role required: admin
 
 9.  Navigate back to the Product Hub page to see the progress.
 
-    The extraction of these update sets are done on the Configuration Console page. See [Understand the Configuration page flow in Now Assist for Setup](ia-configure-il.md) for more information.
+    The extraction of these update sets are done on the Configuration Console page. See [Understand the Configuration page flow in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-configure-il.md) for more information.
 
 10. Once the update set commit completes, you can either select **Upload another update set** or **Configure** depending on the requirement.
 
@@ -92,5 +92,5 @@ Role required: admin
 
 These steps complete the successful uploading and committing of the update set batch file.
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/ia-administer.md)
 

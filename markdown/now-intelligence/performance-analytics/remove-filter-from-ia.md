@@ -27,16 +27,16 @@ You must have access to the list of records that you want to analyze.
 
 2.  Right-click on a column header and select **Launch Interactive Analysis** or open a dashboard that you own to show the interactive filters.
 
-3.  Click the filter icon \(![filter icon](../../../common/image/List_FilterIcon.png)\) to show the interactive filters.
+3.  Click the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../common/image/List_FilterIcon.png)\) to show the interactive filters.
 
 4.  Point to the filter you want to remove and click the **Remove filter** icon.
 
-    ![remove filter icon](../image/icon-remove-if.png)
+    ![remove filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-remove-if.png)
 
 
 ## Result
 
 The filter is removed from the Interactive Analysis.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/interactive-analysis.md)
 

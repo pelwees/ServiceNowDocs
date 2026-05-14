@@ -23,7 +23,7 @@ When a user submits a request for a catalog item, records are generated in the f
 
 **Note:** Variables are associated only with the Requested Item \[sc\_req\_item\] table. Variables are not supported for extended tables.
 
-![Screenshot for the Request Management hierarchy](../image/requestManagement.png "Request Management hierarchy")
+![Screenshot for the Request Management hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../image/requestManagement.png "Request Management hierarchy")
 
 **Note:** When you configure Request Management:
 
@@ -68,12 +68,12 @@ When a user submits a request for a catalog item, records are generated in the f
 
 **Note:** The base system workflow attached to the request is demo data.
 
-**Parent Topic:**[Exploring Request Management](../../request-management/concept/exploring-request-management.md)
+**Parent Topic:**[Exploring Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../../request-management/concept/exploring-request-management.md)
 
 **Related topics**  
 
 
-[Create a catalog request in Agent Workspace](../../service-catalog-management/task/create-request-workspace.md)
+[Create a catalog request in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../../service-catalog-management/task/create-request-workspace.md)
 
-[Create a request from Universal Request](../../request-management/task/create-request-from-ur.md)
+[Create a request from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../../request-management/task/create-request-from-ur.md)
 

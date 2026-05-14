@@ -25,11 +25,11 @@ Role required: admin
 
 2.  Select **Conversational contracts search** knowledge tag.
 
-3.  Select the Unlock tables \(![Unlock tables icon](../../workplace-connectors/images/wsd-unlock-connectors-list-icon.png)\) icon.
+3.  Select the Unlock tables \(![Unlock tables icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-connectors/images/wsd-unlock-connectors-list-icon.png)\) icon.
 
-4.  Select the Lookup using list \(![Lookup using list icon](../../legal-request-management/image/lookup-using-list.png)\) icon and add tables that should be used in conversational search.
+4.  Select the Lookup using list \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lookup-using-list.png)\) icon and add tables that should be used in conversational search.
 
-    ![Configure tables to be considered for conversational search](../image/cmpro-na-converse-add-tables.png)
+    ![Configure tables to be considered for conversational search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-converse-add-tables.png)
 
 5.  Select **Update**.
 

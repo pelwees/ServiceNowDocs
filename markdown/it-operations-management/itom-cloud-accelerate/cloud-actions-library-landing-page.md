@@ -19,15 +19,15 @@ Use the ready-to-use actions and subflows of the ServiceNow® Cloud Action Libra
 
 Explore
 
- [Explore Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+ [Explore Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../concept/exploring-cloud-actions-library.md)
 
 </td><td>
 
 Set up
 
- -   [Install Cloud Action Library](../task/install-cloud-actions-library.md)
--   [Set up Cloud Action Library for Amazon Web Services \(AWS\)](../task/set-up-cloud-action-library-for-aws.md)
--   [Set up Cloud Action Library for Microsoft Azure](../task/set-up-cloud-action-library-for-azure.md)
+ -   [Install Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../task/install-cloud-actions-library.md)
+-   [Set up Cloud Action Library for Amazon Web Services \(AWS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../task/set-up-cloud-action-library-for-aws.md)
+-   [Set up Cloud Action Library for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../task/set-up-cloud-action-library-for-azure.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Develop
 
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
--   [Cloud Action Library reference](cloud-action-library-reference.md)
+-   [Cloud Action Library reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-action-library-reference.md)
 
 </td></tr><tr><td>
 

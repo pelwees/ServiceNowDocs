@@ -19,5 +19,5 @@ Cloud Services Catalog offers the Azure DevOps release pipeline as a CI-CD tool 
 
 Azure DevOps within Cloud Services Catalog offers additional features for managing work items, version control, project management, and reporting. Resource requests via Azure DevOps pipelines are processed by approval through the governance and conformation workflow.
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-azure-devops-and-cicd-pipeline.md)
 

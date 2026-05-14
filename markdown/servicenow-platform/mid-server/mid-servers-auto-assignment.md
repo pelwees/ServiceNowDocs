@@ -17,7 +17,7 @@ Discovery Quick Start can automatically assign ranges of IP addresses, called su
 
 <table id="table_gvt_qs4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>To be automatically assigned to a subnet, a MID Server must be:
@@ -30,7 +30,7 @@ The subnet assignments that the instance makes for your MID Servers are stored i
 
 **Important:** You must auto-assign at least one MID Server to create a schedule automatically.
 
-**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
 ## Required SNMP OIDs for MID Server IP range auto-assignment
 
@@ -69,16 +69,16 @@ Role required: admin
 
     -   Individual IP ranges are retained and appended to the ranges assigned automatically by the system for the designated MID Server.
     -   If the MID Server was configured with the **ALL** ranges selection, the auto-assignment feature overwrites that designation with the ranges it finds.
-    ![Automation Status Set form](../image/AutomationStatusSet.png "Automation Status Set form")
+    ![Automation Status Set form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/AutomationStatusSet.png "Automation Status Set form")
 
 3.  Select the **Subnets Discovered** related list to view the list of subnets available for assignment.
 
-    ![Subnets Discovered](../image/SubnetsDiscovered.png)
+    ![Subnets Discovered](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/SubnetsDiscovered.png)
 
 4.  Select the **IP Range Assignments** related list to view the IP ranges that were assigned to a MID Server.
 
     **Warning:** IP ranges identified by Discovery are stored in the IP collection \[ip\_address\_collection\] table, which is only used for MID Server IP range auto-assignment in the Jakarta release. This table is intended for future development and **should not** be used in any customizations, including column additions, business rules, or scripting actions.
 
-    ![IP range assignments](../image/IPRangeAssignments.png)
+    ![IP range assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/IPRangeAssignments.png)
 
 

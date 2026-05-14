@@ -34,7 +34,7 @@ As a result:
 -   The system doesn't apply user and system timezones during evaluation.
 -   `between` conditions compare the literal dateTime values exactly as provided.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## DecisionTableAPI - DecisionTableAPI\(\)
 
@@ -443,9 +443,9 @@ Answer element input type.Valid values:
 -   Currency
 -   Decimal
 -   Due\_date
--   [Glide\_date](../../glideDateScoped/concept/c_GlideDateScopedAPI.md#)
--   [Glide\_date\_time](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
--   [Glide\_duration](../../glideDurationScoped/concept/c_GlideDurationScopedAPI.md#)
+-   [Glide\_date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideDateScoped/concept/c_GlideDateScopedAPI.md#)
+-   [Glide\_date\_time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
+-   [Glide\_duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideDurationScoped/concept/c_GlideDurationScopedAPI.md#)
 -   Integer
 -   Longint
 -   Reference

@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The DevOps Config Policy content pack contains a set of [default DevOps Config policies](../reference/devops-config-default-policies.md) to validate your configuration data.
+The DevOps Config Policy content pack contains a set of [default DevOps Config policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/devops-config-default-policies.md) to validate your configuration data.
 
 ## Procedure
 
@@ -36,5 +36,5 @@ The DevOps Config Policy content pack contains a set of [default DevOps Config p
 3.  Locate the DevOps Config Policy content pack and click **Install**.
 
 
-**Parent Topic:**[Install DevOps Config](install-devops-config.md)
+**Parent Topic:**[Install DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/install-devops-config.md)
 

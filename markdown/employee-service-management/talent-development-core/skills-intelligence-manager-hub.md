@@ -29,7 +29,7 @@ Role required: sn\_skills\_int.manager
 
 4.  On the **Employee details** tab, select the **Skills** tab.
 
-    ![Skill validation section in Manager Hub.](../image/skills-validated-skills.png)
+    ![Skill validation section in Manager Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/skills-validated-skills.png)
 
 5.  Select the **Validate skills** button, and then select the skills that you want to validate.
 
@@ -42,7 +42,7 @@ Role required: sn\_skills\_int.manager
 
 ## Result
 
-The validated skills are marked with a green tick in the employee skills profile, indicating that you validated the skills of your employee. For more information, see [Career tab in Employee Center](../concept/manage-skills-profile.md).
+The validated skills are marked with a green tick in the employee skills profile, indicating that you validated the skills of your employee. For more information, see [Career tab in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/manage-skills-profile.md).
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

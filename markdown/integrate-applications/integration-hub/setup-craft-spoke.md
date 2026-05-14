@@ -39,11 +39,11 @@ Role required: admin
 
 4.  Locate the alias for **sn\_craft\_spoke** and click **View Details**.
 
-    -   To configure the default connection and credential alias record that is shipped along with the Azure DevOps Boards spoke, click **View Details**.![Craft spoke connection template details](../image/craft-spoke-conn-template.png)
-    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To configure the default connection and credential alias record that is shipped along with the Azure DevOps Boards spoke, click **View Details**.![Craft spoke connection template details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/craft-spoke-conn-template.png)
+    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Craft spoke connection template configuration for the first time](../image/craft-spoke-conn-temp-config.png)
+    ![Craft spoke connection template configuration for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/craft-spoke-conn-temp-config.png)
 
 5.  On the **Configure Connection** form, fill in the fields.
 
@@ -53,7 +53,7 @@ Role required: admin
     |Connection URL|URL of the Craft instance. For example, enter the URL in this format: `https:://api.craft.co/`|
     |API Key|API key from your Craft account.|
 
-    ![Craft spoke connection template configuration form](../image/craft-spoke-conn-temp-form.png)
+    ![Craft spoke connection template configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/craft-spoke-conn-temp-form.png)
 
 6.  Click **Configure Connection**.
 

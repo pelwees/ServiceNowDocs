@@ -27,9 +27,9 @@ Role required: admin
 
 3.  Select the Additional actions and navigate to **View** &gt; **APW Default**.
 
-    ![Navigation to APW Default in Additional actions.](../../spw-demand/images/apw-default-view-dmn.png)
+    ![Navigation to APW Default in Additional actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-demand/images/apw-default-view-dmn.png)
 
-4.  Select the Additional actions and navigate to **Configure** &gt; **Related Lists**.![List of options available in Additional actions.](../../planning-and-policy/image/config-invest-budget.png)
+4.  Select the Additional actions and navigate to **Configure** &gt; **Related Lists**.![List of options available in Additional actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../planning-and-policy/image/config-invest-budget.png)
 
 5.  Select **Investment Budget** from the Available column and add it to Selected column.
 

@@ -30,9 +30,9 @@ Role required: now\_assist\_panel\_user, admin
 
 2.  Select **AI agents**.
 
-3.  Use the search icon ![Search icon](../../../common/image/List_SearchIcon.png) and select **Inquiry resolution provider**.
+3.  Use the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../common/image/List_SearchIcon.png) and select **Inquiry resolution provider**.
 
-    To modify this AI agent, refer to [Modify an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-ai-agent.md). Adjust the settings for your specific needs and activate the duplicated version of the agentic workflow after you duplicate it.![Invoice resolution provider](../image/apo-agent-ai.png)
+    To modify this AI agent, refer to [Modify an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-ai-agent.md). Adjust the settings for your specific needs and activate the duplicated version of the agentic workflow after you duplicate it.![Invoice resolution provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-agent-ai.png)
 
 4.  Review the information in the **Define the specialty** page, and then select **Continue**.
 
@@ -44,11 +44,11 @@ Role required: now\_assist\_panel\_user, admin
 
 6.  Select **Define trigger** &gt;**Resolution provider trigger** &gt; **Status** &gt; **Active**.
 
-    The Define trigger page appears.![Define trigger](../image/apo-define-trigger.png)
+    The Define trigger page appears.![Define trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-define-trigger.png)
 
 7.  Select **Continue**.
 
-8.  In the **Toggle display** page, enable the **Display** option to display AI agent output in the Now Assist panel.![Toggle display](../image/apo-toggle.png)
+8.  In the **Toggle display** page, enable the **Display** option to display AI agent output in the Now Assist panel.![Toggle display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-toggle.png)
 
 9.  Select **Save and test**.
 
@@ -69,10 +69,10 @@ Role required: now\_assist\_panel\_user, admin
 
 ## Example
 
-Enter the objective of the task as `Help me resolve invoice inquiry INVC0001001` and start test. The AI agent starts to execute and provides the resolution plan. ![Resolution provider agent](../image/apo-invoice-agent.png)
+Enter the objective of the task as `Help me resolve invoice inquiry INVC0001001` and start test. The AI agent starts to execute and provides the resolution plan. ![Resolution provider agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-invoice-agent.png)
 
 **Related topics**  
 
 
-[Case resolution using Inquiry resolution provider](case-resolution-using-agent.md)
+[Case resolution using Inquiry resolution provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/case-resolution-using-agent.md)
 

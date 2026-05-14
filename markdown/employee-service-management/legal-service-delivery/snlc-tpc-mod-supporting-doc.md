@@ -25,7 +25,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  Open the request for which you want to reclassify the documents.
 
@@ -66,7 +66,7 @@ The available storage types are:
 
 </td><td>
 
-[Reclassify contract documents in third-party contract review request as a legal fulfiller](snlc-tpc-reclassify-doc.md)
+[Reclassify contract documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-reclassify-doc.md)
 
 </td></tr><tr><td id="d382769e230">
 
@@ -83,5 +83,5 @@ The available storage types are:
 </table>7.  Select **Save** to save the record.
 
 
-**Parent Topic:**[Work on a third-party contract review request](snlc-work-tpc-review-request.md)
+**Parent Topic:**[Work on a third-party contract review request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 

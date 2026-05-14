@@ -59,5 +59,5 @@ Operation handlers are defined in the ServiceNow instance to run a script based 
 |$connect.s3.event|Receives and processes JSON events from the S3 buckets where the call recording, transcript and analysis data is created and stored. Associates this information with an interaction and Openframe call log records.|
 |createPhoneLog|Creates a PhoneLog for each call transfer and links the Phone Log to the Interaction Related Record|
 
-**Parent Topic:**[ServiceNow Voice reference](ccc-reference.md)
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 

@@ -48,8 +48,8 @@ The SQL API drivers are downloaded to your client machine and ready for installa
 
 After downloading the drivers, proceed to install and configure them on your client machine.
 
--   For ODBC driver installation, see [Install ServiceNow SQL API ODBC driver on client machine](install-odbc-driver.md).
--   For JDBC driver configuration, see [Configure ServiceNow SQL API JDBC driver on client machine](configure-jdbc-driver.md).
+-   For ODBC driver installation, see [Install ServiceNow SQL API ODBC driver on client machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/install-odbc-driver.md).
+-   For JDBC driver configuration, see [Configure ServiceNow SQL API JDBC driver on client machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/configure-jdbc-driver.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-sql-api.md)
 

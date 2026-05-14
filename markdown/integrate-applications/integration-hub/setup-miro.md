@@ -145,7 +145,7 @@ Role required: admin
     |Credential Information|
     |OAuth Client ID|Client ID that is assigned to your Miro Enterprise OAuth 2.0 application.|
     |OAuth Client Secret|Client secret that is assigned to your Miro Enterprise OAuth 2.0 application.|
-    |OAuth Redirect URL|URL of the OAuth provider that users are redirected to after authentication. This field populates automatically based on the redirect URL that you specified in [Create a Miro Enterprise OAuth 2.0 application](setup-miro.md#).|
+    |OAuth Redirect URL|URL of the OAuth provider that users are redirected to after authentication. This field populates automatically based on the redirect URL that you specified in [Create a Miro Enterprise OAuth 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-miro.md#).|
 
 7.  Click **Create and Get OAuth Token**.
 
@@ -185,7 +185,7 @@ Role required: admin
     |Connection Information|
     |Connection Name|Name of the Miro Enterprise SCIM connection. This field populates automatically.|
     |Credential Information|
-    |API Token|API access token for authenticating Miro API requests. Enter the same API access token that you generated and copied in [Enable SCIM on your Miro Enterprise account](setup-miro.md#).|
+    |API Token|API access token for authenticating Miro API requests. Enter the same API access token that you generated and copied in [Enable SCIM on your Miro Enterprise account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-miro.md#).|
 
 6.  Click **Create Connection**.
 

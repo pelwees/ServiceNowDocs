@@ -25,16 +25,16 @@ The following table lists the mandatory fields for the Supplier payment inbound 
 |Bank name|String|Name of the bank.|
 |Account number|Password2|Account number of the beneficiary.|
 
-**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/slo-inbound-staging-tables.md)
 
 **Related topics**  
 
 
-[Supplier Contact inbound staging table](slo-supp-contact-inbound-table.md)
+[Supplier Contact inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-contact-inbound-table.md)
 
-[Supplier inbound staging table](slo-supplier-inbound-table.md)
+[Supplier inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supplier-inbound-table.md)
 
-[Supplier Legal Entity mapping inbound staging table](slo-legal-entity-inbound-table.md)
+[Supplier Legal Entity mapping inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-legal-entity-inbound-table.md)
 
-[Supplier Location inbound staging table](slo-supp-location-inbound-table.md)
+[Supplier Location inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-location-inbound-table.md)
 

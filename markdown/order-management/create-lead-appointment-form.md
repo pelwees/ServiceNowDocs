@@ -25,10 +25,10 @@ Field descriptions for editing or reviewing details on the Create New Appointmen
 |Location|Location of your appointment.|
 |Message|Additional information for your appointment.|
 
-**Parent Topic:**[Lead Management reference](../concept/lead-management-reference.md)
+**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-reference.md)
 
 **Related topics**  
 
 
-[Create appointments for lead tasks](../task/lead-management-create-appointment.md)
+[Create appointments for lead tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/lead-management-create-appointment.md)
 

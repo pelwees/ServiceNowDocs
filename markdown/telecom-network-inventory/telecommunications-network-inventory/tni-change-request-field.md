@@ -289,7 +289,7 @@ Assignment group
 
 </td><td>
 
-Name of the group name that is responsible for this task. Click the search icon \(![Search icon.](../image/search.png)\) to select a group from the list.
+Name of the group name that is responsible for this task. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) to select a group from the list.
 
 </td></tr><tr><td>
 
@@ -297,7 +297,7 @@ Assigned to
 
 </td><td>
 
-Depending on the selected group, the users who are assigned to the list are shown. Click the search icon \(![Search icon.](../image/search.png)\) to see the list of users.
+Depending on the selected group, the users who are assigned to the list are shown. Click the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) to see the list of users.
 
 </td></tr><tr><td>
 
@@ -332,5 +332,5 @@ Delete
 Option to delete this order task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 

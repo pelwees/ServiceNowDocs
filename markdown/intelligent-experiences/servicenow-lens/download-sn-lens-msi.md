@@ -25,11 +25,11 @@ Role required: admin
 
 2.  In the ServiceNow AI Lens Downloads page, do any of the following actions to download the required application for macOS or Windows:
 
-    -   Select the download icon \(![Download icon.](../../rpa-hub/image/rpa-hub-download-icon.png)\).
-    -   Select the copy link \(![Copy Link icon.](../../rpa-hub/image/rpa-hub-copyurl-icon.png)\). In a browser, right-click and select the **paste and go** option.
+    -   Select the download icon \(![Download icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../../rpa-hub/image/rpa-hub-download-icon.png)\).
+    -   Select the copy link \(![Copy Link icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../../rpa-hub/image/rpa-hub-copyurl-icon.png)\). In a browser, right-click and select the **paste and go** option.
     PORT TO AUSTRALIA
 
-    ![Installers on ServiceNow AI Lens Downloads page.](../image/sn-lens-download-msi.png "ServiceNow AI Lens Downloads")
+    ![Installers on ServiceNow AI Lens Downloads page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/sn-lens-download-msi.png "ServiceNow AI Lens Downloads")
 
     A dialog box might prompt you to save or open the file.
 
@@ -44,5 +44,5 @@ Role required: admin
 
 ## What to do next
 
-Use ServiceNow AI Lens to capture screens, extract and comprehend data, and take further actions. For more information, see [Using ServiceNow AI Lens](servicenow-lens-use.md).
+Use ServiceNow AI Lens to capture screens, extract and comprehend data, and take further actions. For more information, see [Using ServiceNow AI Lens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-use.md).
 

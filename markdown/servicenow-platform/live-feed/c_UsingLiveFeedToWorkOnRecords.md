@@ -26,7 +26,7 @@ With record feeds, users can:
 
 Any users with access to the record can also use the record feed. By default, record feeds are available on the incident, change, and problem tables. Administrators can configure record feeds for additional tables.
 
-![Live Feed Document](../image/LiveFeedDocumentFuji.png)
+![Live Feed Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../image/LiveFeedDocumentFuji.png)
 
 ## How Document Feeds Work
 

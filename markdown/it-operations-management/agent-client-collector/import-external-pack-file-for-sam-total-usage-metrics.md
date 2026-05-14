@@ -49,5 +49,5 @@ Role required: admin
 
 ## Result
 
-You can now [Configure Osquery logs for SAM total usage metrics](configure-osquery-logs-for-sam-total-usage-metrics.md).
+You can now [Configure Osquery logs for SAM total usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-osquery-logs-for-sam-total-usage-metrics.md).
 

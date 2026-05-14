@@ -47,7 +47,7 @@ The **disable\_live\_agent** property is replacing the **com.glide.cs.exclude.li
 
 The **disable\_live\_agent** parameter displays in the Channel Properties related list.
 
-![Alexa messaging channel record page, with disable_live_agent parameter highlighted.](../image/disable-live-agent-channel-param.png)
+![Alexa messaging channel record page, with disable_live_agent parameter highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../image/disable-live-agent-channel-param.png)
 
-**Parent Topic:**[Channels in Conversational Interfaces](../concept/ci-channels-overview.md)
+**Parent Topic:**[Channels in Conversational Interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/ci-channels-overview.md)
 

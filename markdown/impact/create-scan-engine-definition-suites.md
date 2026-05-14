@@ -75,7 +75,7 @@ While only Scan Engine admins can modify definitions, any user with the Scan Eng
 
 2.  Select a suite number to open its details and modify its properties.
 
-    You can edit the same fields you configured in [Create Scan Engine definition suites](create-scan-engine-definition-suites.md#).
+    You can edit the same fields you configured in [Create Scan Engine definition suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/create-scan-engine-definition-suites.md#).
 
     Related lists appear at the bottom of the screen.
 

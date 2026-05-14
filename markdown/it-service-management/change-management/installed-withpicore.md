@@ -52,5 +52,5 @@ Change Similarity Boosters\[chg\_ml\_similarity\_boosters\]
 Provides boosting capabilities for similarity based solutions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Change Management - Predictive Intelligence Core](../task/request-cm-picore.md)
+</table>**Parent Topic:**[Change Management - Predictive Intelligence Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/request-cm-picore.md)
 

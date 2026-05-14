@@ -30,10 +30,10 @@ Role required: admin
     2.  Open the two records and select **Index all tables** or **Index table**.
 
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../configuration-management/concept/now-assist-cmdb-configuring.md)
 
 **Related topics**  
 
 
-[Use Now Assist to search the CMDB](na-cmdb-awf-search.md)
+[Use Now Assist to search the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-search.md)
 

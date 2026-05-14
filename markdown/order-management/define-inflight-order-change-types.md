@@ -30,5 +30,5 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring inflight changes](../concept/configure-inflight-order-change-mgt.md)
+**Parent Topic:**[Configuring inflight changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/configure-inflight-order-change-mgt.md)
 

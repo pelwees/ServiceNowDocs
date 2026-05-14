@@ -37,7 +37,7 @@ The Service Exchange Center is accessible from the Administration menu under eit
 
 Service Exchange health dashboard is the part of Service Exchange Center and provides unified views of connection health. It also consolidates functionality that was previously available across multiple interfaces, including the Health Dashboard, and scan checks. Service Exchange Health includes the following tabs and elements:
 
-![View of Service Exchange Health dashboard with four callouts highlighted. For descriptions of the numbered callouts, refer to the table that follows.](../image/se-health-dashboard.png)
+![View of Service Exchange Health dashboard with four callouts highlighted. For descriptions of the numbered callouts, refer to the table that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../image/se-health-dashboard.png)
 
 |Feature|Description|
 |-------|-----------|
@@ -80,7 +80,7 @@ Service Exchange health dashboard is the part of Service Exchange Center and pro
 
 -   **Scan suites**
 
-    The Scan Suites tab provides access to automated health checks that detect issues and inconsistencies. To learn more about instance scan checks, see [Instance scan checks](service-bridge-v2-scan-checks.md).
+    The Scan Suites tab provides access to automated health checks that detect issues and inconsistencies. To learn more about instance scan checks, see [Instance scan checks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scan-checks.md).
 
     Scan suites are organized into two categories:
 
@@ -104,7 +104,7 @@ Service Exchange health dashboard is the part of Service Exchange Center and pro
 **Related topics**  
 
 
-[Execute a scan suite as a provider](../task/se-execute-scan-check.md#)
+[Execute a scan suite as a provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/se-execute-scan-check.md#)
 
-[Execute a scan suite as a consumer](../task/se-con-execute-scan-check.md#)
+[Execute a scan suite as a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/se-con-execute-scan-check.md#)
 

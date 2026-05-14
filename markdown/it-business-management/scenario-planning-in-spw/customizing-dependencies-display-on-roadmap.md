@@ -16,12 +16,12 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 Improve the efficiency of identifying the relationships between your planning items by choosing how the dependencies are displayed on the roadmap view.
 
-The Personalize \(![Personalize icon.](../images/personalize-icon.png)\) side panel on the roadmap provides different toggles to personalize the display of dependencies on your roadmap.
+The Personalize \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/personalize-icon.png)\) side panel on the roadmap provides different toggles to personalize the display of dependencies on your roadmap.
 
 -   For portfolio plan roadmaps, these toggles are always available.
 -   For free-form roadmaps, these toggles are available only if the roadmap's source table is the Planning Item table \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
-![Dependencies toggle on the roadmap.](../images/dependencies-toggle.png)
+![Dependencies toggle on the roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/dependencies-toggle.png)
 
 <table id="table_cgz_jd3_2tb"><thead><tr><th>
 
@@ -37,13 +37,13 @@ Roadmap view
 
  Indicates dependencies in the form of circles on either side of the planning item bars.
 
- These circles either contain a number inside them \(![Dependency circle.](../images/icon-dependency-circle.png)\), indicating the number of dependencies that item shares, or is colored red \(![Dependency error icon.](../images/icon-dependency-error.png)\) indicating a conflicting dependency.
+ These circles either contain a number inside them \(![Dependency circle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/icon-dependency-circle.png)\), indicating the number of dependencies that item shares, or is colored red \(![Dependency error icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/icon-dependency-error.png)\) indicating a conflicting dependency.
 
  **Note:** This toggle must be enabled to use the other two toggles in the Dependencies section.
 
 </td><td>
 
-![Dependency circles on the roadmap.](../images/dependency-circles.png "Dependency circles on the roadmap")
+![Dependency circles on the roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/dependency-circles.png "Dependency circles on the roadmap")
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Roadmap view
 
 </td><td>
 
-![Dependency lines between the planning items.](../images/dependency-lines.png "Dependency lines between the planning items")
+![Dependency lines between the planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/dependency-lines.png "Dependency lines between the planning items")
 
 </td></tr><tr><td>
 
@@ -70,8 +70,8 @@ Roadmap view
 
 </td><td>
 
-![Roadmap showing only items with dependencies.](../images/only-dependencies.png "Roadmap showing only items with dependencies")
+![Roadmap showing only items with dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/only-dependencies.png "Roadmap showing only items with dependencies")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Strategic Planning Workspace reference](../reference/alignment-planner-workspace-reference.md)
+</table>**Parent Topic:**[Strategic Planning Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/alignment-planner-workspace-reference.md)
 

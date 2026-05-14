@@ -64,5 +64,5 @@ You can use these outputs as inputs for other actions.
     The result variable contains the monitoring information for the specified Microsoft Azure VM.
 
 
-**Parent Topic:**[Cloud Action Library reference](cloud-action-library-reference.md)
+**Parent Topic:**[Cloud Action Library reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-action-library-reference.md)
 

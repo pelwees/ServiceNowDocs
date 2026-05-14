@@ -31,9 +31,9 @@ Encryption modules, unlike encryption contexts, support a rekey of records for r
 
 3.  On the **Module Keys** tab, select the Active key.
 
-    ![Select the active key from the Module Keys tab.](../../key-management-framework/image/active-key-selection.png "Select the active key")
+    ![Select the active key from the Module Keys tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../key-management-framework/image/active-key-selection.png "Select the active key")
 
-    ![Lifecycle key form to click Rotate Key.](../../key-management-framework/image/rotatekeys.png)
+    ![Lifecycle key form to click Rotate Key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../key-management-framework/image/rotatekeys.png)
 
 4.  Select **Rotate Key**.
 
@@ -41,10 +41,10 @@ Encryption modules, unlike encryption contexts, support a rekey of records for r
 
 5.  Return to **Cryptographic Module** &gt; **** **Module Keys**.
 
-    ![Displays the Module Keys tab with the key lifecycle states updated based on active and deactivated keys.](../../key-management-framework/image/key-rotated.png)
+    ![Displays the Module Keys tab with the key lifecycle states updated based on active and deactivated keys.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../key-management-framework/image/key-rotated.png)
 
     There’s an extra module key listed in the table. The newly rotated key becomes "Active" and the last key is "Deactivated."
 
 
-**Parent Topic:**[Key management actions](../../key-management-framework/reference/key-management-actions.md)
+**Parent Topic:**[Key management actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../key-management-framework/reference/key-management-actions.md)
 

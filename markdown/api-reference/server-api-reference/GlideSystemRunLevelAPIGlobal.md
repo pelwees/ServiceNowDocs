@@ -28,7 +28,7 @@ The system run level set on one node is synchronized to all nodes in the instanc
 
 The admin role is required to use this API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideSystemRunLevel – getCurrentLevel\(\)
 

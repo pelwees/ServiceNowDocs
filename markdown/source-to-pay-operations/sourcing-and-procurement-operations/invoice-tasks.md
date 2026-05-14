@@ -136,5 +136,5 @@ Duration to complete this invoice task.
 |------------|-----------|
 |Invoice lines|List of all the related invoice lines with acknowledgment type as service acknowledgment, for this invoice task.|
 
-**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 

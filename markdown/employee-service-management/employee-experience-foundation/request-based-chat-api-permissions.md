@@ -34,5 +34,5 @@ Following are API permissions requested by the ServiceNow® integration with Mic
 |TeamsActivity.Send \(delegated\)|This permission is required to send a team work activity to user.|
 |profile \(delegated\)|This permission is required for giving the basic user details.|
 
-**Parent Topic:**[ServiceNow for Microsoft Teams reference](reference-sn-teams.md)
+**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 

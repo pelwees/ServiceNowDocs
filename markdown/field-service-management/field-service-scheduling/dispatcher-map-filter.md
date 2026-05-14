@@ -34,6 +34,6 @@ Role required: wm\_dispatcher
 
     -   To display only agents, select **Agents**.
     -   To display only tasks, select **Tasks**.
-5.  Display both agents and tasks on the map again by selecting the Refresh icon \(![Refresh icon](../../field-service-management/image/refresh-icon.png)\).
+5.  Display both agents and tasks on the map again by selecting the Refresh icon \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/refresh-icon.png)\).
 
 

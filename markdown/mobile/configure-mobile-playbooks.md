@@ -37,25 +37,25 @@ For detailed information about adding a playbook to Mobile App Bridge so that yo
 
 1.  Create the Now Experience Framework page in UI Builder.
 
-    For instructions about how to create the page, see [Create a Now Experience Framework page in UI Builder](mob-playbk-create-playbk-pg.md).
+    For instructions about how to create the page, see [Create a Now Experience Framework page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mob-playbk-create-playbk-pg.md).
 
 2.  Create the mobile web screen in MAB.
 
-    For information about configuring a mobile web screen, see [Configure a mobile web screen](sg-configure-url-screen.md).
+    For information about configuring a mobile web screen, see [Configure a mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-url-screen.md).
 
 3.  Navigate back to the Now Experience Framework page you configured in UI Builder in Step 1 and in the upper right corner of the page, select **Preview** &gt; **Open URL path**.
 
-    ![UI Builder user interface showing how to navigate to 'Preview > Open URL path' so you can copy the URL of the Now Experience Framework page.](../image/mob-playbk-config.png)
+    ![UI Builder user interface showing how to navigate to 'Preview > Open URL path' so you can copy the URL of the Now Experience Framework page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-config.png)
 
 4.  Copy the URL that displays in your browser in UI Builder and then paste the URL into the **URL** field in the MAB Mobile Web Screen form.
 
-    ![Mobile App Builder user interface showing the URL field in the Mobile Web Screen form.](../image/mob-playbk-paste-url.png)
+    ![Mobile App Builder user interface showing the URL field in the Mobile Web Screen form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-playbk-paste-url.png)
 
 5.  In MAB, select **Save**.
 
 
--   **[Create a Now Experience Framework page in UI Builder](mob-playbk-create-playbk-pg.md)**  
+-   **[Create a Now Experience Framework page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mob-playbk-create-playbk-pg.md)**  
 To configure mobile web screens that use Mobile App Bridge to leverage a playbook on mobile devices, the first step is to create a Now Experience Framework page in UI Builder.
 
-**Parent Topic:**[Mobile App Bridge](../concept/mobile-playbooks.md)
+**Parent Topic:**[Mobile App Bridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-playbooks.md)
 

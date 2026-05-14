@@ -19,7 +19,7 @@ The task page gives you access to tasks that are assigned to you and to members 
 
 To open the Task page, select **Workspaces** &gt; **Vendor Management Workspace** and on the **Risk** tab, select the task icon ![](../image/icon-tprm-ws-tasks.png).
 
-![Access your day-to-day tasks.](../image/tprm-ws-task-page.png)
+![Access your day-to-day tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-task-page.png)
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/unified-vrm-workspace.md)
 

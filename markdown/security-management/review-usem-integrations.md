@@ -21,7 +21,7 @@ To open the dashboard, navigate to **Workspaces** &gt; **Security Exposure Manag
 
 ## Data visualization
 
-**Note:** To learn more about a widget, select the information icon ![Information icon](../../vulnerability-response/image/info-icon.png).
+**Note:** To learn more about a widget, select the information icon ![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/info-icon.png).
 
 <table id="table_n43_yv4_mbc"><thead><tr><th>
 
@@ -41,7 +41,7 @@ Integration runs
 
 </td><td>
 
-Vertical Bar![Bar](../../../reuse/reporting/image/trend.svg)
+Vertical Bar![Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -98,5 +98,5 @@ During integration execution, multiple processes are generated, and data is rece
 -   sn\_sec\_cmn.record\_threshold\_heartbeat: Defines the number of processed records, after which the heartbeat \(timestamp\) is sent to the import queue entry.
 -   sn\_sec\_cmn.maximum\_heartbeat\_delay: Defines the time after which the import queue entry must be timed out.
 
-**Parent Topic:**[Unified Security Exposure Management integrations](../../security-exposure-management-workspace/concept/integrating-usem.md)
+**Parent Topic:**[Unified Security Exposure Management integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-workspace/concept/integrating-usem.md)
 

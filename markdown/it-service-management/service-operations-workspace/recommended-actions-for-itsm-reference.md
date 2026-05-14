@@ -15,18 +15,18 @@ breadcrumb: [Recommended Actions for ITSM in Service Operations Workspace, Manag
 
 Reference topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.
 
--   **[Contexts in Recommended Actions for ITSM](../reference/contexts-in-recommended-actions-for-itsm.md)**  
+-   **[Contexts in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/contexts-in-recommended-actions-for-itsm.md)**  
 The ITSM base system includes the following context.
--   **[Rules in Recommended Actions for ITSM](../reference/rules-in-recommended-actions-for-itsm.md)**  
+-   **[Rules in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/rules-in-recommended-actions-for-itsm.md)**  
 ITSM base system includes the following rules.
--   **[Guidance based recommendations in Recommended Actions for ITSM](../reference/guidance-based-recommendations-in-recommended-actions-for-itsm.md)**  
+-   **[Guidance based recommendations in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/guidance-based-recommendations-in-recommended-actions-for-itsm.md)**  
 ITSM base system includes the following guidance based recommendations.
--   **[Field level recommendations in Recommended Actions for ITSM](../reference/field-level-recommendations-in-recommended-actions-for-itsm.md)**  
+-   **[Field level recommendations in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/field-level-recommendations-in-recommended-actions-for-itsm.md)**  
  ITSM base system includes the following field level recommendations for incidents.
--   **[Guidances in Recommended Actions for ITSM](../reference/guidances-in-recommended-actions-for-itsm.md)**  
+-   **[Guidances in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/guidances-in-recommended-actions-for-itsm.md)**  
 ITSM base system includes the following guidances.
--   **[Resource generators in Recommended Actions for ITSM](../reference/resource-generators-in-recommended-actions-for-itsm.md)**  
+-   **[Resource generators in Recommended Actions for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/resource-generators-in-recommended-actions-for-itsm.md)**  
 ITSM base system includes the following resource generators.
 
-**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](recommended-actions-for-itsm-in-service-operations-workspace.md)
+**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md)
 

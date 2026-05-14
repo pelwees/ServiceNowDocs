@@ -16,7 +16,7 @@ Learn how the Now Assist AI agents can be integrated into Virtual Agent on your 
 
 AI agents simulate human-like intelligence to handle various tasks ranging from automated responses to complex problem solving. For additional information including configuration, see [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md).
 
-![now assist generating a resolution plan for a record](../image/na-va-ai-agents.png "Now Assist AI agents on mobile")
+![now assist generating a resolution plan for a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-ai-agents.png "Now Assist AI agents on mobile")
 
 The AI agents and Virtual Agent integration is available on mobile. Mobile supports any AI agents workflows from AI Agent Studio that are enabled for Virtual Agent. This includes skills such as the laptop ordering assistant, assistance with new employee access requests, and the solving requests on your behalf.
 

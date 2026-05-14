@@ -23,9 +23,9 @@ Role required: sn\_apm.apm\_user and sn\_cmdb\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Business Applications**.
 
@@ -33,9 +33,9 @@ Role required: sn\_apm.apm\_user and sn\_cmdb\_user
 
 6.  Select **Open Map**.
 
-7.  Select the **Model with Enterprise Modeling and Visualization** icon \(![Unified map with the Model with Enterprise Modeling and Visualization icon highlighted.](../../image/eaw-image/unified-map.png)\).
+7.  Select the **Model with Enterprise Modeling and Visualization** icon \(![Unified map with the Model with Enterprise Modeling and Visualization icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/unified-map.png)\).
 
-    ![Unified map with the Model with Enterprise Modeling and Visualization icon highlighted.](../../image/eaw-image/unified-map.png)
+    ![Unified map with the Model with Enterprise Modeling and Visualization icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/unified-map.png)
 
 8.  On the **Model with Enterprise Modeling and Visualization** pop-up window, fill in the following fields:
 
@@ -43,21 +43,21 @@ Role required: sn\_apm.apm\_user and sn\_cmdb\_user
     -   **Architectural category**: The category to which the architectural artifact is associated with.
 9.  Select **OK**.
 
-    To learn more on how to use Enterprise Modeling and Visualization, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md).
+    To learn more on how to use Enterprise Modeling and Visualization, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-modeling.md).
 
 
-**Parent Topic:**[View a unified map for a business application](eaw-open-map-ba.md)
+**Parent Topic:**[View a unified map for a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-open-map-ba.md)
 
 **Related topics**  
 
 
-[Create a diagram for a business capability map](eaw-modeling-bc-map.md)
+[Create a diagram for a business capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-bc-map.md)
 
-[Delete a shape](eaw-modeling-delete-shape.md)
+[Delete a shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-delete-shape.md)
 
-[Add related records in the modeling diagram](eaw-modeling-add-related-records.md)
+[Add related records in the modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-add-related-records.md)
 
-[Commit diagram changes](eaw-modeling-sync-diagram-servicenow.md)
+[Commit diagram changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-diagram-servicenow.md)
 
-[Save as a new version](eaw-modeling-save-as-new.md)
+[Save as a new version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-save-as-new.md)
 

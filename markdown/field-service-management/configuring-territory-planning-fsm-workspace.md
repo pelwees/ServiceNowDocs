@@ -19,18 +19,18 @@ As a territory planner, you have the ability to set up and utilize territories w
 
 The steps for setting up the Field Service Territory Planning Console are:
 
--   [Configuring a map overlay](configuring-map-overlay.md#)
+-   [Configuring a map overlay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-map-overlay.md#)
 
     Configure map overlays to view its corresponding data items in the territory map.
 
--   [Configure territory fields to appear in Territory Planning console](../task/configure-fields-to-appear-in-contextual-side-panel.md)
+-   [Configure territory fields to appear in Territory Planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/configure-fields-to-appear-in-contextual-side-panel.md)
 
     Customize the information displayed for territories in the Territory Planning console by configuring the contextual side panel fields.
 
--   [Enable identification of relevant territories for a work order or work order task](../task/create-territory-conditions-in-console.md)
+-   [Enable identification of relevant territories for a work order or work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/create-territory-conditions-in-console.md)
 
     Create matching rules and conditions to enable identification of the most relevant territories for work orders or work order tasks.
 
 
-For more information about activating and setting up Territory planning, see [Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md).
+For more information about activating and setting up Territory planning, see [Configuring Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-territory-planning-fsm.md).
 

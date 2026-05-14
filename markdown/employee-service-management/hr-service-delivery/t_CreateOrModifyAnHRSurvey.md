@@ -38,5 +38,5 @@ The following steps describe how to work with survey questions in the Survey Def
 4.  Click **Submit**.
 
 
-**Parent Topic:**[HR surveys](../concept/c_HRSurveysIst.md)
+**Parent Topic:**[HR surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRSurveysIst.md)
 

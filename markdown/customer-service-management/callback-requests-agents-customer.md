@@ -46,13 +46,13 @@ Agents can perform the following actions on scheduled callbacks:
 **Related topics**  
 
 
-[Schedule a callback for a customer](../task/agent-scheduled-callbacks.md)
+[Schedule a callback for a customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/agent-scheduled-callbacks.md)
 
-[View scheduled callbacks](../task/view-scheduled-callbacks.md)
+[View scheduled callbacks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/view-scheduled-callbacks.md)
 
-[View related callbacks in the contextual side panel](../task/view-related-callbacks-contextual-side-panel.md)
+[View related callbacks in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/view-related-callbacks-contextual-side-panel.md)
 
-[Reschedule a callback](../task/reschedule-callback.md)
+[Reschedule a callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/reschedule-callback.md)
 
-[Cancel a callback](../task/cancel-callback.md)
+[Cancel a callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/cancel-callback.md)
 

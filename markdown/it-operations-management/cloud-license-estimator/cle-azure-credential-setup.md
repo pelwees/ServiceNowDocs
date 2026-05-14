@@ -32,12 +32,12 @@ Role required: admin
 
 A **Credential ID** is generated, which is required when creating configurations.
 
-**Parent Topic:**[Configure Cloud License Estimator](../Concept/configure-cloud-license-estimator.md)
+**Parent Topic:**[Configure Cloud License Estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../Concept/configure-cloud-license-estimator.md)
 
 **Related topics**  
 
 
-[Configure Amazon Web Service Credentials for Cloud License Estimator](cle-aws-credential-setup.md#)
+[Configure Amazon Web Service Credentials for Cloud License Estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cle-aws-credential-setup.md#)
 
 ## Create Azure Account Configuration and generate CLE reports
 
@@ -59,7 +59,7 @@ Role required: admin
     -   **Cloud Provider**: Choose **Azure** from the list. Fill in the additional fields appear.
     -   **Account ID**: Enter the management account ID or subscription ID.
     -   **Management group**: Select this checkbox if the Account ID is a management account.
-    -   **Credentials**: Select the Azure Service principle credentials configured in [Configure Azure Credentials for Cloud License Estimator](cle-azure-credential-setup.md#).
+    -   **Credentials**: Select the Azure Service principle credentials configured in [Configure Azure Credentials for Cloud License Estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cle-azure-credential-setup.md#).
     -   **Activate**: Enable this option.
 4.  Select **Save and run license estimator**.
 
@@ -71,5 +71,5 @@ Role required: admin
 **Related topics**  
 
 
-[Generate Cloud License Estimator Reports](../Concept/cle-generate-reports.md)
+[Generate Cloud License Estimator Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../Concept/cle-generate-reports.md)
 

@@ -23,22 +23,22 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
-2.  On the left of the page, select the Process configurations icon \(![Process configuration builder](../image/icon-process-config.png)\).
+2.  On the left of the page, select the Process configurations icon \(![Process configuration builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/icon-process-config.png)\).
 
 3.  Select the **Content pack templates** tab.
 
 4.  Select **Browse content packs** if you want to install a content pack template.
 
-    ![Install content pack templates](../image/conten-pack-install.png)
+    ![Install content pack templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/conten-pack-install.png)
 
 5.  Select **Go to ServiceNow Store**.
 
-    ![Install content pack template](../image/content-pack-install-2.png)
+    ![Install content pack template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/content-pack-install-2.png)
 
 6.  Find the content pack you need, install it, and copy the preferences from the template.
 
     You can see the table name listed under **Content pack templates** tab. The table that is displayed here is the one on which the content pack is based.
 
 
-**Parent Topic:**[Creating process configurations using content pack templates](content-pack-config.md)
+**Parent Topic:**[Creating process configurations using content pack templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/content-pack-config.md)
 

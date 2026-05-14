@@ -258,5 +258,5 @@ Type of identification. This field appears only when an option is selected from 
 -   Medicare ID
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](psds-profile-forms.md)
+</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-profile-forms.md)
 

@@ -23,7 +23,7 @@ Use the conversational experience of Now Assist in Virtual Agent to create a dem
 Ensure that the following tasks are completed:
 
 -   Install an application that supports Virtual Agent.
--   Complete configuring the conversational experiences for demand creation. For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+-   Complete configuring the conversational experiences for demand creation. For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 Role required: none
 
@@ -62,7 +62,7 @@ Virtual Agent starts a conversation to ask more information from you about the d
 -   What are the risks associated with performing this demand?
 The information you provide is used to fill in the fields of the Demand form. You can skip answering a question that is related to non-required fields by entering **skip**.
 
-![Basic instruction to create a demand using Virtual Agent chat in the Employee Center.](../images/now-assist-demand-short-prompt.png)
+![Basic instruction to create a demand using Virtual Agent chat in the Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/now-assist-demand-short-prompt.png)
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Using the context that you provided, Virtual Agent automatically matches it to t
 
  You can skip answering a question that is related to non-required fields by entering **skip**.
 
- ![Elaborate instruction to create a demand using Virtual Agent chat in the Employee Center.](../images/now-assist-demand-elaborate-prompt.png)
+ ![Elaborate instruction to create a demand using Virtual Agent chat in the Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/now-assist-demand-elaborate-prompt.png)
 
 </td></tr></tbody>
 </table>4.  Review the information that Virtual Agent filled in for the Demand form fields.
@@ -90,7 +90,7 @@ Using the context that you provided, Virtual Agent automatically matches it to t
     The conversation is now complete.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 

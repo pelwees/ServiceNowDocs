@@ -15,7 +15,7 @@ Deliver a pre-integrated chat conversation experience with the WhatsApp messagin
 
 As an administrator, if you have configured the Conversational Integration with WhatsApp \(powered by Twilio\) application, then your customer contacts and consumers can initiate a WhatsApp chat conversation with a virtual agent or live agent. An agent can initiate a conversation or accept a conversation initiated from a WhatsApp chat conversation. For more information, see [Configure Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-configure.md).
 
-**Note:** As an administrator, you can also use any predefined Customer Service Virtual Agent conversations to capture information from customer contacts or consumers. For more information, see [Customer Service Virtual Agent conversations](csm-virtual-agent-chatbot.md).
+**Note:** As an administrator, you can also use any predefined Customer Service Virtual Agent conversations to capture information from customer contacts or consumers. For more information, see [Customer Service Virtual Agent conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-virtual-agent-chatbot.md).
 
 Key features of the integration include the following:
 

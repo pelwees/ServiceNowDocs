@@ -36,7 +36,7 @@ Role required: sn.aia\_admin role or an appropriate role that is defined in your
 
         For detailed instructions, see [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md).
 
-    **Note:** If you want to run an existing agentic workflow as is, skip this step and proceed directly to [step 3](configure-activate-agentic-workflows-eam.md#trigger).
+    **Note:** If you want to run an existing agentic workflow as is, skip this step and proceed directly to [step 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/configure-activate-agentic-workflows-eam.md#trigger).
 
 2.  Test the customized agentic workflow to analyze its performance while it executes the instructions that you have defined.
 

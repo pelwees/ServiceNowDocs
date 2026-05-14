@@ -23,16 +23,16 @@ Role required: admin
 
 1.  Navigate to the form you want to configure fields for.
 
-2.  Select the Additional actions icon from the header\(![Additional icon](../image/additionalIcon.png)\), and then select **Configure** &gt; **Form Layout**.
+2.  Select the Additional actions icon from the header\(![Additional icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/additionalIcon.png)\), and then select **Configure** &gt; **Form Layout**.
 
 3.  Under the Form view and section, select the VTB view.
 
-    You may need to create a VTB view for the form. For more information, see [Create and delete views](../../../administer/navigation-and-ui/task/create-delete-view.md).
+    You may need to create a VTB view for the form. For more information, see [Create and delete views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../administer/navigation-and-ui/task/create-delete-view.md).
 
 4.  Select the fields to appear on the card by adding or removing the fields from the **Selected** column.
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

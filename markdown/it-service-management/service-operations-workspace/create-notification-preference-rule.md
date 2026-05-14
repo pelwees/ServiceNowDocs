@@ -41,7 +41,7 @@ Role required: itil, rota\_manager, rota\_admin
         -   Active days detail
         -   Active days
         -   Notification attempt
-        ![Create notification preferences form](../image/crete_notification_preference_sow.png)
+        ![Create notification preferences form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/crete_notification_preference_sow.png)
 
     -   Select **Use preferred schedule** to reuse an existing schedule and provide required details.
     -   In **Notification Attempts**, select **Add new** and select your preferred methods from the following:
@@ -51,10 +51,10 @@ Role required: itil, rota\_manager, rota\_admin
 5.  Select **Save**.
 
 
--   **[Edit On-call team preference using Teams menu](oncall-team-preference-tab-in-teams.md)**  
+-   **[Edit On-call team preference using Teams menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/oncall-team-preference-tab-in-teams.md)**  
 Use the **Teams** menu to edit the on-call preferences for a selected team.
--   **[Manage delivery channel](work-on-a-notification-preference-rule-in-sow.md)**  
+-   **[Manage delivery channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-a-notification-preference-rule-in-sow.md)**  
 Add, edit, and delete delivery channels for notification preference rules in .
 
-**Parent Topic:**[Configuring On-Call Scheduling in Service Operations Workspace](configuring-oncall-scheduling-sow.md)
+**Parent Topic:**[Configuring On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-oncall-scheduling-sow.md)
 

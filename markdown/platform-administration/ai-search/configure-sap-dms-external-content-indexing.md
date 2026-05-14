@@ -28,7 +28,7 @@ A SAP global account administrator must have created a subaccount in your SAP BT
 -   Cloud Foundry Environment
 -   Authorization and Trust Management Service
 
-If you don't already have a subaccount with these entitlements in your SAP BTP global account, perform the [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md) preliminary task before performing this task.
+If you don't already have a subaccount with these entitlements in your SAP BTP global account, perform the [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md) preliminary task before performing this task.
 
 Role required: none
 
@@ -58,7 +58,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
         |-----|-----------|
         |Plan|Select **standard**, then select the disclaimer option.|
         |Runtime Environment|Select **Cloud Foundry**.|
-        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md), this name is `DMS`.|
+        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md), this name is `DMS`.|
         |Instance Name|Enter a name of your choice. As an example, you might enter `DMS-AO`.|
 
     7.  Select **Create**.
@@ -97,7 +97,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
         |-----|-----------|
         |Plan|Select **standard**, then select the disclaimer option.|
         |Runtime Environment|Select **Cloud Foundry**.|
-        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md), this name is `DMS`.|
+        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md), this name is `DMS`.|
         |Instance Name|Enter a name of your choice. As an example, you might enter `DMS-IO`.|
 
     7.  Select **Create**.
@@ -154,7 +154,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
         |-----|-----------|
         |Plan|Select **standard**, then select the disclaimer option.|
         |Runtime Environment|Select **Cloud Foundry**.|
-        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md), this name is `DMS`.|
+        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md), this name is `DMS`.|
         |Instance Name|Enter a name of your choice. As an example, you might enter `DMS-RO`.|
 
     7.  Select **Create**.
@@ -189,7 +189,7 @@ To allow the connector to access your SAP DMS source system via this API, you mu
         |-----|-----------|
         |Plan|Select **apiaccess**.|
         |Runtime Environment|Select **Cloud Foundry**.|
-        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md), this name is `DMS`.|
+        |Space|Enter the name of the Cloud Foundry space you created for your subaccount. If you followed the subaccount creation steps from [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md), this name is `DMS`.|
         |Instance Name|Enter a name of your choice. As an example, you might enter `ATMS`.|
 
     5.  Select **Next**.
@@ -327,7 +327,7 @@ Space
 
 </td><td>
 
-Select **DMS**.**Note:** This is the name of the Cloud Foundry space you created for your SAP BTP subaccount. For details on this procedure, see [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md).
+Select **DMS**.**Note:** This is the name of the Cloud Foundry space you created for your SAP BTP subaccount. For details on this procedure, see [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md).
 
 </td></tr><tr><td>
 
@@ -340,7 +340,7 @@ Enter a unique name for this service instance.
 </td></tr></tbody>
 </table>    4.  Select **Next**.
 
-    5.  On the New Instance or Subscription form's Parameters page, paste the following JSON code into the Configure instance parameters text entry field, replacing `<service-name>` with the name you entered for the new Authorization and Trust Management Service instance with the application plan in step [9.c](configure-sap-dms-external-content-indexing.md#atms-app-plan-instance-step), `<instance-name>` with the name of your ServiceNow AI Platform instance, and `<xsappname>` with the **xsappname** substring that you copied in step [4.i](configure-sap-dms-external-content-indexing.md#copy-xsappname-step).
+    5.  On the New Instance or Subscription form's Parameters page, paste the following JSON code into the Configure instance parameters text entry field, replacing `<service-name>` with the name you entered for the new Authorization and Trust Management Service instance with the application plan in step [9.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#atms-app-plan-instance-step), `<instance-name>` with the name of your ServiceNow AI Platform instance, and `<xsappname>` with the **xsappname** substring that you copied in step [4.i](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-xsappname-step).
 
         ```json
         {
@@ -453,16 +453,16 @@ Enter a unique name for this service instance.
 
 Provide the following items to your connector admin:
 
--   The client ID, client secret, and access token URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.f](configure-sap-dms-external-content-indexing.md#copy-dms-io-client-settings-step).
--   The ecmservice endpoint URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.g](configure-sap-dms-external-content-indexing.md#copy-dms-io-endpoint-url-step).
--   The role collections endpoint URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.h](configure-sap-dms-external-content-indexing.md#copy-role-collections-endpoint-url-step).
--   The client ID, client secret, and access token URL that you copied from the service key for the Authorization and Trust Management Service instance in step [8.f](configure-sap-dms-external-content-indexing.md#copy-atms-credentials-step).
--   The client ID and client secret that you copied from the service key for the Authorization and Trust Management Service instance with the application plan in step [10.f](configure-sap-dms-external-content-indexing.md#copy-token-exchange-settings-step).
--   The base web URL that you copied in step [11.e](configure-sap-dms-external-content-indexing.md#copy-base-web-url-step).
+-   The client ID, client secret, and access token URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-dms-io-client-settings-step).
+-   The ecmservice endpoint URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.g](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-dms-io-endpoint-url-step).
+-   The role collections endpoint URL that you copied from the service key for the Document Management Service, Integration Option service instance in step [4.h](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-role-collections-endpoint-url-step).
+-   The client ID, client secret, and access token URL that you copied from the service key for the Authorization and Trust Management Service instance in step [8.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-atms-credentials-step).
+-   The client ID and client secret that you copied from the service key for the Authorization and Trust Management Service instance with the application plan in step [10.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-token-exchange-settings-step).
+-   The base web URL that you copied in step [11.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md#copy-base-web-url-step).
 
 Your connector admin needs these items to configure a SAP DMS external content connector to retrieve documents and security principals from your SAP DMS source system.
 
-For details on creating and configuring a SAP DMS external content connector, see [Create a SAP DMS external content connector](create-ext-cont-connector-sap-dms.md).
+For details on creating and configuring a SAP DMS external content connector, see [Create a SAP DMS external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-sap-dms.md).
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/sap-dms-external-content-connector.md)
 

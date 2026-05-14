@@ -19,7 +19,7 @@ You can configure the incident form and other incident features, such as inciden
 
 Configure the Incident form in the base system to follow ITIL best practices. The administrator can configure the incident form and use the form designer to customize it. You can copy or create child incident to reduce the effort of configuring the functionality of an open incident.
 
-![Configure the incident form](../image/config-form-layout.png "Incident form configuration")
+![Configure the incident form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/config-form-layout.png "Incident form configuration")
 
 |Menu option|Description|
 |-----------|-----------|
@@ -31,28 +31,28 @@ Configure the Incident form in the base system to follow ITIL best practices. Th
 
 IT Service Management guided setup provides a sequence of tasks that help you configure Incident Management on your ServiceNow instance. To open ITSM guided setup, navigate to **Guided Setup** &gt; **ITSM Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
--   **[Quick start tests for Incident Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-im.md)**  
+-   **[Quick start tests for Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../administer/atf-quick-start-tests/reference/quick-start-tests-im.md)**  
 Validate that Incident Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
--   **[Incident Management properties](../reference/incident-management-properties.md)**  
+-   **[Incident Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../reference/incident-management-properties.md)**  
 Incident Management properties are used to control features such as copying and creating child incidents. The major incident properties control the promotion of major incident candidates to major incidents.
--   **[Incident categories and subcategories](../reference/r_CategorizingIncidents.md)**  
+-   **[Incident categories and subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../reference/r_CategorizingIncidents.md)**  
 Categorization of incidents helps in routing to the right team and saves a lot of time in troubleshooting and bringing the service to normalcy.
--   **[Define priority lookup rules](../task/def-prio-lookup-rules.md)**  
+-   **[Define priority lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/def-prio-lookup-rules.md)**  
 Define impact and urgency of an incident to calculate the priority. The priority calculation can then be used to prioritize work and drive service level agreements.
--   **[Define assignment rules for incidents](../task/t_DefinAnAssignRuleIncidents.md)**  
+-   **[Define assignment rules for incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/t_DefinAnAssignRuleIncidents.md)**  
 Define assignment rules to identify the right group or the user which is skilled to work on an incident.
--   **[Incident templates and record producers](incident-templates-record-producers.md)**  
+-   **[Incident templates and record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-templates-record-producers.md)**  
 Templates simplify the process of submitting new records by populating fields automatically. A template ensures consistency in the way information about the incident is captured. A record producer is a specific type of catalog item that allows end users to create task-based records, such as incident records, from the service catalog.
--   **[View incident notifications](../task/t_ViewIncidentNotification.md)**  
+-   **[View incident notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/t_ViewIncidentNotification.md)**  
 View incident notifications that are sent during specific events in an incident life cycle. These notifications are sent to various recipients including the ESS and the ITIL users.
--   **[Configure default user for auto-closing incidents](../task/change-default-user.md)**  
+-   **[Configure default user for auto-closing incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/change-default-user.md)**  
 Change the default user who last updated an incident to the user you mention for auto-closing incidents.
--   **[Applying CSDM guidelines to Incident Management](itsm-incident-use-case-product-view.md)**  
+-   **[Applying CSDM guidelines to Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-product-view.md)**  
 Incident Management supports the incident management process with the ability to identify and log incidents, classify and prioritize incidents, assign incidents to appropriate users or groups, escalate, resolve, and report incidents. The goal of this product view is to help you to understand how Incident Management key entities work with the core CSDM framework.
--   **[Incident ticketing integrations](c_IncidentTicketingIntegrations.md)**  
+-   **[Incident ticketing integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentTicketingIntegrations.md)**  
 An incident ticketing integration exchanges ticket data between your ServiceNow instance and a third-party system.
--   **[Configuring Microsoft Outlook to create incidents and VTB tasks](create-incident-outlook.md)**  
+-   **[Configuring Microsoft Outlook to create incidents and VTB tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-incident-outlook.md)**  
 To create incidents and VTB tasks, or to chat with a virtual agent from within your Outlook email, activate and deploy the ServiceNow Add-in for Microsoft Outlook.
 
-**Parent Topic:**[Incident Management](c_IncidentManagement.md)
+**Parent Topic:**[Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md)
 

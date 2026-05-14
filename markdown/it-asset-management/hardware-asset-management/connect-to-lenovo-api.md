@@ -44,10 +44,10 @@ Role required: admin
 
 The Lenovo connection is successfully created and listed in the Connections tab.
 
-**Parent Topic:**[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+**Parent Topic:**[Receive asset warranty details from Lenovo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/receive-warranty-details-lenovo.md)
 
 **Related topics**  
 
 
-[Track the warranty details of your Lenovo assets](view-asset-warranty-details.md)
+[Track the warranty details of your Lenovo assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-asset-warranty-details.md)
 

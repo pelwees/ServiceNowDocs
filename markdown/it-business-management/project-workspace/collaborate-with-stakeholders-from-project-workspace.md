@@ -27,7 +27,7 @@ Browse and upload files from your computer. Add comments and tag stakeholders fo
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Attach files to your project or project task.
 
@@ -45,11 +45,11 @@ Action
 
 </td><td>
 
-1.  Select the Attachments icon \(![Attachments icon.](../image/icon-attachments.png)\) from the planning header.
+1.  Select the Attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-attachments.png)\) from the planning header.
 2.  Upload a file from your computer.
     1.  Select **Select file**.
 
-If you have attachment, select the Add file icon \(![Add File icon.](../image/icon-add-file.png)\).
+If you have attachment, select the Add file icon \(![Add File icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-add-file.png)\).
 
     2.  Browse and upload a file.
 
@@ -65,7 +65,7 @@ If you have attachment, select the Add file icon \(![Add File icon.](../image/ic
 3.  Upload a file from your computer.
     1.  Select **Select file**.
 
-If you have attachment, select the Add File icon \(![Add File icon.](../image/icon-add-file.png)\).
+If you have attachment, select the Add File icon \(![Add File icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-add-file.png)\).
 
     2.  Browse and upload a file.
 
@@ -89,7 +89,7 @@ Action
 
 </td><td>
 
-1.  Select the Activity icon \(![Attachments icon.](../image/icon-activity.png)\) from the planning header.
+1.  Select the Activity icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-activity.png)\) from the planning header.
 2.  Enter your comments in the text box.
 
 If you want to address your comments to a user, @-mention their name in the comment directly.
@@ -114,5 +114,5 @@ If you want to address your comments to a user, @-mention their name in the comm
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

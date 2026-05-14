@@ -35,16 +35,16 @@ For automatic calculation:
 -   A project created as automatic with one or more tasks cannot be converted to manual.
 -   Percentage completion and states for phases are updated automatically for both manual and auto calculation.
 
-**Parent Topic:**[Using Project workbench - Legacy](c_ProjectWorkbench.md)
+**Parent Topic:**[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)
+[Access the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_AccessTheProjectWorkbench.md)
 
-[Components of project workbench](components-project-workbench.md)
+[Components of project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/components-project-workbench.md)
 
-[Managing Project workbench](c_UsingProjectWorkbench.md)
+[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_UsingProjectWorkbench.md)
 
-[Using Project workbench - Legacy](c_ProjectWorkbench.md)
+[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 

@@ -27,9 +27,9 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview of Proactive Service Experience Workflows
 
-Proactive Service Experience Workflows \(TAW\) is a series of workflows that enhance the Incident Management application and its integration with customer workflow processes, such as Case Management and Field Service Management. That means that Proactive Service Experience Workflows doesn't require any additional domain separation support because the foundation applications already provide that support. To learn more, see [Product Support for Technology](assurance-workflows.md).
+Proactive Service Experience Workflows \(TAW\) is a series of workflows that enhance the Incident Management application and its integration with customer workflow processes, such as Case Management and Field Service Management. That means that Proactive Service Experience Workflows doesn't require any additional domain separation support because the foundation applications already provide that support. To learn more, see [Product Support for Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows.md).
 
-**Parent Topic:**[Product Support for Technology reference](../reference/assurance-workflows-reference.md)
+**Parent Topic:**[Product Support for Technology reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../reference/assurance-workflows-reference.md)
 
 **Related topics**  
 

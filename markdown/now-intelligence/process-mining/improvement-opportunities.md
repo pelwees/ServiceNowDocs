@@ -23,13 +23,13 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
-2.  On the side of the page, select the Process configurations icon \(![Process configuration builder](../image/icon-process-config.png)\).
+2.  On the side of the page, select the Process configurations icon \(![Process configuration builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/icon-process-config.png)\).
 
 3.  Open a table from the **Configurations** list.
 
     The **Process details** page is displayed. Select **Improvement opportunities** from the side panel.
 
-    If you’re proceeding from the **Impact metrics** page, then you come to this page. For more information, see [Configure impact metrics](impact-metrics.md).
+    If you’re proceeding from the **Impact metrics** page, then you come to this page. For more information, see [Configure impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/impact-metrics.md).
 
     The **Improvement opportunities** page displays:
 
@@ -39,17 +39,17 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 4.  Select from the list of the recommended automated improvement opportunities.
 
-    The recommendations are displayed based on your inputs in the Process details page. To understand how you set the process perspectives, see [Configure process details](process-details.md).
+    The recommendations are displayed based on your inputs in the Process details page. To understand how you set the process perspectives, see [Configure process details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
-    ![Recommended improvement opportunities](../image/process-config-imp-opp.png)
+    ![Recommended improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/process-config-imp-opp.png)
 
 5.  Select the improvement opportunities that you want to include in your process configuration, and select **Add Selected**.
 
-    ![Improvement opportunities in process configuration](../image/improve-opp-pro-config.png)
+    ![Improvement opportunities in process configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/improve-opp-pro-config.png)
 
 6.  Select **Add new** to create an improvement opportunity.
 
-    The improvement opportunity definition page is displayed. For more information, see [Set rule-based improvement opportunity](rule-based-builder.md) and [Setting Automated improvement opportunities](../concept/automated-findings.md).
+    The improvement opportunity definition page is displayed. For more information, see [Set rule-based improvement opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/rule-based-builder.md) and [Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/automated-findings.md).
 
     Select the **Get recommendations** button to get recommendations for the automated improvement opportunities based on the configuration you have set in the Process perspectives section of the Process details page.
 
@@ -58,5 +58,5 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
     The process configuration is complete.
 
 
-**Parent Topic:**[Create process configuration using Process Configuration Builder](process-config-builder.md)
+**Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 

@@ -36,9 +36,9 @@ The following location hierarchy is followed throughout the Workplace Service De
 |Area|Room|
 |Area|Space|
 
-For more information about location migration configuration and conditions, refer to [Location migration](../concept/location-migration.md).
+For more information about location migration configuration and conditions, refer to [Location migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/location-migration.md).
 
-After you create the location migration configurations, you must perform the migration separately. To perform the migration after location migration configuration, refer to [Migrate locations from Location table to Workplace locations table](migrate-locations-from-loc-table-to-workplaceloc-table.md).
+After you create the location migration configurations, you must perform the migration separately. To perform the migration after location migration configuration, refer to [Migrate locations from Location table to Workplace locations table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/migrate-locations-from-loc-table-to-workplaceloc-table.md).
 
 **Note:** You cannot migrate locations if they are not as the same as the Workplace Service Delivery location migration hierarchy, which is Region &gt; Site &gt; Campus &gt; Building &gt; Floor &gt; Area &gt; \(Room &gt; Space\) or \(Space &gt; Room\).
 
@@ -69,5 +69,5 @@ The location migration configuration record is added. The locations that match t
 
 ## What to do next
 
-[Migrate locations from Location table to Workplace locations table](migrate-locations-from-loc-table-to-workplaceloc-table.md).
+[Migrate locations from Location table to Workplace locations table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/migrate-locations-from-loc-table-to-workplaceloc-table.md).
 

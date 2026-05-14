@@ -19,19 +19,19 @@ The ServiceNow® External Legal Service Center application enables external user
 
 <table id="table_jcz_qzv_rdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the features and benefits of External Legal Service Center](lsd-ext-portal-explore-landing.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the features and benefits of External Legal Service Center](lsd-ext-portal-explore-landing.md)
 
 </td><td>
 
-[Setting up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure External Legal Service Center](lsd-ext-portal-config-land-page.md)
+[Setting up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure External Legal Service Center](lsd-ext-portal-config-land-page.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use External Legal Service Center to submit, view and track requests for legal services](lsd-ext-portal-use-landing.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use External Legal Service Center to submit, view and track requests for legal services](lsd-ext-portal-use-landing.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as roles that are installed](lsd-ext-portal-reference-landing.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as roles that are installed](lsd-ext-portal-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

@@ -105,7 +105,7 @@ Digital Experience Score​ dashboard
 
 To learn more about configuring and using Digital Experience Score​, see:
 
--   [Configuring Digital Experience Score​](dexscr-configuring-dex-score.md)
--   [Tracking digital experience using Digital Experience Score​ dashboard](dexscr-using-dex-score.md)
--   [Digital Experience Score​ reference](dexscr-dex-score-reference.md)
+-   [Configuring Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-configuring-dex-score.md)
+-   [Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-using-dex-score.md)
+-   [Digital Experience Score​ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 

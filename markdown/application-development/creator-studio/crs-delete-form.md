@@ -33,16 +33,16 @@ To delete a form, you must be given permission to work on the app.
 
 5.  Select **Delete**.
 
-    ![Select Delete menu option](../image/crs-delete-form-menu.png "Delete form menu option")
+    ![Select Delete menu option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-delete-form-menu.png "Delete form menu option")
 
 6.  Select **Delete** in the confirmation modal.
 
-    ![Confirmation modal with Delete button](../image/crs-delete-form-modal.png "Confirmation modal")
+    ![Confirmation modal with Delete button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-delete-form-modal.png "Confirmation modal")
 
 
 ## Result
 
 The form is deleted, and the next form associated with the app appears in the editor. After deletion, the form's record is removed completely from the ServiceNow AI Platform.
 
-**Parent Topic:**[Deleting forms and questions in Creator Studio](../concept/creator-studio-delete-forms-questions.md)
+**Parent Topic:**[Deleting forms and questions in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-delete-forms-questions.md)
 

@@ -39,17 +39,17 @@ Role required: model\_manager and asset
 
     Any components you add to the bundled model are displayed in the **Model Components** related list.
 
-    ![Bundled model components](../image/800pxBundledModelCalgary.png "Bundled model components")
+    ![Bundled model components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../image/800pxBundledModelCalgary.png "Bundled model components")
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_CreatingBundledModels.md)
 
 **Related topics**  
 
 
-[Remove model components from a bundle](t_RemoveModelCompsFromABundle.md)
+[Remove model components from a bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_RemoveModelCompsFromABundle.md)
 
-[Publish bundled models to product catalog](publish-product-catalog-bundledmodles.md)
+[Publish bundled models to product catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/publish-product-catalog-bundledmodles.md)
 
-[Models](../concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_Models.md)
 

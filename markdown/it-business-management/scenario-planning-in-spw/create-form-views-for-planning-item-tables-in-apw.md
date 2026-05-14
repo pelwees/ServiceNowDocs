@@ -17,7 +17,7 @@ For every new planning item table that you create, you must create the necessary
 
 ## Before you begin
 
--   [Define a new planning item type in Strategic Planning](create-planning-organization-and-planning-item-type.md).
+-   [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md).
 -   Ensure that the application scope in your instance is set to Portfolio Planning.
 
 Role required: admin
@@ -67,5 +67,5 @@ The following are the necessary form views:
 
 ## What to do next
 
-[Create list views for new planning item tables in Strategic Planning](create-list-views-for-new-planning-item-tables-in-strategic-planning.md).
+[Create list views for new planning item tables in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-list-views-for-new-planning-item-tables-in-strategic-planning.md).
 

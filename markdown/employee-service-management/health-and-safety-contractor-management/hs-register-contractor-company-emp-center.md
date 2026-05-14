@@ -33,7 +33,7 @@ Role required: sn\_hs\_crm.reporter
 
         This field displays only users who have been assigned the \[snc\_external\] role and have a Health and Safety profile created for them.
 
-        For more information, see [Assign Health and Safety profile to a contractor worker](hs-assign-hs-user-profile-contract-worker.md).
+        For more information, see [Assign Health and Safety profile to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md).
 
 4.  Select **Submit**.
 
@@ -41,9 +41,9 @@ Role required: sn\_hs\_crm.reporter
 ## Result
 
 -   The contractor company is registered for health and safety.
--   The contractor company is listed in the Contractor companies list on Health and Safety Workspace. A safety contractor coordinator \[sn\_hs\_crm.contractor\_coordinator\] can view all the registered companies by navigating to the Health and Safety Workspace and selecting the contractor management icon \(![Contractor management icon](../image/icon-contractor-mgmt.png)\).
+-   The contractor company is listed in the Contractor companies list on Health and Safety Workspace. A safety contractor coordinator \[sn\_hs\_crm.contractor\_coordinator\] can view all the registered companies by navigating to the Health and Safety Workspace and selecting the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../image/icon-contractor-mgmt.png)\).
 
 ## What to do next
 
-A safety contractor coordinator can complete the pre-qualification information for this company from Health and Safety Workspace. For more information, see [Add a contractor company from Health and Safety Workspace](hs-add-contractor-company-from-workspace.md).
+A safety contractor coordinator can complete the pre-qualification information for this company from Health and Safety Workspace. For more information, see [Add a contractor company from Health and Safety Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-contractor-company-from-workspace.md).
 

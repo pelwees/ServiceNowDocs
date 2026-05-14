@@ -31,13 +31,13 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 5.  On the Create New Invoice Line form, fill in the fields.
 
-    For a description of the field values, see [Create New Invoice Line form](../reference/create-invoice-line-form.md).
+    For a description of the field values, see [Create New Invoice Line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-invoice-line-form.md).
 
 6.  Select **Save**.
 
 
--   **[Credit memo](../concept/invoice-type-credit-memo.md)**  
+-   **[Credit memo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/invoice-type-credit-memo.md)**  
 You can create Credit memo invoice. The credit memo invoice type can be of PO and Non-PO invoice.
 
-**Parent Topic:**[Create an invoice manually](create-invoice.md)
+**Parent Topic:**[Create an invoice manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md)
 

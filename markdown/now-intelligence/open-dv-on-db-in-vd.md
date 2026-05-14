@@ -31,18 +31,18 @@ While working in the dashboard editor, you may find that you want to reconfigure
 
 3.  Add the data visualization if it is not already there.
 
-    For more information, see [Edit in-line Platform Analytics dashboard elements](edit-db-elements-in-ac.md).
+    For more information, see [Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md).
 
 4.  On the data visualization, expand the **Actions** menu.
 
-    ![Actions menu on data visualization, showing Edit in designer action.](../../par-for-workspace/image/dv-on-db-edit-vd.png)
+    ![Actions menu on data visualization, showing Edit in designer action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-on-db-edit-vd.png)
 
 5.  Select **Edit in designer**.
 
 
 ## What to do next
 
-Proceed to edit the data visualization as described in [Edit a data visualization in the Visualization Designer](edit-dv-ac-center.md).
+Proceed to edit the data visualization as described in [Edit a data visualization in the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-dv-ac-center.md).
 
-**Parent Topic:**[Edit a data visualization in an inline dashboard](editing-dv-in-line-db.md)
+**Parent Topic:**[Edit a data visualization in an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/editing-dv-in-line-db.md)
 

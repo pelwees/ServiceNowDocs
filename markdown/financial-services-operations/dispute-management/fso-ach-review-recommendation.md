@@ -23,7 +23,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 Once the merchant analysis has been conducted and Nacha guidelines have been analyzed, a final action must be taken on the ACH dispute. You can deny a refund, file a refund, or follow up with the Originating Depository Financial Institution \(ODFI\) before making a final decision.
 
-**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the ACH dispute return recommendation AI Agent is available to assist you at this step. See [Review ACH dispute return recommendation](../../fso-now-assist/task/recommendation-ai.md) for more information.
+**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the ACH dispute return recommendation AI Agent is available to assist you at this step. See [Review ACH dispute return recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-now-assist/task/recommendation-ai.md) for more information.
 
 Ensure that your assignment logic, such as Advanced Work Assignment \(AWA\), is configured so that when a dispute case is assigned to an agent, all associated transactions are automatically assigned to the same agent. This alignment helps maintain consistency and speeds up case resolution.
 
@@ -31,7 +31,7 @@ Ensure that your assignment logic, such as Advanced Work Assignment \(AWA\), is 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -55,5 +55,5 @@ Ensure that your assignment logic, such as Advanced Work Assignment \(AWA\), is 
 9.  Close the task.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/process-dispute-ach.md)
 

@@ -17,7 +17,7 @@ The MIDServerFinder script include provides methods to find a list of MID Server
 
 Use in server scripts to get the MID Server list.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## MIDServerFinder - MIDServerFinder\(\)
 

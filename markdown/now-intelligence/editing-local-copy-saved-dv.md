@@ -21,7 +21,7 @@ Role required: Any
 
 You may find yourself needing to reconfigure a data visualization or a filter on a dashboard to which you have editing rights. However, if it is a visualization or filter that is shared from the library, you would be editing the library copy that other people use. You might not have the permissions to do so. In this case, you see a notification that the owner has not shared the element with editing permissions.
 
-![Message that you cannot configure an element because you do not have editing permissions.](../../par-for-workspace/image/cannot-configure-element.png)
+![Message that you cannot configure an element because you do not have editing permissions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/cannot-configure-element.png)
 
 However, as long as you can edit the dashboard, you can unlink a visualization on the dashboard from the library. Then you have a local version that you can edit freely.
 
@@ -37,7 +37,7 @@ However, as long as you can edit the dashboard, you can unlink a visualization o
 
 4.  On the element, expand the **Actions** menu.
 
-    ![Actions menu on data visualization, showing Unlink from library action.](../../par-for-workspace/image/dv-on-db-unlink.png)
+    ![Actions menu on data visualization, showing Unlink from library action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-on-db-unlink.png)
 
 5.  Select **Unlink from library**.
 
@@ -47,8 +47,8 @@ However, as long as you can edit the dashboard, you can unlink a visualization o
 
 7.  Proceed as described in one of the following topics:
 
-    -   [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
-    -   [Create or add a filter on an inline dashboard](../../par-for-workspace/task/select-workspace-filter-type.md)
+    -   [Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md)
+    -   [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/select-workspace-filter-type.md)
 
-**Parent Topic:**[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+**Parent Topic:**[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 

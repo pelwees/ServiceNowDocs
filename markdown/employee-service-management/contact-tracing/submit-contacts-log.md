@@ -42,7 +42,7 @@ If you're among the employees who have returned to the workplace, you receive mo
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Tracking employee contacts using daily logs](../concept/employee-daily-log.md)
+**Parent Topic:**[Tracking employee contacts using daily logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/employee-daily-log.md)
 
 ## Submit the daily contact log from a mobile phone
 
@@ -50,7 +50,7 @@ If you receive a mobile push notification to submit the daily contact log, you c
 
 ### Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
 
 Role required: sn\_imt\_checkin.dailylog\_user
 
@@ -74,7 +74,7 @@ Role required: sn\_imt\_checkin.dailylog\_user
 
 7.  To send your daily contact log, tap **Submit**.
 
-    ![Set of screens displayed on the mobile app to submit daily contact log.](../image/mobile-checkin-daily-log.png)
+    ![Set of screens displayed on the mobile app to submit daily contact log.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/mobile-checkin-daily-log.png)
 
 
 ### Result

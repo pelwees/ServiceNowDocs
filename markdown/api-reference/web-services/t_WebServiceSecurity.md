@@ -42,10 +42,10 @@ Role required: admin
     Credentials from the selected profile are sent as part of the SOAP message header.
 
 
-**Parent Topic:**[Outbound SOAP security](../concept/c_OutboundSOAPSecurity.md)
+**Parent Topic:**[Outbound SOAP security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OutboundSOAPSecurity.md)
 
 **Related topics**  
 
 
-[Create a new WS-Security profile](../../inbound-soap/task/t_CreateANewWS-SecurityProfile.md)
+[Create a new WS-Security profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../inbound-soap/task/t_CreateANewWS-SecurityProfile.md)
 

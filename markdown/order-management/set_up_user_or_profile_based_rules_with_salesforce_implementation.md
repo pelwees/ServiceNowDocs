@@ -23,7 +23,7 @@ First, youʼll want to create a new field on your Quote object in SFDC. This fie
 
 When prompted to enter the formula, this is where you must make a design decision. If you want the rule to be dependent on profile type \(for example, System Administrator\), enter `$User.ProfileId` as the formula:
 
-![Set Up User or Profile Based Rules with Salesforce Implementation](../images/cpq-salesforce-new-custom-field.png)
+![Set Up User or Profile Based Rules with Salesforce Implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-new-custom-field.png)
 
 If you want the rule to fire on a specific user ID, replace `$User.ProfileId` with `$User.Id`.
 
@@ -35,15 +35,15 @@ Add the formula field to the ReferencedFields field data set as you normally wou
 
 Write the rule in CPQ. For example, if you wanted a rule to fire on the System Admin profile, and the System Admin profileʼs ID is 00e8c000002qrLx, you might condition your rule like this:
 
-![Set Up User or Profile Based Rules with Salesforce Implementation](../images/cpq-salesforce-new-custom-field-formula.png)
+![Set Up User or Profile Based Rules with Salesforce Implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-new-custom-field-formula.png)
 
 ## Result
 
 In the following screen shots, there are two system administrator users and two rules. One rule is a message rule that fires when a System Administrator accesses a quote, and the other rule fires when Jane Doe accesses the quote. This is the output when a System Admin who is not Jane accesses the configuration:
 
-![Set Up User or Profile Based Rules with Salesforce Implementation](../images/cpq-message-rule-result-1.png)
+![Set Up User or Profile Based Rules with Salesforce Implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-message-rule-result-1.png)
 
 This is the output when Jane Doe \(who is also a System Admin\) accesses the configuration:
 
-![Set Up User or Profile Based Rules with Salesforce Implementation](../images/cpq-message-rule-result-2.png)
+![Set Up User or Profile Based Rules with Salesforce Implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-message-rule-result-2.png)
 

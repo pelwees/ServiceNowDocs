@@ -21,7 +21,7 @@ The stacks and resources undergo life-cycle operations from the time that they'r
 
 The following example shows the actions that the Cloud Services Catalog application supports on stacks. The actions are stop, start, deprovision, ModifyLease, or ModifySchedule.
 
-![Actions on stacks.](../image/performing-actions-on-stacks.png "Actions on stacks")
+![Actions on stacks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/performing-actions-on-stacks.png "Actions on stacks")
 
 The following table lists the operations that the Cloud Services Catalog application supports as actions on stacks.
 
@@ -33,5 +33,5 @@ The following table lists the operations that the Cloud Services Catalog applica
 |ModifyLease|Changes the lease end date.|
 |ModifySchedule|Modifies the schedule profile and schedule time zone.|
 
-**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
+**Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 

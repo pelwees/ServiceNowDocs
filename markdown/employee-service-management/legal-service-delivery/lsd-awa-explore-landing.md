@@ -46,9 +46,9 @@ For more information on the benefits of Advanced Work Assignment, see [Exploring
 
 To learn more about configuring and using Advanced Work Assignment for Legal Service Delivery, see:
 
--   [Configure Advanced Work Assignment for Legal Service Delivery](lsd-awa-configure-landing.md)
--   [Use Advanced Work Assignment for Legal Service Delivery](lsd-awa-use-landing.md)
--   [Components installed for Advanced Work Assignment for Legal Service Delivery reference](../reference/lsd-components-installed-awa.md)
+-   [Configure Advanced Work Assignment for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-configure-landing.md)
+-   [Use Advanced Work Assignment for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-use-landing.md)
+-   [Components installed for Advanced Work Assignment for Legal Service Delivery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/lsd-components-installed-awa.md)
 
-**Parent Topic:**[Advanced work assignment for Legal Service Delivery](lsd-awa-landing.md)
+**Parent Topic:**[Advanced work assignment for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-landing.md)
 

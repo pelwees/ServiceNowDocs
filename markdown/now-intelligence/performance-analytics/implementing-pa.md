@@ -25,7 +25,7 @@ Define goals and measurements to assess and drive improvement.
 2.  Determine factors and behaviors which affect the health of these business processes.
 3.  Decide on the metrics to measure.
 
-For a tool to help you plan and prepare your Performance Analytics solution, see [Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md).
+For a tool to help you plan and prepare your Performance Analytics solution, see [Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md).
 
 ## Start with Platform Analytics Solutions
 
@@ -54,12 +54,12 @@ Display actionable KPIs that tell the story of your business process and display
 2.  Grant dashboard access to stakeholders.
 3.  Empower everyone to take action with embedded, real-time analytics.
 
--   **[Planning your indicators](planning-indicators.md)**  
+-   **[Planning your indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/planning-indicators.md)**  
 Before creating an indicator, clarify what goals you wish to attain with the indicator.
--   **[Performance Analytics data flow](pa-data-flow.md)**  
+-   **[Performance Analytics data flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-data-flow.md)**  
 Before you get started with Performance Analytics, understand how the data flows through the platform, ultimately resulting in your ability to visualize process improvements.
--   **[Performance Analytics architecture](pa-architecture.md)**  
+-   **[Performance Analytics architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-architecture.md)**  
 Before using Performance Analytics, familiarize yourself with how the layers of architecture take you from raw database entries to insightful visuals on dashboards.
 
-**Parent Topic:**[Exploring Performance Analytics](c_GetStartedwithPA.md)
+**Parent Topic:**[Exploring Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md)
 

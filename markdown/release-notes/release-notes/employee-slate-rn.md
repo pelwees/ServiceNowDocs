@@ -124,5 +124,5 @@ Employee Slate includes built-in accessibility compliance through the AI widget 
     Analytics platform that includes dedicated Employee Slate destination for tracking sessions, events, page visits, and communications effectiveness with custom funnel building capabilities and integrated communications analytics dashboard.
 
 
-**Parent Topic:**[Unified Employee Experience release notes](uex-rn-landing.md)
+**Parent Topic:**[Unified Employee Experience release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/uex-rn-landing.md)
 

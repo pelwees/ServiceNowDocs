@@ -33,7 +33,7 @@ Existing user
 -   If you installed the Agile Development v2 mobile app on an instance that you already use in the Mobile Agent app, refresh the app to see **Agile 2.0** as an applet launcher.
 -   If you installed the Agile Development mobile v2 app on a different instance:
     1.  Log out by tapping **Settings** &gt; **Log out**.
-    2.  Tap the add icon \(![Add new instance](../image/add-new-instance.jpeg)\) and log in with your new ServiceNow instance address.
+    2.  Tap the add icon \(![Add new instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/add-new-instance.jpeg)\) and log in with your new ServiceNow instance address.
 
 
 </td></tr><tr><td>
@@ -44,22 +44,22 @@ New user
 
 1.  Enter the instance address in one of the following two ways:
     -   Type the instance address in the instance address field.
-    -   If your administrator provided you with a QR code, tap the QR icon \(![Scan a QR code](../image/mobile-qr-scan.png)\), and scan the QR code.
+    -   If your administrator provided you with a QR code, tap the QR icon \(![Scan a QR code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/mobile-qr-scan.png)\), and scan the QR code.
 2.  Tap **Save and log in**.
 
 
 </td></tr></tbody>
 </table>2.  Log in using your user name and password.
 
-3.  Tap the Agile Development v2 icon \(![Agile 2.0 applet launcher icon](../image/agile-2-0-icon-mobile-app.png)\) to start tracking your sprints, stories, and scrum tasks.
+3.  Tap the Agile Development v2 icon \(![Agile 2.0 applet launcher icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-2-0-icon-mobile-app.png)\) to start tracking your sprints, stories, and scrum tasks.
 
 
 ## What to do next
 
 Go to
 
--   [Managing stories on Agile Development v2 mobile app](../reference/manage-stories-agile-dev-mobile.md#).
--   [Managing scrum tasks on Agile Development v2 mobile app](../reference/manage-scrum-tasks-agile-mobile.md#).
+-   [Managing stories on Agile Development v2 mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../reference/manage-stories-agile-dev-mobile.md#).
+-   [Managing scrum tasks on Agile Development v2 mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../reference/manage-scrum-tasks-agile-mobile.md#).
 
-**Parent Topic:**[Mobile experience for Agile Development 2.0](../concept/agile-2-mobile-app-overview.md)
+**Parent Topic:**[Mobile experience for Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/agile-2-mobile-app-overview.md)
 

@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-For detailed information about scorecards, see [Quiz scorecards](../concept/c_QuizScorecards.md).
+For detailed information about scorecards, see [Quiz scorecards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizScorecards.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ For detailed information about scorecards, see [Quiz scorecards](../concept/c_Qu
     -   Average Ratings
     -   History
 
-**Parent Topic:**[View a quiz designer scorecard](t_ViewAQuizDesignerScorecard.md)
+**Parent Topic:**[View a quiz designer scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)
 

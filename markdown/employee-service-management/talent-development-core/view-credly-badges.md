@@ -34,5 +34,5 @@ Role required: learning.user
     **Note:** If you don't see your credentials, contact your admin to setup your Credly account.
 
 
-**Parent Topic:**[Using the Talent Development Core application](../../employee-service-management/concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../employee-service-management/concept/egd-use.md)
 

@@ -35,15 +35,15 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch with responsive authoring.
 
-    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  At the top, check that the desktop form factor icon is selected.
 
-    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-desktop.png)
+    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-desktop.png)
 
 5.  Add a column layout by selecting **+ Add content** under **Body** in the content tree.
 
@@ -59,7 +59,7 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
     4.  In the configuration panel, on the **Configure** tab, replace the default text in the **Label** field by entering `Tasks`.
 
-        ![Button component configure tab with black arrow pointing to label field.](../image/responsive-author-vis3.png)
+        ![Button component configure tab with black arrow pointing to label field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-vis3.png)
 
     5.  Select **Save**.
 
@@ -79,7 +79,7 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
     4.  In the menu, select **XS** \(extra small\).
 
-        ![Configuration panel with black arrows pointing to margin option and extra small size option.](../image/responsive-author-vis6.png)
+        ![Configuration panel with black arrows pointing to margin option and extra small size option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-vis6.png)
 
     5.  Select **Save**.
 
@@ -91,7 +91,7 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
     2.  On the configuration panel, in **Direction**, select the row icon.
 
-        ![Configuration panel for column 1 with black arrow pointing to row icon for direction option.](../image/responsive-author-layout7.png)
+        ![Configuration panel for column 1 with black arrow pointing to row icon for direction option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-layout7.png)
 
     3.  Select **Save**.
 
@@ -99,13 +99,13 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
 13. Select the tablet form factor icon.
 
-    ![Black arrow pointing to tablet form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-tablet.png)
+    ![Black arrow pointing to tablet form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-tablet.png)
 
     The spacing and position of the buttons also looks good at tablet width.
 
 14. Select the mobile responsive authoring icon.
 
-    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-mobile.png)
+    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-mobile.png)
 
     The buttons use almost all the horizontal space at the smaller size.
 
@@ -121,7 +121,7 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
     5.  In the configuration panel, on the **Configure** tab, remove the default text in **Placeholder text** and select **menu-outline** in **Icon**.
 
-        ![Dropdown component configure options.](../image/responsive-author-layout11.png)
+        ![Dropdown component configure options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-layout11.png)
 
     6.  Select **Save**.
 
@@ -149,9 +149,9 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 
     Two locations show that the button components are hidden at mobile size. First, in the configuration panel, next to the **Hide component** option, select the mobile icon. A message is displayed to confirm that the value \(hide component selected\) is for the mobile size.
 
-    ![Configuration panel with configure tab displayed and black arrow pointing to message.](../image/responsive-author-vis-message.png)
+    ![Configuration panel with configure tab displayed and black arrow pointing to message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-vis-message.png)
 
-    Second, in the content tree, the three button components are displayed with the hidden ![Hidden icon](../image/responsive-author-hidden-icon.png) icon.
+    Second, in the content tree, the three button components are displayed with the hidden ![Hidden icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-hidden-icon.png) icon.
 
 18. At the mobile form factor, show the dropdown component.
 
@@ -172,5 +172,5 @@ In this procedure, show buttons across the top for the desktop and tablet form f
 21. Close the preview overlay by selecting the **X**.
 
 
-**Parent Topic:**[Responsive authoring](../concept/responsive-authoring.md)
+**Parent Topic:**[Responsive authoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/responsive-authoring.md)
 

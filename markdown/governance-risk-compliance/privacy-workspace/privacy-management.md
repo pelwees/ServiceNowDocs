@@ -19,23 +19,23 @@ The Privacy Management application helps you to manage multiple privacy regulati
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how privacy managers, privacy users, and privacy administrators use the Privacy Management application.](explore-privacy-management.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how privacy managers, privacy users, and privacy administrators use the Privacy Management application.](explore-privacy-management.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure your Privacy Management application.](configure-privacy-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure your Privacy Management application.](configure-privacy-mgmt.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-manage.svg)](using-privacy-mgmt.md) Work on creating privacy assessments, processing activities and so on.
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-manage.svg)](using-privacy-mgmt.md) Work on creating privacy assessments, processing activities and so on.
 
 </td></tr><tr><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Highlight the privacy records with dashboards and reports.](reporting-prm.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-infographic.svg) Highlight the privacy records with dashboards and reports.](reporting-prm.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](../reference/privacy-mgmt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-profile.svg) Get details about components like tables and roles.](../reference/privacy-mgmt-reference.md)
 
 </td><td>
 

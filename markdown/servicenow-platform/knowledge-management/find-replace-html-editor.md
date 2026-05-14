@@ -21,13 +21,13 @@ Open the knowledge article in which you want to use the HTML editor.
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](create-knowledge-article.md) or [Edit a knowledge article](edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](edit-article-workspace-1.md).
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace-1.md).
 
 ## Procedure
 
 1.  In the Article body section, place the cursor anywhere.
 
-2.  Click the find and replace icon \(![Find and replace icon](../image/findandreplace.png)\) on the HTML toolbar.
+2.  Click the find and replace icon \(![Find and replace icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/findandreplace.png)\) on the HTML toolbar.
 
 3.  In the Find and Replace dialog box, in the **Find** field, enter the search term you want to find.
 

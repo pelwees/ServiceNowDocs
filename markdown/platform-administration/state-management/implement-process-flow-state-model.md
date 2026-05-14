@@ -23,21 +23,21 @@ Role required: state\_model\_admin or admin
 
 State models provide a way to limit the choices for moving between states in a form. If you set up only a state model, users manually change states in the form. Additional steps are required to add the process flow or UI actions, as illustrated in the following example.
 
-![Change Request form highlighting the UI Action and Process Flow.](../image/change-form-ui-actions-process.png)
+![Change Request form highlighting the UI Action and Process Flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/state-management/../image/change-form-ui-actions-process.png)
 
 ## Procedure
 
 1.  Verify the choices for the **State** field for the table and ensure that you created transitions for them.
 
-    For more information about how to add **State** field choices, see [Best practices for state field choice values](../../field-administration/concept/c_BPForStateFieldChoiceValues.md#).
+    For more information about how to add **State** field choices, see [Best practices for state field choice values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/state-management/../../field-administration/concept/c_BPForStateFieldChoiceValues.md#).
 
 2.  After creating the state model, define the process flow.
 
-    For more information about process flows, see [Process flow formatter](../../form-administration/reference/r_ProcessFlowFormatter.md#).
+    For more information about process flows, see [Process flow formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/state-management/../../form-administration/reference/r_ProcessFlowFormatter.md#).
 
 3.  Define UI actions as desired to move between states.
 
-    For more information about UI actions, see [UI actions](../../list-administration/concept/c_UIActions.md).
+    For more information about UI actions, see [UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/state-management/../../list-administration/concept/c_UIActions.md).
 
 
 ## Result

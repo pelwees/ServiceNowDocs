@@ -19,16 +19,16 @@ This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) 
 
 For usage guidelines, refer to [MLSolutionFactory scriptable objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-ml-apis-mlsolutionfactory.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 **Related topics**  
 
 
-[MLSolution](../../MLSolution/concept/MLSolutionAPI.md#)
+[MLSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolution/concept/MLSolutionAPI.md#)
 
-[MLSolutionUtil](../../MLSolutionUtil/concept/MLSolutionUtilAPI.md#)
+[MLSolutionUtil](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolutionUtil/concept/MLSolutionUtilAPI.md#)
 
-[REST API: Get predictions for multiple solutions](../../../../../integrate/inbound-rest/concept/agent-intelligence-api.md#)
+[REST API: Get predictions for multiple solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../integrate/inbound-rest/concept/agent-intelligence-api.md#)
 
 ## MLSolutionFactory - getSolution\(String solutionName, Object options\)
 
@@ -41,7 +41,7 @@ Gets an MLSolution object for a specified solution name.
 
 |Type|Description|
 |----|-----------|
-|Object|[MLSolution](../../MLSolution/concept/MLSolutionAPI.md#) object of the specified solution.|
+|Object|[MLSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolution/concept/MLSolutionAPI.md#) object of the specified solution.|
 
 ```
 // basic usage

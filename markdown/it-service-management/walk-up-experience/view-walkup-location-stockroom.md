@@ -78,13 +78,13 @@ Miscellaneous other assets.
 </table>7.  Select the name of an available consumable to see the details about the asset, such as quantity, cost, and expense information.
 
 
--   **[Use platform view to fulfill a Walk-up Experience request from a stockroom](fulfill-walkup-stockroom-request.md)**  
+-   **[Use platform view to fulfill a Walk-up Experience request from a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/fulfill-walkup-stockroom-request.md)**  
 Walk-up Experience agents can access an associated stockroom and fulfill user requests directly from an interaction in platform view.
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/use-walkup-to-manage-demand.md)
 
 **Related topics**  
 
 
-[Use platform view to fulfill a Walk-up Experience request from a stockroom](fulfill-walkup-stockroom-request.md)
+[Use platform view to fulfill a Walk-up Experience request from a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/fulfill-walkup-stockroom-request.md)
 

@@ -17,19 +17,19 @@ KPI Signals notifies you when the behavior of a process changes significantly. T
 
 <table id="table_o5y_trj_mcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explanation of signals, anti-signals, and when there is no signal.](exploring-kpi-signals.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Explanation of signals, anti-signals, and when there is no signal.](exploring-kpi-signals.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate KPI Signals for an indicator and configure signal detection and notification. Add responsible users.](configuring-kpi-signals.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate KPI Signals for an indicator and configure signal detection and notification. Add responsible users.](configuring-kpi-signals.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Respond to KPI Signals notifications by fixing the issue and dismissing the signal or resetting the baseline](using-kpi-signals.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Respond to KPI Signals notifications by fixing the issue and dismissing the signal or resetting the baseline](using-kpi-signals.md)
 
 </td><td>
 
-[Role reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles relevant to KPI Signals](kpi-signals-roles.md)
+[Role reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Roles relevant to KPI Signals](kpi-signals-roles.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -15,14 +15,14 @@ breadcrumb: [Notify reference, Notify, Manage service capabilities, Extend Servi
 
 Several types of components are installed with the Notify application.
 
--   **[Roles installed with Notify](r_NotifyRoles.md#)**  
+-   **[Roles installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_NotifyRoles.md#)**  
 Notify adds the following roles.
--   **[Tables installed with Notify](r_NotifyTables.md)**  
+-   **[Tables installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_NotifyTables.md)**  
 Notify adds the following tables.
--   **[Properties installed with Notify](r_NotifyProperties.md)**  
+-   **[Properties installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_NotifyProperties.md)**  
 Notify adds the following properties.
--   **[Business rules installed with Notify](r_NotifyBusinessRules.md)**  
+-   **[Business rules installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_NotifyBusinessRules.md)**  
 Notify adds the following business rules.
 
-**Parent Topic:**[Notify reference](../concept/notify-reference-section.md)
+**Parent Topic:**[Notify reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/notify-reference-section.md)
 

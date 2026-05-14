@@ -22,7 +22,7 @@ Create a view for modal window for a Security Case.
 -   By default, the linked record modal list will only be showing the **Default** list layout. If you want to customize the list layout, you can do so using **Custom View** on the Source Table.
 -   If you want to render the custom view, the custom view should also be selected in the Linked Record Configuration for Source Table.
 
-    ![Custom view is rendered to the Source Table.](../image/modal-view-image-step2.png "Modal view Linked Record Configuration for Source Table")
+    ![Custom view is rendered to the Source Table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/modal-view-image-step2.png "Modal view Linked Record Configuration for Source Table")
 
 
 Role required: admin
@@ -31,7 +31,7 @@ Role required: admin
 
 1.  Go to the source table and select **Configure** &gt; **List Layout**.
 
-    ![Configuring list layout and creating a new view name.](../image/configure-list-layout-view-name.png)
+    ![Configuring list layout and creating a new view name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/configure-list-layout-view-name.png)
 
 2.  Go to **List view** &gt; **View name**.
 
@@ -46,5 +46,5 @@ Role required: admin
 6.  Navigate to **Menu** &gt; **Views** to verify if the view has rendered properly.
 
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/use-case-for-a-security-case.md)
 

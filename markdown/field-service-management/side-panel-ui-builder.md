@@ -17,7 +17,7 @@ In Dispatcher Workspace, the contextual side panel shows detailed information ab
 
 In the following image you can see the Dispatcher Workspace contextual side panel in UI Builder built with customizable tabs.
 
-![Dispatcher workspace configurable components in UI Builder](../image/dispatcher-workspace-uib.png "Dispatcher Workspace in UI Builder")
+![Dispatcher workspace configurable components in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/dispatcher-workspace-uib.png "Dispatcher Workspace in UI Builder")
 
 For more information on using tabs in UI Builder, see [Tabs Usage](https://developer.servicenow.com/dev.do#!/reference/next-experience/vancouver/now-components/now-tabs/usage). For information on adding tabs, see [Add tabbed content to UI Builder pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/tabs-components.md).
 

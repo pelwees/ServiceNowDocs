@@ -93,5 +93,5 @@ ATF troubleshooting agent doesn't support the following metadata:
 -   Custom UI test steps
 -   Custom test steps
 
-**Parent Topic:**[ATF troubleshooting agent references](atf-troubleshooting-agent-references.md)
+**Parent Topic:**[ATF troubleshooting agent references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/atf-troubleshooting-agent-references.md)
 

@@ -17,7 +17,7 @@ When an upgrade is underway, Upgrade Progress displays progress bars and other i
 
 You can view the status of each of the stages during an upgrade process. It helps you to know exactly which stage you are in at any point of the upgrade process.
 
-![Image showing ATF store app advertisement banner](../image/uc-atf-app.png)
+![Image showing ATF store app advertisement banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-atf-app.png)
 
 If you have the ATF Test Generator and Cloud Runner store application installed, you can schedule test generation runs from the Upgrade Monitor page. The above message shows up during an upgrade process when the following conditions are met.
 
@@ -27,7 +27,7 @@ If you have the ATF Test Generator and Cloud Runner store application installed,
 
 **Note:** You can now confidently upgrade your instance by using the [ATF Test Generator and Cloud Runner](https://store.servicenow.com/sn_appstore_store.do#!/store/application/db1676d7421441106f046193880e0b37) store app. See [Exploring ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-landing.md) for more information.
 
-Once the database upgrade starts, the following details show up. ![Image showing the status of an in-progress upgrade](../image/uc-upgrade-progress.png)
+Once the database upgrade starts, the following details show up. ![Image showing the status of an in-progress upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-upgrade-progress.png)
 
 |Field|Input Value|
 |-----|-----------|

@@ -29,13 +29,13 @@ To add a field grid to the layout, a column set is not needed because the field 
 
 The first three images show the CSV file. The last image shows the corresponding user layout. The numbers above align with the numbers in the images below. \(Because number 3 is shown several times, a letter is added for clarity.\) Individual cells in the field grid cannot have both a label and an input field. Note that by 3C, both a label and input field are added to the layout CSV file. However, only the input field goes in the layout.
 
-![Field grid](../images/cpq-field-grid-setup-1.png)
+![Field grid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-field-grid-setup-1.png)
 
-![Field grid](../images/cpq-field-grid-setup-2.png)
+![Field grid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-field-grid-setup-2.png)
 
-![Field grid](../images/cpq-field-grid-setup-3.png)
+![Field grid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-field-grid-setup-3.png)
 
-![Field grid](../images/cpq-field-grid-setup-4.png)
+![Field grid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-field-grid-setup-4.png)
 
 [fieldGrid Sample Layout JSON](https://docs.google.com/document/d/123dT0vwmwBUWgyrEV5RzI3rH3WugJd2xUUkpI9O2Ias/edit?usp=sharing)
 

@@ -31,7 +31,7 @@ Third-party alerts get forwarded globally. You can configure the alert reaction 
 
     The **Default Settings** page appears.
 
-    ![Default Settings tab page](../image/sap-solman-default-settings-tab.png "Default Settings page")
+    ![Default Settings tab page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-default-settings-tab.png "Default Settings page")
 
 3.  Configure and activate a third-party component.
 
@@ -49,7 +49,7 @@ Third-party alerts get forwarded globally. You can configure the alert reaction 
 
         The Define Scope page appears.
 
-        ![Define Scope page](../image/sap-solman-define-scope.png)
+        ![Define Scope page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-define-scope.png)
 
     2.  Select the managed object to which you want to assign the monitoring template.
 
@@ -70,7 +70,7 @@ Third-party alerts get forwarded globally. You can configure the alert reaction 
 
 ## What to do next
 
-View alerts generated in SAP Solution Manager to see any pressing issues, as described in [View alerts in the SAP Solution Manager inbox](sap-view-alerts.md).
+View alerts generated in SAP Solution Manager to see any pressing issues, as described in [View alerts in the SAP Solution Manager inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-view-alerts.md).
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

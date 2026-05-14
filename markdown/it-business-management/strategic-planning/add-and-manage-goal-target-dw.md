@@ -23,11 +23,11 @@ Role required: it\_demand\_manager
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select the **Goal/Target Relationships** tab.![Use the Goal/Target Relationships tab to add or edit demand tasks.](../images/goal-target-demand.png)
+3.  Select the **Goal/Target Relationships** tab.![Use the Goal/Target Relationships tab to add or edit demand tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/goal-target-demand.png)
 
     **Note:** If the required **Goal/Target Relationships** tab isn’t visible, select **More** and then select the required **Goal/Target Relationships** tab.
 
@@ -37,7 +37,7 @@ Role required: it\_demand\_manager
     -   To update the details of an existing goal/target relationship record, select the record.
 5.  On the form, fill in the fields.
 
-    For field information, see [Create goal/target relationship form](../reference/create-goal-target-relationship-form-dw.md).
+    For field information, see [Create goal/target relationship form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/create-goal-target-relationship-form-dw.md).
 
 6.  Select **Save**.
 
@@ -46,16 +46,16 @@ Role required: it\_demand\_manager
     -   To remove a goal/target relationship record:
         -   Select a record from the **Goal/Target Relationships** tab and select **Remove**.
         -   Select **Remove** from the More Actions option in the goal/target relationship form.
-    -   Alternatively, you can add, edit, or remove goal/target relationship records using the **Add secondary goals** playbook activity. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
+    -   Alternatively, you can add, edit, or remove goal/target relationship records using the **Add secondary goals** playbook activity. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
     After completing your work on the goal/target relationship record, use the breadcrumb navigation to return to the **Goal/Target Relationships** tab.
 
 
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-dw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md)
 
-[Create goal/target relationship form](../reference/create-goal-target-relationship-form-dw.md)
+[Create goal/target relationship form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/create-goal-target-relationship-form-dw.md)
 

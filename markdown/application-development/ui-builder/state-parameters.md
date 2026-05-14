@@ -21,7 +21,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-You can add two components to a page and then connect them by using [client state parameters](../concept/ui-builder-glossary.md#) and [scripts](../concept/ui-builder-glossary.md#). Start by creating a client state parameter and then binding the client state parameter to one of the components, such as a label. Next, you create a client script and bind it to a second component, such as a button, using an event handler. When you create the event handler, bind the client state parameter value to it to connect the two components. If you click one component, it changes the state of the other component. Client states are useful because you can add custom values to your components that can be automatically updated through a script. Think of a client state as a bucket for storing information that is specific to the page.
+You can add two components to a page and then connect them by using [client state parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/ui-builder-glossary.md#) and [scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/ui-builder-glossary.md#). Start by creating a client state parameter and then binding the client state parameter to one of the components, such as a label. Next, you create a client script and bind it to a second component, such as a button, using an event handler. When you create the event handler, bind the client state parameter value to it to connect the two components. If you click one component, it changes the state of the other component. Client states are useful because you can add custom values to your components that can be automatically updated through a script. Think of a client state as a bucket for storing information that is specific to the page.
 
 For example, you can add a button and label component to your page. The button changes the value of the label, such as changing the text color.
 
@@ -31,15 +31,15 @@ For example, you can add a button and label component to your page. The button c
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
-    For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+    For more information, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-pages.md).
 
 4.  Add two components to your page.
 
-    For more information, see [Add and configure components](add-components.md#).
+    For more information, see [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-components.md#).
 
 5.  To define a client state parameter with an associated value, select Client state parameters in the lower-left panel.
 
@@ -55,9 +55,9 @@ For example, you can add a button and label component to your page. The button c
 
     2.  Open the configuration panel and select the **Configure** tab.
 
-    3.  Point to the field that you want to bind data to and select the dynamic data binding icon \(![Dynamic data binding icon.](../image/uib-dynamic-data-binding-button.png)\).
+    3.  Point to the field that you want to bind data to and select the dynamic data binding icon \(![Dynamic data binding icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-dynamic-data-binding-button.png)\).
 
-        ![Hovering over the bind data icon.](../image/data-bind-icon-hover.png)
+        ![Hovering over the bind data icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/data-bind-icon-hover.png)
 
         The data binding modal appears.
 
@@ -91,7 +91,7 @@ For example, you can add a button and label component to your page. The button c
 
     4.  Under the Scripts section of event handlers, select the script that you created, and select **+** to add it as an event handler for the component.
 
-        ![Adding the script as an event handler.](../image/client-script-add-to-event.png)
+        ![Adding the script as an event handler.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/client-script-add-to-event.png)
 
 12. Select **Save**.
 
@@ -111,5 +111,5 @@ What you did in this procedure:
 -   Created an event handler for the second component to call the new client script that you just created
 -   Selected the second component so that it changed the state of the first component.
 
-**Parent Topic:**[Client state parameters](../concept/client-state-parameters.md)
+**Parent Topic:**[Client state parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/client-state-parameters.md)
 

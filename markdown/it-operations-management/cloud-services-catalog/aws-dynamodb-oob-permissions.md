@@ -62,5 +62,5 @@ AWS DynamoDB deprovision
 7.  DescribeTable
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Amazon Web Services DynamoDB Out Of Box Catalog Items](aws-dynamodb-out-of-box-catalogs.md)
+</table>**Parent Topic:**[Amazon Web Services DynamoDB Out Of Box Catalog Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-dynamodb-out-of-box-catalogs.md)
 

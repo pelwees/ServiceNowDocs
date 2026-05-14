@@ -33,7 +33,7 @@ For every product, the system creates a corresponding entry in the application m
 
 ## Procedure
 
-1.  Create applications as described in [Create an application - Workspace](app-create-workspace.md).
+1.  Create applications as described in [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 
 2.  Open the application models table: `<instanceName>/cmdb_application_product_model_list.do` and then follow this procedure to configure each application that will be included in a product.
 

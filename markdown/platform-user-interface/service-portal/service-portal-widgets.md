@@ -23,7 +23,7 @@ When you create or update a page in the Service Portal Designer, add widgets by 
 
 You can use the base system widgets included with Service Portal to get started configuring portal pages. Base system widgets are read-only so you can benefit from future updates. However, for each instance of a base system widget that you add to a page, you can configure the instance options available for that widget.
 
-For a list of base system widgets and information about their instance options, see the [Widget library](widget-showcase.md).
+For a list of base system widgets and information about their instance options, see the [Widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-showcase.md).
 
 ## Widget instances
 
@@ -31,9 +31,9 @@ When you add a widget to a page using the Service Portal Designer, it creates a 
 
 All widget instances point to a widget. If you edit that widget, all of its widget instances receive that change as well. You can also make changes specific to a widget instance, and only that widget instance is affected.
 
-For example, the following image includes four instances of the base system [Icon Link widget](icon-link-widget.md) with different configurations specific to each instance.
+For example, the following image includes four instances of the base system [Icon Link widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/icon-link-widget.md) with different configurations specific to each instance.
 
-![Icon link widgets from the Service Portal homepage with different icons and titles for each instance](../image/IconLinkInstances.png "Icon link widgets")
+![Icon link widgets from the Service Portal homepage with different icons and titles for each instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/IconLinkInstances.png "Icon link widgets")
 
 **Note:** For widgets that do not include any information by default, you must configure the options for their widget instances before they will display on a portal page.
 
@@ -43,19 +43,19 @@ From any rendered Service Portal page, you can CTRL+right-click a widget to see 
 
 For example, navigate to **Service Portal** &gt; **Service Portal Home** to open a sample portal page. CTRL+right-click Knowledge Base on that page.
 
-![Icon Link widget context menu](../image/WidgetContextMenu.png "Widget context menu")
+![Icon Link widget context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetContextMenu.png "Widget context menu")
 
 **Note:** You must have the admin or sp\_admin role to see the widget context menu. When you impersonate a user without one of those roles, you can see the menu. However, a regular user signed in without those roles can’t see the menu.
 
 |Option|Description|
 |------|-----------|
 |Widget performance|How long it takes for a widget to load|
-|Instance options|Specify an [instance of a widget](c_ConfigureWidgetInstances.md). Widget instance options vary depending on the widget that you select. For example, the instance options for the cool clock widget include different time zones for each instance, so you can have the same clock four times on a page, but with all different time zones.|
+|Instance options|Specify an [instance of a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md). Widget instance options vary depending on the widget that you select. For example, the instance options for the cool clock widget include different time zones for each instance, so you can have the same clock four times on a page, but with all different time zones.|
 |Instance in Page Editor|Opens that instance of the widget in the Page Editor|
-|Page Designer|Opens the widget in the [Service Portal Designer](../task/t_ConfigureAPage.md#), which enables you to add containers, columns, and widgets. You can add styling from the Service Portal Designer to the widget or to the page the widget lives on.|
-|Show Widget Customizations|Shows customization levels of widgets on the page so that you can diagnose page issues. For more information, see [Widget diagnostics](sp-diagnostic-tool.md).|
+|Page Designer|Opens the widget in the [Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#), which enables you to add containers, columns, and widgets. You can add styling from the Service Portal Designer to the widget or to the page the widget lives on.|
+|Show Widget Customizations|Shows customization levels of widgets on the page so that you can diagnose page issues. For more information, see [Widget diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-diagnostic-tool.md).|
 |Edit Container Background|Edit the layout in which the widget is located.|
-|Widget Options Schema|Define the options that you can select for an instance of a widget. For more information on configuring your own instance options, see [Widget option schema](c_WidgetInstanceOptions.md#).|
+|Widget Options Schema|Define the options that you can select for an instance of a widget. For more information on configuring your own instance options, see [Widget option schema](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_WidgetInstanceOptions.md#).|
 |Widget in Form Modal|Opens the widget form in a pop-up window so you can make quick changes to the widget.|
 |Widget in Editor|Opens the widget in the Widget Editor. You can use the Widget Editor to configure HTML templates, CSS, client scripts, service scripts, and demo data for the widget.|
 |Log to console: $scope.data|The $scope.data object passes data from the server to the client-side controller. Instead of adding console.log messages or alerts into the controller code, you can log the $scope.data object to the browser console and view the data there.|
@@ -63,14 +63,14 @@ For example, navigate to **Service Portal** &gt; **Service Portal Home** to open
 
 ## Custom widgets
 
-Base system widgets are read-only so you can benefit from future updates. To make changes, you can copy base system widgets. However, copied widgets are considered custom and don't benefit from future updates to the widgets they were copied from. You can also create widgets from scratch. To learn more about copying or creating widgets, see [Developing custom widgets](widget-dev-guide.md).
+Base system widgets are read-only so you can benefit from future updates. To make changes, you can copy base system widgets. However, copied widgets are considered custom and don't benefit from future updates to the widgets they were copied from. You can also create widgets from scratch. To learn more about copying or creating widgets, see [Developing custom widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md).
 
--   **[Configure widget instances](c_ConfigureWidgetInstances.md)**  
+-   **[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)**  
 Create unique instances of widgets by configuring the options for each instance.
--   **[Widget library](widget-showcase.md)**  
+-   **[Widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-showcase.md)**  
 You can use base system widgets as-is in your Service Portal or duplicate them to suit your own business needs.
--   **[Configure widget loading order in Service Portal](../task/configure-widget-loading-order.md)**  
+-   **[Configure widget loading order in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/configure-widget-loading-order.md)**  
 Configure service portal pages to defer load the widgets on a page. The delay in loading of non-essential widgets helps to improve page loading speed and optimizes the use of resources.
 
-**Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 

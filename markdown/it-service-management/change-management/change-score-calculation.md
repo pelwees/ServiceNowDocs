@@ -28,8 +28,8 @@ Review the following table to understand the default multipliers used in success
 |P2 incident caused by change|-5|
 |P3 incident caused by change|-2|
 
--   **[Modify score calculation](../reference/modify-success-score-calculations.md)**  
+-   **[Modify score calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../reference/modify-success-score-calculations.md)**  
 Modify the multiplier values in the formula indicators to calculate the final success score.
 
-**Parent Topic:**[Change success score](change-success-score.md)
+**Parent Topic:**[Change success score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 

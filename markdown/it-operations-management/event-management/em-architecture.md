@@ -19,5 +19,5 @@ Event Management architecture integrates data collection, processing, and alerti
 
 As events occur on various systems, the MID Server connector instance sends them to the main instance. Event Management generates alerts, applies alert management rules, and prioritizes alerts for remediation and root cause analysis. This information can be viewed on dashboards, the alert list in Alert Intelligence, or from a service map.
 
-![Event Management architecture](../image/EventManagementOverview.png "Event Management architecture")
+![Event Management architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementOverview.png "Event Management architecture")
 

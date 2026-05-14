@@ -17,7 +17,7 @@ A household is made up of constituents who have been added as members of that ho
 
 **Note:** A household has an address and constituents have their own addresses. These addresses don’t need to be the same to add a constituent or user as a member to a household.
 
-![Configuring households view in PSDS](../image/psds_config_households_view.png)
+![Configuring households view in PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_config_households_view.png)
 
 Support complex constituent/household relationships. Resolve issues related to shared services faster with access to the entire household's account history. Provide easy and secure authorized access to identified persons for streamlined engagement. Assigning a specific agent for handling all issues for a given household.
 

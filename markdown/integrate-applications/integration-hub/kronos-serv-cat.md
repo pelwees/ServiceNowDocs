@@ -17,7 +17,7 @@ Trigger events in Kronos when an item is requested in the Service Catalog.
 
 ## Before you begin
 
--   [Set up the UKG spoke](setup-kronos.md#)
+-   [Set up the UKG spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-kronos.md#)
 -   Role required: admin
 
 ## About this task

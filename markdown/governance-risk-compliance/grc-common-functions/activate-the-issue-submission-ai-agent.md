@@ -30,7 +30,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin.
 
 3.  From the list of available AI agents, select **Report a GRC issue**.
 
-    ![The Report a GRC issue AI agent page.](../../grc-common-workspace/image/report-a-grc-issue.png)
+    ![The Report a GRC issue AI agent page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common-workspace/image/report-a-grc-issue.png)
 
 4.  Select the Define the specialty section, review the fields, and confirm that the AI agent meets your requirements.
 
@@ -66,7 +66,7 @@ If activation fails, check roles and skill configuration.
 **Related topics**  
 
 
-[Post activation indexing and customization](../task/post-activation-indexing-and-customization_0.md)
+[Post activation indexing and customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/post-activation-indexing-and-customization_0.md)
 
-[Report a GRC issue](../task/report-a-grc-issue.md)
+[Report a GRC issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/report-a-grc-issue.md)
 

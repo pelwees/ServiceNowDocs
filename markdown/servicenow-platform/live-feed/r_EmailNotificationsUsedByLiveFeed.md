@@ -41,5 +41,5 @@ The Live Feed plugin includes the following email notifications.
 |Live Message New Posts Subscription|Sends an email to subscribed users when a new \(not reply\) message is posted.|
 |Live Message Reply|Sends an email to all users in a feed thread when a user posts a reply \(live\_message.replied event\).|
 
-**Parent Topic:**[Components installed with Live Feed](r_InstalledWithLiveFeed.md)
+**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 

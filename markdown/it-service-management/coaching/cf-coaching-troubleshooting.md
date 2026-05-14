@@ -59,7 +59,7 @@ Implement Coaching [extension points](https://raw.githubusercontent.com/ServiceN
 -   CoachingACLExtensionPoint
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
+</table>**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
 **Related topics**  
 

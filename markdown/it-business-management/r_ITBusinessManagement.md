@@ -16,35 +16,35 @@ Strategic Portfolio Management overview
 
 <table id="table_cry_rvq_pvb" class="nav-card"><tbody><tr><td>
 
-[Improve productivity with Now Assist for SPM![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about various generative AI skills that are available within SPM apps.](../../now-assist-spm/concept/now-assist-spm.md)
+[Improve productivity with Now Assist for SPM![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about various generative AI skills that are available within SPM apps.](../../now-assist-spm/concept/now-assist-spm.md)
 
 </td><td>
 
-[Strategic Planning Workspace![](../../../reuse/icons/brand-icons/bus-alignment.svg)Innovate from product feedback, align work with strategy, and execute with flexible configurations.](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md)
+[Strategic Planning Workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-alignment.svg)Innovate from product feedback, align work with strategy, and execute with flexible configurations.](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md)
 
 </td><td>
 
-[Project Workspace![](../../../reuse/icons/brand-icons/bus-project.svg)Plan and manage projects from an interactive central workspace.](../../project-workspace/concept/project-workspace-landing-page.md)
+[Project Workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-project.svg)Plan and manage projects from an interactive central workspace.](../../project-workspace/concept/project-workspace-landing-page.md)
 
 </td><td>
 
-[Resource Management Workspace![](../../../reuse/icons/brand-icons/bus-manager.svg)View the allocation and breakdown of the work assigned to the resources from a centralized workspace.](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
+[Resource Management Workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-manager.svg)View the allocation and breakdown of the work assigned to the resources from a centralized workspace.](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
 
 </td></tr><tr><td>
 
-[Portfolio Planning Workspace![](../../../reuse/icons/brand-icons/bus-manage.svg)Enhance your traditional product and portfolio management.](../../portfolio-planning/concept/portfolio-planning-app-landing-page.md)
+[Portfolio Planning Workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-manage.svg)Enhance your traditional product and portfolio management.](../../portfolio-planning/concept/portfolio-planning-app-landing-page.md)
 
 </td><td>
 
-[Collaborative Work Management![](../../../reuse/icons/brand-icons/bus-community.svg)Collaborate with your teams from a central workspace and avoid switching between multiple tools to manage work.](../../collab-work-mgmt/concept/cwm-landing.md)
+[Collaborative Work Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-community.svg)Collaborate with your teams from a central workspace and avoid switching between multiple tools to manage work.](../../collab-work-mgmt/concept/cwm-landing.md)
 
 </td><td>
 
-[Project Portfolio Management Classic![](../../../reuse/icons/brand-icons/bus-business-management.svg)Follow a simplified, team-oriented approach to managing demands, projects, programs, and portfolios.](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+[Project Portfolio Management Classic![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-business-management.svg)Follow a simplified, team-oriented approach to managing demands, projects, programs, and portfolios.](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
 
 </td><td>
 
-[SPM custom tables![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Extend and customize your Strategic Portfolio Management applications with additional features and capabilities.](../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
+[SPM custom tables![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Extend and customize your Strategic Portfolio Management applications with additional features and capabilities.](../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
 
 </td></tr></tbody>
 </table>## Organization Extension \(com.snc.organization\_extension\) plugin
@@ -72,29 +72,29 @@ Business Applications and Business Capabilities modules are also available withi
 ## Get started
 
 -   Understand how to deliver business outcomes with speed and agility using ServiceNow SPM. For more information, see [Customer Success Center](https://www.servicenow.com/products/business-management.html).
--   Learn how to align execution with business goals and priorities. For more information, see [Strategic Planning](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md).
--   Create goals, set targets for them, and evaluate the progress of your goals and targets to accomplish the organizational plans and drive business outcomes. For more information, see [Goal Framework and Goal Framework for SPM](../../goal-framework/concept/goal-framework.md).
+-   Learn how to align execution with business goals and priorities. For more information, see [Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md).
+-   Create goals, set targets for them, and evaluate the progress of your goals and targets to accomplish the organizational plans and drive business outcomes. For more information, see [Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../goal-framework/concept/goal-framework.md).
 -   Enhance your SPM capabilities with specialized plugins that provide read-only roles for various modules, confirming secure access to dashboards and reports.
 
 ## Applications and features
 
--   [Now Assist for SPM](../../now-assist-spm/concept/now-assist-spm.md)
--   [Collaborative Work Management](../../collab-work-mgmt/concept/cwm-landing.md)
--   [Now Assist for CWM](../../now-assist-cwm/concept/now-assist-for-cwm-landing.md)
--   [Product Feedback](../../spw-product-feedback/concept/product-feedback-landing.md)
--   [Portfolio Planning in SPW](../../alignment-planner-workspace/concept/planning-in-spw.md)
--   [Enterprise Agile Planning](../../spw-eap/concept/eap-landing.md)
--   [SPW Dashboards](../../spw-dashboards/concept/dashboards-in-spw.md)
--   [Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md)
--   [Resource Management Workspace](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
--   [Goal Framework and Goal Framework for SPM](../../goal-framework/concept/goal-framework.md)
--   [Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
--   [Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/concept/export-ppt-landing-page.md)
--   [Time Card Management](../../../administer/task-table/concept/time-card-management.md)
--   [Agile Development 2.0](../../agile-development/reference/agile-landing-page.md)
--   [Microsoft Azure DevOps Integration for Agile Development](../../agile-azure-integration/concept/agile-azure-integration-overview.md)
--   [Atlassian Jira Integration for Agile Development](../../agile-jira-integration/concept/agile-jira-integration-overview.md)
--   [Test Management applications](../../test-management2/concept/test-management-overview.md)
--   [Cost Management](../../cost-management/reference/r_CostManagement.md)
--   [SPM custom tables](../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
+-   [Now Assist for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../now-assist-spm/concept/now-assist-spm.md)
+-   [Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../collab-work-mgmt/concept/cwm-landing.md)
+-   [Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../now-assist-cwm/concept/now-assist-for-cwm-landing.md)
+-   [Product Feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../spw-product-feedback/concept/product-feedback-landing.md)
+-   [Portfolio Planning in SPW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../alignment-planner-workspace/concept/planning-in-spw.md)
+-   [Enterprise Agile Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../spw-eap/concept/eap-landing.md)
+-   [SPW Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../spw-dashboards/concept/dashboards-in-spw.md)
+-   [Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../project-workspace/concept/project-workspace-landing-page.md)
+-   [Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
+-   [Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../goal-framework/concept/goal-framework.md)
+-   [Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+-   [Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../export-to-ppt/concept/export-ppt-landing-page.md)
+-   [Time Card Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../../administer/task-table/concept/time-card-management.md)
+-   [Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../agile-development/reference/agile-landing-page.md)
+-   [Microsoft Azure DevOps Integration for Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../agile-azure-integration/concept/agile-azure-integration-overview.md)
+-   [Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../agile-jira-integration/concept/agile-jira-integration-overview.md)
+-   [Test Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../test-management2/concept/test-management-overview.md)
+-   [Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../cost-management/reference/r_CostManagement.md)
+-   [SPM custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
 

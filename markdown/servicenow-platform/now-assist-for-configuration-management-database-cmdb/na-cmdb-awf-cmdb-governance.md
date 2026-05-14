@@ -32,10 +32,10 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 2.  Enter the class of CI to create and then continue by answering the Now Assist questions.
 
 
-**Parent Topic:**[Getting advice from Now Assist on CMDB governance](../concept/na-cmdb-awf-governance.md)
+**Parent Topic:**[Getting advice from Now Assist on CMDB governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/na-cmdb-awf-governance.md)
 
 **Related topics**  
 
 
-[Property settings for Now Assist for CMDB](../reference/na-data-fdn-properties.md)
+[Property settings for Now Assist for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../reference/na-data-fdn-properties.md)
 

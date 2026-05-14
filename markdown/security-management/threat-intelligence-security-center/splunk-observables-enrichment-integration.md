@@ -24,5 +24,5 @@ This interval determines how frequently the application can make requests to Ser
 
 After the observables are pulled from ServiceNow, the observables data is stored in Splunk Key-Value Store \(KV Store\) and you can further write the correlation rules over the set of observables retrieved.
 
-**Parent Topic:**[TISC add-on for Splunk overview](tisc-addon-splunk.md)
+**Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-addon-splunk.md)
 

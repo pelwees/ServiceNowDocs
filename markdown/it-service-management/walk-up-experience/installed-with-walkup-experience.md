@@ -140,5 +140,5 @@ Walk-up Appointment\[wu\_appointment\]
 Record used to configure scheduled appointments. Extends the Task \[task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Walk-up Experience reference](walk-up-experience-reference.md)
+</table>**Parent Topic:**[Walk-up Experience reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-reference.md)
 

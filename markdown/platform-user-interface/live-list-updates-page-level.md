@@ -16,7 +16,7 @@ Configure live updates at the list page level without affecting other lists in y
 
 ## Before you begin
 
-To configure live updates for lists, you must enable the **glide.lists.live\_list\_enabled** system property. For information on enabling the system property, see [Enable live updates for lists](live-list-updates-configurable-workspace.md).
+To configure live updates for lists, you must enable the **glide.lists.live\_list\_enabled** system property. For information on enabling the system property, see [Enable live updates for lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/live-list-updates-configurable-workspace.md).
 
 Role required: admin
 

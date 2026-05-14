@@ -32,7 +32,7 @@ Consider the example of organizing a filing cabinet where pillars are drawers, e
 
 The Operational Resilience application organizes data in a multi-level hierarchy as shown in the example.
 
-![Data in a 4-level hierarchy.](../image/hierarchy-flow.png)
+![Data in a 4-level hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/hierarchy-flow.png)
 
 ## Key relationships between pillars, entity types, and entity filters
 
@@ -118,7 +118,7 @@ Activate Pillars -   Navigate to the Pillars module.
 
 </td><td>
 
-[Set up pillars and entity types from Workspace UI](../task/set-up-from-ws.md)
+[Set up pillars and entity types from Workspace UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/set-up-from-ws.md)
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Activate entity types -   Navigate to the Entity types module.
 
 </td><td>
 
-[Set up pillars and entity types from Workspace UI](../task/set-up-from-ws.md)
+[Set up pillars and entity types from Workspace UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/set-up-from-ws.md)
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Configure entity filters -   Within each entity type, configure filters.
 
 </td><td>
 
-[Configure the entity filters](../task/conf-ent-filter.md), [Activate the entity filters](../task/activate-ent-fil-directly.md), and [Verify the configuration of entity filters](../task/verify-ent-fil.md)
+[Configure the entity filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/conf-ent-filter.md), [Activate the entity filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/activate-ent-fil-directly.md), and [Verify the configuration of entity filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/verify-ent-fil.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Generate entities -   Run entity generation process. Entities are created automa
 
 </td><td>
 
-[Generate entities automatically using a scheduled job](../task/gen-ent-auto.md)
+[Generate entities automatically using a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/gen-ent-auto.md)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Configure Main node \(Post-setup\) -   Set up CMDB integration.
 
 </td><td>
 
-[Configure the Main node configurations](../task/set-up-main-node.md)
+[Configure the Main node configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/set-up-main-node.md)
 
 </td></tr></tbody>
 </table>

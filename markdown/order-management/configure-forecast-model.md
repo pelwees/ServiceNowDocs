@@ -190,7 +190,7 @@ Option to submit and adjust forecasts at base forecast source. **Note:** If you 
 
     4.  In the **Rollup Owner Criteria** field, use **Add Filter Condition** or **Add OR Clause** to refine the rollup owner selection.
 
-    5.  From the **Rollup Owner to Forecast Association** field, define how the rollup owner record is associated to the forecast record.![Roll Up Owner Configuration](../image/roll-up-owner-config-sf.png)
+    5.  From the **Rollup Owner to Forecast Association** field, define how the rollup owner record is associated to the forecast record.![Roll Up Owner Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/roll-up-owner-config-sf.png)
 
     6.  From the **Forecast to Rollup Owner Association** field, define how the forecast record is associated back to the rollup owner.
 

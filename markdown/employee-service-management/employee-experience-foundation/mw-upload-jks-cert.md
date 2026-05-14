@@ -35,7 +35,7 @@ Certificate authentication creates encrypted communication between your ServiceN
 
 2.  Search for **moveworks.jks** in the certificate list.
 
-    ![Moveworks JKS](../images/mw-jks-key.png "Moveworks JKS certificate")
+    ![Moveworks JKS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/mw-jks-key.png "Moveworks JKS certificate")
 
 3.  Open the certificate record and upload the certificate file.
 
@@ -43,7 +43,7 @@ Certificate authentication creates encrypted communication between your ServiceN
     2.  Upload your **moveworks.jks** file.
 4.  Enter the password in the **Key Store Password** field.
 
-    ![Validate Stores and certificates](../images/mw-jks-certificate.png "JKS password")
+    ![Validate Stores and certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/mw-jks-certificate.png "JKS password")
 
     **Note:** This password you receive from Moveworks team.
 
@@ -57,7 +57,7 @@ Certificate authentication creates encrypted communication between your ServiceN
 
     1.  In the Signing configuration field, verify if `Moveworks JWT Provider` is selected.
 
-    2.  Select the info icon \(![preview icon](../../wsd-reservation-management/image/info-icon.png)\).
+    2.  Select the info icon \(![preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../wsd-reservation-management/image/info-icon.png)\).
 
     3.  Select **Open Record** in the pop-up.
 
@@ -77,5 +77,5 @@ Proceed to add bot ID to complete the Moveworks AI assistant setup.
 **Related topics**  
 
 
-[Moveworks for Employee Center reference](../reference/mw-ec-integration-reference.md)
+[Moveworks for Employee Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/mw-ec-integration-reference.md)
 

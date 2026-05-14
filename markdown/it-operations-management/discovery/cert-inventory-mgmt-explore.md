@@ -25,9 +25,9 @@ The system facilitates real-time tracking, automates routine tasks such as renew
 
 Certificate Inventory and Management streamlines the process of scanning for certificates by automatically detecting them on specific ports through your established Configuration Item \(CI\)-based Discovery schedules. Additionally, Certificate Inventory and Management empowers users with the flexibility to generate new Discovery schedules tailored for scanning individual URLs. This dynamic approach ensures a robust and adaptable method for discovering and managing certificates, contributing to a secure and well-organized IT infrastructure.
 
-![Certificate Inventory and Management workflow.](../image/cert_mgmt_flow_v2.png "Process flow diagram")
+![Certificate Inventory and Management workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/cert_mgmt_flow_v2.png "Process flow diagram")
 
-For more information on how Certificate Inventory and Management works, see [Certificate Inventory and Management process flow](cert-inventory-mgmt-process.md).
+For more information on how Certificate Inventory and Management works, see [Certificate Inventory and Management process flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-process.md).
 
 ## Certificate Inventory and Management benefits
 
@@ -49,7 +49,7 @@ Management of TLS certificates by maintaining a centralized inventory, prioritiz
 
 </td><td>
 
-[Configuring Certificate Inventory and Management](cert-inventory-mgmt-config.md)
+[Configuring Certificate Inventory and Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-config.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Automated features to streamline tracking, preventing manual oversight of a larg
 
 </td><td>
 
-[Exploring ACME](../../it-operations-management/concept/exploring-acme.md)
+[Exploring ACME](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/concept/exploring-acme.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ A secure and compliant certificate environment is maintained by overseeing, appr
 
 </td><td>
 
-[Approve certificate tasks](../task/approve-cert-task.md)
+[Approve certificate tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/approve-cert-task.md)
 
 </td><td>
 

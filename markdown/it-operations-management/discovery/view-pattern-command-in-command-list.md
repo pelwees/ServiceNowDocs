@@ -43,17 +43,17 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 2.  Filter the command list according to your requirements.
 
-    For more information about the filtering options, see [Command List form for pattern-based discovery](../../it-operations-management/reference/commands-list-discovery.md).
+    For more information about the filtering options, see [Command List form for pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/reference/commands-list-discovery.md).
 
 
 **Related topics**  
 
 
-[View Patterns commands through the Discovery Patterns module](view-command-pattern-discovery.md)
+[View Patterns commands through the Discovery Patterns module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/view-command-pattern-discovery.md)
 
-[Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md)
+[Validate commands used in pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/task/validate-discovery-commands.md)
 
-[View command validation task results in pattern-based discovery](view-command-validation-task-results.md)
+[View command validation task results in pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/view-command-validation-task-results.md)
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/discovery-command-probe-pattern.md)
 

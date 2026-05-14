@@ -34,7 +34,7 @@ Role required:
 
 4.  Select the user or user group from the drop down list.
 
-    You can add multiple users to the escalation chain, all the users who has access are listed on the Details section of the form view and also under the **All** incidents tab. The escalation chain is displayed based on the configuration settings. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md)
+    You can add multiple users to the escalation chain, all the users who has access are listed on the Details section of the form view and also under the **All** incidents tab. The escalation chain is displayed based on the configuration settings. For more information, see [Configure advanced settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-advanced-settings-dlp.md)
 
 5.  Click **Submit**.
 
@@ -57,5 +57,5 @@ Role required:
 11. Click **Submit**.
 
 
-**Parent Topic:**[Create response due date rules](setup-response-due-date-rules.md)
+**Parent Topic:**[Create response due date rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/setup-response-due-date-rules.md)
 

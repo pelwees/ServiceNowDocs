@@ -21,7 +21,7 @@ To display the line number in the line detail view, follow the steps below. This
 
     -   Variable name: `txn.line.custom.rowNumber`
     -   Default value: `{{txn#rowNumber}}`
-    ![Row number](../images/cpq-txn-mgr-use-case-display-line-number-1.png)
+    ![Row number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-display-line-number-1.png)
 
 2.  Add the new field to your line detail layout to make it visible when viewing line items.
 
@@ -32,8 +32,8 @@ To display the line number in the line detail view, follow the steps below. This
 
     The line number appears in the line detail view, as in the following example:
 
-    ![Line detail screen](../images/cpq-txn-mgr-use-case-display-line-number-2.png)
+    ![Line detail screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-display-line-number-2.png)
 
 
-**Parent Topic:**[Transaction Manager: Use cases](transaction-manager-use-cases.md)
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 

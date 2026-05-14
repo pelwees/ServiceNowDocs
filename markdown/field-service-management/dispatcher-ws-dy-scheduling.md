@@ -36,5 +36,5 @@ System administrators enable double-booking by setting the **work.management.all
 **Related topics**  
 
 
-[Dynamic scheduling](dynamic-scheduling.md)
+[Dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/dynamic-scheduling.md)
 

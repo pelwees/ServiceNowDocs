@@ -34,12 +34,12 @@ Role required: sn\_communities.forum\_admin
 
 Configure the forum users and permissions as required.
 
-**Parent Topic:**[Create a forum permission](create-forum-permission.md)
+**Parent Topic:**[Create a forum permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md)
 
 **Related topics**  
 
 
-[Copy permissions from a forum](copy-permissions-from-another-forum.md)
+[Copy permissions from a forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-another-forum.md)
 
-[Debug user permissions](debug-user-permissions.md)
+[Debug user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/debug-user-permissions.md)
 

@@ -35,7 +35,7 @@ You can export compliance data to PDF reports for easy sharing with audit teams,
 
 5.  Open the compliance case or compliance request that you want to export as a PDF report.
 
-6.  Select the More actions ![More actions icon.](../../grc-workspace-audit/image/MoreActionsIcon.jpg) icon.
+6.  Select the More actions ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-workspace-audit/image/MoreActionsIcon.jpg) icon.
 
 7.  Select **Export PDF**.
 

@@ -17,7 +17,7 @@ Agent Client Collector enables the discovery and mapping of application services
 
 Using Agent Client Collector, you can deploy both top-down and machine learning-based Service Mapping and benefit from a simplified approach to mapping application services.
 
-For information on configuring Service Mapping to work with Agent Client Collector, see [Configure Agent Client Collector for use with Service Mapping](../task/configure-acc-for-service-mapping.md).
+For information on configuring Service Mapping to work with Agent Client Collector, see [Configure Agent Client Collector for use with Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/configure-acc-for-service-mapping.md).
 
-**Parent Topic:**[Choose the right method for discovery and mapping application services](choose-mapping-method.md)
+**Parent Topic:**[Choose the right method for discovery and mapping application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/choose-mapping-method.md)
 

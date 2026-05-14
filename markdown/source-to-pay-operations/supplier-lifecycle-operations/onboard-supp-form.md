@@ -24,32 +24,32 @@ Use the Onboard a Supplier form to provide details about the supplier that you w
 |Primary contact email|Email of the supplier primary contact.|
 |Primary contact title|Title of the supplier primary contact.|
 
-**Parent Topic:**[Supplier Lifecycle Operations reference](supp-mgmt-reference.md)
+**Parent Topic:**[Supplier Lifecycle Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Create New Supplier Case form](new-supplier-case.md)
+[Create New Supplier Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/new-supplier-case.md)
 
-[Create new task form](create-new-supplier-task-form.md)
+[Create new task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-task-form.md)
 
-[Add New Location form](supplier-location-form.md)
+[Add New Location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-location-form.md)
 
-[Update banking details form](update-supp-banking-form.md)
+[Update banking details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-banking-form.md)
 
-[Update profile details form](update-supp-profile-form.md)
+[Update profile details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-profile-form.md)
 
-[Create New Documents form](create-new-doc-form.md)
+[Create New Documents form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-doc-form.md)
 
-[Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
+[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-primary-data-tables.md)
 
-[Domain separation and Supplier Lifecycle Operations](../concept/supplier-domain-separation.md)
+[Domain separation and Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supplier-domain-separation.md)
 
-[Supplier Lifecycle Operations data model](slo-data-model.md)
+[Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-data-model.md)
 
-[Supplier Relationship and Performance Management reference](../concept/supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supplier-relationship-and-performance-management-reference.md)
 
-[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+[Supplier Payment Optimization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-payment-opt-ref.md)
 
-[Supplier Lifecycle Operations glossary](../concept/slo-glossary.md#)
+[Supplier Lifecycle Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/slo-glossary.md#)
 

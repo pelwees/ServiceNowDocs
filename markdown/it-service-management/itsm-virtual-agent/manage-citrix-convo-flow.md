@@ -25,11 +25,11 @@ Learn how the Citrix ITSM plug-in for ServiceNow can help your team easily deliv
 
 Virtual Agent can provision a Citrix desktop or an application directly from a conversation.​ The user selects the session type. When requesting a desktop, Virtual Agent asks for the OS and returns the requested item details.
 
-![Provision Citrix Desktop topic.](../image/CitrixProv2.png)
+![Provision Citrix Desktop topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/CitrixProv2.png)
 
 When requesting an application, Virtual Agent sends a link to the Service Portal, where the user can submit the request.
 
-![Provision Citrix application topic.](../image/CitrixProv3.png)
+![Provision Citrix application topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/CitrixProv3.png)
 
 Virtual Agent sends an actionable notification to the user to inform them once the desktop or application has been provisioned, or if the provisioning was unsuccessful.
 
@@ -39,13 +39,13 @@ This topic uses the Request Catalog Item [Service Catalog topic block](https://r
 
 Virtual Agent provides a list of possible sessions to reset, and the user can choose to reset an individual session or all sessions at once.
 
-![Reset Citrix Sessions topic.](../image/ResetCitrix1.png)
+![Reset Citrix Sessions topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/ResetCitrix1.png)
 
 If the user does not have any sessions available to reset, Virtual Agent can open an Incident on behalf of the user.
 
-![Reset Citrix Sessions topic with new incident.](../image/ResetCitrix3.png)
+![Reset Citrix Sessions topic with new incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/ResetCitrix3.png)
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

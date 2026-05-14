@@ -19,7 +19,7 @@ The Entity form in the workspace provides a complete view of an entity across yo
 
 The Entity form displays the details on the entity such as Compliance status, Risk status, and Tracking. The information about an entity is organized in different tabs such as Overview, Details, and Hierarchy as shown in the following example.
 
-![Entities overview page](../image/entities-overview-final.png "Overview tab on the Entity form")
+![Entities overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/entities-overview-final.png "Overview tab on the Entity form")
 
 The related lists on the Entity form display the dependencies that are related to the entities as explained in the following table:
 
@@ -214,10 +214,10 @@ Stakeholders with customizable roles relevant to single and composite entities, 
 </td></tr></tbody>
 </table>The 360° view displays an entire relationship view for the selected entity the upstream entities, downstream entities, entity class and entity type associated with the entity, and the relationships that the entity includes.
 
-![360 degree view of the entity](../image/360-degree-view-of-the-entity.png "360 degree view of the entity")
+![360 degree view of the entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/360-degree-view-of-the-entity.png "360 degree view of the entity")
 
--   **[Create an entity](../task/create-new-entity-ws.md)**  
+-   **[Create an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/create-new-entity-ws.md)**  
 Create an entity for your enterprise. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/concept/exploring-the-entities.md)
 

@@ -103,5 +103,5 @@ Text field
 Date and time when the script was last scanned for signature verification in the format: `DD/MM/YY/H:S (Day/Month/Year/Hour:Minute)`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)
+</table>**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 

@@ -60,5 +60,5 @@ GitLab
 20
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
+</table>**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 

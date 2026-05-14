@@ -17,7 +17,7 @@ The WorkflowScheduler script include provides a method to start a workflow.
 
 This code is executed in the business rule "Set workflow scheduler script" on the Workflow Schedule \[wf\_workflow\_schedule\] table.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## WorkflowScheduler - run\( \)
 

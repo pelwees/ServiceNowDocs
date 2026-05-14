@@ -40,5 +40,5 @@ Click the icon against **Calculated Risk Score** to find which type of success p
 
 Risk lookup supports domain separation. The **sn\_chg\_probability\_risk\_lookup** table is process separated when you install the domain separation plugin.
 
-**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 

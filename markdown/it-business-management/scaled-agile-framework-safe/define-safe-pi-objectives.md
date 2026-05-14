@@ -49,5 +49,5 @@ Create your business and technical goals in the form of PI objectives. Associate
 4.  Click **Submit**.
 
 
-**Parent Topic:**[SAFe PI objectives](../concept/safe-pi-objectives.md)
+**Parent Topic:**[SAFe PI objectives](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/safe-pi-objectives.md)
 

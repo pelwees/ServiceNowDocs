@@ -133,7 +133,7 @@ Discovery source
 
 </td><td>
 
-The Discovery source for the OT device data. For example, SG-OT Excel Import, if you imported the OT device from a Microsoft Excel spreadsheet using the Integration Hub ETL. To learn more, see [Service Graph Connector for Microsoft Excel](../concept/service-graph-connector-for-OT-excel.md).
+The Discovery source for the OT device data. For example, SG-OT Excel Import, if you imported the OT device from a Microsoft Excel spreadsheet using the Integration Hub ETL. To learn more, see [Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/service-graph-connector-for-OT-excel.md).
 
 </td></tr><tr><td>
 
@@ -211,9 +211,9 @@ Asset
 
 </td><td>
 
-When configuration items \(CIs\) are created in the Configuration Management Database \(CMDB\), asset records are created. The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](model-categories-for-ot.md). To view the model category for an OT device, complete the following:1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
+When configuration items \(CIs\) are created in the Configuration Management Database \(CMDB\), asset records are created. The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md). To view the model category for an OT device, complete the following:1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
 2.  Select the OT device that you want to view the asset record for.
-3.  Next to the **Asset** field, select the **Preview this record** \(![Preview this record icon](../image/preview-record-icon.png)\) icon.
+3.  Next to the **Asset** field, select the **Preview this record** \(![Preview this record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/preview-record-icon.png)\) icon.
 4.  Select **Open Record**.
 
 </td></tr><tr><td colspan="2">
@@ -232,5 +232,5 @@ Is Virtual
 If selected, indicates that the OT device is virtual.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[OT device related items and related lists](ot-assets-related-links-and-lists.md)
+</table>**Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md)
 

@@ -30,5 +30,5 @@ When an import is complete, an event is sent to indicate end-of-import actions. 
 -   The state of test results that are in active remediation tasks are updated.
 -   The flag indicating whether a result is part of an active remediation task is updated.
 
-**Parent Topic:**[Configuration Compliance imported data](vuln-config-compl-policies.md)
+**Parent Topic:**[Configuration Compliance imported data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-policies.md)
 

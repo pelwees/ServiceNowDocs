@@ -43,7 +43,7 @@ Configuring an app route enables you to utilize an existing page in a page colle
 
     You can also create a screen collection by selecting **New** on the UX Screen Collections pop-up window and entering the name, route, and screen collection.
 
-    ![Select a UX Screen Collections name or create a new one by selecting New.](../image/app-route-ux-screen-collection.png "UX Screen Collections pop-up window")
+    ![Select a UX Screen Collections name or create a new one by selecting New.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/app-route-ux-screen-collection.png "UX Screen Collections pop-up window")
 
 8.  Select **Submit** to create the app route.
 

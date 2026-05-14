@@ -36,7 +36,7 @@ The Device to Device Connections list shows fields from both the OT Device Netwo
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the **List** \(![List icon](../../../common/image/icon-list.png)\) icon.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
 
 3.  Under the **OT Network** module, select the **Device to Device Connections** list.
 
@@ -182,7 +182,7 @@ Source that's providing the connection information.
 
 ## Result
 
-To view a device-to-device connection for an OT device, you can access the Device to Device Connections related list in the OT device record. For more information about related items and related lists for OT devices, see [Edit or view OT devices after import or discovery](view-ot-assets.md).
+To view a device-to-device connection for an OT device, you can access the Device to Device Connections related list in the OT device record. For more information about related items and related lists for OT devices, see [Edit or view OT devices after import or discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/view-ot-assets.md).
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/ot-assets-related-links-and-lists.md)
 

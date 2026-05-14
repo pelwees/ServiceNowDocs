@@ -19,7 +19,7 @@ Each task represents work to be completed by a specific group as part of the ove
 
 Administrators create templates for tasks as part of defining an execution plan. The catalog tasks themselves are then created when the relevant item is requested, based on these task templates.
 
-**Parent Topic:**[Execution Plans](c_ExecutionPlans.md)
+**Parent Topic:**[Execution Plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ExecutionPlans.md)
 
 ## Set up an execution plan approval task
 
@@ -61,15 +61,15 @@ To set up an approval task including a rollback action:
 
     First, the request is ordered:
 
-    ![Screenshot for Rollback1](../image/Rollback1.png "Rollback 1")
+    ![Screenshot for Rollback1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Rollback1.png "Rollback 1")
 
     Next, complete the first two steps, which leads to the approval task.
 
-    ![Screenshot for Rollback2](../image/Rollback2.png "Rollback 2")
+    ![Screenshot for Rollback2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Rollback2.png "Rollback 2")
 
     Reject the request to roll back the execution plan to a previous task, and reset any intermediate tasks to pending:
 
-    ![Screenshot for Rollback3](../image/Rollback3.png "Rollback 3")
+    ![Screenshot for Rollback3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Rollback3.png "Rollback 3")
 
     After a plan has been rolled back, ServiceNow adds to the rolled-back task a note indicating that it was rolled back and why.
 
@@ -105,7 +105,7 @@ To create a group specifically for order fulfillment:
 
 When managing execution plans, catalog administrators can specify the delivery information to provide an estimated date of delivery based on the execution plan.
 
-Use the **Total delivery time** field to specify an estimated delivery time for each task in your execution plan. This estimate is calculated based on the combined total of times for the [tasks](c_CreatingExecutionPlanTasks.md#) in that execution plan.
+Use the **Total delivery time** field to specify an estimated delivery time for each task in your execution plan. This estimate is calculated based on the combined total of times for the [tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CreatingExecutionPlanTasks.md#) in that execution plan.
 
 By default, time estimates do not use a "working days" calendar system, but are based on simple elapsed time. For example, for a 5-day execution plan, if you submit the request on a Friday, the delivery date is Wednesday of the following week. This estimate means five elapsed days later, even if your organization does not work on weekends.
 

@@ -68,14 +68,14 @@ Date and time the virtual agent was most recently updated.
 </td></tr></tbody>
 </table>3.  To create a new virtual agent, select **Create new** to display the Now Assist for Virtual Agent Overview screen.
 
-    Follow the screens to create a new virtual agent. For more information, see [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md).
+    Follow the screens to create a new virtual agent. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../now-assist-in-va/task/configure-now-assist-va.md).
 
-4.  To edit an existing virtual agent, select the virtual agent's name or select the three vertical dots ![More actions icon.](../images/three-dots-icon.png) at the end of any field and select **Edit**.
+4.  To edit an existing virtual agent, select the virtual agent's name or select the three vertical dots ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../images/three-dots-icon.png) at the end of any field and select **Edit**.
 
-    If Virtual Agent is completely configured, the Now Assist for Virtual Agent Review screen displays. For more information, see [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md). If Virtual Agent is not completely configured, the last unfinished step in the Virtual Agent guided setup displays. For more information, see [Installing Conversational Interfaces components](../../conversational-interfaces/concept/ci-home-install-components.md).
+    If Virtual Agent is completely configured, the Now Assist for Virtual Agent Review screen displays. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../now-assist-in-va/task/configure-now-assist-va.md). If Virtual Agent is not completely configured, the last unfinished step in the Virtual Agent guided setup displays. For more information, see [Installing Conversational Interfaces components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../conversational-interfaces/concept/ci-home-install-components.md).
 
-5.  To turn an existing virtual agent on or off, select the three vertical dots ![More actions icon.](../images/three-dots-icon.png) at the end of any field and select **Turn on or off**.![Assistants screen in Now Assist.](../images/three-dots-edit.png)
+5.  To turn an existing virtual agent on or off, select the three vertical dots ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../images/three-dots-icon.png) at the end of any field and select **Turn on or off**.![Assistants screen in Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../images/three-dots-edit.png)
 
 
-**Parent Topic:**[General chat settings](../../conversational-interfaces/concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../conversational-interfaces/concept/ci-configuring-chat-features.md)
 

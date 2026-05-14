@@ -66,14 +66,14 @@ Work notes business rule
 All state flows with field controls or work notes are deleted
 
 </td></tr></tbody>
-</table>**Parent Topic:**[State flow customization](../concept/c_StateFlowCustomization.md)
+</table>**Parent Topic:**[State flow customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_StateFlowCustomization.md)
 
 **Related topics**  
 
 
-[State flow customization](../concept/c_StateFlowCustomization.md)
+[State flow customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_StateFlowCustomization.md)
 
-[Request states](../../planning-and-policy/reference/r_SMRequestStates.md)
+[Request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestStates.md)
 
-[Request task states](../../planning-and-policy/reference/r_SMRequestTaskStates.md)
+[Request task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestTaskStates.md)
 

@@ -85,7 +85,7 @@ Category
 -   Reassess engagement: Reassess an existing engagement when the conditions change. For example, let's say that you hear adverse news or have changes in your third-party's supply lines. You might want to reassess the risk by conducting additional due diligence.
 -   Reassess engagement for contract renewal: Reassess the risk before your organization renews the contract with a current third party or engagement by conducting due diligence.
 -   Offboard engagement with due diligence: Determine if offboarding \(terminating the relationship\) with an engagement is the optimal course of action by conducting due diligence. For example, it might be too risky to switch third parties or engagements even if their current performance doesn’t meet expectations.
--   Offboard engagement with NO due diligence: Request that an engagement be permanently terminated when an engagement ends or you want to switch to a different third party for other reasons. In this case, you typically don't need to conduct additional due diligence. The process does, however, include the normal Inherent Risk Questionnaire \(IRQ\) process to confirm that the services provided by the engagement will no longer continue. For important details, see [Offboarding an engagement without conducting due diligence](../concept/tprm-dd-request-offboard-no-dd.md).
+-   Offboard engagement with NO due diligence: Request that an engagement be permanently terminated when an engagement ends or you want to switch to a different third party for other reasons. In this case, you typically don't need to conduct additional due diligence. The process does, however, include the normal Inherent Risk Questionnaire \(IRQ\) process to confirm that the services provided by the engagement will no longer continue. For important details, see [Offboarding an engagement without conducting due diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-dd-request-offboard-no-dd.md).
 
 
 </td></tr><tr><td>
@@ -174,7 +174,7 @@ This field appears only if you select the **Recurring** run type.
 
     Use the filter editor to specify the conditions that determine which third parties or engagements should receive the questionnaires and doc requests.
 
-    ![Configuring the conditions that trigger an active rule.](../../grc-vendor-risk/image/tprm-emr-filter-conditions.png)
+    ![Configuring the conditions that trigger an active rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/image/tprm-emr-filter-conditions.png)
 
     When you select **Set**, the system applies the filter and displays a link to enable you to view the list of engagements or third parties that match the filter conditions.
 
@@ -278,5 +278,5 @@ Timestamp of the most recent run that is in the **Successful** state.
 **Related topics**  
 
 
-[View the run history for event-driven management rules](tprm-event-drvn-mgt-rule-history.md)
+[View the run history for event-driven management rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-history.md)
 

@@ -23,27 +23,27 @@ Introduction to incident management
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Incident Management concepts and features.](incident-management-process.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Incident Management concepts and features.](incident-management-process.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environment, tools, and user access.](incident-configuration.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environment, tools, and user access.](incident-configuration.md)
 
 </td><td>
 
-[Manage incidents![](../../../reuse/icons/brand-icons/bus-manage.svg)Learn about managing incidents that involves diagnosing, investigating and escalating or promoting the incident.](work-on-incidents.md)
+[Manage incidents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-manage.svg)Learn about managing incidents that involves diagnosing, investigating and escalating or promoting the incident.](work-on-incidents.md)
 
 </td></tr><tr><td>
 
-[Manage major incidents![](../../../reuse/icons/brand-icons/bus-manage.svg)Learn about managing major incidents that involves creating major incidents and working with major incident overview dashboard and workbench.](major-incident-management.md)
+[Manage major incidents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-manage.svg)Learn about managing major incidents that involves creating major incidents and working with major incident overview dashboard and workbench.](major-incident-management.md)
 
 </td><td>
 
-[Report![](../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg)Learn to use dashboards and reports to monitor and track incident status and service levels.](incident-monitor-track.md)
+[Report![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg)Learn to use dashboards and reports to monitor and track incident status and service levels.](incident-monitor-track.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Management components such as roles and dependent applications.](../reference/reference-section-for-incident-management.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Management components such as roles and dependent applications.](../reference/reference-section-for-incident-management.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Introduction to incident management
 
 </td><td>
 
-[Use agentic AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the ITSM Incident Management agentic workflow to manage, resolve and close incidents and incident tasks autonomously.](im-using-agentic-workflow.md)
+[Use agentic AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the ITSM Incident Management agentic workflow to manage, resolve and close incidents and incident tasks autonomously.](im-using-agentic-workflow.md)
 
 </td><td>
 

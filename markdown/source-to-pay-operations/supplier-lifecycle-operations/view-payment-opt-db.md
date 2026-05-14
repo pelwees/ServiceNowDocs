@@ -27,7 +27,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 2.  Select the **Payment optimization** icon ![](../image/pymt-opt-db-icon.png).
 
-    ![Payment optimization dashboard](../image/pymt-opt-db.png)
+    ![Payment optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/pymt-opt-db.png)
 
 
 ## Result
@@ -39,12 +39,12 @@ The Payment Optimization dashboard is displayed. It contains information on the 
 -   Average propensity score of the supplier-base for accepting credit card payments.
 -   Credit card insights including status of all the active credit card enablement cases and industry-wise potential credit card savings.
 
-**Parent Topic:**[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+**Parent Topic:**[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
 **Related topics**  
 
 
-[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
-[Estimate savings using the saving estimator tool](estimate-savings.md)
+[Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/estimate-savings.md)
 

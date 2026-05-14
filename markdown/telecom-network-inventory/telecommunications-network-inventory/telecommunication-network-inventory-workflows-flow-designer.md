@@ -72,11 +72,11 @@ Helper function
 -   Get Index From Array
 
 </td></tr></tbody>
-</table>To learn more about the network inventory functions, see [Telecommunications Network Inventory function catalog](tni-flow-action.md).
+</table>To learn more about the network inventory functions, see [Telecommunications Network Inventory function catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-flow-action.md).
 
 The following example shows the functions that are available in the Workflow Studio action library under the **Network Inventory Advanced** option. You can use these functions to perform the inventory-related data operations.
 
-![Infographic displaying all default options of Network Inventory Advanced.](../image/tni-flow-action-list.png "Network Inventory Function Catalog Location")
+![Infographic displaying all default options of Network Inventory Advanced.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/tni-flow-action-list.png "Network Inventory Function Catalog Location")
 
 You can also use these functions as Workflow Studio actions in the Telecommunications Network Inventory workflow because the Design and Assign is a series of actions. The reusable Workflow Studio actions can automate repetitive work, such as creating a logical connection in the workflow. To learn more about Workflow Studio actions, see [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
 
@@ -88,21 +88,21 @@ The Telecommunications Network Inventory application has the following subflows:
 
 -   **Logical Connection Creation**
 
-    Creates a logical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory. To learn more, see [Logical Connection Creation subflow](logical-connection-creation-subflow.md).
+    Creates a logical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory. To learn more, see [Logical Connection Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/logical-connection-creation-subflow.md).
 
 -   **Physical Connection Creation**
 
-    Creates a physical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory. To learn more, see [Physical Connection Creation subflow](physical-connection-creation-subflow.md).
+    Creates a physical connection record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory. To learn more, see [Physical Connection Creation subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/physical-connection-creation-subflow.md).
 
 
 The following example shows the subflows that are available in the Workflow Studio action library under the **Network Inventory Advanced** option. You can use these functions to perform the inventory-related data operations.
 
-![Infographic displaying all default options of network inventory subflows in the Flow Designer action library.](../image/tni-subflow.png "Network Inventory Subflow Location")
+![Infographic displaying all default options of network inventory subflows in the Flow Designer action library.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/tni-subflow.png "Network Inventory Subflow Location")
 
 **Related topics**  
 
 
-[Telecommunications Network Inventory function catalog](tni-flow-action.md)
+[Telecommunications Network Inventory function catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-flow-action.md)
 
-[Telecommunications Network Inventory subflows](subflow.md)
+[Telecommunications Network Inventory subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subflow.md)
 

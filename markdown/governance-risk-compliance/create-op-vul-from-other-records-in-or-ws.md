@@ -37,7 +37,7 @@ When a vulnerability is reported, it is opened in the **New** state, marking the
 
     If the state is in the **Assessment received** state, you cannot add a vulnerability at this stage as shown in the example. You can add or remove the vulnerability before the vulnerability is in the **Assessment received** state.
 
-    ![Assessment received state.](../image/assmt-in-asmt-recd-state.png)
+    ![Assessment received state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assmt-in-asmt-recd-state.png)
 
     You can create an Importance and impact tolerance assessment record and then add a vulnerability.
 
@@ -47,7 +47,7 @@ When a vulnerability is reported, it is opened in the **New** state, marking the
 
     The service record is shown in the example.
 
-    ![Service list.](../image/op-vul-service-list-in-assmt-record.png)
+    ![Service list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-service-list-in-assmt-record.png)
 
     When the service is added to the Importance and impact tolerance assessment record, you can add the operational vulnerability and the **New** button is displayed in the Operational vulnerabilities related list.
 
@@ -57,13 +57,13 @@ When a vulnerability is reported, it is opened in the **New** state, marking the
 
     The source of the vulnerability is the Importance and impact tolerance assessment. Therefore, the **Source** field on the form shows the source as Importance and impact assessment and the **Source table** field on the form shows the table as Importance and impact tolerance assessment.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-op-vul-form.md).
 
 8.  Select **Save**.
 
     The Vulnerability record is saved. When you associate the Importance and impact tolerance assessment to the vulnerability, the related area is created as shown in the example.
 
-    ![Related area.](../image/op-vul-related-area.png)
+    ![Related area.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-related-area.png)
 
     You can add another related area to the vulnerability.
 

@@ -15,7 +15,7 @@ Use a sample automation, which is a prebuilt automation, that shows how differen
 
 ## Before you begin
 
-Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 
 Role required: none
 
@@ -49,11 +49,11 @@ The sample automations are classified into **Beginner**, **Intermediate**, **Adv
 
         For example, the following image shows the ReadMe file for the sample automation on Oracle operations.
 
-        ![ReadMe file for sample automation in the project folder.](../image/sample-automation-readme-file.png "ReadMe file for sample automation")
+        ![ReadMe file for sample automation in the project folder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/sample-automation-readme-file.png "ReadMe file for sample automation")
 
 
--   **[Sample automations](../reference/sample-automations-rpa-studio.md)**  
+-   **[Sample automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/sample-automations-rpa-studio.md)**  
 The RPA Desktop Design Studio provides multiple sample automations that cater to different use cases.
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

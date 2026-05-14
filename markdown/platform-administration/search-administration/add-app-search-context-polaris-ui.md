@@ -19,7 +19,7 @@ Enable users to view results for their Unified Navigation searches in workspace 
 
 You must be using Next Experience UI.
 
-The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with AI Search specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](../../ai-search/task/create-search-app-config-ais.md).
+The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with AI Search specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../ai-search/task/create-search-app-config-ais.md).
 
 Role required: admin
 
@@ -52,7 +52,7 @@ You can add a workspace application, such as CSM/FSM Configurable Workspace, to 
         |Page|Use the Lookup using list icon ![](../../ai-search/image/icon-lookup-using-list.png) to select the UX Application record for your workspace.|
         |Name|Enter `globalSearchDataConfigId`.|
         |Type|Select **string**.|
-        |Value|Enter the search application configuration record sys\_id that you copied in step [1.c](add-app-search-context-polaris-ui.md#copy_srch_app_cfg_sys_id).|
+        |Value|Enter the search application configuration record sys\_id that you copied in step [1.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md#copy_srch_app_cfg_sys_id).|
 
     4.  Select **Submit**.
 
@@ -119,7 +119,7 @@ Enter the following JSON:```json
 }
 ```
 
- Replace the `globalSearchViewConfigId` value of `00000000000000000000000000000000` with the Workspace Global Search Configuration record sys\_id that you copied in step [3.c](add-app-search-context-polaris-ui.md#copy_ws_srch_config_sys_id). For example, if you selected the Workspace search settings record, replace the value with `97a574ea53c0130084acddeeff7b12a6`.
+ Replace the `globalSearchViewConfigId` value of `00000000000000000000000000000000` with the Workspace Global Search Configuration record sys\_id that you copied in step [3.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md#copy_ws_srch_config_sys_id). For example, if you selected the Workspace search settings record, replace the value with `97a574ea53c0130084acddeeff7b12a6`.
 
 </td></tr></tbody>
 </table>    4.  Select **Submit**.
@@ -192,28 +192,28 @@ Enter the following JSON:```json
 
 ## Result
 
-The chosen workspace appears as an option in the Unified Navigation search context menu for users who have it assigned. Users can switch to the workspace's search context. For more details on using the search context menu to switch application contexts, see [View and open search results using workspace applications in Next Experience Unified Navigation](../concept/global-search-polaris-ui.md#).
+The chosen workspace appears as an option in the Unified Navigation search context menu for users who have it assigned. Users can switch to the workspace's search context. For more details on using the search context menu to switch application contexts, see [View and open search results using workspace applications in Next Experience Unified Navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/global-search-polaris-ui.md#).
 
-**Parent Topic:**[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+**Parent Topic:**[Global search finds records from multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_GlobalTextSearch.md)
 
 **Related topics**  
 
 
-[Global search displays a page of matching results](../concept/global-search-polaris-ui.md#)
+[Global search displays a page of matching results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/global-search-polaris-ui.md#)
 
-[Text search views control format of global search results for tables](../concept/text-search-view-formats-results.md)
+[Text search views control format of global search results for tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/text-search-view-formats-results.md)
 
-[Search settings filter and group global search results by table](../concept/search-settings-filter-group-table.md#)
+[Search settings filter and group global search results by table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-settings-filter-group-table.md#)
 
-[Global search displays exact matching records](../concept/exact-matches-global-search.md#)
+[Global search displays exact matching records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/exact-matches-global-search.md#)
 
-[Global search displays your most recent search queries and results in Next Experience UI](../concept/global-search-recent-queries-results.md)
+[Global search displays your most recent search queries and results in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/global-search-recent-queries-results.md)
 
-[Set global text search properties](set-global-text-search-properties.md)
+[Set global text search properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/hide-result-counts-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_GlobalTextSearchSuggestions.md)
 

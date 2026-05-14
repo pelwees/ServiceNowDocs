@@ -33,13 +33,13 @@ To create new states for the compliance case, the admin must create a new state 
 
 4.  Fill in the fields on the form.
 
-    For a description of the field values on the Workflow state form, see [Workflow State form](../reference/workflow-state-form.md).
+    For a description of the field values on the Workflow state form, see [Workflow State form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/workflow-state-form.md).
 
 5.  Select **Submit**.
 
 
--   **[Workflow State form](../reference/workflow-state-form.md)**  
+-   **[Workflow State form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/workflow-state-form.md)**  
 Use the Workflow State form to define the workflow states in the GRC: Compliance Case Management application.
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../concept/configure-compliance-case-management.md)
 

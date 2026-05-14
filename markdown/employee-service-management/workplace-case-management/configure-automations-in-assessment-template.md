@@ -77,5 +77,5 @@ The automation is now active and will execute configured actions when the assess
 -   To edit automation, select the automation, and select ![](../../workplace-service-delivery/images/wsd_edit_threedots.png) and select**Edit details**.
 -   To delete automation, select the automation, and select ![](../../workplace-service-delivery/images/wsd_edit_threedots.png) and select **Delete automation**.
 
-**Parent Topic:**[Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
+**Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 

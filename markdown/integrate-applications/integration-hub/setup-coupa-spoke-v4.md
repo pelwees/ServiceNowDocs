@@ -42,11 +42,11 @@ Role required: admin
 
     **Note:** Don't click **Add Connection**.
 
-    ![Connection alias for Coupa OAuth](../image/coupa-con-config-template.png)
+    ![Connection alias for Coupa OAuth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/coupa-con-config-template.png)
 
 4.  Click **Edit** or if you are configuring the spoke for the first time, click **Configure**.
 
-    ![Coupa OAuth connection alias configuration](../image/coupa-conn-alias-config.png)
+    ![Coupa OAuth connection alias configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/coupa-conn-alias-config.png)
 
 5.  On the form, fill in the fields.
 

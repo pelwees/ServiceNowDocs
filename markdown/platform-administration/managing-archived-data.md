@@ -13,7 +13,7 @@ breadcrumb: [Archiving records in Core UI, Manage data growth in Core UI, Data M
 
 Change the schedule for an archive rule, stop the archive rule from running, or restore your archived data.
 
-**Parent Topic:**[Archiving records in Core UI](archiving-older-records.md)
+**Parent Topic:**[Archiving records in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md)
 
 ## Change an archive schedule in Core UI
 

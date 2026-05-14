@@ -23,7 +23,7 @@ In support, use Developer Sandboxes in tandem with Git source control to synchro
 
 Using source control, developers can work on independent branches and merge them according to your organization's best practices.
 
-![Sample Git-based version control flow chart](../image/dev-sbx-infographic-git.png "Example branching strategy with source control")
+![Sample Git-based version control flow chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../image/dev-sbx-infographic-git.png "Example branching strategy with source control")
 
 ## Git credentials
 

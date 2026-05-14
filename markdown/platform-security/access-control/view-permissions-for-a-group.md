@@ -82,11 +82,11 @@ Specify the UI page. For example, **incident.do**.
 
 4.  Click **Analyze permissions**.
 
-    ![View permission of the group for a UI page](../images/view-permissions-for-a-group.png)
+    ![View permission of the group for a UI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/view-permissions-for-a-group.png)
 
     Access Analyzer displays the **Access results** for the **Incident Management** group.
 
-    ![Permission results](../images/permissions-for-a-group.png)
+    ![Permission results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/permissions-for-a-group.png)
 
     The results can be read by referring to the Legends, access control list \(ACL\), IAccesshandler, and Data filters.
 

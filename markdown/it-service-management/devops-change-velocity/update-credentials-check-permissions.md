@@ -142,8 +142,8 @@ These tools don't check for permissions. To update credentials:1.  Click **Updat
 </table>    Permission checks are run on the new credentials. Once permissions check is completed, you can proceed with updating the credentials. If you want to abort the update, click **Cancel**.
 
 
--   **[Permissions required for DevOps tools](tool-req-permission.md)**  
+-   **[Permissions required for DevOps tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/tool-req-permission.md)**  
 Permissions required in your third-party tool to connect to DevOps Change Velocity.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/using-devops-change-velocity.md)
 

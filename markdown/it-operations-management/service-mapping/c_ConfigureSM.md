@@ -15,17 +15,17 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 Fine-tune Service Mapping collaboration with other components and modules as well as customize data display in service instance maps.
 
-In addition to the basic setup described in [Configuring Service Mapping](service-mapping-setup.md), you can perform optional configurations to meet the needs of your organization.
+In addition to the basic setup described in [Configuring Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-setup.md), you can perform optional configurations to meet the needs of your organization.
 
--   [Enable traffic-based discovery for CI types or specific CIs](../task/t_CreateATrafficBasedDiscoveryRule.md)
--   [Tag-based discovery configuration](tag_discovery_configuration.md)
--   [Configuration file tracking](../../discovery/concept/tracked-config-files.md)
--   [Fine-tune tracking changes for the change history](../task/exclude-changes-from-change-history.md)
--   [Data collection and discovery using Netflow](data-collection-netflow-mapping.md)
--   [Data collection and discovery using VPC Flow Logs](data-collection-vpc-mapping.md)
--   [Configure Search Assistant for Windows](../task/t_ConfigSearchAssistant4Windows.md)
--   [Modify display for CI attributes](../task/t_ConfigurePropertyDisplay.md)
--   [Configure support for Windows servers with non-English OS](../task/t_ConfigureSupport4nonEnglishCIs.md)
--   [Upload the rctrlx.exe file to MID Servers](../task/upload-rctrlx-file.md)
--   [Fine-tune Service Mapping with MID affinity and IP reuse](network-location-mid-affinity-td-discovery.md)
+-   [Enable traffic-based discovery for CI types or specific CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_CreateATrafficBasedDiscoveryRule.md)
+-   [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag_discovery_configuration.md)
+-   [Configuration file tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/concept/tracked-config-files.md)
+-   [Fine-tune tracking changes for the change history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/exclude-changes-from-change-history.md)
+-   [Data collection and discovery using Netflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-netflow-mapping.md)
+-   [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/data-collection-vpc-mapping.md)
+-   [Configure Search Assistant for Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_ConfigSearchAssistant4Windows.md)
+-   [Modify display for CI attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_ConfigurePropertyDisplay.md)
+-   [Configure support for Windows servers with non-English OS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_ConfigureSupport4nonEnglishCIs.md)
+-   [Upload the rctrlx.exe file to MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/upload-rctrlx-file.md)
+-   [Fine-tune Service Mapping with MID affinity and IP reuse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/network-location-mid-affinity-td-discovery.md)
 

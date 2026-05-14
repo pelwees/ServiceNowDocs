@@ -45,27 +45,27 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
     |**Didn't show up**|The visitor did not show up.|
     |**Cancel**|Cancel the visitor registration.|
 
-    For more information about different states and about allowed state changes on a visitor registration, see [Visitor registration states](../reference/visitor-registration-states.md).
+    For more information about different states and about allowed state changes on a visitor registration, see [Visitor registration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/visitor-registration-states.md).
 
 
 ## Result
 
 The status of the visitor registration is updated.
 
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Use the receptionist portal](use-receptionist-portal.md)
+[Use the receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/use-receptionist-portal.md)
 
-[View visitor registrations](view-visitor-registrations.md)
+[View visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-visitor-registrations.md)
 
-[View visitor policy confirmations](view-policy-confirmations.md)
+[View visitor policy confirmations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/visitor-registration-states.md)
 
-[Anonymize a visitor](anonymize-visitor.md)
+[Anonymize a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md)
 
-[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/apply-visitor-management-archival-rule.md)
 

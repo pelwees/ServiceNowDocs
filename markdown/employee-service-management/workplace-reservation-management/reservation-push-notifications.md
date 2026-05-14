@@ -82,22 +82,22 @@ As an employee, you will receive push notification for the following scenarios:
     Push notification is received that you are yet to check out the reservation even after the reservation time has started.
 
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/rsv-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Reservation Management](components-installed-with-wsd-reservation-mgmt.md)
+[Components installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/components-installed-with-wsd-reservation-mgmt.md)
 
-[Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
+[Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/workplace-reservation-management-field-descriptions.md)
 
-[Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
+[Proximity calculation when browsing near a person](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/reservation-logic-for-myfavorites-space-details.md)
 
-[Location privacy settings and impact](location-privacy-settings-and-impact.md)
+[Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/location-privacy-settings-and-impact.md)
 
-[Additional details record producer - Mapping Variable types and limitations](custom-fields-record-producer-mapping-variable-type-conditions.md)
+[Additional details record producer - Mapping Variable types and limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/custom-fields-record-producer-mapping-variable-type-conditions.md)
 

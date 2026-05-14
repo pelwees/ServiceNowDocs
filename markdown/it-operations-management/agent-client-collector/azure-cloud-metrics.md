@@ -17,7 +17,7 @@ Azure cloud metrics are gathered from Azure virtual machines \(VMs\) and Azure s
 
 ## Azure cloud metrics collection - Overview
 
-To begin collecting Azure cloud metrics, you must select the metrics that you want to add to the CMDB and set the relevant system configurations. For example, you can monitor the number of bytes sent and received from Azure resources. For details, see [Agent Client Collector for Visibility - Content reference](agent-client-collector-for-visibility-references.md).
+To begin collecting Azure cloud metrics, you must select the metrics that you want to add to the CMDB and set the relevant system configurations. For example, you can monitor the number of bytes sent and received from Azure resources. For details, see [Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md).
 
 ## Using Azure policies
 
@@ -51,9 +51,9 @@ When creating a policy, you must decide which CIs you want the policy to monitor
 3.  Generate a .json file that specifies the list of resources to be monitored.
 4.  Generate a .json file that specifies the list of metrics to be retrieved from monitored resources.
 
-For details on the Azure policies, see [Create Azure policies for metric collection](../task/create-policies-azure.md).
+For details on the Azure policies, see [Create Azure policies for metric collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/create-policies-azure.md).
 
 For details on the Azure Metrics Batch API, see the [Metrics Batch API](https://learn.microsoft.com/en-us/rest/api/monitor/metrics-batch/batch?view=rest-monitor-2023-05-01-preview&tabs=HTTP) page.
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](../reference/agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/agent-policies-checks.md)
 

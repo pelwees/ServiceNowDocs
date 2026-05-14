@@ -21,9 +21,9 @@ Role required: user
 
 After you add ServiceNow mobile apps to your mobile device, you must connect them to the web-based UI instance that you work with. To enable connectivity between the Now Mobile app and Mobile Agent® app, for example, for deep linking, you must add the same account to both apps.
 
-**Note:** For more information about working with multiple ServiceNow accounts within a mobile app, see [Working with multiple ServiceNow instances on a single mobile device](instance-multiple.md).
+**Note:** For more information about working with multiple ServiceNow accounts within a mobile app, see [Working with multiple ServiceNow instances on a single mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/instance-multiple.md).
 
-If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [Enterprise mobility management \(EMM\)](../concept/enterprise-mobility-management.md). If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
+If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [Enterprise mobility management \(EMM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/enterprise-mobility-management.md). If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ If you download the mobile app from an enterprise mobility management \(EMM\) su
 
     **Note:** An account is your ServiceNow environment — it includes your company's URL address \(aka instance\), a nickname, and your sign-in credentials.
 
-    ![The mobile instance log in screen.](../image/log-in-screen.png)
+    ![The mobile instance log in screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/log-in-screen.png)
 
 2.  In the instance address field, enter the instance address in one of two ways.
 
@@ -61,12 +61,12 @@ Type the instance address in the instance address field.
 
 </td><td>
 
-Tap the QR icon \(![Mobile QR scan code.](../image/mobile-qr-scan.png)\), and then scan the QR code given by your administrator.
+Tap the QR icon \(![Mobile QR scan code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-qr-scan.png)\), and then scan the QR code given by your administrator.
 
  The QR code automatically fills in the name of the instance.
 
 </td></tr></tbody>
-</table>    **Note:** For both the Now Mobile app and Mobile Agent app, there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md) and [Mobile Agent app demo](../concept/sg-agent-demo.md).
+</table>    **Note:** For both the Now Mobile app and Mobile Agent app, there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md) and [Mobile Agent app demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-agent-demo.md).
 
 3.   Enter a nickname for this instance to help you easily locate changes you make within the instance.
 
@@ -74,7 +74,7 @@ Tap the QR icon \(![Mobile QR scan code.](../image/mobile-qr-scan.png)\), and th
 
     The mobile app login screen displays.
 
-    ![Mobile app login screen.](../image/mobile-app-login.png)
+    ![Mobile app login screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-app-login.png)
 
 5.  Enter your **User name** and **Password** and then tap **Log in**.
 
@@ -84,5 +84,5 @@ Tap the QR icon \(![Mobile QR scan code.](../image/mobile-qr-scan.png)\), and th
 **Related topics**  
 
 
-[Mobile authentication](../concept/mobile-authentication.md)
+[Mobile authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-authentication.md)
 

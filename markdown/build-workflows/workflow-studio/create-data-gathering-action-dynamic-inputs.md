@@ -33,9 +33,9 @@ Role required: admin
 
     You may need to create one or more inputs to provide data for your dynamic inputs.
 
-    For example, create a String input to store a table name. See [Create a data gathering action to add dynamic inputs](getting-started-dynamic-input.md#) for instructions.
+    For example, create a String input to store a table name. See [Create a data gathering action to add dynamic inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/getting-started-dynamic-input.md#) for instructions.
 
-5.  In the Action Outline under the Inputs section, select the add a new step icon \(![Add a new step icon](../images/add-new-step-icon.png)\) and select the **Script** step.
+5.  In the Action Outline under the Inputs section, select the add a new step icon \(![Add a new step icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/add-new-step-icon.png)\) and select the **Script** step.
 
     1.  From Input Variables, select **Create Variable**, and create an input variable to store any action input values.
 
@@ -107,7 +107,7 @@ Role required: admin
 
         -   **Set the outputs object**
 
-            Set the outputs object to return the dynamic inputs as a JSON object. See [Create a data gathering action to add dynamic inputs](getting-started-dynamic-input.md#) for an example of creating an output for a Reference field type action input.
+            Set the outputs object to return the dynamic inputs as a JSON object. See [Create a data gathering action to add dynamic inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/getting-started-dynamic-input.md#) for an example of creating an output for a Reference field type action input.
 
     3.  From Output Variables, select **Create Variable**.
 
@@ -129,9 +129,9 @@ Role required: admin
 
     4.  Select **Exit Edit Mode**.
 
-    5.  Next to the **Value** field, select the data pill picker \(![Data pill picker](../images/data_pill_picker.png)\) and then select Script step output variable you created to store dynamic inputs.
+    5.  Next to the **Value** field, select the data pill picker \(![Data pill picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data_pill_picker.png)\) and then select Script step output variable you created to store dynamic inputs.
 
-7.  Click **Save** and [test the action](test-action.md).
+7.  Click **Save** and [test the action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/test-action.md).
 
     In the execution details, your data gathering action runs successfully if the runtime value for `output` contains the `data` property in the proper format.
 
@@ -140,18 +140,18 @@ Role required: admin
 
 ## Result
 
-You can now use your data gathering action to add arbitrary action inputs to a parent action.![Use your data gathering action to populate options for a dynamic template.](../images/create-data-gathering-action-dynamic-inputs-result.png)
+You can now use your data gathering action to add arbitrary action inputs to a parent action.![Use your data gathering action to populate options for a dynamic template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-data-gathering-action-dynamic-inputs-result.png)
 
-**Parent Topic:**[Dynamic inputs](../concept/dynamic-inputs.md)
+**Parent Topic:**[Dynamic inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/dynamic-inputs.md)
 
 **Related topics**  
 
 
-[Get started with dynamic inputs](getting-started-dynamic-input.md#)
+[Get started with dynamic inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/getting-started-dynamic-input.md#)
 
-[Create a data gathering action for a dynamic choice](create-data-gathering-action-dynamic-choice.md)
+[Create a data gathering action for a dynamic choice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-data-gathering-action-dynamic-choice.md)
 
-[Create a data gathering action for a dynamic template](create-data-gathering-action-dynamic-template.md)
+[Create a data gathering action for a dynamic template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-data-gathering-action-dynamic-template.md)
 
-[Dynamic input configuration options](../reference/dynamic-input-options.md)
+[Dynamic input configuration options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/dynamic-input-options.md)
 

@@ -25,13 +25,13 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Tap the incident record you want to work on.
 
 4.  Tap on **Caller**.
 
-    ![User details in ITSM Mobile Agent](../image/caller-incident-itsm-mobile.png)
+    ![User details in ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/caller-incident-itsm-mobile.png)
 
 5.  Do one of the following:
 
@@ -40,10 +40,10 @@ Role required: itil, itil\_admin, or admin
     |Initiate chat in Slack|Tap on the Slack contact.|
     |Initiate chat in Microsoft Teams|Tap on the Microsoft Teams contact.|
 
-    ![User details in ITSM Mobile Agent](../image/user-details-2-itsm-mobile.png)
+    ![User details in ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/user-details-2-itsm-mobile.png)
 
     **Note:** The Slack and the Microsoft Teams contacts display only if the caller has a valid Slack and Microsoft Teams accounts.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../concept/collaboration-incident-itsm-mobile.md)
 

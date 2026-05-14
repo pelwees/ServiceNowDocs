@@ -30,7 +30,7 @@ This view shows upcoming and expired renewals with the following conditions:
 -   Entitlements with only license types of Perpetual or Subscription.
 -   Entitlements without any associated contract.
 
-![Renewals calendar showing the upcoming and expired renewals.](../image/renewal-calendar.png "Renewals calendar view")
+![Renewals calendar showing the upcoming and expired renewals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/renewal-calendar.png "Renewals calendar view")
 
 The Renewals calendar lets you view:
 

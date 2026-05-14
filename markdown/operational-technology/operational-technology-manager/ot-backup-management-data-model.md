@@ -57,7 +57,7 @@ Use the OT Backup Job Execution History \[ot\_backup\_history\_and\_comparision\
 |Previous Version vs Backup Error|Comparison between the previous recorded version of the OT device and the version information available in the backup record that experienced an error during backup job execution.|
 |Previous Version vs Backup Warning|Comparison between the previous recorded version of the OT device and the version information available in the backup record that experienced a warning during backup job execution.|
 
-**Parent Topic:**[Operational Technology Manager reference](operational-technology-manager-reference.md)
+**Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
 **Related topics**  
 

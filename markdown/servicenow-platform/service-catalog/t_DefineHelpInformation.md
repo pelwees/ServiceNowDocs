@@ -41,15 +41,15 @@ Demonstrates these options to provide help text for service catalog item variabl
 
     **Note:** The **Help** and **Help text** fields do not support HTML tags.
 
-    ![screenshot for help text](../image/DefineHelpInfoG.png "Example of help information")
+    ![screenshot for help text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/DefineHelpInfoG.png "Example of help information")
 
 
-**Parent Topic:**[Create a service catalog variable](t_CreateAVariableForACatalogItem.md)
+**Parent Topic:**[Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
 
 **Related topics**  
 
 
-[Service Catalog variable attributes](../reference/variable-attributes.md)
+[Service Catalog variable attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/variable-attributes.md)
 
-[Define a question choice for a variable](define-question-choice-var.md)
+[Define a question choice for a variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/define-question-choice-var.md)
 

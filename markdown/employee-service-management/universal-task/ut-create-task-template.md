@@ -21,7 +21,7 @@ Role required: sn\_uni\_task.template\_admin
 
 ## About this task
 
-A task template can have static and dynamic mappings. In static mappings, the values of fields are individually specified and fixed. The following procedure is for creating a static template mapping. For information on dynamic templates, see [Create dynamic template mapping](ut-create-dynamic-tmplt-map.md).
+A task template can have static and dynamic mappings. In static mappings, the values of fields are individually specified and fixed. The following procedure is for creating a static template mapping. For information on dynamic templates, see [Create dynamic template mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-dynamic-tmplt-map.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ A task template can have static and dynamic mappings. In static mappings, the va
 
 2.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Universal Task template form](../reference/ut-task-template-form.md)
+    For more information on form fields and descriptions, see [Universal Task template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../reference/ut-task-template-form.md)
 
 3.  Select **Schedule** to create a scheduled job to create records based on this template.
 
@@ -38,5 +38,5 @@ A task template can have static and dynamic mappings. In static mappings, the va
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/ut-task-template-landing.md)
 

@@ -21,9 +21,9 @@ Role required: sn\_compliance.manager
 
 ## Procedure
 
-1.  When defining the [Policy Exception Integration Registry](enable-other-apps-to-request-policy-exceptions.md), click the lock icon on the **Policy categories** field.
+1.  When defining the [Policy Exception Integration Registry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/enable-other-apps-to-request-policy-exceptions.md), click the lock icon on the **Policy categories** field.
 
-    ![Policy category](../image/policy-cat.png)
+    ![Policy category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/policy-cat.png)
 
 2.  In the Policy categories form, click **New**.
 
@@ -54,5 +54,5 @@ When you click the search icon in the **Policy** field, only Policy 1, Policy 2,
 
 If none of your policies are tagged, all 5 appear. If you have only one policy tagged, that policy appears in the **Policy** field by default.
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/allow-other-app-policy-except.md)
 

@@ -23,23 +23,23 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Approval rules**.
 
-    ![Navigate to Approval rules](../image/apo-approval-rules.png)
+    ![Navigate to Approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-approval-rules.png)
 
 2.  Select **New**.
 
 3.  On the Approval Rule form, fill in the fields.
 
-    For a description of the field values, see [Approval Rule form](../reference/new-approval-rule-form.md).
+    For a description of the field values, see [Approval Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/new-approval-rule-form.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-You can also associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. For more information, see [Approval rule grouping and sequencing](../../sourcing-procurement-operations/reference/approval-rule-sequencing.md).
+You can also associate approval rules with approval groups and define the sequence to determine when these rules should be triggered. For more information, see [Approval rule grouping and sequencing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/reference/approval-rule-sequencing.md).
 
--   **[Approval rule types](../reference/invoice-approval-rule-types.md)**  
+-   **[Approval rule types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/invoice-approval-rule-types.md)**  
 Approval rule types determine how approvals are created and routed during the invoice approval process.
 
-**Parent Topic:**[Invoice approvals](../concept/invoice-approvals.md)
+**Parent Topic:**[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/invoice-approvals.md)
 

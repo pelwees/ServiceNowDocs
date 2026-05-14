@@ -25,7 +25,7 @@ Check that your instance is using an ADCv2 load balancer. For more information, 
 
 1.  Set up Certificate-based authentication in order to:
 
-    -   Allow end users to securely log in to the ServiceNow AI Platform or Service Portal using PIV or CAC cards. After certificate-based authentication is enabled, you can self-register the PEM certificate or an administrator can map the certificate for you. See [Log in using Certificate-based authentication](ui-login-mutual-auth.md#).
+    -   Allow end users to securely log in to the ServiceNow AI Platform or Service Portal using PIV or CAC cards. After certificate-based authentication is enabled, you can self-register the PEM certificate or an administrator can map the certificate for you. See [Log in using Certificate-based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#).
     -   Enable mutual authentication for inbound web services. Once Certificate-based authentication is set up, the system uses the provided certificates to mutually authenticate requests to access ServiceNow REST and SOAP APIs.
 
 ## Activate Certificate-based authentication
@@ -228,7 +228,7 @@ User
 
 </td><td>
 
-User who is mapped to the client certificate.The system receives the client certificate from either the inbound request or [certificate registration](ui-login-mutual-auth.md#), and then uses the user designated in this field to initiate a session to execute the request.
+User who is mapped to the client certificate.The system receives the client certificate from either the inbound request or [certificate registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#), and then uses the user designated in this field to initiate a session to execute the request.
 
 </td></tr><tr><td>
 

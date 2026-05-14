@@ -32,9 +32,9 @@ The dashboard is updated whenever a new reconciliation result is available. You 
 
 You can manage Adobe subscription information with Adobe I/O authentication integration.
 
-**Note:** The add-on Adobe publisher pack \(com.sn\_samp\_adobe\) [plugin](../task/t_RequSoftwareAssetMgmt.md) must be installed to view Adobe subscription reporting.
+**Note:** The add-on Adobe publisher pack \(com.sn\_samp\_adobe\) [plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/t_RequSoftwareAssetMgmt.md) must be installed to view Adobe subscription reporting.
 
-Only Adobe software products that are recognized as subscription software are shown. [Adobe integration](adobe-cloud-integration.md) must be set up to view compliance information.
+Only Adobe software products that are recognized as subscription software are shown. [Adobe integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-cloud-integration.md) must be set up to view compliance information.
 
 -   List of Active Subscriptions with no Active Adobe Software installs
 
@@ -49,5 +49,5 @@ Only Adobe software products that are recognized as subscription software are sh
     User Name \| Email ID \| Subscription Name \| Subscription Cost \| List of devices assigned to users \| List of Adobe suite of products \| Last Access Time
 
 
-**Parent Topic:**[Software Asset Management publisher pack for Adobe](adobe-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-publisher-pack.md)
 

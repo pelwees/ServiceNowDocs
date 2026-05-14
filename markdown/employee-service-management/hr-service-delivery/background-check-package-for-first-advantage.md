@@ -47,14 +47,14 @@ Role required: sn\_hr\_integrations.admin
 
 .
 
-**Parent Topic:**[Integrating with the First Advantage service](../concept/hr-integrations-with-first-advantage.md)
+**Parent Topic:**[Integrating with the First Advantage service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-integrations-with-first-advantage.md)
 
-**Previous topic:**[Verify integration for the First Advantage service](verify-base-inbound-integration-for-first-advantage.md)
+**Previous topic:**[Verify integration for the First Advantage service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/verify-base-inbound-integration-for-first-advantage.md)
 
-**Next topic:**[Integrating with the Accurate Background service](../concept/integrate-with-accurate-service.md)
+**Next topic:**[Integrating with the Accurate Background service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrate-with-accurate-service.md)
 
 **Related topics**  
 
 
-[Provide source credentials for the First Advantage service](hr-integrations-sources-first-advantage.md)
+[Provide source credentials for the First Advantage service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-sources-first-advantage.md)
 

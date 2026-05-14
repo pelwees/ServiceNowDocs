@@ -33,7 +33,7 @@ When you enable text indexing for a table's tags, Zing stores search data for th
 
 2.  In the Attributes related list, select **New**.
 
-3.  Select the Lookup using list icon \(![Lookup using list icon](../../../administer/ai-search/image/icon-lookup-using-list.png)\) to see all available attributes.
+3.  Select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/ai-search/image/icon-lookup-using-list.png)\) to see all available attributes.
 
 4.  Select the **Text Index Tags** attribute \(**text\_index\_tags**\).
 
@@ -57,5 +57,5 @@ After you turn on text indexing for tags on a table, records on the table are re
 -   When you modify a tag, as long as fewer than 100 records are affected. If there are more records, you must manually reindex.
 -   When you manually reindex an entire table \(required after initial tag indexing setup\).
 
-**Parent Topic:**[Tags](../concept/c_Tags.md)
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Tags.md)
 

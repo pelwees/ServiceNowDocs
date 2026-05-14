@@ -341,5 +341,5 @@ To direct a user to a record, use this syntax, where **new\_record** is the vari
 action.setRedirectURL (new_record );
 ```
 
-**Parent Topic:**[Defining UI actions](../concept/c_UIActions.md)
+**Parent Topic:**[Defining UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_UIActions.md)
 

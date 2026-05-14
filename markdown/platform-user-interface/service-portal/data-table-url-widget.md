@@ -15,7 +15,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Data Table from URL definition widget displays the table you select from the list. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Data Table list with Incident Fact Table selected](../image/WidgetDataTableURL.png "Data Table from URL definition widget")
+![Data Table list with Incident Fact Table selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetDataTableURL.png "Data Table from URL definition widget")
 
 **Note:** If you want this widget to be accessed by guest users, you must select the **Public** option in the widget record for both this widget and the Data Table widget.
 
@@ -37,20 +37,20 @@ Complete the instance options to define the table.
 
 If **Enable filter** is enabled in the instance options, users can add custom conditions to filter the results.
 
-![Condition builder has the following parameters: Priority = critical, Category = Network. The list shows only three times.](../image/WidgetDataTableFilter.png "Data Table URL with condition builder")
+![Condition builder has the following parameters: Priority = critical, Category = Network. The list shows only three times.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetDataTableFilter.png "Data Table URL with condition builder")
 
-For more information on using the condition builder, see [Create a filter in List](../../../use/using-lists/task/t_CreatingFilters.md).
+For more information on using the condition builder, see [Create a filter in List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../use/using-lists/task/t_CreatingFilters.md).
 
 **Note:** The condition builder is only available in the desktop view.
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

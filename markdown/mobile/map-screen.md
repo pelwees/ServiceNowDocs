@@ -19,7 +19,7 @@ Use a map screen when you need your users be aware of the locations related to t
 
 </td><td>
 
-![Map screen with points of interest.](../image/SGMapScreen.png "Map screen with points of interest")
+![Map screen with points of interest.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/SGMapScreen.png "Map screen with points of interest")
 
 </td></tr></tbody>
 </table>

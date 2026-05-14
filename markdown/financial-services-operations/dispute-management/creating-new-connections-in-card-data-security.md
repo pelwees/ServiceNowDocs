@@ -43,7 +43,7 @@ Tokenizer service
 
 </td></tr><tr><td>
 
-[Set up integration with the Third-Party System](../../fso-common/concept/fso-integrate-other-applications.md)
+[Set up integration with the Third-Party System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-common/concept/fso-integrate-other-applications.md)
 
 </td><td>
 
@@ -93,7 +93,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Create a REST message function](../task/set-up-a-rest-message-function.md)
+[Create a REST message function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/set-up-a-rest-message-function.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Add a mapping configuration record for each REST message function](manage-tokenizer-resource-configurations.md)
+[Add a mapping configuration record for each REST message function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-tokenizer-resource-configurations.md)
 
 </td><td>
 
@@ -128,5 +128,5 @@ In the Tokenizer Resource Configurations table, add an entry for each message fu
 ServiceNow
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing Card data security](managing-card-data-security.md)
+</table>**Parent Topic:**[Managing Card data security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-data-security.md)
 

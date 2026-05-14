@@ -29,7 +29,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 4.  In the **Add Item** field, enter the checklist item description.
 
-5.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+5.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 6.  Continue to add checklist items for the necessary actions to handle the request.
 

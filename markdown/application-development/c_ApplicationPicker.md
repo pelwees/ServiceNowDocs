@@ -17,11 +17,11 @@ The application picker is available in the Unified Navigation menu. Select the p
 
 When your application scope is set to a non-Global scope, the picker icon displays with a red ring\(![](../image/icon-scope-changed.png)\).
 
-![The application picker icon in the Unified Navigation menu.](../image/application-scope-picker-unif-nav.png "Application scope picker in Unified Navigation")
+![The application picker icon in the Unified Navigation menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/application-scope-picker-unif-nav.png "Application scope picker in Unified Navigation")
 
 ## Resources
 
 The application picker is part of the Next Experience picker. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).
 
-For more information about application scoping, see [Application scope](c_ApplicationScope.md).
+For more information about application scoping, see [Application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md).
 

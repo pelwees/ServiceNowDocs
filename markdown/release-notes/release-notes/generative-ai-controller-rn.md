@@ -104,5 +104,5 @@ Generative AI Controller uses Microsoft Azure OEM for Dynamic Translation in Now
     ServiceNow® Configurable Workspace is a graphical user interface that puts multiple tools on one page, including the tools that agents use to find, research, and resolve issues.
 
 
-**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/intelligent-experiences-rn-landing.md)
 

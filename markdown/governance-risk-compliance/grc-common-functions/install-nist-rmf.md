@@ -19,7 +19,7 @@ The NIST RMF Use Case Accelerator is used with the GRC core applications: Policy
 
 Role required: none.
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-cam/reference/grc-cam-landing-page.md).
 
 Complete the following setup checklist prior to installation. These setup tasks are required for a smooth installation.
 
@@ -41,7 +41,7 @@ Verify that the following applications have been installed:-   Policy and Compli
 
 To verify that these applications are activated, navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions your organization has purchased.
 
- For more information about the setup and activation of the Risk Management plugin, see [Install Risk Management](../../grc-risk/task/install-risk-store-app.md)
+ For more information about the setup and activation of the Risk Management plugin, see [Install Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-risk/task/install-risk-store-app.md)
 
 </td></tr><tr><td>
 
@@ -84,5 +84,5 @@ The System Admin \(admin\) assigns the following roles:
 5.  Click **Install**.
 
 
-**Parent Topic:**[NIST RMF Use Case Accelerator](../concept/grc-and-nistrmf-usecase-accelerator.md)
+**Parent Topic:**[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-and-nistrmf-usecase-accelerator.md)
 

@@ -25,7 +25,7 @@ The user with these roles must also be a manager of the assignment group that is
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
 
 3.  Click **Forecasts**.
 
@@ -122,5 +122,5 @@ The total is 34.
     -   The adjusted values will be used in the resource conversion formula and the demand forecast displayed on the calendar.
     -   Any other manual adjustment configurations that were created would be unpublished and moved to **Draft** state.
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](../concept/setup-demand-forecast-wfo-hr.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/setup-demand-forecast-wfo-hr.md)
 

@@ -33,14 +33,14 @@ The following items are installed with Digital Experience Score​:
 -   Store applications:
     -   Digital Experience Feedback Survey \(sn\_dex\_feedback\_sur\): This app is installed with Digital Experience Score​ and is used to send the surveys to employees to collect feedback on their digital experience.
 
-        For more information, see [Components installed with Digital Experience Feedback Survey](../reference/dexscr-installed-with-survey-feedback.md).
+        For more information, see [Components installed with Digital Experience Feedback Survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-installed-with-survey-feedback.md).
 
     -   Digital End-User Experience: The Digital End-User Experience \(DEX\) suite offers proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application &amp; Device Health, DEX Content Playbook, and Desktop Assistant, combined to provide unique benefits to diagnose and address any negative experiences.
 -   Roles
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Digital Experience Score​](../reference/dexscr-installed-with-dex-score.md).
+For more information, see [Components installed with Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-installed-with-dex-score.md).
 
 ## Procedure
 
@@ -63,14 +63,14 @@ For more information, see [Components installed with Digital Experience Score​
 
 ## What to do next
 
-Load the demo data for Digital Experience Score​. For more information, see [Load Digital Experience Score​ demo data](dexscr-load-demo-data.md).
+Load the demo data for Digital Experience Score​. For more information, see [Load Digital Experience Score​ demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-load-demo-data.md).
 
 Demo data comprises the sample records that describe application features for the common use cases. Load the demo data when you first install the application on a development or test instance.
 
--   **[Load Digital Experience Score​ demo data](dexscr-load-demo-data.md)**  
+-   **[Load Digital Experience Score​ demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-load-demo-data.md)**  
 Load the demo data for Digital Experience Score​ after installing the application.
--   **[Delete Digital Experience Score​ demo data](dexscr-delete-demo-data.md)**  
+-   **[Delete Digital Experience Score​ demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-delete-demo-data.md)**  
 Delete the demo data for Digital Experience Score​ when you no longer need it.
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-configuring-dex-score.md)
 

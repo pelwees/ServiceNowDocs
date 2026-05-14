@@ -40,5 +40,5 @@ Role required: admin.
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/configure-sccm-ihub.md)
 

@@ -13,8 +13,8 @@ breadcrumb: [Platform Analytics in the Now Assist panel, Now Assist in Platform 
 
 Information about the roles, tables, and scheduled jobs included with the data visualization generation and dashboard and visualization export skills.
 
--   **[Data visualization generation roles](../concept/analgen-roles-tables.md)**  
+-   **[Data visualization generation roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/analgen-roles-tables.md)**  
 Several types of components are installed with activation of the  plugin, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](analytics-assist-landing-page.md)
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/analytics-assist-landing-page.md)
 

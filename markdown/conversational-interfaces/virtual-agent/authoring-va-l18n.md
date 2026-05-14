@@ -39,9 +39,9 @@ The second example uses the `gs.getMessageLang` method. The text is the same as 
 
 **Note:** Language values use ISO standard two-character language codes. For more information, see [ISO 639.1 language codes](http://www.loc.gov/standards/iso639-2/php/code_list.php).
 
-![A translation record in the Message table displays the Key column, language, translated Message, and the date the record was updated.](../images/message-table-example.png "Example translation record in the Message table")
+![A translation record in the Message table displays the Key column, language, translated Message, and the date the record was updated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/message-table-example.png "Example translation record in the Message table")
 
 **Note:** Content is translated only for published topics. Content does not appear translated when previewing unpublished topics.
 
-**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 

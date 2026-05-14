@@ -87,12 +87,12 @@ To allow the connector to access your HubSpot source system via the HubSpot API,
 
 Provide the following items to your connector admin:
 
--   The client ID that you copied in step [3.b](configure-hubspot-external-content-indexing.md#copy-client-id-step).
--   The client secret that you copied in step [3.d](configure-hubspot-external-content-indexing.md#copy-client-secret-step).
+-   The client ID that you copied in step [3.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-hubspot-external-content-indexing.md#copy-client-id-step).
+-   The client secret that you copied in step [3.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-hubspot-external-content-indexing.md#copy-client-secret-step).
 
 Your connector admin needs these items to configure a HubSpot external content connector to retrieve tickets, notes, and security principals from your HubSpot source system.
 
-For details on creating and configuring a HubSpot external content connector, see [Create a HubSpot external content connector](create-ext-cont-connector-hubspot.md).
+For details on creating and configuring a HubSpot external content connector, see [Create a HubSpot external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-hubspot.md).
 
-**Parent Topic:**[HubSpot external content connector](../concept/hubspot-external-content-connector.md)
+**Parent Topic:**[HubSpot external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/hubspot-external-content-connector.md)
 

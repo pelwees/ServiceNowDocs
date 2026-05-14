@@ -43,7 +43,7 @@ Action
 
 1.  Select the **Impacted Controls** tab.
 
-**Note:** You can add a single control objective if your **Source type** is **Control objective**. However, if your **Source type** is **Controls**, then you can select multiple controls from different control objectives. For more information, see [Request a policy exception](request-policy-exception.md#source-type-policy-excep).
+**Note:** You can add a single control objective if your **Source type** is **Control objective**. However, if your **Source type** is **Controls**, then you can select multiple controls from different control objectives. For more information, see [Request a policy exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-exception.md#source-type-policy-excep).
 
 2.  Select the **Add** or **Add All** buttonto add the manually created controls.
 3.  Choose the controls to associate to the policy exception.
@@ -165,5 +165,5 @@ Click **Request Business Owner Approval** .
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/manage-policy-exceptions.md)
 

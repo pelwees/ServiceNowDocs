@@ -56,7 +56,7 @@ Role required: admin
 **Related topics**  
 
 
-[AI driven supplier onboarding using Now Assist for SLO](../concept/supplier-onboarding-agentic-workflow.md)
+[AI driven supplier onboarding using Now Assist for SLO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supplier-onboarding-agentic-workflow.md)
 
-[Supplier document strategy generator AI agent](../concept/supplier-document-strategy-generator-ai-agent.md)
+[Supplier document strategy generator AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supplier-document-strategy-generator-ai-agent.md)
 

@@ -77,12 +77,12 @@ To allow the connector to access your Docusign source system via the eSignature 
 
 Provide the following items to your connector admin:
 
--   The integration key for your Docusign app that you copied in step [2.b](configure-docusign-external-content-indexing.md#copy-integration-key-step).
--   The secret key for your Docusign app that you copied in step [3.b](configure-docusign-external-content-indexing.md#copy-secret-key-step).
+-   The integration key for your Docusign app that you copied in step [2.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-docusign-external-content-indexing.md#copy-integration-key-step).
+-   The secret key for your Docusign app that you copied in step [3.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-docusign-external-content-indexing.md#copy-secret-key-step).
 
 Your connector admin needs these items to configure a Docusign external content connector to retrieve envelopes and security principals from your Docusign source system.
 
-For details on creating and configuring a Docusign external content connector, see [Create a Docusign external content connector](create-ext-cont-connector-docusign.md).
+For details on creating and configuring a Docusign external content connector, see [Create a Docusign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-docusign.md).
 
-**Parent Topic:**[Docusign external content connector](../concept/docusign-external-content-connector.md)
+**Parent Topic:**[Docusign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/docusign-external-content-connector.md)
 

@@ -48,24 +48,24 @@ You can compare versions for these related records directly from your portal pag
     |Blue|New widget|
     |Red|Customized widget|
 
-4.  On a widget, click the information icon \(![Information icon](../image/info-icon.png)\).
+4.  On a widget, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/info-icon.png)\).
 
     Related records that you modified or developed are outlined in red.
 
-    ![Related records outlined in red](../image/outlined-in-red.png)
+    ![Related records outlined in red](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/outlined-in-red.png)
 
 5.  Next to a Angular Provider or ng-template record, click **Compare**.
 
     The system displays the records of the current and previous versions side by side.
 
-    ![Comparison between current and previous versions of a related record](../image/compare-related-record.png)
+    ![Comparison between current and previous versions of a related record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/compare-related-record.png)
 
     Although both sides are labeled **Version**, the left-side record represents the previous version and the right-side record represents the current version.
 
-6.  For each field in which it appears, click the window icon \(![Window icon](../image/pop-out-icon.png)\) to open the code comparator.
+6.  For each field in which it appears, click the window icon \(![Window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/pop-out-icon.png)\) to open the code comparator.
 
     Your most recent changes to the widget code are highlighted in the code comparator.
 
-    ![Code comparator](../image/code-comparator.png)
+    ![Code comparator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/code-comparator.png)
 
 

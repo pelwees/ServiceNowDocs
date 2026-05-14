@@ -60,5 +60,5 @@ As you continue building your custom integration, use the spoke to save the foll
 
 If you’re publishing your custom spoke application on the ServiceNow Store, also use the spoke to save your subflows.
 
-Create a custom integration profile to track software subscriptions and optimize stale licenses for any SaaS application. For more information, see [Create a custom integration profile](create-integration-custom.md).
+Create a custom integration profile to track software subscriptions and optimize stale licenses for any SaaS application. For more information, see [Create a custom integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md).
 

@@ -47,5 +47,5 @@ if\(taskJSON.change\_map &amp;&amp; taskJSON.change\_map.state\)\{
     
 ```
 
-**Parent Topic:**[Integration with Project Portfolio Management](project-management-integration.md)
+**Parent Topic:**[Integration with Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/project-management-integration.md)
 

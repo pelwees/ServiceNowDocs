@@ -27,7 +27,7 @@ Populate the event fields to capture details such as the event time, description
 |Message Key|Unique identifier for the event message.|
 |Error Message|Provides additional information about any errors associated with the event.|
 
-To return to the procedure, see [Review integration and configuration health](../task/review-integration-config-health.md).
+To return to the procedure, see [Review integration and configuration health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/review-integration-config-health.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/sow-reference-itom.md)
 

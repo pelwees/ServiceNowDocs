@@ -21,7 +21,7 @@ The \[AppSec\] Daily Data Management job is a regularly scheduled job that runs 
 
         **Note:** To learn more about updating the assigned user when running scheduled jobs, see [Create or schedule a data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreatASchedDataCollJob.md).
 
-2.  Executes business logic to set the compliance state for the security properties you configure in the Hardening Compliance Configuration page. To learn more, see [Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md).
+2.  Executes business logic to set the compliance state for the security properties you configure in the Hardening Compliance Configuration page. To learn more, see [Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md).
 3.  Runs the \[PA AppSec\] Daily Data Collection performance analytics job to collect compliance data and update the Daily Compliance Score.
 
 ## Manually refreshing the Daily Compliance Score
@@ -36,5 +36,5 @@ Alternately, if you have an assigned admin role, you can refresh and recalculate
 
 **Note:** When you perform an upgrade \(for example, from London to Australia\), the Instance Security Center \(ISC\) plugin is automatically activated. A supplied fix script automatically assigns a custom user without any assigned roles.
 
-**Parent Topic:**[Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
+**Parent Topic:**[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md)
 

@@ -26,11 +26,11 @@ Besides the Base and Primary roles \(that are based on the Base roles\), there a
 For more information about reviewing and updating user role assignments, see:
 
 -   [KB0829930](https://support.servicenow.com/kb_view.do?sysparm_article=KB0829930)
--   [Fix external user role assignments](../concept/fixing-external-role-assignment.md)
+-   [Fix external user role assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/fixing-external-role-assignment.md)
 
-To learn more about managing Customer Service Management roles, see [Components installed with CSM workspaces](installed-with-cust-serv-workspace.md) and [Components installed with additional plugins for Customer Service Management](inst-wi-cust-serv-addtl-plugins.md).
+To learn more about managing Customer Service Management roles, see [Components installed with CSM workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/installed-with-cust-serv-workspace.md) and [Components installed with additional plugins for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/inst-wi-cust-serv-addtl-plugins.md).
 
-**Parent Topic:**[Customer Service Management](../concept/c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/c_CustomerServiceManagement.md)
 
 ## Service management agent \[sn\_esm\_agent\]
 
@@ -54,7 +54,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management partner \[sn\_esm\_partner\]
 
@@ -74,7 +74,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management user admin \[sn\_esm\_user\_admin\]
 
@@ -94,7 +94,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management admin \[sn\_esm\_admin\]
 
@@ -114,7 +114,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management user \[sn\_esm\_user\]
 
@@ -135,7 +135,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management partner admin \[sn\_esm\_partner\_admin\]
 
@@ -156,7 +156,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Role for REST APIs related to CSM web services \[csm\_ws\_integration\]
 
@@ -176,7 +176,7 @@ All users.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer service agent \[sn\_customerservice\_agent\]
 
@@ -208,7 +208,7 @@ Customer service agents.
 
 **Note:** A customer service agent typically supports a specific set of products across one or more communication channels. An agent can belong to one or more agent groups.
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer service manager \[sn\_customerservice\_manager\]
 
@@ -253,7 +253,7 @@ Customer service managers, and Customer service agents with the additional respo
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Consumer service agent \[sn\_customerservice.consumer\_agent\]
 
@@ -279,7 +279,7 @@ All consumer service agents.
 
 **Note:** A consumer service agent typically supports a specific set of products across one or more communication channels. An agent can belong to one or more agent groups.
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer \[sn\_customerservice.customer\]
 
@@ -300,7 +300,7 @@ All users with customer roles and access to a list of assets belonging to their 
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer administrator \[sn\_customerservice.customer\_admin\]
 
@@ -321,7 +321,7 @@ All users with an administrator role for a customer account.
 
 ### Special considerations
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer case manager \[sn\_customerservice.customer\_case\_manager\]
 
@@ -349,7 +349,7 @@ The customer case manager role includes the privileges of the customer role and 
 
 **Note:** The customer case manager role is not automatically added to the sn\_customerservice.contact\_role\_assignment system property. To expose this role to customer and partner administrators, navigate to **Customer Service** &gt; **Administration** &gt; **Properties** and add it to this property.
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Partner \[sn\_customerservice.partner\]
 
@@ -377,7 +377,7 @@ A partner can view and edit all of the cases they have created:
 
 **Note:** If you are establishing a new relationship between a partner and a customer, the partner or partner admin does not have access to historic cases created for the customer. This is because the historic cases do not have the Partner or Partner Contact fields populated on the Case form.
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Partner administrator \[sn\_customerservice.partner\_admin\]
 
@@ -406,7 +406,7 @@ The partner administrator can do the following:
 -   Manage users for the partner account and for customer accounts.
 -   View all of the cases created by a partner.
 
-For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Consumer \[sn\_customerservice.consumersn\_customerservice.consumer\]
 
@@ -427,7 +427,7 @@ All users with the assigned Consumer role.
 
 ### Special considerations
 
-Consumers can create cases and view and edit existing cases for products that they have purchased. They can also view a list of their products. For more information see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
+Consumers can create cases and view and edit existing cases for products that they have purchased. They can also view a list of their products. For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Customer Service Case Admin  \[sn\_customerservice.case\_admin​\]
 

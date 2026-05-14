@@ -66,7 +66,7 @@ Search Suggestions generates auto-complete suggestions and search suggestions fr
         |Active|Option to remove the excluded word or regular expression pattern from suggestions.|
         |Type|Option that specifies whether the **Phrase** field represents one word or a regular expression pattern.|
 
-        **Note:** If you use regular expression patterns, you should verify that they exclude the words you want. For more information, see [Test regular expression patterns in Search Suggestion Exclusion List Rule entries](test-regular-expressions.md).
+        **Note:** If you use regular expression patterns, you should verify that they exclude the words you want. For more information, see [Test regular expression patterns in Search Suggestion Exclusion List Rule entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/test-regular-expressions.md).
 
 4.  To assign someone a role that prevents them from seeing auto-complete suggestions and search suggestions, or to prevent their search strings from becoming suggestions:
 

@@ -21,15 +21,15 @@ Time configuration includes the scheduling of events and tracking of time. There
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../reuse/icons/brand-icons/bus-explore.svg)Learn about time configuration concepts and features.](exploring-time-configuration.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reuse/icons/brand-icons/bus-explore.svg)Learn about time configuration concepts and features.](exploring-time-configuration.md)
 
 </td><td>
 
-[Use![](../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Discover how to use various time configuration options.](using-time-configuration.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Discover how to use various time configuration options.](using-time-configuration.md)
 
 </td><td>
 
-[References ![](../../reuse/icons/brand-icons/bus-datasheet.svg)Find useful time configuration reference materials and information.](reference-time-configuration.md)
+[References ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reuse/icons/brand-icons/bus-datasheet.svg)Find useful time configuration reference materials and information.](reference-time-configuration.md)
 
 </td></tr></tbody>
 </table>

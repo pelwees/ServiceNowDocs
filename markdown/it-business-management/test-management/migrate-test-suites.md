@@ -31,5 +31,5 @@ Convert test suites in Test Management 1.0 to test sets in Test Management 2.0. 
 
 ## What to do next
 
-After converting test suites, verify that the migrated test sets and tests appear correctly in Test Management 2.0 before performing the migration on a production instance. For more information about verifying migrated data, see [Migration from Test Management 1.0 to Test Management 2.0](migrate-test.md).
+After converting test suites, verify that the migrated test sets and tests appear correctly in Test Management 2.0 before performing the migration on a production instance. For more information about verifying migrated data, see [Migration from Test Management 1.0 to Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test.md).
 

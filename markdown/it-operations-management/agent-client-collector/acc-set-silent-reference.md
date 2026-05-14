@@ -76,5 +76,5 @@ Indicates the frequency, in seconds, that the agent monitor runs to check if the
 The percentage of the agent's CPU usage when the agent is running proxy checks too frequently, that sends the agent into CPU protection mode.Default=80
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

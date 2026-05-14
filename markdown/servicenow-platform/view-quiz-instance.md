@@ -120,7 +120,7 @@ All instance question records that store user response values for each question 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/using-quizzes.md)
 
 **Related topics**  
 

@@ -18,7 +18,7 @@ Install the ITOM plugin in the ServiceNow® Now Assist feature.
 
 ## Before you begin
 
-Install the AIOps Experience \[sn\_sow\_aiops\] application from the ServiceNow Store. See [Install Service Operations Workspace for ITOM application](../../service-operations-workspace-itom/task/install-sow-itom-apps.md) for more information.
+Install the AIOps Experience \[sn\_sow\_aiops\] application from the ServiceNow Store. See [Install Service Operations Workspace for ITOM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/task/install-sow-itom-apps.md) for more information.
 
 Role required: admin
 
@@ -43,10 +43,10 @@ Install Now Assist plugins to enable generative AI and agentic AI on your instan
     3.  Select **Install**.
 
 
-**Parent Topic:**[Configure Now Assist for ITOM](../concept/now-assist-itom-configure.md)
+**Parent Topic:**[Configure Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-configure.md)
 
 **Related topics**  
 
 
-[View an alert analysis by Now Assist in Express List](alert-summary-now-assist-express-list.md)
+[View an alert analysis by Now Assist in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summary-now-assist-express-list.md)
 

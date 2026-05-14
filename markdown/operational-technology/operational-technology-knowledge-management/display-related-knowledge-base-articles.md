@@ -39,8 +39,8 @@ Role required: sn\_ot\_incident\_read
 
 8.  To flag the knowledge article, select **Flag** in the Agent Assist window.
 
-9.  To mark the knowledge article as helpful, select the **More actions** button ![More actions button.](../image/more-actions-vertical.png) and choose **Helpful**.
+9.  To mark the knowledge article as helpful, select the **More actions** button ![More actions button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../image/more-actions-vertical.png) and choose **Helpful**.
 
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../concept/using-operational-technology-knowledge-management.md)
 

@@ -21,11 +21,11 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If you have not installed the Microsoft Graph Security API application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the Microsoft Graph Security API application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Microsoft Graph Security API - Alert Ingestion tile.
 
-    ![Microsoft Graph Security API: configure](../image/ms-graph-config-tile.png)
+    ![Microsoft Graph Security API: configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-config-tile.png)
 
 3.  To configure the application, select **Configure**.
 
@@ -61,7 +61,7 @@ The Microsoft Azure Tenant ID. This is the instance from which all the alerts in
 
 </td><td>
 
-The Client ID for the application that you have registered in the Microsoft Azure portal. See [Configure the Microsoft Azure portal](ms-graph-configure-azure.md) for details.
+The Client ID for the application that you have registered in the Microsoft Azure portal. See [Configure the Microsoft Azure portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-graph-configure-azure.md) for details.
 
 </td></tr><tr><td id="d66213e202">
 

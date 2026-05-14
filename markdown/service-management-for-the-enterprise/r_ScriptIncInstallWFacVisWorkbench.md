@@ -24,5 +24,5 @@ Facilities visualization workbench adds the following script includes.
 |FacilitiesMapFilterUtils|Utility for map filtering capabilities|
 |FacilitiesConstants|List of constants used in Facilities Management and Facilities Visualization Workbench|
 
-**Parent Topic:**[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)
+**Parent Topic:**[Installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacVisWorkbench.md)
 

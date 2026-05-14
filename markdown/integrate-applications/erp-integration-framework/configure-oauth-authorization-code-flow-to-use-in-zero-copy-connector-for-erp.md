@@ -51,7 +51,7 @@ Consult with your SAP administrator:
 
     6.  Unlock the **Authorization URL** and **Token URL** fields to enter the URLs.
 
-        ![Application registry form with fields containing information.](../image/erp-oauth-usage-flow1.png)
+        ![Application registry form with fields containing information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-oauth-usage-flow1.png)
 
     7.  Select the **OAuth Entity Scopes** tab.
 
@@ -59,7 +59,7 @@ Consult with your SAP administrator:
 
         You can add multiple scopes.
 
-        ![OAuth entity scopes tab on the application registry form.](../image/erp-oauth-usage-flow2.png)
+        ![OAuth entity scopes tab on the application registry form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-oauth-usage-flow2.png)
 
     9.  Select **Submit**.
 
@@ -77,9 +77,9 @@ Consult with your SAP administrator:
 
     5.  In **Integration type**, select **Personal**.
 
-        In most cases, it is acceptable to use system-based credentials. However, if you are trying to obtain information from SAP, such as who changed information or details about approval activities, use the personal integration type. For more information, see [Using the Personal Authentication dashboard](../../../administer/integrationhub/concept/personal-auth-dashboard.md).
+        In most cases, it is acceptable to use system-based credentials. However, if you are trying to obtain information from SAP, such as who changed information or details about approval activities, use the personal integration type. For more information, see [Using the Personal Authentication dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../administer/integrationhub/concept/personal-auth-dashboard.md).
 
-        ![Oauth 2.0 credentials form with fields containing information.](../image/erp-oauth-usage-flow3.png)
+        ![Oauth 2.0 credentials form with fields containing information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-oauth-usage-flow3.png)
 
     6.  Select **Submit**.
 
@@ -100,5 +100,5 @@ Consult with your SAP administrator:
     6.  Select **Submit**.
 
 
-**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md)
+**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-use-odata-and-http-connection.md)
 

@@ -54,5 +54,5 @@ ICW Core is automatically installed when you install Industrial Connected Workfo
     Delivers ICW capabilities to frontline workers through a mobile‑first interface. Mobile apps rely on ICW Core for data integrity, user profiles, work assignments, and task execution records.
 
 
-**Parent Topic:**[Industrial Connected Workforce release notes](industrial-connected-workforce-rn-landing.md)
+**Parent Topic:**[Industrial Connected Workforce release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/industrial-connected-workforce-rn-landing.md)
 

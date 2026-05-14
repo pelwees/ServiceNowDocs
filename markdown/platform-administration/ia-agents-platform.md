@@ -70,5 +70,5 @@ SSO Configuration Agent
 Automates Single Sign-On setup \(OIDC and SAML\) in ServiceNow using identity provider configuration data. Supports Q&amp;A and troubleshooting throughout the setup process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist for Setup references](ia-reference.md)
+</table>**Parent Topic:**[Now Assist for Setup references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 

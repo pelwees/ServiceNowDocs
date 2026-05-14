@@ -20,5 +20,5 @@ Modify the following access control rule:
 -   **Table**: Live Group Profile \[live\_group\_profile\]
 -   **Operation**: create
 
-**Parent Topic:**[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
+**Parent Topic:**[Live Feed security and table access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedTableAccessRules.md)
 

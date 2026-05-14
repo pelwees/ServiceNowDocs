@@ -385,29 +385,29 @@ nic \[Reference cmdb\_ci\_network\_adapter\]
 </td></tr></tbody>
 </table>The **Cloudian**probe is created in the **Unix-Classify** Multiprobe. The **Cloudian** probe runs the **/bin/systemctl status cloudian-s3** command and checks that the output contains **Cloudian HyperStore Storage System**.
 
-![Cloudian Probe.](../image/cloudian-probe.png "Cloudian Probe")
+![Cloudian Probe.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cloudian-probe.png "Cloudian Probe")
 
 In Unix classification, the **Cloudian Server** classifier runs before the **Linux Classifier**. The Cloudian classifier creates records in the \[cmdb\_ci\_storage\_server\] table. This classifier invokes the Cloudian Storage System Pattern.
 
 Classification Criteria
 
-![Classification Criteria.](../image/classification_criteria.png "Classification Criteria")
+![Classification Criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/classification_criteria.png "Classification Criteria")
 
 ## CMDB Data Model
 
-![CMDB Data Model.](../image/cmdb-data-model.png "CMDB Data Model")
+![CMDB Data Model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cmdb-data-model.png "CMDB Data Model")
 
 Storage Server to Network Adapter
 
-![Storage Server to Network Adapter.](../image/storage_server_to_network_adapter.png "Storage Server to Network Adapter")
+![Storage Server to Network Adapter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/storage_server_to_network_adapter.png "Storage Server to Network Adapter")
 
 Storage Server to Disks
 
-![Storage Server to Disks.](../image/storage_server_to_disks.png "Storage Server to Disks")
+![Storage Server to Disks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/storage_server_to_disks.png "Storage Server to Disks")
 
 Storage Server to Disks and File Systems
 
-![Storage Server to Disks and File Systems.](../image/storage_server-to_disks_and_file_systems.png "Storage Server to Disks and File Systems")
+![Storage Server to Disks and File Systems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/storage_server-to_disks_and_file_systems.png "Storage Server to Disks and File Systems")
 
 ## CI Relationships
 
@@ -422,5 +422,5 @@ Storage Server to Disks and File Systems
 |cmdb\_ci\_storage\_server|Virtualized by::Virtualizes|cmdb\_ci\_vm\_instance|
 |cmdb\_ci\_disk|Provides::Provided by|cmdb\_ci\_file\_system|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

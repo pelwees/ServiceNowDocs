@@ -37,7 +37,7 @@ Role required: sn\_imt\_core.reader
 
         -   `user.email=<user-email-address>`: Queries the provided employee's email address.
         -   `visitor.email=<visitor-email-address>`: Queries the provided visitor's email address.
-        ![Example sysparm_query value to query a specific user's email address.](../image/sysparm-query.png)
+        ![Example sysparm_query value to query a specific user's email address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/sysparm-query.png)
 
     This example cURL request queries the Health and Safety User table and returns records associated with Abel Tuter's email address.
 
@@ -97,7 +97,7 @@ requirements\_status
 
 </td><td>
 
-Whether the visitor or employee has completed all requirements to return to the workplace. For more information, see [Create health and safety user records](create-readiness-user.md) and [Create a health and safety requirement](create-readiness-requirement.md).-   Cleared: The visitor or employee has completed all requirements to return to the workplace.
+Whether the visitor or employee has completed all requirements to return to the workplace. For more information, see [Create health and safety user records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-readiness-user.md) and [Create a health and safety requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-readiness-requirement.md).-   Cleared: The visitor or employee has completed all requirements to return to the workplace.
 -   Not Cleared: The visitor or employee has not completed all requirements to return to the workplace.
 
  Data type: String

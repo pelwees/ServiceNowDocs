@@ -31,7 +31,7 @@ Role required: admin or sp\_admin
 
     The widget ID is created automatically based on the widget name. You can then select **Create test page** to automatically create a page containing the widget.
 
-    ![Create a new widget](../image/add-widget.png)
+    ![Create a new widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/add-widget.png)
 
     **Note:** After completing development of a widget with a test page, delete the test page. Maintaining test pages can create clutter when managing pages.
 
@@ -41,8 +41,8 @@ Role required: admin or sp\_admin
 
     **Note:** For server-side scripts, you can turn on using the ECMAScript 2021 \(ES12\) JavaScript mode if your application uses ES5 Standards mode or Compatibility mode. Scripts in applications with the JavaScript mode set to ECMAScript 2021 \(ES12\) use ECMAScript 2021 \(ES12\) by default. For more information, see [Turn on ECMAScript 2021 \(ES12\) mode for a script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/set-es12-mode-scripts.md).
 
-    ![Widget editor IDE](../image/basic-widget.png)
+    ![Widget editor IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/basic-widget.png)
 
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/widget-dev-guide.md)
 

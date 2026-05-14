@@ -32,7 +32,7 @@ The file picker opens from within the Document Management component and provides
 
 2.  In the left components panel, select the documents icon to display the Documents panel.
 
-3.  In the Documents panel, select the add icon ![Add icon](../../../reuse/itom/image/workspace-icon-add.png) or drag and drop documents or folders.
+3.  In the Documents panel, select the add icon ![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/itom/image/workspace-icon-add.png) or drag and drop documents or folders.
 
 4.  Choose how to add documents:
 
@@ -100,5 +100,5 @@ Select **Browse documents**. Your system file browser opens. Navigate to and sel
     The file picker closes and the selected documents appear in the Documents panel.
 
 
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-management-workspace.md)
 

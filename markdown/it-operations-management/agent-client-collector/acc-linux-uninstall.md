@@ -50,5 +50,5 @@ By default, an uninstalled agent is removed from the system after 30 days. To mo
     **Warning:** Do not use the command rm -Rf, as this can cause data loss.
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-install-linux-concept.md)
 

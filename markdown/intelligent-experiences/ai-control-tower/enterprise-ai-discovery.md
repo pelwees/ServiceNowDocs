@@ -55,5 +55,5 @@ For customers using both ServiceNow and cloud platforms, AI asset discovery is u
 
 AI discovery in the AI Control Tower enables enterprises to automatically find, catalog, and manage AI assets across cloud platforms through AI connections.
 
-This setup can be accessed through the [AI connections](ai-discovery-setup.md) page in AI Control Tower using ServiceNow AI Service Graph Connectors to discover AI assets, and usage.
+This setup can be accessed through the [AI connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-discovery-setup.md) page in AI Control Tower using ServiceNow AI Service Graph Connectors to discover AI assets, and usage.
 

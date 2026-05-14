@@ -23,7 +23,7 @@ Role required: none
 
 Employees can ask questions about or setup/update direct deposit by submitting a request through the Employee Center.
 
-Alternately, a manager can submit a tuition reimbursement request by opening an HR case: [Create an HR case](search-hr-case.md).
+Alternately, a manager can submit a tuition reimbursement request by opening an HR case: [Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md).
 
 ## Procedure
 
@@ -111,5 +111,5 @@ Displays when Percentage is selected for Deposit type. Enter the percentage amou
     The system creates an HR case and assigns it to the configured HR person. View the status of your request from the **My Requests** tab.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

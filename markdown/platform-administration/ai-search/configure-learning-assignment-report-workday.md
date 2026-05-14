@@ -18,7 +18,7 @@ Configure a custom report for Learning assignments in Workday. The Workday exter
 
 ## Before you begin
 
-A Workday admin must have already an integration system user and an unconstrained integration system security group in your Workday tenant. For details on this preliminary task, see [Configure Workday security settings](configure-workday-security-settings.md).
+A Workday admin must have already an integration system user and an unconstrained integration system security group in your Workday tenant. For details on this preliminary task, see [Configure Workday security settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-security-settings.md).
 
 You need an account with the following privileges in your organization's Workday tenant:
 
@@ -939,7 +939,7 @@ Lesson
 
     2.  On the Transfer Ownership of Custom Reports page, in the New Owner field, enter or select the **ISU SNOW ACL** integration system user account.
 
-        **Important:** If you don't see this integration system user account in the system, check that a Workday admin has completed the [Configure Workday security settings](configure-workday-security-settings.md) preliminary task.
+        **Important:** If you don't see this integration system user account in the system, check that a Workday admin has completed the [Configure Workday security settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-security-settings.md) preliminary task.
 
     3.  Select **OK**.
 
@@ -997,12 +997,12 @@ Lesson
 
 Provide the following items to the connector admin who creates your Workday external content connectors:
 
--   The base URL for your Workday tenant that you copied in step [14.a](configure-learning-assignment-report-workday.md#copy-base-url-step).
--   The Workday tenant name that you copied in step [14.b](configure-learning-assignment-report-workday.md#copy-tenant-name-step).
--   The custom Learning assignment report owner's user name that you copied in step [14.c](configure-learning-assignment-report-workday.md#copy-report-owner-user-name-step).
--   The custom Learning assignment report's name alias that you copied in step [14.d](configure-learning-assignment-report-workday.md#copy-report-name-alias-step).
+-   The base URL for your Workday tenant that you copied in step [14.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-learning-assignment-report-workday.md#copy-base-url-step).
+-   The Workday tenant name that you copied in step [14.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-learning-assignment-report-workday.md#copy-tenant-name-step).
+-   The custom Learning assignment report owner's user name that you copied in step [14.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-learning-assignment-report-workday.md#copy-report-owner-user-name-step).
+-   The custom Learning assignment report's name alias that you copied in step [14.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-learning-assignment-report-workday.md#copy-report-name-alias-step).
 
 Your connector admin needs these items to configure a Workday external content connector to retrieve searchable content and metadata from learning assignments in your Workday source system.
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

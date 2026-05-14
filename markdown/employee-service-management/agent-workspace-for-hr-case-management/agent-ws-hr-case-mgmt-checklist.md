@@ -17,9 +17,9 @@ Creating and using checklists on an HR case or task helps you resolve issues fas
 
 The Checklists appears as a tab in the contextual side panel.
 
-![HR Agent Workspace - Checklist](../reference/images/agent-ws-hr-checklist.png)
+![HR Agent Workspace - Checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/agent-ws-hr-checklist.png)
 
-When the configuration for an HR service or HR task template has checklists, they automatically appear. Having a checklist for an HR service or HR task template ensures consistency when resolving issues. For information on configuring checklists, see [Configure an HR service](../task/configure-hr-service.md) and [Configure an HR task template](../task/configure-hr-task-template.md).
+When the configuration for an HR service or HR task template has checklists, they automatically appear. Having a checklist for an HR service or HR task template ensures consistency when resolving issues. For information on configuring checklists, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-hr-service.md) and [Configure an HR task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-hr-task-template.md).
 
 -   **Creating a checklist directly into an HR case**
 
@@ -31,10 +31,10 @@ When the configuration for an HR service or HR task template has checklists, the
         3.  Select **Apply** and **Save**.
     2.  To rename a checklist item, select **Edit**. Make the required changes and select **Save**.
     3.  To reorder a checklist item, select **Edit**.
-        1.  Select **Reorder item** ![Use to reorder a checklist item](../image/item-reorder.png).
+        1.  Select **Reorder item** ![Use to reorder a checklist item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/item-reorder.png).
         2.  Drag and place the item at the required position.
         3.  Select **Save**.
-    4.  To delete a checklist item, select **Remove item** ![Use to remove a checklist item](../image/item-remove.png).
+    4.  To delete a checklist item, select **Remove item** ![Use to remove a checklist item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/item-remove.png).
 -   **Creating a checklist directly into an HR Task**
 
     Create an HR task with **Checklist** for the **HR Task Type**. See .

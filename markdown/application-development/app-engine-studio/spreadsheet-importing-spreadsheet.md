@@ -24,7 +24,7 @@ Check that the spreadsheet meets the following requirements:
 
 **Note:** The Excel spreadsheet you upload can have multiple worksheet tabs, each of which you might use to create a data table. If multiple worksheets are present, you will be prompted to select which worksheet tab to create the table from after you upload the file.
 
-Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissio
 
 2.  From the My Apps page, open your application.
 
-3.  Next to the Data heading, select the Add icon \(![Add icon](../image/plus-icon.png)\).
+3.  Next to the Data heading, select the Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/plus-icon.png)\).
 
 4.  Select **Import a spreadsheet**, and then select **Continue**.
 
@@ -66,7 +66,7 @@ Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissio
 
 </td><td>
 
-Refer to [Create new table from spreadsheet import](spreadsheet-create-new-table.md) for next steps.
+Refer to [Create new table from spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-create-new-table.md) for next steps.
 
 </td></tr><tr><td id="d103071e243">
 
@@ -74,7 +74,7 @@ Refer to [Create new table from spreadsheet import](spreadsheet-create-new-table
 
 </td><td>
 
-Refer to [Create new table from extensible table and spreadsheet import](spreadsheet-create-new-ext-table.md) for next steps.
+Refer to [Create new table from extensible table and spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-create-new-ext-table.md) for next steps.
 
 </td></tr><tr><td id="d103071e262">
 
@@ -82,9 +82,9 @@ Refer to [Create new table from extensible table and spreadsheet import](spreads
 
 </td><td>
 
-Refer to [Modify existing table using spreadsheet import](spreadsheet-import-existing-table.md) for next steps.
+Refer to [Modify existing table using spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-import-existing-table.md) for next steps.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use a spreadsheet to add data](upload-multi-sheets.md)
+**Parent Topic:**[Use a spreadsheet to add data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/upload-multi-sheets.md)
 

@@ -67,7 +67,7 @@ Unfurl Links
 
 </td><td>
 
-Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview \(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md).
+Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview \(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/enable-link-unfurling.md).
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Option to choose a custom color for the conversations in Microsoft Teams as per 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    ![Submit manifest for Microsoft 365 applications](../images/submit-manifest-ms365.png)
+    ![Submit manifest for Microsoft 365 applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/submit-manifest-ms365.png)
 
 5.  In the Generic Info section, select **Next** to navigate to **Configure Virtual Agent** tab.
 
@@ -106,7 +106,7 @@ Option to choose a custom color for the conversations in Microsoft Teams as per 
 
     For more information, see [Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md).
 
-    ![Configure Virtual Agent tab](../images/configure-va-tab-ms365.png)
+    ![Configure Virtual Agent tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/configure-va-tab-ms365.png)
 
 7.  In the Configure Virtual Agent section, to connect to a single or multiple ServiceNow instances.
 
@@ -158,7 +158,7 @@ Option to enable activity feed to receive campaign notifications in Microsoft Te
 </td></tr></tbody>
 </table>9.  For self-configured apps, provide the Application \(client\) ID and Directory \(tenant\) ID in the **Configure Tab** section.
 
-    ![self-configured app options](../images/single-tenant-configure-tab-ms365.png)
+    ![self-configured app options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/single-tenant-configure-tab-ms365.png)
 
     **Important:** The above step is not applicable for pre-published apps.
 
@@ -166,7 +166,7 @@ Option to enable activity feed to receive campaign notifications in Microsoft Te
 
 11. Verify the details provided and select **Download Manifest** to download the manifest file.
 
-    ![Manifest file](../images/manifest-ready-ms365.png)
+    ![Manifest file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/manifest-ready-ms365.png)
 
     The manifest file downloads in the zip format.
 

@@ -23,13 +23,13 @@ Role required: sn\_shop.shopper
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-    ![RFx tasks in Employee Center homepage.](../image/rfx-task-homepage.png)
+    ![RFx tasks in Employee Center homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/rfx-task-homepage.png)
 
     RFx tasks appear on the home page and display their closure deadline.
 
 2.  Select **View details** on any RFx task to review:
 
-    ![RFx task details.](../image/rfx-task-details.png)
+    ![RFx task details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/rfx-task-details.png)
 
     -   Sourcing request
     -   Status
@@ -43,5 +43,5 @@ Role required: sn\_shop.shopper
 
 You’re redirected to the third-party sourcing tool to complete required actions, such as reviewing, publishing, or awarding RFx. The task closes automatically when the event is completed, or can be closed manually.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-integration-third-party-sourcing.md)
 

@@ -48,10 +48,10 @@ The Twilio Notify bulk SMS feature is used to send SMS in bulk to customers. Use
     **Note:** This feature uses Twilio Notify feature and might have an associated cost. Contact Twilio Support for more details.
 
 
-**Parent Topic:**[Configure Notify with Twilio](t_ConfigureNotifyWithTwilio.md)
+**Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 
 **Related topics**  
 
 
-[Using Notify with SMS](../concept/c_NotifySMS.md)
+[Using Notify with SMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifySMS.md)
 

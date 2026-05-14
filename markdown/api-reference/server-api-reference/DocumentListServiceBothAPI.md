@@ -19,27 +19,27 @@ This API requires the Document Management plugin \(com.snc.platform\_document\_m
 
 The Document Management plugin also supports creating lists of document templates to associate with your document. For example, a job application requiring multiple documents such as a diploma, ID, or passport. After you add your document list, you can add document templates:
 
--   [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
--   [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
+-   [SystemDocumentListEntry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
+-   [DocumentListEntryService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
 The following APIs enable you to define and manage documents:
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocument](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
-See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+See also [SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## DocumentListService - DocumentListService\(\)
 
@@ -49,7 +49,7 @@ Instantiates a DocumentListService object.
 |----|----|-----------|
 |None| ||
 
-The following example shows how to instantiate a DocumentListService object. See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+The following example shows how to instantiate a DocumentListService object. See also [SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
 
 ```
 var s = new sn_doc_services.DocumentListService();
@@ -61,14 +61,14 @@ Creates a document list in the Document Lists \[ds\_document\_lists\] table.
 
 The Document Management plugin also supports creating lists of document templates to associate with your document. For example, a job application requiring multiple documents such as a diploma, ID, or passport. After you add your document list, you can add document templates:
 
--   [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
--   [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
+-   [SystemDocumentListEntry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
+-   [DocumentListEntryService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
 
-Use the [createDocumentsFromList\(\)](DocumentListServiceBothAPI.md#) method to create documents from the document template list.
+Use the [createDocumentsFromList\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/DocumentListServiceBothAPI.md#) method to create documents from the document template list.
 
 |Name|Type|Description|
 |----|----|-----------|
-|doc|[SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocumentList constructor or name\(\) method.|
+|doc|[SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocumentList constructor or name\(\) method.|
 
 <table id="table_tj4_p5j_34b" class="returns"><thead><tr><th>
 
@@ -122,7 +122,7 @@ Status indicating whether the operation is successful.Possible values:
  Data type: String
 
 </td></tr></tbody>
-</table>The following example shows how to create a document list. See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+</table>The following example shows how to create a document list. See also [SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
 
 ```
 var dL = new sn_doc_services.SystemDocumentList('My document list');
@@ -148,7 +148,7 @@ Output:
 
 Creates documents from a list of document templates.
 
-**Note:** Before using this method, create a document template list using the [createDocumentList\(\)](DocumentListServiceBothAPI.md#) method.
+**Note:** Before using this method, create a document template list using the [createDocumentList\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/DocumentListServiceBothAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -287,7 +287,7 @@ Status indicating whether the operation is successful.Possible values:
  Data type: String
 
 </td></tr></tbody>
-</table>The following example shows how to delete a document list record. See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+</table>The following example shows how to delete a document list record. See also [SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
 
 ```
 var docListID = 'b2c021a924683c10f877a6fed1c2b0b1';
@@ -313,7 +313,7 @@ Updates the field values of an existing document list.
 |Name|Type|Description|
 |----|----|-----------|
 |listSysId|String|Sys\_id of a document list record in the Document Lists \[ds\_document\_lists\] table.|
-|doc|[SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#)|One or more properties representing document list fields to be updated.|
+|doc|[SystemDocument](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocument/concept/SystemDocumentBothAPI.md#)|One or more properties representing document list fields to be updated.|
 
 <table id="table_x4z_2cg_tpb" class="returns"><thead><tr><th>
 
@@ -367,7 +367,7 @@ Status indicating whether the operation is successful.Possible values:
  Data type: String
 
 </td></tr></tbody>
-</table>The following example shows how to update a document list name and description. See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+</table>The following example shows how to update a document list name and description. See also [SystemDocumentList](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
 
 ```
 var docListID = 'b2c021a924683c10f877a6fed1c2b0b1';

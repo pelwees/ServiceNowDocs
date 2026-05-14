@@ -28,10 +28,10 @@ Role required: admin
 3.  Click **Run job**.
 
 
-**Parent Topic:**[Using HR Service Delivery integration with Oracle Cloud HCM](using-hrsd-int-oracle-clud-hcm.md)
+**Parent Topic:**[Using HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hrsd-int-oracle-clud-hcm.md)
 
 **Related topics**  
 
 
-[Mapping entity profile fields](../reference/hr-oracle-hcm-profile-fields.md)
+[Mapping entity profile fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/hr-oracle-hcm-profile-fields.md)
 

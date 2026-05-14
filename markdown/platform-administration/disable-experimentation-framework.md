@@ -28,5 +28,5 @@ Role required: admin
     **Note:** You can re-enable experimentation framework at any time.
 
 
-**Parent Topic:**[Experimentation framework](../concept/experimentation_framework.md)
+**Parent Topic:**[Experimentation framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/experimentation_framework.md)
 

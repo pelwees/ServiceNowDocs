@@ -44,10 +44,10 @@ You can view the equipment model dependency maps using the described predefined 
 -   View hierarchy
 -   View process
 
-You can also update the predefined filters as needed for your organization. For more information, see [Modify predefined filters](../task/modify-predefined-filters.md).
+You can also update the predefined filters as needed for your organization. For more information, see [Modify predefined filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/modify-predefined-filters.md).
 
--   **[Modify predefined filters](../task/modify-predefined-filters.md)**  
+-   **[Modify predefined filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/modify-predefined-filters.md)**  
 Modify the predefined filters for the ISA Equipment Model application as needed for your organization.
 
-**Parent Topic:**[Industrial Process Manager reference](manufacturing-process-mgr-reference.md)
+**Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 

@@ -36,7 +36,7 @@ Role required: none
     }
     ```
 
-    ![Instance and nickname in the ServiceNow Agent app.](../image/instance-name-example.png)
+    ![Instance and nickname in the ServiceNow Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/instance-name-example.png)
 
     This second example includes only the `InstanceUrl` value, which is also valid.
 
@@ -54,8 +54,8 @@ Role required: none
 
     **Note:** ServiceNow instances do not provide a method to create QR codes, however there are many online resources you can use to create QR codes using the JSON created in the previous steps.
 
-3.  Use your QR code to access the mobile app. For steps to use a QR code with the app, see [Add a ServiceNow instance to ServiceNow mobile apps](login-end-user.md).
+3.  Use your QR code to access the mobile app. For steps to use a QR code with the app, see [Add a ServiceNow instance to ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/login-end-user.md).
 
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-authentication.md)
 

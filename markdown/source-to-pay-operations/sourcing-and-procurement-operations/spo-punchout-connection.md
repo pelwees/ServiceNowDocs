@@ -21,7 +21,7 @@ The PunchOut system returns a PunchOutResponse, which contains the start URL for
 
 The following figure illustrates the connection flow:
 
-![How SPO communicates with a punchout system.](../image/punchout-establish-conn.png "How SPO communicates with the supplier punchout system")
+![How SPO communicates with a punchout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-establish-conn.png "How SPO communicates with the supplier punchout system")
 
-**Parent Topic:**[Understanding Punchout](punchout-overview.md)
+**Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 

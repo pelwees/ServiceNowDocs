@@ -47,7 +47,7 @@ To use the solution definitions for both PRL and POL in your instance, open each
 
 **Note:** Users with the category\_manager\_admin and now\_assist\_admin roles can update the solution definitions.
 
-![Product Category Classification solution definition interface with Update & Retrain button highlighted.](../image/prl-cat-sol-train.png)
+![Product Category Classification solution definition interface with Update & Retrain button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/prl-cat-sol-train.png)
 
 Both solution types retrain automatically based on configured training frequency. By default, the solution definitions run automatically once every seven days.
 
@@ -76,27 +76,27 @@ If the AI-predicted category differs from the category selected by the requester
 
 Visual indicators appear next to the **Product category** and **Spend category** fields in the Playbook view and the Purchase Line related lists, indicating that the fields were updated using AI predictions. In such cases, a corresponding comment is added to the activity stream, for example, "AI-suggested Spend category updated from X to Y."
 
-![PRL form showing AI-suggested updates to Product and Spend category fields.](../image/prl-ai-banner.png)
+![PRL form showing AI-suggested updates to Product and Spend category fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/prl-ai-banner.png)
 
 You can manually select different values for either category field from the Product category and Spend category drop-down lists on the Purchase Line form.
 
-![Purchase Line form showing Product category drop-down list with AI predictions highlighted.](../image/prl-ai-prediction.png)
+![Purchase Line form showing Product category drop-down list with AI predictions highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/prl-ai-prediction.png)
 
 Any user-selected overrides are captured and used to improve future model accuracy. When a different value is selected, a banner appears at the top of the form that informs you that an AI-predicted value was applied.
 
 The prediction model also analyzes information in documents attached to the SR or PR, such as the product name and product description, to predict the product and spend categories.
 
--   **[Audit purchase lines automatically when predictive fields change](audit-prls-predictive-fields.md)**  
+-   **[Audit purchase lines automatically when predictive fields change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/audit-prls-predictive-fields.md)**  
 Automated audit compares existing categories with the latest AI prediction when key predictive fields are updated in a service request or purchase requisition, flagging inconsistencies without automatically updating category fields.
--   **[Predict categories for PRLs and POLs imported through integrations](predict-categories-integrations.md)**  
+-   **[Predict categories for PRLs and POLs imported through integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/predict-categories-integrations.md)**  
 Automatically predict and assign product and spend categories for imported purchase requisition lines and purchase order lines using scheduled on-demand scripts.
--   **[Ensure consistent invoice spend categories during PO matching](invoice-po-spend-categories.md)**  
+-   **[Ensure consistent invoice spend categories during PO matching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/invoice-po-spend-categories.md)**  
 Maintain aligned spend categories when matching invoice lines with purchase order lines by applying the spend category from the PO line to the corresponding invoice line.
 
-**Parent Topic:**[Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-exploring.md)
+**Parent Topic:**[Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-exploring.md)
 
 **Related topics**  
 
 
-[Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-supporting-info.md)
+[Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-supporting-info.md)
 

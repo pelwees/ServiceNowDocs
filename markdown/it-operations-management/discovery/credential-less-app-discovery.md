@@ -207,7 +207,7 @@ cmdb\_ci\_appl
 
 The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifier to the Application Rule for the Application \[cmdb\_ci\_appl\] table that matches on sys\_class\_name and cl\_port for Nmap scans.
 
-![Nmap identifier for the Application Rule](../image/NmapIdentifier.png "Nmap identifier for the Application Rule")
+![Nmap identifier for the Application Rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/NmapIdentifier.png "Nmap identifier for the Application Rule")
 
-**Parent Topic:**[Credential-less Discovery with Nmap](../concept/nmap-credential-less-discovery.md)
+**Parent Topic:**[Credential-less Discovery with Nmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/nmap-credential-less-discovery.md)
 

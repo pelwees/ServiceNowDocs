@@ -68,30 +68,30 @@ Role required: sn\_sec\_tisc.admin
 
 11. After you make the necessary changes to the sharing controls, then select **Publish** to publish the sharing controls.
 
-    Once the sharing controls are published, they are available for use within intelligence outbound sharing templates. For more information, see [Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md).
+    Once the sharing controls are published, they are available for use within intelligence outbound sharing templates. For more information, see [Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md).
 
 
 ## What to do next
 
 Refer to the following sections for guidance on external intelligence sharing using both the GUI and automated procedures.
 
--   [Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md)
--   [Automated sharing of high-risk IOC's with trusted partners](tisc-automated-sharing-flow.md)[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
+-   [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-create-intel-records-lib.md)
+-   [Automated sharing of high-risk IOC's with trusted partners](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-sharing-flow.md)[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 
 
-[Configuring Outbound Intel Data Exclusion Rule](tisc-outbound-data-exclusion.md)
+[Configuring Outbound Intel Data Exclusion Rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-data-exclusion.md)
 
-[Configuring Outbound Intel Sharing Profiles](tisc-outbound-sharing-profiles.md)
+[Configuring Outbound Intel Sharing Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing-profiles.md)
 
-[Configuring Outbound Intel Sharing Groups](tisc-config-inbound-sharing-groups.md)
+[Configuring Outbound Intel Sharing Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-sharing-groups.md)
 
-[Defining Approval Rule for Outbound Intel](tisc-approval-outbound-intel.md)
+[Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md)
 
-[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
+[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 
-[Working on the Redaction Library](tisc-redaction-library.md)
+[Working on the Redaction Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-redaction-library.md)
 

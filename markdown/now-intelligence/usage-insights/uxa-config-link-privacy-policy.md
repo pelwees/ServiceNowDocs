@@ -19,7 +19,7 @@ When Usage Insights is enabled, the ServiceNow Services Privacy Statement is lin
 
 Role required: admin
 
-Users can choose to enable or turn off tracking in their settings. To learn more about enabling tracking, see [How users consent to tracking in Usage Insights](user-exp-analytics-user-set.md).
+Users can choose to enable or turn off tracking in their settings. To learn more about enabling tracking, see [How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md).
 
 To learn more about the default privacy statement, see the [ServiceNow Services Statement](https://www.servicenow.com/service-privacy.html).
 
@@ -36,5 +36,5 @@ To learn more about the default privacy statement, see the [ServiceNow Services 
 5.  Select **Update**.
 
 
-**Parent Topic:**[How users consent to tracking in Usage Insights](user-exp-analytics-user-set.md)
+**Parent Topic:**[How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md)
 

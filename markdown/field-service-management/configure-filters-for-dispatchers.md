@@ -41,6 +41,6 @@ By default, dispatchers can filter tasks based on work order task states. You ca
 
 4.  Click **Submit**.
 
-    ![application filter configuration form](../image/application-filter.png)
+    ![application filter configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/application-filter.png)
 
 

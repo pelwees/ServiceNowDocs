@@ -25,19 +25,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) 
 
 <table id="table_uvp_xgb_p1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../reuse/icons/brand-icons/bus-explore.svg)Learn how Proactive Engagement can help you with its key features and benefits.](exploring-proactive-engagement.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/../../reuse/icons/brand-icons/bus-explore.svg)Learn how Proactive Engagement can help you with its key features and benefits.](exploring-proactive-engagement.md)
 
 </td><td>
 
-[Configure![](../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Proactive Engagement to meet your specific needs.](configuring-proactive-engagement.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and customize Proactive Engagement to meet your specific needs.](configuring-proactive-engagement.md)
 
 </td></tr><tr><td>
 
-[Use![](../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)See how users can leverageProactive Engagement framework to resolve issues.](using-proactive-engagement.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)See how users can leverageProactive Engagement framework to resolve issues.](using-proactive-engagement.md)
 
 </td><td>
 
-[Reference![](../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Proactive Engagement.](proactive-engagement-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Proactive Engagement.](proactive-engagement-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

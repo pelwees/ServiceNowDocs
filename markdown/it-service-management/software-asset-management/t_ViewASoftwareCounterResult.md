@@ -23,13 +23,13 @@ Role required: sam
 
 1.  On the Software Counter form, click a name in the **Software Counter Results** related list.
 
-    ![SAM software counter results 2](../image/SAMSoftwareCounterResults2.png "SAM software counter results 2")
+    ![SAM software counter results 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMSoftwareCounterResults2.png "SAM software counter results 2")
 
 2.  View the Software Counter Result form \(see table\).
 
     All fields on the form are read-only.
 
-    ![SAM software counter results 3](../image/SAMSoftwareCounterResults3.png "SAM software counter results 3")
+    ![SAM software counter results 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMSoftwareCounterResults3.png "SAM software counter results 3")
 
     |Field|Description|
     |-----|-----------|
@@ -46,8 +46,8 @@ Role required: sam
     |Times used|Total number of times the software was used, based on software usage records for the group.|
     |Duration|Total duration of software usage, based on software usage records for the group. \(Not the sum of Foreground and Background.\)|
     |Related List|
-    |Summary|Breakdown of software counter results by[type](../concept/c_UseTheSoftwareCounter.md). Click a type to view a detailed [summary](t_ViewASoftwareCounterSummary.md).|
+    |Summary|Breakdown of software counter results by[type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseTheSoftwareCounter.md). Click a type to view a detailed [summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ViewASoftwareCounterSummary.md).|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseCountersSWLicenseReconcil.md)
 

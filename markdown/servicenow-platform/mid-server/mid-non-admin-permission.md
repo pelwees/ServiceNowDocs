@@ -17,7 +17,7 @@ To improve security, Windows MID Servers enforce Windows file permission restric
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>File permission enforcement for Windows MID Servers goes into effect on the MID Server on start up in Orlando. By default the agent folder is locked to four user accounts and groups: the local admin group, the system account, creator owner, and the user account the Windows MID Server is using. The list of permitted user accounts is managed by a allow list, which is controlled by the MID Server parameter **mid.windows\_host.file\_permissions.allow\_list**. This parameter takes a string of comma separated group names, user names, and security identifiers \(SID\). Group and user names must follow SAM account naming requirements. Domain accounts must be specified by using the SID.
@@ -28,5 +28,5 @@ Changes to the file permissions are recorded, and the last used settings are sav
 
 ## Run a MID Server as a non-admin
 
-To run a MID Server as a non-admin user, it must first be installed using an admin account. Then add the non-admin user to allow list and restart the MID Server. Once the new enforcement rules run, the MID Server can be switched to the non-admin service account. See [Manually install a MID Server on Windows](mid-server-install-prereqs.md#) for more information on setting up non-admin Windows MID Servers, or [Run Linux MID Servers as non-root users](../task/t_InstallAMIDServerOnLinux.md#) for Linux MID Servers.
+To run a MID Server as a non-admin user, it must first be installed using an admin account. Then add the non-admin user to allow list and restart the MID Server. Once the new enforcement rules run, the MID Server can be switched to the non-admin service account. See [Manually install a MID Server on Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md#) for more information on setting up non-admin Windows MID Servers, or [Run Linux MID Servers as non-root users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_InstallAMIDServerOnLinux.md#) for Linux MID Servers.
 

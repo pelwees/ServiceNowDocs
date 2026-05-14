@@ -23,7 +23,7 @@ Role required: sn\_uni\_task.template\_admin
 
 ## About this task
 
-Dynamic template mappings can be created for templates that have an assigned parent table. In a dynamic mapping, the value of a field is updated with the value of the mapped field in the parent table. Dynamic template mappings get precedence over static template mappings. In static template mappings, fields are set to specific values. For more information on how to create a static template, see [Create a template using the Universal Task template form](ut-create-task-template.md).
+Dynamic template mappings can be created for templates that have an assigned parent table. In a dynamic mapping, the value of a field is updated with the value of the mapped field in the parent table. Dynamic template mappings get precedence over static template mappings. In static template mappings, fields are set to specific values. For more information on how to create a static template, see [Create a template using the Universal Task template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-create-task-template.md).
 
 ## Procedure
 
@@ -81,5 +81,5 @@ The **Value** field appears. You can map your Universal task to multiple fields 
 
 A mapping was created for a specific Universal task field. You can repeat this procedure to map more fields.
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/ut-task-template-landing.md)
 

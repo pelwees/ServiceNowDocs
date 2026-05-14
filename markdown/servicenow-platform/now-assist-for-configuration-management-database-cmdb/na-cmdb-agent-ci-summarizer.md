@@ -33,11 +33,11 @@ When a Now Assist skill is enabled, the Now Assist icon ![](../../../administer/
 
 2.  Select **Summarize** in the Now Assist box.
 
-    ![Summarize button on the CI form.](../image/na-cmdb-summarize-button.png)
+    ![Summarize button on the CI form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/na-cmdb-summarize-button.png)
 
     Now Assist generates and displays summary information for the CI, as in this example.
 
-    ![Summary information.](../image/na-cmdb-ci-summary-example.png)
+    ![Summary information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/na-cmdb-ci-summary-example.png)
 
 3.  Provide feedback, copy the response text to the clipboard, or refresh the response.
 
@@ -78,5 +78,5 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[Configure the CI summarization skill](../../configuration-management/task/now-assist-cmdb-config-ci-summary.md)
+[Configure the CI summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../configuration-management/task/now-assist-cmdb-config-ci-summary.md)
 

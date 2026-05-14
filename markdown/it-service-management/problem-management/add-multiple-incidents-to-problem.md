@@ -42,8 +42,8 @@ The topic applies to problems where you’ve activated the Problem Management Be
 
 The selected incidents appear under the **Incidents** tab.
 
--   **[Extension point for Problem Management](../reference/extension-point-for-problem.md)**  
+-   **[Extension point for Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/extension-point-for-problem.md)**  
 Extension points enable you to extend the functionality of an application and integrate customizations without altering the application code.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-lifecycle.md)
 

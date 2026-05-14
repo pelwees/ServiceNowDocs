@@ -38,5 +38,5 @@ Manage the preferences and configurations for Now Assist for Code.
     None
 
 
-**Parent Topic:**[Now Assist for Code reference](../concept/now-assist-code-reference.md)
+**Parent Topic:**[Now Assist for Code reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/now-assist-code-reference.md)
 

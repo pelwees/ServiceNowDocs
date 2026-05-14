@@ -32,5 +32,5 @@ Mark an update set as Complete only when it is ready to transfer. Once an update
     The update set is available for other instances to retrieve and additional customizations aren't tracked in the update set.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/using-system-update-sets.md)
 

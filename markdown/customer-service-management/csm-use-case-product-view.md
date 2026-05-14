@@ -15,9 +15,9 @@ CSM enables you to provide service and support for your external customers throu
 
 ## CSM use case
 
-CSM provides proactive customer service, decreases cost of service, and provides end-to-end visibility to both customer service and service delivery groups. For more information, see [Integrating with Service Portfolio Management](csm-spm-integration.md).
+CSM provides proactive customer service, decreases cost of service, and provides end-to-end visibility to both customer service and service delivery groups. For more information, see [Integrating with Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-spm-integration.md).
 
-For information on setting up the data, see [Configure foundation data](../task/configure-csm-foundation-data.md).
+For information on setting up the data, see [Configure foundation data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-csm-foundation-data.md).
 
 ## Results of the CSM use case
 

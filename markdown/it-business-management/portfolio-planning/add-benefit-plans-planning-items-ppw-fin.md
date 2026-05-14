@@ -36,11 +36,11 @@ Add the monetary benefit plans and non-monetary benefit plans related lists for 
 
     To change the view, select **Additional actions** menu \(![](../../agile-development/image/hamburger-icon.png)\), select **View**, and select the **EAP Default** view.
 
-    ![Additional options menu to select the EAP Default view to enable benefit plans.](../../spw-financials/images/fin-select-eap-default-view.png)
+    ![Additional options menu to select the EAP Default view to enable benefit plans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-select-eap-default-view.png)
 
 7.  Select **Additional actions** menu \(![](../../agile-development/image/hamburger-icon.png)\), select **Configure**, and select the **Related Lists** option.
 
-    ![Additional options menu to configure related lists for your planning items.](../../spw-financials/images/fin-config-related-lists.png)
+    ![Additional options menu to configure related lists for your planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-config-related-lists.png)
 
 8.  Select **Monetary Benefit Plans** and **Non-monetary Benefit Plans** from the Available list and add them to Selected list.
 
@@ -53,6 +53,6 @@ Add the monetary benefit plans and non-monetary benefit plans related lists for 
 
 Create and manage monetary and non-monetary benefits plans for your planning items.
 
--   [Create monetary benefit plans for your planning items in Portfolio Planning](fin-manage-monetary-benefit-plans-ppw.md)
--   [Manage non-monetary benefit plans for your planning items in Portfolio Planning](fin-manage-non-monetary-benefit-plans-ppw.md)
+-   [Create monetary benefit plans for your planning items in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-manage-monetary-benefit-plans-ppw.md)
+-   [Manage non-monetary benefit plans for your planning items in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/fin-manage-non-monetary-benefit-plans-ppw.md)
 

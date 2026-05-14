@@ -41,6 +41,6 @@ The service category manager can designate editors for a published service categ
 
     Editors receive the Catalog Editor role.
 
-    ![Service Creator Add Editors](../image/ServiceCreatorAddEditors.png)
+    ![Service Creator Add Editors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/service-creator/../image/ServiceCreatorAddEditors.png)
 
 

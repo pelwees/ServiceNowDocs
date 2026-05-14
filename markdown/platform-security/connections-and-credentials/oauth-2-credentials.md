@@ -57,7 +57,7 @@ Connect to Auth Server via MID Server
 
 Connects your ServiceNow instance to an on-premise OAuth server that resides behind a firewall through a MID Server. It can also connect your ServiceNow instance to a cloud-based OAuth server through a MID server. When this option is enabled, the request for an OAuth token is sent through the MID Server.**Important:**
 
--   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**Client Credentials**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](../../../administer/security/task/connect-3rd-party-oauth-provider.md).
+-   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**Client Credentials**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../administer/security/task/connect-3rd-party-oauth-provider.md).
 -   If you select the **Connect to Auth Server via MID Server** checkbox, you must identify the required MID Server or MID Servers from the **Applies to** list.
 
 </td></tr><tr><td>
@@ -72,11 +72,11 @@ Specify if the credential record is applicable for all MID Servers, or a specifi
 
 Ensure that you are aware of these considerations if you have selected the **Connect to Auth Server via MID Server** check box.
 
--   Ensure that all the MID Servers selected in Applies to can communicate with the Auth server. This is required to execute the token request against the **Token URL** mentioned in the OAuth provider record \(that is linked to the OAuth entity profile specified in the OAuth 2.0 credential record\).![Token URL in the OAuth provider record.](../image/mid-server-access-token-url.png)
+-   Ensure that all the MID Servers selected in Applies to can communicate with the Auth server. This is required to execute the token request against the **Token URL** mentioned in the OAuth provider record \(that is linked to the OAuth entity profile specified in the OAuth 2.0 credential record\).![Token URL in the OAuth provider record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/mid-server-access-token-url.png)
 -   Ensure that there is at least one MID Server \(in the MID Servers selected in **Applies to**\) with these configurations:
     -   The value of the **Status** field is **Up**.
     -   The value of the **Validated** field is **Yes**.
-    -   The capability of the MID Server is set to **REST** or **ALL**. To learn how to configure the MID server, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md).![MID Server status.](../image/MidServerDashbardGaugeOAuth2.0.png)
+    -   The capability of the MID Server is set to **REST** or **ALL**. To learn how to configure the MID server, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md).![MID Server status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/MidServerDashbardGaugeOAuth2.0.png)
 
 To learn more about these statuses, see [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md).
 

@@ -54,5 +54,5 @@ When you create a location in the Workplace Core application, that location is a
 
 The location type is set for the selected location table.
 
-**Parent Topic:**[Location migration](../concept/location-migration.md)
+**Parent Topic:**[Location migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/location-migration.md)
 

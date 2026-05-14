@@ -26,7 +26,7 @@ This plugin enables the following project costing features:
 
 The Project and Cost applications work together as shown in the diagram:
 
-![screenshot for Project and Cost applications relationship](../image/project_costing_concepts.png "Project and Cost applications")
+![screenshot for Project and Cost applications relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/project_costing_concepts.png "Project and Cost applications")
 
 The following properties are available with this plugin:
 
@@ -43,56 +43,56 @@ The following business rules are added or modified with this plugin:
 |Project Cost Rollup|Planned task \[planned\_task\]|Default: **true**. This property is from Cost Management. When an expense line is created against any task of **planned\_tasktype** and this property is true, the system gets a sum of the costs for all the expense lines and sets the total cost in the **work\_cost** field.|
 |Process Top Task Parent|\[fm\_expense\_line\]|Default: **true**|
 
-**Parent Topic:**[Starting a project](../task/t_CreateAProject.md)
+**Parent Topic:**[Starting a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProject.md)
 
 **Related topics**  
 
 
-[Create a project task from a project](../task/t_CreateATaskFromAProject.md)
+[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateATaskFromAProject.md)
 
-[Create a parent-child relationship on the Project Task form](../task/t_CreateParentChildRelationship.md)
+[Create a parent-child relationship on the Project Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateParentChildRelationship.md)
 
-[Create a monetary benefit plan for a project](../task/create-project-benefit-plan.md)
+[Create a monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/create-project-benefit-plan.md)
 
-[Create a non-monetary benefit plan for a project](../task/create-a-non-monetary-benefit-plan-for-a-project.md)
+[Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-[Associate monetary and non-monetary benefit plans](../task/associate-monetary-and-non-monetary-benefit-plans-project.md)
+[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/associate-monetary-and-non-monetary-benefit-plans-project.md)
 
-[Create a project cost plan](../task/t_CreateAProjectCostPlan.md)
+[Create a project cost plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectCostPlan.md)
 
-[Recalculating costs of all resource plans in a project](../task/recalculate-resource-costs-of-a-project.md)
+[Recalculating costs of all resource plans in a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/recalculate-resource-costs-of-a-project.md)
 
-[Create an expense line](../task/t_CreateAExpenseLine.md)
+[Create an expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
 
-[Schedule a project from a start date](../task/schedule-a-project-pm.md)
+[Schedule a project from a start date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/schedule-a-project-pm.md)
 
-[Apply or change a task constraint](../task/change-task-constraint-project-management.md)
+[Apply or change a task constraint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/change-task-constraint-project-management.md)
 
-[Update a project](../task/t_UpdateAProjectInProgress.md)
+[Update a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_UpdateAProjectInProgress.md)
 
-[Copy a project](../task/t_CopyAProject.md)
+[Copy a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CopyAProject.md)
 
-[Assign a project schedule](../task/t_UseAProjectSchedule.md)
+[Assign a project schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_UseAProjectSchedule.md)
 
-[Create baseline of a project](../task/t_CreateAProjectBaseline.md)
+[Create baseline of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectBaseline.md)
 
-[Create a milestone](../task/t_CreateMilestones.md)
+[Create a milestone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateMilestones.md)
 
-[Activate project task email notifications](../task/t_ActivateProjTaskEmailNot.md)
+[Activate project task email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ActivateProjTaskEmailNot.md)
 
-[Change the planned start date of a project](../task/change-planned-start-date-of-project.md)
+[Change the planned start date of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/change-planned-start-date-of-project.md)
 
-[Create a cost type definition](../task/t_CreateAResourceTypeDefinition.md)
+[Create a cost type definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAResourceTypeDefinition.md)
 
-[Generate labor costs](../task/gen-cost-pln-prj-wrkspc.md)
+[Generate labor costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/gen-cost-pln-prj-wrkspc.md)
 
-[Create a project status report](../task/t_CreateAProjectStatusReport.md)
+[Create a project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectStatusReport.md)
 
-[Allocate budget to a project](../task/allocate-budget-to-project.md)
+[Allocate budget to a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/allocate-budget-to-project.md)
 
-[Migrate budget of active projects to Next Experience](../task/fin-migrate-budget-project-ppm.md)
+[Migrate budget of active projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/fin-migrate-budget-project-ppm.md)
 
-[Migrate financial baselines of projects to Next Experience](../task/migrate-fin-baselines-projects.md)
+[Migrate financial baselines of projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/migrate-fin-baselines-projects.md)
 

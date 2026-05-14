@@ -15,7 +15,7 @@ Several types of components are installed with the Service Management Core plugi
 
 Demo data is available with Service Management Core.
 
-**Parent Topic:**[Service Management Core installation reference](r_ServMgmtCoreInstallRef.md)
+**Parent Topic:**[Service Management Core installation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ServMgmtCoreInstallRef.md)
 
 ## Tables installed with Service Management Core
 

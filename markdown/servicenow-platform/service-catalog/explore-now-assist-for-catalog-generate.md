@@ -46,7 +46,7 @@ Roles
 
 </td><td>
 
-[Create catalog items using Now Assist](../task/create-catalog-item-using-now-assist.md)
+[Create catalog items using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/create-catalog-item-using-now-assist.md)
 
 </td><td>
 
@@ -55,9 +55,9 @@ catalog\_builder\_editor
 </td></tr></tbody>
 </table>**Note:**
 
-Now Assist generates only the entities that Catalog Builder supports. The limitations of Catalog Builder apply to Now Assist in Catalog Builder as well. For more information about the limitations of Catalog Builder, see [Limitations](catalog-builder.md#section_n4v_4ct_h4b) of Catalog Builder.
+Now Assist generates only the entities that Catalog Builder supports. The limitations of Catalog Builder apply to Now Assist in Catalog Builder as well. For more information about the limitations of Catalog Builder, see [Limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md#section_n4v_4ct_h4b) of Catalog Builder.
 
-**Parent Topic:**[Now Assist in Catalog Builder](now-assist-for-catalog-generation.md)
+**Parent Topic:**[Now Assist in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
 **Related topics**  
 

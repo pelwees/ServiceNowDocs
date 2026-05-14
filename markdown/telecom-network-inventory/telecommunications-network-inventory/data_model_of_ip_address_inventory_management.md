@@ -19,7 +19,7 @@ By using the IP address inventory management data model, you can understand how 
 
 The following diagram shows the IP address inventory management data model.
 
-![Data model that shows how the IP pools, IP subnetworks, allocated IP addresses, and IP addresses are related.](../image/IP_datamodel.png)
+![Data model that shows how the IP pools, IP subnetworks, allocated IP addresses, and IP addresses are related.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/IP_datamodel.png)
 
 With this data model, you can store the related tables of your IP pool, IP subnetwork addresses, or allocated IP addresses. You can also create an IP pool table or IP subnet table to allocate services. To do this task, you create an IP pool or IP subnet. Each IP address in the subnet is created in an allocated IP address table. You can then relate IP addresses from the allocated IP address table to the IP address table for discovery and configuration item \(CI\) mapping.
 
@@ -30,12 +30,12 @@ An IP address is allocated this way:
 
 3.  The IP addresses that are ready to use in the allocated IP address table are then related to a record in the IP address table.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+[Create IP address allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 
-[IP addresses allocation](../concept/ip_address_management.md)
+[IP addresses allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/ip_address_management.md)
 

@@ -32,5 +32,5 @@ When you remove a resource from the Excluded Resources list, the resource appear
 3.  In the Actions on selected rows list, select **Delete**.
 
 
-**Parent Topic:**[Exclude a resource from all Cloud Cost Management reports](exclusion-list-add-to-cloudin.md)
+**Parent Topic:**[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 

@@ -386,7 +386,7 @@ Teamspace \[pm\_app\_config\]
 
 </td><td>
 
-All teamspaces, which refer to the tables that are created for the teamspaces. See [Installed with teamspaces](../../project-management/reference/r_InstalledWithTeamspaces.md) for a list of teamspace tables.
+All teamspaces, which refer to the tables that are created for the teamspaces. See [Installed with teamspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../project-management/reference/r_InstalledWithTeamspaces.md) for a list of teamspace tables.
 
 </td></tr><tr><td>
 
@@ -799,5 +799,5 @@ Rate Line Import Set\[imp\_rate\_model\_line\]
 Stores import sets that you imported into the instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Project Portfolio Management \(PPM\) Standard](r_InstalledWithProjectPortfolioSuiteWithFinancials.md)
+</table>**Parent Topic:**[Components installed with Project Portfolio Management \(PPM\) Standard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/r_InstalledWithProjectPortfolioSuiteWithFinancials.md)
 

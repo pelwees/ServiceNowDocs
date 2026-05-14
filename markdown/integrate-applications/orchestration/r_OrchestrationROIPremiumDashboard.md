@@ -25,7 +25,7 @@ To access the ROI premium dashboard, navigate to **Orchestration** &gt; **ROI Re
 
 The ROI By Category tab contains three reports showing the calculated savings over time by category.
 
-![Calculated savings monthly by category](../image/ROICalculatedSavingsReport1.png "Calculated savings monthly by category")
+![Calculated savings monthly by category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ROICalculatedSavingsReport1.png "Calculated savings monthly by category")
 
 <table id="table_c3q_srz_zs"><thead><tr><th>
 
@@ -67,7 +67,7 @@ Shows the running sum of calculated savings for all categories in the last 12 mo
 
 The ROI By Automation Entry tab contains two reports showing the calculated savings over time by automation entry.
 
-![Calculated savings for the current month by automation entry](../image/ROICalculatedSavingsReport2.png "Calculated savings for the current month by automation entry")
+![Calculated savings for the current month by automation entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ROICalculatedSavingsReport2.png "Calculated savings for the current month by automation entry")
 
 <table id="table_d1d_m31_1t"><thead><tr><th>
 
@@ -96,7 +96,7 @@ Shows the top 10 automation entries that have the most calculated savings in the
 -   **Table**: Detailed Savings Report \[detailed\_savings\_report\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Orchestration ROI reports](../concept/c_OrchestrationROIDashboards.md)
+</table>**Parent Topic:**[Orchestration ROI reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_OrchestrationROIDashboards.md)
 
 ## Request Orchestration ROI premium reports
 

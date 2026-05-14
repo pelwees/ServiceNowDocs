@@ -19,26 +19,26 @@ Give users the option to select which knowledge base to browse on your portal. Y
 
 If you associate your portal with multiple knowledge bases, the KB Knowledge Bases widget provides users with a menu to select a knowledge base. After a user selects a knowledge base, other KB widgets on the page filter their content accordingly.
 
-For example, if a user selects to browse only the IT knowledge base, then the [KB Categories widget](kb-categories-widget.md) shows only the categories within the IT knowledge base.
+For example, if a user selects to browse only the IT knowledge base, then the [KB Categories widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/kb-categories-widget.md) shows only the categories within the IT knowledge base.
 
-![KB Knowledge Bases widget](../image/kb-knowledge-bases.png)
+![KB Knowledge Bases widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/kb-knowledge-bases.png)
 
 If you associate your portal with only one knowledge base, then the KB Knowledge Bases widget remains hidden on the page.
 
-For more information on associating your portal with knowledge bases, see [Associate a portal with a knowledge base](../task/associate-portal-knowledge.md).
+For more information on associating your portal with knowledge bases, see [Associate a portal with a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/associate-portal-knowledge.md).
 
 ## Instance options
 
 The KB Knowledge Bases widget doesn't include instance options.
 
-**Parent Topic:**[Knowledge Management widgets](km-widgets.md)
+**Parent Topic:**[Knowledge Management widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

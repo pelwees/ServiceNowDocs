@@ -17,7 +17,7 @@ Register the CrowdStrike OAuth application to access the CrowdStrike API and to 
 
 ## Before you begin
 
-The CrowdStrike Integration Hub spoke must be active. For more information, see [CrowdStrike spoke](../concept/crowdstrike-spoke.md).
+The CrowdStrike Integration Hub spoke must be active. For more information, see [CrowdStrike spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/crowdstrike-spoke.md).
 
 Role required: CrowdStrike Falcon administrator
 

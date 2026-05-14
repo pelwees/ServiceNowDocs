@@ -21,8 +21,8 @@ Role required: admin
 
 This task needs the following:
 
--   A X.509 certificate created for Card Data Security. See [Create an X.509 Certificate](create-an-x-509-certificate.md) for more information.
--   The key alias that was defined when generating the JKS file for Card Data Security. See [Create a JKS file](create-a-jks-file.md) for more information.
+-   A X.509 certificate created for Card Data Security. See [Create an X.509 Certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-an-x-509-certificate.md) for more information.
+-   The key alias that was defined when generating the JKS file for Card Data Security. See [Create a JKS file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-a-jks-file.md) for more information.
 -   The credentials JSON file obtained from the tokenizer service.
 
 ## Procedure
@@ -49,5 +49,5 @@ A JWT Key record is created.
 
 ## What to do next
 
-[Set up a JWT Provider](set-up-a-jwt-provider.md).
+[Set up a JWT Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-provider.md).
 

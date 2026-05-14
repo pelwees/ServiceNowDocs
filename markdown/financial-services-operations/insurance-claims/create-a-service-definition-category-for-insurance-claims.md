@@ -43,5 +43,5 @@ A service definition category is a logical grouping of service definitions. It c
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Creating a service definition for Insurance claims](../concept/create-service-definitions-for-insurance-claims.md)
+**Parent Topic:**[Creating a service definition for Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/create-service-definitions-for-insurance-claims.md)
 

@@ -41,12 +41,12 @@ Navigate to **All** &gt; **Partner Relationship Management** &gt; **Properties**
 
 The Segment admin \(sn\_seg.segment\_mgmt\_admin\) hasread and write access for the \[glide.ui.sn\_seg\_segment\_activity.fields\] property.
 
-**Parent Topic:**[Configure Segment Management](configure-segment-management.md)
+**Parent Topic:**[Configure Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
-[Configure Segment Management](configure-segment-management.md)
+[Configure Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
-[Data model for Segment Management](data-model-for-segment-management.md)
+[Data model for Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/data-model-for-segment-management.md)
 

@@ -17,5 +17,5 @@ You can modify the schema and connection properties in our tokenizer service. Ma
 
 For more details, refer to [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577).
 
-**Parent Topic:**[Managing Card data security](managing-card-data-security.md)
+**Parent Topic:**[Managing Card data security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-data-security.md)
 

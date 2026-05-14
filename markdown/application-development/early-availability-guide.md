@@ -23,10 +23,10 @@ The ServiceNow Developer Program provides Early Availability to pre-release vers
 
 As a Developer Program member, you have the first opportunity to become familiar with the latest ServiceNow release through Early Availability. Early Availability gives you an opportunity to learn skills that will set you apart from other developers in the industry. You can leverage the latest features and upgrades to build new applications.
 
--   **[Early Availability learning plans and training courses](early-availability-learning-plans-and-training-courses.md)**  
+-   **[Early Availability learning plans and training courses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/early-availability-learning-plans-and-training-courses.md)**  
 Early Availability gives you access to learning plans and training courses specifically for the latest release.
--   **[Early availability API documentation](early-availability-api-documentation.md)**  
+-   **[Early availability API documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/early-availability-api-documentation.md)**  
 Early Availability includes access to API documentation for the latest release.
 
-**Parent Topic:**[Learning about developing on the ServiceNow AI Platform](../../custom-application/concept/getting-started-with-building-applications.md)
+**Parent Topic:**[Learning about developing on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../custom-application/concept/getting-started-with-building-applications.md)
 

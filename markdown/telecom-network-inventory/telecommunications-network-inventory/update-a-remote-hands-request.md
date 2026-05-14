@@ -33,7 +33,7 @@ The following procedure enables Remote Hands Agents to review the submitted case
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace.**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\).
 
 3.  Select the **Remote Hands Cases**.
 
@@ -53,5 +53,5 @@ The following procedure enables Remote Hands Agents to review the submitted case
     You can further modify case fields. Add Work Notes for customers to view, update the state and close the case.
 
 
-**Parent Topic:**[Remote Hands Request](../concept/remote-hands-request.md)
+**Parent Topic:**[Remote Hands Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/remote-hands-request.md)
 

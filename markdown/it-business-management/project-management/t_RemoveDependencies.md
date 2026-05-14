@@ -51,12 +51,12 @@ Removing the dependency also deletes the dependency record in the Planned Task R
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a dependency from the planning console](t_CreateADependency.md)
+**Parent Topic:**[Create a dependency from the planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateADependency.md)
 
 **Related topics**  
 
 
-[Modify a project task dependency](t_ModifyProjectTaskDependencies.md)
+[Modify a project task dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ModifyProjectTaskDependencies.md)
 
-[Create a dependency from the planning console](t_CreateADependency.md)
+[Create a dependency from the planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateADependency.md)
 

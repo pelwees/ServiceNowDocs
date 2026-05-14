@@ -18,7 +18,7 @@ Use a rich control to provide the option for users to skip a question.
 Use the rich control `\nType SKIP to skip question` to provide the option for a user to skip a question. There are two ways to configure a skip option:
 
 -   In the provider attributes script, use `_skip_internal` to trigger a contextual action service to skip the question.
--   Map a contextual action for the provider and use `//request_context.contextual_action = "SKIP"` to skip the question. See [Contextual actions for custom chat integrations](contextual-actions.md#) to learn more about mapping user inputs to contextual actions.
+-   Map a contextual action for the provider and use `//request_context.contextual_action = "SKIP"` to skip the question. See [Contextual actions for custom chat integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/contextual-actions.md#) to learn more about mapping user inputs to contextual actions.
 
 Example script:
 
@@ -74,5 +74,5 @@ contextual_action (all new)
 })(inputs, outputs);
 ```
 
-**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](../concept/va-features-custom-chat-integrations.md)
+**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-features-custom-chat-integrations.md)
 

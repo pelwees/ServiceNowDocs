@@ -24,7 +24,7 @@ Role required: discovery\_admin or sn\_cmp.cloud\_admin
 
 ## About this task
 
-For information about the resources which are supported by Azure change processing, see [Azure change processing](../concept/azure-change-processing.md).
+For information about the resources which are supported by Azure change processing, see [Azure change processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/azure-change-processing.md).
 
 ## Procedure
 

@@ -27,7 +27,7 @@ Supported versions:
 -   Network Performance Monitor \(NPM\)
 -   SolarWinds Service &amp; Application Monitor \(SAM\)
 
-The SolarWinds monitor connector instance requires a credential that lets the instance access SolarWinds monitor accounts. You can use an existing credential or [create a new one](create-credentials-solarwinds.md). The provided user must have access to the SolarWinds API to receive events from the SolarWinds connector.
+The SolarWinds monitor connector instance requires a credential that lets the instance access SolarWinds monitor accounts. You can use an existing credential or [create a new one](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-credentials-solarwinds.md). The provided user must have access to the SolarWinds API to receive events from the SolarWinds connector.
 
 Role required: evt\_mgmt\_admin and evt\_mgmt\_integration
 
@@ -49,7 +49,7 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
     |Description|Type a description for the use of the SolarWinds monitor event collection instance.|
     |Connector Definition|Select **Solarwinds\_v2**.|
     |Host IP|Specify the SolarWinds monitor IP address.|
-    |Credential|Select the credential with basic authentication that you created for this connector. For more information, see [Create SolarWinds monitor credentials](create-credentials-solarwinds.md).|
+    |Credential|Select the credential with basic authentication that you created for this connector. For more information, see [Create SolarWinds monitor credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-credentials-solarwinds.md).|
     |Event collection last run time|The last run time value of the scheduled job. This field is updated automatically.|
     |Last event collection status|The last event collection status. This field is updated automatically.|
     |Event collection schedule \(seconds\)|The frequency in seconds that the system checks for new events from the SolarWinds monitor server.|
@@ -115,13 +115,13 @@ A boolean toggle that determines the source table for event queries. Setting the
 8.  After a successful test, select the **Active** check box and then click **Update**.
 
 
--   **[Create SolarWinds monitor credentials](create-credentials-solarwinds.md)**  
+-   **[Create SolarWinds monitor credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-credentials-solarwinds.md)**  
 Create credentials to access SolarWinds monitor.
 
-**Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)
+**Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
 **Related topics**  
 
 
-[Configure a pull connector](t_EMConfigureConnectorInstance.md)
+[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 

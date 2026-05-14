@@ -17,11 +17,11 @@ Create Azure DevOps OAuth 2.0 credential and use them to connect your Azure DevO
 
 If you want to use Basic Authentication credentials instead of OAuth 2.0, skip this section and proceed to onboarding Azure DevOps using one of the following options:
 
--   [Onboard Azure DevOps to DevOps Change Velocity — Workspace](../concept/devops-wkspc-azuredevops-tool-conn.md#)
--   [Onboard Azure DevOps to DevOps Change Velocity — Service Catalog](onboard-azure-devops-service-catalog.md)
--   [Onboard Azure DevOps to DevOps Change Velocity — Classic](create-azure-tool-dev-ops.md)
+-   [Onboard Azure DevOps to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-wkspc-azuredevops-tool-conn.md#)
+-   [Onboard Azure DevOps to DevOps Change Velocity — Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/onboard-azure-devops-service-catalog.md)
+-   [Onboard Azure DevOps to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-azure-tool-dev-ops.md)
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/azure-devops-integration-dev-ops.md)
 
 ## Create a tenant in Microsoft Entra
 
@@ -66,7 +66,7 @@ Role required: User Administrator in Azure DevOps
 
 ### Procedure
 
-1.  In the Microsoft Entra ID tenant page, select the number of users link in the Tenant details section. ![Users in Tenant details section](../image/tenant-users.png)
+1.  In the Microsoft Entra ID tenant page, select the number of users link in the Tenant details section. ![Users in Tenant details section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tenant-users.png)
 
 2.  Select **New user &gt; Create new user**.
 
@@ -117,9 +117,9 @@ Role required: Global Administrator in Azure DevOps
 
 3.  Select **Create new organization**.
 
-4.  Enter the name of your ADO organization and location, and then select **Continue**. ![Create ADO org page](../image/create-ado-org.png)
+4.  Enter the name of your ADO organization and location, and then select **Continue**. ![Create ADO org page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/create-ado-org.png)
 
-    This newly created org will be connected with the tenant created in the [Create a tenant in Microsoft Entra](set-up-azure-devops-oauth-2-0-credential.md#) topic.
+    This newly created org will be connected with the tenant created in the [Create a tenant in Microsoft Entra](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/set-up-azure-devops-oauth-2-0-credential.md#) topic.
 
 
 ## Create an Azure DevOps app
@@ -150,13 +150,13 @@ Role required: Global Administrator in Azure DevOps
 
     -   Application \(client\) ID
     -   Directory \(tenant\) ID
-    ![Overview page for an ADO app](../image/ado-app-creation-overview.png)
+    ![Overview page for an ADO app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-app-creation-overview.png)
 
 6.  Add a client secret by selecting the **Manage &gt; Certificates &amp; secrets** link in the left navigation pane.
 
     For more information, see the [Add a client secret](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate#add-a-client-secret) and [Register an application](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate) topics in Microsoft documentation.
 
-7.  Copy the client secret value. ![Certificates & secrets section for an ADO app](../image/ado-app-client-secret.png)
+7.  Copy the client secret value. ![Certificates & secrets section for an ADO app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-app-client-secret.png)
 
 8.  Navigate to **Manage &gt; API permissions**.
 
@@ -164,7 +164,7 @@ Role required: Global Administrator in Azure DevOps
 
 10. Search and select Azure DevOps and add the **vso.project** permission.
 
-11. Select the vso.project permission, and copy the **Resource App ID** value. ![Resource App ID in the API Permissions screen](../image/vso-resource-id.png)
+11. Select the vso.project permission, and copy the **Resource App ID** value. ![Resource App ID in the API Permissions screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/vso-resource-id.png)
 
     **Note:** The resource app ID value copied here will be added in the OAuth Entity Scopes for the Application Registry.
 
@@ -252,7 +252,7 @@ Where, Directory \(tenant\) ID is the alphanumeric value found in the Overview s
 </td></tr></tbody>
 </table>5.  Leave the rest of the form fields as is.
 
-    ![ADO OAuth app registry page](../image/ado-oauth-app-registry.png)
+    ![ADO OAuth app registry page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-oauth-app-registry.png)
 
 6.  Select and hold \(or right-click\) the form header, and select **Save**.
 
@@ -260,7 +260,7 @@ Where, Directory \(tenant\) ID is the alphanumeric value found in the Overview s
 
 7.  Select the **OAuth Entity Scopes** related tab.
 
-8.  Add the OAuth scope value as **&lt;Resource App ID value copied in step 11 of the previous procedure&gt;/.default**. ![OAuth Entity Scope related tab](../image/oauth-entity-scope.png)
+8.  Add the OAuth scope value as **&lt;Resource App ID value copied in step 11 of the previous procedure&gt;/.default**. ![OAuth Entity Scope related tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/oauth-entity-scope.png)
 
 
 ## Configure organization and project level settings
@@ -277,7 +277,7 @@ Role required: Member of the [**Project Collection Administrators** group](https
 
 2.  Select **Users**.
 
-3.  In the **Users or Service Principals** field, select the app you created in the previous procedure to the list. ![Add app user to organization](../image/add-user-org.png)
+3.  In the **Users or Service Principals** field, select the app you created in the previous procedure to the list. ![Add app user to organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/add-user-org.png)
 
 4.  Navigate back to the users list, and select the app user.
 
@@ -287,17 +287,17 @@ Role required: Member of the [**Project Collection Administrators** group](https
 
     **Note:** If you aren’t seeing your release or classic pipelines, ensure that the **Disable creation of classic release pipelines** setting is switched off for your organization.
 
-    ![Pipeline Settings for your organization](../image/organization-pipeline-settings.png)
+    ![Pipeline Settings for your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/organization-pipeline-settings.png)
 
 7.  Navigate to **Project Settings** of your project.
 
 8.  Select **Permissions**.
 
-    There will be one project team created under permissions by default. ![Project level permissions](../image/project-level-team-permission.png)
+    There will be one project team created under permissions by default. ![Project level permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/project-level-team-permission.png)
 
 9.  Select the default project team, and navigate to the Members tab.
 
-10. Add your app user. ![Add app user to default project](../image/project-level-app-user.png)
+10. Add your app user. ![Add app user to default project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/project-level-app-user.png)
 
 
 ## Create credential record and get OAuth token

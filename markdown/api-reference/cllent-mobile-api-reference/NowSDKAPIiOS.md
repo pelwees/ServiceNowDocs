@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowSDK framework contains methods that enable the instantiation of various feature services.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowSDK - configure\(with configuration: NowSDKConfiguration\) throws
 
@@ -25,7 +25,7 @@ Configures NowSDK for use. You must call this function before calling any of the
 
 |Name|Type|Description|
 |----|----|-----------|
-|with configuration|[NowSDKConfiguration](../../NowSDKConfiguration/concept/NowSDKConfigurationiOSAPI.md#)|NowSDKConfiguration that contains the information necessary to initialize the service.|
+|with configuration|[NowSDKConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowSDKConfiguration/concept/NowSDKConfigurationiOSAPI.md#)|NowSDKConfiguration that contains the information necessary to initialize the service.|
 
 |Type|Description|
 |----|-----------|
@@ -67,7 +67,7 @@ Returns a reference to the SDK core service.
 
 |Type|Description|
 |----|-----------|
-|Object|Object conforming to the NowCoreServiceProviding protocol is returned if the SDK has been initialized by calling the [NowSDK - configure\(with configuration: NowSDKConfiguration\) throws](NowSDKAPIiOS.md#) method; otherwise `nil`.|
+|Object|Object conforming to the NowCoreServiceProviding protocol is returned if the SDK has been initialized by calling the [NowSDK - configure\(with configuration: NowSDKConfiguration\) throws](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowSDKAPIiOS.md#) method; otherwise `nil`.|
 
 The following code example shows how to call this function.
 
@@ -88,7 +88,7 @@ Convenience function that feature services can use to construct n NowServiceConf
 
 |Type|Description|
 |----|-----------|
-|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|If the specified URL passes basic validity checks, and the service configuration can be properly constructed, returns the NowServiceConfiguration object; otherwise `nil`.|
+|[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|If the specified URL passes basic validity checks, and the service configuration can be properly constructed, returns the NowServiceConfiguration object; otherwise `nil`.|
 
 The following code example shows how to call this function.
 

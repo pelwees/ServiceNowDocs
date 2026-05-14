@@ -50,12 +50,12 @@ Authentication requirement for REST Outbound are as follows:
 -   When scripting new REST messages configured with authentication you must use the RESTMessageV2 API. The legacy RESTMessage APIs do not support current authentication formats.
 -   AWS credentials or any other custom authentication are supported only with the [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/rest-request-action-designer.md), not with the RestMessage API.
 
--   **[Configure a REST message with basic auth](../task/t_ConfigureRESTMsgBasicAuth.md)**  
+-   **[Configure a REST message with basic auth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_ConfigureRESTMsgBasicAuth.md)**  
 Configure an outbound REST message to provide basic authentication credentials with each request.
--   **[Configure a REST message with OAuth](../task/t_ConfigureARESTMessageWithOAuth.md)**  
+-   **[Configure a REST message with OAuth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_ConfigureARESTMessageWithOAuth.md)**  
 You can configure an outbound REST message to send OAuth credentials with the request.
--   **[Outbound REST mutual authentication](c_OutboundRESTMutualAuthentication.md)**  
+-   **[Outbound REST mutual authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundRESTMutualAuthentication.md)**  
 Mutual authentication causes the web service provider and consumer to authenticate with each other before communicating.
 
-**Parent Topic:**[Outbound REST web service](c_OutboundRESTWebService.md)
+**Parent Topic:**[Outbound REST web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundRESTWebService.md)
 

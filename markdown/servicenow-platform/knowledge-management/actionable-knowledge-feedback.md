@@ -25,14 +25,14 @@ The task assignees can update the article, create a new article, request additio
 
 Beginning with New York, the **Knowledge Article View** page route map is activated by default. Existing customers on release versions prior to New York can activate the **Knowledge Article View** page route map. For more information, see [Activate the Knowledge Article View page on upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/redirect-knowledge.md).
 
-**Parent Topic:**[Knowledge Management](knowledge-management.md)
+**Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
 **Related topics**  
 
 
-[Enable actionable knowledge feedback](../task/configure-act-know-feedback-properties.md)
+[Enable actionable knowledge feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/configure-act-know-feedback-properties.md)
 
-[Work on a feedback task](../task/review-reassign-feedback-task.md)
+[Work on a feedback task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/review-reassign-feedback-task.md)
 
-[Track the progress on a feedback task](../task/track-feedback-task-metrics.md)
+[Track the progress on a feedback task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/track-feedback-task-metrics.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_slm.owner or sn\_slm.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  On the List page, navigate to and select a case.
 
@@ -31,7 +31,7 @@ Role required: sn\_slm.owner or sn\_slm.admin
 
 5.  In the **Select case** field of the Add related cases dialog box, search for and select a case.
 
-6.  Select **Add**.![Selected tab for adding related case to a supplier case](../image/add-related-case-supplier-case.png)
+6.  Select **Add**.![Selected tab for adding related case to a supplier case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/add-related-case-supplier-case.png)
 
 
 ## Result
@@ -40,10 +40,10 @@ The case is added and displayed on the **Related Cases** tab.
 
 When you add a related case, the supplier case you added it under becomes the parent case of that related case.
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 

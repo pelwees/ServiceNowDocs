@@ -25,12 +25,12 @@ Your administrator can configure the appointment window available for selecting 
 
 After you book an appointment, a training task is created for the nurse educator and the appointment confirmation email notification is sent to you.
 
-For more information, see [Appointment booking workflow in Patient Support Services](pss-appt-booking-feature.md).
+For more information, see [Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-feature.md).
 
 **Related topics**  
 
 
-[Appointment booking workflow in Patient Support Services](pss-appt-booking-feature.md)
+[Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-feature.md)
 
-[Configuring an appointment booking setting for Patient Support Services](pss-appt-booking-setup.md#)
+[Configuring an appointment booking setting for Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-setup.md#)
 

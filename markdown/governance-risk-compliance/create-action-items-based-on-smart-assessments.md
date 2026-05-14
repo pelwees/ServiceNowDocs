@@ -39,11 +39,11 @@ Verify that you have created Smart Assessment templates for integrating crisis e
 
     The Create New Action item form is displayed.
 
-    ![Create New Action item.](../image/create-new-action-item-action-task.png)
+    ![Create New Action item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-action-item-action-task.png)
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Action item form for crisis events](../reference/create-new-action-item-crisis-event-form.md).
+    For descriptions of all these fields, see [Create New Action item form for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-action-item-crisis-event-form.md).
 
     1.  Add the description and short description of the action item.
 
@@ -75,7 +75,7 @@ Verify that you have created Smart Assessment templates for integrating crisis e
 
         When you select the action task as an assessment, the **Assessment template** field is displayed in the form. The application uses Smart Assessment to perform the assessment. Ensure that BCM administrators have already created the necessary templates in the Assessment Workspace beforehand using the Smart Assessment Engine.
 
-        **Note:** To make the desired Smart Assessment templates visible in the drop-down in the action item form in the Business Continuity Workspace, verify that following steps are completed in the Assessment Workspace.![Selections.](../image/event-action-item-sa-req-fields.png)
+        **Note:** To make the desired Smart Assessment templates visible in the drop-down in the action item form in the Business Continuity Workspace, verify that following steps are completed in the Assessment Workspace.![Selections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-action-item-sa-req-fields.png)
 
         1.  Select the necessary template, such as the Fire crisis template shown in the example, in the Details section.
         2.  Choose the **Threat assessment for crisis events** category in the **Assessment template categories** field. If you choose a different category, the desired template will not be shown in the Business Continuity Workspace.
@@ -84,7 +84,7 @@ Verify that you have created Smart Assessment templates for integrating crisis e
         5.  Publish the assessment template.
         Only when these conditions are met, the template is available for selection in the drop-down of the action item form.
 
-        For information on setting up Smart Assessment templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+        For information on setting up Smart Assessment templates, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
     2.  Add an assignment group or a team member and additional assignee list, select the timeline, and save the record.
 
@@ -111,8 +111,8 @@ Verify that you have created Smart Assessment templates for integrating crisis e
     This step completes the workflow of the action item record.
 
 
--   **[Create New Action item form for crisis events](../reference/create-new-action-item-crisis-event-form.md)**  
+-   **[Create New Action item form for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-action-item-crisis-event-form.md)**  
 Use the Create New Action item form in the BCM Configurable Workspace to add action items about a crisis event.
 
-**Parent Topic:**[Creating action items in crisis events](../concept/creating-action-items-in-crisis.md)
+**Parent Topic:**[Creating action items in crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/creating-action-items-in-crisis.md)
 

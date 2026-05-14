@@ -27,7 +27,7 @@ Role required: wm\_agent
 
 3.  Tap **My requests** and select the part request you want to duplicate.
 
-4.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select **Duplicate request**.
+4.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select **Duplicate request**.
 
 
 ## Result

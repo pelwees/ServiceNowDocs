@@ -15,9 +15,9 @@ Automation logs are series of succession stages or a series of checkpoints that 
 
 ## Before you begin
 
-Ensure that the **Track Automation Logs** check box on the Bot Process form is enabled. For more information, see [Bot Process form in RPA Hub](select-botprocess.md#).
+Ensure that the **Track Automation Logs** check box on the Bot Process form is enabled. For more information, see [Bot Process form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/select-botprocess.md#).
 
-Ensure to use the log component in the associated automation and populate the required details in RPA Desktop Design Studio. For more information about the component, see [Use the Log component](../../rpa-studio/task/use-general-log.md).
+Ensure to use the log component in the associated automation and populate the required details in RPA Desktop Design Studio. For more information about the component, see [Use the Log component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/task/use-general-log.md).
 
 Role required: sn\_rpa\_fdn.rpa\_business\_user, sn\_rpa\_fdn.rpa\_support\_user, sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, or sn\_rpa\_fdn.rpa\_admin
 
@@ -40,7 +40,7 @@ The automation logs store up to 8,000 records that are latest. Every 5 minutes, 
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  Navigate to the automation logs in one of the following ways.
 
@@ -87,7 +87,7 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/monitoring-automations-rpa.md)
 
 ## Automation Logs form in RPA Hub
 

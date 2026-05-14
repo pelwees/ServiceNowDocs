@@ -17,11 +17,11 @@ Use Now Assist to generate playbook outlines from text or image inputs. For exam
 
 Now Assist for Creator activates the playbook generation skill. Playbook generation gives generative AI capabilities to playbook authors.
 
-Playbook authors can provide text directions to create multi-stage playbooks with [placeholder activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/placeholder-activity.md) \(![placeholder activity icon.](../images/placeholder-activity-icon.png)\).
+Playbook authors can provide text directions to create multi-stage playbooks with [placeholder activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/placeholder-activity.md) \(![placeholder activity icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/placeholder-activity-icon.png)\).
 
-**Note:** Playbook generation uses placeholder activities in your playbook. [Configure each activity](../task/generate-a-playbook-outline.md) before activating your playbook.
+**Note:** Playbook generation uses placeholder activities in your playbook. [Configure each activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-a-playbook-outline.md) before activating your playbook.
 
-![Choose an activity definition for the placeholder activity.](../images/configure-placeholder-activity.png)
+![Choose an activity definition for the placeholder activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/configure-placeholder-activity.png)
 
 ## Activation
 
@@ -37,7 +37,7 @@ Playbook Assist currently supports the playbook generation, playbook recommendat
 
 Access the playbook generation skill when you’re creating a playbook in Workflow Studio.
 
-![Build a new playbook with Now Assist.](../images/new-playbook-now-assist.png)
+![Build a new playbook with Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/new-playbook-now-assist.png)
 
 ## Writing prompts and reviewing playbook outlines
 
@@ -73,7 +73,7 @@ Review playbook outlines:
 
     Configure placeholder activities before you activate your playbook. Use playbook recommendations to help choose activity definitions.
 
-    ![Choose an activity definition for the placeholder activity.](../images/configure-placeholder-activity.png "Configure the activity definition in the activity side panel")
+    ![Choose an activity definition for the placeholder activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/configure-placeholder-activity.png "Configure the activity definition in the activity side panel")
 
 
 ## Retrieval Augmented Generation \(RAG\) support
@@ -148,5 +148,5 @@ The following examples can help you to generate playbook outlines:
 
 **Note:** Generating or regenerating a playbook preview counts as 10 assists. To track your Now Assist usage, see [Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md).
 
-**Parent Topic:**[Playbook generation](playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/playbook-assist-landing.md)
 

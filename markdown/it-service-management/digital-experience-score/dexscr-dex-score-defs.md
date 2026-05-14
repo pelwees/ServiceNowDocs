@@ -21,7 +21,7 @@ This metric measures the overall employee experience with devices and applicatio
 
 This metric score is rolled up from the following two metric scores: Application experience score and Device experience score.
 
-![Chart representing the hierarchy of metrics score considered in Digital Experience Score​.](../image/dex-score-hierarchy.png "Digital Experience Score​ hierarchy")
+![Chart representing the hierarchy of metrics score considered in Digital Experience Score​.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../image/dex-score-hierarchy.png "Digital Experience Score​ hierarchy")
 
 ## Application experience score
 
@@ -72,7 +72,7 @@ The device experience score is the average device experience score of DEX monito
 **Related topics**  
 
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-normalization.md)
 

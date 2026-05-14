@@ -19,7 +19,7 @@ DevOps Config uses Configuration Data Management and Policy as Code Engine platf
 
 ## DevOps Config platform capabilities
 
-![DevOps Config capabilities](../image/devops-config-capabilities.png)
+![DevOps Config capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-capabilities.png)
 
 -   **Configuration Data Management \(CDM\)**
 
@@ -62,7 +62,7 @@ DevOps Config uses Configuration Data Management and Policy as Code Engine platf
 
 ## DevOps Config dependencies
 
-![DevOps Config dependencies](../image/devops-config-dependencies.png)
+![DevOps Config dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-dependencies.png)
 
 These plugins are installed with core DevOps Config applications. They are critical to DevOps Config and do not function properly without them.
 
@@ -87,5 +87,5 @@ These plugins are installed with core DevOps Config applications. They are criti
     These extensions include class descriptions, identification rules, identifier entries, and dependent relationships.
 
 
-**Parent Topic:**[Exploring DevOps Config](devops-config-getting-started.md)
+**Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 

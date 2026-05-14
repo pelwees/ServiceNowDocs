@@ -32,7 +32,7 @@ Role required: admin
 
 4.  Select the **Active** check box.
 
-    ![Activate Agentic AI - Set reminders for contract business rule.](../image/cmpro-agentic-ai-br.png "Agentic AI - Set reminders for contract business rule")
+    ![Activate Agentic AI - Set reminders for contract business rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-agentic-ai-br.png "Agentic AI - Set reminders for contract business rule")
 
 5.  Select **Update**.
 
@@ -44,7 +44,7 @@ Role required: admin
 
 8.  Select the **Active** check box.
 
-    ![Activate Agentic AI Set reminders for Econtract.](../image/cmpro-agentic-ecntract-br.png "Agentic AI Set reminders for Econtract")
+    ![Activate Agentic AI Set reminders for Econtract.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-agentic-ecntract-br.png "Agentic AI Set reminders for Econtract")
 
 9.  Select **Update**.
 
@@ -53,14 +53,14 @@ Role required: admin
 
 The Manage contract repository agentic workflow is activated for Now Assist in Contract Management.
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 
 
-[Set the default notice period for the Manage contract repository agentic workflow](conf-sys-prop-default-np.md)
+[Set the default notice period for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-sys-prop-default-np.md)
 
-[Update the contracts AI agents handler script include](cmpro-script-includ-agenticAI.md)
+[Update the contracts AI agents handler script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md)
 
-[Enable notifications for AI extracted metadata and obligations](cmpro-na-me-agentic-ntf.md)
+[Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 

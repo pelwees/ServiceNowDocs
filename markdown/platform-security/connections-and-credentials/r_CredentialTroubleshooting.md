@@ -19,7 +19,7 @@ Certain probes support credential debugging. Credential debugging inserts a `<cr
 
 The `<credentials_debug>` section appears in the payload if:
 
--   Credentials fail for [WMIRunner probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_WMIRunnerProbe.md), [PowerShell probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_PowershellProbe.md), [JMS](r_JMSCredentialsForm.md), or [SSHCommand probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md).
+-   Credentials fail for [WMIRunner probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_WMIRunnerProbe.md), [PowerShell probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_PowershellProbe.md), [JMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JMSCredentialsForm.md), or [SSHCommand probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md).
 -   You set the **credentials\_debug** parameter to **true** for the WMIRunner, PowerShell, or SSHCommand probes. If you set the parameter to true, the `<credentials_debug>` section appears even if the credential lookup is successful.
 
 The `<credentials_debug>` section shows:
@@ -28,7 +28,7 @@ The `<credentials_debug>` section shows:
 -   The IP address targeted.
 -   Information about each credential \(in order\) that the MID Server used, including the type, classification, tag, name, Sys ID, and external credential ID if present.
 
-![Sample payload showing invalid credentials](../image/CredentialDebuggingPayload.png "Sample payload showing invalid credentials")
+![Sample payload showing invalid credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/CredentialDebuggingPayload.png "Sample payload showing invalid credentials")
 
 Details appear for the PowerShell parameter:
 

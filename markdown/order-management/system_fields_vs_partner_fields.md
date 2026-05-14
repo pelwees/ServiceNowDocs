@@ -25,13 +25,13 @@ The following example shows how a user would set a CPQ field in an On Configure/
 cfgRequest.testField.set("value", "Hello World"); 
 ```
 
-For a more complete description of CPQ fields, see [Configure fields](fields_101.md).
+For a more complete description of CPQ fields, see [Configure fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fields_101.md).
 
 **Note:** In organizations that do not use Salesforce for their launch-point into CPQ, all fields must be initialized in their API call.
 
 ## System fields
 
-![System fields](../images/cpq-fields-system-fields.png)
+![System fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-system-fields.png)
 
 System fields are predefined. System fields cannot be assigned a default value because they leverage the SFDC product cache \(or the current date and time\) to generate their values.
 
@@ -45,11 +45,11 @@ System fields can be added directly to any layout. There are no issues with disp
 
 In the layout editor:
 
-![Layout editor](../images/cpq-fields-layout-editor.png)
+![Layout editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-layout-editor.png)
 
 In the Configurator UI:
 
-![Layout editor screen](../images/cpq-fields-configurator-ui.png)
+![Layout editor screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-configurator-ui.png)
 
 Unit of Measure is blank because in this example, it has not been defined in SFDC.
 
@@ -69,15 +69,15 @@ The mapping of each of these system fields to their respective SFDC object is as
     sys.productId changes to whatever is defined in your CPQ environment settings. For instance, if the Product Id field was set to Product Code, the resulting data would be Product Code, making it identical to the sys.productCode field.
 
 
-![Product code](../images/cpq-fields-product-code.png)
+![Product code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-product-code.png)
 
 If the Product Id field was instead set to Partner Id, the data would be pulled from the SFDC field Product2 Id \(ID as the field API name\):
 
-![System fields screen](../images/cpq-fields-partner-id-example.png)
+![System fields screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-partner-id-example.png)
 
 ## Partner fields
 
-![Partner fields](../images/cpq-fields-partner-fields.png)
+![Partner fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-partner-fields.png)
 
 Partner fields are fields that use a POST call to initialize a configuration via API. Partner fields leverage the partnerʼs data set to generate field values.
 
@@ -120,11 +120,11 @@ return cfgRequest;
 
 Initial configuration:
 
-![Initial configuration screen.](../images/cpq-fields-initial-config.png)
+![Initial configuration screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-initial-config.png)
 
 Reconfiguration:
 
-![Partner fields](../images/cpq-fields-reconfig.png)
+![Partner fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-reconfig.png)
 
 Line ID is now populated.
 
@@ -133,7 +133,7 @@ How you use partner and system fields is up to you. Some organizations find it h
 **Related topics**  
 
 
-[Grid-style fields and field collections](what_field_type_should_i_use_for_organizing_field_options_and_data.md)
+[Grid-style fields and field collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/what_field_type_should_i_use_for_organizing_field_options_and_data.md)
 
-[Configure fields](fields_101.md)
+[Configure fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 

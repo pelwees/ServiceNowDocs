@@ -23,17 +23,17 @@ Roles required: admin, security\_admin
 
 2.  Select the **Import Update Set from XML** button on the bottom-left corner of the screen.
 
-    ![Import XML screen to retrieve update set.](../../key-management-framework/image/import-update-set-1.png)
+    ![Import XML screen to retrieve update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/import-update-set-1.png)
 
-3.  Select **Choose File** and browse to select the XML file that you exported in [Prepare Circle of Trust certificates](create-updateset-nonprod.md).
+3.  Select **Choose File** and browse to select the XML file that you exported in [Prepare Circle of Trust certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/create-updateset-nonprod.md).
 
-    ![Import XML screen to retrieve update set.](../../key-management-framework/image/retrieve-update-set.png)
+    ![Import XML screen to retrieve update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/retrieve-update-set.png)
 
 4.  Select **Upload**.
 
     The Code Signing update set is added to the Retrieved Update Sets table.
 
-    ![Loaded update set to production.](../../key-management-framework/image/loaded-updateset-prod.png)
+    ![Loaded update set to production.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/loaded-updateset-prod.png)
 
     **Note:** If you don’t see your update set, filter your list for records in the Loaded state, and sort the list by the **Loaded** field.
 
@@ -41,13 +41,13 @@ Roles required: admin, security\_admin
 
     -   Two KMF Signature Records
     -   X.509 Certificate
-    ![Shows the imported certificate and signature records into production.](../../key-management-framework/image/prod-customer-updates-retrieved.png)
+    ![Shows the imported certificate and signature records into production.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/prod-customer-updates-retrieved.png)
 
 6.  Select **Preview Update Set**.
 
 7.  Select **Commit Update Set**.
 
-    ![Shows the State updated to Committed.](../../key-management-framework/image/committed-updateset.png)
+    ![Shows the State updated to Committed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/committed-updateset.png)
 
     The Retrieved Update Set **State** updates to Committed.
 
@@ -61,7 +61,7 @@ Roles required: admin, security\_admin
 
 11. Select **Install Trusted Code Signing cert**.
 
-    ![X.509 form to install trusted Code Signing cert.](../../key-management-framework/image/install-trusted-code-signing-cert.png)
+    ![X.509 form to install trusted Code Signing cert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/install-trusted-code-signing-cert.png)
 
     The certificate type updates to `Trusted CodeSigning Cert`.
 
@@ -70,7 +70,7 @@ Roles required: admin, security\_admin
 
 ## Result
 
-The trust relationship is established between trusted and protected instances. You’re ready to enable Code Signing. See [Turn on Code Signing](enable-codesiging.md) to complete the steps.
+The trust relationship is established between trusted and protected instances. You’re ready to enable Code Signing. See [Turn on Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/enable-codesiging.md) to complete the steps.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/config-code-signing.md)
 

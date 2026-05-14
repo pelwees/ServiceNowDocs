@@ -57,7 +57,7 @@ The **Cancel appointment** window opens. You can cancel the appointment by selec
 
 The Schedule appointment page opens. The fields are pre-filled with the appointment details. You can edit the details and reschedule the appointment.
 
- For more information about scheduling an appointment, see [Schedule an appointment](schedule-appointment.md).
+ For more information about scheduling an appointment, see [Schedule an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/schedule-appointment.md).
 
 </td></tr><tr><td id="d335892e157">
 
@@ -69,7 +69,7 @@ The **Give feedback** window opens. You can select a rating and provide addition
 
  This option is available only if the appointment state is **Complete**. You can only give one feedback for an appointment.
 
- For more information about providing feedback, see [Use the integrated experience and service feedback](../concept/using-ex-fdback.md).
+ For more information about providing feedback, see [Use the integrated experience and service feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/using-ex-fdback.md).
 
 </td></tr></tbody>
 </table>

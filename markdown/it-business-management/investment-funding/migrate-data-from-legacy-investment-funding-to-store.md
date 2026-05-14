@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Execute Now**.
 
 
-**Parent Topic:**[Upgrading legacy Investment Funding to Store application](../concept/upgrading-legacy-investment-funding-to-store.md)
+**Parent Topic:**[Upgrading legacy Investment Funding to Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../concept/upgrading-legacy-investment-funding-to-store.md)
 

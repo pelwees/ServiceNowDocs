@@ -22,5 +22,5 @@ Virtual Agent does not support the following functionalities during a conversati
 -   Connect Support
 -   Geo-location topic block
 
-**Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](../concept/va-teams-other-features.md)
+**Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-teams-other-features.md)
 

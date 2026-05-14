@@ -15,7 +15,7 @@ The organizational chart provides an interactive visualization of company struct
 
 Employee Slate brings org chart and employee profile functionality together in a single experience. Employees explore the organizational structure and view colleague information without switching between HR systems or directory tools.
 
-![Employee org chart and team structure](../images/es-org-chart.png "Org chart")
+![Employee org chart and team structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-org-chart.png "Org chart")
 
 ## Org chart
 

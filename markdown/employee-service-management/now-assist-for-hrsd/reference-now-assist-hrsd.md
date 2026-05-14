@@ -15,12 +15,12 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 Reference topics provide additional information about user roles, tables, and default configurations in Now Assist for HR Service Delivery \(HRSD\).
 
--   **[Sensitivity detection filters mapping](reference-sd-info-values.md)**  
+-   **[Sensitivity detection filters mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/reference-sd-info-values.md)**  
 The `sys_gen_ai_filter` table includes eight out-of-the-box filters that determines which topics are regarded as sensitive. Each filter is mapped to an HR service that is used to create a case and a chat queue.
--   **[Components installed with Now Assist for HR - Galileo Inside](components-installed-galileo-inside.md)**  
+-   **[Components installed with Now Assist for HR - Galileo Inside](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/components-installed-galileo-inside.md)**  
 Information about the roles and scheduled jobs that are installed.
--   **[Components installed with voice](components-installed-voice-agents.md)**  
+-   **[Components installed with voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/components-installed-voice-agents.md)**  
 Information about the roles, tables, and scheduled jobs that are installed with Voice Agents.
 
-**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](../concept/now-assist-hrsd.md)
+**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../concept/now-assist-hrsd.md)
 

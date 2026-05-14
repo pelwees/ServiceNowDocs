@@ -29,7 +29,7 @@ To determine if you must self-declare the license usage for a given engine, see 
 
 1.  Create a software model for the SAP engine.
 
-    Refer to [Create software models for SAP](add-software-model-sap.md) for detailed instructions.
+    Refer to [Create software models for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-software-model-sap.md) for detailed instructions.
 
     **Note:**
 
@@ -39,9 +39,9 @@ To determine if you must self-declare the license usage for a given engine, see 
 
 2.  Create entitlements for your software model.
 
-    Refer to [Create entitlements for SAP](create-entitlement-sap.md) for detailed instructions.
+    Refer to [Create entitlements for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md) for detailed instructions.
 
-    **Note:** On the Software Entitlement form, you must set the **Software model** field to the same software model that you created in [step 1](self-declare-sap-products.md#create-software-model).
+    **Note:** On the Software Entitlement form, you must set the **Software model** field to the same software model that you created in [step 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/self-declare-sap-products.md#create-software-model).
 
 3.  Create a client access record to specify the license usage of the SAP engine.
 
@@ -55,9 +55,9 @@ To determine if you must self-declare the license usage for a given engine, see 
 
     4.  In the **Name** field of the Client Access form, enter a name for the client access record.
 
-    5.  Select the Lookup using list icon ![Search icon.](../image/search-icon.png) next in the **Software model** field to locate and select the software model for the SAP engine.
+    5.  Select the Lookup using list icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/search-icon.png) next in the **Software model** field to locate and select the software model for the SAP engine.
 
-        **Note:** Select the same software model that you created in [step 1](self-declare-sap-products.md#create-software-model).
+        **Note:** Select the same software model that you created in [step 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/self-declare-sap-products.md#create-software-model).
 
     6.  Enter an engine license usage value in the **Usage** field.
 
@@ -72,5 +72,5 @@ To determine if you must self-declare the license usage for a given engine, see 
 
 After you self-declare the license usage for the SAP engine, it is automatically included in the next SAP reconciliation that runs on your ServiceNow instance. Reconciliation runs weekly or on-demand.
 
-**Parent Topic:**[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+**Parent Topic:**[Self-declaring SAP engine license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/self-declaring-sap-engine-usage.md)
 

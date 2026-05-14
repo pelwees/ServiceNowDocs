@@ -49,11 +49,11 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 7.  In the Data columns related list, specify the columns you want on the report from the table that you have selected.
 
-    For more information, see [Configure Data columns](configure-data-columns.md).
+    For more information, see [Configure Data columns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-data-columns.md).
 
 8.  In the Intermediate filters related list, define the filters that should apply to the dataset to refine the results displayed in the report.
 
-    For more information, see [Configure Intermediate filters](configure-intermediate-filters.md).
+    For more information, see [Configure Intermediate filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-intermediate-filters.md).
 
 9.  Select **Update**.
 

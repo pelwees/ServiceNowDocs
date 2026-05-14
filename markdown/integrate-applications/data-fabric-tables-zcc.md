@@ -23,7 +23,7 @@ A data fabric table is a virtual representation of data stored in an external so
 
 Access to a data fabric table is controlled the same way access is controlled to a physical table. Data fabric tables belong to the application scope selected by the data steward during their creation.
 
-![A list of your data fabric tables.](../image/zcc-data-fabric-table.png "Data fabric tables")
+![A list of your data fabric tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/zcc-data-fabric-table.png "Data fabric tables")
 
 ## Required ServiceNow AI Platform roles
 

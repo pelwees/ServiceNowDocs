@@ -65,7 +65,7 @@ Cloud Account Management uses an email address to generate the root email ID for
 
  For example, if your root email ID is myawsaccount@example.com, the Cloud Account Management application appends a request ID to generate myawsaccount-CWSAREQ0000001@example.com.
 
- **Note:** To create a root email, see [Set up and verify root email in AWS](../task/aws-setup.md).
+ **Note:** To create a root email, see [Set up and verify root email in AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/aws-setup.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Cloud credential alias
 
 </td><td>
 
-Alias created to access all the Cloud APIs. The entries are populated from the CMDB records.**Note:** Only Cloud Account Management admin can configure the cloud credential alias. To configure the cloud credential alias, see [Set up AWS API configuration information in ServiceNow](../concept/configure-aws-api-key-in-servicenow.md).
+Alias created to access all the Cloud APIs. The entries are populated from the CMDB records.**Note:** Only Cloud Account Management admin can configure the cloud credential alias. To configure the cloud credential alias, see [Set up AWS API configuration information in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/configure-aws-api-key-in-servicenow.md).
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Description
 Information that can be recorded in work notes.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Create a cloud native interface account configuration](../task/create-cloud-native-interface-config.md).
+</table>To return to the procedure, see [Create a cloud native interface account configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/create-cloud-native-interface-config.md).
 
-**Parent Topic:**[Cloud Account Management reference](cam-reference.md)
+**Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 

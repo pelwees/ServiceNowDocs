@@ -25,13 +25,13 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 
 1.  Navigate to the workspace with the indicator you want to work with.
 
-2.  Click the Analytics Center icon \(![Analytics center icon](../image/analytics-center-icon.png)\) and navigate to the KPIs tab.
+2.  Click the Analytics Center icon \(![Analytics center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/analytics-center-icon.png)\) and navigate to the KPIs tab.
 
-3.  Click the threshold icon \(![Threshold icon](../image/thresh-icon.png)\).
+3.  Click the threshold icon \(![Threshold icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/thresh-icon.png)\).
 
 4.  Select either For everyone or For me.
 
-5.  Click the Create Threshold icon \(![Create threshold icon](../image/add-target-thresh-icon.png)\) or select an existing target to edit it.
+5.  Click the Create Threshold icon \(![Create threshold icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/add-target-thresh-icon.png)\) or select an existing target to edit it.
 
 6.  Choose the visibility of the threshold, either **For everyone** or **For me**.
 
@@ -52,18 +52,18 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 9.  Click **Save** if you are creating a threshold or **Update** if you are modifying a threshold.
 
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/kpi-details-targets.md)
 
 **Related topics**  
 
 
-[Create a target in KPI Details](create-kpi-details-targets.md)
+[Create a target in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-kpi-details-targets.md)
 
-[Edit multiple targets in KPI Details](edit-multiple-targets.md)
+[Edit multiple targets in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md)
 
-[Subscribe users to Data snapshots indicator target](subscribe-users-to-ds-target.md)
+[Subscribe users to Data snapshots indicator target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/subscribe-users-to-ds-target.md)
 
-[Add a target to multiple breakdown elements in KPI Details](add-multiple-targets.md)
+[Add a target to multiple breakdown elements in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-multiple-targets.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/responsibiity-targets-kpi-details.md#)
 

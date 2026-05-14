@@ -108,20 +108,20 @@ MSP Extensions add several new default options to the type field of the Group ta
 |Deactivated script|
 |\(BP\) Set Location to User|Monitors the incident location field and sets the location field to the caller's location.|
 
-**Parent Topic:**[Exploring domain separation](../concept/c_DomainSeparation.md)
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainSeparation.md)
 
 **Related topics**  
 
 
-[Configuration that can be delegated to internal or external customers](../concept/ds-before-you-begin.md)
+[Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/ds-before-you-begin.md)
 
-[Domain assignment](../concept/c_DomainAssignment.md)
+[Domain assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainAssignment.md)
 
-[Visibility domains and Contains domains](../concept/c_DomainVisibility.md)
+[Visibility domains and Contains domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainVisibility.md)
 
-[Domain scope](../concept/c_DomainScope.md)
+[Domain scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainScope.md)
 
-[Concepts for service providers](../concept/sp-concepts.md)
+[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/sp-concepts.md)
 
-[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 

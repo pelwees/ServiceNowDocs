@@ -23,7 +23,7 @@ Role required: admin
 
 -   To view debugging messages, navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug Text Search**. The search log messages appear at the bottom of the results page for the remainder of your session.
 
-    ![Search results page showing Debug Output pane with search log messages.](../image/DebuggingMessages.png "Debugging Messages")
+    ![Search results page showing Debug Output pane with search log messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/DebuggingMessages.png "Debugging Messages")
 
 -   To debug text indexing problems, you may want to view text\_index events in the system log.
 -   In rare cases, you may need to reset the text search caches after regenerating a text index. If text search fails for known words, diagnose and fix this problem:
@@ -44,7 +44,7 @@ Role required: admin
 
     3.  Press Enter.
 
-5.  Locate the stemmed terms and compare the numbers in the list to the debug output from step [3](t_DebugZing.md#note-stemmed-term-numbers).
+5.  Locate the stemmed terms and compare the numbers in the list to the debug output from step [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_DebugZing.md#note-stemmed-term-numbers).
 
     If the numbers are different, the UI node's cache is stale.
 
@@ -53,18 +53,18 @@ Role required: admin
 7.  Select the **Reset Text Search Caches** related link and select **OK**.
 
 
-**Parent Topic:**[Available search options](../concept/c_IntroductionToSearching.md)
+**Parent Topic:**[Available search options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_IntroductionToSearching.md)
 
 **Related topics**  
 
 
-[List search finds records from the current table](../concept/c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_TextSearchesInRecordLists.md)
 
-[Boolean operators allow conditional search results](../concept/c_BooleanOperators.md)
+[Boolean operators allow conditional search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_BooleanOperators.md)
 
-[Quotation marks allow exact phrase searches](../concept/c_PhraseSearches.md)
+[Quotation marks allow exact phrase searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_PhraseSearches.md)
 
-[Wildcard characters allow searching for patterns and variations](../concept/c_Wildcards.md)
+[Wildcard characters allow searching for patterns and variations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_Wildcards.md)
 
-[Enable or disable the Zing junk filter](t_DisableTheJunkFilter.md)
+[Enable or disable the Zing junk filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_DisableTheJunkFilter.md)
 

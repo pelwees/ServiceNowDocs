@@ -33,7 +33,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
     1.  On the Invoice case summarization for the APO specialists feature card, select **View details**.
 
-    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](../../sourcing-procurement-operations/image/more_vertical_icon.png)\).
+    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/more_vertical_icon.png)\).
 
     3.  Select **Make a copy**.
 
@@ -183,7 +183,7 @@ Closed
 
     1.  On the **Invoice data extraction** for the APO specialists feature card, select **View details**.
 
-    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](../../sourcing-procurement-operations/image/more_vertical_icon.png)\).
+    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/more_vertical_icon.png)\).
 
     3.  Select **Make a copy**.
 

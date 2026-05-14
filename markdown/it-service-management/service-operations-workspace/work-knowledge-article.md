@@ -66,7 +66,7 @@ Select **View Article**.
 
 </td><td>
 
-From the more options drop-down \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\), select **Retire**. For information about retiring a knowledge article, see [Retire a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_RetiredKnowledgeArticles.md).
+From the more options drop-down \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\), select **Retire**. For information about retiring a knowledge article, see [Retire a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_RetiredKnowledgeArticles.md).
 
 </td></tr><tr><td id="d128947e147">
 
@@ -74,7 +74,7 @@ From the more options drop-down \(![more actions icon](../../itsm-workspace/imag
 
 </td><td>
 
-1.  From the more options drop-down \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\), select **Request translations**.
+1.  From the more options drop-down \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\), select **Request translations**.
 2.  Select the languages you want to translate the article into.
 3.  Select **Submit**.
 
@@ -85,7 +85,7 @@ From the more options drop-down \(![more actions icon](../../itsm-workspace/imag
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
 
 </td></tr><tr><td id="d128947e198">
 
@@ -93,7 +93,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-1.  From the contextual side panel, select the add blocks icon \(![add blocks icon](../image/add-blocks-icon.png)\).
+1.  From the contextual side panel, select the add blocks icon \(![add blocks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-blocks-icon.png)\).
 2.  Select the required knowledge block to add it to the article.
 
 
@@ -103,11 +103,11 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-1.  From the contextual side panel, select the agent assist icon \(![agent assist icon](../image/agent-assist-icon.png)\).
+1.  From the contextual side panel, select the agent assist icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/agent-assist-icon.png)\).
 2.  Search for a resource and perform the required action, for example, find a relevant knowledge base article and attach a link to it to work notes.
  **Note:** The agent assist icon is available only for users with the following roles: itil or interaction\_agent.
 
- For information on configuring additional search resources, see [Configure search resources for an interaction in Service Operations Workspace for ITSM](configure-resources-for-an-interaction.md).
+ For information on configuring additional search resources, see [Configure search resources for an interaction in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-resources-for-an-interaction.md).
 
 </td></tr><tr><td id="d128947e259">
 
@@ -115,7 +115,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-From the contextual side panel, select the attachments icon \(![attachments icon](../../itsm-workspace/image/attachment-icon.png)\). Alternatively, you can drag and drop the attachment into the **Active Chat** window of the interaction.**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
+From the contextual side panel, select the attachments icon \(![attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/attachment-icon.png)\). Alternatively, you can drag and drop the attachment into the **Active Chat** window of the interaction.**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
 
 </td></tr><tr><td id="d128947e283">
 
@@ -123,7 +123,7 @@ From the contextual side panel, select the attachments icon \(![attachments icon
 
 </td><td>
 
-From the contextual side panel, select the templates icon \(![templates icon](../image/template-icon.png)\) and create a template or reuse an existing one.
+From the contextual side panel, select the templates icon \(![templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/template-icon.png)\) and create a template or reuse an existing one.
 
 </td></tr><tr><td id="d128947e299">
 
@@ -135,5 +135,5 @@ Related list of task records to which the knowledge article is recently attached
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Knowledge Management in Service Operations Workspace](../concept/knowledge-articles-sow.md)
+**Parent Topic:**[Knowledge Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/knowledge-articles-sow.md)
 

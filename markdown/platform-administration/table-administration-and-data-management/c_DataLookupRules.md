@@ -15,7 +15,7 @@ breadcrumb: [Assignment rules, Working with Task table, Table admin, Tables and 
 
 Data lookup rules offer a generic way to change any field value, not just assignment fields.
 
-[Data lookup and record matching support](../../field-administration/concept/c_DataLookRecMatchSupport.md) offer the following improvements over the Assignment module:
+[Data lookup and record matching support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../field-administration/concept/c_DataLookRecMatchSupport.md) offer the following improvements over the Assignment module:
 
 -   Ability to change any field value not just an assignment field
 -   More options to define when a rule runs:
@@ -26,22 +26,22 @@ Data lookup rules offer a generic way to change any field value, not just assign
 
 **Note:** You can define data lookup and Assignment rules at the same time. The system ignores any duplicate rules after an incident has been assigned unless you are using a data lookup definition option to replace existing values.
 
-**Parent Topic:**[Defining assignment rules](c_DefineAssignmentRules.md)
+**Parent Topic:**[Defining assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Assignment rules module](c_AssignmentRulesModule.md)
+[Assignment rules module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_AssignmentRulesModule.md)
 
-[Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](c_WorkflowAssignments.md)
+[Workflow assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_DataLookupRule.md)
 
-[Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PrecBetweenAssignmentAndBusRules.md)
 

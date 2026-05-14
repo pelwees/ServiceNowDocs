@@ -17,7 +17,7 @@ Use these minimum system requirements to allocate resources for computers hostin
 
 <table id="table_mhj_csf_khb"><tbody><tr><td>
 
-![Links to each of the MID Server sections](../image/MIDRefIconBar.png)
+![Links to each of the MID Server sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDRefIconBar.png)
 
 </td></tr></tbody>
 </table>## MID Server supported systems
@@ -53,7 +53,7 @@ MID Servers can be manually installed to any operating system with the ZIP file,
 
 ## Security requirements
 
-To meet high security standards, the MID Server performs x.509 certificate validation on HTTPS traffic when connecting to ServiceNow®. If a network appliance or proxy exists between the MID Server and the instance, that appliance needs to present a digital certificate signed by a trusted CA. If you are using a self-signed certificate or a certificate signed by an internal CA, import the certificate to the MID Server trust store. For more information on adding SSL certificates, see [Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#).
+To meet high security standards, the MID Server performs x.509 certificate validation on HTTPS traffic when connecting to ServiceNow®. If a network appliance or proxy exists between the MID Server and the instance, that appliance needs to present a digital certificate signed by a trusted CA. If you are using a self-signed certificate or a certificate signed by an internal CA, import the certificate to the MID Server trust store. For more information on adding SSL certificates, see [Add SSL certificates for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/add-ssl-certificates.md#).
 
 ## OCSP connectivity requirements
 
@@ -105,7 +105,7 @@ The MID Server installer includes the Tanuki Software Java Service Wrapper, vers
 
 ## Setting the JVM Memory size
 
-The MID Server installs with 1 GB of JVM memory. If the suggested memory size for your product is greater than 1 GB, see [Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md) for the procedure to override the default setting.
+The MID Server installs with 1 GB of JVM memory. If the suggested memory size for your product is greater than 1 GB, see [Set the MID Server JVM memory size](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_MIDServerOptionalConfiguration.md) for the procedure to override the default setting.
 
 ## Deployment types
 
@@ -165,7 +165,7 @@ As a result, there is no one size requirement that fits for all MID Server deplo
 
 -   **The impact of modifying number of MAX threads on MID Server CPU utilization**
 
-    Based on internal benchmarking, the following is sample data for MID Server CPU utilization while running Cloud Discovery for 10,000 servers.![The average CPU utilization and maximum processor queue length are improved with additional threads.](../image/mid-system-req-cpu-use.png)
+    Based on internal benchmarking, the following is sample data for MID Server CPU utilization while running Cloud Discovery for 10,000 servers.![The average CPU utilization and maximum processor queue length are improved with additional threads.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use.png)
 
     In these tests, the maximum CPU utilization was observed to be 100% independent of number of threads and OS. The average CPU utilization was observed to be proportional to number of threads. Increasing number of threads did not necessarily result in immediate CPU pressure. Increasing the number of threads from the default 25 to 50 did not create additional CPU pressure, as shown by the max processor queue length. However, increasing the max threads value to 100 caused a significant increase in processor queue length, indicating CPU pressure.
 
@@ -173,13 +173,13 @@ As a result, there is no one size requirement that fits for all MID Server deplo
 
     Running Discovery is a CPU intensive operation for MID Server. Deploying other applications or MID Servers on same host creates additional CPU pressure on the host. This pressure results in a performance impact for running applications, including the MID Server. The following examples are sample CPU utilization data points for MID Server with different load patterns:
 
-    **Dedicated host for a single MID Server:** the average CPU usage is 48%.![With a dedicated host for a single MID Server, the MID Server has an average CPU usage of 48%.](../image/mid-system-req-cpu-use-single.png)
+    **Dedicated host for a single MID Server:** the average CPU usage is 48%.![With a dedicated host for a single MID Server, the MID Server has an average CPU usage of 48%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use-single.png)
 
-    **Host shared between a MID Server and another application with moderate load:** the average CPU usage is 77%.![With a host sharing resources between a MID Server and an application with moderate load, the average CPU usage is 77%.](../image/mid-system-req-cpu-use-moderate.png)
+    **Host shared between a MID Server and another application with moderate load:** the average CPU usage is 77%.![With a host sharing resources between a MID Server and an application with moderate load, the average CPU usage is 77%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use-moderate.png)
 
     **Host shared between a MID Server and another application with heavy load:** the average CPU usage is 97%.
 
-    ![With a host sharing resources between a MID Server and an application with heavy load, the average CPU usage is 97%.](../image/mid-system-req-cpu-use-heavy.png)
+    ![With a host sharing resources between a MID Server and an application with heavy load, the average CPU usage is 97%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use-heavy.png)
 
 -   **Scaling up MID Server and its impact on MID Server CPU resource utilization**
 
@@ -222,45 +222,45 @@ As a result, there is no one size requirement that fits for all MID Server deplo
 98%
 
 </td></tr></tbody>
-</table>    **MID Server CPU utilization when deployed on a 4 CPU host:** ![The CPU utilization for a MID Server with a 4 CPU host.](../image/mid-system-req-cpu-use-4cpu.png)
+</table>    **MID Server CPU utilization when deployed on a 4 CPU host:** ![The CPU utilization for a MID Server with a 4 CPU host.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use-4cpu.png)
 
-    **MID Server CPU utilization when deployed on an 8 CPU host:** ![The CPU utilization for a MID Server with an 8 CPU host.](../image/mid-system-req-cpu-use-8cpu.png)
+    **MID Server CPU utilization when deployed on an 8 CPU host:** ![The CPU utilization for a MID Server with an 8 CPU host.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-system-req-cpu-use-8cpu.png)
 
 
 ## Monitoring performance
 
-To ensure that the MID Server resource allocations are sufficient for your environment, monitor performance during peak periods of product execution from the [MID Server dashboard](../concept/c_MIDServerDashboard.md).
+To ensure that the MID Server resource allocations are sufficient for your environment, monitor performance during peak periods of product execution from the [MID Server dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerDashboard.md).
 
-**Parent Topic:**[MID Server reference](../concept/mid-server-reference-information.md)
+**Parent Topic:**[MID Server reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-server-reference-information.md)
 
 **Related topics**  
 
 
-[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_UpgradeAndTestMIDServer.md)
 
-[Resolving MID Server issues](r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](../concept/c_MIDServerDashboard.md)
+[MID Server dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerDashboard.md)
 
-[MID Server properties](r_MIDServerProperties.md#)
+[MID Server properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md#)
 
-[MID Server parameters](mid-server-parameters.md#)
+[MID Server parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-config-param-priority.md)
 
-[MID Server File Cleaner](../concept/mid_file_cleaner.md)
+[MID Server File Cleaner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid_file_cleaner.md)
 
-[MID Server protected records and reserved characters](mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-reserved-characters.md)
 
-[MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#)
+[MID Server privileged commands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_PrivilegedCommandsForMIDServer.md#)
 
-[MIDSystem methods](r_MIDSystemMethods.md)
+[MIDSystem methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_InstallMIDServerAsWinService.md)
 
-[MID Server heartbeat](r_MIDServerHeartbeat.md)
+[MID Server heartbeat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_PauseTheMIDServer.md#)
 

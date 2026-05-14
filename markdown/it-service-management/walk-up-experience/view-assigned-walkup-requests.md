@@ -21,7 +21,7 @@ Role required: sn\_walkup.walkup\_technician
 
 ## About this task
 
-Manage interactions manually using the Walk-up Experience Technician modules found in the application navigator. To manage automatically assigned interactions from the Agent Workspace inbox, refer to [Manage automatically assigned Walk-up Experience interactions](view-auto-assigned-walkup-requests.md).
+Manage interactions manually using the Walk-up Experience Technician modules found in the application navigator. To manage automatically assigned interactions from the Agent Workspace inbox, refer to [Manage automatically assigned Walk-up Experience interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/view-auto-assigned-walkup-requests.md).
 
 Walk-up queues support requesters in the order that they check into the queue — first come, first served. The agents supporting the queue can decide who will work on the first interaction. As new requesters enter the queue and submit interactions, technicians share the workload, assigning queued interactions to themselves.
 
@@ -105,12 +105,12 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
     Alternatively, you can click **Close** to complete the interaction.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/use-walkup-to-manage-demand.md)
 
 **Related topics**  
 
 
-[Use platform view to fulfill a Walk-up Experience request from a stockroom](fulfill-walkup-stockroom-request.md)
+[Use platform view to fulfill a Walk-up Experience request from a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/fulfill-walkup-stockroom-request.md)
 
-[Create an incident](../../incident-management/task/create-an-incident.md)
+[Create an incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../incident-management/task/create-an-incident.md)
 

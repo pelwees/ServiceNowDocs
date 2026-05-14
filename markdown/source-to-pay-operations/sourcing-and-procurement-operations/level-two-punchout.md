@@ -23,7 +23,7 @@ Level 2 \(L2\) PunchOut enables buying organizations to search for and discover 
 
 ## Multi-supplier support
 
-You can configure SPO with multiple PunchOut endpoints. For more information, see [Punchout configuration in SPO](punchout-configuration-spo.md).
+You can configure SPO with multiple PunchOut endpoints. For more information, see [Punchout configuration in SPO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-configuration-spo.md).
 
 When a search is initiated, SPO queries all configured systems and presents a consolidated set of results to the user.
 
@@ -31,11 +31,11 @@ When a search is initiated, SPO queries all configured systems and presents a co
 
 -   Users can search for items and view a consolidated list of products returned from all configured PunchOut systems.
 
-    ![Search products.](../image/punchout-level-two-search-products.png)
+    ![Search products.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-level-two-search-products.png)
 
 -   Selected products are added to the cart, and checkout is completed within SPO. Upon checkout, a Purchase Requisition \(PR\) is created. Once approved, a Purchase Order \(PO\) is generated and synced to the corresponding PunchOut system.
 
-    ![Products added to cart.](../image/punchout-level-two-cart.png)
+    ![Products added to cart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-level-two-cart.png)
 
 
 ## L2 punchOut flow
@@ -54,7 +54,7 @@ The Level 2 PunchOut flow includes the following steps:
     -   Users must configure PunchOut system details in the Third-Party Registration table.
     -   Users must also implement the above extension point to enable integration with specific PunchOut systems.
 
-The following figure illustrates the L2 PunchOut flow.![L2 punchout flow.](../image/punchout-level-two-flow.png)
+The following figure illustrates the L2 PunchOut flow.![L2 punchout flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-level-two-flow.png)
 
-**Parent Topic:**[Understanding Punchout](punchout-overview.md)
+**Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 

@@ -23,15 +23,15 @@ To set up a MID Server, the network must be prepared to access the instance and 
 
 After configuring your MID Server, you can add security by encrypting MID Server parameter values in the `config.xml` file. Encryption protects data that the MID Server returns to the ECC Queue. Other available security options include the authorization of SOAP requests, restricting access to the MID Server configuration file, and establishing secure socket layer \(SSL\) connections.
 
-![MID Server overview diagram.](../image/mid-server-overview-diagram.png)
+![MID Server overview diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-server-overview-diagram.png)
 
 ## Upgrading the MID Server
 
-The MID Server checks with the instance periodically to see if an upgrade is necessary. If the MID Server detects that a new version is available for upgrade, it downloads the installer from `install.service-now.com` and runs the package automatically. You can also elect to upgrade the MID Server manually. See [MID Server upgrades](c_UpgradeAndTestMIDServer.md) for details.
+The MID Server checks with the instance periodically to see if an upgrade is necessary. If the MID Server detects that a new version is available for upgrade, it downloads the installer from `install.service-now.com` and runs the package automatically. You can also elect to upgrade the MID Server manually. See [MID Server upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md) for details.
 
 ## Resolving MID Server issues
 
-You can search the HI Knowledge Base for troubleshooting articles or monitor the MID Server status and track active issues from within the instance. Many articles on resolved MID Server issues have been collected on [Servicenow MID Server Landing page \[KB0960404\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0960404). For more information about common resolution procedures, see [Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md).
+You can search the HI Knowledge Base for troubleshooting articles or monitor the MID Server status and track active issues from within the instance. Many articles on resolved MID Server issues have been collected on [Servicenow MID Server Landing page \[KB0960404\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0960404). For more information about common resolution procedures, see [Resolving MID Server issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerTroubleshooting.md).
 
 ## ServiceNow applications that use the MID Server
 
@@ -55,5 +55,5 @@ You can search the HI Knowledge Base for troubleshooting articles or monitor the
 
 ## Begin MID Server installation
 
-Continue to [Configuring MID Server](configure-mid-server.md) to find procedures on preparing the network, installing MID Servers, and configuring them.
+Continue to [Configuring MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md) to find procedures on preparing the network, installing MID Servers, and configuring them.
 

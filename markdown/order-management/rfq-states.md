@@ -20,5 +20,5 @@ An RFQ can move through different states during its life cycle after being submi
 |Completed|Completed|Agent has converted the RFQ to a quote in the CSM Configurable Workspace and has changed the status of the RFQ record to Pending Customer Acceptance.|
 |Canceled|Canceled|Agent has manually changed the status of the RFQ to Canceled.|
 
-**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](som-business-portal-reference.md)
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 

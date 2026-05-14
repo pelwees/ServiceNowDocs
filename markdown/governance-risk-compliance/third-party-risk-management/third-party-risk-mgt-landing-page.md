@@ -21,59 +21,59 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_st1_3v3_hzb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how third-party risk managers, third-party risk users, and third-party risk administrators use the Third-party Risk Management application.](tprm-exploring.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how third-party risk managers, third-party risk users, and third-party risk administrators use the Third-party Risk Management application.](tprm-exploring.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)You can activate or upgrade TPRM, by downloading the applications from the ServiceNow Store and then configuring the settings to meet your needs.](tprm-configuring.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)You can activate or upgrade TPRM, by downloading the applications from the ServiceNow Store and then configuring the settings to meet your needs.](tprm-configuring.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend TPRM capabilities by integrating with other applications.](integrating-with-tprm.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend TPRM capabilities by integrating with other applications.](integrating-with-tprm.md)
 
 </td></tr><tr><td>
 
-[Migrate Classic to Smart Assessment Engine ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn what changes when you migrate from the Classic Assessment Engine to the Smart Assessment Engine, including feature differences, limitations, and setup requirements.](tprm-migrate-asmnt-sae.md)
+[Migrate Classic to Smart Assessment Engine ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn what changes when you migrate from the Classic Assessment Engine to the Smart Assessment Engine, including feature differences, limitations, and setup requirements.](tprm-migrate-asmnt-sae.md)
 
 </td><td>
 
-[Request third-party risk due diligence ![](../../../reuse/icons/brand-icons/bus-partnering.svg)Request third-party risk due diligence to determine the level of risk for interactions with a third party and their engagement.](tprm-requesting-tpr-due-diligence.md)
+[Request third-party risk due diligence ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-partnering.svg)Request third-party risk due diligence to determine the level of risk for interactions with a third party and their engagement.](tprm-requesting-tpr-due-diligence.md)
 
 </td><td>
 
-[Assess third-party risk ![](../../../reuse/icons/brand-icons/bus-discover.svg)Use Third-party Risk Management to identify and assess potential risks that are associated with your third-party relationships.](tprm-assessing-tpr.md)
+[Assess third-party risk ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-discover.svg)Use Third-party Risk Management to identify and assess potential risks that are associated with your third-party relationships.](tprm-assessing-tpr.md)
 
 </td></tr><tr><td>
 
-[Monitor third-party risk ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Use the Third-party Risk Management application to monitor potential risks associated with your third-party relationships.](tprm-monitoring-tpr.md)
+[Monitor third-party risk ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Use the Third-party Risk Management application to monitor potential risks associated with your third-party relationships.](tprm-monitoring-tpr.md)
 
 </td><td>
 
-[Approve or reject requests for due diligence ![](../../../reuse/icons/brand-icons/bus-handshake.svg)Set up the approval levels and rules for due diligence requests in the Third-party Risk Management application to use while approving or rejecting requests after reviewing questionnaire responses and due diligence process results.](tprm-approving.md)
+[Approve or reject requests for due diligence ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-handshake.svg)Set up the approval levels and rules for due diligence requests in the Third-party Risk Management application to use while approving or rejecting requests after reviewing questionnaire responses and due diligence process results.](tprm-approving.md)
 
 </td><td>
 
-[Manage the contract risk process ![](../../../reuse/icons/brand-icons/bus-contract.svg)Protect your organization's interests, as the Third-party risk contract negotiator by incorporating specific contractual provisions so that you can address identified risks.](tprm-ws-contract-risk-process.md)
+[Manage the contract risk process ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-contract.svg)Protect your organization's interests, as the Third-party risk contract negotiator by incorporating specific contractual provisions so that you can address identified risks.](tprm-ws-contract-risk-process.md)
 
 </td></tr><tr><td>
 
-[Use Digital resilience third-party registers ![](../../../reuse/icons/brand-icons/bus-dollar-sign.svg)Use the Digital resilience third-party registers application in the Vendor Management Workspace to set up and maintain registers of contractual arrangements with ICT third-party service providers.](tprm-dora.md)
+[Use Digital resilience third-party registers ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-dollar-sign.svg)Use the Digital resilience third-party registers application in the Vendor Management Workspace to set up and maintain registers of contractual arrangements with ICT third-party service providers.](tprm-dora.md)
 
 </td><td>
 
-[Use risk intelligence reports![](../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage and request risk Intelligence reports or scores from external risk intelligence content providers.](tprm-riskintel-using.md)
+[Use risk intelligence reports![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage and request risk Intelligence reports or scores from external risk intelligence content providers.](tprm-riskintel-using.md)
 
 </td><td>
 
-[Integrate scores from risk intelligence providers![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate scores from risk intelligence providers. The scores provide insight on how trustworthy and safe a particular third party can be.](tprm-riskintelprvdr-overview.md)
+[Integrate scores from risk intelligence providers![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate scores from risk intelligence providers. The scores provide insight on how trustworthy and safe a particular third party can be.](tprm-riskintelprvdr-overview.md)
 
 </td></tr><tr><td>
 
-[Use the third-party portal![](../../../reuse/icons/brand-icons/bus-service-portal.svg)Use the third-party portal to respond to questionnaires, requests for documentation, tasks, and issues. The portal is the point of interaction between third-party contacts and risk assessors.](vendor-portal.md)
+[Use the third-party portal![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-service-portal.svg)Use the third-party portal to respond to questionnaires, requests for documentation, tasks, and issues. The portal is the point of interaction between third-party contacts and risk assessors.](vendor-portal.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference topics provide detailed descriptions of tables, properties, forms, and roles that are installed with the Third-party Risk Management application.](tprm-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-learn.svg)Reference topics provide detailed descriptions of tables, properties, forms, and roles that are installed with the Third-party Risk Management application.](tprm-reference.md)
 
 </td><td>
 

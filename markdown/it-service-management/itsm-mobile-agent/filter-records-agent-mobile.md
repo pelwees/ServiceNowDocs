@@ -21,7 +21,7 @@ Role required: itil or group manager
 
 ## Procedure
 
-1.  To further refine your search results, or to enter additional filter criteria on any list of records that is displayed, tap the filter icon \(![Filter Icon.](../image/grc-filter-image.png)\).
+1.  To further refine your search results, or to enter additional filter criteria on any list of records that is displayed, tap the filter icon \(![Filter Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/grc-filter-image.png)\).
 
 2.  On the Filters screen that appears, tap the arrow on a field to expand it.
 
@@ -29,7 +29,7 @@ Role required: itil or group manager
 
     For many of the filters, you can select more than one option.
 
-4.  Tap the back icon \(![Back icon.](../image/back-arrow-icon.png)\) or **DONE** to save your changes to a field.
+4.  Tap the back icon \(![Back icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/back-arrow-icon.png)\) or **DONE** to save your changes to a field.
 
     The criteria you chose displays on the Filters screen. The number of records that match your criteria also display on the top of the screen. Tap **Clear** or **RESET** to remove any filters and restore the default setting.
 

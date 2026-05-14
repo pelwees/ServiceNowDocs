@@ -35,11 +35,11 @@ The taxonomy feature enables you to link an article to one or more topics from m
 
 3.  In the Assigned Topics related list, click **Add**.
 
-    **Note:** As an admin, you may need to configure the form to include the Connected Content → Knowledge in the related list. Click the form context menu icon ![context menu icon](../image/ContextMenu.png) and navigate to **Configure** &gt; **Related Lists**. Using slushbucket, add the Connected Content → Knowledge.
+    **Note:** As an admin, you may need to configure the form to include the Connected Content → Knowledge in the related list. Click the form context menu icon ![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/ContextMenu.png) and navigate to **Configure** &gt; **Related Lists**. Using slushbucket, add the Connected Content → Knowledge.
 
 4.  Select a Taxonomy category from the list in the topic picker dialog box.
 
-    ![The screenshot displaying topic picker pop-window to associate knowledge article with a taxonomy category.](../image/topic-picker.png)
+    ![The screenshot displaying topic picker pop-window to associate knowledge article with a taxonomy category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/topic-picker.png)
 
 5.  Select a topic from a topic picker list and click **OK**.
 
@@ -48,5 +48,5 @@ The taxonomy feature enables you to link an article to one or more topics from m
 
 The selected article is associated with a taxonomy category for better content browsing.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 

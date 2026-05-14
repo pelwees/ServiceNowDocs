@@ -69,5 +69,5 @@ Manual development gives you direct control over every aspect of your applicatio
 
 AI and manual app development are not mutually exclusive. A common strategy is to use Build Agent or the app generation skill to create an initial application scaffold, and then refine the result manually. For example, you might generate the data model and basic views with AI, and then hand-author complex business rules, integrations, and access controls. This approach can significantly reduce your time to value, while preserving full developer control over the parts of the application that matter most.
 
-**Parent Topic:**[Use AI to build apps faster](dev-get-start-use-ai-to-build-faster.md)
+**Parent Topic:**[Use AI to build apps faster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/dev-get-start-use-ai-to-build-faster.md)
 

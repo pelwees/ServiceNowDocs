@@ -176,5 +176,5 @@ NoShow
 </td></tr></tbody>
 </table>For information on the Redox data models, see [Event types for data models](https://docs.redoxengine.com/basics/redox-data-model-api/event-types-for-data-models) in [Redox documentation](https://docs.redoxengine.com/).
 
-**Parent Topic:**[Redox Inbound Integration reference](hcls-redox-app-reference.md)
+**Parent Topic:**[Redox Inbound Integration reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-app-reference.md)
 

@@ -23,13 +23,13 @@ Role required: major\_incident\_manager
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Major Incidents** &gt; **Candidates**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Select the candidates that you need to reject.
 
 3.  On the Actions menu, select **Reject Major Incident Candidate**.
 
-    ![reject major incident candidate](../image/reject-major-inc-candidate.png)
+    ![reject major incident candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/reject-major-inc-candidate.png)
 
 4.  On the Rejection Reason dialog box, enter the reason why you decided not to accept the candidates as major incident.
 
@@ -38,5 +38,5 @@ Role required: major\_incident\_manager
     The major incident candidates are rejected.
 
 
-**Parent Topic:**[Working on major incident management](../concept/work-on-mim.md)
+**Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/work-on-mim.md)
 

@@ -44,7 +44,7 @@ Using remediation task rules automatically populates the **Test Results** tab. M
 
 3.  Click **New**.
 
-    ![Remediation task form](../image/v11TestResultGroupNewForm.png "Remediation task form")
+    ![Remediation task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11TestResultGroupNewForm.png "Remediation task form")
 
 4.  Fill in the fields on the Remediation Task form, as appropriate.
 
@@ -86,7 +86,7 @@ State
 
 </td><td>
 
-Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](../concept/vuln-config-compl-states.md).
+Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/vuln-config-compl-states.md).
 
 </td></tr><tr><td>
 
@@ -181,6 +181,6 @@ Work notes related to this remediation task.
 
     Displays the **Test Results** and **Change Request** related lists.
 
-    ![Test result group related tab](../image/TestResultGroupRelatedTab.png)
+    ![Test result group related tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/TestResultGroupRelatedTab.png)
 
 

@@ -15,7 +15,7 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Attributes, identification rule, and other important schema structures for Virtual Machine related classes.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/cmdb-tables-details.md).
 
 ## Schema description​
 
@@ -27,7 +27,7 @@ ServiceNow® has an extensive modeling of virtual machines \(VMs\) environment, 
 
 Virtual machines are modeled just like any other server, but with the **IsVirtual** attribute set to **true**.
 
-![Relationships and references in VMWare vCenter Instance schema.](../image/ClassVMWare.png "VMWare vCenter Instance schema structure")
+![Relationships and references in VMWare vCenter Instance schema.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ClassVMWare.png "VMWare vCenter Instance schema structure")
 
 In the diagram above, the 'Discovered' virtual server is referred to as the 'Guest' \(VM object\). Follow the preceding diagram for any further modeling of VMWare components.
 

@@ -18,8 +18,8 @@ Initiate an alert analysis from the Now Assist panel. The alert analysis display
 
 ## Before you begin
 
--   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../concept/now-assist-itom.md).
+-   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../now-assist-setup-itom/task/install-now-assist-itom.md).
+-   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom.md).
 
 For comprehensive information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -29,7 +29,7 @@ Role required: evt\_mgmt\_operator
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the List icon \(![List icon](../../health-log-analytics-operator/image/icon-lists.png)\) in the navigation bar.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../health-log-analytics-operator/image/icon-lists.png)\) in the navigation bar.
 
 3.  Select **Lists** &gt; **Alerts** &gt; **All Alerts**.
 
@@ -49,7 +49,7 @@ Procedure
 
 </td><td>
 
-1.  Select the Now Assist panel icon \(![Now Assist panel icon.](../../../common/image/icon-ai-sparkle.png)\).
+1.  Select the Now Assist panel icon \(![Now Assist panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../common/image/icon-ai-sparkle.png)\).
 
 The Now Assist panel displays.
 
@@ -66,7 +66,7 @@ The alert analysis displays in the panel.
 </td><td>
 
 1.  Open an alert.
-2.  Select the Now Assist panel icon \(![Now Assist panel icon .](../../../common/image/icon-ai-sparkle.png)\).
+2.  Select the Now Assist panel icon \(![Now Assist panel icon .](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../common/image/icon-ai-sparkle.png)\).
 
 The Now Assist panel displays.
 
@@ -80,5 +80,5 @@ The alert analysis displays in the panel.
     For example: `Summarize the analysis` or `Show alert severity`.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-use.md)
 

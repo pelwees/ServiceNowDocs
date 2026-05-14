@@ -88,5 +88,5 @@ Select the base entity configuration for the relationship.
 |-----|-----------|
 |Set conditions|Use the link to set M2M entity conditions using the field, operator, and value filters.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

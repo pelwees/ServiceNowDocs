@@ -51,5 +51,5 @@ There are 6 stages of Document Verifications
 -   Pre-Flagged : Flagged by AI
 -   Screening failed by AI : System unable to process documents
 
-For more information on how to activate and customize \(what\) of the Document screening skill, see [Activate the Document screening Al skill in Now Assist for PSDS](psds-ai-skills-doc-screening-activate.md).
+For more information on how to activate and customize \(what\) of the Document screening skill, see [Activate the Document screening Al skill in Now Assist for PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-ai-skills-doc-screening-activate.md).
 

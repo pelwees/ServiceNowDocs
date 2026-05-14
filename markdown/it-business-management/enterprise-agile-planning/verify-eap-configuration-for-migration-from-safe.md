@@ -44,5 +44,5 @@ Verify EAP configuration to start migration of SAFe data.
 
 ## What to do next
 
-[Verify table, field, and choice mapping between SAFe and EAP](verify-table-field-and-choice-mapping-between-safe-and-eap.md).
+[Verify table, field, and choice mapping between SAFe and EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/verify-table-field-and-choice-mapping-between-safe-and-eap.md).
 

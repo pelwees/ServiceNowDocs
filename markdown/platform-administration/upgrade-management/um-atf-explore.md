@@ -19,5 +19,5 @@ ATF Test Generator and Cloud Runner overview
 
 By analyzing your instance's specific behavior and workflows, the test generator intelligently creates precise test cases. This tool seamlessly integrates with the existing ATF framework, providing a smooth user experience. Additionally, you have the flexibility to execute these tests using ServiceNow's Cloud Runner, which leverages headless browsers hosted by ServiceNow.
 
-See [ATF Test Generator and Cloud Runner tool in Upgrade Console](um-atf-tool.md) for more information.
+See [ATF Test Generator and Cloud Runner tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-atf-tool.md) for more information.
 

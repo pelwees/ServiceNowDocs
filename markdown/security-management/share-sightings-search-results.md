@@ -48,5 +48,5 @@ Sharing can be automated using the following Security Incident Response **Proper
     The observable\(s\) are shared with the specified Trusted Circle.
 
 
-**Parent Topic:**[View Sightings Search Results](view-sightings-search-results.md)
+**Parent Topic:**[View Sightings Search Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)
 

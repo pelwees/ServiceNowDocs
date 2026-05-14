@@ -37,7 +37,7 @@ The Coaching Overview screen displays the average quality of the tasks that were
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
 
 3.  Perform assessments.
 
@@ -55,9 +55,9 @@ Do this
 
 </td><td>
 
-1.  Click the Lists icon \(![Lists icon.](../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
+1.  Click the Lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/list-new.png)\).
 2.  Select any record, such as a work order task, for which you want to create an assessment.
-3.  Select the Assessments icon \(![Coaching Assessment icon.](../../workforce-optimization-for-customer-service-configurable/image/coaching-assessment-new.png)\).
+3.  Select the Assessments icon \(![Coaching Assessment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-assessment-new.png)\).
 
 The assessment screen appears in the right panel.
 
@@ -70,7 +70,7 @@ The assessment screen appears in the right panel.
 
 </td><td>
 
-1.  Click the Coaching icon \(![Coaching icon.](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
+1.  Click the Coaching icon \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
 2.  Select any record for which you want to create an assessment.
 
 **Note:** Click the **Active Assessments** tab to view assessments of all teams for which you are a manager or an additional manager.

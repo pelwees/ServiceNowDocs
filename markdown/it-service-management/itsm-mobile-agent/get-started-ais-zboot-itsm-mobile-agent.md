@@ -27,7 +27,7 @@ AI search is enabled by default in the base system for new and restarted instanc
 
 1.  To ensure AI search is enabled, navigate to **All** &gt; **AI Search** &gt; **AI Search Status**.
 
-    ![AI search confirmation](../image/ai-search-ready.png "AI Search")
+    ![AI search confirmation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/ai-search-ready.png "AI Search")
 
 2.  Publish the AI search-related search profile.
 

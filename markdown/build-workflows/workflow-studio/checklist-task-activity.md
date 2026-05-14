@@ -15,7 +15,7 @@ breadcrumb: [Interactive activities, Playbooks reference, Playbooks, Workflow St
 
 Prompt an agent to complete all items in a task checklist.
 
-The key inputs for this activity are the **Checklist Owner**, **Checklist Items**, and **Checklist Name** fields under the [Inputs](checklist-task-activity.md#table_cjj_sr3_plb) section.
+The key inputs for this activity are the **Checklist Owner**, **Checklist Items**, and **Checklist Name** fields under the [Inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/checklist-task-activity.md#table_cjj_sr3_plb) section.
 
 ## Roles and availability
 
@@ -101,12 +101,12 @@ True/False
 
 </td><td>
 
-Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
+Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
 
 </td></tr></tbody>
 </table>## Inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md#activity-experience).
 
 <table id="table_cjj_sr3_plb"><thead><tr><th>
 
@@ -194,7 +194,7 @@ Reference a record to associate with the checklist activity. The checklist is al
 
  **Note:** When a specific task record is associated with the checklist, the state of the checklist does not change if you run the playbook again. When you don't provide a specific task record, a new private task record is created for each run.
 
- ![Checklist in a task record](../images/checklist-task-record.png)
+ ![Checklist in a task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/checklist-task-record.png)
 
 </td></tr><tr><td>
 

@@ -23,15 +23,15 @@ Building a Virtual Agent with Now Assist
 
 <table id="table_lgc_mpv_jzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist in Virtual Agent.](exploring-now-assist-va.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist in Virtual Agent.](exploring-now-assist-va.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Virtual Agent and configure generative AI skills.](../task/configure-now-assist-va.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Virtual Agent and configure generative AI skills.](../task/configure-now-assist-va.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-person.svg)Learn about the requester conversational experience.](using-now-assist-in-va.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../../reuse/icons/brand-icons/bus-person.svg)Learn about the requester conversational experience.](using-now-assist-in-va.md)
 
 </td></tr><tr><td>
 
@@ -39,7 +39,7 @@ Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Mo
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user input and bot responses supported by Now Assist in Virtual Agent.](../reference/now-assist-in-va-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user input and bot responses supported by Now Assist in Virtual Agent.](../reference/now-assist-in-va-reference.md)
 
 </td><td>
 

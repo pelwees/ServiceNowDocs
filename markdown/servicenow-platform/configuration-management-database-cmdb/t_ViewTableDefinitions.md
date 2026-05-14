@@ -21,7 +21,7 @@ Role required: Per item as specified
 
 ## About this task
 
-The [CI Class Manager](../reference/ci-class-manager-landing-page.md) shows the entire CMDB class hierarchy in a tree-view format, consolidating class definitions into a central location. It lets you show metadata information for a class, such as reconciliation rules, mandatory and recommended fields, and audit templates. You can also select a specific class to view, to modify, or to extend its definition to create a derived class. For each class, you can directly access CMDB Health settings, identification and reconciliation rules, orphan scorecard, and certificate template, defined for the class.
+The [CI Class Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/ci-class-manager-landing-page.md) shows the entire CMDB class hierarchy in a tree-view format, consolidating class definitions into a central location. It lets you show metadata information for a class, such as reconciliation rules, mandatory and recommended fields, and audit templates. You can also select a specific class to view, to modify, or to extend its definition to create a derived class. For each class, you can directly access CMDB Health settings, identification and reconciliation rules, orphan scorecard, and certificate template, defined for the class.
 
 For more information about extending a class and how attributes are derived from a parent class in that process, see [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md).
 
@@ -47,22 +47,22 @@ For more information about extending a class and how attributes are derived from
             1.  Select the **Added** tab and scroll to the bottom of the list.
             2.  Double-click **Insert new column**, and enter details for each new class attribute. Set **Identification** to true to designate an attribute as a CI identifier for class identification.
             3.  Select **Save**, and fix any errors that appear.
-        -   **Identification** and **Reconciliation**: Shows and lets you edit, create, and delete identification and [inclusion rules](create-id-inclusion-rule.md), reconciliation and [data refresh rules](create-datasource-staleness-rule.md) for the class.
+        -   **Identification** and **Reconciliation**: Shows and lets you edit, create, and delete identification and [inclusion rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-id-inclusion-rule.md), reconciliation and [data refresh rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-datasource-staleness-rule.md) for the class.
 
-            See [CMDB Identification and Reconciliation \(IRE\)](../concept/c_CMDBIdentifyandReconcile.md) for more information.
-
-            Role required: sn\_cmdb\_editor or itil for reading, and sn\_cmdb\_admin or itil\_admin \(on top\) for writing.
-
-        -   **Dependent Relationships**: Shows and lets you edit, create, and delete hosting and containment relationships for the class. See [CMDB dependent relationship rules](../concept/c_ServiceRulesMetadata.md) for more information.
+            See [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBIdentifyandReconcile.md) for more information.
 
             Role required: sn\_cmdb\_editor or itil for reading, and sn\_cmdb\_admin or itil\_admin \(on top\) for writing.
 
-        -   **Suggested Relationships**: Shows a diagram of all suggested relationships for the class, and lets you delete or add suggested relationships for the class. Use the navigation tools to increase or decrease the diagram, and to move the diagram on the page. Use the filter to show specific relationship types. See [Suggested class relationships](../reference/r_SuggestedRelationshipModel.md) for more information.
+        -   **Dependent Relationships**: Shows and lets you edit, create, and delete hosting and containment relationships for the class. See [CMDB dependent relationship rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_ServiceRulesMetadata.md) for more information.
+
+            Role required: sn\_cmdb\_editor or itil for reading, and sn\_cmdb\_admin or itil\_admin \(on top\) for writing.
+
+        -   **Suggested Relationships**: Shows a diagram of all suggested relationships for the class, and lets you delete or add suggested relationships for the class. Use the navigation tools to increase or decrease the diagram, and to move the diagram on the page. Use the filter to show specific relationship types. See [Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_SuggestedRelationshipModel.md) for more information.
 
             Role required: sn\_cmdb\_editor or itil.
 
     -   **All Relationship Rules**: Shows a combined diagram of all suggested relationships and all dependent relationships for the class. Use the navigation tools to zoom in or out, and to move or center the diagram on the page. Use the filter to show specific relationship categories.
-    -   **Health**: Lets you review and configure CMDB Health-related system properties, scorecards, and rules and settings for all CMDB health KPI and metrics, at the class level. See [CMDB Health](../concept/c_CMDBHealth.md) for information about enabling and configuring CMDB Health, and showing health reports.
+    -   **Health**: Lets you review and configure CMDB Health-related system properties, scorecards, and rules and settings for all CMDB health KPI and metrics, at the class level. See [CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBHealth.md) for information about enabling and configuring CMDB Health, and showing health reports.
 
         Role required: sn\_cmdb\_editor or itil for reading, and sn\_cmdb\_admin or itil\_admin \(on top\) for writing.
 
@@ -71,24 +71,24 @@ For more information about extending a class and how attributes are derived from
         Role required: sn\_cmdb\_editor or Itil for reading. Writing requirements follow the selected table settings.
 
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_RelatedListsOfCIComponents.md)
 
-[Create a CI class](t_CreateCIType.md)
+[Create a CI class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIType.md)
 
-[Reclassify a CI](t_ManuallyReclassifyCI.md)
+[Reclassify a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ManuallyReclassifyCI.md)
 
-[Delete CIs](delete-class-records-ci-class-mgr.md)
+[Delete CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/delete-class-records-ci-class-mgr.md)
 
-[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-principal-class-filter.md)
 
-[Create or modify map icons](../../business-service-management-map-ng/task/t_CreateModifyNGBSMMapIcons.md)
+[Create or modify map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../business-service-management-map-ng/task/t_CreateModifyNGBSMMapIcons.md)
 

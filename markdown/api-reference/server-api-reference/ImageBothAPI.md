@@ -17,15 +17,15 @@ Creates an Image object representing an image and its layout insert in a PDF. En
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
 
 You can add an image to a PDF using one of the following methods:
 
--   [Cell – addImage\(Image image\)](../../CellBoth/concept/CellBothAPI.md#) – Adds an image to a table cell
--   [Table – addImageCell\(Image image\)](../../TableBoth/concept/TableBothAPI.md#) – Adds a cell that contains an image to a table.
--   [Document – addImage\(Image image\)](../../DocumentBoth/concept/DocumentBothAPI.md#) - Adds an image to a page
+-   [Cell – addImage\(Image image\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../CellBoth/concept/CellBothAPI.md#) – Adds an image to a table cell
+-   [Table – addImageCell\(Image image\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../TableBoth/concept/TableBothAPI.md#) – Adds a cell that contains an image to a table.
+-   [Document – addImage\(Image image\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) - Adds an image to a page
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Image - Image\(String attachmentSysId\)
 
@@ -45,7 +45,7 @@ var image = new sn_pdfgeneratorutils.Image("<sys_id>");
 
 Scales an image to absolute width and height sizes. This setting does not preserve the width-height ratio of the image and might result in undesired stretching if settings are not precise.
 
-To scale to an absolute size that preserves width-height ratio of an image, use the [scaleToFit\(\)](ImageBothAPI.md#) method.
+To scale to an absolute size that preserves width-height ratio of an image, use the [scaleToFit\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ImageBothAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -85,7 +85,7 @@ Resulting output varies by image aspect ratio. If the width and height parameter
 |----|-----------|
 |None| |
 
-The following example shows how to insert an image scaled to fit using the [Cell – addImage\(\)](../../CellBoth/concept/CellBothAPI.md#) method.
+The following example shows how to insert an image scaled to fit using the [Cell – addImage\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../CellBoth/concept/CellBothAPI.md#) method.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -159,7 +159,7 @@ Flag that indicates whether to automatically scale an image.
 |----|-----------|
 |None| |
 
-The following example shows how to add an image to a PDF with automatic scaling. The image is added using the [Table – addImageCell\(\)](../../TableBoth/concept/TableBothAPI.md#) method.
+The following example shows how to add an image to a PDF with automatic scaling. The image is added using the [Table – addImageCell\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../TableBoth/concept/TableBothAPI.md#) method.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -188,7 +188,7 @@ Sets a border on a PDF in the specified color.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Image border color.|
+|color|[Color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../ColorBoth/concept/ColorBothAPI.md#)|Image border color.|
 |width|Number|Width of the border in points.|
 
 |Type|Description|

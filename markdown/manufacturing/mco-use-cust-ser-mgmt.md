@@ -15,5 +15,5 @@ Agents and managers can use Customer Service Management application to create ca
 
 To learn how to use the Customer Service Management, see [Using Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-csm.md).
 
-**Parent Topic:**[Additional workflows](mco-additional-workflows.md)
+**Parent Topic:**[Additional workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-additional-workflows.md)
 

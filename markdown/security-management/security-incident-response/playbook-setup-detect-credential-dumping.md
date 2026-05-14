@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  You can create a copy of the T1003 - Detect Credential Dumping Tools playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, click the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, click the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the T1003 - Detect Credential Dumping Tools playbook](../image/playbook-credential-dump.png "T1003 - Detect Credential Dumping Tools playbook")
+    ![Overview of the T1003 - Detect Credential Dumping Tools playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-credential-dump.png "T1003 - Detect Credential Dumping Tools playbook")
 
 4.  Activate the playbooks.
 
@@ -44,8 +44,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     This playbook is triggered and associated with the security incident when the **Category** is **Malicious code activity**.
 
-    ![Trigger condition for T1003 - Detect Credential Dumping Tools playbook.](../image/playbook-credential-dump-trigger.png)
+    ![Trigger condition for T1003 - Detect Credential Dumping Tools playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-credential-dump-trigger.png)
 
 
-**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](../concept/playbook-detect-credential-dumping-tools.md)
+**Parent Topic:**[Playbook for T1003 - Detect Credential Dumping Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-detect-credential-dumping-tools.md)
 

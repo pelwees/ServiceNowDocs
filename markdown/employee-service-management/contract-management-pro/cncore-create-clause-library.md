@@ -104,12 +104,12 @@ Option to make the clause active and available for use. **Note:** While editing 
 
     -   To save a new clause, select **Submit**.
     -   To save the changes to an existing clause, select **Update**.
-    ![Create a clause and clause variations](../image/cmpro-cls-mgmt-new.png "Clause form")
+    ![Create a clause and clause variations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-cls-mgmt-new.png "Clause form")
 
 
 ## What to do next
 
-Create clause variations to use them in the document template for a predefined condition. For more information, see [Create a clause variation](cncore-add-clauses-doc-tmplt.md).
+Create clause variations to use them in the document template for a predefined condition. For more information, see [Create a clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-clauses-doc-tmplt.md).
 
-**Parent Topic:**[Configure dynamic clauses for contract templates](../concept/cncore-clause-and-cv.md)
+**Parent Topic:**[Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-clause-and-cv.md)
 

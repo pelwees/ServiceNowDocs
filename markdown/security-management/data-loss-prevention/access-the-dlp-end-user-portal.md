@@ -178,8 +178,8 @@ Respond to an incident by selecting an incident response option. For example, us
 
     The user instructions card displays two different headers which provides you more information about a specific incident on the form view. Click on any user instruction header to know the additional details.
 
-    For more information about user instructions, see [Create user instructions templates](create-and-manage-user-instructions-template-for-dlp-incidents.md) and [Configure DLP UI user instructions](configure-dlp-ui-user-instructions.md).
+    For more information about user instructions, see [Create user instructions templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-user-instructions-template-for-dlp-incidents.md) and [Configure DLP UI user instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-dlp-ui-user-instructions.md).
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](../concept/using-dlp-end-user-portal.md)
+**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/using-dlp-end-user-portal.md)
 

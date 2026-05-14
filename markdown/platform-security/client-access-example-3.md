@@ -44,7 +44,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 
 7.  Select the **New** button.
 
-8.  Select the reference icon \(![reference button](../images/magnifying_glass.png)\) next to the **Identity group alias** field.
+8.  Select the reference icon \(![reference button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/magnifying_glass.png)\) next to the **Identity group alias** field.
 
 9.  In the **Group Alias Name** field, enter a value.
 
@@ -88,7 +88,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 
 21. In the **Secret Group – Identity Group** related list, select the **Created** field for the record on that list.
 
-    ![Created field in the Secret Group – Identity Group related list](../images/client-side-4.png)
+    ![Created field in the Secret Group – Identity Group related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-4.png)
 
     An **Identity group** record displays.
 
@@ -98,7 +98,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 
 23. In the **Member table** field, select **MID Server \[ecc\_agent\]**.
 
-24. Select the reference icon \(![reference button](../images/magnifying_glass.png)\) next to the **Identity group member record** field, and select your MID Server.
+24. Select the reference icon \(![reference button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/magnifying_glass.png)\) next to the **Identity group member record** field, and select your MID Server.
 
     **Note:** If you enable the **Include all records** check box, all MID Servers connected to your instance are added to the identity group.
 
@@ -113,5 +113,5 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 29. Select **Update** to save the record.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/client-access-secret-landing.md)
 

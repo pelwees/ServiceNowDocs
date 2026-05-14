@@ -42,5 +42,5 @@ After you create a PKCS \(.p12\) file that contains the iPhone developer certifi
 
 ## What to do next
 
-[Create a push application record for your custom app](t_CreateAMobileApplication.md)
+[Create a push application record for your custom app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileApplication.md)
 

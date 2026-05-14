@@ -29,6 +29,6 @@ Role required: admin
 
 3.  Click on any rule to view the archive duration period.
 
-    ![TISC Destroy Rules.](../image/tisc-destroy-rules.png)
+    ![TISC Destroy Rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-destroy-rules.png)
 
 

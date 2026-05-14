@@ -27,7 +27,7 @@ The BIA templates store information such as the impact categories and dependency
 
 If you have the sn\_bcm.admin role, you can view the BIA templates that are installed with demo data when you install the application or configure a BIA template in the **BIA Templates** module. The example shows the BIA templates that are installed with demo data in the Business Continuity Management application.
 
-![BIA templates that are installed with demo data.](../image/bia-templates.png)
+![BIA templates that are installed with demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-templates.png)
 
 ## BIA template configuration
 
@@ -56,17 +56,17 @@ With the sn\_bcm.admin role, you can configure these details in the BIA template
 
 The example shows the sample configuration of a BIA template in an instance.
 
-![Configuration of a BIA template.](../image/bia-template.png)
+![Configuration of a BIA template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-template.png)
 
 ## Configuring a BIA template
 
-For more information on how to configure a BIA template with the sn\_bcm.admin role, see [Configure BIA templates with legacy assessment](../task/configure-bia-template-uib-ws.md).
+For more information on how to configure a BIA template with the sn\_bcm.admin role, see [Configure BIA templates with legacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-bia-template-uib-ws.md).
 
 ## Impact dependency groups
 
 The BIA template used for creating a business impact analysis has dependency groups associated with it. When conducting an assessment, the dependency groups are automatically populated in the BIA. You can view them as Applications, Hardware, Software, Vendors, Workplaces, and others, each in its own container depending on how many of these groups are associated to the template.
 
-![Dependency groups.](../image/impact-dep-groups.png)
+![Dependency groups.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-dep-groups.png)
 
 Each of them is a dependency group and you can add or remove items that belong to each group within its container.
 

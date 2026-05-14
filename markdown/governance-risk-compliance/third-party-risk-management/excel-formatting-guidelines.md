@@ -30,7 +30,7 @@ You can specify the following property settings:
     Maximum file size in MB that can be imported.
 
 
-See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+See [Configure TPRM properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
 
 ## Supported columns
 
@@ -87,14 +87,14 @@ Requirements:
 
 **Note:** You can review the formatting requirements and view or download a sample spreadsheet to use as an example. Referencing a sample file can help you ensure that you are using values in the expected format.
 
-![Helpful resources for preparing your spreadsheet. For the text description, refer to the note that preceded this.](../image/import-quest-template.png)
+![Helpful resources for preparing your spreadsheet. For the text description, refer to the note that preceded this.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/import-quest-template.png)
 
-**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
 **Related topics**  
 
 
-[Import a questionnaire from a spreadsheet](../task/import-questions-from-excel.md)
+[Import a questionnaire from a spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/import-questions-from-excel.md)
 
-[Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md)
+[Configure TPRM properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-properties-configure.md)
 

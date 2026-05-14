@@ -40,5 +40,5 @@ The Mobile Time Sheets app must be installed in your system.
     For more information, see the [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-mobile-app.md) topic.
 
 
-**Parent Topic:**[Install Mobile Time Sheets](install-timesheet-mobile.md)
+**Parent Topic:**[Install Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/install-timesheet-mobile.md)
 

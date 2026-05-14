@@ -85,11 +85,11 @@ This figure shows an example of the file hash and certificate serial number obse
 
 The certificate serial number observable refers to the unique ID or serial number for the entity. This value is also displayed without the colon separators. For example, `00EA0F74B56D44BBBE0000000050DE1DFD`.
 
-![SHA1 and certificate serial number examples](../image/riskiq-sha-cert-callout.png "File hash and certificate serial number")
+![SHA1 and certificate serial number examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-sha-cert-callout.png "File hash and certificate serial number")
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/riskiq-lookups.md)
 
-**Previous topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Previous topic:**[RISKIQ and WHOISIQ integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/riskiq-lookups.md)
 
-**Next topic:**[Install and configure RISKIQ and WHOISIQ](../task/install-and-config-riskiq.md)
+**Next topic:**[Install and configure RISKIQ and WHOISIQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/install-and-config-riskiq.md)
 

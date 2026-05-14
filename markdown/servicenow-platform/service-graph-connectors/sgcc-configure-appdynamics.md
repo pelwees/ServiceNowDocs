@@ -27,11 +27,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -49,7 +49,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing AppDynamics data.
 
@@ -142,7 +142,7 @@ Name of the MID Server used by the connector.This field appears only when the **
 
     4.  Select **Save**.
 
-    5.  Repeat steps from [7.b](sgcc-configure-appdynamics.md#rule-select) to [7.d](sgcc-configure-appdynamics.md#rule-save) for each rule you want to activate.
+    5.  Repeat steps from [7.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-appdynamics.md#rule-select) to [7.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-appdynamics.md#rule-save) for each rule you want to activate.
 
     6.  Select **Continue**.
 
@@ -172,9 +172,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Observability - AppDynamics](../../configuration-management/concept/cmdb-integration-appdynamics.md)
+[Service Graph Connector for Observability - AppDynamics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/cmdb-integration-appdynamics.md)
 
-[CMDB classes targeted in Service Graph Connector for Observability - AppDynamics](../../configuration-management/reference/cmdb-appdynamics-classes.md)
+[CMDB classes targeted in Service Graph Connector for Observability - AppDynamics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/reference/cmdb-appdynamics-classes.md)
 
-[Accessing the connection details for Service Graph Connector for Observability - AppDynamics](../../configuration-management/concept/sgc-appdynamics-conn.md#)
+[Accessing the connection details for Service Graph Connector for Observability - AppDynamics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-appdynamics-conn.md#)
 

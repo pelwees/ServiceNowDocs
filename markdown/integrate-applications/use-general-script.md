@@ -19,13 +19,13 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Script component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Script component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 You can use this component to perform actions that are not covered by existing RPA components or combine actions of multiple components.
 
 For example, you can retrieve a substring from a string by using the VB script in the Script component. You can specify the string and the start character position.
 
-![VB script with the string specified and the start character position in the Script component.](../../rpa-hub/image/general-script-rpa.png "Example: Retrieving a substring from a string")
+![VB script with the string specified and the start character position in the Script component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/image/general-script-rpa.png "Example: Retrieving a substring from a string")
 
 ## Procedure
 
@@ -33,13 +33,13 @@ For example, you can retrieve a substring from a string by using the VB script i
 
 2.  Drag the Script component to the Design surface.
 
-3.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
+3.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
 4.  Under the SCRIPT \(VB.NET\) heading, enter the custom VB script.
 
 5.  To add parameters to the script, do the following steps.
 
-    1.  Click the add parameter icon \(![Add parameter icon.](../image/add-image-icon.png)\).
+    1.  Click the add parameter icon \(![Add parameter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
     2.  Update the data type of the parameter.
 
@@ -109,5 +109,5 @@ Yes.To view the output, right-click the **Return** field and click **Preview Dat
 </table>10. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

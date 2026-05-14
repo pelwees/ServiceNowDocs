@@ -25,5 +25,5 @@ As an HR agent, you can extract the employment history of an employee by perform
 
 2.  Use the **Generate Attachments** option in the document template to generate the employment history in a PDF, and attach it to the case.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_compliance.attestation\_creator
 
 2.  Click **New**.
 
-    ![New exception questionnaire](../image/exception-quest-new.png)
+    ![New exception questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/exception-quest-new.png)
 
     **Note:** Notice that the Assessment Metric Type screen opened. In the terminology of GRC applications, a question in a questionnaire is considered a metric. A group of questions is a category. A group of categories is a metric type.
 
@@ -47,8 +47,8 @@ Role required: sn\_compliance.attestation\_creator
 
 5.  Click **Attestation Designer** to create the questionnaire.
 
-    For more information, see [Attestation Designer](../concept/c_Attestations.md#).
+    For more information, see [Attestation Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/c_Attestations.md#).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/allow-other-app-policy-except.md)
 

@@ -87,5 +87,5 @@ Value for the factor. For example, if natural gas emits 0.375 kg CO2eq/kWh ICV, 
 
 Each location may have a parent location. For example, if your location is **Tokyo**, the parent location of Tokyo is Japan. Similarly, the parent location of Japan is Asia Pacific. If you select a parent location such as **Japan** in the **Location** field and specify the value as **1.5**, then the metrics are calculated using the value of 1.5 for any location that does not have a record but has the parent location as Japan. Similarly, if you select **Asia Pacific** in the **Location** field and specify the value as **2.5**, then the metrics are calculated using the value of 2.5 for any location that does not have a record but has the parent location as Asia Pacific.
 
-**Parent Topic:**[Create an emission factor](create-an-emission-factor.md)
+**Parent Topic:**[Create an emission factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-emission-factor.md)
 

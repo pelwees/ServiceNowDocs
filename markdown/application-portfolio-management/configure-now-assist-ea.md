@@ -45,13 +45,13 @@ The Now Assist for Enterprise Architecture \(EA\) system requirements are as fol
 
 1.  Install the Now Assist for Enterprise Architecture \(EA\) plugin \(sn\_ea\_gen\_ai\).
 
-    -   For information about the application dependencies, see [Supporting information for Now Assist for Enterprise Architecture \(EA\)](../concept/supporting-info-now-assist-ea.md).
+    -   For information about the application dependencies, see [Supporting information for Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/supporting-info-now-assist-ea.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
     If you’re already in the Now Assist Admin console, you can select the **Now Assist Skills** tab on the screen.
 
-3.  Select the expand row icon ![Expand row icon.](../../application-portfolio-management/image/ExpandIcon.png) next to **Technology**.
+3.  Select the expand row icon ![Expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/ExpandIcon.png) next to **Technology**.
 
 4.  Select **EA**.
 
@@ -108,7 +108,7 @@ The Business application insights skill is activated.
 
  **Note:** An admin user can also define and configure custom parameters for the prompt. To define and configure custom parameters, perform the following:
 
-1.  Select the context menu icon \(![Row context menu icon.](../../application-portfolio-management/image/eaw-image/eaw-icon-menu.png)\) next on the **Business applications insights** card.
+1.  Select the context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/eaw-icon-menu.png)\) next on the **Business applications insights** card.
 2.  Select **Make a copy**.
 
 The You are making a copy of a skill dialog box appears.
@@ -184,10 +184,10 @@ The diagram change analysis skill is activated.
     The skill is configured and activated.
 
 
--   **[Now Assist for Enterprise Architecture \(EA\) access roles](../reference/sn-otto-access-roles.md)**  
+-   **[Now Assist for Enterprise Architecture \(EA\) access roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../reference/sn-otto-access-roles.md)**  
 The following roles help you to configure and use each Now Assist for Enterprise Architecture \(EA\) skill.
--   **[Configure AI Data Explorer and Query Generation skills](configure-ai-data-explr-qry-genr-skills.md)**  
+-   **[Configure AI Data Explorer and Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/configure-ai-data-explr-qry-genr-skills.md)**  
 You can configure the AI Data Explorer and Query Generation skills to provide AI-assisted data exploration features and generate insights in Enterprise Architecture Workspace.
 
-**Parent Topic:**[Now Assist for Enterprise Architecture \(EA\)](../concept/now-assist-ea.md)
+**Parent Topic:**[Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/now-assist-ea.md)
 

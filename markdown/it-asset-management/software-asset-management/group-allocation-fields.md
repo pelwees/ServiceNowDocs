@@ -98,12 +98,12 @@ Entitlement condition to allocate a user group to the filtered software entitlem
 3.  Select **Set** to save the record or **Cancel** to close the Entitlement condition pop-up window without saving the changes.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Create group allocations](../task/create-group-allocations.md)
+[Create group allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/create-group-allocations.md)
 
-[Allocating licenses to a user group](../concept/group-user-allocation.md)
+[Allocating licenses to a user group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/group-user-allocation.md)
 

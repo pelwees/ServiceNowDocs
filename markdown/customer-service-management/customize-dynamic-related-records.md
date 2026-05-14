@@ -21,9 +21,9 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 The definitions for the related records aren't active by default. You must activate these definitions if you want them to appear in the related records.
 
-Any change made to the customer service case dynamic related record context will also be applicable to all extensions of the customer service case. For creating custom context, see [Configure related record contexts](configure-related-record-contexts.md).
+Any change made to the customer service case dynamic related record context will also be applicable to all extensions of the customer service case. For creating custom context, see [Configure related record contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-related-record-contexts.md).
 
-You must define an EVAM view configuration for the tables in addition to setting up Dynamic Related Records. For more information, see [Define an EVAM view configuration](define-csm-evam-view-config.md).
+You must define an EVAM view configuration for the tables in addition to setting up Dynamic Related Records. For more information, see [Define an EVAM view configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/define-csm-evam-view-config.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ You must define an EVAM view configuration for the tables in addition to setting
 
 3.  Activate all the related record definitions for the Onboarding, Complaint, or Product Support case.
 
-    For more information, see [Dynamic related records](../concept/csm-contextual-related-records.md).
+    For more information, see [Dynamic related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-contextual-related-records.md).
 
 4.  Select **Update**.
 
@@ -110,7 +110,7 @@ Onboarding case
 **Related topics**  
 
 
-[Configure dynamic related records](../concept/dynamic-related-records-configure.md)
+[Configure dynamic related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/dynamic-related-records-configure.md)
 
-[Configure related record definitions](configure-related-record-definitions.md)
+[Configure related record definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-related-record-definitions.md)
 

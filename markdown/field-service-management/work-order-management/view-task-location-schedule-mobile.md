@@ -45,7 +45,7 @@ The task list displays the following information for each work order task:
 
 6.  Add or edit a personal event.
 
-    1.  Tap the more actions \( ![More actions icon](../image/OverflowIcon.png)\) icon and select **Create Event**.
+    1.  Tap the more actions \( ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and select **Create Event**.
     2.  Fill in the following fields:
 
 <table id="table_jmn_qtj_4gb"><thead><tr><th>

@@ -72,5 +72,5 @@ When an error occurs, error codes populate with the reason for the error. Refer 
 -   [Dynamic Translation - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/DynamicTranslation.md)
 -   [Dynamic Translation - Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/DynamicTranslationClientAPI.md)
 
-**Parent Topic:**[Reference for Dynamic Translation](reference-for-dynamic-translation.md)
+**Parent Topic:**[Reference for Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 

@@ -43,5 +43,5 @@ The Financial Services Card Operations application is aimed at the following use
 **Related topics**  
 
 
-[Overview of the Dispute Management workflow](dispute-management-workflows.md)
+[Overview of the Dispute Management workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/dispute-management-workflows.md)
 

@@ -161,14 +161,14 @@ Management IP address used for discovery connection.
 |Serial Number \[cmdb\_serial\_number\]|References|IBM zOS server \[cmdb\_ci\_ibm\_zos\_server\]|
 |File System \[cmdb\_ci\_file\_system\]|References|IBM zOS server \[cmdb\_ci\_ibm\_zos\_server\]|
 
-**Parent Topic:**[Operating systems discovery](c_Computers.md)
+**Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
 **Related topics**  
 
 
-[IBM Db2 on Linux database discovery](../../service-mapping/reference/ibm-db2-linux-discovery.md)
+[IBM Db2 on Linux database discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/ibm-db2-linux-discovery.md)
 
-[IBM MQ discovery](../reference/r-IBMWebsphereMQ.md)
+[IBM MQ discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../reference/r-IBMWebsphereMQ.md)
 
-[IBM WebSphere Application Server discovery using patterns](../../service-mapping/reference/ibm-websphere-server-pattern.md)
+[IBM WebSphere Application Server discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/ibm-websphere-server-pattern.md)
 

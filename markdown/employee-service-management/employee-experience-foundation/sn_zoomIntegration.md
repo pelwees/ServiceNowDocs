@@ -54,7 +54,7 @@ Enhance employee experience by integrating Employee Center with the Zoom applica
 
 </td><td>
 
-Available to all customers using the Employee Center. To access Employee Center in the Zoom application, see [Employee Center for Zoom](../../employee-center/task/zoom-ec-create-app.md).
+Available to all customers using the Employee Center. To access Employee Center in the Zoom application, see [Employee Center for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/zoom-ec-create-app.md).
 
 </td><td>
 
@@ -108,23 +108,23 @@ Create custom integrations using Zoom spoke.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how agents and employees use Collaboration services for Zoom.](explore-sn-zoom.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how agents and employees use Collaboration services for Zoom.](explore-sn-zoom.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](configure-sn-zoom.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](configure-sn-zoom.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Zoom capabilities by integrating with other applications.](integrate-sn-zoom.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Zoom capabilities by integrating with other applications.](integrate-sn-zoom.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Initiate and import Zoom chat messages.](integrate-sn-zoom.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Initiate and import Zoom chat messages.](integrate-sn-zoom.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like Zoom APIs.](../reference/reference-sn-zoom.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like Zoom APIs.](../reference/reference-sn-zoom.md)
 
 </td><td>
 

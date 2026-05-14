@@ -15,14 +15,14 @@ breadcrumb: [Multi Provider Document Services Framework, Document Services, Mana
 
 Create provider details, document actions, provider permissions and configure permission.
 
--   **[Create provider details](../task/create-provider-details-mp.md)**  
+-   **[Create provider details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/create-provider-details-mp.md)**  
 Create provider details for multi provider documents.
--   **[Create document actions](../task/create-document-actions.md)**  
+-   **[Create document actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/create-document-actions.md)**  
 Create document actions for multi provider documents.
--   **[Create provider permissions](../task/create-provider-permissions-mp.md)**  
+-   **[Create provider permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/create-provider-permissions-mp.md)**  
 Create provider permissions for multi provider documents.
--   **[Configure permissions](../task/configure-permissions-mp.md)**  
+-   **[Configure permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/configure-permissions-mp.md)**  
 Configure permission for roles and groups for multi provider documents.
 
-**Parent Topic:**[Multi Provider Document Services Framework](mp-document-services-framework-landing.md)
+**Parent Topic:**[Multi Provider Document Services Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/mp-document-services-framework-landing.md)
 

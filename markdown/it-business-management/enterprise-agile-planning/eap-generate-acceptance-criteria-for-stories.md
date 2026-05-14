@@ -26,7 +26,7 @@ Ensure that Now Assist for SPM is installed in your instance and that the follow
 -   Acceptance criteria generation
 -   Refine records
 
-For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/configuring-na-spm.md).
 
 Role required: sn\_apw\_advanced.eap\_user
 
@@ -51,7 +51,7 @@ For an EAP story, you can generate acceptance criteria by selecting **Generate a
         1.  Place your mouse cursor in the field.
         2.  Select the **Refine with Now Assist** menu \(![](../images/icon-eap-na-context-menu.png)\).
         3.  Select **Generate acceptance criteria**.
-    ![Options to generate acceptance criteria for an EAP story.](../images/eap-na-acc-criteria.png)
+    ![Options to generate acceptance criteria for an EAP story.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-na-acc-criteria.png)
 
 5.  Review the generated acceptance criteria.
 
@@ -60,7 +60,7 @@ For an EAP story, you can generate acceptance criteria by selecting **Generate a
 7.  Save the Story form.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../../spw-eap/concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../spw-eap/concept/using-eap.md)
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-now-assist-for-spm.md)
 

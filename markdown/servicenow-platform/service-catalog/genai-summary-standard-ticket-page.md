@@ -17,7 +17,7 @@ On the standard ticket page, requesters can quickly access a generative AI summa
 
 The ticket page provides an on-demand summary. When the requester selects Summarize, a summary appears at the top, making key information quickly accessible and improving efficiency. Each summary uses a set structure for consistency, making information easy to understand and improving communication in the ticketing process.
 
-**Parent Topic:**[Standard ticket page for a requested item](stpage-req-item.md)
+**Parent Topic:**[Standard ticket page for a requested item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/stpage-req-item.md)
 
 **Related topics**  
 

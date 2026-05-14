@@ -29,11 +29,11 @@ The ServiceNow AI Platform® admin creates an API account role \(sn\_sec\_panfw.
 
 2.  Click the **Users** module.
 
-    ![Select the Users module.](../image/4-30-user-nav.png)
+    ![Select the Users module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-nav.png)
 
 3.  On the Users list that is displayed, click **New**.
 
-    ![New User record.](../image/4-30-user-nav-new.png)
+    ![New User record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-nav-new.png)
 
     A new user form is displayed.
 
@@ -50,7 +50,7 @@ The ServiceNow AI Platform® admin creates an API account role \(sn\_sec\_panfw.
     |Password|Unique password created for this role. This password is entered in the **Password** field in the **Client Authentication** section of the External Dynamic Lists dialog on the Palo Alto Networks site.|
     |Email|Unique email address.|
 
-    ![User record completed.](../image/4-30-user-listed.png)
+    ![User record completed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-listed.png)
 
 5.  Click **Submit**.
 
@@ -58,34 +58,34 @@ The ServiceNow AI Platform® admin creates an API account role \(sn\_sec\_panfw.
 
 6.  On the Users list in the **User ID** column, click the name of the user ID you entered, `API account SN`, for example.
 
-    ![New User ID listed.](../image/4-30-user-listed-callout.png)
+    ![New User ID listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-listed-callout.png)
 
 7.  On the open record in the Roles section, click **Edit**.
 
-    ![Click Edit to open the record.](../image/4-30-user-form-callout.png)
+    ![Click Edit to open the record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-form-callout.png)
 
 8.  On the **Edit Members**form that is displayed, enter `sn_sec_panfw.api_account_access` in the **Collection** field.
 
     Below the **Collection** field, the role is displayed in the column.
 
-    ![Enter new role in Collection column.](../image/4-30-user-add-enter.png)
+    ![Enter new role in Collection column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-add-enter.png)
 
 9.  In the **Collection** column, select then move `sn_sec_panfw.api_account_access` to the **Roles List**.
 
-    ![Move new role to Roles List.](../image/4-30-add-role.png)
+    ![Move new role to Roles List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-add-role.png)
 
 10. Click **Save**.
 
 11. Navigate to **Users**, and in the **User** column on the list, click the ID name that you created for the role \(`API account SN`\).
 
-    ![New role displayed on Users list.](../image/4-30-user-role-section.png)
+    ![New role displayed on Users list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-user-role-section.png)
 
     The user record is displayed. This record verifies that the user account has been assigned. The **State** is active, and the role is not inherited.
 
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[Set up and install Palo Alto Networks Next-Generation Firewall](paloalto_install.md)
+**Previous topic:**[Set up and install Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_install.md)
 
-**Next topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](../reference/paloalto_supported_edls.md)
+**Next topic:**[Supported External Dynamic Lists for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/paloalto_supported_edls.md)
 

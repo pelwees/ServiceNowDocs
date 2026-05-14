@@ -17,7 +17,7 @@ The CSDM is the data model that admins should follow when they set up ServiceNow
 
 ## Definitions of CSDM terms
 
-See [CSDM terms](../reference/csdm-term-definitions.md).
+See [CSDM terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../reference/csdm-term-definitions.md).
 
 ## Goal of following the CSDM guidelines
 
@@ -38,7 +38,7 @@ The CMDB holds data for several purposes.
 
 ## How tables in CSDM data domains support the service life cycle
 
-![CSDM domains support service life cycles.](../image/csdm-service-life-cycle-flow.png)
+![CSDM domains support service life cycles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-service-life-cycle-flow.png)
 
 1.  When you first start working on an instance, your admins install and populate the CMDB data structures. The data is required to enable your platform features and capabilities. This kind of data is kept in tables that are considered foundational to all products on your instance. We therefore refer to this set of tables as the Foundation domain — it supports all of the other data domains.
 2.  You start with an idea — an idea that implements your business model. The idea or concept is saved in data that you work on in the tables of the Ideation &amp; Strategy domain.
@@ -85,10 +85,10 @@ The CMDB holds data for several purposes.
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
--   **[Products that use and benefit from CSDM guidelines](csdm-used-by-products.md)**  
+-   **[Products that use and benefit from CSDM guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-used-by-products.md)**  
 Following the CSDM guidelines generates significant benefits in impact analysis, risk analysis, and business continuity.
--   **[CSDM data domains](csdm-conceptual-model.md)**  
+-   **[CSDM data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-conceptual-model.md)**  
 The CSDM is the data model that admins should follow when they set up ServiceNow products and applications. The standards for defining configuration items \(CIs\) and relationships between CIs in the CMDB help to promote that your data resides in the appropriate CMDB tables. The result is maximum value from ServiceNow AI Platform applications.
 
-**Parent Topic:**[Common Service Data Model](csdm-landing-page.md)
+**Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 

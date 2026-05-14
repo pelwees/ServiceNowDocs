@@ -25,7 +25,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 3.  Select **Open in Builder**.
 
-4.  Select the More options icon \(![More options icon](../image/more_vertical_icon.png)\) and select **Discard latest version**.
+4.  Select the More options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/more_vertical_icon.png)\) and select **Discard latest version**.
 
 
 ## Result

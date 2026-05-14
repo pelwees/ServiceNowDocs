@@ -27,7 +27,7 @@ Role required: hr\_basic or hr\_case\_writer
 
 3.  Click **Related Search Results**.
 
-    ![Relevant knowledge articles for an HR case](../image/attach-knowledge-article-to-hr-case-1.png)
+    ![Relevant knowledge articles for an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/attach-knowledge-article-to-hr-case-1.png)
 
     The following options are displayed in a list:
 
@@ -63,12 +63,12 @@ Click the article title. After reviewing the article in the pop-up window, click
 Click **Attach** next to the article.**Note:** When you attach an article, its text is copied to **Additional comments**. After you save the case, it also appears in the **Attached Knowledge** related list.
 
 </td></tr></tbody>
-</table>    ![Preview or attach the article to the HR case form.](../image/attach-knowledge-article-to-hr-case-3.png)
+</table>    ![Preview or attach the article to the HR case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/attach-knowledge-article-to-hr-case-3.png)
 
 5.  Click **Save**.
 
     You can remove an attachment by going to the **Attached Knowledge** tab and clicking **Edit...** button. From the list displayed, you can select the knowledge article to remove and click **&lt;**. Click **Save** to complete the process.
 
 
-**Parent Topic:**[HR Knowledge Management](../concept/hr-knowledge-management.md)
+**Parent Topic:**[HR Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-knowledge-management.md)
 

@@ -25,16 +25,16 @@ When the change moves to the Implement state, the required update for each CI re
 
 **Note:** You cannot add or delete a CI when the change request in the **In-progress** state and is not approved.
 
-**Parent Topic:**[Process a change request](../task/t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_ProcessAChangeRequest.md)
 
 **Related topics**  
 
 
-[Activate Change Management - Mass Update CI](../task/t_ActivateChangeManagementBulkCI.md)
+[Activate Change Management - Mass Update CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_ActivateChangeManagementBulkCI.md)
 
-[Associate multiple CIs with a change request](c_AffectedCIsAndImpactedServices.md#)
+[Associate multiple CIs with a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_AffectedCIsAndImpactedServices.md#)
 
-[Legacy: State model and transitions](c_ChangeStateModel.md)
+[Legacy: State model and transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ChangeStateModel.md)
 
 [Configure a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 

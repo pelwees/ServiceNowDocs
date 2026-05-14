@@ -78,7 +78,7 @@ Base URL
 
 </td><td>
 
-Base URL for the REST request. -   If **Use Connection Alias** is selected, this field displays the base URL associated with the alias. You can override the base URL by clicking the lock icon \(![Lock icon](../images/lock-icon.png)\) and entering your own.
+Base URL for the REST request. -   If **Use Connection Alias** is selected, this field displays the base URL associated with the alias. You can override the base URL by clicking the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/lock-icon.png)\) and entering your own.
 -   If **Define Connection Inline** is selected, enter a base URL for the connection.
 
 </td></tr><tr><td>
@@ -153,8 +153,8 @@ Build Request
 </td><td>
 
 Option to create the request manually, import an OpenAPI Specification, or import a REST message. -   **Manually**: Create action inputs and complete the REST step form manually.
--   **From OpenAPI specification**: Import an OpenAPI Specification to generate action inputs and complete the REST step form. For more information, see [OpenAPI support in the REST step](../../integrationhub/concept/open-api-integration.md).
--   **From REST Message**: Import a Platform REST message. For more information, see [Import a REST message into a REST step](../task/import-rest-message-step.md).
+-   **From OpenAPI specification**: Import an OpenAPI Specification to generate action inputs and complete the REST step form. For more information, see [OpenAPI support in the REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/open-api-integration.md).
+-   **From REST Message**: Import a Platform REST message. For more information, see [Import a REST message into a REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/import-rest-message-step.md).
 
 </td></tr><tr><td>
 
@@ -279,7 +279,7 @@ Name, Part Type, Value
 
 </td><td>
 
-Content of a multipart request. For each part, specify its name, part type, and value either using the fields individually or using an inline script for all the parts. You can specify the multipart values by clicking the toggle scripting icon \(![Toggle inline scripting icon](../images/flow-designer-inline-script-icon.png)\) and editing the script. For more information about inline scripting, see [Inline scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/inline-scripts.md).
+Content of a multipart request. For each part, specify its name, part type, and value either using the fields individually or using an inline script for all the parts. You can specify the multipart values by clicking the toggle scripting icon \(![Toggle inline scripting icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/flow-designer-inline-script-icon.png)\) and editing the script. For more information about inline scripting, see [Inline scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/inline-scripts.md).
 
  -   **Name**:The name of the part. It can be any valid string.
 -   **Part Type**: The type of the part. Select either **Text** or **File**.
@@ -297,7 +297,7 @@ Name, Value
 
 </td><td>
 
-Content of a form URL-encoded request. Specify each part of the URL-encoded request with a name-value pair using the fields individually or using an inline script for all parts. You can specify the form URL-encoded values inline script by clicking the toggle scripting icon\(![Toggle inline scripting icon](../images/flow-designer-inline-script-icon.png)\) and editing the script. For more information about inline scripting, see [Inline scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/inline-scripts.md).**Note:** This field is available when you select **Form URL-Encoded** from the Request Type list.
+Content of a form URL-encoded request. Specify each part of the URL-encoded request with a name-value pair using the fields individually or using an inline script for all parts. You can specify the form URL-encoded values inline script by clicking the toggle scripting icon\(![Toggle inline scripting icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/flow-designer-inline-script-icon.png)\) and editing the script. For more information about inline scripting, see [Inline scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/inline-scripts.md).**Note:** This field is available when you select **Form URL-Encoded** from the Request Type list.
 
 </td></tr><tr><td>
 
@@ -363,7 +363,7 @@ By default, the system limits the size of REST responses that are not saved as a
 
 ## Parsing a REST response
 
-REST API calls return data in the Response Body. The response body data is usually structured in JSON or XML format. You can use a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md) to parse the structured data into variables to use elsewhere in the action or in a flow. There is also an [XML parser step](xml-parser-step-action-designer.md) to parse a response body that's in an XML format.
+REST API calls return data in the Response Body. The response body data is usually structured in JSON or XML format. You can use a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md) to parse the structured data into variables to use elsewhere in the action or in a flow. There is also an [XML parser step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/xml-parser-step-action-designer.md) to parse a response body that's in an XML format.
 
 The general strategy to get extracted data from the response is to do the following.
 
@@ -378,8 +378,8 @@ The general strategy to get extracted data from the response is to do the follow
 
 For a detailed example, see the section on Parsing a REST Response in the [REST in IntegrationHub developer training \(Zurich\)](https://developer.servicenow.com/dev.do#!/learn/courses/australia/app_store_learnv2_rest_australia_rest_integrations/app_store_learnv2_rest_australia_rest_in_integration_hub/app_store_learnv2_rest_australia_rest_in_integration_hub_objectives).
 
--   **[Import a REST message into a REST step](../task/import-rest-message-step.md)**  
+-   **[Import a REST message into a REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/import-rest-message-step.md)**  
 Transfer data from an existing Platform REST message into a REST step.
 
-**Parent Topic:**[Integration steps](../../integrationhub/concept/integration-steps.md)
+**Parent Topic:**[Integration steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/integration-steps.md)
 

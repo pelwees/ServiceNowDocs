@@ -61,7 +61,7 @@ Role required: sn\_erp\_integration.erp\_user
     -   execute\(\)
     -   get\(\)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## API - API constructor
 
@@ -84,9 +84,9 @@ Filters records using an encoded query.
 
 See also:
 
--   [API - addOrQuery\(String field, String operator, String value\)](sn_erp_integrationBothAPI.md#)
--   [API - addQuery\(String field, String operator, String value, String joinType\)](sn_erp_integrationBothAPI.md#)
--   [API - fields\(Array fields\)](sn_erp_integrationBothAPI.md#)
+-   [API - addOrQuery\(String field, String operator, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - addQuery\(String field, String operator, String value, String joinType\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - fields\(Array fields\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -113,9 +113,9 @@ Add an OR query condition.
 
 See also:
 
--   [API - addEncodedQuery\(String encodedQuery\)](sn_erp_integrationBothAPI.md#)
--   [API - addQuery\(String field, String operator, String value, String joinType\)](sn_erp_integrationBothAPI.md#)
--   [API - fields\(Array fields\)](sn_erp_integrationBothAPI.md#)
+-   [API - addEncodedQuery\(String encodedQuery\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - addQuery\(String field, String operator, String value, String joinType\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - fields\(Array fields\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 <table id="table_qkt_53x_3hc" class="parameters"><thead><tr><th>
 
@@ -224,9 +224,9 @@ Add a query condition for filtering data.
 
 See also:
 
--   [API - addEncodedQuery\(String encodedQuery\)](sn_erp_integrationBothAPI.md#)
--   [API - addOrQuery\(String field, String operator, String value\)](sn_erp_integrationBothAPI.md#)
--   [API - fields\(Array fields\)](sn_erp_integrationBothAPI.md#)
+-   [API - addEncodedQuery\(String encodedQuery\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - addOrQuery\(String field, String operator, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - fields\(Array fields\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 <table id="table_qkt_53x_3hc" class="parameters"><thead><tr><th>
 
@@ -337,7 +337,7 @@ const api = new sn_erp_integration.API();
 
 Executes the configured operation.
 
-To execute an operation on a single result, use [API - get\(\)](sn_erp_integrationBothAPI.md#).
+To execute an operation on a single result, use [API - get\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -367,12 +367,12 @@ const newCompanyCode = new sn_erp_integration.API()
 
 Specifies the model fields to return. This is the primary method for field selection.
 
-To retrieve a list of fields available for a model, use [API - getAvailableOutputs\(\)](sn_erp_integrationBothAPI.md#).
+To retrieve a list of fields available for a model, use [API - getAvailableOutputs\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 See also:
 
--   [API - limit\(Number max\)](sn_erp_integrationBothAPI.md#)
--   [API - offset\(Number start\)](sn_erp_integrationBothAPI.md#)
+-   [API - limit\(Number max\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - offset\(Number start\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -398,7 +398,7 @@ const companyCodes = new API()
 
 Alias for the execute\(\) method for retrieving a single record in the results.
 
-See also [API - execute\(\)](sn_erp_integrationBothAPI.md#).
+See also [API - execute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -441,7 +441,7 @@ Array of objects
 
 </td><td>
 
-List of available IDoc configurations. Throws an error if no system has been selected.See also [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#).
+List of available IDoc configurations. Throws an error if no system has been selected.See also [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 </td></tr><tr><td>
 
@@ -449,7 +449,7 @@ object.id
 
 </td><td>
 
-IDoc ID. Use this value to select an IDoc with the [API - idocConfig\(String configId\)](sn_erp_integrationBothAPI.md#) method.Data type: String
+IDoc ID. Use this value to select an IDoc with the [API - idocConfig\(String configId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.Data type: String
 
 </td></tr><tr><td>
 
@@ -499,15 +499,15 @@ Output:
 
 Returns a list of all available input fields for the selected operation.
 
-For a list of only the required input fields for a selected model, use the [API - getRequiredInputs\(\)](sn_erp_integrationBothAPI.md#) method.
+For a list of only the required input fields for a selected model, use the [API - getRequiredInputs\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.
 
 See also:
 
--   [API - addEncodedQuery\(String encodedQuery\)](sn_erp_integrationBothAPI.md#)
--   [API - addOrQuery\(String field, String operator, String value\)](sn_erp_integrationBothAPI.md#)
--   [API - addQuery\(String field, String operator, String value, String joinType\)](sn_erp_integrationBothAPI.md#)
--   [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#)
--   [API - withJSON\(Object data\)](sn_erp_integrationBothAPI.md#)
+-   [API - addEncodedQuery\(String encodedQuery\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - addOrQuery\(String field, String operator, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - addQuery\(String field, String operator, String value, String joinType\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - withJSON\(Object data\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -527,7 +527,7 @@ Object
 
 </td><td>
 
-Object describing available inputs and their types.See also [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#).
+Object describing available inputs and their types.See also [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 </td></tr><tr><td>
 
@@ -604,7 +604,7 @@ Returns a list of available models for the selected system.
 
 For more information, see
 
--   [API - model\(String modelId\)](sn_erp_integrationBothAPI.md#)
+-   [API - model\(String modelId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 -   [Building and managing models to work with ERP data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/work-with-erp-data-models.md)
 
 |Name|Type|Description|
@@ -625,7 +625,7 @@ Array of objects
 
 </td><td>
 
-List of available models listed as a JSON object with an ID, name, and description property. Throws an error if no system has been selected.See also [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#).
+List of available models listed as a JSON object with an ID, name, and description property. Throws an error if no system has been selected.See also [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 </td></tr><tr><td>
 
@@ -633,7 +633,7 @@ object.id
 
 </td><td>
 
-Model ID. Use this value to select a model with the [API - model\(String modelId\)](sn_erp_integrationBothAPI.md#) method.Data type: String
+Model ID. Use this value to select a model with the [API - model\(String modelId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.Data type: String
 
 </td></tr><tr><td>
 
@@ -701,9 +701,9 @@ Gets the available operations for the selected model.
 
 See also:
 
--   [API - model\(String modelId\)](sn_erp_integrationBothAPI.md#)
--   [API - operation\(String operationId\)](sn_erp_integrationBothAPI.md#)
--   [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#)
+-   [API - model\(String modelId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - operation\(String operationId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 -   [Building and managing models to work with ERP data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/work-with-erp-data-models.md)
 
 |Name|Type|Description|
@@ -732,7 +732,7 @@ object.id
 
 </td><td>
 
-Model operation ID. Use this value to select a model operation with the [API - operation\(String operationId\)](sn_erp_integrationBothAPI.md#) method.Data type: String
+Model operation ID. Use this value to select a model operation with the [API - operation\(String operationId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.Data type: String
 
 </td></tr><tr><td>
 
@@ -773,7 +773,7 @@ Output:
 
 Gets a list of all available output fields for the selected operation.
 
-The field names returned by this method can be used with the [API - fields\(Array fields\)](sn_erp_integrationBothAPI.md#) method to filter field results.
+The field names returned by this method can be used with the [API - fields\(Array fields\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method to filter field results.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -793,7 +793,7 @@ Array of objects
 
 </td><td>
 
-List of available output fields. Throws an error if no model or system has been selected.See also [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#).
+List of available output fields. Throws an error if no model or system has been selected.See also [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 </td></tr><tr><td>
 
@@ -905,7 +905,7 @@ object.id
 
 </td><td>
 
-System ID. Use this value to select a system with the [API - system\(String systemId\)](sn_erp_integrationBothAPI.md#) method.Data type: String
+System ID. Use this value to select a system with the [API - system\(String systemId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.Data type: String
 
 </td></tr><tr><td>
 
@@ -945,7 +945,7 @@ Returns of list of only the required input fields for the selected model and cre
 
 Required input fields are set when models are created.
 
-For a complete list of input fields for a selected model, use the [API - getAvailableInputs\(\)](sn_erp_integrationBothAPI.md#) method.
+For a complete list of input fields for a selected model, use the [API - getAvailableInputs\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1034,7 +1034,7 @@ See also:
 
 |Name|Type|Description|
 |----|----|-----------|
-|configId|String|ID of the IDoc outbound configuration. To retrieve a list of IDoc configuration IDs, use the [API - getAvailableIdocConfigs\(\)](sn_erp_integrationBothAPI.md#) method.|
+|configId|String|ID of the IDoc outbound configuration. To retrieve a list of IDoc configuration IDs, use the [API - getAvailableIdocConfigs\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.|
 
 |Type|Description|
 |----|-----------|
@@ -1103,7 +1103,7 @@ String
 
 </td><td>
 
-The ID of the model.To retrieve a list of all models with their IDs, use [API - getAvailableModels\(\)](sn_erp_integrationBothAPI.md#).
+The ID of the model.To retrieve a list of all models with their IDs, use [API - getAvailableModels\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 </td></tr></tbody>
 </table>|Type|Description|
@@ -1147,7 +1147,7 @@ const api = new sn_erp_integration.API()
 
 Selects an operation to use on a selected model.
 
-To return a list of model operations, use [API - getAvailableOperations\(\)](sn_erp_integrationBothAPI.md#).
+To return a list of model operations, use [API - getAvailableOperations\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1194,7 +1194,7 @@ const api = new sn_erp_integration.API()
   .execute();
 ```
 
-The following example shows how to update a sales document with nested properties. For nested data structures with additional levels, use [API - withJSON\(Object data\)](sn_erp_integrationBothAPI.md#).
+The following example shows how to update a sales document with nested properties. For nested data structures with additional levels, use [API - withJSON\(Object data\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 ```
 const api = new sn_erp_integration.API()
@@ -1213,12 +1213,12 @@ Selects a system to operate on.
 
 See also:
 
--   [API - getAvailableSystems\(\)](sn_erp_integrationBothAPI.md#)
--   [API - model\(String modelId\)](sn_erp_integrationBothAPI.md#)
+-   [API - getAvailableSystems\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
+-   [API - model\(String modelId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
-|systemId|String|The system ID. You can retrieve the system ID using the [API - getAvailableSystems\(\)](sn_erp_integrationBothAPI.md#) method.|
+|systemId|String|The system ID. You can retrieve the system ID using the [API - getAvailableSystems\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#) method.|
 
 |Type|Description|
 |----|-----------|
@@ -1234,7 +1234,7 @@ const api = new sn_erp_integration.API().system('system1');
 
 Sets JSON data for the operation. For read operations, this method sets filter conditions. For create or update operations, this method sets the fields with data to be created or updated.
 
-See also [API - set\(String field, String value\)](sn_erp_integrationBothAPI.md#).
+See also [API - set\(String field, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/sn_erp_integrationBothAPI.md#).
 
 <table id="table_qkt_53x_3hc" class="parameters"><thead><tr><th>
 

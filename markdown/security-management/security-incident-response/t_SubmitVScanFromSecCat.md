@@ -29,7 +29,7 @@ Use this catalog item to trigger a vulnerability scan on one or more configurati
 
 2.  Select **Vulnerability scan**.
 
-    ![Security incident catalog](../image/sec-inc-cat.png)
+    ![Security incident catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sec-inc-cat.png)
 
 3.  Select **Scan Configuration Item and IP addresses**.
 

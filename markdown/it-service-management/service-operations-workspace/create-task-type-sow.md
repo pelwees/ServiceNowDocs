@@ -23,9 +23,9 @@ Role required: admin
 
 If you extend problem task or change task to add your own task type, you can set the child of problem or change task as the target table. Depending on the default values you set in the child of problem task or change task, you need not pass any values.
 
-For information about creating a change task, see [Create a change task in Service Operations Workspace](create-change-task-sow.md).
+For information about creating a change task, see [Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md).
 
-For information about creating a problem task, see [Create a problem task in Service Operations Workspace](create-problem-task-sow.md).
+For information about creating a problem task, see [Create a problem task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-problem-task-sow.md).
 
 ## Procedure
 
@@ -109,5 +109,5 @@ Default values that are populated when creating a record using this task type.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-record-pages-sow-itsm.md)
 

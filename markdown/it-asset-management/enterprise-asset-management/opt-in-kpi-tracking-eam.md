@@ -34,5 +34,5 @@ Role required: sn\_eam.enterprise\_admin
 
 ## What to do next
 
-[Create an operational schedule for enterprise assets](create-operational-schedule-eam.md).
+[Create an operational schedule for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-operational-schedule-eam.md).
 

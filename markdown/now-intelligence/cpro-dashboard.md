@@ -17,5 +17,5 @@ The CPRO dashboard serves as a centralized workspace for tracking end-to-end pro
 
 This dashboard visualizes essential procurement insights including requisition aging, sourcing request trends, negotiation timeliness, department-level sourcing delays, contract renewal pipelines, and spend categorization. These metrics help procurement executives identify bottlenecks, improve cycle time, enhance spend governance, and maximize value from procurement operations.
 
-![CPRO Dashboard with Spend, Requisitions, Sourcing, Negotiations, and Contracts pillars, each containing procurement metrics and visualizations.](../image/cpro-db-tab.png)
+![CPRO Dashboard with Spend, Requisitions, Sourcing, Negotiations, and Contracts pillars, each containing procurement metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cpro-db-tab.png)
 

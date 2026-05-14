@@ -19,7 +19,7 @@ Role required: none
 
 ## Procedure
 
-1.  Create a filtered list of records that you want to export by following the steps in [Export directly from a URL](t_ExportDirectlyFromTheURL.md).
+1.  Create a filtered list of records that you want to export by following the steps in [Export directly from a URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/t_ExportDirectlyFromTheURL.md).
 
 2.  Write down the number of records returned.
 

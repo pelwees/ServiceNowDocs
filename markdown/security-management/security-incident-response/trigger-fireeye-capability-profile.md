@@ -27,13 +27,13 @@ Role required: sn\_si.admin or sn\_si.analyst
 
 3.  Click **Run EDR Profile\(s\)**in the related links section.
 
-    ![Run EDR Profile](../image/run-edr-profile.png)
+    ![Run EDR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/run-edr-profile.png)
 
 4.  Browse and select a profile from the list of available profiles and click **Submit**.
 
-    ![EDR Profiles](../image/run-edr-browse.png)
+    ![EDR Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/run-edr-browse.png)
 
-    ![Run EDR Profile](../image/run-edr-submit.png)
+    ![Run EDR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/run-edr-submit.png)
 
 5.  The selected profile is triggered manually.
 

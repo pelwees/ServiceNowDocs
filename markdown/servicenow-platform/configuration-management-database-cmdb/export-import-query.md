@@ -26,7 +26,7 @@ Role required: cmdb\_query\_builder
 
 When exporting a combination query, the integrated Service Mapping query definition is included in the exported query.
 
-For backward compatibility, you can alternatively [Export and import a query as an update set](export-query-to-update-set.md).
+For backward compatibility, you can alternatively [Export and import a query as an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/export-query-to-update-set.md).
 
 ## Procedure
 

@@ -36,5 +36,5 @@ Role required: sn\_dex.service\_desk\_user, sn\_dex.engineer
 
 ## What to do next
 
-Monitor the progress of an action or cancel an ongoing action from the playbook panel. For more information, see [Manage remedial actions in DEX incident investigation Playbook](manage-incident-remedial-actions-playbook.md).
+Monitor the progress of an action or cancel an ongoing action from the playbook panel. For more information, see [Manage remedial actions in DEX incident investigation Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/manage-incident-remedial-actions-playbook.md).
 

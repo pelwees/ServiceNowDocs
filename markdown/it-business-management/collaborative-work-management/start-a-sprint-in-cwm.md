@@ -29,13 +29,13 @@ Role required: sn\_cwm.cwm\_user
 
 4.  To start a sprint, select **Start** from the sprint header.
 
-    ![Select Start from the sprint section to start a sprint in CWM.](../images/cwm-sprint-start.png)
+    ![Select Start from the sprint section to start a sprint in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-sprint-start.png)
 
 5.  Complete a sprint.
 
     1.  From the sprint header, select **Complete Sprint**.
 
-        ![Select Complete Sprint from the section of the sprint that you want to mark complete.](../images/cwm-sprint-complete.png)
+        ![Select Complete Sprint from the section of the sprint that you want to mark complete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-sprint-complete.png)
 
     2.  Review the details of completed and open items for this sprint.
 
@@ -43,14 +43,14 @@ Role required: sn\_cwm.cwm\_user
 
     4.  Choose to create a retrospective Board for this sprint to perform a sprint retrospective with your team.
 
-        For more info, see [Create a retrospective board for a sprint in CWM](create-a-retrospective-board-for-sprint-cwm.md).
+        For more info, see [Create a retrospective board for a sprint in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-retrospective-board-for-sprint-cwm.md).
 
     5.  Select **Complete Sprint**.
 
-        ![Move open items to the next sprint or to the backlog and complete the sprint.](../images/cwm-sprint-complete-review.png)
+        ![Move open items to the next sprint or to the backlog and complete the sprint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-sprint-complete-review.png)
 
     The sprint is marked as complete and is no longer displayed on the Sprint planning view anymore. All the open items are moved into the next sprint or to the backlog based on your selection.
 
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/agile-sprint-planning-in-cwm.md)
 

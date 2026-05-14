@@ -15,7 +15,7 @@ Retire a robot to turn it off. It is one of the life-cycle stages of a robot. Af
 
 ## Before you begin
 
-Create a robot. For more information, see [Robots in RPA Hub](../concept/robots-rpa-hub.md).
+Create a robot. For more information, see [Robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robots-rpa-hub.md).
 
 Verify that the robot is not assigned to any bot process or robot pool.
 
@@ -35,7 +35,7 @@ You cannot retire an unattended robot if it is associated to an unattended bot p
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Robots**.
 

@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 A search source defines a subset of indexed content that users can search using a search profile. Create search sources by applying filter conditions to content from indexed sources.
 
-Search administrators link search sources to search profiles, enabling precise control of the content that users can search. For details on creating search sources, see [Search sources in AI Search](search-sources-ais.md).
+Search administrators link search sources to search profiles, enabling precise control of the content that users can search. For details on creating search sources, see [Search sources in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
-**Parent Topic:**[Exploring AI Search](explore-ais.md)
+**Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 

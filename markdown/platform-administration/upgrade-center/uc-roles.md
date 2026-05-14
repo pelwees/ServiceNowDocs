@@ -15,7 +15,7 @@ breadcrumb: [Upgrade Center references, Upgrade Center, Upgrade, Administer the 
 
 Upgrade Center is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System administrator \[admin\]
 
@@ -47,14 +47,14 @@ Access all tables and information within Upgrade Center on your instance.
     None.
 
 
-**Parent Topic:**[Upgrade Center references](uc-reference.md)
+**Parent Topic:**[Upgrade Center references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
 
 **Related topics**  
 
 
-[Upgrade Center properties](uc-properties.md)
+[Upgrade Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-properties.md)
 
-[Upgrade Center VTB Labels list](uc-vtb-labels-list.md)
+[Upgrade Center VTB Labels list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-vtb-labels-list.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-default-skipped-rules.md)
 

@@ -34,11 +34,11 @@ Your project is created and is visible in the **Projects** page.
 
 As you work on the project, keep track collaboratively in the Project Journal.
 
-![Project Journal sidebar open](../image/kpi-composer-project-journal.png)
+![Project Journal sidebar open](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-composer-project-journal.png)
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Previous topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Previous topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Next topic:**[Define properties for a project](define-properties-project.md)
+**Next topic:**[Define properties for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/define-properties-project.md)
 

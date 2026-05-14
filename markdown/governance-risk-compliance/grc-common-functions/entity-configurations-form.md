@@ -97,5 +97,5 @@ Description
 Description of the entity configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure access to an entity's related records](../task/create-an-entity-access-configuration.md)
+</table>**Parent Topic:**[Configure access to an entity's related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/create-an-entity-access-configuration.md)
 

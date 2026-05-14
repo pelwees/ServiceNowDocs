@@ -16,7 +16,7 @@ Write with Now Assist enables generative-AI powered text generation and editing 
 
 Use content editing prompts such as Elaborate and Shorten to enhance or condense your writing. The recommendations provided by Write with Now Assist can assist in composing emails, finalizing drafts, and offering template suggestions. This functionality aids in refining and optimizing your writing process.
 
-![now assist context menu options for a set of resolution notes](../image/na-context-menu.png "Write with Now Assist")
+![now assist context menu options for a set of resolution notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-context-menu.png "Write with Now Assist")
 
 |Prompt name|Description|
 |-----------|-----------|
@@ -24,5 +24,5 @@ Use content editing prompts such as Elaborate and Shorten to enhance or condense
 |Elaborate|Lengthen the word count of the selected text to add more detail.|
 |Change tone|Personalize the selected text to reflect your desired voice. Select from Sympathetic, Formal, or Casual tones.|
 
-Write with Now Assist is supported on mobile input form screens for Now Assist skills such as task summarization. For more, see [Mobile resolution notes generation](ai-case-summarization.md).
+Write with Now Assist is supported on mobile input form screens for Now Assist skills such as task summarization. For more, see [Mobile resolution notes generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/ai-case-summarization.md).
 

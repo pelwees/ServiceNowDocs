@@ -42,28 +42,28 @@ Role required: admin or survey\_admin
     **Note:** The survey URL displayed after a connect chat is not a clickable link in the Virtual Agent chat widget. Copy and paste the URL to access the survey.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/email-notification-for-surveys.md)
 
-[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md)
 
-[Define a recipients list for surveys](define-recipient-list.md)
+[Define a recipients list for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md)
 
-[Add a recipients list to a survey](add-recipient-list-survey.md)
+[Add a recipients list to a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-recipient-list-survey.md)
 
-[Embed a survey within the Outlook email client](embed-survey-in-outlook-email.md)
+[Embed a survey within the Outlook email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/embed-survey-in-outlook-email.md)
 
-[Enable localization for a survey](enable-localization-survey.md)
+[Enable localization for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyURLs.md)
 
-[Create a survey module](t_CreatingASurveyModule.md)
+[Create a survey module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyInportAndExport.md)
 
-[Monitor incoming Connect Support conversations](../../../use/collaboration/task/t_MonitorIncomingConnectSupport.md)
+[Monitor incoming Connect Support conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../use/collaboration/task/t_MonitorIncomingConnectSupport.md)
 

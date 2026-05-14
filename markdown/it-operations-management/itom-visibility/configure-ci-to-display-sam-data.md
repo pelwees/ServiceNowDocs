@@ -46,5 +46,5 @@ Role required: admin
     The Software Installations tab now displays in the record's related list.
 
 
-**Parent Topic:**[Discovery with Software Asset Management](../concept/c_DiscoSWAssetMgmtTableSchema.md)
+**Parent Topic:**[Discovery with Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_DiscoSWAssetMgmtTableSchema.md)
 

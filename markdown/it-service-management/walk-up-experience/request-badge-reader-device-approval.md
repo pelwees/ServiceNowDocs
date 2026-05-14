@@ -37,12 +37,12 @@ If there are no people in the approval group, the flow will skip past the approv
 
 3.  Ensure that all mandatory form fields are populated.
 
-    The fields included are the **Name**, **Badge Event Handler**, **Device Identifier**, and **Secret Key** fields. See [Define and register a badge reader device using the badge reader client](assisted-config-badge-read-settings.md) or [Define and register a badge reader device manually](config-badge-reader-settings.md) for information regarding populating Badge Reader form fields.
+    The fields included are the **Name**, **Badge Event Handler**, **Device Identifier**, and **Secret Key** fields. See [Define and register a badge reader device using the badge reader client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/assisted-config-badge-read-settings.md) or [Define and register a badge reader device manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/config-badge-reader-settings.md) for information regarding populating Badge Reader form fields.
 
 4.  Select **Request Activation** to initiate the activation approval workflow.
 
     The request is approved by a user with the itil role in the badge reader approvers group. If there is no badge reader approvers group or the group is empty, then the badge reader is activated when a user with the sn\_badge.badge\_admin role requests activation.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-badge-read-integ-config.md)
 

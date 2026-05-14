@@ -26,7 +26,7 @@ Role required: developer or release\_admin
 
     **Note:** You can only select deployment requests that are in the draft state.
 
-    ![On the deployment request form, you can select the deployment request that you want to attach your update set changes to.](../image/releaseops-deployment-request-form.png)
+    ![On the deployment request form, you can select the deployment request that you want to attach your update set changes to.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-deployment-request-form.png)
 
 2.  Select **Submit** to create your deployment request.
 
@@ -39,5 +39,5 @@ Role required: developer or release\_admin
     When you have selected **Ready to assess**, ReleaseOps automatically begins assessing your deployment request. You can see how the assessment is running and any issues that the assessment encountered in the **Activity** section of the deployment request form. Once your deployment request has passed the assessment checks, your deployment request will be moved into the pipeline that your organization has configured.
 
 
-**Parent Topic:**[Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md)
+**Parent Topic:**[Using ReleaseOps to manage deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../concept/using-releaseops-to-manage-deployments.md)
 

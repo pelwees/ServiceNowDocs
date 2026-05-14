@@ -19,17 +19,17 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [Configure an impact rating to assess an impact category](configure-impact-rating-bcp.md) and [Structured workflows for Business Impact Analysis](../concept/structured-workflows-bia.md).
+BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [Configure an impact rating to assess an impact category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-rating-bcp.md) and [Structured workflows for Business Impact Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/structured-workflows-bia.md).
 
 ## Procedure
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Select the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Select the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  In the **Name** column, select the link to the BIA record that is in the **In Draft** state.
 
-    An impact assessment is displayed as shown in the example.![Impact assessment.](../image/impact-rating-ws.png)
+    An impact assessment is displayed as shown in the example.![Impact assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-rating-ws.png)
 
 4.  To update a business impact category with its recovery time, select the **RTO Impact Assessment** tab.
 

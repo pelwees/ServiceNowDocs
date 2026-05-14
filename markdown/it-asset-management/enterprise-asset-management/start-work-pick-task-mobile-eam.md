@@ -49,5 +49,5 @@ On the **Details** tab, the **Start work** link changes to **Start timer**, **Lo
 
 ## What to do next
 
-Complete the asset pick task assigned to you. For details, see [Locate and pick the enterprise assets in your stockroom using the Mobile Agent application](locate-and-pick-enterprise-asset-mobile-app.md).
+Complete the asset pick task assigned to you. For details, see [Locate and pick the enterprise assets in your stockroom using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/locate-and-pick-enterprise-asset-mobile-app.md).
 

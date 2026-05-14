@@ -23,7 +23,7 @@ Confirm that CMDB 360 is enabled and configured in your instance.
 
 ## About this task
 
-The following screenshot can help you to set up the fields to identify the discrepancy.![CMDB MultiSource Column Metadata user interface with the fields configured for discrepancy.](../images/set-attribute-discrepancy-value.png)
+The following screenshot can help you to set up the fields to identify the discrepancy.![CMDB MultiSource Column Metadata user interface with the fields configured for discrepancy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/set-attribute-discrepancy-value.png)
 
 ## Procedure
 
@@ -51,7 +51,7 @@ You can use the configured attributes in the CMDB 360 query.
 **Related topics**  
 
 
-[Control CI attribute updates using Reconciliation rules](control-ci-attribute-updates-using-reconciliation-rules.md)
+[Control CI attribute updates using Reconciliation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/control-ci-attribute-updates-using-reconciliation-rules.md)
 
-[Generate reports for attribute value discrepancies](use-attribute-value-discrepancy-in-cmdb-360.md)
+[Generate reports for attribute value discrepancies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/use-attribute-value-discrepancy-in-cmdb-360.md)
 

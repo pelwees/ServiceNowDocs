@@ -15,7 +15,7 @@ breadcrumb: [Model management, Natural Language Understanding, Enable AI experie
 
 On your model's overview in NLU Workbench, open the **Tune your model** phase to review and incorporate user utterances from the Expert Feedback Loop.
 
-![The Tune your model phase on the model's overview page](../images/nlu-tune-your-model1.png)
+![The Tune your model phase on the model's overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/nlu-tune-your-model1.png)
 
 ## Summary usage
 
@@ -25,5 +25,5 @@ The **Tune your model** phase on your model's overview takes you to the NLU Expe
 
 When the Expert Feedback Loop has feedback waiting for your review, **You have utterances that need feedback** is highlighted on the card.
 
-For more information, see [NLU Expert Feedback Loop](nlu-expert-feedback-loop.md)
+For more information, see [NLU Expert Feedback Loop](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-expert-feedback-loop.md)
 

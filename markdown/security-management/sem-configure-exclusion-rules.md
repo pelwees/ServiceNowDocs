@@ -35,13 +35,13 @@ The execution order defines the priority in which exclusion rules are processed.
     -   Moved to the top of the list: New execution order = \(Execution order of current top rule\) ÷ 2
     -   Moved to the bottom of the list: New execution order = \(Execution order of current bottom rule + 1000\)
 
--   **[Create or edit exclusion rules](../task/sem-create-or-edit-exclusion-rules.md)**  
+-   **[Create or edit exclusion rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-create-or-edit-exclusion-rules.md)**  
 Create a rule to filter or exclude detections from getting converted into vulnerable items \(VITs\) during ingestion.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Controlling the ingestion volume with automatic exclusion](sem-controlling-ingestion-volume-automatic-exclusion.md)
+[Controlling the ingestion volume with automatic exclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-controlling-ingestion-volume-automatic-exclusion.md)
 

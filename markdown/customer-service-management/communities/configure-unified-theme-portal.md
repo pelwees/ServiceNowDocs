@@ -65,5 +65,5 @@ Add a theme and header menu to your service portal to define its look and behavi
 11. Select **Submit**.
 
 
-**Parent Topic:**[Community Service Portal](../concept/community-service-portal.md)
+**Parent Topic:**[Community Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/community-service-portal.md)
 

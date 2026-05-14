@@ -104,5 +104,5 @@ A trigger definition is created for the callback URL and the topic is registered
 
 ## What to do next
 
-In the Workflow Studio, you activate the endpoints of the Telecommunications Alarm Management Open API connection. For more information, see [Activate the endpoint of the Telecommunications Alarm Management Open API connection](activate-endpoint-in-the-telecommunications-alarm-management-open-api.md).
+In the Workflow Studio, you activate the endpoints of the Telecommunications Alarm Management Open API connection. For more information, see [Activate the endpoint of the Telecommunications Alarm Management Open API connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/activate-endpoint-in-the-telecommunications-alarm-management-open-api.md).
 

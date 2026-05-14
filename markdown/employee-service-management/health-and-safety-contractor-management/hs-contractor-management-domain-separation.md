@@ -36,7 +36,7 @@ All tables in the Health and Safety Contractor Management can be domain-separate
 -   Each table in Health and Safety Contractor Management includes the domain separation fields **Domain** and **Domain path**.
 -   Customers can use these fields to configure domain separation in their implementation of Health and Safety Contractor Management.
 
-**Parent Topic:**[Health and Safety Contractor Management reference](hs-contractor-management-reference.md)
+**Parent Topic:**[Health and Safety Contractor Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-reference.md)
 
 **Related topics**  
 

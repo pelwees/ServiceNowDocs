@@ -277,5 +277,5 @@ row.deleteRow()
 2.  There is nothing in place to prevent namespace collision with variables. Creating two variables named computer\_speed would result in only one of them showing up; the second one would overwrite the first one.
 3.  Date/time variables use the same time zone formatting and storage rules as all other dates in the system. They are stored internally in GMT, but translated into the user's local time zone and format for display.
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 

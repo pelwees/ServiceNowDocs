@@ -40,7 +40,7 @@ The system property **sn\_tcm\_collab\_hook.slack\_on\_task** enables the slack 
     |Fields|Description|
     |------|-----------|
     |Add participants|Individual users or groups whom you want as participants to the channel.|
-    |Recommended and Selected|Columns to personalize your list. Select the items in the **Recommended** column and move them to the **Selected** column using the right-arrow icon \(![Right-arrow icon](../image/right-arrow-icon.png)\).|
+    |Recommended and Selected|Columns to personalize your list. Select the items in the **Recommended** column and move them to the **Selected** column using the right-arrow icon \(![Right-arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/../image/right-arrow-icon.png)\).|
     |Channel name|Unique name of the channel that differentiates it from the rest of the channels in Slack.|
     |Channel topic|Description about the purpose of the channel.|
     |Include a brief message for participants|Brief message that you want to send to the participants.|

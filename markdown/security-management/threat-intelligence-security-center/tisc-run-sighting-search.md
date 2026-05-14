@@ -39,13 +39,13 @@ To perform this action select the implementation and add common run time inputs 
 
 6.  Select the required implementation\(s\) from the list.
 
-    ![Run Sighting Search](../image/tisc-run-sighting-search-modal01.png)
+    ![Run Sighting Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-run-sighting-search-modal01.png)
 
 7.  Click **Next**.
 
 8.  Select the common run time input value such as Select Date/Time frequency and Number of hours.
 
-    ![Run Sighting Search - Common inputs](../image/tisc-run-sighting-search-modal02.png)
+    ![Run Sighting Search - Common inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-run-sighting-search-modal02.png)
 
 9.  Click **Submit**.
 
@@ -57,5 +57,5 @@ To perform this action select the implementation and add common run time inputs 
     -   The enrichment results pushed from SIR workspace can be found in the **Enrichment Results** tab of that corresponding Observables details page in TISC Workspace.
     -   The enrichment results pushed from SIR workspace can be identified using **Source** field of the enrichment result table.
 
-**Parent Topic:**[Run Enrichment operations in TISC](tisc-unified-experience-capabilities-and-modal-screens.md)
+**Parent Topic:**[Run Enrichment operations in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.md)
 

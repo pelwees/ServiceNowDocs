@@ -51,12 +51,12 @@ Select the **Cloud spend analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/tags-overview.md) and [List of default tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/default-tag-categories.md).
 
     -   Tag values
     -   Tag categories selected
 
-![Cloud spend analytics page displaying the spend on various cloud resources grouped by various parameters.](../image/spend-analytic.png)
+![Cloud spend analytics page displaying the spend on various cloud resources grouped by various parameters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/spend-analytic.png)
 
 ## Kubernetes spend analytics
 
@@ -82,13 +82,13 @@ Select the **Kubernetes spend analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/tags-overview.md) and [List of default tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/default-tag-categories.md).
 
     -   Tag value
     -   Tag categories selected
 -   View details of cost per Kubernetes cluster and cost per Kubernetes namespace.
 
-![Kubernetes spend analytcis displaying the spend on Kubernetes on the cloud.](../image/ccm-kubernetes-spend-analytics.png)
+![Kubernetes spend analytcis displaying the spend on Kubernetes on the cloud.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/ccm-kubernetes-spend-analytics.png)
 
 ## Shared cost analytics
 
@@ -119,22 +119,22 @@ Select the **Shared cost analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/tags-overview.md) and [List of default tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/default-tag-categories.md).
 
     -   Tag value
     -   Tag categories selected
 -   View details of the direct cost and shared cost of your cloud resources.
 
-![Shared cost analytics displaying the spend on shared cloud resources.](../image/ccm-shared-cost-analytics.png)
+![Shared cost analytics displaying the spend on shared cloud resources.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/ccm-shared-cost-analytics.png)
 
 **Related topics**  
 
 
-[Cloud service categories in Cloud Cost Management](cloud-ser-categories.md)
+[Cloud service categories in Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-ser-categories.md)
 
-[Tags and tag categories](../reference/tags-overview.md)
+[Tags and tag categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/tags-overview.md)
 
-[Create and update a tag category](../task/tag-category-crud-cloudin.md)
+[Create and update a tag category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/tag-category-crud-cloudin.md)
 
-[Create or update a shared cost allocation policy](../task/create-shared-cost-policy.md)
+[Create or update a shared cost allocation policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/create-shared-cost-policy.md)
 

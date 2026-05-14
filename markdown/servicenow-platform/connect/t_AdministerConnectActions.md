@@ -112,5 +112,5 @@ Text that appears in the Connect action menu. The title for each Connect action 
 </table>
 ## Result
 
-![Connect Actions form with the condition conversation.table === 'chat_queue_entry'](../image/ConnectActionsForm.png "Connect Actions form")
+![Connect Actions form with the condition conversation.table === 'chat_queue_entry'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectActionsForm.png "Connect Actions form")
 

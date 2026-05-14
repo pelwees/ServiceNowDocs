@@ -23,20 +23,20 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure case management](../task/configure-csm-case-management.md)
+[Configure case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-csm-case-management.md)
 
 </td><td>
 
 Configure the case management features that enable agents and customers to create cases for issues and questions, track the activities related to resolving issues, and provide communication between the agent and customer.Some of the case management features include the following:
 
--   [Configure a Case form view](../task/configure-case-form.md) to display the desired fields and related lists.
--   [Configure SLA definitions for customer service cases](../task/t_DefineSLAForCustServiceCase.md) to specify the time within which service must be provided.
--   [Configure major issue management](../task/configure-major-issue-management.md) to manage the communication and resolution process for issues that impact multiple customers.
--   [Configure special handling notes](../task/configure-special-handling-notes.md) to bring important case information to an agent’s attention.
+-   [Configure a Case form view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-case-form.md) to display the desired fields and related lists.
+-   [Configure SLA definitions for customer service cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_DefineSLAForCustServiceCase.md) to specify the time within which service must be provided.
+-   [Configure major issue management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-major-issue-management.md) to manage the communication and resolution process for issues that impact multiple customers.
+-   [Configure special handling notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-special-handling-notes.md) to bring important case information to an agent’s attention.
 
 </td></tr><tr><td>
 
-[Customer service case types](customer-service-case-types.md)
+[Customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configure case types to handle different types of customer issues. When creating
 
 </td></tr><tr><td>
 
-[Task Plan Templates](task-plan-templates.md)
+[Task Plan Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-templates.md)
 
 </td><td>
 
@@ -52,7 +52,7 @@ A task plan template defines the tasks, records, and conditions used to automati
 
 </td></tr><tr><td>
 
-[Order Operations Case Management](csm-case-mgmt-order-ops.md)
+[Order Operations Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Order Operations Case Management enables agents to manage issues across multiple
 
 </td></tr><tr><td>
 
-[Case Lines and Workflows](csm-case-mgmt-case-lines.md)
+[Case Lines and Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Case Lines and Workflows enables agents and customers to manage multiple related
 
 </td></tr><tr><td>
 
-[Case Management for Invoice Operations](csm-invoice-operations.md)
+[Case Management for Invoice Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-invoice-operations.md)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Case Management for Invoice Operations enables agents to manage invoice‑relate
 
 </td></tr><tr><td>
 
-[Service definitions](csm-service-definitions.md)
+[Service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
 </td><td>
 

@@ -24,5 +24,5 @@ Role required: none
 1.  Drag-and-drop group feeds and hashtags from the Feed Summary section to the Edge for quick access.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedUIOverview.md)
 

@@ -85,5 +85,5 @@ Script that runs when the condition you define evaluates to true. Two additional
 -   current: a GlideRecord- the event scheduled on behalf of \(incident for example\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[System events reference](system-events-reference.md)
+</table>**Parent Topic:**[System events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-reference.md)
 

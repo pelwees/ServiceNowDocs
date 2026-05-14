@@ -13,7 +13,7 @@ breadcrumb: [State flows, Exploring Service Administration, Service Administrati
 
 Several types of components are installed with state flows.
 
-**Parent Topic:**[State flows](../concept/c_StateFlows.md)
+**Parent Topic:**[State flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_StateFlows.md)
 
 ## Tables installed with state flows
 

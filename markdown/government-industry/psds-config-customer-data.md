@@ -37,6 +37,6 @@ The following list is a list of key entities in the Public Sector Digital Servic
 
     Household information is stored in the Household table, and also includes the relationships between household members.
 
-    For more information on households in Public Sector, see [Configure households in Public Sector Digital Services](psds-config-customer-data-household.md).
+    For more information on households in Public Sector, see [Configure households in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-customer-data-household.md).
 
 

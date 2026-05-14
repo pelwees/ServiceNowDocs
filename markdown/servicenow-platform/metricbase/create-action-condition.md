@@ -25,7 +25,7 @@ Condition Scripts execute when conditions for a trigger are met but before the t
 
 Condition scripts are sometimes also referred to as moderator scripts.
 
-Condition Scripts always return *true* \(trigger\) or *false* \(do not trigger\). To learn how to write these scripts, see [Scripting in ServiceNow Fundamentals](https://www.servicenow.com/services/training-and-certification/scripting-in-servicenow-training.html). To experiment with scripts, see [Get familiar with MetricBase APIs](metricbase-data-explorer.md).
+Condition Scripts always return *true* \(trigger\) or *false* \(do not trigger\). To learn how to write these scripts, see [Scripting in ServiceNow Fundamentals](https://www.servicenow.com/services/training-and-certification/scripting-in-servicenow-training.html). To experiment with scripts, see [Get familiar with MetricBase APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase-data-explorer.md).
 
 ## Procedure
 
@@ -78,11 +78,11 @@ Condition Scripts always return *true* \(trigger\) or *false* \(do not trigger\)
 
 ## What to do next
 
-Use Workflow Studio to [associate a flow with a trigger](assign-trigger-to-workflow.md). When configuring a flow, you can select a Condition Script you created.
+Use Workflow Studio to [associate a flow with a trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/assign-trigger-to-workflow.md). When configuring a flow, you can select a Condition Script you created.
 
-![Add Condition Script to a trigger definition.](../image/condition-script-flow-designer.png "Add a Condition Script to a trigger definition in Workflow Studio")
+![Add Condition Script to a trigger definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/condition-script-flow-designer.png "Add a Condition Script to a trigger definition in Workflow Studio")
 
 You can also associate a condition script with a trigger flow in the MetricBase Trigger Flows \[sys\_flow\_metric\_trigger\] table. If you associate a condition script with a trigger flow here, it won’t appear in Workflow Studio, but it will still execute with the trigger.
 
-![Associate a Condition Script in MetricBase trigger flows table](../image/condition-script-trigger-flow.png "Associate a Condition Script in MetricBase Trigger Flows")
+![Associate a Condition Script in MetricBase trigger flows table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/condition-script-trigger-flow.png "Associate a Condition Script in MetricBase Trigger Flows")
 

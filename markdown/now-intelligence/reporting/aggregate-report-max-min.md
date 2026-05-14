@@ -27,7 +27,7 @@ These images illustrate maximum and minimum duration using grouped bars to show 
 
 |Maximum duration|Minimum duration|
 |----------------|----------------|
-|![Bar chart aggregated by Maximum duration with bars representing incident categories and priorities, one showing the maximum duration for critical software incidents of approximately 23 days, 21 hours.](../image/aggregation-max-dur-gr.png)|![Bar chart aggregated by Minimum duration with bars representing incident categories and priorities, one showing the minimum duration for critical software incidents of approximately 5 days.](../image/aggregation-min-dur-gr.png)|
+|![Bar chart aggregated by Maximum duration with bars representing incident categories and priorities, one showing the maximum duration for critical software incidents of approximately 23 days, 21 hours.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-max-dur-gr.png)|![Bar chart aggregated by Minimum duration with bars representing incident categories and priorities, one showing the minimum duration for critical software incidents of approximately 5 days.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-min-dur-gr.png)|
 
 ## Procedure
 

@@ -19,10 +19,10 @@ The framework captures only aggregated usage metrics \(such as feature usage, pe
 
 You have full transparency and control over your instance's use of the experimentation framework. You can view active experiments by navigating to **All** &gt; **Experimentation Framework** &gt; **All Experiments**. You can also choose to opt out of individual experiments or turn off the framework entirely.
 
--   **[Opt out of an individual experiment](../task/opt-out-individual-experiment.md)**  
+-   **[Opt out of an individual experiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/opt-out-individual-experiment.md)**  
 Opt out of a specific experiment while remaining enrolled in others.
--   **[Turn off experimentation framework](../task/turn-off-experimentation-framework.md)**  
+-   **[Turn off experimentation framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/turn-off-experimentation-framework.md)**  
 Turn off experimentation framework to opt out of all current and future experiments.
 
-**Parent Topic:**[Basic system configuration](p_CoreConfigurationOverview.md)
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 

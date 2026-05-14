@@ -125,5 +125,5 @@ The determination rule is created.
 
 ## What to do next
 
-[Assign an Agent Efficiency value to agents](assign-efficiency-value-to-agents.md)
+[Assign an Agent Efficiency value to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-efficiency-value-to-agents.md)
 

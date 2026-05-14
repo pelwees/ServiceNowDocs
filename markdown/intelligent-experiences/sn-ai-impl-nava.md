@@ -67,7 +67,7 @@ Setting up Now Assist in Virtual Agent requires customizing or creating a new LL
 
     Why? This simplifies topic management and enables self-service.
 
-    See: [Knowledge Base readiness for Now Assist on the ServiceNow AI Platform](sn-ai-impl-kb-readiness.md)
+    See: [Knowledge Base readiness for Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-kb-readiness.md)
 
 -   **4. Migrate NLU topics to LLM**
 
@@ -83,7 +83,7 @@ Setting up Now Assist in Virtual Agent requires customizing or creating a new LL
 
     Why? To avoid redundancy and eliminate the need to create new Virtual Agent topics.
 
-    See: [Service Catalog readiness for Now Assist on the ServiceNow AI Platform](sn-ai-impl-srvc-catalog.md)
+    See: [Service Catalog readiness for Now Assist on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-srvc-catalog.md)
 
 -   **Review LLM Virtual Agent topics that come with Now Assist**
 

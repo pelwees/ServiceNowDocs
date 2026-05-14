@@ -42,7 +42,7 @@ Role required: System admin
 
 3.  If resolution steps are unavailable in the Overview section, select **Generate resolution steps**.
 
-4.  If resolution steps are available, and you want to get alternative resolution steps, then use the **Regenerate** button.![Regenerate resolution steps](../images/regenerate-resolution-steps.png)
+4.  If resolution steps are available, and you want to get alternative resolution steps, then use the **Regenerate** button.![Regenerate resolution steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/regenerate-resolution-steps.png)
 
     **Note:**
 

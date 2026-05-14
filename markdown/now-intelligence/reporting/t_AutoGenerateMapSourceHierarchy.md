@@ -51,16 +51,16 @@ Role required: report\_admin or admin
 
 The map source is ready to use in a map report.
 
-**Parent Topic:**[Map report administration](../concept/c_AdministeringMapReports.md)
+**Parent Topic:**[Map report administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdministeringMapReports.md)
 
 **Related topics**  
 
 
-[Map report objects](../concept/c_MapReportObjects.md)
+[Map report objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_MapReportObjects.md)
 
-[Customize a map source level](t_CustomizeAMapSourceLevel.md)
+[Customize a map source level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CustomizeAMapSourceLevel.md)
 
-[Create a key-value pair mapping](t_CreateKeyValuePairMapping.md)
+[Create a key-value pair mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateKeyValuePairMapping.md)
 
-[Create a map](t_CreateAMap.md#)
+[Create a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateAMap.md#)
 

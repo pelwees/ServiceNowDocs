@@ -23,9 +23,9 @@ The following video walks you through the process of mapping clause and clause v
 
 ## Before you begin
 
-The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
-An active contract template in the Draft or Editing state must exist. For more information, see [Create a contract template to contain content controls](cncore-create-ct-word-addin.md).
+An active contract template in the Draft or Editing state must exist. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 
@@ -37,7 +37,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  In the login screen, enter the credentials of the ServiceNow instance from which you downloaded the manifest file.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
 4.  In the **Templates** tab, select the contract template for which you want to add or modify clauses.
 
@@ -45,15 +45,15 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
     A list of active clauses associated with the table selected in the contract template is displayed.
 
-6.  On the Microsoft Word Home ribbon, select the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](../image/lsd-word-formatting-icon.png)\) to see the formatting symbols.
+6.  On the Microsoft Word Home ribbon, select the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-word-formatting-icon.png)\) to see the formatting symbols.
 
-7.  In the Microsoft Word document, select the content to be tagged along with the paragraph ending symbol \(![Paragraph ending symbol](../image/lsd-word-formatting-icon.png)\).
+7.  In the Microsoft Word document, select the content to be tagged along with the paragraph ending symbol \(![Paragraph ending symbol](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-word-formatting-icon.png)\).
 
 8.  Map the content to the clauses by either using an existing clause variation, creating a clause, or creating clause variation.
 
     A clause cannot be mapped to more than one piece of content.
 
-    ![Map clauses in ServiceNow Contracts add-in](../image/cmpro-waddin-use-clause.png "Clause mapping")
+    ![Map clauses in ServiceNow Contracts add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-use-clause.png "Clause mapping")
 
 <table id="choicetable_j14_bd2_2yb"><thead><tr><th align="left" id="d144870e247">
 
@@ -77,7 +77,7 @@ In the **Clauses** tab, select **Use this clause** for the clause that you want 
 
 </td><td>
 
-1.  In the **Clauses** tab, select the Create a new clause icon \(![Create new clause icon](../image/lsd-plus-symbol-addin.png)\).
+1.  In the **Clauses** tab, select the Create a new clause icon \(![Create new clause icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-plus-symbol-addin.png)\).
 2.  In the New clause form, fill in the fields.
     -   **Name** - Unique name for the clause.
     -   **Contract type** - This field is automatically set to the contract type associated with the contract template.
@@ -109,20 +109,20 @@ In the **Clauses** tab, select **Create Variation** for the clause that you want
 ## Result
 
 -   The selected content is tagged with the clause.
--   The clause details are synced to the ServiceNow instance. You can access the clause details by logging to the ServiceNow instance and navigating to the **Imported Clauses** related list of the contract template.![Mapped clauses added from ServiceNow Contracts add-in are synced to your instance](../image/cmpro-waddin-view-mapped-cls.png)
+-   The clause details are synced to the ServiceNow instance. You can access the clause details by logging to the ServiceNow instance and navigating to the **Imported Clauses** related list of the contract template.![Mapped clauses added from ServiceNow Contracts add-in are synced to your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-view-mapped-cls.png)
 
 ## What to do next
 
-[Complete mapping and upload Microsoft Word document that includes content controls](cncore-upload-doc-addin.md)
+[Complete mapping and upload Microsoft Word document that includes content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-upload-doc-addin.md)
 
-**Parent Topic:**[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
+**Parent Topic:**[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md)
 
 **Related topics**  
 
 
-[Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md)
+[Configure metadata for fields, variables, and variables sets in a contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-metadata.md)
 
-[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+[Configuring signatories in Contract template using Microsoft Word add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-config-sign-addin.md)
 
-[Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-table.md)
+[Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-table.md)
 

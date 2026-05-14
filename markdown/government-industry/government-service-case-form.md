@@ -405,7 +405,7 @@ Resolution notes
 Details about how the case was closed. This field is mandatory if a customer service agent or agent manager closes a case. If a constituent closes a case, it is not mandatory.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services Core Case Forms](psds-case-forms.md)
+</table>**Parent Topic:**[Public Sector Digital Services Core Case Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-case-forms.md)
 
 ## Government Service Case form related lists
 

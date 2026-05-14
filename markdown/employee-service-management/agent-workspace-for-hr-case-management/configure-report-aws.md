@@ -27,7 +27,7 @@ Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
 3.  Select the **Settings** tab.
 
-    ![Settings tab](../image/settings_tab_uibuilder.png)
+    ![Settings tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/settings_tab_uibuilder.png)
 
 4.  Select **Duplicate**.
 
@@ -46,17 +46,17 @@ Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
     The order of the variant defines the copy to be used.
 
 
--   **[Landing page configuration example](landing-page-example.md)**  
+-   **[Landing page configuration example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/landing-page-example.md)**  
 Learn how to configure a landing page through an example configuration process.
 
-**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](../concept/uib-aws.md)
+**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/uib-aws.md)
 
 **Related topics**  
 
 
-[Enable a detailed data display within a report](drill-down-report.md)
+[Enable a detailed data display within a report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/drill-down-report.md)
 
-[Configure quick links in Agent Workspace for HR Case Management](quick-links-aws.md)
+[Configure quick links in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/quick-links-aws.md)
 
-[Reorder the navigation pane modules in HR Agent Workspace](reorder-pane-modules-aws.md)
+[Reorder the navigation pane modules in HR Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/reorder-pane-modules-aws.md)
 

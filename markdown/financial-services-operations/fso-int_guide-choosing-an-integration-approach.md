@@ -22,7 +22,7 @@ Consider the following questions when choosing an integration approach:
 -   Must the data be current when viewing?
 -   Must the user see all the customer's related accounts?
 
-![Decision matrix to determine the most suitable integration approach.](../image/integration-decision-matrix.png)
+![Decision matrix to determine the most suitable integration approach.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/integration-decision-matrix.png)
 
 ## Using the FSO Remote Table Plugin
 

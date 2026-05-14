@@ -63,5 +63,5 @@ Several pre-defined validations are available with the base system. When data is
 7.  Select **Submit** to create a validation assist table.
 
 
-**Parent Topic:**[Data capture and validation](../concept/account-lifecycle-use-playbook-data-capture.md)
+**Parent Topic:**[Data capture and validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-use-playbook-data-capture.md)
 

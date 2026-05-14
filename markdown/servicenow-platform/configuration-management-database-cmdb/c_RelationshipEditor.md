@@ -15,7 +15,7 @@ breadcrumb: [CI relationships in the CMDB, Configuration Management Database \(C
 
 Use the relationship editor to view, create, modify, or delete CI relationships. Open the relationship editor from the CI Relations formatter.
 
-As an alternative to the CI relationship editor, [Unified Map](cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](cmdb-workspace.md)or in [Service Graph Workspace store app](sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](../task/unified-map-edit-connection.md).
+As an alternative to the CI relationship editor, [Unified Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or in [Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/unified-map-edit-connection.md).
 
 When you use the relationship editor, the CI from which the editor was launched is designated as the base CI. You can then select one or more CIs as a second CI for the relationship. Depending on the selected relationship type, the base CI can become the parent CI or the child CI in the new relationship.
 
@@ -47,35 +47,35 @@ If you do not select the **Use suggested relationship** check box in the editor,
 
 If you do not select the **Use suggested relationship** check box in the editor, the **Upstream relationships** list appears. It displays all relationships in which the base CI is the child CI. The parent CI in each relationship is displayed in the **Parent** column.
 
--   **[Create or edit a CI relationship](../task/t_CreateCIRelationship.md)**  
+-   **[Create or edit a CI relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIRelationship.md)**  
 Use the relationship editor to view, create, or modify CI relationships. You can open the relationship editor from the CI Relations formatter.
--   **[Delete a CI relationship](../task/delete-ci-relationship.md)**  
+-   **[Delete a CI relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/delete-ci-relationship.md)**  
 Maintain the integrity of the CMDB by deleting any CI relationships that are no longer relevant or needed for a CI. Use the relationship editor to delete CI relationships.
--   **[Legacy CI relationship builder](../../../administer/form-administration/concept/c_CIRelationshipBuilder.md)**  
-Used to define CI relationships manually, this page is a sophisticated version of the standard list collector. In the legacy CI relations formatter, click the CI relationship builder icon \(![CI relationship builder icon](../../../administer/form-administration/image/CIRelationshipBuilderIcon.png)\) to display the legacy Define Relationships page.
+-   **[Legacy CI relationship builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../administer/form-administration/concept/c_CIRelationshipBuilder.md)**  
+Used to define CI relationships manually, this page is a sophisticated version of the standard list collector. In the legacy CI relations formatter, click the CI relationship builder icon \(![CI relationship builder icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../administer/form-administration/image/CIRelationshipBuilderIcon.png)\) to display the legacy Define Relationships page.
 
-**Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_AddANewSuggestedRelationship.md)
 
-[Relationship governance rules](relationship-governance.md)
+[Relationship governance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/relationship-governance.md)
 
-[CI relations formatter](c_CIRelationsFormatterNG.md)
+[CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md)
 
-[Relation qualifier](c_RelationQualifier.md)
+[Relation qualifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_RelationQualifier.md)
 
-[CI relationship security](c_CIRelationshipSecurity.md)
+[CI relationship security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateACIRelationRollup.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_AddANewSuggestedRelationship.md)
 
-[Create or edit a CI relationship](../task/t_CreateCIRelationship.md)
+[Create or edit a CI relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIRelationship.md)
 
-[Legacy CI relationship builder](../../../administer/form-administration/concept/c_CIRelationshipBuilder.md)
+[Legacy CI relationship builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../administer/form-administration/concept/c_CIRelationshipBuilder.md)
 

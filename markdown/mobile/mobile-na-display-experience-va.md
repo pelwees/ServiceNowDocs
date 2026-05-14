@@ -22,7 +22,7 @@ Configure the standard chat experience for Now Assist in Virtual Agent to enable
 
 In this example, asking Now Assist about booking travel provides a summary of the steps required to book a trip. It also offers the option to request a business travel support letter, request travel help, and to view more information about international travel.
 
-![Now Assist summarizing the company's policy on booking travel](../image/na-va-standard-chat.png "Now Assist standard chat")
+![Now Assist summarizing the company's policy on booking travel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-standard-chat.png "Now Assist standard chat")
 
 ## Enhanced chat
 
@@ -30,21 +30,21 @@ Configure the enhanced chat experience in Now Assist for Virtual Agent so you ca
 
 In this example, asking Now Assist about booking travel provides a summary of the steps required to book a trip. Below the generated response, Now Assist lists the sources from which it pulled its information.
 
-![Now Assist giving information on booking travel](../image/na-va-enhanced-chat.png "Now Assist enhanced chat")
+![Now Assist giving information on booking travel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-enhanced-chat.png "Now Assist enhanced chat")
 
 ## Custom apps
 
-If you have a mobile SDK installed on your instance, you have the option to enable Now Assist for Virtual Agent for your custom apps. For more information, see the [Mobile SDK](mobile-sdk.md) documentation.
+If you have a mobile SDK installed on your instance, you have the option to enable Now Assist for Virtual Agent for your custom apps. For more information, see the [Mobile SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-sdk.md) documentation.
 
-![the custom apps section of the virtual agent display configuration screen](../image/na-va-custom-apps.png "Custom mobile apps")
+![the custom apps section of the virtual agent display configuration screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-custom-apps.png "Custom mobile apps")
 
 ## Configuring your Virtual Agent display experience
 
 Choose how you want Virtual Agent to display on your mobile app.
 
-![Landing page for how you want virtual agent to display on your mobile app.](../image/na-va-mobile-display.png "Mobile display experience configuration")
+![Landing page for how you want virtual agent to display on your mobile app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-mobile-display.png "Mobile display experience configuration")
 
 For information on how to configure your Now Assist display experience, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
-**Note:** Now Assist in Native Mobile Virtual Agent uses mobile theming. For more information, see [Next Experience theming for mobile](explore-ne-theming.md).
+**Note:** Now Assist in Native Mobile Virtual Agent uses mobile theming. For more information, see [Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 

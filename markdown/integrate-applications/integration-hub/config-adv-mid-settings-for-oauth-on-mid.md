@@ -25,7 +25,7 @@ Confirm that you have set up the connection record for the spoke.
 
 ## About this task
 
-Setting up MID Server may be mandatory or optional for the spoke that you set up. For example, configuring MID Server is required for [Microsoft Active Directory v2 Spoke](../concept/ms-ad-v2-spoke.md) but optional for the [Jira Spoke](../concept/jira-spoke-v3-0-2.md). Use this procedure to set up the MID Server for your spoke after you have set up your spoke by filling the default connection alias form.
+Setting up MID Server may be mandatory or optional for the spoke that you set up. For example, configuring MID Server is required for [Microsoft Active Directory v2 Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/ms-ad-v2-spoke.md) but optional for the [Jira Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/jira-spoke-v3-0-2.md). Use this procedure to set up the MID Server for your spoke after you have set up your spoke by filling the default connection alias form.
 
 ## Procedure
 
@@ -33,21 +33,21 @@ Setting up MID Server may be mandatory or optional for the spoke that you set up
 
 2.  Find the connection and credential alias of the spoke.
 
-    Search the alias by entering its name in the **Name** field.![Enter alias name in the Name field.](../image/search-conn-alias.png)
+    Search the alias by entering its name in the **Name** field.![Enter alias name in the Name field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/search-conn-alias.png)
 
 3.  Under the **Name** column, select the connection and credential alias.
 
-    ![Select alias from Connection & Credential Aliases.](../image/mid-settings-select-alias.png)
+    ![Select alias from Connection & Credential Aliases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/mid-settings-select-alias.png)
 
 4.  In the **Connections** tab, select the default connection record for the spoke.
 
-    ![New button.](../image/mid-settings-new-button.png)
+    ![New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/mid-settings-new-button.png)
 
 5.  Select **Use MID server**.
 
     The **Advanced MID Server Configuration** tab is enabled.
 
-    ![Advanced MID Server Configuration tab.](../image/adv-mid-server-config=tab.png)
+    ![Advanced MID Server Configuration tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/adv-mid-server-config=tab.png)
 
 6.  Fill the form under the **Advanced MID Server Configuration** tab.
 
@@ -96,12 +96,12 @@ The application the MID Server must support to be eligible for selection. The sy
 
     The MID Server is enabled on the connection form of the spoke.
 
-    ![HTTPS form.](../image/mid-settings-https-form.png)
+    ![HTTPS form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/mid-settings-https-form.png)
 
 
 ## What to do next
 
 Confirm that the spoke connection form has the Use MID option.
 
-**Parent Topic:**[Building integrations in Integration Hub](../../integrationhub/concept/building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/building-integrations-ih.md)
 

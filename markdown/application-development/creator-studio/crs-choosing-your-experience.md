@@ -21,7 +21,7 @@ Use the experience switcher to select from any of the following development envi
 
 **Important:** No matter what your role is \(including admin and delegated developer roles\), if you have one of the Creator Studio roles, you won't be able to access ServiceNow Studio or ServiceNow IDE.
 
-![Selecting a different development experience from the switcher](../image/crs-experience-switcher.png "Experience switcher in Creator Studio")
+![Selecting a different development experience from the switcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-experience-switcher.png "Experience switcher in Creator Studio")
 
 |Development experience|Level|Description|
 |----------------------|-----|-----------|
@@ -33,13 +33,13 @@ Being able to easily switch between development experiences eliminates the fragm
 
 For example, you can build a basic request app in Creator Studio, and then switch to ServiceNow Studio to add more robust functionality.
 
-For details on switching experiences, see [Change your development experience](../task/crs-change-dev-experience.md).
+For details on switching experiences, see [Change your development experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/crs-change-dev-experience.md).
 
 ## Open an app directly in ServiceNow Studio
 
-If you have access to ServiceNow Studio, you can open an app there by selecting the more actions icon on the home page \(![More options enable you to take action on an app](../image/cs-more-actions-icon.png)\) and choosing to **Open in ServiceNow Studio**.
+If you have access to ServiceNow Studio, you can open an app there by selecting the more actions icon on the home page \(![More options enable you to take action on an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-more-actions-icon.png)\) and choosing to **Open in ServiceNow Studio**.
 
-![Select more options to get the Open in SNS link](../image/crs-open-in-sns-link.png "Open in ServiceNow Studio link")
+![Select more options to get the Open in SNS link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-open-in-sns-link.png "Open in ServiceNow Studio link")
 
 You can also select the more actions icon ![](../../servicenow-studio/image/sn-studio-more-options-icon.png) in the navigation panel and then select **Open in ServiceNow Studio**.
 
@@ -49,7 +49,7 @@ All apps that are made and bookmarked in Creator Studio are bookmarked and avail
 
 ## Who can access the studios in the experience switcher
 
-The experience switcher can provide access to Creator Studio, ServiceNow Studio, ServiceNow IDE. However, whether you can see and select all of those depends on your role or access level. For more information, see [Administering access to the experience switcher](crs-experience-switcher-role-access.md).
+The experience switcher can provide access to Creator Studio, ServiceNow Studio, ServiceNow IDE. However, whether you can see and select all of those depends on your role or access level. For more information, see [Administering access to the experience switcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/crs-experience-switcher-role-access.md).
 
 **Note:** In addition to Creator Studio, you must have access to at least one other product \(ServiceNow Studio or ServiceNow IDE\) to see the experience switcher.
 

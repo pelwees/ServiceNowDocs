@@ -25,7 +25,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
 
 2.  In the navigation bar, tap **Home**.
 
-3.  Tap the **Safety incidents** icon \(![safety incident icon](../../workplace-central/images/casemgmt-templateicon.png)\) from the quick links section.
+3.  Tap the **Safety incidents** icon \(![safety incident icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../workplace-central/images/casemgmt-templateicon.png)\) from the quick links section.
 
 4.  Open a safety incident record.
 
@@ -34,15 +34,15 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
     1.  To modify an existing people involved record,
 
         -   Swipe left on the people involved record to view the edit and delete options.
-        -   Open the people involved record and tap **More options** icon ![more options](../../workplace-service-delivery/images/wsd-more-options-icon-loc-directory.png), then tap edit or delete.
+        -   Open the people involved record and tap **More options** icon ![more options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../workplace-service-delivery/images/wsd-more-options-icon-loc-directory.png), then tap edit or delete.
     2.  To add a new people involved record, tap **Add new people involved**.
 
 6.  On the form, fill in the details.
 
-    For more details on field description, see [Inspection schedule form](../../hs-risk-management/reference/hs-inspection-schedule-form.md).
+    For more details on field description, see [Inspection schedule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-risk-management/reference/hs-inspection-schedule-form.md).
 
 7.  Tap **Submit**.
 
 
-**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](../concept/hs-manage-safety-incident-mobile-agent.md)
+**Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-manage-safety-incident-mobile-agent.md)
 

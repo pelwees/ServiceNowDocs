@@ -39,53 +39,53 @@ Confirm that the **Enable as webservice** option in the Advanced section is sele
 
 6.  Confirm that the temporary report option is deselected, and then select **Ok**.
 
-    ![Workday report.](../image/workday-report63.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report63.png)
 
 7.  Select the report business object and report fields as given in the image.
 
-    ![Workday report.](../image/workday-report64.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report64.png)
 
-    ![Workday report.](../image/workday-report65.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report65.png)
 
 8.  In the Group column heading section, select all business object.
 
     The Group Column heading for each business object is empty.
 
-    ![Workday report.](../image/workday-report66.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report66.png)
 
 9.  In the Sort section, under Sub level sort, select the value as shown.
 
-    ![Workday report.](../image/workday-report67.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report67.png)
 
 10. In the Filter section, select the value as given below.
 
     Add parenthesis as given in the image.
 
-    ![Workday report.](../image/workday-report68.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report68.png)
 
 11. In the prompt section, click on **Populate Undefined Prompt Defaults** option.
 
-    ![Workday report.](../image/workday-report69.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report69.png)
 
 12. Select the value of prompts as given below under the Prompt default section.
 
     Make sure the Label For Prompt XML Alias of all prompt fields must be the same as given below.
 
-    ![Workday report.](../image/workday-report70.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report70.png)
 
 13. In the advanced section, select **enable as webservice**, and then click **OK**.
 
 14. Select the three dots icon and go to **Web services&gt; view URLs**.
 
-    ![Workday report.](../image/workday-report71.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report71.png)
 
 15. Select the organization for which you want to run this report and select the box if you want to include the subordinate organizations.
 
-    ![Workday report.](../image/workday-report72.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report72.png)
 
 16. In the View URLs Web Service page, click on marked icon under CSV section.
 
-    ![Workday report.](../image/workday-report73.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report73.png)
 
     A new browser tab displays the following results.
 
@@ -95,6 +95,6 @@ Confirm that the **Enable as webservice** option in the Advanced section is sele
     -   Tenant\_Name represents customer’s workday tenant.
     -   Report\_Owner\_user\_name represents user name of the report’s owner.
     -   Report\_Name Represents report name.
-    ![Workdat report.](../image/workday-report74.png)
+    ![Workdat report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report74.png)
 
 

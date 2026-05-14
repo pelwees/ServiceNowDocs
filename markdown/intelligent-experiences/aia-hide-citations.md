@@ -47,5 +47,5 @@ By default, the citations are enabled for all agentic workflows and AI agents. T
 
 Execute an AI agent or an agentic workflow for which you have disabled citations. You’ll see the output without citations. See the following example for reference.
 
-![Citations hidden in the output of an executed agentic workflow on AI Agent Studio.](../image/hide-citations.png)
+![Citations hidden in the output of an executed agentic workflow on AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/hide-citations.png)
 

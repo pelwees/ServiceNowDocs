@@ -55,12 +55,12 @@ you may discover a safety issue while working on an action, deviation, or Indust
 
 The safety incident is created and linked to the originating task through the origin field. The incident appears in the safety incidents list and in the Related tab of the originating task.
 
-**Parent Topic:**[Using ICW Health and Safety Integration](../concept/using-icw-health-and-safety-integration.md)
+**Parent Topic:**[Using ICW Health and Safety Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/using-icw-health-and-safety-integration.md)
 
 **Related topics**  
 
 
-[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../concept/icw-health-and-security-integraton.md)
+[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/icw-health-and-security-integraton.md)
 
-[View safety incidents in the Digital Factory Workspace](icw-view-safety-incident.md)
+[View safety incidents in the Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-view-safety-incident.md)
 

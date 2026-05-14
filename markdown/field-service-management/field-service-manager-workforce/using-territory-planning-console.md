@@ -21,7 +21,7 @@ The territory map in the Territory Planning Console provides a visual representa
 
 The personas with the role sn\_fsm\_tp.fsm\_territory\_read will only have the view access to Territory Planning console.
 
-**Note:** To identify the best matched territory for a work order task, you must enable the **Field\_Service\_Territories** territory model. For more information, see [Enable the Field Service territory model](../task/enable-territory-model.md).
+**Note:** To identify the best matched territory for a work order task, you must enable the **Field\_Service\_Territories** territory model. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/enable-territory-model.md).
 
 The following table describes the list of activities you can perform as a territory planner, territory manager, and resource manager in the territory Planning console.
 
@@ -123,7 +123,7 @@ Only for assigned territory
 
 </td></tr><tr><td>
 
-Add child territories**Note:** The child territory ![Child Territory icon.](../image/child-territory-icon.jpg) icon appears only when the territory has child territories.
+Add child territories**Note:** The child territory ![Child Territory icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/child-territory-icon.jpg) icon appears only when the territory has child territories.
 
 </td><td>
 
@@ -150,14 +150,14 @@ Only for assigned territory
 
 Perform the following tasks to work with territories:
 
--   [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
--   [Assign work order tasks to agents or crews from the dispatch queue](../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
--   [Auto-dispatch a work order task](../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
--   [Assign work order tasks to agents](manage-work-order-tasks-dw.md#)
--   [Assign work order tasks to crews on Dispatcher Workspace](../task/assign-wot-to-crew.md)
+-   [Create a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
+-   [Assign work order tasks to agents or crews from the dispatch queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
+-   [Auto-dispatch a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../planning-and-policy/concept/c_DispatchWorkOrderTasks.md#)
+-   [Assign work order tasks to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/manage-work-order-tasks-dw.md#)
+-   [Assign work order tasks to crews on Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/assign-wot-to-crew.md)
 
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/configuring-territory-planning-fsm.md)
 

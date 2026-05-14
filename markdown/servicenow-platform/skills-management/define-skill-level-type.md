@@ -46,5 +46,5 @@ Role required: skill\_admin or admin
 
 This example shows a system administrator creating the skill level type Language, adding the skill level Proficient to that type, and associating a value for the level.
 
-![Skill Level Type](../images/skill-level-type-new-york.gif)
+![Skill Level Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../images/skill-level-type-new-york.gif)
 

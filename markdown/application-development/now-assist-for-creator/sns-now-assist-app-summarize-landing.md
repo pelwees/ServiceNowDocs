@@ -16,25 +16,25 @@ breadcrumb: [Use generative AI, Now Assist for Creator, Vibe coding and AI app d
 
 Use the ServiceNow® Now Assist for Creator application to use generative AI for summarizing an app. With a single button, Now Assist for Creator generates the app summary that you can then copy to the app description, or use to find duplicate apps.
 
-![Summarize what an app does](../../../administer/now-assist-skills/image/now-assist-app-summary.png "Now Assist app summary generation")
+![Summarize what an app does](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../administer/now-assist-skills/image/now-assist-app-summary.png "Now Assist app summary generation")
 
 ## Get started
 
 <table id="table_wgj_xvj_12c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about summarizing apps](sns-exploring-now-assist-app-summarize.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about summarizing apps](sns-exploring-now-assist-app-summarize.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up app summary generation](sns-config-now-assis-app-summarize.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up app summary generation](sns-config-now-assis-app-summarize.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Generate a summary of your app](../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Generate a summary of your app](../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, roles, and more](sns-now-assist-app-summarize-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, roles, and more](sns-now-assist-app-summarize-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -69,14 +69,14 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about applications \(and associated application files\) in which App generation was utilized. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
--   **[Exploring Now Assist for app summary generation](sns-exploring-now-assist-app-summarize.md)**  
+-   **[Exploring Now Assist for app summary generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-exploring-now-assist-app-summarize.md)**  
 With the Now Assist for Creator application, you can generate a summary of an app. You can then copy the summary to the description for the app, and use it to check for duplicate apps.
--   **[Configuring Now Assist for app summary generation](sns-config-now-assis-app-summarize.md)**  
+-   **[Configuring Now Assist for app summary generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-config-now-assis-app-summarize.md)**  
 Enable the app summary generation skill in the Now Assist for Creator application so that you can get started with summarizing applications.
--   **[Summarize the contents of an app in ServiceNow Studio](../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md)**  
+-   **[Summarize the contents of an app in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md)**  
 Generate a summary of your app using Now Assist for Creator in ServiceNow Studio. After reviewing the summary, you can use it as a description for your app.
--   **[Now Assist for app summary generation reference](sns-now-assist-app-summarize-reference.md)**  
+-   **[Now Assist for app summary generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-now-assist-app-summarize-reference.md)**  
 The following roles are required for use with the Now Assist for Creator app summary generation skill.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
 

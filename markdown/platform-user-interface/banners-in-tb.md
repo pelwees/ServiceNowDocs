@@ -19,7 +19,7 @@ A banner illustration is applied to a web page when there is a need to visually 
 
 **Important:** Banner illustrations apply to Workspaces and are not supported in the Core UI.
 
-![Customer general banner illustration.](../image/tb-banner-illustration.png "Example of a default banner illustration")
+![Customer general banner illustration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-banner-illustration.png "Example of a default banner illustration")
 
 ## Custom images
 
@@ -33,10 +33,10 @@ To override the default banner illustrations with custom images, upload each ima
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for banner illustrations](../task/configure-banner-colors.md)**  
+-   **[Configure colors for banner illustrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/configure-banner-colors.md)**  
 Configure and control the colors automatically applied to banner illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[Override banner illustrations with custom images](../task/override-banner-with-custom-images.md)**  
+-   **[Override banner illustrations with custom images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/override-banner-with-custom-images.md)**  
 Modify or override the default banner illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[Working with Image styles](working-with-image-styles.md)
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 

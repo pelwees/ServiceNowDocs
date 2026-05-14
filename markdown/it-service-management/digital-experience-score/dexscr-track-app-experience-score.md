@@ -33,7 +33,7 @@ Role required: sn\_dex\_score.digital\_workplace\_leader or sn\_dex\_score.dashb
 
 4.  Select the **Application experience** tile to see an overview.
 
-    ![Application Experience Overview page displaying the application experience metric scores.](../image/dex-score-app-experience-overview.png)
+    ![Application Experience Overview page displaying the application experience metric scores.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../image/dex-score-app-experience-overview.png)
 
 5.  View the formula used to calculate the overall application experience score and the range of values for each experience category by selecting the **See how it's calculated** link
 
@@ -78,19 +78,19 @@ The three applications with lowest experience scores and the changes in scores f
 </td></tr></tbody>
 </table>7.  View a list of all applications and access an application's metric details either by selecting a number in the **No. of applications** column or the **View all applications** link.
 
-    For more information, see [Track experience scores of an individual application](dexscr-track-application-experience.md).
+    For more information, see [Track experience scores of an individual application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-track-application-experience.md).
 
 
-**Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](../concept/dexscr-using-dex-score.md)
+**Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-using-dex-score.md)
 
 **Related topics**  
 
 
-[Track experience scores of an individual application](dexscr-track-application-experience.md)
+[Track experience scores of an individual application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-track-application-experience.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-dex-score-defs.md)
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-normalization.md)
 

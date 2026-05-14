@@ -42,12 +42,12 @@ The subsidiary is added and displayed on the **Subsidiaries** tab.
 
 When you add a subsidiary, the supplier you added it under becomes the parent entity of that subsidiary.
 
-**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
+**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/new-supplier.md)
 
 **Related topics**  
 
 
-[Use the supplier onboarding playbook to onboard suppliers](../concept/use-playbooks-onboard-supp.md#)
+[Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-playbooks-onboard-supp.md#)
 
-[Perform risk assessment playbook](../concept/perform-risk-playbook.md)
+[Perform risk assessment playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/perform-risk-playbook.md)
 

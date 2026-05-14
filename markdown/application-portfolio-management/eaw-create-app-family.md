@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Families**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Families**.
 
 4.  Select **All**.
 
@@ -33,15 +33,15 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application family, select the application family.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new application family form](../../reference/eaw-reference/eaw-create-new-application-family-form.md).
+    For field information, see [Create new application family form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-application-family-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure application families](../../concept/eaw-concept/eaw-setup-app-families.md)
+**Parent Topic:**[Configure application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-app-families.md)
 
 **Related topics**  
 
 
-[View all application families](eaw-view-all-application-families.md)
+[View all application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-application-families.md)
 

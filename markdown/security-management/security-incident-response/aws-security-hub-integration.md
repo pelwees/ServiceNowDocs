@@ -23,7 +23,7 @@ AWS Security Hub integration in SIR follows a bidirectional architecture. SIR in
 
 See the following diagram to learn how AWS Security Hub integrates with the ServiceNow AI Platform Security Operations applications.
 
-![How AWS Security Hub integrates with the ServiceNow AI Platform.](../image/aws-security-hub-overview.png)
+![How AWS Security Hub integrates with the ServiceNow AI Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/aws-security-hub-overview.png)
 
 ## Request apps on the Store
 

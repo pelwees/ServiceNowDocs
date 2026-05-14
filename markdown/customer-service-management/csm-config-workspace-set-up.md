@@ -24,8 +24,8 @@ Complete the following tasks to set up CSM Configurable Workspace:
 
 Activating the Customer Service plugin \(com.sn\_customerservice\) provides the CSM Configurable Workspace functionality. For more information, see the following topics:
 
--   [Activate Customer Service Management](../task/t_ActivateCustomerService.md)
--   [Plugins activated with Customer Service Management](../reference/plugins-activated-with-csm.md)
+-   [Activate Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_ActivateCustomerService.md)
+-   [Plugins activated with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/plugins-activated-with-csm.md)
 
 ## Set up CSM Configurable Workspace using guided setup
 
@@ -101,7 +101,7 @@ Search
 </td><td>
 
 Define search sources that your agents can query in a configurable workspace. Agents can use these keywords to search for specific records or knowledge articles.-   [Configuring search in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/using-search-next-experience.md)
--   [AI search in Recommended Actions](ra-csm-ai-search.md)
+-   [AI search in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md)
 
 </td></tr><tr><td>
 
@@ -140,9 +140,9 @@ Playbooks display business process workflows in a simple task-oriented view. The
 
 You can use UI Builder to configure the pages and components that display information in CSM Configurable Workspace including the following:
 
--   [Landing pages](../task/config-csm-config-ws-landing-page.md)
--   [Record pages](csm-config-workspace-record-pages.md)
--   [Customer Central – Customer Information tab](../task/cust-central-configure-info-tab.md)
+-   [Landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-landing-page.md)
+-   [Record pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md)
+-   [Customer Central – Customer Information tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/cust-central-configure-info-tab.md)
 
 For more information, see the [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-pages.md) topic in the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-custom-experience.md) documentation.
 
@@ -156,14 +156,14 @@ Complete these tasks to set up the components that are specific to CSM Configura
 
 |Task|Description|
 |----|-----------|
-|[Create or modify a landing page](../task/config-csm-config-ws-landing-page.md)|The landing page is an agent's initial view of the workspace. The **CSM Landing Page** is included with the Customer Service plugin. You can modify this landing page or you can create and modify a page variant in UI Builder.|
-|[Set up a ribbon configuration in CSM Configurable Workspace](../task/config-csm-config-ws-ribbon.md)|The form ribbon includes components that display information about a record. You can add the Customer 360, Timeline, and SLA components to the Case form ribbon. You can also configure attributes for the Customer 360 and Timeline components.|
-|[Set up a form header in CSM Configurable Workspace](../task/config-csm-config-ws-form-header.md)|Configure form headers that provide a quick summary of case, account, or contact information.|
-|[Set up a highlighted value in a form header in CSM Configurable Workspace](../task/config-csm-config-ws-highlight-value.md)|Configure fields that appear as highlighted values in form headers in CSM Configurable Workspace.|
-|[Set up a form action in CSM Configurable Workspace](../task/config-csm-config-ws-form-action.md)|Create form actions that link to UI actions so that you can use the UI actions in CSM Configurable Workspace.|
-|[Display the form ribbon and form header secondary values in the Contextual side panel](../task/config-csm-display-header-in-sidebar.md)|Configure the form ribbon and the secondary values that appear in a form header to display in the Contextual side panel in CSM Configurable Workspace.|
-|[Display field values as interaction record tab titles](../task/config-csm-display-values-as-tab-titles.md)|Display field values, such as contact or consumer names, as titles on interaction record tabs in CSM Configurable Workspace.|
-|[Enable the Create Case UI action for case type selection](../task/config-csm-config-ws-ui-action.md)|Enable the **Create Case** UI action for case type selection for one or more selected tables.|
-|[Configure tabs in the contextual side panel](../task/config-csm-ws-side-panel-tabs.md)|Use the **inlineTabExclusion** UX page property to prevent tabs from appearing in the configurable side panel in CSM Configurable Workspace.|
+|[Create or modify a landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-landing-page.md)|The landing page is an agent's initial view of the workspace. The **CSM Landing Page** is included with the Customer Service plugin. You can modify this landing page or you can create and modify a page variant in UI Builder.|
+|[Set up a ribbon configuration in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-ribbon.md)|The form ribbon includes components that display information about a record. You can add the Customer 360, Timeline, and SLA components to the Case form ribbon. You can also configure attributes for the Customer 360 and Timeline components.|
+|[Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-form-header.md)|Configure form headers that provide a quick summary of case, account, or contact information.|
+|[Set up a highlighted value in a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-highlight-value.md)|Configure fields that appear as highlighted values in form headers in CSM Configurable Workspace.|
+|[Set up a form action in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-form-action.md)|Create form actions that link to UI actions so that you can use the UI actions in CSM Configurable Workspace.|
+|[Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-display-header-in-sidebar.md)|Configure the form ribbon and the secondary values that appear in a form header to display in the Contextual side panel in CSM Configurable Workspace.|
+|[Display field values as interaction record tab titles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-display-values-as-tab-titles.md)|Display field values, such as contact or consumer names, as titles on interaction record tabs in CSM Configurable Workspace.|
+|[Enable the Create Case UI action for case type selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-ui-action.md)|Enable the **Create Case** UI action for case type selection for one or more selected tables.|
+|[Configure tabs in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-ws-side-panel-tabs.md)|Use the **inlineTabExclusion** UX page property to prevent tabs from appearing in the configurable side panel in CSM Configurable Workspace.|
 |Configure service catalogs for CSM workspaces|Customer service agents use service catalogs to fulfill catalog item requests. You can configure the Service Workspace Portal to use the catalogs that contain the desired items.|
 

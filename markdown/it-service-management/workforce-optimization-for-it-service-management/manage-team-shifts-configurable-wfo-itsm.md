@@ -23,20 +23,20 @@ Role required: sn\_shift\_planning.admin
 
 In the **Shifts** tab, you can view the work shifts and on-call shifts in separate tabs. The shifts are grouped by active and inactive shifts. The contextual side panel displays the active and then the inactive shifts in the order it is displayed in the **Shifts** tab. You can scroll through the shifts using pagination.
 
-**Note:** Your administrator can set user preferences for the pagination size to view work shifts and on-call shifts. For more information see, [Scheduling in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md)
+**Note:** Your administrator can set user preferences for the pagination size to view work shifts and on-call shifts. For more information see, [Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-scheduling-reference.md)
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Click the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  Click the **Shifts** tab.
 
     -   **Search shift plans:** Type keywords in the Work shift or On-call shift search field to access related shift plans easily.
-    -   **Filter shift plans:** Use the filter icon \(![Filter schedule](../image/filter-schedule-icon.png)\) to view shifts based on whether the shift is in draft or published state.
-        -   To filter work shifts, in the **Work shift** tab, click the filter icon \(![Filter schedule](../image/filter-schedule-icon.png)\) and select the desired state of shifts you want to view using the **State** field. Use the **Days of week** filter to narrow down the display of shifts based on the desired days in a week.
-        -   To filter on-call shifts, in the **On-call shift** tab, click the filter icon \(![Filter schedule](../image/filter-schedule-icon.png)\) and select the desired state of shifts you want to view.
+    -   **Filter shift plans:** Use the filter icon \(![Filter schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/filter-schedule-icon.png)\) to view shifts based on whether the shift is in draft or published state.
+        -   To filter work shifts, in the **Work shift** tab, click the filter icon \(![Filter schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/filter-schedule-icon.png)\) and select the desired state of shifts you want to view using the **State** field. Use the **Days of week** filter to narrow down the display of shifts based on the desired days in a week.
+        -   To filter on-call shifts, in the **On-call shift** tab, click the filter icon \(![Filter schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/filter-schedule-icon.png)\) and select the desired state of shifts you want to view.
 4.  Click the plus \(+\) icon.
 
 5.  Create a shift.
@@ -97,7 +97,7 @@ You can view the number of agents for each hour or day on the shift span window.
         2.  In the **End Time** field, enter the time of day when you want to end the shift.
         3.  From the **Time Zone** menu, select the time zone of the users that you want to allocate to the shift.
     5.  Select the days of the week for which you want to apply the shift.
-    6.  In the **Rotation start date** field, click the calendar icon \(![Calendar icon](../image/calendar-icon.png)\), select the on-call rotation start date for the shift and click **OK**.
+    6.  In the **Rotation start date** field, click the calendar icon \(![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/calendar-icon.png)\), select the on-call rotation start date for the shift and click **OK**.
     7.  Click **Save**.
 2.  Create the on-call rotation.
 
@@ -118,10 +118,10 @@ You can view the name of the primary agent for each on-call shift on the shift c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/scheduling-configurable-workforce-optimization-itsm.md)
 
 **Related topics**  
 
 
-[On-Call Scheduling](../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md)
+[On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../administer/on-call-scheduling/concept/c_OnCallScheduling.md)
 

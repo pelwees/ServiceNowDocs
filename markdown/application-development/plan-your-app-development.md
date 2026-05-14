@@ -46,10 +46,10 @@ Poor fit
 -   Highly customized user interface
 
 </td></tr></tbody>
-</table>-   **[Plan before you build](plan-before-you-build.md)**  
+</table>-   **[Plan before you build](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-before-you-build.md)**  
 Essentially, an application is a digital program that supports user tasks. Some actions you take when building an application might be irreversible. Be aware of these actions and plan for them in advance.
--   **[Manage app development](manage-app-development.md)**  
+-   **[Manage app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/manage-app-development.md)**  
 Govern app development on the ServiceNow AI Platform.
 
-**Parent Topic:**[Exploring professional development](exploring-professional-development.md)
+**Parent Topic:**[Exploring professional development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-professional-development.md)
 

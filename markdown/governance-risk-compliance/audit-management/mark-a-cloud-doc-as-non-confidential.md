@@ -23,7 +23,7 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the tasks icon \(![Tasks icon](../image/new-task-icon.png)\) and select a record from the list.
+2.  Select the tasks icon \(![Tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/new-task-icon.png)\) and select a record from the list.
 
 3.  In the **Cloud files** related list, select the cloud document.
 

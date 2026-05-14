@@ -151,5 +151,5 @@ The extension model determines these attributes.
     Record replication is not needed, because the parent class stores all records that belong to the hierarchy. For example, the Base Configuration Item \[cmdb\] table contains all records from its child classes such as the Application \[cmdb\_ci\_appl\], Computer \[cmdb\_ci\_computer\], and Hardware \[cmdb\_ci\_hardware\] tables.
 
 
-**Parent Topic:**[Exploring ServiceNow AI Platform tables](exploring-table-administration.md)
+**Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 

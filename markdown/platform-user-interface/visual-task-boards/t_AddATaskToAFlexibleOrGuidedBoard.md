@@ -21,7 +21,7 @@ Role required: none
 
 ## Procedure
 
-1.  In a lane header, click the lane menu \(![Lane menu icon](../image/IconMoreOptions.png)\) and select **Add Card**.
+1.  In a lane header, click the lane menu \(![Lane menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconMoreOptions.png)\) and select **Add Card**.
 
     Alternatively, click **Add Card** at the bottom of a lane.
 
@@ -34,18 +34,18 @@ Role required: none
     A new task card appears in the lane.
 
 
-**Parent Topic:**[Creating Visual Task Boards](../concept/c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_FreeformBoardTasks.md)
 
-[Data driven Visual Task Boards](../concept/data-driven-tasks.md)
+[Data driven Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/data-driven-tasks.md)
 
-[Add or modify Visual Task Board lanes](t_AddOrModifyALane.md)
+[Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrModifyALane.md)
 
-[Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrRemoveATaskBoardMember.md)
 
-[Delete a Visual Task Board](t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_DeleteATaskBoard.md)
 

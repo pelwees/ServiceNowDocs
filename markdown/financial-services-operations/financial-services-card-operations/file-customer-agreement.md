@@ -21,13 +21,13 @@ Role required: sn\_bom\_document.agent
 
 ## About this task
 
-This document service task is automatically created for a new credit card case when the credit card task to [determine the card's terms and conditions and update the customer agreement](determine-card-terms-conditions-disclosures.md) completes.
+This document service task is automatically created for a new credit card case when the credit card task to [determine the card's terms and conditions and update the customer agreement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/determine-card-terms-conditions-disclosures.md) completes.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Document Service**, open the task list.
 

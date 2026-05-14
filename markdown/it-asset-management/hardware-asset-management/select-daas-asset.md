@@ -88,7 +88,7 @@ Model
 
 </td><td>
 
-This field is automatically populated with the details of the model provided while creating an inbound asset order line.For more information, see [Create an inbound asset order line](create-inbound-order-line.md).
+This field is automatically populated with the details of the model provided while creating an inbound asset order line.For more information, see [Create an inbound asset order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-inbound-order-line.md).
 
 </td></tr><tr><td>
 
@@ -169,5 +169,5 @@ Notes about the task that are visible to all users within your organization.
 
 ## What to do next
 
-[Pick the selected asset](pick-daas-asset.md)
+[Pick the selected asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/pick-daas-asset.md)
 

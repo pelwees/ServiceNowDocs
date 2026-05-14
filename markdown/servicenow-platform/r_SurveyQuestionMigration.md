@@ -40,14 +40,14 @@ The following table shows the conversion path for each legacy survey question ty
 |Wide Single Line Text|String \(**String** option set to **Single line wide**\)|
 |Yes / No|Yes/No|
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)
+[Migrate a legacy survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_MigrateALegacySurvey.md)
 
-[Migrated components](r_MigratedComponents.md)
+[Migrated components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_MigratedComponents.md)
 
-[Migrated question review](r_ReviewMigratedQuestions.md)
+[Migrated question review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_ReviewMigratedQuestions.md)
 

@@ -21,7 +21,7 @@ Though there may be a domain specified on data tables that Creator Studio uses, 
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Configuring Creator Studio](configuring-creator-studio.md)
+**Parent Topic:**[Configuring Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/configuring-creator-studio.md)
 
 **Related topics**  
 

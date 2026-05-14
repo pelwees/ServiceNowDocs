@@ -54,5 +54,5 @@ To show the training solution progress, the ML solution automatically performs t
 |Training the solution.|The training service trains the solution.|
 |Uploading the trained solution.|The training service uploads the solution as attachment records.|
 
-**Parent Topic:**[Alert similarity](alert-similarity.md)
+**Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-similarity.md)
 

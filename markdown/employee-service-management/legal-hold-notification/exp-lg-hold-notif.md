@@ -32,7 +32,7 @@ The The ServiceNow® Legal Hold Notification application helps organizations man
 
 The following workflow outlines the legal hold process, from creating to closing a legal hold notification matter.
 
-![Step-by-step legal hold process workflow from creating to closing a legal hold notification matter.](../image/legal-hold-nitification-workflow.png "Legal Hold Notification End-to-End workflow")
+![Step-by-step legal hold process workflow from creating to closing a legal hold notification matter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../image/legal-hold-nitification-workflow.png "Legal Hold Notification End-to-End workflow")
 
 1.  A legal hold fulfiller submits a legal hold notification matter when a legal hold is issued.
 2.  A group manager or practice area lead assigns the matter owner \(legal hold fulfiller\) to the legal hold matter.
@@ -54,9 +54,9 @@ Legal Hold Notification provides the following benefits:
 
 To find out more about configuring and using Legal Hold Notification, see:
 
--   [Configure Legal Hold Notification](config-lg-hold-notif.md)
--   [Using Legal Hold Notification](use-lg-hold-notif.md)
--   [Legal Hold Notification reference](lg-hold-notif-ref.md)
+-   [Configure Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/config-lg-hold-notif.md)
+-   [Using Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
+-   [Legal Hold Notification reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-ref.md)
 
-**Parent Topic:**[Legal Hold Notification](lg-hold-notif-landing-page.md)
+**Parent Topic:**[Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-landing-page.md)
 

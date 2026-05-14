@@ -43,10 +43,10 @@ Role required: admin
         -   The Integration status column displays **Failed** for the import set.
         -   The Processing message column displays the issue that occurred during the transformation. You must fix the error and run the transform again. For example, if any of the mandatory fields are missing, the integration fails and displays the missing data to aid you in fixing the error.
 
-**Parent Topic:**[Load supplier data](load-supplier-data.md)
+**Parent Topic:**[Load supplier data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md)
 
 **Related topics**  
 
 
-[Run transform to update supplier primary data](run-transform-supplier.md)
+[Run transform to update supplier primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-transform-supplier.md)
 

@@ -23,7 +23,7 @@ Role required: pd\_author, pd\_operator, sn\_process\_mining\_analyst, sn\_proce
 
 Playbooks are built and configured in Workflow Studio, where you define activities for human agents and set up decision logic based on customer scenarios. When agents execute these playbooks, the system generates execution logs that Process Mining can analyze.
 
-![Workflow studio](../image/workflow-studio.png)
+![Workflow studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/workflow-studio.png)
 
 **Note:** Note the following:
 
@@ -113,7 +113,7 @@ This field is available only if you choose the type as **Project**.
 
  If you don’t change the retired status within the specified days, the mined versions are permanently deleted. However, the project definition isn’t deleted. You can opt out of auto retirement by clearing this check box.
 
- The default value of 90 days can be changed by the administrator in the System Properties. For more information see, [Data cleanup properties](../concept/data-cleanup.md#).
+ The default value of 90 days can be changed by the administrator in the System Properties. For more information see, [Data cleanup properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/data-cleanup.md#).
 
 </td></tr></tbody>
 </table>4.  Select **Create project**.
@@ -124,10 +124,10 @@ This field is available only if you choose the type as **Project**.
 
 5.  Select **Review and Mine**.
 
-    ![Playbook project in Analyst workbench](../image/playbook.png)
+    ![Playbook project in Analyst workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/playbook.png)
 
     The Analyst workbench provides execution metrics for completed playbook runs, including duration, average time per execution, and activity occurrence counts. The Analyst workbench visualizes parallel activities and decision points within the workflow to help you understand how playbooks are being executed.
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-process-mining.md)
 

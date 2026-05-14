@@ -29,7 +29,7 @@ If the information automatically added to the software discovery model is incomp
 
 2.  Fill in the **Publisher**, **Product**, and **Version** fields, as appropriate.
 
-    You can create a [custom product](t_AddACustomProduct.md) from the Product lookup list, if desired.
+    You can create a [custom product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddACustomProduct.md) from the Product lookup list, if desired.
 
 3.  Select **Save**.
 
@@ -42,5 +42,5 @@ If the information automatically added to the software discovery model is incomp
     Fields are reset to their original values, and any rules associated with the software discovery model are deactivated.
 
 
-**Parent Topic:**[View normalization suggestions in Software Asset Management classic](view-norm-suggestions-sam.md)
+**Parent Topic:**[View normalization suggestions in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-norm-suggestions-sam.md)
 

@@ -15,7 +15,7 @@ As an admin, you can configure various elements of the Grants Management Portal.
 
 ## About this task
 
-You can customize the Grants Management Portal by following these procedures or by using [guided setup for Public Sector Digital Services Core application.](configure-psds-foundation-data.md#)
+You can customize the Grants Management Portal by following these procedures or by using [guided setup for Public Sector Digital Services Core application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md#)
 
 ## Before you begin
 

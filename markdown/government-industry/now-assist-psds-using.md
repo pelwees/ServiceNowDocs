@@ -47,7 +47,7 @@ The Now Assist for PSDS application includes the generative AI skills that enabl
     -   Additional comments
     -   Email
     -   Service level agreement \(SLA\)
-    ![AI-generated case summary for a case record.](../image/now_assist_psds_case_summary.png "Government case record with case summary")
+    ![AI-generated case summary for a case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/now_assist_psds_case_summary.png "Government case record with case summary")
 
 -   **Chat Summarization**
 
@@ -74,7 +74,7 @@ The Now Assist for PSDS application includes the generative AI skills that enabl
 
 [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
 
-[Configure Now Assist for Public Sector Digital Services \(PSDS\)](now-assist-psds-configuring.md)
+[Configure Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)
 
-[Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)](now-assist-psds-using.md)
+[Using generative AI with Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-using.md)
 

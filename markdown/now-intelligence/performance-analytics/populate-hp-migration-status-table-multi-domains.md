@@ -23,17 +23,17 @@ Role required: admin
 
 1.  Use the domain picker to select a domain scope.
 
-    ![Domain picker with Domain scope: ACME selected](../image/domain-scope-picker.png)
+    ![Domain picker with Domain scope: ACME selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/domain-scope-picker.png)
 
 2.  Navigate to **All** &gt; **Flow Designer**.
 
 3.  Find the Populate Homepage migration status table flow and open it.
 
-    ![Flow designer list of flows that contain the name Populate Homepage migration status table](../image/populate-hpmst-flow.png)
+    ![Flow designer list of flows that contain the name Populate Homepage migration status table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/populate-hpmst-flow.png)
 
 4.  Select the **More Actions** menu and choose **Copy Flow**.
 
-    ![Flow designer More Actions menu with the Copy flow option highlighted.](../image/flow-designer-copy-flow.png)
+    ![Flow designer More Actions menu with the Copy flow option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/flow-designer-copy-flow.png)
 
 5.  Select the application `Homepage deprecation help tool` and select **Copy**.
 
@@ -41,6 +41,6 @@ Role required: admin
 
     The flow points to the selected domain scope.
 
-    ![Properties of the copied homepage migration status table flow pointing to the selected domain](../image/flow-designer-sub-domain-properties.png)
+    ![Properties of the copied homepage migration status table flow pointing to the selected domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/flow-designer-sub-domain-properties.png)
 
 

@@ -31,7 +31,7 @@ Activate the profile that is based on the configured trigger conditions you spec
 
 3.  To create a security incident, fill in the required information and select **Save**.
 
-4.  Review the work notes and activities section to view the profile-initiated and profile-completed tags.![Reviewing work notes for automation activity.](../image/falcon-insight-test-work-notes.png)
+4.  Review the work notes and activities section to view the profile-initiated and profile-completed tags.![Reviewing work notes for automation activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-test-work-notes.png)
 
 5.  Review the details in the CrowdStrike Falcon Insight Details related lists such as Get File, Host Details, Logged on Users, Running Processes, Running Services, Network Statistics, and so on.
 

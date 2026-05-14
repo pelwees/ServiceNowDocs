@@ -26,7 +26,7 @@ Role required: Admin
     -   [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)
     -   Assign the `localization_fulfiller` role to the group: [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md)
     -   Add users to perform translation: [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md)
--   Activate the `sn_cd.enable_localization_framework_integration` system property: [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+-   Activate the `sn_cd.enable_localization_framework_integration` system property: [Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md)
 
 ## Procedure
 
@@ -53,5 +53,5 @@ Role required: Admin
 
 The Content Library displays the **Translate content** button, enabling Content managers to request translation in the languages you have enabled.
 
-To learn more about translation in the Content Library, see [Multilingual support in the Content Library](ec-switch-language.md)
+To learn more about translation in the Content Library, see [Multilingual support in the Content Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-switch-language.md)
 

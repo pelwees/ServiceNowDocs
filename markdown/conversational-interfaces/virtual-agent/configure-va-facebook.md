@@ -42,20 +42,20 @@ Roles required:
 
 5.  In the window that requires your authorization to install the integration, click **Add to Workplace**.
 
-    ![Installation dialog box for Virtual Agent Integration from Workplace from Facebook.](../images/FBInstall.png)
+    ![Installation dialog box for Virtual Agent Integration from Workplace from Facebook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/FBInstall.png)
 
     If the selected workspace has already been integrated with Workplace, click **Save** or **Cancel** to leave the current assignment in place.
 
-    To delete the Conversational Integration with Workplace from Facebook, see [Uninstall the Conversational Integration with Workplace from Facebook](uninstall-virtual-agent-fb.md).
+    To delete the Conversational Integration with Workplace from Facebook, see [Uninstall the Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/uninstall-virtual-agent-fb.md).
 
 6.  When you see a confirmation message about the installation, verify the installation.
 
-    ![Confirmation message dialog box for adding Workplace from Facebook Integration.](../images/workplace-integ-success.png)
+    ![Confirmation message dialog box for adding Workplace from Facebook Integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/workplace-integ-success.png)
 
 
 ## Result
 
 The Virtual Agent bot and Workplace from Facebook are now integrated for use on your ServiceNow instance.
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-ci-workplace-fb.md)
 

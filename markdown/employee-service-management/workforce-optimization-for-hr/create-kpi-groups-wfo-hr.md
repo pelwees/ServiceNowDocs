@@ -47,5 +47,5 @@ Role required: sn\_hr\_wfo.admin
     2.  Move the desired assignment groups from the Collection to the Assignment Groups list.
     3.  Click **Save**.
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for HR](setup-team-workforce-wfo-hr.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-team-workforce-wfo-hr.md)
 

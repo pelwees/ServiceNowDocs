@@ -42,7 +42,7 @@ Role required: AI steward \[sn\_ai\_governance\_ai\_steward\]
 
 7.  **Evaluate asset**- AI Stewards can create and assign the approval tasks to other individual AI Stewards to evaluate the assets.
 
-    For information on creating a Now Assist approval task for evaluating assets, see [Create a Now Assist approval task](create-an-now-assist-approval-task.md).
+    For information on creating a Now Assist approval task for evaluating assets, see [Create a Now Assist approval task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-an-now-assist-approval-task.md).
 
     **Note:** You can **Copy** or **Delete** the tasks and create a task using the **New** option in the Approval tasks list.
 
@@ -52,7 +52,7 @@ Role required: AI steward \[sn\_ai\_governance\_ai\_steward\]
 
     The **Risk score** and **Close notes** can't be modified after the **Approve/Reject** step is marked as complete.
 
-    ![playbook workflow](../image/ai-governance-playbook.png)
+    ![playbook workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/ai-governance-playbook.png)
 
 
 ## What to do next

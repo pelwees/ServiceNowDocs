@@ -98,5 +98,5 @@ Value parameters
 Value pairs that are passed to the custom metric type renderers. For example, in star ratings, you can pass a value as 5 for 5 stars or 10 for 10 stars.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 

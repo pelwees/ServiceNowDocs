@@ -17,12 +17,12 @@ As a Vaccination Status adminor manager, use the Employee Readiness Core Approva
 
 Your organization must install both Health and Safety Testing and Vaccination Status to use the Approval Portal.
 
--   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](../../health-safety-testing/task/install-health-testing.md#).
--   For more information on installing Vaccination Status, see [Install Vaccination Status](install-vaccination-status.md#).
+-   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../health-safety-testing/task/install-health-testing.md#).
+-   For more information on installing Vaccination Status, see [Install Vaccination Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/install-vaccination-status.md#).
 
 Activate the **sn\_imt\_vaccine.allow\_managers\_ability\_to\_update\_vaccine\_exemption\_records** property to enable all managers to approve or deny vaccine exemption requests for their direct reports. This property assigns the sn\_imt\_core.approval\_portal\_manager role to managers and grants access to the Approval Portal for vaccine exemption requests.
 
-Your organization must enable vaccine exemptions. Exemptions do not affect a user's **Covid 19 Vaccine Complete** status in their vaccine profile. For more information, see [Set up Vaccination Status properties](config-vaccination-properties.md).
+Your organization must enable vaccine exemptions. Exemptions do not affect a user's **Covid 19 Vaccine Complete** status in their vaccine profile. For more information, see [Set up Vaccination Status properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/config-vaccination-properties.md).
 
 Role required: sn\_imt\_vaccine.admin, sn\_imt\_core.approval\_portal\_manager, or sn\_imt\_core.health\_and\_safety\_approver
 
@@ -120,5 +120,5 @@ A log of work notes included for tracking purposes.
 
 The record is moved to the **Approved** or **Denied** tab based on your decision.The user's vaccine profile is updated to show who approved the vaccination exemption \(if approved\) and when it expires \(if applicable\).
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/vaccination-status.md)
 

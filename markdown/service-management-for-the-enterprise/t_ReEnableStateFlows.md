@@ -30,5 +30,5 @@ State flows can, however, be re-enabled by running a script for each service man
     ```
 
 
-**Parent Topic:**[Implications of disabling SM state flows](../concept/c_ImpDsblStFl.md)
+**Parent Topic:**[Implications of disabling SM state flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_ImpDsblStFl.md)
 

@@ -19,7 +19,7 @@ There are multiple methods for copying an IDR configuration from one instance to
 
 -   **Capture the configuration in an update set**
 
-    An update set captures a group of configuration changes that you can move from one instance to another but doesn’t include data that a producer replicates to a consumer. You can capture a snapshot of an IDR replication configuration, including selected fields, filters, or data transformations using the **Track in Update Set** option, and then copy it to another instance using an update set. See [Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md).
+    An update set captures a group of configuration changes that you can move from one instance to another but doesn’t include data that a producer replicates to a consumer. You can capture a snapshot of an IDR replication configuration, including selected fields, filters, or data transformations using the **Track in Update Set** option, and then copy it to another instance using an update set. See [Deploying a replication configuration from one instance to another in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/copying-replication-configuration.md).
 
 -   **Copy the configuration using a clone profile**
 
@@ -131,22 +131,22 @@ After performing the true clone, you must perform the following actions on the t
 3.  Re-create the source replication sets using the cloned entry sets from the source instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
+</table>**Parent Topic:**[Administering Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/administering-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/approve-consumer.md)
 
-[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
+[Comparing replicated data between instances in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/comparing-replicated-data.md)
 
-[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
+[Deploying a replication configuration from one instance to another in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/copying-replication-configuration.md)
 
-[Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md)
+[Monitoring replication status in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-dashboard.md)
 
-[Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
+[Monitoring queues in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/idr-queue-dashboard.md)
 
-[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
+[Avoiding insert and update errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/common-issues-idr.md)
 

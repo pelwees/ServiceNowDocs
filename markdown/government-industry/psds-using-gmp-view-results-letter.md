@@ -27,7 +27,7 @@ Role required: admin
 
 4.  Select the PDF file to view the results letter, and the merit review summary, where applicable.
 
-    ![Grants Management Portal Results tab as viewed by the applicant.](../image/psds_gmp_portal_results.png)
+    ![Grants Management Portal Results tab as viewed by the applicant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_gmp_portal_results.png)
 
     Here, you have the option to either decline or acknowledge the award by the date provided.
 

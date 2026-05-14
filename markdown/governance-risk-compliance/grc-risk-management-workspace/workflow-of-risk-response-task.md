@@ -28,13 +28,13 @@ The risk response task workflow consists of the following stages:
 
 -   **Create a risk response task**
 
-    After an assessor identifies the risk response plans, the assessor then creates risk response tasks. The user with the sn\_risk\_advanced.ara\_assessor role can create a risk response task and assigns them to the risk user with the role sn\_risk.user. After creation, the risk response task moves to the Draft state. For more information, see [Create a risk response task in the Risk Workspace](../task/create-risk-response-task-risk-workspace.md).
+    After an assessor identifies the risk response plans, the assessor then creates risk response tasks. The user with the sn\_risk\_advanced.ara\_assessor role can create a risk response task and assigns them to the risk user with the role sn\_risk.user. After creation, the risk response task moves to the Draft state. For more information, see [Create a risk response task in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-risk-response-task-risk-workspace.md).
 
 -   **Create action items**
 
-    The risk assessor can create multiple strategies with various action items for each risk response task. Action items are specific, granular tasks defined within a risk response task to address and manage risks effectively. Action items can be created and defined when the risk response task is in either the Draft state or the Work in progress state. For more information, see [Create an action item in the risk response task](../task/create-action-item-risk-response-task.md).
+    The risk assessor can create multiple strategies with various action items for each risk response task. Action items are specific, granular tasks defined within a risk response task to address and manage risks effectively. Action items can be created and defined when the risk response task is in either the Draft state or the Work in progress state. For more information, see [Create an action item in the risk response task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-action-item-risk-response-task.md).
 
-    Action items have their own independent workflow. For more information, see [Workflow of action item in risk response task](workflow-action-item-risk-response-task.md).
+    Action items have their own independent workflow. For more information, see [Workflow of action item in risk response task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-action-item-risk-response-task.md).
 
     **Note:** You can create risk response action items for all types of risk response tasks except for Risk acceptance tasks.
 
@@ -49,5 +49,5 @@ The risk response task workflow consists of the following stages:
     In the Awaiting approval state, the approvers defined in the approval configurator can review the plan of action and either approve or reject the risk response task. The risk response task moves to the Closed state, if the all the approvers approve the task. If any of the approvers reject the task, then the risk response task moves back to the Work in progress state.
 
 
-**Parent Topic:**[Using the Risk Workspace](../../grc-workspace-risk/concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/concept/using-risk-workspace.md)
 

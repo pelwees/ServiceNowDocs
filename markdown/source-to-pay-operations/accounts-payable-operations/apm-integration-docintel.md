@@ -23,23 +23,23 @@ To use the flows for extracting data from the invoice document received as an em
 
 For more information, see [Install Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/install-document-intelligence.md).
 
--   **[Components installed with Accounts Payable Operations integration with Document Intelligence](../reference/installed-with-docintel-apm.md)**  
+-   **[Components installed with Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/installed-with-docintel-apm.md)**  
 Several types of components are installed with activation of the Accounts Payable Operations integration with Document Intelligence \(sn\_ap\_ic\) application plugin, including user roles, flows, and tables.
--   **[Invoice Processing use case](docintel-invoice-process-usecase.md)**  
+-   **[Invoice Processing use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/docintel-invoice-process-usecase.md)**  
 Accounts Payable Operations integration with Document Intelligence provides the **DO NOT USE - Invoice Processing** use case.
--   **[Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](config-apo-docintel-integration.md)**  
+-   **[Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-apo-docintel-integration.md)**  
 Configure Accounts Payable Operations integration with Document Intelligence to automatically create an invoice processing case and extract the required data from an invoice attachment received via email.
--   **[How Accounts Payable Operations integration with Document Intelligence works](apm-docintel-how-it-works.md)**  
+-   **[How Accounts Payable Operations integration with Document Intelligence works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-docintel-how-it-works.md)**  
 Accounts Payable Operations integration with Document Intelligence uses automated workflows to extract the required information from the invoice document received as an email attachment, creates an invoice record in Accounts Payable Operations, and adds the extracted information into the newly created invoice record.
 
-**Parent Topic:**[Configure Accounts Payable Operations](config-acc-pay-mgmt.md)
+**Parent Topic:**[Configure Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md)
+[Install Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-acc-pay-mgmt.md)
 
-[Install Invoice Case Management](../task/install-invoice-case-mgmt.md)
+[Install Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-invoice-case-mgmt.md)
 
-[Domain separation and Accounts Payable Operations](apm-domain-separation.md)
+[Domain separation and Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-domain-separation.md)
 

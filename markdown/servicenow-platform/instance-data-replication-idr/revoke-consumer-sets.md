@@ -31,14 +31,14 @@ When you generate a new, shared encryption key, approved consumer sets automatic
 
     The instance identifies the consumers under the **Consumer Subscriptions** tab.
 
-    ![Revoke access](../image/revoke-consumer.png)
+    ![Revoke access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/revoke-consumer.png)
 
 3.  On the **Consumer Subscriptions** tab, select the option for the consumer instance whose permissions you want to revoke.
 
 4.  In the Actions on selected rows list, select **Revoke**.
 
-    Instance Data Replication generates a new encryption key and shares it with all approved consumer sets. All other consumer sets stop receiving replication data. Admins of those consumer replication sets must [reapply to restore access to the replication data](restore-access.md).
+    Instance Data Replication generates a new encryption key and shares it with all approved consumer sets. All other consumer sets stop receiving replication data. Admins of those consumer replication sets must [reapply to restore access to the replication data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/restore-access.md).
 
 
-**Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
+**Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/approve-consumer.md)
 

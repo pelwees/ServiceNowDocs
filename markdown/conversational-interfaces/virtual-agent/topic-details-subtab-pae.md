@@ -19,7 +19,7 @@ Use the Topic Details page in the Conversational Analytics dashboard to view key
 
 Select a topic from the drop-down to view the indicators associated with the topic.
 
-![Virtual Agent Analytics Dashboard topic details sub-tab.](../images/dashboard-topic-details-2-pae.png)
+![Virtual Agent Analytics Dashboard topic details sub-tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-topic-details-2-pae.png)
 
 The Topic Details page provides the following indicators.
 
@@ -33,5 +33,5 @@ The Topic Details page provides the following indicators.
 -   **NLU Prediction**—NLU prediction stats for the selected topic.
 -   **Topic block breakdown**—Execution count of the selected topic block in different topics. Use this indicator to view which topic block is executed the most across topics.
 
-**Parent Topic:**[Topics tab](topics-tab-pae.md)
+**Parent Topic:**[Topics tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topics-tab-pae.md)
 

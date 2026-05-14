@@ -32,9 +32,9 @@ You cannot extend an allocation beyond the parent record's end date without firs
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
-3.  Select the chevron icon \(![Chevron](../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
+3.  Select the chevron icon \(![Chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-chevron-image.png)\) to expand the resource view in the top tray.
 
 4.  Edit the following allocation details in the resource board drill-down view.
 
@@ -60,7 +60,7 @@ Manage the Start date, End date, Task efforts, and Resource status.Example: For 
 
 </td><td>
 
-Extend the duration of non-child assignments to extend the resource allocation for the required duration.1.  In the top tray, select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) of a non-child assignment and select **Extend**.
+Extend the duration of non-child assignments to extend the resource allocation for the required duration.1.  In the top tray, select the row context menu \(![Three vertical dots icon for row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/image/icon-row-context-menu.png)\) of a non-child assignment and select **Extend**.
 2.  In the Extend Assignment window, select the new end date and the required efforts.
 3.  Select **Extend**.
 Entered duration for the selected task and time is allocated.
@@ -85,5 +85,5 @@ Using this window, you can directly change the dates, effort value, and status t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

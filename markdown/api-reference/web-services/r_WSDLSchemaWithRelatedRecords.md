@@ -74,5 +74,5 @@ WSDL Schema Continued:
 </xsd:element>
 ```
 
-**Parent Topic:**[Insert related records using SOAP](../task/t_InsertRelatedRecordsUsingSOAP.md)
+**Parent Topic:**[Insert related records using SOAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_InsertRelatedRecordsUsingSOAP.md)
 

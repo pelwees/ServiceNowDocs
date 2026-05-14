@@ -29,7 +29,7 @@ You must have the Agentic AI plugin installed.
 
     The Set objectives tab is displayed.
 
-    ![Agentic AI project set up](../image/agentic-proj-obj.png)
+    ![Agentic AI project set up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/agentic-proj-obj.png)
 
 3.  Provide details on the Set objectives tab.
 
@@ -105,7 +105,7 @@ This field is available only if you choose the type as **Project**.
 
  If you don’t change the retired status within the specified days, the mined versions are permanently deleted. However, the project definition isn’t deleted. You can opt out of auto retirement by clearing this check box.
 
- The default value of 90 days can be changed by the administrator in the System Properties. For more information see, [Data cleanup properties](../concept/data-cleanup.md#).
+ The default value of 90 days can be changed by the administrator in the System Properties. For more information see, [Data cleanup properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/data-cleanup.md#).
 
 </td></tr><tr><td id="d64037e214">
 
@@ -134,8 +134,8 @@ The template for Agentic AI project is auto-selected.
 
     After you mine your project, you cannot use the some analysis such as root cause analysis, work notes analysis, and clustering. Task mining is also not available for Agentic AI projects.
 
-    ![Agentic AI project](../image/agentic-ai-project.png)
+    ![Agentic AI project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/agentic-ai-project.png)
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-process-mining.md)
 

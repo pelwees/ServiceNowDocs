@@ -70,5 +70,5 @@ When you calculate the number of agents for your staffing needs, you have the op
 
     6.  Click **Submit**.
 
-**Parent Topic:**[Configure Demand Forecast](configure-data-collection-configurable-wfo-itsm.md)
+**Parent Topic:**[Configure Demand Forecast](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-data-collection-configurable-wfo-itsm.md)
 

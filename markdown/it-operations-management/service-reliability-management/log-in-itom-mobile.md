@@ -17,7 +17,7 @@ Log in to your ITOM Mobile Agent instance on the ServiceNow Agent app to manage 
 
 ## Before you begin
 
-ITOM Mobile Agent must be installed, and the ServiceNow Agent app must be downloaded on your device. See [Install ITOM Mobile Agent](install-itom-mobile.md) and [Download the ServiceNow Agent app](download-agent-app.md) for more information.
+ITOM Mobile Agent must be installed, and the ServiceNow Agent app must be downloaded on your device. See [Install ITOM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/install-itom-mobile.md) and [Download the ServiceNow Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/download-agent-app.md) for more information.
 
 You must also have your instance address, for example `nebula-dev.service-now.com`, or a QR code for the instance. If you don't have one, contact your admin.
 
@@ -25,7 +25,7 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
 ## Procedure
 
-1.  Tap the ServiceNow Agent icon \(![ServiceNow Agent app icon](../../service-reliability/image/sr-mobile-agent-app.png)\) on your device.
+1.  Tap the ServiceNow Agent icon \(![ServiceNow Agent app icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-reliability/image/sr-mobile-agent-app.png)\) on your device.
 
 2.  Enter the address of your instance manually or with a QR code.
 
@@ -61,8 +61,8 @@ Tap the QR code icon and scan the QR code.
 
 Visit these links to start using ITOM Mobile Agent:
 
--   [Work with alerts in ITOM mobile](../concept/work-itom-mobile-alerts.md)
--   [Managing incidents and major incidents on mobile](../reference/itom-mobile-incidents.md)
--   [Working with On-Call Scheduling on mobile](../reference/itom-mobile-on-call-scheduling.md)
--   [Working with tasks on mobile](../reference/itom-mobile-tasks.md)
+-   [Work with alerts in ITOM mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/work-itom-mobile-alerts.md)
+-   [Managing incidents and major incidents on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/itom-mobile-incidents.md)
+-   [Working with On-Call Scheduling on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/itom-mobile-on-call-scheduling.md)
+-   [Working with tasks on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/itom-mobile-tasks.md)
 

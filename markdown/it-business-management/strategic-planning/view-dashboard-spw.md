@@ -31,7 +31,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 2.  From the Change dashboard drop-down, select the dashboard you want to view.
 
-    ![select a dashboard in strategic planning.](../Images/change-dashboard-drop-down.png)
+    ![select a dashboard in strategic planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/change-dashboard-drop-down.png)
 
     The selected dashboard appears.
 
@@ -44,16 +44,16 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
     If you have edit access, you can update the details of an individual record directly from the list view when necessary.
 
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/using-dashboards-spw.md)
 
 **Related topics**  
 
 
-[Create a dashboard](create-dashboard-spw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-dashboard-spw.md)
 
-[Duplicate a dashboard](copy-dashboard-spw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/copy-dashboard-spw.md)
 
-[Share a dashboard](share-dashboard-spw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/share-dashboard-spw.md)
 
-[Add a Platform Analytics dashboard](add-platform-dashboard-to-spw.md)
+[Add a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 

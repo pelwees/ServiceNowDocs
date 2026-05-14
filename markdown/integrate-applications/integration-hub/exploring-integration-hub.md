@@ -35,24 +35,24 @@ Build reusable integrations with third-party systems and call them from anywhere
 
     Using Integration Hub actions in Workflow Studio, you can:
 
-    -   Post messages and ServiceNow incident, problem, and change record details to [Slack Spoke](slack-spoke.md), or [Microsoft Teams Spoke](../reference/microsoft-teams-spoke.md) communications channels.
-    -   Synchronize data across multiple production instances using [Integration Hub Remote Process Sync](integrationhub-remote-process-sync.md).
+    -   Post messages and ServiceNow incident, problem, and change record details to [Slack Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/slack-spoke.md), or [Microsoft Teams Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/microsoft-teams-spoke.md) communications channels.
+    -   Synchronize data across multiple production instances using [Integration Hub Remote Process Sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub-remote-process-sync.md).
 -   **Create custom integrations**
 
-    Build custom integrations with Workflow Studio using a [REST step](../../flow-designer/reference/rest-request-action-designer.md) or a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md).
+    Build custom integrations with Workflow Studio using a [REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/rest-request-action-designer.md) or a [Script step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/javascript-step-action-designer.md).
 
 -   **Automate inbound integrations with third-party applications**
 
-    [Set up a flow with external trigger definition](../tasks/set-up-flow-ihub.md) on Workflow Studio by selecting base system external trigger definitions, and actions from the spokes or core actions. Then, [Set up external trigger endpoints](../tasks/set-up-external-webhook-endpoints.md) that the third-party application webhooks use to trigger the flow you had set up. Your ServiceNow instance authenticates the webhook before it triggers the flow.
+    [Set up a flow with external trigger definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/set-up-flow-ihub.md) on Workflow Studio by selecting base system external trigger definitions, and actions from the spokes or core actions. Then, [Set up external trigger endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/set-up-external-webhook-endpoints.md) that the third-party application webhooks use to trigger the flow you had set up. Your ServiceNow instance authenticates the webhook before it triggers the flow.
 
 -   **Automate the administration of servers and applications in your network**
 
-    Use custom actions to delegate Workflow Studio processes to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) in your network. For example, actions that use the [PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md) or [REST step](../../flow-designer/reference/rest-request-action-designer.md).
+    Use custom actions to delegate Workflow Studio processes to a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) in your network. For example, actions that use the [PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/powershell-step-action-designer.md) or [REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/rest-request-action-designer.md).
 
 
 ## Import and stream data
 
-Import data with Integration Hub - Import. [Integration Hub - Import](integrationhub-imports.md) enables you to configure, run, and schedule your data imports all through a single simplified interface. It consolidates multiple data integration capabilities into a single environment, eliminating the need to create and manage several forms throughout the platform. Its step-by-step experience guides you through the configuration of data sources, target tables, and data mapping. You can schedule your data imports or run them on demand.
+Import data with Integration Hub - Import. [Integration Hub - Import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub-imports.md) enables you to configure, run, and schedule your data imports all through a single simplified interface. It consolidates multiple data integration capabilities into a single environment, eliminating the need to create and manage several forms throughout the platform. Its step-by-step experience guides you through the configuration of data sources, target tables, and data mapping. You can schedule your data imports or run them on demand.
 
 Stream data with Stream Connect for Apache Kafka. Stream Connect links your Kafka environment to your ServiceNow® instance, enabling you to stream data between your instance and your external systems. Stream Connect is integrated with Workflow Studio, so you can build flows that produce and consume Kafka events. Stream Connect also provides several consumers that enable you to stream and process data with scripts or by using your existing RTE or transform map configurations.
 
@@ -60,13 +60,13 @@ Stream data with Stream Connect for Apache Kafka. Stream Connect links your Kafk
 
 Integration Hub takes advantage of aliases to manage connection information and credentials when integrating with external systems. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. Integration Hub only requires an alias, which then resolves to use the correct credentials and connection information during runtime. Learn more about [credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md).
 
-View and configure your connection and credential aliases with the [Connections dashboard](connections-dashboard.md). The Connections dashboard enables you to manage multiple connections through a single interface, and provides simplified processes for adding, editing, and configuring connections. With the Connections dashboard, you can view details about an alias and all associated child connections in a single location.
+View and configure your connection and credential aliases with the [Connections dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/connections-dashboard.md). The Connections dashboard enables you to manage multiple connections through a single interface, and provides simplified processes for adding, editing, and configuring connections. With the Connections dashboard, you can view details about an alias and all associated child connections in a single location.
 
-Integration Hub [supports multiple connections](support-multiple-connections.md) to a single integration provider. For example, you can have connections to several different Jira environments. In Workflow Studio, you can select which connection you want to use in a flow, and override preset connections for flows, subflows, and actions. When a flow is promoted to production, you can reestablish a connection to each account without needing to modify the flow.
+Integration Hub [supports multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/support-multiple-connections.md) to a single integration provider. For example, you can have connections to several different Jira environments. In Workflow Studio, you can select which connection you want to use in a flow, and override preset connections for flows, subflows, and actions. When a flow is promoted to production, you can reestablish a connection to each account without needing to modify the flow.
 
-Use your personal credentials to connect to third-party integrations with the [Personal Authentication dashboard](personal-auth-dashboard.md). View, authenticate, revoke, and renew your personal authentications through a simplified, consolidated interface.
+Use your personal credentials to connect to third-party integrations with the [Personal Authentication dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/personal-auth-dashboard.md). View, authenticate, revoke, and renew your personal authentications through a simplified, consolidated interface.
 
-Make outbound REST and SOAP calls through a MID Server [using mTLS](mtls-mid-server.md#). Store mTLS credential and certificate information on the instance, in a configuration file, or in an external vault. The MID Server retrieves the credential and certificate information and makes outbound REST and SOAP calls using the mTLS protocol.
+Make outbound REST and SOAP calls through a MID Server [using mTLS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mtls-mid-server.md#). Store mTLS credential and certificate information on the instance, in a configuration file, or in an external vault. The MID Server retrieves the credential and certificate information and makes outbound REST and SOAP calls using the mTLS protocol.
 
 ## Benefits
 
@@ -94,5 +94,5 @@ When developing spokes, flow and action designers typically perform these applic
 
 Review Workflow Studio design considerations in the [Architecture Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-arch-overview.md).
 
-**Parent Topic:**[Integration Hub](integrationhub.md)
+**Parent Topic:**[Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md)
 

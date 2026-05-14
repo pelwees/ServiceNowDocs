@@ -58,12 +58,12 @@ Navigate to **All** &gt; **System Definition** &gt; **Scheduled jobs**.
 |----|-----------|
 |Process Mining - DPM Remine Projects|Automatically runs once daily. You can run this job on demand when additional data is added to a project so that you get the up-to-date process insights for your projects. The job remines data based on the frequency set in the **dpm.po\_mining.run\_frequency** property.|
 
-**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
+**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
 **Related topics**  
 
 
-[Configure Digital Portfolio Management to integrate with Process Mining](../concept/dpm-setup-po.md)
+[Configure Digital Portfolio Management to integrate with Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-setup-po.md)
 
-[Create Process Mining projects for KPI groups in Digital Portfolio Management](../task/dpm-create-project-po.md)
+[Create Process Mining projects for KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-create-project-po.md)
 

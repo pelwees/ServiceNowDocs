@@ -17,5 +17,5 @@ You can select different categories for the catalog items you create in the Oper
 
 If needed, you can define categories and subcategories to organize the OT catalog items and help users locate the products and services they need. For more information about how to define catalog item categories, see [Create a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateACategory.md).
 
-**Parent Topic:**[Configuring Operational Technology Request Management](configuring-operational-technology-request-management.md)
+**Parent Topic:**[Configuring Operational Technology Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/configuring-operational-technology-request-management.md)
 

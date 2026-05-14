@@ -25,9 +25,9 @@ Benefits from the enhanced framework implementation include:
 -   Ability to configure conditional triggering of the capabilities or the integrations. This provides flexibility to automatically launch automations based on incident category.
 -   A default filter condition has been introduced on all capabilities to filter allow listed observables before inputs are provided to the integrations.
 
-**Note:** This new capability framework does not upgrade the current capability framework. Both frameworks can work in parallel. For instructions on how to leverage the new capability framework, see [Using the new Capability Framework with an installed integration](cj-sir-capfmw-about.md#) and [Using the new Capability Framework with a Flow](cj-sir-capfmw-about.md#).
+**Note:** This new capability framework does not upgrade the current capability framework. Both frameworks can work in parallel. For instructions on how to leverage the new capability framework, see [Using the new Capability Framework with an installed integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md#) and [Using the new Capability Framework with a Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md#).
 
-**Parent Topic:**[Security Operations Integration Reference](../../secops-integration-reference/concept/secops-integ-ref.md)
+**Parent Topic:**[Security Operations Integration Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../secops-integration-reference/concept/secops-integ-ref.md)
 
 ## Supported integrations and components
 
@@ -111,7 +111,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
 2.  The capabilities available with the base system are displayed.
 
-    ![Capability flows: out-of-the-box](../image/cj-sir-capfmw-oob-cap.png)
+    ![Capability flows: out-of-the-box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-oob-cap.png)
 
     **Note:**
 
@@ -121,7 +121,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
     The Name, Application, Description, and the Flow that the Capability implements is displayed.
 
-    ![Capability flows: Configure capability](../image/cj-sir-capfmw-config1.png)
+    ![Capability flows: Configure capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config1.png)
 
 4.  Select the **Active** check box to activate the capability.
 
@@ -129,7 +129,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
         **Note:** Select the **Add worknote to task** checkbox to add worknotes to include information on the filter conditions used.
 
-        ![Capability flows: configure capability: edit filter condition](../image/cj-sir-capfmw-config2.png)
+        ![Capability flows: configure capability: edit filter condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config2.png)
 
         You can either define filter conditions or a script, or a combination of both. In the above example, a script is used to define the filter conditions. When the capability flow is executed, the script searches for allowlisted observables and removes them from the table.
 
@@ -137,7 +137,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
     -   **Capability implementations**: Click the **Capability Implementations** tab. The implementations \(integrations\) that have been configured for the capability are displayed. The example below shows the integrations configured for the Threat Lookup capability:
 
-        ![Capability flows: Threat Lookup: Capability implementations](../image/cj-sir-capfmw-config3.png)
+        ![Capability flows: Threat Lookup: Capability implementations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config3.png)
 
 5.  Click the Name link to view the Capability Implementation.
 
@@ -145,7 +145,7 @@ Role required: sn\_si.admin, flow\_designer, action\_designer
 
 6.  Click the **Active** checkbox to activate the capability.
 
-    ![Capability flows: Threat Lookup: VirusTotal](../image/cj-sir-capfmw-config4.png)
+    ![Capability flows: Threat Lookup: VirusTotal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config4.png)
 
     You can specify the following details:
 
@@ -272,14 +272,14 @@ The default sighting search queries that can be executed.
 </td></tr></tbody>
 </table>    Click the Name link in the Filter Conditions section to configure the conditions defined for the implementation. Add or delete filter conditions, modify the script if required and update the record.
 
-    ![Capability flows: Threat Lookup: VirusTotal: filter condition](../image/cj-sir-capfmw-config5.png)
+    ![Capability flows: Threat Lookup: VirusTotal: filter condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config5.png)
 
 
 ## Using the new Capability Framework with an installed integration
 
 This section describes how to use the new capability framework for an existing integration.
 
-Use the steps below to enable an already installed and configured integration \(see supported list of Integrations in [Supported integrations and components](cj-sir-capfmw-about.md#)\) to use the new capability framework.
+Use the steps below to enable an already installed and configured integration \(see supported list of Integrations in [Supported integrations and components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md#)\) to use the new capability framework.
 
 **Note:** Integration Capability Framework 2.0 available with Security Incident Response 10.0.2 supports implementations for the **Threat Lookup** and **Enrich Observable** capabilities. Implementations for other capabilities will be made available in a future release.
 
@@ -292,17 +292,17 @@ Use the steps below to enable an already installed and configured integration \(
 2.  Click on **Threat Lookup** capability.
 3.  Click the Capabilities Implementation tab.
 
-    ![Capability framework: New capability](../image/cj-sir-capfmw-new-cap.png)
+    ![Capability framework: New capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-new-cap.png)
 
 4.  4. View the Capability Implementation record for the integration of interest \(example: Crowdstrike Falcon Intelligence\). The **Active** column should have the value as **False**.
 5.  Click the **Name** link to view the implementation record.
 
-    ![Capability framework: New capability implementation record](../image/cj-sir-capfmw-new-cap-det.png)
+    ![Capability framework: New capability implementation record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-new-cap-det.png)
 
 6.  Select the **Active** check box.
 7.  Ensure the implementation record is pointing to the right configuration record \(the tile name for the integration in **Integration Configurations** &gt; **Show Configurations \(Yes\)**\).
 
-    ![Capability Framework: Configuration Tile](../image/cj-sir-capfmw-config-tile.png)
+    ![Capability Framework: Configuration Tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-config-tile.png)
 
 8.  The implementation is enabled for use with the new framework.
 
@@ -315,7 +315,7 @@ Use the steps below to create a flow and call the subflow provided by the new ca
 ### Before you begin
 
 -   Role required: sn\_si.admin, flow\_designer, action\_designer
--   Install one of the supported integrations \(see [Supported integrations and components](cj-sir-capfmw-about.md#)\)
+-   Install one of the supported integrations \(see [Supported integrations and components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/cj-sir-capfmw-about.md#)\)
 
 The steps below describe how to create a sample flow and call one of the subflows provided with the new capability framework.
 
@@ -325,27 +325,27 @@ The steps below describe how to create a sample flow and call one of the subflow
 
 2.  Click **New** to create a new flow and provide the necessary information for the properties.
 
-    ![Capability Framework: Create new flow](../image/cj-sir-capfmw-create-flow.png)
+    ![Capability Framework: Create new flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-create-flow.png)
 
     **Note:** Select **System User** in the Run As choice list as shown in the above image.
 
 3.  Select a Trigger condition for the flow \(a common trigger is the creation of a security incident record for a certain incident category\).
 
-    ![Capability Framework: Create new flow: trigger](../image/cj-sir-capfmw-create-flow-trigger.png)
+    ![Capability Framework: Create new flow: trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-create-flow-trigger.png)
 
 4.  In step 1 of the flow, select an action to get inputs from the security incident \(for example, observables\).
 
     You can select an action from the actions provided with the base system with the Security Support Common Spoke.
 
-    ![Capability Framework: Create new flow: action](../image/cj-sir-capfmw-create-flow-action.png)
+    ![Capability Framework: Create new flow: action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-create-flow-action.png)
 
 5.  In step 2, select a subflow \(for example, Threat Lookup\).
 
-    ![Capability Framework: Create new flow: subflow](../image/cj-sir-capfmw-create-flow-subflow.png)
+    ![Capability Framework: Create new flow: subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-create-flow-subflow.png)
 
 6.  Configure the subflow you have selected as shown below:
 
-    ![Capability Framework: Create new flow: configure subflow](../image/cj-sir-capfmw-create-flow-subflow-config.png)
+    ![Capability Framework: Create new flow: configure subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-create-flow-subflow-config.png)
 
 7.  Save and publish the flow.
 
@@ -358,7 +358,7 @@ The Capability Executions option provides detailed information on each capabilit
 
 1.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Capability Executions.**.
 
-    ![Capability Framework: Capability Executions](../image/cj-sir-capfmw-execute-1.png)
+    ![Capability Framework: Capability Executions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-execute-1.png)
 
 2.  Click on the Capability Executions link to view additional details.
 
@@ -375,5 +375,5 @@ To view these worknotes, login as a user with the `sn_si.admin` or `sn_si.analys
 
 Navigate to the security incident record page and click on these worknotes to view the flow execution details.
 
-![Capability Framework: Security Incident: Worknotes](../image/cj-sir-capfmw-worknotes.png)
+![Capability Framework: Security Incident: Worknotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cj-sir-capfmw-worknotes.png)
 

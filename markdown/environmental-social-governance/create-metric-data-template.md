@@ -25,7 +25,7 @@ The metric import template must be used for importing historical metric data and
 
 1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **Metric Import templates**.
 
-2.  Select the metric data upload template from the list and download the metric data upload template by selecting the download icon ![Download icon.](../../esg-management-reporting/images/download-icon.png).
+2.  Select the metric data upload template from the list and download the metric data upload template by selecting the download icon ![Download icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../esg-management-reporting/images/download-icon.png).
 
 3.  Fill out the metric data upload template.
 
@@ -36,7 +36,7 @@ The metric import template must be used for importing historical metric data and
 
 ## What to do next
 
-Upload the complete metric import template as part of an metric import job. For more information, see [Import historical metric data and tasks](import-metric-data.md).
+Upload the complete metric import template as part of an metric import job. For more information, see [Import historical metric data and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/import-metric-data.md).
 
-**Parent Topic:**[Importing historical metric data](../concept/importing-metric-data.md)
+**Parent Topic:**[Importing historical metric data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/importing-metric-data.md)
 

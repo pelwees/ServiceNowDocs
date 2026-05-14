@@ -15,7 +15,7 @@ Create a field recommendation that you can select when configuring a recommended
 
 ## Before you begin
 
-Use the CSM default record page or the CSM Interaction record page to display field recommendations in CSM Configurable Workspace. For setting the CSM default record page or the CSM Interaction record page as the default page, see [Set record page order](config-csm-ws-set-record-page-order.md).
+Use the CSM default record page or the CSM Interaction record page to display field recommendations in CSM Configurable Workspace. For setting the CSM default record page or the CSM Interaction record page as the default page, see [Set record page order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
@@ -63,7 +63,7 @@ Creating a field recommendation involves two main steps:
 
     3.  In the **Recommendation message** field, enter `You can assign this issue to` and use the pill-picker to add the recommended value **Field recommendation inputs** &gt; **Assignment group** as part of the message.
 
-        ![Recommendation message displaying the recommended value, specifically the assignment group in this case, as part of the message.](../image/ex-config-recommendation-message.png)
+        ![Recommendation message displaying the recommended value, specifically the assignment group in this case, as part of the message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-config-recommendation-message.png)
 
         **Note:** If the resource generator returns an empty field value, the recommendation message isn’t displayed.
 

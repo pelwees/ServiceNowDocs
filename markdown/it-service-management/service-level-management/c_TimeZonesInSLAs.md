@@ -32,5 +32,5 @@ You can select one of the following options:
 
 **Note:** If you select a time zone source other than the **The SLA definition's timezone** and the time zone derived from the time zone source is empty, the system time zone is used.
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 

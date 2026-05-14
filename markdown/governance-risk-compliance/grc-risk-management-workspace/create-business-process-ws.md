@@ -218,13 +218,13 @@ Risk rating for the risk of loss of availability for the process. The choices ar
     The record moves to the **Draft** state.
 
 
--   **[Add related assets to a business process](add-related-assets-to-a-bp.md)**  
+-   **[Add related assets to a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-related-assets-to-a-bp.md)**  
 Add related business assets to a business process to gain visibility into the IT assets and their performance.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 
 **Related topics**  
 
 
-[Add related assets to a business process](add-related-assets-to-a-bp.md)
+[Add related assets to a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-related-assets-to-a-bp.md)
 

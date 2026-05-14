@@ -265,10 +265,10 @@ This remediation task contains the records that are assigned to **LDAP Admins** 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/using-unified-security-exposure-management.md)
 
 **Related topics**  
 
 
-[Create a remediation task manually in the Security Exposure Management Workspace](../task/sem-create-remediation-task.md)
+[Create a remediation task manually in the Security Exposure Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-create-remediation-task.md)
 

@@ -127,7 +127,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/roles-user-criteria.md).
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Determines the criteria a user must meet to access the record on their mobile de
 
     You have a configured media UI section that you can add to a launcher screen.
 
-    ![Media section showing the positions of the Image/Video, headline, and text elements](../image/media-section-example.png)
+    ![Media section showing the positions of the Image/Video, headline, and text elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/media-section-example.png)
 
 7.  Add your UI section to a launcher screen:
 
@@ -175,5 +175,5 @@ Determines the criteria a user must meet to access the record on their mobile de
 
 ## What to do next
 
-After creating media UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](ui-section-to-launcher-screen.md).
+After creating media UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 

@@ -532,5 +532,5 @@ Visible on Summaries
 If selected, the variable appears on any variable summarizer of the catalog item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/reference-hardware-asset-management.md)
 

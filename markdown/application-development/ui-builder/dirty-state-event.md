@@ -30,7 +30,7 @@ You can add the **Screen status changed to dirty** event to check which componen
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -50,7 +50,7 @@ You can add the **Screen status changed to dirty** event to check which componen
 
     4.  Select the **Screen status changed to dirty** event and select **Continue**.
 
-        ![Choose a handler dialog showing "isDirty" typed into the search bar, with the "Screen status changed to dirty" event selected.](../image/dirty-state-event-select.png)
+        ![Choose a handler dialog showing "isDirty" typed into the search bar, with the "Screen status changed to dirty" event selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/dirty-state-event-select.png)
 
     5.  Select the **Screen is dirty** check box to mark the property as `true`.
 
@@ -59,5 +59,5 @@ You can add the **Screen status changed to dirty** event to check which componen
     The dirty state event now appears in the configuration panel, enabling you to quickly check the `isDirty` property and determine if the component has unsaved changes without adding additional events.
 
 
-**Parent Topic:**[Manage actions in UI Builder pages](../concept/work-events.md)
+**Parent Topic:**[Manage actions in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-events.md)
 

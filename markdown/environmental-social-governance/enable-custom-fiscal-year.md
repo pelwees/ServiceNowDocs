@@ -83,12 +83,12 @@ Specify how you want to represent the fiscal year. In some countries, such as In
 
 ## What to do next
 
-Map the source and target calendars. For more information, see [Map target and source calendars](map-target-and-source-calendars.md).
+Map the source and target calendars. For more information, see [Map target and source calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/map-target-and-source-calendars.md).
 
--   **[Map target and source calendars](map-target-and-source-calendars.md)**  
+-   **[Map target and source calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/map-target-and-source-calendars.md)**  
 Map target calendars with source calendars to establish the data roll up hierarchy. You can create multiple calendar mappings depending on your requirements.
--   **[Add entities for fiscal calendars](add-entities-for-a-fiscal-calendar.md)**  
+-   **[Add entities for fiscal calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-entities-for-a-fiscal-calendar.md)**  
 Identify the entities that will follow the fiscal calendars you have created. This ensures that data collection is consistent, as each entity follows the designated calendar.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configuring-grc-metrics.md)
 

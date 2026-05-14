@@ -40,7 +40,7 @@ The general use case is to determine the period to be evaluated, select the reco
 
 This class is part of the MetricBase application.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Transformer - Transformer\( GlideRecord sourceRecords\)
 

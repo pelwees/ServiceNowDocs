@@ -80,7 +80,7 @@ Is low code
 Select this check box if the policy template will be written in low-code.**Note:** You can switch to the code editor from low-code when you create the conditions, but you’ll be unable to switch back to low-code.
 
 </td></tr></tbody>
-</table>    ![Create New Template form.](../image/pace-create-template-2.jpg)
+</table>    ![Create New Template form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-create-template-2.jpg)
 
 4.  Select **Save**.
 
@@ -88,7 +88,7 @@ Select this check box if the policy template will be written in low-code.**Note:
 
 5.  Select the **Template Builder** tab and fill in the conditions in the Policy logic section, then **Save**.
 
-    For more information about the parameters and condition fields, see the [Passing parameters to PaCE policies](../concept/pace-passing-parameters.md) and [Policy logic condition fields](../reference/pace-policy-logic-fields.md) topic.
+    For more information about the parameters and condition fields, see the [Passing parameters to PaCE policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../concept/pace-passing-parameters.md) and [Policy logic condition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../reference/pace-policy-logic-fields.md) topic.
 
 
 ## What to do next

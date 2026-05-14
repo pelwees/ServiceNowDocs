@@ -69,5 +69,5 @@ Incident\[incident\]
 The Incident table is extended from the Task \[task\] table. It inherits all the fields, rules, and policies from the Task table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Incident](../task/activate-incident-plugin.md)
+</table>**Parent Topic:**[Activate Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/activate-incident-plugin.md)
 

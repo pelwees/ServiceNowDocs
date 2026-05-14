@@ -41,30 +41,30 @@ Role required: sn\_si.analyst
 6.  Update the values of the fields.
 
 
-**Parent Topic:**[Working with Security Incident Records](../concept/using-analyst-workspace.md)
+**Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/using-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Security Incident Overview section](../concept/security-incident-overview.md)
+[Security Incident Overview section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-overview.md)
 
-[Security Incident Details section](../concept/security-incident-details.md)
+[Security Incident Details section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-details.md)
 
-[SIR Workspace Orchestration](../concept/security-incident-response-workspace-orchestration-activities.md)
+[SIR Workspace Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-response-workspace-orchestration-activities.md)
 
-[Security Incident Response Tasks](../concept/security-incident-response-tasks.md)
+[Security Incident Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-response-tasks.md)
 
-[Security Incident Response Other Records](../concept/security-incident-response-other-records.md#)
+[Security Incident Response Other Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-response-other-records.md#)
 
-[Security Incident Response Post Incident Review](../concept/security-incident-response-post-incident-review.md)
+[Security Incident Response Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/security-incident-response-post-incident-review.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
 
-[Reports in Security Incident Response](../concept/report-templates-sir.md)
+[Reports in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/report-templates-sir.md)
 
-[Collaborate using conference call or chat in Security Incident Response](../concept/collab-sir-call-chat.md)
+[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/collab-sir-call-chat.md)
 
-[Viewing incident details with a relationship graph](../concept/sir-relationship-graph.md)
+[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sir-relationship-graph.md)
 
-[MITRE attack and defend technique graph](../concept/mitre-attack-defend-graph-sir.md)
+[MITRE attack and defend technique graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mitre-attack-defend-graph-sir.md)
 

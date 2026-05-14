@@ -30,5 +30,5 @@ The flows save their changes to the following tables:
 -   sn\_erp\_integration\_sap\_tables
 -   sn\_erp\_integration\_sap\_bapi\_list
 
-**Parent Topic:**[Zero Copy Connector for ERP reference](erp-integration-reference.md)
+**Parent Topic:**[Zero Copy Connector for ERP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-reference.md)
 

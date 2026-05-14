@@ -35,5 +35,5 @@ All Date and Time fields \(including Duration\) export as their display value.
 
 All Date and Time fields export as the value stored in the database.
 
-**Parent Topic:**[Date and Date/Time fields](../reference/r_UseDateAndTimeFields.md)
+**Parent Topic:**[Date and Date/Time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_UseDateAndTimeFields.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
     A list of options within the workspace is displayed.
 
@@ -35,9 +35,9 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
     The case detailed view appears.
 
-5.  Select the information icon ![sentiment analysis](../../sourcing-procurement-operations/image/icon-more-info.png) to view the reasoning behind the generated sentiment.![Sentiment analysis](../image/sentiment-apo-skill.png)
+5.  Select the information icon ![sentiment analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-more-info.png) to view the reasoning behind the generated sentiment.![Sentiment analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/sentiment-apo-skill.png)
 
-    You can view the updated Sentiment analysis by selecting the refresh icon ![Refresh](../../sourcing-procurement-operations/image/icon-refresh.png).
+    You can view the updated Sentiment analysis by selecting the refresh icon ![Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-refresh.png).
 
     Invoice cases display Sentiment analysis.
 

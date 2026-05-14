@@ -17,7 +17,7 @@ When consumers use the Service Portal on their instance, they can place orders f
 
 Service Exchange remote catalog items can include bundled products that have composite components with different characteristic options that can be selected, including quantity.
 
-![Bundled product offer for SD-WAN Bronze Plan v3 which has three components with characteristic options](../image/service-catalog-bundled-order.png "Example bundled product in service catalog")
+![Bundled product offer for SD-WAN Bronze Plan v3 which has three components with characteristic options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/service-catalog-bundled-order.png "Example bundled product in service catalog")
 
 ## Cancelling an order
 
@@ -27,5 +27,5 @@ Consumers can cancel an order, if the order hasn't reached the point of no retur
 
 Consumers can view and manage the product or service inventory for products and services. They can use the **Location** field to filter the **Inventory** view by particular location. Consumers can also perform disconnect, suspend, or resume actions.
 
-![Service catalog form for managing product or service inventory](../image/sb-om-manage-inventory.png "Manage inventory example in service catalog")
+![Service catalog form for managing product or service inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/sb-om-manage-inventory.png "Manage inventory example in service catalog")
 

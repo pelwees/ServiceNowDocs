@@ -17,33 +17,33 @@ Shipments that are delayed due to various reasons such as an incorrect tracking 
 
 The ITAM: Process integration profiles and stale shipment job runs daily to check for any stale shipments. A shipment record that is not updated by the carrier even after the integration profile job has run for the maximum wait days for a carrier is marked as stale shipment.
 
-The tracking number of the shipment record that is marked stale isn’t sent to the carrier for further tracking. If you know the reason that a shipment is late, you can decide to continue tracking it. For more information, see [Continue to track delayed shipments](../task/track-delayed-shipments.md).
+The tracking number of the shipment record that is marked stale isn’t sent to the carrier for further tracking. If you know the reason that a shipment is late, you can decide to continue tracking it. For more information, see [Continue to track delayed shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-delayed-shipments.md).
 
-**Note:** You can view the list of shipments that weren’t updated with the tracking information from the integrated carrier through the Stale shipments important actions card in the Inventory view. For more information, see [Inventory view](inventory-view.md).
+**Note:** You can view the list of shipments that weren’t updated with the tracking information from the integrated carrier through the Stale shipments important actions card in the Inventory view. For more information, see [Inventory view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/inventory-view.md).
 
--   **[Continue to track delayed shipments](../task/track-delayed-shipments.md)**  
+-   **[Continue to track delayed shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-delayed-shipments.md)**  
 Continue to track a stale hardware asset shipment that is delayed if the reason for the delay is known.
 
-**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/creating-integration-script-include-ham.md)
 
-[Connect your ServiceNow instance with a shipping carrier application](../task/associate-shipping-carrier-int-profile.md)
+[Connect your ServiceNow instance with a shipping carrier application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/associate-shipping-carrier-int-profile.md)
 
-[Remove a shipping carrier from an integration profile](../task/remove-shipping-carrier.md)
+[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/remove-shipping-carrier.md)
 
-[Create a carrier integration profile](../task/create-carrier-integration-profile.md)
+[Create a carrier integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-carrier-integration-profile.md)
 
-[View the carrier integration profile details](../task/view-integration-profiles.md)
+[View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-integration-profiles.md)
 
-[Test the integration with the carrier API](../task/test-carrier-api-integration.md)
+[Test the integration with the carrier API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/test-carrier-api-integration.md)
 
-[Create a shipping carrier record](../task/create-shipping-carrier.md)
+[Create a shipping carrier record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-shipping-carrier.md)
 
-[View hardware asset shipment details](../task/view-hardware-asset-shipments.md)
+[View hardware asset shipment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-hardware-asset-shipments.md)
 
-[Track a hardware asset shipment](../task/track-hardware-asset-shipments.md)
+[Track a hardware asset shipment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-hardware-asset-shipments.md)
 

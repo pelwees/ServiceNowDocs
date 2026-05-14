@@ -60,9 +60,9 @@ Role required: map admin, map editor, map editor limited
     \(Enabled by default\) Enabling this option helps to automatically adjust the boundaries when new floor plans, places, or directions are added and they are outside of their initial boundaries. When this option is enabled, the boundaries cannot be manually adjusted. Disable it to manually adjust the building boundaries.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[Create a campus with buildings and floors](create-a-campus-building-and-floor.md)
+**Previous topic:**[Create a campus with buildings and floors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/create-a-campus-building-and-floor.md)
 
-**Next topic:**[Import outdoor elements](import-outdoor-elements.md)
+**Next topic:**[Import outdoor elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-outdoor-elements.md)
 

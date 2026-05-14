@@ -63,5 +63,5 @@ After performing this action, the evidence file in either ZIP format \(if the in
 
 **Note:** As a DLP admin, you can control the access of **Download File** action by disabling the **Should downloading the violating file of the reported incident be allowed**option from the **Advanced Settings** page. For more information, see [Configure advanced settings for Data Loss Prevention Incident Response](https://servicenow.com/docs/bundle/washingtondc-security-management/page/product/data-loss-prevention/task/configure-advanced-settings-dlp.html).
 
-**Parent Topic:**[Create a profile for Symantec DLP integration](create-profile-symantec-dlp.md)
+**Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 

@@ -188,5 +188,5 @@ Duration that an issue is assigned to the Issue Auto Resolution application befo
 |-------|----------|
 |Review|Opportunity to review your configuration before you select **Enable IAR**.|
 
-**Parent Topic:**[Using Issue Auto Resolution](auto-resolution-va.md)
+**Parent Topic:**[Using Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md)
 

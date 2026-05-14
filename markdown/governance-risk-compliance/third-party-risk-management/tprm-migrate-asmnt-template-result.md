@@ -17,7 +17,7 @@ You can view the templates that were migrated to Smart Assessment format.
 
 ## Tracking template migration
 
-After you have started the migration process, you can view the progress and confirm if it was completed successfully. For more information on the migration process, see [Migrate a template to an SAE template](../task/tprm-asmnt-tmplt-migrate-metrics-to.md) and [Creating an assessment template from legacy assessment metric types](../../assessment-engine/concept/sae-asmnt-template-migrating.md).
+After you have started the migration process, you can view the progress and confirm if it was completed successfully. For more information on the migration process, see [Migrate a template to an SAE template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-asmnt-tmplt-migrate-metrics-to.md) and [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/concept/sae-asmnt-template-migrating.md).
 
 ## Viewing the migration results
 
@@ -76,7 +76,7 @@ TPRM purpose options include:
 -   TPRM internal IRQ
 -   TPRM internal tiering questionnaire
 
-To view a TPRM SAE questionnaire template you must have the TPR assessment reviewer role \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\]. For more information on creating assessment template purposes, see [Create an assessment template category](../../assessment-engine/task/sae-asmnt-template-category-create.md).
+To view a TPRM SAE questionnaire template you must have the TPR assessment reviewer role \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\]. For more information on creating assessment template purposes, see [Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/task/sae-asmnt-template-category-create.md).
 
 **Note:** You can create an assessment only from a published assessment template.
 
@@ -112,7 +112,7 @@ Date and time the migration job was created.
 
 The following diagram shows the questionnaire to TPRM SAE template migration workflow.
 
-![Questionnaire to SAE template migration workflow. For a text description, see the text that preceded and follows this diagram.](../image/tprm-q-to-sae-workflow.png "SAE migration workflow")
+![Questionnaire to SAE template migration workflow. For a text description, see the text that preceded and follows this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-q-to-sae-workflow.png "SAE migration workflow")
 
 1.  Migrate templates either one by one or in bulk. After migration, all templates are in the Draft state.
 2.  Review each migrated questionnaire template individually to confirm that they’re accurate and complete.
@@ -126,11 +126,11 @@ The following diagram shows the questionnaire to TPRM SAE template migration wor
 5.  Review each assessment template to confirm it’s marked as Supports smart assessment. If an assessment template isn’t marked as Supports smart assessment, manually adding a new TPRM SAE questionnaire template to it updates its status.
 6.  After a questionnaire template has been migrated and published, its related issue generation rule is automatically marked as Supports smart assessment and is ready for use.
 
-For more information, see [Migrate a template to an SAE template](../task/tprm-asmnt-tmplt-migrate-metrics-to.md), [Create a TPRM SAE questionnaire or document request template](../task/create-sae-q-template.md), [Create an external assessment template](../task/create-vendor-risk-assess-temp.md), and [Create an issue generation rule](../task/tprm-generate-issue-rule.md).
+For more information, see [Migrate a template to an SAE template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-asmnt-tmplt-migrate-metrics-to.md), [Create a TPRM SAE questionnaire or document request template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/create-sae-q-template.md), [Create an external assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/create-vendor-risk-assess-temp.md), and [Create an issue generation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-generate-issue-rule.md).
 
 The following diagram shows the relationship between assessment templates and questionnaires after upgrading.
 
-![Assessment template impact after upgrading. For a text description, see the text that preceded and follows this diagram.](../image/tprm-assess-sae-workflow.png "Assessment templates post-upgrade")
+![Assessment template impact after upgrading. For a text description, see the text that preceded and follows this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-assess-sae-workflow.png "Assessment templates post-upgrade")
 
 -   Before setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property, the following are used by default.
     -   Existing questionnaire templates
@@ -144,7 +144,7 @@ The following diagram shows the relationship between assessment templates and qu
 
 ## Template migration scoring results
 
-The Migrate scores from classic template business rule automates the migration of scores from the Classic template to the TPRM SAE template, helping ensure consistent scoring configuration. If a new template is created, you must manually enable scoring, define the correct options, and set their scores. For more information, see [Scoring assessments](../../assessment-engine/concept/scoring-in-assessments.md), [Configure scoring for an assessment](../../assessment-engine/task/configure-scoring-for-assessments.md), and [Normalization in assessment](../../assessment-engine/concept/normalization-in-assessment.md).
+The Migrate scores from classic template business rule automates the migration of scores from the Classic template to the TPRM SAE template, helping ensure consistent scoring configuration. If a new template is created, you must manually enable scoring, define the correct options, and set their scores. For more information, see [Scoring assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/concept/scoring-in-assessments.md), [Configure scoring for an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/task/configure-scoring-for-assessments.md), and [Normalization in assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/concept/normalization-in-assessment.md).
 
 ## Migration limitations
 
@@ -157,10 +157,10 @@ The assessment migration process has the following limitations and requirements.
 -   The TPRM scoring migration proceeds only if there were no errors during the template migration. If there were errors, the TPRM scoring migration doesn’t occur.
 -   Responses from previous assessments aren’t migrated.
 
-**Parent Topic:**[Third-party Risk Management reference](../concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-reference.md)
 
 **Related topics**  
 
 
-[How legacy metric types are migrated to sections in templates](../../assessment-engine/reference/sae-how-legacy-metrics-migrated.md)
+[How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/reference/sae-how-legacy-metrics-migrated.md)
 

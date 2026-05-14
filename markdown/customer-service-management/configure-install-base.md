@@ -23,11 +23,11 @@ Install the Customer Service Install Base Management plugin \(com.snc.install\_b
 
 Capture the install base for a customer by creating sold products, install base items, and installed products. This would enable the customer service agents to trace issues back to the relevant product, instances of that product, and other entities impacting their functioning.
 
-Before setting up your install base, create your product data by creating or importing product models. For more information, see [Configure product data](configure-csm-products.md).
+Before setting up your install base, create your product data by creating or importing product models. For more information, see [Configure product data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-products.md).
 
 This example shows the summary of the customer's purchase on the Solana microwave.
 
-![Solana corporation sells 800 series microwave in different colors and two capacity choices. Boxeo installed one model in their break room in the office as installed base and manages it.](../image/install-base-example.png "Using install base management")
+![Solana corporation sells 800 series microwave in different colors and two capacity choices. Boxeo installed one model in their break room in the office as installed base and manages it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/install-base-example.png "Using install base management")
 
 There are three parts to setting up your install base.
 

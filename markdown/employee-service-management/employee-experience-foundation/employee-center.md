@@ -23,5 +23,5 @@ For customers with Employee Center, Content managers and Communications Speciali
 
 Launch Microsoft Teams. Navigate to **ServiceNow for Microsoft Teams** &gt; **Employee Center**.
 
-**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-sn-ms-teams.md)
 

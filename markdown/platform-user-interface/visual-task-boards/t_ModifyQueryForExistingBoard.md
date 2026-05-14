@@ -31,7 +31,7 @@ The lane field is the field on the underlying table that defines the lanes. For 
 
 1.  Open a Visual Task Board.
 
-2.  Select the information icon \(![Board information icon](../image/BoardInfoIcon.png)\) by the board name.
+2.  Select the information icon \(![Board information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoIcon.png)\) by the board name.
 
 3.  Perform one of the following actions.
 
@@ -63,5 +63,5 @@ Guided boards have the **Vertical Lane Field** set to a field, such as **State**
 </table>    The board reloads to reflect the changes.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/configuring-vis-task-boards.md)
 

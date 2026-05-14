@@ -18,7 +18,7 @@ Use the playbook available with the SGC Central application to set up the Servic
 ## Before you begin
 
 -   Install Service Graph Connector for AWS version 2.7.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-applications-in-application-manager.md).
--   Verify that you’ve completed the prerequisites for setting up AWS. See [Configure the AWS environment](../../configuration-management/task/sgc-cmdb-aws-task-overview.md).
+-   Verify that you’ve completed the prerequisites for setting up AWS. See [Configure the AWS environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/task/sgc-cmdb-aws-task-overview.md).
 
 Role required: The following table shows the roles required for each stage of the playbook.
 
@@ -27,11 +27,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the AWS environment.
 
@@ -56,7 +56,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         1.  In the **Prerequisites** stage of the playbook, select the **Download basic scripts** activity.
         2.  Execute the scripts to configure the AWS environment.
 
-            For more information on executing scripts, see [Basic scripts](../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_vfh_wyf_4zb).
+            For more information on executing scripts, see [Basic scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_vfh_wyf_4zb).
 
         3.  Select the **I have read the instructions and executed the script accordingly** check box to confirm that you have executed the scripts.
         4.  Select **Continue**.
@@ -67,7 +67,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         1.  In the **Prerequisites** stage of the playbook, select the **Download deep discovery scripts** activity.
         2.  Execute the scripts to configure Amazon EC2 instances for deep discovery.
 
-            For more information on executing scripts, see [Deep discovery scripts](../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_ahc_jwf_4zb).
+            For more information on executing scripts, see [Deep discovery scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_ahc_jwf_4zb).
 
         3.  Select **Continue**.
     3.  Set up Amazon Elastic Kubernetes Service \(EKS\) clusters.
@@ -77,7 +77,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
         1.  In the **Prerequisites** stage of the playbook, select the **Download Amazon EKS scripts** activity.
         2.  Execute the scripts to set up Amazon EKS clusters.
 
-            For more information on executing scripts, see [Amazon EKS scripts](../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_osh_4zf_4zb).
+            For more information on executing scripts, see [Amazon EKS scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-aws-script-op.md#section_osh_4zf_4zb).
 
         3.  Select **Continue**.
 6.  Complete the setup for configuring the connector for importing data.
@@ -248,12 +248,12 @@ Region where the aggregator resource type resides. This field is available only 
             |EKS EC2 Resource Id|Identifier of the EKS EC2 resource.|
             |EC2 Region|AWS region where the EKS EC2 resource is located.|
             |EC2 Account|User name assigned to the EKS EC2 resource account.|
-            |Connection Alias|Connection alias associated with the AWS environment setup and configured in step [6.a.ii](sgcc-configure-aws-integ.md#aws-cred-0).|
-            |Connection|Connection name associated with the AWS environment setup and configured in step [6.a.ii](sgcc-configure-aws-integ.md#aws-cred-0).|
+            |Connection Alias|Connection alias associated with the AWS environment setup and configured in step [6.a.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-aws-integ.md#aws-cred-0).|
+            |Connection|Connection name associated with the AWS environment setup and configured in step [6.a.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-aws-integ.md#aws-cred-0).|
             |Active|Option to activate the EKS EC2 resource.|
 
         4.  Select **Save**.
-        5.  Repeat steps from [6.c.ii](sgcc-configure-aws-integ.md#eks-ec2-add) to [6.c.iv](sgcc-configure-aws-integ.md#eks-ec2-save) to add more EKS EC2 resources.
+        5.  Repeat steps from [6.c.ii](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-aws-integ.md#eks-ec2-add) to [6.c.iv](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-aws-integ.md#eks-ec2-save) to add more EKS EC2 resources.
         6.  Select **Continue**.
     4.  Run the AWS diagnostic tool before running a scheduled import job to identify any issues in the AWS environment setup.
 
@@ -299,13 +299,13 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for AWS](../../configuration-management/concept/cmdb-integration-aws-sg.md)
+[Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/cmdb-integration-aws-sg.md)
 
-[CMDB classes targeted in Service Graph Connector for AWS](../../configuration-management/reference/cmdb-aws-classes.md)
+[CMDB classes targeted in Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/reference/cmdb-aws-classes.md)
 
-[Supported AWS resource types](../../configuration-management/reference/cmdb-sgc-aws-resource-types.md)
+[Supported AWS resource types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/reference/cmdb-sgc-aws-resource-types.md)
 
-[Accessing the connection details of Service Graph Connector for AWS](../../configuration-management/concept/sgc-cmdb-aws-conn.md#)
+[Accessing the connection details of Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-aws-conn.md#)
 
-[Additional features within the Service Graph Connector for AWS](../../configuration-management/concept/sgc-cmdb-aws-add-features.md)
+[Additional features within the Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-aws-add-features.md)
 

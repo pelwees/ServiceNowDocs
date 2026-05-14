@@ -24,24 +24,24 @@ For example, for a relationship between a parent CI and a child CI, you can add 
 
 For this relationship, there is a parent CI and a child CI, and a relation qualifier of type **cmdb\_ci\_qualifier\_trafficbased**.
 
-For information about usage of relation qualifiers in the identification process, see [Identification rules](c_IdentificationRules.md).
+For information about usage of relation qualifiers in the identification process, see [Identification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_IdentificationRules.md).
 
-**Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_AddANewSuggestedRelationship.md)
 
-[Relationship governance rules](relationship-governance.md)
+[Relationship governance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/relationship-governance.md)
 
-[CI relations formatter](c_CIRelationsFormatterNG.md)
+[CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md)
 
-[CI relationship editor](c_RelationshipEditor.md)
+[CI relationship editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_RelationshipEditor.md)
 
-[CI relationship security](c_CIRelationshipSecurity.md)
+[CI relationship security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateACIRelationRollup.md)
 

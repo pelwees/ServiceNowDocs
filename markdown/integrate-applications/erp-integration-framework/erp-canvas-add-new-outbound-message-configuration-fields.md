@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The add new outbound message configuration record in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information that defines IDoc outbound messages.
 
-For process details, see [Create an IDoc outbound message configuration in Zero Copy Connector for ERP](../task/create-an-idoc-outbound-message-configuration.md).
+For process details, see [Create an IDoc outbound message configuration in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/create-an-idoc-outbound-message-configuration.md).
 
 <table id="table_xxc_pk4_bhc"><thead><tr><th>
 
@@ -85,5 +85,5 @@ Message type
 The IDoc message type, for example, ORDERS.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Zero Copy Connector for ERP field descriptions](erp-canvas-field-descriptions.md)
+</table>**Parent Topic:**[Zero Copy Connector for ERP field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-field-descriptions.md)
 

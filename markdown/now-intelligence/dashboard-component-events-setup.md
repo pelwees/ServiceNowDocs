@@ -111,10 +111,10 @@ Dispatched whenever the dashboard component would normally update URL parameters
 }
 ```
 
- For more information, see [Dashboard URL parameter delegation](../concept/dashboard-url-parameter-delegation.md#).
+ For more information, see [Dashboard URL parameter delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/dashboard-url-parameter-delegation.md#).
 
 **Note:** This functionality requires the latest Platform Analytics experience application from the ServiceNow® Store.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add a dashboard to a Dashboards page](../../../use/performance-analytics/task/add-dashboard-to-workspace.md)
+</table>**Parent Topic:**[Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../use/performance-analytics/task/add-dashboard-to-workspace.md)
 

@@ -27,27 +27,27 @@ ITSM Mobile Agent assists IT agents with an intuitive interface to manage all th
 
 <table id="table_vth_41n_fzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITSM Mobile Agent concepts, features, and User roles.](exploring-itsm-mobile-agent.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITSM Mobile Agent concepts, features, and User roles.](exploring-itsm-mobile-agent.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure environment tools and user access. Configure and enable push notifications.](configuring-itsm-mobile-agent.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure environment tools and user access. Configure and enable push notifications.](configuring-itsm-mobile-agent.md)
 
 </td><td>
 
-[My work applet![](../../../reuse/icons/brand-icons/bus-events.svg)Create and manage incidents assigned to you. View your shift schedule and request time off.](my-work-application.md)
+[My work applet![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-events.svg)Create and manage incidents assigned to you. View your shift schedule and request time off.](my-work-application.md)
 
 </td></tr><tr><td>
 
-[My team applet![](../../../reuse/icons/brand-icons/bus-monitor.svg)Manage groups and shifts, view group performance and time-off requests. Resolve conflicts and gaps by providing coverage.](my-team-application.md)
+[My team applet![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-monitor.svg)Manage groups and shifts, view group performance and time-off requests. Resolve conflicts and gaps by providing coverage.](my-team-application.md)
 
 </td><td>
 
-[Manage major incidents![](../../../reuse/icons/brand-icons/bus-improve-it-costs.svg)View active major incidents, proposed major incidents, candidates, and the Major incidents dashboard.](mim-mobile.md)
+[Manage major incidents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-improve-it-costs.svg)View active major incidents, proposed major incidents, candidates, and the Major incidents dashboard.](mim-mobile.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Settings and domain information about ITSM Mobile agent.](reference-for-itsm-mobile-agent.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../reuse/icons/brand-icons/bus-learn.svg)Settings and domain information about ITSM Mobile agent.](reference-for-itsm-mobile-agent.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

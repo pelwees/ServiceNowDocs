@@ -17,8 +17,8 @@ Modify the embed code of Engagement Messenger to enable recommendations and pass
 
 ## Before you begin
 
--   [Embed Engagement Messenger in your web application](embed-engagement-messenger-code-in-your-web-application.md).
--   [Activate an Engagement Messenger module](activate-engagement-messenger-module.md).
+-   [Embed Engagement Messenger in your web application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-engagement-messenger-code-in-your-web-application.md).
+-   [Activate an Engagement Messenger module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-engagement-messenger-module.md).
 -   Role required: sn\_csm\_ec.ec\_admin
 
 ## Procedure

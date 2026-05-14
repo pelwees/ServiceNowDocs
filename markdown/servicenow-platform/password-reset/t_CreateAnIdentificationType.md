@@ -47,10 +47,10 @@ Identification processor script. Choose an existing script or create your own us
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/customizing-password-reset.md)
 
 **Related topics**  
 
 
-[Create a Password Reset extension script](t_CreateAnExtensionScript.md)
+[Create a Password Reset extension script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAnExtensionScript.md)
 

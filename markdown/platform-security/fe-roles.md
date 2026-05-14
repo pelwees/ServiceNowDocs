@@ -20,7 +20,7 @@ Managing requires the following roles. Since is based on the Key Management Fram
 -   sn\_kmf.admin
 -   sn\_kmf.cryptographic manager
 
-For complete details on details on roles, see [Roles installed with Key Management Framework](../../key-management-framework/reference/kmf-roles.md#).
+For complete details on details on roles, see [Roles installed with Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/reference/kmf-roles.md#).
 
 ## Admin and Security Admin
 
@@ -55,5 +55,5 @@ Use the following process to assign this role to a user.
 4.  Search for `sn_kmf.cryptographic manager` and add the role the selected user.
 5.  Select **Save**.
 
-**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 

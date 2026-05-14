@@ -67,7 +67,7 @@ work.management.allow.auto.metric\_cleanup
 
 </td><td>
 
-The frequency in number of days that the metric instance table should be purged of [work order task](../../field-service-management/concept/close-wo-wot-mobile.md#) information to avoid an unnecessary amount of data in the table.-   Type: Integer
+The frequency in number of days that the metric instance table should be purged of [work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../field-service-management/concept/close-wo-wot-mobile.md#) information to avoid an unnecessary amount of data in the table.-   Type: Integer
 -   Default value: 365
 -   Location: System Properties list \[sys\_properties\] table
 
@@ -103,7 +103,7 @@ Calculates and automatically populates the potential assignment groups. Updates 
 
 **Note:** The **wm\_work\_order\_task\_potential\_assignment\_groups** table is populated only when:
 
--   The **sn\_fsm.update\_potential\_assignment\_groups** [system property](r_PropInstallWFieldServMgmnt.md) is set to true.
+-   The **sn\_fsm.update\_potential\_assignment\_groups** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md) is set to true.
 -   More than one assignment group is found for the location.
 -   Territory model is inactive.
 
@@ -394,7 +394,7 @@ Requires geolocation to be used to calculate the estimated travel time for dynam
 -   Default value: true
 -   Location: **Field Service** &gt; **Administration** &gt; **Properties** &gt; **Dispatch Properties for** Field Service Management
 
- **Note:** To use the Google Maps API with dynamic scheduling, you must also enable the **Use Google for travel time and traffic data** check box on the [Dynamic Scheduling Configuration](../../field-service-management/task/create-dynamic-scheduling-config.md#) form.
+ **Note:** To use the Google Maps API with dynamic scheduling, you must also enable the **Use Google for travel time and traffic data** check box on the [Dynamic Scheduling Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../field-service-management/task/create-dynamic-scheduling-config.md#) form.
 
 </td></tr><tr><td>
 
@@ -1134,5 +1134,5 @@ Mobile live location\[sn\_fsm\_mobile\_live\_location\_view​\]
 Mobile live location of Field Service agents.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Field Service Management](r_InstalledWithFSM.md)
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 

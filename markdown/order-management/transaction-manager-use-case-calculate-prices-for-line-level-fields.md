@@ -24,7 +24,7 @@ The use case involves three types of price calculations:
 ## Step 1: Create Custom Fields
 
 -   Navigate to CPQ Admin &gt; Transaction &gt; Associated Fields.
--   Create all the custom fields required for your use case. For the detailed steps on how to create fields, see [Transaction Manager: Fields](transaction-manager-fields.md).
+-   Create all the custom fields required for your use case. For the detailed steps on how to create fields, see [Transaction Manager: Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-fields.md).
 
 In this example, we intend to use the following fields:
 
@@ -38,7 +38,7 @@ In this example, we intend to use the following fields:
 
 -   **Subscription Term \(Months\)**
 
-    Custom header \(Number type\) field that calculates the difference between the start date and end date, displaying the subscription term. For the detailed steps on how to do DateTime field calculations, see [Transaction Manager: Date and time fields](transaction-manager-date-and-time-fields.md).
+    Custom header \(Number type\) field that calculates the difference between the start date and end date, displaying the subscription term. For the detailed steps on how to do DateTime field calculations, see [Transaction Manager: Date and time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md).
 
 -   **Target Line Item Discount**
 
@@ -69,11 +69,11 @@ In this example, we intend to use the following fields:
     System field that stores the total unit net price for the product in the line entry.
 
 
-![Steps to Configure Line-Level Price Calculations](../images/cpq-txn-mgr-use-case-calc-prices-custom-fields.jpeg)
+![Steps to Configure Line-Level Price Calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-custom-fields.jpeg)
 
 ## Step 2: Add fields to layout
 
-Map the configured fields into the appropriate layout for visibility. For the detailed steps, see [Transaction Manager: Layouts](transaction-manager-layouts.md).
+Map the configured fields into the appropriate layout for visibility. For the detailed steps, see [Transaction Manager: Layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts.md).
 
 ## Step 3: Create the rules
 
@@ -89,7 +89,7 @@ Follow these steps:
 2.  Enter the name of the rule and select **Transaction Line** as the rule type.
 3.  Click **Save**.
 
-![Steps to Configure Line-Level Price Calculations](../images/cpq-txn-mgr-use-case-calc-prices-new-rule.jpeg)
+![Steps to Configure Line-Level Price Calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-new-rule.jpeg)
 
 ## Step 4: Create and configure rule actions
 
@@ -97,35 +97,35 @@ Follow these steps:
 2.  Define the rule’s conditions and action items.
 3.  Add the advanced script to perform the calculation for Use Case 1 \(Annual List Price\). Refer to the snapshot below.
 
-    ![Steps to Configure Line-Level Price Calculations](../images/cpq-txn-mgr-use-case-calc-prices-case-1.jpeg)
+    ![Steps to Configure Line-Level Price Calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-case-1.jpeg)
 
 4.  Click **Save**.
 5.  Repeat steps 1 through 4 to configure rules for Use Case 2 \(Unit Net\) and Use Case 3 \(Extended Net\). Refer to the snapshots below.
 
 Use Case 2 \(Unit Net\) - Edit Net pricing calculation:
 
-![Use Case 2 (Unit Net): Edit Net pricing calc](../images/cpq-txn-mgr-use-case-calc-prices-case-2.jpeg)
+![Use Case 2 (Unit Net): Edit Net pricing calc](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-case-2.jpeg)
 
 Use Case 3 \(Extended Net\) - Edit Calculate annual extended net price:
 
-![Use Case 3 (Extended Net): Edit Calculate annual extended net price](../images/cpq-txn-mgr-use-case-calc-prices-case-3.jpeg)
+![Use Case 3 (Extended Net): Edit Calculate annual extended net price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-case-3.jpeg)
 
 ## Step 5: Associate rules to rule groupings
 
 1.  On the Admin page, click **Rule Groupings**, and then click **Add Rule Grouping**. Enter the variable name as the stage in which rule should run \(Draftstage\), and then click **Save**.
 
-    ![Edit Calculate annual extended net price](../images/cpq-txn-mgr-use-case-calc-prices-new-rule-grouping.png)
+    ![Edit Calculate annual extended net price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-new-rule-grouping.png)
 
 2.  Associate the newly created rules:
 
     1.  Click **Associate**.
     2.  Select the name of the rule you created.
     3.  Click **Done**.
-    ![Edit Calculate annual extended net price](../images/cpq-txn-mgr-use-case-calc-prices-associate-rule.png)
+    ![Edit Calculate annual extended net price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-associate-rule.png)
 
 3.  To link the newly created rule grouping with the stage \(Draft in the sample use case\) where your rules should run, click **Stages** on the transaction page. Click **Draft**, and then click **Rule groupings**. Search the new rule grouping, select, and then click **Save**.
 
-    ![Edit Calculate annual extended net price](../images/cpq-txn-mgr-use-case-calc-prices-draft.png)
+    ![Edit Calculate annual extended net price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-prices-draft.png)
 
 
 ## Step 6: Deploy and test
@@ -140,5 +140,5 @@ Below is an example of the final implementation:
 
 [Final output](https://api.media.atlassian.com/file/0b8f679f-9b7c-4588-945d-7175d097d500/artifact/video_1280.mp4/binary/cdn?client=71a95134-cb5f-4d3c-a7e7-bf5197602cec&collection=contentId-1923481616&max-age=2592000&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI3MWE5NTEzNC1jYjVmLTRkM2MtYTdlNy1iZjUxOTc2MDJjZWMiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC0xOTIzNDgxNjE2IjpbInJlYWQiXX0sImV4cCI6MTc2MzQwMjI3MiwibmJmIjoxNzYzMzk5MzkyLCJhYUlkIjoiNzEyMDIwOmE3MmMwNDYwLWM0OWEtNDAyZS1iNWJjLWE5NWIxZjk4ZjMxNCJ9.j9CHqPDPWPN-towOqICAF484FBEZOzgkFg9upnWT7js)
 
-**Parent Topic:**[Transaction Manager: Use cases](transaction-manager-use-cases.md)
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 

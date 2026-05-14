@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user
 ## About this task
 
 -   You can submit a request for review of a third-party contract to engage legal counsel, get answers to questions from the third party, or have the terms and conditions provided by them reviewed.
--   The certificate of completion is generated only if you have configured the system property `sn_lg_contracts.enable_executed_contract_audit_certificate`. For more information, see [Activate a system property to generate a certificate of completion](configure-system-property-COC.md).
+-   The certificate of completion is generated only if you have configured the system property `sn_lg_contracts.enable_executed_contract_audit_certificate`. For more information, see [Activate a system property to generate a certificate of completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/configure-system-property-COC.md).
 
 ## Procedure
 
@@ -61,7 +61,7 @@ Description
 </td></tr></tbody>
 </table>2.  On the Third Party Contract Review form, fill in the fields.
 
-    For a description of the field values, see [Third Party Contract Review form](../reference/tpc-request-intake-form-fields.md).
+    For a description of the field values, see [Third Party Contract Review form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../reference/tpc-request-intake-form-fields.md).
 
 3.  Click **Submit**.
 
@@ -70,11 +70,11 @@ Description
 
 A legal request for reviewing of the attached third-party contract document is created in the New state.
 
-For more information on how to view and track the legal request, see [View and track legal request details](../../legal-request-management/task/view-legal-request-details.md).
+For more information on how to view and track the legal request, see [View and track legal request details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-request-management/task/view-legal-request-details.md).
 
 ## What to do next
 
-As a member of the legal department contract support team, you can work on the request to review the contract and get it signed. For more information, see [Work on a TPC review request](work-tpc-review-request.md).
+As a member of the legal department contract support team, you can work on the request to review the contract and get it signed. For more information, see [Work on a TPC review request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/work-tpc-review-request.md).
 
-**Parent Topic:**[Third-party contract review requests](../concept/legal-request-third-party-contract.md)
+**Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../concept/legal-request-third-party-contract.md)
 

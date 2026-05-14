@@ -52,10 +52,10 @@ Contingent workers onboarding \(Magnit\)
 HR template for contingent workers onboarding \(Magnit\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Magnit](reference-magnit.md)
+</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Magnit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-magnit.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Magnit](installed-with-magnit-int.md)
+[Components installed with HR Service Delivery Integration with Magnit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-magnit-int.md)
 

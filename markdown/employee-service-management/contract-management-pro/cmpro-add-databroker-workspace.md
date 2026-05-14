@@ -29,17 +29,17 @@ Role required: ui\_builder\_admin
 
 4.  Select the page on your workspace where you want to configure the **Playbook** tab.
 
-    ![Pages in the Legal Counsel Center experience on the UI Builder](../image/cmpro-uib-page.png "Page and variants for your workspace")
+    ![Pages in the Legal Counsel Center experience on the UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-uib-page.png "Page and variants for your workspace")
 
 5.  Select **+** in the Data resources drawer.
 
-    ![Data resource drawer with the add icon.](../image/cmpro-add-data-resource.png "Data resource")
+    ![Data resource drawer with the add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-add-data-resource.png "Data resource")
 
 6.  Search for the data broker you configured for the **Playbook** tab.
 
 7.  Select the data broker and then select **Add**.
 
-    ![Pop-up window with the data broker and the Add button.](../image/cmpro-select-add-data.png "Select and add data resource")
+    ![Pop-up window with the data broker and the Add button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-select-add-data.png "Select and add data resource")
 
     The Data Resource configuration modal appears.
 
@@ -48,5 +48,5 @@ Role required: ui\_builder\_admin
 9.  Select **Save** on the UI Builder header.
 
 
-**Parent Topic:**[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+**Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

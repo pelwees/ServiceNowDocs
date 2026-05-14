@@ -31,10 +31,10 @@ Avoid inconsistencies in your apps by refreshing your app when instructed by you
 
 2.  Scroll to the top of the screen launcher page.
 
-3.  Tap the screen and drag down until you see the refresh \(![Refresh icon](../image/refresh-icon.png)\) icon, then release.
+3.  Tap the screen and drag down until you see the refresh \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/refresh-icon.png)\) icon, then release.
 
 
 ## Refreshing a screen launcher
 
-![screen launcher refresh](../image/metadata-refresh.gif)
+![screen launcher refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/metadata-refresh.gif)
 

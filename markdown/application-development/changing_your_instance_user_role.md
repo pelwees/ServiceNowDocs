@@ -31,7 +31,7 @@ Depending on your learning or testing needs, you may need to change the user rol
 
     3.  In the **Your instance actions** dialog, select **App Engine Studio Creator** or **Admin**.
 
-        ![Option to change user role to admin](../image/change-role-pdi.png)
+        ![Option to change user role to admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/change-role-pdi.png)
 
     4.  Click the **Change User Role** button.
 
@@ -44,5 +44,5 @@ Depending on your learning or testing needs, you may need to change the user rol
     2.  Relaunch your PDI by clicking the **Start building** button in the **Account** menu.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

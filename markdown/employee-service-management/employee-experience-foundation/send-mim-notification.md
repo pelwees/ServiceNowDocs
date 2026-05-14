@@ -33,7 +33,7 @@ Role required: admin
 
     The communication task appears.
 
-    ![Compose button for communication task.](../images/compose-notification-mim-workbench.png)
+    ![Compose button for communication task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/compose-notification-mim-workbench.png)
 
 6.  Select **Compose**.
 
@@ -45,14 +45,14 @@ Role required: admin
 
     3.  Select **Send**.
 
-        ![Compose modal](../images/compose-modal-mim.png)
+        ![Compose modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/compose-modal-mim.png)
 
 
 ## Result
 
 The notification is sent to the recipients in Microsoft Teams. Recipients can select **View ticket details** to view the ticket in the ServiceNow instance.
 
-![Notification in Microsoft Teams.](../images/notification-in-teams.png)
+![Notification in Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/notification-in-teams.png)
 
-**Parent Topic:**[Add communication plan from MIM workbench](add-communication-plan-mim-workbench.md)
+**Parent Topic:**[Add communication plan from MIM workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-communication-plan-mim-workbench.md)
 

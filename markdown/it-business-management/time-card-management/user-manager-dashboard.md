@@ -29,7 +29,7 @@ The Analytics user manager consists of these components:
 
 It displays the total count of entries in **Time sheet exceptions** report.
 
-![Screenshot for Time Sheet Exception Count section](../image/TimesheetExceptionCount.png "Time sheet exception count")
+![Screenshot for Time Sheet Exception Count section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../image/TimesheetExceptionCount.png "Time sheet exception count")
 
 ## Time sheet exceptions report
 
@@ -45,13 +45,13 @@ The report is generated from the time\_sheet\_exception table. It requires the s
 
 It displays the total approved hours in all categories displayed in **Time by category** report.
 
-![Screenshot for total approved hours in all categories](../image/UserDashboardTotalHours.png "Total approved hours")
+![Screenshot for total approved hours in all categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../image/UserDashboardTotalHours.png "Total approved hours")
 
 ## Time by category report
 
 The bar chart report displays the time approved against each category for the selected users whose manager in User profile is the current user.
 
-**Parent Topic:**[Time Card Management](time-card-management.md)
+**Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
 ## Use the Analytics User manager
 

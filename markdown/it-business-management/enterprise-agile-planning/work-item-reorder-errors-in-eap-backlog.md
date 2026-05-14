@@ -30,5 +30,5 @@ While reordering work items in different sections of the EAP Backlog, the reorde
     Check if the work item before or after your target position to reorder has a global rank. If not, contact your system admin to generate a global rank for them.
 
 
-**Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
+**Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 

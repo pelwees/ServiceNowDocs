@@ -39,7 +39,7 @@ Application
 
 Application scope.
 
- To change the application scope, select the globe icon \(![Globe icon](../image/globe-icon.png)\) on the banner and choose the appropriate application scope.
+ To change the application scope, select the globe icon \(![Globe icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) on the banner and choose the appropriate application scope.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Component
 
 The component on which the badge count is displayed. In this case, it is the navigation bar tab on which you want the badge count to appear.
 
- Select the search icon \(![Magnifying glass search icon](../image/search-icon.png)\) and select a component.
+ Select the search icon \(![Magnifying glass search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-icon.png)\) and select a component.
 
 </td></tr><tr><td>
 

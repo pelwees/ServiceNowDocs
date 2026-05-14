@@ -27,7 +27,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 3.  Select **Asset condition work order** in the **Template** field.
 
-    For more details on creating a work order, see [Create a work order for an enterprise asset](create-eam-work-order.md).
+    For more details on creating a work order, see [Create a work order for an enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-work-order.md).
 
 4.  After you have entered the details in the work order, select **Save**.
 

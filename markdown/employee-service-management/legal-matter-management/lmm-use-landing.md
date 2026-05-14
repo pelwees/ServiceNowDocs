@@ -19,10 +19,10 @@ Create or promote legal matter to complete legal requests that need cross-depart
 
 To submit and track legal matters refer to the following tasks.
 
--   **[Assign a legal matter to a legal group user](assign-legal-matter.md)**  
+-   **[Assign a legal matter to a legal group user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/assign-legal-matter.md)**  
 Assign a legal matter to yourself or to someone in the assignment group to start working on the matter.
--   **[Work on a legal matter](work-on-legal-matter-1.md)**  
+-   **[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)**  
 As a matter owner, work on a legal matter assigned to you to resolve issues or answer queries.
 
-**Parent Topic:**[Legal Matter Management](../reference/legal-matter-management-landing-page.md)
+**Parent Topic:**[Legal Matter Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../reference/legal-matter-management-landing-page.md)
 

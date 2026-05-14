@@ -26,9 +26,9 @@ To access the developer window, open the Google doc where you want to integrate 
 
 You can write custom JavaScript to process data and interact with Google Docs by using the Apps Script editor.
 
-![BOM](../images/cpq-txn-mgr-use-case-doc-gen-script-loc.jpeg)
+![BOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-doc-gen-script-loc.jpeg)
 
-![Script](../images/cpq-txn-mgr-use-case-doc-gen-script-interface.png)
+![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-doc-gen-script-interface.png)
 
 ## Coding
 
@@ -39,7 +39,7 @@ Google Apps Script includes GET and POST requests.
 
 This [video](https://www.youtube.com/watch?v=N3vnUgjQCGU) explains how the `doGet` and `doPost` work in a Google Doc app script.
 
-When using Transaction Manager, you need to transform the JSON to send over to Google Docs. Below is an example template. If you are using a webhook, see [Webhooks](cpq-webhooks.md) for how the data will be sent over to Google Docs.
+When using Transaction Manager, you need to transform the JSON to send over to Google Docs. Below is an example template. If you are using a webhook, see [Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md) for how the data will be sent over to Google Docs.
 
 The following code block shows an example Transform Template, sent as a POST to the doPost function.
 
@@ -148,7 +148,7 @@ function doGet(e) {
 
 When you access the live URL, you receive this message:
 
-![Message: Logik Transaction Manager Document Generation Web App is running.](../images/cpq-txn-mgr-use-case-doc-gen-msg.png)
+![Message: Logik Transaction Manager Document Generation Web App is running.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-doc-gen-msg.png)
 
 The `doPost` is important, because it will probably handle the Webhook or Integration payloads being sent from CPQ via POST requests.
 
@@ -231,7 +231,7 @@ In the Google Cloud Logs Explorer, apply the filter `resource.type="app_script_f
 
     -   Execute as: This should be set to Me, so the script runs with your permissions.
     -   Who has access: Choose “Anyone” \(public\).
-    ![New deployment user interface](../images/cpq-txn-mgr-google-apps-script-editor-new-deployment.png)
+    ![New deployment user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-google-apps-script-editor-new-deployment.png)
 
 
 Once deployed, you’ll get a URL ending in `/exec` for live usage and `/dev` for testing. This is the URL that users will target to trigger the `doGet` function or send POST requests to trigger `doPost`.
@@ -270,5 +270,5 @@ If needed, you can roll back to an older version of your web app:
 
 This provides an easy way to revert any issues that may arise with newer versions.
 
-**Parent Topic:**[Transaction Manager: Use cases](transaction-manager-use-cases.md)
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 

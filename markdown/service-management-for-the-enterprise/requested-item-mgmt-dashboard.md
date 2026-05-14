@@ -17,7 +17,7 @@ Track the progress of purchase orders, transfer orders, and software assignments
 
 Starting in Xanadu release, the Request Management Platform Analytics Solutions dashboards are deprecated. Users can use the [Request dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request.md) to view the actionable data visualizations that help in improving the business processes and practices.
 
-![Animated tour through the tabs of the Requested Item Management dashboard](../image/requested-item-mgmt-dashboard.gif "Request Management - Requested Item dashboard")
+![Animated tour through the tabs of the Requested Item Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/requested-item-mgmt-dashboard.gif "Request Management - Requested Item dashboard")
 
 ## End user and roles
 
@@ -86,5 +86,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Stage
 -   State
 
-**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

@@ -15,14 +15,14 @@ Scoring profiles help you to evaluate the applications based on various indicato
 
 Scoring profiles are configurable frameworks used to evaluate and compare applications on indicators like cost, risk, business value. They support strategic decision-making and enable rationalization of your business applications.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all scoring profiles](../../task/eaw-task/eaw-view-all-scoring-profiles.md)
+[View all scoring profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-scoring-profiles.md)
 
-[Add or edit a scoring profile](../../task/eaw-task/eaw-create-scoring-profile.md)
+[Add or edit a scoring profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-scoring-profile.md)
 
-[Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace](../../task/eaw-task/eaw-regenerate-scoring-profile-indicator-scores-in-eaw.md)
+[Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-regenerate-scoring-profile-indicator-scores-in-eaw.md)
 

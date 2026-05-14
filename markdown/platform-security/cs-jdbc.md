@@ -21,7 +21,7 @@ Use update sets to sign and validate the JDBC data sources by enabling the code 
 -   MID Server doesn't handle the file data sources and hence, these data sources are not code signed.
 -   LDAP data sources can't be code signed.
 
-**Parent Topic:**[Using Code Signing](using-code-signing.md)
+**Parent Topic:**[Using Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/using-code-signing.md)
 
 ## Sign existing data sources of the JDBC type
 
@@ -76,17 +76,17 @@ Role required: sn\_kmf.cryptographic\_manager
 
 1.  In the trusted instance, start an update set.
 
-    ![Start an update set.](../image/start-an-updtset.png)
+    ![Start an update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/start-an-updtset.png)
 
 2.  In the trusted instance, create the required data sources.
 
-    ![Create a JDBC source.](../image/create-jdbc-ds.png)
+    ![Create a JDBC source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/create-jdbc-ds.png)
 
     The data sources are added to the update set.
 
 3.  In the trusted instance, change the state of the update set to **Complete** and click **Update**.
 
-    ![Mark the update set as Complete.](../image/complete-updtset.png)
+    ![Mark the update set as Complete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/complete-updtset.png)
 
 4.  In the trusted instance, sign the update set by creating an encryption job.
 
@@ -108,7 +108,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
     5.  Click **Start** to sign the update set.
 
-        ![Signed update set.](../image/updated-updtset.png)
+        ![Signed update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/updated-updtset.png)
 
         -   **Summary** is updated that the records are signed.
         -   The update set is updated and includes the signature.

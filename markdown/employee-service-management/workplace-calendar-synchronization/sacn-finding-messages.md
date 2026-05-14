@@ -50,6 +50,6 @@ The following findings are reported in the scan report:
 
 To fix a finding, refer to the following:
 
--   [Microsoft Exchange Online - Calendar synchronization](ms-exchange-reservation-synchronization.md)
--   [Synchronization - Prerequisites and implementation](synchronization-troubleshooting-and-conditions.md)
+-   [Microsoft Exchange Online - Calendar synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/ms-exchange-reservation-synchronization.md)
+-   [Synchronization - Prerequisites and implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/synchronization-troubleshooting-and-conditions.md)
 

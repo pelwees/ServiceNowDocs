@@ -37,7 +37,7 @@ Role required: admin
     -   URL
     -   Transaction Type
     -   Application Monitoring
-    ![Shows the User Experience snapshot.](../image/io-user-ex-snapshot.png)
+    ![Shows the User Experience snapshot.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-user-ex-snapshot.png)
 
 4.  Drill into each data point to open the particular details.
 
@@ -51,9 +51,9 @@ Role required: admin
 
     For more information, see
 
-    -   [Track the response time of applications to monitor their performance](monitor-apps-user-experience-io.md).
-    -   [Analyze user experience and monitor application performance in Instance Observer](io-app-mon-perf-analy.md)
+    -   [Track the response time of applications to monitor their performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/monitor-apps-user-experience-io.md).
+    -   [Analyze user experience and monitor application performance in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-app-mon-perf-analy.md)
     -   .
 
-**Parent Topic:**[Analytics](../concept/io-analytics.md)
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-analytics.md)
 

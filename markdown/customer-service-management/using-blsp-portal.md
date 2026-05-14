@@ -20,7 +20,7 @@ As a user with the sn\_customerservice.svc\_location\_manager, sn\_customerservi
 -   Submit cases against business locations, sold products, or install base items deployed at a service organization.
 -   Access Knowledge Base articles and engage with the community.
 
-![Landing page for Business Location Service Portal. For more information, refer to information that follows.](../image/patient-portal.png "Business Location Service Portal")
+![Landing page for Business Location Service Portal. For more information, refer to information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/patient-portal.png "Business Location Service Portal")
 
 From the Business Location Service Portal, you can access and use the following features:
 
@@ -156,9 +156,9 @@ View a list of the most viewed articles.
 **Related topics**  
 
 
-[Add staff members to a business location in the Business Location Service Portal](../task/add-staff-memers-to-biz-location.md)
+[Add staff members to a business location in the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/add-staff-memers-to-biz-location.md)
 
-[Create cases for a business location in the Business Location Service Portal](../task/report-cases-on-behalf-of-biz-location.md)
+[Create cases for a business location in the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/report-cases-on-behalf-of-biz-location.md)
 
-[Track cases on the Business Location Service Portal](track-cases-for-blsp-portal.md)
+[Track cases on the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/track-cases-for-blsp-portal.md)
 

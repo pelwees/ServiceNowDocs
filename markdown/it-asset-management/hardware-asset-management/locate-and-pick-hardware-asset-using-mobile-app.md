@@ -33,8 +33,8 @@ Role required: inventory\_user
 
 4.  Filter or sort the task view.
 
-    -   To filter your tasks, tap the Filter icon ![Filter icon](../../enterprise-asset-management/image/filter-mobile-task-eam.png) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
-    -   To sort your tasks, tap the Filter icon ![Filter icon](../../enterprise-asset-management/image/filter-mobile-task-eam.png), tap **Sort by**, and select the fields by which to sort your tasks.
+    -   To filter your tasks, tap the Filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/filter-mobile-task-eam.png) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
+    -   To sort your tasks, tap the Filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/filter-mobile-task-eam.png), tap **Sort by**, and select the fields by which to sort your tasks.
 5.  Tap the Asset pick task for which you have started work.
 
 6.  To locate the hardware asset in the stockroom, on the **Details** tab, tap **Locate**.
@@ -73,12 +73,12 @@ Role required: inventory\_user
     -   The **Location** field of the asset is updated with the drop off location only if you have specified the drop off location.
     -   The Hardware Asset request flow and Hardware Refresh request flow proceed to the next stage.
 
-**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-ham-mobile-app.md)
+**Parent Topic:**[Manage hardware asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-pick-task-ham-mobile-app.md)
 
 **Related topics**  
 
 
-[Start working on a hardware asset pick task using the Mobile Agent application](start-work-pick-task-mobile-ham.md)
+[Start working on a hardware asset pick task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/start-work-pick-task-mobile-ham.md)
 
-[Record time worked on a hardware asset pick task using the Mobile Agent application](../concept/record-time-pick-task-mobile-agent-ham.md)
+[Record time worked on a hardware asset pick task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-time-pick-task-mobile-agent-ham.md)
 

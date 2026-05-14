@@ -19,7 +19,7 @@ Modal illustrations provide a quick visual cue about a modal’s intent. Modal i
 
 **Important:** Modal illustrations apply to Workspaces and are not supported in the Core UI.
 
-![Platform/Onboarding history modal illustration.](../image/tb-modal-illustration.png "Example of a default modal illustration")
+![Platform/Onboarding history modal illustration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-modal-illustration.png "Example of a default modal illustration")
 
 ## Custom images
 
@@ -33,10 +33,10 @@ To override the default modal illustrations with custom images, upload each imag
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for modal illustrations](../task/configure-modal-colors.md)**  
+-   **[Configure colors for modal illustrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/configure-modal-colors.md)**  
 Configure and control the colors automatically applied to modal illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[Override modal illustrations with custom images](../task/override-modal-with-custom-images.md)**  
+-   **[Override modal illustrations with custom images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/override-modal-with-custom-images.md)**  
 Modify or override the default modal illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[Working with Image styles](working-with-image-styles.md)
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 

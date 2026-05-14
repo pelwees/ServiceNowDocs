@@ -30,7 +30,7 @@ Role required: wm\_ext\_manager
     -   Tap the **Today's tasks** screen.
 3.  Review the work order task.
 
-4.  On the work order task, tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon.
+4.  On the work order task, tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon.
 
 5.  Tap the **Reassign task** function.
 

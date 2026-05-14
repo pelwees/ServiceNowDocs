@@ -28,10 +28,10 @@ From the home page of the Catalog Builder, you can do the following:
 -   View catalog items that are recently updated
 -   View the configured content that describes the catalog building process in your organization.
 
-**Parent Topic:**[Exploring Service Catalog](../concept/exploring-service-catalog.md)
+**Parent Topic:**[Exploring Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/exploring-service-catalog.md)
 
 **Related topics**  
 
 
-[Catalog Builder](../concept/catalog-builder.md)
+[Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/catalog-builder.md)
 

@@ -56,7 +56,7 @@ Role required: None
 
 ## What to do next
 
-You can create a **Growth Plan** from your **Aspiration**. For details about creating growth plans, see [Create a growth plan](egd-create-growth-plan.md)
+You can create a **Growth Plan** from your **Aspiration**. For details about creating growth plans, see [Create a growth plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-create-growth-plan.md)
 
-**Parent Topic:**[Using the Talent Development Core application](../concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-use.md)
 

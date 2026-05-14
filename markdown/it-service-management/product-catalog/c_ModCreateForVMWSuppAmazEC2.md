@@ -22,5 +22,5 @@ The system creates the following models:
 
 When the virtual machine is terminated, the asset state changes to **Retired**.
 
-**Parent Topic:**[Models](c_Models.md)
+**Parent Topic:**[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 

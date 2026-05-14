@@ -37,7 +37,7 @@ The File access permission record enables the users to manage access permissions
 
     The cloud file configuration record is displayed.
 
-    ![Cloud file configuration record.](../image/cloud-file-configuration-record.png)
+    ![Cloud file configuration record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/cloud-file-configuration-record.png)
 
 3.  In the File access permissions related list, select **New**.
 
@@ -45,15 +45,15 @@ The File access permission record enables the users to manage access permissions
 
     You can configure the file access permissions for one or more users of the record as shown in the following example.
 
-    ![File access permission record.](../image/file-access-permissions-record.png)
+    ![File access permission record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/file-access-permissions-record.png)
 
     You can use the **Group** field on the form to select one of the group \(sys\_user\_group\) fields from an engagement or audit task such as an assignment group. The users that are part of the group are granted access to the cloud file. A File access group permission record is displayed in the following example.
 
-    ![File access group permission.](../image/file-access-group-permissions.png)
+    ![File access group permission.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/file-access-group-permissions.png)
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [File access permission record form](../reference/file-access-permission-record-form.md).
+    For more information on the fields in the form, see [File access permission record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../reference/file-access-permission-record-form.md).
 
 5.  Select **Submit**.
 

@@ -29,7 +29,7 @@ Access to the Oracle HCM tenant site.
 
 2.  Select the hamburger menu.
 
-    ![Hamburger menu.](../image/oracle-hcm-spoke-oracle-hcm-tenant-site-hamburger-menu.png)
+    ![Hamburger menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-oracle-hcm-tenant-site-hamburger-menu.png)
 
 3.  Navigate to **Tools** &gt; **Security Console**.
 

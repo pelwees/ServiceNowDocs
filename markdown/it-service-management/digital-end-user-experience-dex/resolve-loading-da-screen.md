@@ -38,5 +38,5 @@ The DEX Desktop Assistant is not loading because the user is not a valid DEX use
 5.  Verify that the DEX Desktop Assistant application is installed on the instance to which you're connecting.
 
 
-**Parent Topic:**[DEX Desktop Assistant reference](dex-desktop-experience-reference.md)
+**Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 

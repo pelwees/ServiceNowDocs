@@ -26,9 +26,9 @@ This session acts as a virtual environment where the automations run in isolatio
 
 To avoid conflicts, do not run the AI Desktop Actions Execution workspace and RPA Attended Desktop mode at the same time.
 
-![AI Desktop Actions Execution workspace displaying "Listening for instructions" message for desktop session activation.](../image/execution-workspace-ready-ad.png "Execution workspace before executing automation")
+![AI Desktop Actions Execution workspace displaying "Listening for instructions" message for desktop session activation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/execution-workspace-ready-ad.png "Execution workspace before executing automation")
 
-![AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.](../image/execution-workspace-ad.png "Execution workspace running the automation")
+![AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/execution-workspace-ad.png "Execution workspace running the automation")
 
 ## Execution workspace features
 
@@ -121,7 +121,7 @@ Automation execution is canceled. The user canceled the execution manually.
 </table>**Related topics**  
 
 
-[Example: Use AI agents to process badge-related requests automatically](../task/example-use-badging-ai-agent-ad.md)
+[Example: Use AI agents to process badge-related requests automatically](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/example-use-badging-ai-agent-ad.md)
 
-[Example: Use AI agents to automatically enter data into the shipping management app](../task/example-use-shipping-ai-agent-ad.md)
+[Example: Use AI agents to automatically enter data into the shipping management app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/example-use-shipping-ai-agent-ad.md)
 

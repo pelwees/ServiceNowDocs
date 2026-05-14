@@ -44,7 +44,7 @@ Role required: sn\_cim.improvement\_manager, sn\_cim.improvement\_coordinator
 
         The improvement is no longer shown in the Open Improvement Register list.
 
-    ![Closed process flow](../image/cim-closed.png)
+    ![Closed process flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../image/cim-closed.png)
 
 
 ## Close improvement
@@ -217,12 +217,12 @@ Work notes
 |State|\*Closed Complete|
 |Percent Complete|\*100|
 
-**Parent Topic:**[Managing improvements](../concept/cim-improvement-initiative-mgmt.md)
+**Parent Topic:**[Managing improvements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../concept/cim-improvement-initiative-mgmt.md)
 
 **Related topics**  
 
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../reference/cim-field-descriptions.md)
 
-[Applications integrated with Continual Improvement Management](../reference/cim-integration.md)
+[Applications integrated with Continual Improvement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../reference/cim-integration.md)
 

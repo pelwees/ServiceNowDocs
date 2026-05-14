@@ -27,7 +27,7 @@ Role required: sn\_hr\_core.case\_writer
 
     **Note:** If you want to directly send the document in a case as an email, click the **Send Email** button on the case tab.
 
-3.  Click the ![More Actions icon](../reference/images/more-icon.png) icon at the top right hand corner of the tab.
+3.  Click the ![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/more-icon.png) icon at the top right hand corner of the tab.
 
     -   For the **Verification of Employment service** HR service, fill in the **Document template category**, **Document template**, **Subject person** fields.
     -   For the **Employee Verification Letter** HR service, fill in the **Document type**, **PDF template**, **Subject person** fields.

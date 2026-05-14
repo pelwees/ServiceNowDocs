@@ -19,7 +19,7 @@ Migrate resource plans to resource assignments and the associated cost plans to 
 
 ## Resource plans to resource assignments
 
-Migrate all the resource plans of a project or demand to attribute-based resource assignments depending on the [planning attributes](../../project-management/concept/planning-attributes.md) to easily manage your projects on Next Experience using [Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md) and [Capacity Planning](../../spw-capacity-planning/concept/capacity-planning-spw.md).
+Migrate all the resource plans of a project or demand to attribute-based resource assignments depending on the [planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-management/concept/planning-attributes.md) to easily manage your projects on Next Experience using [Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/concept/project-workspace-landing-page.md) and [Capacity Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../spw-capacity-planning/concept/capacity-planning-spw.md).
 
 Group, Skill, and Role are the primary attributes enabled for Resource Management depending on which the resource plans are migrated to resource assignments.
 
@@ -44,9 +44,9 @@ Let us see how the status of the resource plans is mapped to the status of resou
 
     The efforts of the resource plan in requested state are also migrated to resource assignments. For example, if a resource plan is in Requested state with 20 additional hours requested, but not yet approved, the new migration flow accounts for these requested 20 hours and the total efforts are reflected in the migrated resource plan. See the following screenshots for more details.
 
-    ![Classic ServiceNow view of a resource plan in Requested state.](../../resource-management-workspace/images/RP-RA-requested-efforts.png "Existing resource plan in requested state")
+    ![Classic ServiceNow view of a resource plan in Requested state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../resource-management-workspace/images/RP-RA-requested-efforts.png "Existing resource plan in requested state")
 
-    ![Monthly allocations view of resource assignment with requested efforts.](../../resource-management-workspace/images/RP-RA-requested-efforts-migrated.png "Monthly aggregates of migrated resource plan with requested allocations")
+    ![Monthly allocations view of resource assignment with requested efforts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../resource-management-workspace/images/RP-RA-requested-efforts-migrated.png "Monthly aggregates of migrated resource plan with requested allocations")
 
 
 With the migration of resource plans:
@@ -71,11 +71,11 @@ With the migration of resource plans:
 
 Resource plans in different states.
 
-![Resource plans list.](../image/rp-ra-resource-plans.png)
+![Resource plans list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rp-ra-resource-plans.png)
 
 Resource plans migrated as resource assignments.
 
-![Resource assignments list.](../image/rp-ra-resource-assignments.png)
+![Resource assignments list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rp-ra-resource-assignments.png)
 
 ## Operational resource plans to operational resource assignments
 
@@ -89,59 +89,59 @@ After migration, the Request type of operational resource plans is changed to Ho
 
 Operational resource plan in Allocated state created for Demo GroupA.
 
-![Operational resource plans form.](../image/rm-op-rsrc-plan.png)
+![Operational resource plans form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rm-op-rsrc-plan.png)
 
 After migration, you'll have the following Operational resource assignments for every member of the group.
 
 **Note:** The parent-child mapping is retained and you may see an additional resource assignment with an empty resource.
 
-![Operational resource assignments view after migration from Operational resource plans.](../image/rm-op-rsrc-asgnmnts.png)
+![Operational resource assignments view after migration from Operational resource plans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rm-op-rsrc-asgnmnts.png)
 
 ## Migration of cost plans to attribute-based cost plans
 
 When resource plans of a project or demand are migrated to resource assignments, the corresponding financial cost plans based on the resource plans will be migrated to new attribute-based labor costs. Migrate resource plans related link trigger migrates the cost plans along with resource plans migration.
 
-Every resource plan has an associated a cost plan with Labor capex as the cost type. While migrating, the [planning attributes](../../project-management/concept/planning-attributes.md) of the resource plans are analyzed to create attribute-based cost plans for the unique combination of the three [planning attributes enabled for financials](../../project-management/concept/planning-attributes.md#table_f1y_wvh_wwb) \(Employee type, Expense Type, and Role\). After migration, there will be no one-to-one association between resource assignments and attribute-based cost plans.
+Every resource plan has an associated a cost plan with Labor capex as the cost type. While migrating, the [planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-management/concept/planning-attributes.md) of the resource plans are analyzed to create attribute-based cost plans for the unique combination of the three [planning attributes enabled for financials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-management/concept/planning-attributes.md#table_f1y_wvh_wwb) \(Employee type, Expense Type, and Role\). After migration, there will be no one-to-one association between resource assignments and attribute-based cost plans.
 
 **Note:** If a resource plan isn’t associated with either Employee Type or Role, the migrated cost plans costs are consolidated into a single cost plan.
 
-The planned costs are moved to the new attribute-based cost plans while the actual costs remain on the existing cost plan records. The [rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md) values associated with project or a demand are considered to generate attribute-based labor costs.
+The planned costs are moved to the new attribute-based cost plans while the actual costs remain on the existing cost plan records. The [rate model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-portfolio-suite-with-financials/concept/rate-model.md) values associated with project or a demand are considered to generate attribute-based labor costs.
 
 ## Migration of cost plans to attribute-based cost plans
 
 Cost plans associated with a resource plan.
 
-![List of cost plans with accounted planned and actual expenses.](../image/rp-ra-cost-plans-traditional.png)
+![List of cost plans with accounted planned and actual expenses.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rp-ra-cost-plans-traditional.png)
 
 Attribute-based cost plan **Resource\_Internal\_Capex** is created after migration.
 
-![List of attribute-based labor costs capturing the aggregate planned costs.](../image/rp-ra-cost-plans-migrated.png)
+![List of attribute-based labor costs capturing the aggregate planned costs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/rp-ra-cost-plans-migrated.png)
 
--   **[Migrate resource plans and cost plans for projects and demands](../task/migrate-rsrc-plan-rsrc-asgnmnt.md)**  
+-   **[Migrate resource plans and cost plans for projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/migrate-rsrc-plan-rsrc-asgnmnt.md)**  
 Migrate resource plans and cost plans of your projects or demands to resource assignments and attribute-bases cost plans and work on the resource allocations and project financials using Project Workspace.
--   **[Enable attribute-based resource assignments](../task/enable-resource-assignments.md)**  
+-   **[Enable attribute-based resource assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/enable-resource-assignments.md)**  
 Enable the property to work on attribute-based resource assignments to request efforts for your planning items.
--   **[Create resource assignments](../task/create-rsrc-asgnmnts-ppm.md)**  
+-   **[Create resource assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/create-rsrc-asgnmnts-ppm.md)**  
 Create resource assignments to request a portion of team or resource capacity for project or demand.
--   **[Migrate operational resource plans](../task/migrate-operational-rsrc-plans.md)**  
+-   **[Migrate operational resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/migrate-operational-rsrc-plans.md)**  
 Migrate the required Operational resource plans to attribute-based Operational resource assignments.
--   **[Create operational resource assignments](../task/create-op-rsrc-asgnmnts-ppm.md)**  
+-   **[Create operational resource assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/create-op-rsrc-asgnmnts-ppm.md)**  
 Create operational resource assignments to allocate a portion of team or resource capacity for operational work such as administration work, meetings, trainings, and so on.
--   **[Activate a scheduled job to migrate resource plans and cost plans](../task/migrate-rsrc-plan-cost-plan-scheduled-job.md)**  
+-   **[Activate a scheduled job to migrate resource plans and cost plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/migrate-rsrc-plan-cost-plan-scheduled-job.md)**  
 Activate the Migrate Resource Plans scheduled job to migrate resource plans, operational resource plans, and cost plans of your projects and demands to resource assignments and attribute-based cost plans.
 
-**Parent Topic:**[Resource Management classic](c_ResourceManagement.md)
+**Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
 **Related topics**  
 
 
-[Agile work management in CWM](../../collab-work-mgmt/concept/agile-in-cwm.md)
+[Agile work management in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../collab-work-mgmt/concept/agile-in-cwm.md)
 
-[Using the Planning attributes](../../project-management/concept/planning-attributes.md)
+[Using the Planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-management/concept/planning-attributes.md)
 
-[Capacity in Strategic Planning](../../spw-capacity-planning/concept/capacity-planning-spw.md)
+[Capacity in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../spw-capacity-planning/concept/capacity-planning-spw.md)
 
-[Exploring Resource Management Workspace](../../resource-management-workspace/concept/explore-rmw.md)
+[Exploring Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../resource-management-workspace/concept/explore-rmw.md)
 
-[Resource planning with Project Workspace](../../pw-resource-management/concept/use-resource-mgmt-prj-wksp.md)
+[Resource planning with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../pw-resource-management/concept/use-resource-mgmt-prj-wksp.md)
 

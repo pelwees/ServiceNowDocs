@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-If you have the Legal Virtual Agent Conversations application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](../../legal-request-management/concept/legal-va-conversations.md).
+If you have the Legal Virtual Agent Conversations application installed on your instance, you can submit a privacy assessment request through the Virtual Agent chat. For more information, see [Legal Virtual Agent Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../legal-request-management/concept/legal-va-conversations.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ Description
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Service Portal**
 2.  Select **Service Catalog**.
-3.  Select the expand icon ![Expand icon](../../ppe-inventory-management/image/plus-icon.png) on **Legal Requests** from the left panel.
+3.  Select the expand icon ![Expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../ppe-inventory-management/image/plus-icon.png) on **Legal Requests** from the left panel.
 4.  Select **Privacy Requests**.
 5.  Select **Privacy Assessment**.
 
@@ -74,17 +74,17 @@ Description
 
 -   A privacy assessment request is created in the New state.
 
--   The request is assigned to a group or user in the legal department based on the assignment rule set in the associated practice area. For more information, see [Assignment rule to automatically assign legal requests or matters](../../legal-request-management/task/create-assignment-rules-intake-form.md).
+-   The request is assigned to a group or user in the legal department based on the assignment rule set in the associated practice area. For more information, see [Assignment rule to automatically assign legal requests or matters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../legal-request-management/task/create-assignment-rules-intake-form.md).
 -   If the administrator has configured notifications, you receive notifications about the progress of the request.
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../concept/privacy-assessment-requests.md)
 
 **Related topics**  
 
 
-[Update a privacy assessment request](update-existing-legal-privacy-assessment-request.md)
+[Update a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/update-existing-legal-privacy-assessment-request.md)
 
-[Assign a privacy assessment request](assign-legal-privacy-assessment-request.md)
+[Assign a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/assign-legal-privacy-assessment-request.md)
 
-[Cancel a privacy assessment request](cancel-privacy-assessment-request.md)
+[Cancel a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/cancel-privacy-assessment-request.md)
 

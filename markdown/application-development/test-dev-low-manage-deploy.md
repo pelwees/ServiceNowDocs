@@ -17,18 +17,18 @@ Deploy your ServiceNow apps.
 
 <table id="table_stn_cff_2vb" class="nav-card"><tbody><tr><td>
 
-[App Engine Management Center ![App Engine Management Center.](../image/icon-workspace-builder.png) Track and manage your App Engine Studio, Creator Studio, and ServiceNow Studio requests, deployments, applications, and collaborative developers using the App Engine Management Center \(AEMC\) in your production instance.](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
+[App Engine Management Center ![App Engine Management Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-workspace-builder.png) Track and manage your App Engine Studio, Creator Studio, and ServiceNow Studio requests, deployments, applications, and collaborative developers using the App Engine Management Center \(AEMC\) in your production instance.](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
 
 </td></tr></tbody>
 </table>## Core UI Tech Stack
 
 <table id="table_fck_nq2_2vb" class="nav-card"><tbody><tr><td>
 
-[Application Repository ![Application Repository.](../image/icon-decision-builder.png) Learn about developing on the ServiceNow platform.](../../applications/concept/app-repo.md)
+[Application Repository ![Application Repository.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-decision-builder.png) Learn about developing on the ServiceNow platform.](../../applications/concept/app-repo.md)
 
 </td><td>
 
-[Cloud Provisioning and Governance ![Cloud Provisioning and Governance.](../image/icon-cloud-provisioning.png) The ServiceNow® Cloud Provisioning and Governance application provides a single interface to access cloud resources, publish cloud offerings to a catalog, and manage the usage of those resources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
+[Cloud Provisioning and Governance ![Cloud Provisioning and Governance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-cloud-provisioning.png) The ServiceNow® Cloud Provisioning and Governance application provides a single interface to access cloud resources, publish cloud offerings to a catalog, and manage the usage of those resources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
 </td></tr></tbody>
 </table>

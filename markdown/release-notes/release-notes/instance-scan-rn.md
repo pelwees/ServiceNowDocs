@@ -46,5 +46,5 @@ See [Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/
 
 Instance Scan is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

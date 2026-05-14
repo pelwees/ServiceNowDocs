@@ -24,7 +24,7 @@ Role required: sn\_na\_center.nac\_admin
 
     The first time you access Now Assist Center, a welcome message displays prompting you to get started by installing essential Now Assist plugins. If you already have these plugins installed, the message simply introduces the benefits of Now Assist Center.
 
-    ![Welcome message showing the benefits of Now Assist Center.](../image/now-assist-center-home-welcome-message.png "Welcome message")
+    ![Welcome message showing the benefits of Now Assist Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-home-welcome-message.png "Welcome message")
 
 2.  Select **Let’s get started** to continue to the home page.
 
@@ -32,7 +32,7 @@ Role required: sn\_na\_center.nac\_admin
 
     If you don’t have the essential Now Assist plugins installed yet, the first section of the home page displays a **Let’s get you set up** card.
 
-    ![Actionable use case card to set up essential Now Assist plugins.](../image/now-assist-center-essential-plugins-card.png)
+    ![Actionable use case card to set up essential Now Assist plugins.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-essential-plugins-card.png)
 
 3.  Select **Install plugins**.
 
@@ -53,12 +53,12 @@ Actionable use case cards tailored to your instance and entitlements now appear 
 
 ## What to do next
 
-To activate a use case, see [Activate an actionable use case in Now Assist Center](activate-solution-now-assist-center.md).
+To activate a use case, see [Activate an actionable use case in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-solution-now-assist-center.md).
 
-**Parent Topic:**[Activating actionable use cases from Now Assist Center](../concept/now-assist-center-actionable-use-cases.md)
+**Parent Topic:**[Activating actionable use cases from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-actionable-use-cases.md)
 
 **Related topics**  
 
 
-[Activate an actionable use case in Now Assist Center](activate-solution-now-assist-center.md)
+[Activate an actionable use case in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-solution-now-assist-center.md)
 

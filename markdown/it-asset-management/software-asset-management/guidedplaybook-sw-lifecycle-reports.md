@@ -37,7 +37,7 @@ The playbook guides you through every step of the lifecycle reporting process:
 
 ## Accessing the Guided Experience for Lifecycle playbook
 
-You can access the playbook by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. For more details, see [Create a comprehensive lifecycle report using a guided experience](../task/create-lifecyclereporting-guidedexperience.md).
+You can access the playbook by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. For more details, see [Create a comprehensive lifecycle report using a guided experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/create-lifecyclereporting-guidedexperience.md).
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

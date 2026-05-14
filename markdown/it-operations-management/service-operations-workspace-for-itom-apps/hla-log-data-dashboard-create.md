@@ -21,7 +21,7 @@ This functionality is supported in the Service Operations Workspace Log Analytic
 
 For detailed information about creating and working with dashboards, see [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
-**Note:** As an alternative to defining your own dashboard, you can use the AIOps dashboards, which offer comprehensive visualizations of critical operational data. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md).
+**Note:** As an alternative to defining your own dashboard, you can use the AIOps dashboards, which offer comprehensive visualizations of critical operational data. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md).
 
 Role required: evt\_mgmt\_operator or viz\_admin
 
@@ -42,7 +42,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
         **Note:** The in-line editor does not automatically save your work. Ensure that you save regularly.
 
-        ![New dashboard dialog.](../image/hla-log-dashboard-inline.png)
+        ![New dashboard dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-log-dashboard-inline.png)
 
     3.  Select **Create new dashboard**.
 4.  Add an element to the dashboard.
@@ -61,7 +61,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
     1.  On the element, select the Settings icon:
 
-        ![Data visualization settings.](../image/hla-data-viz-settings.png)
+        ![Data visualization settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-data-viz-settings.png)
 
         The Configuration panel opens.
 
@@ -75,7 +75,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
         The Health Log Analytics data source that you select is used to ingest the log data that is provided to the visualization.
 
-        ![Add data source button.](../image/hla-log-dashboard-data-source.png)
+        ![Add data source button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-log-dashboard-data-source.png)
 
     4.  Select the Health Log Analytics Log components data source.
 
@@ -85,7 +85,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
         -   Select component – a list of all the components that stream data to Health Log Analytics.
     6.  Use Conditions, a Lucene query, or both to specify the data segment you're interested in and then select **Run**.
 
-        ![Add a data source.](../image/hla-log-dashboard-hla-component3.png)
+        ![Add a data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-log-dashboard-hla-component3.png)
 
     7.  Select **Add this source** to add the selected Health Log Analytics data source.
 
@@ -93,7 +93,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
     8.  Set fixed start and end dates to customize the time range of the presented data.
 
-        ![Data range.](../image/hla-log-dashboard-date-range.png)
+        ![Data range.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-log-dashboard-date-range.png)
 
         1.  In the Date range section, select **Set absolute period**.
         2.  Specify the start and end date for the absolute period in the appropriate calendars.
@@ -108,7 +108,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
     12. Select **Exit editing mode** to stop editing and display the dashboard.
 
 
-**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](../concept/hla-dashboard-visualizations.md)
+**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/hla-dashboard-visualizations.md)
 
 **Related topics**  
 

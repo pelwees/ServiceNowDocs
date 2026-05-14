@@ -157,7 +157,7 @@ The default option is Exceed preview.
 </table>**Related topics**  
 
 
-[Portal FAQ widget](../concept/portal-faq-widget.md)
+[Portal FAQ widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/portal-faq-widget.md)
 
-[Add and configure the Portal FAQ widget](config-portal-faq-widget-inst-optns.md)
+[Add and configure the Portal FAQ widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-portal-faq-widget-inst-optns.md)
 

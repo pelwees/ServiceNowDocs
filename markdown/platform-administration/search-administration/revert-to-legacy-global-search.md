@@ -48,12 +48,12 @@ Role required: admin
 
 The system displays the global search UI and uses the legacy display logic.
 
-**Parent Topic:**[Set global text search properties](set-global-text-search-properties.md)
+**Parent Topic:**[Set global text search properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md)
 
 **Related topics**  
 
 
-[Configure parallel processing of search groups](t_ConfigureParallelProcessing.md)
+[Configure parallel processing of search groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureParallelProcessing.md)
 
 ## Legacy global search user preferences
 
@@ -61,7 +61,7 @@ The global text search results page allows users to set several user preferences
 
 The following search preferences are available from the **Search tips and preferences** link.
 
-![Search preferences.](../image/SearchPreferences.png "Search preferences")
+![Search preferences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/SearchPreferences.png "Search preferences")
 
 <table id="table_bsp_2xx_pp"><thead><tr><th>
 
@@ -148,11 +148,11 @@ Shows or hides the full search results page if the search term matches a task re
 
 **Note:** The system filters exact search results to display only knowledge records that are in the same language as the preferred language setting.
 
- ![Sample search query for the knowledge article KB0000023.](../image/exact-search-filters.png "Sample exact match search query")
+ ![Sample search query for the knowledge article KB0000023.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/exact-search-filters.png "Sample exact match search query")
 
 In this sample search, the **Knowledge &amp; Catalog** search filter is cleared, which would normally prevent returning any knowledge articles.
 
- ![Sample search results for the knowledge article record KB0000023.](../image/exact-search-match.png "Sample exact match search results")
+ ![Sample search results for the knowledge article record KB0000023.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/exact-search-match.png "Sample exact match search results")
 
 In this sample exact match, the system displays the matching article and an information message in the form header reading `Exact search match. Click here to see full search results.`
 

@@ -17,7 +17,7 @@ The BCM administrators configure the sources in the Event dependency source conf
 
 The Event dependency source configuration record contains the event dependency details such as the event record name, its target records, and sources as shown in the example.
 
-![Event dependency source configuration.](../image/event-dep-update-config-module.png)
+![Event dependency source configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-dep-update-config-module.png)
 
 Dependencies are incorporated into events from all sources through the selection of the **Update dependencies** UI action by the user. When an event is created and linked to a plan, the primary asset and its associated assets are automatically retrieved from the plan, provided that the Event Dependency Configuration is active and includes the plans in its Sources, without the need to select the **Update dependencies** UI action.
 
@@ -31,10 +31,10 @@ Dependencies are fetched from these sources for the events:
 
 **Note:** In an event, the dependencies of all assets are added manually where the source is Manual.
 
-For more information on configuring the Event dependency source configuration record, see [Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md).
+For more information on configuring the Event dependency source configuration record, see [Configure Event dependency source configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/conf-event-dep-source-confi-module.md).
 
--   **[Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md)**  
+-   **[Configure Event dependency source configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/conf-event-dep-source-confi-module.md)**  
 Configure the sources for adding the event dependencies in the Event dependency source configuration record.
 
-**Parent Topic:**[Dependency Configuration records](dependency-config-modules.md)
+**Parent Topic:**[Dependency Configuration records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/dependency-config-modules.md)
 

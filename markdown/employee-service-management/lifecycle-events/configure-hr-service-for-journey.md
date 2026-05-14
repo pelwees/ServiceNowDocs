@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-HR services are the requests and assistance an HR organization provides its employees, and they are the starting point for HR case creation. You must create an HR service for a lifecycle event so that it can be requested for service. To learn more about HR services, including whether to make an HR service available for internal use only or for employee self-service, see [HR services](../concept/hr-service-administration.md).
+HR services are the requests and assistance an HR organization provides its employees, and they are the starting point for HR case creation. You must create an HR service for a lifecycle event so that it can be requested for service. To learn more about HR services, including whether to make an HR service available for internal use only or for employee self-service, see [HR services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/hr-service-administration.md).
 
 ## Procedure
 
@@ -74,14 +74,14 @@ Select the COE you want the HR service to be categorized under.**Note:** An HR s
 </td></tr></tbody>
 </table>4.  Fill in the other fields on the form, as appropriate.
 
-    For further details on the form fields, see [Configure an HR service](configure-hr-service.md).
+    For further details on the form fields, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-service.md).
 
 5.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Building a lifecycle event](../concept/hr-lifecycle-event-configuration.md)
+**Parent Topic:**[Building a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/hr-lifecycle-event-configuration.md)
 
-**Previous topic:**[Configure an HR service for a lifecycle event](create-hr-service-for-lifecycle-event.md)
+**Previous topic:**[Configure an HR service for a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/create-hr-service-for-lifecycle-event.md)
 
-**Next topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](../concept/hr-lifecycle-event-test-tool.md)
+**Next topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/hr-lifecycle-event-test-tool.md)
 

@@ -17,15 +17,15 @@ Use ServiceNow® Now Assist for Mobile platform to summarize case information, g
 
 <table id="table_agh_hpn_51c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist for Mobile.](exploring-now-assist-mobile.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist for Mobile.](exploring-now-assist-mobile.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist for Mobile and configure generative AI skills.](configuring-now-assist-mobile.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist for Mobile and configure generative AI skills.](configuring-now-assist-mobile.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn about the requester conversational experience.](using-now-assist-mobile.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn about the requester conversational experience.](using-now-assist-mobile.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently available only for customers in some regions. Be sure to check for availability updates in future releases.

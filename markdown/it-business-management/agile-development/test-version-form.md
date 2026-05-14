@@ -79,7 +79,7 @@ Run
 
 </td><td>
 
-Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run tests for a story in Agile Development 2.0](../../sdlc-scrum/task/run-test-plan-within-agile.md).
+Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run tests for a story in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../sdlc-scrum/task/run-test-plan-within-agile.md).
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Option to delete the test version.
 
 </td></tr><tr><td>
 
-Change step order \(![Change step order icon](../../sdlc-scrum/image/draganddropicon.png)\)
+Change step order \(![Change step order icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../sdlc-scrum/image/draganddropicon.png)\)
 
 </td><td>
 
@@ -131,17 +131,17 @@ Option to mark a test step for verification.
 
 </td></tr><tr><td>
 
-Delete a test step \(![Delete a test step icon](../../test-management2/images/deleteteststep.png)\)
+Delete a test step \(![Delete a test step icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../test-management2/images/deleteteststep.png)\)
 
 </td><td>
 
 Option to delete a test step.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+</table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
 **Related topics**  
 
 
-[Track sprint progress in Agile Development 2.0](../../sdlc-scrum/task/sprint-tracking-list.md)
+[Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../sdlc-scrum/task/sprint-tracking-list.md)
 

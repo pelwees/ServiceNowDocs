@@ -44,5 +44,5 @@ Following is a comprehensive overview of the dependent apps that are included wi
 |[SPM Common UI Component](https://store.servicenow.com/store/app/3a5b676a1b246a50a85b16db234bcb31)|UI component for SPM; needed for SPM integration.|Yes|No|Direct|
 |[Transporter](https://store.servicenow.com/store/app/9bc8efea1be06a50a85b16db234bcbc0)|Supporting component for Service Bridge for Consumers.|No|Yes|Indirect|
 
-**Parent Topic:**[Impact reference](impact-reference.md)
+**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 

@@ -48,7 +48,7 @@ This workflow is required to use the AI feature within the Now Assist panel.
 
 ## What to do next
 
-[Create a theme using Now Assist](create-theme-now-assist.md).
+[Create a theme using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-theme-now-assist.md).
 
-**Parent Topic:**[Theme creation with AI](../concept/theme-creation-with-ai.md)
+**Parent Topic:**[Theme creation with AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/theme-creation-with-ai.md)
 

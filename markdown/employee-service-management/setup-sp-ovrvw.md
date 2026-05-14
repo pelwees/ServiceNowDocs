@@ -127,7 +127,7 @@ When you want the search results to display only the published versions of the d
 
 ### What to do next
 
-Complete the integration from your ServiceNow AI Search account. For more information, see [Integrate the Microsoft SharePoint search sources with the AI Search profiles](setup-sp-ovrvw.md#).
+Complete the integration from your ServiceNow AI Search account. For more information, see [Integrate the Microsoft SharePoint search sources with the AI Search profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md#).
 
 ## Integrate the Microsoft SharePoint search sources with the AI Search profiles
 
@@ -150,7 +150,7 @@ Role required: admin
 
 ### What to do next
 
-Connect the ServiceNow® instance with the Microsoft SharePoint tenant. Complete the steps from your ServiceNow® account. For more information, see [Connect your ServiceNow instance to a Microsoft SharePoint tenant](setup-sp-ovrvw.md#).
+Connect the ServiceNow® instance with the Microsoft SharePoint tenant. Complete the steps from your ServiceNow® account. For more information, see [Connect your ServiceNow instance to a Microsoft SharePoint tenant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md#).
 
 ## Connect your ServiceNow instance to a Microsoft SharePoint tenant
 
@@ -177,11 +177,11 @@ Role required: sn\_sp\_con.admin and admin.
 
     1.  On the Graph connection form, fill in the fields.
 
-        For a description of the field value, see [Graph connection form](../reference/graph-connection-form.md).
+        For a description of the field value, see [Graph connection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/graph-connection-form.md).
 
     2.  On the REST connection form, fill in the fields.
 
-        For a description of the field value, see [REST connection form](../reference/rest-connection-form.md).
+        For a description of the field value, see [REST connection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/rest-connection-form.md).
 
     3.  Right-click the form header and click **Save**.
 
@@ -405,7 +405,7 @@ Global
 
             Ensure that you log in to your Microsoft SharePoint instance with the Tenant administrator credentials to get the OAuth token for the REST connection. Store the credentials in the instance.
 
-            Validate the credential to avoid any configuration failure. For more information on validating the SharePoint connection, see [Validate the Microsoft SharePoint connection](setup-sp-ovrvw.md#).
+            Validate the credential to avoid any configuration failure. For more information on validating the SharePoint connection, see [Validate the Microsoft SharePoint connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md#).
 
     3.  Click **Save**.
 
@@ -432,7 +432,7 @@ Global
 
     2.  Specify the **User name** and **Password** of the user \(sys\_user\) who has the **ais\_external\_content** role.
 
-        ![ingest user](../image/spoc-ingest-user.png)
+        ![ingest user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/spoc-ingest-user.png)
 
         **Note:** In the example screenshot, the user `abel.tuter` is the sys\_user who has the ais\_external\_content role assigned.
 
@@ -453,7 +453,7 @@ Your configuration is complete.
 
 ### What to do next
 
-[Validate the Microsoft SharePoint connection](setup-sp-ovrvw.md#) to rule out any configuration failure before indexing a sample site.
+[Validate the Microsoft SharePoint connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md#) to rule out any configuration failure before indexing a sample site.
 
 ## Validate the Microsoft SharePoint connection
 
@@ -486,5 +486,5 @@ The validation rules out any configuration failure and ensures a seamless setup 
 
 ### What to do next
 
-Index sites for search. For more information, see [Index sites for search](sharepoint-how-to-configure-search.md).
+Index sites for search. For more information, see [Index sites for search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-how-to-configure-search.md).
 

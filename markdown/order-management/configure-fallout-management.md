@@ -13,9 +13,9 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 As a provider, you can use Fallout Management to identify, investigate, and resolve order processing issues so that orders can continue processing through to completion.
 
-The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, according to the requirements of your enterprise. To learn more about managing order task fallout, see [Managing order fallout](fallout-management-overview.md).
+The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, according to the requirements of your enterprise. To learn more about managing order task fallout, see [Managing order fallout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md).
 
-**Parent Topic:**[Configuring Order Management](order-mgt-configuring.md)
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 ## Create additional fallout types
 
@@ -27,7 +27,7 @@ Role required: admin
 
 ### About this task
 
-The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, as per the requirements of your enterprise. To learn more about managing order task fallout, see [Managing order fallout](fallout-management-overview.md).
+The fallout type is a category that indicates the type of fallout activity. Billing Issue, Inventory Allocation Failure, and Provisioning Failure fallout types are standard in the ServiceNow AI Platform. You can define additional ones, as per the requirements of your enterprise. To learn more about managing order task fallout, see [Managing order fallout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md).
 
 ### Procedure
 

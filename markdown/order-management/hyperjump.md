@@ -15,15 +15,15 @@ Hyperjump shows you a configuration as a graphic diagram.
 
 In a configurable product, you can access Hyperjump, which gives you a graphical view of the configuration.
 
-![Configurable products screen](../images/cpq-hyperjump.png)
+![Configurable products screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-hyperjump.png)
 
 The Hyperjump view enables you to expand individual rules.
 
-![Individual rules](../images/cpq-hyperjump-rules.png)
+![Individual rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-hyperjump-rules.png)
 
 It also lets you see field-related rules.
 
-![Field-related rules](../images/cpq-hyperjump-field-related-rules.png)
+![Field-related rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-hyperjump-field-related-rules.png)
 
 This view gives you a look at the picklist options along with the conditions and actions that the field is part of.
 

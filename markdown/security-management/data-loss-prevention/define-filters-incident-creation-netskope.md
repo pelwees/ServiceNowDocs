@@ -38,5 +38,5 @@ This type of filtering helps you to isolate DLP incidents and to limit the numbe
 4.  Click **Continue** and move to the Scheduling section.
 
 
-**Parent Topic:**[Create a Profile for Netskope DLP integration](create-profile-netskope-dlp-integration.md)
+**Parent Topic:**[Create a Profile for Netskope DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-netskope-dlp-integration.md)
 

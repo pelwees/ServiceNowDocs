@@ -28,7 +28,7 @@ Playbook statuses include:
     Your playbook is active, you can create an end user-facing view for it in Playbook Experience. Any changes that you make after selecting **Activate** are automatically saved. However, these changes aren't activated in your published playbook until you select **Activate** again.
 
 
-![Creating a playbook sets its status to Draft. Activate your playbook to change to Published. If you make changes after activating, new changes aren't published until you activate your playbook again.](../images/process-activation-state-flow.png "Playbook status and activation state flow")
+![Creating a playbook sets its status to Draft. Activate your playbook to change to Published. If you make changes after activating, new changes aren't published until you activate your playbook again.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/process-activation-state-flow.png "Playbook status and activation state flow")
 
 Creating a new playbook sets its status to Draft. Once you activate your playbook, its status changes to Published. If you make changes after activating, your new changes won't be published until you activate your playbook again.
 

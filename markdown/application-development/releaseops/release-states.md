@@ -110,5 +110,5 @@ The deployment was either unable to be completed or completed with issues.
 -   An update set was committed unexpectedly after retrieval.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ReleaseOps reference](releaseops-reference.md)
+</table>**Parent Topic:**[ReleaseOps reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/releaseops-reference.md)
 

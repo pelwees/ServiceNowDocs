@@ -24,16 +24,16 @@ The main fields for this table are:
 -   Label: The label for the choice in the specified language.
 -   Sequence: A number that determines in what order the option appears in the list if you don’t want to list choices alphabetically.
 
-![The list of records in the Choices table with choice labels in English and Spanish.](../image/ChoiceList.png "Choice list")
+![The list of records in the Choices table with choice labels in English and Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/ChoiceList.png "Choice list")
 
-![A Choice record translated into Spanish.](../image/TranslatedChoiceList.png "Translated choices")
+![A Choice record translated into Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/TranslatedChoiceList.png "Translated choices")
 
-**Parent Topic:**[Translation tables](r_TranslationTables.md)
+**Parent Topic:**[Translation tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
 **Related topics**  
 
 
-[Create a language choice for users](../task/t_CreateANewChoiceRecord.md)
+[Create a language choice for users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_CreateANewChoiceRecord.md)
 
-[Ensure that translated choices appear for applications added by plugins](../task/activate-translated-choices-plugins.md)
+[Ensure that translated choices appear for applications added by plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/activate-translated-choices-plugins.md)
 

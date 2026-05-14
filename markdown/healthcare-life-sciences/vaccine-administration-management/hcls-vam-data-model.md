@@ -28,7 +28,7 @@ You can install the Vaccine Administration Management application to use its dat
 
 The following diagram shows the tables and their relationships that comprise the Vaccine Administration Management data model.
 
-![Infographic displaying the Vaccine Administration Management data model . For the text description, refer to the Vaccine Administration Management application tables section.](../image/hcls-vam-data-model.png "Vaccine Administration Management data model")
+![Infographic displaying the Vaccine Administration Management data model . For the text description, refer to the Vaccine Administration Management application tables section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/hcls-vam-data-model.png "Vaccine Administration Management data model")
 
 The Vaccine Administration Management data model uses the following tables included within the Vaccine Administration Management application to store data.
 
@@ -400,5 +400,5 @@ Provides a series of standard user fields used on each of the tables that extend
 ServiceNow AI Platform
 
 </td></tr></tbody>
-</table>To learn about Healthcare and Life Sciences Service Management Core, ServiceNow AI Platform, and CSM tables, see [Healthcare and Life Sciences data model](../../healthcare-life-sciences/concept/hcls-serv-mgmt-core-1.md), [Industry data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-tables.md), and [Tables installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TIWCustomerService.md).
+</table>To learn about Healthcare and Life Sciences Service Management Core, ServiceNow AI Platform, and CSM tables, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../healthcare-life-sciences/concept/hcls-serv-mgmt-core-1.md), [Industry data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-tables.md), and [Tables installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TIWCustomerService.md).
 

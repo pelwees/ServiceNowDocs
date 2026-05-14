@@ -28,11 +28,11 @@ Role required: portfolio\_manager or project\_manager or program\_manager
     -   Tap to open an applet and then tap on a project.
     -   Tap on the **Search Projects** applet to find a specific project.
     -   In the **Critical Projects** or the **Project in Red** lists, tap on a project.
-    ![View project details in mobile app.](../image/view-project-details.gif)
+    ![View project details in mobile app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/view-project-details.gif)
 
 
 **Related topics**  
 
 
-[Manage status of your projects using Project Status application](../concept/mobile-project-status.md)
+[Manage status of your projects using Project Status application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/mobile-project-status.md)
 

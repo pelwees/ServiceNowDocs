@@ -80,34 +80,34 @@ Cancel
 Close this conversation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for Manager Hub](reference-manager-hub.md)
+</table>**Parent Topic:**[Reference for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-manager-hub.md)
 
 **Related topics**  
 
 
-[Components installed with Manager Hub](installed-with-managerhub.md)
+[Components installed with Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-managerhub.md)
 
-[Campaign configurations for Manager Hub](../concept/manager-hub-campaign.md)
+[Campaign configurations for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-campaign.md)
 
-[Default configurations for important dates](../concept/manager-hub-imp-dates.md)
+[Default configurations for important dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-imp-dates.md)
 
-[Default configurations for team requests](../concept/manager-hub-team-requests.md)
+[Default configurations for team requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-team-requests.md)
 
-[Default configurations for team data](../concept/team-data-config.md)
+[Default configurations for team data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/team-data-config.md)
 
-[Default configurations for team column data](../concept/config-team-column.md)
+[Default configurations for team column data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-team-column.md)
 
-[Default configurations for filter groups](../concept/config-filter-group.md)
+[Default configurations for filter groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-filter-group.md)
 
-[Default configurations for daily stats](../concept/config-daily-stats.md)
+[Default configurations for daily stats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-daily-stats.md)
 
-[Default configurations for To do's](../concept/manager-hub-todos.md)
+[Default configurations for To do's](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-todos.md)
 
-[Default proactive prompts for Manager Hub](../concept/prompts-mh.md)
+[Default proactive prompts for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/prompts-mh.md)
 
-[Use the View menu icon in Manager Hub](view-menu.md)
+[Use the View menu icon in Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-menu.md)
 
-[Assign learning form](assign-learning-form.md)
+[Assign learning form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/assign-learning-form.md)
 
-[Schedule a conversation form](schedule-conversation-form.md)
+[Schedule a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-conversation-form.md)
 

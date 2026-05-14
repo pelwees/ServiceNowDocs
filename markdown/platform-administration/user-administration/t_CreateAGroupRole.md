@@ -36,5 +36,5 @@ Role required: admin.
     **Note:** To move this action to the background so you aren’t waiting when adding a number of group members, add the system property **glide.ui.schedule\_slushbucket\_save\_for\_group\_roles** and set it to true.
 
 
-**Parent Topic:**[Create a role](t_CreateARole.md)
+**Parent Topic:**[Create a role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 

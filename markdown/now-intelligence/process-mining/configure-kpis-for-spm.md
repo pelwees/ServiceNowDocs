@@ -25,10 +25,10 @@ Role required: Administrator
 
 1.  Ensure that you have the **Project Portfolio Management Standard** plugin installed.
 
-2.  [Add the desired indicator data source](../../../use/performance-analytics/concept/c_IndicatorSources.md#) to the Summary and insights page.
+2.  [Add the desired indicator data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../use/performance-analytics/concept/c_IndicatorSources.md#) to the Summary and insights page.
 
-    For demands, the KPIs are **Active Demands** and **Average Days Demand Open**. ![Process Mining dashboard](../image/pm-demand-kpis.png)
+    For demands, the KPIs are **Active Demands** and **Average Days Demand Open**. ![Process Mining dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/pm-demand-kpis.png)
 
 
-**Parent Topic:**[Content pack for SPM](integration-with-spm.md)
+**Parent Topic:**[Content pack for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-with-spm.md)
 

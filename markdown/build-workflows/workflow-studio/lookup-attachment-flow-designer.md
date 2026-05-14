@@ -33,7 +33,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     Data type: **Record**
 
-    Record containing one or more attachments to look up. You can use the [Look Up Record action](lookup-record-flow-designer.md) to find an appropriate source record.
+    Record containing one or more attachments to look up. You can use the [Look Up Record action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/lookup-record-flow-designer.md) to find an appropriate source record.
 
 
 ## Outputs
@@ -44,7 +44,7 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
     Data type: **String**
 
-    Sys ID of the first matching attachment. You can use the [Look Up Record action](lookup-record-flow-designer.md) to convert this string value into a record output.
+    Sys ID of the first matching attachment. You can use the [Look Up Record action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/lookup-record-flow-designer.md) to convert this string value into a record output.
 
 -   **Attachment List**
 
@@ -55,11 +55,11 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ## Look up attachments from incident records
 
-![Configuration of the Look Up Attachment action where the File Name input is empty, and the Source Record is mapped to the trigger incident.](../images/example-look-up-attachment-action.png)
+![Configuration of the Look Up Attachment action where the File Name input is empty, and the Source Record is mapped to the trigger incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-look-up-attachment-action.png)
 
 This example looks up attachment from incident records so that they can be copied to related problem records. The File Name input is empty to find all attachments in the source record. The Source Record input uses the incident trigger record data pill.
 
-![Execution details for flow step 1 showing a specific Sys ID string returned as output.](../images/example-look-up-attachment-action-execution-details.png)
+![Execution details for flow step 1 showing a specific Sys ID string returned as output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-look-up-attachment-action-execution-details.png)
 
 In this example, the flow execution details show that the trigger incident had only one attachment. The Attachment Sys ID output lists the Sys ID of the attachment record as a string value. The Attachment List output is empty because there was only one attachment associated with the source record.
 
@@ -80,5 +80,5 @@ When the triggering incident record has two or more attachments matching the loo
 ]
 ```
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

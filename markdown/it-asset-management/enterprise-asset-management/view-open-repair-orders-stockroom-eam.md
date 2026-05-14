@@ -36,20 +36,20 @@ Role required: sn\_eam.enterprise\_asset\_technician and sn\_eamenterprise\_asse
 
 The list of open repair orders for the stockroom is displayed.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 
 
-[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](troubleshoot-eam-assets-for-repair.md)
+[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/troubleshoot-eam-assets-for-repair.md)
 
-[Complete the repair asset task in the Enterprise Asset Workspace](repair-eam-assets-ws.md)
+[Complete the repair asset task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-eam-assets-ws.md)
 
-[Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md)
+[Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/evaluate-repaired-eam-asset-ws.md)
 
-[Bulk close asset repair tasks in the Enterprise Asset Workspace](bulk-close-repair-tasks-eam-ws.md)
+[Bulk close asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/bulk-close-repair-tasks-eam-ws.md)
 
-[Cancel a repair order in the Enterprise Asset Workspace](cancel-repair-orders-eam-ws.md)
+[Cancel a repair order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-orders-eam-ws.md)
 
-[Cancel a repair order line in the Enterprise Asset Workspace](cancel-repair-order-line-eam-ws.md)
+[Cancel a repair order line in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-order-line-eam-ws.md)
 

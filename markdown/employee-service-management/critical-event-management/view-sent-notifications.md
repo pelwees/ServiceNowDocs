@@ -30,12 +30,12 @@ Role required: sn\_critical.agent
 4.  Select the **Sent notification** tab.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/manage-related-records.md)
 
 **Related topics**  
 
 
-[Create a Health and Safety incident in Critical Event Management](create-hs-incident.md)
+[Create a Health and Safety incident in Critical Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-hs-incident.md)
 
-[Relate a child critical event](create-child-crtical-event.md)
+[Relate a child critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-child-crtical-event.md)
 

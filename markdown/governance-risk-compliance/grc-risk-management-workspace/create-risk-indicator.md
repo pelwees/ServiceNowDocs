@@ -323,5 +323,5 @@ Previous status of the indicator to show whether the indicator passed or failed.
 
 The risk indicator is created and is ready to be executed.
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-mgmt.md)
 

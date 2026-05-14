@@ -39,5 +39,5 @@ Activate the applications in the following order:
 1.  Health and Safety Incident Management
 2.  Now Assist for Health and Safety
 
-For more information, see [Configuring Now Assist for Health and Safety](now-assist-hs-configuring.md).
+For more information, see [Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md).
 

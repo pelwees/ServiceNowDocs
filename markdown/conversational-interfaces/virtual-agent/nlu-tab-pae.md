@@ -17,7 +17,7 @@ Use the **NLU Prediction** tab to see how well NLU predicts intents, and to impr
 
 Virtual Agent \(VA\) uses the Natural Language Understanding \(NLU\) service to understand user input. **NLU Prediction** tab on the Conversational Analytics dashboard shows how well NLU is understanding user input in VA conversations. Virtual Agent comes with NLU models, but you can use the [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md) to modify or create new models.
 
-![NLU Predictions page.](../images/dashboard-NLU-entire-pae.png)
+![NLU Predictions page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-NLU-entire-pae.png)
 
 To use the NLU Prediction tab, you must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role.
 
@@ -45,12 +45,12 @@ It's possible for intents to appear in several categories. For example, an inten
 
 Clicking anywhere on the NLU Prediction indicator opens the Model Performance page. It shows a summary of intents predicted or not predicted over the date range specified on the graph.
 
-![NLU Model Performance page.](../images/dashboard-model-performance.png)
+![NLU Model Performance page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-model-performance.png)
 
 See [Activate the NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md) for information on how to use NLU Workbench to improve NLU predictions.
 
--   **[Modify models](../task/modify-model-pae.md)**  
+-   **[Modify models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/modify-model-pae.md)**  
 Test and modify the Virtual Agent models so they more accurately predict user intents.
 
-**Parent Topic:**[Using the Conversational Analytics Dashboard](use-the-dashboard-overview-pae.md)
+**Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 

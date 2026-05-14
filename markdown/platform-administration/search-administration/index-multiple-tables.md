@@ -48,7 +48,7 @@ To enable search across multiple tables, you:
 
     2.  Open the record for the table that you want to upgrade to the V4 index format.
 
-    3.  If **Format** isn't disabled, select **V4**, select **Submit**, and then skip to step [2](index-multiple-tables.md#create-index-group).
+    3.  If **Format** isn't disabled, select **V4**, select **Submit**, and then skip to step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-multiple-tables.md#create-index-group).
 
         You can choose index formatting in this step because no index exists for the table.
 
@@ -85,7 +85,7 @@ To enable search across multiple tables, you:
 
     2.  Select **New**.
 
-        The Text Index configuration form displays. If you already have a text index group in the list, skip to step [3.d](index-multiple-tables.md#select-index-group).
+        The Text Index configuration form displays. If you already have a text index group in the list, skip to step [3.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-multiple-tables.md#select-index-group).
 
     3.  In **Applies to**, select **Index Group**.
 
@@ -107,11 +107,11 @@ To enable search across multiple tables, you:
 
     8.  In **Attribute name**, select the magnifying glass and select an attribute.
 
-        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](../reference/index-attributes.md).
+        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md).
 
     9.  In **Value** enter a value and select **Submit**.
 
-        Valid values depend on the attribute. For information on valid values, see [Zing index and search attributes](../reference/index-attributes.md).
+        Valid values depend on the attribute. For information on valid values, see [Zing index and search attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md).
 
     10. Repeat this procedure to define additional search engine parameters for other tables in the text index group.
 
@@ -133,7 +133,7 @@ To enable search across multiple tables, you:
 
     5.  In **Attribute name**, select a search engine parameter, enter a value for that parameter in **Value**, and select **Submit**.
 
-        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](../reference/index-attributes.md).
+        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md).
 
     6.  In **Column**, specify the name of the column in the selected table you want to apply the search attribute to.
 
@@ -159,7 +159,7 @@ To enable search across multiple tables, you:
 
     5.  In **Synonym dictionary**, select the dictionary to use.
 
-        To add a dictionary, select **New** and follow the procedure in [Create synonym dictionaries](create-synonym-dictionaries.md).
+        To add a dictionary, select **New** and follow the procedure in [Create synonym dictionaries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-synonym-dictionaries.md).
 
     6.  Select **Submit**.
 
@@ -172,32 +172,32 @@ To enable search across multiple tables, you:
 
 You can query the tables in the text index group for string matches using the `GlideRecord.addQuery(name, value)` or `GlideRecord.addEncodedQuery(name, value)` methods with the `123TEXTINDEXGROUP321` reserved name. For more information about querying text index groups for string matches, see [Querying tables in script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_UsingGlideRecordToQueryTables.md).
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_SearchingHTMLContent.md)
 
-[Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
+[Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md#)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md)
 
-[Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
+[Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)
 
-[Remove an index](t_RemoveAnIndex.md)
+[Remove an index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndex.md)
 
-[Remove an index for a specific field](t_RemoveAnIndexForASpecificField.md)
+[Remove an index for a specific field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndexForASpecificField.md)
 
-[Remove the text index for a child table](remove-index-child-table.md)
+[Remove the text index for a child table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/remove-index-child-table.md)
 
-[Change the query mode of an indexed table](configure-table-query-mode.md)
+[Change the query mode of an indexed table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-table-query-mode.md)
 
-[Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
+[Enable indexing of text in multi-row variable sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_ViewTextIndexingStatsAndStatus.md)
 
-[Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
+[Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-tables-japanese-tokenizer.md)
 

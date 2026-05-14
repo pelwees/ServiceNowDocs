@@ -44,18 +44,18 @@ The **Restrict access** option is available only to the primary supplier contact
 
 The Primary contact column is set to **false** for this contact on the Vendor Contacts page, and the contact no longer has the primary contact role.
 
-**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-scp.md)
 
 **Related topics**  
 
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-scp.md)
 
-[Elevate a contact to the primary contact role from the Supplier Collaboration Portal](elevate-contact-portal.md)
+[Elevate a contact to the primary contact role from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/elevate-contact-portal.md)
 
-[Reassign tasks to a different contact from the Supplier Collaboration Portal](reassign-task-contact.md)
+[Reassign tasks to a different contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/reassign-task-contact.md)
 
-[Update the supplier contact email from the Supplier Collaboration Portal](update-supp-contact-email.md)
+[Update the supplier contact email from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-contact-email.md)
 
-[Remove a supplier contact from the Supplier Collaboration Portal](remove-supplier-contact.md)
+[Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 

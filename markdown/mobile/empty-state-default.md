@@ -18,7 +18,7 @@ Configure an empty state to inform users that a page currently does not contain 
 Whether creating a default or specific empty state, the following items might be required if you plan to display an image or button:
 
 -   An image from the Attachments \[sys\_attachment\] table.
--   Defined button actions from the Function \[sys\_sg\_button\] table. For more information, see [Configure a smart button](sg-studio-config-smart-button.md).
+-   Defined button actions from the Function \[sys\_sg\_button\] table. For more information, see [Configure a smart button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-smart-button.md).
 
 Role required: admin
 
@@ -26,9 +26,9 @@ Role required: admin
 
 This task explains how to configure a default empty state used in all screens. For information about how to customize empty states for specific screens, see the following topics:
 
--   [Configure an empty state for a list screen](empty-state-list-screen.md).
--   [Configure an empty state for an embedded list in a record screen](empty-state-form-applet-embedded-list.md).
--   [Configure an empty state for search results](empty-state-search-results.md).
+-   [Configure an empty state for a list screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/empty-state-list-screen.md).
+-   [Configure an empty state for an embedded list in a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/empty-state-form-applet-embedded-list.md).
+-   [Configure an empty state for search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/empty-state-search-results.md).
 
 ## Procedure
 

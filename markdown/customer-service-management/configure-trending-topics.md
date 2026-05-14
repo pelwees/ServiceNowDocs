@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Access the menus and use the modules to train the solution definitions to identify trending case topics. For more details, see [Trending case topics](../concept/trending-case-topics.md).
+Access the menus and use the modules to train the solution definitions to identify trending case topics. For more details, see [Trending case topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/trending-case-topics.md).
 
 ## Procedure
 

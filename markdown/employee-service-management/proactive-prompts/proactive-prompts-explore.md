@@ -26,7 +26,7 @@ Prompts are then generated and sent to configured platforms like Service Portal,
 
 The following image illustrates this Proactive Prompts workflow.
 
-![Proactive Prompts workflow](../image/proactive-prompts-overview.png)
+![Proactive Prompts workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../image/proactive-prompts-overview.png)
 
 ## Channels in Proactive Prompts
 
@@ -59,13 +59,13 @@ Virtual Agent
 Prompts can also be delivered to different Conversational Interface \(CI\) channels through Virtual Agent, for example, Microsoft Teams or Slack.
 
 </td></tr></tbody>
-</table>**Note:** For more information, see [Configure delivery channels in Proactive Prompts](../task/proactive-prompts-config-channels.md).
+</table>**Note:** For more information, see [Configure delivery channels in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../task/proactive-prompts-config-channels.md).
 
 ## Configuring data
 
-Configure signals, data sources, channels, categories, actions, and schedules to display prompts to managers and employees in their flow of work. For more information, see [Configuring Proactive Prompts](proactive-prompts-config.md).
+Configure signals, data sources, channels, categories, actions, and schedules to display prompts to managers and employees in their flow of work. For more information, see [Configuring Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-config.md).
 
 ## Proactive Prompts in Manager Hub
 
-Generate and display micro insights to managers using Manager Hub through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](../task/insight-based-sug.md).
+Generate and display micro insights to managers using Manager Hub through Proactive Prompts. The insights contain reminders about the team's service requests, journeys, and learnings, accompanied by relevant actions to communicate the information to the employees. For more information, see [Proactive Prompts for managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../task/insight-based-sug.md).
 

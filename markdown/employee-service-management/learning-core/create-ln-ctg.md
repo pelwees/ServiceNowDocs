@@ -27,34 +27,34 @@ Role required: sn\_lc.catalog\_manager, sn\_lc.catalog\_group\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning library form](../reference/learning-library-form.md).
+    For a description of the field values, see [Learning library form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-library-form.md).
 
 4.  Click **Submit**.
 
 
--   **[Add course items to learning library](add-courses-to-library.md)**  
+-   **[Add course items to learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-courses-to-library.md)**  
 To add course items to the catalog.
--   **[Add users to learning library](add-users-library.md)**  
+-   **[Add users to learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-users-library.md)**  
 You can add applicable users to a learning library.
 
-**Parent Topic:**[Managing course and catalog content](manage-ln-content.md)
+**Parent Topic:**[Managing course and catalog content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
 **Related topics**  
 
 
-[Create a course catalog](create-course-catalog.md)
+[Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md)
 
-[Create a content collection](create-course-collection.md)
+[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-collection.md)
 
-[Create internal learning content](create-ln-cnt.md)
+[Create internal learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-cnt.md)
 
-[View external learning content](create-ln-extcnt.md)
+[View external learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-extcnt.md)
 
-[Create a learning task](ln-task-le.md)
+[Create a learning task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-task-le.md)
 
-[Learning library form](../reference/learning-library-form.md)
+[Learning library form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-library-form.md)
 
-[Add course items to learning library](add-courses-to-library.md)
+[Add course items to learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-courses-to-library.md)
 
-[Add users to learning library](add-users-library.md)
+[Add users to learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-users-library.md)
 

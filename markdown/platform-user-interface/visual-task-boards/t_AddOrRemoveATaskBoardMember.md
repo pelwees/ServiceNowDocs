@@ -29,7 +29,7 @@ Only members of a task board can access the board. Any board member can add or r
 
 2.  Click the members tab.
 
-    ![Members tab](../image/MembersTab.png)
+    ![Members tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/MembersTab.png)
 
 3.  Perform one of the following actions.
 
@@ -50,7 +50,7 @@ Only members of a task board can access the board. Any board member can add or r
 </td><td>
 
 1.  In the **Members** section, point to a user.
-2.  Click the remove icon \(![Remove user icon](../image/RemoveUserIcon.png)\).
+2.  Click the remove icon \(![Remove user icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/RemoveUserIcon.png)\).
 
 
 </td></tr><tr><td id="d95925e145">
@@ -73,18 +73,18 @@ In the **Assignees** section, click **Promote All**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Creating Visual Task Boards](../concept/c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_FreeformBoardTasks.md)
 
-[Data driven Visual Task Boards](../concept/data-driven-tasks.md)
+[Data driven Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/data-driven-tasks.md)
 
-[Add a task to a flexible or guided Visual Task Board](t_AddATaskToAFlexibleOrGuidedBoard.md)
+[Add a task to a flexible or guided Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddATaskToAFlexibleOrGuidedBoard.md)
 
-[Add or modify Visual Task Board lanes](t_AddOrModifyALane.md)
+[Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrModifyALane.md)
 
-[Delete a Visual Task Board](t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_DeleteATaskBoard.md)
 

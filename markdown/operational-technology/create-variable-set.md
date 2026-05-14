@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select the add icon ![](../../../../msi-console/image/add-icon-msi.jpg).
 
-    ![Create a variable set](../../../../msi-console/image/create-variable-set.png)
+    ![Create a variable set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../../msi-console/image/create-variable-set.png)
 
 3.  On the **Create Variable Set** page, add the necessary information and then completion, click **Next**.
 

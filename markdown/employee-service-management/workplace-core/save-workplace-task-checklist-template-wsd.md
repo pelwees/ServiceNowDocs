@@ -27,9 +27,9 @@ When you add a template checklist to a record, you can add, edit, or remove chec
 
 1.  Navigate to the record that contains a checklist you created.
 
-    To find out how to access the record, see [Create a workplace task checklist](create-workplace-task-checklist-wsd.md).
+    To find out how to access the record, see [Create a workplace task checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-task-checklist-wsd.md).
 
-2.  In the **Checklist** section, select the down arrow \(![checklist icon](../../human-resources/reference/images/checklist-icon.png)\) beside the **Checklist** formatter.
+2.  In the **Checklist** section, select the down arrow \(![checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../human-resources/reference/images/checklist-icon.png)\) beside the **Checklist** formatter.
 
 3.  Select **Save as Template**.
 
@@ -42,5 +42,5 @@ When you add a template checklist to a record, you can add, edit, or remove chec
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 

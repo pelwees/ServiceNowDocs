@@ -22,32 +22,32 @@ Accounts Payable Operations integration with Document Intelligence automatically
 The Accounts Payable Specialist can view the invoices by doing the following:
 
 1.  Navigate to **Accounts Payable Operations** &gt; **Source-to-Pay Workspace**.
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 3.  Navigate to **Lists** &gt; **Invoices**.
 
--   **[Create an invoice manually](../task/create-invoice.md)**  
+-   **[Create an invoice manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/create-invoice.md)**  
 As an Accounts Payable Specialist, you can create an invoice manually from the Source-to-Pay Workspace when the automated invoice creation process is encountering issues or not available.
--   **[Update the purchase order on an invoice](../task/change-invoice-po-number.md)**  
+-   **[Update the purchase order on an invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/change-invoice-po-number.md)**  
 If you find that the purchase order that is currently associated with an invoice is incorrect, you can associate the correct purchase order to the invoice.
--   **[View your invoices on Employee Center](../task/view-invoices-ec.md)**  
+-   **[View your invoices on Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-invoices-ec.md)**  
 As a business owner, you can view all the invoices that you own on Employee Center.
 
-**Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
+**Parent Topic:**[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-ap-invoice-processing.md)
 
 **Related topics**  
 
 
-[Invoice ingestion using Application programming interface \(API\)](invoice-ingestion-using-api.md)
+[Invoice ingestion using Application programming interface \(API\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-ingestion-using-api.md)
 
-[Rules based engine](rules-based-engine.md)
+[Rules based engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/rules-based-engine.md)
 
-[Invoice processing cases](working-with-ingestion-cases.md)
+[Invoice processing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-[Invoice exceptions](work-with-invoice-exceptions.md)
+[Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
+[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-[Invoice approvals](invoice-approvals.md)
+[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-invoice-attachment.md)
 

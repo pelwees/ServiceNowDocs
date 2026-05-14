@@ -42,5 +42,5 @@ To make a search profile's settings active in search queries, you must publish i
 
 The search profile appears in the AI Search Search Profiles list with **State** set to **Published**.
 
-**Parent Topic:**[Search profiles in AI Search](../concept/defining-search-profiles-ais.md)
+**Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/defining-search-profiles-ais.md)
 

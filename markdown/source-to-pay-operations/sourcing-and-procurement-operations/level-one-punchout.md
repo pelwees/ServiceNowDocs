@@ -17,7 +17,7 @@ In the Level 1 \(L1\) punchout, SPO and the punchout supplier communicate using 
 
 ## L2 punchout flow
 
-The following figure illustrates the L1 PunchOut flow.![L1 punchout flow.](../image/punchout-level-one-flow.png)
+The following figure illustrates the L1 PunchOut flow.![L1 punchout flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-level-one-flow.png)
 
 ## Communication between SPO and punchout supplier for Level 1 punchout
 
@@ -25,7 +25,7 @@ The following figure illustrates the interaction between SPO and the punchout su
 
 **Note:** This flow is also applicable to other PunchOut systems; however, the content of the cXML payloads may vary depending on the provider.
 
-![Communication between SPO and punchout supplier site.](../image/punchout-spo-site-comm.png)
+![Communication between SPO and punchout supplier site.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-spo-site-comm.png)
 
 ## Cart checkout from the punchout supplier site
 
@@ -38,7 +38,7 @@ The cart checkout flow involves the following:
 
 The following figure illustrates this flow:
 
-![Cart checkout from punchout system.](../image/punchout-cart-checkout.png)
+![Cart checkout from punchout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-cart-checkout.png)
 
 ## Sending purchase order to punchout system
 
@@ -50,19 +50,19 @@ Sending purchase order information to the punchout supplier system involves the 
 
 The following figure illustrates this flow:
 
-![Sending PO to punchout system.](../image/punchout-sending-po.png)
+![Sending PO to punchout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-sending-po.png)
 
 ## Processing order confirmation and shipping confirmation from punchout supplier system
 
-The punchout supplier sends the order confirmation payload to the Order Confirmation URL, which is configured in the punchout supplier's system. Similarly, for each order line, the punchout supplier may optionally send a shipping confirmation payload to the Shipping Confirmation URL. For more information, see [Providing Order and Shipping Confirmation URLs to Punchout Suppliers](punchout-urls.md).
+The punchout supplier sends the order confirmation payload to the Order Confirmation URL, which is configured in the punchout supplier's system. Similarly, for each order line, the punchout supplier may optionally send a shipping confirmation payload to the Shipping Confirmation URL. For more information, see [Providing Order and Shipping Confirmation URLs to Punchout Suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-urls.md).
 
 The following figure illustrates this flow:
 
-![Order confirmation from punchout system.](../image/punchout-order-confirmation.png "Processing order confirmation from punchout system")
+![Order confirmation from punchout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-order-confirmation.png "Processing order confirmation from punchout system")
 
 The following figure illustrates this flow:
 
-![Shipping confirmation from punchout system.](../image/punchout-shipping-confirm.png "Processing shipping confirmation from punchout system")
+![Shipping confirmation from punchout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/punchout-shipping-confirm.png "Processing shipping confirmation from punchout system")
 
-**Parent Topic:**[Understanding Punchout](punchout-overview.md)
+**Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 

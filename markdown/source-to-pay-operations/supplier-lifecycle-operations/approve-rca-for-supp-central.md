@@ -42,12 +42,12 @@ RCA privileges define cross-scope access to an application, an event, or an appl
 6.  Select **Update**.
 
 
-**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](../concept/rca-approvals.md)
+**Parent Topic:**[Restricted caller access approvals for Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/rca-approvals.md)
 
 **Related topics**  
 
 
-[Run the fix script for RCA approvals](run-rca-fix-script.md)
+[Run the fix script for RCA approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-rca-fix-script.md)
 
-[Run the fix script for RCA approvals](run-rca-fix-script.md)
+[Run the fix script for RCA approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-rca-fix-script.md)
 

@@ -19,19 +19,19 @@ Agentic Playbooks use AI agents to help you work more efficiently. AI agents com
 
 <table id="table_hgk_ldl_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Agentic Playbooks](agentic-playbooks.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Agentic Playbooks](agentic-playbooks.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AI agents for your playbook](../task/configure-agentic-playbooks.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AI agents for your playbook](../task/configure-agentic-playbooks.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Agentic Playbooks](../task/running-agentic-activities.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Agentic Playbooks](../task/running-agentic-activities.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Review roles and guidelines](../reference/agentic-playbook-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-learn.svg)Review roles and guidelines](../reference/agentic-playbook-reference.md)
 
 </td></tr></tbody>
 </table>## AI limitations

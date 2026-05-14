@@ -31,7 +31,7 @@ Use the Search Preview UI to diagnose filter configurations that prevent a searc
 
 2.  Select the Search Preview UI's Profile tool ![](../image/search-preview-new-icon-user.png) and enter the affected user's name into the **Search as user** field.
 
-    **Note:** For more details on the **Search as user** field, see [Search Preview admin tools](../reference/search-preview-ui-new-admin-tools.md).
+    **Note:** For more details on the **Search as user** field, see [Search Preview admin tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/search-preview-ui-new-admin-tools.md).
 
 3.  In the Preview types list, select **Full visual view**.
 
@@ -65,7 +65,7 @@ Next Experience UI
 
 In the banner frame, select the icon for your account to open the user menu, then select **Elevate role**.
 
-![User menu with Elevate role action highlighted in Next Experience UI.](../image/elevate-role-polaris-ui.png)
+![User menu with Elevate role action highlighted in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-polaris-ui.png)
 
 </td></tr><tr><td>
 
@@ -73,18 +73,18 @@ Core UI
 
 </td><td>
 
-In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
+In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
 
 </td></tr></tbody>
 </table>        A dialog box appears, displaying a checklist of your available privileged roles.
 
-        ![Dialog box displaying privileged roles in Next Experience UI.](../image/elevate-role-dialog-polaris-ui-ais.png)
+        ![Dialog box displaying privileged roles in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-dialog-polaris-ui-ais.png)
 
     2.  In the dialog box, select the **ais\_high\_security\_admin** option, then select **Update** \(in Next Experience UI\) or **OK**.
 
         The page reloads and an elevated role indicator appears next to your user name in the user menu. In Next Experience UI, this indicator displays the names of the active privileged roles. In Core UI, the indicator displays the elevated role icon ![](../../security/image/icon-elevated-role-ui16.png).
 
-        ![User menu showing elevated role indicator in Next Experience UI.](../image/elevated-polaris-ui.png)
+        ![User menu showing elevated role indicator in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevated-polaris-ui.png)
 
         **Note:** When the page reloads, any unsaved edits are lost.
 
@@ -97,7 +97,7 @@ In the banner frame, select your name to open the user menu, then select **Eleva
 
 Compare the two search result sets. If the search result in question appears only in the elevated search, a search source or content security filter prevents the affected user from viewing that result. If the search result doesn't appear in either search, it's not present in the AI Search index.
 
-If the search result in question is indexed from an external document, you can debug the external content security access permission filter for the affected user to see whether it prevents access to the search result. For details on this procedure, see [Debug external content security filters for a ServiceNow AI Platform user](debug-ext-security-perms-user-ais.md).
+If the search result in question is indexed from an external document, you can debug the external content security access permission filter for the affected user to see whether it prevents access to the search result. For details on this procedure, see [Debug external content security filters for a ServiceNow AI Platform user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/debug-ext-security-perms-user-ais.md).
 
-**Parent Topic:**[Administering AI Search](../concept/administer-ais.md)
+**Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/administer-ais.md)
 

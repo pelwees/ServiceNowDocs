@@ -34,9 +34,9 @@ Select the card to view the following additional details of the case:
 
 You can also search for knowledge articles. Select the search resource icon ![](../image/fin-ops-search-resource.png) and select **Knowledge Articles** to view the articles.
 
-![Select a resource in Agent assist.](../image/fin-ops-agent-assist.png)
+![Select a resource in Agent assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-agent-assist.png)
 
 The Agent assist component is configured and customized by admins in UI Builder. For more information about Agent assist component configurations, see [Agent assist UIB setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/sn-agent-assist-uib/uib-setup).
 
-**Parent Topic:**[Finance Operations Workspace Case Details page](case-details-fin-ops-ws.md)
+**Parent Topic:**[Finance Operations Workspace Case Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/case-details-fin-ops-ws.md)
 

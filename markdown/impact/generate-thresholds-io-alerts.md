@@ -21,27 +21,27 @@ Role required: admin
 
 1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer** &gt; **Alerts** &gt; **Configure alerts**.
 
-    ![Shows the Generate Threshold button in the Configure Alerts banner.](../image/threshold-banner-io.png)
+    ![Shows the Generate Threshold button in the Configure Alerts banner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/threshold-banner-io.png)
 
-    A notification banner displays. If the banner prompts to configure alerts, see [Configure Key Alerts](configuring-io-alerts.md).
+    A notification banner displays. If the banner prompts to configure alerts, see [Configure Key Alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 2.  Select **Generate Threshold**.
 
 3.  Select up to five alerts from the **Max alerts per day / per metric** drop-down to receive for each metric per day.
 
-    The maximum number of alerts selected pertains to each of the six available system metrics. If you choose a maximum of two alerts for each metric, then you receive 12 alerts, as the maximum alert count each day, for example \(2 alerts\) X \(6 metrics\) = 12 alerts. The alert count resets daily at 00:00 UTC.![Shows the alerts threshold configuration screen.](../image/threshold-alerts.png)
+    The maximum number of alerts selected pertains to each of the six available system metrics. If you choose a maximum of two alerts for each metric, then you receive 12 alerts, as the maximum alert count each day, for example \(2 alerts\) X \(6 metrics\) = 12 alerts. The alert count resets daily at 00:00 UTC.![Shows the alerts threshold configuration screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/threshold-alerts.png)
 
 4.  Select **Submit**.
 
     A confirmation message displays.
 
-    ![Shows the alert confirmation screen.](../image/threshold-saved.png)
+    ![Shows the alert confirmation screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/threshold-saved.png)
 
 5.  Navigate to **Edit Alert Configuration**.
 
     An informational blue banner displays with a recommended alert configuration.
 
-    ![Shows the Alert Condition Configuration screen.](../image/config-alert-condition.png)
+    ![Shows the Alert Condition Configuration screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/config-alert-condition.png)
 
 6.  Select the **Configure Alert Condition** banner.
 
@@ -54,9 +54,9 @@ Role required: admin
 9.  After alerts are enabled with the recommended thresholds, the details can be updated manually.
 10. Select **Configure Alert Condition** for a selected metric.
 
-11. While editing an Alert Configuration, select **Change Alert Count**.![Shows the Change Alert Count option.](../image/change-alert-count.png)
+11. While editing an Alert Configuration, select **Change Alert Count**.![Shows the Change Alert Count option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/change-alert-count.png)
 
-12. Select a maximum alert value of up to five and select **Submit**.![The Change alert count metrics option.](../image/change-alert-count-config.png)
+12. Select a maximum alert value of up to five and select **Submit**.![The Change alert count metrics option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/change-alert-count-config.png)
 
     After the change is submitted, the pre-calculated threshold is fetched based on the new maximum alert count for the specific metric. You’re returned to the Edit Alert Configuration window.
 
@@ -67,5 +67,5 @@ Role required: admin
     **Note:** If you choose three max alerts per day, then you may receive up to three Alerts notification per day for that specific metric. The alert count resets daily at 00:00 UTC.
 
 
-**Parent Topic:**[Key alerts – activation and notifications](../concept/io-alerts.md)
+**Parent Topic:**[Key alerts – activation and notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts.md)
 

@@ -25,7 +25,7 @@ Role required: admin
 
 The following items are installed with Automation Discovery: plugins, roles, and tables.
 
-For more information, see [Components installed with Automation Discovery](../reference/installed-with-automation-discovery.md#).
+For more information, see [Components installed with Automation Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/installed-with-automation-discovery.md#).
 
 ## Procedure
 

@@ -127,5 +127,5 @@ The field from the selected task table to be displayed for the task records that
 **Related topics**  
 
 
-[Matching criteria for case assignment](../concept/case-assignment-matching-criteria.md)
+[Matching criteria for case assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/case-assignment-matching-criteria.md)
 

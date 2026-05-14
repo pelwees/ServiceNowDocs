@@ -21,7 +21,7 @@ Role required: wm\_ext\_agent and wm\_ext\_manager
 
 ## About this task
 
-You cannot create and edit SLAs or delete them from work order tasks using the Field Service Contractor Portal. For more information, see [Manage a work order SLA](../../planning-and-policy/task/t_ManageAWorkOrderSLA.md).
+You cannot create and edit SLAs or delete them from work order tasks using the Field Service Contractor Portal. For more information, see [Manage a work order SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_ManageAWorkOrderSLA.md).
 
 ## Procedure
 

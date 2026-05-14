@@ -17,8 +17,8 @@ Record an automation by using the recorder option in the RPA Desktop Design Stud
 
 You must do the following actions before you start recording an automation with the recorder for the first time:
 
--   Install and enable the ServiceNow RPA Chrome extension to your Google Chrome browser. For more information on adding the RPA Google Chrome extension, see [Add the ServiceNow RPA Chrome extension](../../rpa-hub/task/add-google-chrome-extension-rpa.md).
--   Install and enable the ServiceNow RPA Edge extension to your Microsoft Edge browser. For more information on adding the RPA Edge extension, see [Add the ServiceNow RPA Edge extension](add-servicenow-edge-extension.md).
+-   Install and enable the ServiceNow RPA Chrome extension to your Google Chrome browser. For more information on adding the RPA Google Chrome extension, see [Add the ServiceNow RPA Chrome extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/add-google-chrome-extension-rpa.md).
+-   Install and enable the ServiceNow RPA Edge extension to your Microsoft Edge browser. For more information on adding the RPA Edge extension, see [Add the ServiceNow RPA Edge extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/add-servicenow-edge-extension.md).
 -   Ensure that the option **Allow this extension to read and change all your data on websites that you visit** to **On all sites** is enabled in the Site access pane of the ServiceNow RPA Google Chrome and Microsoft Edge browser extensions.
 -   Enable Java Access Bridge from your Windows machine. For more information on how to enable Java Access Bridge, see [Enabling and Testing Java Access Bridge](https://docs.oracle.com/javase/7/docs/technotes/guides/access/enable_and_test.html).
 
@@ -38,7 +38,7 @@ Role required: None
 
     **Important:** If the Universal App Connector \(UAC\) plugin is unavailable or removed from the automation project, the **Launch recorder** button is greyed out in RPA Desktop Design Studio.
 
-2.  Open the application that you want to record and select the **Start recording** icon \(![Start recording icon](../image/start-recording-icon.png)\).
+2.  Open the application that you want to record and select the **Start recording** icon \(![Start recording icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/start-recording-icon.png)\).
 
 3.  Point to the element where you want to perform an action.
 
@@ -46,13 +46,13 @@ Role required: None
 
     For example, if you point to the **Save** button in Notepad++, the element type is displayed as &lt;button&gt; and the default action for this item is **Click**.
 
-    ![Element type displayed as button and default action is Click for Save button.](../image/click-save-button-recorder-rpa.png "Element type and default action for Save button")
+    ![Element type displayed as button and default action is Click for Save button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/click-save-button-recorder-rpa.png "Element type and default action for Save button")
 
 4.  Select the drop-down button against the default action to view the list of related actions for the element.
 
     For example, the list of related actions for the button element type are SendKeys, GetText, DoubleClick, and Focus.
 
-    For more information on the different types of actions and elements, see [Types of elements and actions for the recorder](../reference/element-actions-recorder.md).
+    For more information on the different types of actions and elements, see [Types of elements and actions for the recorder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/element-actions-recorder.md).
 
 5.  Select the required action to be performed on the element.
 
@@ -74,9 +74,9 @@ Action
 
 </td><td>
 
-Select the Highlight parent element icon \(![Highlight parent icon.](../image/hightlight-parent.png)\). For example, if you select the **Highlight parent element** option for a button, the toolbar is highlighted.
+Select the Highlight parent element icon \(![Highlight parent icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/hightlight-parent.png)\). For example, if you select the **Highlight parent element** option for a button, the toolbar is highlighted.
 
-![When the parent table is highlighted, the Highlight parent element option for a button in a toolbar.](../image/highligh-parent-element.gif "Highlight parent element option")
+![When the parent table is highlighted, the Highlight parent element option for a button in a toolbar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/highligh-parent-element.gif "Highlight parent element option")
 
 </td></tr><tr><td id="d152618e301">
 
@@ -84,7 +84,7 @@ Select the Highlight parent element icon \(![Highlight parent icon.](../image/hi
 
 </td><td>
 
-Select the Pause recording icon \(![Pause recording icon.](../image/pause-recording.png)\).
+Select the Pause recording icon \(![Pause recording icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/pause-recording.png)\).
 
 </td></tr><tr><td id="d152618e316">
 
@@ -92,7 +92,7 @@ Select the Pause recording icon \(![Pause recording icon.](../image/pause-record
 
 </td><td>
 
-Select the Show recorded steps icon \(![Show recorded steps icon.](../image/show-recorded-steps.png)\).You can verify the actions that you performed on the application elements from here.
+Select the Show recorded steps icon \(![Show recorded steps icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/show-recorded-steps.png)\).You can verify the actions that you performed on the application elements from here.
 
 </td></tr><tr><td id="d152618e333">
 
@@ -100,7 +100,7 @@ Select the Show recorded steps icon \(![Show recorded steps icon.](../image/show
 
 </td><td>
 
-Select the Help icon \(![Help icon.](../image/help-recorder-rpa-icon.png)\) that navigates to the product documentation web page.
+Select the Help icon \(![Help icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/help-recorder-rpa-icon.png)\) that navigates to the product documentation web page.
 
 </td></tr><tr><td id="d152618e349">
 
@@ -108,7 +108,7 @@ Select the Help icon \(![Help icon.](../image/help-recorder-rpa-icon.png)\) that
 
 </td><td>
 
-Point to the action and select the Delete action icon \(![Delete action icon.](../image/delete-action-icon.png)\).
+Point to the action and select the Delete action icon \(![Delete action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/delete-action-icon.png)\).
 
 </td></tr><tr><td id="d152618e364">
 
@@ -124,7 +124,7 @@ Select **Delete all**.
 
 </td><td>
 
-1.  Select the Edit action icon \(![Edit action icon.](../image/edit-action-rec-rpa-icon.png)\) in the Recorded actions panel.
+1.  Select the Edit action icon \(![Edit action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/edit-action-rec-rpa-icon.png)\) in the Recorded actions panel.
 2.  Update the action type or element name.
 3.  Select **Update**.
 
@@ -180,8 +180,8 @@ You can view the recorded elements as a UAC object in **Global Objects** in Proj
 
 2.  Configure the screens and the elements of the recording from the Screens and elements pane.
 
-    For more information on how to configure the screen and element match rules, see [Use the Universal App Connector](configure-uac.md).
+    For more information on how to configure the screen and element match rules, see [Use the Universal App Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-uac.md).
 
 
-**Parent Topic:**[Recording automations](../concept/recording-automations.md)
+**Parent Topic:**[Recording automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/recording-automations.md)
 

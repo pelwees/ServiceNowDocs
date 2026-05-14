@@ -26,11 +26,11 @@ Card view templates use the values in the **Template JSON** field to determine t
 
  Use these properties to assign a color using color variables from the UX Theme Properties \[sys\_ux\_theme\_property\] table.
 
- For details creating card templates, see [Create a card template with Mobile Card Builder](../task/mcb-create-template.md).
+ For details creating card templates, see [Create a card template with Mobile Card Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/mcb-create-template.md).
 
 </td><td>
 
-![Color variable used in a card view template](../image/color-var-example-5.png)
+![Color variable used in a card view template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-5.png)
 
 </td></tr></tbody>
 </table>

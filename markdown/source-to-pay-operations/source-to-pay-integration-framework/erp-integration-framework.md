@@ -44,7 +44,7 @@ The ERP Integration Framework application loads primary data into Source-to-Pay 
 
 Both the ERP Integration Framework and Source-to-Pay Integration Framework applications provide an abstraction layer between the Source-to-Pay application and backend systems. This design shields Source-to-Pay workflows and data models from backend-specific integration components and data structures.
 
-![Source-to-Pay Operations Integration Architecture](../image/s2p-data-architecture.png "Source-to-Pay Operations Integration Architecture")
+![Source-to-Pay Operations Integration Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../image/s2p-data-architecture.png "Source-to-Pay Operations Integration Architecture")
 
 **Required Applications**
 

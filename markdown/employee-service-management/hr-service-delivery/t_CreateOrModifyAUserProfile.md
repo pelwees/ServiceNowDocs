@@ -329,7 +329,7 @@ Social Security number
 
 </td><td>
 
-Enter the social security number of the user.**Note:** This field is not encrypted for security. For security purposes, it is recommended to use the **National tax ID \(encrypted\)**, **National tax ID type**, and National tax ID country fields. For more information, see [HR profile encrypted tax identification fields](../concept/hr-profile-encrypted-fields.md).
+Enter the social security number of the user.**Note:** This field is not encrypted for security. For security purposes, it is recommended to use the **National tax ID \(encrypted\)**, **National tax ID type**, and National tax ID country fields. For more information, see [HR profile encrypted tax identification fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-profile-encrypted-fields.md).
 
 </td></tr><tr><td>
 
@@ -356,7 +356,7 @@ National tax ID country
 
 </td><td>
 
-The country associated with the national tax identification number of the employee.You can enter the country name or select the Suggestion icon \(![Suggestion icon](../image/suggestion-icon.png)\) to view a list of countries.
+The country associated with the national tax identification number of the employee.You can enter the country name or select the Suggestion icon \(![Suggestion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/suggestion-icon.png)\) to view a list of countries.
 
 </td></tr><tr><td>
 
@@ -468,7 +468,7 @@ Employee Union Memberships
 
 </td><td>
 
-Lists the labor union information associated with the employee. Select **New** to add labor union information for the employee. For more information, see [Create employee union memberships](labor-union-employee-membership.md).
+Lists the labor union information associated with the employee. Select **New** to add labor union information for the employee. For more information, see [Create employee union memberships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-employee-membership.md).
 
 </td></tr></tbody>
 </table>5.  Click **Submit** and return to the **HR Profiles** list page or **Save** and remain on the **HR Profile** form.
@@ -476,5 +476,5 @@ Lists the labor union information associated with the employee. Select **New** t
     **Note:** Some HR profile information, such as department, is synchronized between the User \[sys\_user\] and HR Profile \[hr\_profile\] records. Updating information in one record automatically applies the updates in the other record.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

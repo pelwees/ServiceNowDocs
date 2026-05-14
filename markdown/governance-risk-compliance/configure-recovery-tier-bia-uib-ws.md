@@ -27,15 +27,15 @@ Role required: sn\_bcm.admin
 
     The recovery tier record is shown in the example.
 
-    ![Recovery tier and its recovery time objective.](../image/new-recovery-tier-rto.png)
+    ![Recovery tier and its recovery time objective.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-recovery-tier-rto.png)
 
-    For more information on the fields in the form, see [Recovery Tier record form](../reference/recovery-tier-record-form.md).
+    For more information on the fields in the form, see [Recovery Tier record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/recovery-tier-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Recovery Tier record form](../reference/recovery-tier-record-form.md)**  
+-   **[Recovery Tier record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/recovery-tier-record-form.md)**  
 Use the Recovery Tier record form to configure a recovery tier with a set of business applications by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-bcmadmin-tasks.md)
 

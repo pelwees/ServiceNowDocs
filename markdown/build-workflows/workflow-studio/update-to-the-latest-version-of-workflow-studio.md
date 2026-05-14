@@ -23,7 +23,7 @@ Role required: admin
 
 Workflow Studio displays an information banner when a new version is available.
 
-![Workflow Studio information banner indicating that a new version is available](../images/workflow-studio-new-version.png "New version available information banner")
+![Workflow Studio information banner indicating that a new version is available](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workflow-studio-new-version.png "New version available information banner")
 
 Updating Workflow Studio automatically updates all of its application dependencies such as Flow Designer, Playbook, and Decision Builder.
 
@@ -44,5 +44,5 @@ You can also find and update each individual Workflow Studio application depende
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Workflow Studio](../concept/configuring-workflow-studio.md)
+**Parent Topic:**[Configuring Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/configuring-workflow-studio.md)
 

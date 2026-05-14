@@ -17,6 +17,6 @@ Reference topics provide additional information on service contract life cycle a
 
 To learn more about configuring and using Customer Contracts and Entitlements, see:
 
--   [Configure Customer Contracts and Entitlements](configuring-post-sales-support.md)
--   [Using Customer Contracts and Entitlements](using-post-sales-support.md)
+-   [Configure Customer Contracts and Entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-post-sales-support.md)
+-   [Using Customer Contracts and Entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-post-sales-support.md)
 

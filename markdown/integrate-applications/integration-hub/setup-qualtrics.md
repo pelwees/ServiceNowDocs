@@ -41,7 +41,7 @@ Role required: admin
 
 5.  Under **API**, copy and record the value of **Token**.
 
-    ![Copy the required values from Qualtrics account.](../image/qualtrics-values.png)
+    ![Copy the required values from Qualtrics account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/qualtrics-values.png)
 
 6.  Click the **OAuth Client Manager** tab.
 
@@ -57,7 +57,7 @@ Role required: admin
 
 9.  Click **Create Client**.
 
-    ![Copy and record the values of client ID and client secret.](../image/qualtrics-clientvalues.png)
+    ![Copy and record the values of client ID and client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/qualtrics-clientvalues.png)
 
     The values of Client ID and Client Secret are displayed. Copy and record these values for later use.
 
@@ -80,11 +80,11 @@ Role required: admin
 
     **Note:** Don't click **Add Connection**.
 
-    ![View connection details.](../image/qualtrics-view.png)
+    ![View connection details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/qualtrics-view.png)
 
 4.  If you are configuring the spoke for the first time, click **Configure**.
 
-    ![Configure connection record.](../image/qualtrics-conf.png)
+    ![Configure connection record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/qualtrics-conf.png)
 
 5.  On the Configure Connection form, fill in the fields.
 

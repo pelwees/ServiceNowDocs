@@ -19,10 +19,10 @@ Test cases can be assigned to users from the Test Plan form directly, or from th
 
 Users with the tm\_tester role can choose to perform testing from the Test Plan form or the Test Case form, the VTB, or by using the guided test execution feature. Business users can only perform testing using the guided test execution.
 
--   **[Assign testers from the Test Plan form](../task/t_AssignTestersFromTheTestPlanForm.md)**  
+-   **[Assign testers from the Test Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_AssignTestersFromTheTestPlanForm.md)**  
 Use the Test Cases related list on the Test Plan form to assign testers.
--   **[Assign testers from the Visual Task Board](../task/t_AssignTestersFromTheVTB.md)**  
+-   **[Assign testers from the Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_AssignTestersFromTheVTB.md)**  
 Assign the test case to a tester from the Visual Task Board \(VTB\).
 
-**Parent Topic:**[Setting up the manual testing process](c_TestManager.md)
+**Parent Topic:**[Setting up the manual testing process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestManager.md)
 

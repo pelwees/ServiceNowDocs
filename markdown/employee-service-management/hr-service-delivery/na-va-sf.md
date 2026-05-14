@@ -19,7 +19,7 @@ You can use the Now Assist Virtual Agent topics in Employee Center to place requ
 
 To access and use the Virtual Agent topics, verify the following:
 
--   [Configure the Now Assist for HRSD Virtual Agent topics](../task/config-va-topics.md)
+-   [Configure the Now Assist for HRSD Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/config-va-topics.md)
 -   Have one of the following roles: sn\_hr\_sp.admin , sn\_hr\_sp.esc\_admin
 
 ## Available Spoke Subflows for Virtual Agent topics for HR Service Delivery Integration with SuccessFactors
@@ -173,7 +173,7 @@ SuccessFactors HR - Lookup Worker Profile
 
 The Lookup Worker Profile Virtual Agent topic enables you to view the profile of a coworker. From Employee Center, open a chat window and type in key words, for example, worker profile. After you have specified the details of coworkers, worker profile details of one or more users are displayed.
 
-![Lookup Worker Profile 1](../image/sf-lookup-profile1.png) ![Lookup Worker Profile 2](../image/sf-lookup-profile2.png)
+![Lookup Worker Profile 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-lookup-profile1.png) ![Lookup Worker Profile 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-lookup-profile2.png)
 
 ## Update Personal Details
 
@@ -188,44 +188,44 @@ You can update personal details in Virtual Agent using one of the following topi
 
 The Get User Paychecks Virtual Agent topic enables you to view your payslip details. From Employee Center, open a chat window and type in key words, for example, get payslips. After you provide the required details such as start date and end date, your payslip summary, in the form of pay period, gross pay, deductions, and net pay are displayed. A detailed breakdown of deductions is also displayed.
 
-![Get User Paychecks](../image/sf-get-paychecks.png)
+![Get User Paychecks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-get-paychecks.png)
 
 ## Get Total Rewards
 
 The Get Total Rewards Virtual Agent topic enables you to view your rewards. From Employee Center, open a chat window and type in key words, for example, rewards.
 
-![Get Total Rewards](../image/sf-get-total-rewards.png)
+![Get Total Rewards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-get-total-rewards.png)
 
 ## Get Time Off Balance
 
 The Get Time Off Balance Virtual Agent topic enables you to view your leave balance. From Employee Center, open a chat window and type in key words, for example, leave balance.
 
-![Get TimeOff](../image/sf-timeoff.png)
+![Get TimeOff](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-timeoff.png)
 
 ## Request Time Off
 
 The Request Timeoff Virtual Agent topic enables you to apply for leaves. From Employee Center, open a chat window and type in key words, for example, request time off. After you have specified required details such as start date and end date, the time off request is sent to the SuccessFactors system.
 
-![Request Time Off 1](../image/sf-requestoff-1.png) ![Request Time Off 2](../image/sf-requestoff-2.png)
+![Request Time Off 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-requestoff-1.png) ![Request Time Off 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-requestoff-2.png)
 
 ## Get Holiday Calendar
 
 The Get Holiday Calendar Virtual Agent topic enables you to view your holiday calendar. From Employee Center, open a chat window and type in key words, for example, holiday calendar. After specifying the calendar year, the holiday calendar appears in the chat.
 
-![Get Holiday Calendar 1](../image/sf-calendar-1.png) ![Get Holiday Calendar 2](../image/sf-calendar-2.png)
+![Get Holiday Calendar 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-calendar-1.png) ![Get Holiday Calendar 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/sf-calendar-2.png)
 
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View job tracker details](view-job-tracker-details-sf.md)
+[View job tracker details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/field-mappings-sf.md)
 
-[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/conversational-agents-sf.md)
 

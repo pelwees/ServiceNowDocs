@@ -128,10 +128,10 @@ Tab to view Customer Service case information, if Customer Service is activated.
 </td></tr></tbody>
 </table>5.  Select any of the following related links to further update the security incident:
 
-    -   [Show Affected Items](show-affected-items-for-si.md)
-    -   [Show IoC](show-ioc-info-for-si.md)
-    -   [Show Enrichment Data](show-enrich-data-for-si.md)
-    -   [Show Response Tasks](show-response-tasks-for-si.md)
+    -   [Show Affected Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-affected-items-for-si.md)
+    -   [Show IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-ioc-info-for-si.md)
+    -   [Show Enrichment Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-enrich-data-for-si.md)
+    -   [Show Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 6.  Select **Submit**.
 
 

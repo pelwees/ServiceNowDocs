@@ -38,7 +38,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
 1.  Define the ERP source that you want to integrate with SAP integration.
 2.  Create a basic authentication profile that can be used for web service integration with SAP.
-3.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP](../task/define-erp-source-sap.md).
+3.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/define-erp-source-sap.md).
 4.  The integration services are preconfigured with the base system for the following entities:
 
     -   **Currencies**
@@ -97,7 +97,7 @@ To perform the ERP Source configuration for SAP, follow these steps:
 
         Set up subflows for the source configuration to lookup material group details from SAP.
 
-    ![ERP Source Configuration of S4 HANA](../../source-to-pay-operations/image/sap-integration-source-config.png "ERP Source Configuration of S4 HANA")
+    ![ERP Source Configuration of S4 HANA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-source-config.png "ERP Source Configuration of S4 HANA")
 
     **Note:** Similarly, you can select SAP ECC configuration to view the list of services.
 
@@ -109,18 +109,18 @@ To perform the ERP Source configuration for SAP, follow these steps:
     You have configured the ERP source for SAP.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[Define ERP source configuration for SAP](../task/define-erp-source-sap.md)
+[Define ERP source configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/define-erp-source-sap.md)
 
-[Configure integration services for SAP](../task/configure-service-maps-sap.md)
+[Configure integration services for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/configure-service-maps-sap.md)
 
-[Look up primary data in SAP](look-up-primary-data-sap.md)
+[Look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/look-up-primary-data-sap.md)
 
-[Manually execute flows or subflows in SAP \(Inbound\)](../task/manually-trigger-subflows-sap.md)
+[Manually execute flows or subflows in SAP \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/manually-trigger-subflows-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/scheduled-jobs-to-primary-data-sap.md)
 

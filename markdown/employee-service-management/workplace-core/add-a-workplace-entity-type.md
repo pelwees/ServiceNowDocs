@@ -43,7 +43,7 @@ The entity type is created.
 
 ## What to do next
 
-[Add workplace entities to an entity type](add-workplace-entities-to-an-entity-type.md)
+[Add workplace entities to an entity type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-workplace-entities-to-an-entity-type.md)
 
-**Parent Topic:**[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+**Parent Topic:**[Configure Workplace entity and entity types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/workplace-entity.md)
 

@@ -31,8 +31,8 @@ Adding a board as a favorite is only available in Core UI.
 
 3.  Select the star icon.
 
-    ![Navigation panel open to information tab with the favorite star icon highlighted](../image/FavoriteABoard.png)
+    ![Navigation panel open to information tab with the favorite star icon highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/FavoriteABoard.png)
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/viewing-sharing-vis-task-brds.md)
 

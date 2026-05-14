@@ -49,12 +49,12 @@ Terms and Conditions can only be added to a contract when it is being created. A
         2.  In the dialog box, select the check box for each term and condition that you want to add.
         3.  Click **Add**.
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_TermsAndConditions.md)
 
 **Related topics**  
 
 
-[Create a terms and conditions record](t_CreateATermsAndConditionsRecord.md)
+[Create a terms and conditions record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateATermsAndConditionsRecord.md)
 
-[Build a terms and conditions document within a contract](t_BuildTandCDocWinContract.md)
+[Build a terms and conditions document within a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_BuildTandCDocWinContract.md)
 

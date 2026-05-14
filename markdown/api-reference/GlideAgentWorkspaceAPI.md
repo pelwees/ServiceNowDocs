@@ -17,7 +17,7 @@ The g\_aw API provides methods that enable a UI action or client script to open 
 
 There is no constructor for this class. Access GlideAgentWorkspace methods using the `g_aw` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## GlideAgentWorkspace - closeRecord\(\)
 
@@ -177,7 +177,7 @@ String
 
 Name of the initial tab to display in the workspace. You can only specify related items or related lists.If not specified, the details tab appears unless **hideDetails** is set to true.
 
- For more information on the method to use to obtain a related list name, see [getRelatedListNames\(\)](../../GlideForm/concept/c_GlideFormAPI.md#).
+ For more information on the method to use to obtain a related list name, see [getRelatedListNames\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../GlideForm/concept/c_GlideFormAPI.md#).
 
 </td></tr><tr><td>
 

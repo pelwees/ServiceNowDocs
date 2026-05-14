@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetPosition component. For more information about these properties, see [Properties of the Mouse components](../reference/util-mouse-prop.md).
+You can configure the properties for the GetPosition component. For more information about these properties, see [Properties of the Mouse components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-mouse-prop.md).
 
 ## Procedure
 
@@ -93,5 +93,5 @@ No
 </table>4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Mouse](../concept/mouse-utility.md)
+**Parent Topic:**[Mouse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/mouse-utility.md)
 

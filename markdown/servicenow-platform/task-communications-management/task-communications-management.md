@@ -15,7 +15,7 @@ breadcrumb: [Task Communications Management, ServiceNow AI Platform Additional C
 
 Task Communications Management helps you to streamline the process by creating designated communication plans for effective communication during an event. The communication plan, with its defined tasks, helps you to focus on resolving the current issue instead of deciding when to send a communication, what information to share, and whom to inform.
 
-![Basic components](../image/tcm-basic-component.png "Task Communications Management basic components")
+![Basic components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../image/tcm-basic-component.png "Task Communications Management basic components")
 
 ## How Task Communications Management works
 
@@ -44,5 +44,5 @@ Assume that you want an incident communication plan generated for a high-priorit
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[Task Communications Management](../reference/tcm-landing-page.md)
+**Parent Topic:**[Task Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../reference/tcm-landing-page.md)
 

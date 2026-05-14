@@ -49,7 +49,7 @@ Steps
 
 </td><td>
 
-From the goals and targets list, select the target record that you want to update the actual value for and select the add remarks icon \(![Add remarks icon.](../../spw-goals/images/add-remarks-icon.png)\) in the **Actual** column of the target breakdown.The target breakdown side panel opens with the **Check-in actuals** window.
+From the goals and targets list, select the target record that you want to update the actual value for and select the add remarks icon \(![Add remarks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-goals/images/add-remarks-icon.png)\) in the **Actual** column of the target breakdown.The target breakdown side panel opens with the **Check-in actuals** window.
 
 Alternatively, you can select the cell in the Actual column of the target breakdown and enter the actual value on the **Goals and targets** tab.
 
@@ -77,27 +77,27 @@ All the target breakdowns are displayed.
 </td></tr></tbody>
 </table>4.  On the form, update the **Actual** field for the target breakdown and add a business justification in the **Remark** field.
 
-    For a description of the field values, see [Target Breakdown form](../../spw-goals/reference/target-breakdown-form-sp.md).
+    For a description of the field values, see [Target Breakdown form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-goals/reference/target-breakdown-form-sp.md).
 
 5.  Select **Save**.
 
 
 ## Result
 
-After the **Actual** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](../../alignment-planner-workspace/concept/progress-value-calculation-egm.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](../concept/target-breakdowns-strategy.md).
+After the **Actual** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/concept/progress-value-calculation-egm.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/target-breakdowns-strategy.md).
 
 **Related topics**  
 
 
-[Update the progress of a manual target](update-progress-of-target-strategy.md)
+[Update the progress of a manual target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-progress-of-target-strategy.md)
 
-[Update the progress of an automated target](update-progress-of-auto-target-strategy.md)
+[Update the progress of an automated target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-progress-of-auto-target-strategy.md)
 
-[Create a goal](create-goal-strategy.md)
+[Create a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-[Duplicate a goal or target](duplicate-goal-target-strategy.md)
+[Duplicate a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/duplicate-goal-target-strategy.md)
 
-[Align work with a goal or target](associate-work-with-goals-strategy.md)
+[Align work with a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/associate-work-with-goals-strategy.md)
 
-[Send a reminder for target actuals check in](send-reminder-target-checkin-strategy.md)
+[Send a reminder for target actuals check in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 

@@ -31,5 +31,5 @@ Roles required: sn\_rtl\_cs\_cmplnt.agent, sn\_rtl\_cs\_cmplnt.agent\_manager
     |**Resolution notes**|Note about the resolution.|
 
 
-**Parent Topic:**[Manage customer complaints](rahi-retail-manage-customer-complaints.md)
+**Parent Topic:**[Manage customer complaints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
 

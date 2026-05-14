@@ -34,7 +34,7 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
 
 2.  Click the cogwheel to open the Configuration options.
 
-    ![KPI Signals panel showing the cogwheel button for opening configuration settings](../image/kpi-signals-open-settings.png)
+    ![KPI Signals panel showing the cogwheel button for opening configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-open-settings.png)
 
 3.  Open the Notifications tab.
 
@@ -44,7 +44,7 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
 
     If you select one KPI, its settings appear in the **Editing configuration items** panel. If you select more than one KPI, only the values that are the same for all these KPIs appear in the panel. When you enter the new values in that panel, they apply to all selected KPIs.
 
-    ![Notifications tab of KPI Signals Configuration, showing multiple KPIs selected and no values in the Editing panel](../image/kpi-signals-notification-config-2-kpi.png)
+    ![Notifications tab of KPI Signals Configuration, showing multiple KPIs selected and no values in the Editing panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-notification-config-2-kpi.png)
 
 5.  Set the interval between getting reminders about unresolved signals.
 
@@ -58,10 +58,10 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
     Length of time to calculate the baseline for the KPI * Anti-signal factor
     ```
 
-    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [Signal, no signal, and anti-signal](../concept/signal-no-signal-anti-signal.md).
+    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [Signal, no signal, and anti-signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/signal-no-signal-anti-signal.md).
 
 8.  Click **Save**.
 
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configuring-kpi-signals.md)
 

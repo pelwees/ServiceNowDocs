@@ -27,11 +27,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 IoT is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. The classes added in this release, extend the Data Model to provide a foundation for the representation of IoT CI classes. This foundation underpins workflows for Enterprise Asset Management \(EAM\), Governance Risk Conformance \(GRC\), Component Supply Management \(CSM\), and Field Service Management \(FSM\) surrounding the management of IoT devices and the transport vehicles that some reside in.
 
-![IoT extension classes integrated with the CMDB class hierarchy.](../image/cmdb_iot_diagram.png "IoT extension classes integrated with the CMDB class hierarchy")
+![IoT extension classes integrated with the CMDB class hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/cmdb_iot_diagram.png "IoT extension classes integrated with the CMDB class hierarchy")
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.6.0 adds the following classes for IoT.
 
@@ -449,5 +449,5 @@ A device that is network connected which is used in the purchase of goods or ser
 </table>**Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_ConfigurationManagementDatabase.md)
 

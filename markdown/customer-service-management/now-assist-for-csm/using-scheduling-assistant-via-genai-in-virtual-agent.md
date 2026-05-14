@@ -48,5 +48,5 @@ To cancel an appointment:
 
 Now LLM Service ensures that these interactions are smooth and efficient, allowing you to manage your schedule with ease.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 

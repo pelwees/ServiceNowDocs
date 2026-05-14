@@ -17,8 +17,8 @@ You can activate the Google Cloud Logging \(formerly Stackdriver Logging\) servi
 
 ## Before you begin
 
--   Activate Discovery and Service Mapping Patterns. For more information, see [Google Cloud Platform Discovery](../../service-mapping/reference/google-gcp-discovery-pattern.md).
--   Verify that Discovery has successfully discovered logical datacenters of the Google Cloud project. For more information, see [Set up a cloud account and service account for Google Cloud Platform](../../cloud-management-v2-setup/task/gcp-first-cld-and-srvc-accts.md).
+-   Activate Discovery and Service Mapping Patterns. For more information, see [Google Cloud Platform Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/reference/google-gcp-discovery-pattern.md).
+-   Verify that Discovery has successfully discovered logical datacenters of the Google Cloud project. For more information, see [Set up a cloud account and service account for Google Cloud Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../cloud-management-v2-setup/task/gcp-first-cld-and-srvc-accts.md).
 
     **Note:** Verify that you have selected the **Should pull events** check box in the Google Service Account page before you execute datacenter discovery.
 
@@ -59,7 +59,7 @@ When configured, Discovery pulls the Cloud Logging API at regular intervals to d
 
 3.  To modify the schedule, navigate to **System Scheduler** &gt; **Scheduled Jobs** and then select **GCP-Events-job** and then update the **Repeat** setting as needed.
 
-    ![Google Cloud Event Scheduler form](../../cloud-management-v2-setup/image/google-cloud-event-scheduler.png)
+    ![Google Cloud Event Scheduler form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../cloud-management-v2-setup/image/google-cloud-event-scheduler.png)
 
 4.  Select **Update**.
 

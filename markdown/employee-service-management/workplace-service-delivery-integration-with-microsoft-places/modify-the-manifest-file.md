@@ -21,7 +21,7 @@ Role required: admin
 
 Ensure to download the manifest file.
 
-For more information on downloading the manifest files, refer to [Download manifest files](download-manifest-files.md)
+For more information on downloading the manifest files, refer to [Download manifest files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/download-manifest-files.md)
 
 ## Procedure
 

@@ -19,8 +19,8 @@ Perform the tasks that are outlined in this section to manage business continuit
 
 See these sections for performing business continuity tasks in BCM Configurable Workspace:
 
--   For tasks related to a business impact analysis, see [Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md).
--   For tasks related to a business continuity plan, see [Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md).
--   For tasks related to an exercise event, see [Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md).
--   For tasks related to a crisis event, see [Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md).
+-   For tasks related to a business impact analysis, see [Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md).
+-   For tasks related to a business continuity plan, see [Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md).
+-   For tasks related to an exercise event, see [Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md).
+-   For tasks related to a crisis event, see [Structured workflows for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 

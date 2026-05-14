@@ -21,7 +21,7 @@ Select any widget or chart to view the details. You can also use Location, Sto
 
 **Note:** The Domain filter is available only when you’ve enabled the Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\) and Domain Separation \(plugin com.snc.pa.domain\_support\) plugins.
 
-![Inventory view in Asset Workspace](../../hardware-asset-management/image/asset-wrkspc-inventoryoverview.png "Inventory view")
+![Inventory view in Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/image/asset-wrkspc-inventoryoverview.png "Inventory view")
 
 |Widget or chart|Description|
 |---------------|-----------|

@@ -31,7 +31,7 @@ The following items are installed with the Intelligent Servicing for Fraud appli
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Intelligent Servicing for Fraud](../reference/installed-with-intelligent-servicing-fraud.md).
+For more information, see [Components installed with Intelligent Servicing for Fraud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/intelligent-servicing-for-fraud/../reference/installed-with-intelligent-servicing-fraud.md).
 
 ## Procedure
 

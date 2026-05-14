@@ -33,14 +33,14 @@ A usage counter tracks a license based on how often the license is actually used
 
     All fields on the form are read-only.
 
-    ![SAM software usage](../image/SAMSoftwareUsage.png "SAM software usage")
+    ![SAM software usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMSoftwareUsage.png "SAM software usage")
 
     |Field|Description|
     |-----|-----------|
     |Display name|Name of the software usage record.|
     |Publisher|Publisher of the software.|
     |Version|Version of the software.|
-    |Discovery model|[Software discovery model](../concept/c_UsingSoftwareDiscoveryModels.md) associated with the installed software.|
+    |Discovery model|[Software discovery model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UsingSoftwareDiscoveryModels.md) associated with the installed software.|
     |Primary key|Unique identifier for table row.|
     |Usage|
     |User|User who accessed the software.|
@@ -56,5 +56,5 @@ A usage counter tracks a license based on how often the license is actually used
     |Cached|If selected, indicates that a software count has already been cached.|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseCountersSWLicenseReconcil.md)
 

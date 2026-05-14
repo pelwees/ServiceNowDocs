@@ -28,10 +28,10 @@ Visit these resources about Now Assist in Virtual Agent.
 -   [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md)
 -   [Exploring Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/exploring-now-assist-va.md)
 
--   **[Making reservations using the Create a reservation agent](using-reservation-agent.md)**  
+-   **[Making reservations using the Create a reservation agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/using-reservation-agent.md)**  
 The Create a reservation agent enables employees to find an available space and create workplace reservations quickly. Employees can interact with the reservation agent using the Now Assist in Virtual Agent enhanced chat interface in Employee Center. They can also use the Now Mobile® chat interface for interacting with the Virtual Agent.
--   **[Using the workplace collaboration Agent for space suggestions](suggest-space-agent.md)**  
+-   **[Using the workplace collaboration Agent for space suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/suggest-space-agent.md)**  
 The Workplace Collaboration Agent provides insights on your team members in-office attendance. Based on this information, the reservation agent finds and reserves a space for reservation and collaboration. The collaboration agent considers your colleague's in-office days, location, and suggests a space for collaboration when you are in office.
 
-**Parent Topic:**[Now Assist for Workplace Service Delivery \(WSD\)](now-assist-wsd-landing.md)
+**Parent Topic:**[Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-landing.md)
 

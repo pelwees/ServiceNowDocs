@@ -50,5 +50,5 @@ You can specify an HTTP header for a REST message, or for an HTTP method. Header
 8.  Click **Update**.
 
 
-**Parent Topic:**[Create a REST message](t_ConfiguringARESTMessage.md)
+**Parent Topic:**[Create a REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfiguringARESTMessage.md)
 

@@ -50,5 +50,5 @@ Role required: admin
 
 ## What to do next
 
-[Activate Problem Management Best Practice — Madrid — State Model](activate-plugin-problem-management.md).
+[Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/activate-plugin-problem-management.md).
 

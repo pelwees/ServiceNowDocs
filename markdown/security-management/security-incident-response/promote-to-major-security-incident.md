@@ -29,7 +29,7 @@ Role required: sn\_si.analyst.
 
 4.  On the form, fill in the fields such as Detection date, Estimated resolution date, Justification, and Potential impact.
 
-    ![Promote incident](../image/promote-msi.png)
+    ![Promote incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/promote-msi.png)
 
 5.  Click **Promote**.
 
@@ -40,5 +40,5 @@ Role required: sn\_si.analyst.
     **Note:** You can also unlink the major security incident if the incident is not critical, the incident will then be unlinked and lists under the list view for the security analyst remediation.
 
 
-**Parent Topic:**[Working with MSI Records](../concept/working-with-msi-records.md)
+**Parent Topic:**[Working with MSI Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/working-with-msi-records.md)
 

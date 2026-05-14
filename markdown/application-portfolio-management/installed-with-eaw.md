@@ -299,5 +299,5 @@ Architectural Artifact Version \[sn\_apm\_architectural\_version\]
 |Default title for doc page collection|EA doc page \[sn\_apm\_ws\_ea\_doc\_page\]| |
 |Populate default values for version note|Architectural Artifact Version \[sn\_apm\_architectural\_version\]| |
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

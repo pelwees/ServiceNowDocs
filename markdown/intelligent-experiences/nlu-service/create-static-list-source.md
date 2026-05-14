@@ -36,7 +36,7 @@ In this example procedure, you're creating a list vocabulary source for your com
 
 3.  Click **Create new list**.
 
-    ![My lists tab of the Vocabulary sources page.](../images/create-vocab-list1.png)
+    ![My lists tab of the Vocabulary sources page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-vocab-list1.png)
 
 4.  In the **Create a new list to refer to** window, configure the fields.
 
@@ -55,7 +55,7 @@ In this example procedure, you're creating a list vocabulary source for your com
     -   **Synonym**: `meeting room`
     -   **Enable Fuzzy Matching**: Select the box.
     -   **Make case sensitive**: Leave the box clear.
-    ![Create a new list to refer to window for the meeting room example.](../images/create-static-listT1.png)
+    ![Create a new list to refer to window for the meeting room example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-static-listT1.png)
 
 5.  Click **Create**.
 
@@ -67,13 +67,13 @@ In this example procedure, you're creating a list vocabulary source for your com
 
 8.  Enter a value for the list and click the green check mark.
 
-    ![Add list item button in the values tab of the vocabulary list.](../images/create-static-listT2.png)
+    ![Add list item button in the values tab of the vocabulary list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-static-listT2.png)
 
     In this example, you enter `Everest`.
 
 9.  Double-click the area under **Alternate values** to add alternatives separated by a comma.
 
-    ![Alternate values in a vocabulary list item.](../images/create-static-listT3.png)
+    ![Alternate values in a vocabulary list item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-static-listT3.png)
 
 10. Train the model to make the list vocabulary source available.
 
@@ -82,7 +82,7 @@ In this example procedure, you're creating a list vocabulary source for your com
 
 Add the rest of the break room names and alternatives.
 
-You must retrain the model after updating a list vocabulary source. For more information, see [Train and try your NLU model](test-train-nlu-model.md).
+You must retrain the model after updating a list vocabulary source. For more information, see [Train and try your NLU model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-train-nlu-model.md).
 
 Then you can use the list vocabulary source when annotating a training utterance. Use the @ symbol with the handle to refer to this vocabulary source.
 

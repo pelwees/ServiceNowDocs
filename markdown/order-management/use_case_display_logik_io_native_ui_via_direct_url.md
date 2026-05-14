@@ -319,7 +319,7 @@ The result of the saved Configuration can be accessed by using the GET API to re
 
 [Postman Collection with Config API URL](https://drive.google.com/file/d/1uHyPsUROr7JI84RZ0Ac2ogqcl7-kxL8J/view?usp=share_link)
 
-The result can be sent to a downstream system via Webhook. See [Webhooks](cpq-webhooks.md).
+The result can be sent to a downstream system via Webhook. See [Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-webhooks.md).
 
-**Parent Topic:**[Use cases](use-cases.md)
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 

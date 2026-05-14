@@ -24,7 +24,7 @@ Role required: To view your assigned regulatory alerts, you need the sn\_grc\_re
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available," "None," "No records to display," and so on.
 
-To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/reference/user_roles_and_actions.md).
 
 ## About this task
 
@@ -44,15 +44,15 @@ You can view the related activity for each recommendation by selecting the summa
 
     -   On the Overview tab, select **Recommend**.
     -   On the Recommendations tab, select **Show recommendations**.
-    For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](create-recommendation-reg-alert.md).
+    For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md).
 
 3.  Review potential impact areas by selecting the Controls tab in the Recommended areas of the impact section.
 
     The recommended controls only include controls that are part of the existing inventory.
 
-    ![Details of the recommended control.](../../grc-rcm/image/reco-control-details.png)
+    ![Details of the recommended control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/image/reco-control-details.png)
 
-    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/recommendation-contexts.md).
 
     If recommendations are available, you can scroll through the generated list of control recommendation cards and review the information about each control, such as its name and compliance status.
 
@@ -157,7 +157,7 @@ Related risks that can be associated with the control.For each risk, the followi
 
 
 </td></tr></tbody>
-</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md), and [Create a risk manually](../../grc-risk/task/t_CreateRisk.md).
+</table>    For full descriptions of these fields, see [Create a control objective](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_DefineAPolicy.md), [Create a control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_CreateAControl.md), and [Create a risk manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-risk/task/t_CreateRisk.md).
 
 5.  To associate risks with your recommendation, navigate to the Risks tab and select the check box for each risk record you want to include as part of the impacted areas.
 
@@ -165,7 +165,7 @@ Related risks that can be associated with the control.For each risk, the followi
 
     **Note:** The control you’re reviewing may not have any risks associated with it. Risks must be mapped to controls in the inventory for them to appear.
 
-    ![Details of the affected associations for controls.](../../grc-rcm/image/reco-control-associations.png)
+    ![Details of the affected associations for controls.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/image/reco-control-associations.png)
 
 6.  View the record for a control, refresh your recommendations, or review related activity for each recommendation.
 
@@ -186,5 +186,5 @@ Related risks that can be associated with the control.For each risk, the followi
 
 ## What to do next
 
-If you accepted any recommendations, confirm the creation of an impacted area by navigating to the Impacted areas tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](add-impacted-area-reg-alert.md).
+If you accepted any recommendations, confirm the creation of an impacted area by navigating to the Impacted areas tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md).
 

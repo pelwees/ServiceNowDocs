@@ -17,15 +17,15 @@ See the currently open incidents that are subject to an SLA. You can view a list
 
 **Important:**
 
-Starting in Xanadu release, the Overdue Reports dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the currently open incidents that are subject to an SLA and list of the incidents or see how they break down in a heatmap or a pivot table.
+Starting in Xanadu release, the Overdue Reports dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/performance-analytics/incident.md) to view the currently open incidents that are subject to an SLA and list of the incidents or see how they break down in a heatmap or a pivot table.
 
 This dashboard is inactive by default. Before using this dashboard, a Performance Analytics administrator or power user must open the Dashboard Properties, assign an owner, and select **Active**.
 
-![Overdue List report for Incident SLA](../image/incident-sla-overdue-list.png "Overdue List tab")
+![Overdue List report for Incident SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-sla-overdue-list.png "Overdue List tab")
 
-![Pivot report on overdue open incidents for Incident SLA](../image/incident-sla-overdue-pivot.png "Overdue Pivot tab")
+![Pivot report on overdue open incidents for Incident SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-sla-overdue-pivot.png "Overdue Pivot tab")
 
-![Heatmap report on overdue open incidents for Incident SLA](../image/incident-sla-overdue-heatmap.png "Overdue Heatmap tab")
+![Heatmap report on overdue open incidents for Incident SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-sla-overdue-heatmap.png "Overdue Heatmap tab")
 
 ## End user and roles
 
@@ -37,9 +37,9 @@ This dashboard is inactive by default. Before using this dashboard, a Performanc
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Overdue list|List \(![list report icon](../../reporting/image/icon-list-report-p.png)\)|List of all incident records for overdue open incidents|
-|Overdue pivot|Pivot \(![pivot report icon](../../reporting/image/icon-pivot-report-p.png)\)|Table letting you explore the number of open and overdue incidents by any combination of state, assignment group, category, and priority, for any age bucket or for all ages.|
-|Overdue heatmap|Heatmap \(![heatmap icon](../../reporting/image/icon-heatmap-report-p.png)\)|Heatmap letting you explore the number of open and overdue incidents by any combination of state, assignment group, category, and priority, for any age bucket or for all ages.|
+|Overdue list|List \(![list report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-list-report-p.png)\)|List of all incident records for overdue open incidents|
+|Overdue pivot|Pivot \(![pivot report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-pivot-report-p.png)\)|Table letting you explore the number of open and overdue incidents by any combination of state, assignment group, category, and priority, for any age bucket or for all ages.|
+|Overdue heatmap|Heatmap \(![heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-heatmap-report-p.png)\)|Heatmap letting you explore the number of open and overdue incidents by any combination of state, assignment group, category, and priority, for any age bucket or for all ages.|
 
-**Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](incident-sla-content-pack.md)
+**Parent Topic:**[Legacy: Incident SLA Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-sla-content-pack.md)
 

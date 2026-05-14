@@ -56,9 +56,9 @@ Now Assist for Employee Center Pro is a ServiceNow AI Platform feature that is a
     Now Assist for Employee Center Pro is layered with Employee Center Pro, a multi-department employee destination site that drives employee engagement and productivity. Now Assist, which improves productivity, efficiency, and self-service while empowering your users to search more effectively. AI Search, which enables your users to have a powerful consumer-grade search experience.
 
 
-**Parent Topic:**[Unified Employee Experience release notes](uex-rn-landing.md)
+**Parent Topic:**[Unified Employee Experience release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/uex-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../now-assist/now-assist-rn-landing.md)
 
 **Related topics**  
 

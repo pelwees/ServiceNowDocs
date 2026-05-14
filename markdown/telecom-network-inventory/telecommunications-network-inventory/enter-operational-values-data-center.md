@@ -27,11 +27,11 @@ Enter the operational data for power and temperature manually and store it in th
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.k
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Racks**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Racks**.
 
 3.  Select the rack that you want to update operational data.
 
-4.  Select the more options icon \(![More Options Icon.](../../tmt-order-mgt/image/more-options.png)\) and then select **Collect Operational Data**.
+4.  Select the more options icon \(![More Options Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../tmt-order-mgt/image/more-options.png)\) and then select **Collect Operational Data**.
 
 5.  On the form, fill in the fields.
 
@@ -50,5 +50,5 @@ Enter the operational data for power and temperature manually and store it in th
 
 The instance stores the operational data in the clothoDB.
 
-**Parent Topic:**[Configuring capacity management](../concept/configuring-capacity-management.md)
+**Parent Topic:**[Configuring capacity management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configuring-capacity-management.md)
 

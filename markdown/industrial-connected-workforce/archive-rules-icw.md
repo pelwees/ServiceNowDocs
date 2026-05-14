@@ -33,5 +33,5 @@ These archiving rules support data hygiene and system usability by making sure t
 
 For more information on archive rules, see [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
-**Parent Topic:**[Configuring ICW Core](configuring-icw-core.md)
+**Parent Topic:**[Configuring ICW Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configuring-icw-core.md)
 

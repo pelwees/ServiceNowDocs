@@ -37,7 +37,7 @@ Customer success managers can create renewal opportunities based on contract exp
 
 6.  Navigate to **Customer Success** &gt; **All Internal Plays** and open the renewal playbook that was created.
 
-    ![Renewal playbook: core information](../image/account-lifecycle-crm-create-opp-1.png)
+    ![Renewal playbook: core information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-crm-create-opp-1.png)
 
 7.  In the Enter core information page, select the contract for which the renewal opportunity is to be created, enter a description and select **Mark complete**.
 
@@ -53,14 +53,14 @@ Customer success managers can create renewal opportunities based on contract exp
 
     You can see the recommended action for Microsoft Dynamics CRM displayed in the right panel. The details of the account associated with the engagement and the contract information is displayed. Select the **History** icon to see a log of previous recommended actions.
 
-    ![MS Dynamics CRM recommended action](../image/account-lifecycle-crm-create-opp-2.png)
+    ![MS Dynamics CRM recommended action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-crm-create-opp-2.png)
 
 13. Select **Create**.
 
     You will see a message indicating that the opportunity record has been created. You can login to the Microsoft Dynamics CRM platform to view this record.
 
-    **Note:** You can create the record only if you have defined the mappings in the **DynamicsCRMMappingConstants** script include. See [Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md) for details. If the mappings have not been configured, you will see the recommended action but the **Create** option will not work.
+    **Note:** You can create the record only if you have defined the mappings in the **DynamicsCRMMappingConstants** script include. See [Enable integration with Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-crm-integration.md) for details. If the mappings have not been configured, you will see the recommended action but the **Create** option will not work.
 
 
-**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md)
+**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-crm-integration.md)
 

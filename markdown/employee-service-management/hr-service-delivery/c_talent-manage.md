@@ -17,9 +17,9 @@ Talent Profile management activities help keep data set up to date and clutter-f
 
 For more information, see:
 
--   [Modify purge policies to clean up data](../task/set-up-purge-pollicies-ta.md).
--   [Rules to archive data](archive-data-ta.md).
--   [Cascade rules for cleaning data](../reference/cascade-rule-ta.md).
+-   [Modify purge policies to clean up data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/set-up-purge-pollicies-ta.md).
+-   [Rules to archive data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/archive-data-ta.md).
+-   [Cascade rules for cleaning data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/cascade-rule-ta.md).
 
-**Parent Topic:**[Configuring Talent profile](config-tp.md)
+**Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 

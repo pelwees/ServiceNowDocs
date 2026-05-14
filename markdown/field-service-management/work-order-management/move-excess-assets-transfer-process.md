@@ -66,7 +66,7 @@ Description
 </td></tr></tbody>
 </table>6.  Select the part and open the form.
 
-7.  Select the Overflow ![Overflow icon.](../image/OverflowIcon.png) icon and then select **Add to drop-off list**.
+7.  Select the Overflow ![Overflow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png) icon and then select **Add to drop-off list**.
 
 8.  Verify the model number.
 
@@ -89,7 +89,7 @@ A new transfer order line is created.
 
 -   If a transfer order for the drop-off location doesn’t exist, a new transfer order is created and the transfer order line is added to that transfer order.
 
-For more information on asset transfers, see [Move an asset through the transfer process](../../planning-and-policy/task/create-transfer-order-line-task.md).
+For more information on asset transfers, see [Move an asset through the transfer process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/create-transfer-order-line-task.md).
 
 ## What to do next
 

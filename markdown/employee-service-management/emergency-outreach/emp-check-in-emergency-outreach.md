@@ -17,7 +17,7 @@ If you receive an email, mobile push notification, or SMS notification to report
 
 ## Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
 
 Role required: none
 
@@ -35,7 +35,7 @@ Role required: none
 
     4.  Tap **Status** and then select a response.
 
-    ![Set of screens displayed on the mobile app to respond with health status.](../image/mobile-checkin.png)
+    ![Set of screens displayed on the mobile app to respond with health status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../image/mobile-checkin.png)
 
 -   To reply to an SMS notification:
 
@@ -48,5 +48,5 @@ Role required: none
 
 After you reply to the notification, your response is sent to you and your employer. A record for your response is also updated. Your personal information is secure. Only the staff managing the health situation have access to your response.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../concept/emergency-outreach.md)
 

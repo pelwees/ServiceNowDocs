@@ -19,7 +19,7 @@ API based Authentication in ServiceNow®'s validates the identity of a user who 
 
 Following are the types of API Authentication in ServiceNow®:
 
--   [Certificate based authentication](certificate-api-auth.md)
--   [OAuth](oauth-inbound-and-outbound.md)
--   [Token-based authentication](token-based-auth-api.md)
+-   [Certificate based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/certificate-api-auth.md)
+-   [OAuth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/oauth-inbound-and-outbound.md)
+-   [Token-based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/token-based-auth-api.md)
 

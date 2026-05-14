@@ -45,15 +45,15 @@ Raise sourcing requests for catalog items without a price
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -61,15 +61,15 @@ Generate purchase requests for catalog items with a price
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -77,15 +77,15 @@ Submit asset requests from Employee Center or Service Catalog
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -93,15 +93,15 @@ Create requests via stock replenishment rules
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -109,15 +109,15 @@ Receive assets using mobile barcode scanning
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -125,15 +125,15 @@ Generate comprehensive records in the Asset \[alm\_asset\], Software License \[a
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Workflow for IT Asset Management and Sourcing and Procurement Operations better together feature
@@ -143,7 +143,7 @@ Using the IT Asset Management and Sourcing and Procurement Operations applicatio
 -   Create and manage external purchase by accessing the items from the Shopping Hub within the IT Asset Management application.
 -   Manage all related receipts and shipments automatically and consistently across IT Asset Management and Sourcing and Procurement Operations applications.
 
-![ITSM-SPO better together flow](../image/itam-spo-bt-workflow.png "The IT Asset Management and Sourcing and Procurement Operations workflow")
+![ITSM-SPO better together flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../image/itam-spo-bt-workflow.png "The IT Asset Management and Sourcing and Procurement Operations workflow")
 
 In this workflow:
 
@@ -185,5 +185,5 @@ Start procuring assets by accessing the items from the Shopping Hub catalog by c
 3.  Receive the requested assets in a stockroom. For more information, see [Receiving assets in the IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-receiving-assets.md) application.
 4.  Acknowledge the receipt of the assets in the stockroom for asset creation. For more information, see [Asset creation in the IT Asset Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-asset-creation.md).
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

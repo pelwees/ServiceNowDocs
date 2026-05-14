@@ -22,19 +22,19 @@ With Coaching, you can do the following:
 -   Use assessments and surveys to apply consistent, measurable scores across teams.
 -   Use Predictive Intelligence to recommend skills for your agents and provide training to address those skill gaps.
 
--   **[Skills Overview in Workforce Optimization for HR](skills-overview-report-wfo-hr.md)**  
+-   **[Skills Overview in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/skills-overview-report-wfo-hr.md)**  
 Use Skills Overview to analyze skill data such as how many skills are assigned to users and tasks. You can also see how many experts you have for a particular skill and the overall skill coverage by your teams.
--   **[Learning in Workforce Optimization for HR](learning-wfo-hr.md)**  
+-   **[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)**  
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
 
-**Parent Topic:**[Using Workforce Optimization for HR](use-wfo-hr.md)
+**Parent Topic:**[Using Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/use-wfo-hr.md)
 
 **Related topics**  
 
 
-[Workforce Optimization for HR Manager workspace](hr-manager-workspace-wfo-hr.md)
+[Workforce Optimization for HR Manager workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/hr-manager-workspace-wfo-hr.md)
 
-[Teams in Workforce Optimization for HR](using-teams-wfo-hr.md#)
+[Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-teams-wfo-hr.md#)
 
-[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
+[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 

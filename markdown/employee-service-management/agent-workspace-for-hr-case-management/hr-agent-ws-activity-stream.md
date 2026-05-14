@@ -29,6 +29,6 @@ Role required: sn\_hr\_core.case\_writer
 
 4.  Click **Post Comments**.
 
-    **Note:** There is also a **Comments/Worknotes** section at the bottom, left side of the form. This section is turned off by default, but can be used to enter text by clicking the accordion icon \(![Accordion icon](../image/playbook-accordion-icon.png)\). After entering text, click **Save**.
+    **Note:** There is also a **Comments/Worknotes** section at the bottom, left side of the form. This section is turned off by default, but can be used to enter text by clicking the accordion icon \(![Accordion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-accordion-icon.png)\). After entering text, click **Save**.
 
 

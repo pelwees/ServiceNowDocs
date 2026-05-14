@@ -54,5 +54,5 @@ Sends an email to a specified user group when a use case model training has fail
 </td></tr></tbody>
 </table>For more details about email notifications for Predictive Intelligence Workbench, see [Preview email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md).
 
-**Parent Topic:**[HR Predictive Intelligence Workbench administration](hr-piwb-administration.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-administration.md)
 

@@ -28,5 +28,5 @@ Role required: agent\_client\_collector\_admin
     **Note:** Uninstalling the Agent Client Collector removes the `acc.yml` file and its directory from your machine.
 
 
-**Parent Topic:**[Install the Agent Client Collector on a Windows machine using silent installation](acc-windows-install-silent.md)
+**Parent Topic:**[Install the Agent Client Collector on a Windows machine using silent installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-windows-install-silent.md)
 

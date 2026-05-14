@@ -21,7 +21,7 @@ Ensure that you meet the following prerequisites before you perform this procedu
 
 -   Connect, configure the Azure DevOps tool and discover existing repositories, orchestration tasks, and pipelines.
 -   Install the following custom extension tasks on your Azure DevOps instance.
-    -   ServiceNow extension to integrate Azure Pipelines with DevOps Change Velocity. For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](config-dev-ops-extensions-azure.md#).
+    -   ServiceNow extension to integrate Azure Pipelines with DevOps Change Velocity. For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-dev-ops-extensions-azure.md#).
 
 Role required:
 
@@ -42,13 +42,13 @@ Specify the change request state as an integer value:
 
 When you update a choice field, you must specify a valid choice value that is available in the corresponding choice list. For example, the choice list values for the **Close code** field are successful, successful\_issues, and unsuccessful.
 
-![Choice values for the Close code field](../image/choice-field-update-change.png)
+![Choice values for the Close code field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/choice-field-update-change.png)
 
 ## Procedure
 
 1.  In the Azure DevOps console, navigate to **Organization** &gt; **Pipelines** &gt; **Jobs**.
 
-2.  Select the **Add Tasks** icon \(![Add additional tasks](../image/add-task-ado-sonar.png)\), and search for the ServiceNow extensions in the **Add tasks** search bar.
+2.  Select the **Add Tasks** icon \(![Add additional tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/add-task-ado-sonar.png)\), and search for the ServiceNow extensions in the **Add tasks** search bar.
 
 3.  Add the following extension tasks for get and update functions based on whether you are using a server or agent job.
 
@@ -92,7 +92,7 @@ Get function
 
 Enter a reference name for the get change request task, which will be used to reference the change request number in the update task. See the following example.
 
-![ServiceNow DevOps Agent Get Change task](../image/ado-get-change.png)
+![ServiceNow DevOps Agent Get Change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-get-change.png)
 
 </td></tr><tr><td>
 
@@ -109,13 +109,13 @@ Update function
 "assignment_group": "<SYS_ID>", "state":"<STATE_CODE>", "close_code":"<successful/successful_issues/unsuccessful>", "reason":"<As per Choice List>" }
 ```
 
-![ServiceNow DevOps Agent Update Change Details](../image/ado-update-change.png)The changeRequestNumber value must be referenced using the get task reference name in the "&lt;task\_name&gt;.&lt;changeRequestNumber&gt;" format. See the following example.
+![ServiceNow DevOps Agent Update Change Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-update-change.png)The changeRequestNumber value must be referenced using the get task reference name in the "&lt;task\_name&gt;.&lt;changeRequestNumber&gt;" format. See the following example.
 
-![Get and Update scripts for agent.](../image/ado-script-getupdate-change.png)![Get and Update scripts for server.](../image/azure-get-and-update-script-server.png)**Note:** Attempt number is optional. If not specified, the latest CHG number from the current pipeline execution is retrieved. Otherwise, you can explicitly specify the attempt number without using any environment variables.
+![Get and Update scripts for agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-script-getupdate-change.png)![Get and Update scripts for server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/azure-get-and-update-script-server.png)**Note:** Attempt number is optional. If not specified, the latest CHG number from the current pipeline execution is retrieved. Otherwise, you can explicitly specify the attempt number without using any environment variables.
 
 </td></tr></tbody>
 </table>5.  Save the changes.
 
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/azure-devops-integration-dev-ops.md)
 

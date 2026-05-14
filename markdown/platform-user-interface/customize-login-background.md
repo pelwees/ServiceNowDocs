@@ -35,7 +35,7 @@ The background illustration that you upload automatically scales to fit the scre
 
 4.  Select **Click to add** image.
 
-    ![Image record form with Name entered and Click to add image selected.](../image/next-exp-new-image-record.png "Image record form")
+    ![Image record form with Name entered and Click to add image selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-new-image-record.png "Image record form")
 
 5.  Choose your image file.
 
@@ -59,12 +59,12 @@ The background illustration that you upload automatically scales to fit the scre
 
 14. Select **Submit**.
 
-    ![System property new record with Submit selected.](../image/next-exp-sys-prop-record.png "System property record")
+    ![System property new record with Submit selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-sys-prop-record.png "System property record")
 
 
 ## What to do next
 
 Log out of your experience to view the new login page background.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-theming.md)
 

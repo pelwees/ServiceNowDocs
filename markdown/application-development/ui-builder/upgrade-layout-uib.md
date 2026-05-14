@@ -35,7 +35,7 @@ All slots in the old layout system are migrated during the upgrade process to th
 
 While component styling is not impacted, there may not be a one-to-one style migration of how components were positioned. Complex pages can have visual misalignments that occur through the upgrade process as styles are merged from slots to containers. Some issues must be resolved manually.
 
-**Parent Topic:**[Organize components in UI Builder pages](work-layouts.md)
+**Parent Topic:**[Organize components in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-layouts.md)
 
 ## Upgrade your layout to the new layout system
 
@@ -51,11 +51,11 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience with the page you want to upgrade.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Select the page that you want to upgrade.
 
-    ![Page variants that can be upgraded to the new layout system.](../image/uib-update-layout-icon.png)
+    ![Page variants that can be upgraded to the new layout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-update-layout-icon.png)
 
     You can find page variants that can be upgraded to the new layout system tagged with a red dot.
 
@@ -63,13 +63,13 @@ Role required: ui\_builder\_admin
 
 4.  Select the **Update layout** button.
 
-    ![UI Builder updating a page layout to the new layout system.](../image/uib-update-layout.gif)
+    ![UI Builder updating a page layout to the new layout system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-update-layout.gif)
 
     UI Builder begins updating your page layout to the new layout system. A notification appears when the process is complete.
 
 5.  You can compare your old layout to the upgraded layout by selecting **compare the two layout versions** in the **Layout needs review before you can edit** notification.
 
-    ![Compare layouts before rejecting or accepting the changes.](../image/uib-layout-review.png)
+    ![Compare layouts before rejecting or accepting the changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-layout-review.png)
 
     Two browser tabs open, one displaying your current layout and one displaying the upgraded layout.
 
@@ -79,10 +79,10 @@ Role required: ui\_builder\_admin
 
 7.  Select **Keep new** to complete the upgrade to the new layout system, or select **Use old** to reverse the upgrade process and return the page to the old layout system.
 
-    ![Confirm that you want to keep the updated layout for your experience.](../image/uib-layout-keep-new.png)
+    ![Confirm that you want to keep the updated layout for your experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-layout-keep-new.png)
 
 8.  The page reloads with the changes applied.
 
-9.  View and test your page by selecting the **Preview** button \(![Preview button that opens the page variant.](../image/preview-button.png)\).
+9.  View and test your page by selecting the **Preview** button \(![Preview button that opens the page variant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preview-button.png)\).
 
 

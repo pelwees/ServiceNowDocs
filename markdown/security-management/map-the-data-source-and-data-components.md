@@ -30,15 +30,15 @@ The MITRE-ATT&amp;CK framework contains an updated structure for the data source
 
 The following illustration shows the MITRE-ATT&amp;CK STIX™ structure representation for data sources and data components. You can see both the data sources and data components captured as custom STIX™ objects. The illustration shows that each data source contains one or more data components, and each data component detects one or more techniques.
 
-![This image shows the general structure of data sources and data components.](../image/mitre-datasourcecomponent.png "General structure of data sources and data components")
+![This image shows the general structure of data sources and data components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-datasourcecomponent.png "General structure of data sources and data components")
 
-You can continue using the [Data Source Mapping](manage-mitre-att-ck-data-sources.md) if your MITRE-ATT&amp;CK repository contains the old TAXII collections, and you’ve mapped your data sources to various techniques. However, use the [Data Component Mapping](map-the-data-source-and-data-components.md) if you’re using the latest TAXII collections, and you want to maintain a relationship between the data sources, data components, and the various techniques.
+You can continue using the [Data Source Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitre-att-ck-data-sources.md) if your MITRE-ATT&amp;CK repository contains the old TAXII collections, and you’ve mapped your data sources to various techniques. However, use the [Data Component Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-the-data-source-and-data-components.md) if you’re using the latest TAXII collections, and you want to maintain a relationship between the data sources, data components, and the various techniques.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Data Component Mapping**.
 
-    The following illustration shows the list of tactics, IDs, techniques along with the data sources and data components based on your collection updates.![The following illustration shows the list of tactics, techniques, IDs, along with the data sources and data components that have been populated based on your collection updates.](../image/mitre-data-component-overview.png)
+    The following illustration shows the list of tactics, IDs, techniques along with the data sources and data components based on your collection updates.![The following illustration shows the list of tactics, techniques, IDs, along with the data sources and data components that have been populated based on your collection updates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-data-component-overview.png)
 
     |Field|Description|
     |-----|-----------|
@@ -68,57 +68,57 @@ You can continue using the [Data Source Mapping](manage-mitre-att-ck-data-source
 
     6.  Click **Update**.
 
-    In the following illustration, you see how to add data components.![This illustration shows how to map data source components to a technique.](../image/mitre-data-source-component-mapping.gif)
+    In the following illustration, you see how to add data components.![This illustration shows how to map data source components to a technique.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-data-source-component-mapping.gif)
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/domain-separation-and-mitre-att-ck.md)
 
-[Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
+[Set up the MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md)
 
-[Manage matrices](view-mitre-collection.md)
+[Manage matrices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-mitre-collection.md)
 
-[Manage techniques](view-techniques.md)
+[Manage techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-techniques.md)
 
-[Manage mitigations](manage-mitigations.md)
+[Manage mitigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitigations.md)
 
-[Manage groups](manage-groups-threat-intel.md)
+[Manage groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-groups-threat-intel.md)
 
-[Manage malware](manage-malware.md)
+[Manage malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-malware.md)
 
-[Manage tools](manage-tools.md)
+[Manage tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-tools.md)
 
-[Manage MITRE relationships](manage-mitre-relationships.md)
+[Manage MITRE relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitre-relationships.md)
 
-[Manage CVE and technique mapping](manage-cve-and-technique-mapping.md)
+[Manage CVE and technique mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-cve-and-technique-mapping.md)
 
-[Extend the MITRE-ATT&amp;CK data](view-and-extend-information.md)
+[Extend the MITRE-ATT&amp;CK data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-and-extend-information.md)
 
-[Define the data source and detection tool mapping](manage-mitre-att-ck-data-sources.md)
+[Define the data source and detection tool mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitre-att-ck-data-sources.md)
 
-[Define the technique detection coverage](define-technique-coverage.md)
+[Define the technique detection coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/define-technique-coverage.md)
 
-[Map your technique detection coverage to a technique](map-technique-coverage.md)
+[Map your technique detection coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-technique-coverage.md)
 
-[Define the mitigation coverage](define-the-mitigation-coverage.md)
+[Define the mitigation coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md)
 
-[Map your mitigation coverage to a technique](map-your-mitigation-coverage-to-a-technique.md)
+[Map your mitigation coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-your-mitigation-coverage-to-a-technique.md)
 
-[Create and map detection rules](create-detection-rules.md)
+[Create and map detection rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/auto-extract-technique-rules.md#)
 
-[Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
+[Review threat group and MITRE-ATT&amp;CK techniques mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/review-threat-group-and-techniques-mapping.md)
 
-[Threat group to technique heatmap definition](threat-group-to-technique-heatmap-definition.md)
+[Threat group to technique heatmap definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-group-to-technique-heatmap-definition.md)
 
-[Review the MITRE-ATT&amp;CK system properties](configure-mitre-att-ck-properties.md)
+[Review the MITRE-ATT&amp;CK system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md)
 

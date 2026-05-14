@@ -63,5 +63,5 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Agent for mobile](../concept/configure-workplace-mobile-agent.md)
+**Parent Topic:**[Configure Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../concept/configure-workplace-mobile-agent.md)
 

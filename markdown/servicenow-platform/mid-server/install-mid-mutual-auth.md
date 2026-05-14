@@ -21,7 +21,7 @@ Role required: admin
 
 <table id="table_jjd_jmj_bpb"><tbody><tr><td>
 
-![Set-up indicator for security phase](../image/ProgressBarSecure.png)
+![Set-up indicator for security phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarSecure.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -54,7 +54,7 @@ In the Quebec release, a MID Server using the Health Log Analytic application ca
      -----END CERTIFICATE----- 
     ```
 
-    ![The bundle contains the correct formatting and both the private key and certificate.](../image/install-mid-mutual-auth-bundle.png)
+    ![The bundle contains the correct formatting and both the private key and certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/install-mid-mutual-auth-bundle.png)
 
     You can read the contents of a PEM certificate using the `openssl` command on Linux or Windows as follows: `openssl x509 -in cert.crt -text`. The private key must be in the PKCS\#8 format. The header and footer of the PKCS\#8 syntax is the following:
 
@@ -95,7 +95,7 @@ In the Quebec release, a MID Server using the Health Log Analytic application ca
 
 10. Attach the original, unsplit PEM certificate to the record.
 
-    ![The attachment is in the top corner of the record.](../image/mid-mtls-user-cert-record.png)
+    ![The attachment is in the top corner of the record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-mtls-user-cert-record.png)
 
     **Note:** Ensure that the attached file contains only the certificate.
 
@@ -184,40 +184,40 @@ In the Quebec release, a MID Server using the Health Log Analytic application ca
 13. Start the MID Server.
 
 
-**Parent Topic:**[Securing and encrypting MID Server data](../concept/mid-server-security-encryption.md)
+**Parent Topic:**[Securing and encrypting MID Server data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-server-security-encryption.md)
 
 **Related topics**  
 
 
-[MID Server certificate check policies](../concept/mid-security-checks.md)
+[MID Server certificate check policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 
-[MID Server authentication credentials and SOAP requests](../concept/mid-authentication-soap-requests.md#)
+[MID Server authentication credentials and SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-authentication-soap-requests.md#)
 
-[MID Server unified key store](../concept/mid-unified-keystore.md#)
+[MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-unified-keystore.md#)
 
-[MID Server Azure Key Vault integration](mid-azure-key-vault-integration.md#)
+[MID Server Azure Key Vault integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-azure-key-vault-integration.md#)
 
-[MID Server command audit log](../concept/mid-audit-log.md)
+[MID Server command audit log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-audit-log.md)
 
-[Rekey a MID Server](t_RekeyAMIDServer.md)
+[Rekey a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-script-attach.md#)
 
-[MID Server FIPS Enforced Mode](../concept/mid-fips-enforced.md#)
+[MID Server FIPS Enforced Mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-fips-enforced.md#)
 
-[MID Server Governance](../concept/mid-timeout.md)
+[MID Server Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-timeout.md)
 
-[Install custom certificates in the MID Server unified key store](../concept/mid-unified-keystore.md#)
+[Install custom certificates in the MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-unified-keystore.md#)
 
-[MID Server unified key store](../concept/mid-unified-keystore.md#)
+[MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-unified-keystore.md#)
 

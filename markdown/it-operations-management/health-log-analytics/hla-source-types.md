@@ -127,10 +127,10 @@ Boolean value. If selected, Health Log Analytics looks for a case-sensitive matc
 
     1.  Select the row of the global keyword that you want to exclude.
     2.  From the **Actions on selected rows** list at the bottom of the page, select **Exclude keyword**.
-    **Note:** You can delete global keywords from the [Lexical Keywords page](hla-lexical-keywords-admin.md).
+    **Note:** You can delete global keywords from the [Lexical Keywords page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-lexical-keywords-admin.md).
 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-setup-extra.md)
 

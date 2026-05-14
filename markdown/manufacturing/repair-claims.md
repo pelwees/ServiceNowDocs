@@ -25,10 +25,10 @@ The repair portal facilitates the dealer to submit the repair claims to the manu
 
 The following diagram shows the entities and their relationships within the repair claims application.
 
-![Decorative](../image/Data-model-repair-claim.png "Repair claim data model")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Data-model-repair-claim.png "Repair claim data model")
 
--   **[Repair claims tables](repair-claims-tables.md)**  
+-   **[Repair claims tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-claims-tables.md)**  
 This section explains the repair claim tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[Data model](data-model.md)
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 

@@ -23,7 +23,7 @@ Role required: Impact admin
 
 2.  From the **Actions** menu, select **Update role/access**.
 
-    If the user is not listed in the table, create a new user. See [Manage Impact Delivery Instance users](ide-user-management.md) for details.
+    If the user is not listed in the table, create a new user. See [Manage Impact Delivery Instance users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/ide-user-management.md) for details.
 
 3.  Select the **Action** icon on the right of the user.
 

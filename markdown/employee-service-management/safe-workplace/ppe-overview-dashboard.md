@@ -41,5 +41,5 @@ To view the dashboard, navigate to **PPE Inventory Management** &gt; **Overview 
 |Consumable Models|All models for consumable PPE.|
 |Stock Rules|All stock rules for PPE.|
 
-**Parent Topic:**[Workplace PPE Inventory Management](ppe-inventory-management.md)
+**Parent Topic:**[Workplace PPE Inventory Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-inventory-management.md)
 

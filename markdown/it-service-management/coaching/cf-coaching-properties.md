@@ -84,5 +84,5 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 -   **Default value:**true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
+</table>**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 

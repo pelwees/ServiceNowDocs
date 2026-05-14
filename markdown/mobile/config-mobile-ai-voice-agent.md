@@ -51,5 +51,5 @@ Role required: admin
     For steps on how to configure your function with a voice assistant, see [Integrate voice assistant with mobile app launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-assistant-with-mobile-app-voice-launcher.md).
 
 
-**Parent Topic:**[Configuring Now Assist for Mobile](configuring-now-assist-mobile.md)
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 

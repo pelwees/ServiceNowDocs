@@ -23,7 +23,7 @@ Playbooks in Workflow Studio are ServiceNow AI Platform representations of your 
 
     A playbook is where a playbook owner configures and organizes multiple instances of Workflow Studio content into a coherent business process. A playbook consists of a trigger and a sequence of stages, which are made up of a sequence of activities.
 
--   **[Process executions](process-executions.md)**
+-   **[Process executions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-executions.md)**
 
     A process execution is a single, runtime instance of a playbook.
 
@@ -36,7 +36,7 @@ Each playbook consists of a trigger as well as stages and activities. Triggers d
 
 When you're done creating your playbook, activate it so that it runs when triggered.
 
-![Create a digitized representation of your business process, known as a playbook.](../images/getting-started-process-definition.png)
+![Create a digitized representation of your business process, known as a playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/getting-started-process-definition.png)
 
 ## What happens when a playbook runs
 
@@ -52,17 +52,17 @@ In summary, your playbook runs when:
 2.  Playbook Experience is configured and the playbook is rendered for agents.
 3.  Automated operations on records that are associated with your process execution occur on the ServiceNow AI Platform.
 
-![When your activated playbook is triggered, the system creates a process execution, a playbook can render for agents, and automated record operations on the ServiceNow AI Platform occur.](../images/getting-started-process-execution.png)
+![When your activated playbook is triggered, the system creates a process execution, a playbook can render for agents, and automated record operations on the ServiceNow AI Platform occur.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/getting-started-process-execution.png)
 
 ## Learn more about Playbooks
 
 If you're ready to start digitizing your business process with Playbooks in Workflow Studio, try checking out these resources:
 
--   [Create a sample playbook](../task/design-automated-process.md)
--   [Create a playbook](../task/create-process-definition.md)
+-   [Create a sample playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/design-automated-process.md)
+-   [Create a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-process-definition.md)
 
--   **[Create a sample playbook](../task/design-automated-process.md)**  
+-   **[Create a sample playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/design-automated-process.md)**  
 Create a sample playbook to standardize and automate how Service Desk agents handle chat interactions with VIP users.
 
-**Parent Topic:**[Building Playbooks](building-a-process.md)
+**Parent Topic:**[Building Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-a-process.md)
 

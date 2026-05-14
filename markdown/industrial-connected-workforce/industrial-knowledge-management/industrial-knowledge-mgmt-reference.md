@@ -15,10 +15,10 @@ breadcrumb: [Industrial Knowledge Management, Industrial Connected Workforce]
 
 Find additional information about Industrial Knowledge Management.
 
--   **[Industrial Knowledge Management roles](industrial-knowledge-mgmt-roles.md)**  
+-   **[Industrial Knowledge Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-mgmt-roles.md)**  
 You can assign the Industrial Knowledge Management roles to your users.
--   **[Industrial knowledge article form](industrial-knowledge-article-form.md)**  
+-   **[Industrial knowledge article form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-article-form.md)**  
 The following table describes the field values for the Industrial knowledge article form.
 
-**Parent Topic:**[Industrial Knowledge Management](../concept/icw-knowledge-management-landing-page.md)
+**Parent Topic:**[Industrial Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/../concept/icw-knowledge-management-landing-page.md)
 

@@ -31,7 +31,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Info tab icon](../../collaboration/image/IconInfoTab.png)
+![Info tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../collaboration/image/IconInfoTab.png)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Contains the following information about the task board:-   Board Name
 
 </td></tr><tr><td>
 
-![Members tab icon](../../collaboration/image/IconMembersTab.png)
+![Members tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../collaboration/image/IconMembersTab.png)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Lists all members and assignees of the board. You can add or remove board member
 
 </td></tr><tr><td>
 
-![Label tab icon](../image/IconLabelTab.png)
+![Label tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconLabelTab.png)
 
 </td><td>
 
@@ -75,11 +75,11 @@ Labels
 
 </td><td>
 
-Use labels to visually distinguish tasks on the task board. Filter board contents by toggling the label. You need to [enable labels](../task/t_ConfigureLabels.md) before being able to use this tab.
+Use labels to visually distinguish tasks on the task board. Filter board contents by toggling the label. You need to [enable labels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_ConfigureLabels.md) before being able to use this tab.
 
 </td></tr><tr><td>
 
-![Activity tab icon](../image/IconActivityStreamTab.png)
+![Activity tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconActivityStreamTab.png)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Displays all of the activity for cards on the board.
 
 </td></tr><tr><td>
 
-![Configuration tab icon](../image/IconConfigurationTab.png)
+![Configuration tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconConfigurationTab.png)
 
 </td><td>
 
@@ -99,8 +99,8 @@ Configuration
 
 </td><td>
 
-Configure the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](../task/t_ConfigureTheTaskBoard.md).
+Configure the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_ConfigureTheTaskBoard.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Visual Task Boards](../concept/exploring-vis-task-boards.md)
+</table>**Parent Topic:**[Exploring Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/exploring-vis-task-boards.md)
 

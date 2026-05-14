@@ -21,7 +21,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based discovery, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. For more information about how Service Mapping performs traffic-based discovery, see [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/traffic-based-discovery.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ Service Mapping can discover and map configuration items \(CIs\) following their
 
     5.  Click the **Open Preview** icon.
 
-        ![Open Preview icon next to the selected application service.](../image/workspace-all-services-open-preview.png)
+        ![Open Preview icon next to the selected application service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/workspace-all-services-open-preview.png)
 
         The Details pane opens on the right.
 
@@ -64,5 +64,5 @@ Service Mapping can discover and map configuration items \(CIs\) following their
     7.  Click **Update**.
 
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 

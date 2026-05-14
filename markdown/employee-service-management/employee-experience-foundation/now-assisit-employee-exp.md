@@ -19,19 +19,19 @@ Use the Now Assist for Employee Experience application so that your employees ca
 
 <table id="table_ybb_p1c_52c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Employee Experience](explore-now-assist-for-emp-exp.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Employee Experience](explore-now-assist-for-emp-exp.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Employee Experience](../task/configure-nowassist-emp-exp.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Employee Experience](../task/configure-nowassist-emp-exp.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for Employee Experience](use-now-assist-for-emp-exp.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for Employee Experience](use-now-assist-for-emp-exp.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Know more about Now Assist for Employee Experience references](reference-now-assist-for-emp-exp.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg)Know more about Now Assist for Employee Experience references](reference-now-assist-for-emp-exp.md)
 
 </td></tr></tbody>
 </table>**Important:**

@@ -13,7 +13,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 The Care Team Mobile landing page offers users a list of quick actions, recent updates on requests, and request tracking information.
 
-![Care Team Mobile overview screen.](../image/hcls-cto-mobile-overview.png)
+![Care Team Mobile overview screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-cto-mobile-overview.png)
 
 ## Quick actions
 

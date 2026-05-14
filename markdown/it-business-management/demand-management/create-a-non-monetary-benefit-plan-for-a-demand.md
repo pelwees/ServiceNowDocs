@@ -37,9 +37,9 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 5.  On the form, fill in the fields.
 
-    For a description of the field names, see [Non-monetary Benefit Plan form](../reference/non-monetary-benefit-plan-form.md).
+    For a description of the field names, see [Non-monetary Benefit Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/non-monetary-benefit-plan-form.md).
 
-    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](../../project-management/reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
+    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../project-management/reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
 
 6.  Select **Submit**.
 
@@ -47,10 +47,10 @@ The non-monetary benefit plan breakdown records are automatically created when y
 ## What to do next
 
 -   On the Benefit Plan form, view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
--   [Associate monetary and non-monetary benefit plans](associate-monetary-and-non-monetary-benefit-plans.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand for the hybrid benefit plans.
+-   [Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-monetary-and-non-monetary-benefit-plans.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand for the hybrid benefit plans.
 
--   **[Update a non-monetary benefit plan breakdown for a demand](update-a-non-monetary-benefit-plan-breakdown-for-a-demand.md)**  
+-   **[Update a non-monetary benefit plan breakdown for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/update-a-non-monetary-benefit-plan-breakdown-for-a-demand.md)**  
 Update a non-monetary benefit plan breakdown record that specifies the estimated and actual benefits, at a granular level, for specific fiscal periods.
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

@@ -95,5 +95,5 @@ E-signature acknowledgment table.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TableAdministration.md).
 
-**Parent Topic:**[E-signature reference](esignature-reference.md)
+**Parent Topic:**[E-signature reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/esignature-reference.md)
 

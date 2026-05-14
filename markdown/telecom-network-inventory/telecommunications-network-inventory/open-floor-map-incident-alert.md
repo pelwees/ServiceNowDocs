@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.dc\_ops\_agent
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Incidents** &gt; **All**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Incidents** &gt; **All**.
 
     To open an alert, go to **Alerts** &gt; **All**
 
@@ -36,5 +36,5 @@ Role required: sn\_ni\_core.dc\_ops\_agent
 
 The floor map opens and the affected hardware is highlighted. If the issue is related to a rack or cabinet, then the Rack view also opens in the floor map.
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-floor-map.md)
 

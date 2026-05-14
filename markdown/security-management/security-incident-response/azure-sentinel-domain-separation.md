@@ -54,7 +54,7 @@ Follow these steps to achieve domain separation:
 
 The following example shows how to replicate the Azure Sentinel comments and Status update job and run the job as a system user.
 
-![Replicate Azure Sentinel comments and Status update job and run as system user.](../image/sentinel-domain-sep1.png)
+![Replicate Azure Sentinel comments and Status update job and run as system user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-domain-sep1.png)
 
 **Related topics**  
 

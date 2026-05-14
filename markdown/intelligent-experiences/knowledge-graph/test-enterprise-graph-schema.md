@@ -31,7 +31,7 @@ Role required: admin
 
     You are navigated to Test Knowledge Graph Schema page.
 
-    ![Test Enterprise Graph schema](../Images/test_enterprise_graph.png)
+    ![Test Enterprise Graph schema](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/test_enterprise_graph.png)
 
 4.  In the Query section of the Test Knowledge Graph Schema window, enter your question.
 
@@ -42,7 +42,7 @@ Role required: admin
     -   **NowLLM-LTS**
     -   **Gemini**
     -   **GPT**
-    ![Select LLM Model](../Images/gpt_models_eg.png)
+    ![Select LLM Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/gpt_models_eg.png)
 
 6.  Select an Enterprise Graph mode.
 
@@ -50,7 +50,7 @@ Role required: admin
 
     -   Enterprise Graph
     -   Enterprise Graph \(Small\)
-    ![Select Enterprise Graph mode](../Images/EG_modes.png)
+    ![Select Enterprise Graph mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/EG_modes.png)
 
 7.  Select **Include conversation history** check box to add the any previous chats.
 

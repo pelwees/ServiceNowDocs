@@ -17,7 +17,7 @@ Embed the global code and component code of the Playbook intake component instan
 
 ## Before you begin
 
-You must configure the Playbook intake component instance. For information, see [Configure the Playbook intake component instance](config-playbook-intake-comp.md).
+You must configure the Playbook intake component instance. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
 
 Role required: None
 

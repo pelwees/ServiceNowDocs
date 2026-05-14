@@ -36,14 +36,14 @@ Role required: admin
     -   **No Overriding:** Path-based ACLs do override operation-referenced ACLs or other path-based ACLs.
     -   **Owner Control:** If the API owner has restrictive ACLs, your path-based ACLs can’t bypass them.
 
-**Parent Topic:**[View path-based ACLs](view-path-based-acls.md)
+**Parent Topic:**[View path-based ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/view-path-based-acls.md)
 
 **Related topics**  
 
 
-[Add a path-based ACL for a scripted REST API](add-a-path-based-acl-for-a-scripted-rest-api.md)
+[Add a path-based ACL for a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/add-a-path-based-acl-for-a-scripted-rest-api.md)
 
-[Configure a scripted REST API resource to require an ACL](t_WbSvcOpRqACL.md)
+[Configure a scripted REST API resource to require an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_WbSvcOpRqACL.md)
 
-[View path-based ACLs](view-path-based-acls.md)
+[View path-based ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/view-path-based-acls.md)
 

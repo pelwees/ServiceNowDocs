@@ -33,7 +33,7 @@ Role required: admin
 
 6.  Select the Type and Responsibility of the related party in the dropdown, then enter their contact name in the Contact field to look up existing contacts that match this name.
 
-    **Note:** All information request co-applicants must be registered on the Government Service Portal to be included on a information request application. Each co-applicant can create an account by registering on the Government Service Portal, or a government service agent can create a business contact account for them. For information on how agents can create a business contact record from information entered in an Information Request application, see [Create a business record in CSM Configurable Workspace](psds-create-new-business-rec-ws.md).
+    **Note:** All information request co-applicants must be registered on the Government Service Portal to be included on a information request application. Each co-applicant can create an account by registering on the Government Service Portal, or a government service agent can create a business contact account for them. For information on how agents can create a business contact record from information entered in an Information Request application, see [Create a business record in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-create-new-business-rec-ws.md).
 
 7.  Select **Save**.
 

@@ -28,12 +28,12 @@ Role required: admin
 4.  Select **View all Users** or search for a specific user.
 
 
-**Parent Topic:**[Now Support administration](now-support-administration.md)
+**Parent Topic:**[Now Support administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/now-support-administration.md)
 
 **Related topics**  
 
 
-[Create a user in Now Support](create-a-user-in-now-support.md)
+[Create a user in Now Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-a-user-in-now-support.md)
 
-[Manage user access in Now Support](manage-user-access-in-now-support.md)
+[Manage user access in Now Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/manage-user-access-in-now-support.md)
 

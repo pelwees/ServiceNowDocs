@@ -27,7 +27,7 @@ Role required: adt\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Diagnostics Feature form](../reference/diagnostics-feature-form.md).
+    For more information, see [Diagnostics Feature form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/diagnostics-feature-form.md).
 
 4.  Define the fields available to users for specifying filter conditions in the **Diagnostics Inputs** section.
 
@@ -38,5 +38,5 @@ Role required: adt\_admin
 
 ## What to do next
 
-Create diagnostic scripts and add fix scripts to use with the diagnostic feature. For more information, see [Add diagnostic and fix scripts](add-diagnostic-and-fix-script.md).
+Create diagnostic scripts and add fix scripts to use with the diagnostic feature. For more information, see [Add diagnostic and fix scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/add-diagnostic-and-fix-script.md).
 

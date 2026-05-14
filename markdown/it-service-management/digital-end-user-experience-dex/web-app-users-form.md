@@ -73,5 +73,5 @@ This field represents the number of active alerts for the application on the dev
 -   The list displays active devices and refreshes every five minutes, a maximum of 1000 devices listed. If no new data is available, the last available data is displayed.
 -   Only device name filter is available on web applications.
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

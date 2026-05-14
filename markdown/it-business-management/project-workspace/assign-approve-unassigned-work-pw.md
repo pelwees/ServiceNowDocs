@@ -36,13 +36,13 @@ In Project Workspace, when you select **Resources** page from the left menu, you
 
 2.  Open the resource page of the project by selecting **Resources** page from the left menu.
 
-3.  Enable the Unassigned tasks toggle \(![Unassigned tasks toggle.](../../resource-management-workspace/images/rmw-unassigned-tasks-toggle.png)\) to view the unassigned work requests in the lower pane.
+3.  Enable the Unassigned tasks toggle \(![Unassigned tasks toggle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-unassigned-tasks-toggle.png)\) to view the unassigned work requests in the lower pane.
 
-    ![Resource board viewof a Project in Project Workspace.](../image/resource-board-pw.png)
+    ![Resource board viewof a Project in Project Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/resource-board-pw.png)
 
     You can create resource assignments based on the primary attributes \(Group, Skill, or Role\). You can see a comprehensive view of resource allocations and group them by primary group, skill, role, owner, and parent item.
 
-4.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Assign Work**.
+4.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Assign Work**.
 
 5.  You can assign work using one of the following ways.
 
@@ -81,13 +81,13 @@ Enables you to choose specific resources and decide how much effort to allocate.
 
 7.  Select the **Assign** button to assign work to the resources.
 
-    The assigned work is reflected in the top pane nested by resource view and will be in Pending state \(![Yellow rectangular pending state icon.](../../resource-management-workspace/images/rmw-pending-state.png)\).
+    The assigned work is reflected in the top pane nested by resource view and will be in Pending state \(![Yellow rectangular pending state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-pending-state.png)\).
 
-8.  Expand a resource row using the expand row icon \(![expand row icon.](../../resource-management-workspace/images/icon-expand-arrow.png)\) to view assigned tasks.
+8.  Expand a resource row using the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/icon-expand-arrow.png)\) to view assigned tasks.
 
 9.  Double-click in the Resource status column and select **Approve** to confirm the assigned work so the resource can start working.
 
-    While assigning the work, you can easily identify if a resource is available \(![Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.](../../resource-management-workspace/images/rmw-green-tick.png)\) or overutilized \(![Red exclamation mark within a red triangle indication the resource is overallocated.](../../resource-management-workspace/images/rmw-red-warning.png)\), even for the future periods, using the iconography.
+    While assigning the work, you can easily identify if a resource is available \(![Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-green-tick.png)\) or overutilized \(![Red exclamation mark within a red triangle indication the resource is overallocated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-red-warning.png)\), even for the future periods, using the iconography.
 
 10. You can change the status of any assigned assignments using one of the following options.
 
@@ -100,12 +100,12 @@ Enables you to choose specific resources and decide how much effort to allocate.
 
 ## Result
 
-The assigned work items are Approved \(![Green rectangular approved state icon.](../../resource-management-workspace/images/rmw-approved-state.png)\) or Unapproved \(![Pink rectangular approved state icon.](../../resource-management-workspace/images/rmw-unapproved-state.png)\) and the status of the work assignments is rolled up to the resource level.
+The assigned work items are Approved \(![Green rectangular approved state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-approved-state.png)\) or Unapproved \(![Pink rectangular approved state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/images/rmw-unapproved-state.png)\) and the status of the work assignments is rolled up to the resource level.
 
 ## What to do next
 
--   Reassign or unassign any assigned work from the Project Workspace. For more information, see [Reassign or unassign work using Resource Management Workspace](../../resource-management-workspace/task/rmw-reassign-unassign-work.md).
--   Split resource assignments at a specific date from the Project Workspace. For more information, see [Split resource assignments using Resource Management Workspace](../../resource-management-workspace/task/split-resource-assignment-rmw.md).
+-   Reassign or unassign any assigned work from the Project Workspace. For more information, see [Reassign or unassign work using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/task/rmw-reassign-unassign-work.md).
+-   Split resource assignments at a specific date from the Project Workspace. For more information, see [Split resource assignments using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/task/split-resource-assignment-rmw.md).
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 

@@ -33,7 +33,7 @@ In the Pub/Sub model, incoming notifications are categorized into topics. You us
 **Related topics**  
 
 
-[Configuring Telecommunications API notifications](configuring-telecommunications-api-notifications.md)
+[Configuring Telecommunications API notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configuring-telecommunications-api-notifications.md)
 
-[System components installed with Telecommunications API notifications](../reference/alarm-management-user-roles.md)
+[System components installed with Telecommunications API notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../reference/alarm-management-user-roles.md)
 

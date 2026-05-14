@@ -22,8 +22,8 @@ Use Now Assist for CPQ to generate a summary of a quote to:
 -   Review the quote prior to sending it to the customer to confirm accuracy and completeness.
 -   Support internal handoffs by summarizing the quoted offer for internal teams.
 
--   **[Summarize a quote using quote summarization](../task/summarize-quote.md)**  
+-   **[Summarize a quote using quote summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/summarize-quote.md)**  
 Summarize a quote to generate a consolidated report of a quote record to quickly understand the quote without manually reviewing multiple fields, line items, or related records.
 
-**Parent Topic:**[Now Assist for Configure, Price, Quote \(CPQ\)](now-assist-for-cpq-landing.md)
+**Parent Topic:**[Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/now-assist-for-cpq-landing.md)
 

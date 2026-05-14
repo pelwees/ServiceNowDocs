@@ -17,7 +17,7 @@ Create a child Operational Technology \(OT\) incident record to capture part of 
 
 ## Before you begin
 
--   Enable the Create child incident feature \(**com.snc.incident.create.child.enable**\) property. For more information, see [Set the system properties](configure-ot-incident-management-properties.md).
+-   Enable the Create child incident feature \(**com.snc.incident.create.child.enable**\) property. For more information, see [Set the system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configure-ot-incident-management-properties.md).
 -   Role required: sn\_ot\_incident\_write
 
 ## About this task
@@ -45,5 +45,5 @@ Fields that are copied over to the child incident are configured by using the **
 
 Now, you can view and edit the child incident in the parent incident record.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../concept/using-operational-technology-incident-mgt.md)
 

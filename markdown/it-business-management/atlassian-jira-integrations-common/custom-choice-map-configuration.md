@@ -17,7 +17,7 @@ Create a custom workflow state map of your preference for a Jira project.
 
 ## Before you begin
 
--   [Discover and import Jira projects and boards](discover-projects.md).
+-   [Discover and import Jira projects and boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/discover-projects.md).
 -   Role required: sn\_jira\_int.user
 
 ## About this task
@@ -93,5 +93,5 @@ Display name of the workflow transition in Jira.**Note:** In case there is no tr
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter correct values for all fields and validate again.
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../reference/custom-map-configuration.md)
 

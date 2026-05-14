@@ -18,5 +18,5 @@ You can install Kubernetes Visibility Agent using the Terraform Helm provider.
 
 For more information, see the [Install Kubernetes Visibility Agent \(formerly CNO for Visibility\) using the Terraform Helm provider \[KB1540556\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1540556) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Kubernetes Visibility Agent Reference](cnov-reference.md)
+**Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 

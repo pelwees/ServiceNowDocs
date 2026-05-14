@@ -36,5 +36,5 @@ Field descriptions to add a new member to a group mapped to a location.
 |Mobile phone|Member's mobile phone number|
 |Photo|Attach a photo of the member, if appropriate.|
 
-**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+**Parent Topic:**[Critical Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/critical-event-management-reference.md)
 

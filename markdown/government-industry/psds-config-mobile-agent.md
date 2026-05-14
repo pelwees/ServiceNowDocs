@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Information Request Playbook application](../task/install-psds-information-request-playbook.md)
+[Install Information Request Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-information-request-playbook.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ You can activate the Customer Service Mobile plugin \(com.sn\_csm\_mobile\) usin
 
 </td></tr><tr><td>
 
-[Configure public sector roles and permissions for Mobile Agent app](psds-config-mobile-agent.md#)
+[Configure public sector roles and permissions for Mobile Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-mobile-agent.md#)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Service Request Playbook application](../task/install-psds-service-request-playbook.md)
+[Install Service Request Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-service-request-playbook.md)
 
 </td><td>
 
@@ -90,11 +90,11 @@ You can activate the Customer Service Mobile plugin \(com.sn\_csm\_mobile\) usin
 
 </td><td>
 
-Install the Field Service Management plugin to view the work orders related list. For more information, see [Integration with Field Service Management](psds-integration-fsm.md).
+Install the Field Service Management plugin to view the work orders related list. For more information, see [Integration with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-integration-fsm.md).
 
 </td></tr><tr><td>
 
-[Configure public sector roles and permissions for Mobile Agent app](psds-config-mobile-agent.md#)
+[Configure public sector roles and permissions for Mobile Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-mobile-agent.md#)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Role required: admin
 
 3.  If prompted, switch from the Global application to the Customer Service Mobile application.
 
-4.  Select the edit icon \(![Edit icon.](../image/edit-icon.png)\) under Required Roles and add the following roles:
+4.  Select the edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/edit-icon.png)\) under Required Roles and add the following roles:
 
     -   sn\_gsm.agency\_manager
     -   sn\_gsm.government\_service\_manager

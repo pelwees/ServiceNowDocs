@@ -17,7 +17,7 @@ The External Communication Channel \(ECC\) Queue is a connection point between a
 
 <table id="table_sf2_dsf_khb"><tbody><tr><td>
 
-![Links to each of the MID Server sections](../image/MIDRefIconBar.png)
+![Links to each of the MID Server sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDRefIconBar.png)
 
 </td></tr></tbody>
 </table>## Asynchronous Message Bus
@@ -28,9 +28,9 @@ The MID Server opens a persistent connection to the instance through the AMB Cli
 
 The MID Server polls the ECC queue at the maximum regular interval defined in the **mid.poll.time** configuration parameter \(40 seconds by default\), regardless of AMB message activity. If the MID is busy and receeives an AMB message witrh a priority level other than Interactive, the queue poll time changes to **mid.poll.time.standard** \(5 seconds by default\). This polling of the ECC queue at a regular interval is done in case the AMB connection is dropped.
 
-![MID Server ECC queue polling process](../image/MIDServerPollingArchitectureDiagram.png "MID Server ECC queue polling process")
+![MID Server ECC queue polling process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerPollingArchitectureDiagram.png "MID Server ECC queue polling process")
 
-**Note:** The AMB client on the MID Server does not work in all environments and might need to be disabled to avoid performance issues. To disable AMB in your environment, set the **mid.disable\_amb** parameter to **true**. When you disable AMB, the MID Server no longer receives notifications for each new ECC queue output record. See  **mid.poll.time** in  [MID Server parameters](../reference/mid-server-parameters.md#) for more information.
+**Note:** The AMB client on the MID Server does not work in all environments and might need to be disabled to avoid performance issues. To disable AMB in your environment, set the **mid.disable\_amb** parameter to **true**. When you disable AMB, the MID Server no longer receives notifications for each new ECC queue output record. See  **mid.poll.time** in  [MID Server parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-parameters.md#) for more information.
 
 ## ECC Queue information
 

@@ -41,5 +41,5 @@ The following topics describe how to integrate specific third-party AI agent pro
     Create an external AI agent by manually integrating a third-party agent in AI Agent Studio to use in agentic workflows.
 
 
-**Parent Topic:**[Agentic AI security and governance](now-assist-security.md)
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 

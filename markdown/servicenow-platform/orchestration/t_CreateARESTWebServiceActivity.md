@@ -35,11 +35,11 @@ To create and use a REST web service workflow activity:
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the REST web service Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#), configure the REST web service Execution Command.
 
 <table id="choicetable_g3y_2sq_vz"><tbody><tr><td id="d344467e146">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -107,7 +107,7 @@ Check box that determines if a MID Server should be used to invoke the REST web 
 
 </td><td>
 
-MID Server with the appropriate [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the REST endpoint. By default, the system selects a MID Server with REST capabilities. This field is available when the **Use MID Server** check box is selected.
+MID Server with the appropriate [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the REST endpoint. By default, the system selects a MID Server with REST capabilities. This field is available when the **Use MID Server** check box is selected.
 
 </td></tr><tr><td id="d344467e262">
 
@@ -155,14 +155,14 @@ Certificate authentication to use. This field is available when the selections i
 Profile for the OAuth provider for this REST message. See [Specify an OAuth profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_SpecifyAnOAuthProfile.md) for more information.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
-Finish creating your Rest web service activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
+Finish creating your Rest web service activity by [creating output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnOutputVariable.md#), [creating a parsing rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/conditions.md). Refer to the [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 ## Auto-map REST activity output variables
 
@@ -192,7 +192,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
     The entire payload appears in the **Raw Output** tab of the Response form.
 
-    ![Auto-mapping controls](../image/AutoMappingButtons.png)
+    ![Auto-mapping controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/AutoMappingButtons.png)
 
 5.  Select one of these auto-mapping options.
 
@@ -203,7 +203,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
 You use execution parameters to create the input process script in the **Pre Processing** form of the activity designer.
 
-For descriptions of the REST web service command fields, see [Configure the REST execution command](t_CreateARESTWebServiceActivity.md#).
+For descriptions of the REST web service command fields, see [Configure the REST execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md#).
 
 **Note:** You must use the `executionParam.` prefix with all variables in this table.
 
@@ -285,7 +285,7 @@ Array of JavaScript objects
 
 </td><td>
 
-Array of JavaScript objects, expressed with the `executionParam.` prefix. For instructions on creating arrays using this parameter see [Create a JavaScript array in a REST template](t_CreateARESTWebServiceActivity.md#).
+Array of JavaScript objects, expressed with the `executionParam.` prefix. For instructions on creating arrays using this parameter see [Create a JavaScript array in a REST template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md#).
 
 </td></tr><tr><td>
 
@@ -349,7 +349,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 
@@ -443,7 +443,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: web\_service\_admin, activity\_admin, activity\_creator
 
-**Note:** You can test the REST connection between the MID Server and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](CreateInputVariables.md#).
+**Note:** You can test the REST connection between the MID Server and the endpoint without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#).
 
 ### Procedure
 
@@ -451,7 +451,7 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
     The system formats the variable in the proper syntax for the command.
 
-    ![REST execution command](../image/RESTExecutionCommand.png "REST execution command")
+    ![REST execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/RESTExecutionCommand.png "REST execution command")
 
 2.  Complete the fields shown in the table.
 
@@ -469,7 +469,7 @@ Input
 
 </td><td>
 
-Input variable builder. [Create input variables](CreateInputVariables.md#) to map to available fields.
+Input variable builder. [Create input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to map to available fields.
 
 </td></tr><tr><td>
 
@@ -533,7 +533,7 @@ Required MID Server capabilities
 
 </td><td>
 
-MID Server with the appropriate [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the REST endpoint. By default, the system selects a MID Server with REST capabilities. This field is available when the **Use MID Server** check box is selected.
+MID Server with the appropriate [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md) for connecting to the REST endpoint. By default, the system selects a MID Server with REST capabilities. This field is available when the **Use MID Server** check box is selected.
 
 </td></tr><tr><td>
 

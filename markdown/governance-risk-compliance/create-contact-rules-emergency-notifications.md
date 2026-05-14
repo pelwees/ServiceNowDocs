@@ -117,7 +117,7 @@ Error in syncing the contact with Everbridge.
 
     4.  Click **Submit**.
 
-6.  To import contacts using a sync rule, you must first [create a contact import rule](contact-import-sync-rule.md).
+6.  To import contacts using a sync rule, you must first [create a contact import rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/contact-import-sync-rule.md).
 
 7.  To import contacts based on contact sync rules, click **Import users** button.
 

@@ -19,14 +19,14 @@ Run skipped record rules based on your set conditions to resolve skipped records
 
 Role required: admin
 
-**Parent Topic:**[Administering Upgrade Center](../reference/uc-administration.md)
+**Parent Topic:**[Administering Upgrade Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-administration.md)
 
 **Related topics**  
 
 
-[Managing upgrade risk](../concept/uc-manage-upgrade-risk.md)
+[Managing upgrade risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-manage-upgrade-risk.md)
 
-[Create a skipped record rule](uc-create-skipped-record-rule.md)
+[Create a skipped record rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-create-skipped-record-rule.md)
 
 ## Execute a skipped record rule on demand
 

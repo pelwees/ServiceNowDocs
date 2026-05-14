@@ -23,27 +23,27 @@ Learn more about the Asset Audit Response application.
 
 <table id="table_jlx_5xp_2fc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Asset Audit Response application offers.](exploring-asset-audit-response.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Asset Audit Response application offers.](exploring-asset-audit-response.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Asset Audit Response application to meet your specific needs.](configuring-asset-audit-response.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Asset Audit Response application to meet your specific needs.](configuring-asset-audit-response.md)
 
 </td><td>
 
-[Engage![](../../../reuse/icons/brand-icons/bus-documentation.svg)Create and manage engagements for your financial regulatory audits.](managing-audit-engagements-asset-audit-response.md)
+[Engage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-documentation.svg)Create and manage engagements for your financial regulatory audits.](managing-audit-engagements-asset-audit-response.md)
 
 </td></tr><tr><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-compliance.svg)Request evidence for your financial regulatory audit engagements.](creating-evidence-requests-asset-audit-response.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-compliance.svg)Request evidence for your financial regulatory audit engagements.](creating-evidence-requests-asset-audit-response.md)
 
 </td><td>
 
-[Fulfill![](../../../reuse/icons/brand-icons/bus-asset.svg)Fulfill evidence requests for your financial regulatory audit engagements.](fulfilling-evidence-requests-asset-audit-response.md)
+[Fulfill![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-asset.svg)Fulfill evidence requests for your financial regulatory audit engagements.](fulfilling-evidence-requests-asset-audit-response.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)View additional information about the Asset Audit Response application.](asset-audit-response-references.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../../../reuse/icons/brand-icons/bus-learn.svg)View additional information about the Asset Audit Response application.](asset-audit-response-references.md)
 
 </td></tr></tbody>
 </table>

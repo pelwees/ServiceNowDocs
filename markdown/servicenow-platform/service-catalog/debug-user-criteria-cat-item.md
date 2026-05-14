@@ -21,9 +21,9 @@ Role required: catalog\_manager, catalog\_admin, or admin
 
 ## About this task
 
-You can only debug access issues based on user criteria, but not based on access control list rules \(ACLs\). For information about user criteria, see [Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md).
+You can only debug access issues based on user criteria, but not based on access control list rules \(ACLs\). For information about user criteria, see [Set security for items and categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogAccessControls.md).
 
-For any scripted user criteria that uses a session api such as gs.getUserID\(\), the session of the logged-in user is used. Edit the behavior of the scripted user criteria using the pre-defined *user\_id* variable in the **Script** field of a user criteria. For information about the Script field, see [Create a user criteria record in Service Catalog](t_CreateAUserCriteriaRecord.md#).
+For any scripted user criteria that uses a session api such as gs.getUserID\(\), the session of the logged-in user is used. Edit the behavior of the scripted user criteria using the pre-defined *user\_id* variable in the **Script** field of a user criteria. For information about the Script field, see [Create a user criteria record in Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAUserCriteriaRecord.md#).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
 
 4.  Click **Diagnose**.
 
-    ![Screenshot for user criteria diagnostics](../image/UserCriteriaDiag.png)
+    ![Screenshot for user criteria diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/UserCriteriaDiag.png)
 
     -   The item hierarchy is displayed along with an indication of the user's access to each node \(catalog, category, or catalog item\) based on the user criteria associated with the node.
 
@@ -50,7 +50,7 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
     -   All user criteria defined for the item is displayed. For each user criteria, the following information is available:
         -   **User Match**
 
-            ![user match icon](../image/userMatch.png) is displayed if the selected user matches the user criteria.
+            ![user match icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/userMatch.png) is displayed if the selected user matches the user criteria.
 
         -   **Association**
 
@@ -67,5 +67,5 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
 6.  To edit the configuration of a user criteria, click its name under the **User Criteria** column.
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/debugging-service-catalog.md)
 

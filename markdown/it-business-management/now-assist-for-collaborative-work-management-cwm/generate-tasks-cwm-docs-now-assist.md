@@ -19,7 +19,7 @@ Use the generative AI capabilities of Now Assist to create tasks from the conten
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
-[Create a Doc in CWM](../../collab-work-mgmt/task/create-a-doc-in-cwm.md)
+[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../collab-work-mgmt/task/create-a-doc-in-cwm.md)
 
 Role required: sn\_cwm\_ai.cwm\_ai\_user
 
@@ -33,7 +33,7 @@ Generate tasks from Docs using Now Assist for CWM
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
-    ![Spaces menu in CWM.](../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
+    ![Spaces menu in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
 
 3.  From the header of the Doc, select **Create Tasks**.
 
@@ -51,6 +51,6 @@ Generate tasks from Docs using Now Assist for CWM
 
     **Note:** If the Space you selected in Step 6 has just one Board, then you won't be asked to select a Board. The tasks are added to the Board directly.
 
-    ![Automatic task generation from CWM Docs using Now Assist for CWM.](../images/cwm-task-generation-now-assist.png)
+    ![Automatic task generation from CWM Docs using Now Assist for CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../images/cwm-task-generation-now-assist.png)
 
 

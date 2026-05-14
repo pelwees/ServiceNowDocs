@@ -33,7 +33,7 @@ Role required: financial\_mgmt\_admin
 
 6.  In **Related Links**, select **Update CI List**.
 
-    ![Update CI List](../image/UpdateCIList.png "Update CI List")
+    ![Update CI List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../image/UpdateCIList.png "Update CI List")
 
 7.  Select one of the choices.
 
@@ -44,5 +44,5 @@ Role required: financial\_mgmt\_admin
 8.  Select **Return to rate card**.
 
 
-**Parent Topic:**[CI rate cards](../concept/c_CIRateCards.md)
+**Parent Topic:**[CI rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/c_CIRateCards.md)
 

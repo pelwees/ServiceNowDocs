@@ -35,10 +35,10 @@ When an agent disputes a transaction on behalf of a customer, a dispute service 
 
     The following example shows the State of transactions panel.
 
-    ![State of transactions panel that displays the disputed and resolved transactions for a card dispute.](../image/state-of-transactions-panel.png "State of transactions panel")
+    ![State of transactions panel that displays the disputed and resolved transactions for a card dispute.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/state-of-transactions-panel.png "State of transactions panel")
 
 
-For more information, see [Initiate a dispute](../../fso-card-operations/task/create-case-with-intake-workspace.md#).
+For more information, see [Initiate a dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-card-operations/task/create-case-with-intake-workspace.md#).
 
-**Parent Topic:**[Dispute Rules Content Pack for Mastercard](dispute-rules-content-pack-for-mastercard-landing-page.md)
+**Parent Topic:**[Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-landing-page.md)
 

@@ -17,7 +17,7 @@ Assign the required roles to customer service managers based on the roles and re
 
 Role required: admin
 
-Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [Integrate with Service Portfolio Management using Guided Setup](../concept/spm-csm-integration.md).
+Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [Integrate with Service Portfolio Management using Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/spm-csm-integration.md).
 
 ## Procedure
 

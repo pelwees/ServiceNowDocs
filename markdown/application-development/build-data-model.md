@@ -13,7 +13,7 @@ breadcrumb: [Define and build the data model, Build your application, Exploring 
 
 Create tables and fields on the tables to support the application’s data model.
 
-**Note:** Consider creating applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+**Note:** Consider creating applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
 
 ServiceNow automatically adds five fields to each new table. The new fields contain auto-populated information about the table.
 
@@ -33,11 +33,11 @@ Add fields to the table to support the data model required by the application. S
 
 In the example, a string field type is used for a user's name. Notice the Caller field is different for each Incident record, but the caller may be the same person. Do not use a string field type for a user's name in tables.
 
-![Do not use a string field for users' names. It increases the chance of errors.](../image/string-field.png)
+![Do not use a string field for users' names. It increases the chance of errors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/string-field.png)
 
 Instead, use a reference field type that references the User table instead of a String field. Users then need to select a single consistent record in the Caller field.
 
-![Use reference fields for users' names for consistency](../image/reference-field.png)
+![Use reference fields for users' names for consistency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/reference-field.png)
 
 Reference fields ensure consistent data by normalizing date in another table in ServiceNow. ServiceNow has over 2000 baseline tables available to reference. The [Appendix](https://developer.servicenow.com/dev.do#!/guides/rome/now-platform/pro-dev-guide/pro-dev-guide-page-9) lists some commonly used tables for building an app.
 
@@ -76,5 +76,5 @@ When using reference fields, review the tables available in the instance to refe
 
 **Note:** Before creating new fields on an extended table, check for an existing field inherited from the base table that has a similar purpose. If a field is found, override the extended table's label.
 
-**Parent Topic:**[Define and build the data model](define-and-build-data-model.md)
+**Parent Topic:**[Define and build the data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/define-and-build-data-model.md)
 

@@ -17,7 +17,7 @@ Create a Personal Access Token \(PAT\) for your Jira Server/Data Center instance
 
 ## Before you begin
 
--   [Create a child alias for Jira Spoke alias for SPW Jira Integrations](create-child-alias-for-jira-spoke-alias.md).
+-   [Create a child alias for Jira Spoke alias for SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-child-alias-for-jira-spoke-alias.md).
 -   Set up a MID server. See [Tips to set up your MID Server](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0535145).
 
 Role required: NA
@@ -47,7 +47,7 @@ This task is performed outside the ServiceNow instance.
 
 ## What to do next
 
-Use this PAT as password while creating connection and credential for your Jira alias. See [Create connection and credentials for SPW Jira Integrations](create-connection-and-credentials.md).
+Use this PAT as password while creating connection and credential for your Jira alias. See [Create connection and credentials for SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-connection-and-credentials.md).
 
-**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](../concept/setting-up-jira-instance-spw.md)
+**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/setting-up-jira-instance-spw.md)
 

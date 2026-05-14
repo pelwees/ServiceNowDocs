@@ -21,5 +21,5 @@ LTS models provide predictable AI updates, longer model stability windows, and e
 
 You can configure long terms stable models in AI Control Tower. You can also navigate to **Manage model providers** section in the Now Assist settings and select Now LLM Service-LTS as a provider for specific Now Assist skills.
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 

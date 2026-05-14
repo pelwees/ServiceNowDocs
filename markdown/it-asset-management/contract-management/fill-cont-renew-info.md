@@ -44,5 +44,5 @@ New draft contracts are created.
 
 ## What to do next
 
-[Add or remove assets for a contract renewal](select-hw-asset.md)
+[Add or remove assets for a contract renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-hw-asset.md)
 

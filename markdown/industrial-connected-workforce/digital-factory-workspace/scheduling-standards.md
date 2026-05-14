@@ -39,10 +39,10 @@ Shift-based scheduling provides a simplified approach to scheduling manufacturin
 -   Tasks that are not completed within the designated shift window are automatically expired and removed, keeping operator dashboards clean.
 -   Duplicate events and tasks are detected and cleaned up during schedule updates, maintaining data integrity.
 
--   **[Scheduling calendar](calendar-view-scheduling.md)**  
+-   **[Scheduling calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/calendar-view-scheduling.md)**  
 The calendar view provides a visual interface for scheduling manufacturing tasks. It helps operators and line leaders plan, view, and manage task schedules more easily by showing occurrences, overlaps, and exceptions in a familiar calendar format.
--   **[Create a standard schedule plan](../task/create-events-based-on-schedules.md)**  
+-   **[Create a standard schedule plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../task/create-events-based-on-schedules.md)**  
 Create a plan for the scheduled creation of standard tasks.
 
-**Parent Topic:**[Using Industrial Standards](using-industrial-standards.md)
+**Parent Topic:**[Using Industrial Standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-standards.md)
 

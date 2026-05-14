@@ -19,7 +19,7 @@ A drawdown is related to the line of credit facilities that allows the borrower 
 
 The following diagram shows how the application helps bank agents resolve a Loan Drawdown service request.
 
-![Workflow that shows how a loan service request for a drawdown is resolved using the Loan Operations application.](../image/loan-drawdown-workflow.png "Loan Drawdown workflow")
+![Workflow that shows how a loan service request for a drawdown is resolved using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/loan-drawdown-workflow.png "Loan Drawdown workflow")
 
 The following workflow routes the case and tasks for a Loan Drawdown service request to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

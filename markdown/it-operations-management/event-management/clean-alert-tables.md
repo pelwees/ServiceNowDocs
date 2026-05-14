@@ -40,7 +40,7 @@ Schedule the following jobs to remove old alert records:
 
         The **Scheduled Script Execution** page appears.
 
-        ![Scheduled Script Execution page](../image/scheduled-script-execution.png "Scheduled Script Execution page")
+        ![Scheduled Script Execution page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/scheduled-script-execution.png "Scheduled Script Execution page")
 
     2.  In the **Repeat Interval** field, configure how often you want the job to run.
 
@@ -54,7 +54,7 @@ Schedule the following jobs to remove old alert records:
 
         The **Scheduled Script Execution** page appears.
 
-        ![Scheduled Script Execution page](../image/scheduled-scipt-execution-clean.png)
+        ![Scheduled Script Execution page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/scheduled-scipt-execution-clean.png)
 
     2.  In the **Repeat Interval** field, configure how often you want the job to run.
 
@@ -62,8 +62,8 @@ Schedule the following jobs to remove old alert records:
 
     3.  Select **Update**.
 
-4.  Repeat steps [2](clean-alert-tables.md#2) and [3](clean-alert-tables.md#3) to perform the Backfill and Clean jobs on the **Alert History Table**.
+4.  Repeat steps [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/clean-alert-tables.md#2) and [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/clean-alert-tables.md#3) to perform the Backfill and Clean jobs on the **Alert History Table**.
 
 
-**Parent Topic:**[Purge impact status and alert history](t_EMConfigurePurge.md)
+**Parent Topic:**[Purge impact status and alert history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigurePurge.md)
 

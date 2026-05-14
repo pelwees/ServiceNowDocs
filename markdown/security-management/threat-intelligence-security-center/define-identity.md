@@ -262,10 +262,10 @@ Click any of the following related lists to view additional information about ob
 
 **Note:**
 
-1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](../task/link-threat-intel-releated-records.md).
-2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](../task/define-object-object-potential-relationships.md).
-3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](../task/confirm-potential-relationships.md).
-4.  You can add objects to cases. For more information, see [Add to Case](../task/add-to-case.md).
+1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/link-threat-intel-releated-records.md).
+2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-object-potential-relationships.md).
+3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/confirm-potential-relationships.md).
+4.  You can add objects to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/add-to-case.md).
 
-**Parent Topic:**[Identity](identity.md)
+**Parent Topic:**[Identity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/identity.md)
 

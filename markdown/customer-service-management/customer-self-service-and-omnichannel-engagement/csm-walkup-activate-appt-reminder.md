@@ -39,7 +39,7 @@ For using appointment booking reminders, you must activate the **Appointment Boo
 
     The system opens an **Appointment Booking Service Configuration** form.
 
-7.  Click the menu button \( ![Menu icon.](../../../common/image/Form_MenuIcon.png)\) and scroll to **Configure** &gt; **Form Layout**.
+7.  Click the menu button \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../../../common/image/Form_MenuIcon.png)\) and scroll to **Configure** &gt; **Form Layout**.
 
 8.  Select **Appointment reminder** from the **Available** list and move it to the **Selected** list using the add button.
 

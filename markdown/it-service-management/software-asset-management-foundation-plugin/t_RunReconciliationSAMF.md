@@ -36,5 +36,5 @@ When running reconciliation manually, allow enough time for the process to compl
     The Reconciliation Results list is shown.
 
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin classic](../concept/using-samf-classic.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../concept/using-samf-classic.md)
 

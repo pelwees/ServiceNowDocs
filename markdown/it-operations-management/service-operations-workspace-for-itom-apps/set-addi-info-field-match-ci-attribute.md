@@ -29,17 +29,17 @@ The system attempts to match the **Additional Info** fields of the alert with at
 
 1.  Under **Improve configuration item \(CI\) identification**, in the **Select which CI class you'd like to identify** field, select the CI class.
 
-    ![Improve configuration item (CI) identification option](../image/sow-enrich-ci-binding-0.png)
+    ![Improve configuration item (CI) identification option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-enrich-ci-binding-0.png)
 
 2.  Select **View items** next to the **Select which CI class you'd like to identify** field to open the list of CIs of the selected CI class.
 
-    ![List of CIs](../image/sow-enrich-ci-binding-1.png)
+    ![List of CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-enrich-ci-binding-1.png)
 
 3.  Select a CI name to open its details or record page.
 
     At least one field and its corresponding value from the CI details page must appear in the **Additional info** field of the alert.
 
-    ![Details of a CI](../image/sow-enrich-ci-binding-2.png)
+    ![Details of a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-enrich-ci-binding-2.png)
 
 4.  In the Enrich Alerts page, use **Extract fields**, **Copy or Compose fields**, and **Change alert values** to set at least one **Additional info** field in your alert to precisely match the field and value format of the CI attributes in the CI record.
 
@@ -47,6 +47,6 @@ The system attempts to match the **Additional Info** fields of the alert with at
 
     Map the `${u_host_host}` field to a new field called **name**. This field is added to the **Additional info** and is used for CI identification during the binding stage.
 
-    ![Fields and its corresponding values from the CI details page appear in the Additional info field of the alert.](../image/sow-enrich-ci-binding-3.png)
+    ![Fields and its corresponding values from the CI details page appear in the Additional info field of the alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-enrich-ci-binding-3.png)
 
 

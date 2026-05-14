@@ -27,11 +27,11 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 3.  Select the **Non-monetary Benefit Plans** related list.
 
-    ![GIF showing selection of Non-monetary Benefit Plans related link.](../../spw-financials/images/fin-slct-non-monetary-benefit-plan-gif.gif)
+    ![GIF showing selection of Non-monetary Benefit Plans related link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-slct-non-monetary-benefit-plan-gif.gif)
 
 4.  On the Benefit Plan form, fill the fields.
 
-    For a description of the field names, see [Non-monetary benefit plans form](../../project-management/reference/non-monetary-benefit-plans-form.md).
+    For a description of the field names, see [Non-monetary benefit plans form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../project-management/reference/non-monetary-benefit-plans-form.md).
 
 5.  Select **Save**.
 

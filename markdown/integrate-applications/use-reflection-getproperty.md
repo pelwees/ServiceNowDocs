@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetProperty component. For more information about these properties, see [Properties of the Reflection components](../reference/util-reflection-prop.md).
+You can configure the properties for the GetProperty component. For more information about these properties, see [Properties of the Reflection components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-reflection-prop.md).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ You can configure the properties for the GetProperty component. For more informa
 
 2.  Drag the GetProperty component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
-4.  Click the add icon \(![Add icon.](../image/add-image-icon.png)\) on the GetProperty component title bar to add the additional parameters.
+4.  Click the add icon \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) on the GetProperty component title bar to add the additional parameters.
 
 5.  Connect the data and control ports of the GetProperty component to the corresponding ports of the other components.
 
@@ -43,5 +43,5 @@ You can configure the properties for the GetProperty component. For more informa
 6.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Reflection](../concept/reflection-utility.md)
+**Parent Topic:**[Reflection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/reflection-utility.md)
 

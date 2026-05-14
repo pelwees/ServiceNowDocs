@@ -15,7 +15,7 @@ breadcrumb: [Using decision tables, Decision tables, Workflow Studio, Build work
 
 Evolve with your business logic by modifying the rows, default result values, or content of your decision table in Workflow Studio.
 
-**Parent Topic:**[Using decision tables](using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 
 ## Define default result values
 
@@ -77,9 +77,9 @@ Role required: admin, decision\_table\_admin, or delegated developer permissions
 
     Decision rule view supports complex conditions that may not fit into the table structure.
 
-    ![Decision rule view.](../image/decision-rule-view.png "Decision rule view")
+    ![Decision rule view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/decision-rule-view.png "Decision rule view")
 
-    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
+    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
 
     1.  Edit the condition as needed.
 
@@ -147,7 +147,7 @@ Role required: admin, decision\_table\_admin, or delegated developer permissions
 
 </td><td>
 
-1.  Point to a decision row and select the Row drag and drop gripper icon \(![Row drag and drop gripper icon](../image/Drag.png)\) in the far left.
+1.  Point to a decision row and select the Row drag and drop gripper icon \(![Row drag and drop gripper icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/Drag.png)\) in the far left.
 2.  Reorder the rows by dragging the row to a new location.
  This method is most effective for reordering rows in smaller decision tables, as you can only see 20 rows at a time.
 

@@ -35,16 +35,16 @@ Download the following .psm files and import them into the SAP Solution Manager 
     |Service No|Listener port on the MID Server|
     |Path Prefix|The URL of the MID Server transform script: `/api/mid/em/inbound_event?Transform=TransformEvents_SAPSolman`|
 
-    ![SAP Event Collector form](../image/sap-solman-event-collector.png "Technical Settings tab")
+    ![SAP Event Collector form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-event-collector.png "Technical Settings tab")
 
 2.  On the **Logon &amp; Security** tab, select **Basic Authentication** and enter your Event Management logon credentials in the **User** and **Password** fields.
 
-    ![SAP Logon and Security tab page](../image/sap-solman-logon-security-tab.png "Logon & Security tab")
+    ![SAP Logon and Security tab page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-logon-security-tab.png "Logon & Security tab")
 
     A custom SAP BADI \(Business Add-in\) named Z\_ALRT\_REACTION\_IMPL is created and stored as a workbench transport request. After installation, this BADI calls the RFC to connect to Event Management.
 
-    ![Workbench transport request](../image/sap-solman-workbench-transport-request.png)
+    ![Workbench transport request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-workbench-transport-request.png)
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

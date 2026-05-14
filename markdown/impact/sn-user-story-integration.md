@@ -21,7 +21,7 @@ Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\)
 
 1.  Register your instances.
 
-    See [Register your instance](register-your-instance.md).
+    See [Register your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 2.  Set the **User Story Table**.
 

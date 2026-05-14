@@ -27,10 +27,10 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 3.  Tap **Active collaborations**.
 
-    ![Active collaborations in major incident tab.](../image/major-inc-active-collab.png)
+    ![Active collaborations in major incident tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-inc-active-collab.png)
 
 4.  Tap **Join call**.
 
-    ![Join Active conf call from major incident](../image/join-conf-call-maj-inc.png)
+    ![Join Active conf call from major incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/join-conf-call-maj-inc.png)
 
 

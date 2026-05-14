@@ -17,7 +17,7 @@ Edit details of a PI or a Sprint to update details such as name, team capacity, 
 
 ## Before you begin
 
-[Create next PI and Sprint from EAP Backlog](create-pi-sprint-eap-backlog.md).
+[Create next PI and Sprint from EAP Backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-pi-sprint-eap-backlog.md).
 
 Role required: sn\_apw\_advanced.eap\_user
 
@@ -31,15 +31,15 @@ Role required: sn\_apw\_advanced.eap\_user
 
 4.  From the side panel, edit details such as Name, Capacity, Committed points and others.
 
-    ![Sprint details in the side panel in EAP.](../images/eap-edit-sprint.png)
+    ![Sprint details in the side panel in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-edit-sprint.png)
 
 5.  Save changes by selecting **Save**.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 
 **Related topics**  
 
 
-[Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md)
+[Schedule work items into iterations in EAP Backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/schedule-work-items-into-iterations-in-eap-backlog.md)
 

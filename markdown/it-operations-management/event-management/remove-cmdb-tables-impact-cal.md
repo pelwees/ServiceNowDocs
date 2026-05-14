@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
     The Impact Inclusion Classes page opens, displaying a list of CMDB classes that are included in impact calculation.
 
-    ![A list of CMDB classes that are included in impact calculation.](../image/em-impact-cal-cmdb-tables-list.png)
+    ![A list of CMDB classes that are included in impact calculation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-impact-cal-cmdb-tables-list.png)
 
 2.  Select the CMDB table that you want to remove.
 

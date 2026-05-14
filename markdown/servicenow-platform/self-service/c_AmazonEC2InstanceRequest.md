@@ -19,10 +19,10 @@ The Amazon EC2 offering requires the purchase and activation of ServiceNow Orche
 
 **Note:** This feature has been deprecated and is no longer supported or available for new activation. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[Request an instance](../task/t_RequestAnInstance.md)**  
+-   **[Request an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../task/t_RequestAnInstance.md)**  
 Request the provisioning of a new Amazon EC2 instance through the service catalog.
--   **[Terminate an instance](../task/t_TerminateAnInstance.md)**  
+-   **[Terminate an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../task/t_TerminateAnInstance.md)**  
 Shut down an Amazon EC2 instance through the service catalog.
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../topic/p_ServiceCatalogRequests.md)
 

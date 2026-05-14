@@ -44,12 +44,12 @@ The ACLs defined using the procedure in this document are only checked for authe
     Selecting an ACL for a resource overrides any ACLs selected for the parent web service. Leave this field empty to use the ACLs selected for the parent web service.
 
 
-**Parent Topic:**[Configure a scripted REST API to require an ACL](t_WbSvcRqACL.md)
+**Parent Topic:**[Configure a scripted REST API to require an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_WbSvcRqACL.md)
 
 **Related topics**  
 
 
-[Configure a scripted REST API to require an ACL](t_WbSvcRqACL.md)
+[Configure a scripted REST API to require an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_WbSvcRqACL.md)
 
-[Add a path-based ACL for a scripted REST API](add-a-path-based-acl-for-a-scripted-rest-api.md)
+[Add a path-based ACL for a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/add-a-path-based-acl-for-a-scripted-rest-api.md)
 

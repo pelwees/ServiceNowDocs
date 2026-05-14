@@ -231,5 +231,5 @@ The following table lists the metrics that are gathered as output from vSphere c
 |storageAdapter.maxTotalLatency.latest  \(featured metric\)|storage adapter|millisecond|Highest latency value across all storage adapters used by the host.|
 |storagePath.maxTotalLatency.latest  \(featured metric\)|storage adapter|millisecond|Highest latency value across all storage paths used by the host.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

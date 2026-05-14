@@ -27,5 +27,5 @@ The following is an example scenario:
 **Related topics**  
 
 
-[Configuring revisions](service-bridge-v2-config-revision.md)
+[Configuring revisions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-config-revision.md)
 

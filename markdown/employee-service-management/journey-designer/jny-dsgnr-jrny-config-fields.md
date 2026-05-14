@@ -59,7 +59,7 @@ A Journey type is a category used to identify the intention of the journey, such
 
 </td><td>
 
-Select a lifecycle event for the Journey configuration. Lifecycle Events are created and managed from the **Manage Lifecycle Event** form. Go to **All** &gt; **Lifecycle Events** &gt; **Manage Lifecycle Event** to add or manage lifecycle events. See, [Lifecycle Events](../concept/hr-lifecycle-events-landing-page-1.md).
+Select a lifecycle event for the Journey configuration. Lifecycle Events are created and managed from the **Manage Lifecycle Event** form. Go to **All** &gt; **Lifecycle Events** &gt; **Manage Lifecycle Event** to add or manage lifecycle events. See, [Lifecycle Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/hr-lifecycle-events-landing-page-1.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Option to enable a change in manager. Selecting this option will update the jour
 
 </td><td>
 
-The image that appears at the top of the Journey when viewed in the mobile app. See, [Journeys on Now Mobile](../concept/journeys-mobile-now.md).
+The image that appears at the top of the Journey when viewed in the mobile app. See, [Journeys on Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/journeys-mobile-now.md).
 
 </td></tr><tr><td>
 
@@ -198,5 +198,5 @@ Mentor permissions determine how much control that a mentor has in the journey p
 |**Can add other mentors**|Enables mentors to add other mentors to a journey. An extra mentor could have unique skills that would be helpful for an employee. Mentors can have tasks assigned to them.|
 |**Can edit journey**|Enables mentors to edit everything in a journey.|
 
-**Parent Topic:**[Journey designer reference](jny-dsnr-reference.md)
+**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 

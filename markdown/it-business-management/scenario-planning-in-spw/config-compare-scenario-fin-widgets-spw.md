@@ -27,7 +27,7 @@ Role required: admin
 
     By default, there are five financial widgets enabled to compare the financial performance of scenarios.
 
-    ![List of default financial widgets shipped for scenario planning.](../image/financial-widgets-compare-scenario-ootb.png)
+    ![List of default financial widgets shipped for scenario planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../image/financial-widgets-compare-scenario-ootb.png)
 
 3.  Edit an existing widget or create a widget to use it in scenario planning.
 

@@ -29,7 +29,7 @@ Role required: sn\_sec\_tisc.admin
 
 1.  Navigate to **Threat Intelligence Security Center**.
 
-2.  [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+2.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../security-incident-response/reference/download-app-first-time.md).
 
 3.  Select **Integrations** &gt; **Security Tools** &gt; **EDR**.
 
@@ -157,10 +157,10 @@ The expiry period in days that is applied for the Hash type of observable when t
     **Note:** Multiple configurations are allowed for CrowdStrike Falcon EDR integration.
 
 
-**Parent Topic:**[CrowdStrike Falcon EDR integration](../concept/crowdstrike-edr-integration.md)
+**Parent Topic:**[CrowdStrike Falcon EDR integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/crowdstrike-edr-integration.md)
 
 **Related topics**  
 
 
-[Send observables to EDR](send-to-edr.md)
+[Send observables to EDR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/send-to-edr.md)
 

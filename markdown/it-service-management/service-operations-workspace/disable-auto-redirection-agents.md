@@ -46,5 +46,5 @@ Role required: admin
         If the Homepage Destination Rules \[sys\_homepage\_destination\_rule\] table contains other records that redirect to SOW, use these steps to clear the **Active**  check box for each record.
 
 
-**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](../concept/landing-page-redirection-sow-itsm.md)
+**Parent Topic:**[Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/landing-page-redirection-sow-itsm.md)
 

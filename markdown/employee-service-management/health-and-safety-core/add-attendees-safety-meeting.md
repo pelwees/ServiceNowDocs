@@ -27,7 +27,7 @@ Using the **Attendees** tab of a safety meeting, you can keep track of all atten
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the meetings icon \(![safety meetings icon](../image/icon-hs-meetings.png)\).
+2.  Select the meetings icon \(![safety meetings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../image/icon-hs-meetings.png)\).
 
 3.  In the **Meetings** list, select the one that you want to add attendees to.
 
@@ -50,7 +50,7 @@ Steps
 Add users with the Health and Safety profile in your organization who are attending this meeting.1.  Select **Add**.
 2.  Select **Filter** and use the condition builder to define conditions to choose users to be added as attendees.
 3.  Select users in the list and then select **Add**.
-For information on Health and Safety profile, see [Health and Safety user profile](../concept/health-and-safety-user-profile.md).
+For information on Health and Safety profile, see [Health and Safety user profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../concept/health-and-safety-user-profile.md).
 
 </td></tr><tr><td id="d621546e167">
 
@@ -61,7 +61,7 @@ For information on Health and Safety profile, see [Health and Safety user profil
 1.  Select **New**.
 2.  On the form, fill in the fields.
 
-For field descriptions, see [Health and Safety meeting attendee form](../reference/hs-safety-meeting-attendee-form.md).
+For field descriptions, see [Health and Safety meeting attendee form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../reference/hs-safety-meeting-attendee-form.md).
 
 3.  Select **Save**.
 
@@ -74,12 +74,12 @@ For field descriptions, see [Health and Safety meeting attendee form](../referen
 -   For an attendee internal to your organization, the **Attendee profile** column of this list shows the user's Health and Safety profile.
 -   For an external attendee, the **Attendee profile** column of this list is empty.
 
-**Parent Topic:**[Managing safety meetings](../concept/managing-hs-safety-meetings.md)
+**Parent Topic:**[Managing safety meetings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../concept/managing-hs-safety-meetings.md)
 
 **Related topics**  
 
 
-[Log a safety meeting](log-hs-safety-meeting.md)
+[Log a safety meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/log-hs-safety-meeting.md)
 
-[Create a meeting minute for a safety meeting](create-meeting-minute-hs-safety-meeting.md)
+[Create a meeting minute for a safety meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-meeting-minute-hs-safety-meeting.md)
 

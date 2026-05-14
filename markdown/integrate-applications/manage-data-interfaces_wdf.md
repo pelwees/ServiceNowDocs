@@ -30,12 +30,12 @@ If you select one source table, the combination method is automatically set to S
     Stacks rows from multiple source tables with compatible schemas into a single view. Use this when the same type of data is distributed across systems or regions and consumers need a consolidated view. All rows from all tables are included.
 
 
--   **[Create a data interface from a single table](../task/create-data-interface-single-table-wdf.md)**  
+-   **[Create a data interface from a single table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-data-interface-single-table-wdf.md)**  
 Create a governed data interface on a single source table and publish it to the Data Catalog so consumers can access the data through a stable schema.
--   **[Create a data interface using UNION](../task/create-data-interface-union-wdf.md)**  
+-   **[Create a data interface using UNION](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-data-interface-union-wdf.md)**  
 Create a governed data interface that consolidates rows from two or more source tables with compatible schemas using UNION. Publish it to the Data Catalog so consumers can access an aggregated view through a stable schema.
--   **[Create a data interface using JOIN](../task/create-data-interface-join-wdf.md)**  
+-   **[Create a data interface using JOIN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-data-interface-join-wdf.md)**  
 Create a governed data interface that combines rows from two or more source tables using an INNER JOIN and publish it to the Data Catalog. Consumers can access a unified view through a stable schema.
 
-**Parent Topic:**[Data Products](data-products.md)
+**Parent Topic:**[Data Products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-products.md)
 

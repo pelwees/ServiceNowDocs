@@ -21,8 +21,8 @@ You must have contribute access to the knowledge base that stores the knowledge 
 
 Ensure that the system administrator verifies the following settings:
 
--   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
--   The article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+-   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/article-versioning.md).
 
 Role required: knowledge
 
@@ -32,9 +32,9 @@ Role required: knowledge
 
 2.  Select an article link.
 
-3.  In the **Scheduled publish date** field, click the select date and time icon ![Select date and time icon](../image/date-time.png).
+3.  In the **Scheduled publish date** field, click the select date and time icon ![Select date and time icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/date-time.png).
 
-    You may need to configure the knowledge block form to include the **Scheduled publish date** field. Click the form context menu icon \(![context menu](../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form Layout**. Use slushbucket to add the Scheduled publish date field.
+    You may need to configure the knowledge block form to include the **Scheduled publish date** field. Click the form context menu icon \(![context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form Layout**. Use slushbucket to add the Scheduled publish date field.
 
     **Important:** You must set the **Scheduled publish date** at least 24 hours from the current date. To publish the article earlier than 24 hours, click **Publish article** available in the form.
 
@@ -42,7 +42,7 @@ Role required: knowledge
 
 5.  In the **Time** field, enter a time in the format hh:mm:ss.
 
-6.  Select the save \(enter\) icon ![Save enter icon](../image/save-km.png).
+6.  Select the save \(enter\) icon ![Save enter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/save-km.png).
 
 7.  Select **Publish** to enable the publishing workflow.
 
@@ -63,10 +63,10 @@ The knowledge article is published on the scheduled publish date depending on th
     -   If the approvals are completed before the scheduled publish date, the **Workflow** field on the Knowledge form of the article is updated to **Scheduled for publish** and the article is published on the scheduled publish date.
     -   If the approvals are completed after the scheduled publish date, the article is published immediately on the approval completion.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 
 **Related topics**  
 
 
-[Edit a knowledge article](edit-knowledge-article.md)
+[Edit a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md)
 

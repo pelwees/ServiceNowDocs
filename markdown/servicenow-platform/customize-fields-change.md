@@ -32,8 +32,8 @@ Role required: oam\_admin
 
     The approval message is displayed in Microsoft Outlook as shown below. Click **View Approval Request** to view the request in ServiceNow instance.
 
-    ![Change approval in Microsoft Outlook](../image/oam-change2.png)
+    ![Change approval in Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/oam-change2.png)
 
 
-**Parent Topic:**[Customize fields for the approval message](../concept/customize-approval-message.md)
+**Parent Topic:**[Customize fields for the approval message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/customize-approval-message.md)
 

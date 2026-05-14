@@ -52,10 +52,10 @@ After you download the script file, perform the following steps.
 5.  Click **Run Script** to allow all the requested RCAs.
 
 
-**Parent Topic:**[Post installation troubleshooting](../concept/post-install-steps.md)
+**Parent Topic:**[Post installation troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/post-install-steps.md)
 
 **Related topics**  
 
 
-[Run fix scripts to update Employee Center](run_scripts_manually_config-search.md)
+[Run fix scripts to update Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/run_scripts_manually_config-search.md)
 

@@ -22,7 +22,7 @@ The MID Web Server extension supports MID Server clusters that are configured fo
 **Related topics**  
 
 
-[Configure the MID Web Server extension](../task/configure-mid-web-server-extension.md)
+[Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-mid-web-server-extension.md)
 
-[Configure a secure MID Web Server extension](../task/configure-midwebserver-extension-secure.md)
+[Configure a secure MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-midwebserver-extension-secure.md)
 

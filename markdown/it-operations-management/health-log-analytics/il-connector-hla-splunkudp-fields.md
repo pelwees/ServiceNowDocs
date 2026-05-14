@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Splunk UDP integration configuration forms for Health Log Analytics.
 
-For the Splunk UDP integration setup procedure, see [Set up a Splunk UDP integration for Health Log Analytics](../task/il-connector-hla-splunkudp.md).
+For the Splunk UDP integration setup procedure, see [Set up a Splunk UDP integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-splunkudp.md).
 
 <table id="table_w5q_lhh_q2c"><thead><tr><th>
 
@@ -136,5 +136,5 @@ Default timezone
 The time zone of events that the system will use if a log does not specify the time zone.By default, the system uses GMT in such cases, but you can specify a different time zone.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

@@ -41,7 +41,7 @@ A runtime client is required to authenticate community users. If a runtime clien
 
     The Origin must be exact: it must include https://, and should have one origin with the trailing "/" and one without. On https://dev5.dev.logik.io, there should be an Origin of https://dev5.dev.logik.io and https://dev5.dev.logik.io/.
 
-    ![Set up](../images/cpq-community-origin.png)
+    ![Set up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-community-origin.png)
 
 3.  Save.
 4.  Copy the value using the clipboard icon under “Token” image.png.
@@ -53,11 +53,11 @@ A runtime client is required to authenticate community users. If a runtime clien
 
 1.  From the Salesforce App Launcher, search for and open the CPQ Admin Custom Settings page.
 
-    ![Menu](../images/cpq-salesforce-logik-admin-settings.png)
+    ![Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-logik-admin-settings.png)
 
 2.  Next to the Runtime Client Token, click **Set**, paste the copied token from CPQ Admin, then Save.
 
-    ![Admin package](../images/cpq-salesforce-runtime-client-token.png)
+    ![Admin package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-runtime-client-token.png)
 
 3.  Go to Security &gt; Session Settings.
 4.  Under “Clickjack Protection”, select Enable clickjack protection for customer Visualforce pages with standard headers.
@@ -65,7 +65,7 @@ A runtime client is required to authenticate community users. If a runtime clien
 6.  From Setup home, go to Apps &gt; Packaging &gt; Installed Packages.
 7.  Next to the Salesforce CPQ package \(not the CPQ extension for CPQ\), click **Configure**.
 
-    ![Uninstalled packages](../images/cpq-salesforce-cpq-configure.png)
+    ![Uninstalled packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-cpq-configure.png)
 
 8.  Under the Additional Settings tab, set the “External Configurator URL” to /apex/LGK\_\_CpqConfiguration.
 

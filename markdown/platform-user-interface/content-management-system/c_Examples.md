@@ -22,7 +22,7 @@ The following examples illustrate setting up access to the following system data
 -   Service Portfolio: using the business service portfolio to contain all defined services offered by your organization.
 -   Featured reports: methods for linking to the most important reports.
 
-![Examples include Knowledge, Catalog, Service Portfolio, and Featured reports.](../image/CmsIntegrationPoints.png "Example links to system data")
+![Examples include Knowledge, Catalog, Service Portfolio, and Featured reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../image/CmsIntegrationPoints.png "Example links to system data")
 
-**Parent Topic:**[View links between system elements and URLs](../task/t_LinkToContent.md)
+**Parent Topic:**[View links between system elements and URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_LinkToContent.md)
 

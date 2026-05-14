@@ -80,7 +80,7 @@ The AI agents in the Help manage hardware asset requests agentic workflow help t
 
             **Note:** To access the Now Assist panel after it has been activated, you should have the now\_assist\_panel\_user role. To access the Help manage hardware asset requests agentic workflow in the Hardware Asset Workspace, select the sparkle icon ![](../../../common/image/icon-ai-sparkle.png).
 
-            ![Conversation in the Now Assist panel](../image/now-assist-ham-ai-workflow.png "Conversations in the Now Assist panel")
+            ![Conversation in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../image/now-assist-ham-ai-workflow.png "Conversations in the Now Assist panel")
 
             1.  If the AI agent receives the confirmation to proceed and there have been no changes to the plan, it sources the assets according to the sourcing plan.
 

@@ -33,7 +33,7 @@ Role required: sn\_sec\_tisc.analyst
 
     **Note:** This action is only available at a home node level.
 
-    ![TISC link nodes](../image/tisc-link-node-actions.png)
+    ![TISC link nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-link-node-actions.png)
 
 6.  Select the entity type such as observable.
 
@@ -43,7 +43,7 @@ Role required: sn\_sec\_tisc.analyst
 
     The observables are added to the parent node.
 
-    ![Add observables](../image/tisc-link-add-observables.png)
+    ![Add observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-link-add-observables.png)
 
 9.  Select **Unlink** to unlink the related records from the nodes.
 
@@ -52,5 +52,5 @@ Role required: sn\_sec\_tisc.analyst
 10. Select **Show details** to see the associated observables data.
 
 
-**Parent Topic:**[View details in Visualizer](../concept/objects-visualizer.md)
+**Parent Topic:**[View details in Visualizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/objects-visualizer.md)
 

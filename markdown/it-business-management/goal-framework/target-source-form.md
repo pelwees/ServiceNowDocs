@@ -108,5 +108,5 @@ Custom script
 Custom script to fetch the required data from any ServiceNow AI Platform table for the target source.This field is available when the **Type** field is set to **Custom**. Or, when the **Type** field is set to **Assessment/Survey** and the **Advanced** field is set to **true**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 

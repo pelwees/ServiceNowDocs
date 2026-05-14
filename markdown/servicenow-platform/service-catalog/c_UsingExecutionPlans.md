@@ -22,7 +22,7 @@ You can also:
 -   Apply conditions to tasks
 -   Create approval tasks, enabling you to step back to a previous step if the approver rejects the request.
 
-**Parent Topic:**[Execution Plans](c_ExecutionPlans.md)
+**Parent Topic:**[Execution Plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ExecutionPlans.md)
 
 ## Associate execution plan with items
 

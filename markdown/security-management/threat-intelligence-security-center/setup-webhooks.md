@@ -151,19 +151,19 @@ Any headers to be passed with the requests can be provided in Request Header Map
     -   For the validation of webhook, empty request payload is sent to the endpoint and the user needs to ensure that the endpoint sends successful response code \(200\) when the empty request is passed to the configured webhook endpoint.
     -   By default, any webhook that is created will be in disabled state, you need to enable the webhook and activate it. A sample webhook is provisioned in the base system as a reference to the users.
 
--   **[Subscribe Triggers](subscribe-triggers.md)**  
+-   **[Subscribe Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/subscribe-triggers.md)**  
 View the list of all the subscribed webhook triggers for the current webhook.
--   **[View webhook error logs](tisc-error-logs.md)**  
+-   **[View webhook error logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-error-logs.md)**  
 Use this error logs section to view all the audit entries which are marked as error in the status for a particular webhook.
--   **[View webhook batches](../task/tisc-webhook-batch.md)**  
+-   **[View webhook batches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-webhook-batch.md)**  
 A webhook batch record is created for each webhook execution.
 
-**Parent Topic:**[Working with Webhooks](tisc-webhooks.md)
+**Parent Topic:**[Working with Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-webhooks.md)
 
 **Related topics**  
 
 
-[System properties for Webhooks](tisc-sysprops-retry.md)
+[System properties for Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sysprops-retry.md)
 
-[Webhook Triggers](tisc-triggers.md)
+[Webhook Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-triggers.md)
 

@@ -140,5 +140,5 @@ Program service \[sn\_hcls\_program\_service\]
 Supports the program service tasks.
 
 </td></tr></tbody>
-</table>For more information, see [Healthcare and Life Sciences data model](hcls-serv-mgmt-core-1.md).
+</table>For more information, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-serv-mgmt-core-1.md).
 

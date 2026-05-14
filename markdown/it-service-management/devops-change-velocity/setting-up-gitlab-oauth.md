@@ -19,7 +19,7 @@ Configure your GitLab account, register GitLab in the application registry, and 
 
 Role required: oauth\_admin.
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
 ## Configure the GitLab App in your GitLab account \(Authorization Code\)
 

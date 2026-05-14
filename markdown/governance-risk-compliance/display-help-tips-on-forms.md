@@ -23,7 +23,7 @@ Role required: sn\_oper\_res.manager
 
     The user profile is shown in the example.
 
-    ![User profile.](../image/user-profile-pref.png)
+    ![User profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/user-profile-pref.png)
 
 2.  Select **Display**.
 
@@ -31,12 +31,12 @@ Role required: sn\_oper\_res.manager
 
     The option is displayed in the example.
 
-    ![Show the option.](../image/show-help-tips-option.png)
+    ![Show the option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/show-help-tips-option.png)
 
     The help tips are displayed on the form as shown in the example.
 
-    ![Help tip.](../image/help-tip-on-the-forms.png)
+    ![Help tip.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/help-tip-on-the-forms.png)
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/conf-dg-resi-party-regi.md)
 

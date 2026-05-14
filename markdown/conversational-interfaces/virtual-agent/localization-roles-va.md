@@ -38,7 +38,7 @@ The Virtual Agent admin role contains the localization requestor and localizatio
 
 The localization task is not available to this user.
 
-![With the virtual_agent_admin role, you can request, view, and edit translations, but you do not have access to the localization task.](../images/loc-editor-role-view.png "Manage languages page with the Virtual Agent admin role")
+![With the virtual_agent_admin role, you can request, view, and edit translations, but you do not have access to the localization task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/loc-editor-role-view.png "Manage languages page with the Virtual Agent admin role")
 
 ## Localization fulfiller permissions
 
@@ -46,13 +46,13 @@ The localization fulfiller role may not have Virtual Agent privileges. In that c
 
 If a Virtual Agent admin has the localization fulfiller role, the **Manage languages** page lets the user view the localization task that was created.
 
-![With both of the virtual_agent_admin and localization_fulfiller roles, you can request, view, and edit translations and view the localization task details.](../images/loc-fulfiller-role-view.png "Manage languages page with Virtual Agent admin and localization fulfiller roles")
+![With both of the virtual_agent_admin and localization_fulfiller roles, you can request, view, and edit translations and view the localization task details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/loc-fulfiller-role-view.png "Manage languages page with Virtual Agent admin and localization fulfiller roles")
 
 Click **View requested item** to open the localization fulfillment task in a new window.
 
-![A Localization request task is created when you submit a translation request.](../images/loc-task-view-number.png "Localization request task number")
+![A Localization request task is created when you submit a translation request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/loc-task-view-number.png "Localization request task number")
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/localize-va-topic.md)
 
 ## Localization requestor \[localization\_requestor\]
 

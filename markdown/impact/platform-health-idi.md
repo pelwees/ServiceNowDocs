@@ -19,25 +19,25 @@ Features may vary between the Impact Store Application and the Impact Delivery I
 
 <table id="table_uqc_flp_fsb" class="nav-card"><tbody><tr><td>
 
-[Scan Engine for the Impact Store Application](impact-healthscan-store-app.md)
+[Scan Engine for the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-healthscan-store-app.md)
 
  ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Proactive management of instance quality, compliance, and performance with real-time automation of code inspections.
 
 </td><td align="center">
 
-[HealthScan for the Impact Delivery Instance](healthscan.md)
+[HealthScan for the Impact Delivery Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/healthscan.md)
 
  ![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg) A diagnostic tool that helps you understand the current health of your instance, identify potential issues and setbacks, and take quick corrective action.​
 
 </td><td>
 
-[Impact Developer Support](developer-support.md)
+[Impact Developer Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/developer-support.md)
 
  ![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Provides access to a ServiceNow Support Engineer who can assist in troubleshooting technical issues around existing platform customizations.
 
 </td><td>
 
-[Monitoring instance health with Instance Observer](io-overview.md)
+[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 
  ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg) Track your instance health and performance in near real-time, while also providing historical insights.
 

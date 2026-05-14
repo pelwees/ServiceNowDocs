@@ -45,10 +45,10 @@ Role required: admin
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+**Parent Topic:**[Relish Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/relish-slo-connector.md)
 
 **Related topics**  
 
 
-[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+[Relish Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/relish-slo-connector.md)
 

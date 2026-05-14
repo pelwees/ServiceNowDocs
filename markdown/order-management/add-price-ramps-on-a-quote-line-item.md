@@ -79,5 +79,5 @@ Use price ramps to specify how the price of a configurable product offering in a
     **Note:** Only segments created by splitting can be removed. Original ramp segments cannot be removed.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

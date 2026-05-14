@@ -25,7 +25,7 @@ Role required: sn\_kpi.admin
 
 2.  Select **Create**.
 
-    The **Crate new action plan item** dialog box is displayed.![Create new action plan item dialog box for creating supplier task](../image/create-supplier-task.png)
+    The **Crate new action plan item** dialog box is displayed.![Create new action plan item dialog box for creating supplier task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/create-supplier-task.png)
 
 3.  Select **Supplier task**.
 
@@ -61,5 +61,5 @@ Role required: sn\_kpi.admin
 8.  Select **Save** to create and save the new supplier task.
 
 
-**Parent Topic:**[Create action plan for KPIs](create-action-plan-for-kpis.md)
+**Parent Topic:**[Create action plan for KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 

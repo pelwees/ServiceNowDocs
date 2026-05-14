@@ -17,7 +17,7 @@ Verify that the list categories and modules in Service Operations Workspace \(SO
 
 ## Before you begin
 
-When performing the migration, you must have selected the **List categories and modules** option for ITSM Agent Workspace features. For example, the **List categories and modules** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **List categories and modules** option for ITSM Agent Workspace features. For example, the **List categories and modules** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -43,12 +43,12 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     1.  On the migration completion page in SOW Admin Center, select **View migration details**.
 
-    2.  Select the **Go to system logs** \(![System logs icon](../../service-builder/image/sb-service-triangle.png)\) icon.
+    2.  Select the **Go to system logs** \(![System logs icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-builder/image/sb-service-triangle.png)\) icon.
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-categories-modules-migration-itsm-aw-sow.md) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/list-categories-modules-migration-itsm-aw-sow.md) section.
 
 
-**Parent Topic:**[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-categories-modules-migration-itsm-aw-sow.md)
+**Parent Topic:**[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/list-categories-modules-migration-itsm-aw-sow.md)
 

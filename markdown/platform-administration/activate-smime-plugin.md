@@ -34,12 +34,12 @@ Role required: admin
 
 ## What to do next
 
-[Import an S/MIME key pair](import-smime-key-pair.md)
+[Import an S/MIME key pair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/import-smime-key-pair.md)
 
-**Parent Topic:**[Email encryption - S/MIME protocol](../concept/smime-inbound-outbound-mails.md)
+**Parent Topic:**[Email encryption - S/MIME protocol](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/smime-inbound-outbound-mails.md)
 
 **Related topics**  
 
 
-[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+[Setting up S/MIME for email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/smime-for-email-signing-and-encryption.md)
 

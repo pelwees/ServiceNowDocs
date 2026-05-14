@@ -31,5 +31,5 @@ New hardening settings have been released with Security Center baseline version 
 -   [Ensure Contextual Search Do Not Contain An Unvalidated Redirect \[New in Security Center 7.0\]](../reference/sc-ensure-contextual-search-do-not-contain-an-unvalidated-redirect.md)
 -   [Sanitize HTML in the Description Fields of the Impact Workspace Module \[New in Security Center 7.0\]](../reference/sanitize-html-in-the-description-fields-of-the-impact-workspace-module.md)
 
-**Parent Topic:**[New hardening settings](hardening-settings-new.md)
+**Parent Topic:**[New hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)
 

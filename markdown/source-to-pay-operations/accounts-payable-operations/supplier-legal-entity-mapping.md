@@ -24,5 +24,5 @@ The linking of supplier registered legal entity to the customer's corresponding 
 |Payment term|Reference|The name or code of the payment term. Example: Net 60.|
 |General ledger account|Reference|The account to which capital or operational expenses will be posted.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

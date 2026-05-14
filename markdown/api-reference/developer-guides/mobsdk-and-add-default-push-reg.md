@@ -29,7 +29,7 @@ Role required: admin
 
 4.  In **Notification**, enter `Virtual Agent Message Push Notification`.
 
-    ![Virtual Agent push notification](../../image/mobsdk-push-default_reg.png)
+    ![Virtual Agent push notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobsdk-push-default_reg.png)
 
 5.  Select **Submit**.
 

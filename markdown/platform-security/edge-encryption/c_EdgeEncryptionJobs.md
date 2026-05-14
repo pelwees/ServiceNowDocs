@@ -22,7 +22,7 @@ Schedule jobs to:
 
 Running these jobs can be a time-consuming operation that might impact the performance of the Edge Encryption proxy. Schedule these jobs at a time when no users or a minimum set of users are using the system, such as midnight on the weekend.
 
-**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
 ## Schedule an order token repair job
 

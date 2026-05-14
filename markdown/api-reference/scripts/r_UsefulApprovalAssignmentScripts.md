@@ -168,8 +168,8 @@ For see [Viewing my approvals](https://raw.githubusercontent.com/ServiceNow/Serv
 
 -   **Custom approval UI macro**
 
-    For information on creating a custom approval UI macro, see [UI macros](../../server-scripting/concept/c_UIMacros.md#).
+    For information on creating a custom approval UI macro, see [UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../server-scripting/concept/c_UIMacros.md#).
 
 
-**Parent Topic:**[Field script use cases](r_UsefulFieldScripts.md)
+**Parent Topic:**[Field script use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_UsefulFieldScripts.md)
 

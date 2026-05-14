@@ -15,11 +15,11 @@ The ServiceNow® Sales CRM for Telecommunications enables to unify your sales, f
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Sales CRM for Telecommunications](sales-order-management-telecommunications.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Sales CRM for Telecommunications](sales-order-management-telecommunications.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configure-somt.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configure-somt.md)
 
 </td></tr></tbody>
 </table>## Additional resources

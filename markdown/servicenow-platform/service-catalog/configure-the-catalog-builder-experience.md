@@ -48,7 +48,7 @@ Procedure
 1.  Select **New** from the Catalog Wizards Steps related list.
 2.  On the Catalog Wizard Step form, fill in the fields.
 
-For a description of the field values, see [Fields in Service Catalog Wizard forms](catalog-wizard.md).
+For a description of the field values, see [Fields in Service Catalog Wizard forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-wizard.md).
 
 3.  Select **Submit**.
 
@@ -63,7 +63,7 @@ For a description of the field values, see [Fields in Service Catalog Wizard for
 2.  Create a section by selecting **New** from the Catalog Wizard Section related list.
 3.  On the Catalog Wizard Section form, fill in the fields.
 
-For a description of the field values, see [Fields in Service Catalog Wizard forms](catalog-wizard.md).
+For a description of the field values, see [Fields in Service Catalog Wizard forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-wizard.md).
 
 4.  Select **Submit**.
 
@@ -78,22 +78,22 @@ For a description of the field values, see [Fields in Service Catalog Wizard for
 2.  Create a question or variable by selecting **New** on the **Variables** related tab.
 3.  On the Variable form, fill in the fields.
 
-For a description of the field values, see [Fields in Service Catalog Wizard forms](catalog-wizard.md).
+For a description of the field values, see [Fields in Service Catalog Wizard forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-wizard.md).
 
-4.  Enter details in the Annotations, Type specifications, and Default Value tabs. For more information, see [Create a service catalog variable](t_CreateAVariableForACatalogItem.md).
+4.  Enter details in the Annotations, Type specifications, and Default Value tabs. For more information, see [Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md).
 5.  Select **Submit**.
 6.  Navigate to the section where you want to add the question.
 7.  Add the question to the section by selecting **New** from the **Catalog Wizard Question** related list.
 8.  On the Catalog Wizard Question form, fill in the fields.
 
-For a description of the field values, see [Fields in Service Catalog Wizard forms](catalog-wizard.md).
+For a description of the field values, see [Fields in Service Catalog Wizard forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-wizard.md).
 
 9.  Select **Submit**.
 
 
 </td></tr></tbody>
-</table>    For more information about the fields and their descriptions of the Catalog Wizard form, see [Catalog Wizard form](../reference/service-catalog-wizard-forms-field.md).
+</table>    For more information about the fields and their descriptions of the Catalog Wizard form, see [Catalog Wizard form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/service-catalog-wizard-forms-field.md).
 
 
-**Parent Topic:**[Setting up the Catalog Builder](set-up-cat-builder.md)
+**Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 

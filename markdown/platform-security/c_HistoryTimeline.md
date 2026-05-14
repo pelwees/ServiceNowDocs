@@ -21,9 +21,9 @@ CI changes are represented by bubbles in different shapes and colors along the t
 
 A change to a relationship is considered valid only if it was applied through change management. If the change was applied via the Proposed Changes framework, it is valid. For additional validation steps, see [Create or edit a planned validation script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ProposedChanges.md).
 
-![History timeline view](../image/TimelineDashboard.png "History Timeline view")
+![History timeline view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/TimelineDashboard.png "History Timeline view")
 
-![Timeline bubbles](../image/TimelineBubbles.png "Timeline bubbles")
+![Timeline bubbles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/TimelineBubbles.png "Timeline bubbles")
 
 **Note:** Proposed changes that do not have a planned start date are placed at future points of time.
 

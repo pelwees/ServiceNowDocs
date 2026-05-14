@@ -40,5 +40,5 @@ The product catalog manager then uses the templates to define the new specificat
 
 After the 5G service specifications are created, they can be used in the slice order creation and fulfillment process. The 5G slice ordering process follows the existing order approval, decomposition, and fulfillment process in the Order Management application.
 
-**Parent Topic:**[Managing service orders](managing-service-orders.md)
+**Parent Topic:**[Managing service orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/managing-service-orders.md)
 

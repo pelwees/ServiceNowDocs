@@ -42,25 +42,25 @@ Any of the following icons may appear in lists of CI related items.
 
 The system looks five calendar days into the past and seven calendar days into the future when looking at recent outages and changes.
 
--   **[Teams related list](../concept/teams-related-list.md#)**  
+-   **[Teams related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/teams-related-list.md#)**  
 The Teams related list associates a user group to a CI based on group type, providing flexibility in tracking the different types of groups assigned to a CI. The Teams related list appears on CI forms for CIs of the Service \[cmdb\_ci\_service\] class and its descendent classes such as the Service Instance \[cmdb\_ci\_service\_auto\] class.
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[CMDB record types](r_CMDBRecordTypes.md)
+[CMDB record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_CMDBRecordTypes.md)
 
-[Create a CI class](../task/t_CreateCIType.md)
+[Create a CI class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIType.md)
 
-[Reclassify a CI](../task/t_ManuallyReclassifyCI.md)
+[Reclassify a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ManuallyReclassifyCI.md)
 
-[Delete CIs](../task/delete-class-records-ci-class-mgr.md)
+[Delete CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/delete-class-records-ci-class-mgr.md)
 
-[View and edit class definitions and metadata](../task/t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/update-principal-class-filter.md)
 

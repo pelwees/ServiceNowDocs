@@ -34,13 +34,13 @@ Choose the appropriate method based on your specific filtering requirements and 
 
         The Entity Filters related list is shown in the example.
 
-        ![The Active check box is selected.](../image/ent-types-active-option.png)
+        ![The Active check box is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-types-active-option.png)
 
     2.  To create a filter condition, select **New**.
 
         The example shows the dialog box.
 
-        ![Entity filter.](../image/ent-filter-build-condition.png)
+        ![Entity filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-filter-build-condition.png)
 
     3.  Select **Build your own conditions** in the Filter conditions section, choose **Table** to query \(for example, cmdb\_ci\_server for servers\), and add filter conditions using AND/OR logic.
 
@@ -48,7 +48,7 @@ Choose the appropriate method based on your specific filtering requirements and 
 
         The examples show the filter conditions section.
 
-        ![Conditions.](../image/ent-filter-condition-section.png)![Assignment section.](../image/ent-filter-condition-asmt-section.png)
+        ![Conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-filter-condition-section.png)![Assignment section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-filter-condition-asmt-section.png)
 
     4.  Select **Pillar** and then select **Entity type** in the Assignment section.
 
@@ -66,7 +66,7 @@ Choose the appropriate method based on your specific filtering requirements and 
 
         The example shows that you can select a saved query to set up the filter.
 
-        ![Select from predefined queries.](../image/ent-filter-predefined-query-2.png)
+        ![Select from predefined queries.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-filter-predefined-query-2.png)
 
     4.  Select **Pillar** and then select **Entity type** in the Assignment section.
 

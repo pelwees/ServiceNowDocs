@@ -33,7 +33,7 @@ Role required: wm\_admin, wm\_dispatcher
 
 3.  Open a work order task that is in the Draft or Pending Dispatch state for which you want to configure the resource requirement.
 
-    For more information, see [Search for tasks that need a crew on Dispatcher Workspace](search-crew-task.md).
+    For more information, see [Search for tasks that need a crew on Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/search-crew-task.md).
 
 4.  Select the **Resource requirement** option if not already selected, and then select **Save**.
 

@@ -32,9 +32,9 @@ Role required: inbound\_integration\_metering\_admin
 
 ## Result
 
-![Inbound API Integration Usage by Application, Requestor, and Resource](../image/inbound-api-usage-by-app.png)
+![Inbound API Integration Usage by Application, Requestor, and Resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/inbound-api-usage-by-app.png)
 
 The metrics for the applications and requestors that you selected display in the dashboard.
 
-**Parent Topic:**[Monitor inbound API integration usage](inbound-api-integration-usage-dashboard.md)
+**Parent Topic:**[Monitor inbound API integration usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/inbound-api-integration-usage-dashboard.md)
 

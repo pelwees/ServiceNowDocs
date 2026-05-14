@@ -23,14 +23,14 @@ The Claim details form enables the dealer to enter the claim details for the rep
 |Reported date|Date on which the claim is being raised.|
 |Work order|Claim work order number that is a string value.|
 
-**Parent Topic:**[Repair form](repair-form.md)
+**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
 [Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-partner-relationship-management.md)
 
-[Submit a repair claim for warranty](../task/mco-submit-repair-claim.md)
+[Submit a repair claim for warranty](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim.md)
 
-[Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md)
+[Submit a repair claim for recall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim-for-recall.md)
 

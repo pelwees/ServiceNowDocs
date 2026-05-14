@@ -34,5 +34,5 @@ Role required: evt\_mgmt\_admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](customize-sow-landing-page-itom.md)
+**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-sow-landing-page-itom.md)
 

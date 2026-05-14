@@ -308,8 +308,8 @@ User-defined attribute.**Note:** All the other attributes are predefined in the 
 </td></tr></tbody>
 </table>|Link|Visual representation|Description|
 |----|---------------------|-----------|
-|Solid line|![Solid line linking attributes in Link View.](../image/link-view-solid-line.png)|Solid line linking attributes in Link View, indicating that the attributes share one or more alerts.|
-|Dotted line|![Dotted line linking attributes in Link View.](../image/link-view-dotted-line.png)|Dotted line linking attributes in Link View, indicating that the attributes are correlated by grouping criteria.|
+|Solid line|![Solid line linking attributes in Link View.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/link-view-solid-line.png)|Solid line linking attributes in Link View, indicating that the attributes share one or more alerts.|
+|Dotted line|![Dotted line linking attributes in Link View.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/link-view-dotted-line.png)|Dotted line linking attributes in Link View, indicating that the attributes are correlated by grouping criteria.|
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/sow-reference-itom.md)
 

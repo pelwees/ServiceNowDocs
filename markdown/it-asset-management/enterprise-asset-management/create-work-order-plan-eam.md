@@ -216,10 +216,10 @@ Date and time by which the work order plan must be completed.
     You can track the status of the work order tasks at any time through the associated work order plan.
 
 
-**Parent Topic:**[Manage asset-centric work tasks using work order plans](../concept/manage-work-order-plans.md)
+**Parent Topic:**[Manage asset-centric work tasks using work order plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-work-order-plans.md)
 
 **Related topics**  
 
 
-[Create a work order plan template](creat-work-plan-template.md)
+[Create a work order plan template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/creat-work-plan-template.md)
 

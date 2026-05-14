@@ -17,7 +17,7 @@ Install and activate the Meeting Extensions for Microsoft Teams plugin to be abl
 
 ## Before you begin
 
-Ensure you have installed Notify connector for Microsoft Teams. For more information, see [Install Notify connector for Microsoft Teams](../../notify2/task/setup-notify-ms-teams.md).
+Ensure you have installed Notify connector for Microsoft Teams. For more information, see [Install Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../notify2/task/setup-notify-ms-teams.md).
 
 Role required: admin
 
@@ -36,8 +36,8 @@ Role required: admin
 
 Integrate Meeting Extensions for Microsoft Teams with ServiceNow.
 
--   To set up pre-published app \(Single Microsoft Teams tenant to single ServiceNow instance\), see [Integrate Meeting Extensions pre-published app with Microsoft Teams](../concept/setup-meeting-extensibility-multi-tenant.md).
--   To set up self-configured app \(Single Microsoft Teams tenant to multiple ServiceNow instance\), see [Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md).
+-   To set up pre-published app \(Single Microsoft Teams tenant to single ServiceNow instance\), see [Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-multi-tenant.md).
+-   To set up self-configured app \(Single Microsoft Teams tenant to multiple ServiceNow instance\), see [Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-single-tenant.md).
 
-**Parent Topic:**[Plan your installation](../../sn-teams/concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/concept/plan-installation-ms-teams.md)
 

@@ -39,5 +39,5 @@ Understand the similarities and differences between a Service Portal and a Works
 |Analytics|Portal usage analytics and optional AI Search|Embedded analytics, KPIs, and agent assist features|
 |Upgrade path|Migrate to Employee Center for an updated taxonomy|Move from classic Agent Workspace to Configurable Workspaces|
 
-**Parent Topic:**[User interface and experiences](dev-get-start-ui-and-experience.md)
+**Parent Topic:**[User interface and experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/dev-get-start-ui-and-experience.md)
 

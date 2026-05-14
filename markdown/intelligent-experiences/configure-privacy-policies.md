@@ -17,7 +17,7 @@ Configure privacy policies to anonymize data in Now Assist.
 
 You must have the following applications installed on your instance:
 
-If you do not have a data steward, see [Assign the data steward role](assign-data-steward-role.md) documentation.
+If you do not have a data steward, see [Assign the data steward role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/assign-data-steward-role.md) documentation.
 
 Role required: sn\_generative\_ai.data\_steward
 
@@ -40,5 +40,5 @@ The Now Assist **Privacy Policies** enables you to review and configure how pers
     See [Configuring Data Privacy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/configure-now-assist-data-privacy.md) for more information on configuring Now Assist policies.
 
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-data-sharing-and-processes.md)
 

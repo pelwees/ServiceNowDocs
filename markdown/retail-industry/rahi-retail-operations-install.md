@@ -29,7 +29,7 @@ The following items are installed with Retail:
 -   ServiceNow® Store applications
 -   Related Party Configurations
 
-For information about the components installed with each plugin, see respective associated links in [Components installed with plugins](../concept/rahi-retail-components-installed-with-plugins.md).
+For information about the components installed with each plugin, see respective associated links in [Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../concept/rahi-retail-components-installed-with-plugins.md).
 
 ## Procedure
 

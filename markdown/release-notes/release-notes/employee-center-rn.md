@@ -77,5 +77,5 @@ Improve accessibility by allowing admins to configure widget heading levels \(H1
     Use the Now Assist for Employee Experience application so that your employees can have a seamless conversational interaction with Now Assist in Virtual Agent.
 
 
-**Parent Topic:**[Unified Employee Experience release notes](uex-rn-landing.md)
+**Parent Topic:**[Unified Employee Experience release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/uex-rn-landing.md)
 

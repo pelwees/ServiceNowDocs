@@ -27,19 +27,19 @@ After you have installed and setup the Discovery Console for OT, the Discovery S
 
 2.  When displayed, select the **Onboarding** tool.
 
-    ![Onboarding tab](../images/onboarding-tab.png)
+    ![Onboarding tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/onboarding-tab.png)
 
 3.  The configuration wizard opens in the Console.
 
-    ![Configuration wizard](../images/wizard-intro-screen.png)![]()
+    ![Configuration wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/wizard-intro-screen.png)![]()
 
-4.  You can collapse the wizard to the right side of the Console screen by selecting the ![Collapse](../images/move.png) icon in the top, right corner of your screen.
+4.  You can collapse the wizard to the right side of the Console screen by selecting the ![Collapse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/move.png) icon in the top, right corner of your screen.
 
     Move the wizard to the right \(collapse\) to improve Console visibility.
 
-    To expand and center the wizard on the screen, select the ![expand](../images/widen.png) icon.
+    To expand and center the wizard on the screen, select the ![expand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/widen.png) icon.
 
-    ![Wizard collapsed](../images/wizard-collapsed-to-right.png)
+    ![Wizard collapsed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/wizard-collapsed-to-right.png)
 
 5.  The wizard steps you through tasks such as configuring your Console, connecting the Sensor and Collector, creating a site, and creating Auto Queries.
 

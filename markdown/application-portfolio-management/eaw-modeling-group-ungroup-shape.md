@@ -25,7 +25,7 @@ You can convert all general shapes to group shapes, except shapes such as actor,
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Create a blank diagram or open an existing diagram.
 
@@ -37,8 +37,8 @@ You can convert all general shapes to group shapes, except shapes such as actor,
 
     **Note:** To ungroup and make it as a normal shape, select **Revert to normal shape** icon.
 
-    ![Change a general shape to a group shape](../../image/eaw-image/modeling/modeling-grop-ungroup-shape.gif)
+    ![Change a general shape to a group shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/modeling-grop-ungroup-shape.gif)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 

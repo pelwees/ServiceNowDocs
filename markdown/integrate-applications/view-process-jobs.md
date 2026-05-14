@@ -25,23 +25,23 @@ A process job represents the execution of a bot process by a robot.
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Monitor**, select **Process Jobs**.
 
 4.  Open a process job to view the details.
 
-    For more information, see [Process job states in RPA Hub](view-process-jobs-botprocess.md#).
+    For more information, see [Process job states in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-process-jobs-botprocess.md#).
 
 5.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/monitoring-automations-rpa.md)
 
 **Related topics**  
 
 
-[Process job form in RPA Hub](view-process-jobs-botprocess.md#)
+[Process job form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-process-jobs-botprocess.md#)
 
-[View the process jobs of a bot process in RPA Hub](view-process-jobs-botprocess.md#)
+[View the process jobs of a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-process-jobs-botprocess.md#)
 

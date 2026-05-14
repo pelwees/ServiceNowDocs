@@ -41,7 +41,7 @@ The GRC: Regulatory Change Management landing page displays the following sectio
 -   Trends
 -   Tracking
 
-![RCM dashboard view from the Compliance Workspace with activity, tracking, and trend reports.](../image/rcm-homepage-ws.png "The GRC: Regulatory Change Management application landing page view")
+![RCM dashboard view from the Compliance Workspace with activity, tracking, and trend reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/rcm-homepage-ws.png "The GRC: Regulatory Change Management application landing page view")
 
 -   Activity overview: This section contains an overview of the regulatory alerts and the tasks associated with the regulatory alerts across your organization.
 

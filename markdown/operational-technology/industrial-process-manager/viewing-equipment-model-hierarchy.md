@@ -21,7 +21,7 @@ Role required: cmdb\_ot\_isa\_editor, cmdb\_ot\_isa\_admin.
 
 ## About this task
 
-Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](create-user-criteria-for-equipment-model-entity-site-users.md).
+Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entiti
 
 The following graphical representation appears For the selected equipment model entity. The currently selected equipment model appears as the parent entity in the hierarchy.
 
-![Equipment model entity hierarchy](../image/equipment-model-entity-view-hierarchy.png "Equipment model entity hierarchy")
+![Equipment model entity hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/equipment-model-entity-view-hierarchy.png "Equipment model entity hierarchy")
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

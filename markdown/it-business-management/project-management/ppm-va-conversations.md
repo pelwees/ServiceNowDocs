@@ -41,9 +41,9 @@ The following predefined topic conversations are available to view if you have t
 **Related topics**  
 
 
-[Install Virtual Agent for PPM](../task/activate-ppm-va.md)
+[Install Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/activate-ppm-va.md)
 
-[Enable Virtual Agent for PPM](../task/setup-ppm-va.md)
+[Enable Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/setup-ppm-va.md)
 
-[Reusable PPM Virtual Agent topic blocks](ppm-va-topic-blocks.md)
+[Reusable PPM Virtual Agent topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-va-topic-blocks.md)
 

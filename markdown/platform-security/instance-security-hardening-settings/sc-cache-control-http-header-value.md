@@ -24,7 +24,7 @@ The **glide.http.cache\_control** property sets the default Cache-Control value 
 
 The Expires value in the HTTP response headers control when the static content expires, and has a default value of 369 days. To manually override the default value, use the **glide.http.expire.days** property.
 
-![Control-Cache and Expires HTTP response header values](../../security/image/Cache-Control-header.png)
+![Control-Cache and Expires HTTP response header values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/image/Cache-Control-header.png)
 
 **Note:** You can use the **glide.http.cache** property designate whether to enable or disable setting of the Cache-Control and Expires values in HTTP response headers. Its default is **true**, which allows you to set the:
 
@@ -63,7 +63,7 @@ Category
 
 </td><td>
 
-[Configuration](sc-configuration.md)
+[Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
 </td></tr><tr><td>
 
@@ -117,5 +117,5 @@ Security risk
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Configuration](sc-configuration.md)
+**Parent Topic:**[Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 

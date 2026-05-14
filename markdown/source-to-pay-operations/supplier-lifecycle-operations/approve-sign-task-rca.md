@@ -40,10 +40,10 @@ Approving RCAs is a one-time activity.
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configure the document template for the Sign document action type for supplier task](configure-pdf-template-sign-doc-task.md)
+**Parent Topic:**[Configure the document template for the Sign document action type for supplier task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-pdf-template-sign-doc-task.md)
 
 **Related topics**  
 
 
-[Configure the document template for the Sign document action type for supplier task](configure-pdf-template-sign-doc-task.md)
+[Configure the document template for the Sign document action type for supplier task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-pdf-template-sign-doc-task.md)
 

@@ -23,7 +23,7 @@ DPM enables you to organize service data in logical sequences that make sense fo
 
 See how DPM aligns with the CSDM framework to provide a holistic view of your IT landscape.
 
-![DPM-and-CSDM.](../image/DPM_and_CSDM_infographic_V2-03.png "DPM and CSDM")
+![DPM-and-CSDM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/DPM_and_CSDM_infographic_V2-03.png "DPM and CSDM")
 
 ## CSDM life-cycle fields for business and technology management services
 
@@ -56,15 +56,15 @@ To confirm that you see the data that you want in DPM, you must establish the co
 
 How you establish relationships between your solutions and configuration items \(CIs\) varies depending on your situation. For more information, see [CI relationships in the CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/ci-relationships.md).
 
--   **[CSDM terms for Digital Portfolio Management](dpm-common-terms.md)**  
+-   **[CSDM terms for Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-common-terms.md)**  
 Because both ServiceNow® products of Digital Portfolio Management \(DPM\) and Service Portfolio Management closely align with the Common Service Data Model \(CSDM\), it's helpful to know the common terms when working in these applications.
 
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-configure-cfw.md)
 
 **Related topics**  
 
 
-[CSDM terms for Digital Portfolio Management](dpm-common-terms.md)
+[CSDM terms for Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-common-terms.md)
 
 [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 

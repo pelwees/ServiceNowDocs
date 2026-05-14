@@ -31,7 +31,7 @@ Role required: admin
 
     The entire payload appears in the **Raw Output** tab of the Response form.
 
-    ![Auto-mapping controls](../image/AutoMappingButtons.png)
+    ![Auto-mapping controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/AutoMappingButtons.png)
 
 4.  Select an auto-mapping option.
 
@@ -59,5 +59,5 @@ Automatically populates the output variables in the activity with the same defau
 </table>    **Note:** No parsing rules are available with auto-mapping selections.
 
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md)
 

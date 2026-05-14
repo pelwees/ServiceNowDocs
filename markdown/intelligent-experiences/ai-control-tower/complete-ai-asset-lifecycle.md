@@ -46,11 +46,11 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\] or Asset owner \[sn
 
 The life cycle status of an AI asset is deployed and completed.
 
-![Screenshot showing the completion of the Assess stage and its tasks.](../image/aict-lifecycle-access.png "AI asset Lifecycle- Assess")
+![Screenshot showing the completion of the Assess stage and its tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-lifecycle-access.png "AI asset Lifecycle- Assess")
 
-![Screenshot showing the completion of the build and test stage and its tasks.](../image/aict-ai-asset-lifecycle.png "AI Asset Lifecycle- Build and test")
+![Screenshot showing the completion of the build and test stage and its tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-ai-asset-lifecycle.png "AI Asset Lifecycle- Build and test")
 
-![Screenshot showing the completion of the deploy stage and its tasks.](../image/aict-lifecycle-deploy.png "AI Asset Lifecycle- Deploy")
+![Screenshot showing the completion of the deploy stage and its tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-lifecycle-deploy.png "AI Asset Lifecycle- Deploy")
 
-To manage the approval workflow for ServiceNow® AI, see [Create an AI Control Tower Playbook workflow](create-a-playbook-workflow-for-now-assist-approvals.md).
+To manage the approval workflow for ServiceNow® AI, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
 

@@ -19,7 +19,7 @@ You can add or modify contact information to an HR profile and specify who to co
 
 Role required: admin
 
-For information on creating or editing an HR profile, see [Add or modify an HR profile](t_CreateOrModifyAUserProfile.md).
+For information on creating or editing an HR profile, see [Add or modify an HR profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateOrModifyAUserProfile.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ For information on creating or editing an HR profile, see [Add or modify an HR p
 7.  Click **Submit** and return to the **HR Contacts** list or **Save** and remain on the **HR Contact** form.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

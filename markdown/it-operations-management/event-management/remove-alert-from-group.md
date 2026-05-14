@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_operator
 
 5.  From the Actions on selected row menu, select **Remove From Group**.
 
-    ![Remove alert from a group.](../image/remove-alert.png)
+    ![Remove alert from a group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/remove-alert.png)
 
 
 ## Result

@@ -21,7 +21,7 @@ FAQ related to MFA enforcement timelines and why it’s important.
 
     All internal users \(users who don’t have a `snc_external` role\) logging in with local or LDAP authentication must set up MFA within 30 days of their first successful login. During this time, you can log in normally but see a message at the time of login to enroll in MFA.
 
-    ![Enrollment message](../images/mfa-enrolment-message.png)
+    ![Enrollment message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-enrolment-message.png)
 
     After 90 days of upgrading to Yokohama or a later release, if an internal user \(user without the `snc_external` role\) logs in with local or LDAP authentication for the first time, they’ll be required to use MFA immediately. You don't have the 30-day MFA self-enrollment window. This period is governed by a system property:`glide.authenticate.multifactor.enforcement.max_relaxation_period`. The maximum value for this property is 270 days.
 
@@ -34,15 +34,15 @@ FAQ related to MFA enforcement timelines and why it’s important.
 
     |On the User Profile|On Employee Service Center|
     |-------------------|--------------------------|
-    |![Message on the User Profile](../images/mfa-enrolment-message-profile.png)|![Message on the Employee Center](../images/mfa-enrolment-message-employee.png)|
+    |![Message on the User Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-enrolment-message-profile.png)|![Message on the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-enrolment-message-employee.png)|
 
     This message won’t appear for non-admin users performing SSO logins. The admin role will see a different information message after a successful login irrespective of the authentication method used for logging in.
 
-    ![Message for Admin](../images/mfa-enrolment-message-admin.png)
+    ![Message for Admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-enrolment-message-admin.png)
 
     This message continues to be displayed until one of the admins acknowledges the update by setting the `glide.authenticate.multifactor.enforcement.acknowledged` property value to true.
 
-    ![Glide Property to turn off the message](../images/mfa-enrolment-message-glide-property.png)
+    ![Glide Property to turn off the message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-enrolment-message-glide-property.png)
 
 4.  How to turn off the message displayed to end users about completing the MFA setup when they log in?
 

@@ -75,7 +75,7 @@ Category
 
 </td><td>
 
-[API and web service](sc-api-web-service.md)
+[API and web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
 </td></tr><tr><td>
 
@@ -113,5 +113,5 @@ Functional impact
 If **glide.basicauth.required.evtmgmthttpprocessor** is not set to the recommended value of True, and if the Event Management plugin \(com.glideapp.itom.snac\) is active, then basic authentication is not required for all Inbound Amazon Web Services SNS requests. This can lead to unauthenticated access to instance data.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[API and web service](sc-api-web-service.md)
+</table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 

@@ -26,9 +26,9 @@ You must have the following plugins installed on your instance:
 -   Event Management \(com.glideapp.itom.snac\)
 -   Model Context Protocol Server \(sn\_mcp\_server\)
 
-To use the Alert Hypothesizer described in [Analyze alerts using the ITOM MCP Server with MCP client applications](review-alerts-using-itom-mcp-server.md), you must also install Health Log Analytics plugin.
+To use the Alert Hypothesizer described in [Analyze alerts using the ITOM MCP Server with MCP client applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/review-alerts-using-itom-mcp-server.md), you must also install Health Log Analytics plugin.
 
-To use the CI reliability and SLO tools described in [Review CI reliability with the ITOM MCP Server](review-ci-reliability-itom-mcp-server.md), you must also have the following plugins installed:
+To use the CI reliability and SLO tools described in [Review CI reliability with the ITOM MCP Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/review-ci-reliability-itom-mcp-server.md), you must also have the following plugins installed:
 
 -   Service Reliability Management \(sn\_sow\_srm\)
 -   Service Level Objective Management \(sn\_sow\_slo\)
@@ -46,7 +46,7 @@ To use the CI reliability and SLO tools described in [Review CI reliability with
 
         **Note:** You must change the application scope to **Alert Assist**
 
-        The **MCP Server Console** screen opens with all fields populated. ![ITOM MCP Server configuration details page](../image/itom-mcp-server-console.png)
+        The **MCP Server Console** screen opens with all fields populated. ![ITOM MCP Server configuration details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/itom-mcp-server-console.png)
 
     4.  From the Deactivate drop-down menu, select **Activate**.
 

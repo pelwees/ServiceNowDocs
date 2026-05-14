@@ -34,7 +34,7 @@ You can create software licenses and counters in Software Asset Management for s
 5.  Run the counter to retrieve the software license information.
 
 
-**Parent Topic:**[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)
+**Parent Topic:**[Client Software Distribution using Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd-integrationhub.md)
 
 ## Client software distribution ordering process
 
@@ -52,11 +52,11 @@ If the catalog item is configured for revocation \(uninstall\), the form display
 
 ### Software offered only to the logged in user
 
-If the [software catalog item](create-cat-item-ihub.md) is configured with the **Order on behalf of** check box cleared, the **User** field does not appear on the order form. The logged in user selects the device on which to deploy the software from the **Device to install this software on** field. Only those devices assigned to the logged in user appear in the list.
+If the [software catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/create-cat-item-ihub.md) is configured with the **Order on behalf of** check box cleared, the **User** field does not appear on the order form. The logged in user selects the device on which to deploy the software from the **Device to install this software on** field. Only those devices assigned to the logged in user appear in the list.
 
 In this example, a user has logged into the service catalog to order Firefox for the assigned computer. User selects the machine from a list of devices and selects the date and time the lease should begin. This software is deployed through Microsoft System Center Configuration Management \(SCCM\), but does not have an uninstall collection configured and cannot be revoked automatically by the system. As a result, the **Lease end** field is not available.
 
-![Ordering software as the logged in user](../images/CSDCatOrderLease2.png)
+![Ordering software as the logged in user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/CSDCatOrderLease2.png)
 
 ### Software ordered on behalf of another user
 
@@ -64,5 +64,5 @@ If the software catalog item is configured with the **Order on behalf of** check
 
 In this example, a manager is ordering Google Chrome for a contractor. The manager selects the contractor from the **User** field and then chooses a computer from the list of devices assigned to the contractor. This software has an SCCM uninstall collection configured, which allows the manager to select an end date for the lease that coincides with the end of the user's contract. When the lease expires, SCCM automatically uninstalls the software from the device.
 
-![Defining software lease window](../images/CSDCatOrderLease.png)
+![Defining software lease window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/CSDCatOrderLease.png)
 

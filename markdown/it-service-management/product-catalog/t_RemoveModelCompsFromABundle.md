@@ -36,12 +36,12 @@ No component history is retained. If you remove a component from a bundled model
 5.  Click **OK**.
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_CreatingBundledModels.md)
 
 **Related topics**  
 
 
-[Add model components to a bundle](t_AddingModelComponentsToABundle.md)
+[Add model components to a bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingModelComponentsToABundle.md)
 
-[Publish bundled models to product catalog](publish-product-catalog-bundledmodles.md)
+[Publish bundled models to product catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/publish-product-catalog-bundledmodles.md)
 

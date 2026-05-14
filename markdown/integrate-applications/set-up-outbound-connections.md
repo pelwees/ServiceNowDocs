@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Click the **Connections and Credentials** tab.
 
-3.  You can [create a new external system](connecthub-create-external-systems.md#).
+3.  You can [create a new external system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connecthub-create-external-systems.md#).
 
 4.  Click **Create** and select **Outbound Connection**.
 

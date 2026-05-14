@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-If you have created COEs \(Center of Excellence\), then create service configurations, state mappings, and transfer configurations as well. In case you have activated the Predictive Intelligence plugin, configure the service assignment groups by referring to [Train the classification solution to predict the assignment group](../../universal-request/task/train-ur-classification-soln.md).
+If you have created COEs \(Center of Excellence\), then create service configurations, state mappings, and transfer configurations as well. In case you have activated the Predictive Intelligence plugin, configure the service assignment groups by referring to [Train the classification solution to predict the assignment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../universal-request/task/train-ur-classification-soln.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
     The following image is an example of a default state mapping. The **Suspended**, **Work in Progress**, and **Awaiting Approval** states of an HR case are mapped to **In Progress** state of a Universal Request.
 
-    ![State mapping](../image/ur-hr-mapping.png)
+    ![State mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/ur-hr-mapping.png)
 
 6.  Set the transfer configuration for any custom state of an HR case.
 
@@ -51,8 +51,8 @@ If you have created COEs \(Center of Excellence\), then create service configura
 
     Following is an example of a record producer for General Inquiry HR service. When a user selects the catalog item as General Inquiry and creates a ticket, automatically a universal request is created and associated to that HR case.
 
-    ![Create record producers specific to HR.](../image/setup-hr-ur7.png)
+    ![Create record producers specific to HR.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/setup-hr-ur7.png)
 
 
-**Parent Topic:**[Universal Request for HR Service Delivery](../concept/universal-request-hr.md)
+**Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/universal-request-hr.md)
 

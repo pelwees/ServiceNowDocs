@@ -23,7 +23,7 @@ Role required: sn\_change\_cab.cab\_manager
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/sow-list.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-list.png)\).
 
 3.  In the **Change Advisory Board**, select **My upcoming CAB meetings**.
 
@@ -48,8 +48,8 @@ Role required: sn\_change\_cab.cab\_manager
 
     The new attendees are added to the CAB meeting and are listed in the Attendees list.
 
-6.  Select the more actions icon \(![More actions icon.](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Send meeting request to attendees** to send the meeting invite to the new and existing attendees.
+6.  Select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Send meeting request to attendees** to send the meeting invite to the new and existing attendees.
 
 
-**Parent Topic:**[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+**Parent Topic:**[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 

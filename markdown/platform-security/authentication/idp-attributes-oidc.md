@@ -19,12 +19,12 @@ You can manually create the IdP attributes based on the claims received as part 
 
 **Note:**
 
--   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](session-access.md).
--   IdP attribute filter criteria can be used in [Post-authentication context](post-auth-context.md), [Zero Trust Access \(ZTA\)](session-access.md) session relegation, and [Multi-factor Authentication context](mfa-auth-context.md).
+-   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/session-access.md).
+-   IdP attribute filter criteria can be used in [Post-authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md), [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/session-access.md) session relegation, and [Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 
 Start the configuration by adding the IdP attributes by selecting **New** from the Identity Provider Attributes section and use those attributes for Adaptive Authentication by setting it to `true`.
 
-![IdP Attributes for OIDC](../images/idp-attribute-oidc.png)
+![IdP Attributes for OIDC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/idp-attribute-oidc.png)
 
 The **RiskFactor** defined in the OIDC configuration in the Identity Provider Attributes is from the ID token claims. This value can be an existing claim or custom claim as configured in the IdP side. Use this claim in various authentication context to customize and control the log in behavior of the user.
 

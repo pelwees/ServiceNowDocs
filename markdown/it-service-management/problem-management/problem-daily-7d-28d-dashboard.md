@@ -17,11 +17,11 @@ Track the progress made by different assignment groups in resolving problems in 
 
 **Important:**
 
-Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem daily 7d - 28d dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/performance-analytics/problem.md) to view, and track the open problems.
 
-![The Problem daily tab of the Problem daily 7 day to 28 day dashboard](../image/problem-daily.png "Problem daily tab")
+![The Problem daily tab of the Problem daily 7 day to 28 day dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-daily.png "Problem daily tab")
 
-![The Problem 7 day tab on the Problem 7 day- 28 day dashboard. Same widgets as on the Problem 28 day dashboard, but different length of the time series.](../image/problem-daily-7d.png "Problem 7d tab (same widgets on Problem 28d)")
+![The Problem 7 day tab on the Problem 7 day- 28 day dashboard. Same widgets as on the Problem 28 day dashboard, but different length of the time series.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-daily-7d.png "Problem 7d tab (same widgets on Problem 28d)")
 
 ## End user and roles
 
@@ -68,5 +68,5 @@ The following indicators are not shown directly on the dashboard but are used in
 
 You can apply breakdown elements on this dashboard to all widgets simultaneously. Only Assignment Group elements are available. Select one or more assignment groups from the **Select elements** list.
 
-![Element selection menu on the Problem daily 7 day to 28 day dashboard](../image/problem-daily-select-elements.png)
+![Element selection menu on the Problem daily 7 day to 28 day dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-daily-select-elements.png)
 

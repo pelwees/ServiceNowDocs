@@ -25,15 +25,15 @@ The JavascriptProbe activity has the same functionality as making ‘Packages’
 
 ## Procedure
 
-1.  Create a [custom activity](create-custom-activities.md).
+1.  Create a [custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JavaScript probe activity Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#), configure the JavaScript probe activity Execution Command.
 
 <table id="choicetable_jlf_3tp_vz"><tbody><tr><td id="d243999e115">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -90,20 +90,20 @@ MID Server to use, by capabilities.
 Name-value pairs to pass to the host with this probe. You can create these parameters manually, or drag input variables into the **Parameters** fields and assign a value.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
-Finish creating your JavaScript probe activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](../reference/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
+Finish creating your JavaScript probe activity by [creating output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAnOutputVariable.md#), [creating a parsing rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/conditions.md). Refer to the [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 ## JavaScript probe template execution parameters
 
 You use execution parameters to create the input process script in the **Preprocessing** form of the activity designer.
 
-For descriptions of the JavaScript Probe command fields, see the table in [Configure the JavaScript Probe execution command](t_CreateAJavaScriptProbeActivity.md#).
+For descriptions of the JavaScript Probe command fields, see the table in [Configure the JavaScript Probe execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAJavaScriptProbeActivity.md#).
 
 **Note:** You must use the `executionParam.` prefix with all variables in this table.
 
@@ -264,7 +264,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: activity\_creator, admin
 
-**Note:** You can test the JavaScript Probe connection between the MID Server and the target without having to run the acvitity in a workflow context. For details, see [test template outputs](CreateInputVariables.md#).
+**Note:** You can test the JavaScript Probe connection between the MID Server and the target without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#).
 
 ### Procedure
 
@@ -272,7 +272,7 @@ Role required: activity\_creator, admin
 
     The system formats the variable in the proper syntax for the command.
 
-    ![JavaScript Probe execution command](../image/JavaScriptExecutionCommand.png "JavaScript Probe execution command")
+    ![JavaScript Probe execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/JavaScriptExecutionCommand.png "JavaScript Probe execution command")
 
 2.  Complete the fields shown in the table.
 
@@ -290,7 +290,7 @@ Input
 
 </td><td>
 
-Input variable builder. [Create input variables](CreateInputVariables.md#) to [map](CreateInputVariables.md#) to available fields.
+Input variable builder. [Create input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#) to [map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#) to available fields.
 
 </td></tr><tr><td>
 

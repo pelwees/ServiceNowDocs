@@ -27,12 +27,12 @@ Note that you must have read access to view records from a data fabric table in 
     -   Navigate to **Admin** &gt; **Zero Copy Connector Hub** &gt; **Data fabric tables**.
 2.  Find the data fabric table that you want to view.
 
-3.  Select the More Actions icon \(![More actions icon](../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Open list**.
+3.  Select the More Actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Open list**.
 
 
 ## Result
 
 The data source is queried and the data fabric table opens in a list view displaying records from the data source.
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/managing-data-fabric-tables-zcc.md)
 

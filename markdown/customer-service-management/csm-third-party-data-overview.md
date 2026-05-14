@@ -15,7 +15,7 @@ A typical enterprise ecosystem includes enterprise resource planning \(ERP\), sa
 
 In this example, the ERP system manages customer data \(for example, Accounts\).
 
-![Chart of an enterprise ecosystem in which the Enterprise Resource Planning system manages the integration between ServiceNow Service Management and Salesforce Sales Management applications.](../image/csm-typical-enterprise-it-ecosystem.png)
+![Chart of an enterprise ecosystem in which the Enterprise Resource Planning system manages the integration between ServiceNow Service Management and Salesforce Sales Management applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-typical-enterprise-it-ecosystem.png)
 
 When a new account is acquired, it is created first in the ERP system and then account data is transferred to Salesforce and ServiceNow \(1\).
 
@@ -32,7 +32,7 @@ This example assumes that the flow has been implemented and executed and that th
 
 ServiceNow integrates with Salesforce through the OAuth 2.0 Bearer Token Flow.
 
-![Diagram of the integration between ServiceNow account records and Salesforce Opportunity records using the IntegrationHub spoke.](../image/csm-third-party-data-integration-architecture.jpg "Integration architecture")
+![Diagram of the integration between ServiceNow account records and Salesforce Opportunity records using the IntegrationHub spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-third-party-data-integration-architecture.jpg "Integration architecture")
 
-![Diagram of the script and query processing between the Salesforce Opportunity remote table and Integration Hub.](../image/csm-third-party-data-integration-hub-architecture.jpg "Remote tables and IntegrationHub architecture")
+![Diagram of the script and query processing between the Salesforce Opportunity remote table and Integration Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-third-party-data-integration-hub-architecture.jpg "Remote tables and IntegrationHub architecture")
 

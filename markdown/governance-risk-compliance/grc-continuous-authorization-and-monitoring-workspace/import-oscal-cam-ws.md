@@ -34,7 +34,7 @@ The OSCAL catalog import is a synchronous process.
 
 1.  Navigate to **Workspaces** &gt; **CAM Workspace**.
 
-2.  In the CAM Workspace, select the OSCAL import landing page icon \(![OSCAL import](../image/cam-oscal-import-icon.png)\).
+2.  In the CAM Workspace, select the OSCAL import landing page icon \(![OSCAL import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-icon.png)\).
 
 3.  Select **New Import** from the **All OSCAL imports** landing page.
 
@@ -46,7 +46,7 @@ The OSCAL catalog import is a synchronous process.
 
     The source name that you enter is used as the name for the imported control objective. If a control objective with the same source name exists, the file is skipped during import.
 
-    ![OSCAL import Catalog details tab.](../image/cam-oscal-import-catalog1.png)
+    ![OSCAL import Catalog details tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog1.png)
 
 6.  Enter the **Import status recipients** name.
 
@@ -58,13 +58,13 @@ The OSCAL catalog import is a synchronous process.
 
 8.  Select the **Attach File** in the **Attachments** tab to attach the catalog file from your local repository.
 
-    ![OSCAL Catalog Import.](../image/cam-oscal-import-catalog.png)
+    ![OSCAL Catalog Import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog.png)
 
 9.  Select **Next** to verify the files you uploaded.
 
     **Preview and Override** tab displays.
 
-    ![OSCAL Catalog preview tab.](../image/cam-oscal-import-catalog2.png)
+    ![OSCAL Catalog preview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog2.png)
 
 10. In the **Preview and Override** tab, review the details that are to be created, skipped, or overridden and then perform one of the following:
 
@@ -79,7 +79,7 @@ The OSCAL catalog import is a synchronous process.
 
             **Note:** Based on the data you select from the drop-down: If the data is in the **Will be skipped** state, you can only override it. When you override a control objective, all associated control objective requirements will also be overridden.
 
-            ![Overriding skipped files.](../image/cam-oscal-import-catalog3.png)
+            ![Overriding skipped files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog3.png)
 
         3.  Select the reference from the list that you want to override.
         4.  Select **Override** to override one or more selected references.
@@ -93,7 +93,7 @@ The OSCAL catalog import is a synchronous process.
 
             **Note:** If it is in the **Overridden** state, you can only skip it.
 
-        3.  Select the reference from the list that you want to skip.![Skipping overridden files.](../image/cam-oscal-import-catalog4.png)
+        3.  Select the reference from the list that you want to skip.![Skipping overridden files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog4.png)
         4.  Select **Skip** to override one or more selected references.
 
             The selected reference is flagged as skip and the **Will be skipped** count is increased in the preview list.
@@ -112,10 +112,10 @@ The OSCAL catalog import is a synchronous process.
 
 12. If an error occurs during the import process, review the error message displayed in the pop-up and take the necessary corrective action.
 
-    You can also select the attachments action icon \(![Restart attachments.](../image/cam-oscal-import-attachments-icon.png)\) on the **Attachments** tab to select **Restart Stage** to restart the attachments.![Restarting attachment stage.](../image/cam-oscal-import-catalog5.png)
+    You can also select the attachments action icon \(![Restart attachments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-attachments-icon.png)\) on the **Attachments** tab to select **Restart Stage** to restart the attachments.![Restarting attachment stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-catalog5.png)
 
-    **Note:** You can also select the playbook action icon \(![Restart playbook icon](../image/cam-oscal-import-action-icon.png)\) to select **Restart Playbook** to restart the playbook.
+    **Note:** You can also select the playbook action icon \(![Restart playbook icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-action-icon.png)\) to select **Restart Playbook** to restart the playbook.
 
 
-**Parent Topic:**[Import in OSCAL format](../concept/import-oscal.md)
+**Parent Topic:**[Import in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../concept/import-oscal.md)
 

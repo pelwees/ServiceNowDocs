@@ -24,5 +24,5 @@ Spaces can be deleted from any floor or from another space as long as the space 
     If the space has any assets associated with it, or if the space is associated with another space, a warning box opens. If you click **Delete**, the associated asset or space is deleted.
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

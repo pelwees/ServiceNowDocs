@@ -35,7 +35,7 @@ If you’re logged in as a medical asset manager or a medical asset technician, 
 
 If you’re logged in to a specific workspace, you may see other assets and model categories that aren’t specific to your industry and have been added by the Enterprise admin or the system administrator role. As an example, if you’re logged in as a medical asset manager or a medical asset technician, you may see other assets and model categories such as construction, transportation, or facilities. However, you can't create or modify anything in these categories as these are read only.
 
-You can evaluate how effectively your assets are functioning and being used through the reports based on asset key performance indicators in the **Asset performance** tab of the **Asset analytics** view. The asset performance report is also available on the contextual sidebar of the asset record, displayed by selecting the **Asset availability and related KPIs** icon \[![Asset KPI icon](../image/asset-kpi-icon.png)\].
+You can evaluate how effectively your assets are functioning and being used through the reports based on asset key performance indicators in the **Asset performance** tab of the **Asset analytics** view. The asset performance report is also available on the contextual sidebar of the asset record, displayed by selecting the **Asset availability and related KPIs** icon \[![Asset KPI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/asset-kpi-icon.png)\].
 
 You can receive assets from any workﬂow directly at the stockroom using the unified receiving functionality in the Medical Asset Workspace and Facility Asset Workspace. You can receive assets in any of the following ways:
 

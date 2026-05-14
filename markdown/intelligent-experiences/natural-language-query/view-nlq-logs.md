@@ -31,25 +31,25 @@ Every natural language query is logged in the **NLQ Query Logs** table \[nlq\_qu
 
 1.  Navigate to **All** &gt; **NLQ** &gt; **Logs**.
 
-    ![NLQ Query Logs list.](../images/view-nlq-logsT1.png)
+    ![NLQ Query Logs list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/view-nlq-logsT1.png)
 
 2.  Select the value in the **Utterance** column to open the full log entry.
 
-    ![Gif of a full NLQ log entry.](../images/view-nlq-logsW2.gif)
+    ![Gif of a full NLQ log entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/view-nlq-logsW2.gif)
 
 
 ## What to do next
 
-Based on your users' attempted queries, consider adding more [synonyms](create-nlq-synonym.md) or [shortcuts](create-nlq-shortcut.md).
+Based on your users' attempted queries, consider adding more [synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-synonym.md) or [shortcuts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-shortcut.md).
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../concept/configuring-nlq.md)
 
 **Related topics**  
 
 
-[Create an NLQ synonym](create-nlq-synonym.md)
+[Create an NLQ synonym](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-synonym.md)
 
-[Create an NLQ shortcut](create-nlq-shortcut.md)
+[Create an NLQ shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-shortcut.md)
 
-[View NLQ Table Guesser logs](view-nlq-table-guesser-logs.md)
+[View NLQ Table Guesser logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-table-guesser-logs.md)
 

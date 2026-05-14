@@ -70,5 +70,5 @@ The CSM centered chat interaction record template brings the chat component to t
 
 ## Record presence feature
 
-Pages that you create from the CSM record page template and the CSM Interaction record page templates have the record presence feature available. This feature lets you see the users who are currently viewing a record. For more information, see [User presence component](csm-default-record-page.md#section_j3d_fyf_2xb).
+Pages that you create from the CSM record page template and the CSM Interaction record page templates have the record presence feature available. This feature lets you see the users who are currently viewing a record. For more information, see [User presence component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md#section_j3d_fyf_2xb).
 

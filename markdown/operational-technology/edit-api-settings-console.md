@@ -52,7 +52,7 @@ The SGC has been enhanced to enable these functions of the Discovery Console for
     -   **Sensor Health**
     -   **License Status**: Returns the status of the license and whether it is expired, to the Discovery Console for OT.
     -   **Notifications**
-    ![Endpoints](../../operational-technology-discovery/images/settings-endpoints.png)
+    ![Endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery/images/settings-endpoints.png)
 
     1.  Select the **Endpoints** tab.
 

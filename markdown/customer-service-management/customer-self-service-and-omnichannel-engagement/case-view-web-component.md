@@ -21,7 +21,7 @@ The Case view component includes essential case details such as case number, sta
 
 **Note:** This component can show the records from any extended table of case or task table.
 
-![Case view component instance displaying case-related activities in the Preview tab.](../image/we-case-view-comp.png "Case view component")
+![Case view component instance displaying case-related activities in the Preview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-case-view-comp.png "Case view component")
 
-![Case view component instance displaying playbook case-related information in the Preview tab.](../image/we-case-view-playbook-comp.png "Case view for onboarding playbook case")
+![Case view component instance displaying playbook case-related information in the Preview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-case-view-playbook-comp.png "Case view for onboarding playbook case")
 

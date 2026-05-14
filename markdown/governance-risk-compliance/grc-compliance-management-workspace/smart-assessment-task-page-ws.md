@@ -27,7 +27,7 @@ As an attestation respondent of the control you can log in to the Compliance Wor
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  Select the tasks icon \(![Tasks icon.](../../grc-workspace-audit/image/TasksIcon.jpg)\).
+2.  Select the tasks icon \(![Tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-workspace-audit/image/TasksIcon.jpg)\).
 
     You can view the Control attestations on the left panel.
 

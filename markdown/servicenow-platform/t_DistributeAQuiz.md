@@ -31,7 +31,7 @@ You can send the quiz to all the category users configured for the quiz or to a 
 
 3.  Edit the published quiz.
 
-    See [Modifying Published Quizzes](t_ModifyAPublishedQuiz.md) to learn how various modifications affect the quiz contents.
+    See [Modifying Published Quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md) to learn how various modifications affect the quiz contents.
 
 4.  Resend a quiz to either on category user or all category users.
 
@@ -40,12 +40,12 @@ You can send the quiz to all the category users configured for the quiz or to a 
     **Note:** These buttons are hidden if there are no category users defined for the quiz.
 
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[Create a quiz](t_CreateaQuiz.md)
+[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[Modify a published quiz](t_ModifyAPublishedQuiz.md)
+[Modify a published quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 

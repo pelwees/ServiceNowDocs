@@ -23,7 +23,7 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -31,9 +31,9 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice inquiry cases**.
 4.  In the Number column, select the link to the case to open it.
 
-5.  Select the down arrow icon \(![Down arrow icon](../image/down-arrow-icon.png)\) and then select **Request internal review**.
+5.  Select the down arrow icon \(![Down arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/down-arrow-icon.png)\) and then select **Request internal review**.
 
-    The application automatically creates a task in the New state and opens it. ![Request internal review](../image/apo-request-internal-review.png).
+    The application automatically creates a task in the New state and opens it. ![Request internal review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-request-internal-review.png).
 
 6.  In the **Assigned to** field, assign the task to the users who must complete the review.
 
@@ -44,5 +44,5 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
     The state of the case updates to **Awaiting internal info**.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-inquiry-cases.md)
 

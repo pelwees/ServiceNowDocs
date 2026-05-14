@@ -34,7 +34,7 @@ Role required: ui\_builder\_admin, admin
 
     For more information, see [Create and bind a client state parameter to a component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/state-parameters.md).
 
-    ![Adding the parFilters client state parameter to a UIB page.](../../par-for-workspace/image/add-parFilters.png)
+    ![Adding the parFilters client state parameter to a UIB page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/add-parFilters.png)
 
 3.  Add a second JSON state variable named *encodedQueries* of type Object with initial value `{}`.
 
@@ -57,11 +57,11 @@ Role required: ui\_builder\_admin, admin
 
 5.  In the Client Scripts section, open the **Client Script Includes** tab.
 
-    ![The Client Script Includes tab of the Client Scripts pane on a UIB page.](../../par-for-workspace/image/client-script-includes.png)
+    ![The Client Script Includes tab of the Client Scripts pane on a UIB page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/client-script-includes.png)
 
 6.  In the **Add a script include** field, select `mergePARFilters` and click **Add**.
 
-    ![Adding the mergePARFilters script include.](../../par-for-workspace/image/add-mergePARFilters.png)
+    ![Adding the mergePARFilters script include.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/add-mergePARFilters.png)
 
 7.  Close the window for configuring data, client state, and client scripts.
 
@@ -69,7 +69,7 @@ Role required: ui\_builder\_admin, admin
 
 9.  Select the **Events** tab in the configuration panel and add the page script you have created, which in our example is Apply PAR Filters, as an event handler.
 
-    ![Adding the Apply PAR Filters script as the Filter applied event handler.](../../par-for-workspace/image/add-apply-par-filters.png)
+    ![Adding the Apply PAR Filters script as the Filter applied event handler.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/add-apply-par-filters.png)
 
 10. In the UI Builder, select a Record List component, if one exists.
 
@@ -79,12 +79,12 @@ Role required: ui\_builder\_admin, admin
 
     Replace &lt;list-datasource&gt; with the data source for the List component. For example, if your List shows records from the Incident \[incident\] table, enter `@state.encodedQueries.incident`.
 
-    ![In the fixed filter field on a List config panel, binding the fixedQuery property to the encodedQueries client state parameter.](../../par-for-workspace/image/configure-fixed-filter.png)
+    ![In the fixed filter field on a List config panel, binding the fixedQuery property to the encodedQueries client state parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/configure-fixed-filter.png)
 
 13. Repeat the previous two steps for any other List components.
 
 14. Save the page.
 
 
-**Parent Topic:**[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/technical-dashboards.md)
 

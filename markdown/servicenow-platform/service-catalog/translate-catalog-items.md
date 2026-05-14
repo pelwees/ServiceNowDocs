@@ -30,5 +30,5 @@ Watch this six-minute video to learn more about the process of localizing catalo
 
 Localization framework overview
 
-**Parent Topic:**[Service Catalog items](c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md)
 

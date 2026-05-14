@@ -21,7 +21,7 @@ Role required: sn\_jny.admin
 
 ## About this task
 
-Quick links added by an administrator appear in all **Journey Types** they are added to. Only administrators can delete a quick link from **Journey Types**. See, [Delete a quick link created by an administrator](jny-dsgnr-delete-admin-created-qlink.md).
+Quick links added by an administrator appear in all **Journey Types** they are added to. Only administrators can delete a quick link from **Journey Types**. See, [Delete a quick link created by an administrator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-delete-admin-created-qlink.md).
 
 ## Procedure
 
@@ -32,9 +32,9 @@ Quick links added by an administrator appear in all **Journey Types** they are a
 3.  Select a **Type** and **Quick link**.
 
     -   **Type**: Only active **Journey Types** are available.
-    -   **Quick link**: The **Quick link name** for active Employee Center Quick Links. See, [Quick links configuration](../../employee-center/concept/emp-center-quick-link-config.md)
+    -   **Quick link**: The **Quick link name** for active Employee Center Quick Links. See, [Quick links configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../../employee-center/concept/emp-center-quick-link-config.md)
     **Note:** If you don't see the Journey Type you are looking for, start typing the name of the journey type in the field to search for it.
 
 
-**Parent Topic:**[Creating and managing quick links for journeys](../concept/jny-dsgnr-quick-links-why-who.md)
+**Parent Topic:**[Creating and managing quick links for journeys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-quick-links-why-who.md)
 

@@ -84,7 +84,7 @@ Service group of the performance indicator.**Note:** ITSM or HR must be selected
 
     5.  Add More information context cards for this indicator so that the user viewing the primary and contributing indicator details understands this KPI.
 
-        See [Update more information cards](update-sidepanel-more.md) for details.
+        See [Update more information cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-sidepanel-more.md) for details.
 
     6.  In the **Persona Group Time Savings** related list, click **New**.
 
@@ -100,5 +100,5 @@ Service group of the performance indicator.**Note:** ITSM or HR must be selected
         **Note:** You can also update the values for the indicators in **Persona Group Time Savings** section for the out of the box indicators that are **Automatic** type.
 
 
-**Parent Topic:**[Configure Success Dashboard indicators KPIs](config-kpis-sdb.md)
+**Parent Topic:**[Configure Success Dashboard indicators KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/config-kpis-sdb.md)
 

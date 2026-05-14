@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Contact Center Integration Center** &gt; **CCaaS Admin Console**
 
-    ![admin console wrap-up codes import screen showing beginning state](../image/ccaas-import-wrapup.png "Admin console wrap-up codes import")
+    ![admin console wrap-up codes import screen showing beginning state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ccaas-import-wrapup.png "Admin console wrap-up codes import")
 
 2.  Select a contact center provider to import wrap-up codes from.
 

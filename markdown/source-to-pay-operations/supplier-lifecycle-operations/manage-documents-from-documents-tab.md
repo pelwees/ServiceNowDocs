@@ -94,17 +94,17 @@ Download the latest or specific version of a document.
 
 
 </td></tr></tbody>
-</table>    ![Document details page.](../image/documents-tab-supp-collab.png)
+</table>    ![Document details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/documents-tab-supp-collab.png)
 
 
-**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 
 **Related topics**  
 
 
-[Configure document expiration monitoring attributes](configure-document-expiration-monitoring-attributes.md)
+[Configure document expiration monitoring attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-document-expiration-monitoring-attributes.md)
 
-[Manage documents from My Company page](manage-documents-from-my-company.md)
+[Manage documents from My Company page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/manage-documents-from-my-company.md)
 
-[Upload document from My Tasks page](upload-document-from-my-tasks-page.md)
+[Upload document from My Tasks page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-document-from-my-tasks-page.md)
 

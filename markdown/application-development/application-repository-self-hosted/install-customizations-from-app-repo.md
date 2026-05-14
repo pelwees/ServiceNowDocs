@@ -19,7 +19,7 @@ Install your customization to a store application on an instance.
 
 Role required: admin
 
-[Publish a customization of a store application to the application repository](publish-customizations-app-repo.md). Check the entitlement type of the application to ensure that your instance is entitled to the application.
+[Publish a customization of a store application to the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/publish-customizations-app-repo.md). Check the entitlement type of the application to ensure that your instance is entitled to the application.
 
 ## Procedure
 
@@ -29,11 +29,11 @@ Role required: admin
 
 3.  Select a customization version to install.
 
-    ![Customizations versions](../image/base-customization-versions.png)
+    ![Customizations versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/base-customization-versions.png)
 
     **Note:** For scoped applications installed via plugins, the base system version is the ServiceNow release version that you are currently using \(Paris, Quebec, Rome, and so on\).
 
-    ![Edit a scoped application installed via plugin in Studio.](../image/scoped-app-edit-in-studio.png)
+    ![Edit a scoped application installed via plugin in Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/scoped-app-edit-in-studio.png)
 
 4.  Click **Install**.
 

@@ -40,5 +40,5 @@ The SLA definitions created for the Universal Request are for the UR and does no
 
 The SLA definition is created for the specified task table.
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/configure-ur.md)
 

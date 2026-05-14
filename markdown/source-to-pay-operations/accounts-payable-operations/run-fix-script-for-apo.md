@@ -36,7 +36,7 @@ Role required: admin
 
 2.  Click **New**.
 
-    A new Fix script record opens.![Fix Script record.](../../../apo-fix-script.png)
+    A new Fix script record opens.![Fix Script record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../apo-fix-script.png)
 
 3.  In the **Name** field, enter name as `Update PO Invoiced Amounts for APO`.
 

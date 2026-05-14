@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The roles discussed in this procedure are described in [Roles in Third-party Risk Management](../reference/tprm-roles.md).
+The roles discussed in this procedure are described in [Roles in Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-roles.md).
 
 ## Procedure
 
@@ -31,13 +31,13 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 
     1.  In the search field for the **Collection** list, enter `sn_vdr` to view the list of roles that relate to the TPRM application.
 
-        TPRM roles are described in [Roles in Third-party Risk Management](../reference/tprm-roles.md).
+        TPRM roles are described in [Roles in Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-roles.md).
 
     2.  Move the roles that are appropriate for the group from the **Collection** list to the **Roles** list and then select **Save**.
 
         In this example, the **sn\_vdr\_risk\_asmt.vendor\_risk\_manager** role is assigned to the group that the user has named `Third-party Risk Managers`.
 
-        ![Adding a role to the "Third-party Risk Managers" group.](../image/vrm-group-role-list.png)
+        ![Adding a role to the "Third-party Risk Managers" group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vrm-group-role-list.png)
 
 3.  On the Group Members related list, select **Edit**.
 
@@ -49,7 +49,7 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 **Related topics**  
 
 
-[Roles in Third-party Risk Management](../reference/tprm-roles.md)
+[Roles in Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-roles.md)
 
-[TPRM and the Explicit Roles plugin](../../grc-vendor-risk/concept/vrm-and-explicit-roles-plugin.md)
+[TPRM and the Explicit Roles plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/vrm-and-explicit-roles-plugin.md)
 

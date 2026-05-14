@@ -25,7 +25,7 @@ This property is inactive by default. To enable it, navigate to **sys\_propertie
 
 After you enable the property, existing reports aren't affected. Columns are only invisible on newly created list reports with fields that you specify as restricted.
 
-**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
 **Related topics**  
 

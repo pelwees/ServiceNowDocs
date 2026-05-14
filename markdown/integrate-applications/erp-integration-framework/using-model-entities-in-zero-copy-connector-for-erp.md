@@ -22,5 +22,5 @@ You must have the sn\_erp\_integration.erp\_admin role to create and edit models
 -   Update operations use a BAPI, RFC, OData, or IDoc to write updates to the ERP system.
 -   Create operations use a BAPI, RFC, OData, or IDoc to create an instance of the business object in the SAP system.
 
-**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/add-an-entity-to-model.md)
 

@@ -57,7 +57,7 @@ Role required: admin
 
 7.  Validate the event notification endpoint URL.
 
-    For more information, see [Validate your webhook endpoint](https://developers.zoom.us/docs/api/rest/webhook-reference/#validate-your-webhook-endpoint).![Validate event notification endpoint URL in your Zoom account](../image/zoom-spoke-webhook-validate.png)
+    For more information, see [Validate your webhook endpoint](https://developers.zoom.us/docs/api/rest/webhook-reference/#validate-your-webhook-endpoint).![Validate event notification endpoint URL in your Zoom account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/zoom-spoke-webhook-validate.png)
 
 8.  Specify the Event Types according to your requirement.
 

@@ -27,7 +27,7 @@ The Event Input pane consists of these sections:
 
 The Event Input pane displays in all Event Rule designer sections, except for the Event Rule Info section. The fields in the right-pane can be modified only in the Transform and compose alert output section. In all the other sections, the Event Input pane is read-only and available for reference purposes.
 
-**Note:** If **Accessibility enabled** ![Accessibility enabled](../image/accessibility-enabled.png) is selected in System Settings, standard edit mode is not available ![Standard edit mode icon](../image/standard-edit-mode-icon.png).
+**Note:** If **Accessibility enabled** ![Accessibility enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/accessibility-enabled.png) is selected in System Settings, standard edit mode is not available ![Standard edit mode icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/standard-edit-mode-icon.png).
 
 ## Edit modes
 
@@ -41,7 +41,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Standard edit mode ![Event Management icon](../image/transform-standard-mode.png)
+Standard edit mode ![Event Management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/transform-standard-mode.png)
 
 </td><td>
 
@@ -49,7 +49,7 @@ Text selected in the left-hand workarea cannot be edited. Undo is not available.
 
 </td></tr><tr><td>
 
-Regex edit mode![Event Management icon](../image/transpose-regex-mode.png)
+Regex edit mode![Event Management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/transpose-regex-mode.png)
 
 </td><td>
 
@@ -69,7 +69,7 @@ The Expressions section is available only if an additional information field was
 1.  Click in a field in the **Event Input** pane to perform transformation actions.
 2.  Create an expression by transforming information and associating it with a field name. Either select a field name from the suggested list, or create a field name, as required.
 
-    ![Event Management rule expression](../image/event-rule-expression.png)
+    ![Event Management rule expression](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-expression.png)
 
 3.  Click in a field in the **Event Input** pane. In the left-hand workarea, select the required information.
 
@@ -89,16 +89,16 @@ Controlling how fields appear:
 -   Use the em\_event\_rule\_order form to order the position of each field.
 -   Fields that are not in the exclusion list and also not part of the em\_event\_rule\_order table, still appear in the event rule designer, in the right-panel and in the **Transform and Compose Alert Output** tab.
 
-**Parent Topic:**[Event rules](create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
 **Related topics**  
 
 
-[Create or edit an event rule](../task/create-or-edit-event-rule.md)
+[Create or edit an event rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/create-or-edit-event-rule.md)
 
-[Configure an event rule to customize alert content](../task/t_EMComposeOuput.md)
+[Configure an event rule to customize alert content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMComposeOuput.md)
 
-[Filter the events that an event rule applies to](../task/t_EMCreateFilter.md)
+[Filter the events that an event rule applies to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMCreateFilter.md)
 
-[Set a threshold to suppress alert generation](../task/t_EMISetThresholdEvent.md)
+[Set a threshold to suppress alert generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMISetThresholdEvent.md)
 

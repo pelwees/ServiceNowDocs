@@ -19,5 +19,5 @@ You can customize the Playbook experience with your own configurations and activ
 
 For information on Playbooks, see [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md).
 
-**Parent Topic:**[Explore the Finance Operations Workspace](fin-ops-workpace.md)
+**Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 

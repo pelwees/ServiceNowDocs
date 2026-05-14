@@ -58,10 +58,10 @@ Dynamic Translation supports only the following field types:
 
 6.  Click **Update**.
 
-    ![Image for dynamic translation for a field](../image/Dynamic-translation-orlando.gif "Dynamic translation for a field")
+    ![Image for dynamic translation for a field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/Dynamic-translation-orlando.gif "Dynamic translation for a field")
 
-    A translate icon ![translate icon](../image/Translation.png) appears next to the field. The logged-in user can click this icon ![translate icon](../image/Translation.png) to translate the text to the user's preferred language using the default translation service provider specified in the translator configurations. For information about error messages during translation, see [Error messages in Dynamic Translation](../reference/error-messages-field-translation.md).
+    A translate icon ![translate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/Translation.png) appears next to the field. The logged-in user can click this icon ![translate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/Translation.png) to translate the text to the user's preferred language using the default translation service provider specified in the translator configurations. For information about error messages during translation, see [Error messages in Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../reference/error-messages-field-translation.md).
 
-    **Note:** If you do not have any default translator configuration, you cannot view the translate icon ![translate icon](../image/Translation.png).
+    **Note:** If you do not have any default translator configuration, you cannot view the translate icon ![translate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/Translation.png).
 
 

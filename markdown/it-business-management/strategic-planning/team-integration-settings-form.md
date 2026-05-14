@@ -53,10 +53,10 @@ Jira board for the selected Jira project.
 -   Real-time import and export will apply only to the mapped board for company-managed projects.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
+</table>**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
 **Related topics**  
 
 
-[Associate Jira projects with EAP teams](../task/create-team-integration-settings-for-jira-project-in-spw.md)
+[Associate Jira projects with EAP teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/create-team-integration-settings-for-jira-project-in-spw.md)
 

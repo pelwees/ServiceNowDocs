@@ -45,7 +45,7 @@ When a case is created for a household or a consumer, the **Entitlement** field 
 
 5.  Fill in the remaining fields on the Entitlement form.
 
-    For more information, see [Create entitlements for CSM entities](c_CreateAnEntitlement.md).
+    For more information, see [Create entitlements for CSM entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CreateAnEntitlement.md).
 
 6.  Select **Submit**.
 

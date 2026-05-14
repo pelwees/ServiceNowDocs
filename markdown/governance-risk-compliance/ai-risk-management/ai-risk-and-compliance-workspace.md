@@ -25,9 +25,9 @@ An AI risk and compliance manager must have a full view of the risks associated 
 
 The home page of the AI risk and compliance workspace meets these requirements and displays the relevant data across the following tabs.
 
--   [Risk and compliance dashboard](risk-and-compliance-tab-airc.md)
--   [Operations dashboard](operations-tab.md)
--   [AI cases dashboard](ai-cases-tab-airc.md)
+-   [Risk and compliance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/risk-and-compliance-tab-airc.md)
+-   [Operations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/operations-tab.md)
+-   [AI cases dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-cases-tab-airc.md)
 
 You can access the AI risk and compliance workspace by navigating to **All** &gt; **AI Risk and Compliance Workspace**.
 

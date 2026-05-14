@@ -52,13 +52,13 @@ Complete these steps from the [Google Cloud console](https://console.cloud.googl
 
 5.  Select **Google Chat API** from the list.
 
-    ![Select Google Chat API in Google Cloud console](../image/google-chat-spoke-select-chat-apis.png)
+    ![Select Google Chat API in Google Cloud console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-spoke-select-chat-apis.png)
 
 6.  Click on the **CREDENTIALS** tab.
 
 7.  Click on **+ CREATE CREDENTIALS** and select **OAuth client ID.**
 
-    ![Create credentials for Google Chat app in Google Cloud console](../image/google-chat-gc-console-create-creds.png)
+    ![Create credentials for Google Chat app in Google Cloud console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-gc-console-create-creds.png)
 
 8.  On the **Create OAuth client ID** form, fill in the fields.
 
@@ -69,7 +69,7 @@ Complete these steps from the [Google Cloud console](https://console.cloud.googl
     |Authorized JavaScript origins URI|Enter the URI of your ServiceNow instance. For example, `https://<your-instance-name>.servicen-now.com`|
     |Authorized redirect URIs|Enter the redirect URI of your ServiceNow instance. For example, `https://<your-instance-name>.servicen-now.com/oauth_redirect.do`|
 
-    ![Create OAuth client ID for Google Chat spoke in Google Cloud console](../image/google-chat-gc-create-oauth-cl-id.png)
+    ![Create OAuth client ID for Google Chat spoke in Google Cloud console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-gc-create-oauth-cl-id.png)
 
 9.  Click **CREATE**.
 
@@ -87,7 +87,7 @@ Complete these steps from the [Google Cloud console](https://console.cloud.googl
 
     **Note:** If you have created any Slash commands while creating the app, specify them.
 
-    ![Add deployment ID of the app in Connection settings](../image/google-chat-deployment-id.png)
+    ![Add deployment ID of the app in Connection settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-deployment-id.png)
 
 12. Save the configuration of your app in Google Cloud console.
 
@@ -110,11 +110,11 @@ Role required: admin
 
     **Note:** Don't click**Add Connection**.
 
-    ![Google Chat spoke connection template](../image/google-chat-spoke-conn-temp.png)
+    ![Google Chat spoke connection template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-spoke-conn-temp.png)
 
 4.  Click **Configure** if you are configuring the connection for the first time.
 
-    ![Google Chat spoke connection configuration](../image/google-chat-spoke-conn-config.png)
+    ![Google Chat spoke connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/google-chat-spoke-conn-config.png)
 
 5.  On the **Configure Connection** form, fill in the fields.
 

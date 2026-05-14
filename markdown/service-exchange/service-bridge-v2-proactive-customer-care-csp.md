@@ -42,10 +42,10 @@ Some common Service Exchange Remote Catalog items are as follows:
 
 9.  If the consumer accepts the resolution, the state of the provider task on the consumer's instance, and the state of the request on the provider's instance, are updated to **Closed**.
 
-**Parent Topic:**[Using Service Exchange for providers](service-bridge-v2-administer.md)
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 **Related topics**  
 
 
-[Create remote catalogs in Service Exchange for providers](service-bridge-v2-remote-catalog.md)
+[Create remote catalogs in Service Exchange for providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-catalog.md)
 

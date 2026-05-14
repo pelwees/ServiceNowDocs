@@ -17,8 +17,8 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
 
 ## Before you begin
 
--   Activate the Microsoft Azure Active Directory spoke spoke and set up the spoke. For more information about the spoke setup, see [Set up Microsoft Entra ID spoke](set-up-azure.md#).
--   Activate the Microsoft Intune spoke and set up the spoke. For more information about the spoke setup, see [Set up the Microsoft Intune spoke](setup-ms-intune.md#).
+-   Activate the Microsoft Azure Active Directory spoke spoke and set up the spoke. For more information about the spoke setup, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-azure.md#).
+-   Activate the Microsoft Intune spoke and set up the spoke. For more information about the spoke setup, see [Set up the Microsoft Intune spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-ms-intune.md#).
 -   Activate the CSD 2.0 application.
 -   Role required: admin
 
@@ -46,10 +46,10 @@ Verify that the spoke is integrated with CSD 2.0 after setting up and configurin
 
     3.  Verify that the flows are configured correctly in the record.
 
-        ![Verify that the flows are configured correctly.](../image/csd2-intune-flows.png)
+        ![Verify that the flows are configured correctly.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-intune-flows.png)
 
         **Note:** You can configure the default flows as per your requirement.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Intune](../concept/csd2-ms-intune.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Intune](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2-ms-intune.md)
 

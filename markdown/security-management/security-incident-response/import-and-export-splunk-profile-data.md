@@ -43,7 +43,7 @@ This functionality allows the security administrator to copy profiles that have 
 
     The following illustration shows exporting a profile \(SplunkES3profile\) from the ServiceNow AI Platform instance \(psand.service-now.com\).
 
-    ![Exporting Splunk profile data.](../image/splunk-profile-export.gif)
+    ![Exporting Splunk profile data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-profile-export.gif)
 
     The exported payload.xml file is downloaded on your computer. The file contains the profile name, correlation rules, mappings, filters, aggregation criteria, field translations, fetched sample data, scheduling, and configuration tile source information. When you select and download multiple profiles, they appear in the same payload.xml file.
 
@@ -61,7 +61,7 @@ This functionality allows the security administrator to copy profiles that have 
 
     The following illustration shows importing a profile \(SplunkES3profile\) from the ServiceNow AI Platform instance \(psand.service-now.com\) to the ServiceNow AI Platform instance \(ppsand.service-now.com\).
 
-    ![Importing a Splunk Profile.](../image/splunk-profile-import.gif)
+    ![Importing a Splunk Profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-profile-import.gif)
 
     You have successfully imported the profile from another ServiceNow AI Platform instance.
 

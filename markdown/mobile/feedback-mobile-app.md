@@ -27,7 +27,7 @@ After completing three successful actions, the mobile app displays a prompt aski
 
 </td><td>
 
-![Display of mobile app feedback question.](../image/feedback.png)
+![Display of mobile app feedback question.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/feedback.png)
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ If you are satisfied with the in-app experience, tap **Yes** to open the review 
 
 </td><td>
 
-![Review page in the mobile store.](../image/feedback-yes.png)
+![Review page in the mobile store.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/feedback-yes.png)
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ If you are not satisfied with the in-app experience, tap **Not really**. A messa
 
 </td><td>
 
-![Message displayed in mobile app when "not really" selection is made.](../image/feedback-not-really.png)
+![Message displayed in mobile app when "not really" selection is made.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/feedback-not-really.png)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ If you want to provide feedback at any time, tap **Settings** from the navigatio
 
 </td><td>
 
-![Display when selecting the Give feedback option in Settings.](../image/feedback-via-settings.png)
+![Display when selecting the Give feedback option in Settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/feedback-via-settings.png)
 
 </td></tr></tbody>
 </table>

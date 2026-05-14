@@ -21,7 +21,7 @@ The following roles are installed with Now Assist Center.
 -   Now Assist Center admin \[sn\_na\_center.nac\_admin\]
 -   Now Assist Center user \[sn\_na\_center.nac\_user\]
 
-For information on the roles installed with Now Assist Center, see [Now Assist Center roles](now-assist-center-roles.md#).
+For information on the roles installed with Now Assist Center, see [Now Assist Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-roles.md#).
 
 ## Tables installed
 
@@ -68,14 +68,14 @@ Now Assist Center Promoted Skills State
 nac\_promoted\_skill\_state
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist Center reference](now-assist-center-reference.md)
+</table>**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Domain separation and Now Assist Center](domain-separation-now-assist-center.md)
+[Domain separation and Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/domain-separation-now-assist-center.md)
 
-[Now Assist Center glossary](../concept/now-assist-center-glossary.md#)
+[Now Assist Center glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-glossary.md#)
 
-[Now Assist Center roles](now-assist-center-roles.md#)
+[Now Assist Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-roles.md#)
 

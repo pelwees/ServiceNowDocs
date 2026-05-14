@@ -17,7 +17,7 @@ Create an API access policy and map an authentication profile to restrict the au
 
 ## Before you begin
 
--   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](../../authentication/task/create-authentication-profile.md).
+-   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../authentication/task/create-authentication-profile.md).
 -   Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
@@ -37,9 +37,9 @@ Create an API access policy and map an authentication profile to restrict the au
 
 4.  In the Inbound Authentication section, double-click **Insert a new row**.
 
-5.  Select an inbound authentication profile from the list and click the save icon ![save icon](../../authentication/images/green-checkmark.png).
+5.  Select an inbound authentication profile from the list and click the save icon ![save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../authentication/images/green-checkmark.png).
 
-    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **OAuth** or **WSSE Auth**.![SOAP API Access Policy](../image/create-soap-api-policy.png)
+    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **OAuth** or **WSSE Auth**.![SOAP API Access Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/create-soap-api-policy.png)
 
     1.  To add one or more inbound authentication profiles, click **New** to create a new profile.
 
@@ -47,7 +47,7 @@ Create an API access policy and map an authentication profile to restrict the au
 
         -   **Create standard http authentication profiles**
         -   **Create WSSE authentication profiles**
-        ![Authentication Profile](../image/auth-profile.png)
+        ![Authentication Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/auth-profile.png)
 
     3.  To create a WSSE authentication profile, on the form, fill in the fields.
 
@@ -59,7 +59,7 @@ Create an API access policy and map an authentication profile to restrict the au
         |Active|Option to make the API access policy active.|
         |Type|WSSE Auth as authentication profile WSSE \(Web Security\).|
 
-        ![WSSE Authentication Profile](../image/wsse-profile.png)
+        ![WSSE Authentication Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/wsse-profile.png)
 
     4.  After creating the authentication profile, save the record.
 

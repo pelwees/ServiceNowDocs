@@ -46,7 +46,7 @@ Do this
 1.  Tap **My Work**.
 2.  In the **My Tasks**, tap **See All**.
 3.  Select and open the desired task.
-4.  Tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select **View Knowledge**.
+4.  Tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select **View Knowledge**.
  The application uses the task short description to search all knowledge bases and returns articles based on that search.
 
 </td></tr><tr><td id="d131528e179">
@@ -213,7 +213,7 @@ Do this
 
 </td><td>
 
-Tap the helpful icon \(![Helpful icon.](../image/KnowledgeHelpful.png)\) or the not helpful icon \(![Not helpful icon.](../image/KnowledgeNotHelpful.png)\).
+Tap the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/KnowledgeHelpful.png)\) or the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/KnowledgeNotHelpful.png)\).
 
 </td></tr><tr><td id="d131528e725">
 
@@ -250,7 +250,7 @@ Tap the star icons displayed on the article to indicate its effectiveness on a s
 </td><td>
 
 1.  Tap the **Comments** tab.
-2.  Underneath a comment, tap the like icon \(![Like icon.](../image/like-comment-now-mobile.png)\).
+2.  Underneath a comment, tap the like icon \(![Like icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/like-comment-now-mobile.png)\).
 
 
 </td></tr><tr><td id="d131528e807">
@@ -260,7 +260,7 @@ Tap the star icons displayed on the article to indicate its effectiveness on a s
 </td><td>
 
 1.  Tap the **Comments** tab.
-2.  Underneath the comment, tap the reply \(![Reply icon.](../image/reply-comment-now-mobile.png)\) icon.
+2.  Underneath the comment, tap the reply \(![Reply icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/reply-comment-now-mobile.png)\) icon.
 3.  Enter your comment in the text box that appears, and then tap **Submit**.
 
 

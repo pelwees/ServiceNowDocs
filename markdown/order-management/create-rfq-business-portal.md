@@ -44,7 +44,7 @@ Role required: sn\_customerservice.customer
         |Field|Description|
         |-----|-----------|
         |Number|Unique cart ID.|
-        |State|State of the cart. For more information, see [Request for quote \(RFQ\) states](../reference/rfq-states.md).|
+        |State|State of the cart. For more information, see [Request for quote \(RFQ\) states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/rfq-states.md).|
         |Created|Cart creation timestamp.|
         |Qty|Product quantity.|
         |Unit list price|Price of a single unit of product or service before adjustments.|
@@ -91,10 +91,10 @@ The RFQ is submitted for further processing and you're redirected to the Request
 
 ## What to do next
 
-View the quote details on the Business Portal after the sales agent reviews and generates a quote for your request. For more information, see [View requests for quotes \(RFQs\) on the Business Portal](view-rfq-business-portal.md).
+View the quote details on the Business Portal after the sales agent reviews and generates a quote for your request. For more information, see [View requests for quotes \(RFQs\) on the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-rfq-business-portal.md).
 
 **Related topics**  
 
 
-[View quotes from the Business Portal](view-quotes-business-portal.md)
+[View quotes from the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-quotes-business-portal.md)
 

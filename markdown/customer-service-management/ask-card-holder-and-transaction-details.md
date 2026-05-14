@@ -27,7 +27,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     The new decision tree opens in Decision Tree Builder in a new tab.
 
-    ![After entering the details in Decision tree new record and submitting the form, the Open in Builder button is shown.](../image/ex-open-in-builder.png)
+    ![After entering the details in Decision tree new record and submitting the form, the Open in Builder button is shown.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-open-in-builder.png)
 
 2.  Select **New node**, which is a start node of your decision tree.
 
@@ -35,7 +35,7 @@ In the question node, you can add the questions that you want to ask customers o
 
 4.  In the Input section, in the **Reference table** field, select the Case table.
 
-    ![Input section contains the Input name, type of input, and reference table fields.](../image/ex-case-ref-table.png)
+    ![Input section contains the Input name, type of input, and reference table fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-case-ref-table.png)
 
     The reference table doesn’t necessarily have to be a task table. For example, you can select a case, incident, or interaction table for the record context to recommend this decision tree in a workspace.
 
@@ -49,7 +49,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     3.  In the **Type of answer** field, select String.
 
-    ![Question 1 for asking the card holder's name and the answer type selected as string.](../image/ex-start-node-ques-1.png)
+    ![Question 1 for asking the card holder's name and the answer type selected as string.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-1.png)
 
 6.  Configure question 2.
 
@@ -61,7 +61,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     4.  In the **Type of answer** field, select Integer.
 
-    ![Question 2 for asking the credit card number and the answer type selected as integer.](../image/ex-start-node-ques-2.png)
+    ![Question 2 for asking the credit card number and the answer type selected as integer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-2.png)
 
 7.  Configure question 3.
 
@@ -73,7 +73,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     4.  In the **Type of answer** field, select Integer.
 
-    ![Question 3 for asking the transaction ID and the answer type selected as integer.](../image/ex-start-node-ques-3.png)
+    ![Question 3 for asking the transaction ID and the answer type selected as integer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-3.png)
 
 8.  Configure question 4.
 
@@ -95,7 +95,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     9.  In the **Label** field, enter `Meestro` for the third option in the list.
 
-    ![Question 4 for asking the card type and the answer type selected as choice. The choice list includes options such as Visa, MasterCard, and Meestro.](../image/ex-start-node-ques-4.png)
+    ![Question 4 for asking the card type and the answer type selected as choice. The choice list includes options such as Visa, MasterCard, and Meestro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-4.png)
 
 9.  Configure question 5.
 
@@ -107,7 +107,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     4.  In the **Type of answer** field, select Date/time.
 
-    ![Question 5 for asking the date and time of the transaction and the answer type selected as date/time.](../image/ex-start-node-ques-5.png)
+    ![Question 5 for asking the date and time of the transaction and the answer type selected as date/time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-5.png)
 
 10. Configure question 6.
 
@@ -119,12 +119,12 @@ In the question node, you can add the questions that you want to ask customers o
 
     4.  In the **Type of answer** field, select True/False.
 
-    ![Question 6 for asking whether any amount is debited and the answer type selected as true/false.](../image/ex-start-node-ques-6.png)
+    ![Question 6 for asking whether any amount is debited and the answer type selected as true/false.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-start-node-ques-6.png)
 
 11. Select **Save and close**.
 
 
 ## What to do next
 
-[Add paths and configure conditions for transactions](../concept/configuring-paths-for-next-nodes.md#) when the next question or guidance node is displayed in a decision tree.
+[Add paths and configure conditions for transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configuring-paths-for-next-nodes.md#) when the next question or guidance node is displayed in a decision tree.
 

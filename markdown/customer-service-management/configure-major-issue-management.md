@@ -42,5 +42,5 @@ This feature enables you to efficiently manage the communication and resolution 
 **Related topics**  
 
 
-[Major issue management overview](../concept/major-issue-management.md)
+[Major issue management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/major-issue-management.md)
 

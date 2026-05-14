@@ -17,7 +17,7 @@ An agent in the idle state is available to receive or initiate work. Customize t
 
 Role required: admin
 
-![Set idle state capabilities in the simulator](../image/int-set-idle-state.png "Set idle state capabilities")
+![Set idle state capabilities in the simulator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-set-idle-state.png "Set idle state capabilities")
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Use the **Edit** icon to update entries.
 
-    By default, the **Outbound call**, **Logout**, and **Phone directory** options are enabled. You can clear any options as needed. See [Configuring Transfer capabilities](configure-transfer-capability.md).
+    By default, the **Outbound call**, **Logout**, and **Phone directory** options are enabled. You can clear any options as needed. See [Configuring Transfer capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-transfer-capability.md).
 
     When you have the **Outbound call** feature enabled in the simulator, a system notification displays stating that outbound calls create new Interactions.
 
@@ -50,5 +50,5 @@ Role required: admin
 
 ## What to do next
 
-If you enable **Transfer**, the simulator guides you through the transfer capabilities setup. If you choose not to select the **Transfer** capability, select **Continue** to proceed to adding participants. See [Configuring Transfer capabilities](configure-transfer-capability.md).
+If you enable **Transfer**, the simulator guides you through the transfer capabilities setup. If you choose not to select the **Transfer** capability, select **Continue** to proceed to adding participants. See [Configuring Transfer capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-transfer-capability.md).
 

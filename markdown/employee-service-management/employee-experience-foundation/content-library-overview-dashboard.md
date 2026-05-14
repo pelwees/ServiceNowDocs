@@ -17,7 +17,7 @@ Content analytics displays data visualizations of performance metrics for conten
 
 ## Dashboard overview
 
-The Content Library Overview dashboard displays metrics for content published via a schedule or publish plan. This dashboard does not display content delivered via a campaign. For campaign content data visualizations, see [Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md).
+The Content Library Overview dashboard displays metrics for content published via a schedule or publish plan. This dashboard does not display content delivered via a campaign. For campaign content data visualizations, see [Campaign overview and Campaign analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md).
 
 |Visualization|Description|
 |-------------|-----------|
@@ -62,48 +62,48 @@ Content Analytics tracks the following user interactions \(depending on content 
 -   Video impression
 -   Video played
 
-**Parent Topic:**[Employee Center Pro reference](../reference/emp-center-pro-reference.md)
+**Parent Topic:**[Employee Center Pro reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/emp-center-pro-reference.md)
 
 **Related topics**  
 
 
-[Block content form](../reference/block-content-form.md)
+[Block content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](../reference/components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/components-installed-with-employee-center-pro-1.md)
 
-[Components installed with Content engagement](../reference/installed-content-engagement.md)
+[Components installed with Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/installed-content-engagement.md)
 
-[Components installed with Content Experiences](../reference/installed-with-content-auto.md)
+[Components installed with Content Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/installed-with-content-auto.md)
 
-[Components installed with Content Publishing](../reference/installed-with-content-delivery.md)
+[Components installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/installed-with-content-delivery.md)
 
-[Components installed with Content Governance](../reference/ec-installed-content-governance.md)
+[Components installed with Content Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](../reference/ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](content-analytics-dashboards.md)
+[Content Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-analytics-dashboards.md)
 
-[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-pro-content-engagement-dashboard.md)
 
-[Employee Center Pro widgets](../reference/employee-center-pro-widgets-list.md)
+[Employee Center Pro widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/employee-center-pro-widgets-list.md)
 
-[Feedback configuration form](../reference/ex-feedback-new-record.md)
+[Feedback configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ex-feedback-new-record.md)
 
-[Feedback definition form](../reference/fdbck-dfnition-record.md)
+[Feedback definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/fdbck-dfnition-record.md)
 
-[Link content form](../reference/link-content-form.md)
+[Link content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/link-content-form.md)
 
-[Notification content form](../reference/notification-content-form.md)
+[Notification content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/notification-content-form.md)
 
-[Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md)
+[Properties installed with Content Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-installed-with-content-auto.md)
 
-[Properties installed with Content Governance](../reference/properties-installed-content-governance.md)
+[Properties installed with Content Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-installed-content-governance.md)
 
-[Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+[Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md)
 
-[Standard banner and icon sizes](../reference/ec-portal-images-size.md)
+[Standard banner and icon sizes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-portal-images-size.md)
 
-[To-do content form](../reference/to-do-content-form.md)
+[To-do content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/to-do-content-form.md)
 

@@ -23,7 +23,7 @@ Role required: Supplier
 
 1.  Navigate to the header on the Supplier Collaboration Portal home page &gt;**Tasks** &gt; **My Tasks**.
 
-    Lists the **Open** and **Completed** exception tasks and invoice case tasks assigned for the logged in supplier. For more information on creating an exception task, see [Work on an invoice exception](work-invoice-exception-case.md).
+    Lists the **Open** and **Completed** exception tasks and invoice case tasks assigned for the logged in supplier. For more information on creating an exception task, see [Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md).
 
     **Note:** You can also view **My Tasks** by navigating to **My active items** widget&gt;**Tasks** tile.
 
@@ -211,8 +211,8 @@ Lists the activity postings between Accounts Payable Specialist and supplier.
 Supplier uses attachments in the form of PDF, JPEG, PNG formats.
 
 </td></tr></tbody>
-</table>    Supplier selects **Mark complete**. The status of the task changes to **Closed complete**. For more information on invoice case, see [Using Invoice Case Management](../concept/use-invoice-case-mgmt.md).
+</table>    Supplier selects **Mark complete**. The status of the task changes to **Closed complete**. For more information on invoice case, see [Using Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-invoice-case-mgmt.md).
 
 
-**Parent Topic:**[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+**Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-supplier-collaboration-portal.md)
 

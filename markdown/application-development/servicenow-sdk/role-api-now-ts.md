@@ -19,12 +19,12 @@ The Role API defines roles \[sys\_user\_role\] that grant specific permissions t
 
 For general information about user roles, see [Managing roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-roles.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## Role object
 
@@ -151,7 +151,7 @@ Boolean
 
 </td><td>
 
-Flag that indicates whether the role is an Application Administrator role. For general information about application administration roles, see [Application administration](../../applications/concept/application-administration.md).Valid values:
+Flag that indicates whether the role is an Application Administrator role. For general information about application administration roles, see [Application administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../../applications/concept/application-administration.md).Valid values:
 
 -   true: The role is an Application Administrator.
 -   false: The role isn't an Application Administrator.

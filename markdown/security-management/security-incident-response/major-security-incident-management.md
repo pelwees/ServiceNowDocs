@@ -63,14 +63,14 @@ The following Security Operations applications are the standard Security Inciden
 3.  Security Support Common
 4.  Security Support Common Orchestration
 
-**Parent Topic:**[Exploring Major Security Incident Management](../reference/exploring-major-security-incident-management.md)
+**Parent Topic:**[Exploring Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/exploring-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Get started with MSIM](../reference/get-started-with-msim.md)
+[Get started with MSIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/get-started-with-msim.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/reference/msim-checklist.md)
 
-[Major Security Incident Management roles](../reference/msi-roles.md)
+[Major Security Incident Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/msi-roles.md)
 

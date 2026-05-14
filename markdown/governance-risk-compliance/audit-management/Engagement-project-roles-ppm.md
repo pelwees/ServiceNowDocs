@@ -71,10 +71,10 @@ Users can enter the project budget, move projects, calculate completion estimate
 -   Users need project\_manager role to be able to calculate completion estimates, and move project. If a user role is being added manually, use the it\_project\_manager role instead of project\_manager role.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Audit Management reference](audit-management-reference.md)
+</table>**Parent Topic:**[Audit Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-management-reference.md)
 
 **Related topics**  
 
 
-[Roles required for Advanced planning capability](roles-for-audit-and-ppm.md)
+[Roles required for Advanced planning capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/roles-for-audit-and-ppm.md)
 

@@ -15,7 +15,7 @@ Visit scheduler dashboard to learn about key health metrics and insights of sche
 
 Navigate to **All** &gt; **System Diagnostics** &gt; **Scheduled Jobs Dashboard**.
 
-![Scheduled jobs dashboard.](../image/scheduled-jobs-dashboard.png)
+![Scheduled jobs dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/scheduled-jobs-dashboard.png)
 
 The following cards show up on the dashboard
 

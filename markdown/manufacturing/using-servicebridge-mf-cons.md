@@ -13,5 +13,5 @@ breadcrumb: [Additional workflows, Use, Manufacturing Commercial Operations]
 
 As a manufacturer using Service Exchange for Consumers in Manufacturing Commercial Operations, learn how your consumers can use Manufacturing Commercial Operations with Service Bridge to submit requests from the service catalog, all from your ServiceNow® instance.
 
-**Parent Topic:**[Additional workflows](mco-additional-workflows.md)
+**Parent Topic:**[Additional workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-additional-workflows.md)
 

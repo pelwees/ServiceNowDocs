@@ -104,5 +104,5 @@ HR Table: sn\_hr\_er\_corrective action.
 
 **Note:** The **Description** field includes **Assigned to** or **Discussion held by** fields for user name.
 
-**Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
+**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 

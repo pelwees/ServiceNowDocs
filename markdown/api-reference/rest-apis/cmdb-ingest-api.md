@@ -15,19 +15,19 @@ breadcrumb: [REST API reference, API reference, API implementation and reference
 
 The CMDB Data Ingestion API provides endpoints that enable the batch ingestion of an array of objects into an Import Set table.
 
-**Warning:** This API is no longer recommended. For the same functionality with improved scalability and stability, use the [Import Set - POST /now/import/\{stagingTableName\}/insertMultiple](c_ImportSetAPI.md#) endpoint. From the Quebec release onward, any usage of the CMDB Data Ingestion API should be migrated to use the Import Set – insertMultiple endpoint instead.
+**Warning:** This API is no longer recommended. For the same functionality with improved scalability and stability, use the [Import Set - POST /now/import/\{stagingTableName\}/insertMultiple](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_ImportSetAPI.md#) endpoint. From the Quebec release onward, any usage of the CMDB Data Ingestion API should be migrated to use the Import Set – insertMultiple endpoint instead.
 
 In addition, this API won't work by default for zbooted instances.
 
 This API is activated through the Configuration Management Database \(CMDB\) \(com.snc.cmdb\) plugin and requires the cmdb\_import\_api\_admin role.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## CMDB Data Ingestion - POST /cmdb/ingest/\{data\_source\_sys\_id\}
 
 Inserts records into the Import Set table associated with the data source record identified by the passed-in sys\_id.
 
-**Warning:** This API is no longer recommended. For the same functionality with improved scalability and stability, use the [Import Set - POST /now/import/\{stagingTableName\}/insertMultiple](c_ImportSetAPI.md#) endpoint. From the Quebec release onward, any usage of the CMDB Data Ingestion API should be migrated to use the Import Set – insertMultiple endpoint instead.
+**Warning:** This API is no longer recommended. For the same functionality with improved scalability and stability, use the [Import Set - POST /now/import/\{stagingTableName\}/insertMultiple](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_ImportSetAPI.md#) endpoint. From the Quebec release onward, any usage of the CMDB Data Ingestion API should be migrated to use the Import Set – insertMultiple endpoint instead.
 
 In addition, this API won't work by default for zbooted instances.
 
@@ -45,7 +45,7 @@ Versioned URL: `/api/now/{api_version}/cmdb/ingest/{data_source_sys_id}`
 
 Default URL: `/api/now/cmdb/ingest/{data_source_sys_id}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -99,7 +99,7 @@ Data type: Array of Objects
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -132,7 +132,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

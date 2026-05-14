@@ -38,14 +38,14 @@ The list of open asset pick tasks for the stockroom is displayed.
 
 ## What to do next
 
-Manage all the enterprise asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage enterprise asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-eam-mobile-app.md).
+Manage all the enterprise asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage enterprise asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-asset-pick-task-eam-mobile-app.md).
 
-**Parent Topic:**[Manage enterprise asset picking within your stockrooms](../concept/manage-asset-picking-stockroom-eam-ws.md)
+**Parent Topic:**[Manage enterprise asset picking within your stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-asset-picking-stockroom-eam-ws.md)
 
 **Related topics**  
 
 
-[Enable the Asset pick task for your stockroom in the Enterprise Asset Workspace](enable-pick-task-for-stockroom-eam.md)
+[Enable the Asset pick task for your stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enable-pick-task-for-stockroom-eam.md)
 
-[Add aisles and spaces to a stockroom in the Enterprise Asset Workspace](add-aisle-space-stockroom-eam-ws.md)
+[Add aisles and spaces to a stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-aisle-space-stockroom-eam-ws.md)
 

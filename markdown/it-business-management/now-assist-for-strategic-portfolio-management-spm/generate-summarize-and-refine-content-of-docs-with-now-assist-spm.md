@@ -72,7 +72,7 @@ Some examples are:
 
     -   If you have a list of stakeholders, you can ask **Elaborate on the scope of these roles.**
     -   **Rewrite this in a casual tone.**
-![Sample of a Now Assist inline prompt for selected content on the page.](../../now-assist-cwm/images/na-inline-open-text.png)
+![Sample of a Now Assist inline prompt for selected content on the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../now-assist-cwm/images/na-inline-open-text.png)
 
 </td></tr><tr><td id="d112132e227">
 
@@ -89,7 +89,7 @@ Some examples are:
     2.  **Write a 3-paragraph blog post explaining why \[industry trend\] is changing how businesses operate.**
     3.  **Generate an outline for the Instagram campaign tasks for a Hackathon initiative.**
 
-![Sample of creating first draft for a page using Now Assist.](../../now-assist-cwm/images/na-blank-page-nacm.png)
+![Sample of creating first draft for a page using Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../now-assist-cwm/images/na-blank-page-nacm.png)
 
 </td></tr><tr><td id="d112132e274">
 
@@ -99,7 +99,7 @@ Some examples are:
 
 Whether the content in the Doc is added manually or generated using Now Assist, you can ask questions to find anything in the page's context.For example, if you have a project charter document, you can try asking **What is the total budget of this project and which part is the most expensive?**
 
-![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](../../now-assist-cwm/images/cwm-nacm-ask-questions.png)
+![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../now-assist-cwm/images/cwm-nacm-ask-questions.png)
 
 </td></tr></tbody>
 </table>    Now Assist analyzes the text and generates an output in a separate pop-up.
@@ -111,5 +111,5 @@ Whether the content in the Doc is added manually or generated using Now Assist, 
     **Important:** Because the output is AI-generated, review it to ensure accuracy.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

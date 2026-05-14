@@ -166,10 +166,10 @@ Autofill fields
 |Category|Customer Experience|
 |Content|Watch this video to increase customer satisfaction by solving issues faster.|
 
-**Parent Topic:**[Configuring Coaching](../concept/cf-configuring-coaching.md)
+**Parent Topic:**[Configuring Coaching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../concept/cf-configuring-coaching.md)
 
 **Related topics**  
 
 
-[Coaching field descriptions](../reference/cf-coaching-field-descriptions.md)
+[Coaching field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../reference/cf-coaching-field-descriptions.md)
 

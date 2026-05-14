@@ -21,7 +21,7 @@ You can use this topic block to search for a catalog item based on the search cr
 
 |Parameter|Description|
 |---------|-----------|
-|query\_term|Keyword to search for a catalog item. For information on configuring keyword search for a catalog item, see [Configure keyword search for catalog items](../task/search-catalog-item.md).|
+|query\_term|Keyword to search for a catalog item. For information on configuring keyword search for a catalog item, see [Configure keyword search for catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/search-catalog-item.md).|
 |catalogs|Comma-separated list of catalogs where a catalog item should be searched for.|
 |result\_limit|Number of search results that should be displayed. By default, this number is set to 5.|
 
@@ -110,11 +110,11 @@ A catalog item can be rendered in Virtual Agent as a conversation, window, pop-u
 
 A user can submit a request in the conversation mode \(by answering the questions in line\).
 
-![Virtual Agent rendered as a conversation](../image/va-conversation-catalog.png)
+![Virtual Agent rendered as a conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-conversation-catalog.png)
 
 The following conditions must be met when a user requests a catalog item in the conversation mode in Virtual Agent powered by NLU.
 
--   A catalog item cannot have more than the number of questions specified in the **glide.sc.conversational.request.question.limit** property. By default, this number is set to 10. For more information about this property, see [Service Catalog properties](../reference/r_ServiceCatalogProperties.md).
+-   A catalog item cannot have more than the number of questions specified in the **glide.sc.conversational.request.question.limit** property. By default, this number is set to 10. For more information about this property, see [Service Catalog properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ServiceCatalogProperties.md).
 -   A catalog item can have non-scripted catalog UI policies. These UI policies should be defined such that variables are affected sequentially, that is, only a variable with the lower order affects a variable with the higher order.
 -   A catalog item cannot have catalog client scripts that are defined for Now Mobile or Service Portal.
 -   Only the following variables are supported:
@@ -162,15 +162,15 @@ The following conditions must be met when a user requests a catalog item in the 
 -   If the user is using Virtual Agent in a different supported collaboration tool like Microsoft Teams:
     -   Searching for a value using the search icon in choice type of fields is not supported.
 
-        ![Searching for a choice field in Microsoft Teams](../image/msteams-choice.png "Choice type fields in Microsoft Teams")
+        ![Searching for a choice field in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/msteams-choice.png "Choice type fields in Microsoft Teams")
 
-        ![Searching for choice field in Virtual Agent](../image/va-choice.png "Choice type fields in Virtual Agent")
+        ![Searching for choice field in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-choice.png "Choice type fields in Virtual Agent")
 
     -   Searching for a value in reference type of fields is performed in the form of a question.
 
-        ![Searching for reference fields in Microsoft Teams](../image/msteams-reference.png "Reference type fields in Microsoft Teams")
+        ![Searching for reference fields in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/msteams-reference.png "Reference type fields in Microsoft Teams")
 
-        ![Searching for reference field in Virtual Agent](../image/va-reference.png "Reference type field in Virtual Agent")
+        ![Searching for reference field in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-reference.png "Reference type field in Virtual Agent")
 
 
 If the catalog item is non-conversational, the request form can appear as any of these render types:
@@ -226,11 +226,11 @@ Catalog item requesters can submit a catalog item by filling the form inline in 
 
 For example, a requester can fill a form inline in the Virtual Agent conversation and submit the item.
 
-![Inline request of a catalog item](../image/inline-catalog-request-va.png "Inline request of a catalog item")
+![Inline request of a catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/inline-catalog-request-va.png "Inline request of a catalog item")
 
-![Inline request of a catalog item](../image/inline-catalog-request-va-a.png "Inline request of a catalog item")
+![Inline request of a catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/inline-catalog-request-va-a.png "Inline request of a catalog item")
 
-![Inline request of a catalog item](../image/inline-catalog-request-va-b.png "Inline request of a catalog item")
+![Inline request of a catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/inline-catalog-request-va-b.png "Inline request of a catalog item")
 
 ## Catalog item request using a pop-up render type
 
@@ -238,7 +238,7 @@ A user can submit a catalog item request as a pop-up for items, which are not co
 
 **Note:** If you do not want to render your Virtual Agent conversation as a pop-up, set the **glide.sc.va.render\_type.legacy** property to true, which renders all non-conversational catalog items in the configured portal in a new tab.
 
-![Virtual Agent rendered as a popup](../image/va-popup-catalog.png)
+![Virtual Agent rendered as a popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-popup-catalog.png)
 
 ## Catalog item request using a window render type
 
@@ -251,15 +251,15 @@ A catalog item is rendered as a window if it is of the following types:
 -   Wizard Launcher
 -   Standard Change Template
 
-![Virtual Agent rendered as a window](../image/va-window-catalog.png)
+![Virtual Agent rendered as a window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-window-catalog.png)
 
--   **[Submit a request topic conversation](request-submission-va.md)**  
+-   **[Submit a request topic conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-submission-va.md)**  
 Users can submit a request in a Virtual Agent conversation.
 
-**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
 **Related topics**  
 
 
-[Catalog builder preview topic conversation](catalog-builder-preview-topic.md)
+[Catalog builder preview topic conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder-preview-topic.md)
 

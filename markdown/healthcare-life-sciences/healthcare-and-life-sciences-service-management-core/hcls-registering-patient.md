@@ -17,5 +17,5 @@ As a patient, you can create an account on a patient portal to avail your health
 
 Depending on your portal settings, you can register yourself as a patient on the Patient Portal by clicking **Create account** on the Patient Portal landing page and then providing your information on the registration form. After you submit your information, a verification link with instructions for the next step is emailed to you automatically. You can then confirm your account settings to start logging in to and using the Patient Portal.
 
-**Parent Topic:**[Use the Patient Portal for Healthcare and Life Sciences Service Management](hcls-patient-portal.md)
+**Parent Topic:**[Use the Patient Portal for Healthcare and Life Sciences Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-patient-portal.md)
 

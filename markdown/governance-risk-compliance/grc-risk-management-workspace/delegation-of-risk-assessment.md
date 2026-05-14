@@ -15,7 +15,7 @@ breadcrumb: [Advanced Risk Assessment, Explore, Risk Management, Governance, Ris
 
 If a risk assessor is unavailable to perform a risk assessment, the assessor can appoint a delegate to perform the risk assessment for a specified time period. The ServiceNow AI Platform enables you to appoint your delegates.
 
-Delegation is the assignment of authority to another person to perform specific activities. It is a process of entrusting work to another person. In the context of risk assessments, at times, it may happen that the assigned assessor for a risk assessment is unavailable to perform their risk assessments. In such a scenario, the assessor can assign another user as a delegate and the delegate can perform the risk assessment on behalf of the original assessor for a specified time period. A delegate can perform the risk assessment from the Risk Workspace and the Risk Portal. A delegate also receives a copy of all the system notifications that are sent to the original assessor. Once the delegate starts performing the assessment, the delegate's name is visible on the assessment instance. ![Delegate on the risk assessment instance.](../image/delegate-feature.png)
+Delegation is the assignment of authority to another person to perform specific activities. It is a process of entrusting work to another person. In the context of risk assessments, at times, it may happen that the assigned assessor for a risk assessment is unavailable to perform their risk assessments. In such a scenario, the assessor can assign another user as a delegate and the delegate can perform the risk assessment on behalf of the original assessor for a specified time period. A delegate can perform the risk assessment from the Risk Workspace and the Risk Portal. A delegate also receives a copy of all the system notifications that are sent to the original assessor. Once the delegate starts performing the assessment, the delegate's name is visible on the assessment instance. ![Delegate on the risk assessment instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/delegate-feature.png)
 
 As a risk assessor, to understand how you can assign a delegate, refer to [Configure a delegate for your tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/t_DelegateApprovalsTasks.md).
 
@@ -36,5 +36,5 @@ It is important to note the following points when you assign a delegate.
 -   The delegate can create risk response tasks and request approval.
 -   All activity performed by the delegate is captured in the activity stream.
 
-**Parent Topic:**[Advanced Risk Assessment](../../grc-risk/concept/advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/advanced-risk-assessment.md)
 

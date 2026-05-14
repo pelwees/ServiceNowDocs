@@ -21,7 +21,7 @@ You can access the Model Risk Workspace by navigating to **All** &gt; **Model Ri
 
 The Homepage of the Model Risk Workspace contains the following information:
 
-![Model Risk Workspace Homepage.](../image/model-risk-workspace.png "Model Risk Workspace")
+![Model Risk Workspace Homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/model-risk-workspace.png "Model Risk Workspace")
 
 |Tab|Description|
 |---|-----------|

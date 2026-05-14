@@ -24,7 +24,7 @@ Include the Portal Footer widget on your portal page to display information abou
 -   Social media at the bottom right of the footer
 -   Copyright text on the bottom-right corner of the footer
 
-![Portal Polaris Footer widget displaying sitemap links in different categories.](../image/portal-footer-widget.png "Portal Polaris Footer widget")
+![Portal Polaris Footer widget displaying sitemap links in different categories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-footer-widget.png "Portal Polaris Footer widget")
 
-For more information, see [Configure the Portal Polaris Footer widget](../task/config-portal-footer-widget.md).
+For more information, see [Configure the Portal Polaris Footer widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-portal-footer-widget.md).
 

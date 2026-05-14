@@ -30,5 +30,5 @@ A service account is a secure record on your instance that holds the credential 
 2.  Select the name of any user to view the details of the owned service accounts.
 
 
-**Parent Topic:**[Assign service accounts to an insights\_owner](insights-owner-new-cloudin.md)
+**Parent Topic:**[Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owner-new-cloudin.md)
 

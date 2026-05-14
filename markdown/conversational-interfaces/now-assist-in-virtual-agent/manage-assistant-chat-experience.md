@@ -17,7 +17,7 @@ Manage the chat experience of your assistant.
 
 ## Before you begin
 
-See [Enable additional chat features](additional-chat-features.md).
+See [Enable additional chat features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -39,15 +39,15 @@ Fallbacks appear in the preview pane when you toggle individual or all fallbacks
 
 2.  In the **Legacy messages** or the **Premium messages** section, set up your messages.
 
-    ![Greeting message screen.](../image/NAinVA-chat-experience-legacy-messages-0426.png "Set up Now Assist in Virtual Agent assistant legacy messages")
+    ![Greeting message screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-chat-experience-legacy-messages-0426.png "Set up Now Assist in Virtual Agent assistant legacy messages")
 
-    ![Greeting message screen.](../image/NAinVA-chat-experience--nap-premium-messages-0426.png "Set up Now Assist panel - Platform assistant premium messages")
+    ![Greeting message screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-chat-experience--nap-premium-messages-0426.png "Set up Now Assist panel - Platform assistant premium messages")
 
     Selecting a default topic shows its corresponding default message. You can also create your own topic from **All** &gt; **Assistant Designer** &gt; **Asset Library**, and use it as the greeting or closing topic. When selecting a custom topic, the message field isn’t shown in the preview pane.
 
     Closing message only appears if you have a display experience with standard chat.
 
-    ![Closing topic and closing message for the standard chat experience.](../image/NAinVA-closing-message-122025.png "Standard chat closing message")
+    ![Closing topic and closing message for the standard chat experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-closing-message-122025.png "Standard chat closing message")
 
     **Note:** Configuration options differ between different assistant types and display experiences.
 
@@ -252,11 +252,11 @@ No
 </td></tr></tbody>
 </table>3.  In the **Legacy fallbacks** or **Premium fallbacks** sections, activate one or more fallback options.
 
-    **Note:** For premium fallbacks, web search fallback is dependent on your web search mode setting in [Enable additional chat features](additional-chat-features.md). If web search mode is turned off, web search fallback is unavailable \(grayed out\). If web search mode is turned on, web search fallback is available where you can turn it on or off.
+    **Note:** For premium fallbacks, web search fallback is dependent on your web search mode setting in [Enable additional chat features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md). If web search mode is turned off, web search fallback is unavailable \(grayed out\). If web search mode is turned on, web search fallback is available where you can turn it on or off.
 
-    ![Activate fallback options.](../image/NAinVA-chat-experience-legacy-fallbacks-0426.png "Activate Now Assist in Virtual Agent legacy fallback options")
+    ![Activate fallback options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-chat-experience-legacy-fallbacks-0426.png "Activate Now Assist in Virtual Agent legacy fallback options")
 
-    ![Activate fallback options.](../image/NAinVA-chat-experience-nap-premium-fallbacks-0426.png "Activate Now Assist panel - Platform assistant premium fallback options")
+    ![Activate fallback options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-chat-experience-nap-premium-fallbacks-0426.png "Activate Now Assist panel - Platform assistant premium fallback options")
 
     **Note:** For Now Assist panel - Platform assistant, web search, record producer, and custom fallback are available options. End this chat and survey are available for the standard chat experience.
 
@@ -279,7 +279,7 @@ No
 
         If the instance is self-hosted or regulated, the warning message won't be shown.
 
-        **Note:** For the premium chat experience, web search fallback requires web search mode to be turned on. To ensure that web search mode is turned on, see [Enable additional chat features](additional-chat-features.md).
+        **Note:** For the premium chat experience, web search fallback requires web search mode to be turned on. To ensure that web search mode is turned on, see [Enable additional chat features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
 
     3.  Direct the user to a record producer catalog item to create an incident or a case by turning on **Record producer**.
 
@@ -292,12 +292,12 @@ No
 
         **Note:** There is no default custom premium fallbacks. To customize premium fallbacks, contact Support.
 
-    For more information about fallback options, see [Enhanced chat](../concept/nava-enhanced-chat.md).
+    For more information about fallback options, see [Enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/nava-enhanced-chat.md).
 
 4.  Select **Save and continue**.
 
 
 ## What to do next
 
-See [Review chat assistant settings](review-assistant-settings.md).
+See [Review chat assistant settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/review-assistant-settings.md).
 

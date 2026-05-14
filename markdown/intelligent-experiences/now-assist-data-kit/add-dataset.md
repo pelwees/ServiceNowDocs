@@ -76,7 +76,7 @@ Role required: sn\_data\_kit.admin
 
 11. Navigate to the Data governance section and select each check box.
 
-    ![Data governance options for Now Assist Data Kit](../image/nadk-data-governance.png)
+    ![Data governance options for Now Assist Data Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../image/nadk-data-governance.png)
 
     -   I'm assuring to use data responsibly for AI Evaluation
     -   Scan for personally identifiable or information sensitive data before creating datasets. You can turn this off if you prefer.
@@ -92,5 +92,5 @@ Role required: sn\_data\_kit.admin
 
 ## What to do next
 
-After your dataset is added to the data catalog, you can choose to create a smaller dataset by creating a derived dataset or adding a ground truth to your existing data set. For more information, see [Create a derived dataset](create-derived-dataset.md) or [Add a ground truth to each dataset record](add-ground-truth.md).
+After your dataset is added to the data catalog, you can choose to create a smaller dataset by creating a derived dataset or adding a ground truth to your existing data set. For more information, see [Create a derived dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/create-derived-dataset.md) or [Add a ground truth to each dataset record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/add-ground-truth.md).
 

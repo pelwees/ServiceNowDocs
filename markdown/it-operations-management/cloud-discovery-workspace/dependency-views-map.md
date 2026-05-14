@@ -19,7 +19,7 @@ A Dependency Views map has one starting point, called the root CI or root node o
 
 The Dependency Views module is active in all instances, and includes demo data.
 
-![CIs and connections on a Dependency Views map.](../image/DependencyView.png "Dependency Views sample map")
+![CIs and connections on a Dependency Views map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/../image/DependencyView.png "Dependency Views sample map")
 
 In a Dependency Views map, map indicators indicate if a CI has any active, pending issues. You can investigate the tasks that are connected to a CI to get more details. When you return to the map from another form, the system restores the last map viewed, using the default filter and layout settings.
 

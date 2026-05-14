@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.admin
 
     The Content configurations related list is shown in the example.
 
-    ![Content configurations related list.](../image/content-config.png)
+    ![Content configurations related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-config.png)
 
 4.  On the form, fill in the fields.
 

@@ -48,7 +48,7 @@ An individual test that verifies the following:
 Madrid
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring reference](../../../product/agent-client-collector/reference/acc-monitoring-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../../product/agent-client-collector/reference/acc-monitoring-reference.md)
 
 **Related topics**  
 

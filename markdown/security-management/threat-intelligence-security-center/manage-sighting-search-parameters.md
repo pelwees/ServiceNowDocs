@@ -15,5 +15,5 @@ breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integ
 
 Configure advanced search parameters to create complex queries with logic operators and other features supported by your log store. Use these parameters when basic search criteria are insufficient for your investigation needs.
 
-**Parent Topic:**[Configure Sighting Search](../task/configure-sighting-search.md)
+**Parent Topic:**[Configure Sighting Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/configure-sighting-search.md)
 

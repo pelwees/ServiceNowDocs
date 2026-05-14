@@ -98,7 +98,7 @@ Dynamic filter conditions for the defined recipients.The dynamic condition is ap
 
  This dynamic condition enables you to define the recipients list for a group of users to send a notification.
 
- Click the refresh icon ![Refresh icon.](../images/refresh-icon.png) next to the **records match condition** link to update the exact number of records matching the latest filter condition. By default, it shows the total number of records in the current table.
+ Click the refresh icon ![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/refresh-icon.png) next to the **records match condition** link to update the exact number of records matching the latest filter condition. By default, it shows the total number of records in the current table.
 
 **Note:** Only one active record can be added for a particular recipient table. If you want to add another record for the recipient table, you must deactivate the current record.
 
@@ -106,5 +106,5 @@ Dynamic filter conditions for the defined recipients.The dynamic condition is ap
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-va-notifications.md)
 

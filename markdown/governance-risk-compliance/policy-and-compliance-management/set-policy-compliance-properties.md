@@ -94,7 +94,7 @@ Compliance administrators can change this setting.-   Type: string
 </table>
 ## What to do next
 
-Return to the [Policy and Compliance Management setup checklist](policy-compliance-impl-checklist.md).
+Return to the [Policy and Compliance Management setup checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-impl-checklist.md).
 
-**Parent Topic:**[Perform Policy and Compliance Management administration](../concept/perform-policy-compliance-admin.md)
+**Parent Topic:**[Perform Policy and Compliance Management administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/perform-policy-compliance-admin.md)
 

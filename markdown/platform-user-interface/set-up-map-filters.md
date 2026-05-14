@@ -15,7 +15,7 @@ Add a map filter to display filtered map markers. This filter enables you to see
 
 ## Before you begin
 
-A [map data item](configure-map-data-items.md) should be configured before accomplishing this task. The example map data item can work with the example map filter tables below to successfully set up a map filter.
+A [map data item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md) should be configured before accomplishing this task. The example map data item can work with the example map filter tables below to successfully set up a map filter.
 
 Role required: admin
 
@@ -33,9 +33,9 @@ Map filters can be configured using lists and forms, or scripting. Create a cont
 
 4.  In the **Application** field, define the application scope, if other than Global.
 
-5.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+5.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
-6.  In the **Map filter item** field, double-click the record and click the search icon \(![Search icon](../image/QueryIcon.png)\).
+6.  In the **Map filter item** field, double-click the record and click the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/QueryIcon.png)\).
 
 7.  To create a Map Page filter item, click **New**.
 
@@ -71,7 +71,7 @@ UI Type
 
 </td><td>
 
-UI type for your Map Page filter item. This determines how your filter displays on the map page. Select **Single selection**, **Multiple selection**, or **Date picker**. When you select **Date picker**, the data item fields hide and the default value script appears.![The UI Types on a map page.](../image/Map_Filter_UI_Selection.png)
+UI type for your Map Page filter item. This determines how your filter displays on the map page. Select **Single selection**, **Multiple selection**, or **Date picker**. When you select **Date picker**, the data item fields hide and the default value script appears.![The UI Types on a map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Map_Filter_UI_Selection.png)
 
 </td></tr><tr><td>
 
@@ -124,16 +124,16 @@ Scripting field for your Map Page filter item.
 </td></tr></tbody>
 </table>9.  Click **Submit**.
 
-10. When you return to the Map Page Filter form, click the check mark icon \(![Check mark icon](../image/CheckMark.png)\).
+10. When you return to the Map Page Filter form, click the check mark icon \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CheckMark.png)\).
 
     The name of the Map Page filter item that you created is displayed in the field.
 
-11. Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+11. Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ## Map Page Filter Item form
 
-Select the options in the table to successfully create your Map Page filter item. This setup works with the [map data item example](configure-map-data-items.md).
+Select the options in the table to successfully create your Map Page filter item. This setup works with the [map data item example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md).
 
 <table id="table_drl_r1j_nkb"><thead><tr><th>
 
@@ -218,9 +218,9 @@ Skip this field.
 </td></tr></tbody>
 </table>## What to do next
 
-Continue to the next task to [configure a map filter data mapping](set-up-map-filters.md#).
+Continue to the next task to [configure a map filter data mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#).
 
-**Parent Topic:**[Create an advanced Map Page](create-advanced-map-page.md)
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
 ## Configure a map filter data mapping
 
@@ -304,7 +304,7 @@ Data is retrieved from this field in the table that you selected.
 
 ### Map Filter Data Mapping form
 
-Select the options in the table to create your map filter data mapping. This setup works with the [map data item example](configure-map-data-items.md).
+Select the options in the table to create your map filter data mapping. This setup works with the [map data item example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md).
 
 <table id="table_mpw_bmq_nkb"><thead><tr><th>
 
@@ -365,7 +365,7 @@ Select **Value**.
 </td></tr></tbody>
 </table>### What to do next
 
-Continue to the next task to [select your map filter](set-up-map-filters.md#), and complete the map filter setup.
+Continue to the next task to [select your map filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#), and complete the map filter setup.
 
 ## Select map filters
 
@@ -383,14 +383,14 @@ Role required: admin
 
 3.  Select the **Use advanced configuration** check box.
 
-4.  In the **Filter** field, click the search icon \(![Search icon](../image/QueryIcon.png)\) and select the map filter that you created.
+4.  In the **Filter** field, click the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/QueryIcon.png)\) and select the map filter that you created.
 
-5.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+5.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ### What to do next
 
-You've set up your map filter. Continue to the [next task](set-up-map-filters.md#) to see that you have successfully created it.
+You've set up your map filter. Continue to the [next task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#) to see that you have successfully created it.
 
 ## Check your map filter
 

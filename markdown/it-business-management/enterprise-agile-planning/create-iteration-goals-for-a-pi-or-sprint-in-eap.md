@@ -42,9 +42,9 @@ Role required: sn\_apw\_advanced.eap\_user
 
 The goal is created for the PI or sprint and is displayed in the **Goals** tab.
 
-![Iteration goals in EAP for a planning interval and sprint.](../images/eap-iteration-goals-list.png)
+![Iteration goals in EAP for a planning interval and sprint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-iteration-goals-list.png)
 
 ## What to do next
 
-You can add details to your goal or add sub-goals to it by updating its fields. For information on the form fields for a goal, see [Goal form](../../spw-goals/reference/goal-form-egm.md).
+You can add details to your goal or add sub-goals to it by updating its fields. For information on the form fields for a goal, see [Goal form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../spw-goals/reference/goal-form-egm.md).
 

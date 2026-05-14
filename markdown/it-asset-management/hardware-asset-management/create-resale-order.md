@@ -87,12 +87,12 @@ When an asset is sold, an expense line is generated for each resold asset. The A
 2.  Select the **Asset display name** link.
 3.  Select the **Expense Lines** tab.
 
-**Parent Topic:**[Create a disposal order](create-disposal-order.md)
+**Parent Topic:**[Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md)
 
 **Related topics**  
 
 
-[Create a disposal order](create-disposal-order.md)
+[Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md)
 
-[Perform bulk update of resale value for the assets](bulk-update-resale-value-asset-state.md)
+[Perform bulk update of resale value for the assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/bulk-update-resale-value-asset-state.md)
 

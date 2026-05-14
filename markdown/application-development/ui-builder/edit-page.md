@@ -31,11 +31,11 @@ Edit page settings to change the name, path, and type of your page. This is usef
 
 3.  Next to the page that you want to edit, select the More actions icon ![](../image/MoreActionsIcon.png) then **View settings**.
 
-    ![View settings selected within the More actions menu.](../image/edit-page-settings-link.png)
+    ![View settings selected within the More actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/edit-page-settings-link.png)
 
 4.  In the page settings window you can change the name, path, type, and parameters of your page.
 
-    ![Page settings screen with page parameters help text highlighted.](../image/edit-page-settings.png)
+    ![Page settings screen with page parameters help text highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/edit-page-settings.png)
 
 5.  Add required parameters to your page URL.
 
@@ -45,9 +45,9 @@ Edit page settings to change the name, path, and type of your page. This is usef
 
         A required parameter is a piece of data that your page requires, such as a sys\_id, table, or query. Required parameters are useful for components, because they can bind to the value of the required parameter.
 
-        ![Required parameters in page settings.](../image/required-parameter-settings.png)
+        ![Required parameters in page settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/required-parameter-settings.png)
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-pages.md).
 
 6.  Add optional pieces of data that you want to add to the URL of your page.
 
@@ -57,12 +57,12 @@ Edit page settings to change the name, path, and type of your page. This is usef
 
         Unlike required parameters, optional parameters are always name and value pairs that work no matter what order that they are provided in.
 
-        ![Optional parameters in page settings.](../image/optional-parameter-settings.png)
+        ![Optional parameters in page settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/optional-parameter-settings.png)
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-pages.md).
 
 7.  Click **Save**.
 
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-pages.md)
 

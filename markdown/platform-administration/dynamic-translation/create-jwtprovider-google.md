@@ -47,9 +47,9 @@ Role required: admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[Set up the Google Cloud Translator Service spoke](setup-google-translator.md)
+**Parent Topic:**[Set up the Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/setup-google-translator.md)
 
-**Previous topic:**[Create a JWT signing key for Google Cloud Translator Service spoke](create-jwtkey-google.md)
+**Previous topic:**[Create a JWT signing key for Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-jwtkey-google.md)
 
-**Next topic:**[Configure the credential for the GoogleTranslation alias](configure-credential-google.md)
+**Next topic:**[Configure the credential for the GoogleTranslation alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-credential-google.md)
 

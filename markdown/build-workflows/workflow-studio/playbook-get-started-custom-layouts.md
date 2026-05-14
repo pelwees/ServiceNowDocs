@@ -17,7 +17,7 @@ Use UI Builder pages and modular components for custom playbook layouts to custo
 
 ## Before you begin
 
--   If you don't have a playbook to apply custom layouts to, build a playbook. To learn more, see [Building Playbooks](../../process-automation-designer/concept/building-a-process.md).
+-   If you don't have a playbook to apply custom layouts to, build a playbook. To learn more, see [Building Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../process-automation-designer/concept/building-a-process.md).
 -   Install the latest version of the Playbook Experience and Playbook Experience Component apps from the ServiceNow Store. See [Playbook Experience apps](https://store.servicenow.com/sn_appstore_store.do#!/store/product/e4cecaf0db2be81079279ee4db9619f2).
 
 Role required: ui\_builder\_admin, admin
@@ -43,7 +43,7 @@ After creating a UI Builder page, you can customize Playbook Experience pages to
 
     **Note:** You can still create and add custom components when you use a template.
 
-    ![Select a playbook template.](../image/playbook-select-template.png)
+    ![Select a playbook template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-select-template.png)
 
 4.  If you're using a Playbook Experience template, **Create** your page.
 
@@ -157,7 +157,7 @@ Conditions that determine when the page variant is shown.
 
 5.  If you used the **Standard record** template or created your page from scratch, add the Playbook Custom Layout UI Controller to the page.
 
-    1.  From the bottom corner of your new page, select the data icon \(![Data icon.](../image/playbook-data-resource-icon.png)\)
+    1.  From the bottom corner of your new page, select the data icon \(![Data icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-data-resource-icon.png)\)
 
     2.  Select **+ Add**.
 
@@ -175,7 +175,7 @@ Conditions that determine when the page variant is shown.
 
     2.  Make sure the **sysID** test value is set to **-1**, and select **Apply**.
 
-        ![Test values for your playbook experience, with the table and sysID.](../image/playbook-sysID-update.png)
+        ![Test values for your playbook experience, with the table and sysID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-sysID-update.png)
 
         A record generator form is available when you open the preview. You should be able to test the record generator form and confirm that new records are created.
 
@@ -276,11 +276,11 @@ Optional context ID of selected activity for deep linking
 
     11. Select the preset for this component from the Playbook Custom Layout UI Controller, and click **Save** in the upper right corner.
 
-        ![Choose a preset for the component.](../image/playbook-stage-picker.png)
+        ![Choose a preset for the component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stage-picker.png)
 
         A confirmation message is displayed, and the component inputs and events under the **Events** tab in the stage picker panel is auto-populated.
 
-        ![Component configuration.](../image/playbook-stage-picker-confirm.png)
+        ![Component configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stage-picker-confirm.png)
 
     12. To add the **Playbook Activity Viewer**, find your **Resizable panes**component in the component tree, and select **+ Add component** under **right**.
 

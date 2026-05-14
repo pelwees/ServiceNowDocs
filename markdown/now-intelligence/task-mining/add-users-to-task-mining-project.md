@@ -39,7 +39,7 @@ All data requests to collect data for the workstation users for a project must b
 
     2.  Select **Remove**.
 
-    ![Screenshot showing the workstation users interface.](../image/tm-add-users.png)
+    ![Screenshot showing the workstation users interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-add-users.png)
 
 5.  Select **Add users**.
 
@@ -47,17 +47,17 @@ All data requests to collect data for the workstation users for a project must b
 
 7.  Select the workstation users that you want to add to this project, and select **Add selected users**.
 
-    ![Screenshot showing adding users to a Task Mining project.](../image/tm-select-users.png)
+    ![Screenshot showing adding users to a Task Mining project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-select-users.png)
 
 8.  Obtain permission to collect a workstation user's data if no data request has been approved for that user.
 
     **Note:**
 
-    If you want the request to be for a time period independent from a project, request workstation user data through an Employee Center data request. For more information, see [Requesting workstation user data](../concept/requesting-workstation-user-data.md).
+    If you want the request to be for a time period independent from a project, request workstation user data through an Employee Center data request. For more information, see [Requesting workstation user data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/requesting-workstation-user-data.md).
 
     1.  In the list of workstation users, select any user for whom the **Data request status** is **Required**.
 
-        If a workstation user's data request status is **Requested**, consider reviewing the request details and contacting the approver to urge action on the data request before the project is set to begin. For more information, see [Follow data request progress](manage-data-log-requests.md).
+        If a workstation user's data request status is **Requested**, consider reviewing the request details and contacting the approver to urge action on the data request before the project is set to begin. For more information, see [Follow data request progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/manage-data-log-requests.md).
 
     2.  Select **Request data**.
 
@@ -65,7 +65,7 @@ All data requests to collect data for the workstation users for a project must b
 
 10. Review the project summary before proceeding.
 
-    ![Screenshot showing the project summary page.](../image/tm-project-summary.png)
+    ![Screenshot showing the project summary page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-project-summary.png)
 
 
 ## Result
@@ -74,5 +74,5 @@ A data request is sent to all managers of every workstation user. Once a data re
 
 ## What to do next
 
-Generate an analysis of the project data. For more information, see [Generating a project data analysis](../concept/mining-a-task-mining-project.md).
+Generate an analysis of the project data. For more information, see [Generating a project data analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/mining-a-task-mining-project.md).
 

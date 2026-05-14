@@ -35,5 +35,5 @@ Role required: platform\_document\_management\_admin or admin
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-review-approval.md)
 

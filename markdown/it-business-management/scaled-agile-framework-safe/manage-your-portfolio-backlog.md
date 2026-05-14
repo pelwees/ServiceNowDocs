@@ -71,8 +71,8 @@ Point to an epic and drag it to the required position.
 
 1.  Press the **Tab** key.
 2.  After the desired epic is highlighted, press the **Tab** key.
-3.  After the ![Icon used to move the record](../../sdlc-scrum/image/draganddropicon.png) icon is highlighted, press the **Enter** key.
-4.  After the ![Icon used to move the record](../images/plansprintactivity.png) icon appears, use the up and down arrow keys.
+3.  After the ![Icon used to move the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/draganddropicon.png) icon is highlighted, press the **Enter** key.
+4.  After the ![Icon used to move the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/plansprintactivity.png) icon appears, use the up and down arrow keys.
 5.  To fix the position of the epic, press the **Enter** key.
 
 
@@ -84,12 +84,12 @@ Point to an epic and drag it to the required position.
 9.  To perform any action on a set of epics.
 
     -   Select the required epics.
-    -   Click ![Icon used to perform a single action on multiple features](../../sdlc-scrum/image/ellipsis.png) and select any of the following options:
+    -   Click ![Icon used to perform a single action on multiple features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/ellipsis.png) and select any of the following options:
     |Option|Description|
     |------|-----------|
     |**Move to top**|Epics are placed at the top of the backlog section.|
     |**Move to bottom**|Epics are placed at the bottom of the backlog section.|
 
 
-**Parent Topic:**[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+**Parent Topic:**[SAFe Board—Portfolio level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-tabs.md)
 

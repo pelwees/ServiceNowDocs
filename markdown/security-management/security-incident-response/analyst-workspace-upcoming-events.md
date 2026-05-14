@@ -33,10 +33,10 @@ Role required: sn\_si.analyst
 
     For example, if you click on the link, **More than 10 security incidents with breached SLA** then the list of breached SLA incidents are displayed in a new tab within the workspace.
 
-    ![security incidents that breached SLAs.](../image/breached-sla.png)
+    ![security incidents that breached SLAs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/breached-sla.png)
 
     **Note:** You can perform New, Assign, Export, and Delete operations from any list view.
 
 
-**Parent Topic:**[Upcoming section](upcoming-section.md)
+**Parent Topic:**[Upcoming section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/upcoming-section.md)
 

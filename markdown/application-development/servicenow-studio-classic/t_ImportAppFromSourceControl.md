@@ -19,18 +19,18 @@ Import an application or application-customization from a source control reposit
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 -   Role required: admin or source\_control
 
     -   Restrict permissions on the access token to allow read and write access to the Git repository.
     -   The repository user credentials must grant read and write access.
-    For more information, see [Link an application or application-customization to source control](t_LinkAnApplicationToSourceControl.md).
+    For more information, see [Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/t_LinkAnApplicationToSourceControl.md).
 
 -   Verify that the non-production instance has network access to the Git repository.
 -   Verify that the repository contains a valid application.
 -   Ensure that users add the email address to their respective Users Table \(ServiceNow sys\_user\) record that they use in their commits to the Git repository.
--   Learn more about application-customizations [Managing application-customizations](manage-customizations-store-apps.md).
+-   Learn more about application-customizations [Managing application-customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/manage-customizations-store-apps.md).
 
 ## About this task
 
@@ -50,7 +50,7 @@ The source control integration does not support importing an application on a pr
 
     Studio displays the Import from Source Control fields.
 
-    ![Switch Applications window showing Source Control fields](../image/ImportFromSourceControl.png)
+    ![Switch Applications window showing Source Control fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/ImportFromSourceControl.png)
 
 4.  Enter the following field values.
 
@@ -129,7 +129,7 @@ The committer email address is defined by the sys\_user record if available. But
 -   Review the upgrade logs for any sanitization applied to application files during the import.
 -   Select the imported application to edit it.
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_SourceControlIntegration.md)
 
 **Related topics**  
 

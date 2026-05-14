@@ -36,15 +36,15 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 
 ## What to do next
 
--   [Define an Agile Release Train](create-SAFeprogram.md)
--   [Define an epic in SAFe](create-SAFeepic.md)
+-   [Define an Agile Release Train](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogram.md)
+-   [Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 
-**Parent Topic:**[Portfolio SAFe](../concept/portfolio-overview.md)
+**Parent Topic:**[Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-overview.md)
 
 **Related topics**  
 
 
-[Components installed with Portfolio SAFe](../reference/installed-with-portfolioSAFe.md)
+[Components installed with Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/installed-with-portfolioSAFe.md)
 
-[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+[SAFe Board—Portfolio level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-tabs.md)
 

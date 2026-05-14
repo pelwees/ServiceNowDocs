@@ -27,24 +27,24 @@ The numbering that you define in this process creates VLAN and LAG number ranges
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Number Allocation** &gt; **Inventory Numbers**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Number Allocation** &gt; **Inventory Numbers**.
 
 3.  Select **New**.
 
 4.  On the **Details** tab, fill in the general information for inventory numbering.
 
-    To learn more about the fields that are unique to the Inventory Numbers form, see [Inventory Numbers form](../reference/inventory-numbers-form.md).
+    To learn more about the fields that are unique to the Inventory Numbers form, see [Inventory Numbers form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-numbers-form.md).
 
-5.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+5.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 6.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
 
 ## What to do next
 
-To update or delete an inventory number record, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
+To update or delete an inventory number record, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+**Parent Topic:**[Inventory number allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/vlan_or_lag_number_management.md)
 

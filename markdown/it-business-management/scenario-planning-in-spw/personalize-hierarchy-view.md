@@ -18,7 +18,7 @@ Personalize the Hierarchy tab view in the Planning page of Strategic Planning Wo
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -36,11 +36,11 @@ Personalization preferences are saved as the portfolio plan's settings in Strate
 
 3.  Personalize the timeline view and the columns on the grid view using the Personalize side panel.
 
-    1.  Select the Personalize icon \(![Personalize icon.](../../alignment-planner-workspace/images/icon-settings.png)\).
+    1.  Select the Personalize icon \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-settings.png)\).
 
         The personalize side panel opens.
 
-        ![Personalize settings in the Hierarchy view](../images/hierarchy.png)
+        ![Personalize settings in the Hierarchy view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/hierarchy.png)
 
     2.  From the Timeline section, toggle the display of item names and dependency lines.
 
@@ -57,5 +57,5 @@ Personalization preferences are saved as the portfolio plan's settings in Strate
 5.  Apply filters to the data shown in Prioritization.
 
 
-**Parent Topic:**[Personalizing views for prioritization](../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
+**Parent Topic:**[Personalizing views for prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 

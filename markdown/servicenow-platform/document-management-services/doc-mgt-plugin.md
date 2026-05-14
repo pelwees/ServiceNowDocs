@@ -28,5 +28,5 @@ The application contains four modules:
 -   Lists
 -   List Entries
 
-**Parent Topic:**[Exploring Document Management](explore-doc-management.md)
+**Parent Topic:**[Exploring Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/explore-doc-management.md)
 

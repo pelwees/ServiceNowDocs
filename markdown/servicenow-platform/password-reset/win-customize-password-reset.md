@@ -27,7 +27,7 @@ Role required: Windows system administrator
 
 3.  Modify any of the listed string values:
 
-    **Note:** Registry keys that begin with the text `"proxy"` enable use of a proxy server. See [Configure registry keys on your proxy server](win-proxy-registry-password-reset.md).
+    **Note:** Registry keys that begin with the text `"proxy"` enable use of a proxy server. See [Configure registry keys on your proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-registry-password-reset.md).
 
 <table id="table_iqw_xb5_2r"><thead><tr><th>
 
@@ -151,7 +151,7 @@ Keys that configure proxy settings
 
 </td><td>
 
-Registry keys that begin with the text `"proxy"` enable use of a proxy server. See [Configure registry keys on your proxy server](win-proxy-registry-password-reset.md).
+Registry keys that begin with the text `"proxy"` enable use of a proxy server. See [Configure registry keys on your proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-registry-password-reset.md).
 
 </td></tr><tr><td>
 
@@ -203,5 +203,5 @@ Directory that holds the library files.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/install-configure-password-reset-windows-app.md)
 

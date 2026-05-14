@@ -25,7 +25,7 @@ Role required: sn\_customerservice.contact\_manager and sn\_customerservice.prox
 
     The Outlook add-in panel opens in the right pane.
 
-3.  Click the more icon \(![More icon.](../image/more_icon.png)\).
+3.  Click the more icon \(![More icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/more_icon.png)\).
 
 4.  Select **Create Case** from the menu.
 

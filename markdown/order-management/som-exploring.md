@@ -19,7 +19,7 @@ The Sales CRM applications enable you to manage the product sales life cycle in 
 
 To support the product sales life cycle, Sales CRM provides the following features and applications.
 
-![Sales stages and end-to-end sales workflow using ServiceNow Sales CRM.](../image/explore-sales-crm.svg "Sales CRM high-level workflow")
+![Sales stages and end-to-end sales workflow using ServiceNow Sales CRM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/explore-sales-crm.svg "Sales CRM high-level workflow")
 
 ## Benefits
 
@@ -27,33 +27,33 @@ With the Sales CRM applications, your organization can improve sales and order p
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Create and manage leads for potential customers and product sales.|[Lead Management](lead-management.md)|Sales agent and account executive|
-|Create a series of automated and manual activities that can be set up to engage with leads and customers at every stage of their relationship with your business​ through various channels.|[Customer Engagement Sequences](explore-customer-engagement-sequences.md)|Sales agent, sales operations team, sequences admin|
-|Unify customer stakeholders across an account by representing all roles involved in a product‑family purchase and persisting before, during, and after an opportunity.|[Buying Group](explore-buying-group.md)|Sales agents, account executives, sales development representatives, sales managers|
-|Create pre-sales opportunities that identify and track potential sales based on customer needs.|[Opportunity Management](opportunity-management.md)|Sales agent and account executive|
-|Project your future sales volumes and revenue based on data from opportunities.|[Sales Forecasting](sales-forecasting.md)|Sales manager and sales representative|
-|Structure and optimize the sales efforts of your organization based on territories by dividing CRM entities, such as accounts, leads, opportunities, and consumers into manageable segments, promoting efficient coverage and accountability.|[Sales Territory Management​](explore-sales-territory-management.md)|Sales territory administrator and manager|
-|Streamline customer interactions by enabling teams to plan, execute, capture, and track engagement across channels and key touchpoints throughout the customer lifecycle.|[Activity Management](explore-activity-management.md)|Sales agents, account executives, sales development representatives, sales leadership|
+|Create and manage leads for potential customers and product sales.|[Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management.md)|Sales agent and account executive|
+|Create a series of automated and manual activities that can be set up to engage with leads and customers at every stage of their relationship with your business​ through various channels.|[Customer Engagement Sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)|Sales agent, sales operations team, sequences admin|
+|Unify customer stakeholders across an account by representing all roles involved in a product‑family purchase and persisting before, during, and after an opportunity.|[Buying Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-buying-group.md)|Sales agents, account executives, sales development representatives, sales managers|
+|Create pre-sales opportunities that identify and track potential sales based on customer needs.|[Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)|Sales agent and account executive|
+|Project your future sales volumes and revenue based on data from opportunities.|[Sales Forecasting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)|Sales manager and sales representative|
+|Structure and optimize the sales efforts of your organization based on territories by dividing CRM entities, such as accounts, leads, opportunities, and consumers into manageable segments, promoting efficient coverage and accountability.|[Sales Territory Management​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)|Sales territory administrator and manager|
+|Streamline customer interactions by enabling teams to plan, execute, capture, and track engagement across channels and key touchpoints throughout the customer lifecycle.|[Activity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)|Sales agents, account executives, sales development representatives, sales leadership|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Streamline the process of configuring and pricing customizable products that are added to Sales Customer Relationship Management transactions.|[CPQ Configurator](explore-servicenowcpq.md)|Sales and order agent, admin to set up|
-|Quickly configure and price opportunities, quotes, and orders for simple and complex product offers.|[Legacy product configurator](product-configurator.md)|Sales and order agent, admin to set up|
-|Set the pricing for your products through price lists, contextual price controls, and if needed, pricing from external systems.|[Pricing Management](pricing-management.md)|Pricing administrator or manager|
-|Create and manage sales quotes, which are formal offers for products or services that agents propose to customers.|[Quote Management](quote-management.md)|Sales agent|
-|Define workflows for approving Sales Customer Relationship Management entities, such as customer quotes, in your sales organization.|[Advanced Approval Management](explore-advanced-approval-for-sales.md)|Sales or business operation managers, members of sales, finance, and legal teams, sales representatives|
-|Create and manage contracts and entitlements from the initial offer to contract finalization.|[Customer Contracts and Entitlements](../../post-sales-support/concept/exploring-post-sales-support.md)|Agent|
-|Create and manage binding agreements between your sales organization and buyers, with specified items, quantities, prices, terms, and effective periods.|[Sales Agreement Management](sales-agreement-mgmt.md)|Sales and order agent|
+|Streamline the process of configuring and pricing customizable products that are added to Sales Customer Relationship Management transactions.|[CPQ Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-servicenowcpq.md)|Sales and order agent, admin to set up|
+|Quickly configure and price opportunities, quotes, and orders for simple and complex product offers.|[Legacy product configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product-configurator.md)|Sales and order agent, admin to set up|
+|Set the pricing for your products through price lists, contextual price controls, and if needed, pricing from external systems.|[Pricing Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/pricing-management.md)|Pricing administrator or manager|
+|Create and manage sales quotes, which are formal offers for products or services that agents propose to customers.|[Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management.md)|Sales agent|
+|Define workflows for approving Sales Customer Relationship Management entities, such as customer quotes, in your sales organization.|[Advanced Approval Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-advanced-approval-for-sales.md)|Sales or business operation managers, members of sales, finance, and legal teams, sales representatives|
+|Create and manage contracts and entitlements from the initial offer to contract finalization.|[Customer Contracts and Entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../post-sales-support/concept/exploring-post-sales-support.md)|Agent|
+|Create and manage binding agreements between your sales organization and buyers, with specified items, quantities, prices, terms, and effective periods.|[Sales Agreement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/sales-agreement-mgmt.md)|Sales and order agent|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Capture and fulfill product and service orders to create a seamless ordering experience for your customers.|[Order management](explore-order-management.md)|Order agent, fulfillment agent, agent manager, and fulfillment manager|
+|Capture and fulfill product and service orders to create a seamless ordering experience for your customers.|[Order management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)|Order agent, fulfillment agent, agent manager, and fulfillment manager|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
 |Create and manage cases for customer orders and invoices.|[Order Operations Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-order-ops.md)|Order case, invoice case, and customer service agent|
-|Empower sales teams by providing a consolidated view of all critical sales data and activities.|[Lead-to-Cash Process Management](explore-lead-cash-process-management.md)|Sales manager|
-|Manage return, replacement, or refund cases for installed products.|[Return Merchandise Authorization](return-merchandise-authorization.md)|Agent|
+|Empower sales teams by providing a consolidated view of all critical sales data and activities.|[Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)|Sales manager|
+|Manage return, replacement, or refund cases for installed products.|[Return Merchandise Authorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization.md)|Agent|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
@@ -61,22 +61,22 @@ With the Sales CRM applications, your organization can improve sales and order p
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Hire and engage channel partners to sell your products and services, helping you to grow and improve your business.|[Partner Relationship Management](partner-relationship-management.md)|Channel partners|
+|Hire and engage channel partners to sell your products and services, helping you to grow and improve your business.|[Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)|Channel partners|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Create and manage product catalogs for commercial and technical product offerings. Commercial catalogs can be used by your agents to create opportunities, quotes, and orders.|[Product Catalog Management](product-catalog-managment.md)|Product catalog administrator or manager|
-|Create the workflows for your organization and configure the metadata for your various Sales Customer Relationship Management entities.|[Lead to Cash Core](lead-to-cash.md)|Agent, admin to configure|
+|Create and manage product catalogs for commercial and technical product offerings. Commercial catalogs can be used by your agents to create opportunities, quotes, and orders.|[Product Catalog Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)|Product catalog administrator or manager|
+|Create the workflows for your organization and configure the metadata for your various Sales Customer Relationship Management entities.|[Lead to Cash Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)|Agent, admin to configure|
 
 |Benefits|Application or key feature|Persona|
 |--------|--------------------------|-------|
-|Support your business-to-business customers by enabling self-service capabilities through the Business Portal to create and manage orders, submit order issues, and requests.|[Customer self-service for Sales Customer Relationship Management](som-self-service-business-portal.md)|Customer, admin for set up|
+|Support your business-to-business customers by enabling self-service capabilities through the Business Portal to create and manage orders, submit order issues, and requests.|[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)|Customer, admin for set up|
 
 ## Related links
 
--   [Configuring Sales Customer Relationship Management applications](som-configuring.md)
--   [Using lead and opportunity management applications](using-lead-opportunity-mgt.md)
--   [Using Order Management](using-order-management.md)
+-   [Configuring Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-configuring.md)
+-   [Using lead and opportunity management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
+-   [Using Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 ## Request apps on the Store
 

@@ -23,7 +23,7 @@ Role required: sn\_wfo\_cfg\_itsm.employee
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Learning icon ![Learning icon](../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
+2.  Select the Learning icon ![Learning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
 
 3.  Select the **Discover** tab.
 
@@ -56,7 +56,7 @@ Enter a name or a description in the search field.**Note:** You can also narrow 
 
 </td><td>
 
-Select **Browse recommended learning**. The content is grouped into different categories. For more information, see [Recommendation grouping](../../configurable-workforce-optimization-itsm/reference/configurable-wfo-itsm-coaching-reference.md).
+Select **Browse recommended learning**. The content is grouped into different categories. For more information, see [Recommendation grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/reference/configurable-wfo-itsm-coaching-reference.md).
 
 </td></tr></tbody>
 </table>4.  Select a course or a path in which you'd like to enroll.
@@ -64,5 +64,5 @@ Select **Browse recommended learning**. The content is grouped into different ca
 5.  Select **Enroll**.
 
 
-**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](../concept/discovering-learning-sow-wfo-itsm.md)
+**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/discovering-learning-sow-wfo-itsm.md)
 

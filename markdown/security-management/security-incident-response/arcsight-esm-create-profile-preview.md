@@ -33,7 +33,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 3.  Review the field mapping of the correlation event values on the security incident.
 
-    ![ArcSight ESM: Create Profile: Preview](../image/sir-arcsight-esm-profile-preview.png)
+    ![ArcSight ESM: Create Profile: Preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-preview.png)
 
     The preceding image is an example of a preview with a mapping error. In this example, a field value from the correlation event does not have an acceptable value for the reference field on the SIR incident form. An error message is displayed that indicates an input value was not found for the `Category` field which is a reference field with a specific set of values. As a result, this mapped field value will not appear on the SIR security incident form without further modification.
 
@@ -45,7 +45,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
     The following figure is an example of the Incident Details tab on the bottom half of a security incident after all error messages are resolved. For this example, the Description and Work notes fields were mapped, and these fields are populated with the values from the value pairs pulled from the ArcSight ESM correlation event samples.
 
-    ![ArcSight ESM: Create Profile: preview incident](../image/sir-arcsight-esm-profile-preview1.png)
+    ![ArcSight ESM: Create Profile: preview incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-preview1.png)
 
 
 ## What to do next

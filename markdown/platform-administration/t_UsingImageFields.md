@@ -31,7 +31,7 @@ You can add a new image field.
 
 2.  Create a new field with the **Type** set to **Image**.
 
-    For instructions, see [Add and customize a field in a table](t_CreatingNewFields.md).
+    For instructions, see [Add and customize a field in a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md).
 
 3.  Add the new field to the form and save your customization.
 
@@ -44,10 +44,10 @@ You can add a new image field.
 
 ## Result
 
-![Picture displayed in image field](../image/PhotoField.png)
+![Picture displayed in image field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PhotoField.png)
 
 **Related topics**  
 
 
-[Configuring the form layout](../../form-administration/concept/configure-form-layout.md#)
+[Configuring the form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/concept/configure-form-layout.md#)
 

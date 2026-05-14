@@ -16,10 +16,10 @@ breadcrumb: [Conversational Integration with Google chat, Integrate VA with mess
 
 Integrate the Now Virtual Agent bot or self-configured bot with Google chat.
 
--   **[Integrate Virtual Agent with Google chat using the self-configured bot](../task/installing-ci-google-chat.md)**  
+-   **[Integrate Virtual Agent with Google chat using the self-configured bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/installing-ci-google-chat.md)**  
 Install the Google chat \(sn\_va\_google-chat\) application so that Now Virtual Agent and Google chat users can interact with each other.
--   **[Integrate Virtual Agent with Google chat](../task/integrating-va-google-chat.md)**  
+-   **[Integrate Virtual Agent with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/integrating-va-google-chat.md)**  
 Add either the Now Virtual Agent bot or self-configured bot to your ServiceNow instance to integrate with Google chat.
 
-**Parent Topic:**[Conversational Integration with Google chat](gchat-conv-integration.md)
+**Parent Topic:**[Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/gchat-conv-integration.md)
 

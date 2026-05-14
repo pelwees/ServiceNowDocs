@@ -26,7 +26,7 @@ Once the Console is deployed and you have registered the Sensor, you can create 
 -   Auto Query
 -   Quick Scan
 
-For more information about these Console features, see [Discovery Console for OT](ot-discovery-console-landing.md).
+For more information about these Console features, see [Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-landing.md).
 
 ## DMI pages
 
@@ -73,5 +73,5 @@ The following sections describe the pages available on the DMI.
 
 
 
-![DMI page](../images/dmi-sans-rabbitmq.png)
+![DMI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/dmi-sans-rabbitmq.png)
 

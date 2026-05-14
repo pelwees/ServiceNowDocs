@@ -33,7 +33,7 @@ Role required: You can delete any dashboard that you created. Users with the adm
 
 5.  Use the handle next to the action number to reorder the action.
 
-    ![Flow designer action with the reorder handle highlighted](../image/flow-designer-handle.png)
+    ![Flow designer action with the reorder handle highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/flow-designer-handle.png)
 
 6.  Test the flow with the actions that you added.
 
@@ -61,5 +61,5 @@ There are three possible outputs:
 
 For more information, see [Action error evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-error-evaluation.md).
 
-**Parent Topic:**[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
+**Parent Topic:**[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 

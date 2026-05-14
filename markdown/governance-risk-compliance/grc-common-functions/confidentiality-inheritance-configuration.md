@@ -29,9 +29,9 @@ Role required: sn\_grc.admin
 
 4.  On the form, fill in the fields.
 
-    The following example shows how to configure the confidentiality inheritance. For more information about the fields, see [Confidentiality Inheritance Configuration form](../reference/confidentiality-inheritance-configuration-record.md).
+    The following example shows how to configure the confidentiality inheritance. For more information about the fields, see [Confidentiality Inheritance Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/confidentiality-inheritance-configuration-record.md).
 
-    ![Confidentiality inheritance configuration.](../image/confidentiality-inheritance-configuration.png "Confidentiality inheritance configuration")
+    ![Confidentiality inheritance configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/confidentiality-inheritance-configuration.png "Confidentiality inheritance configuration")
 
 5.  Select **Submit**.
 

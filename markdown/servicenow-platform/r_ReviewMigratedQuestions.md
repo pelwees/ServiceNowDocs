@@ -54,14 +54,14 @@ If there are no **Order** values for the legacy survey question choices, the sys
 
 You may also need to change the **Scale definition** setting for other migrated questions. For details, see the scale definition recommendations for each survey question data type.
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)
+[Migrate a legacy survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_MigrateALegacySurvey.md)
 
-[Survey question migration](r_SurveyQuestionMigration.md)
+[Survey question migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionMigration.md)
 
-[Migrated components](r_MigratedComponents.md)
+[Migrated components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_MigratedComponents.md)
 

@@ -40,8 +40,8 @@ To interact with Decision Tables in script, use the [DecisionTableAPI - Scoped, 
     Answer records represent answers that are reached using different decision input values. Answers records can be records on any table, but you need to choose the table when creating your Decision Table record. You could, for example, use the sys\_choice table to use existing choice records. From the example about insurance coverage, you could create a table where each record contains details about the levels of insurance coverage.
 
 
--   **[Decision tables in the classic environment](decision-tables-classic-ui.md)**  
+-   **[Decision tables in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/decision-tables/decision-tables-classic-ui.md)**  
 In the classic environment, you can develop a table to use for your decision answer records. You then associate an answer record to each decision on your decision table. This answer record is returned when the decision is reached based on your inputs.
 
-**Parent Topic:**[Builder library](../../../build/custom-application/concept/builder-library-table.md)
+**Parent Topic:**[Builder library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/decision-tables/../../../build/custom-application/concept/builder-library-table.md)
 

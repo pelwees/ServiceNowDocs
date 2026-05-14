@@ -52,9 +52,9 @@ Languages used by users and the number of conversations in each language.This in
 </td></tr></tbody>
 </table>You must have the Chat Analytics Admin or Chat Analytics Viewer role to access the **Usage** tab.
 
-![Indicators displayed in the Usage tab: Conversation type, languages used, and topics sent via actionable notification.](../images/usage-tab-pae.png "Usage tab")
+![Indicators displayed in the Usage tab: Conversation type, languages used, and topics sent via actionable notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/usage-tab-pae.png "Usage tab")
 
 Click on the data points in the Conversation type and Languages indicators to drill down to the list of conversations based on the selected conversation type and language respectively.
 
-**Parent Topic:**[Using the Conversational Analytics Dashboard](use-the-dashboard-overview-pae.md)
+**Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 

@@ -72,7 +72,7 @@ Information for the search API to include in the web search. You can select valu
 -   **Number of results**: Total number of results acquired.
 -   **Search query**: Value to search for
 -   **Sites or domains**: Websites where you want to search.
-**Note:** If the agent uses multiple tools, you can choose to use another tool's output as an input value override. Select the data picker icon \(![Data picker icon.](../image/data-picker-icon.png)\) to review the available options.
+**Note:** If the agent uses multiple tools, you can choose to use another tool's output as an input value override. Select the data picker icon \(![Data picker icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/data-picker-icon.png)\) to review the available options.
 
 </td></tr><tr><td>
 

@@ -21,17 +21,17 @@ The DaaS provider view in the Hardware Asset Workspace is an intuitive interface
 -   Hardware Asset Workspace \(sn\_itam\_workspace\)
 -   Hardware Asset Management for Device as a Service \(com.sn\_daas\_ham\)
 
-For more information about the DaaS feature, see [Device as a Service](exploring-daas.md).
+For more information about the DaaS feature, see [Device as a Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exploring-daas.md).
 
 Use the DaaS provider view to perform the following:
 
 -   Act on discrepancies such as assets missing serial number, stockroom, or DaaS accounts.
 -   Select a DaaS account for which you want to view the records such as open or unassigned tasks, shipment status, and the number of assets that are eligible for refresh.
--   Create and manage [inbound asset orders](manage-inbound-orders.md), [RMA response orders](manage-rma-orders.md), and [repair order lines](../../hardware-asset-management/concept/requesting-hardware-asset-repair.md) for the DaaS assets of your customers.
+-   Create and manage [inbound asset orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-inbound-orders.md), [RMA response orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-rma-orders.md), and [repair order lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../hardware-asset-management/concept/requesting-hardware-asset-repair.md) for the DaaS assets of your customers.
 
 Select any widget or chart to view detailed information and take appropriate actions on the assets that are marked as DaaS assets or dedicated to accounts.
 
-![DaaS provider view in Hardware Asset Workspace.](../image/daas-workspace.jpg)
+![DaaS provider view in Hardware Asset Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/daas-workspace.jpg)
 
 <table id="table_yjs_p21_cbc"><thead><tr><th>
 
@@ -106,7 +106,7 @@ Inbound order tasks
 -   Ship
 -   Receive confirmation
 
-For more information, see [Managing inbound asset orders for DaaS assets](manage-inbound-orders.md).
+For more information, see [Managing inbound asset orders for DaaS assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-inbound-orders.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ RMA response tasks
 -   Repair asset
 -   Schedule refresh
 
-For more information, see [Managing RMA response orders for DaaS assets](manage-rma-orders.md).
+For more information, see [Managing RMA response orders for DaaS assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-rma-orders.md).
 
 </td></tr><tr><td>
 

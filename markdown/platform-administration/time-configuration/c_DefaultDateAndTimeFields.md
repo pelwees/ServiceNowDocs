@@ -28,8 +28,8 @@ These fields are automatically populated with the correct date and time, express
 
 The Planned Task plugin provides a table \(Planned Task \[planned task\]\) with standard fields for measuring a planned task's time. For more information, see Planned Task.
 
--   **[Task fields for measuring work time](c_TaskFieldsForMeasuringWorkTime.md)**  
+-   **[Task fields for measuring work time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TaskFieldsForMeasuringWorkTime.md)**  
 Use default task fields to measure progress and resolution for certain records.
 
-**Parent Topic:**[Date and Date/Time fields](../reference/r_UseDateAndTimeFields.md)
+**Parent Topic:**[Date and Date/Time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_UseDateAndTimeFields.md)
 

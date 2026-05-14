@@ -21,15 +21,15 @@ A target can be personal or global. A personal target is visible only to the use
 
 |Platform Analytics experience feature|Equivalent Core UI feature|Global or Personal targets|View or set|
 |-------------------------------------|--------------------------|--------------------------|-----------|
-|[KPI Details](../../par-for-workspace/concept/kpi-details.md)|[Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
-|[Time series](../../reporting/task/create-dv-time-series-ac.md) and [Single score](../../reporting/task/create-dv-sing-sc-ac.md) Platform Analytics data visualizations|[Time series Performance Analytics widgets](../reference/time-series-widgets.md)|Global|View only|
-|[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md) containing time series or single score data visualizations that show targets|[Responsive dashboards](../../dashboards/reference/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show targets|Global|View only|
-|[Proactive analytics insights cards](../../par-for-workspace/concept/proactive-analytics.md) on Platform Analytics dashboards, which show targets being met or breached|No equivalent|Global|View only|
+|[KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/kpi-details.md)|[Analytics Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
+|[Time series](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/task/create-dv-time-series-ac.md) and [Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/task/create-dv-sing-sc-ac.md) Platform Analytics data visualizations|[Time series Performance Analytics widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../reference/time-series-widgets.md)|Global|View only|
+|[Dashboards in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/analytics-center-dashboards.md) containing time series or single score data visualizations that show targets|[Responsive dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/reference/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show targets|Global|View only|
+|[Proactive analytics insights cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/proactive-analytics.md) on Platform Analytics dashboards, which show targets being met or breached|No equivalent|Global|View only|
 |UI Builder pages containing time series or single score data visualizations that show targets|No equivalent|Global|View only|
 
-![Analytics Hub showing global targets for an indicator](../image/target.png "Target open for editing")
+![Analytics Hub showing global targets for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/target.png "Target open for editing")
 
-**Parent Topic:**[Performance Analytics targets and thresholds](pa-targets-thresholds.md)
+**Parent Topic:**[Performance Analytics targets and thresholds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets-thresholds.md)
 
 ## Create or edit targets
 
@@ -44,9 +44,9 @@ Role required: pa\_target\_admin to create global targets that are visible to al
 1.  Either:
 
     -   Open the Analytics Hub for an indicator.
-    -   If you are working in the Platform Analytics experience, open KPI Details for an indicator. For more information, see [Create a target in KPI Details](../../par-for-workspace/task/create-kpi-details-targets.md).
+    -   If you are working in the Platform Analytics experience, open KPI Details for an indicator. For more information, see [Create a target in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/task/create-kpi-details-targets.md).
 
-        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [Add a target to multiple breakdown elements in KPI Details](../../par-for-workspace/task/add-multiple-targets.md).
+        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [Add a target to multiple breakdown elements in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/task/add-multiple-targets.md).
 
 2.  To limit the target to a subset of the scores, select a breakdown and a breakdown element.
 
@@ -54,7 +54,7 @@ Role required: pa\_target\_admin to create global targets that are visible to al
 
 3.  Select a time aggregation if the target should apply only to a specific time series, such as 7-day SUM.
 
-    For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).
+    For more information, see [Applying time series aggregations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/applying-time-series-aggregations.md#).
 
 4.  Click the Target icon \(![](../image/TargetIcon.png)\).
 
@@ -112,7 +112,7 @@ Baseline
 
 </td><td>
 
-Decide whether the improvement applies against the existing target or against the average value for the date range selected in the Analytics Hub. Another target must already exist to select **Existing Target**. For more information about the date range, see [Date ranges of scores in the Analytics Hub](scorecard-overview-tab.md#).
+Decide whether the improvement applies against the existing target or against the average value for the date range selected in the Analytics Hub. Another target must already exist to select **Existing Target**. For more information about the date range, see [Date ranges of scores in the Analytics Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/scorecard-overview-tab.md#).
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ This value is calculated from the baseline and the target calculation. You can a
 
 ### Creating, reviewing, and editing a target
 
-Here we are going to look at the more advanced target features. Let's say it's July 1 and your Number of Open Incidents varied regularly from late May until mid-June, with a gradual downward trend. Then it started going up and down wildly, but the overall trend is still downward.![Initial trend data on the indicator](../image/target-ex-initial-trend.png)
+Here we are going to look at the more advanced target features. Let's say it's July 1 and your Number of Open Incidents varied regularly from late May until mid-June, with a gradual downward trend. Then it started going up and down wildly, but the overall trend is still downward.![Initial trend data on the indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/target-ex-initial-trend.png)
 
 As an incident manager, you want the number of open incidents to go down. You are not sure from your scores on a good target to set. However, the numbers look reliable up to mid-June, so a 10% decrease in the average score up to that point seems reasonable. So you create a new global target for your team. You select a date range up to June 15, and you set a 10% decrease on the average for that period as your target. You decide to start the target today and evaluate it on July 15.
 
@@ -158,9 +158,9 @@ As an incident manager, you want the number of open incidents to go down. You ar
 |Target|Originally calculated as 202.5. Since the incident count can only be a whole number, you decide to round off this value to 203.|
 |Start/End date|July 1/July 15|
 
-![Animated gif of creating a target based on a 10% reduction of an average score over a date range](../image/target-ex-set-first.gif)
+![Animated gif of creating a target based on a 10% reduction of an average score over a date range](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/target-ex-set-first.gif)
 
-July 15 comes around, and your team has exceeded all expectations—Or your customers are all on holiday and not reporting incidents. In any case, the number of open incidents is far below your target.![Number of open incidents at time of target review](../image/target-ex-review.png)
+July 15 comes around, and your team has exceeded all expectations—Or your customers are all on holiday and not reporting incidents. In any case, the number of open incidents is far below your target.![Number of open incidents at time of target review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/target-ex-review.png)
 
 You now have several options:
 
@@ -169,14 +169,14 @@ You now have several options:
 
 ### What to do next
 
-Select which users receive notifications. Notifications are sent when a target is achieved or is expected to be achieved within 14 days. For more information, see [Configure which users receive a target notification](pa-targets.md#).
+Select which users receive notifications. Notifications are sent when a target is achieved or is expected to be achieved within 14 days. For more information, see [Configure which users receive a target notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets.md#).
 
-You can also nominate responsible users for targets in KPI Details. For more information, see [Responsibility for indicator targets](../../par-for-workspace/concept/responsibiity-targets-kpi-details.md#).
+You can also nominate responsible users for targets in KPI Details. For more information, see [Responsibility for indicator targets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/responsibiity-targets-kpi-details.md#).
 
 **Related topics**  
 
 
-[KPI Details](../../par-for-workspace/concept/kpi-details.md)
+[KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/kpi-details.md)
 
 ## Create a target color scheme
 
@@ -206,11 +206,11 @@ For example, if you want to filter the number of open incidents, the scores for 
 
     If you do not want to use all the ranges, you can use the same range color for multiple range limits.
 
-    You select colors from the Color Definitions \[sys\_report\_color\] table. For information about defining more colors, see [Define system colors for analytics](../../reporting/task/t_DefiningSystemColors.md).
+    You select colors from the Color Definitions \[sys\_report\_color\] table. For information about defining more colors, see [Define system colors for analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/task/t_DefiningSystemColors.md).
 
 5.  Click **Submit**.
 
-    A **Default indicator target color scheme** can be set in **Performance Analytics** &gt; **System** &gt; **Properties**. This is used when no color scheme has been selected for an indicator [target](performance-analytics-glossary.md#).
+    A **Default indicator target color scheme** can be set in **Performance Analytics** &gt; **System** &gt; **Properties**. This is used when no color scheme has been selected for an indicator [target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#).
 
 
 ## Add a target for all elements of a breakdown

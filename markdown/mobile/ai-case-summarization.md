@@ -20,5 +20,5 @@ This feature is only available with select BU plugins and is currently available
 
 This example shows a work order where Now Assist generated the closure notes about a printer replacement. Agents can edit or delete generated notes before submitting the resolution notes. For more information, see [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-![Banner explaining that the displayed closure notes were created with Now Assist.](../image/resolution-notes.png "Now Assist generated resolution notes")
+![Banner explaining that the displayed closure notes were created with Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/resolution-notes.png "Now Assist generated resolution notes")
 

@@ -27,7 +27,7 @@ Role required: admin
 
 4.  If the instance is not listed, select the **Update instance default settings** link.
 
-    In the Update instance management settings page, select ![configure icon.](../image/io-popular-configured-icon.png) that works as toggle on and off within the Instance Telemetry pages.
+    In the Update instance management settings page, select ![configure icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-popular-configured-icon.png) that works as toggle on and off within the Instance Telemetry pages.
 
     Instrumentation or telemetry data is available for production and sub-production instances. Caution must be exercised in interpreting the content of the sub-production data with the awareness of any active customizations or other development activities that might be happening.
 
@@ -43,17 +43,17 @@ Role required: admin
 
     Most of the charts display data broken down by age. Whereas, Schedulers chart breaks down the data by worker nodes.
 
-    To know more about each of the sections, see [Triaged instance data](../concept/io-triage.md).
+    To know more about each of the sections, see [Triaged instance data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-triage.md).
 
-    ![Instance Observer triage page.](../image/io-triage-phase-2.png)
+    ![Instance Observer triage page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-triage-phase-2.png)
 
 7.  Select **View Details** in the Transactions section that takes you to the Transactions page to view its exclusive details.
 
     The **Triaged Date** and **Node Status** information is available here as well. The Type column gives you the node type information in the transactions section.
 
-    ![View details in transactions section.](../image/io-transactions-view-det.png)
+    ![View details in transactions section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-transactions-view-det.png)
 
-    You can filter \(![hamburger icon.](../../../common/image/icon_menu3lines.png)\) the columns with conditions to view transactions that you want and sort \(![descending sorting icon.](../../../reuse/icons/product-icons/sort-descending-outline-24.svg)\) each of the columns in ascending or descending order.
+    You can filter \(![hamburger icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../common/image/icon_menu3lines.png)\) the columns with conditions to view transactions that you want and sort \(![descending sorting icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/sort-descending-outline-24.svg)\) each of the columns in ascending or descending order.
 
 8.  Select the Transaction number for a node to view the details.
 
@@ -68,8 +68,8 @@ Role required: admin
 12. Select **Download Triage File** to view all the sections of triaged details, downloaded in an excel format.
 
 
--   **[Triaged instance data](../concept/io-triage.md)**  
+-   **[Triaged instance data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-triage.md)**  
 You can triage your instance to get instant information on transactions, jobs, nodes utilization, semaphores, schedulers and update sets. Minimal use of this feature is recommended as use of this consumes resources on your instance.
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](../concept/io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-overview.md)
 

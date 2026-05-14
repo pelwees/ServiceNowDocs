@@ -248,5 +248,5 @@ Comma-separated list of tab widget parameters. This field appears only when **Cu
 </table>6.  On the Ticket Configuration form, click **Update**.
 
 
-**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](../concept/ur-hr-standard-ticket-page.md)
+**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/ur-hr-standard-ticket-page.md)
 

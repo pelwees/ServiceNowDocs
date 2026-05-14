@@ -39,7 +39,7 @@ Metrics are displayed only for alerts containing a CI.
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select **Lists** &gt; **Alerts** &gt; **All Alerts**.
 
@@ -53,7 +53,7 @@ Metrics are displayed only for alerts containing a CI.
 
 6.  Select the **Metric explorer** button.
 
-    The **Metric explorer** interface opens. ![Metric explorer interface.](../image/metric-explorer.png)
+    The **Metric explorer** interface opens. ![Metric explorer interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/metric-explorer.png)
 
     **Note:** You can also access the **Metrics** subtab and **Metric Explorer** button when selecting a CI.
 
@@ -71,7 +71,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Metrics on the current CI icon.](../image/metrics-on-this-ci-icon.png)
+![Metrics on the current CI icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/metrics-on-this-ci-icon.png)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Displays metrics on the current CI.
 
 </td></tr><tr><td>
 
-![Metrics on other CIs from the same host icon.](../image/metrics-other-ci-icon.png)
+![Metrics on other CIs from the same host icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/metrics-other-ci-icon.png)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Displays metrics on other CIs on the same host.
 
 </td></tr><tr><td>
 
-![Metrics from impacted services icon.](../image/metrics-impacted-services-icon.png)
+![Metrics from impacted services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/metrics-impacted-services-icon.png)
 
 </td><td>
 
@@ -98,10 +98,10 @@ Displays metrics on entry points that relate to the service that the CI is impac
 
 9.  Label alerts on the Custom chart by turning on the **Show alerts on CI** option.
 
-    An alert icon \(![Alert icon](../../event-management/image/alert-icon.png)\) appears at the top of the graph at the point where the alert occurred.
+    An alert icon \(![Alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/alert-icon.png)\) appears at the top of the graph at the point where the alert occurred.
 
-    ![Alert indicator on graph](../image/alert-on-CI.png)
+    ![Alert indicator on graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alert-on-CI.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

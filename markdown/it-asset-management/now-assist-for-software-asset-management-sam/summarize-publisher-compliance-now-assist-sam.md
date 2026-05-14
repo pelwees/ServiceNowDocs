@@ -39,7 +39,7 @@ Now Assist for SAM generates the publisher summaries by using reconciliation res
 
     After it's generated, the publisher summary is not automatically saved. If you close the **Publisher details** tab where you generated the summary, or if you reload the page, the publisher summary is not available. To regenerate the summary, select **Summarize**.
 
-    ![Microsoft compliance summary.](../image/now-assist-summarization.png)
+    ![Microsoft compliance summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-summarization.png)
 
 5.  You can perform the following actions on the generated summary.
 
@@ -73,9 +73,9 @@ Regenerates the publisher summary.
 
 </td><td>
 
-If you found that the summary was helpful, select the helpful icon ![Helpful icon](../image/icon-helpful.png). If you found that the summary wasn't helpful, select the not helpful icon ![Not helpful icon](../image/icon-not-helpful.png).This feedback improves the generative AI model and can help to improve future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you found that the summary was helpful, select the helpful icon ![Helpful icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/icon-helpful.png). If you found that the summary wasn't helpful, select the not helpful icon ![Not helpful icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/icon-not-helpful.png).This feedback improves the generative AI model and can help to improve future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../concept/using-now-assist-sam.md)
 

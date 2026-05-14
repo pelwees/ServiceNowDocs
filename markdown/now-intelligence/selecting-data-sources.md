@@ -19,16 +19,16 @@ The data source is one of the first two things you select for a data visualizati
 
 **Warning:** If you select data sources and then change the visualization type to one that does not support those data sources, the unsupported sources are cleared. If you later switch back to a visualization type that supports the original selection, you do not restore your original selection. You then have to reselect sources manually.
 
--   **[Select a table data source for a data visualization](../task/select-table-data-source.md)**  
+-   **[Select a table data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-table-data-source.md)**  
 Select a table whose records you want to display. Filter by predefined or custom conditions. Preview a list of records.
--   **[Select an indicator data source for a data visualization](../task/select-indicator-data-source.md)**  
+-   **[Select an indicator data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-indicator-data-source.md)**  
 Select a Performance Analytics indicator \(KPI\) to display in your data visualization. You can filter the indicator scores by breakdowns.
--   **[Select a Workflow Data Fabric data source for a data visualization](../task/select-wdf-data-source.md)**  
+-   **[Select a Workflow Data Fabric data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-wdf-data-source.md)**  
 Select Performance Analytics Workflow Data Fabric \(WDF\) values to display in your data visualization. You can filter the indicator scores by breakdowns.
--   **[Usage Insights data sources for data visualizations](uxa-data-sources.md)**  
+-   **[Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/uxa-data-sources.md)**  
 You can show metrics related to Usage Insights in a data visualization component. The available metrics depend on the visualization type.
--   **[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)**  
+-   **[Multiple data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/multiple-data-sources.md#)**  
 Some visualization types support multiple data sources, while others do not. If your data visualization supports multiple data sources, the data sources must all be of the same type: all tables, all indicators, or all another type.
 
-**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 

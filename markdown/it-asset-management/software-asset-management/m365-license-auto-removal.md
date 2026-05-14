@@ -59,7 +59,7 @@ Software Asset Management removes the Microsoft 365 licenses from the Microsoft 
 **Related topics**  
 
 
-[Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md)
+[Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/o365-usage-activity.md)
 
-[Optimization and savings dashboard in workspace](../reference/optimization-dashboard-workspace.md)
+[Optimization and savings dashboard in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/optimization-dashboard-workspace.md)
 

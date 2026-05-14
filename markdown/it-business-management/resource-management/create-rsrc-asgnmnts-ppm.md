@@ -17,8 +17,8 @@ Create resource assignments to request a portion of team or resource capacity fo
 
 ## Before you begin
 
--   [Migrate resource plans and cost plans for projects and demands](migrate-rsrc-plan-rsrc-asgnmnt.md)
--   Set the resource planning property to true to create work with only resource assignments. For more information, see [Enable attribute-based resource assignments](enable-resource-assignments.md).
+-   [Migrate resource plans and cost plans for projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md)
+-   Set the resource planning property to true to create work with only resource assignments. For more information, see [Enable attribute-based resource assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/enable-resource-assignments.md).
 -   Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
 ## Procedure
@@ -31,12 +31,12 @@ Create resource assignments to request a portion of team or resource capacity fo
 
 3.  On the Resource assignment form, fill the fields.
 
-    For a description of the field names, see [Resource assignment form](../reference/resource-assignment-form.md).
+    For a description of the field names, see [Resource assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/resource-assignment-form.md).
 
 4.  Select **Submit**.
 
     **Tip:** You can edit the child resource assignments from the list view.
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/rsrc-plans-rsrc-asgmnts.md)
 

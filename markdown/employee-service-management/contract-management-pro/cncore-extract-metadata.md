@@ -17,13 +17,13 @@ Use generative AI capabilities to extract metadata from a signed contract attach
 
 ## Before you begin
 
-Ensure that Now Assist has data access or your role. For more information, see [Configure data permissions for Now Assist skills](cmpro-conf-roles-skills.md).
+Ensure that Now Assist has data access or your role. For more information, see [Configure data permissions for Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-roles-skills.md).
 
 Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 
 ## About this task
 
-You can also configure the system properties to automatically initiate the metadata extraction process once the contract repository record is created. For more information, see [Configure system properties for contract metadata extraction](cncore-conf-sys-prop-na.md).
+You can also configure the system properties to automatically initiate the metadata extraction process once the contract repository record is created. For more information, see [Configure system properties for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-sys-prop-na.md).
 
 **Note:** Contract metadata extraction using generative AI capabilities is not available when the Manage contract repository agentic workflow is enabled.
 
@@ -46,7 +46,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon.](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Executed contracts**.
 4.  Select **All**.
 5.  Select the contract repository record.
@@ -74,7 +74,7 @@ Steps
 
 ## What to do next
 
-[Work with extracted metadata](cncore-review-metatdata.md)
+[Work with extracted metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-review-metatdata.md)
 
-**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](../concept/cncore-metadata-extract-land.md)
+**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-metadata-extract-land.md)
 

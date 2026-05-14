@@ -31,7 +31,7 @@ The data type that you select for each question determines how it can be answere
 
 3.  On the Properties form, fill in the fields.
 
-    For a description of the field values, see [Properties form](../reference/properties-form-survey-designer.md).
+    For a description of the field values, see [Properties form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/properties-form-survey-designer.md).
 
 4.  To create any special conditions that must be met before the question appears on the survey, click the Dependency tab.
 
@@ -58,26 +58,26 @@ The data type that you select for each question determines how it can be answere
 10. To delete a question, click the **X** icon in its title bar.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesignerElements.md)
 
-[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyCategory.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](create-custom-templates-questions.md)
+[Create custom metric type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigCatWeightsForSurvey.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
-[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyDesignerTemplateQ.md)
 

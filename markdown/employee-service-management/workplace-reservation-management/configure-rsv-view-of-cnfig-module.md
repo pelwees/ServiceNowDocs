@@ -42,7 +42,7 @@ Role required: admin
 
     2.  Move the selection to the **Reservable Views List** column on the right.
 
-        To move the time slot, use the add/remove icon \(![Add remove reservable views icon](../image/add-remove-icon.png)\).
+        To move the time slot, use the add/remove icon \(![Add remove reservable views icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)\).
 
     3.  Click **Save**.
 
@@ -52,7 +52,7 @@ Role required: admin
 
 8.  To specify an order in which the reservable views must be displayed on the portal, do the following:
 
-    1.  Select the Preview icon \(![preview icon](../image/info-icon.png)\).
+    1.  Select the Preview icon \(![preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/info-icon.png)\).
 
     2.  Click **Open Record**.
 
@@ -67,5 +67,5 @@ Role required: admin
 
 The reservable view is added to the module. The workplace items of the module can be viewed in the selected view.
 
-**Parent Topic:**[Create a reservable view](create-a-reservable-view.md)
+**Parent Topic:**[Create a reservable view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-reservable-view.md)
 

@@ -34,19 +34,19 @@ Example: Imagine you need to reset your password. Multiple AI agents might be 
 
 ## Agentic AI framework
 
--   **[AI Agent Studio](ai-agent-studio.md)**
+-   **[AI Agent Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)**
 
     The AI Agent Studio enables you to create, manage, and test AI agents and agentic workflows in a unified environment.
 
--   **[agentic system](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[agentic system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)**
 
     The ServiceNow AI Platform's agentic system uses AI agents, orchestrated by an Orchestrator, to execute Agentic workflows.
 
--   **[AI agents](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)**
 
     On the ServiceNow AI Platform agentic system, an AI agent contains a set of large language model \(LLM\) instructions with the tools to accomplish tasks.
 
--   **[agentic workflow](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)**
 
     Agentic workflows are smart, context-aware, automated processes designed and executed by AI agents. They represent dynamic, human-like processes where specialized AI agents collaborate to accomplish complex goals. Here are a few key characteristics of Agentic workflows:
 
@@ -54,17 +54,17 @@ Example: Imagine you need to reset your password. Multiple AI agents might be 
     -   **Adaptive**: Adjust to changing situations and business needs.
     -   **Collaborative**: Work together to complete complex tasks.
     -   **Intelligent**: Use large language models and business data to make informed decisions.
--   **[Orchestrator](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[Orchestrator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)**
 
     The AI agent Orchestrator is a central management system that coordinates AI agents to ensure they collaborate effectively to complete complex workflows.
 
-    For more information, see [Understand the Now Assist AI agents](understand-na-aia.md).
+    For more information, see [Understand the Now Assist AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/understand-na-aia.md).
 
 -   **Guided Setup**
 
     The guided setup process in the helps you configure your AI Agent triggers, data sources, and display locations based on your specific business needs.
 
--   **[Now Assist panel](../../now-assist-platform/concept/now-assist-glossary.md#)**
+-   **[Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)**
 
     The Now Assist panel is a user-facing interface, commonly accessed through the context menu or chat interfaces. It provides quick access to agents' capabilities and enhances productivity by summarizing records, creating content, and analyzing alerts.
 
@@ -86,9 +86,9 @@ Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview** &gt; **Get an ove
 
 ## AI agents configuration and execution
 
-![Workflow describing the configuration of Now Assist AI agents and how they work to execute an agentic workflow.](../image/now-assist-ai-agents-workflow.png)
+![Workflow describing the configuration of Now Assist AI agents and how they work to execute an agentic workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-ai-agents-workflow.png)
 
 Now Assist AI agents have two components: AI agents and agentic workflows. By using Guided Setup in AI Agent Studio, you create AI agents and workflows, add tools or define triggers, and define the availability or display location. After they're created, you can duplicate, modify, and test them in AI Agent Studio.
 
-In run time, triggers in the primary and secondary interfaces cause agentic workflow execution, where one or more AI agents execute the plan with the help of the AI agent Orchestrator to accomplish the task. After agentic workflow execution, the output appears in the Now Assist panel. To learn more about an AI agent Orchestrator is, see the [Understand the Now Assist AI agents](understand-na-aia.md).
+In run time, triggers in the primary and secondary interfaces cause agentic workflow execution, where one or more AI agents execute the plan with the help of the AI agent Orchestrator to accomplish the task. After agentic workflow execution, the output appears in the Now Assist panel. To learn more about an AI agent Orchestrator is, see the [Understand the Now Assist AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/understand-na-aia.md).
 

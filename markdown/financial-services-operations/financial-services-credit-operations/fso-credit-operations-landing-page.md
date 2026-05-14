@@ -23,11 +23,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Reference Get details about components such as fields, tables, and properties.](../../fso-common/reference/installed-with-credit-assessment.md)
+[Reference Get details about components such as fields, tables, and properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/../../fso-common/reference/installed-with-credit-assessment.md)
 
 </td><td>
 
-[Use cases Learn how to work on a credit task for a loan service case.](../../fso-loan-operations/task/work-credit-task.md)
+[Use cases Learn how to work on a credit task for a loan service case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/../../fso-loan-operations/task/work-credit-task.md)
 
 </td></tr></tbody>
 </table>

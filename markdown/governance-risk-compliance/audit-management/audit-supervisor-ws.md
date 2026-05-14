@@ -36,11 +36,11 @@ Audit workspace provides a personalized experience for audit supervisors to mana
     Provides a summary of the logged in user's tasks and the group's tasks.
 
 
-![Workspace for audit supervisor.](../image/audit-supervisor-ws.png "Workspace for audit supervisor")
+![Workspace for audit supervisor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/audit-supervisor-ws.png "Workspace for audit supervisor")
 
 The audit supervisor workspace also provides quick links to create new records.
 
-![Links to create records for audit supervisor.](../image/audit-supervisor-ws-tasks.png "Links to create records for audit supervisor")
+![Links to create records for audit supervisor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/audit-supervisor-ws-tasks.png "Links to create records for audit supervisor")
 
 The responsibilities of audit supervisors include overseeing the process of audits, making recommendations on policies, and ensuring that the organization fulfills international and governmental obligations of compliance.
 

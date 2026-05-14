@@ -50,5 +50,5 @@ When the generative AI experience is configured for catalog item request submiss
     -   Configure the required conditions for the Virtual Agent Skills.
     -   HR Service Delivery Virtual Agent will be replaced with the Gen AI Virtual Agent.
 
-**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
+**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 

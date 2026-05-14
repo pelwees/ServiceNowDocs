@@ -152,7 +152,7 @@ The Kafka Producer Statistics \[sys\_kafka\_producer\_statistics\] table capture
 
 You can also view the statistics for a specific producer by selecting the producer's record from the table.
 
-![A producer record showing producer statistics at the bottom.](../images/kafka-producer-statistics.png "Sample producer record with statistics")
+![A producer record showing producer statistics at the bottom.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/kafka-producer-statistics.png "Sample producer record with statistics")
 
-**Parent Topic:**[Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md)
+**Parent Topic:**[Using Stream Connect for Apache Kafka](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/stream-connect-apache-kafka.md)
 

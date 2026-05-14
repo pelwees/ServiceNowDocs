@@ -15,14 +15,14 @@ breadcrumb: [Patient Portal widget library, Reference, Healthcare and Life Scien
 
 The Faq widget displays a list of frequently asked questions \(FAQ\) articles for a patient.
 
-![Infographic displays the FAQ widget with various questions and descriptions listed.](../image/hcls-widget-faq.png "Faq widget")
+![Infographic displays the FAQ widget with various questions and descriptions listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-faq.png "Faq widget")
 
 ## Key features
 
 -   Displayed for both logged-in and non-logged-in users.
 -   By default, shows maximum of five FAQ articles from the Healthcare and Life Sciences knowledge base.
 
-![Screenshot displaying theFaq widget instance options. For the text description, refer to the Faq widget instance options fields section.](../image/hcls-widget-io-faq.png "Faq widget instance options")
+![Screenshot displaying theFaq widget instance options. For the text description, refer to the Faq widget instance options fields section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-io-faq.png "Faq widget instance options")
 
 <table id="table_vy1_hy2_yrb"><thead><tr><th>
 
@@ -65,5 +65,5 @@ Number of articles to display per page
 Maximum number of articles that appear on the widget. The default value is **3**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Patient Portal widget library](hcls-pat-widget-library.md)
+</table>**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 

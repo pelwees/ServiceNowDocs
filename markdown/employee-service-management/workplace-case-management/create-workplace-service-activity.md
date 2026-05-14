@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 Ensure that you have the following details:
 
 -   Task templates and Case templates to link to a workplace service activity.
--   A workplace service with fulfillment type selected as **Service activity**. For more information, see [Create a Workplace service](create-workplace-service.md).
+-   A workplace service with fulfillment type selected as **Service activity**. For more information, see [Create a Workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
 
 ## About this task
 
@@ -63,7 +63,7 @@ Activity type
 Select the type of service activity that you want to create:-   **Approval**: Creates an approval activity.
 -   **Task**: Creates a task activity.
 -   **Child case**: Creates a child workplace case.
--   **Execute service item**: Executes the tasks or cases created for workplace service items ordered by an employee along with the workplace service. For more information, see [Add a workplace service item to a workplace service](add-workplace-service-items.md).
+-   **Execute service item**: Executes the tasks or cases created for workplace service items ordered by an employee along with the workplace service. For more information, see [Add a workplace service item to a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-workplace-service-items.md).
 -   **Automated task**: Creates an automated task that will be closed without any manual intervention.
 
 
@@ -121,7 +121,7 @@ Workplace case service
 
 </td><td>
 
-This field appears if you select the **Activity type** as **Child case**. Select the search and select the workplace service you want to set as a child case. To add a workplace service, see [Create a Workplace service](create-workplace-service.md).
+This field appears if you select the **Activity type** as **Child case**. Select the search and select the workplace service you want to set as a child case. To add a workplace service, see [Create a Workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
 
 </td></tr><tr><td>
 

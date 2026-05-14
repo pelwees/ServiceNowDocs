@@ -24,19 +24,19 @@ The Advance AI and Data Products and services do not and are not intended to con
 
 <table id="table_rzz_55j_qcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about generative AI skills and agentic workflows available in Now Assist in Contract Management](cncore-exp-now-assist-land.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about generative AI skills and agentic workflows available in Now Assist in Contract Management](cncore-exp-now-assist-land.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and configure Now Assist in Contract Management](../task/confg-na-in-cmpro.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use generative AI capabilities and agentic workflows offered by Now Assist in Contract Management](cncore-use-now-assist-land.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use generative AI capabilities and agentic workflows offered by Now Assist in Contract Management](cncore-use-now-assist-land.md)
 
 </td><td>
 
-[Use agentic workflows![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflows in Now Assist in Contract Management](cmpro-agentic-workflows.md)
+[Use agentic workflows![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflows in Now Assist in Contract Management](cmpro-agentic-workflows.md)
 
 </td></tr></tbody>
 </table>**Important:**

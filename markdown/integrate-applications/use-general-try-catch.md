@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties for the Try Catch component, see [Properties of the Try Catch component](../reference/Properties-general-components.md#Try-Catch-component).
+To configure the properties for the Try Catch component, see [Properties of the Try Catch component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md#Try-Catch-component).
 
 For details on the issues related to the Try Catch component, see [KB article KB1123551](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123551), [KB article KB1123552](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123552), and [KB article KB1123556](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123556).
 
@@ -165,7 +165,7 @@ No. Connecting the port is optional.
 
 An automation uses a **Try Catch** component when reading data from Excel. If the ReadFromExcel component fails because the file path is empty, the **Try Catch** component captures the error and displays the error message using a MessageBox. The **Finally** path then runs and displays the current date and time before the automation ends.
 
-![Example of exception handling in the Try Catch block.](../image/Trycatch_2.PNG)
+![Example of exception handling in the Try Catch block.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/Trycatch_2.PNG)
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

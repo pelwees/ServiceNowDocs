@@ -92,7 +92,7 @@ Credential Type
 Types of credentials stored for this provider.
 
 </td></tr></tbody>
-</table>    ![Ansible tower](../image/workload-config-provider-example.png "Example Ansible Tower workload provider type")
+</table>    ![Ansible tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/workload-config-provider-example.png "Example Ansible Tower workload provider type")
 
 4.  Add properties for the workload type in the **Workload Provider Properties** section.
 

@@ -47,8 +47,8 @@ The status of the chemical request changes to Approved or Rejected based on the 
 To view the state of the request as a chemical manager on the Health and Safety Workspace,
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
-2.  In the primary navigation, select **Environmental Management** \(![environmental management](../image/icon-hs-envt-mgmt.png)\) icon.
+2.  In the primary navigation, select **Environmental Management** \(![environmental management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/icon-hs-envt-mgmt.png)\) icon.
 3.  In the **Chemical requests** list, select the **Approved** section.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-using-chemical-management.md)
 

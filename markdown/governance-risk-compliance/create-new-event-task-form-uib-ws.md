@@ -86,9 +86,9 @@ Active phase to be associated with the event task. You can associate these phase
 
 You can use the **Group by Phase** option in the Phases column to organize event tasks by a specific phase and its order, making it easier to filter and manage related tasks.
 
-![Phase order.](../image/event-task-phase-order.png)When you order the event tasks by the phase order, you can view the event tasks in a sequence in which they are executed.
+![Phase order.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-phase-order.png)When you order the event tasks by the phase order, you can view the event tasks in a sequence in which they are executed.
 
-![Sequence.](../image/event-task-phase-order-sequence.png)
+![Sequence.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-phase-order-sequence.png)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Dependencies for the tasks. For tasks copied from the plan level, dependencies a
 
 Beginning with the Australia release, you can now manually add a dependency for the event task or select an event task from the list in the **Dependencies** field. Only applicable event tasks are shown in this field.
 
-![Dependency.](../image/event-task-dependency-field.png)
+![Dependency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-dependency-field.png)
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Option to enable clearer visual indicators for different levels of recovery prog
 
  For example, if a recovery process involves three steps, you can consider an asset recovered after completing step two, and defer step three to a later time. This provides greater flexibility in managing your recovery processes.
 
- For more information on enhanced event asset management, see [Event assets](../concept/event-assets.md).
+ For more information on enhanced event asset management, see [Event assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/event-assets.md).
 
 </td></tr><tr><td>
 
@@ -239,5 +239,5 @@ Original task
 Original task assigned by the system. When an event starts, the system identifies the first executed event task as the original task. Other similar tasks are modified as duplicate tasks in the group. When a task gets added into the similar tasks group, the system marks it in the **On hold** state. Tasks with dependencies can be managed such that only one task with dependencies is added to the group, and once dependencies are resolved, duplicate tasks are closed when the original task is completed. You cannot edit the **Original task** field at any time. It is auto-assigned only after the event task starts executing.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitor event tasks and create ad-hoc tasks](../task/add-an-event-task-to-exercise-event.md)
+</table>**Parent Topic:**[Monitor event tasks and create ad-hoc tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/add-an-event-task-to-exercise-event.md)
 

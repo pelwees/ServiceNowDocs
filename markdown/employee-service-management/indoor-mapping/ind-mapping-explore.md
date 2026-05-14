@@ -24,15 +24,15 @@ Indoor Mapping provides capabilities within the Map Studio to digitalize workpla
 1.  Get real-time insights on space utilization within a building for meeting rooms, venue, and workspaces using Reservation Management.
 2.  Fulfill service requests quickly with Workplace Service Delivery case management. View space details and use indoor maps to locate a campus, building, or floor interiors.
 3.  Use Workplace Service Delivery move management to request and move a desk from one location to another. Ensure that the workspace is mapped to Indoor Mapping map data.
-4.  Provide interactive locations and wayfinding solutions by providing the start and destination points on indoor maps. For more information, see [Work with Location Directory for Now Mobile app](../../wsd-for-mobile/task/view-location-directory-mobile.md) and [Work with the Map view on the Location Directory](../../workplace-service-delivery/task/wsd-map-view-loc-directiory.md).
+4.  Provide interactive locations and wayfinding solutions by providing the start and destination points on indoor maps. For more information, see [Work with Location Directory for Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../wsd-for-mobile/task/view-location-directory-mobile.md) and [Work with the Map view on the Location Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../workplace-service-delivery/task/wsd-map-view-loc-directiory.md).
 
-Indoor maps can be created by importing and converting existing architectural or engineering floor plan to create indoor maps. Indoor Mapping supports AutoCAD files \(DWG and DXF\) and raster sources \(PNG\) files. For more information, see [Import CAD files to Map Studio](../task/CAD-file-import.md) and [Import Raster files](../task/import-raster-files.md).
+Indoor maps can be created by importing and converting existing architectural or engineering floor plan to create indoor maps. Indoor Mapping supports AutoCAD files \(DWG and DXF\) and raster sources \(PNG\) files. For more information, see [Import CAD files to Map Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/CAD-file-import.md) and [Import Raster files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/import-raster-files.md).
 
-Customize and manage maps with Indoor Mapping Map Studio. Collaborate in real time and update map data and objects. For more information, see [Manage map objects and data](using-indoor-mapping.md).
+Customize and manage maps with Indoor Mapping Map Studio. Collaborate in real time and update map data and objects. For more information, see [Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/using-indoor-mapping.md).
 
-![Diagram showing the Indoor Mapping Map Studio Interface](../images/Indoor-Infographics-01.png "Indoor Mapping Map Studio")
+![Diagram showing the Indoor Mapping Map Studio Interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/Indoor-Infographics-01.png "Indoor Mapping Map Studio")
 
-![Indoor Mapping Map Studio](../images/Indoor-Infographics-02.png)
+![Indoor Mapping Map Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/Indoor-Infographics-02.png)
 
-**Parent Topic:**[Indoor Mapping](../reference/Indoor-mapping.md)
+**Parent Topic:**[Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../reference/Indoor-mapping.md)
 

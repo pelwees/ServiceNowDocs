@@ -23,5 +23,5 @@ Some key components of ServiceNow AI Platform® Telecommunications Service Opera
 **Related topics**  
 
 
-[Configure Telecom Assurance](set-up-fault-management.md)
+[Configure Telecom Assurance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-fault-management.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 1.  Navigate to Applicant Center.
 
-    For more information, see [Access the Applicant Center](view-applicant-center.md).
+    For more information, see [Access the Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/view-applicant-center.md).
 
 2.  On the Applicant Center home page, under the Keep track of what’s going on section, locate the proposed or scheduled interview.
 
@@ -31,10 +31,10 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 4.  On the Reschedule interview form, fill in the fields.
 
-    For a description of the field values, see [Request reschedule form](../reference/request-reschedule-applicant-interviewer-form.md).
+    For a description of the field values, see [Request reschedule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../reference/request-reschedule-applicant-interviewer-form.md).
 
 5.  Select **Send**.
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../concept/use-applicant-center.md)
 

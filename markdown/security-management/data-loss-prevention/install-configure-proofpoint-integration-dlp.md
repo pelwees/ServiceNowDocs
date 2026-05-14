@@ -27,7 +27,7 @@ Role required: sn\_dlir.admin
 
 3.  Search for the  `DLP Incident Response Integration with Proofpoint` tile, and click  **Configure**.
 
-    ![Click Configure button for Proofpoint.](../../data-loss-prevention/image/dlp-proofpoint-tile.png)
+    ![Click Configure button for Proofpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-proofpoint-tile.png)
 
 4.  On the form, fill in the fields.
 
@@ -38,7 +38,7 @@ Role required: sn\_dlir.admin
     |Client ID|The ID of Proofpoint client to be used.|
     |Client Secret|The secret configured for your user account on Proofpoint.|
 
-    ![Configure the DLP Incident Response integration with Proofpoint.](../image/dlp-proofpoint-config.png)
+    ![Configure the DLP Incident Response integration with Proofpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-proofpoint-config.png)
 
     **Note:** For the existing customers, we continue to support Basic Authentication to ensure that the existing child tiles which have basic authentication function as expected. However, if a customer wishes to add OAuth to a child tile, they must not remove the existing Basic Authentication credentials \(username and password\). While they can replace these values with dummy entries, leaving the fields empty will prevent the tile from being submitted successfully.
 
@@ -49,8 +49,8 @@ Role required: sn\_dlir.admin
 
 After you successfully validate and submit the configuration, the Proofpoint DLP Integration is saved on the Security Integrations page as a tile.
 
--   **[Configure the Webhook on the Proofpoint DLP tenant for alert notifications to ServiceNow](configure-webhook-proofpoint-tenant-alert-notifications.md)**  
+-   **[Configure the Webhook on the Proofpoint DLP tenant for alert notifications to ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-webhook-proofpoint-tenant-alert-notifications.md)**  
 Configure a webhook on Proofpoint using the REST API endpoint to start getting the alerts from the Proofpoint DLP tenant. Your ServiceNow instance creates DLP incidents from these alerts. The Proofpoint DLP integration provides a REST API endpoint for end users to configure the webhook.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-response-integration-proofpoint.md)
 

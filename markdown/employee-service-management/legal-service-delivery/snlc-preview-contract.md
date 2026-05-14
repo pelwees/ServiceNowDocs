@@ -29,29 +29,29 @@ Access to a contract document is based on the following user roles and condition
 
 When multiple contract documents are attached, a separate contract repository record is created for each contract type.
 
--   **[View and download a signed contract document as a legal fulfiller](snlc-preview-contract-fulfiller.md)**  
+-   **[View and download a signed contract document as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract-fulfiller.md)**  
 View and download a signed contract document as a legal fulfiller.
--   **[View and download a signed contract document as a legal user](snlc-preview-contract-user.md)**  
+-   **[View and download a signed contract document as a legal user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-preview-contract-user.md)**  
 View and download a signed contract document as a legal user.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../concept/snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+[Non-disclosure agreement requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-nda-1.md)
 
-[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](../concept/snlc-amend-req-landing.md)
+[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](../concept/snlc-linking-parent-child.md)
+[Linking parent-child contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-linking-parent-child.md)
 
-[Internal review overview](snlc-expert-review.md)
+[Internal review overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expert-review.md)
 
-[Cancel a legal request](snlc-cancel-request-tpc.md)
+[Cancel a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-cancel-request-tpc.md)
 
-[View contract requests](snlc-view-contract-requests.md)
+[View contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-sn-legal-contracts.md)
 

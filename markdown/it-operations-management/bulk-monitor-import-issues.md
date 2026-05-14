@@ -23,5 +23,5 @@ Learn to fix issues that might occur when you create monitors in bulk.
 |Job stuck in "pending"|Event queue backed up|Wait or contact admin|
 |Timeout errors|Large payload, slow processing|Increase timeout, reduce batch size|
 
-**Parent Topic:**[Troubleshoot synthetic monitors](troubleshoot-synthetic-monitors.md)
+**Parent Topic:**[Troubleshoot synthetic monitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-synthetic-monitors.md)
 

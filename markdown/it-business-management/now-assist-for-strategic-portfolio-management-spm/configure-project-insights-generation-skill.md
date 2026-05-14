@@ -33,7 +33,7 @@ Role required: admin
 
 3.  On the Project insights generation feature card, select **Turn on**.
 
-    ![Edit access screen for Project insights generation skill.](../images/edit-access-project-insights-generation.png)
+    ![Edit access screen for Project insights generation skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/edit-access-project-insights-generation.png)
 
 4.  In Add users access section, specify the user or roles.
 

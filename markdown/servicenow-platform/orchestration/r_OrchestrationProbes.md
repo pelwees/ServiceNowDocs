@@ -21,7 +21,7 @@ When a Workflow executes an Orchestration activity, that activity launches a pro
 
 **Note:** The probe parameters are set by the activities that launch the probe.
 
-![How Orchestration uses probes](../image/RunbookProbesDiagram.png "How Orchestration uses probes")
+![How Orchestration uses probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/RunbookProbesDiagram.png "How Orchestration uses probes")
 
 ## Probe List
 
@@ -205,5 +205,5 @@ A probe that runs a Windows PowerShell script on the MID Server. The PowerShell 
 -   *$cred*: A PowerShell credential, using a user name and password from the Credentials table, that logs into *$computer* successfully.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Deprecated Orchestration activities](../../../administer/orchestration-activities/reference/r_OrchestrationBasicActivities.md)
+</table>**Parent Topic:**[Deprecated Orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../administer/orchestration-activities/reference/r_OrchestrationBasicActivities.md)
 

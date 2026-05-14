@@ -39,7 +39,7 @@ After you enforce the restriction on major security incidents or related lists t
 
 6.  Select the **Enforce restriction** check box to enable the restriction of the major security incident.
 
-    ![Limit access to major security incidents only to certain groups or users.](../image/msim-restrict-access.png "Restrict access to major security incidents")
+    ![Limit access to major security incidents only to certain groups or users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-restrict-access.png "Restrict access to major security incidents")
 
 7.  In the Allowed members field, select the users who can view or modify the major security incident using the Search option.
 
@@ -50,5 +50,5 @@ After you enforce the restriction on major security incidents or related lists t
 9.  Select **Save**.
 
 
-**Parent Topic:**[Update Major Security Incident details](../concept/msim-details-tab.md)
+**Parent Topic:**[Update Major Security Incident details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/msim-details-tab.md)
 

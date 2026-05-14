@@ -39,7 +39,7 @@ Total emissions
 
 </td><td>
 
-Area chart![Area chart.](../../../use/dashboards/image/icon-area-report.png)
+Area chart![Area chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/dashboards/image/icon-area-report.png)
 
 </td><td>
 
@@ -51,11 +51,11 @@ Emissions by calculation methodologies
 
 </td><td>
 
-Line chart![Trend line chart.](../../../use/reporting/image/inline-data-vis-line.png)
+Line chart![Trend line chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/reporting/image/inline-data-vis-line.png)
 
 </td><td>
 
-Displays the emissions generated based on the various calculation methodologies such as EEIO data, LCA data, and supplier data. For more information about these calculation methodologies, refer to [Scope 3 dashboard](scope-3-dashboard.md). The unit of emission measurement for this report is also KgCO2e. You can view the data for the past 3, 4, or 5 years to obtain a comparative analysis.
+Displays the emissions generated based on the various calculation methodologies such as EEIO data, LCA data, and supplier data. For more information about these calculation methodologies, refer to [Scope 3 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/scope-3-dashboard.md). The unit of emission measurement for this report is also KgCO2e. You can view the data for the past 3, 4, or 5 years to obtain a comparative analysis.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Emissions by supplier and spend category \(KgCO2e\)
 
 </td><td>
 
-Bar graph![Bar chart.](../../../use/reporting/image/inline-data-vis-bar-vertical.png)
+Bar graph![Bar chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/reporting/image/inline-data-vis-bar-vertical.png)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Suppliers with SBTi approved targets
 
 </td><td>
 
-Donut![Donut chart also called the pie chart.](../../../use/reporting/image/inline-data-vis-donut.png)
+Donut![Donut chart also called the pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/reporting/image/inline-data-vis-donut.png)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Emissions by GHG scope 3 categories \(KgCO2e\)
 
 </td><td>
 
-Bar graph ![Bar chart.](../../../use/reporting/image/inline-data-vis-bar-vertical.png)
+Bar graph ![Bar chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/reporting/image/inline-data-vis-bar-vertical.png)
 
 </td><td>
 
@@ -99,17 +99,17 @@ Suppliers with CDP data
 
 </td><td>
 
-Donut ![Donut chart also called the pie chart.](../../../use/reporting/image/inline-data-vis-donut.png)
+Donut ![Donut chart also called the pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../use/reporting/image/inline-data-vis-donut.png)
 
 </td><td>
 
 Displays the supplier data obtained using the Carbon disclosure project \(CDP\) standard that the suppliers must adhere to. CDP requires organizations to disclose their climate impact. The data for this report comes from the responses of the manual metrics definition that is provided by default. **Note:** For the metric data tasks of this metric definition, the metric data owner must enter their responses as either `Yes` or `No`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Scope 3 dashboard](scope-3-dashboard.md)
+</table>**Parent Topic:**[Scope 3 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/scope-3-dashboard.md)
 
 **Related topics**  
 
 
-[Configuring the Scope 3 dashboard](configuring-the-scope-3-dashboard.md)
+[Configuring the Scope 3 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-the-scope-3-dashboard.md)
 

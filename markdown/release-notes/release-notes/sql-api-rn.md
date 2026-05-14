@@ -59,5 +59,5 @@ You must download the SQL API ODBC and JDBC drivers on your client machine. Thes
     RaptorDB Professional is a licensed database that supports ServiceNow AI Platform generative AI and machine-scale data use cases, user growth, applications, workloads, and analytics.
 
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

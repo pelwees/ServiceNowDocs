@@ -56,7 +56,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
 11. Tap **Create new asset**.
 
-    ![Create new asset](../image/list-of-assets-and-models-screen.png)
+    ![Create new asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/list-of-assets-and-models-screen.png)
 
     The Create asset from audit screen is displayed.
 
@@ -74,7 +74,7 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
     **Note:** Depending on the IRE rule configured for the selected **Model** field value, either **Asset Tag**, **Serial Number**, or **MAC address** field value is required to save the audit record.
 
-    For more details on these field descriptions, see [Asset record fields](../../asset-management/reference/asset-record-fields.md).
+    For more details on these field descriptions, see [Asset record fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../asset-management/reference/asset-record-fields.md).
 
 13. Tap **Submit**.
 
@@ -85,5 +85,5 @@ When scanning an asset in the inventory, if a new asset is detected that doesnâ€
 
 In the audit results, the **New** field value is incremented for each new asset scanned in the inventory.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/ham-inventory-audit.md)
 

@@ -17,7 +17,7 @@ Test Exclusion Rule in Dynamic Translation enables you to test your exclusion pa
 
 ## Before you begin
 
-At least one additional language must be available on your instance. For more information about installing languages, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+At least one additional language must be available on your instance. For more information about installing languages, see [Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../localization/task/t_ActivateALanguage.md).
 
 Role required: admin
 
@@ -34,7 +34,7 @@ You can select a target language from among the languages enabled on the instanc
 
 You can test iteratively to refine your exclusion pattern.
 
-![Test Exclusion Rule is highlighted in the navigation.](../image/dyn-translation-test-exclusion-rule1Z.png "Navigation for Test Exclusion Rule")
+![Test Exclusion Rule is highlighted in the navigation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/dyn-translation-test-exclusion-rule1Z.png "Navigation for Test Exclusion Rule")
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Description
 
 </td><td>
 
-If you choose this option, the next field opens: **Which exclusion pattern would you like to test?** Select your pattern from the list, or use the field's search function.The information icon \(![Information icon.](../../localization-framework/image/information-icon.png)\) offers a read-only summary of the selected rule.
+If you choose this option, the next field opens: **Which exclusion pattern would you like to test?** Select your pattern from the list, or use the field's search function.The information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../localization-framework/image/information-icon.png)\) offers a read-only summary of the selected rule.
 
 </td></tr><tr><td id="d195099e163">
 
@@ -77,7 +77,7 @@ If you choose this option, two fields and a button appear on the form. 1.  **Rul
 
 
 </td></tr></tbody>
-</table>    ![The Test Exclusion Rule form with New exclusion rule and Pattern Match selected.](../image/dyn-translation-test-exclusion-rule2Z.png "Use Pattern match for regular expressions")
+</table>    ![The Test Exclusion Rule form with New exclusion rule and Pattern Match selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/dyn-translation-test-exclusion-rule2Z.png "Use Pattern match for regular expressions")
 
 3.  **Target language**: Select a language from the languages installed on your instance.
 
@@ -85,14 +85,14 @@ If you choose this option, two fields and a button appear on the form. 1.  **Rul
 
 4.  **Input**: In the source language, enter text containing the string that you want your exclusion pattern or term to match, then select **Submit**.
 
-    ![The Test Exclusion Rule form with an Existing exclusion rule selected and a sample utterance in the Input field.](../image/dyn-translation-test-exclusion-rule3Z.png "Testing an Existing exclusion rule (exact match)")
+    ![The Test Exclusion Rule form with an Existing exclusion rule selected and a sample utterance in the Input field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/dyn-translation-test-exclusion-rule3Z.png "Testing an Existing exclusion rule (exact match)")
 
 
 ## Result
 
 The input is translated into the target language, but the part that matched the exclusion pattern remains in the source language. The result is a mix of translated and untranslated text. The match is highlighted in bold font.
 
-![The sample input is translated from English to Spanish. The match is highlighted with bold font.](../image/dyn-translation-test-exclusion-rule4Z.png "Results of Test Exclusion Rule")
+![The sample input is translated from English to Spanish. The match is highlighted with bold font.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/dyn-translation-test-exclusion-rule4Z.png "Results of Test Exclusion Rule")
 
 If your test pattern did not match any part of the input, the result displays a translation with no bold font.
 
@@ -102,7 +102,7 @@ When testing variations of existing rules, temporarily deactivating similar rule
 
 ## What to do next
 
-If you chose **New exclusion rule**, you can create a rule based on the exclusion pattern that you tested. For more information see [Add new rules to Exclusion Framework](dyn-translation-add-exclusion-rule.md).
+If you chose **New exclusion rule**, you can create a rule based on the exclusion pattern that you tested. For more information see [Add new rules to Exclusion Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-add-exclusion-rule.md).
 
-**Parent Topic:**[Exclusion Framework in Dynamic Translation](../concept/dyn-translation-exclusion-framework.md)
+**Parent Topic:**[Exclusion Framework in Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../concept/dyn-translation-exclusion-framework.md)
 

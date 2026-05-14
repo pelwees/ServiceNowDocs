@@ -90,10 +90,10 @@ Work notes \(Private\)
 Internal notes visible only to team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Opportunity Management reference](../concept/opportunity-management-reference.md)
+</table>**Parent Topic:**[Opportunity Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[Create a related task from a touchpoint](../task/create-touchpoint-related-tasks.md)
+[Create a related task from a touchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-touchpoint-related-tasks.md)
 

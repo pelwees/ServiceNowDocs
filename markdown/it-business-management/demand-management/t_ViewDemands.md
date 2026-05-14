@@ -45,39 +45,39 @@ The **Project** field displays the project name after the demand manager creates
 
     -   **Idea**: If an idea is being evaluated, the pop-up window displays the current state of the idea.
     -   **Demand**: if an idea is promoted to a demand, the pop-up window displays the current state of the demand as well as the idea.
-    -   **Project**, **Enhancement**, **Change**, or **Defect**: If a demand is accepted, the pop-up window displays the current state of the resulting artifact in addition to the demand and idea.![Demand stage field pop-up shows the demand and project stages.](../image/demand-stage-fields.png)
+    -   **Project**, **Enhancement**, **Change**, or **Defect**: If a demand is accepted, the pop-up window displays the current state of the resulting artifact in addition to the demand and idea.![Demand stage field pop-up shows the demand and project stages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/demand-stage-fields.png)
 
--   **[View an artifact created from a demand](t_ViewAnArtifactCreatedFromADemand.md)**  
+-   **[View an artifact created from a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewAnArtifactCreatedFromADemand.md)**  
 As the demand manager, you can view an artifact created from a demand.
--   **[View a demand summary](t_ViewADemandSummary.md)**  
+-   **[View a demand summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewADemandSummary.md)**  
 Hover over a bubble in the demand workbench bubble chart to display a summary of the demand information.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../concept/c_AssessingDemands.md)
+[Assess demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/c_AssessingDemands.md)
 
-[Create a demand](t_CreatingDemands.md)
+[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-[Add details to demands](../concept/c_EnhancingDemands.md)
+[Add details to demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/ridac-entries-for-demand.md)
 
-[Reset a demand to Draft state](reset-demand-to-draft-state.md)
+[Reset a demand to Draft state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/reset-demand-to-draft-state.md)
 
-[Delete demands](t_DeletingDemands.md)
+[Delete demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_DeletingDemands.md)
 
-[Move and resize a demand](t_MoveAndResizeADemand.md)
+[Move and resize a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_MoveAndResizeADemand.md)
 
-[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../itbm-PI-workbench/task/ppm-piwb-demand.md)
 
-[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/identify-similar-demands.md)
 
-[Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
+[Summarize demands with demand summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)
 
-[Associate AI systems with demands](associate-ai-systems-with-demands.md)
+[Associate AI systems with demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-ai-systems-with-demands.md)
 

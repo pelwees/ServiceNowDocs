@@ -54,10 +54,10 @@ The system uses roles, groups, skills, and location to determine the appropriate
 
 You can view group information by selecting any tier in the **Escalate from** or **Escalate to** fields. The escalation rule takes effect immediately for new case assignments.
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManageRoles.md)
 
 **Related topics**  
 
 
-[Manage HR Groups](t_ManageHRGroups.md)
+[Manage HR Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ManageHRGroups.md)
 

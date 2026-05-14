@@ -62,7 +62,7 @@ Navigation
 
     2.  Move the selection to the **Reservable Purposes List** column on the right.
 
-        To move the purposes, use the add-remove icon \(![Add-remove icon.](../image/add-remove-icon.png)\).
+        To move the purposes, use the add-remove icon \(![Add-remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)\).
 
 5.  Click **Save**.
 
@@ -71,5 +71,5 @@ Navigation
 
 The reservable purpose is added to the workplace item.
 
-**Parent Topic:**[Configure a reservable purpose](configure-reservable-purpose.md)
+**Parent Topic:**[Configure a reservable purpose](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-purpose.md)
 

@@ -51,7 +51,7 @@ Verify that the value of the **sn\_apw\_advanced.enable\_hierarchy\_view** prope
 **Related topics**  
 
 
-[Work item hierarchy for EAP teams](../concept/eap-hierarchy-tab.md)
+[Work item hierarchy for EAP teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/eap-hierarchy-tab.md)
 
-[Modify display limit in Hierarchy tab of EAP](hierarchy-display-limit-eap.md)
+[Modify display limit in Hierarchy tab of EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/hierarchy-display-limit-eap.md)
 

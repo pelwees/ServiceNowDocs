@@ -19,19 +19,19 @@ LEAP application uses AI-driven insights and automation to help manage IT operat
 
 <table id="table_nhy_dhw_l2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about LEAP benefits, features, and capabilities.](exploring-aiops-leap.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about LEAP benefits, features, and capabilities.](exploring-aiops-leap.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure LEAP.](configuring-aiops-leap.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure LEAP.](configuring-aiops-leap.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Create problem records and playbooks using LEAP.](../task/using-aiops-leap.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Create problem records and playbooks using LEAP.](../task/using-aiops-leap.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get detailed information on important skill configuration during LEAP installation.](../reference/references-aiops-leap.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../../../reuse/icons/brand-icons/bus-learn.svg)Get detailed information on important skill configuration during LEAP installation.](../reference/references-aiops-leap.md)
 
 </td></tr></tbody>
 </table>## Supported LLMs for Now Assist for ITOM

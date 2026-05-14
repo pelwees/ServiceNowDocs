@@ -29,8 +29,8 @@ After adding activities to your workflow, publish it to make it available for us
 
 2.  Click **Publish** to publish the workflow.
 
-    ![Screenshot for workflow](../image/ServiceCatalogWorkflowFormFullExample.png)
+    ![Screenshot for workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogWorkflowFormFullExample.png)
 
 
-**Parent Topic:**[Service catalog workflows](../concept/c_ServiceCatalogWorkflowDefinition.md)
+**Parent Topic:**[Service catalog workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogWorkflowDefinition.md)
 

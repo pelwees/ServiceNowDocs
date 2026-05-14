@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-The Customer Service Case Types plugin includes declarative actions that enable agents to create cases and case tasks using the [case type selector](../concept/csm-case-type-select-modals.md) and [case task type selector](../concept/csm-case-task-type-select-modal.md). These declarative actions are disabled by default.
+The Customer Service Case Types plugin includes declarative actions that enable agents to create cases and case tasks using the [case type selector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-case-type-select-modals.md) and [case task type selector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-case-task-type-select-modal.md). These declarative actions are disabled by default.
 
 |Action label|Location|Action|
 |------------|--------|------|

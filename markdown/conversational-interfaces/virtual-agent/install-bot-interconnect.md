@@ -41,5 +41,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](../concept/using-sn-va-primary-bot-api.md)
+**Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/using-sn-va-primary-bot-api.md)
 

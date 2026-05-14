@@ -29,7 +29,7 @@ Role required: user
 
 4.  Select **Create Target** \(+\) icon.
 
-    ![Create target option](../image/create-target.png)
+    ![Create target option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/create-target.png)
 
 5.  On the form, fill in the fields.
 
@@ -44,5 +44,5 @@ Role required: user
     **Note:** Select **Refresh** to view the target set on the trendline.
 
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/measuring-performance-success-dashboard.md)
 

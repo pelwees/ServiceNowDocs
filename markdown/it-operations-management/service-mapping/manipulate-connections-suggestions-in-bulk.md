@@ -27,13 +27,13 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-If Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated using traffic-related data from the Configuration Management Database \(CMDB\) and the analysis of application fingerprints, CIs, and processes by Predictive Intelligence. Predictive Intelligence evaluates connections between application fingerprints, CIs, and processes, and ranks their relevancy. Service Mapping uses this information to create connections based on connection rules. It also generates connection suggestions for servers and load balancers for you to decide which connections to add or remove from the service instances. For more information, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+If Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated using traffic-related data from the Configuration Management Database \(CMDB\) and the analysis of application fingerprints, CIs, and processes by Predictive Intelligence. Predictive Intelligence evaluates connections between application fingerprints, CIs, and processes, and ranks their relevancy. Service Mapping uses this information to create connections based on connection rules. It also generates connection suggestions for servers and load balancers for you to decide which connections to add or remove from the service instances. For more information, see [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/traffic-based-discovery.md).
 
-If you are not sure which traffic-based connections are relevant, identify a group of application services that your organization uses for the same purpose. [Add or remove CI connections for a single application service](add-remove-ci-connections-services.md) in this group. Then use the connections you created for this service as an example of traffic-based connections for multiple application services.
+If you are not sure which traffic-based connections are relevant, identify a group of application services that your organization uses for the same purpose. [Add or remove CI connections for a single application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-remove-ci-connections-services.md) in this group. Then use the connections you created for this service as an example of traffic-based connections for multiple application services.
 
 ## Procedure
 
-1.  [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md) to view information about all application CIs in connection suggestions.
+1.  [Discover applications based on fingerprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/task/discover-application-based-process.md) to view information about all application CIs in connection suggestions.
 
     **Important:** Not using fingerprint-based discovery may result in mapping some application CIs as generic applications.
 
@@ -47,7 +47,7 @@ If you are not sure which traffic-based connections are relevant, identify a gro
 
 4.  Review the suggestion details paying attention to the parameters covered in the Connections Suggestions list.
 
-    See [Connection Suggestions list](../reference/connection-suggestions-list.md).
+    See [Connection Suggestions list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/connection-suggestions-list.md).
 
 5.  Select the check boxes next to the relevant suggestions and click the action button at the bottom of the window:
 
@@ -86,7 +86,7 @@ Service Mapping reverses earlier decisions, whether made manually or by rule. Th
 </td></tr></tbody>
 </table>6.  Refresh the connection suggestions to see the changes that you made:
 
-    1.  Click the List controls icon ![List control button](../image/list-controls-button.png).
+    1.  Click the List controls icon ![List control button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/list-controls-button.png).
 
     2.  Select **Refresh list**.
 
@@ -95,5 +95,5 @@ Service Mapping reverses earlier decisions, whether made manually or by rule. Th
 
 Service Mapping applies the changes to traffic-based connections to all relevant application services in the background.
 
-**Parent Topic:**[Map multiple application services suggested by classic Service Mapping](map-business-services-in-bulk.md)
+**Parent Topic:**[Map multiple application services suggested by classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-business-services-in-bulk.md)
 

@@ -291,7 +291,7 @@ Associated columns that the measure sources it data from
 |Supported calculated columns|Lineage from calculated column expressions containing columns with and without table references, Columns or tables with alphanumeric characters, Spaces, Hyphens, and Underscore are supported|
 |Supported measures|Lineage from measure expressions containing columns or tables with alphanumeric characters, Spaces, Hyphens, Underscore, Surrounding quotes are supported|
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 
 ## Prepare to run the PowerBI collector
 
@@ -311,29 +311,29 @@ The collector uses Azure application registration and supports two authenticatio
 
 1.  Register an application in Azure and create client credentials.
 
-    See [Register Power BI application](powerbi-metadata-collector.md#).
+    See [Register Power BI application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
 2.  Configure authentication based on your preferred method.
 
-    -   For service principal authentication, see [Configure Power BI service principal authentication](powerbi-metadata-collector.md#).
+    -   For service principal authentication, see [Configure Power BI service principal authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
-    -   For username and password authentication, see [Configure Power BI username and password authentication](powerbi-metadata-collector.md#).
+    -   For username and password authentication, see [Configure Power BI username and password authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
 3.  Enable metadata scanning to access detailed data source information.
 
-    See [Configure Power BI metadata scanning](powerbi-metadata-collector.md#).
+    See [Configure Power BI metadata scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
 4.  Get the Power BI tenant ID.
 
-    See [Get Power BI tenant ID](powerbi-metadata-collector.md#).
+    See [Get Power BI tenant ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
 5.  Configure report image harvesting to collect preview images from Power BI reports.
 
-    See [Configure Power BI report image harvesting](powerbi-metadata-collector.md#).
+    See [Configure Power BI report image harvesting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 
 6.  Configure lineage mapping for ODBC connections, server aliases, or custom SQL statements.
 
-    See [Configure Power BI lineage mapping](powerbi-metadata-collector.md#) .
+    See [Configure Power BI lineage mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#) .
 
 
 ### Register Power BI application
@@ -798,15 +798,15 @@ Create a collector to import metadata from PowerBI.
 
 Before you begin, verify the following:
 
--   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](mid-server-for-metadata-collectors-dc.md).
--   All per-requisite tasks are completed. For more information, see [Prepare to run the PowerBI collector](powerbi-metadata-collector.md#).
+-   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mid-server-for-metadata-collectors-dc.md).
+-   All per-requisite tasks are completed. For more information, see [Prepare to run the PowerBI collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#).
 -   Role required: connection-admin
 
 ### Procedure
 
 1.  Navigate to **All** &gt; **Workflow Data Fabric** &gt; **Workflow Data Fabric Home**.
 
-2.  Select the Connect Hub ![Connect Hub icon](../../../build/workflow-data-fabric/image/wdf-connect-hub-icon.png) icon in the left sidebar.
+2.  Select the Connect Hub ![Connect Hub icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../build/workflow-data-fabric/image/wdf-connect-hub-icon.png) icon in the left sidebar.
 
 3.  Select **Create** &gt; **Metadata collector**.
 
@@ -908,7 +908,7 @@ Datasource Name Mapping File
 
 </td><td>
 
-File that maps ODBC source details configured in the [datasources.yml](powerbi-metadata-collector.md#)file. Upload the file if you have configured ODBC source details.
+File that maps ODBC source details configured in the [datasources.yml](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/powerbi-metadata-collector.md#)file. Upload the file if you have configured ODBC source details.
 
 </td></tr><tr><td>
 
@@ -954,8 +954,8 @@ The metadata collector is created and appears on the Connectors page with a Conf
 
 After creating the collector, you can perform any of the following tasks:
 
--   Run the collector manually to harvest metadata immediately. See [Run metadata collectors manually](../task/run_metadata-collectors-manually.md).
--   Automate metadata collection by scheduling regular collector runs. See [Schedule metadata collector runs](../task/schedule-metadata-collector-runs.md).
--   Monitor execution status and troubleshoot issues by viewing the runtime logs. See [View runtime logs for collector runs](../task/view-runtime-logs-for-collector-runs.md).
--   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](manage-data-catalog.md).
+-   Run the collector manually to harvest metadata immediately. See [Run metadata collectors manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/run_metadata-collectors-manually.md).
+-   Automate metadata collection by scheduling regular collector runs. See [Schedule metadata collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/schedule-metadata-collector-runs.md).
+-   Monitor execution status and troubleshoot issues by viewing the runtime logs. See [View runtime logs for collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/view-runtime-logs-for-collector-runs.md).
+-   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/manage-data-catalog.md).
 

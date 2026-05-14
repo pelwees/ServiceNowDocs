@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-![Adding an entity to the Multiple Case Configuration table for Retail Task Management Core.](../image/rahi-retail-create-entity.png)
+![Adding an entity to the Multiple Case Configuration table for Retail Task Management Core.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rahi-retail-create-entity.png)
 
 ## Procedure
 

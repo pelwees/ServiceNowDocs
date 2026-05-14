@@ -15,7 +15,7 @@ breadcrumb: [Issue Auto Resolution for HR, HR Service Delivery, Employee Service
 
 Setting up Issue Auto Resolution helps your organization to provide near real-time responses to your employee's routine inquiries. To view the settings for Issue Auto Resolution, navigate to **All** &gt; **Issue Auto Resolution** &gt; **Settings**.
 
-![IAR configuration](../image/iar-configuration.png)
+![IAR configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/iar-configuration.png)
 
 You can install the ITSM Virtual Agent Conversations and Issue Auto Resolution applications. After the installation is complete, review and modify the configurations to suit your business needs and activate your IAR.
 

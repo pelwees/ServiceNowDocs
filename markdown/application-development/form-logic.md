@@ -15,7 +15,7 @@ Controlling what users see when they visit a form can increase productivity and 
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
 
 ## Determine when to control user access
 
@@ -41,5 +41,5 @@ Some client scripting practices to avoid are:
 -   Global Client Scripts or Global UI Scripts: Global scripts will run on every page load and introduce browser load delay.
 -   DOM Manipulation: Using document object model manipulation against default UI elements introduces upgrade risk and maintainability issues. The exception is using DOM manipulation against the DOM in pages authored in the same scoped application, like UI Pages or Service Portal widgets.
 
-**Parent Topic:**[Build form and business logic](build-form-and-business-logic.md)
+**Parent Topic:**[Build form and business logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-form-and-business-logic.md)
 

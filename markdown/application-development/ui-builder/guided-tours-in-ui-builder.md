@@ -27,23 +27,23 @@ Guided tours about UI Builder may launch automatically. You can also start them 
 
 When a guided tour starts automatically, an introduction is displayed. Select **Begin Tour**.
 
-![Introduction for navigating UI Builder homepage guided tour.](../image/guided-tour-in-uib3.png)
+![Introduction for navigating UI Builder homepage guided tour.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/guided-tour-in-uib3.png)
 
 To begin a tour manually from the homepage, navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder** and select a tour in the **Getting started** section. If no guided tours appear by default in the section, select **View more** and then select a tour on the **Find relevant resources to get you unstuck** pop-up.
 
 Alternatively, select **Help** and then select a tour on the **Find relevant resources to get you unstuck** pop-up.
 
-![Ui Builder homepage with white arrow pointing to help option.](../image/guided-tour-in-uib2.png)
+![Ui Builder homepage with white arrow pointing to help option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/guided-tour-in-uib2.png)
 
 After a tour starts automatically or manually, you're led through a series of steps. Read the text for each step and perform the required actions or select **Next** to continue the tour.
 
-![Step nine in overview of UI Builder guided tour.](../image/guided-tour-in-uib4.png)
+![Step nine in overview of UI Builder guided tour.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/guided-tour-in-uib4.png)
 
 To stop a tour at any time, select the **X**.
 
 Select **Yes** or **No** to stop the tour from auto-launching again. You can also apply your decision to all tours that start on the same page.
 
-![Stop guided tour pop-up with options to stop the tour from auto launching and apply the decision to all tours on the page.](../image/guided-tour-in-uib5.png)
+![Stop guided tour pop-up with options to stop the tour from auto launching and apply the decision to all tours on the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/guided-tour-in-uib5.png)
 
-**Parent Topic:**[Navigate the UI Builder application](nav-uib.md)
+**Parent Topic:**[Navigate the UI Builder application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/nav-uib.md)
 

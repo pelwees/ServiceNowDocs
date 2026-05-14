@@ -19,12 +19,12 @@ Gain visibility into new and invalid content and manage content life cycle throu
 
 Mark the most important content as featured content so that employees can quickly discover and use the content.
 
-![See how Featured content appears on top](../images/featured-content.png "Featured content")
+![See how Featured content appears on top](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/featured-content.png "Featured content")
 
 -   Mark articles, catalog items, or other resources as featured within a specific topic.
 -   Highlight the items at the top of topic pages to improve discoverability.
 -   Ensure employees see high-impact information first.
 -   Personalize user content experience on widgets.For more information, see
-    -   [Associate featured content to a topic](../task/associate-featured-content-to-topic.md)
-    -   [Featured Content form](../reference/featured-content-form.md)
+    -   [Associate featured content to a topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/associate-featured-content-to-topic.md)
+    -   [Featured Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/featured-content-form.md)
 

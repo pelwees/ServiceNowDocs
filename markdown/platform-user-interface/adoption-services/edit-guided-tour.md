@@ -78,9 +78,9 @@ Action
 </td><td>
 
 1.  Navigate to the UI page where the step is located.
-2.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](../../../administer/workspace/image/pencil-icon.png).
+2.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../administer/workspace/image/pencil-icon.png).
 
-![Edit step](../image/gtd-edit-icon.png)
+![Edit step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-edit-icon.png)
 
 3.  Edit the text and select **Save**.
 
@@ -92,7 +92,7 @@ Action
 </td><td>
 
 1.  Navigate to the UI page where the step is located.
-2.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](../../../administer/workspace/image/pencil-icon.png).
+2.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../administer/workspace/image/pencil-icon.png).
 3.  From the Choose action list, select a trigger, and then select **Save**.
 
 
@@ -121,7 +121,7 @@ In the Tour Steps list, hover over the step you want to remove and then select t
 
 </td><td>
 
-1.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](../../../administer/workspace/image/pencil-icon.png).
+1.  In the Tour Steps list, hover over the step you want to edit and select the Edit Step icon ![Edit Step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../administer/workspace/image/pencil-icon.png).
 2.  Edit the content and apply formatting as appropriate.
 
 **Note:**
@@ -163,5 +163,5 @@ If the tour is in draft status, select **Publish**. If the tour is published, se
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Guided Tours](configure-guided-tours.md)
+**Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 

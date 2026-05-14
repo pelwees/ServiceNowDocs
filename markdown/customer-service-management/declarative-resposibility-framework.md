@@ -25,7 +25,7 @@ Role required: One of the following roles:
 
 The Responsibility Access Configuration \[sn\_customerservice\_responsibility\_access\_config\] table is used to store the metadata of the responsibility access configuration. With this configuration, you can enable different levels of access for related party users across different records of the same entity. For example, a user with a location manager role might serve as a fulfiller at one business location and as an agent at another.
 
-For more information about creating a responsibility definition, see [Create a responsibility definition](t_CreateAResponsibilityDefinition.md). The need for domain separation in configuring access records is determined by the domain of the referenced responsibility.
+For more information about creating a responsibility definition, see [Create a responsibility definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md). The need for domain separation in configuring access records is determined by the domain of the referenced responsibility.
 
 ## Procedure
 

@@ -17,9 +17,9 @@ A policy that is triggered by one of the approval triggers can start approval su
 
 ## Before you begin
 
-Optional: [Create one or more cloud policy groups](create-cloud-policy-group.md).
+Optional: [Create one or more cloud policy groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy-group.md).
 
-[Configure a cloud policy rule](configure-cloud-policy-rule.md) and associated conditions.
+[Configure a cloud policy rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-cloud-policy-rule.md) and associated conditions.
 
 Role required: sn\_cmp.cloud\_governor or admin
 
@@ -42,7 +42,7 @@ When multiple "approval" policies apply, the policies are applied in the followi
 
 4.  On the popup, click **Create** for the type of action to perform.
 
-    ![Create Action popup](../image/create-approval-action-cloud-mgt.png)
+    ![Create Action popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/create-approval-action-cloud-mgt.png)
 
 5.  Select any of the following actions.
 
@@ -103,7 +103,7 @@ Assignment Group
 </td></tr></tbody>
 </table>6.  On the Approval form, specify a unique and meaningful **Action Name**.
 
-    ![Approval policy action](../image/service-now-approval.png "Action in the rule")
+    ![Approval policy action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/service-now-approval.png "Action in the rule")
 
 7.  If you select **Custom Approval**, specify the subflow and then click **Submit** and if you select **ServiceNow Approval**, specify who should approve the cloud activity.
 
@@ -144,5 +144,5 @@ Select one or more users to whom the approval action applies. All selected users
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a cloud policy](create-cloud-policy.md)
+**Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 

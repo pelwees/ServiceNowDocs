@@ -17,6 +17,6 @@ You can configure Contractor Marketplace to enable dispatchers to push tasks to 
 
 ## Configuration overview
 
-1.  [Activate Field Service Marketplace](../task/activate-contractor-marketplace.md)
-2.  [Create a marketplace engagement method](../task/create-marketplace-eng-mthd.md)
+1.  [Activate Field Service Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/activate-contractor-marketplace.md)
+2.  [Create a marketplace engagement method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/create-marketplace-eng-mthd.md)
 

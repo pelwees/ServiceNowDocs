@@ -30,7 +30,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 3.  Update account information if necessary.
 
-    1.  Select the Edit icon \(![edit icon](../image/edit-icon-workspace.png)\).
+    1.  Select the Edit icon \(![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/edit-icon-workspace.png)\).
 
     2.  Update the information.
 
@@ -43,7 +43,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 4.  Update the account owner details if necessary.
 
-    1.  Select the Edit icon \(![Edit icon](../image/edit-icon-workspace.png)\).
+    1.  Select the Edit icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/edit-icon-workspace.png)\).
 
     2.  Select the account owner from the **Account Owner** from the drop-down list.
 
@@ -65,6 +65,6 @@ Role required: sn\_itom\_cam.cw\_admin
 
     If you have a large number of CIs, the propagation might take some time and changes might not be reflected immediately. You can check the progress by accessing the sn\_itom\_cam\_subscription\_account\_batch\_job\_list table and checking the status of "owner\_name" jobs listed in the **Parameters** column.
 
-6.  Select the Save icon \(![save icon](../image/save-icon-workspace.png)\).
+6.  Select the Save icon \(![save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/save-icon-workspace.png)\).
 
 

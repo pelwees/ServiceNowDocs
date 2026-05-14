@@ -28,20 +28,20 @@ Role required: survey\_admin or survey\_reader
 2.  Select a response to view its details.
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View the results for a survey](t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_ExportAQuizScorecard.md)
 
-[Request translations for surveys](request-translations-for-surveys.md)
+[Request translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/request-translations-for-surveys.md)
 
-[Edit translations for surveys](edit-translations-for-surveys.md)
+[Edit translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/survey-result-database-view.md)
 

@@ -15,7 +15,7 @@ The Related Items component provides access to related lists associated with eng
 
 The Related Items component uses an expandable accordion format. You can expand the desired lists to see the related items. This component also displays an icon with the number of items in a list.
 
-![Related items](../image/customer-success-related-item.png)
+![Related items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-related-item.png)
 
 Related lists include the following actions:
 
@@ -27,5 +27,5 @@ Several related lists including success objectives, outcomes, initiatives, custo
 
 **Note:** The `Documents` related items is displayed only if you have installed the `com.snc.platform_document_management` plugin.
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

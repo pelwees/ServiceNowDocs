@@ -21,18 +21,18 @@ Understand the basic attributes of the Process Mining architecture.
 
 For detailed information on data handling and security in Predictive Intelligence products, see [KB article KB1584480](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1584480).
 
-![Process Mining architecture](../image/process-optimization-architecture.png)
+![Process Mining architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/process-optimization-architecture.png)
 
-**Parent Topic:**[Exploring Process Mining](explore-process-mining.md)
+**Parent Topic:**[Exploring Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/explore-process-mining.md)
 
 **Related topics**  
 
 
-[Key features of Process Mining](key-features.md)
+[Key features of Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/key-features.md)
 
-[Evaluation projects](evaluate-pm.md)
+[Evaluation projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluate-pm.md)
 
-[Process Mining workspace](analyst-workbench-overview.md)
+[Process Mining workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-overview.md)
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 

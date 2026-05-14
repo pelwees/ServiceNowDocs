@@ -111,5 +111,5 @@ Option to indicate if the record is active. Only active records are available fo
 
 ## What to do next
 
-Add additional reporting configuration filters to the reporting configuration. These filters help to fetch the data into your Microsoft Word disclosure report. For more information, see [Add additional reporting configuration filters for a Microsoft 365 configuration record in risk](add-additional-reporting-filters-risk-reporting.md).
+Add additional reporting configuration filters to the reporting configuration. These filters help to fetch the data into your Microsoft Word disclosure report. For more information, see [Add additional reporting configuration filters for a Microsoft 365 configuration record in risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-additional-reporting-filters-risk-reporting.md).
 

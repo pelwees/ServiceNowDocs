@@ -17,33 +17,33 @@ The Software License Compliance Checker that is included in the legacy Software 
 
 For example, if there are 100 licenses for a software program, the legacy Software License Compliance Checker can show if the software has been installed more than 100 times. The legacy Software Compliance Checker uses information found by a discovery tool such as Discovery or third-party technologies, to analyze the software installed on your network.
 
--   **[Check your software license compliance using the legacy Software License Compliance Checker](../task/t_UseSWLicenComplChecker.md)**  
+-   **[Check your software license compliance using the legacy Software License Compliance Checker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_UseSWLicenComplChecker.md)**  
 You can check your software license compliance using the Software License Compliance Checker that is included in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
-**Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
+**Parent Topic:**[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
 
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
+[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)
 
-[Legacy Software Asset Management plugin setup process](c_SetupProcess.md)
+[Legacy Software Asset Management plugin setup process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetupProcess.md)
 
-[Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
+[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)
 
-[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
+[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ManagingSoftwareModels.md)
 
-[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
+[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)
 
-[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
+[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
+[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
+[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-[Software contracts for the legacy Software Asset Management plugin](c_SoftwareContracts.md)
+[Software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareContracts.md)
 
-[Legacy Oracle process pack](c_OracleProcessPack.md)
+[Legacy Oracle process pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_OracleProcessPack.md)
 

@@ -52,8 +52,8 @@ Role required: tm\_tester
 
 13. After all tests are complete, update the test case status.
 
-    For more information, see [Update the status of a test case](t_UpdateTheStatusOfATestCase.md).
+    For more information, see [Update the status of a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_UpdateTheStatusOfATestCase.md).
 
 
-**Parent Topic:**[Performing tests and updating the test status](../concept/c_Tester.md)
+**Parent Topic:**[Performing tests and updating the test status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_Tester.md)
 

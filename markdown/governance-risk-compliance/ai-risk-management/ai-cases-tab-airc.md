@@ -61,11 +61,11 @@ You can drill down into the data on each of the following widgets to learn more 
         -   Counts of issues that are linked to AI cases by their states like New, Review, or Responds.
         -   Counts of issues that are linked to AI cases by additional details like Overdue, Due in 7 days, or Unassigned.
 
-The [**Create AI case**](../task/create-ai-case-in-the-ai-risk-and-compliance-workspace.md) button enables you to initiate a new AI case record within the monitoring dashboard. This action is typically used to document, investigate, or track issues, risks, or compliance concerns that are related to AI models or datasets. Use the [**Create issue**](../task/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md) button to create an issue related to AI cases.
+The [**Create AI case**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/create-ai-case-in-the-ai-risk-and-compliance-workspace.md) button enables you to initiate a new AI case record within the monitoring dashboard. This action is typically used to document, investigate, or track issues, risks, or compliance concerns that are related to AI models or datasets. Use the [**Create issue**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md) button to create an issue related to AI cases.
 
 The following example shows the **AI cases** tab on the AI risk and compliance dashboard.
 
-![AI cases tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](../image/ai-case-landing-page.png "AI cases tab on the AI risk and compliance dashboard")
+![AI cases tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-case-landing-page.png "AI cases tab on the AI risk and compliance dashboard")
 
 ## Inquiries
 
@@ -103,16 +103,16 @@ You can drill down into the data on each of the following widgets to learn more 
     -   Inquiries by business unit: You can see the distribution of inquiries across the various departments or functional areas of your organization. This distribution helps you to identify where most AI-related concerns originate so that you can plan on more targeted risk mitigation or awareness training.
     -   Open and closed inquiries: You can track the volume of inquiries that are initiated and resolved within a selected time range. This tracking enables you to track how your workflow is performing and to plan for future capacity.
 
-Use the [**Create inquiry**](../task/raise-ai-inquiry.md) button to initiate a new inquiry. You can make timely reports of AI-related concerns or clarification requests.
+Use the [**Create inquiry**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/raise-ai-inquiry.md) button to initiate a new inquiry. You can make timely reports of AI-related concerns or clarification requests.
 
 The following example shows the **Inquiries** tab on the AI risk and compliance dashboard.
 
-![Inquiries tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](../image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
+![Inquiries tab on the AI risk and compliance dashboard. See the text in the previous section for descriptions of the different widgets on the dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
 
 **Related topics**  
 
 
-[AI governance life cycle](ai-gov-lifecycle.md)
+[AI governance life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md)
 
-[AI cases and inquiries](airc-cases-inquiries.md)
+[AI cases and inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-cases-inquiries.md)
 

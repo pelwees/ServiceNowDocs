@@ -63,7 +63,7 @@ To configure the default connection and credential alias record shipped with the
 
 </td><td>
 
-To manage more than one spoke connection records. For more information, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md)
+To manage more than one spoke connection records. For more information, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md)
 
 </td></tr></tbody>
 </table>    2.  Select **View Details**.

@@ -34,7 +34,7 @@ The Zero Copy Connectors application provides a view where you can browse data s
 
 This infographic shows a sample end-to-end workflow of different users working together to gather requirements, establish a zero copy connection, and create a data fabric table in the Zero Copy Connectors application.
 
-![Different users in an organization work together to define data requirements, establish a connection, and build data fabric tables for consumption. View the steps after the infographic for details.](../../../administer/workflow-data-fabric/image/mmasset0020810-workflow-data-fabric-hub-workflow-horizontal.png "Creating zero copy connections and data fabric tables")
+![Different users in an organization work together to define data requirements, establish a connection, and build data fabric tables for consumption. View the steps after the infographic for details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/image/mmasset0020810-workflow-data-fabric-hub-workflow-horizontal.png "Creating zero copy connections and data fabric tables")
 
 In this workflow:
 
@@ -52,9 +52,9 @@ In this workflow:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Access real-time data from external sources directly, without copying any data to your instance.|[Zero copy connections](connections-zcc.md)|Connection admin|
-|Create a virtual representation of data from an outside source and make it accessible to data consumers on the instance as if it's stored locally.|[Data fabric tables](data-fabric-tables-zcc.md)|Data steward, data consumer|
-|Map internal or external data to a predefined data fabric table in an application using a zero copy connection.|[Data fabric tables included with applications](mapping-application-tables-zcc.md)|Instance admin, connection admin, data steward|
+|Access real-time data from external sources directly, without copying any data to your instance.|[Zero copy connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connections-zcc.md)|Connection admin|
+|Create a virtual representation of data from an outside source and make it accessible to data consumers on the instance as if it's stored locally.|[Data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-fabric-tables-zcc.md)|Data steward, data consumer|
+|Map internal or external data to a predefined data fabric table in an application using a zero copy connection.|[Data fabric tables included with applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mapping-application-tables-zcc.md)|Instance admin, connection admin, data steward|
 
 ## Differences between Zero Copy Connectors and Integration Hub
 
@@ -67,9 +67,9 @@ Choose whether to use Zero Copy Connectors or Integration Hub to integrate with 
 
 To learn more about configuring and using Zero Copy Connectors, see:
 
--   [Configuring Zero Copy Connectors](configuring-zcc.md)
--   [Managing zero copy connections](managing-connections-zcc.md)
--   [Managing data fabric tables](managing-data-fabric-tables-zcc.md)
--   [Accessing real-time data in applications](mapping-application-tables-zcc.md)
--   [Zero Copy Connectors reference](../reference/reference-zcc.md)
+-   [Configuring Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configuring-zcc.md)
+-   [Managing zero copy connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-connections-zcc.md)
+-   [Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-data-fabric-tables-zcc.md)
+-   [Accessing real-time data in applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mapping-application-tables-zcc.md)
+-   [Zero Copy Connectors reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/reference-zcc.md)
 

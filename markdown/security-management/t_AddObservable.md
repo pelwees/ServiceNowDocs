@@ -23,7 +23,7 @@ Role required: sn\_ti.admin
 
 2.  Click **New**.
 
-    ![Add an observable](../../threat-intelligence-case-management/image/add-observable.png)
+    ![Add an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence-case-management/image/add-observable.png)
 
 3.  Fill in the fields on the form, as appropriate.
 
@@ -41,7 +41,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Select one of the following:-   **Malicious**: Indicates that the observable is 
 -   **Suspicious**: Indicates that the observable might be harmful to the organization.
 -   **Clean**: Indicates that the observable is not harmful to the organization.
 -   **Unknown**: Indicates that we are yet to determine the observable's finding.
--   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](../concept/threat-lookup-finding-calculators.md).
+-   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/threat-lookup-finding-calculators.md).
 
  **Note:** After an upgrade, existing observables are marked Malicious.
 
@@ -117,7 +117,7 @@ Location
 
 </td><td>
 
-Using the settings in two properties and a script include definition, you can load [Load more IoC data](t_LoadAdditionalIoCData.md) in this field.
+Using the settings in two properties and a script include definition, you can load [Load more IoC data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_LoadAdditionalIoCData.md) in this field.
 
 </td></tr><tr><td>
 
@@ -142,22 +142,22 @@ Enter any additional notes about the observable.
     |Security Annotations|Lists security annotations added to this observable.|
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_Observables.md)
 
 **Related topics**  
 
 
-[Add a related IoC to an observable](t_AddIoCToObserv.md)
+[Add a related IoC to an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddIoCToObserv.md)
 
-[Add associated tasks to an observable](t_AddAssociatedTasksToObservable.md)
+[Add associated tasks to an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddAssociatedTasksToObservable.md)
 
-[Add a related observable](t_AddRelatedObservable.md)
+[Add a related observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddRelatedObservable.md)
 
-[Load more IoC data](t_LoadAdditionalIoCData.md)
+[Load more IoC data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_LoadAdditionalIoCData.md)
 
-[Identify observable sources](t_IdentifyObservbleSources.md)
+[Identify observable sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyObservbleSources.md)
 
-[Perform lookups on observables](perform-lookups-on-observables.md)
+[Perform lookups on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
 
-[Perform threat enrichment on observables](perform-enrich-on-observs.md)
+[Perform threat enrichment on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-enrich-on-observs.md)
 

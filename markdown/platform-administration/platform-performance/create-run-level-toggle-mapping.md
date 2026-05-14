@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the Run Level Mapping form, fill in the fields.
 
-    For a description of the field values, see [Run level toggle mapping form](../reference/run-level-toggle-mapping-form.md).
+    For a description of the field values, see [Run level toggle mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../reference/run-level-toggle-mapping-form.md).
 
 4.  Select **Submit**.
 

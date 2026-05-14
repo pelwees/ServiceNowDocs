@@ -116,12 +116,12 @@ Last run
 Shows the timestamp when the custom scheduled job **Populate TRM technical debts in the EA Workspace** is run to update the table with technical debt.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[View TRM technical debts](../../task/eaw-task/view-trm-tech-debt.md)
+[View TRM technical debts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/view-trm-tech-debt.md)
 
-[Manage TRM technical debt](../../concept/eaw-concept/eaw-manage-trm-technical-debt.md)
+[Manage TRM technical debt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-trm-technical-debt.md)
 

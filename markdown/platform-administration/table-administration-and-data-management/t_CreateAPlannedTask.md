@@ -23,7 +23,7 @@ Role required: admin.
 
 Clicking the **New** button on the Planned Task record list launches the Planned Task Interceptor, which prompts the user to select a child table to create the planned task on:
 
-![Planned Task Interceptor](../image/PTaskInterceptor.png)
+![Planned Task Interceptor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/PTaskInterceptor.png)
 
 To modify the planned task interceptor:
 
@@ -37,8 +37,8 @@ To modify the planned task interceptor:
 
     The Related List **Answers** specifies what choices are presented, and where the user is redirected to once they select the choice.
 
-    ![Related List form](../image/PTaskInterceptor2.png)
+    ![Related List form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/PTaskInterceptor2.png)
 
 
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_PlannedTask.md)
 

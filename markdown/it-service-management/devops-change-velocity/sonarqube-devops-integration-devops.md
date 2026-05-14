@@ -45,16 +45,16 @@ On the SonarQube side, the following permissions are required.
 
 Sonar custom action and extension are available in the GitHub and Azure DevOps marketplace respectively. For Jenkins, the Sonar scan results are retrieved using ServiceNow Jenkins plugin.
 
-For more information on the scan results captured in ServiceNow, see [Software Quality Results](dev-ops-software-quality-results.md#).
+For more information on the scan results captured in ServiceNow, see [Software Quality Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-software-quality-results.md#).
 
 Use one of the following options to onboard SonarQube. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard SonarQube to DevOps Change Velocity — Workspace](../task/sonar-connect-workspace.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/sonar-connect-workspace.md)**  
 Connect to your Sonar instance using the DevOps Change Workspace playbook.
--   **[Onboard SonarQube to DevOps Change Velocity — Service Catalog](../task/sc-sonar.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/sc-sonar.md)**  
 Connect your Sonar instance using the ServiceNow Service Catalog.
--   **[Onboard SonarQube to DevOps Change Velocity — Classic](../task/create-sonar-tool-devops.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/create-sonar-tool-devops.md)**  
 Connect to your Sonar instance to retrieve scan results.
 
-**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)
+**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 

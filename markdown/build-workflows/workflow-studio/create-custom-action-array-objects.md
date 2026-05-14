@@ -72,7 +72,7 @@ Use this example to see demonstrations of these operations and steps.
 
 8.  Configure the action input with these values.
 
-    ![Create an action input that stores a department record.](../images/array-objects-config-inputs.png)
+    ![Create an action input that stores a department record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-inputs.png)
 
     |Field|Value|
     |-----|-----|
@@ -88,7 +88,7 @@ Use this example to see demonstrations of these operations and steps.
 
 11. Configure the step with these values.
 
-    ![Configure the Look Up Records step condition to use the department input variable.](../images/array-objects-config-look-up-records-step.png)
+    ![Configure the Look Up Records step condition to use the department input variable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-look-up-records-step.png)
 
 <table id="table_cvp_l5p_lhb"><thead><tr><th>
 
@@ -151,7 +151,7 @@ Max Results
 
 15. Configure the input variable with these values.
 
-    ![Configure the Script step input variable to use the User records data pill from the Look Up Records step.](../images/array-objects-config-script-step-variable.png)
+    ![Configure the Script step input variable to use the User records data pill from the Look Up Records step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-script-step-variable.png)
 
 <table id="table_uby_5zp_lhb"><thead><tr><th>
 
@@ -207,7 +207,7 @@ Value
 
 18. Configure the output variable with these values.
 
-    ![Create an array of objects called contacts. Within the array create an object called contact. Within contact object create three strings variables for first name, last name, and email address.](../images/array-objects-config-script-step-output-variables.png)
+    ![Create an array of objects called contacts. Within the array create an object called contact. Within contact object create three strings variables for first name, last name, and email address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-script-step-output-variables.png)
 
     |Label|Name|Type|Mandatory|
     |-----|----|----|---------|
@@ -247,7 +247,7 @@ Value
 
 28. For **Enter a Name**, enter `contact`.
 
-    ![Save the object template with the name contact.](../images/array-objects-config-script-step-output-variable-template.png)
+    ![Save the object template with the name contact.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-script-step-output-variable-template.png)
 
 29. Click **Save**.
 
@@ -255,7 +255,7 @@ Value
 
 31. Configure the Action Output with these values.
 
-    ![Create an action output called contacts to store an array of objects.](../images/array-objects-config-outputs.png)
+    ![Create an action output called contacts to store an array of objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-outputs.png)
 
     |Label|Name|Type|Mandatory|
     |-----|----|----|---------|
@@ -279,7 +279,7 @@ Value
 
 37. For **contacts**, select **\[step-&gt;Script step-&gt;contacts\]**.
 
-    ![Configure the action output variable to use the contacts data pill from the Script step.](../images/array-objects-config-outputs-contacts.png)
+    ![Configure the action output variable to use the contacts data pill from the Script step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-config-outputs-contacts.png)
 
     **Note:** You can select the Script step **contacts** data pill from the data panel or from the Data Pill Picker button.
 
@@ -291,7 +291,7 @@ Value
 
 40. Enter the following test value:
 
-    ![Select the Development department to test your action.](../images/array-objects-test-action-department.png)
+    ![Select the Development department to test your action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-test-action-department.png)
 
     |Input|Value|
     |-----|-----|
@@ -307,7 +307,7 @@ Value
 
 43. Review the runtime value for the action Output data.
 
-    ![Execution details page for the test results of your custom action.](../images/array-objects-execution-details-page.png)
+    ![Execution details page for the test results of your custom action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-objects-execution-details-page.png)
 
     Although the execution details display the output data as a JSON formatted string, the actual output data type is an array of objects. If you need a string version of your output, you can convert the object into a string using the JSON class. For more information about converting a JSON object into a string, see [Scoped JSON - stringify\(Object jsonObject\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/JSONScopedAPI.md).
 
@@ -347,5 +347,5 @@ You have a custom action that looks up the Users for a given department and conv
 
 Customize this action to use your own logic.
 
-**Parent Topic:**[Script support for complex data](../concept/script-support-complex-data.md)
+**Parent Topic:**[Script support for complex data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/script-support-complex-data.md)
 

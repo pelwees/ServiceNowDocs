@@ -33,17 +33,17 @@ Users with the following roles can access/create artifacts on the Platform Analy
 
 Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
-![Left navigation pane in PA library for analytics admin users](../../par-for-workspace/image/overview-left-nav-admin.png "Platform Analytics library navigation for analytics admin users")
+![Left navigation pane in PA library for analytics admin users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/overview-left-nav-admin.png "Platform Analytics library navigation for analytics admin users")
 
-**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/platform-analytics-roles.md).
 
-![Left navigation pane in PA library for users with non-admin roles](../../par-for-workspace/image/overview-left-nav-non-admin.png "Platform Analytics library navigation for non-admin users")
+![Left navigation pane in PA library for users with non-admin roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/overview-left-nav-non-admin.png "Platform Analytics library navigation for non-admin users")
 
 ## Platform Analytics overview elements
 
-![Platform analytics overview page for analytics admin users](../../par-for-workspace/image/analytics-overview-admin.png "Platform Analytics overview for analytics admin users")
+![Platform analytics overview page for analytics admin users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/analytics-overview-admin.png "Platform Analytics overview for analytics admin users")
 
-![Platform analytics overview page for users with non-admin roles](../../par-for-workspace/image/analytics-overview-non-admin.png "Platform analytics overview for non-admin users")
+![Platform analytics overview page for users with non-admin roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/analytics-overview-non-admin.png "Platform analytics overview for non-admin users")
 
 The following table shows the elements that users can view in the Analytics Overview page. Refer to the numbered call-outs in the image and their descriptions in the table.
 

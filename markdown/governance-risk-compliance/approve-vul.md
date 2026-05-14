@@ -31,7 +31,7 @@ Role required: sn\_oper\_res.manager, sn\_oper\_res.admin, approver of the vulne
 
     The state of the operational vulnerability is updated from **Requested** to **Approved**. The state transition in the Approvers related list is shown in the example.
 
-    ![Update the state.](../image/update-vul-to-approved.png)
+    ![Update the state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/update-vul-to-approved.png)
 
     The state of the operational vulnerability record is updated to **Approved**. The fields on the vulnerability record are now locked.
 

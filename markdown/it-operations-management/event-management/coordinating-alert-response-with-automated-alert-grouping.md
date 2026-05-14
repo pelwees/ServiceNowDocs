@@ -49,5 +49,5 @@ By default, the alert grouping job \(**Service Analytics group alerts using RCA/
 9.  Select **Update**.
 
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-management-rule.md)
 

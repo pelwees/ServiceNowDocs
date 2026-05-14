@@ -49,7 +49,7 @@ Role required: sn\_lg\_outlook.admin
 
 ## What to do next
 
-[Deploy Microsoft Outlook Add-In for Legal Service Delivery](lsd-enable-outllook-addin.md).
+[Deploy Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-enable-outllook-addin.md).
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/lsd-outlook-addin-configure.md)
 

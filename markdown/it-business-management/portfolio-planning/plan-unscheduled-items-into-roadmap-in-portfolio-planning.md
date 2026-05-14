@@ -55,12 +55,12 @@ Navigation
 From the Free-form Roadmaps tab, select a roadmap.
 
 </td></tr></tbody>
-</table>2.  From the sidebar, select Unscheduled items \(![Unscheduled items icon.](../../alignment-planner-workspace/images/unscheduled-items-icon.png)\).
+</table>2.  From the sidebar, select Unscheduled items \(![Unscheduled items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/unscheduled-items-icon.png)\).
 
 3.  From the list of unscheduled items in the side panel, drag and drop a planning item at a place of your choice on the roadmap.
 
-    ![Schedule unscheduled items.](../../spw-roadmap/images/unscheduled-items.gif)
+    ![Schedule unscheduled items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/unscheduled-items.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

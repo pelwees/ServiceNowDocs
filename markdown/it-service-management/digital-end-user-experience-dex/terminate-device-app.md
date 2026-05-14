@@ -23,13 +23,13 @@ Role required: sn\_dex.engineer or sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Devices icon \(![Devices icon](../image/icon-devices.png)\).
+2.  In the primary navigation pane, select the Devices icon \(![Devices icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-devices.png)\).
 
 3.  Select the device for which you want to terminate a process.
 
 4.  Select **Running processes**.
 
-5.  In the contextual side panel, select the Action library icon \(![Actions library icon](../image/icon-action-library.png)\).
+5.  In the contextual side panel, select the Action library icon \(![Actions library icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-action-library.png)\).
 
 6.  In the **End process** card, select **Start**.
 
@@ -48,7 +48,7 @@ The process is terminated.
 
 ## What to do next
 
-In the contextual side panel, select the Playbook icon \(![Playbook icon](../image/icon-playbook.png)\) to access the current action of the device and to review the action execution history of the device.
+In the contextual side panel, select the Playbook icon \(![Playbook icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-playbook.png)\) to access the current action of the device and to review the action execution history of the device.
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-remedial-actions.md)
 

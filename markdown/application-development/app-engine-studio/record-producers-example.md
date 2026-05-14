@@ -19,7 +19,7 @@ A record producer experience that you create in App Engine Studio \(AES\) is a s
 
 The following provides an example of a record producer that creates a password reset request.
 
-![Sample record producer](../image/record-producer-example.png)
+![Sample record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/record-producer-example.png)
 
-**Parent Topic:**[Add a record producer](../task/add-a-record-producer.md)
+**Parent Topic:**[Add a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/add-a-record-producer.md)
 

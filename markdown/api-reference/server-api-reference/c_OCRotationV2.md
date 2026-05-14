@@ -17,7 +17,7 @@ The OCRotationV2 script include is an extension of OCRotation script include, wh
 
 Use this script include to obtain the schedule time span between two dates that are further filtered by groups, rotas, rosters, and users. You can also extend OCRotationV2 to add or modify behavior. This is part of On-Call Scheduling.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## OCRotationV2 - getGroups\(\)
 

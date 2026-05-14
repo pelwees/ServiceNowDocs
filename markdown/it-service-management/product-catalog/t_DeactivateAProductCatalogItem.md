@@ -47,14 +47,14 @@ Select **Deactivate** under **Related Links**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 
 
-[Create a product catalog item](t_CreateAProductCatalogItem.md)
+[Create a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAProductCatalogItem.md)
 
-[Activate a product catalog item](t_ActivateAProductCatalogItem.md)
+[Activate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_ActivateAProductCatalogItem.md)
 
-[Import a Product Catalog item](migrate-product-catalog-item.md)
+[Import a Product Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/migrate-product-catalog-item.md)
 

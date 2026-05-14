@@ -17,7 +17,7 @@ The **Activity** tab on My Learning provides a variety of widgets that help you 
 
 The activity tab has the following widgets that help you with a seamless learning experience:
 
-![Shows your current course.](../image/activity-lxp.png "Activity tab")
+![Shows your current course.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/activity-lxp.png "Activity tab")
 
 -   Assigned: View courses currently assigned to you.
 -   Saved: View your saved collections.

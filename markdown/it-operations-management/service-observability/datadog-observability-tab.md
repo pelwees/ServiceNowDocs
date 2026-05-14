@@ -69,5 +69,5 @@ These dashboards display metrics for databases related to the service.
 |Buffer Hits|Number of times disk blocks were found in the buffer cache, so that a read wasn’t necessary.|Datadog|
 |All PostgreSQL Instances|Information of all databases the service is actively using. Select a database link to view more detailed information.|CMDB|
 
-**Parent Topic:**[Datadog templates for Service Observability](datadog-templates.md)
+**Parent Topic:**[Datadog templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/datadog-templates.md)
 

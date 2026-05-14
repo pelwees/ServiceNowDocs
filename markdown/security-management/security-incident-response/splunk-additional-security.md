@@ -112,10 +112,10 @@ Option to update your SIR work notes in the Splunk Event comments. The comment i
 
     The following image shows the Additional Options tab with default values populated:
 
-    ![Additional Options:1](../image/splunk_es_additional_security.png)
+    ![Additional Options:1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_additional_security.png)
 
     With the Additional Options configuration enabled, the notable event incident review shows the status change and an update to the history comments:
 
-    ![Additional Options: 2](../image/splunk_es_additional1_security.png)
+    ![Additional Options: 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_additional1_security.png)
 
 

@@ -37,8 +37,8 @@ Description
 
 </td><td>
 
-1.  From the primary navigation, click the list icon \(![List icon](../../itsm-manager-workspace/image/lists_icon.png)\).
-2.  Click the add icon \(![add icon](../image/add-icon.png)\) next to the **List** tab.
+1.  From the primary navigation, click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-manager-workspace/image/lists_icon.png)\).
+2.  Click the add icon \(![add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-icon.png)\) next to the **List** tab.
 3.  Click **New Interaction**.
 
 
@@ -76,14 +76,14 @@ Description
 3.  Click **Save**.
 
 
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
 **Related topics**  
 
 
-[Work on an interaction in Service Operations Workspace](work-on-interaction-sow.md)
+[Work on an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-interaction-sow.md)
 
-[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](collaborate-interaction-ms-teams-sow.md)
+[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaborate-interaction-ms-teams-sow.md)
 
-[Associate an interaction with a task record](associate-interaction-record-sow.md)
+[Associate an interaction with a task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/associate-interaction-record-sow.md)
 

@@ -17,11 +17,11 @@ The hiring tab works as the source of truth for the hiring manager.
 
 The hiring tab helps the hiring managers track the requests raised by them from the My job requests section.
 
-![Hiring tab shows number of my job requests by state and paginated details](../images/hiring-dashboard.png "Hiring tab")
+![Hiring tab shows number of my job requests by state and paginated details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/hiring-dashboard.png "Hiring tab")
 
 It provides information about the number of open requisitions by state.
 
 It also lists out all the job requisition by Job Title, Recruiter, State, and Last Updated data.
 
-**Parent Topic:**[Using Hiring](use-hiring.md)
+**Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 

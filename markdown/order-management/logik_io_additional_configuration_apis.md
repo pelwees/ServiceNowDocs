@@ -13,7 +13,7 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 These CPQ configuration APIs let you retrieve or delete an existing configuration. They complement the runtime APIs and are useful for viewing full configuration details and for removing configurations no longer needed. Use them alongside the standard create, update, reconfigure, and BOM APIs to support end-to-end configuration workflows.
 
-This article is a followup to [Runtime APIs](logik_io_runtime_apis.md). For more information on authentication and setup,see that article.
+This article is a followup to [Runtime APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_io_runtime_apis.md). For more information on authentication and setup,see that article.
 
 These API endpoints to get a configuration and delete a configuration from CPQ are included for completeness.
 

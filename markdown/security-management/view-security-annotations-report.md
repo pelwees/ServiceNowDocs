@@ -24,16 +24,16 @@ Role required: admin
 2.  Search for Security Annotations under **My reports** or **All.**
 
 
-**Parent Topic:**[Security annotations](../concept/security-annotations.md)
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/security-annotations.md)
 
 **Related topics**  
 
 
-[Create security annotations for CIs](create-security-annotations.md)
+[Create security annotations for CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-security-annotations.md)
 
-[Create security annotations for observables](create-security-annotations-multiple.md)
+[Create security annotations for observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-security-annotations-multiple.md)
 
-[Create security annotations for users](create-multi-sec-annotations-for-users.md)
+[Create security annotations for users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-multi-sec-annotations-for-users.md)
 
 [View the Reports list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/r_ViewTheReportsList.md)
 

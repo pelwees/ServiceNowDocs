@@ -27,7 +27,7 @@ If you have duplicate or reused job names in your pipeline execution steps, ensu
 
 Using the Azure Invoke REST API requires the creation of a generic service connection in Azure DevOps.
 
-![Azure YAML REST API change control connection](../image/dev-ops-azure-api-change-conn.png)
+![Azure YAML REST API change control connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-azure-api-change-conn.png)
 
 ## YAML Azure pipeline
 
@@ -102,9 +102,9 @@ Release pipeline:
 
 For a Classic Azure pipeline, an Invoke REST API server task must be added.
 
-![Azure Pipeline Invoke REST API change control](../image/dev-ops-azure-api-change-classic.png "Classic Azure build pipeline example")
+![Azure Pipeline Invoke REST API change control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-azure-api-change-classic.png "Classic Azure build pipeline example")
 
-![DevOps Azure classic release pipeline](../image/dev-ops-azure-api-chg-rel-classic.png "Classic Azure release pipeline example")
+![DevOps Azure classic release pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-azure-api-chg-rel-classic.png "Classic Azure release pipeline example")
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 

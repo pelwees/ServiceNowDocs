@@ -33,10 +33,10 @@ Learn about the fields on the Create status report form of the Project Workspace
 |Scope|Indication for whether the project scope is undergoing any changes.|
 |Comments on scope|Observations or explanations about changes to the project’s scope, including how they might affect the project.|
 
-**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
 **Related topics**  
 
 
-[Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)
+[Create a status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../task/create-a-status-report-in-project-workspace.md)
 

@@ -19,5 +19,5 @@ These diagrams show the relationships between the tables within the application 
 
 The following diagram shows the tables and their relationships within the Healthcare Operations Core application:
 
-![Care Team Operations data model.](../image/hco-case-date-model.png)
+![Care Team Operations data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/hco-case-date-model.png)
 

@@ -41,5 +41,5 @@ User roles and tables are installed with SaaS License Management. Demo data is a
 |Subscription Usage Summary \[samp\_subscription\_usage\_summary\]|Software usage summary information including rights owned, rights assigned, stale rights, available rights, and cost.|
 |Unrecognized Subscription Identifiers \[samp\_sw\_unrecognized\_subscription\_identifier\]|List of subscription identifiers that are not associated with a software model.|
 
-**Parent Topic:**[Request SaaS License Management](../task/request-saas-license-management.md)
+**Parent Topic:**[Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md)
 

@@ -82,12 +82,12 @@ To allow the connector to access your WordPress source system via the WordPress 
 Provide the following items to your connector admin:
 
 -   The URL for your WordPress website.
--   The user name for the administrator user account that you copied in step [4.c](configure-wordpress-external-content-indexing.md#copy-username-step).
--   The application password for the administrator user account that you copied in step [5.d](configure-wordpress-external-content-indexing.md#copy-password-step).
+-   The user name for the administrator user account that you copied in step [4.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-wordpress-external-content-indexing.md#copy-username-step).
+-   The application password for the administrator user account that you copied in step [5.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-wordpress-external-content-indexing.md#copy-password-step).
 
 Your connector admin needs these items to configure a WordPress external content connector to retrieve pages and blog posts and security principals from your WordPress source system.
 
-For details on creating and configuring a WordPress external content connector, see [Create a WordPress external content connector](create-ext-cont-connector-wordpress.md).
+For details on creating and configuring a WordPress external content connector, see [Create a WordPress external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-wordpress.md).
 
-**Parent Topic:**[WordPress external content connector](../concept/wordpress-external-content-connector.md)
+**Parent Topic:**[WordPress external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/wordpress-external-content-connector.md)
 

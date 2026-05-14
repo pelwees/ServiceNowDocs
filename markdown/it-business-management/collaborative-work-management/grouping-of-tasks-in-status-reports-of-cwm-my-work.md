@@ -37,12 +37,12 @@ Priority buckets provide a unified way to understand the urgency of tasks. Prior
 
 Your ServiceNow instance may have some extended task types that have custom state or priority values. These custom values may not align with the default values of the Task table. These work items with these non-default State or Priority values appear as **Others** in the bar graphs in My Work. This method ensures reporting accuracy instead of forcing a state/priority into the wrong bucket.
 
-![Other grouping for State and Priority.](../images/cwm-my-work-other.png)
+![Other grouping for State and Priority.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-my-work-other.png)
 
-**Parent Topic:**[Collaborative Work Management reference](../concept/reference-cwm.md)
+**Parent Topic:**[Collaborative Work Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/reference-cwm.md)
 
 **Related topics**  
 
 
-[My Work in CWM](../concept/my-work-in-cwm.md)
+[My Work in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/my-work-in-cwm.md)
 

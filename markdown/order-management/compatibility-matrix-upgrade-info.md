@@ -37,7 +37,7 @@ Customer Engagement Sequences starting with version 2.0.1
 
 Roles
 
- For more information, see [Components installed with Customer Engagement Sequences](components-installed-customer-engagement-sequences.md).
+ For more information, see [Components installed with Customer Engagement Sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/components-installed-customer-engagement-sequences.md).
 
 </td><td>
 

@@ -17,13 +17,13 @@ View your capabilities, product adoption roadmaps, and subscriptions for your Se
 
 <table id="table_uqc_flp_fsb" class="nav-card"><tbody><tr><td>
 
-[Capabilities maps](capabilities-map.md)
+[Capabilities maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/capabilities-map.md)
 
  ![](../../../reuse/icons/brand-icons/bus-extend-visability.svg) View the full landscape of your licensed ServiceNow products and the status of their utilization.
 
 </td><td align="center">
 
-[Product Adoption Roadmaps](impact-par.md)
+[Product Adoption Roadmaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/impact-par.md)
 
  ![](../../../reuse/icons/brand-icons/bus-workflow.svg)
 
@@ -31,7 +31,7 @@ View your capabilities, product adoption roadmaps, and subscriptions for your Se
 
 </td><td>
 
-[Subscriptions](subscriptions.md)
+[Subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/subscriptions.md)
 
  ![](../../../reuse/icons/brand-icons/bus-business-management.svg)
 

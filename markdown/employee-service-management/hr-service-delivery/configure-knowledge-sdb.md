@@ -31,7 +31,7 @@ Role required: admin
 
 5.  In the Activity Context Type form, change the filter condition to include the relevant knowledge bases.
 
-6.  ![Description of the field values in the Activity Context Type form](../image/activity-type-hr-dshbrd.png "Activity context type")
+6.  ![Description of the field values in the Activity Context Type form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/activity-type-hr-dshbrd.png "Activity context type")
 
 7.  Select **Update**.
 

@@ -105,5 +105,5 @@ Calculations:
 
 This calculation is performed for each agent in the assignment group. Agents are ranked based on the value of this calculation, with the highest number earning the highest ranking.
 
-**Parent Topic:**[Create a criteria for a matching rule in Work scheduler](../task/assignment-rules-work-scheduler-wfo-itsm.md)
+**Parent Topic:**[Create a criteria for a matching rule in Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/assignment-rules-work-scheduler-wfo-itsm.md)
 

@@ -25,14 +25,14 @@ If no matching consumable record exists in the receiving stockroom, a record is 
 
 For more details on creating consumable assets, see [Create consumable assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingConsumableAssets.md).
 
-**Parent Topic:**[Receive assets](c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_ReceiveAssets.md)
 
 **Related topics**  
 
 
-[Receive an asset](../task/t_ReceiveAnAsset.md)
+[Receive an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_ReceiveAnAsset.md)
 
-[Create a receiving slip](../task/t_CreateAReceivingSlip.md)
+[Create a receiving slip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_CreateAReceivingSlip.md)
 
-[Create a receiving slip line](../task/t_CreateAReceivingSlipLine.md)
+[Create a receiving slip line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_CreateAReceivingSlipLine.md)
 

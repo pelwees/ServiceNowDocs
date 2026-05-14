@@ -53,7 +53,7 @@ Actions
 
 </td><td>
 
-1.  Tap the document icon \(![Document icon.](../image/document.png)\).
+1.  Tap the document icon \(![Document icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/document.png)\).
 2.  Select a document to add to your work order task.
 
 
@@ -63,7 +63,7 @@ Actions
 
 </td><td>
 
-1.  Tap the image icon \(![Image icon.](../image/image-icon.png)\)
+1.  Tap the image icon \(![Image icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/image-icon.png)\)
 2.  Select an image to upload.
 
 
@@ -73,7 +73,7 @@ Actions
 
 </td><td>
 
-1.  Tap the camera icon \(![Camera icon.](../image/camera.png)\).
+1.  Tap the camera icon \(![Camera icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/camera.png)\).
 2.  Capture the image to include in your work order task.
 
 

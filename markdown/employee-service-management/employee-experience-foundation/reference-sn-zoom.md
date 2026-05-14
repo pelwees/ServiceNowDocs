@@ -17,8 +17,8 @@ Reference topics providing additional information about ServiceNow Collaboration
 
 For more information about the API scope for ServiceNow Collaboration services for Zoom, see [Setup Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-zoom.md)
 
--   **[API permissions/scope for ServiceNow integration with Zoom](api-scope-sn-integ-zoom.md)**  
+-   **[API permissions/scope for ServiceNow integration with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/api-scope-sn-integ-zoom.md)**  
 The list of the API permissions/scope requested by the ServiceNow Collaboration services for Zoom are as follows.
 
-**Parent Topic:**[ServiceNow for Zoom](../concept/sn_zoomIntegration.md)
+**Parent Topic:**[ServiceNow for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/sn_zoomIntegration.md)
 

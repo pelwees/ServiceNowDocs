@@ -15,10 +15,10 @@ breadcrumb: [Create and manage enterprise models, Managing enterprise models and
 
 Manage the complete lifecycle of enterprise models by creating calculated lifecycle templates and associating these templates with the models.
 
--   **[Create Calculated model lifecycle templates in the Enterprise Asset Workspace](../task/create-calculated-model-lc-template-eam.md)**  
+-   **[Create Calculated model lifecycle templates in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-calculated-model-lc-template-eam.md)**  
 Create Calculated model lifecycle templates to manage the complete lifecycle of the models efficiently.
--   **[Associate an enterprise model with a Calculated model lifecycle template](../task/associate-eam-model-calc-template.md)**  
+-   **[Associate an enterprise model with a Calculated model lifecycle template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/associate-eam-model-calc-template.md)**  
 Associate an enterprise model with a Calculated model lifecycle template to populate the lifecycle details of the model automatically.
 
-**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 

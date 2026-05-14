@@ -22,5 +22,5 @@ Key terms used in Data catalog.
 |Glossary term|Business glossary terms define business concepts and can be linked to catalog assets to provide business context. Terms include definitions, synonyms, related concepts, and ownership information. Use glossary terms to bridge the gap between technical data structures and business understanding.|
 |Connect Hub|The interface in Workflow Data Fabric Home where Connection Admins create and manage connections to external systems. From Connect Hub, admins configure credentials and authentication and set up metadata collectors.|
 
-**Parent Topic:**[Data catalog reference](data-catalog-reference.md)
+**Parent Topic:**[Data catalog reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog-reference.md)
 

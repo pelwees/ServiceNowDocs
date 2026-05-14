@@ -21,7 +21,7 @@ Before calculating the recovery time objective \(RTO\) and recovery point object
 
 Setting up the impact ratings to evaluate an impact category is a crucial step in business continuity management. To grasp the importance of configuring these impact categories, refer to the steps needed for implementing the BCM process, as outlined in the checklist.
 
-![Flowchart showing sequential BCM implementation steps from installing applications through configuring plan templates.](../../grc-bcm-implementation/image/BCMImplementationFlowchart.jpg "Graphical flowchart of BCM implementation checklist")
+![Flowchart showing sequential BCM implementation steps from installing applications through configuring plan templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-bcm-implementation/image/BCMImplementationFlowchart.jpg "Graphical flowchart of BCM implementation checklist")
 
 -   **BIA workflow**
 
@@ -29,20 +29,20 @@ Setting up the impact ratings to evaluate an impact category is a crucial step i
 
     A sample BIA workflow is shown in the example.
 
-    ![BIA workflow state diagram showing transitions from Draft through Approved with decision points.](../image/bia-lifecycle.png)
+    ![BIA workflow state diagram showing transitions from Draft through Approved with decision points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-lifecycle.png)
 
 
 ## Responding to the assessments
 
 The business users and IT owners perform business impact analysis by responding to the assessments in the BIA component in the BCM UIB Workspace. A sample view of the **Assessments** tab is shown in the example.
 
-![Assessments tab in the BIA.](../image/bia-assessments-tab.png)
+![Assessments tab in the BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-assessments-tab.png)
 
 If you are the IT owner, you can estimate the recovery point objective for your data applications and systems by responding to the Recovery point objective assessment in the BIA.
 
 ## Administrator view for configuring impact category and ratings
 
-BCM administrators configure the assessment questionnaire to include one or more impact ratings such as **Low**, **Moderate**, or **High** for an impact category. The Impact Ratings related list is displayed in the Impact Category record as shown in the example.![Administrator view for the impact category.](../image/impact-category-admin-view.png)
+BCM administrators configure the assessment questionnaire to include one or more impact ratings such as **Low**, **Moderate**, or **High** for an impact category. The Impact Ratings related list is displayed in the Impact Category record as shown in the example.![Administrator view for the impact category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-category-admin-view.png)
 
 BCM administrators specify the threshold of non-tolerance for the impact ratings according to impact category. The disruption duration for the first non-tolerable impact category is selected for the recovery time objective \(RTO\). The impact ratings have the specified values:
 
@@ -52,37 +52,37 @@ BCM administrators specify the threshold of non-tolerance for the impact ratings
 
 The rating for the impact category is calculated based on the disruption duration as shown in the example.
 
-![An example to show the calculation of impact category results.](../image/BIAImpactCategoryResults.png "Calculating the impact category")
+![An example to show the calculation of impact category results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BIAImpactCategoryResults.png "Calculating the impact category")
 
 Based on the configuration set up by BCM administrator, the questions are displayed in the **Recovery point objective assessment** tab as shown in the example.
 
-![Recovery point objective assessment.](../image/rpo-assessment-questions-1.png)
+![Recovery point objective assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-assessment-questions-1.png)
 
 ## Calculation of RPO score for the BIA with examples
 
 Consider the scenario where each question response has a numeric value. The application calculates the category score for each RPO impact category based on the highest response value.
 
-![Calculation.](../image/rpo-score-for-BIA-step-a.png)
+![Calculation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-score-for-BIA-step-a.png)
 
 The application selects the highest category score from all the RPO categories. In the example, the highest category score is 40.
 
-![Category score.](../image/rpo-score-for-BIA-step-b.png)
+![Category score.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-score-for-BIA-step-b.png)
 
 The application uses the Score Timeframe Mapping, defined at the template level, to determine the appropriate timeframe value. In the example, the category score is 40, which falls between the lower and upper threshold scores. The timeframe mapped to this score is "Immediately." Therefore, the system-calculated RPO value is "Immediately."
 
-![Calculated RPO value.](../image/rpo-score-for-BIA-step-c.png)
+![Calculated RPO value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-score-for-BIA-step-c.png)
 
 ## Recovery time objective assessment
 
 If you are the business user, you can estimate the recovery time objective for your business services and processes by responding to the Recovery time objective assessment in the **Assessments** tab. The questions are displayed in the **Recovery time objective assessment** tab according to the configuration set up by BCM administrators. A sample Recovery time objective assessment is shown in the example.
 
-![Recovery time objective assessment.](../image/rto-assessment-questions.png)
+![Recovery time objective assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-assessment-questions.png)
 
 ## Calculation of RTO score for the BIA with examples
 
 Consider the scenario where each question response is assigned a numeric value. The application identifies the highest tolerable value for each RTO Impact category.
 
-![Tolerable value for each RTO.](../image/rto-score-for-BIA-step-a.png)
+![Tolerable value for each RTO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-score-for-BIA-step-a.png)
 
 The application then calculates the “Tolerable downtime” value for each RTO Impact category as the Impact rating with a value higher than the highest tolerable value. If no value exists, the application uses the maximum RTO value \(that is defined at the Impact category\) as the “Tolerable downtime.” The system calculates the RTO score based on the lowest “Tolerable downtime” value from all RTO impact categories.
 
@@ -90,7 +90,7 @@ The application then calculates the “Tolerable downtime” value for each RTO 
 
 In the example, the RTO score based on the lowest “Tolerable downtime” value is 8 Hours.
 
-![Calculated RTO value.](../image/rto-score-for-BIA-step-b.png)
+![Calculated RTO value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-score-for-BIA-step-b.png)
 
 ## Sample RTO calculation
 
@@ -148,7 +148,7 @@ In the Impact Ratings table, the **Tolerable** field is set to **false**.
 
 </td><td>
 
-If the administrator has specified that High regulatory impact is non-tolerable, its corresponding disruption duration is set as the recovery time objective \(RTO\) as shown in the example. ![Administrator view for the impact category.](../image/impact-category-admin-view.png)
+If the administrator has specified that High regulatory impact is non-tolerable, its corresponding disruption duration is set as the recovery time objective \(RTO\) as shown in the example. ![Administrator view for the impact category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-category-admin-view.png)
 
  In the tabular example, the disruption duration for **03 - High** impact is set to 72 hours. Therefore, the recovery time objective for the impact category is above 72 hours.
 
@@ -164,7 +164,7 @@ The **Tolerable** field for the Low, Moderate, and High impact ratings is set to
 
 If the administrator has set all the impact ratings as tolerable, the value specified in the **Maximum RTO value** field in the template is selected as the recovery time objective \(RTO\).
 
- In the example, the administrator has set all the impact ratings as tolerable. Therefore, the recovery time objective \(RTO\) is one month according to the value specified in the **Maximum RTO value** field.![Maximum RTO value.](../image/maximum-rto-value.png)
+ In the example, the administrator has set all the impact ratings as tolerable. Therefore, the recovery time objective \(RTO\) is one month according to the value specified in the **Maximum RTO value** field.![Maximum RTO value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/maximum-rto-value.png)
 
 </td></tr></tbody>
 </table>-   **Calculation of overall impact assessment result for a BIA**
@@ -184,5 +184,5 @@ If the administrator has set all the impact ratings as tolerable, the value spec
     |1 Month|Non-Essential|
 
 
-**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 

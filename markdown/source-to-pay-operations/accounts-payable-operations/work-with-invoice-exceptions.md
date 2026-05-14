@@ -91,7 +91,7 @@ Insufficient Funds \(Quantity variance\)
 
 This exception occurs when the total quantity of previously billed invoices and the current invoice, which is in-process becomes more than the respective purchase order line quantity.This exception is a line-level exception.
 
-To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](../task/edit-purchase-insufficient-funds.md).
+To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/edit-purchase-insufficient-funds.md).
 
 </td><td>
 
@@ -99,7 +99,7 @@ To resolve this invoice exception, you must edit the purchase order. For more in
 
 </td><td>
 
-To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](../task/edit-purchase-insufficient-funds.md).
+To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/edit-purchase-insufficient-funds.md).
 
 </td><td>
 
@@ -119,7 +119,7 @@ This exception occurs when purchase order lines don't have sufficient funds left
 
 </td><td>
 
-To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](../task/edit-purchase-insufficient-funds.md).
+To resolve this invoice exception, you must edit the purchase order. For more information, see [Edit a purchase for an Insufficient Funds invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/edit-purchase-insufficient-funds.md).
 
 </td><td>
 
@@ -141,15 +141,15 @@ This exception occurs when one or more lines of an invoice don’t have sufficie
 
 -   **Resolving the Insufficient Goods Receipt exception when PSM is installed**
 
-If Sourcing and Procurement Operations \(PSM\) is installed, and if no receipt task exists for the purchase order line, Accounts Payable Invoice Processing creates a receipt task and displays the task in the **Related tasks** tab of the exception form. For more information, see [Invoice exception form](../reference/exception-form-fields.md).
+If Sourcing and Procurement Operations \(PSM\) is installed, and if no receipt task exists for the purchase order line, Accounts Payable Invoice Processing creates a receipt task and displays the task in the **Related tasks** tab of the exception form. For more information, see [Invoice exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/exception-form-fields.md).
 
 The receipt task is assigned to the user specified in the **Recipient** field on the PO line. The recipient must have the sn\_shop.acknowledgement\_task\_owner role to complete the receipt task from Employee Center.
 
-For more information, see [Confirm receipt of your order from Employee Center](../task/confirm-receipt-task.md).
+For more information, see [Confirm receipt of your order from Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/confirm-receipt-task.md).
 
 -   **Resolving the Insufficient Goods Receipt exception when PSM isn’t installed**
 
-If Sourcing and Procurement Operations isn’t installed, then the Accounts Payable Specialist must manually create an exception task, which is assigned to the business owner. The business owner must mark this task as complete in Employee Center. For more information, see [Mark an exception task as complete from Employee Center](../task/complete-exception-task-ec.md).
+If Sourcing and Procurement Operations isn’t installed, then the Accounts Payable Specialist must manually create an exception task, which is assigned to the business owner. The business owner must mark this task as complete in Employee Center. For more information, see [Mark an exception task as complete from Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/complete-exception-task-ec.md).
 
 
 </td><td>
@@ -576,50 +576,50 @@ To resolve this invoice exception, do the following: 1.  Log in to the applicati
 PO invoice, Credit memo
 
 </td></tr></tbody>
-</table>By default, the exception engine is configured to run once every 5 minutes through the **Exception Monitoring Job**. This is a scheduled job, which is inactive in the state by default. For information on how to activate the scheduled job, see [Activate the Exceptions Monitoring Scheduler](../task/activate-exception-flow.md).
+</table>By default, the exception engine is configured to run once every 5 minutes through the **Exception Monitoring Job**. This is a scheduled job, which is inactive in the state by default. For information on how to activate the scheduled job, see [Activate the Exceptions Monitoring Scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/activate-exception-flow.md).
 
-However, you can also run the exception engine manually. For more information, see [Check for invoice exceptions on a single invoice](../task/identify-exceptions-manually.md).
+However, you can also run the exception engine manually. For more information, see [Check for invoice exceptions on a single invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/identify-exceptions-manually.md).
 
 When you run the exception engine manually on a single invoice, it checks for exceptions only on that invoice, whereas the automated exception engine checks for exceptions on all the invoices that are valid for exception check.
 
-You can bypass an exception in situations where that exception is not applicable to an invoice. For more information, see [Bypass an invoice exception](../task/bypass-invoice-exception.md).
+You can bypass an exception in situations where that exception is not applicable to an invoice. For more information, see [Bypass an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/bypass-invoice-exception.md).
 
 The Accounts Payable Operations exception engine finds exceptions and lists them in the list page of the Source-to-Pay Workspace. View the list of exceptions by navigating to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-In the workspace, select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+In the workspace, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
 -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice exceptions**.
 -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice exceptions**.
 
-The Accounts Payable Specialist can analyze the invoice exceptions, create exception tasks, and assign these tasks to the relevant individuals to fix the exceptions and resolve the case. For more information, see [Work on an invoice exception](../task/work-invoice-exception-case.md).
+The Accounts Payable Specialist can analyze the invoice exceptions, create exception tasks, and assign these tasks to the relevant individuals to fix the exceptions and resolve the case. For more information, see [Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/work-invoice-exception-case.md).
 
--   **[Activate the Exceptions Monitoring Scheduler](../task/activate-exception-flow.md)**  
+-   **[Activate the Exceptions Monitoring Scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/activate-exception-flow.md)**  
 Activate the **Exception Monitoring Scheduler** to run the exception engine on a regular schedule to identify invoice exceptions.
--   **[Work on an invoice exception](../task/work-invoice-exception-case.md)**  
+-   **[Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/work-invoice-exception-case.md)**  
 As an Accounts Payable Specialist, analyze the invoice exceptions, create exception tasks, and assign them to the relevant individuals to resolve the invoice exceptions.
--   **[View invoice line details for a line-level invoice exception](../task/view-igr-exception-lines.md)**  
+-   **[View invoice line details for a line-level invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-igr-exception-lines.md)**  
 View details about invoice lines to understand why a line-level invoice exception has been created.
--   **[View related tasks for an Insufficient Goods Receipt invoice exception](../task/view-psm-task-inv-exception.md)**  
+-   **[View related tasks for an Insufficient Goods Receipt invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-psm-task-inv-exception.md)**  
 As an Accounts Payable specialist, view tasks related to Sourcing and Procurement Operations to understand why an Insufficient Goods Receipt invoice exception has been raised for an invoice.
--   **[Create an invoice exception definition](../task/define-new-invoice-exception.md)**  
+-   **[Create an invoice exception definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/define-new-invoice-exception.md)**  
 You can create invoice exception definition for invoices of types PO, Non-PO, credit memo.
 
-**Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
+**Parent Topic:**[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-ap-invoice-processing.md)
 
 **Related topics**  
 
 
-[Invoice ingestion using Application programming interface \(API\)](invoice-ingestion-using-api.md)
+[Invoice ingestion using Application programming interface \(API\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-ingestion-using-api.md)
 
-[Rules based engine](rules-based-engine.md)
+[Rules based engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/rules-based-engine.md)
 
-[Work with invoices](work-with-invoices.md)
+[Work with invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md)
 
-[Invoice processing cases](working-with-ingestion-cases.md)
+[Invoice processing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
+[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-[Invoice approvals](invoice-approvals.md)
+[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-invoice-attachment.md)
 

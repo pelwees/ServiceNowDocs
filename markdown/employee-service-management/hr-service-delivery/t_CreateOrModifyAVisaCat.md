@@ -49,5 +49,5 @@ To create or modify a visa category:
     The visa category appears in the **HR Visa Categories** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManagedLists.md)
 

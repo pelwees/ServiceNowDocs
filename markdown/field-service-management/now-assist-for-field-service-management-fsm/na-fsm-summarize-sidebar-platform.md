@@ -43,9 +43,9 @@ You can do these actions using Sidebar summarization:
 
     3.  Select **Start Discussion**.
 
-    ![Modal to add participants for discussion](../../customer-service-management/image/now-assist-sidebar-discussion.png "Sidebar discussion modal")
+    ![Modal to add participants for discussion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../../customer-service-management/image/now-assist-sidebar-discussion.png "Sidebar discussion modal")
 
-3.  Generate a summary of the Sidebar discussion during the conversation either by using the Summarize quick action \(enter `/Summarize` in the Active sidebar discussion window\), or by selecting the quick action icon \(![icon image](../../customer-service-management/image/now-assist-sidebar-lightning-bolt-icon.png)\).
+3.  Generate a summary of the Sidebar discussion during the conversation either by using the Summarize quick action \(enter `/Summarize` in the Active sidebar discussion window\), or by selecting the quick action icon \(![icon image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../../customer-service-management/image/now-assist-sidebar-lightning-bolt-icon.png)\).
 
 4.  After summarizing the Sidebar discussion, you can add it to the work notes, and provide feedback about it.
 
@@ -74,11 +74,11 @@ Procedure
 
 </td><td>
 
-If you'd like to provide feedback, select either the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\) or the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you'd like to provide feedback, select either the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/icon-helpful.png)\) or the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../concept/using-now-assist-fsm.md)
 
 ## Summarize a Sidebar discussion on the ServiceNow Agent application
 
@@ -88,7 +88,7 @@ On the ServiceNow Agent application, generate a summary of the Sidebar discussio
 
 Role required: wm\_agent
 
-Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](activate-sidebar-mobile.md).
+Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/activate-sidebar-mobile.md).
 
 ### About this task
 
@@ -98,10 +98,10 @@ Summarize the Sidebar discussion at any point during the discussion using the /S
 
 1.  Navigate to a Sidebar discussion.
 
-    -   To view discussions for a specific work order task, navigate to the work order task and select the **Record Sidebar** \(![Record Sidebar icon.](../image/icon-sidebar-record-mobile.png)\) icon.
-    -   To view all discussions, select the **Global Sidebar** \(![Global Sidebar](../image/icon-sidebar-global-mobile.png)\) icon.
+    -   To view discussions for a specific work order task, navigate to the work order task and select the **Record Sidebar** \(![Record Sidebar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/icon-sidebar-record-mobile.png)\) icon.
+    -   To view all discussions, select the **Global Sidebar** \(![Global Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/icon-sidebar-global-mobile.png)\) icon.
 2.  Tap a discussion.
 
-3.  Generate a summary of the Sidebar discussion during the conversation either by using the Summarize quick action \(enter `/Summarize` in the Active sidebar discussion window\), or by selecting the quick action icon \(![quick action](../../customer-service-management/image/now-assist-sidebar-lightning-bolt-icon.png)\).
+3.  Generate a summary of the Sidebar discussion during the conversation either by using the Summarize quick action \(enter `/Summarize` in the Active sidebar discussion window\), or by selecting the quick action icon \(![quick action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../../customer-service-management/image/now-assist-sidebar-lightning-bolt-icon.png)\).
 
 

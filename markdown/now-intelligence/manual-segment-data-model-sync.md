@@ -105,14 +105,14 @@ Manual segments support domain separation. When creating a segment config record
 
 If domain separation is not enabled on your instance, this field is inactive and can be ignored.
 
-**Parent Topic:**[Segments in the Query Generation semantic layer](querygen-segments.md)
+**Parent Topic:**[Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/querygen-create-segment-manually.md)
 
-[Guidelines for segments](general-guidelines-segments.md)
+[Guidelines for segments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)
 
-[Query Generation properties](querygen-properties.md)
+[Query Generation properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md)
 

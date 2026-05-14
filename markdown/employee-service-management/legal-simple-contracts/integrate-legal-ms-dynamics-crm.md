@@ -61,6 +61,6 @@ The configuration for the Microsoft Dynamics CRM app is published and is ready t
 
 ## What to do next
 
--   [Schedule import set jobs to pull data from the CRM system](schedule-import-sales-contract-crm.md)
--   [Create a deflection rule for sales contracts](create-contract-deflection-rule.md)
+-   [Schedule import set jobs to pull data from the CRM system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/schedule-import-sales-contract-crm.md)
+-   [Create a deflection rule for sales contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-contract-deflection-rule.md)
 

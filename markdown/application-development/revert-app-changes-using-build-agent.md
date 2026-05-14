@@ -30,13 +30,13 @@ Role required: admin
 
 3.  Open a previous chat to revert your changes by selecting the chats icon ![](../../servicenow-studio/image/sn-studio-ba-chats-icon.png).
 
-    ![Build Agent panel with chat selection icon](../image/ba-chats-selection.png "Chat selection")
+    ![Build Agent panel with chat selection icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-chats-selection.png "Chat selection")
 
 4.  Select the chat that contains checkpoints you can revert to.
 
 5.  View all available checkpoints by selecting the checkpoints icon ![](../../servicenow-studio/image/sn-studio-ba-checkpoint-icon.png)
 
-    ![Build Agent chat panel for Planner Tracker summary and checkpoints list with highlighted checkpoints button](../image/ba-chats-checkpoint.png "Checkpoints in chat panel")
+    ![Build Agent chat panel for Planner Tracker summary and checkpoints list with highlighted checkpoints button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-chats-checkpoint.png "Checkpoints in chat panel")
 
 6.  Select the checkpoint you want to revert back to, and select **Restore**.
 
@@ -45,5 +45,5 @@ Role required: admin
 
 Build Agent reverts your changes both in your application and in the chat.
 
-**Parent Topic:**[Use Build Agent](use-build-agent.md)
+**Parent Topic:**[Use Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/use-build-agent.md)
 

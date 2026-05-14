@@ -34,7 +34,7 @@ An incident summary provides you with a concise summary of an incident. The summ
 -   Additional comments
 -   Resolution notes \(for a resolved incident\)
 
-For information about the incident states, see [Life cycle of an Incident](../../incident-management/concept/c_IncidentManagementStateModel.md).
+For information about the incident states, see [Life cycle of an Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../incident-management/concept/c_IncidentManagementStateModel.md).
 
 You can summarize an incident in Core UI and Service Operations Workspace for ITSM.
 
@@ -44,11 +44,11 @@ You can summarize an incident in Core UI and Service Operations Workspace for IT
 
 2.  Select **Summarize**.
 
-    ![Summarize action in the Overview tab.](../image/itsm-incident-summarize.png)
+    ![Summarize action in the Overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-incident-summarize.png)
 
     -   In Core UI, the summary appears in a banner of the incident record.
 
-        ![Incident summary in Core UI that specifies the issue and actions taken.](../image/incident-summary-core-ui.png)
+        ![Incident summary in Core UI that specifies the issue and actions taken.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/incident-summary-core-ui.png)
 
     -   In Service Operations Workspace for ITSM, the summary is generated in the **Overview** tab.
 
@@ -60,7 +60,7 @@ You can summarize an incident in Core UI and Service Operations Workspace for IT
 
         You can provide feedback by selecting the thumbs up or thumbs down icon. You can also share the summary using the **Share** button.
 
-        ![Incident summary in Service Operations Workspace for ITSM that specifies the issue and actions taken.](../image/incident-summary-now-assist.png)
+        ![Incident summary in Service Operations Workspace for ITSM that specifies the issue and actions taken.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/incident-summary-now-assist.png)
 
 3.  When you're finished summarizing an incident, you can add it to the work notes, expand or collapse it, provide feedback, copy it, or view information about it.
 
@@ -89,7 +89,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) to view the complete summary or the collapse card icon \(![collapse card icon.](../image/icon-collapse.png)\) to view a collapsed summary.
+Select the expand card icon \(![expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-expand.png)\) to view the complete summary or the collapse card icon \(![collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-collapse.png)\) to view a collapsed summary.
 
 </td></tr><tr><td id="d121551e287">
 
@@ -97,7 +97,7 @@ Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) t
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d121551e310">
 
@@ -105,7 +105,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\).
+If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-copy.png)\).
 
 </td></tr><tr><td id="d121551e326">
 
@@ -113,7 +113,7 @@ If you want to reuse the summary, select the copy to clipboard icon \(![Copy to 
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

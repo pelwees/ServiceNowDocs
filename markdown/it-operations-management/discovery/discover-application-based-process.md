@@ -17,7 +17,7 @@ Discover applications based on suggestions based on ServiceNow Predictive Intell
 
 ## Before you begin
 
-Perform horizontal discovery on all relevant IP ranges as described in [Convert IP networks into Discovery range sets](../concept/c_NetworkDiscovery.md#). Provide all the relevant credentials for ITOM Visibility access to the applications and devices that you want to discover.
+Perform horizontal discovery on all relevant IP ranges as described in [Convert IP networks into Discovery range sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_NetworkDiscovery.md#). Provide all the relevant credentials for ITOM Visibility access to the applications and devices that you want to discover.
 
 Role required: discovery\_admin
 
@@ -118,7 +118,7 @@ Accuracy
 
 </td><td>
 
-A validation algorithm checks the quality of the prediction. The algorithm analyzes the regular expression \(ReGex\) parameter of the processes in this suggestion and other suggestions \(application groups\). Pick suggestions with higher rule accuracy. If the accuracy is low, you may adjust the process ReGex definition manually, as described in [Adjust regular expression used for fingerprint-based discovery](../concept/calibrate-process-based-discovery.md#).
+A validation algorithm checks the quality of the prediction. The algorithm analyzes the regular expression \(ReGex\) parameter of the processes in this suggestion and other suggestions \(application groups\). Pick suggestions with higher rule accuracy. If the accuracy is low, you may adjust the process ReGex definition manually, as described in [Adjust regular expression used for fingerprint-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/calibrate-process-based-discovery.md#).
 
  **Note:** Do not modify the accuracy value manually.
 
@@ -155,7 +155,7 @@ The name of the process that was excluded from discovery using the **Ignore** ac
 
 8.  On the **Application Fingerprints** dashboard, check that the discovered application appears under **Created Applications**.
 
-    ![Discovered Python application.](../image/fingerprint-dashboard-created-apps-example.png)
+    ![Discovered Python application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/fingerprint-dashboard-created-apps-example.png)
 
 9.  Configure the running order for the automatically created pattern:
 
@@ -165,7 +165,7 @@ The name of the process that was excluded from discovery using the **Ignore** ac
 
     2.  On the Triggers probes tab, click the pattern link.
 
-        ![Click the automatically generated pattern.](../image/triggers-probes-pattern.png)
+        ![Click the automatically generated pattern.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/triggers-probes-pattern.png)
 
         The pattern form opens.
 
@@ -181,7 +181,7 @@ The name of the process that was excluded from discovery using the **Ignore** ac
 
 10. Click the process classifier next to the new application to see the classifier and the pattern that the fingerprint-based discovery creates for this application CI.
 
-11. If the discovery result is not satisfactory, [calibrate the fingerprint-based discovery feature](../concept/calibrate-process-based-discovery.md#).
+11. If the discovery result is not satisfactory, [calibrate the fingerprint-based discovery feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/calibrate-process-based-discovery.md#).
 
 
 **Related topics**  
@@ -189,5 +189,5 @@ The name of the process that was excluded from discovery using the **Ignore** ac
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Application Fingerprints dashboard](../../../use/dashboards/application-content-packs/discovery-application-fingerprint-dashboard.md)
+[Application Fingerprints dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/dashboards/application-content-packs/discovery-application-fingerprint-dashboard.md)
 

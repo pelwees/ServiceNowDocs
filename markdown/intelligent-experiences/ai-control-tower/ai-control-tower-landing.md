@@ -20,23 +20,23 @@ The AI Control Tower is a platform that connects different parts of an organizat
 
 <table id="table_edz_k2y_pcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you use the AI Control Tower to manage and track all the AI systems, and other AI assets.](exploring-ai-control-tower.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you use the AI Control Tower to manage and track all the AI systems, and other AI assets.](exploring-ai-control-tower.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure all the AI Control Tower workflows](configuring-ai-control-tower-workflows.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure all the AI Control Tower workflows](configuring-ai-control-tower-workflows.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to use AI Control Tower.](using-ai-control-tower.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to use AI Control Tower.](using-ai-control-tower.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles and tables.](../reference/aict-references.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles and tables.](../reference/aict-references.md)
 
 </td></tr><tr><td>
 
-[Risk and Compliance![](../../../reuse/icons/brand-icons/bus-learn.svg)AI Risk and compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
+[Risk and Compliance![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../../reuse/icons/brand-icons/bus-learn.svg)AI Risk and compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 
 **Note:** We have controls in place to enable/disable the data collection and data processing.
 

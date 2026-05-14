@@ -46,7 +46,7 @@ The Workflow Studio lists the preconfigured flows and conditions for Digital res
     3.  Action task automation on DRI case updates
     4.  Action task automation on regulation updates
     5.  DRI Business Service Trigger For Multiple Regulators
-    ![Digital resilience incident reporting flows. For the text description, refer to the text that precedes this image.](../image/trigger-flows-wf-studio.png)
+    ![Digital resilience incident reporting flows. For the text description, refer to the text that precedes this image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/trigger-flows-wf-studio.png)
 
     **Note:** If the Security Incident Response application is installed in your instance, flows related to security incidents \(SIR\) are listed in the Flows list view.
 
@@ -54,7 +54,7 @@ The Workflow Studio lists the preconfigured flows and conditions for Digital res
 
     A sample condition for the "DRI Business Service Trigger For Multiple Regulators" flow is shown in the example.
 
-    ![Example for modifying the flow conditions. For the text description, refer to the text that precedes this image.](../image/flow-conditions.png)
+    ![Example for modifying the flow conditions. For the text description, refer to the text that precedes this image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/flow-conditions.png)
 
 3.  To publish the flow, choose the flow from the list and select **Publish**.
 

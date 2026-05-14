@@ -33,7 +33,7 @@ Role required: map admin, map editor, map editor limited
 
     The **Default** view and other view types that you have added to the View editor is displayed. For example, click **Default**. The **Edit** button is displayed when the view has already been configured and is not blank. If the view is never configured or is blank, it is replaced by a **Not enabled** warning. Click to edit and enable the view.
 
-    ![edit with view editor](../images/view-editor-initial-content.png)
+    ![edit with view editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/view-editor-initial-content.png)
 
 3.  You are provided with the following four options.
 
@@ -60,21 +60,21 @@ Role required: map admin, map editor, map editor limited
 
 8.  The **View Editor Content** displays content based on your selection.
 
-    For more information, see [View editor content](view-editor-content.md).
+    For more information, see [View editor content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md).
 
 9.  Click **Apply** to apply the view changes.
 
 10. Click **Save this view**.
 
-    You also have the option to reset the view by clicking the More options menu icon \( ![More options icon.](../../wsd-for-mobile/images/more-options-icon.png)\) available next to **Save this view option**.
+    You also have the option to reset the view by clicking the More options menu icon \( ![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../wsd-for-mobile/images/more-options-icon.png)\) available next to **Save this view option**.
 
 
--   **[View editor content](view-editor-content.md)**  
+-   **[View editor content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md)**  
 Work with the View Editor content and customize the campus, buildings, layers, places, connectors, and direction modes properties.
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[Copy direction graphs to multiple floors](copy-directions-multiple-floors.md)
+**Previous topic:**[Copy direction graphs to multiple floors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/copy-directions-multiple-floors.md)
 
-**Next topic:**[View editor content](view-editor-content.md)
+**Next topic:**[View editor content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md)
 

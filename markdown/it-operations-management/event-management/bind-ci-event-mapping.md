@@ -29,13 +29,13 @@ To resolve this—in other words, to determine the correct CI class to search—
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Field Mapping**.
 
-    ![Event Field Mapping page.](../image/em-example-dynamic-ci-type-oracle-cloud.png)
+    ![Event Field Mapping page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-example-dynamic-ci-type-oracle-cloud.png)
 
 2.  Select **Oracle Cloud**.
 
     This is an existing event field map used as an example. The event field map details page opens.
 
-    ![Event Field Mapping details page for Oracle Cloud.](../image/em-example-dynamic-ci-type.png)
+    ![Event Field Mapping details page for Oracle Cloud.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-example-dynamic-ci-type.png)
 
 3.  Review the event field mapping details page and understand the relevant fields and their corresponding values.
 

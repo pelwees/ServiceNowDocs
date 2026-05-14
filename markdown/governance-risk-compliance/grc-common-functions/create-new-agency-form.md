@@ -37,5 +37,5 @@ For a description of the form field values, see the following table.
 |Settings|
 |Functional domain|Functional domain of the regulatory agency.|
 
-**Parent Topic:**[Add a regulatory agency](add-regulatory-agency.md)
+**Parent Topic:**[Add a regulatory agency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-regulatory-agency.md)
 

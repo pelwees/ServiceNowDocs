@@ -46,11 +46,11 @@ If your ServiceNow instance uses domain separation, the conversion fails if CIs 
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Services** &gt; **Manual Services**.
 
-    ![Manual service in the list](../image/manual-service-in-list.png)
+    ![Manual service in the list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/manual-service-in-list.png)
 
 2.  Select the manual service that you want to convert to an application services.
 
-    ![Convert manual service to application service](../image/migrate-manual-2-application.png)
+    ![Convert manual service to application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/migrate-manual-2-application.png)
 
 3.  Click **Migrate to Application Service**.
 
@@ -62,5 +62,5 @@ If your ServiceNow instance uses domain separation, the conversion fails if CIs 
 -   The CIs from the manual service are added to the converted application services.
 -   After the conversion process is complete, the application services form opens.
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/application-service-event-management.md)
 

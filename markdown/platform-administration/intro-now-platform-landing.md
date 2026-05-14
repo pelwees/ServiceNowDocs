@@ -18,23 +18,23 @@ Choose one of these tiles to get started.
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
-[Start here to learn about the ServiceNow AI Platform![](../../../reuse/icons/brand-icons/bus-power.svg)Learn how the ServiceNow AI Platform works.](get-started-now-platform.md)
+[Start here to learn about the ServiceNow AI Platform![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-power.svg)Learn how the ServiceNow AI Platform works.](get-started-now-platform.md)
 
 </td><td>
 
-[Configure ServiceNow AI Platform core features![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings that affect global ServiceNow AI Platform behavior and behavior for ServiceNow AI Platform applications.](config-now-platform-core-features.md)
+[Configure ServiceNow AI Platform core features![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings that affect global ServiceNow AI Platform behavior and behavior for ServiceNow AI Platform applications.](config-now-platform-core-features.md)
 
 </td></tr><tr><td>
 
-[Maintain and monitor the ServiceNow AI Platform![](../../../reuse/icons/brand-icons/ind-maintenance-repair-operations.svg)Identify health issues and settings that you need to change. Optimize ServiceNow AI Platform performance using performance monitoring and diagnostics.](maintain-monitor-now-platform.md)
+[Maintain and monitor the ServiceNow AI Platform![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/ind-maintenance-repair-operations.svg)Identify health issues and settings that you need to change. Optimize ServiceNow AI Platform performance using performance monitoring and diagnostics.](maintain-monitor-now-platform.md)
 
 </td><td>
 
-[Upgrade to the latest version![](../../../reuse/icons/brand-icons/bus-release.svg)Plan and manage your ServiceNow AI Platform upgrades using Upgrade Center. Monitor upgrade progress and view a summary of upgrade results with Upgrade Monitor.](upgrade-now-platform.md)
+[Upgrade to the latest version![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-release.svg)Plan and manage your ServiceNow AI Platform upgrades using Upgrade Center. Monitor upgrade progress and view a summary of upgrade results with Upgrade Monitor.](upgrade-now-platform.md)
 
 </td></tr><tr><td>
 
-[Additional Resources![](../image/adm-additional-resources.png)Upgrade your platform administrator experience to the next level](../reference/adm-additional-resources.md)
+[Additional Resources![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/adm-additional-resources.png)Upgrade your platform administrator experience to the next level](../reference/adm-additional-resources.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Learn about the ServiceNow AI Platform and these important applications:
     A centralized management experience to help you understand your subscriptions and entitlements.
 
 
-![Subscription Management overview.](../../subscription-management/image/subscription-management-overview.png)
+![Subscription Management overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../subscription-management/image/subscription-management-overview.png)
 
 ## Configure ServiceNow AI Platform core features
 

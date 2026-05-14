@@ -19,7 +19,7 @@ Users appear on the leaderboard based on the number of earned points and are ran
 
 To display the leaderboard, navigate to **Community** &gt; **Leaderboard**. You can also click **Show Leaderboard** on the leaderboard widget. When navigating to the leaderboard from a leaderboard widget on a forum/topic landing page, the leaderboard shows the top point earners for that forum/topic.
 
-![Leaderboard ranking users by points and level.](../images/CommunitiesLeaderboard.png "Community leaderboard")
+![Leaderboard ranking users by points and level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/CommunitiesLeaderboard.png "Community leaderboard")
 
 For each user, the leaderboard displays:
 
@@ -30,5 +30,5 @@ For each user, the leaderboard displays:
 
 By default, the leaderboard displays 10 users per page. Users can use the pagination controls to view additional pages. Pointing to a user name in the leaderboard displays a pop-up window with more information about the user.
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-UI.md)
 

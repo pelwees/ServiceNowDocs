@@ -13,7 +13,7 @@ breadcrumb: [Customer success, Use, Customer Success Management]
 
 View the product usage and capability data for a specific sold product over a period of time.
 
-Product usage data provides insights into how customers interact with a product. It encompasses various metrics and data points that help understand how effectively a product is being adopted and used. This data helps customer success managers to analyze the data, identify areas for improvement, and make informed decisions. The data that appears on this page is configured using the DEC Insights Visualizations table. See [Configure DCE Visualizations](../task/account-lifecycle-configure-dce-visual.md) for details.
+Product usage data provides insights into how customers interact with a product. It encompasses various metrics and data points that help understand how effectively a product is being adopted and used. This data helps customer success managers to analyze the data, identify areas for improvement, and make informed decisions. The data that appears on this page is configured using the DEC Insights Visualizations table. See [Configure DCE Visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-configure-dce-visual.md) for details.
 
 1.  Login as a user with the `sn_acct_lc.customer_success_agent` role.
 2.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workpace** and select the **List** icon.
@@ -26,7 +26,7 @@ This page contains the following tabs:
 -   Child products
 -   Capabilities
 
-![Product capability usage](../image/product-cap-adopt.jpg)
+![Product capability usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/product-cap-adopt.jpg)
 
 The Overview tab displays weekly breakdown data for the following metrics:
 
@@ -42,9 +42,9 @@ The Child products tab displays a list of all child products associated with the
 
 The Capabilities tab displays a list of all capabilities associated with the selected sold product. Select the Name to drill down to the Capability usage page.
 
-![Capability usage data](../image/cap-usage-data.jpg)
+![Capability usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/cap-usage-data.jpg)
 
 This page shows the capability adoption score over the last 12 weeks. The metrics that contribute the usage data are also displayed.
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

@@ -39,7 +39,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
     -   To set automatic initiation of the metadata extraction process, enter `automated`.
     The default value is **manual**.
 
-    ![Set metadata extraction initiation method.](../image/cmpro-manual-me.png "Metadata extraction system property")
+    ![Set metadata extraction initiation method.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-manual-me.png "Metadata extraction system property")
 
 5.  Select **Update**.
 
@@ -51,20 +51,20 @@ The initiation method for metadata extraction is configured.
 -   If set to manual, the **Initiate metadata extraction** button appears in the contract repository record, enabling you to initiate the metadata extraction process from that record.
 -   If set to automatic, the metadata extraction automatically initiates once the contract repository record is created.
 
-**Parent Topic:**[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
+**Parent Topic:**[Configuring contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)
 
 **Related topics**  
 
 
-[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 
-[Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md)
+[Map a use case for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-me.md)
 
-[Enable notification for contract metadata extraction](cncore-config-notf-na-metadata.md)
+[Enable notification for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-notf-na-metadata.md)
 
-[Configure the workspace URL for contract metadata extraction notifications](cncore-config-ext-wrkspc-email.md)
+[Configure the workspace URL for contract metadata extraction notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-ext-wrkspc-email.md)
 
-[Configure an extension point to add contract metadata](config-ext-pt-to-add-metadata.md)
+[Configure an extension point to add contract metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/config-ext-pt-to-add-metadata.md)
 
-[Initiate metadata extraction from a contract](cncore-extract-metadata.md)
+[Initiate metadata extraction from a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-extract-metadata.md)
 

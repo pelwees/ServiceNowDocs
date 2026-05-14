@@ -35,7 +35,7 @@ Role required: sn\_hr\_er.case\_writer
 
     1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-    2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+    2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-list-icon.png)\).
 
     3.  In the ER category, select an ER case.
 

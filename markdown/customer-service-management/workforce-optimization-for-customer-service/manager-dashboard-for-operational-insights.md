@@ -44,7 +44,7 @@ The available widgets and tabs depend on which capabilities are enabled in the i
     **Access and governance**: Access is role‑based \(`sn_mgr_dashboard.user`\) and enforced through ACLs at the page, tab, and widget level. Unauthorized users do not see the dashboard in navigation, and APIs are protected. Role inheritance keeps additional manager records in sync with the primary manager’s roles \(sn\_mgr\_dashboard.user\) and entitlements.
 
 
-![New widgets Operational and AI Insights widgets are added on the manager dashboard](../image/mangr-dashboard-new-widgets.png "Manager Dashboard with New Widgets")
+![New widgets Operational and AI Insights widgets are added on the manager dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/mangr-dashboard-new-widgets.png "Manager Dashboard with New Widgets")
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-configurable-wfo-cs.md)
 

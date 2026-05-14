@@ -29,7 +29,7 @@ com.snc.pa.indicator\_target\_default\_color\_schema
 
 </td><td>
 
-Default [indicator target](../concept/performance-analytics-glossary.md#) color schemeDefault: 3 color traffic light
+Default [indicator target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#) color schemeDefault: 3 color traffic light
 
 </td></tr><tr><td>
 
@@ -40,5 +40,5 @@ com.snc.pa.chart\_default\_color\_schema
 Default visualization color schemeDefault: Default UI14
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Performance Analytics properties](pa-properties.md)
+</table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 

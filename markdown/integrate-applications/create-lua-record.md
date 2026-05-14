@@ -17,9 +17,9 @@ Define the consumption and distribution of licenses by creating a robot license 
 
 You must do this task in the classic environment.
 
-Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](../concept/license-rpa-hub.md).
+Familiarize yourself with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/license-rpa-hub.md).
 
-Install the RPA Hub. For more information, see [Install Robotic Process Automation \(RPA\) Hub](../../rpa-core/task/install-rpa.md).
+Install the RPA Hub. For more information, see [Install Robotic Process Automation \(RPA\) Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-core/task/install-rpa.md).
 
 Role required: sn\_rpa\_fdn.rpa\_admin
 
@@ -148,5 +148,5 @@ This is a read-only field.
 **Related topics**  
 
 
-[Update a robot license distribution record in RPA Hub](update-license-record-rpa.md)
+[Update a robot license distribution record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/update-license-record-rpa.md)
 

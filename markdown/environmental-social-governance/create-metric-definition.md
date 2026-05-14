@@ -29,7 +29,7 @@ In automated metric definitions, the data is collected automatically based on th
 
 3.  On the form, fill in the fields.
 
-    For information on the fields of the form, see [Automated metric definition fields](../reuse/automated-metric-definition-fields.md).
+    For information on the fields of the form, see [Automated metric definition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../reuse/automated-metric-definition-fields.md).
 
 4.  Select **Save**.
 
@@ -42,10 +42,10 @@ The automated metric definition is saved in the Metric definitions list.
 
 ## What to do next
 
-You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](update-automated-metric-definition.md) for more information.
+You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/update-automated-metric-definition.md) for more information.
 
--   **[Automated metric definition fields](../reuse/automated-metric-definition-fields.md)**  
+-   **[Automated metric definition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../reuse/automated-metric-definition-fields.md)**  
 The fields of the automated metric definition form are explained in this topic.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configuring-grc-metrics.md)
 

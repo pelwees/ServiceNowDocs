@@ -13,12 +13,12 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 By configuring lookup rules, you can map security exposure data to the correct configuration items \(CIs\) in the CMDB. This mapping is a critical function because associating exposure findings with the right assets is essential for proper risk assessment, assignment, and remediation workflows.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Associating finding with a configuration item using lookup rules](sem-associate-finding-configuration-item-using-lookup-rules.md)
+[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 
 ## Create lookup rule
 
@@ -215,17 +215,17 @@ The process function has three parameters: **rule**, **sourceValue**, and **sour
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
-    For more implementation information for lookup rules see, [Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](../../security-operations-common/concept/ci-identifier-rules-impl-test.md).
+    For more implementation information for lookup rules see, [Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/ci-identifier-rules-impl-test.md).
 
-    ![CI lookup rule using a condition builder for version 12.0.](../../security-operations-common/image/CI-LookupRules-v12.png "Example of a CI lookup rule using a condition builder for V12.0")
+    ![CI lookup rule using a condition builder for version 12.0.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/image/CI-LookupRules-v12.png "Example of a CI lookup rule using a condition builder for V12.0")
 
-    ![CI lookup rule using a script](../../security-operations-common/image/CI-LookupRules.png "Example of a CI lookup rule using a script prior to V12.0")
+    ![CI lookup rule using a script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/image/CI-LookupRules.png "Example of a CI lookup rule using a script prior to V12.0")
 
 
 **Related topics**  
 
 
-[Vulnerability Response vulnerable item form fields](../../vulnerability-response/reference/vulnerable-item-fields.md)
+[Vulnerability Response vulnerable item form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/reference/vulnerable-item-fields.md)
 
 ## Ignore CI classes
 
@@ -251,7 +251,7 @@ If you have upgraded from any Security Operations application, prior to version 
 
 4.  In the **Value** text box, enter the CI classes to exclude in a comma-separated list.
 
-    ![ignoreCI Class system property example.](../../security-operations-common/image/ignoreCIClass.png)
+    ![ignoreCI Class system property example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/image/ignoreCIClass.png)
 
 5.  Click **Update**.
 
@@ -292,7 +292,7 @@ Reapplying lookup rules is useful when:
 **Related topics**  
 
 
-[Reapply lookup rules on selected discovered items](sem-configure-lookup-rules.md#)
+[Reapply lookup rules on selected discovered items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-lookup-rules.md#)
 
 ## Reapply lookup rules on selected discovered items
 
@@ -304,7 +304,7 @@ Roles required: admin
 
 ### About this task
 
-For more information, see [CI changes for discovered items](../../vulnerability-response/concept/reapply-discovered-items-ci-changes.md).
+For more information, see [CI changes for discovered items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/reapply-discovered-items-ci-changes.md).
 
 For more information on the concepts of CI matching and the CMDB, discovered item lookup, rule-based identification, see the [CI matching in Vulnerability Response \[KB0998706\] article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998706) in the HI Knowledge Base.
 
@@ -314,7 +314,7 @@ For more information on the concepts of CI matching and the CMDB, discovered ite
 
 2.  Select the required discovered items and select **Action on selected rows**.
 
-    ![Reapply CI lookup rules on Discovered Items.](../../vulnerability-response/image/reapply-action-di.png)
+    ![Reapply CI lookup rules on Discovered Items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/reapply-action-di.png)
 
 3.  From the list, select **Reapply CI lookup rules**.
 

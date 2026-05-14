@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Load Data** &gt; **Run Transform**.
 
-    The **Specify Import set and Transform map** screen appears. In the **Import set**, the staging table you selected from [Load invoice data](load-data.md) is auto populated. In **Selected maps, run in order** area, the target invoice table to be mapped in Accounts Payable Operations is auto-populated and selected by default.
+    The **Specify Import set and Transform map** screen appears. In the **Import set**, the staging table you selected from [Load invoice data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/load-data.md) is auto populated. In **Selected maps, run in order** area, the target invoice table to be mapped in Accounts Payable Operations is auto-populated and selected by default.
 
 2.  Click **Transform**.
 

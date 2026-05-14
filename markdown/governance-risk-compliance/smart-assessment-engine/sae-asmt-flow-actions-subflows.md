@@ -33,7 +33,7 @@ Trigger Smart Assessment
 
 Flow action that generates and assigns assessment instances from a published assessment template. The flow action takes the assessment template, assessors, scope items, and optional settings such as due date, duration, duplicate handling, and assessment group as input and creates one or more assessment instances. Each scope item specifies a table and record that the assessment is applied to.
 
- For details on the input fields, see [Trigger Smart Assessment action form](sae-smart-asmnt-action-form.md).
+ For details on the input fields, see [Trigger Smart Assessment action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-smart-asmnt-action-form.md).
 
 </td></tr></tbody>
 </table>**Related topics**  

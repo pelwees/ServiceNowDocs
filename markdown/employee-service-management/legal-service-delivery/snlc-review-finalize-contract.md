@@ -28,10 +28,10 @@ After submitting a self-serve contract request, a contract document is generated
 7.  The contract document can shared with stakeholders and on finalizing can be sent for signature.
 8.  If additional changes are required, the contract user submits the change request again and this process continues until the document is acceptable and can be sent for signature.
 
--   **[Review a contract document in Employee Center](snlc-submit-req-chngs-ndar.md)**  
+-   **[Review a contract document in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-submit-req-chngs-ndar.md)**  
 As a contract user, review a contract document and submit a change request to the contract fulfiller if changes are required in the contract document.
--   **[Work on a contract change request](snlc-finalize-document-nda.md)**  
+-   **[Work on a contract change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-finalize-document-nda.md)**  
 As a contract fulfiller, review the change request, update the contract document and send it back to the contract user.
 
-**Parent Topic:**[Work on NDA legal requests](snlc-work-on-contract-request.md)
+**Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 

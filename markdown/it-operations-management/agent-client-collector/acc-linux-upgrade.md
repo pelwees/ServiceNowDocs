@@ -31,7 +31,7 @@ Upgrade your existing Agent Client Collector version on a system running a Linux
     /usr/lib/systemd/system/acc.service
     ```
 
-2.  Download the .rpm/.deb agent package and signature files, as described in [Install Agent Client Collector on a Linux system](install-acc-linux.md).
+2.  Download the .rpm/.deb agent package and signature files, as described in [Install Agent Client Collector on a Linux system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/install-acc-linux.md).
 
 3.  Upgrade the package.
 
@@ -69,5 +69,5 @@ Upgrade your existing Agent Client Collector version on a system running a Linux
     ```
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-install-linux-concept.md)
 

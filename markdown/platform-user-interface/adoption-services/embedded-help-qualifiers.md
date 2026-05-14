@@ -31,7 +31,7 @@ Imagine that your organization wants to provide specific instructions for the SL
 
     Notice that the query parameter uses underscores between words instead of hyphens or dashes.
 
-    ![Shows a query parameter in URL and the module link type](../image/query-parameter.png)
+    ![Shows a query parameter in URL and the module link type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/query-parameter.png)
 
     You can also select the query parameter from the **Arguments** field on the module link type. To see the module link type, click the pencil icon beside the module in the application navigator, and then click the **Link Type** tab.
 
@@ -88,7 +88,7 @@ Enter the qualifier to use, for example `sla_homepage`. Record the qualifier to 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-5.  Follow the steps in [Add custom Embedded Help content](add-custom-help-topic.md) to create the content, and include the following information.
+5.  Follow the steps in [Add custom Embedded Help content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-custom-help-topic.md) to create the content, and include the following information.
 
     -   **Name** and **Page**: The page you created the qualifier for, for example, **home**.
     -   **Qualifier**: The qualifier you entered, for example **sla\_homepage**.
@@ -99,5 +99,5 @@ Enter the qualifier to use, for example `sla_homepage`. Record the qualifier to 
     **Note:** If you added a role to the embedded help content, ensure that you are logged in as a user with the role, or impersonate a user with that role.
 
 
-**Parent Topic:**[Embedded Help planning](../concept/embedded-help-planning.md)
+**Parent Topic:**[Embedded Help planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/embedded-help-planning.md)
 

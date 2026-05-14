@@ -19,7 +19,7 @@ Add a related list of an insurance policy table to an insurance product model ta
 
 Set the application scope in your instance to Financial Services Operations Core.
 
-An insurance policy table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table is required. For more information, see [Create an insurance policy table](create-an-insurance-policy-table.md).
+An insurance policy table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table is required. For more information, see [Create an insurance policy table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-table.md).
 
 Role required: admin
 
@@ -41,5 +41,5 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/set-up-an-insurance-policy.md)
 

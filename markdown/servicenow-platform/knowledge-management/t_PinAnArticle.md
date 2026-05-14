@@ -40,15 +40,15 @@ Adding an article to featured content requires associating an article to specifi
 
 5.  On the Knowledge keyword form, in the Knowledge field, search for and select the article.
 
-6.  In the Keywords field, click the unlock keywords icon \(![Lock icon.](../../../common/image/icon-lock.png)\).
+6.  In the Keywords field, click the unlock keywords icon \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../common/image/icon-lock.png)\).
 
-7.  Select the lookup icon \(![look-up icon](../../../administer/notification/image/search-icon.png)\) to open the **Knowledge keywords** list.
+7.  Select the lookup icon \(![look-up icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../administer/notification/image/search-icon.png)\) to open the **Knowledge keywords** list.
 
 8.  Select the keyword to add for this article.
 
     **Note:** If you're creating a new keyword, it must be a single word and cannot contain spaces.
 
-9.  Select the unlock keywords icon \(![Lock icon.](../../../common/image/icon-lock.png)\) to add the keywords to the article.
+9.  Select the unlock keywords icon \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../common/image/icon-lock.png)\) to add the keywords to the article.
 
 10. Select **Submit**.
 
@@ -57,12 +57,12 @@ Adding an article to featured content requires associating an article to specifi
 
 The featured content on the knowledge service portal displays the article.
 
-**Parent Topic:**[Configuration tasks for knowledge managers](../concept/c_KnowledgeManager.md)
+**Parent Topic:**[Configuration tasks for knowledge managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/c_KnowledgeManager.md)
 
 **Related topics**  
 
 
-[Define a knowledge article category](t_DefineAKnowledgeCategory.md)
+[Define a knowledge article category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md)
 
-[Assign a knowledge base manager](t_AssignAKnowledgeBaseManager.md)
+[Assign a knowledge base manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_AssignAKnowledgeBaseManager.md)
 

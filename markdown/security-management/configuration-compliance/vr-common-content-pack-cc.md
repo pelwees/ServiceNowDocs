@@ -37,11 +37,11 @@ The following roles and tasks are associated with this solution:
 **Related topics**  
 
 
-[Configure an aggregation for source data](../../vulnerability-response/task/configure-indicator-for-source-data.md)
+[Configure an aggregation for source data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../vulnerability-response/task/configure-indicator-for-source-data.md)
 
-[Run multiple aggregations simultaneously](../../vulnerability-response/task/run-multiple-aggregations.md)
+[Run multiple aggregations simultaneously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../vulnerability-response/task/run-multiple-aggregations.md)
 
-[Configure the number of aggregations that can run simultaneously](../../vulnerability-response/task/create-config-arf-processor.md)
+[Configure the number of aggregations that can run simultaneously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../vulnerability-response/task/create-config-arf-processor.md)
 
-[Create a report using an aggregation](../../vulnerability-response/task/generate-report.md)
+[Create a report using an aggregation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../vulnerability-response/task/generate-report.md)
 

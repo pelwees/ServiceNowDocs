@@ -53,5 +53,5 @@ The following are some considerations to keep in mind for discovery models:
 -   Model deletion or modification: If you delete or modify a software component model, the system won't recreate it from the original discovery model.
 -   Manual re-normalization: When a discovery model is manually normalized with new values, the existing software component model remains as is. The system creates a new software component model only if one does not already exist.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

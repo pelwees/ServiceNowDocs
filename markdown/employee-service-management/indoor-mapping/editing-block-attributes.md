@@ -29,7 +29,7 @@ Role required: admin
 
 3.  The editing panel appears.
 
-    ![Edit block attributes.](../images/wsd-block-edit-panel.png)
+    ![Edit block attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-block-edit-panel.png)
 
 4.  Edit the attributes as required.
 
@@ -38,5 +38,5 @@ Role required: admin
 5.  Select **Remove** to remove the element from the CAD drawing.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/editing-tools-cad-editor.md)
 

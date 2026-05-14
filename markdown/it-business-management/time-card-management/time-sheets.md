@@ -48,16 +48,16 @@ A time sheet can have any of the following states:
     A time sheet has been recalled by the submitter for modification.
 
 
--   **[Create a time sheet](../task/create-time-sheet.md)**  
+-   **[Create a time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../task/create-time-sheet.md)**  
 As a time card user, you can create a time sheet to group all your time cards for the given week and submit them in a single step.
--   **[Submit a time sheet](../task/submit-time-sheet.md)**  
+-   **[Submit a time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../task/submit-time-sheet.md)**  
 Once the time sheet is updated with time worked, you can submit the time sheet for the week to submit all the time cards for the week together.
--   **[Approve or reject a time sheet](../task/approve-time-sheet.md)**  
+-   **[Approve or reject a time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../task/approve-time-sheet.md)**  
 View, approve, or reject time sheet or time cards for your user, for the given week, in a single step.
--   **[Recall a processed time sheet](../task/recall-approved-time-sheet.md)**  
+-   **[Recall a processed time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../task/recall-approved-time-sheet.md)**  
 You can recall an incorrect time sheet in the Approved or Processed state to return it to the submitter. The submitter can then make the necessary changes and resubmit the time sheet.
--   **[Delegate time sheet approvals to another user](../task/delegate-time-sheet-approvals.md)**  
+-   **[Delegate time sheet approvals to another user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../task/delegate-time-sheet-approvals.md)**  
 You can delegate the responsibilities to process the time sheets of your resources to another user when you might not have time or will be unavailable.
 
-**Parent Topic:**[Time Card Management](time-card-management.md)
+**Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 

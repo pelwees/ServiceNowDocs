@@ -17,7 +17,7 @@ This feature allows resources to be reserved before a task is assigned to a thre
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>For Discovery, the MID Server tasks are the probes or patterns it executes. While probes are waiting to be executed on the MID Server, they provide resource requirements \(CPU, memory, and so on\) and if they cannot be met, the probe waits in the work queue until the resources are available.

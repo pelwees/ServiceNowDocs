@@ -42,11 +42,11 @@ Review your chat log by selecting its title. Use the following procedure if you 
 
 3.  Select the delete icon ![](../../../common/image/Form_DeleteIcon.png) that appears when you hover your cursor over the chat title.
 
-    ![In theNow Assist panel, the delete icon is highlighted.](../../../administer/now-assist-web-agents/image/na-ai-wa-delete-chat-log2Z.png)
+    ![In theNow Assist panel, the delete icon is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-delete-chat-log2Z.png)
 
     A dialog box appears with the question **Delete this chat?**
 
-    ![The Delete chat log confirmation dialog box.](../../../administer/now-assist-web-agents/image/na-ai-wa-delete-chat-log3Z.png)
+    ![The Delete chat log confirmation dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-delete-chat-log3Z.png)
 
 4.  Select **Delete** to permanently delete the chat.
 
@@ -55,5 +55,5 @@ Review your chat log by selecting its title. Use the following procedure if you 
 
 The chat history and its screenshots are deleted from the system.
 
-**Parent Topic:**[Trigger an AI agent to execute adaptive path desktop actions](na-ai-wa-access-using-nap.md)
+**Parent Topic:**[Trigger an AI agent to execute adaptive path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-access-using-nap.md)
 

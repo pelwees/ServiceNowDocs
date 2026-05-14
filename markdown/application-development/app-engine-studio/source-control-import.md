@@ -21,7 +21,7 @@ Import an app or app customization from a source control repository into App Eng
 -   Verify that the non-production instance has network access to the Git repository.
 -   Verify that the repository contains a valid application.
 -   Ensure that users add the email address to their respective Users table \[sys\_user\] record that they use in their commits to the Git repository.
--   Learn more about application-customizations [Manage customizations to applications](../../applications/task/manage-customizations-store-apps.md).
+-   Learn more about application-customizations [Manage customizations to applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../applications/task/manage-customizations-store-apps.md).
 
 ## About this task
 
@@ -33,7 +33,7 @@ The source control integration does not support importing an application on a pr
 
 2.  Select **Import app**.
 
-    ![Import an app from source control into App Engine Studio](../image/source-control-import-form-purple.png)
+    ![Import an app from source control into App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-import-form-purple.png)
 
 3.  On the form, fill in the fields.
 
@@ -114,7 +114,7 @@ Select the credential for your Git repository. For more information, see [Gettin
 -   Review the upgrade logs for any sanitization applied to application files during the import.
 -   Select the imported application to edit it.
 
-**Parent Topic:**[Use AES with a Git source control repository](../concept/aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-source-control-use.md)
 
 **Related topics**  
 

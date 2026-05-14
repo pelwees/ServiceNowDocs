@@ -46,9 +46,9 @@ The state model is ready to be configured with workflow states, transitions, and
 
 ## What to do next
 
-[Create GRC workflow states](add-workflow-states.md)
+[Create GRC workflow states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-workflow-states.md)
 
-[Add existing attributes to a GRC workflow state](configure-state-model-attributes.md)
+[Add existing attributes to a GRC workflow state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-state-model-attributes.md)
 
-[Create a new state model attribute](configure-new-state-model-attributes.md)
+[Create a new state model attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md)
 

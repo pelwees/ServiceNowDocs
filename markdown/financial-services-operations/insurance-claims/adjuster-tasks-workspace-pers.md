@@ -30,5 +30,5 @@ From the claim workspace, an adjuster can also access tabs to view the Fraud sco
 
 ## Adjuster Claim Workspace - Personal auto claim review
 
-![Adjuster claim workspace showing Claim details, Claim properties list, Claim participants list, Task details, and Task work list](../image/claim-workspace-personal-claim-review.png)
+![Adjuster claim workspace showing Claim details, Claim properties list, Claim participants list, Task details, and Task work list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/claim-workspace-personal-claim-review.png)
 

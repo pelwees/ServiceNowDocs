@@ -19,19 +19,19 @@ Use the ServiceNow® Cloud Services Catalog Terraform Connector to generate cata
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-explore.png) Learn about the Cloud Services Catalog Terraform Connector application.](../concept/exploring-cpg-terraform-connector.md)
+[Explore ![Explore the Cloud Services Catalog Terraform Connector app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-explore.png) Learn about the Cloud Services Catalog Terraform Connector application.](../concept/exploring-cpg-terraform-connector.md)
 
 </td><td>
 
-[Configure ![Configure the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-set-up.png) Plan and configure your implementation.](../concept/configure-cpg-terraform-connector.md)
+[Configure ![Configure the Cloud Services Catalog Terraform Connector app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-set-up.png) Plan and configure your implementation.](../concept/configure-cpg-terraform-connector.md)
 
 </td></tr><tr><td>
 
-[Use ![Use the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-workspace.png) Use the Cloud Services Catalog Terraform Connector app to discover resources from the Terraform environment, create catalog items, and maintain them.](../concept/using-ccg-terraform-connector.md)
+[Use ![Use the Cloud Services Catalog Terraform Connector app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-workspace.png) Use the Cloud Services Catalog Terraform Connector app to discover resources from the Terraform environment, create catalog items, and maintain them.](../concept/using-ccg-terraform-connector.md)
 
 </td><td>
 
-[Reference ![Reference information.](../../../common/image/icon-reference.png) Get details about components like fields, tables, and properties.](cpg-terraform-connector-reference.md)
+[Reference ![Reference information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-reference.png) Get details about components like fields, tables, and properties.](cpg-terraform-connector-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

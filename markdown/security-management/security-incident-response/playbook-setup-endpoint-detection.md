@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  You can create a copy of the Endpoint Detection playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, click the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, click the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the Endpoint Detection playbook](../image/playbook-endpoint-detection.png "Endpoint Detection playbook")
+    ![Overview of the Endpoint Detection playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-endpoint-detection.png "Endpoint Detection playbook")
 
 4.  Activate the playbooks.
 
@@ -46,8 +46,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     -   **Category** is **Malicious code activity**.
     -   **Short description** is **CrowdStrike Detection Alerts**.
-    ![Trigger condition for Endpoint Detection playbook.](../image/playbook-endpoint-detection-trigger.png)
+    ![Trigger condition for Endpoint Detection playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-endpoint-detection-trigger.png)
 
 
-**Parent Topic:**[Playbook for Endpoint Detection](../concept/playbook-endpoint-detection.md)
+**Parent Topic:**[Playbook for Endpoint Detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-endpoint-detection.md)
 

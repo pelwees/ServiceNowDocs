@@ -166,7 +166,7 @@ Create, read, update, and delete records in the `sn_sec_calculator` scope.
 sn\_sec\_calculator.read
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Security Exposure Management Workspace Components](../concept/sem-components-installed.md)
+</table>**Parent Topic:**[Security Exposure Management Workspace Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sem-components-installed.md)
 
-**Parent Topic:**[Unified Security Exposure Management reference](../concept/unified-security-exposure-management-reference.md)
+**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/unified-security-exposure-management-reference.md)
 

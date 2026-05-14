@@ -33,8 +33,8 @@ Use the Admin center to perform the following tasks:
 -   Integrate with third-party shipping carriers
 -   Create a knowledge article
 -   Opt-in to Enterprise Asset Management
--   [Create failure and resolution codes](manage-failure-res-codes-eam.md)
--   [Set up the configurations to monitor the key performance indicators \(KPIs\) of the enterprise assets](configure-kpi-settings-eam.md)
+-   [Create failure and resolution codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-failure-res-codes-eam.md)
+-   [Set up the configurations to monitor the key performance indicators \(KPIs\) of the enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/configure-kpi-settings-eam.md)
 
-![Admin view](../image/admin-view-eam.png)
+![Admin view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/admin-view-eam.png)
 

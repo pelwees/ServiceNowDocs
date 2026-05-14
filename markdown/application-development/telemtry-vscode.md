@@ -24,9 +24,9 @@ Now Telemetry helps in the following
 
 Telemetry is enabled by default for the ServiceNow extension. If you do not wish to send usage data, you can set the `now.telemetry.enableTelemetry` user setting to false. Alternatively, select **File** \(Windows\) or **Code** \(Mac\) and navigate to **Preferences** &gt; **Settings** &gt; **Extensions** &gt; **Now** and clear **Now Telemetry** check box to disable the feature.
 
-![Telemetry in VS code extension](../image/telemetry-vscode.png "Settings for Telemetry")
+![Telemetry in VS code extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/telemetry-vscode.png "Settings for Telemetry")
 
 **Note:** The usage data will be sent until you disable the setting. The extension abides by the global telemetry setting `telemetry.enableTelemetry`. If that is set to false, Now telemetry is disabled.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vs-code.md)
 

@@ -17,7 +17,7 @@ Before starting the migration from SAFe, verify that the default mapping of tabl
 
 ## Before you begin
 
-[Verify EAP configuration for migration from SAFe](verify-eap-configuration-for-migration-from-safe.md).
+[Verify EAP configuration for migration from SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/verify-eap-configuration-for-migration-from-safe.md).
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -48,6 +48,6 @@ Verify table, field, and choice mapping between EAP and SAFe.
 
 ## What to do next
 
--   For SAFe Story \[sn\_safe\_story\] and SAFe Scrum Task \[sn\_safe\_scrum\_task\] tables, all default columns are migrated to the Story \[rm\_story\] and Scrum Task \[rm\_scrum\_task\] tables. To include or exclude any columns, update the **sn\_apw\_advanced.SAFeEAPStoryTaskMigrationAPI** script include. See [Modify columns to migrate from SAFe story and SAFe Scrum task tables to EAP](modify-columns-to-migrate-safe-story-task-tables-to-eap.md).
--   [Start migration of SAFe data to EAP](migrate-safe-data-to-eap.md).
+-   For SAFe Story \[sn\_safe\_story\] and SAFe Scrum Task \[sn\_safe\_scrum\_task\] tables, all default columns are migrated to the Story \[rm\_story\] and Scrum Task \[rm\_scrum\_task\] tables. To include or exclude any columns, update the **sn\_apw\_advanced.SAFeEAPStoryTaskMigrationAPI** script include. See [Modify columns to migrate from SAFe story and SAFe Scrum task tables to EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/modify-columns-to-migrate-safe-story-task-tables-to-eap.md).
+-   [Start migration of SAFe data to EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/migrate-safe-data-to-eap.md).
 

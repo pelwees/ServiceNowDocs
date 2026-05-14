@@ -24,7 +24,7 @@ You can monitor the status of the client lifecycle cases, see trends, and drill 
 
 ## Access the Financial Services Client Lifecycle dashboard
 
-To access the Financial Services Client Lifecycle dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Financial Services Client Lifecycle dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **Client Lifecycle** &gt; **Analytics**.
 
@@ -116,5 +116,5 @@ The following table shows the available filters in the Client Lifecycle dashboar
 |----|----|-----------|
 |Age|Bucket|Shows the age ranges in days for the Client Lifecycle cases.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

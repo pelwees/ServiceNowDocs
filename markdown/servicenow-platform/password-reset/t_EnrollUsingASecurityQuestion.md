@@ -39,7 +39,7 @@ The list of questions is presented in the language that you requested while logg
 
     For more information about enrolling using different methods, see the following topics:
 
-    -   [Enroll for the Password Reset program using SMS codes](t_EnrollUsingSMS.md)
-    -   [Enroll for the Password Reset program using an authenticator](authenticator-app-verification.md)
-    -   [Enroll for the Password Reset program using emailed codes](enroll-email-verification.md)
+    -   [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingSMS.md)
+    -   [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/authenticator-app-verification.md)
+    -   [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/enroll-email-verification.md)
 

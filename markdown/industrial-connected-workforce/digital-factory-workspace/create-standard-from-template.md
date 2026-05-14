@@ -33,12 +33,12 @@ Role required: sn\_icw\_igt.standard\_author
 
 5.  Follow the steps for creating and publishing a standard.
 
-    To learn more about the following steps, see [Publish an Industrial Guided Task standard](publish-industrial-guided-task-standard.md).
+    To learn more about the following steps, see [Publish an Industrial Guided Task standard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/publish-industrial-guided-task-standard.md).
 
 
 ## Result
 
 A new standard is created and displayed in the Standards hub. The standard is in either the Draft or Published state.
 
-**Parent Topic:**[Using templates to create standards](../concept/creating-standards-from-templates.md)
+**Parent Topic:**[Using templates to create standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/creating-standards-from-templates.md)
 

@@ -19,11 +19,11 @@ If you have a data classification administrator or auditor role, you can visuali
 
 ## Tables and columns tab
 
-![Overview dashboard - Tables and Columns tab](../image/data-classification-overview-tables-columns.png)
+![Overview dashboard - Tables and Columns tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../image/data-classification-overview-tables-columns.png)
 
 ## Users tab
 
-![Overview dashboard - Users tab](../image/data-classification-overview-users.png)
+![Overview dashboard - Users tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../image/data-classification-overview-users.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -32,7 +32,7 @@ If you have a data classification administrator or auditor role, you can visuali
 
 ## Use cases
 
-For additional examples of how different people in your organization would use this dashboard, see Use Cases in [Data Classification](../concept/data-classification.md).
+For additional examples of how different people in your organization would use this dashboard, see Use Cases in [Data Classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../concept/data-classification.md).
 
 |User|Dashboard use|
 |----|-------------|

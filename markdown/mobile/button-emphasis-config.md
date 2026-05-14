@@ -17,11 +17,11 @@ Configure button emphasis in different locations within your mobile app to help 
 
 Role required: admin
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/explore-ne-theming.md).
 
 ## About this task
 
-Button emphasis configuration is performed in web-based UI. For more information, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md). Starting from San Diego additional colors are included in the release, and button emphasis is supported in additional locations. These colors are configured in the web-based UI for the listed screen locations.
+Button emphasis configuration is performed in web-based UI. For more information, see [Associate a function with a location in the app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-studio-button-instances.md). Starting from San Diego additional colors are included in the release, and button emphasis is supported in additional locations. These colors are configured in the web-based UI for the listed screen locations.
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Action
 3.  Configure the other fields in the table as required.
 4.  Select **Submit**.
 
-![Button emphasis options for footer functions.](../image/button-emphasis-footer.png "Button emphasis options for footer functions")
+![Button emphasis options for footer functions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/button-emphasis-footer.png "Button emphasis options for footer functions")
 
 </td></tr></tbody>
 </table>

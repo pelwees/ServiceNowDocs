@@ -19,27 +19,27 @@ Helps employees identify growth and development areas, create a plan, and track 
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Exploring ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Talent app supports managers and employees identify, create, and complete career growth plans.](egd-explore.md)
+[Exploring ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Talent app supports managers and employees identify, create, and complete career growth plans.](egd-explore.md)
 
 </td><td>
 
-[Installing and configuring![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Administrators install and configure the Talent app and related features.](egd-install-config.md)
+[Installing and configuring![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-sdlc.svg) Administrators install and configure the Talent app and related features.](egd-install-config.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-management-console.svg)Administrators maintain the Talent app and related features over time as the organization grows and evolves.](egd-administration.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-management-console.svg)Administrators maintain the Talent app and related features over time as the organization grows and evolves.](egd-administration.md)
 
 </td></tr><tr><td>
 
-[Using ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)From the ServiceNow® Employee Center, managers and employees work with the Talent app and related features on career growth and development.](egd-use.md)
+[Using ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)From the ServiceNow® Employee Center, managers and employees work with the Talent app and related features on career growth and development.](egd-use.md)
 
 </td><td>
 
-[Integration ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with different applications to expand the capabilities and effectiveness of the Talent app.](egd-integrations.md)
+[Integration ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with different applications to expand the capabilities and effectiveness of the Talent app.](egd-integrations.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Reference information provides important details related to how the Talent Development Core app works.](egd-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-learn.svg) Reference information provides important details related to how the Talent Development Core app works.](egd-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store

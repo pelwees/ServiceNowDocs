@@ -29,15 +29,15 @@ Role required: evt\_mgmt\_admin
 
     The cluster number appears in the **Number** field.
 
-    1.  Select the Lookup using list icon \(![Lookup using list icon](../image/search-icon.png)\) in the **Service** field.
+    1.  Select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/search-icon.png)\) in the **Service** field.
 
     2.  In the CMDB CI Service \[cmdb\_ci\_service\_discovered\] table, select a manually created service.
 
-    3.  Preview the record by selecting the Preview this record icon \(![Preview this record icon](../image/info.png)\).
+    3.  Preview the record by selecting the Preview this record icon \(![Preview this record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/info.png)\).
 
 4.  In the **Select a Specific CI or generic CI class** section in the **Defined As** field, modify the manual cluster either as a specific CI of a manual cluster or as a generic CI class of a manual cluster that will be applied to all CIs of this class.
 
-    -   Specific CI - In the **Configuration item** field, select the Lookup using list icon \(![Lookup using list icon](../image/search-icon.png)\) and select the configuration item.
+    -   Specific CI - In the **Configuration item** field, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/search-icon.png)\) and select the configuration item.
     -   Generic CI class – In the **Configuration item class** field, select the configuration item class.
 5.  In the **Provide a Description** section, modify the description in the **Description** field.
 
@@ -54,10 +54,10 @@ Role required: evt\_mgmt\_admin
 
 The manual cluster is saved in the EM Impact Manual Cluster \[em\_impact\_manual\_cluster\] table. The impact calculation is recalculated automatically.
 
-**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/manual-cluster-in-a-manual-service.md)
 
 **Related topics**  
 
 
-[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+[Configuring CIs in a manual service as a manual cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/manual-cluster-in-a-manual-service.md)
 

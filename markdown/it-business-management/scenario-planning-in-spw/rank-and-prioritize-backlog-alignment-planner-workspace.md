@@ -18,7 +18,7 @@ Rank the planning items that are added to the pipeline of your portfolio plan to
 
 ## Before you begin
 
--   [Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+-   [Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
 -   Ensure that the planning items in the Prioritization tab are sorted by the Rank column in ascending order.
 
 Role required: sn\_align\_core.apw\_user
@@ -55,9 +55,9 @@ Action
 
 </td><td>
 
-Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the row to the required position.
+Use the Rearrange rows icon \(![Rearrange rows icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the row to the required position.
 
- ![Prioritization page single row reorder](../images/backlog-v2-single-reorder.gif)
+ ![Prioritization page single row reorder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-v2-single-reorder.gif)
 
 </td></tr><tr><td id="d270812e183">
 
@@ -65,9 +65,9 @@ Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-wo
 
 </td><td>
 
-1.  Use the Select row checkbox \(![Select checkbox.](../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
-2.  Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the rows to the required position.
- ![Prioritization page multi-row reorder](../images/backlog-v2-multi-row-reorder.gif)
+1.  Use the Select row checkbox \(![Select checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
+2.  Use the Rearrange rows icon \(![Rearrange rows icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the rows to the required position.
+ ![Prioritization page multi-row reorder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-v2-multi-row-reorder.gif)
 
 </td></tr><tr><td id="d270812e223">
 
@@ -75,20 +75,20 @@ Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-wo
 
 </td><td>
 
-1.  Use the Select row check box \(![Select check box.](../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
+1.  Use the Select row check box \(![Select check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
 2.  Select **Rank Items**.
 3.  On the Rank items window, assign ranks to the items based on the attributes such as score, planned ROI, and so on, in an ascending or descending order.
- ![Prioritization multi row reorder using rank items button](../images/prioritization-multi-row-reorder-using-rank-items-button.gif)
+ ![Prioritization multi row reorder using rank items button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/prioritization-multi-row-reorder-using-rank-items-button.gif)
 
 </td></tr></tbody>
 </table>    Repeat this step until the ranking of the planning items align with your business priorities. To get better visibility of data that you need:
 
-    -   Sort or group the list by the required columns. See [Personalize the Prioritization view](personalize-backlog-in-alignment-planner-workspace.md)
+    -   Sort or group the list by the required columns. See [Personalize the Prioritization view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/personalize-backlog-in-alignment-planner-workspace.md)
     -   Filter the planning items by applying filters.
-    **Tip:** Using the Row context menu \(![Row context menu](../../project-workspace/image/icon-row-context-menu.png)\), you can also assign the highest and lowest ranks to the planning items using the **Move to top** and **Move to bottom** options respectively.
+    **Tip:** Using the Row context menu \(![Row context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../project-workspace/image/icon-row-context-menu.png)\), you can also assign the highest and lowest ranks to the planning items using the **Move to top** and **Move to bottom** options respectively.
 
 
 ## What to do next
 
-[Prioritize work](prioritize-planning-items-strategic-planning-workspace.md)
+[Prioritize work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/prioritize-planning-items-strategic-planning-workspace.md)
 

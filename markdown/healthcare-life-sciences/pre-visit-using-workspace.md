@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Access the Workspace](pre-visit-viewing-home-page.md).
+[Access the Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-viewing-home-page.md).
 
 </td><td>
 
@@ -37,7 +37,7 @@ Use the home page in Workspace for procedure requests to quickly scan and access
 
 </td></tr><tr><td>
 
-[View a procedure request case in Workspace](../task/pre-visit-view-cases.md).
+[View a procedure request case in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../task/pre-visit-view-cases.md).
 
 </td><td>
 
@@ -45,7 +45,7 @@ View a procedure request case in Workspace to complete patient pre-visit activit
 
 </td></tr><tr><td>
 
-[View patient information for a procedure request case in Workspace](pre-visit-viewing-patient-info.md).
+[View patient information for a procedure request case in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-viewing-patient-info.md).
 
 </td><td>
 
@@ -53,7 +53,7 @@ View the details of a patient in Workspace.
 
 </td></tr><tr><td>
 
-[Work on a procedure request case in Workspace](pre-visit-playbook.md).
+[Work on a procedure request case in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md).
 
 </td><td>
 
@@ -61,7 +61,7 @@ Use the playbook available with the Pre-Visit Management application to manage p
 
 </td></tr><tr><td>
 
-[Manage appointment bookings](pre-visit-booking-appt.md#).
+[Manage appointment bookings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md#).
 
 </td><td>
 

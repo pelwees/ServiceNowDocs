@@ -21,7 +21,7 @@ Role required: sn\_hr\_ukg.admin
 
 ## About this task
 
-When an employee posts a question in virtual chat in Employee Center, the [NLU model](nlu-ukg-model.md) selects an utterance from the question, checks for its mention in vocabulary sources, identifies its accrual code and ID. A flow uses the ID to pull the requested information from the Ultimate Kronos Group application and display in virtual chat in Employee Center.
+When an employee posts a question in virtual chat in Employee Center, the [NLU model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/nlu-ukg-model.md) selects an utterance from the question, checks for its mention in vocabulary sources, identifies its accrual code and ID. A flow uses the ID to pull the requested information from the Ultimate Kronos Group application and display in virtual chat in Employee Center.
 
 For example, an employee wants to view the accrual balance for annual leave. The NLU model selects annual leave as the utterance. It identifies **Annual Leave** as the accrual code whose ID in Ultimate Kronos Group is **1531**. The flow uses the ID **1531** to pull the requested information from the Ultimate Kronos Group application.
 

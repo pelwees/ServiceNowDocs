@@ -17,7 +17,7 @@ Connect to your Argo CD instance using the DevOps Change Workspace playbook to a
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -49,8 +49,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\).
-2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](app-create-all.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\).
+2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-all.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select Argo CD from the **Orchestration** category.
 
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\).
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\).
 2.  From the Capability list, select **Orchestration**.
 3.  Select **Connect a tool**.
 4.  On the  Connect to a tool  modal, select Argo CD.
@@ -70,7 +70,7 @@ Steps
 </td></tr></tbody>
 </table>2.  Specify a name for the tool in the **Tool name** field, and select **Next**.
 
-    ![Connect to Argo CD tool screen](../image/argocd-5.png)
+    ![Connect to Argo CD tool screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/argocd-5.png)
 
 3.  On the Argo CD instance details playbook activity:
 
@@ -84,7 +84,7 @@ Steps
 
         A MID server is required if your tool instance is hosted on-prem. For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md).
 
-    ![Enter Argo CD instance details playbook activity](../image/argocd-6.png)
+    ![Enter Argo CD instance details playbook activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/argocd-6.png)
 
 4.  Select **Connect**.
 
@@ -105,16 +105,16 @@ Steps
         This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
     3.  Select **Assign**.
-    ![Specify Argo CD tool access playbook activity](../image/argocd-7.png)
+    ![Specify Argo CD tool access playbook activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/argocd-7.png)
 
 6.  From the **Summary** page, select **View tool record** to review the details of the connected instance.
 
-    ![Connection summary page](../image/argocd-8.png)
+    ![Connection summary page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/argocd-8.png)
 
 
 ## Result
 
 You’ve successfully onboarded your Argo CD tool to DevOps Change Velocity.
 
-**Parent Topic:**[Argo CD integration with DevOps Change Velocity](../concept/argo-cd-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Argo CD integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/argo-cd-integration-with-devops-change-velocity.md)
 

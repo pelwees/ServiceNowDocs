@@ -34,7 +34,7 @@ Role required:
     -   Application Vulnerable Items
     -   Container Vulnerable Items
     -   Configuration Test Results
-3.  Select the check box of the records you want to update and then select the [Selected items](itr-ws-create-remediation-task.md#itr-crt-select-items) option in the Record selection field on the Create Remediation Task modal.
+3.  Select the check box of the records you want to update and then select the [Selected items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-create-remediation-task.md#itr-crt-select-items) option in the Record selection field on the Create Remediation Task modal.
 
 4.  Select **Create Remediation Task**.
 
@@ -93,5 +93,5 @@ Choices are:-   **Skip records for new remediation tasks**: No action is taken o
 
 ## Result
 
-Remediation tasks are created based on the grouping criteria. An email notification is sent to the remediation owners in the assignment group, informing them that a remediation task has been created and assigned to their group. For examples on how remediation tasks are created based on the grouping criteria and record management criteria, see [Examples for remediation task creation in the Vulnerability Manager Workspace and IT Remediation Workspace](../../vr-vulnerability-manager-workspace/reference/create-remediation-task-examples.md).
+Remediation tasks are created based on the grouping criteria. An email notification is sent to the remediation owners in the assignment group, informing them that a remediation task has been created and assigned to their group. For examples on how remediation tasks are created based on the grouping criteria and record management criteria, see [Examples for remediation task creation in the Vulnerability Manager Workspace and IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vr-vulnerability-manager-workspace/reference/create-remediation-task-examples.md).
 

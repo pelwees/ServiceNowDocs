@@ -115,5 +115,5 @@ Major Incident Trigger Rules\[major\_incident\_trigger\_rule\]
 This table extends the Application File \[sys\_metadata\] table and stores the major incident trigger rules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Incident Management - Major Incident Management](activate-major-incident-management-plugin.md)
+</table>**Parent Topic:**[Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md)
 

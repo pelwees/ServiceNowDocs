@@ -22,9 +22,9 @@ Service provider \(SP\) customers can access SP services by using a portal to a 
 
 ## Shared instance
 
-![Dedicated vs shared](../image/bp-dedicated-vs-shared.png "Dedicated vs.shared instance")
+![Dedicated vs shared](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-dedicated-vs-shared.png "Dedicated vs.shared instance")
 
 
 
-**Parent Topic:**[Service provider reference architecture](bp-sp-reference-arch-ds.md)
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 

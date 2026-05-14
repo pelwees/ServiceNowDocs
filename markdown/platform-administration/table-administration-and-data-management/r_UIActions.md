@@ -105,5 +105,5 @@ m2m.type.setDisplayValue("Fixes::Fixed by");
 m2m.insert();}
 ```
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_ManyToManyTaskRelations.md)
 

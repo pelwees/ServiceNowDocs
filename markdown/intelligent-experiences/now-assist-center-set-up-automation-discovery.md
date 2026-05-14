@@ -32,15 +32,15 @@ In the event an error occurs when performing these steps, see the troubleshootin
 
 2.  Select **Change advisor settings** in the AI Agent Advisor section of the home page.
 
-    You can also select **Admin** \(![Admin icon in the side navigation bar.](../image/icon-now-assist-center-nav-admin.png)\) in the side navigation bar and select **AI Agent Advisor** under Settings on the Admin page.
+    You can also select **Admin** \(![Admin icon in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-admin.png)\) in the side navigation bar and select **AI Agent Advisor** under Settings on the Admin page.
 
     The AI Agent Advisor Setup tab opens showing a card for each data source. Enable the data sources you want AI Agent Advisor to analyze.
 
     **Incident** and **Case** data sources are enabled by default.
 
-    ![Automation Opportunities Setup page showing a card for each data source.](../image/now-assist-center-agent-advisor-opportunity-setup.png "Data sources on the Automation Opportunities Setup page")
+    ![Automation Opportunities Setup page showing a card for each data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-opportunity-setup.png "Data sources on the Automation Opportunities Setup page")
 
-3.  Select the **Edit** button \(![Edit icon.](../image/icon-now-assist-center-edit.png)\) in the card you want to configure.
+3.  Select the **Edit** button \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-edit.png)\) in the card you want to configure.
 
     Choose any of the following data sources:
 
@@ -104,12 +104,12 @@ AI Agent Advisor runs the analysis according to the configured filters and sched
 
 ## What to do next
 
-View your automation opportunities on the home page. For more information, see [View your automation opportunities](now-assist-center-view-automation-opportunities.md).
+View your automation opportunities on the home page. For more information, see [View your automation opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md).
 
-**Parent Topic:**[Configuring AI Agent Advisor](../concept/configuring-ai-agent-advisor.md)
+**Parent Topic:**[Configuring AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/configuring-ai-agent-advisor.md)
 
 **Related topics**  
 
 
-[Confirm installation of AI Agent Advisor](set-up-ai-agent-advisor.md)
+[Confirm installation of AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/set-up-ai-agent-advisor.md)
 

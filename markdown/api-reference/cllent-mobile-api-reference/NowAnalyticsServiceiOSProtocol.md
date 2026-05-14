@@ -45,7 +45,7 @@ Flag that indicates whether the user has consented to analytics tracking for the
 -   false: User denied data tracking.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowAnalyticsService - addEvent\(named eventName: String, with properties: \[String: Any\]?\)
 
@@ -174,7 +174,7 @@ NowAnalytics.sharedAnalyticsService.appendToUserProperty(named: "Case Identifier
 
 Deletes all analytics data associated with the current user. This method also unsets the current active user and opts this device out of future tracking.
 
-To set the current user, use the [setUserId\(\)](NowAnalyticsServiceiOSProtocol.md#) method.
+To set the current user, use the [setUserId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsServiceiOSProtocol.md#) method.
 
 <table id="table_akt_yry_spb" class="parameters"><thead><tr><th>
 
@@ -241,7 +241,7 @@ NowAnalytics.sharedAnalyticsService.incUserProperty(named: "Cases Handled", by: 
 
 Enables the calling of the methods in the SNAnalytics\(\) API from within a WebView using JavaScript.
 
-This method returns an [SNMobileAnalytics](../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#) object that is available in JavaScript, which exposes the native methods.
+This method returns an [SNMobileAnalytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#) object that is available in JavaScript, which exposes the native methods.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -249,7 +249,7 @@ This method returns an [SNMobileAnalytics](../../../SNMobileAnalytics/concept/SN
 
 |Type|Description|
 |----|-----------|
-|Object|[SNMobileAnalytics](../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#)|
+|Object|[SNMobileAnalytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#)|
 
 ```
 // Register JS object inside the web page
@@ -267,7 +267,7 @@ NowAnalytics.sharedAnalyticsService.installJavascriptInterface(into: webView)
 
 Deletes the specified property for the current user.
 
-To set the current user, use the [setUserId\(\)](NowAnalyticsServiceiOSProtocol.md#) method.
+To set the current user, use the [setUserId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsServiceiOSProtocol.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -305,7 +305,7 @@ delegate
 
 </td><td>
 
-[NowAnalyticsServiceDelegate](../../NowAnalyticsServiceDelegate/concept/NowAnalyticsServiceDeliOSProtocol.md#)
+[NowAnalyticsServiceDelegate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowAnalyticsServiceDelegate/concept/NowAnalyticsServiceDeliOSProtocol.md#)
 
 </td><td>
 
@@ -410,7 +410,7 @@ NowAnalytics.sharedAnalyticsService.setUserProperties([
 
 Sets multiple properties with the specified values for the current user. Properties can be anything that you want to track on the dashboard for a user.
 
-You must call the [setUserId\(\)](NowAnalyticsServiceiOSProtocol.md#) function before calling this function.
+You must call the [setUserId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsServiceiOSProtocol.md#) function before calling this function.
 
 <table id="table_o5w_vfz_spb" class="parameters"><thead><tr><th>
 
@@ -482,7 +482,7 @@ NowAnalytics.sharedAnalyticsService.setUserProperties([
 
 Sets the specified property with the specified value for the current user. You can define any property that makes sense for your application.
 
-You must call the [setUserId\(\)](NowAnalyticsServiceiOSProtocol.md#) function before calling this function.
+You must call the [setUserId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsServiceiOSProtocol.md#) function before calling this function.
 
 <table id="table_idn_sdz_spb" class="parameters"><thead><tr><th>
 

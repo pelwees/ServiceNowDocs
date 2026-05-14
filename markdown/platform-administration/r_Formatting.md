@@ -41,7 +41,7 @@ A11y Checker
 
 </td><td>
 
-![TinyMCE Accessibility Checker](../image/a11y-checker.png)
+![TinyMCE Accessibility Checker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/a11y-checker.png)
 
 </td><td>
 
@@ -53,11 +53,11 @@ Align Center
 
 </td><td>
 
-![Center text align html](../image/CenterTextAlignHTML.png)
+![Center text align html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CenterTextAlignHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Align Center](../image/TinyMCEV6-align-center_icon.png)
+![TinyMCE v6 Align Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-align-center_icon.png)
 
 </td><td>
 
@@ -71,11 +71,11 @@ Align Left
 
 </td><td>
 
-![Left text align html](../image/LeftTextAlignHTML.png)
+![Left text align html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/LeftTextAlignHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Align Left](../image/TinyMCEV6-align-left_icon.png)
+![TinyMCE v6 Align Left](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-align-left_icon.png)
 
 </td><td>
 
@@ -89,11 +89,11 @@ Align Right
 
 </td><td>
 
-![Right text align html](../image/RightTextAlignHTML.png)
+![Right text align html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RightTextAlignHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Align Right](../image/TinyMCEV6-align-right_icon.png)
+![TinyMCE v6 Align Right](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-align-right_icon.png)
 
 </td><td>
 
@@ -107,11 +107,11 @@ Background Color
 
 </td><td>
 
-![Background color html](../image/BgColorHTML.png)
+![Background color html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/BgColorHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Background Color](../image/TinyMCEV6-background-color_icon.png)
+![TinyMCE v6 Background Color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-background-color_icon.png)
 
 </td><td>
 
@@ -123,11 +123,11 @@ Blocks
 
 </td><td>
 
-![Paragraph styles html](../image/ParaStylesHTML.png)
+![Paragraph styles html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ParaStylesHTML.png)
 
 </td><td>
 
-![TinyMCE Block style](../image/ParaStylesHTML.png)
+![TinyMCE Block style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ParaStylesHTML.png)
 
 </td><td>
 
@@ -143,7 +143,7 @@ Applies the selected header or paragraph style to the current word or selected t
 
 </td><td>
 
-![TinyMCE v6 block-quotes](../image/TinyMCEV6-blockquote_icon.png)
+![TinyMCE v6 block-quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-blockquote_icon.png)
 
 </td><td>
 
@@ -155,11 +155,11 @@ Bold
 
 </td><td>
 
-![Bold html](../image/BoldHTML.png)
+![Bold html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/BoldHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Bold](../image/TinyMCEV6-bold_icon.png)
+![TinyMCE v6 Bold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-bold_icon.png)
 
 </td><td>
 
@@ -173,11 +173,11 @@ Bullet List
 
 </td><td>
 
-![Bullet html](../image/BulletedHTML.png)
+![Bullet html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/BulletedHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Bullet List](../image/TinyMCEV6-bullet-list_icon.png)
+![TinyMCE v6 Bullet List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-bullet-list_icon.png)
 
 </td><td>
 
@@ -189,11 +189,11 @@ Font Family
 
 </td><td>
 
-![Font Family html drop-down menu](../image/FontFamilyHTML.png)
+![Font Family html drop-down menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FontFamilyHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Font Family drop-down menu](../image/TinyMCEV6-fontfamily_icon.png)
+![TinyMCE v6 Font Family drop-down menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-fontfamily_icon.png)
 
 </td><td>
 
@@ -205,11 +205,11 @@ Font Size
 
 </td><td>
 
-![Font size html](../image/FontSizeHTML.png)
+![Font size html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FontSizeHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Font Size drop-down menu](../image/TinyMCEV6-fontsize_icon.png)
+![TinyMCE v6 Font Size drop-down menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-fontsize_icon.png)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Format painter
 
 </td><td>
 
-![TinyMCE Format Painter](../image/format-painter.png)
+![TinyMCE Format Painter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/format-painter.png)
 
 </td><td>
 
@@ -237,11 +237,11 @@ Increase Indent
 
 </td><td>
 
-![Indent html](../image/IndentHTML.png)
+![Indent html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IndentHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Increase Indent](../image/TinyMCEV6-increase-indent_icon.png)
+![TinyMCE v6 Increase Indent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-increase-indent_icon.png)
 
 </td><td>
 
@@ -255,11 +255,11 @@ Italic
 
 </td><td>
 
-![Italic html](../image/ItalicHTML.png)
+![Italic html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ItalicHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Italic](../image/TinyMCEV6-italic_icon.png)
+![TinyMCE v6 Italic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-italic_icon.png)
 
 </td><td>
 
@@ -273,11 +273,11 @@ Justify
 
 </td><td>
 
-![Full text align html](../image/FullTextAlignHTML.png)
+![Full text align html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FullTextAlignHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Justify](../image/TinyMCEV6-justify_icon.png)
+![TinyMCE v6 Justify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-justify_icon.png)
 
 </td><td>
 
@@ -295,7 +295,7 @@ Applies justified alignment, which stretches the lines to be equal widths, to th
 
 </td><td>
 
-![TinyMCE v6 LTR](../image/TinyMCEV6-ltr_icon.png)
+![TinyMCE v6 LTR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-ltr_icon.png)
 
 </td><td>
 
@@ -311,7 +311,7 @@ Sets the directionality of contents to from left to right.
 
 </td><td>
 
-![TinyMCE v6 New Document](../image/TinyMCEV6-new-document_icon.png)
+![TinyMCE v6 New Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-new-document_icon.png)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Non-breaking
 
 </td><td>
 
-![TinyMCE v6 Non-breaking](../image/TinyMCEV6-nonbreaking_icon.png)
+![TinyMCE v6 Non-breaking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-nonbreaking_icon.png)
 
 </td><td>
 
@@ -339,11 +339,11 @@ Numbered List
 
 </td><td>
 
-![Numbered html](../image/NumberedHTML.png)
+![Numbered html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/NumberedHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Numbered List](../image/TinyMCEV6-numbered-list_icon.png)
+![TinyMCE v6 Numbered List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-numbered-list_icon.png)
 
 </td><td>
 
@@ -355,11 +355,11 @@ Outdent
 
 </td><td>
 
-![Decrease Indent html](../image/DeIndentHTML.png)
+![Decrease Indent html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/DeIndentHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Outdent](../image/TinyMCEV6-outdent_icon.png)
+![TinyMCE v6 Outdent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-outdent_icon.png)
 
 </td><td>
 
@@ -379,7 +379,7 @@ Removes indentation from the current or selected paragraphs, removing 30 px of l
 
 </td><td>
 
-![TinyMCE v6 Page-break](../image/TinyMCEV6-pagebreak_icon.png)
+![TinyMCE v6 Page-break](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-pagebreak_icon.png)
 
 </td><td>
 
@@ -395,7 +395,7 @@ Inserts a page-break into the editor.
 
 </td><td>
 
-![TinyMCE v6 Remove format](../image/TinyMCEV6-remove-formatting_icon.png)
+![TinyMCE v6 Remove format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-remove-formatting_icon.png)
 
 </td><td>
 
@@ -411,7 +411,7 @@ Removes the formatting from the selected text.
 
 </td><td>
 
-![TinyMCE v6 RTL](../image/TinyMCEV6-rtl_icon.png)
+![TinyMCE v6 RTL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-rtl_icon.png)
 
 </td><td>
 
@@ -427,7 +427,7 @@ Strike through
 
 </td><td>
 
-![TinyMCE v6 Strike through](../image/TinyMCEV6-strikethrough_icon.png)
+![TinyMCE v6 Strike through](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-strikethrough_icon.png)
 
 </td><td>
 
@@ -443,7 +443,7 @@ Applies strikethough formatting to the selected text.
 
 </td><td>
 
-![TinyMCE v6 Subscript](../image/TinyMCEV6-subscript_icon.png)
+![TinyMCE v6 Subscript](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-subscript_icon.png)
 
 </td><td>
 
@@ -459,7 +459,7 @@ Applies subscript formatting to the selected text.
 
 </td><td>
 
-![TinyMCE v6 Superscript](../image/TinyMCEV6-superscript_icon.png)
+![TinyMCE v6 Superscript](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-superscript_icon.png)
 
 </td><td>
 
@@ -471,11 +471,11 @@ Text Color
 
 </td><td>
 
-![Text color html](../image/TextColorHTML.png)
+![Text color html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TextColorHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Text Color](../image/TinyMCEV6-text-color_icon.png)
+![TinyMCE v6 Text Color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-text-color_icon.png)
 
 </td><td>
 
@@ -487,11 +487,11 @@ Underline
 
 </td><td>
 
-![Underline html](../image/UlineHTML.png)
+![Underline html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/UlineHTML.png)
 
 </td><td>
 
-![TinyMCE v6 Underline](../image/TinyMCEV6-underline_icon.png)
+![TinyMCE v6 Underline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-underline_icon.png)
 
 </td><td>
 

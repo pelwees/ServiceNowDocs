@@ -33,7 +33,7 @@ Role required: admin
 
 4.  On the Notification form, select the **Active** check box.
 
-    ![Activate check box in the metadata extraction email notification.](../image/cmpro-na-me-notf.png "Metadata extraction email notification")
+    ![Activate check box in the metadata extraction email notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-me-notf.png "Metadata extraction email notification")
 
 5.  Select **Update**.
 
@@ -44,20 +44,20 @@ The metadata extraction email notification is activated and triggers when the me
 
 ## What to do next
 
-[Configure the workspace URL for contract metadata extraction notifications](cncore-config-ext-wrkspc-email.md)
+[Configure the workspace URL for contract metadata extraction notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-ext-wrkspc-email.md)
 
-**Parent Topic:**[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
+**Parent Topic:**[Configuring contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)
 
 **Related topics**  
 
 
-[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 
-[Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md)
+[Map a use case for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-me.md)
 
-[Configure system properties for contract metadata extraction](cncore-conf-sys-prop-na.md)
+[Configure system properties for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-sys-prop-na.md)
 
-[Configure the workspace URL for contract metadata extraction notifications](cncore-config-ext-wrkspc-email.md)
+[Configure the workspace URL for contract metadata extraction notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-ext-wrkspc-email.md)
 
-[Configure an extension point to add contract metadata](config-ext-pt-to-add-metadata.md)
+[Configure an extension point to add contract metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/config-ext-pt-to-add-metadata.md)
 

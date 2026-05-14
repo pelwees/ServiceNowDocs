@@ -62,6 +62,6 @@ Description
 
 
 </td></tr></tbody>
-</table>4.  After you classify licenses, you are ready to [Resolve classified licenses to components](vr-sbom-assign-license.md).
+</table>4.  After you classify licenses, you are ready to [Resolve classified licenses to components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-assign-license.md).
 
 

@@ -38,5 +38,5 @@ Role required: sn\_hr\_sp.esc\_admin
 
 You have set up My items on your Now Mobile® application.
 
-**Parent Topic:**[Configure Now Mobile Home page](../concept/nm-home.md)
+**Parent Topic:**[Configure Now Mobile Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/nm-home.md)
 

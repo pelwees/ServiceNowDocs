@@ -89,7 +89,7 @@ An ITIL user in the Acme domain logs in and creates a change request. The change
 
 An ITIL user in the ACME domain logs in and navigates to the Change Schedule landing page. The user can view the Change Schedules in both their current or global domain.
 
-**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
 **Related topics**  
 

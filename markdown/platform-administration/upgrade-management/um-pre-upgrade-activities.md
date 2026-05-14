@@ -146,7 +146,7 @@ Role required: admin
     -   Upgrade test suites: The auto-generated regression tests in the Generate tests section are added here automatically when they are generated. You can also add more tests by selecting it from the Available test suites table section.
     -   Available test suites: Review the list of available test suites. You can also select the tests you want to add to the Upgrade test suites section. Only the selected tests are executed automatically after the upgrade.
 
-        ![Screenshot showing the available test suites](../image/um-available-test-suites.png)
+        ![Screenshot showing the available test suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-available-test-suites.png)
 
         **Note:** The available test suites are already successfully passed test suites.
 
@@ -186,7 +186,7 @@ Role required: admin
 
     -   Upgrade store applications
 
-        ![Screenshot showing upgrade store apps](../image/um-upgrade-store-apps.png)
+        ![Screenshot showing upgrade store apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-upgrade-store-apps.png)
 
         -   Application: Name of the application
         -   Current version: Current version of the application on the instance
@@ -219,14 +219,14 @@ Role required: admin
     -   Upgrade preview: You can view the current version and the previewing version of the upgrade in this section. You can also see if there is any upgrade been scheduled.
     -   Skipped record summary: You can view the following information.
 
-        ![Screenshot showing the skipped record summary](../image/um-skipped-record-summary.png)
+        ![Screenshot showing the skipped record summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-skipped-record-summary.png)
 
         -   Total records changed: Gives the total number of records that have changed since last upgrade. Select the Review changes link to see the list of records that have changed.
         -   Total skipped records: Shows the numbers of skipped records that have been resolved, total skipped records that need to be reviewed and the number of skipped records that have already been reviewed.
         -   Skipped records without tests: States the total number of skipped records that have tests. The Test linked link in the Skipped records section points to the list of tests of the skipped records that have associated tests.
     -   Predicted skipped records: Shows the total number of predicted skipped records
 
-        ![Screenshot showing the predicted skipped records list](../image/um-predicted-skipped-test-link.png)
+        ![Screenshot showing the predicted skipped records list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-predicted-skipped-test-link.png)
 
         -   Name: Name of the skipped record
         -   Product: Name of the record that the skipped record belongs to
@@ -245,7 +245,7 @@ Role required: admin
 
         The skipped records matching the set conditions in the skipped record rules editor, perform the previously selected actions. Select **View latest upgrade history** to determine the actions and conditions to be set depending on the previous upgrades.
 
-        ![Screenshot showing the skipped record rules editor](../image/um-record-rule-editor.png)
+        ![Screenshot showing the skipped record rules editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-record-rule-editor.png)
 
         The skipped record rules shows the list of skipped record rules on the instance.
 
@@ -263,12 +263,12 @@ Role required: admin
     -   Ensure to review and update the list of skipped records after the upgrade.
     -   Once done with the reviewing of the skipped records, complete the next activities required in the pre-upgrade process.
 
-**Parent Topic:**[Access guided upgrade on a non-production instance](um-guided-tour-implement.md)
+**Parent Topic:**[Access guided upgrade on a non-production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement.md)
 
 **Related topics**  
 
 
-[Implement instance upgrade activities on a sub-prod instance](um-implement-instance-upgrade.md)
+[Implement instance upgrade activities on a sub-prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-implement-instance-upgrade.md)
 
-[Implement post-upgrade activities on a non-prod instance](um-post-upgrade-activities.md)
+[Implement post-upgrade activities on a non-prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-post-upgrade-activities.md)
 

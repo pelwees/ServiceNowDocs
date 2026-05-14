@@ -148,18 +148,18 @@ A community user who can create a customer service case from a community discuss
 Communities Portal
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Communities references](communitie-references.md)
+</table>**Parent Topic:**[Communities references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communitie-references.md)
 
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
 
-[Properties installed with Communities](communities-properties.md)
+[Properties installed with Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-properties.md)
 
-[Forum form fields](forum-form-fields.md)
+[Forum form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/forum-form-fields.md)
 
-[Video Configurations form fields](video-configurations-form-fields.md)
+[Video Configurations form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/video-configurations-form-fields.md)
 
-[Topic form fields](topic-form-fields.md)
+[Topic form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/topic-form-fields.md)
 

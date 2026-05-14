@@ -23,9 +23,9 @@ Governance frameworks are applied to manage the AI system throughout its life cy
 
 The following image shows the overview page of an AI system.
 
-![AI system overview page](../image/ai-system-overview-page.png "AI system overview page")
+![AI system overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-system-overview-page.png "AI system overview page")
 
-An AI system record provides an aggregated risk score. The individual risk scores for entities that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md).
+An AI system record provides an aggregated risk score. The individual risk scores for entities that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-risk/concept/risk-rollup-ara-concept.md).
 
 **Important:** To see the aggregated risk score, you must enable the **Migrate to Advanced Risk Assessments** \(`sn_risk_advanced.migrate_to_advanced_risk`\) under **All** &gt; **Advanced Risk** &gt; **Properties**.
 
@@ -35,7 +35,7 @@ Aggregated risk score consolidates individual risks such as bias, drift, and sec
 
 The following image shows the aggregated risk score section:
 
-![Details page of an AI system showing the aggregated risk score](../image/aggregated-risk-score-details-tab-ai-system.png "Aggregated risk score")
+![Details page of an AI system showing the aggregated risk score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/aggregated-risk-score-details-tab-ai-system.png "Aggregated risk score")
 
 ## Related AI assets
 
@@ -47,9 +47,9 @@ The Related AI assets section lists the following for an AI system:
 **Related topics**  
 
 
-[Request an AI use case](../task/request-ai-system.md)
+[Request an AI use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/request-ai-system.md)
 
-[Request an AI model](../task/request-ai-model.md)
+[Request an AI model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/request-ai-model.md)
 
-[Request a dataset](../task/request-dataset.md)
+[Request a dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/request-dataset.md)
 

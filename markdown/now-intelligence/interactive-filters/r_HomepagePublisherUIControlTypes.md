@@ -28,5 +28,5 @@ Filtering behavior depends on the filter type when selecting multiple values usi
 
 A filter may be converted from the **Check boxes** to the **Select Multiple Input** control type for performance reasons.
 
-**Parent Topic:**[Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
+**Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/r_AvailableHomepagePublisherTypes.md)
 

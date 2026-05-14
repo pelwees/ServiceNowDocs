@@ -49,5 +49,5 @@ The following plugins are required to deploy the call control integration with t
     **Note:** Address the Contact Center Integration Core plugin dependencies prior to downloading the plugin.
 
 
-In addition to the preceding requirements, [Install Omnichannel Callback for Customer Service Management](install-csm-omni-callback-app.md) for callback integration with contact centers.
+In addition to the preceding requirements, [Install Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/install-csm-omni-callback-app.md) for callback integration with contact centers.
 

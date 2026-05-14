@@ -35,11 +35,11 @@ Creating a customized HTML document template is optional.
 
     The sample form is shown in the following example.
 
-    ![HTML template.](../image/html-document-template.png "HTML template")
+    ![HTML template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/html-document-template.png "HTML template")
 
 4.  On the form, fill in the fields and click **Submit**.
 
-    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [HTML Template form](../reference/html-template-reference-form.md).
+    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [HTML Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/html-template-reference-form.md).
 
 
 ## Result

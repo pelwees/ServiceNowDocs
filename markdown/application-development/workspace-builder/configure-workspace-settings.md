@@ -24,17 +24,17 @@ This video shows you how to configure workspace settings in Workspace Builder.
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
 
 2.  Display the Settings form by selecting **Workspace settings** in the Workspace Builder header.
 
-    ![Define settings for your workplace](../image/wb-settings-dialog-new-theme.png)
+    ![Define settings for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-settings-dialog-new-theme.png)
 
 3.  On the **General** tab of the form, specify or change the basic settings for the workspace by filling in the editable fields.
 
@@ -144,7 +144,7 @@ Table
 
 Data table that is added to when a user creates a record. The table you select automatically has associated lists.**Note:** The tables specified when the workspace was created appear automatically. Select **Add a table** to incorporate additional tables into the workspace. You can add each table only once.
 
- To remove a table, select its delete icon \(![Delete a table from record navigation](../image/trash-icon.png)\). No confirmation message appears, but you can select **Cancel** to revert the deletion.
+ To remove a table, select its delete icon \(![Delete a table from record navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/trash-icon.png)\). No confirmation message appears, but you can select **Cancel** to revert the deletion.
 
 </td></tr><tr><td>
 

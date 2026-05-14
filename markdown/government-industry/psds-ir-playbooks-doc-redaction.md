@@ -36,7 +36,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 5.  Under the Related Documents card, select the PDF you wish to redact information from.
 
-6.  Select the Redact PDF ![Redact Icon](../image/redactpdficon.png) icon.
+6.  Select the Redact PDF ![Redact Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/redactpdficon.png) icon.
 
 7.  To redact using the highlight functionality: select Highlight.
 

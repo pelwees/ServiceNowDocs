@@ -79,8 +79,8 @@ Role required: sn\_coaching.admin
 
         -   To add a survey to be taken by the coach, in the **Survey taken by Coach** field, using the search icon select the survey.
         -   To add a survey to be taken by the trainee, in the **Survey taken by Trainee** field, using the search icon select the survey.
-        For more information on the coaching opportunities, see [Define trigger conditions for a coaching opportunity](cf-create-coaching-opportunity.md).
+        For more information on the coaching opportunities, see [Define trigger conditions for a coaching opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-coaching-opportunity.md).
 
 
-**Parent Topic:**[Setting up Coaching and surveys](../concept/cf-setting-up-coaching.md)
+**Parent Topic:**[Setting up Coaching and surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../concept/cf-setting-up-coaching.md)
 

@@ -30,21 +30,21 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    ![Now Assist skills available for Contract Management Pro.](../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
+    ![Now Assist skills available for Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
 
 4.  In the General details page, view the skill details and select **Save and continue**.
 
 5.  In the Use case page, select **Save and continue**.
 
-    For more information on creating a use case, see [Create use cases for contract analysis](cmpro-na-usecase-ca.md).
+    For more information on creating a use case, see [Create use cases for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md).
 
 6.  In the Clause mappings page, select **Save and continue**.
 
-    For more information on mapping a field group to a clause, see [Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md).
+    For more information on mapping a field group to a clause, see [Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md).
 
 7.  In the Expected response mappings page, select **Save and continue**.
 
-    For more information on mapping a field to an expected response, see [Map a field to an expected response](cmpro-na-exp-res-mapping.md).
+    For more information on mapping a field to an expected response, see [Map a field to an expected response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-exp-res-mapping.md).
 
 8.  In the Use case mappings page, select **New**.
 
@@ -114,16 +114,16 @@ Conditions under which the use case is applicable.For more information on using 
 
 The use case is mapped to specific tables and conditions. Now Assist applies the use case for contract analysis when the conditions are met.
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 
 
-[Create use cases for contract analysis](cmpro-na-usecase-ca.md)
+[Create use cases for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md)
 
-[Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md)
+[Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md)
 
-[Map a field to an expected response](cmpro-na-exp-res-mapping.md)
+[Map a field to an expected response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-exp-res-mapping.md)
 
-[Create use cases for contract analysis](cmpro-na-usecase-ca.md)
+[Create use cases for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md)
 

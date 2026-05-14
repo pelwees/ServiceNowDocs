@@ -35,13 +35,13 @@ Role required: sn\_sec\_tisc.analyst
 
 6.  Select **Remove** to remove the observables from the EDLs.
 
-    For more information, see [Remove Observables from EDL](remove-observables-edl.md).
+    For more information, see [Remove Observables from EDL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/remove-observables-edl.md).
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/palo-alto-networks-integration.md)
 
 **Related topics**  
 
 
-[Approve EDL entries for Palo Alto Networks](tisc-approve-edl-entries.md)
+[Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 

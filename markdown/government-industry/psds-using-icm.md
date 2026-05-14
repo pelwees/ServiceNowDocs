@@ -27,21 +27,21 @@ Here, you can see your workload at a glance, showing active cases, shared cases,
 
 For investigators, the case record page aims to be a one-stop shop. Once you open a case, you can see every case detail \(narrative, evidence, entities, tasks, and case team\) organized into a single case record.
 
-![case record view](../image/psds_icm-case-view-workspace.png)
+![case record view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_icm-case-view-workspace.png)
 
 ## Entity Management
 
 For investigators, the entity management feature provides visibility across all entities related to the case, creating a master index of persons, property, vehicles, organizations, locations, events, and firearms that are all linkable to cases and each other, and helping investigators detect connections between them. Investigators can add as many entities to the case as they need.
 
-![entity record view](../image/psds-entity-management-firearms-view.png)
+![entity record view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-entity-management-firearms-view.png)
 
-For more information on using the Entity management feature, see [Using Entity Management](psds-explore-icm-entity-management.md).
+For more information on using the Entity management feature, see [Using Entity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-entity-management.md).
 
 ## Evidence Management
 
 For investigators, the Evidence management feature allows investigators to manage physical and digital evidence with structured fields for collection details, classification, and links to related entities, all within the case record. Investigators can create Chain of custody documentation in every evidence record, capturing each transfer from the moment of collection. Evidence, cases, and entities are all connected, so investigators can link and document connections.
 
-![case record view](../image/psds-icm-evidence-details-view.png)
+![case record view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-icm-evidence-details-view.png)
 
-For more information on using the Entity management feature, see [Using Evidence Management](psds-explore-icm-evidence-management.md).
+For more information on using the Entity management feature, see [Using Evidence Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-evidence-management.md).
 

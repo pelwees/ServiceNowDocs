@@ -22,7 +22,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 1.  Navigate to the CSM Configurable Workspace and select **lnteractions** &gt; **All**.
 
-2.  Select the interaction number to open an existing interaction record, or select the new icon ![New icon.](../image/new-icon.png) to create an interaction.
+2.  Select the interaction number to open an existing interaction record, or select the new icon ![New icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/new-icon.png) to create an interaction.
 
 3.  Select the interaction type and assign the interaction to a user.
 

@@ -27,14 +27,14 @@ Consider the following when executing an encryption script request:
 
 When creating a module access policy that is set to the script type, there is an option available to validate the integrity of the script version being accessed. Only the assigned version of the script is allowed access to the encryption modules. When the **Check script version** check box is selected in the module access policy, anytime the script is run, the system performs a version comparison. If the script has been changed, the user is notified.
 
-![Shows the check script version checkbox in a module access policy.](../../encryption/image/check_script_version.png "Check script version check box")
+![Shows the check script version checkbox in a module access policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/image/check_script_version.png "Check script version check box")
 
 ## Configure script access to encrypted data
 
-Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [Configure script access to encrypted data](../task/configure-script-encryption.md).
+Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [Configure script access to encrypted data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-script-encryption.md).
 
--   **[Configure script access to encrypted data](../task/configure-script-encryption.md)**  
+-   **[Configure script access to encrypted data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-script-encryption.md)**  
 Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity.
 
-**Parent Topic:**[Encrypting fields and attachments](../../encryption/concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/field-encryption-key-management.md)
 

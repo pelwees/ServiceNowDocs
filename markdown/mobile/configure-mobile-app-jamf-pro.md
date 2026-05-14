@@ -50,14 +50,14 @@ Role required: admin
 
 11. Click **Save**.
 
-    ![Jamf mobile device configuration with the code block in the preferences field](../image/JamfMDM.png)
+    ![Jamf mobile device configuration with the code block in the preferences field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/JamfMDM.png)
 
 
 ## What to do next
 
 After the instance is configured for the mobile app, configure the app settings to distribute the app to mobile devices in the scope.
 
-**Parent Topic:**[Jamf Pro mobile device management \(MDM\)](../concept/jamf-mdm.md)
+**Parent Topic:**[Jamf Pro mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/jamf-mdm.md)
 
 **Related topics**  
 

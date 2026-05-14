@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Associate a record with an existing invoice case.
 
-    1.  Select More Actions ![More actions](../../supplier-lifecycle-operations/image/more-actions-icon.png) and then select **Associate record**.
+    1.  Select More Actions ![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png) and then select **Associate record**.
 
         The **Create New Interaction Related Record** form appears in a new tab.
 
@@ -43,5 +43,5 @@ Role required: admin
     |ID of related record|Auto-populates after the **Document table** field is filled.|
 
 
-**Parent Topic:**[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+**Parent Topic:**[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/interaction-record.md)
 

@@ -46,12 +46,12 @@ If a key's expiration date is approaching, create a new registration key and ent
 
 The new agent registration key is ready to use for installation.
 
-**Parent Topic:**[Deploying Agent Client Collector on endpoints](../concept/acc-endpoint-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-endpoint-deployment.md)
 
 **Related topics**  
 
 
-[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+[Installing MID-less Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-itom-cloud-services.md)
 
-[Agent Client Collector Framework configuration properties](../reference/acc-framework-configuration-properties.md)
+[Agent Client Collector Framework configuration properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/acc-framework-configuration-properties.md)
 

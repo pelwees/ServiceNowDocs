@@ -26,7 +26,7 @@ Role required: You must have a role that allows access to the data in the visual
 
 3.  Expand **Add to Dashboard** and choose from the following options.
 
-    ![The Add to Dashboard menu on a data visualization.](../../par-for-workspace/image/dv-add-viz-to-db.png)
+    ![The Add to Dashboard menu on a data visualization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-add-viz-to-db.png)
 
 <table id="choicetable_u1x_qwv_c1c"><thead><tr><th align="left" id="d73090e102">
 
@@ -42,7 +42,7 @@ Result
 
 </td><td>
 
-A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [Create a dashboard with the in-line editor](../../dashboards/task/create-db-in-ac.md).
+A new, untitled dashboard opens in the inline dashboard editor. The data visualization is already on this dashboard. Complete the dashboard, adding any more desired elements and naming it. For more information, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/create-db-in-ac.md).
 
 </td></tr><tr><td id="d73090e130">
 
@@ -62,25 +62,25 @@ You have just completed creating the data visualization Open incidents - Priorit
 
 1.  First, you save your last changes to the visualization.
 
-    ![Header of visualization showing Save button.](../../par-for-workspace/image/dv-to-db-ex-save.png)
+    ![Header of visualization showing Save button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-to-db-ex-save.png)
 
 2.  After you save, the **Add to dashboard** options are available.
 
-    ![The Add to Dashboard menu on a data visualization.](../../par-for-workspace/image/dv-add-viz-to-db.png)
+    ![The Add to Dashboard menu on a data visualization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-add-viz-to-db.png)
 
 3.  Because you already have a dashboard in mind, you select **Add to existing dashboard**. A dialog box opens.
 
-    ![The Select dashboard dialog box.](../../par-for-workspace/image/dv-to-db-ex-select-db.png)
+    ![The Select dashboard dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-to-db-ex-select-db.png)
 
 4.  You enter `Inc` into the **Select dashboard** field, and you see the Incidents Overview dashboard listed.
 
-    ![Typeahead in the Select dashboard field revealing the Incident Overview dashboard.](../../par-for-workspace/image/dv-to-db-ex-typeahead.png)
+    ![Typeahead in the Select dashboard field revealing the Incident Overview dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-to-db-ex-typeahead.png)
 
 5.  You select the Incidents Overview dashboard and then select **Add to dashboard.**
 6.  The Incidents Overview dashboard opens in the inline editor. After you refresh the browser page, you see the Open Incidents - Priority data visualization added to the end.
 
-    ![Dashboard showing the added Open incidents - Priority data visualization with its configuration panel open.](../../par-for-workspace/image/dv-to-db-ex-final.png)
+    ![Dashboard showing the added Open incidents - Priority data visualization with its configuration panel open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-to-db-ex-final.png)
 
 
-**Parent Topic:**[Common data visualization tasks](../concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dv-tasks.md)
 

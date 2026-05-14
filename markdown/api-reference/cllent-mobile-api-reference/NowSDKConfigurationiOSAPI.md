@@ -70,7 +70,7 @@ DevicePermissionDelegate
 Delegate object called by the NowSDK to request permission from the host application to show system dialog requesting the indicated device permission.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowSDKConfiguration - init\(authorizationProvider: NowSDKAuthorizationProviding, permissionDelegate: DevicePermissionDelegate, logLevel: NowLogLevel\)
 
@@ -129,7 +129,7 @@ NowLogLevel
 
 </td><td>
 
-Level of log messages for the associated logger to store.This sets the logging level for the core services logger. You can also use the [NowLoggingService](../../NowLoggingService/concept/NowLoggingServiceiOSAPI.md#) API to set service log levels.
+Level of log messages for the associated logger to store.This sets the logging level for the core services logger. You can also use the [NowLoggingService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowLoggingService/concept/NowLoggingServiceiOSAPI.md#) API to set service log levels.
 
 Valid values:
 

@@ -30,7 +30,7 @@ For example, if you search for a host vulnerable item with its number in the **S
 
 ## Procedure
 
-1.  In the unified navigation bar, select the globe icon ![Application scope icon](../../../reuse/icons/product-icons/globe-fill-24.svg).
+1.  In the unified navigation bar, select the globe icon ![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../../reuse/icons/product-icons/globe-fill-24.svg).
 
 2.  Select **Application Scope**, and then set the scope to **IT Remediation Workspace**.
 
@@ -39,5 +39,5 @@ For example, if you search for a host vulnerable item with its number in the **S
 
 When you search for records such as VITs, remediation tasks, state change approvals, and so on, in the **Search** field in the unified navigation bar, the records open in the IT Remediation Workspace.
 
-When the scope is not Global, the globe icon displays with a red ring ![Application scope icon](../../vr-vulnerability-manager-workspace/image/icon-scope-change.png). Select it again to change the scope.
+When the scope is not Global, the globe icon displays with a red ring ![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vr-vulnerability-manager-workspace/image/icon-scope-change.png). Select it again to change the scope.
 

@@ -19,16 +19,16 @@ You can create your own reports by following the Performance Analytics reporting
 
 For more information about DEX Score tables and filters, see the [DEX Score - Generate reports to fetch impacted devices \[KB1808487\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1808487) article in the Now Support Knowledge Base.
 
-![Digital Experience Overview page displaying the digital experience score for employees across the organization.](../image/dex-score-digital-experience-overview.png "Digital experience score")
+![Digital Experience Overview page displaying the digital experience score for employees across the organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../image/dex-score-digital-experience-overview.png "Digital experience score")
 
--   **[Track application experience scores](../task/dexscr-track-app-experience-score.md)**  
+-   **[Track application experience scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../task/dexscr-track-app-experience-score.md)**  
 Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work applications.
--   **[Track experience scores of an individual application](../task/dexscr-track-application-experience.md)**  
+-   **[Track experience scores of an individual application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../task/dexscr-track-application-experience.md)**  
 Track and drill down into the quantitative and qualitative data of an application's metrics to gain a comprehensive view into employee experiences of using it.
--   **[Track device experience score](../task/dexscr-track-device-experience-score.md)**  
+-   **[Track device experience score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../task/dexscr-track-device-experience-score.md)**  
 Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work devices.
--   **[Track experience scores of an individual device group](../task/dexscr-track-device-group-experience.md)**  
+-   **[Track experience scores of an individual device group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../task/dexscr-track-device-group-experience.md)**  
 Track and drill down into the quantitative and qualitative data of a device group's metrics to gain a comprehensive view into employee experiences of using the devices.
 
-**Parent Topic:**[Digital Experience Score​](dexscr-digital-experience-score.md)
+**Parent Topic:**[Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-digital-experience-score.md)
 

@@ -21,11 +21,11 @@ Role required: none
 
 ## About this task
 
-Connect can send mobile, desktop, email, and audio notifications to inform you of messages and other activity, when you are not actively viewing Connect. You can edit your notification preferences in each conversation to control which notifications you receive for the conversation and under what circumstances. For example, if you are a member of a large group conversation, you might want to receive mobile, desktop, and email notifications for all activity, and audio notifications only when someone [mentions](t_MentionUserInConnectConversation.md) you. You might also want to disable a certain type of notification entirely for a conversation.
+Connect can send mobile, desktop, email, and audio notifications to inform you of messages and other activity, when you are not actively viewing Connect. You can edit your notification preferences in each conversation to control which notifications you receive for the conversation and under what circumstances. For example, if you are a member of a large group conversation, you might want to receive mobile, desktop, and email notifications for all activity, and audio notifications only when someone [mentions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_MentionUserInConnectConversation.md) you. You might also want to disable a certain type of notification entirely for a conversation.
 
-By default, you receive mobile, email, and audio notifications for all activity in every conversation you belong to. You must enable desktop notifications manually. Not all browsers allow desktop notifications. For more information, see [Enable or disable Connect notifications globally](t_EnableDisableConnectNotifications.md#).
+By default, you receive mobile, email, and audio notifications for all activity in every conversation you belong to. You must enable desktop notifications manually. Not all browsers allow desktop notifications. For more information, see [Enable or disable Connect notifications globally](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_EnableDisableConnectNotifications.md#).
 
-An administrator can [customize the sound](t_CustomizeConnectAudioNotifSound.md) used for audio notifications.
+An administrator can [customize the sound](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_CustomizeConnectAudioNotifSound.md) used for audio notifications.
 
 **Note:** You receive mobile notifications only if you have installed the ServiceNow mobile app.
 
@@ -33,13 +33,13 @@ An administrator can [customize the sound](t_CustomizeConnectAudioNotifSound.md)
 
 1.  Open a conversation in the Connect workspace.
 
-2.  In the conversation tools to the right of the conversation, click the notification settings tab \(![The notification settings tab is represented by a bell icon](../image/IconNotificationPreferences.png)\).
+2.  In the conversation tools to the right of the conversation, click the notification settings tab \(![The notification settings tab is represented by a bell icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconNotificationPreferences.png)\).
 
 3.  Edit the following settings according to your preferences.
 
-    **Note:** If a notification type is [disabled globally](t_EnableDisableConnectNotifications.md#), a link to enable that type appears. You must click the link before you can edit conversation-specific notification settings.
+    **Note:** If a notification type is [disabled globally](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_EnableDisableConnectNotifications.md#), a link to enable that type appears. You must click the link before you can edit conversation-specific notification settings.
 
-    ![A message appears under the settings for the notification type](../image/NotificationsDisabledGloballyMessage.png "Notification type disabled globally")
+    ![A message appears under the settings for the notification type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/NotificationsDisabledGloballyMessage.png "Notification type disabled globally")
 
 <table id="simpletable_kbt_zdd_wt"><tbody><tr><td>
 

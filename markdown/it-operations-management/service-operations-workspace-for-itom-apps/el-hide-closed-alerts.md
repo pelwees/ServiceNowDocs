@@ -36,9 +36,9 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     On the preview panel, Alerts tab:
 
     1.  Show both the open and the closed alerts by switching the **Hide closed alerts** toggle to the closed position.
-    2.  \(Optional\) Sort the displayed alerts by time or by severity by selecting the sort icon \(![Sort alerts icon.](../image/el-sort-alerts-icon.png)\) and then choosing the relevant menu item.
+    2.  \(Optional\) Sort the displayed alerts by time or by severity by selecting the sort icon \(![Sort alerts icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-sort-alerts-icon.png)\) and then choosing the relevant menu item.
 
-        ![Sort alerts on the preview panel.](../image/el-sort-alerts.png)
+        ![Sort alerts on the preview panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-sort-alerts.png)
 
     **Note:** If you switch the toggle or sort the alerts in the Timeline view, the Alerts tab adjusts to reflect your selection.
 

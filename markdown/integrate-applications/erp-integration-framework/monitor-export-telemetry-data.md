@@ -32,7 +32,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
     For example, filter the **Status** column to only show errors. You can apply filters to multiple columns.
 
-    ![Status column filter with error selected.](../image/erp-export-transaction-data1.png)
+    ![Status column filter with error selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-export-transaction-data1.png)
 
 5.  Select **Export**.
 
@@ -43,5 +43,5 @@ Role required: sn\_erp\_integration.erp\_admin
 8.  Select **Export**.
 
 
-**Parent Topic:**[Monitor Zero Copy Connector for ERP transactions and logged errors](monitor-erp-data-hub-logged-extraction-and-remote-lookup-transactions.md)
+**Parent Topic:**[Monitor Zero Copy Connector for ERP transactions and logged errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/monitor-erp-data-hub-logged-extraction-and-remote-lookup-transactions.md)
 

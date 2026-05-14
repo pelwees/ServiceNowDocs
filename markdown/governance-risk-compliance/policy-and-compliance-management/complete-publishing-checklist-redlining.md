@@ -23,11 +23,11 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst; mp\_document\_
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  In the Compliance Workspace, select the list icon \(![Lists icon.](../../grc-cam-workspace/image/ws-list-icon.png)\).
+2.  In the Compliance Workspace, select the list icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-cam-workspace/image/ws-list-icon.png)\).
 
 3.  Navigate to **Compliance library** &gt; **My policies**.
 
-4.  Select the policy publishing checklist icon \(![Publishing checklist icon.](../image/PublishingChecklistIcon.png)\) in the right panel.
+4.  Select the policy publishing checklist icon \(![Publishing checklist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/PublishingChecklistIcon.png)\) in the right panel.
 
     A playbook checklist is created.
 
@@ -88,7 +88,7 @@ Refresh the browser after completing this step. Update the policy Knowledge base
 </td></tr></tbody>
 </table>    The **Complete publishing checklist** button is no longer available.
 
-6.  To view your attachments, select ![Attachment icon.](../../../common/image/AttachmentIcon.png) in the right panel.
+6.  To view your attachments, select ![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../common/image/AttachmentIcon.png) in the right panel.
 
 7.  Select the **Request approval** button to request approval for the policy.
 

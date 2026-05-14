@@ -40,7 +40,7 @@ Set a large language model \(LLM\) provider and have at least one connection. Fo
 3.  Select the **Connections** tab.
 4.  At least one connection should be listed with **Active** set to **true**.
 
-    ![Azure OpenAI connection and credential alias record with connections tab displayed showing one active connection.](../images/erp-data-explorer-workflow4.png)
+    ![Azure OpenAI connection and credential alias record with connections tab displayed showing one active connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-explorer-workflow4.png)
 
     **Note:** For more information about creating a connection and making it active, see [Get started with connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-information.md).
 

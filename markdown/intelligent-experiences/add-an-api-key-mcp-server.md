@@ -66,7 +66,7 @@ API Key
 A unique code or password to identify and authenticate the user or application when accessing the API.**Note:** The API Key adds a Connection alias dynamically at runtime and maps with the MCP Server.
 
 </td></tr></tbody>
-</table>    ![Adding an MCP Server in AI Agent Studio with a API Key.](../image/add-mcp-server-apikey.png)
+</table>    ![Adding an MCP Server in AI Agent Studio with a API Key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/add-mcp-server-apikey.png)
 
 4.  Select **Add**.
 

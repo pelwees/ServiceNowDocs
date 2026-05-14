@@ -47,7 +47,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
 4.  Drag the field name, for example, `rule_name`, and drop it on a field in the Input Expression column next to a field name in the Security Incident column.
 
-    ![Drag-and-drop for values shown by arrow.](../image/splunk_es_drag_drop.png)
+    ![Drag-and-drop for values shown by arrow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_drag_drop.png)
 
     The field value is displayed in the Input Expression column. In the following image, `rule_name` is mapped to the `Short description` field on the security incident. However, you can match any value from the left side to a field on the right. Verify that the value is mapped correctly on the security incident during the preview step.
 
@@ -55,7 +55,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
     A gray field indicates that a field has been selected and mapped to a field on the security incident. This color-coding helps you track the mapping.
 
-    ![Short description field and value on security incident highlighted](../image/splunk_es_map_3_security.png)
+    ![Short description field and value on security incident highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_map_3_security.png)
 
 5.  To add fields to the default fields displayed on the security incident on the right side of the form, follow these steps.
 
@@ -65,7 +65,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
     2.  In the Security Incident column, expand the list that is displayed, and select a field.
 
-        ![Category field mapping](../image/splunk_es_map_4_security.png)
+        ![Category field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_map_4_security.png)
 
         **Note:** So that multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field is not populated on the security incident.
 
@@ -77,13 +77,13 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
     The following figure is an example of an edited mapping. In the bottom field on the right, the Work notes field is added, and it has more than one value. Note that for long text string field, you can expand the mapping field to see the full string and re-size as needed by pulling the lower right corner of the field as indicated in screen shot below with the added Work notes field:
 
-    ![Work notes with multiple values highlighted](../image/splunk_es_mapexample_security.png)
+    ![Work notes with multiple values highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_mapexample_security.png)
 
     **Warning:** Please note that in the **SIR Incident Field Mapping** section, the URL and port number mentioned in the **Input Expression** field is just an example and not the URL or port number provided out-of-the-box.
 
     In the preview, these values are displayed in the Work notes on the security incident. Because the value is for a field that you added to the mapping section, and there are multiple values mapped to the Work notes field, the values are displayed as entered. In this example, the spaces and punctuation marks that you entered in the field are displayed on the Related Items section as a work note on the preview of the security incident.
 
-7.  To receive updates for the mapped fields in SIR, select **Enable Updates** check box against the Input Expression.![Enable updates check box selected](../image/splunk_es_enable_updates.png)
+7.  To receive updates for the mapped fields in SIR, select **Enable Updates** check box against the Input Expression.![Enable updates check box selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_enable_updates.png)
 
 8.  After you have completed the preceding field-mapping steps, you can use the same field values in the Incident Generation Conditions builder to define additional criteria that an incoming notable event must satisfy to create a SIR security incident.
 
@@ -105,7 +105,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         The following image is an example with two conditions that must be matched before security incidents are created.
 
-        ![Filter conditions builder:2](../image/splunk_es_filters_2_security.png)
+        ![Filter conditions builder:2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_es_filters_2_security.png)
 
         You have set the incident generation conditions so that security incidents are created only when both of the filtering conditions that you entered are matched.
 
@@ -191,5 +191,5 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 </table>
 ## What to do next
 
-The next step is to preview the values that you mapped on the security incident. For more information, see [Preview security incident](splunk-event-ingest-preview-security.md).
+The next step is to preview the values that you mapped on the security incident. For more information, see [Preview security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-preview-security.md).
 

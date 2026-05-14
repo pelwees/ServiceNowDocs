@@ -37,7 +37,7 @@ To become familiar with the process before handling more complex operations, you
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/create-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-excel-upload-download-req.md).
 
 4.  For the Upload request, select the **Attach file** option in the **Select file** field.
 
@@ -78,10 +78,10 @@ When making a download request for a Third-Party Information Register record, se
 </td></tr></tbody>
 </table>    For information on Register of information regulatory packages, see the following topics:
 
-    -   [Register of Information \(ROI\) regulatory packages](../concept/opres-dora-roi-reg-pkg.md)
-    -   [Generate a Register of Information package](opres-drtp-gen-roi-pkg.md)
-    -   [Validation framework for Register of Information in Operational Resilience](../concept/opres-dora-validate-roi.md)
-    -   [Validate the Register of Information packages](opres-drtp-validate-roi.md)
+    -   [Register of Information \(ROI\) regulatory packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/opres-dora-roi-reg-pkg.md)
+    -   [Generate a Register of Information package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-gen-roi-pkg.md)
+    -   [Validation framework for Register of Information in Operational Resilience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/opres-dora-validate-roi.md)
+    -   [Validate the Register of Information packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-validate-roi.md)
 9.  Add the name that you want for the Microsoft Excel file and select **Save**.
 
     In releases prior to 21.x.x of Digital resilience third-party registers, downloading the contract created a single sheet with all the contract data. Starting with version 21.x.x of Digital resilience third-party registers, when you generate a report on the contracts, it mirrors the UI and provides details, including information on entities, third parties, third-party engagements, and specific contract information in the Microsoft Excel sheet.
@@ -96,17 +96,17 @@ When making a download request for a Third-Party Information Register record, se
 
 10. Convert and aggregate contractual expenses to regulator-required currencies.
 
-    Beginning with Digital Operational Resilience Management \(sn\_dora\_accel\), version 22.x.x, currency conversion and third-party aggregation capabilities are supported for DORA reporting. For more information on conversion and aggregation, see [Convert and aggregate contractual expenses to regulator-required currencies](create-excel-report-aggregate-expenses.md).
+    Beginning with Digital Operational Resilience Management \(sn\_dora\_accel\), version 22.x.x, currency conversion and third-party aggregation capabilities are supported for DORA reporting. For more information on conversion and aggregation, see [Convert and aggregate contractual expenses to regulator-required currencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-excel-report-aggregate-expenses.md).
 
 11. To download third-party information register, select **Export info register** on the Contractual arrangements tab, add a name, and save it.
 
     The dialog box is shown in the example.
 
-    ![Download third-party information register.](../image/download-register-for-currency.png)
+    ![Download third-party information register.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/download-register-for-currency.png)
 
     The example shows a downloaded report with expenses reported in local currencies.
 
-    ![Downloaded report with expenses reported in local currencies.](../image/downloaded-report-in-local-currency.png)
+    ![Downloaded report with expenses reported in local currencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/downloaded-report-in-local-currency.png)
 
 12. To export Excel download/upload requests, select the requests you want and then **Export**.
 
@@ -150,8 +150,8 @@ Action to export the record.
 
 </td></tr></tbody>
 </table>
--   **[Create New Excel download/upload request form](../reference/create-excel-upload-download-req.md)**  
+-   **[Create New Excel download/upload request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-excel-upload-download-req.md)**  
 On the Create New Excel download/upload request form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

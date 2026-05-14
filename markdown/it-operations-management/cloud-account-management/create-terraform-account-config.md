@@ -27,12 +27,12 @@ Role required: sn\_itom\_cam.cw\_admin
 
 3.  Enter the details in the **New Configuration** form.
 
-    To fill the form fields, see [Terraform account configuration fields](../reference/terraform-details.md).
+    To fill the form fields, see [Terraform account configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/terraform-details.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-[Review default Cloud Account Management certification policy](policy-setup.md)
+[Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 

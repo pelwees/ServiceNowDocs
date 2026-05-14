@@ -21,7 +21,7 @@ Role required: itil, sn\_incident\_write, or admin
 
 ## Procedure
 
-1.  On your agent mobile app landing page, click on the ![Create incident icon](../image/create-incident-shortcut-2.png)to create an incident directly from the landing screen.
+1.  On your agent mobile app landing page, click on the ![Create incident icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/create-incident-shortcut-2.png)to create an incident directly from the landing screen.
 
 2.  Fill in the fields.
 

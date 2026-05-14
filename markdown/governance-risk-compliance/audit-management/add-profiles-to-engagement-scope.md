@@ -34,5 +34,5 @@ Role required: sn\_audit.manager or sn\_audit.admin
     If there are risks and controls, test plans, and indicator results associated with an entity then they appear in their respective sections. ![image.audit-entities-engagement-scope-gif]
 
 
-**Parent Topic:**[Manage engagements](../concept/c_Engagements.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_Engagements.md)
 

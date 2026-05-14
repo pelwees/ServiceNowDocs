@@ -27,7 +27,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -80,15 +80,15 @@ Steps
 
 </td><td>
 
-The attachment icon ![Attachment icon.](../../legal-request-management/image/add-attachment-icon.png)appears in the Counsel Assist side bar when the external storage option is not enabled.
+The attachment icon ![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/add-attachment-icon.png)appears in the Counsel Assist side bar when the external storage option is not enabled.
 
  1.  In the Counsel Assist sidebar, select the attachment icon.
 2.  In the **Attachments** pane, add, rename, or remove attachments.
-    -   To upload a document, select the **Browse** button or the add attachment icon \(![Add attachment icon.](../../ppe-inventory-management/image/plus-icon.png)\) and select a file.
+    -   To upload a document, select the **Browse** button or the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../ppe-inventory-management/image/plus-icon.png)\) and select a file.
 
-**Note:** If there are no attachments, the **Browse** button is available else the add attachment icon ![Add attachment icon.](../../ppe-inventory-management/image/plus-icon.png) is available.
+**Note:** If there are no attachments, the **Browse** button is available else the add attachment icon ![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../ppe-inventory-management/image/plus-icon.png) is available.
 
-    -   To rename an attached document, select the actions icon \(![Actions icon.](../../legal-request-management/image/more-actions-icon.png)\), select **Rename** and update the file name.
+    -   To rename an attached document, select the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/more-actions-icon.png)\), select **Rename** and update the file name.
     -   To delete an attached document, select the actions icon, select **Remove**.
     -   To download an attached document, select the actions icon, select **Download**.
 
@@ -112,9 +112,9 @@ In the **Documents** tab, a link to the document is listed in the **External URL
 
     1.  In the **Documents** tab, select a document from the list that you want to delete.
     2.  Select **Delete**.
-Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal matter](../concept/document-access-legal-matter.md).
+Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../concept/document-access-legal-matter.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create an artifact for a legal matter](add-artifact-to-legal-matter.md)
+**Parent Topic:**[Create an artifact for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-artifact-to-legal-matter.md)
 

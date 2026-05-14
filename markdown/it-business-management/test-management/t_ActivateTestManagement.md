@@ -25,7 +25,7 @@ Role required: admin
 
 There are two ways to activate the Test Management plugin:
 
--   [As an individual application](t_ActivateTestManagement.md)
+-   [As an individual application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_ActivateTestManagement.md)
 -   As part of the Project Portfolio Suite with Financials plugin.
 
 ## Procedure

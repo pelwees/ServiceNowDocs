@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 3.  Fill out the fields on the SLA Definition form.
 
-    For a description of each field, see [Create an SLA definition for a CI or application service](t_EMCreateSLADefForCI_BS.md).
+    For a description of each field, see [Create an SLA definition for a CI or application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateSLADefForCI_BS.md).
 
 4.  For the **Table** field, select **Event Management SLA \[em\_ci\_severity\_task\]**.
 
@@ -95,5 +95,5 @@ For a specific service, such as Email, when the **Severity** is **Critical**
 7.  Click **Submit**.
 
 
-**Parent Topic:**[SLAs for application services and CIs](../concept/c_EMSLAsForBSAndCIs.md)
+**Parent Topic:**[SLAs for application services and CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/c_EMSLAsForBSAndCIs.md)
 

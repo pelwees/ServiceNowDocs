@@ -25,7 +25,7 @@ Role required: pf\_user
 
 2.  Select **Feedback**.
 
-3.  Select **Feedback** and then [Create feedback](create-feedback-in-sp.md).
+3.  Select **Feedback** and then [Create feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-feedback-in-sp.md).
 
 4.  Once the feedback is created, select **Link Product idea** to link the product idea.
 
@@ -37,7 +37,7 @@ Role required: pf\_user
 **Related topics**  
 
 
-[Associate a feedback or product idea with a planning item](associate-feedback-with-planning-item.md)
+[Associate a feedback or product idea with a planning item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-planning-item.md)
 
-[Associate a feedback or a product idea record with a non-planning item](associate-feedback-with-non-planning-item.md)
+[Associate a feedback or a product idea record with a non-planning item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-non-planning-item.md)
 

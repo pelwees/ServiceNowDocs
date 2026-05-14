@@ -34,12 +34,12 @@ If you change a Core UI report and migrate it again from `sys_report.list`, thes
 
 3.  From the **Action on selected rows** menu, choose **Migrate Report**.
 
-    If any of the reports are not compatible, you’ll see the message `Migrating X of Y reports`.![Report list with two reports highlighted as well as the Migrate Report link on the Actions on selected rows menu](../image/data-migration-mig-selected-reports.png)
+    If any of the reports are not compatible, you’ll see the message `Migrating X of Y reports`.![Report list with two reports highlighted as well as the Migrate Report link on the Actions on selected rows menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-mig-selected-reports.png)
 
 4.  When the migration is complete, select the banner link to view the migrated reports in the Platform Analytics Data Visualization library.
 
 
 ## What to do next
 
-Verify that the migrated visualizations have all the features of the Core UI reports. For more information, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+Verify that the migrated visualizations have all the features of the Core UI reports. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-mig-unmigrated-content.md).
 

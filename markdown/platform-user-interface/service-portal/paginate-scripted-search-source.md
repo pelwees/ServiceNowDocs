@@ -103,7 +103,7 @@ If adding pagination to a simple search source, set **Paginate results** on the 
 
 The search page only returns the defined number of results at one time. When a user selects **Load more results**, the search source re-executes the query or data fetch script.
 
-![Paginated results](../image/load-more-results.png)
+![Paginated results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/load-more-results.png)
 
-**Parent Topic:**[Define a search source](add-table-search-source.md)
+**Parent Topic:**[Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 

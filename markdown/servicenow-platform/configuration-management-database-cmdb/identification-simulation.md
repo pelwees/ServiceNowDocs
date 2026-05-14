@@ -28,7 +28,7 @@ Use the identification simulation to:
 -   Identification simulation does not commit any updates to the CMDB.
 -   Identification simulation supports simulation of processing payloads that are provided and which contain non-CMDB tables, but doesn't support the generation of such payloads.
 
-**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md)
+**Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
 ## Automatically generate payload
 
@@ -97,7 +97,7 @@ Role required: admin
 
 3.  To construct a new payload click **Start** in the **Start with CI Class** tile.
 
-    See [Automatically generate payload](identification-simulation.md#) for more information.
+    See [Automatically generate payload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/identification-simulation.md#) for more information.
 
 4.  Click **Run Simulation** to simulate processing of the payload by IRE.
 
@@ -145,7 +145,7 @@ Role required: sn\_cmdb\_admin or admin
 
 Also, internal applications that use IRE \(such as Discovery\) can call an internal API to provide a URL to viewing IRE run logs.
 
-Logging is in the context of a specific run of the identification engine, and you can filter the log list by a specific data source and time range. Up to 1000 run logs that are up to 2 months old are listed, grouped by Context IDs, and run times. You can use the [glide.identification\_logs.max\_run\_ids](../reference/properties-id-reconciliation.md) property to modify the 1000 limit.
+Logging is in the context of a specific run of the identification engine, and you can filter the log list by a specific data source and time range. Up to 1000 run logs that are up to 2 months old are listed, grouped by Context IDs, and run times. You can use the [glide.identification\_logs.max\_run\_ids](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/properties-id-reconciliation.md) property to modify the 1000 limit.
 
 You can control the logging level by using the **glide.discovery.identification.log\_level** Discovery system property and setting the value to one of the following:
 

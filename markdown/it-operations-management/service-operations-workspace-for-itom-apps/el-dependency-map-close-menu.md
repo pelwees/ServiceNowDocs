@@ -29,14 +29,14 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 4.  Select the **Alert actions** list drop-down arrow.
 
-    ![Alert actions drop down arrow](../image/alert-actions-tool-tip.png)
+    ![Alert actions drop down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alert-actions-tool-tip.png)
 
 5.  From **Utilities**, select **Dependency View** map.
 
-    ![Express list Alert action menu Dependency View](../image/express-action-menu-dependency.png)
+    ![Express list Alert action menu Dependency View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/express-action-menu-dependency.png)
 
     The **Dependency View** map opens.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/dependency-maps.md)
 

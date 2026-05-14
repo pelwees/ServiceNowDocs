@@ -41,15 +41,15 @@ Procedure
 
 </td><td>
 
-1.  Point to the custom template, select the More actions icon \( ![More actions icon.](../image/menu-icon-purple.png)\), and select **Edit Template**.
+1.  Point to the custom template, select the More actions icon \( ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\), and select **Edit Template**.
 2.  Modify the custom template by editing data, experience, logic and automation, or security.
 
 For more information, see the following topics:
 
-    -   [Modify application data tables](../concept/edit-data.md)
-    -   [Add an application experience](../concept/add-experience.md)
-    -   [Add logic and automation](../concept/add-automation.md)
-    -   [Add application security](../concept/add-security.md)
+    -   [Modify application data tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/edit-data.md)
+    -   [Add an application experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-experience.md)
+    -   [Add logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-automation.md)
+    -   [Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md)
 3.  Select **Save template**.
 
 
@@ -59,7 +59,7 @@ For more information, see the following topics:
 
 </td><td>
 
-1.  Point to the custom template, select the More actions icon \( ![More actions icon.](../image/menu-icon-purple.png)\), and select **Edit Properties**.
+1.  Point to the custom template, select the More actions icon \( ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\), and select **Edit Properties**.
 2.  Select **General**.
 3.  Modify aspects of the template.
     -   To rename the custom template, update the **Name** field.
@@ -74,7 +74,7 @@ For more information, see the following topics:
 
 </td><td>
 
-1.  Point to the custom template, select the More actions icon \( ![More actions icon.](../image/menu-icon-purple.png)\), and select **Edit Properties**.
+1.  Point to the custom template, select the More actions icon \( ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\), and select **Edit Properties**.
 2.  Select **Sharing settings**, and share the template in one of the following ways:
     1.  Share with some users or groups.
     2.  Share with all users and groups.
@@ -89,7 +89,7 @@ For more information, see the following topics:
 
 **Note:** Only templates created from scratch have a Template details page that you can edit. Templates created from existing templates don’t have a Template details page to edit, so you aren't able to change items such as the header, tag line, or other template information.
 
- 1.  Point to the custom template, select the More actions icon \( ![More actions icon.](../image/menu-icon-purple.png)\), and select **Edit Properties**.
+ 1.  Point to the custom template, select the More actions icon \( ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\), and select **Edit Properties**.
 2.  Select **Details page**.
 3.  Update details about the template that help users understand its features and why they should choose this template for their application.
 4.  Select **Save properties**.
@@ -107,5 +107,5 @@ To delete the custom template, ensure you have administrator privileges or have 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create your app using an application template](use-app-template.md)
+**Parent Topic:**[Create your app using an application template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/use-app-template.md)
 

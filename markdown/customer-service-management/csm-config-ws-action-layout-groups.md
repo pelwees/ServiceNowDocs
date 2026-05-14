@@ -40,7 +40,7 @@ The Front-line case page includes the **Create** action in the workspace action 
 
 ## Selecting an action
 
-Depending on the action that an agent selects from the **Create** drop-down list, the system either opens a record in a sub-tab or in a [modeless dialog](csm-front-line-case-page-modeless-dialogs.md). The following actions open a record in a modeless dialog:
+Depending on the action that an agent selects from the **Create** drop-down list, the system either opens a record in a sub-tab or in a [modeless dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md). The following actions open a record in a modeless dialog:
 
 -   Create Escalation
 -   Create Knowledge Gap
@@ -51,7 +51,7 @@ Depending on the action that an agent selects from the **Create** drop-down list
 
 From the modeless dialog, users can perform the following actions:
 
--   Minimize the record to the [workspace dock](csm-config-ws-bottom-utility-bar.md).
+-   Minimize the record to the [workspace dock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-bottom-utility-bar.md).
 -   Open the record in a sub tab.
 -   Save and stay.
 -   Close the dialog.

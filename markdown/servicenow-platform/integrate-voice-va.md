@@ -54,7 +54,7 @@ The following example workflow shows the use of ServiceNow Voice for Virtual Age
     **Note:** This step in the flow applies only when the caller is an existing customer.
 
 
-**Parent Topic:**[Integrating Voice with other applications](integrate-ccc-other-apps.md)
+**Parent Topic:**[Integrating Voice with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-other-apps.md)
 
 **Related topics**  
 

@@ -15,13 +15,13 @@ breadcrumb: [Initiatives and Accelerators, Using Impact, Impact]
 
 Learn about available Accelerators and initiatives that you can request to help achieve your business outcomes for your instance.
 
-![Catalog of accelerators and initiatives with the All tab selected](../image/catalog_accelerators_initiatives.png "Accelerator and initiative catalog")
+![Catalog of accelerators and initiatives with the All tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/catalog_accelerators_initiatives.png "Accelerator and initiative catalog")
 
 ## Usage by category
 
 The catalog page displays the number of accelerators and initiatives in use along with the entitled usage limits. For example, 1/2 in use indicates that the instance uses one accelerator out of the permissible limit of two. You can choose to browse the catalog of accelerators and request another suitable accelerator to make the best use of the entitlement in the package.
 
-**Note:** The number of Accelerators and initiatives that you're entitled to is based on your subscription package. See [Impact packages](../reference/impact-packages.md) for additional information.
+**Note:** The number of Accelerators and initiatives that you're entitled to is based on your subscription package. See [Impact packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../reference/impact-packages.md) for additional information.
 
 ## All Accelerators and initiatives
 
@@ -33,18 +33,18 @@ The **Recommended** label on a flash card indicates Accelerators that have impro
 
 The tabbed view of Accelerators and initiatives offers the following views of the accelerators and initiatives:
 
--   Filtered view: View selective flash cards based on filters such as Bookmarked, Recommended, Request History, or Type by using the Quick Filter icon \(![Quick Filter](../image/icon-filter-list.png)\).
--   Sorted view: View organized flash cards sorted by alphabetical order, creation time, and duration by using the Sort icon \(![Sort icon](../image/icon-sort-list-catalog.png)\).
--   Searched view: View a specific accelerator flash card by using the Search icon \(![Search icon](../image/icon-search-cataloglist.png)\).
+-   Filtered view: View selective flash cards based on filters such as Bookmarked, Recommended, Request History, or Type by using the Quick Filter icon \(![Quick Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/icon-filter-list.png)\).
+-   Sorted view: View organized flash cards sorted by alphabetical order, creation time, and duration by using the Sort icon \(![Sort icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/icon-sort-list-catalog.png)\).
+-   Searched view: View a specific accelerator flash card by using the Search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/icon-search-cataloglist.png)\).
 
 ## Bookmark an Accelerator
 
-You can mark an accelerator flash card as a favorite for a quick reference for citations, discussions, decisions, and delivery by selecting the bookmark icon \(![Bookmark icon](../image/bookmark-catalog.png)\).
+You can mark an accelerator flash card as a favorite for a quick reference for citations, discussions, decisions, and delivery by selecting the bookmark icon \(![Bookmark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/bookmark-catalog.png)\).
 
 You can see a filtered view of bookmarked flash card by using the Quick Filter icon.
 
 **Related topics**  
 
 
-[Request Accelerators and Initiatives for Impact Store Application](accelerators.md)
+[Request Accelerators and Initiatives for Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerators.md)
 

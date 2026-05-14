@@ -27,7 +27,7 @@ Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin 
 
 This procedure includes examples based on a cascading interactive filter using managers and groups. In this example, the top-level choice allows users to select a manager and the second-level choice allows users to select a user group managed by that manager.
 
-![Cascading filter example](../image/cascading-filter-example.png "Example cascading filter")
+![Cascading filter example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/cascading-filter-example.png "Example cascading filter")
 
 **Note:** You can filter reports based on the values in reference fields only. Cascading filters support only the **Single Select** **UI control type**.
 
@@ -97,15 +97,15 @@ This procedure includes examples based on a cascading interactive filter using m
 
     |Top-level filter|Second-level filter|
     |----------------|-------------------|
-    |![Cascading filter top-level filter example](../image/cascading-filter-form-1.png)|![Cascading filter second-level filter example](../image/cascading-filter-form-2.png)|
+    |![Cascading filter top-level filter example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/cascading-filter-form-1.png)|![Cascading filter second-level filter example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/cascading-filter-form-2.png)|
 
 
 ## What to do next
 
 1.  After you create all levels of the filter, add it to a dashboard.
-2.  On the dashboard, select the **Edit widget** icon \(![Edit columns icon](../image/icon-cogwheel-ac.png)\) on each visualization on the dashboard that should follow the filter and select **Follow interactive filter**.
+2.  On the dashboard, select the **Edit widget** icon \(![Edit columns icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/icon-cogwheel-ac.png)\) on each visualization on the dashboard that should follow the filter and select **Follow interactive filter**.
 
-**Parent Topic:**[Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md)
+**Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../reference/r_AvailableHomepagePublisherTypes.md)
 
 ## Cascading filters deduplication
 

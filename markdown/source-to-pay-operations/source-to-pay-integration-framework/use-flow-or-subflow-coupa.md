@@ -29,7 +29,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
 4.  Select the required flow from the list.
 
-    ![Overview of the Award Purchase flow](../../source-to-pay-operations/image/coupa-integration-use-flow.png "Award Purchase flow")
+    ![Overview of the Award Purchase flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/coupa-integration-use-flow.png "Award Purchase flow")
 
 5.  In the **Trigger** field, specify the time and interval at which you want to run the scheduled flow automatically.
 
@@ -42,14 +42,14 @@ Role required: sn\_fcms\_intg.integration\_user
 
 The flow or subflow gets executed.
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 
 
-[Trigger a flow or subflow in Coupa](manually-trigger-subflows-coupa.md)
+[Trigger a flow or subflow in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-coupa.md)
 
-[View the execution status of a flow](view-executed-flow-status.md)
+[View the execution status of a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/view-executed-flow-status.md)
 
-[Copy a flow or subflow in Coupa](copy-flow-or-subflow-coupa.md)
+[Copy a flow or subflow in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-coupa.md)
 

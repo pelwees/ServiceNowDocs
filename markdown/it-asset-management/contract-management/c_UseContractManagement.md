@@ -24,23 +24,23 @@ You can add the following information to contracts.
 
 Track the various stages of a contract from draft to closure by viewing contract history and running reports. Adjust, extend, and renew active contracts.
 
--   **[Contract life cycle](c_ContractLifeCycle.md)**  
+-   **[Contract life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_ContractLifeCycle.md)**  
 From creation until closure, contracts follow a life cycle that determines which fields can be edited.
--   **[Contracts](c_Contracts.md)**  
+-   **[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_Contracts.md)**  
 A contract is a binding agreement between two parties.
 
-**Parent Topic:**[Contract Management](c_ContractManagement.md)
+**Parent Topic:**[Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_ContractManagement.md)
 
 **Related topics**  
 
 
-[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)
+[Use the Asset Contract Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_UseTheContractMgmtOverviewModule.md)
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../reference/r_ComponentsInstalledWContractMgmt.md)
 
-[Contract approval flow](contract-approval-workflow.md)
+[Contract approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/contract-approval-workflow.md)
 
-[Condition check definitions](c_UseConditionCheckDefinitions.md)
+[Condition check definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_UseConditionCheckDefinitions.md)
 
-[Domain separation and Contract Management](domain-separation-contract-mgmt.md)
+[Domain separation and Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/domain-separation-contract-mgmt.md)
 

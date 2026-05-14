@@ -27,5 +27,5 @@ The following table lists and describes the Agent Client Collector statuses.
 |Registration Failed|The agent failed to register with the instance and was not issued a certificate. See Agent Issues for more info.|
 |Unknown|Agent’s MID Server has not sent a keepalive communication for over 10 minutes \(based on the value of the sn\_agent.keep\_alive.disconnected\_duration system property\).|
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

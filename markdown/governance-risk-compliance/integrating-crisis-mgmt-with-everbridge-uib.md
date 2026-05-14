@@ -25,17 +25,17 @@ When you send an emergency notification from the Business Continuity Workspace, 
 
 The emergency notifications for an event are displayed on the **Emergency notifications** tab for the event. You can view the details of the emergency notification such as the notification state, start date, end date, and so on as shown in the example.
 
-![Emergency notifications tab.](../image/emergency-notification.png)
+![Emergency notifications tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/emergency-notification.png)
 
 The emergency notification form is shown in the example.
 
-![Emergency notification form.](../image/notification-form.png)
+![Emergency notification form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/notification-form.png)
 
 ## Summary of the notification sent to contacts
 
 The **Summary** section in the notification form displays a list of the contacts and groups to whom the notification was sent and their responses are also recorded. It also displays the number of contacts who could not be reached, the number of contacts who acknowledged the notification, and the number of pending acknowledgments. This information is retrieved from Everbridge and it is displayed in your Business Continuity Workspace as shown in the example.
 
-![Summary of the notification sent to the contacts.](../image/SummaryEmergNotif.png "Summary of the notification sent to the contacts")
+![Summary of the notification sent to the contacts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/SummaryEmergNotif.png "Summary of the notification sent to the contacts")
 
 The Summary section in the notification form contains details:
 
@@ -64,5 +64,5 @@ If there are many contacts to whom the notification could not be delivered, then
 
 ## Administrative tasks for integrating Crisis Management with Everbridge
 
-For information on the administrative tasks for integrating Crisis Management with Everbridge notifications system, see [Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md).
+For information on the administrative tasks for integrating Crisis Management with Everbridge notifications system, see [Setup for Everbridge notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md).
 

@@ -34,5 +34,5 @@ By default, the Informer creates a cmdb\_ci\_linux\_server CI for every Kubernet
 
     -   When using the k8s\_informer.yaml file, set the environment variable CREATE\_SERVER\_CI to false.
 
-**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](cnov-deploy-install.md)
+**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 

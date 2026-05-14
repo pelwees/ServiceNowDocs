@@ -23,9 +23,9 @@ Role required: sn\_customerservice.customer, sn\_customerservice.customer\_admin
 
     A virtual agent or a customer service agent responds.
 
-2.  To talk to a person instead of a virtual agent, select the kebab menu \(![Contact Support icon.](../../customer-communities/images/contact-support-icon.png)\) then select **Call Support \(Daily 5AM - 11PM\)**.
+2.  To talk to a person instead of a virtual agent, select the kebab menu \(![Contact Support icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../customer-communities/images/contact-support-icon.png)\) then select **Call Support \(Daily 5AM - 11PM\)**.
 
-3.  To end the chat, select End Conversation icon \( ![End conversation icon](../image/icon_end_conversation.png)\).
+3.  To end the chat, select End Conversation icon \( ![End conversation icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon_end_conversation.png)\).
 
 
 ## What to do next

@@ -21,7 +21,7 @@ Role required: none
 
 All fields on the activity list display in alphabetical order by default. You can change the order that fields appear on the form by using the **Configure available fields** option in the activity formatter.
 
-**Parent Topic:**[Forms in the classic environment](../../../use/using-forms/concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/concept/c_UsingForms.md)
 
 ## Use the activity filter
 
@@ -39,7 +39,7 @@ All fields on the activity list display in alphabetical order by default. You ca
 
 ### Procedure
 
-1.  Open the filter by clicking the activity filter icon \(![Activity filter icon](../image/Show_hide_activity_filters_UI15.png)\) in the **Activity** header.
+1.  Open the filter by clicking the activity filter icon \(![Activity filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Show_hide_activity_filters_UI15.png)\) in the **Activity** header.
 
 2.  Select the fields for which you want to display activity.
 

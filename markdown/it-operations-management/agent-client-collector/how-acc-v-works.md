@@ -41,7 +41,7 @@ The ACC-VC Check Definition, **Enhanced Discovery**, is initiated by the Service
 
 During this time, the MID Server also serves any relevant Assets or Plugins that the ACC requests, making sure it is relevant to the particular Operating System, platform, OS version, and architecture on which the ACC is running.
 
-You can edit and modify all parts of the ACC-VC application including check type, policy, and check definition. See [Checks and policies](checks-policies.md) for more information.
+You can edit and modify all parts of the ACC-VC application including check type, policy, and check definition. See [Checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/checks-policies.md) for more information.
 
 ## Virtual machines and cloud instances
 

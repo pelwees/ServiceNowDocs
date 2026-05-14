@@ -65,7 +65,7 @@ OAuth API Script
 
 </td><td>
 
-OAuth API script name. For more information see, [OAuth API Script](oauth-api-script.md). **Note:** This field is required only while using certificates.
+OAuth API script name. For more information see, [OAuth API Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md). **Note:** This field is required only while using certificates.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Redirect URL
 
 ## What to do next
 
-Use the OAuth profile to create an email account with SMTP OAuth2.0. For more information, see [Create an email account with SMTP OAuth2.0](create-email-account-smtp.md).
+Use the OAuth profile to create an email account with SMTP OAuth2.0. For more information, see [Create an email account with SMTP OAuth2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-smtp.md).
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/send-email-client-credential-flow.md)
 

@@ -85,5 +85,5 @@ If you upgraded to Yokohama Patch 12 or Zurich Patch 6 and cannot specify decima
 4.  Select **Run Script**.
 
 
-**Parent Topic:**[Decimal quantity support for service-based purchases in Shopping Hub](../concept/decimal-support-services.md)
+**Parent Topic:**[Decimal quantity support for service-based purchases in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/decimal-support-services.md)
 

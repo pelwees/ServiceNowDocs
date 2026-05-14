@@ -26,10 +26,10 @@ Role required: admin
 2.  Follow the procedure detailed in [Import data from XML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/import-xml-file.md).
 
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[Export an assessment](t_ExportAssessment.md)
+[Export an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ExportAssessment.md)
 

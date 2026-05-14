@@ -23,15 +23,15 @@ Role required: service\_editor
 
 1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings**.
 
-2.  Find the service offering by scrolling through the list or select the filter \(![Filter icon.](../../../reuse/icons/product-icons/filter-outline-24.svg)\) to adjust the filter conditions.
+2.  Find the service offering by scrolling through the list or select the filter \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../../reuse/icons/product-icons/filter-outline-24.svg)\) to adjust the filter conditions.
 
 3.  Select the service offering to open it.
 
     Before you open an offering, you may see one of the following symbols in front of its name.
 
     -   The word \[DRAFT\] indicates that the offering is checked out and is in a draft state.
-    -   A clear triangle warning symbol \(![Clear triangle](../../service-builder/image/sb-service-triangle.png)\) indicates that it's the new copy \[DRAFT\] that's being worked on.
-    -   A red dot \(![Red dot](../../service-builder/image/sb-service-red-dot.png)\) indicates that the offering is read only.
+    -   A clear triangle warning symbol \(![Clear triangle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../service-builder/image/sb-service-triangle.png)\) indicates that it's the new copy \[DRAFT\] that's being worked on.
+    -   A red dot \(![Red dot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../service-builder/image/sb-service-red-dot.png)\) indicates that the offering is read only.
     As you view the offering, you can use the first set of tabs to see its general information, supporting teams, and information about price and operations. Use the second set of tabs \(Related Links\) for more details about the offering. Also, a button enables you to edit the offering in the Service Builder application.
 
 4.  View a service offering using the Service Builder application.
@@ -51,12 +51,12 @@ Role required: service\_editor
         **Note:** The same symbols apply as previously described.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-service-offerings.md)
 
 **Related topics**  
 
 
-[Create a service offering in Service Portfolio Management](create-or-mod-SPM2-service-offerings.md)
+[Create a service offering in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/create-or-mod-SPM2-service-offerings.md)
 
-[Create a service offering in Service Builder](../../service-builder/task/create-edit-service-offering.md)
+[Create a service offering in Service Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../service-builder/task/create-edit-service-offering.md)
 

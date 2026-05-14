@@ -77,5 +77,5 @@ Select from the displayed options.-   Follow interactive filter
 -   Show when following filter
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](../../../product/event-management/reference/event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../product/event-management/reference/event-management-reference.md)
 

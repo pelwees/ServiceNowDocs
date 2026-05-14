@@ -42,7 +42,7 @@ The incident status is retrieved dynamically from the Symantec Endpoint Source w
     |DLP Incident Status|List of Status of DLP incidents.|
     |Symantec Incident Status|List of Status fetched from the Source \(Symantec Endpoint\).|
 
-    ![DLP Status mapping](../image/dlp-status-mapping.png)
+    ![DLP Status mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-status-mapping.png)
 
 5.  Click **Submit**.
 
@@ -53,5 +53,5 @@ After successfully creating the record for mapping statuses of the ServiceNow in
 
 If you change the status of any DLP incident on your ServiceNow instance, then the status of associated Symantec DLP incidents will be changed on the source Symantec platform based on the mapping set in the record.
 
-**Parent Topic:**[Create a profile for Symantec DLP integration](create-profile-symantec-dlp.md)
+**Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 

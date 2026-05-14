@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content.
 -   **Configure a discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -1067,14 +1067,14 @@ Vendor
 vendor
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud resource discovery references](cloud-discovery-collected-data.md)
+</table>**Parent Topic:**[Cloud resource discovery references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/cloud-discovery-collected-data.md)
 
 **Related topics**  
 
 
-[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](../../service-mapping/reference/gcp-cloud-discovery-patterns.md)
+[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/gcp-cloud-discovery-patterns.md)
 
 [Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-gcp.md)
 
-[Agent Client Collector Discovery](../../agent-client-collector/concept/acc-discovery.md)
+[Agent Client Collector Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../agent-client-collector/concept/acc-discovery.md)
 

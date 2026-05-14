@@ -136,16 +136,16 @@ To create an alert when a specific event occurs 5 times in 10 minutes with a met
 6.  In the **Over** field, specify `600` \(10 \* 60 seconds\).
 7.  Click **Save** or **Submit**.
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md)
 
 **Related topics**  
 
 
-[Create or edit an event rule](create-or-edit-event-rule.md)
+[Create or edit an event rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-or-edit-event-rule.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/event-input-information.md)
 
-[Configure an event rule to customize alert content](t_EMComposeOuput.md)
+[Configure an event rule to customize alert content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMComposeOuput.md)
 
-[Filter the events that an event rule applies to](t_EMCreateFilter.md)
+[Filter the events that an event rule applies to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md)
 

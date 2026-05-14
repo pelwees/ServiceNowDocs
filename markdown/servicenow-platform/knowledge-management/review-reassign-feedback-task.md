@@ -75,7 +75,7 @@ If you want to
 
 </td><td>
 
-Start working on the feedback task. You can save the feedback task and edit the article or [create a new article](create-knowledge-article.md) if the information in the existing article is irrelevant or obsolete.
+Start working on the feedback task. You can save the feedback task and edit the article or [create a new article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) if the information in the existing article is irrelevant or obsolete.
 
 </td></tr><tr><td id="d476718e190">
 
@@ -110,5 +110,5 @@ Close the feedback task without the submitter having to accept the feedback reso
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/using-knowledge-management.md)
 

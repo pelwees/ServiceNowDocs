@@ -27,7 +27,7 @@ Prior to version 14.0, when the **Migrate to Advanced Risk Assessments** propert
 4.  Monitor
 5.  Retired
 
-![States of a risk with advanced risk assessments enabled.](../../grc-workspace-risk/image/risk-lifecycle-ara.png "States of a risk with advanced risk assessment")
+![States of a risk with advanced risk assessments enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/image/risk-lifecycle-ara.png "States of a risk with advanced risk assessment")
 
 All the states and the actions available for each state are explained in the following table.
 
@@ -127,12 +127,12 @@ This is the state of the risk when the risk is no longer valid but the organizat
 -   **Navigate to assessment scope**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage risks, risk statements, and risk frameworks](../reference/r_RiskRegister.md)
+</table>**Parent Topic:**[Manage risks, risk statements, and risk frameworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/r_RiskRegister.md)
 
 **Related topics**  
 
 
-[Manage risks linked to the same risk statement](manage_risks_linked_to_same_risk_stmnt.md)
+[Manage risks linked to the same risk statement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage_risks_linked_to_same_risk_stmnt.md)
 
-[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+[Risk hierarchy and scoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/risk-hierarchy-scoring.md)
 

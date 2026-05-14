@@ -19,7 +19,7 @@ Rearrange LLM assets like conversational subflows, conversational actions, and t
 
 Role required: virtual\_agent\_admin or admin
 
-Promote the LLM assets that you want to reorder in Virtual Agent Designer. For more information on promoting assets, see [Promote or demote LLM conversational subflows, actions, and topics in Assistant Designer](promote-demote-va-topics.md)
+Promote the LLM assets that you want to reorder in Virtual Agent Designer. For more information on promoting assets, see [Promote or demote LLM conversational subflows, actions, and topics in Assistant Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/promote-demote-va-topics.md)
 
 ## About this task
 
@@ -31,23 +31,23 @@ By default, promoted LLM assets are presented in alphabetical order in the assis
 
 2.  For the LLM topic, conversational subflow, or conversational action that you want to reorder, select the **Order** value.
 
-    ![Promoted skills table with Temporary Badge Request record name and Order highlighted.](../images/reorder.png)
+    ![Promoted skills table with Temporary Badge Request record name and Order highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/reorder.png)
 
 3.  In the **Order** field, enter the new order and select **Update**.
 
-    ![Order field highlighted in Temporary Badge Request record.](../images/reorder-new.png)
+    ![Order field highlighted in Temporary Badge Request record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/reorder-new.png)
 
     In the assistant, the promoted skills will appear in the set order.
 
-    ![Reordered skills in chat.](../images/reorder-new-chat.png)
+    ![Reordered skills in chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/reorder-new-chat.png)
 
 4.  To add a condition, in the **Condition** builder, enter the required parameters and select **Update**.
 
-    ![Temporary badge request record with Condition builder highlighted.](../images/reorder-add-condition.png)
+    ![Temporary badge request record with Condition builder highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/reorder-add-condition.png)
 
     In the assistant, the conditionally promoted skill will appear before the other assets.
 
-    ![Conditionally reordered Temporary badge request in chat window.](../images/reorder-condition.png)
+    ![Conditionally reordered Temporary badge request in chat window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/reorder-condition.png)
 
 
 ## Result
@@ -58,5 +58,5 @@ The list of promoted assets is presented in a Virtual Agent conversation based o
 
 Repeat the previous steps to adjust any other promoted assets to sort them in a preferred order.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/conversation-designer-virtual-agent.md)
 

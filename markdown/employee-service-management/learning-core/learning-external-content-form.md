@@ -28,5 +28,5 @@ Description of the field values in the Learning External Content form.
 |Updated|Date and time when the course item was last updated.|
 |Estimated duration|Estimate of the total time that is taken to complete the course item.|
 
-**Parent Topic:**[Learning reference](learning-experience-reference.md)
+**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 

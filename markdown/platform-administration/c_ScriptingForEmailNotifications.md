@@ -22,14 +22,14 @@ When you manually enter a mail script enclosed in `<mail_script>` and `</mail_sc
 
 If you enter a mail script inside `${{mail_script:script name}}` and the HTML sanitizer is configured, the output of the mail script is HTML sanitized. For more information about HTML sanitizer, see [HTML Sanitizer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
--   **[JavaScript in emails](c_UseJavaScriptInEmails.md)**  
+-   **[JavaScript in emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_UseJavaScriptInEmails.md)**  
 Create mail scripts in **System Notifications** &gt; **Email** &gt; **Notification Email Script**, and refer to them by using `${mail_script:script name}` in the script field.
--   **[Mail script variables](../reference/r_MailScriptAPI.md)**  
+-   **[Mail script variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_MailScriptAPI.md)**  
 Certain variables are available when processing mail\_script scripts.
--   **[Example scripting for email notifications](../reference/r_ExScptEmlNtfn.md)**  
+-   **[Example scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ExScptEmlNtfn.md)**  
 Examples of scripting for email notifications.
--   **[Useful attachment scripts](../../useful-scripts/reference/r_UsefulAttachmentScripts.md)**  
+-   **[Useful attachment scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../useful-scripts/reference/r_UsefulAttachmentScripts.md)**  
 This is a searchable version of the Useful Attachment Scripts.
 
-**Parent Topic:**[Create an email notification](../../../administer/notification/task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/notification/task/t_CreateANotification.md)
 

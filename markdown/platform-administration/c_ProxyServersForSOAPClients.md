@@ -17,5 +17,5 @@ To specify a proxy server for a MID Server, see [MID Server configuration](https
 
 To specify a proxy server for the ODBC driver, see [Configure ODBC to use proxy servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/configure-odbc-proxy-servers.md)
 
-**Parent Topic:**[Web proxy](c_WebProxy.md)
+**Parent Topic:**[Web proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_WebProxy.md)
 

@@ -18,21 +18,21 @@ You can now interact with Now Assist directly from the docs section in Strategic
 
 To access this feature, go to any doc page within Strategic Portfolio Management, Portfolio Planning Workspace or Project Workspace.
 
-Select the Now Assist icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) and enter your query.
+Select the Now Assist icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) and enter your query.
 
-![nacm menu spm](../images/open-prompt-nacm.png)![]()
+![nacm menu spm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/open-prompt-nacm.png)![]()
 
 The query response is generated in a new Now Assist window. You can use the input field to provide follow-up query responses and instructions.
 
-![nacm window spm](../images/na-modal-spm.png)
+![nacm window spm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/na-modal-spm.png)
 
-You can also select the Now Assist icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) and use the **Summarize** option from the drop-down menu to use generative AI for generating a record summary.
+You can also select the Now Assist icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) and use the **Summarize** option from the drop-down menu to use generative AI for generating a record summary.
 
-The Now Assist icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) along with the text input field is also displayed when you select any text from the docs page.
+The Now Assist icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) along with the text input field is also displayed when you select any text from the docs page.
 
 You can also see the option to **Summarize**, **shorten**, **elaborate**, or **change tone** for the selected content.
 
-**Parent Topic:**[Now Assist context menu](now-assist-write-overview.md)
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
 **Related topics**  
 

@@ -51,9 +51,9 @@ You can create a dynamic attribute store field to store one or more transient at
 
 ## A dynamic attribute store field is added to the Products table
 
-![A dynamic attribute store field called mystore is added to the Products table.](../image/dynamic-store-field-example-transient.png)
+![A dynamic attribute store field called mystore is added to the Products table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-store-field-example-transient.png)
 
 ## What to do next
 
-Populate the dynamic attribute store field with one or more attributes. See [Add transient attributes to a record](add-transient-attributes.md).
+Populate the dynamic attribute store field with one or more attributes. See [Add transient attributes to a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/add-transient-attributes.md).
 

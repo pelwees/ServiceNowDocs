@@ -29,8 +29,8 @@ In the Health and Safety Workspace, environmental management list view displays 
 |Documents|Documents that are added to chemical groups, items, requests, or substances.|
 |Actions|Tasks or steps created and assigned as part of the approval flow to manage chemical requests.|
 
--   **[Chemical management overview](hs-chemical-management-workflow.md)**  
+-   **[Chemical management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-management-workflow.md)**  
 The chemical management solution is designed to scale for organizations with large chemical inventories and complex conformance needs. It provides tools for managing chemical requests, approvals, and risk assessments, supporting safer workplace practices.
 
-**Parent Topic:**[Health and Safety Environmental Management](../reference/hs-environmental-management-landing-page.md)
+**Parent Topic:**[Health and Safety Environmental Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../reference/hs-environmental-management-landing-page.md)
 

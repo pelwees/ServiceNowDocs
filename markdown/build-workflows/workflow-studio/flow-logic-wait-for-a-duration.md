@@ -44,7 +44,7 @@ Wait for
 
 </td><td>
 
-Set this value manually or select a Duration data pill from the data pill picker \(![Data pill picker](../images/data_pill_picker.png)\). For example, use a Look Up Record action to select an SLA Definition record and return the value of the **Duration** field.-   **Explicit Duration**: Wait duration in hours, minutes, and seconds.
+Set this value manually or select a Duration data pill from the data pill picker \(![Data pill picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data_pill_picker.png)\). For example, use a Look Up Record action to select an SLA Definition record and return the value of the **Duration** field.-   **Explicit Duration**: Wait duration in hours, minutes, and seconds.
 -   **Relative Duration**: Wait duration in hours, minutes, and seconds before or after a specific time. Select **Relative Duration** to specify a wait duration from a specific date.
 
 **Note:** Past dates don't affect the wait duration.
@@ -80,25 +80,25 @@ Select the schedule used to calculate the **Scheduled End date/time** value from
 
 In this example, a flow starts when the incident state changes to Resolved.
 
-![Flow trigger.](../images/duration-example-1.png "Flow trigger")
+![Flow trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/duration-example-1.png "Flow trigger")
 
 ## Wait 10 days after the last update to a record
 
 In this example, the flows waits for 10 days after the incident record has been resolved.
 
-![Wait for Duration flow logic.](../images/duration-example-2.png "Wait for Duration flow logic")
+![Wait for Duration flow logic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/duration-example-2.png "Wait for Duration flow logic")
 
 ## Update a record after 10 days
 
 In this example, the flows closes the incident record 10 days after it was resolved.
 
-![Action used to close the incident.](../images/duration-example-3.png "Action used to close the incident")
+![Action used to close the incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/duration-example-3.png "Action used to close the incident")
 
 ## Wait for a duration of 50% of the time between the start of the flow logic and the due date
 
 In this example, the flows send a notification email to the relevant manager when a critical problem is created and 50% of the time between the problem record creation and the problem due date has lapsed.
 
-![Wait for percentage time duration flow logic.](../images/wait-percentage-duration.png "Wait for percentage time duration flow logic")
+![Wait for percentage time duration flow logic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/wait-percentage-duration.png "Wait for percentage time duration flow logic")
 
 ## Relative Duration type
 
@@ -117,7 +117,7 @@ The timer waits for the next instance of a selected schedule. For example, if yo
 
 ## Execution details
 
-![Example execution details for a wait for a duration flow.](../images/ex-details-wait-for-duration.png "Execution details for Wait for a duration flow logic")
+![Example execution details for a wait for a duration flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/ex-details-wait-for-duration.png "Execution details for Wait for a duration flow logic")
 
 1.  The header shows the state, start time, and runtime for the flow logic.
 
@@ -125,40 +125,40 @@ The timer waits for the next instance of a selected schedule. For example, if yo
 
 2.  The Configuration Details section shows details about the variables that are used by the flow, including the type, configuration, and runtime values for each variable.
 
-**Parent Topic:**[Workflow Studio flow logic](flow-logic.md)
+**Parent Topic:**[Workflow Studio flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic.md)
 
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/append-to-flow-variables-flow-logic.md)
 
-[Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
+[Assign subflow outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-assign-subflow-outputs.md)
 
-[Call a workflow flow logic](flow-logic-call-workflow.md)
+[Call a workflow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-call-workflow.md)
 
-[Do the following until flow logic](flow-logic-do-until.md)
+[Do the following until flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-do-until.md)
 
-[Do the following in parallel flow logic](flow-logic-do-following-in-parallel.md)
+[Do the following in parallel flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-do-following-in-parallel.md)
 
-[Dynamic flows flow logic](flow-logic-dynamic-flow.md)
+[Dynamic flows flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-dynamic-flow.md)
 
-[End Flow flow logic](flow-logic-end-action.md)
+[End Flow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/exit-loop-flow-logic.md)
 
-[For Each flow logic](flow-logic-for-each.md)
+[For Each flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-for-each.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/go-back-to-flow-logic.md)
 
-[If flow logic](flow-logic-if.md)
+[If flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-if.md)
 
-[Make a decision flow logic](flow-logic-make-decision.md)
+[Make a decision flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-make-decision.md)
 
-[Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
+[Set Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/skip-iteration-flow-logic.md)
 
-[Try flow logic](flow-logic-try.md)
+[Try flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-try.md)
 

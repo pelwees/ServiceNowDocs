@@ -91,7 +91,7 @@ var hw = new sn_hw.HistoryWalker('incident', '1c741bd70b2322007518478d83673af3',
 
 To use this class in scoped and global applications, use the `sn_hw` namespace identifier. The History Walker plugin \(com.glide.history\_walker\) that is enabled by default is required to access the HistoryWalker API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## HistoryWalker - HistoryWalker\(String tableName, String sysId, String walker\)
 
@@ -986,7 +986,7 @@ Incident priority in update number 5 was 2
 
 Applies the appropriate history/audit data to get a GlideRecord to the state it was in a specific update count. Use getWalkedRecord\(\) or getWalkedRecordCopy\(\) after walking to an update number to retrieve the "walked" GlideRecord.
 
-**Note:** This method is not supported by the checkpoint walker implementation. Call the [HistoryWalker - walkTo\(String checkpoint\)](HistoryWalkerScopedAPI.md#) method when using the checkpoint walker.
+**Note:** This method is not supported by the checkpoint walker implementation. Call the [HistoryWalker - walkTo\(String checkpoint\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/HistoryWalkerScopedAPI.md#) method when using the checkpoint walker.
 
 |Name|Type|Description|
 |----|----|-----------|

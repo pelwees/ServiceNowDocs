@@ -146,7 +146,7 @@ The SOX Audit Dashboard displays an overview of all audits and audit issues. Nav
 
 
 
-![Issue Overview](../image/SOX-issue-overview.png "Issue Overview")
+![Issue Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-issue-overview.png "Issue Overview")
 
-**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](sn-store-SOX-governance-risk-compliance.md)
+**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/sn-store-SOX-governance-risk-compliance.md)
 

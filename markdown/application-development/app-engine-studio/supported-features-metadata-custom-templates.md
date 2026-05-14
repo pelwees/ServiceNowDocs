@@ -25,7 +25,7 @@ When you create a custom template, the pre-scan checks to make sure that everyth
 
 **Note:** Creating an AES template using an application that contains a workspace is not supported.
 
-For more information on the template creation process, see [Build a custom template](../concept/build-custom-template.md).
+For more information on the template creation process, see [Build a custom template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/build-custom-template.md).
 
 ## Supported metadata
 
@@ -384,5 +384,5 @@ The template creation process only skips items that should not impact the templa
 |Workflow Schedule|wf\_workflow\_schedule|
 |Workflow UI Policy|wf\_ui\_policy|
 
-**Parent Topic:**[App Engine Studio reference](aes-reference.md)
+**Parent Topic:**[App Engine Studio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-reference.md)
 

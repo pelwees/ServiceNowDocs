@@ -64,9 +64,9 @@ Administrators and users with the ui\_action\_admin role can define UI actions. 
 10. Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Assign Universal Task admin role](assign-ut-admin-role.md)
+**Previous topic:**[Assign Universal Task admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/assign-ut-admin-role.md)
 
-**Next topic:**[Add a Universal Task related list](create-relatedlist-ur.md)
+**Next topic:**[Add a Universal Task related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/create-relatedlist-ur.md)
 

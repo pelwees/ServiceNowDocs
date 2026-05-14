@@ -121,11 +121,11 @@ The datacenter type, which should be oVirt LDC \[cmdb\_ci\_rhv\_ldc\].
 </td></tr></tbody>
 </table>-   **Create a discovery schedule**
 
-    For more information, see [Create an oVirt Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-ovirt-schedule-DAW.md).
+    For more information, see [Create an oVirt Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/task/create-ovirt-schedule-DAW.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/query-service-account-ldc-fields.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -253,7 +253,7 @@ Discovery populates the data in the CMDB when running the patterns.
 
 On the Dependency Views map, you can view all discovered OLVM or RHV resources in your organization and the relationships between them.
 
-![OLVM or RHV CIs and connections on a Dependency Views map](../image/ovirt-dependency-view.png "OLVM or RHV dependency view")
+![OLVM or RHV CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/ovirt-dependency-view.png "OLVM or RHV dependency view")
 
 ## CI relationships
 
@@ -286,5 +286,5 @@ The following relationships are created to support OLVM or RHV discovery.
 |VNIC Endpoint \[cmdb\_ci\_endpoint\_vnic\]|Implement End Point To::Implement End Point From|Cloud Mgmt Network Interface \[cmdb\_ci\_nic\]|
 |VNIC Endpoint \[cmdb\_ci\_endpoint\_vnic\]|Extends from|Endpoint \[cmdb\_ci\_endpoint\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

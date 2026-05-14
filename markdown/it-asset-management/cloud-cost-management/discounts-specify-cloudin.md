@@ -59,10 +59,10 @@ The percentage discount for the selected service account.
 
 View the provider's discount rate for each service account by navigating to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **AWS price discounts**.
 
-**Parent Topic:**[Configure Rightsizing operations](rs-settings-config-cloudin.md)
+**Parent Topic:**[Configure Rightsizing operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-settings-config-cloudin.md)
 
 **Related topics**  
 
 
-[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](aws-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 

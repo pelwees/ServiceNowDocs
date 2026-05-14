@@ -17,14 +17,14 @@ You can activate one or more of the Service Level Management plugins if they are
 
 You can activate one or more of the following Service Level Management plugins.
 
--   **[Activate Service Level Management](../task/activate-sla-plugin.md)**  
+-   **[Activate Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/activate-sla-plugin.md)**  
 You can activate the Service Level Management plugin \(com.snc.sla\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
--   **[Activate SLA Breakdown definitions](../reference/activate-sla-breakdowns-plugin.md)**  
+-   **[Activate SLA Breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../reference/activate-sla-breakdowns-plugin.md)**  
 You can activate the SLA Breakdowns plugin \(com.snc.sla.breakdowns\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
--   **[Activate SLA timeline](../task/t_ActivateSLATimeline.md)**  
+-   **[Activate SLA timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/t_ActivateSLATimeline.md)**  
 You can activate the SLA timeline plugin \(com.snc.sla.timeline\) if you have the admin role. This plugin activates related plugins if they are not already active.
--   **[Activate Service Level Management - SLA Timer Config API](../task/activate-sla-timer-config-api.md)**  
+-   **[Activate Service Level Management - SLA Timer Config API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/activate-sla-timer-config-api.md)**  
 You can activate the Service Level Management - SLA Timer Config API plugin \(com.sn\_slm\_timer\) if you have the admin role.
 
-**Parent Topic:**[Configuring Service Level Management](configuring-service-level-management.md)
+**Parent Topic:**[Configuring Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/configuring-service-level-management.md)
 

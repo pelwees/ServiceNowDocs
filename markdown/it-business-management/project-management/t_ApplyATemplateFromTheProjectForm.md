@@ -48,18 +48,18 @@ When applying a template to a project, the project state is set to the default s
     3.  Select the start date and select a project template.
 
 
-**Parent Topic:**[Applying templates to projects](../concept/c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplates.md)
 
 **Related topics**  
 
 
-[Create a project template](t_ViewAProjectTemplateForm.md)
+[Create a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ViewAProjectTemplateForm.md)
 
-[Add an attachment to a project template](t_AddAnAttachmentToAProjectTemplate.md)
+[Add an attachment to a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AddAnAttachmentToAProjectTemplate.md)
 
-[Apply template to an existing project](apply-multiple-templates-prj.md)
+[Apply template to an existing project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/apply-multiple-templates-prj.md)
 
-[Apply template to a blank project in project workspace](t_ApplyTempProjWorkbench.md)
+[Apply template to a blank project in project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ApplyTempProjWorkbench.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplateConfiguration.md)
 

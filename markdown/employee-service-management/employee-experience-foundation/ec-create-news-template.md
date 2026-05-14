@@ -19,7 +19,7 @@ Create a news article template to enable content authors to reuse the article la
 
 Role required: sn\_cd.content\_admin or sn\_cd.content\_template\_owner
 
-You can create a reusable article template from scratch or based on an existing news article: [Create a news article](ec-content-library-news-article.md)
+You can create a reusable article template from scratch or based on an existing news article: [Create a news article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-news-article.md)
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You can create a reusable article template from scratch or based on an existing 
 
 3.  From the hamburger menu, select **Clone as reusable article**.
 
-    ![Hamburger menu opens a drop-down list, where clone as reusable article is the fourth item](../images/ec-news-template.png)
+    ![Hamburger menu opens a drop-down list, where clone as reusable article is the fourth item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-template.png)
 
 4.  Enter a name for the reusable article.
 
@@ -42,5 +42,5 @@ You can create a reusable article template from scratch or based on an existing 
 
 ## What to do next
 
-Add the reusable article to a new or existing content template: [Create a Content template](ec-create-content-template.md)
+Add the reusable article to a new or existing content template: [Create a Content template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md)
 

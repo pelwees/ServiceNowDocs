@@ -18,9 +18,9 @@ Integrating your Software Asset Management application with Atlassian Jira Softw
 **Note:** Currently this integration supports only one site integration per profile.
 
 -   If your installed Jira spoke version is 4.1.0 or higher, you can integrate Jira with your ServiceNow instance by using one of the following methods:
-    -   [Basic authentication](integrate-with-jira-basicauth.md#)
+    -   [Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-jira-basicauth.md#)
 
-    -   [OAuth 2.0](integrate-with-jira-oauth.md#)
+    -   [OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-jira-oauth.md#)
 
--   If your installed Jira spoke version is lower than 4.1.0, integrate Jira with your ServiceNow instance by [Basic authentication](integrate-with-jira-basicauth.md#) method.
+-   If your installed Jira spoke version is lower than 4.1.0, integrate Jira with your ServiceNow instance by [Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-jira-basicauth.md#) method.
 

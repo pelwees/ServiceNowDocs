@@ -19,7 +19,7 @@ Role required: admin.
 
 ## About this task
 
-![Upgrade progress bar](../image/progress-bar-phase-4.png)
+![Upgrade progress bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/progress-bar-phase-4.png)
 
 The Upgrade Monitor helps you upgrade an individual instance. You can monitor the progress of an upgrade and resolve conflicts between the upgrade and customizations.
 

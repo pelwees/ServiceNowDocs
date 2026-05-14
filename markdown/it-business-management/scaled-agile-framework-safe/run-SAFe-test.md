@@ -49,7 +49,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d191893e134">
 
-**![Icon to indicate a step as passed](../images/passed.png)**
+**![Icon to indicate a step as passed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/passed.png)**
 
 </td><td>
 
@@ -57,7 +57,7 @@ Passed.
 
 </td></tr><tr><td id="d191893e149">
 
-**![Icon to indicate a step as failed](../images/failed.png)**
+**![Icon to indicate a step as failed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/failed.png)**
 
 </td><td>
 
@@ -65,7 +65,7 @@ Failed. In this state, options to add comments and attachments are available. Op
 
 </td></tr><tr><td id="d191893e164">
 
-**![Icon to indicate a step as blocked](../images/blocked.png)**
+**![Icon to indicate a step as blocked](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/blocked.png)**
 
 </td><td>
 

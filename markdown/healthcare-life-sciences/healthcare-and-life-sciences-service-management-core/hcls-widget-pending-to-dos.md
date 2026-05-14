@@ -15,7 +15,7 @@ breadcrumb: [Patient Portal widget library, Reference, Healthcare and Life Scien
 
 The Pending to-dos widget displays a list of to-do items assigned to a patient.
 
-![Screenshot displaying thePending to-dos widget. For the text description, refer to the Key features section.](../image/hcls-widget-pending-to-dos.png "Pending to-dos widget")
+![Screenshot displaying thePending to-dos widget. For the text description, refer to the Key features section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-pending-to-dos.png "Pending to-dos widget")
 
 ## Key features
 
@@ -25,5 +25,5 @@ The Pending to-dos widget displays a list of to-do items assigned to a patient.
 
 The Pending to-dos widget does not include instance options.
 
-**Parent Topic:**[Patient Portal widget library](hcls-pat-widget-library.md)
+**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 

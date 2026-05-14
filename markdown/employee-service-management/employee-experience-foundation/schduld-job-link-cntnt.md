@@ -24,7 +24,7 @@ Role required: admin
 **Surface New Unconnected Content of Categories** helps you identify the new unconnected content.
 
 -   Use the scheduled job for manual additions and removals of content.
--   [Enable connected content autosync system property](may-system-properties-taxonomy-autosync.md) for automatic additions and removals of content.
+-   [Enable connected content autosync system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/may-system-properties-taxonomy-autosync.md) for automatic additions and removals of content.
 
 ## Procedure
 
@@ -32,20 +32,20 @@ Role required: admin
 
 2.  Select your preferred **Run** time option, for the scheduled job, from the available list on the field.
 
-    ![This field, Run, lists out frequency options for the scheduled job to execute periodically.](../images/schdled-job-runtime.png "Scheduled job run-time options")
+    ![This field, Run, lists out frequency options for the scheduled job to execute periodically.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/schdled-job-runtime.png "Scheduled job run-time options")
 
     **Note:** The default scheduled job run-time is weekly. Edit and update the frequency of execution, as required.
 
 3.  Select **View Details** on the pop-up notification displayed on the topic page to see the new content available for association or removal..
 
-    ![The notification states new content is available for association with a link for view details.](../images/new-content-available.jpg "New content availability notification")
+    ![The notification states new content is available for association with a link for view details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/new-content-available.jpg "New content availability notification")
 
 4.  View **Associated catalog and kb categories** to see the **update type**, such as Added or Removed.
 
-    ![Associated catalog and kb categories addition and removal updates](../images/connected-content-view-add-remove.png "Update type: Add and Remove")
+    ![Associated catalog and kb categories addition and removal updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/connected-content-view-add-remove.png "Update type: Add and Remove")
 
 5.  Add or dismiss content, as required, with **Update topic with content** or **Dismiss content** respectively.
 
 
-**Parent Topic:**[Manage connected content from topic pages](mnge-content-topics.md)
+**Parent Topic:**[Manage connected content from topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mnge-content-topics.md)
 

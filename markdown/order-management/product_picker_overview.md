@@ -19,11 +19,11 @@ A product picker is similar to a picklist with extended data. product pickers ca
 
 Product Pickers can be created in the fields tab of the Logik Admin. To make a new product picker functional, all you need to do is add some options, then place it on a Layout. Select product picker as the new field type.
 
-![New product picket](../images/cpq-product-picker-tile.png)
+![New product picket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-tile.png)
 
 ## Options
 
-![Product picket options](../images/cpq-product-picker-setup.png)
+![Product picket options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-setup.png)
 
 Just like picklists, product pickers have a list of options. Each option represents a product, which is added to the BOM when selected by the user.
 
@@ -47,7 +47,7 @@ Actions:
 
 Product Picker options can be imported directly into the Picker by uploading a CSV file, much like picklist options.
 
-![Product picker setup](../images/cpq-product-picker-option-import.png)
+![Product picker setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-option-import.png)
 
 -   \(1\) Menu: Click the 3 vertical dot icon to open the menu
 -   \(2\) Import product picker options: launch the import dialog for product picker options
@@ -55,7 +55,7 @@ Product Picker options can be imported directly into the Picker by uploading a C
 
 Import dialog:
 
-![Import options](../images/cpq-product-picker-csv-import.png)
+![Import options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-csv-import.png)
 
 \(1\) CSV import: Click or drag and drop the CSV file containing the product picker options that you want to import.
 
@@ -65,7 +65,7 @@ Import dialog:
 
 Fields can be created in the product picker and used to collect user input, interact with rules, display information and optionally set data in the product list. These fields are children of the current product picker and are found in the Option Fields tab. They are also referred to as subfields.
 
-![Product picker fields](../images/cpq-product-picker-fields.png)
+![Product picker fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-fields.png)
 
 \(1\) Option Fields tab: Additional subfields can be created and added to the product picker to display and optionally pass additional data into the ProductList. Subfields are displayed in a table format below.
 
@@ -84,11 +84,11 @@ Additional subfields can be created and optionally configured to pass additional
 
 ## Aggregates
 
-Aggregates can be created on product pickers, similar to how set aggregates work. For information about set aggregates, see [Creating set aggregates](creating_set_aggregates.md).
+Aggregates can be created on product pickers, similar to how set aggregates work. For information about set aggregates, see [Creating set aggregates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating_set_aggregates.md).
 
 ## Setup
 
-![Product picker setup](../images/cpq-product-picker-setup-2.png)
+![Product picker setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-setup-2.png)
 
 Navigate to a product picker field.
 
@@ -96,13 +96,13 @@ Navigate to a product picker field.
 -   \(2\) New section for aggregate fields
 -   \(3\) Add button to create a new aggregate field
 
-![Select picker value screen](../images/cpq-product-picker-new-aggregate-field.png)
+![Select picker value screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-new-aggregate-field.png)
 
 When you create a new aggregate field, you can select any of the subfields in a product picker to aggregate on.
 
 A list of available sub fields are displayed. Select the field to create a new aggregate.
 
-![Picker options screen](../images/cpq-product-picker-new-aggregate-subfield.png)
+![Picker options screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-new-aggregate-subfield.png)
 
 1. Five types of aggregates can be created:
 
@@ -114,7 +114,7 @@ A list of available sub fields are displayed. Select the field to create a new a
 
 Select the aggregate type to use for the subfield. Each aggregate type can only be used once per subfield.
 
-![Aggregate fields screen](../images/cpq-product-picker-aggregate-type.png)
+![Aggregate fields screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-aggregate-type.png)
 
 Final Aggregate Field:
 
@@ -128,7 +128,7 @@ Final Aggregate Field:
 
 Aggregate fields can be added to the layout and will automatically be calculated on change of a field.
 
-![Simple product picker screen](../images/cpq-product-picker-aggregate-example.png)
+![Simple product picker screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-aggregate-example.png)
 
 -   \(1\) Quantity Max = 3, product b has qty 3
 -   \(2\) Quantity Sum = 4, one product with qty 1, one with qty 3
@@ -140,14 +140,14 @@ Product Pickers can optionally display some read-only information about a produc
 
 **Note:** These values are read-only and cannot be set by rules.
 
-![Product info fields](../images/cpq-product-picker-read-only-information.png)
+![Product info fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-read-only-information.png)
 
 -   \(1\) Available fields: Any available fields will be editable, to include a field and make it available in the layout, check the box next to the field name
 -   \(2\) Unavailable fields: Fields that are mapped to a subfield will be grayed out and unavailable to be included. To make a field available again, change the mapping of the subfield in the product picker Fields section
 
 ## Product Picker settings
 
-![Product picker settings screen](../images/cpq-product-picker-settings.png)
+![Product picker settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-settings.png)
 
 Product pickers have additional properties that can be set, both to control the product picker behavior itself and to set additional default values for the product list.
 
@@ -180,7 +180,7 @@ Product Pickers can be added and edited in Layouts both through the Layout Wizar
 -   ProductPickerGrid: Table based display, Single-select
 -   MultiSelectProductPickerGrid: Table based display, multiselect
 
-![Visual picker screen](../images/cpq-product-picker-visual-product-picker.png)
+![Visual picker screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-visual-product-picker.png)
 
 ## Product Picker imports and exports
 
@@ -198,7 +198,7 @@ A ZIP file containing a product picker can be imported through the Matrix Loader
 **Related topics**  
 
 
-[Product picker bulk actions](product_picker_bulk_actions.md)
+[Product picker bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product_picker_bulk_actions.md)
 
-[Referencing a product picker](enrichments_how_to_reference_a_product_picker.md)
+[Referencing a product picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enrichments_how_to_reference_a_product_picker.md)
 

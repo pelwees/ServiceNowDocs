@@ -62,10 +62,10 @@ Allocation
 Acquirer
 
 </td></tr></tbody>
-</table>-   **[Allocation workflow overview](allocation-workflow.md)**  
+</table>-   **[Allocation workflow overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/allocation-workflow.md)**  
 The allocation workflow involves the acquirer initiating pre-arbitration and arbitration for fraud and authorization disputes.
--   **[Collaboration workflow overview](collaboration-workflow.md)**  
+-   **[Collaboration workflow overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/collaboration-workflow.md)**  
 The collaboration workflow involves the issuer initiating pre-arbitration and arbitration for processing errors and consumer disputes.
 
-**Parent Topic:**[Managing disputes integrated with Visa](work-on-a-dispute-case-integrated-with-visa.md)
+**Parent Topic:**[Managing disputes integrated with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-on-a-dispute-case-integrated-with-visa.md)
 

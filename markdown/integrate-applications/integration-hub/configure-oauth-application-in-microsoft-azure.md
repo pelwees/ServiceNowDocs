@@ -29,7 +29,7 @@ Access to Microsoft Azure portal to create an OAuth application.
 
     2.  Select **App registrations**.
 
-        ![App registration button.](../image/MS-sharepoint-spoke-app-reg-button.png)
+        ![App registration button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-app-reg-button.png)
 
     3.  On the App registrations page, select **+ New registration**.
 
@@ -41,7 +41,7 @@ Access to Microsoft Azure portal to create an OAuth application.
         |Supported account types|Accounts the tenant in Microsoft Azure AD directory supports.|
         |Redirect URI|The redirect URL to your ServiceNow instance that requests connection to Microsoft SharePoint online. From the Select a platform list, select Web and enter your ServiceNow instance URL in the format `https://<instance-name>.service-now.com/oauth_redirect.do`.|
 
-        ![Add Redirect URL.](../image/ms-exchng-ol-redirect-url.png)
+        ![Add Redirect URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-exchng-ol-redirect-url.png)
 
     5.  Select **Register**.
 
@@ -49,7 +49,7 @@ Access to Microsoft Azure portal to create an OAuth application.
 
 2.  To get the application ID, from the OAuth application page, copy the Application \(client\) ID.
 
-    ![Application Client ID.](../image/MS-sharepoint-copy-client-ID.png)
+    ![Application Client ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-copy-client-ID.png)
 
     You need the Application \(client\) ID when you set up the connection record for Microsoft SharePoint Graph.
 
@@ -57,15 +57,15 @@ Access to Microsoft Azure portal to create an OAuth application.
 
     1.  On the OAuth application page, select Certificates &amp; secrets.
 
-        ![Certificates & secrets tab.](../image/MS-sharepoint-certificates-and-secrets.png)
+        ![Certificates & secrets tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-certificates-and-secrets.png)
 
     2.  Select **+ New client secret**.
 
-        ![New client secret button.](../image/MS-sharepoint-add-a-secret-button.png)
+        ![New client secret button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-add-a-secret-button.png)
 
     3.  Set up the client secret.
 
-        ![Client secret details.](../image/MS-sharepoint-client-secret-details.png)
+        ![Client secret details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-client-secret-details.png)
 
         -   Description: A contextual description of the client secret.
         -   Expires: Time limit after which the client secret is invalid.
@@ -77,6 +77,6 @@ Access to Microsoft Azure portal to create an OAuth application.
 
     5.  Copy the secret and store at a secure place.
 
-        ![Client secret copy button.](../image/MS-sharepoint-client-secret-copy.png)
+        ![Client secret copy button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-client-secret-copy.png)
 
 

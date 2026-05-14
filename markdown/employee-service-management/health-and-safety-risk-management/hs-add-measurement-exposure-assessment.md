@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk management icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Exposure types** list, open the exposure type, and select the exposure assessment record that you want to add the measurement to.
 
@@ -55,7 +55,7 @@ Measurement unit
 
 Unit of measurement for this exposure type.The list shows units based on the exposure category selected in the exposure type.
 
-The unit choices for an exposure category are defined in the `Measurement unit` column of the Measurement \[sn\_hs\_rm\_measurement\] table. For more information, see [Define a category and measurement unit for an exposure type](hs-define-category-measurement-unit-exposure-type.md).
+The unit choices for an exposure category are defined in the `Measurement unit` column of the Measurement \[sn\_hs\_rm\_measurement\] table. For more information, see [Define a category and measurement unit for an exposure type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-define-category-measurement-unit-exposure-type.md).
 
 </td></tr><tr><td>
 
@@ -104,5 +104,5 @@ Detailed information about this measurement.
 
     -   If the measurement is below the limit and an active exposure exists for this assessment, the exposure end date is automatically set to the measurement date. It's because the exposure no longer meets the criteria, making it irrelevant. Additionally, the exposure's state is updated to obsolete and the associated action schedule for the exposure is marked as inactive.
 
-**Parent Topic:**[Perform an exposure assessment for a location](hs-perform-exposure-assessment.md)
+**Parent Topic:**[Perform an exposure assessment for a location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-exposure-assessment.md)
 

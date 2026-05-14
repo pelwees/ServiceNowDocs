@@ -137,5 +137,5 @@ Examples:
 
 To learn more about the easyXDM library used in this topic, see [easy XDM.net](https://easyxdm.net/wp/).
 
-**Parent Topic:**[Use cases](use-cases.md)
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 

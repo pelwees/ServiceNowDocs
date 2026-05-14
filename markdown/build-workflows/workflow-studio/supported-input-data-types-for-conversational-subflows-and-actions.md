@@ -41,5 +41,5 @@ Conversational subflows and actions support a limited number of input data types
 |string\_full\_utf8|String \(Full UTF-8\)|
 |table\_name|Table Name|
 
-**Parent Topic:**[Flows, subflows, and actions reference](flow-designer-reference.md)
+**Parent Topic:**[Flows, subflows, and actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-reference.md)
 

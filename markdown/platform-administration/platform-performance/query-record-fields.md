@@ -108,5 +108,5 @@ Average execution time \(ms\)
 The average duration to execute one of these similar queries.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/platform-performance-references.md)
 

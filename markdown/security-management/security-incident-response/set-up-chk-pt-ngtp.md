@@ -31,11 +31,11 @@ Role required: admin
 
     2.  Navigate to **Security Policies** &gt; **Threat Prevention** &gt; **Policy**.
 
-        ![Policy](../image/policy.png)
+        ![Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/policy.png)
 
     3.  Open the Threat Prevention Policy in Edit Mode.
 
-        ![Edit Policy](../image/edit-policy.png)
+        ![Edit Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/edit-policy.png)
 
     4.  Active Protections → Severity should be “Medium or above”
 
@@ -43,7 +43,7 @@ Role required: admin
 
     6.  Blades Activation à Anti-Virus and Anti-Bot should be selected.
 
-        ![Policies optimized](../image/policies-optimized.png)
+        ![Policies optimized](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/policies-optimized.png)
 
     7.  Publish the changes \(if any\) and Install the Policy.
 
@@ -59,11 +59,11 @@ Role required: admin
 
     2.  Navigate to **Servers and Gateways**, and double-click on the applicable server.
 
-        ![Servers and gateways](../image/servers-and-gateways.png)
+        ![Servers and gateways](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/servers-and-gateways.png)
 
     3.  Navigate to **Network Management** &gt; **Proxy**.
 
-        ![Network Management proxy](../image/network-mgmt-proxy.png)
+        ![Network Management proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/network-mgmt-proxy.png)
 
     4.  Provide the Proxy Details to be used for routing the HTTP traffic.
 
@@ -79,7 +79,7 @@ Role required: admin
 
     3.  Navigate to **HTTPS Inspection**.
 
-        ![HTTPS inspection](../image/https-nspection.png)
+        ![HTTPS inspection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/https-nspection.png)
 
     4.  Follow the [steps to configure HTTPS Inspection](https://sc1.checkpoint.com/documents/R80.10/WebAdminGuides/EN/CP_R80.10_NexGenSecurityGateway_Guide/html_frameset.htm?topic=documents/R80.10/WebAdminGuides/EN/CP_R80.10_NexGenSecurityGateway_Guide/13700) in the Check Point User Guide.
 

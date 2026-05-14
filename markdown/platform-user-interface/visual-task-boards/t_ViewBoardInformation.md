@@ -23,14 +23,14 @@ Role required: none
 
 1.  Navigate to**All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
-2.  Click the board information icon \(![Board information icon](../image/BoardInfoIcon.png)\).
+2.  Click the board information icon \(![Board information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoIcon.png)\).
 
 
 ## Result
 
 The board information displays.
 
-![The board information appears](../image/BoardInfoFlyout.png)
+![The board information appears](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoFlyout.png)
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/viewing-sharing-vis-task-brds.md)
 

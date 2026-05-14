@@ -31,7 +31,7 @@ Role required: admin
 
 4.  In **Push Messages**, add the name of the push message record created in "Add a push notification message".
 
-    ![Push Notification screen shot](../../image/mob_sdk-push-notification-screen.png)
+    ![Push Notification screen shot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mob_sdk-push-notification-screen.png)
 
 5.  Select **Update**.
 

@@ -34,8 +34,8 @@ Role required: sn\_poem\_core.operational\_buyer
     -   **All work** &gt; **Open purchase order exceptions**
 5.  Select an exception number link from the Number column.
 
-    The details of purchase order exceptions are displayed on the **Details** tab. For more information, see [Purchase order exception Details page](../concept/purch-order-exception-details.md).![View a purchase order exception](../image/pom-view-exception.png)
+    The details of purchase order exceptions are displayed on the **Details** tab. For more information, see [Purchase order exception Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/purch-order-exception-details.md).![View a purchase order exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-view-exception.png)
 
 
-**Parent Topic:**[Source-to-Pay Workspace](../concept/purch-order-mgmt-ws.md)
+**Parent Topic:**[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/purch-order-mgmt-ws.md)
 

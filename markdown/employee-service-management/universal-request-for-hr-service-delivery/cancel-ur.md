@@ -43,5 +43,5 @@ You can cancel a universal request only if
 
 When the UR is canceled, email notifications are sent to the stakeholders associated with the request.
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/using-ur.md)
 

@@ -44,7 +44,7 @@ Chat is enabled from the Requests and Knowledge Articles pages by default.
 
 Users can select Chat in the Homepage quick actions menu to ask for help from a live or virtual agent.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../concept/setup-mobile-employee.md)
 
 **Related topics**  
 

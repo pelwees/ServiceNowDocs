@@ -47,7 +47,7 @@ Input set
 
 </td><td>
 
-MCO input set. This field contains a set of questionnaires. To create an input set, see [Create promotion questionnaire](mco-create-input-set.md).
+MCO input set. This field contains a set of questionnaires. To create an input set, see [Create promotion questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-input-set.md).
 
 </td></tr><tr><td>
 

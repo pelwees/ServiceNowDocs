@@ -25,7 +25,7 @@ Select **Standard deviation** \(SD\) to see variation from average values for a 
 
 Standard deviation is always expressed in the same unit as the data. In the following example, the data is in time units and so is the aggregation.
 
-![Bar chart aggregated by Standard deviation with bars representing incident categories and priorities, one showing the standard deviation for critical software incidents of approximately 10 days, 9 hours.](../image/aggregation-standard-deviation.png)
+![Bar chart aggregated by Standard deviation with bars representing incident categories and priorities, one showing the standard deviation for critical software incidents of approximately 10 days, 9 hours.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-standard-deviation.png)
 
 ## Procedure
 

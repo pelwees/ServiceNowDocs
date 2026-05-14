@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [Configuring Recommended Actions](../concept/nba.md).
+For more information, see [Configuring Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/nba.md).
 
 ## Procedure
 

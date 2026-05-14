@@ -44,5 +44,5 @@ Role required: Admin
 **Related topics**  
 
 
-[Enable Markdown in text fields](enable-markdown-in-text-fields.md)
+[Enable Markdown in text fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enable-markdown-in-text-fields.md)
 

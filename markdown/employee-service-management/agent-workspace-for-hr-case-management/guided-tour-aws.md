@@ -33,9 +33,9 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 
     -   Home page
     -   List page
-3.  Select the **Show help** icon \(![Show help icon](../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
+3.  Select the **Show help** icon \(![Show help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
 
-4.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
+4.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
 
 5.  Select **Take a Tour**​.
 

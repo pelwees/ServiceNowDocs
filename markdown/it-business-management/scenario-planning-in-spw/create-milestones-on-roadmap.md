@@ -57,11 +57,11 @@ From the Free-form Roadmaps tab, select a roadmap.
 </td></tr></tbody>
 </table>2.  From the More actions drop-down, select **New milestone**.
 
-    ![More actions dropdown on the roadmap header.](../images/new-rdmp-milestone.png)
+    ![More actions dropdown on the roadmap header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/new-rdmp-milestone.png)
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Roadmap milestone form](../../alignment-planner-workspace/reference/milestone-form.md).
+    For field information, see [Roadmap milestone form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/milestone-form.md).
 
 4.  Select **Submit**.
 
@@ -72,7 +72,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 Milestones that you created are visible on the roadmap.
 
-Here is an image of a sample roadmap with the milestone bar showing different milestones for the planning period.![Roadmap milestones](../images/roadmap-level-milestones.png)
+Here is an image of a sample roadmap with the milestone bar showing different milestones for the planning period.![Roadmap milestones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/roadmap-level-milestones.png)
 
 The color of the milestone, shown on the legend, indicates the status of the milestone.
 
@@ -82,15 +82,15 @@ The color of the milestone, shown on the legend, indicates the status of the mil
 
 If multiple milestones are scheduled close to each other, they might appear grouped in the milestone bar. In this case, you can expand and collapse the milestone bar to view all the milestones of that period.
 
-![milestone group](../images/milestone-group.gif)
+![milestone group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/milestone-group.gif)
 
--   **[Update a roadmap milestone](update-roadmap-milestone.md)**  
+-   **[Update a roadmap milestone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-roadmap-milestone.md)**  
 Update or delete the milestones that you added to your portfolio plan or free-form roadmap so that they reflect any change of plans.
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/roadmaps-in-alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Customizing milestones display on roadmap in Strategic Planning Workspace](../../alignment-planner-workspace/concept/personalizing-the-milestones-display-on-the-roadmap.md)
+[Customizing milestones display on roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/concept/personalizing-the-milestones-display-on-the-roadmap.md)
 

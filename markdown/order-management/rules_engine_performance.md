@@ -13,7 +13,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 You can help make your pages responsive by following a few guidelines.
 
-![Optimizing rules engine performance writeup](../images/cpq-rule-engine-performance.png)
+![Optimizing rules engine performance writeup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-rule-engine-performance.png)
 
 In any online shopping or configuration experience, end-user engagement requires a responsive web page. CPQ achieves excellent performance as a result of its proprietary rules engine. CPQ also provides the following benefits:
 

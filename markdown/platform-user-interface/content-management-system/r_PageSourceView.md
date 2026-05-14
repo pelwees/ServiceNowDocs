@@ -19,7 +19,7 @@ The Firefox browser, for example, has the developer tools option. This option pr
 
 This Firefox functionality is useful when stepping through the menu items section.
 
-![In Firefox, navigate to This Frame, Open Frame in New Tab.](../image/FrameView.png "Frame view")
+![In Firefox, navigate to This Frame, Open Frame in New Tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../image/FrameView.png "Frame view")
 
-**Parent Topic:**[View links between system elements and URLs](../task/t_LinkToContent.md)
+**Parent Topic:**[View links between system elements and URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_LinkToContent.md)
 

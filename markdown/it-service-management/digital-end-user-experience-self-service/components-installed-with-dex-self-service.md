@@ -57,7 +57,7 @@ Network health
 -   VPN connectivity
 
 </td></tr></tbody>
-</table>For category configuration information, see [Configure DEX Self-service categories and subcategories](../task/configuring-dex-self-service-categories.md).
+</table>For category configuration information, see [Configure DEX Self-service categories and subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../task/configuring-dex-self-service-categories.md).
 
 ## Issue configurations
 
@@ -77,7 +77,7 @@ DEX Self-service provides the following base system issue configurations mapped 
 -   Zoom application crash on macOS device
 -   Zoom application crash on Windows device
 
-For more information, see [Issue configurations in DEX Self-service](issue-config-in-dex-ss.md).
+For more information, see [Issue configurations in DEX Self-service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/issue-config-in-dex-ss.md).
 
 ## Device actions
 

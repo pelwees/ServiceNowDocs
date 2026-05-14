@@ -32,19 +32,19 @@ Roles required: scim\_client\_config\_admin
     |Field|Description|
     |-----|-----------|
     |Name|Name of the SCIM Provider|
-    |Outbound REST Message|Message that is used to call the API of the SCIM Provider. For more information, see [Create a REST message](create-a-rest-message.md).|
+    |Outbound REST Message|Message that is used to call the API of the SCIM Provider. For more information, see [Create a REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/create-a-rest-message.md).|
     |HTTP Method for Update|Type of HTTPS method that is used for updating the resource mapping. The PATCH or PUT method can be used by the Client while updating the identity resource during the provision of an already existing resource.|
 
     **Note:**
 
     -   The **Resource Definition** and **Schema Field Definition** fields are fetched from the **/ResourceTypes** and **/Schemas** public endpoints of the SCIM Provider. These fields are auto-populated after the rest message is selected.
     -   If the REST message, Schemas, or the Resource Types are updated on the SCIM Provider, then click **Refresh** and then **Update** to update the **Resource Definition** and **Schema Field Definition** fields.
-    ![SCIM Provider page](../images/scim-provider-page.png)
+    ![SCIM Provider page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/scim-provider-page.png)
 
 4.  Click **Submit**.
 
 
 ## Result
 
-The SCIM Provider details are created successfully. Use the SCIM Provider Resource Mapping to map the SCIM Provider details to the resources such as users or groups. For more information, see [Create a SCIM Provider Resource Mapping](scim-provider-resource-mapping.md).
+The SCIM Provider details are created successfully. Use the SCIM Provider Resource Mapping to map the SCIM Provider details to the resources such as users or groups. For more information, see [Create a SCIM Provider Resource Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/scim-provider-resource-mapping.md).
 

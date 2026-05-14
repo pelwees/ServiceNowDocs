@@ -15,29 +15,29 @@ breadcrumb: [Workplace Reservation Management references, Workplace Reservation 
 
 Find the field descriptions of forms used in the Workplace Reservation Management application.
 
--   **[Space form](../reference/space-new-record-form.md)**  
+-   **[Space form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/space-new-record-form.md)**  
 Use the Space form to add a space for a reservation.
--   **[Add a room form](../reference/add-room-form.md)**  
+-   **[Add a room form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/add-room-form.md)**  
 Use the room form to add a room for workplace reservation.
--   **[User criteria form](../reference/user-criteria-form.md)**  
+-   **[User criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/user-criteria-form.md)**  
 Use the User Criteria form field information when creating a new user criteria record.
 
-**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/rsv-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Reservation Management](../reference/components-installed-with-wsd-reservation-mgmt.md)
+[Components installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/components-installed-with-wsd-reservation-mgmt.md)
 
-[Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md)
+[Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/properties-installed-with-wsd-reservation-mgmt.md)
 
-[Proximity calculation when browsing near a person](../reference/proximity-calculation-for-browse-near-person.md)
+[Proximity calculation when browsing near a person](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-logic-for-myfavorites-space-details.md)
 
-[Mobile push notifications for workplace reservations](../reference/reservation-push-notifications.md)
+[Mobile push notifications for workplace reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/reservation-push-notifications.md)
 
-[Location privacy settings and impact](../reference/location-privacy-settings-and-impact.md)
+[Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/location-privacy-settings-and-impact.md)
 
-[Additional details record producer - Mapping Variable types and limitations](../reference/custom-fields-record-producer-mapping-variable-type-conditions.md)
+[Additional details record producer - Mapping Variable types and limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/custom-fields-record-producer-mapping-variable-type-conditions.md)
 

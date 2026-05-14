@@ -41,9 +41,9 @@ AI asset inventory includes all the AI assets such as AI models, AI systems, pro
 
 AI assets are presented in a list format and organized by display name, provider, vendor, managed by, lifecycle phase, state, status, and risk classification.
 
-For information on AI asset record details, see [View AI asset details](../task/view-ai-asset-details.md)
+For information on AI asset record details, see [View AI asset details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/view-ai-asset-details.md)
 
-For information on creating AI assets, see [Creating AI assets](creating-ai-assets.md)
+For information on creating AI assets, see [Creating AI assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
-For information on process flow of the MCP servers, see [Process flow of MCP servers Via AI Gateway](process-flow-of-mcp-servers-via-ai-gateway.md)
+For information on process flow of the MCP servers, see [Process flow of MCP servers Via AI Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/process-flow-of-mcp-servers-via-ai-gateway.md)
 

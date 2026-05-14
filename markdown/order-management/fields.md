@@ -87,5 +87,5 @@ For larger changes or environment migrations, use Matrix Loader to bulk-create a
 **Related topics**  
 
 
-[Configure fields](fields_101.md)
+[Configure fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 

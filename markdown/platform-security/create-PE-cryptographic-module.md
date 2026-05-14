@@ -19,7 +19,7 @@ Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_k
 
 ## About this task
 
-This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 ## Procedure
 
@@ -45,7 +45,7 @@ This procedure describes options that are available with Field Encryption with t
 
 5.  To open the configuration options, select the newly created cryptographic module.
 
-    **Note:** A maximum of five Field Encryption fields are allowed before upgrading to Field Encryption Enterprise. An error message displays and you're prevented from adding additional cryptographic modules. ![Error message for maximum modules created in FEE.](../../encryption/image/cle_limits-modules.png)
+    **Note:** A maximum of five Field Encryption fields are allowed before upgrading to Field Encryption Enterprise. An error message displays and you're prevented from adding additional cryptographic modules. ![Error message for maximum modules created in FEE.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/image/cle_limits-modules.png)
 
 
 ## Result
@@ -67,7 +67,7 @@ To open the configuration options, click the newly created cryptographic module.
 
 **Note:** A maximum of five Field Encryption fields are allowed before upgrading to Field Encryption Enterprise. A message displays at the top stating the allowance and the number of encrypted fields that you currently have is listed. Once that maximum allowance is met, the **Create new** button is grayed out and you're prevented from adding additional cryptographic modules.
 
-[Create a cryptographic specification for Field Encryption](create-crypto-spec-pe.md).
+[Create a cryptographic specification for Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/create-crypto-spec-pe.md).
 
-**Parent Topic:**[Using Field Encryption](../../encryption/concept/using-column-level-encryption.md)
+**Parent Topic:**[Using Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/using-column-level-encryption.md)
 

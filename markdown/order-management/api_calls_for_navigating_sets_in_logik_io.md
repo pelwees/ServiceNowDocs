@@ -27,7 +27,7 @@ The following set and fields were created for this example:
     -   Contains Fields exampleSetField1 and exampleSetField2
     -   Variable name: exampleSet \(therefore, size field is set.exampleSet.size\)
 
-![Example set](../images/cpq-apis-example-set-field-1.png)
+![Example set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-example-set-field-1.png)
 
 ## Row identifier and row index
 
@@ -44,7 +44,7 @@ There are two ways to change the number of rows in a set: by sending a single nu
 
 The first way to change the number of rows in a set is to send a single number \(the number of rows\) as the value of the size variable in the API call. This method offers less control, but is useful if you know the total number of rows in the set you want to build. In the following example, the number 6 is set as the value of the size and it creates row identifiers 1-6. To edit the fields in these rows, you would use the row index numbers of 0-5.
 
-![API](../images/cpq-apis-change-set-size-1.png)
+![API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-change-set-size-1.png)
 
 The second way to edit the size of the array is to send values in the placeholder for each row of the array. This is useful for adjusting the rows of the array with precision. Depending on what values are added to the API call and their order, a combination of the following three changes will occur:
 
@@ -56,7 +56,7 @@ Previously, the size of ExampleSet was set to 6, which resulted in the row ident
 
 Now, the following API call is sent to the same environment:
 
-![Script](../images/cpq-apis-send-row-identifier.png)
+![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-send-row-identifier.png)
 
 When this call is sent, the following occurs:
 
@@ -67,7 +67,7 @@ When this call is sent, the following occurs:
 
 When all changes from the API call are complete, the row identifiers are reset.
 
-![Script](../images/cpq-apis-row-identifiers-reset.png)
+![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-row-identifiers-reset.png)
 
 The following table shows this in greater detail, including the index values, which will be discussed in the next section.
 

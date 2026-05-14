@@ -19,7 +19,7 @@ A reference topic that includes general guidelines to exclude a table from cloni
 
 -   **Excluding child tables of the task table**
 
-    When excluding child tables of the task table, which use the [table per hierarchy extension model](../../platform-performance/concept/c_TaskTableFlattening.md), child tables are excluded. You don’t need to exclude the parent Task table together with the child table.
+    When excluding child tables of the task table, which use the [table per hierarchy extension model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../platform-performance/concept/c_TaskTableFlattening.md), child tables are excluded. You don’t need to exclude the parent Task table together with the child table.
 
 -   **Using wildcards**
 
@@ -43,5 +43,5 @@ A reference topic that includes general guidelines to exclude a table from cloni
     sys\_db\_object and sys\_db\_object.\* can’t be added to the exclusions.
 
 
-**Parent Topic:**[Instance Clone reference](instance-clone-reference.md)
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 

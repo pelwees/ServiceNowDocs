@@ -17,7 +17,7 @@ Invite cross-team members to Collaborative Work Management Spaces to collaborate
 
 ## Before you begin
 
-[Create a Space in CWM](create-spaces-in-cwm.md).
+[Create a Space in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-spaces-in-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -31,7 +31,7 @@ Sharing a Space with a user results in them gaining access to all Boards, Docs, 
 
 2.  From the left side panel, select a Space.
 
-    ![Spaces menu in CWM.](../images/cwm-spaces-navigation.png)
+    ![Spaces menu in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-spaces-navigation.png)
 
 3.  From the header of the Space, select **Share**.
 
@@ -43,7 +43,7 @@ Sharing a Space with a user results in them gaining access to all Boards, Docs, 
 
         You can search for users and groups by email along with their name so that you choose the right collaborator.
 
-        ![Share permissions modal in CWM.](../images/cwm-space-share-add-users.png)
+        ![Share permissions modal in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-space-share-add-users.png)
 
     2.  From the **Access level** field, set the access required for these users.
 
@@ -88,13 +88,13 @@ They can view the data in the Space but can’t update or delete it.
 
     As the Owner or Editor of a Space, you can remove access for existing users of the Space or yourself at anytime. As a viewer, you can only remove access for yourself.
 
-    ![Remove a user from a Space.](../images/cwm-remove-from-space.png)
+    ![Remove a user from a Space.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-remove-from-space.png)
 
 6.  From the **Pending Access** tab, you can review the list of users who have requested access to your Space and choose to grant or deny them the access.
 
     Before granting access to a user, you can modify their access level to Editor or View as necessary.
 
-    ![Pending Access and People with Access tabs.](../images/cwm-space-share-pending-access.png)
+    ![Pending Access and People with Access tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-space-share-pending-access.png)
 
 
 ## Result
@@ -103,7 +103,7 @@ An email invite is sent to the users that you shared this Space with.
 
 ## What to do next
 
-Start working on tasks for your team using Boards. See [Managing work using Boards in CWM](../concept/cwm-boards.md).
+Start working on tasks for your team using Boards. See [Managing work using Boards in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-boards.md).
 
-**Parent Topic:**[Collaborating with Spaces in CWM](../concept/cwm-spaces.md)
+**Parent Topic:**[Collaborating with Spaces in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-spaces.md)
 

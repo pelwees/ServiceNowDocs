@@ -25,7 +25,7 @@ Setting the planned disposition of a business application results in better data
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
 3.  Select **Bubble chart**.
 
@@ -46,9 +46,9 @@ Action
 </td><td>
 
 1.  Select a single bubble.
-2.  In the pop-up window, select the context menu icon \(![Context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) and select **Set planned disposition**.
+2.  In the pop-up window, select the context menu icon \(![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\) and select **Set planned disposition**.
 
-![Set planned disposition button highlighted.](../../image/eaw-image/bubble-chart-menu-set-planned-disposition.png)
+![Set planned disposition button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/bubble-chart-menu-set-planned-disposition.png)
 
 </td></tr><tr><td id="d45475e139">
 
@@ -57,9 +57,9 @@ Action
 </td><td>
 
 1.  Select a grouped bubble. The info pane appears, displaying the list of individual business applications that are part of the grouped bubble.
-2.  Select the context menu icon next to \(![Context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) and select **Set planned disposition**.
+2.  Select the context menu icon next to \(![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\) and select **Set planned disposition**.
 
-![Set planned disposition button highlighted for a grouped bubble.](../../image/eaw-image/bubble-chart-grouped-planned-disposition.png)
+![Set planned disposition button highlighted for a grouped bubble.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/bubble-chart-grouped-planned-disposition.png)
 
 </td></tr></tbody>
 </table>5.  In the Set planned disposition window, do the following:
@@ -120,14 +120,14 @@ Retire
 </table>6.  Select **Update**.
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 
 
-[Analyze applications using the bubble chart](eaw-analyze-applications-by-capability.md)
+[Analyze applications using the bubble chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-analyze-applications-by-capability.md)
 
-[Create a demand using the bubble chart](eaw-create-a-demand-using-the-bubble-chart.md)
+[Create a demand using the bubble chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-a-demand-using-the-bubble-chart.md)
 
-[Add business application lifecycle data using the bubble chart](eaw-add-business-application-lifecycle-data.md)
+[Add business application lifecycle data using the bubble chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-business-application-lifecycle-data.md)
 

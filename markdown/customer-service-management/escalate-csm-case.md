@@ -138,6 +138,6 @@ Additional information that explains why this escalation is needed.
 
     **Note:** Multiple escalations cannot be created for the same case.
 
-    For more details see, [Case and account escalation](../concept/use-case-account-escalation.md).
+    For more details see, [Case and account escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/use-case-account-escalation.md).
 
 

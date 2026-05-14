@@ -15,7 +15,7 @@ breadcrumb: [Configure punchout third-party site purchases, Configure, Sourcing 
 
 The sn\_spend\_intg.ThirdPartySystemApiExtension scripted extension point provides the configuration that punchout suppliers can use to ensure that all details about their product, such as product's name, brand, manufacturer, price, availability, SKU, and so on, is displayed in Shopping Hub.
 
-**Parent Topic:**[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+**Parent Topic:**[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/configure-supplier-punchout.md)
 
 ## View the third-party system API extension point format
 
@@ -180,7 +180,7 @@ An extension instance is a registered instance of a scripted extension point tha
 
 4.  In the **Class** field, select the script include that you created.
 
-    For more information, see [Create script include for punchout supplier products](configure-ext-point-punchout.md#).
+    For more information, see [Create script include for punchout supplier products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-ext-point-punchout.md#).
 
 5.  In the **Order** field, enter a number.
 

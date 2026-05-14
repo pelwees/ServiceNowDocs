@@ -25,7 +25,7 @@ There are three primary categories of tables managed by Operational Technology \
 
 The numbers in this figure correspond to the CSDM tables managed by Incident Management.
 
-![CSDM tables managed by Operational Technology Service Management.](../image/tables-used-by-ot.png)
+![CSDM tables managed by Operational Technology Service Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/tables-used-by-ot.png)
 
 ## CSDM tables used by Operational Technology
 
@@ -36,7 +36,7 @@ The numbers in this figure correspond to the CSDM tables managed by Incident Man
 
         As shown here, a single OT device is represented by at least two records: one CI and one OT entity record. The device can contain six or more records in up to six tables \(for example, if the CI has more than one IP and MAC address\).
 
-        ![OT table schema.](../image/ot-table-schema.png)
+        ![OT table schema.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/ot-table-schema.png)
 
 2.  Equipment model entities:
     1.  The equipment model entity class extends the Calculated Application Service and is used to:
@@ -46,7 +46,7 @@ The numbers in this figure correspond to the CSDM tables managed by Incident Man
         1.  Levels \(isa\_entity\_level\) describe the hierarchical level of the equipment model entity. For the default ISA-95 template, the levels shown here \(area, work center, and work units\) are included in the base system.
         2.  Level types \(isa\_entity\_type\) describe the type of process represented by the equipment model entities at a given level. For the default ISA-95 template, the types shown here \(process cell, production unit, production line, and storage zone\) are included in the base system.
 
-            ![OT equipment model entity types.](../image/ot-equip-model-entity-types.png)
+            ![OT equipment model entity types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/ot-equip-model-entity-types.png)
 
 3.  OT system service:
     1.  The OT system service class extends the Calculated Application Service and is used to create the OT system service
@@ -65,9 +65,9 @@ CSDM includes relationship types \(specific to Operational Technology\) that mor
 
 The following dependency maps show the relationships between OT devices and equipment model entities:
 
-![Contains Element::Element of — Describes the hierarchical relationship between equipment model entities.](../image/ot-element-elementof-relation.png)
+![Contains Element::Element of — Describes the hierarchical relationship between equipment model entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/ot-element-elementof-relation.png)
 
-![Producer for::Consumer of — Describes the production process material flow between equipment model entities.](../image/ot-producer-consumer-relation.png)
+![Producer for::Consumer of — Describes the production process material flow between equipment model entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/ot-producer-consumer-relation.png)
 
 ## Products that add value to Operational Technology
 
@@ -127,5 +127,5 @@ When you use OT with any of the following ServiceNow products, you increase the 
     Manages the impact of the software and hardware life cycle process on the production processes.
 
 
-**Parent Topic:**[Implementing the CSDM framework for Operational Technology](../concept/ot-use-case-product-view.md)
+**Parent Topic:**[Implementing the CSDM framework for Operational Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/ot-use-case-product-view.md)
 

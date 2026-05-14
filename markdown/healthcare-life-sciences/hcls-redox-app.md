@@ -25,19 +25,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Redox Inbound Integration.](hcls-redox-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Redox Inbound Integration.](hcls-redox-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](hcls-redox-app-config.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](hcls-redox-app-config.md)
 
 </td></tr><tr><td>
 
-[Exchange data![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Exchange real-time data between different healthcare systems.](hcls-redox-use.md)
+[Exchange data![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Exchange real-time data between different healthcare systems.](hcls-redox-use.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about supported data models and event types.](../reference/hcls-redox-app-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about supported data models and event types.](../reference/hcls-redox-app-reference.md)
 
 </td></tr></tbody>
 </table>

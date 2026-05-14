@@ -21,7 +21,7 @@ Role required: the role necessary to update the record that contains the HTML fi
 
 1.  Move the cursor to the position where the link is to appear.
 
-2.  Select the insert/edit link icon \(![Insert or edit link icon](../image/TinyMCEV4Link.png)\) in the HTML toolbar.
+2.  Select the insert/edit link icon \(![Insert or edit link icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV4Link.png)\) in the HTML toolbar.
 
 3.  Enter information in each field.
 

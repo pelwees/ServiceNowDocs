@@ -33,5 +33,5 @@ Role required: admin
     -   Occupancy Dashboard
     -   Reservation Management
 
-**Parent Topic:**[Insight cards on the Workplace Central dashboard](../concept/insight-cards-on-the-workplace-central-dashboard.md)
+**Parent Topic:**[Insight cards on the Workplace Central dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../concept/insight-cards-on-the-workplace-central-dashboard.md)
 

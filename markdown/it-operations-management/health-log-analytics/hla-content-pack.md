@@ -23,12 +23,12 @@ The following roles and tasks are associated with this solution:
 -   ServiceNow AI Platform administrator \(admin\): Install and activate this solution and make any necessary changes to system properties.
 -   Performance Analytics administrator \(pa\_admin\): Review the indicators, breakdowns, widgets, and dashboards. Set up and start data collection. Share the dashboards with appropriate stakeholders.
 
--   **[Activate the Platform Analytics Solution for Health Log Analytics](hla-install.md)**  
+-   **[Activate the Platform Analytics Solution for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-install.md)**  
 Activate the content pack ServiceNow Store application for the Platform Analytics Solution.
--   **[Configure the Platform Analytics Solution for Health Log Analytics](hla-config.md)**  
+-   **[Configure the Platform Analytics Solution for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-config.md)**  
 Run diagnostics, review and customize components, and start collecting data.
--   **[Health Log Analytics Overview dashboard](hla-overview-dashboard.md)**  
+-   **[Health Log Analytics Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-overview-dashboard.md)**  
 The Health Log Analytics Overview dashboard has been replaced with the HLA Operational dashboard.
 
-**Parent Topic:**[Analytics and Reporting in Health Log Analytics](../../../product/health-log-analytics-operator/concept/hla-analytics-reporting.md)
+**Parent Topic:**[Analytics and Reporting in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../../product/health-log-analytics-operator/concept/hla-analytics-reporting.md)
 

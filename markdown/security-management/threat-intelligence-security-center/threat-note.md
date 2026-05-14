@@ -19,8 +19,8 @@ For example, an analyst may add a Note to a Campaign object created by another o
 
 Notes are usually created by human analysts and are composed of human-oriented text, they contain an extra property to capture the author that created the Note.
 
--   **[Define Threat Note](../task/define-threat-note.md)**  
+-   **[Define Threat Note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-threat-note.md)**  
 Define threat notes that convey information to provide further context or analysis that is not available in existing objects.
 
-**Parent Topic:**[Threat Entities](tisc-threat-entities.md)
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 

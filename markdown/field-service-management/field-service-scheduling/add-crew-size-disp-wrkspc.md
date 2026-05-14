@@ -29,7 +29,7 @@ The default minimum crew size is two for work order tasks created using the work
 
 1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
-2.  Click the **List** icon \(![List icon.](../../../administer/workspace/image/list-icon-black.png)\).
+2.  Click the **List** icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../../administer/workspace/image/list-icon-black.png)\).
 
 3.  In the Lists panel, navigate to **Work Order Tasks** &gt; **My Work Order Tasks**.
 

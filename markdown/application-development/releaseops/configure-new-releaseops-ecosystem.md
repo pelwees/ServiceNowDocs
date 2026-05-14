@@ -18,7 +18,7 @@ Complete ReleaseOps manual setup to configure a new ReleaseOps ecosystem using t
 
 ## About this task
 
-Starting with version 1.2.1 of ReleaseOps, you can use guided setup for a quicker initial configuration experience. For more information, see [Complete ReleaseOps guided setup](complete-guided-setup.md).
+Starting with version 1.2.1 of ReleaseOps, you can use guided setup for a quicker initial configuration experience. For more information, see [Complete ReleaseOps guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/complete-guided-setup.md).
 
 The manual setup procedure outlined in this task can also be used to complete ReleaseOps initial configuration. Manual setup can be useful in more complex setup scenarios and when making changes to your existing ReleaseOps ecosystem.
 
@@ -26,9 +26,9 @@ The manual setup procedure outlined in this task can also be used to complete Re
 
 Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
-Confirm that all instances \(production, development, and test\) have ReleaseOps installed. Your test instance must also have ATF Test Generator and Cloud Runner installed. For more information, see [Install ReleaseOps](install-releaseops.md).
+Confirm that all instances \(production, development, and test\) have ReleaseOps installed. Your test instance must also have ATF Test Generator and Cloud Runner installed. For more information, see [Install ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/install-releaseops.md).
 
-Confirm that multi-instance management has been configured to enable all non-production instances \(development and test\) to be managed by the production instance. For more information, see [Configure multi-instance management for instances using ReleaseOps](configure-mif.md).
+Confirm that multi-instance management has been configured to enable all non-production instances \(development and test\) to be managed by the production instance. For more information, see [Configure multi-instance management for instances using ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/configure-mif.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ Confirm that multi-instance management has been configured to enable all non-pro
 
     For sample ReleaseOps pipelines, you must only configure a new pipeline instance for your test instance. You don’t need to configure pipeline instances for your development and production instances, because these environments are defined within deployment requests and releases.
 
-    For custom ReleaseOps pipelines, you can configure additional pipeline instances for the non-production instances that participate in your ReleaseOps ecosystem, excluding your development instance. For more information about custom pipelines, see [Create a custom pipeline](create-release-ops-pipeline.md#).
+    For custom ReleaseOps pipelines, you can configure additional pipeline instances for the non-production instances that participate in your ReleaseOps ecosystem, excluding your development instance. For more information about custom pipelines, see [Create a custom pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/create-release-ops-pipeline.md#).
 
     1.  Navigate to **All** &gt; **ReleaseOps** &gt; **Pipelines**.
 
@@ -63,7 +63,7 @@ Confirm that multi-instance management has been configured to enable all non-pro
 
     3.  On the pipeline record, select the **Pipeline instances** tab in the Related Links section.
 
-        ![You can configure your pipeline instances by selecting the Pipeline instances tab on the pipeline record.](../image/releaseops-pipeline-instances-list.png)
+        ![You can configure your pipeline instances by selecting the Pipeline instances tab on the pipeline record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-pipeline-instances-list.png)
 
     4.  On the **Pipeline instances** tab, select **New**.
 
@@ -77,7 +77,7 @@ Confirm that multi-instance management has been configured to enable all non-pro
 
 3.  On your production instance, navigate to **All** &gt; **System Update Sets** &gt; **Update Sources** and verify that there are valid update sources defined for both your development and test instances.
 
-    ![Verify that there are valid update sources defined for both your development and test instances.](../image/releaseops-update-sources.png)
+    ![Verify that there are valid update sources defined for both your development and test instances.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-update-sources.png)
 
     **Note:** If there aren't valid update sources defined for both your development and test instances, you can define them by navigating to **All** &gt; **System Update Sets** &gt; **Update Sources** on your development and test instances and creating a new update source record.
 
@@ -89,7 +89,7 @@ Confirm that multi-instance management has been configured to enable all non-pro
 
     2.  Using the search bar, enter `**sn\_releaseops.deployment\_controller**`.
 
-        ![Use the search bar to search for the sn_releaseops.deployment_controller system property.](../image/releaseops-system-properties-deployment-controller.png)
+        ![Use the search bar to search for the sn_releaseops.deployment_controller system property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-system-properties-deployment-controller.png)
 
     3.  Select the record for **sn\_releaseops.deployment\_controller**.
 

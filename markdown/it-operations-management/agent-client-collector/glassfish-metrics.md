@@ -101,5 +101,5 @@ The following table lists the metrics that are gathered as output from GlassFish
 |glassfis.resources.\{PoolName\}.NumPotentialConnLeak \(featured metric\)|PoolName|count|Number of potential connection leaks.|
 |glassfis.resources.\{PoolName\}.WaitQueueLength \(featured metric\)|PoolName|count|Number of connection requests in the queue waiting to be serviced.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

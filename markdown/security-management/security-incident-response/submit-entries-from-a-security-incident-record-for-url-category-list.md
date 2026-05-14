@@ -21,7 +21,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-You submit observable entries by using the allow or block request action from the Associated Observables related list. Observables are artifacts found on a network or operating system that are likely to indicate an intrusion. Use the list of [URL Categories configured previously](create-zscaler-internet-access-url-category-manually.md#context_gqd_3ql_vpb) to select the observable that you want to submit. After you submit the request, an approval request is sent to your approval group.
+You submit observable entries by using the allow or block request action from the Associated Observables related list. Observables are artifacts found on a network or operating system that are likely to indicate an intrusion. Use the list of [URL Categories configured previously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-zscaler-internet-access-url-category-manually.md#context_gqd_3ql_vpb) to select the observable that you want to submit. After you submit the request, an approval request is sent to your approval group.
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You submit observable entries by using the allow or block request action from th
 
     In this example, you see how to select a security incident and an observable, and how to add an allow list.
 
-    ![Selecting a security incident and an observable, and adding to an allow list.](../image/zscaler-submit-observable.gif "Adding an allow list")
+    ![Selecting a security incident and an observable, and adding to an allow list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-submit-observable.gif "Adding an allow list")
 
 2.  Select the security incident that you want to associate with the Zscaler allow or block request.
 

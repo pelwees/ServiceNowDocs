@@ -66,5 +66,5 @@ Role required: pa\_admin
 11. Edit and activate the scheduled data collection job for this Platform Analytics Solution, **\[PA HLA\] Historic Data Collection**.
 
 
-**Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](hla-content-pack.md)
+**Parent Topic:**[Platform Analytics Solutions for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-content-pack.md)
 

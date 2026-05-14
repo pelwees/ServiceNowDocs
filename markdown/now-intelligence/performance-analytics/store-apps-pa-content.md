@@ -17,7 +17,7 @@ The following applications on the ServiceNow® Store include Performance Analyti
 
 Unlike Platform Analytics solutions, these applications include stand-alone functionality. The Performance Analytics components included in the application support this functionality.
 
-A Performance Analytics administrator may need to reschedule the [data collection jobs](../../performance-analytics/concept/performance-analytics-glossary.md#) provided with these applications. Most of the applications do not have historical data collection jobs, and their scheduled jobs are active by default.
+A Performance Analytics administrator may need to reschedule the [data collection jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/concept/performance-analytics-glossary.md#) provided with these applications. Most of the applications do not have historical data collection jobs, and their scheduled jobs are active by default.
 
 **Note:** Be aware that these applications may have licensing requirements. Check the entry for the app on the ServiceNow Store.
 
@@ -59,5 +59,5 @@ A Performance Analytics administrator may need to reschedule the [data collectio
 
 [NLU Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-landing.md)
 
-**Parent Topic:**[Platform Analytics solutions](../concept/content-packs-in-form-analytics-published.md)
+**Parent Topic:**[Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/content-packs-in-form-analytics-published.md)
 

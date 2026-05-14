@@ -19,7 +19,7 @@ Add a single or multiple reviewers and approvers for the document approval and r
 
 Role required: none
 
-For more information, see [Document approval and publish process](../concept/document-review-approval.md)
+For more information, see [Document approval and publish process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-review-approval.md)
 
 ## Procedure
 
@@ -27,7 +27,7 @@ For more information, see [Document approval and publish process](../concept/doc
 
 2.  Select the documents icon from the left side panel to display the list of all document files and folders.
 
-3.  Go to the document card, select the vertical ellipse ![Translation-indicator icon](../../../administer/dynamic-translation/image/Ellipses.png).
+3.  Go to the document card, select the vertical ellipse ![Translation-indicator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/dynamic-translation/image/Ellipses.png).
 
 4.  Select **Send for approval** to add reviewer and approver names.
 
@@ -54,5 +54,5 @@ For more information, see [Document approval and publish process](../concept/doc
 15. Select **View more details** to view all details for the document.
 
 
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-management-workspace.md)
 

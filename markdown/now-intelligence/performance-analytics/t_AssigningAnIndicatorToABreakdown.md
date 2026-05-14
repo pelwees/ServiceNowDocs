@@ -48,11 +48,11 @@ For this purpose, create a special one-off collection job. Set the job to collec
 
 If your role does not allow you to create collection jobs, contact your Performance Analytics admin.
 
-For more information, see [Create or schedule a data collection job](t_CreatASchedDataCollJob.md) and [Configure a job indicator](configure-job-indicator.md).
+For more information, see [Create or schedule a data collection job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreatASchedDataCollJob.md) and [Configure a job indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/configure-job-indicator.md).
 
-**Parent Topic:**[Automated breakdowns](../concept/automated-breakdowns.md)
+**Parent Topic:**[Automated breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/automated-breakdowns.md)
 
-**Previous topic:**[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
+**Previous topic:**[Create a breakdown mapping on a breakdown record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtBkdnBreakdownMpngs.md)
 
-**Next topic:**[Manual breakdowns](../concept/manual-breakdowns.md#)
+**Next topic:**[Manual breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/manual-breakdowns.md#)
 

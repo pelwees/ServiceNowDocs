@@ -23,8 +23,8 @@ Support: Basic.
 
 Follow these steps to achieve domain separation:
 
--   Create a user with the [required role](../reference/getting-started-microsoft-integration.md) in the respective domain.
+-   Create a user with the [required role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../reference/getting-started-microsoft-integration.md) in the respective domain.
 -   Perform the Microsoft DLP integration procedures in the appropriate domain.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)
 

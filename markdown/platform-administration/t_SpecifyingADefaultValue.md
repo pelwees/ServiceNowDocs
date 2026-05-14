@@ -32,7 +32,7 @@ The default value populates the field on the blank form for a new record, and al
     **Note:** The default value should be the underlying value that would be present in the field, not the label. For example, in a choice list field, use the **value** of the choice as the default value, not the choice's name.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/customize-fields-now-platform-landing.md)
 
 ## Default field value examples
 
@@ -42,7 +42,7 @@ Review the following examples about specifying default field values.
 
 Here is an example that sets a default value for the **Priority** field.
 
-![The dictionary entry for the Priority field has a default value of 4.](../image/DefaultValueConstant.png "Default value constant")
+![The dictionary entry for the Priority field has a default value of 4.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/DefaultValueConstant.png "Default value constant")
 
 ### Javascript default values
 

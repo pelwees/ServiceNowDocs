@@ -27,7 +27,7 @@ The policies are defined using ServiceNow® Policy as Code Engine \(PaCE\), so m
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the policy administration icon \(![Policy administration icon.](../image/dpr-icon-policy-admin.png)\).
+2.  Select the policy administration icon \(![Policy administration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-policy-admin.png)\).
 
 3.  Create a policy or update an existing one.
 
@@ -46,7 +46,7 @@ The policies are defined using ServiceNow® Policy as Code Engine \(PaCE\), so m
 
     2.  Process data from the DevOps application data model related to the product using the base system data collectors.
 
-        The data collectors collect inputs by processing data from ServiceNow or an external data source to provide an output. The output can be used in the policy logic to take a decision. For more information, see [Digital Product Release data collectors](../reference/dpr-data-collector.md).
+        The data collectors collect inputs by processing data from ServiceNow or an external data source to provide an output. The output can be used in the policy logic to take a decision. For more information, see [Digital Product Release data collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/dpr-data-collector.md).
 
 6.  Test your policy in the **Test Playground** tab.
 
@@ -56,7 +56,7 @@ The policies are defined using ServiceNow® Policy as Code Engine \(PaCE\), so m
 
     You can also save the version as a template by selecting the **Save as template**.
 
-8.  To enable exceptions for the policy for temporarily overriding the policy failure status for specific use cases, select more actions icon \(![More actions icon.](../image/dpr-icon-more-actions.png)\) and then select **Enable exceptions**.
+8.  To enable exceptions for the policy for temporarily overriding the policy failure status for specific use cases, select more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-more-actions.png)\) and then select **Enable exceptions**.
 
     **Note:** This option is only available when GRC: Policy and Compliance Management is installed.
 

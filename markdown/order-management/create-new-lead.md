@@ -132,7 +132,7 @@ Channel or origin through which the lead was acquired. Options include: -   Inbo
 
 ## What to do next
 
-Start adding more information to your lead. To learn more, see [Add and view the details of a lead](lead-management-details-tab.md).
+Start adding more information to your lead. To learn more, see [Add and view the details of a lead](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-details-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md)
 

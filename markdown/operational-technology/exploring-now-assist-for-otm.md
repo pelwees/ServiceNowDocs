@@ -22,5 +22,5 @@ With generative AI skills and agentic workflows, you can use the following featu
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-**Parent Topic:**[Operational Technology \(OT\) Manager Foundation](now-assist-for-otm-landing.md)
+**Parent Topic:**[Operational Technology \(OT\) Manager Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-landing.md)
 

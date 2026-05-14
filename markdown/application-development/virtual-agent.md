@@ -21,5 +21,5 @@ Some considerations when building VA conversation topics:
 
 For more information, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md).
 
-**Parent Topic:**[Create design elements](create-design-elements.md)
+**Parent Topic:**[Create design elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-design-elements.md)
 

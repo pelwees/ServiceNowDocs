@@ -17,7 +17,7 @@ Configure a webhook to subscribe to your SuccessFactors account with a ServiceNo
 
 ## Before you begin
 
--   [Set up the SuccessFactors spoke v4.x.x](setup-successfactors.md#)
+-   [Set up the SuccessFactors spoke v4.x.x](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
 -   Role required: admin
 
 ## Procedure

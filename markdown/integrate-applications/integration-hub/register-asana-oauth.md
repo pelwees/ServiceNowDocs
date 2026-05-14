@@ -19,7 +19,7 @@ Register the Asana OAuth application to access the Asana API 1.0 and to receive 
 
 Asana Role required: admin
 
--   The Asana Integration Hub spoke must be active. For more information, see [Asana Spoke](../concept/asana-spoke.md).
+-   The Asana Integration Hub spoke must be active. For more information, see [Asana Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/asana-spoke.md).
 
 ## Procedure
 

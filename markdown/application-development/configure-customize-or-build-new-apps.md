@@ -127,5 +127,5 @@ Keep these situations in mind when you create customizations.
 3.  Customize an application to add functionality only when it extends the intent of the application.
 4.  Use App Engine developer products, such as Creator Studio and ServiceNow Studio, to create new applications rather than customizing an application to create functionality that doesn’t align with its original purpose.
 
-**Parent Topic:**[Overview of building apps in ServiceNow](overview-building-apps-in-servicenow.md)
+**Parent Topic:**[Overview of building apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/overview-building-apps-in-servicenow.md)
 

@@ -67,5 +67,5 @@ Procedure
 </table>3.  Right-click in the header and select **Save**.
 
 
-**Parent Topic:**[Enabling and selecting location tracking options](location-tracking-enable.md)
+**Parent Topic:**[Enabling and selecting location tracking options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 

@@ -62,5 +62,5 @@ Deprovision
 -   bigquery.models.delete
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Google Cloud Platform \(GCP\) Big Query](google-cloud-platform-big-query.md)
+</table>**Parent Topic:**[Google Cloud Platform \(GCP\) Big Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-big-query.md)
 

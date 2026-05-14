@@ -39,5 +39,5 @@ Role required: admin
 
 ## What to do next
 
-Create access control lists for the claim incident table so that specific roles can interact with the claim incident table. For more information, see [Create an access control list for a claim incident table](create-acls-for-a-claim-incident-table.md).
+Create access control lists for the claim incident table so that specific roles can interact with the claim incident table. For more information, see [Create an access control list for a claim incident table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-acls-for-a-claim-incident-table.md).
 

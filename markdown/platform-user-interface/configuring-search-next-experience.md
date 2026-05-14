@@ -19,7 +19,7 @@ Next Experience search is enabled by default in the Unified Navigation.
 
 A search source specifies a table to include in Next Experience search. The search results page displays matching records and their counts on a per-table basis. Users can select a table to filter their search results, displaying only matching records from the selected table.
 
-![Table filter list from search results page.](../../../get-started/servicenow-overview/image/pol-search-general-filter.png)
+![Table filter list from search results page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-search-general-filter.png)
 
 To make a table searchable in Next Experience, add it as a new search source. For details on this procedure, see [Add a search source for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md).
 
@@ -29,7 +29,7 @@ For the list of tables searchable by default in the base system, see [Default gl
 
 The text\_search list view for a searchable table determines which fields the system uses to populate the title, field list, and description for each result from that table.
 
-![Sample search result listing in Next Experience UI showing result's title, field list, and description.](../../../get-started/servicenow-overview/image/pol-search-result-fields.png)
+![Sample search result listing in Next Experience UI showing result's title, field list, and description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-search-result-fields.png)
 
 To learn how the system uses fields in the text\_search list view to populate search result entries, see [Text search views control format of global search results for tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/text-search-view-formats-results.md).
 
@@ -39,7 +39,7 @@ For the list of fields included in the base system's text\_search list views for
 
 The search context menu enables users to view and open search results in available workspace applications as well as in global search.
 
-![Search context menu displayed beneath Unified Navigation search field.](../../../get-started/servicenow-overview/image/pol-search-context.png)
+![Search context menu displayed beneath Unified Navigation search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-search-context.png)
 
 To add a workspace application to the search context menu, see [Add a workspace application to the Unified Navigation search context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md).
 
@@ -47,5 +47,5 @@ For details on using the search context menu, see [View and open search results 
 
 For more information on configuring search settings in Next Experience, see [Global search finds records from multiple tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_GlobalTextSearch.md).
 
-**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 

@@ -14,7 +14,7 @@ breadcrumb: [Reference, RPA Hub, Workflow Data Fabric]
 
 Learn about the terms and concepts that are unique to Robotic Process Automation \(RPA\) Hub.
 
-**Parent Topic:**[RPA Hub reference](rpa-hub-reference.md)
+**Parent Topic:**[RPA Hub reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-hub-reference.md)
 
 ## A
 
@@ -86,7 +86,7 @@ Glossary terms are grouped alphabetically.
 
 ### execution logs
 
-Logs that are captured when an automation is executed by either an attended or an unattended robot. These logs help in understanding the errors and the end-to-end logging of automation execution. For more information, see [Bot Process form in RPA Hub](../task/select-botprocess.md#).
+Logs that are captured when an automation is executed by either an attended or an unattended robot. These logs help in understanding the errors and the end-to-end logging of automation execution. For more information, see [Bot Process form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/select-botprocess.md#).
 
 ## G
 

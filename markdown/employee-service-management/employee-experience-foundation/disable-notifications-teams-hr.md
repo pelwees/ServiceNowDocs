@@ -38,5 +38,5 @@ You will find HR Case as a duplicate notification after installing the HR Servic
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](../concept/sn-ms-teams-config-hr.md)
+**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/sn-ms-teams-config-hr.md)
 

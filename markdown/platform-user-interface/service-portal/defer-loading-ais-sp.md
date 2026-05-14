@@ -19,5 +19,5 @@ A new system property, **glide.service\_portal.ais\_defer\_load\_enable.list**, 
 
 **Note:** If the web embeddable feature is enabled, loading of the AI Search assets can’t be deferred. Instead, they load along with the other widgets on the portal page.
 
-**Parent Topic:**[Configure widget loading order in Service Portal](configure-widget-loading-order.md)
+**Parent Topic:**[Configure widget loading order in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-loading-order.md)
 

@@ -33,7 +33,7 @@ The base system **Create New Incident** record producer is configured to use con
 
 3.  On the form, fill in the fields.
 
-    ![Record producer configuration form](../image/record-producer-config.png "Record producer configuration form")
+    ![Record producer configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/record-producer-config.png "Record producer configuration form")
 
     |Field|Description|
     |-----|-----------|
@@ -49,5 +49,5 @@ The base system **Create New Incident** record producer is configured to use con
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

@@ -13,13 +13,13 @@ breadcrumb: [Task Intelligence for Customer Service, Machine learning solutions,
 
 Use the Document Intelligence for Customer Service feature to extract relevant information from email and case attachments, such as credit card numbers or customer addresses, and add that information to cases.
 
-![Case details tab displaying Predicted or Predicted from Docintel labels under certain field values, such as Account or Vendor name, alerting agents that the information was extracted by Document Intelligence.](../image/doc-intel-case-fields-predicted.png "Document Intelligence for Customer Service extracted fields")
+![Case details tab displaying Predicted or Predicted from Docintel labels under certain field values, such as Account or Vendor name, alerting agents that the information was extracted by Document Intelligence.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/doc-intel-case-fields-predicted.png "Document Intelligence for Customer Service extracted fields")
 
 Agents can review values for extracted fields and make corrections as needed by accessing the Document Intelligence interface directly from the case. From this interface, agents can confirm correct values, fix incorrect values, and continue to train the model. This HITL/Human In the Loop interaction of verifying the recommended values enables agents to refine the model and continually improve performance.
 
 ## Predicted field values
 
-In CSM Configurable Workspace and Core UI, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
+In CSM Configurable Workspace and Core UI, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
 
 **Note:** The system displays the AI icon automatically. The agent doesn’t need to refresh the record page.
 
@@ -59,7 +59,7 @@ Access the DocIntel Admin experience through the Task Intelligence Admin Console
 
 For more information, see the following topics:
 
--   [Create a Document Intelligence use case](csm-task-intel-create-di-use-case.md)
+-   [Create a Document Intelligence use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-di-use-case.md)
 -   [Monitor Document Intelligence performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-monitor-performance.md)
 
 .
@@ -95,17 +95,17 @@ Set up a document classification use case in the following steps.
     Initiate a training job to provide user inputs from completed document tasks to the AI for continuous improvement.
 
 
--   **[How Document Intelligence for Customer Service works](csm-docintel-how-it-works.md)**  
+-   **[How Document Intelligence for Customer Service works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-docintel-how-it-works.md)**  
 Document Intelligence for Customer Service performs a series of steps to extract relevant information from email and case attachments and add that information to fields on the case record.
 
-**Parent Topic:**[Task Intelligence for Customer Service](csm-task-intelligence.md)
+**Parent Topic:**[Task Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 **Related topics**  
 
 
 [Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-landing.md)
 
-[Configure Document Intelligence for Customer Service](csm-doc-intel-configuring-.md)
+[Configure Document Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-configuring-.md)
 
-[Review and submit values predicted by Document Intelligence](../task/csm-doc-intel-review-values.md)
+[Review and submit values predicted by Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-doc-intel-review-values.md)
 

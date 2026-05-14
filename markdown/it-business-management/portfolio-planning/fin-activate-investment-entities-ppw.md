@@ -29,6 +29,6 @@ Role required: admin
 
 4.  Set the Active field to **true** for Demand and Project fields.
 
-    ![Enable investment entities for planning items.](../../spw-financials/images/fin-enable-investment-entities-ppw.png)
+    ![Enable investment entities for planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-enable-investment-entities-ppw.png)
 
 

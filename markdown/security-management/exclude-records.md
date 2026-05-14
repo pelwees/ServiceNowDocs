@@ -31,7 +31,7 @@ Role required: sn\_ti.case\_user\_write
 
 4.  Select one or more artifact records that you want to exclude.
 
-    ![Exclude security incidents from the list](../image/exclude.png)
+    ![Exclude security incidents from the list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/exclude.png)
 
 5.  From the **Actions on selected items** drop-down list, select **Exclude**.
 
@@ -40,10 +40,10 @@ Role required: sn\_ti.case\_user\_write
     The selected artifacts are removed from the list.
 
 
-**Parent Topic:**[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+**Parent Topic:**[Security artifact exclusion and inclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/artifact-inclusion-exclusion.md)
 
 **Related topics**  
 
 
-[Return excluded security artifacts to a case](include-artifacts.md)
+[Return excluded security artifacts to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/include-artifacts.md)
 

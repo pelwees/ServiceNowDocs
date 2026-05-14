@@ -41,7 +41,7 @@ Role required: none
 
     For more information about enrolling in the Password Reset program, see the following topics:
 
-    -   [Enroll for the Password Reset program using questions and answers](t_EnrollUsingASecurityQuestion.md)
-    -   [Enroll for the Password Reset program using an authenticator](authenticator-app-verification.md)
-    -   [Enroll for the Password Reset program using emailed codes](enroll-email-verification.md)
+    -   [Enroll for the Password Reset program using questions and answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingASecurityQuestion.md)
+    -   [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/authenticator-app-verification.md)
+    -   [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/enroll-email-verification.md)
 

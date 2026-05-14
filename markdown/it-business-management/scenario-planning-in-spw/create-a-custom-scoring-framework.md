@@ -38,7 +38,7 @@ Creating a custom scoring framework.
 
 ## What to do next
 
-[Create your scoring framework attributes](create-scoring-framework-attributes.md)
+[Create your scoring framework attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-scoring-framework-attributes.md)
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/custom-scoring-frameworks-in-strategic-planning.md)
 

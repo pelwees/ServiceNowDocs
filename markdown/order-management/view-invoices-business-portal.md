@@ -42,9 +42,9 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[Dispute a specific line item on an invoice against your account using the Business Portal](create-invoice-case-single.md)
+[Dispute a specific line item on an invoice against your account using the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-single.md)
 
-[Dispute multiple invoices against your account using the Business Portal](create-invoice-case-multiple.md)
+[Dispute multiple invoices against your account using the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-multiple.md)
 
-[View invoice case details in the Business Portal](view-invoice-cases-business-portal.md)
+[View invoice case details in the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-invoice-cases-business-portal.md)
 

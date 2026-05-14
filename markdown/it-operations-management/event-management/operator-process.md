@@ -23,11 +23,11 @@ Lesson 1
 
 </td><td align="justify">
 
-![Overview icon](../image/progress-complete2.png)
+![Overview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[An overview of events and alerts](operator-events-alerts.md)
+[An overview of events and alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-events-alerts.md)
 
 </td></tr><tr><td>
 
@@ -35,11 +35,11 @@ Lesson 2
 
 </td><td align="justify">
 
-![Overview of BS icon](../image/progress-complete2.png)
+![Overview of BS icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[An overview of application services](operator-application-services.md)
+[An overview of application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-application-services.md)
 
 </td></tr><tr><td>
 
@@ -47,11 +47,11 @@ Lesson 3
 
 </td><td align="justify">
 
-![Operators icon](../image/progress-complete2.png)
+![Operators icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[Event Management Service Operations Workspace](operator-user-interfaces.md)
+[Event Management Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-user-interfaces.md)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Lesson 4
 
 </td><td align="justify">
 
-![Operators do icon](../image/progress-wip.png)
+![Operators do icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -109,14 +109,14 @@ In this phase, you will verify that the alert is resolved, and then close the al
 </td></tr></tbody>
 </table>## Start here
 
-Start out by learning how to [Analyze and acknowledge an alert](../task/operator-phase-acknowledge-analyze.md).
+Start out by learning how to [Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/operator-phase-acknowledge-analyze.md).
 
--   **[Operator phase 1: Analyze and acknowledge an alert](../task/operator-phase-acknowledge-analyze.md)**  
+-   **[Operator phase 1: Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/operator-phase-acknowledge-analyze.md)**  
 As an Event Management operator, the first thing you should do is access alerts and then find the ones you want to focus on. You can open the Alert form to analyze the details, and then acknowledge it to let other operators know that the issue causing the alert should be addressed in some way.
--   **[Operator phase 2: Triage an alert](../task/operator-phase-triage-incident.md)**  
+-   **[Operator phase 2: Triage an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/operator-phase-triage-incident.md)**  
 After you analyze and acknowledge an alert, you must triage it. The triage phase involves verifying alert correlation and taking an action to help resolve the issue that caused the alert. This topic covers the most common triage task: creating an incident from an alert.
--   **[Operator phase 3: Close an alert](../task/operator-close-alert.md)**  
+-   **[Operator phase 3: Close an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/operator-close-alert.md)**  
 After you take action on an alert, you can verify several items on the alert and then close it.
 
-**Parent Topic:**[Event Management Operator Tutorial](operator-guide-em.md)
+**Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 

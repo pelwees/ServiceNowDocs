@@ -29,11 +29,11 @@ You work in the **Config changes** tab while investigating the causes of an aler
 
 1.  Use either of the following methods to view an alert:
 
-    -   On the home page \(![homepage icon](../image/cdm-icon-home.png)\) of the Service operations workspace, select an alert.
-    -   On the list page \(![list page icon](../image/cdm-icon-list.png)\) of the Service operations workspace, navigate to **Alerts** and then select an alert.
+    -   On the home page \(![homepage icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-home.png)\) of the Service operations workspace, select an alert.
+    -   On the list page \(![list page icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-list.png)\) of the Service operations workspace, navigate to **Alerts** and then select an alert.
     The top five most likely causes of the alert are listed in the Cause section on the **Overview** tab. If the chain of events that resulted in the alert includes a change request that involves the same CI as the alert, then that CHG record appears in the list.
 
-    ![CHG record listed on the Changes tab](../image/cdm-probable-root-causes-subtab.png)
+    ![CHG record listed on the Changes tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-probable-root-causes-subtab.png)
 
 2.  On the **Changes** tab, select a change request.
 
@@ -41,7 +41,7 @@ You work in the **Config changes** tab while investigating the causes of an aler
 
 3.  On the **Config changes** tab, work with the information in the Investigate configuration changes section.
 
-    ![View the timeline of released snapshots on the Config changes tab](../image/cdm-config-changes-tab-timeline.png)
+    ![View the timeline of released snapshots on the Config changes tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-config-changes-tab-timeline.png)
 
 <table id="table_vy2_dhb_vtb"><thead><tr><th>
 
@@ -103,15 +103,15 @@ The timeline displays snapshot deployments and the alert.
 
  In addition to the snapshot that immediately precedes the current \(target\) snapshot, you can compare the target snapshot to any earlier snapshot that appears on the timeline. To view additional snapshots, change the date range.
 
- Use the zoom icons \(![zoom icons](../image/cdm-icon-zoom.png)\) to shrink or grow the portion of the date range that appears on the timeline. Zoom does not change any of the other timeline settings. Use the left and right arrows to view items that have scrolled out of view.
+ Use the zoom icons \(![zoom icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-zoom.png)\) to shrink or grow the portion of the date range that appears on the timeline. Zoom does not change any of the other timeline settings. Use the left and right arrows to view items that have scrolled out of view.
 
  Select a snapshot to view its name, associated change record, and deployment date. Select the link to open the associated change request.
 
- ![Select a snapshot to view more information](../image/cdm-snapshot-click-on-timeline.png)
+ ![Select a snapshot to view more information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-click-on-timeline.png)
 
  Select an alert to view its alert ID and creation date.
 
- ![Select an alert to view more information](../image/cdm-alert-click-on-timeline.png)
+ ![Select an alert to view more information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-alert-click-on-timeline.png)
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ The target snapshot is the snapshot that is associated with the change request. 
 
     The letters in the following illustration identify the tools you can use to analyze the data.
 
-    ![Tools in the Configuration changes section](../image/cdm-configuration-changes-section-annotated.png)
+    ![Tools in the Configuration changes section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-configuration-changes-section-annotated.png)
 
     -   **A. Navigation panel**
 
@@ -146,9 +146,9 @@ The target snapshot is the snapshot that is associated with the change request. 
 
     -   **B: Data panel**
 
-        The data panel displays groups of CDIs for the selected node. By default, the root node is selected in the node tree, and the list includes all CDIs for both snapshots. Select a node in the navigation panel to display CDIs for only that node and its descendents. You can switch from this list view of the config data to a script view, as described in [G: Script view](cdm-d2a-investigate-cfg-changes.md#dlentry-script-view).
+        The data panel displays groups of CDIs for the selected node. By default, the root node is selected in the node tree, and the list includes all CDIs for both snapshots. Select a node in the navigation panel to display CDIs for only that node and its descendents. You can switch from this list view of the config data to a script view, as described in [G: Script view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-d2a-investigate-cfg-changes.md#dlentry-script-view).
 
-        Expand and close groupings with the expand icon \(![expand icon](../image/cdm-icon-expand.png)\). If a selection includes more than 50 CDIs, then CDIs are organized into groups of 50.
+        Expand and close groupings with the expand icon \(![expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-expand.png)\). If a selection includes more than 50 CDIs, then CDIs are organized into groups of 50.
 
     -   **C: Diff only**
 
@@ -156,7 +156,7 @@ The target snapshot is the snapshot that is associated with the change request. 
 
     -   **D: Filter the types of changes that should appear in the list**
 
-        The condition builder icon \(![condition builder icon](../image/icon-filters.png)\) appears when you point to the **Actions** column name in the list view. Select the icon to specify the types of config data changes that should appear in the list.
+        The condition builder icon \(![condition builder icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-filters.png)\) appears when you point to the **Actions** column name in the list view. Select the icon to specify the types of config data changes that should appear in the list.
 
         |Filter|Meaning|
         |------|-------|
@@ -168,17 +168,17 @@ The target snapshot is the snapshot that is associated with the change request. 
 
     -   **E: Filter the list based on CDI names and values**
 
-        The condition builder icon \(![condition builder icon](../image/icon-filters.png)\) appears when you point to the **Key label** column in the list view. Select the icon to filter the list of config data changes that should appear in the list.
+        The condition builder icon \(![condition builder icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-filters.png)\) appears when you point to the **Key label** column in the list view. Select the icon to filter the list of config data changes that should appear in the list.
 
-        The sort indicator icon \(![sort indicator icon](../image/cdm-icon-sort-list.png)\) indicates that CDIs are sorted alphabetically by the label of the key.
+        The sort indicator icon \(![sort indicator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-sort-list.png)\) indicates that CDIs are sorted alphabetically by the label of the key.
 
-        ![Filter lists of changes](../image/cdm-filter-list.png)
+        ![Filter lists of changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-filter-list.png)
 
     -   **F: Find nodes with a particular kind of change**
 
-        In the list view, select the find icon \(![find icon](../image/cdm-icon-find-page.png)\) and specify the type of change to isolate.
+        In the list view, select the find icon \(![find icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-find-page.png)\) and specify the type of change to isolate.
 
-        ![Find nodes with a particular kind of change](../image/cdm-find-page-in-list.png)
+        ![Find nodes with a particular kind of change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-find-page-in-list.png)
 
     -   **G: Script view**
 
@@ -186,8 +186,8 @@ The target snapshot is the snapshot that is associated with the change request. 
         -   Differences are indicated by symbols next to the line number.
             -   Deletions are indicated by -
             -   Additions are indicated by +
-            -   Edits are indicated by the pencil icon \(![pencil icon](../image/icon-edit-pencil.png)\) plus notes in the in-line text, as shown in this "Diff only" example.
+            -   Edits are indicated by the pencil icon \(![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-edit-pencil.png)\) plus notes in the in-line text, as shown in this "Diff only" example.
         -   Conversions from text to array: In the example, because the data structure of the `googleApiKey` CDI changed from a text value to an array, the text form is deleted and the array form is added.
-        ![The script view includes symbols that indicate the type of change](../image/cdm-configuration-changes-script-view.png)
+        ![The script view includes symbols that indicate the type of change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-configuration-changes-script-view.png)
 
 

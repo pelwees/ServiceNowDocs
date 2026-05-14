@@ -21,7 +21,7 @@ Validate application and infrastructure details against your organization polici
 
 Configuration data is pulled in your CI/CD pipeline to deploy not just a code for an application, but all the related configuration with that code as well.
 
-**Note:** Pipeline integration requires plugin installation. See [Configure your pipeline in DevOps Config](devops-config-set-up-pipeline.md) for installation requirements.
+**Note:** Pipeline integration requires plugin installation. See [Configure your pipeline in DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-set-up-pipeline.md) for installation requirements.
 
 ## DevOps Config and DevOps Change Acceleration
 
@@ -41,5 +41,5 @@ Set up change acceleration in your pipeline.
 
 In DevOps Change Velocity, navigate to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests** to view and approve DevOps change requests created by DevOps Config changes.
 
-See [Accelerating your DevOps change process](../../enterprise-dev-ops/concept/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
+See [Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../enterprise-dev-ops/concept/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
 

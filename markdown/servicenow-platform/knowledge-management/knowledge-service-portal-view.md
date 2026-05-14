@@ -49,7 +49,7 @@ Click **Subscribe** to subscribe to the knowledge article. Unsubscribe by clicki
 
 </td></tr><tr><td>
 
-Actions ![More icon](../image/KnowledgeServicePortalOverflowIcon.png)
+Actions ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)
 
 </td><td>
 
@@ -175,8 +175,8 @@ Use the search bar to start a new search. The search is executed in the current 
 -   If enabled, users can subscribe to articles, view article versions, and create feedback for articles that are rated as not helpful.
 -   The dynamic titles don’t apply to the knowledge article view page in the Knowledge Management Service Portal.
 
--   **[Knowledge article URL parameters](../reference/knowledge-article-URL-parameters.md#)**  
+-   **[Knowledge article URL parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/knowledge-article-URL-parameters.md#)**  
 You can add parameters to an article URL to view the latest version and an existing translation.
 
-**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 

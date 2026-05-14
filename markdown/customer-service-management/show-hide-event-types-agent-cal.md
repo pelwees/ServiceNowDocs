@@ -23,13 +23,13 @@ Role required: agent\_schedule\_user
 
     -   **Customer Service** &gt; **My Schedule**
     -   **Field Service** &gt; **Agent** &gt; **My Schedule**
-2.  Click the configuration icon \(![Configuration icon.](../../field-service-management/image/icon-agent-sched-config.png)\) in the calendar header to display the Schedule Configuration menu.
+2.  Click the configuration icon \(![Configuration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../field-service-management/image/icon-agent-sched-config.png)\) in the calendar header to display the Schedule Configuration menu.
 
 3.  Enable or disable the switches for the different types of events.
 
     An option is enabled when the switch is moved to the right and appears with a green background.
 
-4.  Click the configuration icon \(![Configuration icon.](../../field-service-management/image/icon-agent-sched-config.png)\) again to hide the Schedule Configuration menu.
+4.  Click the configuration icon \(![Configuration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../field-service-management/image/icon-agent-sched-config.png)\) again to hide the Schedule Configuration menu.
 
     The calendar displays the enabled task types.
 

@@ -97,7 +97,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 4.  Click **Activate**.
 
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/../concept/health-safety-testing.md)
 
 ## Components installed with Health and Safety Testing
 
@@ -178,7 +178,7 @@ Test Result\[sn\_imt\_health\_test\_result\]
 
 Test results submitted by users.Users can review their test results in **My test results**. Managers can review the test results of their direct reports in **My Employee's Test Results** if enabled by their organization.
 
- For more information, see [Configure Health and Safety Testing](configure-health-safety-testing.md#).
+ For more information, see [Configure Health and Safety Testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/configure-health-safety-testing.md#).
 
 </td></tr><tr><td>
 

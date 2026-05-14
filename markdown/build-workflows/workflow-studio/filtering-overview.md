@@ -28,5 +28,5 @@ The default filtering operator is "is", when no other filtering is applied.
 
 The following image shows a table interface that includes filtering functionality.
 
-![Decision Table Filter](../image/filtering-decision-table.png)
+![Decision Table Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/filtering-decision-table.png)
 

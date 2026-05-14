@@ -26,7 +26,7 @@ Before you execute a response processor for a subflow, you must create a subflow
 ```
 
  flow_type           : 'sys_flow_context'
- flow_correlation_id : flowcorrelationid (This variable must be present in the Resource Block as mentioned here [Add a resource operation step to invoke a subflow](add-resource-op-step-subflow.md).
+ flow_correlation_id : flowcorrelationid (This variable must be present in the Resource Block as mentioned here [Add a resource operation step to invoke a subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-resource-op-step-subflow.md).
  flow_output         : String that will be processed by Response Processor
  flow_error          : Error string if there is any error
  error_detail        : Error detail string if there is any error
@@ -44,7 +44,7 @@ Before you execute a response processor for a subflow, you must create a subflow
 
 4.  Add a workflow operation step.
 
-    See [Add operation steps to a resource block](add-operation-steps.md).
+    See [Add operation steps to a resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-operation-steps.md).
 
     The workflow operation step gets attached to the resource block and appears on the page. Any input parameters associated with the workflow appear on the **Input** tab.
 
@@ -56,7 +56,7 @@ Before you execute a response processor for a subflow, you must create a subflow
 
     The Add Response Processor dialog box appears.
 
-    ![Adding a response processor with a workflow.](../image/add-response-processor.png)
+    ![Adding a response processor with a workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/add-response-processor.png)
 
 7.  In the **Script Name** list, select a script for the response processor.
 
@@ -67,5 +67,5 @@ Before you execute a response processor for a subflow, you must create a subflow
     The script appears in the **Response Processor** tab. You can open the script and modify the script.
 
 
-**Parent Topic:**[Configure a response processor](configure-response-processor.md)
+**Parent Topic:**[Configure a response processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-response-processor.md)
 

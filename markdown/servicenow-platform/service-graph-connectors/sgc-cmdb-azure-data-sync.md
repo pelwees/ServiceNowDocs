@@ -21,9 +21,9 @@ For data sources discovered by a software connection, the **Last Run Datetime** 
 
 For data sources discovered by a hardware connection, the **Last Success Import Time** field displays the timestamp of the most recent delta pull run. The **Last Success Import Time** field is updated only when the last delta pull run was a success. An empty **Last Success Import Time** field indicates no previous delta pull run for the data source, but either a full pull run or no run at all. The delta pull period is calculated by subtracting the last successful import date and time from the current date and time; that is, Delta period = Current date timestamp - Last success import date timestamp.
 
-The application includes the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** system property to enable delta synchronization. By default, the property is set to `true`. To import full data from your Azure instance, disable the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** property. See [Disable delta synchronization](sgc-cmdb-azure-data-sync.md#).
+The application includes the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** system property to enable delta synchronization. By default, the property is set to `true`. To import full data from your Azure instance, disable the **sn\_sg\_azure\_integ.is\_delta\_sync\_enabled** property. See [Disable delta synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-azure-data-sync.md#).
 
-For a delta pull, you can also configure the grace time, page size, preceding time period, and API call duration using system properties. For more information, see [Service Graph Connector for Microsoft Azure properties](../reference/cmdb-sgc-azure-props.md).
+For a delta pull, you can also configure the grace time, page size, preceding time period, and API call duration using system properties. For more information, see [Service Graph Connector for Microsoft Azure properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-sgc-azure-props.md).
 
 ## Disable delta synchronization
 

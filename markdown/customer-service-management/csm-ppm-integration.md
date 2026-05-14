@@ -23,5 +23,5 @@ When subscribed to the Strategic Portfolio Management \(SPM\) Subscription Produ
 
 ## Customer Project Management Guided Setup
 
-Activating the Customer Project Management plugin adds the Customer Project Management section to the Customer Service Management Guided Setup. For more information, see [Integrate with Customer Project Management using Guided Setup](csm-ppm-configuration.md).
+Activating the Customer Project Management plugin adds the Customer Project Management section to the Customer Service Management Guided Setup. For more information, see [Integrate with Customer Project Management using Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-ppm-configuration.md).
 

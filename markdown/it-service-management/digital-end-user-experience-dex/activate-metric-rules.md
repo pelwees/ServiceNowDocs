@@ -31,12 +31,12 @@ Role required: sn\_dex.admin
 
 4.  On the Update alert rule page, select **Name the rule**.
 
-5.  Under Rule status, use the **Active** slider \(![Use the toggle switch to activate the alert rule.](../image/icon-toggle-button-enabled.png)\) to enable the rule.
+5.  Under Rule status, use the **Active** slider \(![Use the toggle switch to activate the alert rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-toggle-button-enabled.png)\) to enable the rule.
 
     If you want to deactivate an active alert rule, simply slide the toggle switch to the off position.
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Managing DEX alert rules](../concept/dex-metrics-metric-rules-management.md)
+**Parent Topic:**[Managing DEX alert rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-metrics-metric-rules-management.md)
 

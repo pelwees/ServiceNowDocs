@@ -49,7 +49,7 @@ This type of filtering helps you to isolate security incidents and limits the nu
     -   properties\(additionalData\(tactics\)\)
     Because the filter condition can retrieve only strings, you must use the `contains` filter condition for the above fields to ensure that the data is filtered correctly.
 
-    ![Filter conditions builder.](../image/sentinel-filtering.png "Security incident generation conditions")
+    ![Filter conditions builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-filtering.png "Security incident generation conditions")
 
 2.  Using the lists and fields of the conditions builder, set the filters for the first row.
 
@@ -80,7 +80,7 @@ All the aggregated incidents on a security incident are displayed on the Azure S
 
 1.  To define additional incident field criteria that allows an incoming Microsoft Azure Sentinel incident to be appended to an open security incident instead of creating a new incident, select the **Aggregation Conditions** option as shown in the following figure.
 
-    ![Aggregation to define additional incident filtering criteria.](../image/sentinel-aggregation.png "Aggregation Conditions")
+    ![Aggregation to define additional incident filtering criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-aggregation.png "Aggregation Conditions")
 
 2.  In the **Incident fields with matching values** field, enter the field values that you want to match on existing security incidents in your ServiceNow AI Platform instance.
 

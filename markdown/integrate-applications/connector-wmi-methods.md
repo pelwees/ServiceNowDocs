@@ -19,11 +19,11 @@ Establishes a connection with the WMI. You must execute this method first before
 
 -   **Input**
 
-    [Hostname](connector-wmi-method-parameters.md#parameter-input-hostname)
+    [Hostname](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-input-hostname)
 
-    [Username](connector-wmi-method-parameters.md#parameter-input-username)
+    [Username](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-input-username)
 
-    [Password](connector-wmi-method-parameters.md#parameter-connect-input-password)
+    [Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-connect-input-password)
 
 
 ## GetDiskDetails
@@ -32,7 +32,7 @@ Returns the disk details such as the name, manufacturer, model, and media type o
 
 -   **Output**
 
-    [Hashtable](connector-wmi-method-parameters.md#parameter-wmi-getdiskdetails-output-hashtable)
+    [Hashtable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-getdiskdetails-output-hashtable)
 
 
 ## GetEnvironmentValue
@@ -41,11 +41,11 @@ Returns the environment variable values in the local or remote computers.
 
 -   **Input**
 
-    [Var](connector-wmi-method-parameters.md#parameter-wmi-GetEnvironmentValue-input-var)
+    [Var](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-GetEnvironmentValue-input-var)
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#parameter-wmi-GetEnvironmentValue-output-returns)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-GetEnvironmentValue-output-returns)
 
 
 ## GetProcessesByCpuUsage
@@ -54,7 +54,7 @@ Returns the CPU usage by all processes in the remote or local computer.
 
 -   **Output**
 
-    [Return \(Sorted Dictionary\)](connector-wmi-method-parameters.md#GetProcessesByCpuUsage-input-return)
+    [Return \(Sorted Dictionary\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#GetProcessesByCpuUsage-input-return)
 
 
 ## GetProcessesByMemUsage
@@ -63,7 +63,7 @@ Gets the memory usage by all processes in the remote or local computer.
 
 -   **Output**
 
-    [Return \(Sorted Dictionary\)](connector-wmi-method-parameters.md#GetProcessesByMemUsage-output-return)
+    [Return \(Sorted Dictionary\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#GetProcessesByMemUsage-output-return)
 
 
 ## PageFaultsPerSecond
@@ -72,7 +72,7 @@ Gets the total page exceptions per second. It returns the page exceptions as obj
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#PageFaultsPerSecond-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#PageFaultsPerSecond-output-return)
 
 
 ## PageFilePercentUsage
@@ -81,7 +81,7 @@ Gets the usage of page files by the local or remote computers as percentages. It
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#PageFilePercentUsage-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#PageFilePercentUsage-output-return)
 
 
 ## PercentMemoryUsage
@@ -90,7 +90,7 @@ Returns the percentage of the total memory that is used in the local or remote c
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#PercentMemoryUsage-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#PercentMemoryUsage-output-return)
 
 
 ## PercentProcessorUsage
@@ -99,7 +99,7 @@ Gets the percentage of the total processes that are used in the local or remote 
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#PercentProcessorUsage-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#PercentProcessorUsage-output-return)
 
 
 ## Query
@@ -108,13 +108,13 @@ Queries a local or remote computer by specifying the class and filter.
 
 -   **Input**
 
-    [Class](connector-wmi-method-parameters.md#parameter-wmi-class-input-class)
+    [Class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-class-input-class)
 
-    [Filter](connector-wmi-method-parameters.md#parameter-wmi-query-input-filter)
+    [Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-query-input-filter)
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#parameter-wmi-query-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#parameter-wmi-query-output-return)
 
 
 ## TotalPhysicalMemory
@@ -127,8 +127,8 @@ Provides the total available megabytes.
 
 -   **Output**
 
-    [Return](connector-wmi-method-parameters.md#AvailableMBytes-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connector-wmi-method-parameters.md#AvailableMBytes-output-return)
 
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/itsm.md)
 

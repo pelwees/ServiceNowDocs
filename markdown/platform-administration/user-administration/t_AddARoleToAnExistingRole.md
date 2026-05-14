@@ -32,5 +32,5 @@ Role required: admin
     The users with the existing role inherit the access that is granted by the new role.
 
 
-**Parent Topic:**[Create a role](t_CreateARole.md)
+**Parent Topic:**[Create a role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 

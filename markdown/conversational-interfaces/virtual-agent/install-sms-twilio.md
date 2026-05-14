@@ -41,7 +41,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## What to do next
 
-[Set up the Conversational SMS Integration with Twilio](configure-twilio-adapter.md).
+[Set up the Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-twilio-adapter.md).
 
-**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](../concept/configure-va-sms-twilio-app.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-va-sms-twilio-app.md)
 

@@ -15,7 +15,7 @@ A field represents an individual item of data on a record.
 
 Users can view and modify field data on a form. For more detailed information, see [Field administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md).
 
-**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 ## Field status indicators
 
@@ -48,7 +48,7 @@ Populated — savedPopulated — unsaved
 Required field contains a value that was saved or must be saved. Default color is gray.
 
 </td></tr></tbody>
-</table>![Core UI field status indicators](../image/FieldStatusIndicatorsUI15.png "Core UI field status indicators")
+</table>![Core UI field status indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/FieldStatusIndicatorsUI15.png "Core UI field status indicators")
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ Required field contains a value that was saved or must be saved. Default color i
 
 The AI indicator visually identifies form fields in configurable workspace and Core UI that have been updated with AI-generated content.
 
-The AI indicator, ![AI indicator sparkle](../image/AI-indicator-sparkle.png), an icon featuring "AI" and a sparkle star, displays next to relevant fields. It serves as a notification that the field's content was generated or updated by a predictive AI agent. When you manually update a field with the AI indicator, the icon is cleared, indicating that the field is no longer AI-generated.
+The AI indicator, ![AI indicator sparkle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/AI-indicator-sparkle.png), an icon featuring "AI" and a sparkle star, displays next to relevant fields. It serves as a notification that the field's content was generated or updated by a predictive AI agent. When you manually update a field with the AI indicator, the icon is cleared, indicating that the field is no longer AI-generated.
 
-![AI indicator by field label](../image/AI-indicator-label-sparkle.png)
+![AI indicator by field label](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/AI-indicator-label-sparkle.png)
 

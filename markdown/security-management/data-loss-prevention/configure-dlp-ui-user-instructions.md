@@ -30,5 +30,5 @@ Role required: admin
 3.  Click on any of the user instruction to update or modify.
 
 
-**Parent Topic:**[Create user instructions templates](create-and-manage-user-instructions-template-for-dlp-incidents.md)
+**Parent Topic:**[Create user instructions templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-and-manage-user-instructions-template-for-dlp-incidents.md)
 

@@ -73,5 +73,5 @@ View benchmark KPI recommendation candidates.
 sn\_process\_optimization\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Benchmarks](../reference/r_Benchmarks.md)
+</table>**Parent Topic:**[Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../reference/r_Benchmarks.md)
 

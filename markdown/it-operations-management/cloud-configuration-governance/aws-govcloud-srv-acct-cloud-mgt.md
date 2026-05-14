@@ -36,7 +36,7 @@ A service account holds the credential and account information that you created 
     |Field|Description|
     |-----|-----------|
     |Account ID|Account ID to which this credential belongs.|
-    |Discovery credentials|Select the name of the credentials that you created in the [Create AWS GovCloud credentials for Cloud Provisioning and Governance](aws-govcloud-creds-cloud-mgt.md) procedure. In the example, you used the name `AWS GovCloud Creds O1`.|
+    |Discovery credentials|Select the name of the credentials that you created in the [Create AWS GovCloud credentials for Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/aws-govcloud-creds-cloud-mgt.md) procedure. In the example, you used the name `AWS GovCloud Creds O1`.|
     |Datacenter URL|URL of the datacenter. For example, [https://ec2.us-gov-west-1.amazonaws.com](https://ec2.us-gov-west-1.amazonaws.com)|
     |Datacenter type|Select the CMDB table that represents the type of datacenter. For example, the \[`cmdb_ci_aws_datacenter`\] table.|
     |Datacenter discovery status|Auto-generated value: Status and timestamp of the last execution of Discovery on the datacenter.|

@@ -20,7 +20,7 @@ To enable walk-up feature for your customers, ensure that you activate the follo
 
 Once the plugin is active, navigate to the Features section of the guided configuration view of your Engagement Messenger module and enable the Field service feature.
 
-![Feature settings screen in Engagement messenger with an option to add a custom feature or toggle existing features to activate them. This example shows the Walk-up feature toggle.](../image/em-enable-walk-up.png "Walk-up feature")
+![Feature settings screen in Engagement messenger with an option to add a custom feature or toggle existing features to activate them. This example shows the Walk-up feature toggle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-enable-walk-up.png "Walk-up feature")
 
 <table id="table_opq_wb1_g4b"><thead><tr><th>
 
@@ -63,5 +63,5 @@ Enable for authenticated users
 Option for enabling the walk-up feature for users who sign in into the website that hosts the messenger.
 
 </td></tr></tbody>
-</table>Click **Configure walk-up here** to configure details of your customer support centres. For more information, see [Configure Walk-up Experience locations](../task/csm-walkup-define-location.md).
+</table>Click **Configure walk-up here** to configure details of your customer support centres. For more information, see [Configure Walk-up Experience locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-walkup-define-location.md).
 

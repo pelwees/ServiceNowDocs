@@ -27,7 +27,7 @@ Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
 
     The **Compare config data** tab opens. The current application is the target application, and its name is pre-populated in the **Target application**.
 
-    ![Compare config data tab for comparing application changesets.](../image/cdm-changeset-compare.png)
+    ![Compare config data tab for comparing application changesets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-changeset-compare.png)
 
 2.  Select the **Changeset** option in the **Compare type** field.
 
@@ -39,7 +39,7 @@ Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
     |Reference snapshot|Snapshot of the reference application to compare.|
     |Target snapshot|Snapshot of the target application against which the reference snapshot is compared.|
 
-4.  Select the folder icon \(![folder icon](../image/icon-folder.png)\) to specify a folder path for comparison.
+4.  Select the folder icon \(![folder icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-folder.png)\) to specify a folder path for comparison.
 
 5.  Select **Apply variables** to display fully resolved variable values in the comparison results.
 
@@ -53,7 +53,7 @@ Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
 
     The letters in the following illustration identify the tools that you can use to analyze the data.
 
-    ![Tools in the Config data differences section.](../image/cdm-changeset-compare-result.png)
+    ![Tools in the Config data differences section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-changeset-compare-result.png)
 
     -   **A. Navigation panel**
 
@@ -66,8 +66,8 @@ Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
     -   **B: Differences panel**
 
         -   By default, all config data is displayed. Select **Diff only** to view only data that differs between the two changesets.
-        -   Use the **Search** icon \(![Search icon](../../site-reliability-ops/image/icon-search.png)\) to search for text in the Component differences panel.
-        -   The panel offers two tabs: **Data model** and **CDIs and variables**. In either tab, expand and close groupings with the expansion icon \(![expansion icon](../image/cdm-icon-expand.png)\).
+        -   Use the **Search** icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-search.png)\) to search for text in the Component differences panel.
+        -   The panel offers two tabs: **Data model** and **CDIs and variables**. In either tab, expand and close groupings with the expansion icon \(![expansion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-expand.png)\).
         -   If a selection includes more than 50 CDIs, then CDIs are organized into pages of 50.
         The **Data model** tab displays changes to the structure of the application at the folder level, such as, adding, deleting, or renaming a folder.
 
@@ -118,7 +118,7 @@ Source level \(Reference/Target\)
 
         -   By default, the root node is selected and the data panel includes all CDIs for both changesets. Select a node in the navigation panel to display data for only that node and its descendents.
         -   When **Diff only** is selected, the number of CDIs that differ appears after the node path.
-        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](../image/cdm-icon-expand.png)\) to view CDIs in a folder.
+        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-expand.png)\) to view CDIs in a folder.
 <table id="table_znm_bcc_yvb"><thead><tr><th>
 
 Column
@@ -144,7 +144,7 @@ Description
 
 </td><td>
 
-Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for the variable differ between the changesets. See [Types of differences between CDM applications](../reference/cdm-cda-diff-types.md) for the full list of difference types and their causes.
+Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for the variable differ between the changesets. See [Types of differences between CDM applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-cda-diff-types.md) for the full list of difference types and their causes.
 
 </td></tr><tr><td>
 

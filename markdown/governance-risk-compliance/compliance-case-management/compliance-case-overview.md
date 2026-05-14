@@ -30,7 +30,7 @@ The Description section includes the detailed information that you can fill in w
 
 ## State section
 
-The State section includes the workflow states of a compliance case. For example in this section, you see various stages of the compliance case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A compliance case administrator can configure these states in the GRC: Compliance Case Management application. For more information, see [Create a compliance state model](../task/create-state-model.md).
+The State section includes the workflow states of a compliance case. For example in this section, you see various stages of the compliance case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A compliance case administrator can configure these states in the GRC: Compliance Case Management application. For more information, see [Create a compliance state model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/create-state-model.md).
 
 ## Case schedules and milestones section
 
@@ -71,7 +71,7 @@ The Case schedules and milestones section includes the details on all the milest
 
 The following example shows the options available after you select the **Show events** option.
 
-![Events available in case schedules and milestones.](../image/case-schedules-milestones.png "Case schedules milestones")
+![Events available in case schedules and milestones.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../image/case-schedules-milestones.png "Case schedules milestones")
 
 **Note:** The options that are displayed after you select the **Show events** option are limited to the events and milestones that are available for the case.
 
@@ -104,5 +104,5 @@ The Tracking section displays the following information:
 
 The Attachment section enables you to upload a file as an attachment to a case. In this section you can find all the attachments that have been added.
 
-**Parent Topic:**[Exploring Compliance Case Management](ccm-overview.md)
+**Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 

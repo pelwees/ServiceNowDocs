@@ -21,5 +21,5 @@ The ServiceNow® Workforce Optimization for HR simplifies the daily routine of H
     Workforce Optimization for HR \(com.sn\_hr\_wfo\): Planned for deprecation in July 2027. There is no replacement for this application.
 
 
-**Parent Topic:**[HR Service Delivery release notes](hr-service-delivery-landing.md)
+**Parent Topic:**[HR Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md)
 

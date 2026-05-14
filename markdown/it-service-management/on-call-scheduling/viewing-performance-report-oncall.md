@@ -15,7 +15,7 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 The Performance reports enable detailed review of how well escalations are being processed. You have precise control of the data that describes escalation progress using filters like group, priority, level, or escalation category.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](../../../use/dashboards/application-content-packs/performance-analytics/oncall-scheduling.md) to view, maintain, and track the performance reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../../use/dashboards/application-content-packs/performance-analytics/oncall-scheduling.md) to view, maintain, and track the performance reports.
 
 ## Opening the reports
 
@@ -36,7 +36,7 @@ Click the **Performance** tab and then select the date of interest. The time lin
 
     The **Records** tab lists the individual records that make up the results that you configured on the **Breakdowns** tab. Click a name to view record details.
 
-    **Note:** Each record also appears in the appropriate escalation log. See [View details in an escalation log](../task/view-escalation-logs-oncall.md).
+    **Note:** Each record also appears in the appropriate escalation log. See [View details in an escalation log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../task/view-escalation-logs-oncall.md).
 
 
 ## All Escalations tab
@@ -46,11 +46,11 @@ Click the **Performance** tab and then select the date of interest. The time lin
 -   All Escalations: Count of escalations that started on the selected date.
 -   Escalation Notifications: Count of notifications that were sent on the selected date. An escalation might have triggered several notifications.
 
-![All Escalations tab](../image/perform-all-esc-reports-tab.png "All Escalations tab")
+![All Escalations tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/perform-all-esc-reports-tab.png "All Escalations tab")
 
 ## Acknowledged Escalations tab
 
-![Performance > Acknowledged Escalations reports](../image/perform-ack-esc-reports-tab.png "Acknowledged Escalations tab")
+![Performance > Acknowledged Escalations reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/perform-ack-esc-reports-tab.png "Acknowledged Escalations tab")
 
 -   Acknowledged Escalation Notifications: Count of escalations that had any of the following values in the **Response** field for the notification:
     -   Accepted or Accepted from other device
@@ -67,7 +67,7 @@ Unacknowledged escalations have one of the following values for each member of a
 -   Invalid response
 -   \[no response\]
 
-![Performance > Unacknowledged Escalations reports](../image/perform-unack-esc-reports-tab.png "Unacknowledged Escalations tab")
+![Performance > Unacknowledged Escalations reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/perform-unack-esc-reports-tab.png "Unacknowledged Escalations tab")
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/viewing-reports.md)
 

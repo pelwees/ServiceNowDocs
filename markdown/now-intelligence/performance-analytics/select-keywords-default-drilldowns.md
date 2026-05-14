@@ -23,7 +23,7 @@ Role required: pa\_analyst or admin
 
 To filter a word cloud by keywords, select the words in the cloud. You can save a list of the keywords, which will be used whenever someone views the widget. Each list of keywords applies to one breakdown and element combination for the indicator in one widget. In the following example, the word "battery" has been specified as a keyword. If you select **Save**, all viewers will see this widget filtered by "battery." Anyone with the required roles can delete the saved keywords later.
 
-![Word cloud of text from open incidents, bottom half](../image/word-cloud-bottom.png "Word cloud filtered by keyword 'battery'")
+![Word cloud of text from open incidents, bottom half](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/word-cloud-bottom.png "Word cloud filtered by keyword 'battery'")
 
 Alternatively, you can create or edit the record where the keywords are saved. This approach does not restrict your selection to keywords that have already appeared in the word cloud.
 

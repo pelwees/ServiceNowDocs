@@ -32,7 +32,7 @@ Each color selection option provides a color picker to select a color. The text 
 
 Refer to [HTML Color Names \(W3CSchools\)](http://www.w3schools.com/tags/ref_colornames.asp) for information about HTML color names.
 
-**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [Working with themes in Next Experience](../concept/next-experience-theming.md).
+**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-theming.md).
 
 ## Procedure
 
@@ -122,7 +122,7 @@ css.$navpage-header-bg
 
 </td><td>
 
-Select or enter the color.![Header background](../image/HeaderBGColor.png)
+Select or enter the color.![Header background](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/HeaderBGColor.png)
 
 This color is also used as part of the theme preview on the Themes tab under system settings.
 
@@ -136,7 +136,7 @@ css.$navpage-header-color
 
 </td><td>
 
-Select or enter the color.![Banner text color](../image/BannerTextColor.png)
+Select or enter the color.![Banner text color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/BannerTextColor.png)
 
 This color is also used as part of the theme preview on the Themes tab under system settings.
 
@@ -150,7 +150,7 @@ css.$navpage-header-divider-color
 
 </td><td>
 
-Select or enter the color.![Header divider striper](../image/BannerDividerColor.png)
+Select or enter the color.![Header divider striper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/BannerDividerColor.png)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ css.$navpage-nav-bg
 
 </td><td>
 
-Select or enter the color. ![Navigation](../image/NavigationBGColor.png)
+Select or enter the color. ![Navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavigationBGColor.png)
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ css.$subnav-background-color
 
 </td><td>
 
-Select or enter the color.![Application with expanded modules to show the difference in color](../image/ExpandedBackgroundColor.png)
+Select or enter the color.![Application with expanded modules to show the difference in color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ExpandedBackgroundColor.png)
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ css.$navpage-nav-color-sub
 
 </td><td>
 
-Select or enter the color. ![Favorites, Connect list](../image/ModuleTextColor.png)
+Select or enter the color. ![Favorites, Connect list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ModuleTextColor.png)
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ css.$navpage-nav-selected-bg
 
 </td><td>
 
-Select or enter the color. ![Selected tab](../image/NavigationSelectedTabBGColor.png)
+Select or enter the color. ![Selected tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavigationSelectedTabBGColor.png)
 
 </td></tr><tr><td>
 
@@ -210,7 +210,7 @@ css.$nav-highlight-bar-active
 
 </td><td>
 
-![Application navigator with the All Applications tab selected and an arrow indicating the fact that the line under the tab is blue](../image/NavBarActive.png)
+![Application navigator with the All Applications tab selected and an arrow indicating the fact that the line under the tab is blue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavBarActive.png)
 
 This color is also used as part of the theme preview on the Themes tab under system settings.
 
@@ -224,7 +224,7 @@ css.$nav-highlight-bar-inactive
 
 </td><td>
 
-![Application navigator with the All Applications tab selected and an arrow point to the other tabs to indicate that the line is a different color](../image/NavBarInactive.png)
+![Application navigator with the All Applications tab selected and an arrow point to the other tabs to indicate that the line is a different color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavBarInactive.png)
 
 </td></tr><tr><td>
 
@@ -236,7 +236,7 @@ css.$nav-hr-color
 
 </td><td>
 
-Select or enter the color. ![Separators](../image/NavigationSeparatorColor.png)
+Select or enter the color. ![Separators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavigationSeparatorColor.png)
 
 </td></tr><tr><td>
 
@@ -248,7 +248,7 @@ css.$navpage-nav-bg-sub
 
 </td><td>
 
-Select or enter the color. ![Navigator, sidebars](../image/FavoritesConnectBGColor.png)
+Select or enter the color. ![Navigator, sidebars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/FavoritesConnectBGColor.png)
 
 </td></tr><tr><td>
 
@@ -260,7 +260,7 @@ css.$navpage-nav-selected-color
 
 </td><td>
 
-Select or enter the color. ![Navigation icon](../image/NavigationIconColor.png)
+Select or enter the color. ![Navigation icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/NavigationIconColor.png)
 
 </td></tr><tr><td>
 
@@ -272,7 +272,7 @@ css.$navpage-nav-unselected-color
 
 </td><td>
 
-Select or enter the color.![Unselected favorites icon](../image/UnselectedNavIconColor.png)
+Select or enter the color.![Unselected favorites icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UnselectedNavIconColor.png)
 
 </td></tr><tr><td>
 
@@ -284,7 +284,7 @@ css.$navpage-nav-border
 
 </td><td>
 
-Select or enter the color. Also affects the border of the **Filter conversations** search box in the Connect Chat sidebar.![Filter navigator](../image/BorderColor.png)
+Select or enter the color. Also affects the border of the **Filter conversations** search box in the Connect Chat sidebar.![Filter navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/BorderColor.png)
 
 </td></tr><tr><td>
 
@@ -308,7 +308,7 @@ Switches the main content \(everything other than the application navigator and 
 
 After you save the configuration changes, all users who select the **System** theme in their UI personalization options see the new configuration colors.
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/customizing-instance-appearance.md)
 
 ## La Jolla and cobalt theme comparison
 

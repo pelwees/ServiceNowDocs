@@ -34,7 +34,7 @@ The update states the system supports are as follows:
 
 The following image shows the entity-based record access update utility screen:
 
-![Guided-experience for entity-based record access update utility.](../image/entity-based-record-access-update-utility.png "Entity based record access update utility guided assistance")
+![Guided-experience for entity-based record access update utility.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/entity-based-record-access-update-utility.png "Entity based record access update utility guided assistance")
 
-**Parent Topic:**[Entity Based Access](entity-based-access.md)
+**Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)
 

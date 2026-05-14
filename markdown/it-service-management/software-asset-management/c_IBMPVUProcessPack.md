@@ -25,47 +25,47 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 **Note:** Oracle and Microsoft also use the concept of PVU, but have slightly different definitions.
 
--   **[Activate the legacy IBM PVU Process Pack](../task/t_ActivatingTheIBMPVUProcessPack.md)**  
+-   **[Activate the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ActivatingTheIBMPVUProcessPack.md)**  
 The legacy Software Asset Management - IBM PVU Process Pack \(com.snc.sam.ibmpvu.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the legacy IBM PVU Process Pack.
--   **[Validate legacy IBM PVU Process Pack requirements for associating software installations with PVU mappings](../task/t_ReqAssocSWInstToPVUMapping.md)**  
+-   **[Validate legacy IBM PVU Process Pack requirements for associating software installations with PVU mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ReqAssocSWInstToPVUMapping.md)**  
 Meet the recommended requirements to ensure that you receive the highest quality results with PVU mapping.
--   **[IBM PVU mapping preparation for the legacy IBM PVU Process Pack](c_PreparingForIBMPVUMapping.md)**  
+-   **[IBM PVU mapping preparation for the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_PreparingForIBMPVUMapping.md)**  
 Most IBM PVU mapping and license checking for the legacy IBM PVU Process Pack is managed automatically.
--   **[Refresh your legacy Software Asset Management plugin processor definitions](../task/t_RefreshProcessorDefinitions.md)**  
+-   **[Refresh your legacy Software Asset Management plugin processor definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_RefreshProcessorDefinitions.md)**  
 After activating the legacy IBM PVU Process Pack, use the Refresh Processor Definitions module in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to create process definitions for existing computers in the Computer \[cmdb\_ci\_computer\] table.
--   **[Legacy Software Asset Management plugin processor definitions](../reference/r_ViewingProcessorDefinitions.md)**  
+-   **[Legacy Software Asset Management plugin processor definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../reference/r_ViewingProcessorDefinitions.md)**  
 Processor definitions for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin are automatically derived from the information in the configuration item form for an item such as a computer or server.
--   **[View IBM PVU mappings for the legacy IBM PVU Process Pack](../task/t_ViewingIBMPVUMappings.md)**  
+-   **[View IBM PVU mappings for the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ViewingIBMPVUMappings.md)**  
 Every rule listed in the IBM PVU Table is represented by one PVU mapping record in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
--   **[Use software counters with the legacy IBM PVU Process Pack](../task/t_UseSWCountersCalcIBMPVULice.md)**  
+-   **[Use software counters with the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_UseSWCountersCalcIBMPVULice.md)**  
 To calculate IBM PVU licenses through the legacy IBM PVU Process Pack, you can create a software counter with the IBM PVU license type. For a given PVU software package, you only need to create the counter once and then it can be reused.
--   **[Installed with the legacy IBM PVU Process Pack](../reference/r_IWSWAssetMgmtIBMProcPack.md)**  
+-   **[Installed with the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../reference/r_IWSWAssetMgmtIBMProcPack.md)**  
 The following tables, fields, script includes, and business rules are installed with the legacy IBM PVU process pack.
 
-**Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
+**Parent Topic:**[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
 
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
+[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)
 
-[Legacy Software Asset Management plugin setup process](c_SetupProcess.md)
+[Legacy Software Asset Management plugin setup process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetupProcess.md)
 
-[Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
+[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)
 
-[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
+[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ManagingSoftwareModels.md)
 
-[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
+[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)
 
-[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
+[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-[Legacy Software License Compliance Checker](c_SoftwareLicenseComplianceChecker.md)
+[Legacy Software License Compliance Checker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenseComplianceChecker.md)
 
-[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
+[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-[Software contracts for the legacy Software Asset Management plugin](c_SoftwareContracts.md)
+[Software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareContracts.md)
 
-[Legacy Oracle process pack](c_OracleProcessPack.md)
+[Legacy Oracle process pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_OracleProcessPack.md)
 

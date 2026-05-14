@@ -47,17 +47,17 @@ Run the fix script.
 
 </td><td>
 
-Complete the steps listed in [Run the fix script to enable access to Supplier Collaboration Portal](run-fix-script-supp-central.md).
+Complete the steps listed in [Run the fix script to enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script-supp-central.md).
 
 </td></tr></tbody>
 </table>
--   **[Run the fix script to enable access to Supplier Collaboration Portal](run-fix-script-supp-central.md)**  
+-   **[Run the fix script to enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script-supp-central.md)**  
 After you install the Supplier Collaboration Portal, you must run the fix script to enable access to the portal.
 
-**Parent Topic:**[Post installation mandatory step for Supplier Collaboration Portal](../concept/post-install-steps.md)
+**Parent Topic:**[Post installation mandatory step for Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/post-install-steps.md)
 
 **Related topics**  
 
 
-[Run the fix script to enable access to Supplier Collaboration Portal](run-fix-script-supp-central.md)
+[Run the fix script to enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script-supp-central.md)
 

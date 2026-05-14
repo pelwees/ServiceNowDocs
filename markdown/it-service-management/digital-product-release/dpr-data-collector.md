@@ -101,7 +101,7 @@ Output: % of commits without Work Item.
 **Related topics**  
 
 
-[Digital Product Release policies](dpr-policies.md)
+[Digital Product Release policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-policies.md)
 
 [Passing parameters to PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-passing-parameters.md)
 

@@ -37,13 +37,13 @@ Role required: admin or assessment\_admin
 
 6.  In the Assessment Metric form, fill the fields.
 
-    For more information on assessment metric fields, refer to [.](t_CreateAMetric.md)
+    For more information on assessment metric fields, refer to [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
 7.  Click **Submit**.
 
 
--   **[Configure metric categories or metrics for an assessment using the question bank](configure-questionbank-assessment.md)**  
+-   **[Configure metric categories or metrics for an assessment using the question bank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-assessment.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating an assessment.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentProcess.md)
 

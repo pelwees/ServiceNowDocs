@@ -37,7 +37,7 @@ Role required: admin
     -   Set up push notifications by downloading the Apple push certificate \(`p12` file\) and uploading it to your app's push application record:
         -   Create your push notification certificate \(`p12` file\). For instructions, see [KB1506609](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1506609).
         -   Access the Push Applications table on your instance by navigating to **All** &gt; **Push Application**.
-        -   Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](sg-push-setup-ios.md).
+        -   Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-push-setup-ios.md).
         -   \(Optional\) Test your push notifications by using out-of-the-box configurations. For more information, see [KB0829093](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0829093).
     -   If you updated your universal links table with new instance URLs, you must upload the new universal links file to each of those instances:
 
@@ -51,7 +51,7 @@ Role required: admin
     -   **Approve** the build to move forward with publishing the app to your end users.
 5.  Customize your app's workflows:
 
-    Use Mobile App Builder to customize your app. See [Mobile App Builder](../concept/mab-concept.md) for detailed information about how you can customize your branded app.
+    Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mab-concept.md) for detailed information about how you can customize your branded app.
 
 6.  Publish your updated iOS branded app for public distribution.
 
@@ -65,8 +65,8 @@ Role required: admin
         -   [Custom app](https://www.servicenow.com/docs/bundle/mobile-rn/page/release-notes/mobile-apps/mobile-apps.html)
 7.  Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features.
 
-    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](../reference/mobile-supported-devices.md).
+    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mobile-supported-devices.md).
 
 
-**Parent Topic:**[Update a branded app](update-branded-app.md)
+**Parent Topic:**[Update a branded app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/update-branded-app.md)
 

@@ -23,24 +23,24 @@ After installing the ODBC driver and its associated DSN, use it in Crystal Repor
 
 1.  Create a new Standard Report.
 
-    ![Crystal Reports Standard Report](../image/CrystalStandard.png)
+    ![Crystal Reports Standard Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/CrystalStandard.png)
 
 2.  Create a new connection using the ServiceNow DSN.
 
-    ![Creating a New Connection Using the ServiceNow DSN](../image/ServiceNowDSN.png)
+    ![Creating a New Connection Using the ServiceNow DSN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ServiceNowDSN.png)
 
 3.  Select a table from the list of available tables.
 
-    ![Selecting a Table from List of Available Tables](../image/AvailableTables.png)
+    ![Selecting a Table from List of Available Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/AvailableTables.png)
 
 4.  Select the available fields from the selected table.
 
-    ![Selecting the Available Fields from the Selected Table](../image/AvailableFields.png)
+    ![Selecting the Available Fields from the Selected Table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/AvailableFields.png)
 
 5.  Click **Finish** to render the report.
 
-    ![Rendered Crystal Report](../image/RenderedCrystalReport.png)
+    ![Rendered Crystal Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/RenderedCrystalReport.png)
 
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_ODBCAndClientApplications.md)
 

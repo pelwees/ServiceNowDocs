@@ -35,7 +35,7 @@ Role required: sam\_user or sam\_admin
 
     You must enter the number of rights to be granted for the SA entitlement in the **Active rights** field.
 
-    For a detailed description of the fields related to all entitlements, see [Create entitlements in Software Asset Management classic](track-software-rights.md).
+    For a detailed description of the fields related to all entitlements, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md).
 
     **Note:** You can't add user or device allocations for SA entitlements.
 
@@ -84,5 +84,5 @@ Role required: sam\_user or sam\_admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Create entitlements in workspace](create-entitlements-workspace.md)
+**Parent Topic:**[Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md)
 

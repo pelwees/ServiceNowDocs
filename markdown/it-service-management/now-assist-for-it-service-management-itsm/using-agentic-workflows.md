@@ -21,12 +21,12 @@ Use the ITSM change management agentic workflows to manage and complete tasks au
 To access the change request agentic workflows, make sure that you install the following applications:
 
 1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
-2.  Change Management application. For more information, see [Configuring Change Management](../../change-management/concept/configure-change-management.md).
+2.  Change Management application. For more information, see [Configuring Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../change-management/concept/configure-change-management.md).
 
 **Note:**
 
--   Before you begin, review these [Important considerations for using Now Assist for IT Service Management \(ITSM\) agentic AI](important-considerations-itsm-agentic-ai.md).
--   For all available ITSM Agentic AI applications, see [Use agentic AI in Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-ai-agents-use-cases.md).
+-   Before you begin, review these [Important considerations for using Now Assist for IT Service Management \(ITSM\) agentic AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/important-considerations-itsm-agentic-ai.md).
+-   For all available ITSM Agentic AI applications, see [Use agentic AI in Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-ai-agents-use-cases.md).
 
 ## Agentic workflows for the change management application
 

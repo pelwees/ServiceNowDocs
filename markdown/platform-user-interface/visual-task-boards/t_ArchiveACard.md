@@ -54,7 +54,7 @@ Role required: none
 
 </td><td>
 
-1.  In the lane header, click the more options icon \(![More options icon](../image/IconMoreOptions.png)\).
+1.  In the lane header, click the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconMoreOptions.png)\).
 2.  Select **Archive All Tasks**.
 3.  In the confirmation dialog, click **Archive**.
 
@@ -63,8 +63,8 @@ Role required: none
 </table>
 ## What to do next
 
--   To see all archived cards for the current board, from the board navigation panel, open the board information menu \(![Board information icon](../image/BoardInfoIcon.png)\) and click **View Archived Tasks**.
+-   To see all archived cards for the current board, from the board navigation panel, open the board information menu \(![Board information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoIcon.png)\) and click **View Archived Tasks**.
 -   To restore an archived card, point to it and click **Restore**.
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

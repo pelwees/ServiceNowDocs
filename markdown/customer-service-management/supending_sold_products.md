@@ -17,8 +17,8 @@ Supend single or multiple root sold products and create combined orders for susp
 
 |Task|Description|
 |----|-----------|
-|Suspend a single sold product|[Suspend a single sold product](supending_sold_products.md#)|
-|Suspend multiple sold products|[Suspend multiple sold products](supending_sold_products.md#)|
+|Suspend a single sold product|[Suspend a single sold product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/supending_sold_products.md#)|
+|Suspend multiple sold products|[Suspend multiple sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/supending_sold_products.md#)|
 
 ## Suspend a single sold product
 

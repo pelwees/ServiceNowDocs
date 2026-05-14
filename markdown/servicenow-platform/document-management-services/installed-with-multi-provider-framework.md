@@ -137,5 +137,5 @@ Multi Provider Permission Configuration
 Role/group mapping to permissions provided from the mp\_permission table for each provider.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference Multi Provider Document Services framework](reference-mp-doc-framework.md)
+</table>**Parent Topic:**[Reference Multi Provider Document Services framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-mp-doc-framework.md)
 

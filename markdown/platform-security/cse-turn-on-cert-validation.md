@@ -61,7 +61,7 @@ Role required:
 
 16. On the **Export Configuration** file page, select **Export** to create and download a configuration file used to turn on Code Signing on your protected instance.
 
-    The export process downloads an XML file to your local machine for use in the steps detailed in [Configure Code Signing Enterprise on your protected instance](cse-ppi-config.md).
+    The export process downloads an XML file to your local machine for use in the steps detailed in [Configure Code Signing Enterprise on your protected instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cse-ppi-config.md).
 
 17. On your protected instance, navigate to **All** &gt; **System Update Sets** &gt; **Retrieved Update Sets**.
 
@@ -76,5 +76,5 @@ Role required:
 22. Use the wizard to complete your configuration, selecting the options for completing certificate validation activation.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/config-code-signing.md)
 

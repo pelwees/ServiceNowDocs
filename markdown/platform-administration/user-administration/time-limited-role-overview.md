@@ -43,8 +43,8 @@ Assignment Rules
 -   Time-limited assignments can handle more than one role assignment to a user, even if the total duration across assignments is less than five days.
 
 </td></tr></tbody>
-</table>-   **[Grant a time-limited user role](time-limited-roles.md#)**  
+</table>-   **[Grant a time-limited user role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/time-limited-roles.md#)**  
 Learn how to assign a role to a user temporarily. Use this feature if you have a user who needs to perform a one-time action that is normally outside their roles.
 
-**Parent Topic:**[Managing roles](ua-creating-roles.md)
+**Parent Topic:**[Managing roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-roles.md)
 

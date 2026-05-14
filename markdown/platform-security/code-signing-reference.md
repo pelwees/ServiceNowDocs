@@ -13,25 +13,25 @@ breadcrumb: [Code Signing, Platform Security]
 
 Reference topics provide additional information to administer and troubleshoot Code Signing.
 
--   **[Properties installed with Code Signing](code-sign-properties.md)**
+-   **[Properties installed with Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-sign-properties.md)**
 
     Code Signing adds the following properties.
 
--   **[Roles installed with Code Signing](cs-role-landing.md#)**
+-   **[Roles installed with Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-role-landing.md#)**
 
     Code Signing includes the following roles.
 
--   **[Troubleshooting and accessing logs](cs-logs.md)**
+-   **[Troubleshooting and accessing logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-logs.md)**
 
     Access various logs to troubleshoot and identify the failure reasons.
 
 
--   **[Properties installed with Code Signing](code-sign-properties.md)**  
+-   **[Properties installed with Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-sign-properties.md)**  
 Code Signing adds the following properties.
--   **[Roles installed with Code Signing](cs-role-landing.md#)**  
+-   **[Roles installed with Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-role-landing.md#)**  
 Code Signing includes the following roles.
--   **[Troubleshooting and accessing logs](cs-logs.md)**  
+-   **[Troubleshooting and accessing logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-logs.md)**  
 Access various logs to troubleshoot and identify the failure reasons.
 
-**Parent Topic:**[Code Signing](../concept/code-signing-landing.md)
+**Parent Topic:**[Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/code-signing-landing.md)
 

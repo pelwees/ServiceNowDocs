@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Now mobile applet launcher](../../tablet-mobile-ui/image/homepage-alp.png)
+![Now mobile applet launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/homepage-alp.png)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Download the Now Mobile app for Apple iOS or Google Android from the Apple App S
 
 -   **Access the demo**
 
-Take a look at the Now Mobile app demo. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](../../tablet-mobile-ui/concept/sg-mobile-demo.md).
+Take a look at the Now Mobile app demo. The demo is a curated experience designed to show how your employees can accomplish their work from anywhere. For more information on the app, see [Now Mobile app demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/concept/sg-mobile-demo.md).
 
 
 </td></tr></tbody>
@@ -60,8 +60,8 @@ Take a look at the Now Mobile app demo. The demo is a curated experience designe
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[Now Mobile app demo](../../tablet-mobile-ui/concept/sg-mobile-demo.md)**  
+-   **[Now Mobile app demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/concept/sg-mobile-demo.md)**  
 Access the demo in your Now Mobile app to learn how the app can help you work from anywhere using your mobile device.
 
-**Parent Topic:**[Unified Employee Experience](../../../product/employee-center/concept/ec-and-ecpro-landing-page.md)
+**Parent Topic:**[Unified Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../../product/employee-center/concept/ec-and-ecpro-landing-page.md)
 

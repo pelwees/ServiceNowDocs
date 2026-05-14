@@ -56,6 +56,6 @@ Test the Update.
 
 4.  Identify and fix typical login errors.
 
-    For more information, see [Multi-SSO \(SAML 2.0\) errors and fixes](../reference/saml-errors.md).
+    For more information, see [Multi-SSO \(SAML 2.0\) errors and fixes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../reference/saml-errors.md).
 
 

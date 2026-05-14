@@ -27,12 +27,12 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 3.  Select **Analysis** &gt; **Cohort Analysis**.
 
-4.  Select the Actions menu ![Actions menu icon](../../integrationhub/images/more-actions-menu-icon.png) of the cohort you want to edit and choose **Delete**.
+4.  Select the Actions menu ![Actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../integrationhub/images/more-actions-menu-icon.png) of the cohort you want to edit and choose **Delete**.
 
-    ![Cohort analysis module with Actions menu and delete option highlighted](../image/uxa-cohort-delete.png)
+    ![Cohort analysis module with Actions menu and delete option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-cohort-delete.png)
 
 5.  Confirm your choice by selecting **Delete**.
 
 
-**Parent Topic:**[Cohort analysis in Usage Insights](../concept/uxa-cohorts.md)
+**Parent Topic:**[Cohort analysis in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/uxa-cohorts.md)
 

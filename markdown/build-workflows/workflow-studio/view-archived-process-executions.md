@@ -21,7 +21,7 @@ Role required: admin or playbook.admin
 
 ## About this task
 
-To view the archived context records for a process execution record, you must configure the Form Layout for process execution records. If you haven't archived any context records for a process execution and want to, see [Archive process contexts](archive-process-executions.md).
+To view the archived context records for a process execution record, you must configure the Form Layout for process execution records. If you haven't archived any context records for a process execution and want to, see [Archive process contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/archive-process-executions.md).
 
 ## Procedure
 
@@ -29,13 +29,13 @@ To view the archived context records for a process execution record, you must co
 
 2.  Open any process execution.
 
-3.  Open the form context menu \(![Context menu icon](../../form-administration/image/ContextMenu.png)\).
+3.  Open the form context menu \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../form-administration/image/ContextMenu.png)\).
 
 4.  Select **Configure** &gt; **Form Layout**.
 
 5.  In the Available list, double-click **Archive** to move it to the **Selected** list.
 
-    ![Configuring the form layout to show the Archive field in process execution records](../images/config-exe-form-layout.png)
+    ![Configuring the form layout to show the Archive field in process execution records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/config-exe-form-layout.png)
 
 6.  Select **Save**.
 
@@ -48,7 +48,7 @@ To view the archived context records for a process execution record, you must co
 
 ## Add the Archive field to the form
 
-![Adding the Archive field to the form layout](../images/view-archived-json.gif)
+![Adding the Archive field to the form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/view-archived-json.gif)
 
-**Parent Topic:**[Archive process contexts](archive-process-executions.md)
+**Parent Topic:**[Archive process contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/archive-process-executions.md)
 

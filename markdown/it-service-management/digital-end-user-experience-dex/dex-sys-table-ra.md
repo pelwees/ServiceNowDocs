@@ -48,7 +48,7 @@ Maps the relationship between tracking and actual execution.
 |dex\_remedial\_action\_execution|Links to UI execution record|
 |remedial\_action\_execution|Links to actual execution record|
 
-**Note:** For more information on the base system remedial actions, see [Digital End-User Experience Remedial Actions](dex-diff-ra.md).
+**Note:** For more information on the base system remedial actions, see [Digital End-User Experience Remedial Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-diff-ra.md).
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-remedial-actions.md)
 

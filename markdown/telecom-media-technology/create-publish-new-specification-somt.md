@@ -145,7 +145,7 @@ Copy the data in this specification so that you can create a specification from 
 
 
 </td></tr></tbody>
-</table>    **Note:** To learn more about the validations that are performed when you publish a new specification version, and how to resolve any reported errors, see the section about validations in [Create and publish a specification version](create-publish-new-specification-somt.md).
+</table>    **Note:** To learn more about the validations that are performed when you publish a new specification version, and how to resolve any reported errors, see the section about validations in [Create and publish a specification version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/create-publish-new-specification-somt.md).
 
 
 **Related topics**  
@@ -153,7 +153,7 @@ Copy the data in this specification so that you can create a specification from 
 
 [Technical product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-product-data-model.md)
 
-[Create and publish product specifications](create-product-specifications.md)
+[Create and publish product specifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/create-product-specifications.md)
 
-[Create and publish service specifications](create-service-specification.md)
+[Create and publish service specifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/create-service-specification.md)
 

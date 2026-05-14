@@ -25,7 +25,7 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
     You can also open Workplace Central from the Employee Center directly by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  In the Workplace Central pane, select the Case Management icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  In the Workplace Central pane, select the Case Management icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
 3.  In the Case Management landing page, open the case that you want to cancel or delete using either of the following navigations:
 
@@ -43,20 +43,20 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
     The workplace case report is available in both the Activity and Attachments sections.
 
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-case-management.md)
 
 **Related topics**  
 
 
-[Manage workplace cases using Case management](manage-workplace-cases-using-case-management.md)
+[Manage workplace cases using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-cases-using-case-management.md)
 
-[Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md)
 
-[Create a workplace service case](create-a-case-casemgmtworkspace.md)
+[Create a workplace service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-case-casemgmtworkspace.md)
 
-[Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-print-case.md#)
 
-[Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
+[Cancel or delete a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/cancel-or-delete-a-case-casemgmtworkspace.md)
 

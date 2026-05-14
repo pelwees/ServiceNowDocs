@@ -17,9 +17,9 @@ After a content request is submitted, Content Governance enables the content req
 
 ## Tracking as the content requester
 
-After submitting a content request, the employee can track the status of the request by navigating to **My requests** and opening the content request. They can add a comment for the content manager, attach files, and review the details they submitted.![The content requester can track the request status from the My Request tab](../images/content-gov-request-view.png)
+After submitting a content request, the employee can track the status of the request by navigating to **My requests** and opening the content request. They can add a comment for the content manager, attach files, and review the details they submitted.![The content requester can track the request status from the My Request tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/content-gov-request-view.png)
 
-The state field of a content request provides a quick status update to the requester and content team, as well as triggers system actions. For more information, see [Understanding content request states](ec-content-gov-track.md#understanding-request-states).
+The state field of a content request provides a quick status update to the requester and content team, as well as triggers system actions. For more information, see [Understanding content request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-track.md#understanding-request-states).
 
 ## Tracking as a content manager or content admin
 
@@ -36,7 +36,7 @@ Content admins and content managers can view all the content requests and associ
 
 The content request state provides a quick update on the current status to the employee who made the content request, approvers, and the content team.
 
-The status bar at the top of a content request record displays all the states, with the current state highlighted.![Content request status bar](../images/ec_status_bar.png)
+The status bar at the top of a content request record displays all the states, with the current state highlighted.![Content request status bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec_status_bar.png)
 
 <table id="table_jkp_yq2_bwb"><thead><tr><th>
 
@@ -137,5 +137,5 @@ The content admin cancels the request.
 </td></tr></tbody>
 </table>**Note:** Content request items require content and publishing plan in order to change the state to **In Review**, **Ready to Publish**, and **Published**.
 
-For information on how to customize the approval process, see [Employee tasks page](employee-center-to-dos-page-configuration.md).
+For information on how to customize the approval process, see [Employee tasks page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-to-dos-page-configuration.md).
 

@@ -17,7 +17,7 @@ A teamspace appears as an application in the instance application navigator. The
 
 Use teamspaces to provide functional and data separation of these applications between different teams in your organization. The following is an example teamspace for a marketing team:
 
-![An example teamspace for marketing](../image/marketing_teamspace.png "Example teamspace")
+![An example teamspace for marketing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/marketing_teamspace.png "Example teamspace")
 
 ## Teamspace activation
 
@@ -48,5 +48,5 @@ You can customize the Project and Demand portions of a teamspace without affecti
 **Related topics**  
 
 
-[Activate teamspaces](../task/t_ActivateTeamspaces.md)
+[Activate teamspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ActivateTeamspaces.md)
 

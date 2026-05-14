@@ -23,7 +23,7 @@ Role required: admin
 
 You control the behavior of individual Shazzam probes using basic and advanced parameters.
 
-For instructions on configuring probe parameters, see [Set probe parameters](t_SetProbeParameters.md).
+For instructions on configuring probe parameters, see [Set probe parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetProbeParameters.md).
 
 **Note:** The Shazzam payload is controlled by the following [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md). These properties do not need to be added to the MID Server. The Shazzam probe will fall back on their default values.
 
@@ -197,7 +197,7 @@ When **true** and Discovery is running, the certificate\_file field in the cmdb\
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Port probes](../reference/r_PortProbes.md)
+**Parent Topic:**[Port probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_PortProbes.md)
 
 ## Control Shazzam payload size
 

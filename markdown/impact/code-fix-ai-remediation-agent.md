@@ -25,7 +25,7 @@ Goals:
 
 Once the Scan Engine returns findings, the Developers can view findings that are assigned to them and evaluate the AI generated suggestions.
 
-![Demonstrates the workflow from Scan Engine findings and a developer using the Resolve Scan Engine findings for code fixes and issue resolution.](../image/remediation-agent-workflow-2.png)
+![Demonstrates the workflow from Scan Engine findings and a developer using the Resolve Scan Engine findings for code fixes and issue resolution.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/remediation-agent-workflow-2.png)
 
 ## Resolve Scan Engine findings fix statuses
 

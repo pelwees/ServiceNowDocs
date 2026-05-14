@@ -95,7 +95,7 @@ Complete these steps from your [Azure](https://docs.microsoft.com/en-us/azure/) 
 
 ## What to do next
 
-[Register Microsoft OneDrive as an OAuth provider for Document Services](register-ms-onedrive-oauth-provider.md)
+[Register Microsoft OneDrive as an OAuth provider for Document Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/register-ms-onedrive-oauth-provider.md)
 
-**Parent Topic:**[Microsoft OneDrive integration with Document Services](../concept/one-drive-integration.md)
+**Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/one-drive-integration.md)
 

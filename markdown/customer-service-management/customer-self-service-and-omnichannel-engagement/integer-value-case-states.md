@@ -35,5 +35,5 @@ The Value column on the Choices page displays the integer values of all the stat
 **Related topics**  
 
 
-[Default highlight color for different case states](../reference/portal-case-cards-widget-default-color.md)
+[Default highlight color for different case states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/portal-case-cards-widget-default-color.md)
 

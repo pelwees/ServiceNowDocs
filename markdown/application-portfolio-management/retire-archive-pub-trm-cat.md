@@ -42,14 +42,14 @@ The selected Knowledge Base articles are retired or archived and are no longer v
 
 The publishing configuration remains available in the Publishing Center for future reuse or republishing.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/publish-trm-cat-to-kb.md)
 
-[View publishing status and run log](view-run-log.md)
+[View publishing status and run log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-run-log.md)
 
-[Access the published TRM catalog knowledge base](access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/access-the-published-kb.md)
 

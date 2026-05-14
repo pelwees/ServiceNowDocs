@@ -32,7 +32,7 @@ Business customers and consumers can also submit loan service requests from the 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Create a loan request from the customer record or an interaction record.
 

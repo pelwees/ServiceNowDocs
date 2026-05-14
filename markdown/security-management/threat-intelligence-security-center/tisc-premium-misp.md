@@ -27,7 +27,7 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** By default, the MISP feed is inactive. You must edit the configuration to enable the feed.
 
-    ![Integrations interface showing threat intelligence feeds with MISP Feed enabled and CrowdStrike Feed inactive.](../image/tisc-misp-premium-feed.png)
+    ![Integrations interface showing threat intelligence feeds with MISP Feed enabled and CrowdStrike Feed inactive.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-misp-premium-feed.png)
 
 3.  Select the **Edit** button on the **MISP Feed** card.
 
@@ -39,13 +39,13 @@ Role required: sn\_sec\_tisc.admin
 
 7.  Navigate to **Additional Settings** to configure the filters to fetch the data from MISP.
 
-    ![MISP feed- additional settings](../image/tisc-misp-additional-settings.png)
+    ![MISP feed- additional settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-misp-additional-settings.png)
 
     The **Additional Settings** tab is used to set up filters that determine which MISP events are ingested.
 
 8.  Select **Edit Settings**.
 
-    ![Edit Additional Settings dialog showing filters for MISP events including creator organization, tag name, threat level, and distribution level fields.](../image/tisc-misp-additional-settings-edit.png)
+    ![Edit Additional Settings dialog showing filters for MISP events including creator organization, tag name, threat level, and distribution level fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-misp-additional-settings-edit.png)
 
 9.  Select the required filters.
 
@@ -128,7 +128,7 @@ Select a distribution level to limit events. Leaving this field empty includes e
 
 13. Select **Duplicate** to duplicate the feed.
 
-    For more information, see [Duplicate threat intelligence feeds](tisc-duplicate-feeds.md).
+    For more information, see [Duplicate threat intelligence feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-duplicate-feeds.md).
 
     **Note:**
 
@@ -137,5 +137,5 @@ Select a distribution level to limit events. Leaving this field empty includes e
     -   For details on how MISP events, along with their associated attributes and objects, are mapped to TISC entities, refer to [KB2197697](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2197697).
     -   Entity types that aren't included in the mapping described in the KB article aren't ingested into the TISC Library.
 
-**Parent Topic:**[View Custom Feed](view-oob-custom-feeds.md)
+**Parent Topic:**[View Custom Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-custom-feeds.md)
 

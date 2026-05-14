@@ -28,5 +28,5 @@ Role required: pa\_data\_collector and schedule\_admin, or admin
 3.  Click **Cancel Job**.
 
 
-**Parent Topic:**[Collecting indicator scores](../concept/c_ClctData.md)
+**Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_ClctData.md)
 

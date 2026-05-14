@@ -103,5 +103,5 @@ Description of the operational schedule.
 
 ## What to do next
 
-[Map enterprise assets to an operational schedule](create-asset-schedule-eam.md).
+[Map enterprise assets to an operational schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-schedule-eam.md).
 

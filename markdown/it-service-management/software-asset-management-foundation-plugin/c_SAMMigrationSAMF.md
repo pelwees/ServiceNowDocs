@@ -64,8 +64,8 @@ The Software Asset Management Foundation \(com.snc.sams\) plugin performs these 
     |Business rules|Legacy business rules applied to discovery models are disabled.|
 
 
--   **[Overwrite customizations for Software Asset Management Foundation plugin migration](../task/t_MigrateSAMCustomSAMF.md)**  
+-   **[Overwrite customizations for Software Asset Management Foundation plugin migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/t_MigrateSAMCustomSAMF.md)**  
 When migrating from the Software Asset Management plugin to the Software Asset Management Foundation plugin, further actions are required by the customer after plugin activation to ensure successful migration of customized forms and lists.
 
-**Parent Topic:**[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMAdministrationSAMF.md)
 

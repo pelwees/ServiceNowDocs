@@ -30,5 +30,5 @@ Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 4.  Select a topic to be added as connected content to the collection.
 
 
-**Parent Topic:**[Create a content collection](create-content-collection.md)
+**Parent Topic:**[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md)
 

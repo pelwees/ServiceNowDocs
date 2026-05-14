@@ -42,17 +42,17 @@ The Knowledge list in Workspace is available with the activation of the Agent Wo
 **Related topics**  
 
 
-[View a knowledge article in Agent Workspace](../task/view-article-agent.md)
+[View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/view-article-agent.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-article-workspace.md)
 
-[Edit a knowledge article in Agent Workspace](../task/edit-article-workspace.md)
+[Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/edit-article-workspace.md)
 
-[Schedule a knowledge article for publishing in Agent Workspace](../task/schedule-article-publishing-agent.md)
+[Schedule a knowledge article for publishing in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/schedule-article-publishing-agent.md)
 
-[Work on a feedback task in Agent Workspace](../task/respond-feedback-workspace.md)
+[Work on a feedback task in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/respond-feedback-workspace.md)
 
-[Compare knowledge article versions in Agent Workspace](../task/compare-article-versions-agent.md)
+[Compare knowledge article versions in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/compare-article-versions-agent.md)
 
-[Request translations for missing languages in Agent Workspace](../task/request-translations-agent.md)
+[Request translations for missing languages in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/request-translations-agent.md)
 

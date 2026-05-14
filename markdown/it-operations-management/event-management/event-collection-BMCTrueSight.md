@@ -22,8 +22,8 @@ Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is inst
 Ensure that you:
 
 -   Deploy and start the MID Server. See [MID Server configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md) .
--   Configure and start the MID Web Server. See [Configure the MID Web Server extension](configure-mid-web-server-extension.md).
--   Configure and start the MID WebService Event Collector. See [Configure the MID WebService Event Collector Context](configure-em-context-extension.md).
+-   Configure and start the MID Web Server. See [Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md).
+-   Configure and start the MID WebService Event Collector. See [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -76,7 +76,7 @@ MID\_Web\_Server\_Password
 Password of the user of the MID Web Server Extension. However, encode the password in BASE64. For example, if the MID Web Server Extension password is `admin`, in this case use `YWRtaW4=` as the password for MID\_Web\_Server\_Password. To determine the BASE64 value, you can use the utility at this website: [https://www.base64encode.org/](https://www.base64encode.org/)
 
 </td></tr></tbody>
-</table>The following procedure describes the collection of JSON formatted event messages using basic authentication. For more information about supported authentication methods, see [Configure the MID Web Server extension](configure-mid-web-server-extension.md).
+</table>The following procedure describes the collection of JSON formatted event messages using basic authentication. For more information about supported authentication methods, see [Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md).
 
 ## Procedure
 
@@ -220,5 +220,5 @@ Example, showing the message body.
 }
 ```
 
-**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 

@@ -31,10 +31,10 @@ Role required: sn\_hr\_sp.esc\_admin
 
 4.  On the New filter configuration form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Request filter configuration form](../reference/filter-config-form-req.md).
+    For a description of the field values, see [Request filter configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/filter-config-form-req.md).
 
 
 ## What to do next
 
-[Set up the Requests filter condition](setup-req-filter-con.md)
+[Set up the Requests filter condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-con.md)
 

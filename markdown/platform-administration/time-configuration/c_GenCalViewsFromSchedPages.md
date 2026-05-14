@@ -33,10 +33,10 @@ This URL takes the user to the monthly calendar view dated March 1, 2016.
 
 **Note:** The `sysparm_zoom` URL component has been replaced with `sysparm_current_view` in OnCallRotation only.
 
-**Parent Topic:**[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+**Parent Topic:**[Using schedules and calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_CreateCalendarsWithSchedulePages.md)
 
 **Related topics**  
 
 
-[Schedule calendar](schedule-calendar.md)
+[Schedule calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/schedule-calendar.md)
 

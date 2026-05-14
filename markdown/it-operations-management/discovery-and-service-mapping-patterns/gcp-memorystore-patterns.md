@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Google Cloud Platform \(GCP\) - 
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the GCP discovery prerequisites section in [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md).
+Verify the GCP discovery prerequisites section in [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -215,9 +215,9 @@ Hostname or IP address of the exposed endpoint used by clients to connect to the
 </td></tr></tbody>
 </table>On the Dependency Views map, you can view all discovered Memorystore for Memcached or Memorystore for Redis resources in your organization and the relationships between them.
 
-![Memorystore for Memcached or Memorystore for Redis instance CIs and connections on a Dependency View map](../image/gcp-memorystore-instance-dependency-view.png "Memorystore for Memcached or Memorystore for Redis instance dependency view")
+![Memorystore for Memcached or Memorystore for Redis instance CIs and connections on a Dependency View map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/gcp-memorystore-instance-dependency-view.png "Memorystore for Memcached or Memorystore for Redis instance dependency view")
 
-![Memorystore for Redis Cluster CIs and connections on a Dependency View map](../image/gcp-memorystore-redis-cluster-dependency-view.png "Memorystore for Redis Cluster dependency view")
+![Memorystore for Redis Cluster CIs and connections on a Dependency View map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/gcp-memorystore-redis-cluster-dependency-view.png "Memorystore for Redis Cluster dependency view")
 
 ## CI relationships
 
@@ -243,5 +243,5 @@ The Google Cloud Platform \(GCP\) - Memorystore DB pattern collects tags and pop
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud DataBase \[cmdb\_ci\_cloud\_database\] table.|
 
-**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md)
+**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 

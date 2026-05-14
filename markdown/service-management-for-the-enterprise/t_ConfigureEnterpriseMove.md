@@ -33,5 +33,5 @@ Role required: facilities\_admin or move\_admin
 3.  Click **Save**.
 
 
-**Parent Topic:**[Activate Facilities Move Management](t_ActivateFacMoveMgmt.md)
+**Parent Topic:**[Activate Facilities Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacMoveMgmt.md)
 

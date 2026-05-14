@@ -77,7 +77,7 @@ Show Icon
 
 </td><td>
 
-Toggle to display the leading bullet when a field is highlighted.Example - ![Highlighted bullet](../../../administer/navigation-and-ui/image/bullet-highlighting.png)
+Toggle to display the leading bullet when a field is highlighted.Example - ![Highlighted bullet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../administer/navigation-and-ui/image/bullet-highlighting.png)
 
 </td></tr><tr><td>
 
@@ -85,17 +85,17 @@ Value Override
 
 </td><td>
 
-Text that replaces the field values from the table.If you don't supply a Value Override, Workspace highlights the field value from the table. If you supply a value, Workspace replaces the field value with your text and highlights that. Example - ![Override text](../../../administer/navigation-and-ui/image/override-text.png)
+Text that replaces the field values from the table.If you don't supply a Value Override, Workspace highlights the field value from the table. If you supply a value, Workspace replaces the field value with your text and highlights that. Example - ![Override text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../administer/navigation-and-ui/image/override-text.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](agent-ws-reference.md)
+</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-reference.md)
 
 **Related topics**  
 
 
-[Create a new case form](case-creation-form-aws.md)
+[Create a new case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/case-creation-form-aws.md)
 
-[Page Configurations reference](configuration-settings.md)
+[Page Configurations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configuration-settings.md)
 
-[Bulk case request form](bulk-case-request-form.md)
+[Bulk case request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/bulk-case-request-form.md)
 

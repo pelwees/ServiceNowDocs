@@ -33,19 +33,19 @@ The inventory user can scan the available assets in the inventory and put them a
 
 2.  On the navigation bar, tap the **Asset put away** menu.
 
-    ![Asset put away menu](../../hardware-asset-management/image/asset-put-away-task-ma.png)
+    ![Asset put away menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../hardware-asset-management/image/asset-put-away-task-ma.png)
 
     The Asset put away page is displayed.
 
 3.  Enter or scan the asset serial number and tap **Next**.
 
-    ![Scan asset serial number](../../hardware-asset-management/image/asset-putaway-scan.png)
+    ![Scan asset serial number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../hardware-asset-management/image/asset-putaway-scan.png)
 
-    You can scan multiple assets at a time. All the scanned asset serial numbers are listed in the **Review** tab. ![Review scanned assets](../../hardware-asset-management/image/asset-putaway-review-tab.png)
+    You can scan multiple assets at a time. All the scanned asset serial numbers are listed in the **Review** tab. ![Review scanned assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../hardware-asset-management/image/asset-putaway-review-tab.png)
 
 4.  Enter or scan the drop-off location and tap **Submit**.
 
-    ![Asset put away Drop-off location](../../hardware-asset-management/image/asset-putaway-dropoff-location.png)
+    ![Asset put away Drop-off location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../hardware-asset-management/image/asset-putaway-dropoff-location.png)
 
 
 ## Result

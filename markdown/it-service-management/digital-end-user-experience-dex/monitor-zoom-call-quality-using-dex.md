@@ -19,8 +19,8 @@ View detailed metrics for the Zoom calls made by users assigned to this device o
 
 Role required: sn\_dex.user
 
--   Set up DEX for Zoom. For more information, see [Configuring DEX for Zoom](configuring-DEX-for-Zoom.md).
--   Configure advanced monitoring to monitor Zoom calls quality with DEX. For more details, see [Enable application monitoring](../task/enable-app-monitor.md).
+-   Set up DEX for Zoom. For more information, see [Configuring DEX for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/configuring-DEX-for-Zoom.md).
+-   Configure advanced monitoring to monitor Zoom calls quality with DEX. For more details, see [Enable application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/enable-app-monitor.md).
 
 ## About this task
 
@@ -34,7 +34,7 @@ The detailed Zoom call metrics include call quality, network performance, and ca
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Devices icon \(![Devices icon](../image/icon-devices.png)\).
+2.  In the primary navigation pane, select the Devices icon \(![Devices icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-devices.png)\).
 
 3.  Select a device.
 
@@ -54,7 +54,7 @@ The detailed Zoom call metrics include call quality, network performance, and ca
 
     **Tip:** Apply **Additional filters** \(Device type, Version, Network type, Location\) to narrow results and quickly find call details.
 
-7.  To view AI-powered Zoom call quality issues investigations and recommendations, see [Investigate Zoom call issues](../task/investigate-and-resolve-zoom-call-issues.md)
+7.  To view AI-powered Zoom call quality issues investigations and recommendations, see [Investigate Zoom call issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/investigate-and-resolve-zoom-call-issues.md)
 
 8.  Select the **Summary** tab.
 
@@ -69,8 +69,8 @@ The detailed Zoom call metrics include call quality, network performance, and ca
 
         **Note:**
 
-        -   For the Summary metrics description, see [Metrics monitored by DEX for Zoom](metrics-monitored-by-dex-for-zoom.md).
-        -   Clicking anywhere on the **Call quality** or **Call issues** pie chart opens the **Details** page and displays the calls associated with the selected metric. For descriptions of the fields on the Details page, see [Zoom call quality metrics on the Details page](../reference/call-quality-metrics-monitored-by-dex-for-zoom.md).
+        -   For the Summary metrics description, see [Metrics monitored by DEX for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/metrics-monitored-by-dex-for-zoom.md).
+        -   Clicking anywhere on the **Call quality** or **Call issues** pie chart opens the **Details** page and displays the calls associated with the selected metric. For descriptions of the fields on the Details page, see [Zoom call quality metrics on the Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/call-quality-metrics-monitored-by-dex-for-zoom.md).
 9.  Select **Call quality metrics** to get call details.
 
     The following call quality breakdown appears:
@@ -87,6 +87,6 @@ The detailed Zoom call metrics include call quality, network performance, and ca
     -   **Screenshare**
     **Note:**
 
-    -   For Call quality metrics description, see [Metrics monitored by DEX for Zoom](metrics-monitored-by-dex-for-zoom.md).
-    -   Clicking anywhere on the bar graph or pie chart for any call quality metric opens the **Details** page and displays the calls associated with the selected metric. For field descriptions on **Details** page, see [Zoom call quality metrics on the Details page](../reference/call-quality-metrics-monitored-by-dex-for-zoom.md).
+    -   For Call quality metrics description, see [Metrics monitored by DEX for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/metrics-monitored-by-dex-for-zoom.md).
+    -   Clicking anywhere on the bar graph or pie chart for any call quality metric opens the **Details** page and displays the calls associated with the selected metric. For field descriptions on **Details** page, see [Zoom call quality metrics on the Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/call-quality-metrics-monitored-by-dex-for-zoom.md).
 

@@ -17,9 +17,9 @@ Use the CI installation status to create CI classes and exclude CIs from applica
 
 ## Before you begin
 
-Learn about default feature configuration in [Tag-based discovery in Service Mapping](../concept/tag-based-mapping.md).
+Learn about default feature configuration in [Tag-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/tag-based-mapping.md).
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](../reference/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](../concept/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/tag-discovery-service-mapping-workspace.md).
 
 Role required: service\_mapping\_admin
 
@@ -29,14 +29,14 @@ Role required: service\_mapping\_admin
 
 2.  Enter values for installation statuses into the deny list that controls which CIs to exclude from tag-based mapping based on install status.
 
-    Use commas to separate the values. ![Deny list used to define install statuses and exclude CIs with these statuses from tag-based discovery.](../image/service-mapping-properties-deny-list.png)
+    Use commas to separate the values. ![Deny list used to define install statuses and exclude CIs with these statuses from tag-based discovery.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/service-mapping-properties-deny-list.png)
 
 3.  Click **Save**.
 
 
 ## What to do next
 
-If you refine the default configuration after creating appliations based on tags, see [Recalculate previously created application services](recalculate_application_services.md) for the next steps.
+If you refine the default configuration after creating appliations based on tags, see [Recalculate previously created application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/recalculate_application_services.md) for the next steps.
 
-**Parent Topic:**[Tag-based discovery configuration](../concept/tag_discovery_configuration.md)
+**Parent Topic:**[Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/tag_discovery_configuration.md)
 

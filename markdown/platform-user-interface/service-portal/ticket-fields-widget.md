@@ -19,13 +19,13 @@ The Ticket Fields widget displays information about a request that a user has ma
 
 After a user submits a request, they can track their request on a ticket page in Service Portal. The user can consult the Ticket Fields widget to review the details of their request and check its resolution status.
 
-![Ticket Fields widget](../image/ticket-fields-widget.png)
+![Ticket Fields widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/ticket-fields-widget.png)
 
 Fields for the Ticket Fields widget are defined by the HTML template and the server.
 
 If a user entered variables when submitting the request, they can view those variables in the Options section.
 
-![Options section of the Ticket Fields widget](../image/ticket-fields-options.png)
+![Options section of the Ticket Fields widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/ticket-fields-options.png)
 
 **Note:** The values that appear in the Options section are not field values from the ticket. They are Service Catalog variables that are associated with the ticket. For more information, see [Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md).
 
@@ -52,14 +52,14 @@ Text to communicate the expected resolution time of the ticket. This text is dis
  The default is `${Tickets are picked up within <br/> 4 hours (M-F 9-5)}`. Ensure that any changes you make are within the curly braces.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Example widgets](sp-example-widgets.md)
+</table>**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

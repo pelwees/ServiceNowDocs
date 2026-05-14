@@ -53,25 +53,25 @@ The following table lists the SLO outbound staging tables and the application th
 | |sn\_spend\_intg\_supplier\_contact\_outbound​|
 | |sn\_spend\_intg\_supplier\_payment\_outbound\_stage​|
 
-The same set of fields exist in both the SLO inbound and SLO outbound staging tables. For more information about the mandatory fields in the staging tables and their descriptions, see [Inbound staging tables for Supplier Lifecycle Operations](../../source-to-pay-integrations/concept/slo-inbound-staging-tables.md).
+The same set of fields exist in both the SLO inbound and SLO outbound staging tables. For more information about the mandatory fields in the staging tables and their descriptions, see [Inbound staging tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../source-to-pay-integrations/concept/slo-inbound-staging-tables.md).
 
--   **[Add supplier inbound data in an Excel file](../task/import-external-data-into-slo.md)**  
+-   **[Add supplier inbound data in an Excel file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/import-external-data-into-slo.md)**  
 You can import supplier inbound table data in an Excel file.
--   **[Load supplier data](../task/load-supplier-data.md)**  
+-   **[Load supplier data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/load-supplier-data.md)**  
 Load the supplier data from the excel template into the supplier inbound​ staging tables.
 
-**Parent Topic:**[Integrate Supplier Lifecycle Operations with other applications](integrate-slo.md)
+**Parent Topic:**[Integrate Supplier Lifecycle Operations with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/integrate-slo.md)
 
 **Related topics**  
 
 
-[Craft.co Integration for Supplier Lifecycle Operations](craft-integration.md)
+[Craft.co Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/craft-integration.md)
 
-[News Integration for Supplier Lifecycle Operations](supp-news-integration.md)
+[News Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-news-integration.md)
 
-[Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
+[Relish Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/relish-slo-connector.md)
 
-[Add supplier inbound data in an Excel file](../task/import-external-data-into-slo.md)
+[Add supplier inbound data in an Excel file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/import-external-data-into-slo.md)
 
-[Load supplier data](../task/load-supplier-data.md)
+[Load supplier data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/load-supplier-data.md)
 

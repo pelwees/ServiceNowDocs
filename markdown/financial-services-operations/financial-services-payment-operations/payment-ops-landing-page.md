@@ -21,27 +21,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and inquiry agents use Payment Operations.](payment-operations-overview.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and inquiry agents use Payment Operations.](payment-operations-overview.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Payment Operations.](../task/configure-payment-operations.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Payment Operations.](../task/configure-payment-operations.md)
 
 </td><td>
 
-[Manage payment inquiries ![](../../../reuse/icons/brand-icons/bus-community.svg) Submit and manage payment inquiry requests received from customers and third-party banks.](managing-payment-inquiries.md)
+[Manage payment inquiries ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-community.svg) Submit and manage payment inquiry requests received from customers and third-party banks.](managing-payment-inquiries.md)
 
 </td></tr><tr><td>
 
-[Manage payment claims ![](../../../reuse/icons/brand-icons/bus-dollar-sign.svg) Submit and manage payment claims and debit approvals.](managing-payment-claims.md)
+[Manage payment claims ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-dollar-sign.svg) Submit and manage payment claims and debit approvals.](managing-payment-claims.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](../../../use/dashboards/application-content-packs/payment-operations-dashboard.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](../../../use/dashboards/application-content-packs/payment-operations-dashboard.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, properties, and plugins and store applications installed.](payment-operations-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, properties, and plugins and store applications installed.](payment-operations-reference.md)
 
 </td></tr></tbody>
 </table>

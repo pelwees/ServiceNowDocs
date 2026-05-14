@@ -29,7 +29,7 @@ The offline payloads that your instance generates are based on the times recorde
 
 ## Scheduled Jobs associated with offline caching
 
-These scheduled jobs are automatically scheduled for only users who enable background downloading on their app. For information on how users can enable this feature, see [Offline mode for mobile](offline-end-user.md).
+These scheduled jobs are automatically scheduled for only users who enable background downloading on their app. For information on how users can enable this feature, see [Offline mode for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md).
 
 -   **Populate Agents Daily Schedule Table**
 
@@ -93,7 +93,7 @@ glide.sg.offline.attachment.max\_total\_bytes
 Determines the maximum size allocated for all attachments in a cache. Value is represented in Megabytes \(MB\). The maximum value is 2048 MB.
 
 </td></tr></tbody>
-</table>For information on more offline related system properties, see, [Configure offline mode behavior](../task/sg-configure-offline-mode.md).
+</table>For information on more offline related system properties, see, [Configure offline mode behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-configure-offline-mode.md).
 
-**Parent Topic:**[Offline mode](mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md)
 

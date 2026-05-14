@@ -37,7 +37,7 @@ Configure **Additional group by** and **Stack by** choices that users can select
 
 3.  On the Configure tab, select **Additional group by**.
 
-    ![Additional group by example](../image/additional-group-by-stack-by.png)
+    ![Additional group by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/additional-group-by-stack-by.png)
 
 4.  Move one or more fields to the **Selected** list.
 
@@ -49,12 +49,12 @@ Configure **Additional group by** and **Stack by** choices that users can select
 
     **Note:** Only bar and horizontal bar reports use stacked data. Other report types allow only grouping.
 
-6.  Arrange the fields in the **Selected** column in the order you want them to appear to users.![Additional group by - ordering example](../image/additional-group-by-stack-by-order.png)
+6.  Arrange the fields in the **Selected** column in the order you want them to appear to users.![Additional group by - ordering example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/additional-group-by-stack-by-order.png)
 
 7.  Select **OK**.
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdvancedReporting.md)
 

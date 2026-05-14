@@ -40,14 +40,14 @@ After you publish a vendor catalog item to the software catalog, the **Publish t
     The published item is listed in the **Vendor catalog Items** related list of the Software Catalog form.
 
 
-**Parent Topic:**[Create a vendor catalog item](t_CreateAVendorCatalogItem.md)
+**Parent Topic:**[Create a vendor catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreateAVendorCatalogItem.md)
 
 **Related topics**  
 
 
-[Link an item to the hardware catalog](t_LinkAnItemToTheHardwareCatalog.md)
+[Link an item to the hardware catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_LinkAnItemToTheHardwareCatalog.md)
 
-[Link an item to the software catalog](t_LinkAnItemToTheSoftwareCatalog.md)
+[Link an item to the software catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_LinkAnItemToTheSoftwareCatalog.md)
 
-[Publish an item to the hardware catalog](t_PublishAnItemToTheHardwareCatalog.md)
+[Publish an item to the hardware catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_PublishAnItemToTheHardwareCatalog.md)
 

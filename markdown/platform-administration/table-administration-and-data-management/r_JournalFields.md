@@ -28,5 +28,5 @@ These comments, as well as any changes to the record or email notifications sent
 
 ![](../image/ActivityFormatterForJournalFields.png "Activity formatter for journal fields")
 
-**Parent Topic:**[Task table structure](../../table-administration/concept/task-table-structure.md)
+**Parent Topic:**[Task table structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../table-administration/concept/task-table-structure.md)
 

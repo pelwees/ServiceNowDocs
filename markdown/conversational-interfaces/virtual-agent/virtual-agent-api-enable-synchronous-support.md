@@ -25,7 +25,7 @@ Ensure to exclude the Bot to Bot channel from Agent Chat.
 2.  Select the **com.glide.cs.exclude.liveagent.support** system property to open it.
 3.  Add **Bot To Bot** to the **Value** field.
 
-    ![The Value field for the system property contains "Alexa,Google Assistant,Bot to Bot." These channels are excluded from supporting Agent Chat.](../images/va-api-exclude-liveagent-btb.png "Exclude the Bot To Bot channel from Agent Chat")
+    ![The Value field for the system property contains "Alexa,Google Assistant,Bot to Bot." These channels are excluded from supporting Agent Chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-api-exclude-liveagent-btb.png "Exclude the Bot To Bot channel from Agent Chat")
 
 4.  Click **Update**.
 
@@ -41,12 +41,12 @@ Ensure to exclude the Bot to Bot channel from Agent Chat.
 
 5.  Select the **Synchronous** check box.
 
-    ![Bot to Bot channel configuration for Synchronous mode shows Enable Notifications and Support typing indicator boxes as unselected. The Synchronous box is selected.](../images/va-api-synchronous-mode.png "Bot to Bot channel with synchronous support enabled")
+    ![Bot to Bot channel configuration for Synchronous mode shows Enable Notifications and Support typing indicator boxes as unselected. The Synchronous box is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-api-synchronous-mode.png "Bot to Bot channel with synchronous support enabled")
 
     **Note:** If the **Synchronous** field is not visible, you can [configure the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to show it.
 
 6.  Click **Update**.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-virtual-agent-api.md)
 

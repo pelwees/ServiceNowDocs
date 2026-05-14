@@ -17,7 +17,7 @@ Send the survey invites to targeted sets of users by adding a recipients list to
 
 Role required: admin or survey\_admin
 
-Recipients lists should be pre-defined in the Recipients Lists submodule. For more information on defining recipients lists, see [Define a recipients list for surveys](define-recipient-list.md).
+Recipients lists should be pre-defined in the Recipients Lists submodule. For more information on defining recipients lists, see [Define a recipients list for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md).
 
 ## Procedure
 
@@ -65,26 +65,26 @@ Description
     -   The **Send Invitations** UI action is available when there is at least one recipients list or survey user for the survey.
     -   If a user is available in the **Survey Users** related list and multiple recipients lists, the survey invite is sent only once to the user.
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/email-notification-for-surveys.md)
 
-[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md)
 
-[Define a recipients list for surveys](define-recipient-list.md)
+[Define a recipients list for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md)
 
-[Embed a survey within the Outlook email client](embed-survey-in-outlook-email.md)
+[Embed a survey within the Outlook email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/embed-survey-in-outlook-email.md)
 
-[Enable localization for a survey](enable-localization-survey.md)
+[Enable localization for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyURLs.md)
 
-[Create a survey module](t_CreatingASurveyModule.md)
+[Create a survey module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyInportAndExport.md)
 
-[Configure a survey in the Connect chat support](take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/take-survey-connect-chat.md)
 

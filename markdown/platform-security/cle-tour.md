@@ -25,14 +25,14 @@ Role required: sn\_kmf.crypto\_manager or security\_admin
 
     For example: `http://yourcompany.servicenow.com/nav_to.do?uri=%2F$pa_dashboards_overview.do​` Replace `yourcompany` with the name of your instance.
 
-2.  Open the **Show Help** icon \(![Shows Toggle Help Sidebar icon](../../key-management-framework/image/toggle-help-sidebar-icon.png) in the upper left corner.​
+2.  Open the **Show Help** icon \(![Shows Toggle Help Sidebar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/toggle-help-sidebar-icon.png) in the upper left corner.​
 
 3.  Select **Take a Tour** at the bottom of the sidebar​.
 
 4.  Select **Next** to progress through the tour.
 
-    ![The Column Level Encryption tour.](../../key-management-framework/image/tour_image.png)
+    ![The Column Level Encryption tour.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/tour_image.png)
 
 
-**Parent Topic:**[Exploring Column Level Encryption](../concept/exploring-column-level-encryption.md)
+**Parent Topic:**[Exploring Column Level Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/exploring-column-level-encryption.md)
 

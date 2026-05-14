@@ -29,7 +29,7 @@ When determining the environment architecture for your deployment, consider how 
     -   Deploy a separate MID Server for each network or network segment.
     -   Configure firewall rules to enable communication across networks or network segment boundaries.
     -   The Console needs to communicate with the Sensors, the Collectors, the MID Server, the SGC, and your ServiceNow instance.
-    ![Network setup](../../operational-technology-discovery-deployment-guide/images/network-setup-communications.png "Network communication setup")
+    ![Network setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/images/network-setup-communications.png "Network communication setup")
 
 -   Sensor-to-Console communication:
     -   Deploy a separate Console for each network, network segment, or system.

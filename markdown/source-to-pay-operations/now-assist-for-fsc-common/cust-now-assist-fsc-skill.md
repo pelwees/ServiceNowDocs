@@ -31,7 +31,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 3.  Create a copy of a skill and customize the input fields.
 
-    1.  On the Purchase order summarization for fulfillers feature card, select the More actions icon \(![More actions icon.](../image/more_vertical_icon.png)\).
+    1.  On the Purchase order summarization for fulfillers feature card, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/more_vertical_icon.png)\).
 
     2.  Select **Make a copy**.
 
@@ -39,7 +39,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../reference/input-triggers-now-assist-spo.md).
 
     1.  Enter a name and description for the skill.
 
@@ -57,7 +57,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
         Add multiple base input fields, as necessary.
 
-        ![Choose input screen.](../image/na-choose-input-fsc.png "Choose input step")
+        ![Choose input screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/na-choose-input-fsc.png "Choose input step")
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -190,13 +190,13 @@ Closed
     The fulfillers having the sn\_fsc\_genai.now\_assist\_fulfiller role can now select **Summarize** for a purchase order record in the Source-to-Pay Workspace to generate the summary for the purchase order.
 
 
--   **[Skill inputs for Now Assist for Common Finance and Supply Chain features](../reference/input-triggers-now-assist-fsc.md)**  
+-   **[Skill inputs for Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../reference/input-triggers-now-assist-fsc.md)**  
 You can configure some of the inputs for a generative AI skill. Inputs permit you to determine how and when a skill is used.
 
-**Parent Topic:**[Configuring Now Assist for Common Finance and Supply Chain features](configure-now-assist-fsc.md)
+**Parent Topic:**[Configuring Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/configure-now-assist-fsc.md)
 
 **Related topics**  
 
 
-[Customize supplier summarization for fulfillers skill](cust-na-fsc-supplier-skill.md)
+[Customize supplier summarization for fulfillers skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-na-fsc-supplier-skill.md)
 

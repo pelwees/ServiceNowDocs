@@ -19,7 +19,7 @@ Mobile notifications appear as badges on your ServiceNow mobile app screen. The 
 
 The badges that appear on your device contain a number. This number shows how many unread notifications and unread Virtual Agent messages that a user has. Notification message counts and Virtual Agent message counts are added. A combined count displays on the ServiceNow mobile app icon on your device as shown in the following image:
 
-![Shows how Virtual Agent messages and push notifications are added together to produce a total notification count on the ServiceNow mobile app notification badge.](../image/notification-badge-count-behavior.png "How badge numbers for Virtual Agent messages and push notifications are incremented")
+![Shows how Virtual Agent messages and push notifications are added together to produce a total notification count on the ServiceNow mobile app notification badge.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/notification-badge-count-behavior.png "How badge numbers for Virtual Agent messages and push notifications are incremented")
 
 After you read a notification, the badge notification count decreases. Notifications can be read, not read, or dismissed as described in the following situations:
 
@@ -30,7 +30,7 @@ After you read a notification, the badge notification count decreases. Notificat
 
 Notification counts on badges are tracked per user, not per device. If you are connected to a ServiceNow instance using multiple devices, all devices show the same badge count. The following image shows the badge count of three different devices, which are connected to an instance by one user.
 
-![Multiple devices connected to the same instance show the same notification badge count.](../image/notif-badges-per-user-not-device.png "Multiple devices connected to the same instance show the same notification badge count")
+![Multiple devices connected to the same instance show the same notification badge count.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/notif-badges-per-user-not-device.png "Multiple devices connected to the same instance show the same notification badge count")
 
 ## Offline mode behavior
 

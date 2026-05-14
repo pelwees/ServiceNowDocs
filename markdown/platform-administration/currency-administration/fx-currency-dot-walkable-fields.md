@@ -34,10 +34,10 @@ When the second operand is another Currency2 field, the condition translates in 
 
 `cost1>cost2` is treated as `cost1.currency=cost2.currency AND cost1.amount>cost2.amount`.
 
-**Parent Topic:**[Currency administration references](currency-admin-references.md)
+**Parent Topic:**[Currency administration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-admin-references.md)
 
 **Related topics**  
 
 
-[Life cycle of records containing FX Currency fields](fx-currency-records-lifecycle.md)
+[Life cycle of records containing FX Currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-records-lifecycle.md)
 

@@ -19,7 +19,7 @@ From the project overview panel, you can add a note or see a list of notes assoc
 
 **Note:** To add or delete notes, you must have the sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, or sn\_process\_mining\_admin role.
 
-**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
 ## View a note
 
@@ -37,7 +37,7 @@ Notes can be viewed from a main or linked process. A note can be edited or delet
 
 1.  Select the project to view a note from.
 
-2.  From the project view, select the Notes icon \(![Notes icon](../image/notes-icon.png)\) to open the Notes panel.
+2.  From the project view, select the Notes icon \(![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)\) to open the Notes panel.
 
 3.  From the **Show** list, select whether to show one or more of these options:
 
@@ -57,7 +57,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 1.  Select the project to add a note to.
 
-2.  From the project view, select the Notes \(![Notes icon](../image/notes-icon.png)\) icon to open the Notes panel.
+2.  From the project view, select the Notes \(![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)\) icon to open the Notes panel.
 
 3.  Select **New note** and type a note into the box.
 
@@ -86,11 +86,11 @@ A note can be edited from the main or linked process in which it was created.
 
 ### Procedure
 
-1.  From the project view, select the Notes icon \(![Notes icon](../image/notes-icon.png)\).
+1.  From the project view, select the Notes icon \(![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)\).
 
 2.  From the Notes panel, select the context menu of a note, then select **Edit**.
 
-    ![Edit a note](../image/edit-note.png)
+    ![Edit a note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/edit-note.png)
 
 3.  After you edit the note, select **Update**.
 
@@ -111,7 +111,7 @@ A note can be deleted from the main or linked process in which it was created. D
 
 ### Procedure
 
-1.  From the project view, select the Notes icon \(![Notes icon](../image/notes-icon.png)\).
+1.  From the project view, select the Notes icon \(![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)\).
 
 2.  From the Notes panel, select the context menu of a note, then select **Delete**.
 
@@ -138,13 +138,13 @@ Snapshots are helpful for seeing a process map and its configuration settings at
 
 1.  Select the project to view a snapshot from.
 
-2.  From the project view, select the Notes icon \(![Notes icon](../image/notes-icon.png)\) to open the Notes panel.
+2.  From the project view, select the Notes icon \(![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)\) to open the Notes panel.
 
 3.  Select the **Preview** button on a note.
 
     The snapshot displays the preview in the main map window, along with its model's statistics.
 
-    ![Example snapshot image](../image/snapshot.png)
+    ![Example snapshot image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/snapshot.png)
 
     -   On the preview map, you can adjust view of the primary and secondary metrics, select activities and connections to view, and zoom in and out. Viewing filters and routes is not possible from a snapshot preview, however.
     -   Snapshots cannot be updated.

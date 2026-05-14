@@ -177,7 +177,7 @@ The path of the UX screen. This option appears only when the **Type** field cont
 
 ## Result
 
-The following figure shows grouped related lists.![How related lists are grouped on a form after configuration.](../image/related-list-groupings-advanced-risk.jpg)
+The following figure shows grouped related lists.![How related lists are grouped on a form after configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/related-list-groupings-advanced-risk.jpg)
 
-**Parent Topic:**[Configuring Risk Management](../../grc-risk/concept/configure-risk-mgmt.md)
+**Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/configure-risk-mgmt.md)
 

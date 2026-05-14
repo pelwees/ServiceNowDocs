@@ -115,7 +115,7 @@ The new filter appears in the dashboard filter carousel and enables users to fil
 **Related topics**  
 
 
-[Change graph visualization](change-graph-visualization.md)
+[Change graph visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/change-graph-visualization.md)
 
-[Change an insight to use a different field for trending topics](change-insight-to-use-a-different-field.md)
+[Change an insight to use a different field for trending topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/change-insight-to-use-a-different-field.md)
 

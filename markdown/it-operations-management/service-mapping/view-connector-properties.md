@@ -28,15 +28,15 @@ You can view the following information for each connection:
 
 By default, Service Mapping merges connection lines for the same CI to declutter an application service map. It helps to make the map more readable.
 
-![Merged connection lines](../image/MapAddOptionsMergeEdgesExample.png "Merged connection lines")
+![Merged connection lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsMergeEdgesExample.png "Merged connection lines")
 
 Each connection type has different attributes. For a merged connection line, all underlying connections are listed.
 
 The way an service instance map displays connection attributes depends on the following factors:
 
--   [Views you configure for CIs](t_ConfigurePropertyDisplay.md) define which connection attributes appear in the Properties pane of the map.
--   Connection lines on the map depend on the [view you select for the map](modify-map-view.md).
--   Attributes available for viewing also depend on the Service Mapping setup, for more information see description of [components installed with Service Mapping](../reference/components-installed-with-service-mapping.md).
+-   [Views you configure for CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ConfigurePropertyDisplay.md) define which connection attributes appear in the Properties pane of the map.
+-   Connection lines on the map depend on the [view you select for the map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/modify-map-view.md).
+-   Attributes available for viewing also depend on the Service Mapping setup, for more information see description of [components installed with Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/components-installed-with-service-mapping.md).
 
 ## Procedure
 
@@ -64,7 +64,7 @@ The source and target CIs of a regular connection
 
 </td><td>
 
-Right-click the connection.![View the source and target CIs of a regular connection.](../image/ConnectorRightClick.png)
+Right-click the connection.![View the source and target CIs of a regular connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ConnectorRightClick.png)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Right-click the connection.![View the source and target CIs of a regular connect
 
 -   Right-click the merged connection line with a number and select the relevant connection.
 
-![View the source and target CIs of a merged connection.](../image/MergeConnectorRightClick.png)
+![View the source and target CIs of a merged connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MergeConnectorRightClick.png)
 
 Or
 
@@ -82,7 +82,7 @@ Or
 
 Right-click the connection line coming out or going into a CI, and select the relevant connection.
 
-![View the source and target CIs of a merged connection.](../image/MergedConnectorsSegmentsToFrom.png)
+![View the source and target CIs of a merged connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MergedConnectorsSegmentsToFrom.png)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ All concealed connections for this CI appear on the map.
 
 2.  Right-click the relevant connection line.
 
-![View the source and target CIs of a connection in the spanning tree view.](../image/ConnectorsSpanningTree.gif)
+![View the source and target CIs of a connection in the spanning tree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ConnectorsSpanningTree.gif)
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Click the merged connection line indicated by a number.
 
  All underlying connections are displayed separately in the **Properties** pane.
 
-![View detailed attributes of a merged connection.](../image/MergeConnectorDetailedProperty.png)
+![View detailed attributes of a merged connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MergeConnectorDetailedProperty.png)
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Detailed attributes of a connection segment shared by more than one merged conne
 
 Right-click the connection line coming out or going into a CI, select the relevant connection, and then choose **Select edge**.
 
-![View detailed attributes of a connection segment shared by more than one merged connection.](../image/MergedConnectorsSegments.gif)
+![View detailed attributes of a connection segment shared by more than one merged connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MergedConnectorsSegments.gif)
 
 The detailed attributes are displayed in the **Properties** pane.
 
@@ -144,7 +144,7 @@ All concealed connections for this CI appear on the map.
 
 2.  Click the required connection line.
 
-![View detailed attributes of a connection if the spanning tree is enabled.](../image/SpanningTreeConnectorDetailedProperties.png)
+![View detailed attributes of a connection if the spanning tree is enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/SpanningTreeConnectorDetailedProperties.png)
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ All concealed connections for this CI appear on the map.
 1.  Right-click the CI whose traffic-based connections you want to check.
 2.  Select **Show traffic based connections**.
 
-The Traffic Based Connections List opens displaying the information in [Traffic Based Connections List table](view-connector-properties.md#table_cmh_vy5_f1b).
+The Traffic Based Connections List opens displaying the information in [Traffic Based Connections List table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-connector-properties.md#table_cmh_vy5_f1b).
 
 3.  Click **Close** when finished viewing this list.
 
@@ -170,7 +170,7 @@ Click the manually added connection.
 
  The **Properties** pane shows Manual Endpoint under **Endpoint Type**.
 
- ![View manually added connection.](../image/MapManualCIConnectionProperty.png)
+ ![View manually added connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapManualCIConnectionProperty.png)
 
 </td></tr></tbody>
 </table><table id="table_cmh_vy5_f1b"><thead><tr><th>
@@ -233,5 +233,5 @@ User decision
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 

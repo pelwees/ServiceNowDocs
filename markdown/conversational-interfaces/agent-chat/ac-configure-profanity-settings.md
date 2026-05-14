@@ -80,7 +80,7 @@ Number of hours during which the number of messages with flagged words is tracke
 </td></tr></tbody>
 </table>5.  On the Flagged Words tab, specify words that the Profanity Filter should flag:
 
-    ![Flagged words tab with sample words.](../image/ci-flagged-words.png)
+    ![Flagged words tab with sample words.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/ci-flagged-words.png)
 
 <table id="table_eqp_4cz_wrb"><tbody><tr><td class="sub-head" colspan="2">
 
@@ -133,7 +133,7 @@ Status
 </td></tr></tbody>
 </table>6.  On the **Agent system messages** tab, configure the messages that the agent might see:
 
-    ![Agent system message tab with sample messages.](../image/agent-system-messages.png)
+    ![Agent system message tab with sample messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/agent-system-messages.png)
 
 <table id="table_ojg_scz_wrb"><tbody><tr><td class="sub-head" colspan="2">
 
@@ -174,7 +174,7 @@ Name of the user who most recently updated the message.
 </td></tr></tbody>
 </table>7.  On the **Manager system messages** tab, configure the messages that the manager might see:
 
-    ![Manager system messages tab with sample messages.](../image/manager-system-messages.png)
+    ![Manager system messages tab with sample messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../image/manager-system-messages.png)
 
 <table id="table_gry_ycz_wrb"><tbody><tr><td class="sub-head" colspan="2">
 
@@ -214,5 +214,5 @@ Name of the user who most recently updated the message.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../concept/ci-agent-chat-configuring.md)
 

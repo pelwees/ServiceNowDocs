@@ -25,7 +25,7 @@ Role required: email\_composer
 
     An email draft opens with the same functionality as creating an email from a new workspace tab.
 
-    ![Mini email composer](../image/xs2-mini-composer.png)
+    ![Mini email composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-mini-composer.png)
 
 3.  If available, complete the **Reply To** or **From** field.
 
@@ -37,16 +37,16 @@ Role required: email\_composer
 
 5.  In the **Subject** field, enter a subject line.
 
-6.  Hide the email header including all recipient fields by selecting the chevron icon \(![Chevron icon](../image/x-chevron-icon.png)\).
+6.  Hide the email header including all recipient fields by selecting the chevron icon \(![Chevron icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-chevron-icon.png)\).
 
 7.  Create the email body.
 
-    You can insert an email template into the email body. For more information, see [Use email templates in the mini email composer](compose-emails-with-email-templates.md).
+    You can insert an email template into the email body. For more information, see [Use email templates in the mini email composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/compose-emails-with-email-templates.md).
 
-    You can attach a file to the email. For more information, see [Add a file to an email from the mini email composer](add-a-file-to-an-email-from-the-mini-email-composer.md).
+    You can attach a file to the email. For more information, see [Add a file to an email from the mini email composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-a-file-to-an-email-from-the-mini-email-composer.md).
 
 8.  Select **Send**.
 
-    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [Review email drafts from the mini email composer](review-email-drafts-from-the-mini-email-composer.md).
+    Drafts save automatically after a set number of seconds. For more information on finding email drafts, see [Review email drafts from the mini email composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/review-email-drafts-from-the-mini-email-composer.md).
 
 

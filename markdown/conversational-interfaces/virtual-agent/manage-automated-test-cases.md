@@ -23,7 +23,7 @@ Role required: atf\_test\_designer, atf\_ws\_designer, atf\_test\_admin, virtual
 
 ## About this task
 
-The **Manage test cases** button opens the **Run test cases** tab. Before you can run a test case, you previously must have created a test case. The **Create test cases** tab displays published topics that don't have associated automated tests. These topics appear in order from their last published date. After you select a topic name, a new window opens and you're directed to that topic in Virtual Agent Designer. From the topic, you can select **Test** to create a test case. For more information, see [Create an automated test in Virtual Agent Designer](create-automated-test-vad.md).
+The **Manage test cases** button opens the **Run test cases** tab. Before you can run a test case, you previously must have created a test case. The **Create test cases** tab displays published topics that don't have associated automated tests. These topics appear in order from their last published date. After you select a topic name, a new window opens and you're directed to that topic in Virtual Agent Designer. From the topic, you can select **Test** to create a test case. For more information, see [Create an automated test in Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-automated-test-vad.md).
 
 ## Procedure
 
@@ -102,5 +102,5 @@ Displays the **Delete** button that deletes the test case from this page and the
     An in-progress banner appears and changes to a completion banner after your test results are ready. The Last run column updates and the last run test cases are moved to the top of the table.
 
 
-**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](../concept/automated-testing-va-topics.md)
+**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/automated-testing-va-topics.md)
 

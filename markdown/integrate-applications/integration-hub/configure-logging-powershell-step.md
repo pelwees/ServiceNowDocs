@@ -101,10 +101,10 @@ The new logs are available in the MID agent log and can be downloaded from the M
 
 If you set the system property to view the logs in the instance, you can see them in the **Flow engine log entries** tab of the Flow engine context record. For more information, see [Flow execution details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-execution-details.md).
 
-**Parent Topic:**[PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md)
+**Parent Topic:**[PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/powershell-step-action-designer.md)
 
 **Related topics**  
 
 
-[Test a credential for the PowerShell step](test-credential-powershell.md)
+[Test a credential for the PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/test-credential-powershell.md)
 

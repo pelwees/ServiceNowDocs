@@ -29,7 +29,7 @@ The following scenarios are supported by at least one of the loading mechanisms:
 -   Populating the form with the most current data from the database when triggering an input form action, such as saving progress.
 -   Providing data for write-back actions when submitting or saving progress. \(Variables only\)
 
-For a table listing which loading mechanisms support various input form UI elements, see [Loading mechanisms for input form UI elements](../reference/loading-mechanisms-table.md)
+For a table listing which loading mechanisms support various input form UI elements, see [Loading mechanisms for input form UI elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/loading-mechanisms-table.md)
 
 ## Examples for autofill variables and data sources
 
@@ -38,7 +38,7 @@ For a table listing which loading mechanisms support various input form UI eleme
 
 For more information, refer to the following topics:
 
--   [Data sources](data-sources.md)
--   [Configure attributes for input form screen variables](../task/param-screen-config-variables.md)
--   [Configure auto-fill inputs on input form screens](../task/config-autofil-inputs-nptfrmscrn.md)
+-   [Data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/data-sources.md)
+-   [Configure attributes for input form screen variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/param-screen-config-variables.md)
+-   [Configure auto-fill inputs on input form screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/config-autofil-inputs-nptfrmscrn.md)
 

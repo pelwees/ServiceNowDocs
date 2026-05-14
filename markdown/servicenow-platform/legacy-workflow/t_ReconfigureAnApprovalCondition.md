@@ -34,5 +34,5 @@ Approval activity script errors can prevent an approval from being processed suc
 4.  Click **Update**.
 
 
-**Parent Topic:**[Workflow error handling](../concept/c_WorkflowErrorHandling.md)
+**Parent Topic:**[Workflow error handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../concept/c_WorkflowErrorHandling.md)
 

@@ -39,7 +39,7 @@ The Finance Case Management application \(sn\_fin\_ops\) installs the following 
 
 1.  Navigate to **All** &gt; **Application Manager**.
 
-    ![Menu path to Application Manager](../image/fin-case-mgmt-installation.png)
+    ![Menu path to Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-case-mgmt-installation.png)
 
 2.  Find the Finance Case Management application \(sn\_fin\_ops\) using the filter criteria and search bar.
 
@@ -59,16 +59,16 @@ The Finance Case Management application \(sn\_fin\_ops\) installs the following 
 
 6.  Select **Install**.
 
-    Select the **Installed** tab and see the installed application and dependent plugins.![List of installed application and dependent plugins](../image/fin-case-mgmt-installed-apps.png)
+    Select the **Installed** tab and see the installed application and dependent plugins.![List of installed application and dependent plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-case-mgmt-installed-apps.png)
 
 
--   **[Components installed with Finance Case Management](../reference/installed-with-fin-ops.md)**  
+-   **[Components installed with Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../reference/installed-with-fin-ops.md)**  
 Several types of components are installed with the activation of the Finance Case Management plugin, including roles, flows, and tables.
 
-**Parent Topic:**[Configure Finance Case Management](../concept/config-fin-case-mgmt.md)
+**Parent Topic:**[Configure Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/config-fin-case-mgmt.md)
 
 **Related topics**  
 
 
-[Configure Finance Operations Workspace](../concept/configuring-fin-ops-ws.md)
+[Configure Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/configuring-fin-ops-ws.md)
 

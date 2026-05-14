@@ -34,19 +34,19 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    ![Now Assist skills available for Contract Management Pro.](../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
+    ![Now Assist skills available for Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
 
 4.  In the General details page, view the skill details and select **Save and continue**.
 
 5.  In the Use case page, select **Save and continue**.
 
-    For more information on creating a use case, see [Create use cases for contract metadata extraction](cmpro-na-usecase-me.md).
+    For more information on creating a use case, see [Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md).
 
 6.  In the Use case mappings page, select **New**.
 
 7.  On the Create new use case mapping form, fill in the fields.
 
-    For a description of the field values, see [Contract metadata extraction use case mapping form](../reference/cmpro-na-use-case-map-form-me.md).
+    For a description of the field values, see [Contract metadata extraction use case mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-na-use-case-map-form-me.md).
 
 8.  Select **Save**.
 
@@ -55,23 +55,23 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_core.contract\_conf
 
 The use case is mapped to specific tables and conditions, and it is applied for metadata extraction when the conditions are met.
 
--   **[Contract metadata extraction use case mapping form](../reference/cmpro-na-use-case-map-form-me.md)**  
+-   **[Contract metadata extraction use case mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-na-use-case-map-form-me.md)**  
 Use the Create use case mapping form in the contract metadata extraction skill to map the use case to specific tables and conditions.
 
-**Parent Topic:**[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
+**Parent Topic:**[Configuring contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)
 
 **Related topics**  
 
 
-[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 
-[Configure system properties for contract metadata extraction](cncore-conf-sys-prop-na.md)
+[Configure system properties for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-sys-prop-na.md)
 
-[Enable notification for contract metadata extraction](cncore-config-notf-na-metadata.md)
+[Enable notification for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-notf-na-metadata.md)
 
-[Configure the workspace URL for contract metadata extraction notifications](cncore-config-ext-wrkspc-email.md)
+[Configure the workspace URL for contract metadata extraction notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-ext-wrkspc-email.md)
 
-[Configure an extension point to add contract metadata](config-ext-pt-to-add-metadata.md)
+[Configure an extension point to add contract metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/config-ext-pt-to-add-metadata.md)
 
-[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-me.md)
 

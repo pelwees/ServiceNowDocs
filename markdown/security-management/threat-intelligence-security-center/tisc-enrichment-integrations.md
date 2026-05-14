@@ -29,7 +29,7 @@ Each enrichment type section appears only if at least one corresponding integrat
 
 The configured integration cards can be viewed by navigating to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations** &gt; **Enrichment Integrations** &gt; **All Integrations**.
 
-![Threat Intelligence integrations](../image/enrich-all-integrations.png)
+![Threat Intelligence integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-all-integrations.png)
 
 ## Actions on the All Integrations view
 
@@ -56,7 +56,7 @@ Use this list to filter integrations based on their current state. You can filte
 
 </td></tr><tr><td>
 
-![Card view](../image/enrich-card-view.png)
+![Card view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-card-view.png)
 
 </td><td>
 
@@ -64,7 +64,7 @@ Use this action to view all the integrations in the form of cards.
 
 </td></tr><tr><td>
 
-![List view](../image/enrich-list-view.png)
+![List view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-list-view.png)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Use this action to view all the integrations in the form of lists.
 
 </td></tr><tr><td>
 
-![Refresh](../image/enrich-refresh-icon.png)
+![Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-refresh-icon.png)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Use this action to refresh the All Integrations page.
 
 </td></tr><tr><td>
 
-![Sort](../image/enrich-sort-icon.png)
+![Sort](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-sort-icon.png)
 
 </td><td>
 
@@ -98,21 +98,21 @@ Search in catalog
 Use this action to search for configured integrations based on name and description within the catalog.
 
 </td></tr></tbody>
-</table>-   **[Configure new enrichment](../task/tisc-config-new-enrich.md)**  
+</table>-   **[Configure new enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-config-new-enrich.md)**  
 Set up threat intelligence enrichment integrations to automatically gather additional context about observables, search for sightings, or perform threat lookups from external security vendors.
--   **[Configure Observable Enrichment](../task/configure-observable-enrichment.md)**  
+-   **[Configure Observable Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/configure-observable-enrichment.md)**  
 Enrich one or more observables to identify whether they're associated with known threats. The results are based on the enrichment integrations active in your environment.
--   **[Configure Sighting Search](../task/configure-sighting-search.md)**  
+-   **[Configure Sighting Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/configure-sighting-search.md)**  
 Configure sighting search integration to search your organization logs for one or more observables to determine how many times each observable appears, within a specified date range or number of days.
--   **[Configure Threat Lookup](../task/configure-threat-lookup.md)**  
+-   **[Configure Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/configure-threat-lookup.md)**  
 Scan selected observables for malware using Threat Intelligence to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
--   **[Threat Lookup](tisc-threat-lookup.md)**  
+-   **[Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-lookup.md)**  
 Scan selected observables for malware using VirusTotal and CrowdStrike Falcon Intelligence. This workflow checks observables against both threat intelligence sources and returns detailed security analysis results.
 
-**Parent Topic:**[TISC Integrations](tisc-integrations.md)
+**Parent Topic:**[TISC Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-integrations.md)
 
 **Related topics**  
 
 
-[TISC Security Tools integrations](tisc-edr-integrations.md)
+[TISC Security Tools integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 

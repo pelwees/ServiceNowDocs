@@ -17,7 +17,7 @@ Promote a legal request to a legal matter when the request needs additional inve
 
 ## Before you begin
 
-Ensure you have the Legal Matter Management app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md).
+Ensure you have the Legal Matter Management app installed and the record producer type in the associated intake form is set to **Request and Matter**. For more information, see [Add an intake form to a practice area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../../legal-request-management/task/associate-categories-practice-area.md).
 
 Role required: sn\_lg\_ops.legal\_fulfiller
 
@@ -33,7 +33,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
     -   To create a legal matter record with predefined data, such as phases and tasks, select a template name from the **Matter template**.
     -   To create a legal matter record without any predefined data, leave the **Matter template** field empty.
-5.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+5.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 
 ## Result

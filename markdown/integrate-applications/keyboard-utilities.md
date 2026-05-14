@@ -13,10 +13,10 @@ breadcrumb: [Utilities, Automation components, RPA Desktop Design Studio, Workfl
 
 The Keyboard component in the RPA Desktop Design Studio simulate keyboard strokes and shortcuts to perform various day-to-day actions on various applications and programs.
 
--   **[Use the SendKeys component](../task/use-utilities-keyboard-sendkeys.md)**  
+-   **[Use the SendKeys component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-utilities-keyboard-sendkeys.md)**  
 Simulate the actions of the standard Microsoft Windows supported keys on various applications and programs with the SendKeys component in the RPA Desktop Design Studio.
--   **[Properties of keyboard components](../reference/properties-of-keyboard-components.md)**  
+-   **[Properties of keyboard components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-of-keyboard-components.md)**  
 Learn about the properties of the keyboard components in RPA Desktop Design Studio.
 
-**Parent Topic:**[Utilities](utilities.md)
+**Parent Topic:**[Utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/utilities.md)
 

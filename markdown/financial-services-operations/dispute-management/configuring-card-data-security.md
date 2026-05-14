@@ -71,9 +71,9 @@ Tokenizer service
 
 </td></tr><tr><td>
 
-[Set up Visa integration](../../fso-visa-spoke/concept/financial-services-operations-integration-with-visa-landing-page.md)
+[Set up Visa integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-visa-spoke/concept/financial-services-operations-integration-with-visa-landing-page.md)
 
- [Set up Mastercard integration](../../fso-mastercard/concept/financial-services-operations-integration-with-mastercard-landing-page.md)
+ [Set up Mastercard integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-mastercard/concept/financial-services-operations-integration-with-mastercard-landing-page.md)
 
 </td><td>
 
@@ -85,7 +85,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Install Card Data Security](../task/install-card-data-security.md)
+[Install Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/install-card-data-security.md)
 
 </td><td>
 
@@ -97,13 +97,13 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Set up OAuth for Card Data Security](set-up-oauth-for-card-data-security.md)
+[Set up OAuth for Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-oauth-for-card-data-security.md)
 
 </td><td>
 
 For OAuth authentication, follow these steps to set up connectivity with your ServiceNow instance. These connections are required to get file metadata and download URLs from files hosted in the tokenizer service vault.
 
-**Note:** You must set up OAuth to use the Card Data Security container components, including the [PAN reveal components](../task/reveal-a-pan-using-card-data-security.md) and the [file viewing component](manage-attachments-in-card-data-security.md).
+**Note:** You must set up OAuth to use the Card Data Security container components, including the [PAN reveal components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/reveal-a-pan-using-card-data-security.md) and the [file viewing component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 </td><td>
 
@@ -111,7 +111,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Set up tokenized HTTP connection &amp; credential aliases](../task/create-a-new-tokenizer-route.md)
+[Set up tokenized HTTP connection &amp; credential aliases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/create-a-new-tokenizer-route.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Manage Tokenizer Resource Configurations](manage-tokenizer-resource-configurations.md)
+[Manage Tokenizer Resource Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-tokenizer-resource-configurations.md)
 
 </td><td>
 
@@ -135,11 +135,11 @@ ServiceNow
 
 </td></tr><tr><td>
 
-[Customize your card disputes workflow with the Card Data Security container](card-data-security-component.md)
+[Customize your card disputes workflow with the Card Data Security container](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security-component.md)
 
 </td><td>
 
-Card Data Security includes a [PAN reveal component](../task/reveal-a-pan-using-card-data-security.md) and a [document viewing component](manage-attachments-in-card-data-security.md).
+Card Data Security includes a [PAN reveal component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/reveal-a-pan-using-card-data-security.md) and a [document viewing component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
  To make changes, you can modify the preconfigured Card Data Security components using UI Builder.
 

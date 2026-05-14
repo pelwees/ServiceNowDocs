@@ -17,5 +17,5 @@ You can configure card actions to provide a highly visible interface for actions
 
 Users interact with card actions by tapping buttons within a card or action list. Users can perform an action right from a card, such as an approval. You can also display a menu with to give the user a choice of multiple actions.
 
-![Examples of card actions in the mobile UI.](../image/card-actions-1.png "Example of card actions in the mobile UI")
+![Examples of card actions in the mobile UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/card-actions-1.png "Example of card actions in the mobile UI")
 

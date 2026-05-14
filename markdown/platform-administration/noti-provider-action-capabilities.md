@@ -39,10 +39,10 @@ Role required: admin
     -   Flow Action
     -   Virtual Agent
 
--   **[Create a scriptable notification action](noti-scriptable-action.md)**  
+-   **[Create a scriptable notification action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-scriptable-action.md)**  
 Select **Scriptable Action** from the Notification Action wizard to create a scriptable notification action.
--   **[Create a flow notification action](noti-flow-action.md)**  
+-   **[Create a flow notification action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-flow-action.md)**  
 Select **Flow Action** from the Notification Action wizard to create a flow notification action.
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/create-provider-notification-using.md)
 

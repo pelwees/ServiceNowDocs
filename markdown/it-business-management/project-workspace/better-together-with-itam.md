@@ -23,5 +23,5 @@ This integration enables Hardware Asset Management \(HAM\) requests and refreshe
 -   View project-tagged asset requests from the project record.
 -   Create new asset project requests from the asset project request list.
 
-**Parent Topic:**[Exploring Project Workspace](exploring-project-workspace.md)
+**Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 

@@ -45,7 +45,7 @@ ServiceNow applications are defined with the following incremental support level
 
 In general, data defined at a higher level in the domain hierarchy is not visible at lower levels in the hierarchy.
 
-![Sample domain separation hierarchy](../image/bp-ds-hierarchy.png)
+![Sample domain separation hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-ds-hierarchy.png)
 
 ## Domain path migration
 
@@ -55,29 +55,29 @@ Domain paths are used for all customers. Domain numbering is not used. Customer 
 
 Separate instances are a common alternative to domain separation. This provides a great degree of flexibility in meeting the requirements for customers and stakeholders with little to no impact on others.
 
-![Alternatives to domain separation](../image/bp-alternatives-to-DS.png)
+![Alternatives to domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-alternatives-to-DS.png)
 
 **Warning:** Before activating domain separation, consult your representative to verify that it is suitable for your environment. Domain separation adds a level of administration overhead. Although it can be disabled, it cannot be removed from an instance.
 
--   **[Configuration that can be delegated to internal or external customers](ds-before-you-begin.md)**  
+-   **[Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ds-before-you-begin.md)**  
 Domain separation is designed to give ServiceNow® service providers \(SPs\) the ability to configure the services they offer to their customers. It is not designed to enable their customers to administer those services themselves, except in a few areas that this topic details.
--   **[Domain assignment](c_DomainAssignment.md)**  
+-   **[Domain assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainAssignment.md)**  
 By default, domain separation adds a domain field to tables and their extensions.
--   **[Visibility domains and Contains domains](c_DomainVisibility.md)**  
+-   **[Visibility domains and Contains domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainVisibility.md)**  
 Visibility domains control what a specific user or group of users can see. "Contains" domains control what an entire domain of users can see.
--   **[Domain scope](c_DomainScope.md)**  
+-   **[Domain scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainScope.md)**  
 Domain scope defines what users can and cannot access.
--   **[Concepts for service providers](sp-concepts.md)**  
+-   **[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)**  
 These concepts work with the existing ServiceNow platform capabilities to help you solve for common use cases.
--   **[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)**  
+-   **[Installed with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/r_InstalledWithDomainSeparation.md)**  
 Several platform components are added or modified with domain separation.
 
-**Parent Topic:**[Domain separation for service providers](../reference/domain-sep-landing-page.md)
+**Parent Topic:**[Domain separation for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/domain-sep-landing-page.md)
 
 **Related topics**  
 
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/bp-domain-sep-recommended.md)
 
-[Domain separation plugin](domain-sep-plugin.md)
+[Domain separation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-sep-plugin.md)
 

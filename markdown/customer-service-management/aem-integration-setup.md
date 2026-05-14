@@ -17,13 +17,13 @@ You have to set up your ServiceNow services and components to integrate with you
 
 You can define the following types of configuration settings for ServiceNow services in AEM:
 
--   Authentication settings with a third-party OIDC provider \(see [Configure OIDC provider details in Adobe Experience Manager](../task/aem-setup-servicenow-authentication.md#)\).
--   Specific settings for ServiceNow services \(see [Define OSGi configuration settings for ServiceNow services](aem-integration-setup.md#)\).
--   Log file settings for ServiceNow services \(see [Configure log file settings for ServiceNow services in Adobe Experience Manager](aem-integration-setup.md#)\).
+-   Authentication settings with a third-party OIDC provider \(see [Configure OIDC provider details in Adobe Experience Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/aem-setup-servicenow-authentication.md#)\).
+-   Specific settings for ServiceNow services \(see [Define OSGi configuration settings for ServiceNow services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md#)\).
+-   Log file settings for ServiceNow services \(see [Configure log file settings for ServiceNow services in Adobe Experience Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md#)\).
 
 ## Settings for using ServiceNow components in AEM
 
-To use the Knowledge API endpoint on your AEM instance, you have to define the cross-origin resource sharing \(CORS\) rule on your ServiceNow instance. For more information, see [Define a cross-origin resource sharing rule \(CORS\) to access ServiceNow API endpoints from AEM](aem-integration-setup.md#).
+To use the Knowledge API endpoint on your AEM instance, you have to define the cross-origin resource sharing \(CORS\) rule on your ServiceNow instance. For more information, see [Define a cross-origin resource sharing rule \(CORS\) to access ServiceNow API endpoints from AEM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/aem-integration-setup.md#).
 
 ## Define OSGi configuration settings for ServiceNow services
 

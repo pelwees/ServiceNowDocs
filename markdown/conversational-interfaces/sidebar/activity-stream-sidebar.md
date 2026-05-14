@@ -22,9 +22,9 @@ When a Sidebar discussion is created, a corresponding Sidebar discussion tile is
 
 When you start a Sidebar discussion, a tile corresponding to the discussion is automatically added to the activity stream.
 
-![Sidebar tile, indicated by an arrow, within the activity stream.](../image/sidebar-activity-stream-example-1.png)
+![Sidebar tile, indicated by an arrow, within the activity stream.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-activity-stream-example-1.png)
 
-![Sidebar tile](../image/sidebar-activity-stream-tile-example.png)
+![Sidebar tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-activity-stream-tile-example.png)
 
 | | |
 |---|---|
@@ -42,29 +42,29 @@ The primary record card appears as part of the activity stream and displays the 
 -   Link that opens the record
 -   Priority \(for task-based record cards\)
 
-![Primary record card.](../image/sidebar-primary-record-card-example.png)
+![Primary record card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-primary-record-card-example.png)
 
 ## Starting a discussion
 
 If you select **Open Discussion**, then the Sidebar panel opens and displays the Sidebar discussions. Customers and non-fulfiller roles don’t have access to the record don’t have access to the conversation tile, similar to work notes.
 
-![Start a discussion.](../image/sidebar-start-discussion.png)
+![Start a discussion.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-start-discussion.png)
 
 ## Posting a message
 
 You can select any message in the Sidebar discussion panel and post it to the activity stream. When you post a message from the Sidebar discussion to the primary records activity stream, the most important information is tied directly to the record. This enables you to access collaborative conversations from a record so that you can add yourself to the discussion and view the conversation history.
 
-![Post a message.](../image/sidebar-post-message.png)
+![Post a message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-post-message.png)
 
 If Sidebar messages posted to the activity stream aren’t appearing, ensure **Sidebar discussion** and **Sidebar posted message** are selected in the activity stream filter.
 
-![Check for Sidebar post types.](../image/sidebar-same-post-type.png)
+![Check for Sidebar post types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-same-post-type.png)
 
 ## Pinning a discussion tile
 
 To pin a discussion tile in the activity stream, select the pushpin icon to pin a discussion tile to the activity stream. Pinning a discussion tile ensures that the discussion always stays at the top of the activity stream.
 
-![Pin a discussion tile.](../image/sidebar-pin-example.png)
+![Pin a discussion tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-pin-example.png)
 
 ## Editing or Deleting a message in Sidebar
 
@@ -78,5 +78,5 @@ If you delete a message in a Sidebar discussion after the original message was a
 
 To remove a message from the activity stream, select the **More Actions** menu for each chat bubble within a Sidebar discussion and then select **Remove from activity stream**.
 
-![Remove a message.](../image/sidebar-remove-message.png)
+![Remove a message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-remove-message.png)
 

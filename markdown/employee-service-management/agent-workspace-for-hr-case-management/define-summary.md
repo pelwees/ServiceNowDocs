@@ -32,17 +32,17 @@ You must be assigned to the case.
 
 2.  Create an HR case within the Employee Relations COE by selecting the **Add** icon \(plus sign\).
 
-    For detailed instructions, see [Create a case in Agent Workspace for HR Case Management](agent-ws-configurable-hr-create-case.md).
+    For detailed instructions, see [Create a case in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-configurable-hr-create-case.md).
 
     An employee relations case is created.
 
 3.  Select **Summary Report**.
 
-    ![Summary report button](../image/summary-report.png)
+    ![Summary report button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/summary-report.png)
 
 4.  In the Summary Report window, select a predefined document template format in which the case details are captured.
 
-    For details on how to create and use document templates, see [Document Templates](../concept/document-templates-overview.md).
+    For details on how to create and use document templates, see [Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/document-templates-overview.md).
 
 5.  Select **Generate**.
 

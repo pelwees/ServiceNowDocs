@@ -30,14 +30,14 @@ Role required: it\_pps\_admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Resource events](../concept/c_ResourceEvents.md)
+**Parent Topic:**[Resource events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ResourceEvents.md)
 
 **Related topics**  
 
 
-[Resource events and schedules](../reference/r_ResourceEventsAndSchedules.md)
+[Resource events and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_ResourceEventsAndSchedules.md)
 
-[Resource event modifications](../concept/c_ModifyAResourceEvent.md)
+[Resource event modifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ModifyAResourceEvent.md)
 
-[Modify a self-created resource event](t_ModifyASelfCreatedResourceEvent.md)
+[Modify a self-created resource event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_ModifyASelfCreatedResourceEvent.md)
 

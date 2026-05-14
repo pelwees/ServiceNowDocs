@@ -45,7 +45,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon.](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Executed contracts**.
 4.  Select **All**.
 5.  Select the contract repository record.
@@ -68,7 +68,7 @@ Steps
 
     The Document Intelligence workspace opens on a different tab displaying the extracted information.
 
-    ![Document intelligence workspace to update the extracted metadata.](../image/cmpro-na-di-me.png "Document Intelligence workspace")
+    ![Document intelligence workspace to update the extracted metadata.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-di-me.png "Document Intelligence workspace")
 
 3.  Review the extracted information.
 
@@ -97,7 +97,7 @@ Steps
 
 The information is submitted to be added to the mapped fields in the contract repository.
 
-When the extraction process is completed, you can view the status of the extracted fields in the **Extraction results** related list in the contract repository record. For more information on the status of the fields, see [Metadata extraction results](../reference/cncore-metadata-ext-results.md).
+When the extraction process is completed, you can view the status of the extracted fields in the **Extraction results** related list in the contract repository record. For more information on the status of the fields, see [Metadata extraction results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-metadata-ext-results.md).
 
-**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](../concept/cncore-metadata-extract-land.md)
+**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-metadata-extract-land.md)
 

@@ -44,7 +44,7 @@ Role required: none
 
 After you submit the request, the Analytics team is responsible for reviewing and implementing your requested changes.
 
-**Parent Topic:**[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+**Parent Topic:**[Create and use dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/create-and-edit-dashboards.md)
 
 ## Fulfill an analytics request
 
@@ -97,9 +97,9 @@ Role required:
 **Related topics**  
 
 
-[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+[Create and use dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/create-and-edit-dashboards.md)
 
-[Share a responsive dashboard](t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
 ## Activate the Self-Service Portal for Analytics plugin
 

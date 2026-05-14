@@ -33,29 +33,29 @@ The Customer Service Management \(CSM\) landing page gives agents an overview of
 
     2.  In **UI Builder**, navigate to **Page** &gt; **Landing Page** and select **CSM Landing Page**.
 
-        ![View of CSM landing page with fully customizable content.](../image/ps-csm-landing-page.png)
+        ![View of CSM landing page with fully customizable content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-csm-landing-page.png)
 
     3.  In the message displayed at the top of the page, select **Edit in original scope**.
 
-        ![Top view of CSM landing page containing a button to edit in original scope.](../image/ps-edit-original-scope-msg.png)
+        ![Top view of CSM landing page containing a button to edit in original scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-edit-original-scope-msg.png)
 
 4.  In the Customer Service Management \(CSM\) landing page, select the **My active cases** component and in the **Config** tab of the Configuration pane, delete the **account** field from the **Columns**.
 
-    ![Admin view of the configuration pane showing the account field being removed from the columns of the landing page.](../image/ps-csm-landing-page-active-cases.png)
+    ![Admin view of the configuration pane showing the account field being removed from the columns of the landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-csm-landing-page-active-cases.png)
 
 5.  Add the **Constituent** field:
 
     1.  In the Configuration pane, select **+Add** in the **Columns** list to open the field chooser.
 
-        ![Admin view of the configuration pane, where you can customize the fields, columns, and sections displayed.](../image/ps-constituent-field.png)
+        ![Admin view of the configuration pane, where you can customize the fields, columns, and sections displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-constituent-field.png)
 
     2.  In the Choose a field list, select **Consumer** &gt; **Constituent**, then select **OK**.
 
-        ![Admin view of the field list, displaying a list of all fields that can be added or removed from the CSM landing page.](../image/ps-field-list.png)
+        ![Admin view of the field list, displaying a list of all fields that can be added or removed from the CSM landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-field-list.png)
 
     3.  In the Configuration pane, rearrange the columns by moving **consumer.constituent** below **short.description**.
 
-        ![Admin view of the configuration pane that shows columns being rearranged.](../image/ps-configuration-pane-rearrange.png)
+        ![Admin view of the configuration pane that shows columns being rearranged.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ps-configuration-pane-rearrange.png)
 
 6.  Repeat Steps 3 and 4 to change the **My Team’s cases** component.
 
@@ -64,5 +64,5 @@ The Customer Service Management \(CSM\) landing page gives agents an overview of
 8.  Select **Save** to save the landing page changes.
 
 
-**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](../concept/setting-up-csm-fsm.md)
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/setting-up-csm-fsm.md)
 

@@ -21,10 +21,10 @@ Create a sub-capability and add it to the capability hierarchy map.
 |Description|A short description of the sub-capability.|
 |Parent|Name of the parent capability for the sub-capability that you’re creating.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a sub-capability](../../task/eaw-task/eaw-create-sub-capability.md)
+[Create a sub-capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-sub-capability.md)
 

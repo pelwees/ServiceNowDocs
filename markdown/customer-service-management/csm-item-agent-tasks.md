@@ -25,7 +25,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 1.  Open a customer service case.
 
-2.  Select the More UI Actions icon \(![More UI Actions icon](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Incident**.
+2.  Select the More UI Actions icon \(![More UI Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Incident**.
 
     The following information is copied from the case to the incident record:
 
@@ -62,7 +62,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 1.  Open a customer service case.
 
-2.  Select the More Actions icon \(![More Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Problem**.
+2.  Select the More Actions icon \(![More Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Problem**.
 
     The following information is copied from the case to the Problem record:
 
@@ -100,7 +100,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 1.  Open a customer service case.
 
-2.  Select the More Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Normal Change**.
+2.  Select the More Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Normal Change**.
 
     The following information is copied from the case to the change record:
 
@@ -208,7 +208,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 1.  Open a customer service case.
 
-2.  Select the More Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Standard Change**.
+2.  Select the More Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Standard Change**.
 
     The standard change record is created using the Standard Change template, which is defined in the Standard Change catalog. The data mapping is created from the template; no data is copied from the case to the change record.
 
@@ -225,7 +225,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent
 
 1.  Open a customer service case.
 
-2.  Select the More Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Request**.
+2.  Select the More Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Request**.
 
     The following information is copied from the case to the request record:
 

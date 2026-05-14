@@ -34,16 +34,16 @@ The ServiceNow Fluent Language server provides code completion features and vali
 
 ## What to do next
 
-To use ServiceNow Fluent in applications with the ServiceNow SDK, see [Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK](define-metadata-code-fluent-sdk.md).
+To use ServiceNow Fluent in applications with the ServiceNow SDK, see [Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/define-metadata-code-fluent-sdk.md).
 
-**Parent Topic:**[Configuring the ServiceNow SDK](../concept/configuring-servicenow-sdk.md)
+**Parent Topic:**[Configuring the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/configuring-servicenow-sdk.md)
 
 **Related topics**  
 
 
-[Install the ServiceNow SDK in an application](install-servicenow-sdk.md)
+[Install the ServiceNow SDK in an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/install-servicenow-sdk.md)
 
-[Upgrade the ServiceNow SDK](upgrade-servicenow-sdk.md)
+[Upgrade the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/upgrade-servicenow-sdk.md)
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 

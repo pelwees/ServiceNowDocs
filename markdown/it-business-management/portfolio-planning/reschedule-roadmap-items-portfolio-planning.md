@@ -55,8 +55,8 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 3.  To reschedule the roadmap item, drag and drop the item to a timeline area of your choice.
 
-    ![Update planned dates of a roadmap item.](../../spw-roadmap/images/update-roadmap-item.gif)
+    ![Update planned dates of a roadmap item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/update-roadmap-item.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

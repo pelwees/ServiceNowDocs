@@ -27,19 +27,19 @@ Role required: resource\_manager
 
 3.  On the Resource Role form, fill the fields.
 
-    For a description of the field names, see [Resource Role form](../reference/rsrc-role-form.md).
+    For a description of the field names, see [Resource Role form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/rsrc-role-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Resource allocation](../reference/r_AllocatingResources.md)
+**Parent Topic:**[Resource allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_AllocatingResources.md)
 
 **Related topics**  
 
 
-[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+[User resources and group resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_UserResourcesAndGroupResources.md)
 
-[Create allocations](t_AllocateWResAllocationsRelList.md)
+[Create allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AllocateWResAllocationsRelList.md)
 
-[Reject a resource plan from the Resource Plan form](t_RejectResourcePlanForm.md)
+[Reject a resource plan from the Resource Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_RejectResourcePlanForm.md)
 

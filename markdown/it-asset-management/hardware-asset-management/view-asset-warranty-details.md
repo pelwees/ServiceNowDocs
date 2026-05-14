@@ -30,10 +30,10 @@ Role required: asset
 3.  Select a warranty record to view more details.
 
 
-**Parent Topic:**[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+**Parent Topic:**[Receive asset warranty details from Lenovo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/receive-warranty-details-lenovo.md)
 
 **Related topics**  
 
 
-[Connect to the Lenovo Warranty API](connect-to-lenovo-api.md)
+[Connect to the Lenovo Warranty API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/connect-to-lenovo-api.md)
 

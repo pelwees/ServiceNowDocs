@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     This example shows the Regulatory agency profile's "DORA reporting cases" record, featuring the 'European Union' as the regulatory agency and 'Digital Operational Resilience Act' as the regulation. This record also contains action tasks preconfigured with Smart Assessment templates.
 
-    ![DORA reporting cases" record. For the text description, refer to the text that precedes this image.](../image/action-task-config-dora-conditions.png)
+    ![DORA reporting cases" record. For the text description, refer to the text that precedes this image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-config-dora-conditions.png)
 
     1.  Configure single or multiple regulatory agency profiles for the Digital Resilience Incident Reporting Case \[sn\_grc\_inc\_rptg\_case\_task\] table, based on different combinations of agency, regulation, or jurisdiction criteria.
 
@@ -35,11 +35,11 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         **Note:** Use an action task configuration to set up contextual information for different regulations. The configuration includes the assessment template, assignment group, trigger conditions, due dates, and more.
 
-        **Note:** The templates shown in this example are specific to DORA regulation. If other regulations are mapped to the entities in use, verify that their corresponding Smart Assessment templates are set up and published in the Assessment Workspace first. For more information, see [Set up DRI Smart Assessment templates](set-up-sae-templates.md).
+        **Note:** The templates shown in this example are specific to DORA regulation. If other regulations are mapped to the entities in use, verify that their corresponding Smart Assessment templates are set up and published in the Assessment Workspace first. For more information, see [Set up DRI Smart Assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-sae-templates.md).
 
         The DORA regulations include four Smart Assessment template configurations as shown in the Action Task Configurations related list.
 
-        ![Smart Assessment template configurations. For the text description, refer to the text that precedes this image.](../image/action-task-config-dora.png)
+        ![Smart Assessment template configurations. For the text description, refer to the text that precedes this image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-config-dora.png)
 
         -   **Regulatory reporting assessment of IT incidents template**
 
@@ -47,13 +47,13 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
             The **Repeat** field indicates that the action tasks can be configured for either once or periodically. For regulatory reporting, the initial action task is created only once. The **On create** field shows that the action tasks are generated only when a DRIR case is created. If the **On create** field is inactive \(cleared\), the action task isn’t generated. The **Assignment group** field assigns the action task to a designated group automatically.
 
-            ![Task 1.](../image/act-task-1-temp-condition.png)
+            ![Task 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-1-temp-condition.png)
 
         -   **DRI Initial report template**
 
             When the reporting status of a regulation changes from "To be determined' to 'Reportable' after the first assessment, an initial report is sent automatically. Similar to other action tasks, you can configure the assignment group and due date, and this template is created only once according to trigger.
 
-            ![Task 2.](../image/act-task-2-temp-condition.png)
+            ![Task 2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-2-temp-condition.png)
 
             A single DIR case can be associated with multiple regulations. When the reporting status of any individual regulation changes to 'reportable,' a dedicated initial report is generated for that specific regulation. For example, if a case involves five regulations, and each one's status becomes 'reportable,' five separate initial reports are created, demonstrating comprehensive support for multiple regulations.
 
@@ -67,13 +67,13 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
             -   The source of DIR case isn’t 'Manual', the source record state of incident or security incident is Closed' or the state of DIR case is 'Closed' or 'Canceled'.
             When any of these termination conditions are met, no further intermediate assessment action tasks are generated.
 
-            ![Task 3.](../image/act-task-3-temp-condition.png)
+            ![Task 3.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-3-temp-condition.png)
 
         -   **DRI Final report template**
 
             When the associated source record's state is 'Closed' and the source isn’t manual as shown in the example, the final report is generated automatically.
 
-            ![Task 4.](../image/act-task-4-temp-condition.png)
+            ![Task 4.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-4-temp-condition.png)
 
             If the source is manual, you must create the final report manually.
 

@@ -17,7 +17,7 @@ As a legal request fulfiller, view legal requests and matters in the Microsoft O
 
 ## Before you begin
 
-Ensure you have installed and configured Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
+Ensure you have installed and configured Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
 
 Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfiller
 
@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfille
 
 1.  Sign in to Microsoft Outlook Add-In for Legal Service Delivery.
 
-    For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-login.md).
+    For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-login.md).
 
 2.  On the Microsoft Outlook ribbon, select ServiceNow for Legal.
 
@@ -68,10 +68,10 @@ The legal request submitted for the email is displayed in the Created from this 
 </td></tr></tbody>
 </table>    Legal request details are displayed and you can attach or delete documents.
 
-4.  To view the legal request or matters in the ServiceNow instance, select Open the request in workspace icon \(![Open the request in workspace icon](../image/lsd-outlook-addin-open-lr.png)\).
+4.  To view the legal request or matters in the ServiceNow instance, select Open the request in workspace icon \(![Open the request in workspace icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/lsd-outlook-addin-open-lr.png)\).
 
     You can view the legal request or matters in the instance and perform actions that are available according to the current state.
 
 
-**Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-use.md)
+**Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 

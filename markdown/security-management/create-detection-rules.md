@@ -26,11 +26,11 @@ Detection rule mapping enables your organization to see which detection rules ar
 
 The primary purpose of the mapping is to provide visibility if your organization has the necessary detection rules to identify when an alert or event is triggered as a result of an attack by an adversary using a specific technique.
 
-For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [the MITRE-ATT&amp;CK navigator](../concept/mitre-att-ck-heatmap-and-navigator.md#).
+For example, view the following illustration that shows a list of the detection rules mapped to various techniques. You can also view this information in [the MITRE-ATT&amp;CK navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-att-ck-heatmap-and-navigator.md#).
 
-![MITRE ATT&CK detection rules.](../image/mitre-detection-rules.png)
+![MITRE ATT&CK detection rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-detection-rules.png)
 
-If you do not intend to use the base system SIEM auto-extraction rules, then enable the automatic rollup of MITRE-ATT&amp;CK TTPs based on the detection rule mapping. You can populate the alert or event rule that triggers the security incident in the Alert Rule name field. You can also populate the Alert Rule name field by using SIEM integration, email parsing, manual creation, etc. For more information, see [Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md).
+If you do not intend to use the base system SIEM auto-extraction rules, then enable the automatic rollup of MITRE-ATT&amp;CK TTPs based on the detection rule mapping. You can populate the alert or event rule that triggers the security incident in the Alert Rule name field. You can also populate the Alert Rule name field by using SIEM integration, email parsing, manual creation, etc. For more information, see [Rollup MITRE-ATT&amp;CK information from detection rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-attack-information-detection-rules.md).
 
 **Note:**
 
@@ -65,7 +65,7 @@ The detection rules feature has been updated to include mapping a single tactic 
         |Deprecated|The detection rule mapping is deprecated.|
         |Active|Option to specify if the detection rule is active and deployed in your environment.|
 
-        ![Detection Rules example.](../image/mitre-detection-rules-example.png)
+        ![Detection Rules example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-detection-rules-example.png)
 
     2.  Click **Submit**.
     Method 2: Import and create detection rules.
@@ -77,7 +77,7 @@ The detection rules feature has been updated to include mapping a single tactic 
 
         In the following illustration, you see how to export the excel template, fill the details in the spreadsheet, upload the file, preview the fields, and import it back to the ServiceNow AI Platform.
 
-        ![MITRE download import template.](../image/mitre-import-download.gif)
+        ![MITRE download import template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-import-download.gif)
 
     5.  Open the spreadsheet, select the second sheet tab, and review what you entered. On the form, fill in the fields and then, save your file.
 
@@ -99,7 +99,7 @@ The detection rules feature has been updated to include mapping a single tactic 
 
         The following illustration shows the spreadsheet template. The required fields are highlighted in red - Rule Name, MITRE-ATT&amp;CK Tactic ID, and MITRE-ATT&amp;CK Technique ID.
 
-        ![Update the mapping details in the spreadsheet template.](../image/mitre-rules-mapping-excel.png)
+        ![Update the mapping details in the spreadsheet template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-rules-mapping-excel.png)
 
     6.  Click **Choose file** and select the spreadsheet on your computer.
     7.  Click **Upload**.
@@ -108,57 +108,57 @@ The detection rules feature has been updated to include mapping a single tactic 
 
         The following illustration shows how to upload the spreadsheet, preview the data, review any errors, and complete the detection rule mapping import process.
 
-        ![Upload the spreadsheet to complete the detection rule mapping.](../image/mitre-import-upload.gif)
+        ![Upload the spreadsheet to complete the detection rule mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-import-upload.gif)
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/domain-separation-and-mitre-att-ck.md)
 
-[Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
+[Set up the MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md)
 
-[Manage matrices](view-mitre-collection.md)
+[Manage matrices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-mitre-collection.md)
 
-[Manage techniques](view-techniques.md)
+[Manage techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-techniques.md)
 
-[Manage mitigations](manage-mitigations.md)
+[Manage mitigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitigations.md)
 
-[Manage groups](manage-groups-threat-intel.md)
+[Manage groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-groups-threat-intel.md)
 
-[Manage malware](manage-malware.md)
+[Manage malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-malware.md)
 
-[Manage tools](manage-tools.md)
+[Manage tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-tools.md)
 
-[Manage MITRE relationships](manage-mitre-relationships.md)
+[Manage MITRE relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitre-relationships.md)
 
-[Manage CVE and technique mapping](manage-cve-and-technique-mapping.md)
+[Manage CVE and technique mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-cve-and-technique-mapping.md)
 
-[Extend the MITRE-ATT&amp;CK data](view-and-extend-information.md)
+[Extend the MITRE-ATT&amp;CK data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-and-extend-information.md)
 
-[Define the data source and detection tool mapping](manage-mitre-att-ck-data-sources.md)
+[Define the data source and detection tool mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/manage-mitre-att-ck-data-sources.md)
 
-[Define the data source and data component mapping](map-the-data-source-and-data-components.md)
+[Define the data source and data component mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-the-data-source-and-data-components.md)
 
-[Define the technique detection coverage](define-technique-coverage.md)
+[Define the technique detection coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/define-technique-coverage.md)
 
-[Map your technique detection coverage to a technique](map-technique-coverage.md)
+[Map your technique detection coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-technique-coverage.md)
 
-[Define the mitigation coverage](define-the-mitigation-coverage.md)
+[Define the mitigation coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/define-the-mitigation-coverage.md)
 
-[Map your mitigation coverage to a technique](map-your-mitigation-coverage-to-a-technique.md)
+[Map your mitigation coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/map-your-mitigation-coverage-to-a-technique.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/auto-extract-technique-rules.md#)
 
-[Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
+[Review threat group and MITRE-ATT&amp;CK techniques mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/review-threat-group-and-techniques-mapping.md)
 
-[Threat group to technique heatmap definition](threat-group-to-technique-heatmap-definition.md)
+[Threat group to technique heatmap definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-group-to-technique-heatmap-definition.md)
 
-[Review the MITRE-ATT&amp;CK system properties](configure-mitre-att-ck-properties.md)
+[Review the MITRE-ATT&amp;CK system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md)
 

@@ -31,7 +31,7 @@ Enhancements in the Activity Stream include the following:
 
     You would see the Activity Stream with the filter options.
 
-2.  Click the Filter icon \(![Filter icon.](../image/filter-activity-stream.png)\).
+2.  Click the Filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/filter-activity-stream.png)\).
 
     The Filter sets are displayed. The conversation filter sets items such as emails, comments, and work notes.
 
@@ -49,9 +49,9 @@ Enhancements in the Activity Stream include the following:
 
     Flagged messages are visible to everyone who has access to the case.
 
-6.  Click the Sort icon \(![Sort icon.](../image/sort-filter-activity-stream.png)\) to sort the events and messages based on the timeline.
+6.  Click the Sort icon \(![Sort icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/sort-filter-activity-stream.png)\) to sort the events and messages based on the timeline.
 
-7.  Click the More Options icon \(![More options icon.](../image/expand-posts.png)\) and select **Expand all posts** to view the post details or select **Collapse all posts** to go back to the previous state.
+7.  Click the More Options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/expand-posts.png)\) and select **Expand all posts** to view the post details or select **Collapse all posts** to go back to the previous state.
 
 8.  Click **Show more** in an email to view the latest email response in an expanded form.
 

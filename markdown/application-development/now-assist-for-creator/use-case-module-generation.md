@@ -29,7 +29,7 @@ Using the Module generation feature, the admin provides a single natural-languag
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](../task/install-ui-generation.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/install-ui-generation.md) and [Grant UI Builder admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/grant-ui-builder-admin-role.md).
 
 ## Configuration steps
 
@@ -54,12 +54,12 @@ Perform the following steps to generate modules:
 
 The administrator creates and configures a five-module application menu within a single workflow. The resulting modules are immediately ready for use in the application navigator.
 
-**Parent Topic:**[UI Generation use cases](../task/ui-generation-use-cases.md)
+**Parent Topic:**[UI Generation use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/ui-generation-use-cases.md)
 
 **Related topics**  
 
 
-[Module generation](ai_module_creation_concept.md)
+[Module generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/ai_module_creation_concept.md)
 
-[Generate modules using Now Assist](../task/generate-ai-modules.md)
+[Generate modules using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-ai-modules.md)
 

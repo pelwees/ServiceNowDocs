@@ -29,12 +29,12 @@ ServiceNow provides pre-defined searchers. You can't create, update, or delete s
 
 2.  Edit a searcher record.
 
-    ![Searcher form showing Search Resources related list.](../image/ContextualSearcherConfiguration.png)
+    ![Searcher form showing Search Resources related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/ContextualSearcherConfiguration.png)
 
 3.  In the Search Resources related list, view the resources searched by this searcher.
 
 4.  In the Search Contexts related list, view all the search contexts that use this specific searcher.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

@@ -17,7 +17,7 @@ The user's gamification level and badges are displayed on the content pages, so 
 
 Pointing to a user name on content pages such as questions, blogs, and videos displays a pop-up window with gamification information including badges earned, point total, and level name. This information is available for the author or a user who has replied or commented on that content.
 
-The community administrator can change the displayed level to show either the global level or the forum level. This display can be controlled by the [sn\_communities.content.show\_gamification\_level](communities-properties.md#table_wdb_cts_r1b) property.
+The community administrator can change the displayed level to show either the global level or the forum level. This display can be controlled by the [sn\_communities.content.show\_gamification\_level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-properties.md#table_wdb_cts_r1b) property.
 
 Depending upon the information available, there can be three different versions for the pop-up:
 
@@ -25,7 +25,7 @@ Depending upon the information available, there can be three different versions 
 -   Profile photo and name with global points
 -   Profile photo and name with global points and badges
 
-![Pop-up window of user's profile details including the name, profile photo, badge, and global points.](../images/CommunitiesUserProfilePopup.png "User profile pop-up window with gamification information")
+![Pop-up window of user's profile details including the name, profile photo, badge, and global points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/CommunitiesUserProfilePopup.png "User profile pop-up window with gamification information")
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-UI.md)
 

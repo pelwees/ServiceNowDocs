@@ -59,7 +59,7 @@ Workplace task template
 
 </td><td>
 
-Template used for the generated planned tasks. Selecting a template automatically populates certain fields such as **Assigned to**, **Short description**, and **Workplace task type** in the generated tasks. For information about workplace task templates, see [Configure a workplace task template](configure-workplace-task-template-wsd.md).
+Template used for the generated planned tasks. Selecting a template automatically populates certain fields such as **Assigned to**, **Short description**, and **Workplace task type** in the generated tasks. For information about workplace task templates, see [Configure a workplace task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-task-template-wsd.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Date and time when the task should start.
 
 5.  If you accessed the form from Workplace Service Portal, on the verification page, you can create another planned task definition or generate planned tasks from this definition immediately.
 
-    **Note:** You can also use this definition to generate planned tasks later. See the instructions in the [Generate planned tasks](create-planned-task-definitions-wsd.md) topic.
+    **Note:** You can also use this definition to generate planned tasks later. See the instructions in the [Generate planned tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-planned-task-definitions-wsd.md) topic.
 
 <table id="choicetable_hkt_5l1_xlb"><thead><tr><th align="left" id="d332471e257">
 
@@ -126,5 +126,5 @@ Select **Add another task definition**.
 -   The planned task definition is added to the list of all planned task definitions that you can view by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **Planned Tasks Definitions**.
 -   If you created planned tasks from this definition, they are added to the list of all planned tasks. You can view those tasks by navigating to **Workplace Safety Management** &gt; **Workplace Tasks** &gt; **Planned Tasks**.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 

@@ -19,7 +19,7 @@ Role required: Team member, Team manager
 
 ## About this task
 
-![Create a request in Care Team Mobile.](../image/hcls-cto-mobile-create-request.png)
+![Create a request in Care Team Mobile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-cto-mobile-create-request.png)
 
 ## Procedure
 
@@ -46,5 +46,5 @@ A service request has been created and routed to the associated supporting servi
 
 ## What to do next
 
-[Track a submitted request in Care Team Mobile](cto-mobile-track-requests.md) or [Cancel a submitted request in Care Team Mobile](cto-cancel-submitted-request.md).
+[Track a submitted request in Care Team Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-track-requests.md) or [Cancel a submitted request in Care Team Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-cancel-submitted-request.md).
 

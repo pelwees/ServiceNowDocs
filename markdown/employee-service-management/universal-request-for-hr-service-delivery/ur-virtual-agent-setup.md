@@ -50,8 +50,8 @@ You can also copy and modify the default topics or create your own topics to use
 5.  Repeat this procedure to open and publish the Track Universal Request Status \(Template\) and Update UR \(Template\) topics.
 
 
--   **[Enable Natural Language Understanding model for Universal Request topic](nlu-model-setup-ur.md)**  
+-   **[Enable Natural Language Understanding model for Universal Request topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/nlu-model-setup-ur.md)**  
 Apply the Natural Language Understanding vocabulary in the Universal Request application to help the system to understand human-expressed language.
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/configure-ur.md)
 

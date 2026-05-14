@@ -74,5 +74,5 @@ var tableResults=lookup(“select blue, red, green from hues where value in (:li
 
 This method is better.
 
-For more information on what is supported in a query, see [The lookup function: commands and syntax](cpq-the-lookup-function-commands-and-syntax.md).
+For more information on what is supported in a query, see [The lookup function: commands and syntax](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-the-lookup-function-commands-and-syntax.md).
 

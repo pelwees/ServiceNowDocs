@@ -234,5 +234,5 @@ Device inventory endpoint`URL: /organizations/{orgId}/inventory/devices`
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Service Operations Management reference](components-installed-with-tsom.md)
+</table>**Parent Topic:**[Telecommunications Service Operations Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/components-installed-with-tsom.md)
 

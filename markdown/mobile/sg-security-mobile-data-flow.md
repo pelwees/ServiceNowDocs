@@ -13,10 +13,10 @@ breadcrumb: [Device security, Mobile security, Configuring the Mobile Platform, 
 
 Data can be retrieved, downloaded from, and written back to a mobile device.
 
--   **[Retrieval](sg-mobile-security-retrieval.md)**  
+-   **[Retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-retrieval.md)**  
 The following describes how data is retrieved from ServiceNow mobile apps.
--   **[Write-backs](sg-mobile-securitywrite-backs.md)**  
+-   **[Write-backs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-securitywrite-backs.md)**  
 The following describes how data is written back from ServiceNow mobile apps.
 
-**Parent Topic:**[Device security for ServiceNow Mobile apps](sg-mobile-security.md)
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 

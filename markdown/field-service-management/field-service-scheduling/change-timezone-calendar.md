@@ -23,7 +23,7 @@ When you change the time zone the agent card shows the difference in hours betwe
 
 Role required: wm\_dispatcher
 
-You must have more than one time zone configured. For more information, see the Calendar section in [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+You must have more than one time zone configured. For more information, see the Calendar section in [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You must have more than one time zone configured. For more information, see the 
 
 4.  Select the time zone drop-down list.
 
-    ![dispatcher workspace timezone drop-down](../image/timezone-dropdown.png)
+    ![dispatcher workspace timezone drop-down](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/timezone-dropdown.png)
 
 5.  Select a time zone.
 

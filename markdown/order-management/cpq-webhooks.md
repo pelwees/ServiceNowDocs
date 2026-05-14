@@ -23,7 +23,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. Use
 
 -   Displaying the CPQ native UI via direct URL and sending the config result, via webhook, to a third-party destination. See:
 
-    [Use case: Displaying the CPQ native UI via direct URL](use_case_display_logik_io_native_ui_via_direct_url.md)
+    [Use case: Displaying the CPQ native UI via direct URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use_case_display_logik_io_native_ui_via_direct_url.md)
 
 -   Sending config data directly to a quoting or order management system
 -   Pushing the configuration result to middleware that can manipulate the data and pass it along to downstream systems
@@ -32,7 +32,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. Use
 
 ## Webhook setup
 
-![Webhook setup](../images/cpq-webhooks-setup-1.png)
+![Webhook setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-webhooks-setup-1.png)
 
 -   When webhooks are enabled, they can be found in the Utilities menu in the CPQ Admin screen.
 -   Summary: Webhook configuration is similar to external connections. The Name, Description and Integration type can all be defined.
@@ -41,7 +41,7 @@ Webhooks can be used to integrate data from CPQ to other downstream systems. Use
 
 ## Webhook details
 
-![Webhook setup](../images/cpq-webhooks-details.png)
+![Webhook setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-webhooks-details.png)
 
 1.  URL: The endpoint to receive the data from Logik on save of a configuration. Must be able to receive an HTTP POST request.
 2.  Async: When enabled, ensures that the end user is redirected immediately when a configuration is completed and does not wait for a response from the server before exiting. The save process is asynchronous.

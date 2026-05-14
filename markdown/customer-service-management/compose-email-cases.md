@@ -41,5 +41,5 @@ You can compose large emails easily in a full screen view which opens up in a ne
 **Related topics**  
 
 
-[Compose an email from the ribbon component](open-email-customer-360.md)
+[Compose an email from the ribbon component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/open-email-customer-360.md)
 

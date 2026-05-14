@@ -32,12 +32,12 @@ Key features of appointment booking include:
 
 ## Appointment Booking based on Capacity and Reservations Management
 
-Appointment Booking considers the defined capacity and reservations for a territory or group to show the available slots. For more information, see [Learn about appointment availability settings](../reference/appt-booking-task-assignment.md).
+Appointment Booking considers the defined capacity and reservations for a territory or group to show the available slots. For more information, see [Learn about appointment availability settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/appt-booking-task-assignment.md).
 
 **Related topics**  
 
 
-[Configuring Appointment Booking](appointment-booking-administer.md)
+[Configuring Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-administer.md)
 
-[Managing appointments](managing-appointments.md)
+[Managing appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/managing-appointments.md)
 

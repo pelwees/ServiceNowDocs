@@ -25,13 +25,13 @@ The first time a user accesses the project workbench from the Project menu, the 
 
 After a project is opened, the header displays additional components, depending on the type of project selected.
 
--   Back \(![screenshot for back icon](../image/ProjectWorkbenchBackIcon.png)\): takes the user to the Project form to view the project details.
+-   Back \(![screenshot for back icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/ProjectWorkbenchBackIcon.png)\): takes the user to the Project form to view the project details.
 -   **Select Project**: displays the current project name. Click the down arrow to select a new project.
--   Add phase icon \(![screenshot for Add phase icon](../image/ProjectWorkbenchAddPhaseIcon.png)\): adds a phase or milestone to the timeline.
+-   Add phase icon \(![screenshot for Add phase icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/ProjectWorkbenchAddPhaseIcon.png)\): adds a phase or milestone to the timeline.
 -   **Apply Template**: opens a dialog box for setting a start date and adding a template to the project. This button appears for new or blank projects that have no phases.
--   **Manage Stories**: under the Options icon \(![screenshot for Options icon](../image/elipsis_icon.png)\) displays the story backlog for this project.
--   **List**: under the Options icon \(![screenshot for Options icon](../image/elipsis_icon.png)\) displays additional details in list view about the currently selected phase. This button appears if a project has one or more phases.
--   **VTB**: under the Options icon \(![screenshot for Options icon](../image/elipsis_icon.png)\) displays additional details in the Visual Task Board about the currently selected phase. This button appears if a project has one or more phases.
+-   **Manage Stories**: under the Options icon \(![screenshot for Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/elipsis_icon.png)\) displays the story backlog for this project.
+-   **List**: under the Options icon \(![screenshot for Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/elipsis_icon.png)\) displays additional details in list view about the currently selected phase. This button appears if a project has one or more phases.
+-   **VTB**: under the Options icon \(![screenshot for Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/elipsis_icon.png)\) displays additional details in the Visual Task Board about the currently selected phase. This button appears if a project has one or more phases.
 
 ## Timeline
 
@@ -77,14 +77,14 @@ The bottom pane of the project workbench displays detailed information for the p
 
 Information in the bottom pane can be displayed in list view or in a visual task board. The **List** and **VTB** buttons in the Project Workbench header control how this information is displayed.
 
-**Parent Topic:**[Using Project workbench - Legacy](c_ProjectWorkbench.md)
+**Parent Topic:**[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)
+[Access the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_AccessTheProjectWorkbench.md)
 
-[Project calculation](c_ProjectWorkbenchProjectCalc.md)
+[Project calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbenchProjectCalc.md)
 
-[Managing Project workbench](c_UsingProjectWorkbench.md)
+[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_UsingProjectWorkbench.md)
 

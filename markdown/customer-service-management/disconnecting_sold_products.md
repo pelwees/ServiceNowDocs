@@ -17,8 +17,8 @@ Disconnect single or multiple root sold products at the same time, to improve ag
 
 |Task|Description|
 |----|-----------|
-|Disconnect a single sold product|[Disconnect a single sold product](disconnecting_sold_products.md#)|
-|Disconnect multiple sold products|[Disconnect multiple sold products](disconnecting_sold_products.md#)|
+|Disconnect a single sold product|[Disconnect a single sold product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/disconnecting_sold_products.md#)|
+|Disconnect multiple sold products|[Disconnect multiple sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/disconnecting_sold_products.md#)|
 
 ## Disconnect a single sold product
 

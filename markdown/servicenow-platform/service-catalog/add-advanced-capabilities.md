@@ -29,15 +29,15 @@ Role required: catalog\_admin or admin
         2.  Select the **Catalog items** tab.
         3.  Select the catalog item for which you want to add advanced capabilities or features.
         4.  Select **Edit in advanced view**.
-        **Note:** If you have the catalog item wizard open, and you want to edit it in advanced view, select the more actions icon \(![More Action icon](../image/more-actions-ne-icon.png)\) on the wizard, and select **Edit in advanced view**.
+        **Note:** If you have the catalog item wizard open, and you want to edit it in advanced view, select the more actions icon \(![More Action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/more-actions-ne-icon.png)\) on the wizard, and select **Edit in advanced view**.
 
     -   Using the **Edit checked out item in advanced view** related link.
         1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**.
 
             **Note:**
 
-            -   The checked out item icon \(![Checked out item icon.](../image/checked-out-item.png)\) for the checked out item beside a catalog item indicates that it's the published version of the item that has been checked out for editing in the catalog builder.
-            -   A draft item icon \(![Draft item icon.](../image/draft-item.png)\) for the draft item mark beside the item indicates that it's the draft version of the item that can be directly edited in ServiceNow AI Platform.
+            -   The checked out item icon \(![Checked out item icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/checked-out-item.png)\) for the checked out item beside a catalog item indicates that it's the published version of the item that has been checked out for editing in the catalog builder.
+            -   A draft item icon \(![Draft item icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/draft-item.png)\) for the draft item mark beside the item indicates that it's the draft version of the item that can be directly edited in ServiceNow AI Platform.
         2.  Open the published item that you want to edit.
         3.  Select the **Edit checked out item in advanced view** related link.
 
@@ -52,5 +52,5 @@ Role required: catalog\_admin or admin
     If the item has not already been checked out, this step checks out the item.
 
 
-**Parent Topic:**[Edit a catalog item in Catalog Builder](edit-cat-item-cat-builder.md)
+**Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 

@@ -27,7 +27,7 @@ In the **Bot Process** tab of the Skill package version form, you can override a
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Packages**.
 
@@ -42,5 +42,5 @@ In the **Bot Process** tab of the Skill package version form, you can override a
     The list shows the bot processes for the attended or unattended packages that are associated with the selected skill package.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/package-version-rpa-hub.md)
 

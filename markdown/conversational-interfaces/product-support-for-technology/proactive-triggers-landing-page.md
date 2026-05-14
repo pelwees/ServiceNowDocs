@@ -25,19 +25,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proactive Triggers concepts and process flows.](../concept/proactive-triggers.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Proactive Triggers concepts and process flows.](../concept/proactive-triggers.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Activate the Proactive Triggers feature.](../task/installing-proactive-triggers.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Activate the Proactive Triggers feature.](../task/installing-proactive-triggers.md)
 
 </td></tr><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Manage and set up rules and actions for Proactive Triggers to determine when the triggered messages display to end users on the ServiceNow® portal.](../task/configuring-proactive-triggers.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Manage and set up rules and actions for Proactive Triggers to determine when the triggered messages display to end users on the ServiceNow® portal.](../task/configuring-proactive-triggers.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get component details for Proactive Triggers.](proactive-triggers-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/../../../reuse/icons/brand-icons/bus-learn.svg)Get component details for Proactive Triggers.](proactive-triggers-reference.md)
 
 </td></tr></tbody>
 </table>

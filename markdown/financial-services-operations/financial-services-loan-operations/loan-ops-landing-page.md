@@ -21,27 +21,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and loan agents use Loan Operations.](explore-fso-loan-operations.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and loan agents use Loan Operations.](explore-fso-loan-operations.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Loan Operations.](../task/configure-loan-operations.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Loan Operations.](../task/configure-loan-operations.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-transaction.svg) Submit and manage loan service requests that you receive from customers and the banking system.](using-loan-ops.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-transaction.svg) Submit and manage loan service requests that you receive from customers and the banking system.](using-loan-ops.md)
 
 </td></tr><tr><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards.](analytics-reporting-fso-loan-ops.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards.](analytics-reporting-fso-loan-ops.md)
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
+[Process Mining ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](loan-operations-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](loan-operations-reference.md)
 
 </td></tr></tbody>
 </table>

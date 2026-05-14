@@ -40,5 +40,5 @@ It is recommended to select a dedicated admin user who meets the following condi
 -   is not Web services access only
 -   is not an Internal Integration User
 
-**Parent Topic:**[ATF Test Generator and Cloud Runner roles](atf-tg-cr-roles.md)
+**Parent Topic:**[ATF Test Generator and Cloud Runner roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-roles.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Software discovery and normalization, Exploring Software Asset Mana
 
 After you've imported your entitlements, use ServiceNow Discovery or Microsoft SCCM to discover software installations in your environment and transfer that data into the ServiceNow AI Platform.
 
-![This graphic provides an overview of how to setup either ServiceNow Discovery or Microsoft SCCM.](../image/mmasset0021825software-discovery-and-normalization.svg "Infographic showing setting up of ServiceNow Discovery or Microsoft SCCM")
+![This graphic provides an overview of how to setup either ServiceNow Discovery or Microsoft SCCM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/mmasset0021825software-discovery-and-normalization.svg "Infographic showing setting up of ServiceNow Discovery or Microsoft SCCM")
 
 While you may use Discovery Home for datacenters and Microsoft SCCM for desktop environments, you can integrate other third-party discovery solutions with CMDB to support Software Asset Management. To integrate a different discovery solution, add it manually, or you can download an application, from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For more information about integrating a discovery source manually, see the [Customer Success Center](https://www.servicenow.com/success.html).
 
@@ -71,7 +71,7 @@ The Integration — Microsoft SCCM 2016 plugin is compatible with SCCM versions 
 
 **Important:** These Microsoft SCCM plugins will be deprecated in the Tokyo release. If you are integrating with SCCM for the first time, request and install the Service Graph connector for Microsoft SCCM application from the [ServiceNow Store](https://store.servicenow.com/) instead. If you have already activated one of the Microsoft SCCM plugins on your ServiceNow instance, use the Migration Readiness Tool for Service Graph Connector for SCCM store application to prepare your instance for migration from the Microsoft SCCM plugin to the Service Graph connector. See [Service Graph connector for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-sccm.md) for more information on the Service Graph connector.
 
-For more information on SCCM and how to import your data into your instance, see [Microsoft SCCM software usage](sccm-software-usage.md).
+For more information on SCCM and how to import your data into your instance, see [Microsoft SCCM software usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sccm-software-usage.md).
 
-**Parent Topic:**[Software discovery and normalization](c_SAMDiscovery.md)
+**Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 

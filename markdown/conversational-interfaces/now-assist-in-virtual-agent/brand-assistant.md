@@ -17,9 +17,9 @@ Decide how your Now Assist in Virtual Agent assistant should look by using the d
 
 ## Before you begin
 
-See [Display your chat assistant on a portal, channel, or mobile app](display-assistant-portal-channel.md) for Now Assist in Virtual Agent assistants.
+See [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md) for Now Assist in Virtual Agent assistants.
 
-See [Display your assistant on Platform or ServiceNow Studio](display-nap-assistant.md) for Now Assist panel assistants.
+See [Display your assistant on Platform or ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-nap-assistant.md) for Now Assist panel assistants.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -38,23 +38,23 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
 1.  Select a default branding or an existing customized branding.
 
-    **Note:** To create and edit additional settings, select the **Conversational interfaces console** link. For more information, see [Set up your Virtual Agent bot's branding](../../conversational-interfaces/task/ac-configure-chat-branding.md).
+    **Note:** To create and edit additional settings, select the **Conversational interfaces console** link. For more information, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../conversational-interfaces/task/ac-configure-chat-branding.md).
 
     If your display experience only has standard chat, the **Standard chat** section and branding preview are shown.
 
-    ![Preview pane of a standard chat assistant.](../image/NAinVA-branding-122025.png "Branding preview of a standard chat assistant")
+    ![Preview pane of a standard chat assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-branding-122025.png "Branding preview of a standard chat assistant")
 
     If your display experience only has enhanced chat, both **Standard chat** and **Enhanced chat** sections are shown.
 
-    ![Enhanced chat section.](../image/NAinVA-branding-0426.png "Standard and enhanced chat sections")
+    ![Enhanced chat section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-branding-0426.png "Standard and enhanced chat sections")
 
     The chat header logo is shared between standard and enhanced chat, and it's determined by the selected standard chat branding profile. You can't configure a separate chat header logo for each experience. Updating the chat header logo in one experience updates it for the other.
 
-    Learn more about customizing the look-and-feel of enhanced chat by navigating to [Theming for Now Assist in Virtual Agent enhanced chat](../reference/theming-na-full-page-experience.md).
+    Learn more about customizing the look-and-feel of enhanced chat by navigating to [Theming for Now Assist in Virtual Agent enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../reference/theming-na-full-page-experience.md).
 
     If your display experience has premium chat, the **Premium chat** section is shown.
 
-    ![Choose a chat header, chat logo, and chat menu items for premium chat.](../image/NAinVA-premium-branding-052026.png "Branding for premium chat")
+    ![Choose a chat header, chat logo, and chat menu items for premium chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-premium-branding-052026.png "Branding for premium chat")
 
     1.  Choose your chat header and update the chat logo. The default chat header name is the name of the assistant. The size of the chat logo should be 144 x 144 pixels. Image file types include: .jpg, .png, .bmp, .gif, .jpeg, .ico, and .svg.
     2.  Add chat menu items to the default Employee Slate assistant. Chat menu items are not available for Now Assist panel - Platform assistant.
@@ -65,7 +65,7 @@ If you haven’t selected a display experience, branding options aren’t shown.
         -   Label: A text box type in a label, such as Contact Live Agent, Call Support, etc.
         -   Value: A value field that is dependent on the menu item type.
         -   Icon: Accepted file format for the chat menu icon is .svg only. Suggested size is 40 pixels x 40 pixels.
-        ![Fields in chat menu item modal.](../image/NAinVA-premium-branding-chat-menu-052026.png "Add chat menu item modal")
+        ![Fields in chat menu item modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-premium-branding-chat-menu-052026.png "Add chat menu item modal")
 
         Enter a valid phone number. Accepted formats include digits, spaces, hyphens, parentheses, and a leading + for a country code. Enter a valid email address. Example format: `name@domain.com`
 
@@ -78,8 +78,8 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
     A **Channels** section is shown for Now Assist in Virtual Agent assistants and the default Employee Slate assistant if a channel is configured in the display experience.
 
-    -   [Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams](../../virtual-agent/task/configure-msteams-branding.md)
-    -   [Configure branding for your Virtual Agent bot in Slack](../../virtual-agent/task/slack-branding-overview.md)
+    -   [Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../virtual-agent/task/configure-msteams-branding.md)
+    -   [Configure branding for your Virtual Agent bot in Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../virtual-agent/task/slack-branding-overview.md)
     **Note:** Branding selections must happen in the channel, and not in the platform.
 
 3.  Select **Save and continue**.
@@ -87,5 +87,5 @@ If you haven’t selected a display experience, branding options aren’t shown.
 
 ## What to do next
 
-See [Enable additional chat features](additional-chat-features.md).
+See [Enable additional chat features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
 

@@ -66,5 +66,5 @@ To use a different page as the default page, you need to manually switch from th
 **Related topics**  
 
 
-[CSM Configurable Workspace record pages](../concept/csm-config-workspace-record-pages.md)
+[CSM Configurable Workspace record pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-config-workspace-record-pages.md)
 

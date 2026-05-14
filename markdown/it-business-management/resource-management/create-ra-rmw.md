@@ -23,7 +23,7 @@ Role required: resource\_user, resource\_manager, It\_project\_manager
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
 3.  Create resource assignments using one of the following options.
 
@@ -44,7 +44,7 @@ Procedure
 1.  Select **New** or select **New Resource Assignment** from the more actions list.
 2.  On the New Resource Assignment form, fill in the fields.
 
-For a description of the field names, see [New Resource Assignment form](../concept/create-ra-form-rmw.md).
+For a description of the field names, see [New Resource Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/create-ra-form-rmw.md).
 
 </td></tr><tr><td id="d225493e143">
 
@@ -55,7 +55,7 @@ For a description of the field names, see [New Resource Assignment form](../conc
 1.  Select **New operational Assignment** from the more actions list.
 2.  On the New Operational Assignment form, fill in the fields.
 
-For a description of the field names, see [New Operational Assignment form](../concept/create-op-ra-form-rmw.md).
+For a description of the field names, see [New Operational Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/create-op-ra-form-rmw.md).
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -67,5 +67,5 @@ Resource assignment is created. You can filter and view this assignment in the l
 
 If an assignment is made for a resource from the resource board and if it's within the selected date range, the assignment shows up nested under the selected resource in real-time.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

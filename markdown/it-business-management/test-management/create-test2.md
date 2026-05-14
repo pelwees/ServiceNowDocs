@@ -126,7 +126,7 @@ Button used to add step to a test.
 
 </td></tr><tr><td>
 
-Change step order \(![Change step order icon](../../sdlc-scrum/image/draganddropicon.png)\)
+Change step order \(![Change step order icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../../sdlc-scrum/image/draganddropicon.png)\)
 
 </td><td>
 
@@ -144,7 +144,7 @@ If this checkbox is not selected, you need not verify that if this step passed, 
 
 </td></tr><tr><td>
 
-Delete a test step \(![Delete a test step icon](../images/deleteteststep.png)\)
+Delete a test step \(![Delete a test step icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/deleteteststep.png)\)
 
 </td><td>
 
@@ -156,7 +156,7 @@ Run
 
 </td><td>
 
-Button used to run steps, which is displayed only when the test is in the **Ready** state.See [Run your test assignments in Test Management 2.0](run-your-test-assignments.md).
+Button used to run steps, which is displayed only when the test is in the **Ready** state.See [Run your test assignments in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-your-test-assignments.md).
 
 </td></tr><tr><td>
 
@@ -201,16 +201,16 @@ To add a test to a test set:
 1.  Select the test from the Test list.
 2.  Click **Add to Test Set**.
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/release-readiness-testing.md)
 
 **Related topics**  
 
 
-[Create a test set in Test Management 2.0](create-test-set.md)
+[Create a test set in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-set.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md)
 
-[Create a test execution suite in Test Management 2.0](create-test-execution-suite.md)
+[Create a test execution suite in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-execution-suite.md)
 
-[Run your test assignments in Test Management 2.0](run-your-test-assignments.md)
+[Run your test assignments in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-your-test-assignments.md)
 

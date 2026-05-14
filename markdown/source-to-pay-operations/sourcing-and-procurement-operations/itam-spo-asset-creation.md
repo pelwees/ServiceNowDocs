@@ -15,7 +15,7 @@ breadcrumb: [Sourcing Procurement Operations integration Asset, Integrate, Sourc
 
 In IT Asset Management \(ITAM\), assets are created when you acknowledge the receipt of the requested items.
 
-After receiving is completed, receiving slips are generated in ITAM, the associated assets are created, and the status of the PO is updated to Received. You can view the created assets in the **Assets** tab of the ITAM purchase order. For more information, see [Receiving assets in IT Asset Management](itam-spo-receiving-assets.md).![Assets tab shows the created assets and the ITAM PO status updates to Received.](../image/itam-spo-assets-tab.png)
+After receiving is completed, receiving slips are generated in ITAM, the associated assets are created, and the status of the PO is updated to Received. You can view the created assets in the **Assets** tab of the ITAM purchase order. For more information, see [Receiving assets in IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-receiving-assets.md).![Assets tab shows the created assets and the ITAM PO status updates to Received.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/itam-spo-assets-tab.png)
 
 Additionally, when receiving slips are generated in ITAM, corresponding read-only receipts are created in SPO.
 
@@ -25,5 +25,5 @@ The following occurs during the asset creation process in ITAM:
 -   When a Software Asset Management \(SAM\) item is received, ITAM creates a corresponding entitlement in the alm\_license table.
 -   When a consumable is received, ITAM creates a corresponding entitlement in the alm\_consumable table.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 

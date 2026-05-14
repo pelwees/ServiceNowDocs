@@ -15,13 +15,13 @@ The Certificates page lets you access data regarding your certificates, Sensor c
 
 The following image shows the Certificates page.
 
-![Certificates page](../images/sensor-certificate-collector.png)
+![Certificates page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/sensor-certificate-collector.png)
 
 ## Certificate Authority
 
 In the Certificate Authority section, you can generate a new certificate by choosing the expiration date and selecting **Generate**.
 
-![Generate a new CA](../images/generate-authority-certificate.png)
+![Generate a new CA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/generate-authority-certificate.png)
 
 On the Certificate page, you can do the following.
 

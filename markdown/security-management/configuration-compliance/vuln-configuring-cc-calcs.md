@@ -38,5 +38,5 @@ Configuring risk and rollup calculators for remediation of test results and reme
 
 After you create a risk calculator, it is available for calculations with the next data ingestion. After you create it, you may also prefer to apply it on-demand.
 
-For more information about calculators and calculator groups, see [Configuration Compliance calculator groups](vuln-config-compl-calc-groups.md).
+For more information about calculators and calculator groups, see [Configuration Compliance calculator groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-calc-groups.md).
 

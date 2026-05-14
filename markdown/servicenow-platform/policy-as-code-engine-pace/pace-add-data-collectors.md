@@ -21,13 +21,13 @@ Role required: sn\_pace.code\_editor
 
 ## Procedure
 
-1.  In the Policy Builder tab, select the version of the policy you want to add the new data collector to, then the Data sources icon ![Data source icon](../image/pace-data-source-icon.jpg).
+1.  In the Policy Builder tab, select the version of the policy you want to add the new data collector to, then the Data sources icon ![Data source icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-data-source-icon.jpg).
 
-2.  Select the data collector from the list of possible data collectors in the system, then click **Next**.![Add data collector list.](../image/pace-add-data-collector-list.jpg)
+2.  Select the data collector from the list of possible data collectors in the system, then click **Next**.![Add data collector list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-add-data-collector-list.jpg)
 
 3.  In the Add data collector page in the Details tab, give the data collector a label and variable name.
 
-    **Note:** If you're using the same data collector multiple times, it should have a different variable name.![Add data collector details](../image/pace-add-data-collector-details.jpg)
+    **Note:** If you're using the same data collector multiple times, it should have a different variable name.![Add data collector details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-add-data-collector-details.jpg)
 
 4.  Provide inputs to complete the configuration of the data collector in the Input tab.
 

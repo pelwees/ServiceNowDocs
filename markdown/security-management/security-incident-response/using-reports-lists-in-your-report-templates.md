@@ -41,10 +41,10 @@ Role required: sn\_msi.workspace\_manager
     |**Observables**|The related list of observables view in the status report.|
 
 
-**Parent Topic:**[Create a Report Template](create-report-template.md)
+**Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
 **Related topics**  
 
 
-[Create a List Type Element](create-list-type-element.md)
+[Create a List Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-list-type-element.md)
 

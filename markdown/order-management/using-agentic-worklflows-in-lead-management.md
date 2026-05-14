@@ -67,8 +67,8 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
--   **[Help nurture new leads agentic workflow](help-nurture-new-leads-agentic-workflow.md)**  
+-   **[Help nurture new leads agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/help-nurture-new-leads-agentic-workflow.md)**  
 Use the Help nurture new leads agentic workflow to process the entire lead record process.
 
-**Parent Topic:**[Now Assist for Sales Force Automation \(SFA\)](now-assist-for-sales-and-order-management-som.md)
+**Parent Topic:**[Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/now-assist-for-sales-and-order-management-som.md)
 

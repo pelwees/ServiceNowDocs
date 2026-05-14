@@ -41,5 +41,5 @@ Use a [Scripted REST API](https://servicenow.com/docs/bundle/rome-application-de
 
 Self-Paced Training: [REST Integrations](https://developer.servicenow.com/dev.do#!/learn/courses/rome/app_store_learnv2_rest_rome_rest_integrations)
 
-**Parent Topic:**[Define and build the data model](define-and-build-data-model.md)
+**Parent Topic:**[Define and build the data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/define-and-build-data-model.md)
 

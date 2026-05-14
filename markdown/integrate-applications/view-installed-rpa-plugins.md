@@ -29,7 +29,7 @@ Robotic Process Automation \(RPA\) plugins are beneficial as they reduce the dev
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Installed RPA Plugins**.
 
@@ -40,7 +40,7 @@ Robotic Process Automation \(RPA\) plugins are beneficial as they reduce the dev
 6.  On the **Installed RPA Plugin - Dependency Pack** tab, select a dependency pack to view the details.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/monitoring-automations-rpa.md)
 
 ## Installed RPA plugins form
 

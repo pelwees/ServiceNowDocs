@@ -77,11 +77,11 @@ In the Install dialog box that is displayed, any dependencies that are installed
 </table>
 ## Result
 
-To view the installed plugins, navigate to **All** &gt; **Now Assist Admin** &gt; **Settings** &gt; **Plugins**. You can view Now Assist for RPA Hub in the Installed tab.![Plugins tab that displays the Now Assist for RPA Hub as installed.](../image/installed-narh-plugin.png)
+To view the installed plugins, navigate to **All** &gt; **Now Assist Admin** &gt; **Settings** &gt; **Plugins**. You can view Now Assist for RPA Hub in the Installed tab.![Plugins tab that displays the Now Assist for RPA Hub as installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/installed-narh-plugin.png)
 
 ## What to do next
 
 If you are upgrading to the Yokohama Patch 3 release, reindex the data source. For more information, see [Perform a full table index or reindex for multiple AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-multiple-sources-ais.md). In the step 2 of this procedure, select the indexed source as RPA Component \[sn\_rpa\_na\_rpa\_component\].
 
-Turn on the Robotic Process Automation \(RPA\) bot generation skill to use generative AI to create automations, activities, and automation logic additions from text instructions and preview options. For more information, see [Turn on the RPA bot generation skill](turn-rpa-bot-generation-skill.md).
+Turn on the Robotic Process Automation \(RPA\) bot generation skill to use generative AI to create automations, activities, and automation logic additions from text instructions and preview options. For more information, see [Turn on the RPA bot generation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/turn-rpa-bot-generation-skill.md).
 

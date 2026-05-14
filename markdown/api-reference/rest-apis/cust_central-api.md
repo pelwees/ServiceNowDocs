@@ -21,7 +21,7 @@ You must have the admin or sn\_esm\_agent role to access this API. In addition, 
 
 For additional information, see [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## Customer Central - GET /cust\_central/custinfo/\{context\}/\{context\_instance\}/\{target\}
 
@@ -44,7 +44,7 @@ Versioned URL: `/api/sn_customercentral/{api_version}/cust_central/custinfo/{con
 
 Default URL: `/api/sn_customercentral/cust_central/custinfo/{context}/{context_instance}/{target}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -145,7 +145,7 @@ Default: 0
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -170,7 +170,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -881,7 +881,7 @@ cards\_info.subheader\_fields.avatar
 
 </td><td>
 
-File name of the avatar associated with the specified**context\_instance**, such as the contact's avatar.![Avatar placement](../image/cust-central_avatar.png)
+File name of the avatar associated with the specified**context\_instance**, such as the contact's avatar.![Avatar placement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/cust-central_avatar.png)
 
 Data type: String
 
@@ -891,7 +891,7 @@ cards\_info.subheader\_fields.subheader\_tags
 
 </td><td>
 
-List of tags associated with the record sub-header, such as escalation tags.![Sub-header tag placement](../image/cust-central_sub-header_tags.png)
+List of tags associated with the record sub-header, such as escalation tags.![Sub-header tag placement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/cust-central_sub-header_tags.png)
 
 Data type: Array \(content varies\)
 
@@ -911,7 +911,7 @@ cards\_info.subheader\_fields.title
 
 </td><td>
 
-Title to display on the sub-header.![Sub-header title placement](../image/cust-central_sub-header-title.png)
+Title to display on the sub-header.![Sub-header title placement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/cust-central_sub-header-title.png)
 
 Data type: String
 

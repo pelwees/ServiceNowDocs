@@ -31,13 +31,13 @@ The discovered services history appears only when there are multiple discovered 
 
 3.  Click the **History map** button.
 
-    The history timeline appears, with changes to the service indicated by a clock icon \(![Clock icon](../image/clock-icon.png)\).
+    The history timeline appears, with changes to the service indicated by a clock icon \(![Clock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/clock-icon.png)\).
 
-    ![History map timeline](../image/history-map-timeline.png)
+    ![History map timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/history-map-timeline.png)
 
-4.  To view a map showing changes in the service's severity, click the More icon \(![More actions icon](../image/more-actions-icon-horizontal.png)\) and select **Advanced map**.
+4.  To view a map showing changes in the service's severity, click the More icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/more-actions-icon-horizontal.png)\) and select **Advanced map**.
 
-    ![Discovered services history](../image/EMTimeline.png)
+    ![Discovered services history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMTimeline.png)
 
     The displayed color corresponds to the discovered services severity, and the length of the bar in each color corresponds to how long the discovered services stayed at that severity.
 
@@ -45,14 +45,14 @@ The discovered services history appears only when there are multiple discovered 
 
     |Severity|Icon color|
     |--------|----------|
-    |Critical|Red ![Red icon - Critical severity](../image/red-critical-icon.png)|
-    |Major|Orange ![Orange icon - Major severity](../image/orange-major-icon.png)|
-    |Minor|Yellow ![Yellow icon - Minor severity](../image/yellow-minor-icon.png)|
-    |Warning|Blue ![Blue icon - Warning severity](../image/blue-warning-icon.png)|
+    |Critical|Red ![Red icon - Critical severity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/red-critical-icon.png)|
+    |Major|Orange ![Orange icon - Major severity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/orange-major-icon.png)|
+    |Minor|Yellow ![Yellow icon - Minor severity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/yellow-minor-icon.png)|
+    |Warning|Blue ![Blue icon - Warning severity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/blue-warning-icon.png)|
 
 5.  To change the information that appears on the discovered services history Advanced map, click a history icon.
 
-    ![Discovered services history icons](../image/disc-services-history-timeline-icon.png)
+    ![Discovered services history icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/disc-services-history-timeline-icon.png)
 
     -   **Calendar icon**: Show information for currently active discovered services.
     -   **Hours**: Show information for discovered services that occurred in the past hour.
@@ -60,5 +60,5 @@ The discovered services history appears only when there are multiple discovered 
     -   **Weeks**: Show information for discovered services that occurred in the past week.
     -   **Months**: Show information for discovered services that occurred in the past month.
 
-**Parent Topic:**[Monitor service health](t_EMViewDashboard.md)
+**Parent Topic:**[Monitor service health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 

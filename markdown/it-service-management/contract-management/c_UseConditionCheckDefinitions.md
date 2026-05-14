@@ -21,21 +21,21 @@ For example, a contract has a start date of March 1. When the condition checker 
 
 The daily condition checker sets the appropriate expiration level for active contracts based on the contract **End Date**. The expiration level can be viewed in the Contracts list. Knowing the expiration level can help contract managers renew or extend a contract before it expires.
 
--   **[Define a condition check](../task/t_DefineAConditionCheck.md)**  
+-   **[Define a condition check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../task/t_DefineAConditionCheck.md)**  
 You can define a condition check to change values in a contract when the **Contract Compliance Checks** scheduled job runs each night.
 
-**Parent Topic:**[Contract Management](c_ContractManagement.md)
+**Parent Topic:**[Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)
 
 **Related topics**  
 
 
-[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)
+[Use the Asset Contract Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../task/t_UseTheContractMgmtOverviewModule.md)
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../reference/r_ComponentsInstalledWContractMgmt.md)
 
-[Contract approval flow](contract-approval-workflow.md)
+[Contract approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/contract-approval-workflow.md)
 
-[Contract Management use](c_UseContractManagement.md)
+[Contract Management use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_UseContractManagement.md)
 
-[Domain separation and Contract Management](domain-separation-contract-mgmt.md)
+[Domain separation and Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/domain-separation-contract-mgmt.md)
 

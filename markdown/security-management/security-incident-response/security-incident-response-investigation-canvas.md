@@ -21,13 +21,13 @@ When a Security Analyst performs these actions, results are populated in a diffe
 
 In the re-imagined new SIR Workspace, the **Investigation** canvas \(tab\) provides all the necessary information grouped logically in one place for the Analyst to perform the investigation.
 
--   **[Explore Investigation Canvas](explore-investigation-in-sir-workspace.md)**  
+-   **[Explore Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md)**  
 The primary objective of the investigation canvas is to present the necessary security incident data in one common place.
 
-**Parent Topic:**[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
+**Parent Topic:**[SIR Workspace Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-orchestration-activities.md)
 
 **Related topics**  
 
 
-[Unified experience framework for integrations powered by Capability Framework](security-incident-response-workspace-capability-framework.md)
+[Unified experience framework for integrations powered by Capability Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-capability-framework.md)
 

@@ -24,8 +24,8 @@ The Facilities enterprise move process is as follows:
 
 **Note:** The Service management workflow can be edited to meet customer-specific processes.
 
--   **[Move planning tool](c_MovePlanningTool.md)**  
+-   **[Move planning tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_MovePlanningTool.md)**  
 The Move Planning tool displays occupancy totals by campus and floor. Facilities and move administrators can add or remove users to and from scenarios while planning a move. Groups of people are selected and moved by department \(department on sys\_user record\) or by direct manager \(manager on sys\_user record\).
 
-**Parent Topic:**[Facilities move management](c_FacMoveMgmt.md)
+**Parent Topic:**[Facilities move management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)
 

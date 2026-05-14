@@ -25,5 +25,5 @@ Use the Strategic Plan form to define the purpose of your organization, its stra
 |Vision|A brief description about where your organization’s business will be at some point in the future, based on its strategies and associated goals.|
 |Mission|A brief description about what your organization’s objectives are and its approach to reach those objectives.|
 
-**Parent Topic:**[Strategy and Goals reference](strategy-goals-reference.md)
+**Parent Topic:**[Strategy and Goals reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/strategy-goals-reference.md)
 

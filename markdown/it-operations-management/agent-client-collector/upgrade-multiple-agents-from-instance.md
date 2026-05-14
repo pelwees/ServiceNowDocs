@@ -33,7 +33,7 @@ Select the version to which you want to upgrade your agent.
 
 If you do not select a version, the agent automatically upgrades to the current Agent Client Collector Framework scoped app version.
 
-When working with MID-less agents, ensure that the agents are connected to a Content Delivery Network \(CDN\). For details, see [Configure proxies when performing MID-less upgrade using a Content Delivery Network \(CDN\)](cdn-upgrade-proxies.md).
+When working with MID-less agents, ensure that the agents are connected to a Content Delivery Network \(CDN\). For details, see [Configure proxies when performing MID-less upgrade using a Content Delivery Network \(CDN\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/cdn-upgrade-proxies.md).
 
 Role required: agent\_client\_collector\_admin
 
@@ -57,7 +57,7 @@ You can select up to 20 agents at a time for upgrade. To upgrade large numbers o
 **Related topics**  
 
 
-[Upgrade an agent in an instance](upgrade-agent-from-instance.md)
+[Upgrade an agent in an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/upgrade-agent-from-instance.md)
 
-[Perform high-volume Agent Client Collector upgrade](acc-high-volume-upgrade.md)
+[Perform high-volume Agent Client Collector upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-high-volume-upgrade.md)
 

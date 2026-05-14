@@ -34,9 +34,9 @@ Plugins required:
 
 2.  Search for and open the **DI STP Failed** flow.
 
-3.  Select the more actions icon \(![more actions icon](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+3.  Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
-    A copy of the **DI STP Failed** is created.![DI STP failed](../image/di-stp-fail-flow.png)
+    A copy of the **DI STP Failed** is created.![DI STP failed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/di-stp-fail-flow.png)
 
 4.  Select **Save**.
 

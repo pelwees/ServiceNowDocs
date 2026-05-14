@@ -19,14 +19,14 @@ Role required: Any, if the user has access to the dashboard.
 
 **Note:**
 
--   This task only applies to dashboards created in the inline editor. Technical dashboards do not have the **Export** option in the **More actions** menu. For more information, see [Technical dashboards compared to inline dashboards](../../performance-analytics/reference/technical-vs-in-line-dashboards.md).
+-   This task only applies to dashboards created in the inline editor. Technical dashboards do not have the **Export** option in the **More actions** menu. For more information, see [Technical dashboards compared to inline dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/reference/technical-vs-in-line-dashboards.md).
 -   Pivot, calendar report, geomap, and indicator scorecard visualizations are not supported for export. Lists are not supported for export to PowerPoint. These visualization types will not appear in the exported file.
 -   Only the supported data visualizations and Lists \(PDF\) are exported, not Headings or Rich Text or any other element.
 -   Content is not necessarily exported in the order it appears on the dashboard.
--   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](../../par-for-workspace/task/export-db-dv-now-assist-panel.md).
+-   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/export-db-dv-now-assist-panel.md).
 -   Dashboards exported to PowerPoint include the title above and the description below each visualization in an editable format if this information is provided in the source visualization.
 
--   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [Download a data visualization from a dashboard](../../performance-analytics/task/export-data-vis-from-dboard.md).
+-   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [Download a data visualization from a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/export-data-vis-from-dboard.md).
 
 ## Procedure
 
@@ -34,9 +34,9 @@ Role required: Any, if the user has access to the dashboard.
 
 2.  Select the dashboard that you want to export.
 
-3.  Select the dashboard's **More actions** menu ![More action icon](../../../product/customer-service-management/image/csm-ws-dashboards-more-actions-icon.png) and choose **Export**.
+3.  Select the dashboard's **More actions** menu ![More action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../product/customer-service-management/image/csm-ws-dashboards-more-actions-icon.png) and choose **Export**.
 
-    ![More actions menu with Export item highlighted](../image/export-pae-db-menu-option.png)
+    ![More actions menu with Export item highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/export-pae-db-menu-option.png)
 
 4.  In **File type**, select PDF or PowerPoint.
 
@@ -68,7 +68,7 @@ Export all visualizations in the top layout
 
 </td><td>
 
-If the dashboard has more than one tab and you are not exporting them all, you can set whether to export any visualizations that are in the layout outside the tabs.![Dashboard with visualizations in a tab and in the top layout.](../../par-for-workspace/image/db-top-level-layout-mini.png)
+If the dashboard has more than one tab and you are not exporting them all, you can set whether to export any visualizations that are in the layout outside the tabs.![Dashboard with visualizations in a tab and in the top layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-top-level-layout-mini.png)
 
 </td></tr><tr><td>
 
@@ -103,24 +103,24 @@ You can select whether to apply to the export any values that have been set in f
 
 The dashboard with selected tabs and filters is exported to a PDF or PowerPoint file and delivered by the chosen method.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-[Share a Platform Analytics dashboard](share-db-in-ac.md)
+[Share a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/duplicate-db.md#)
 
-[Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
+[Print a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/printer-friendly-db-ac.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
 
-[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md)
 
-[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
+[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 

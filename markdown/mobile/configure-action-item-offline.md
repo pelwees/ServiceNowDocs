@@ -48,5 +48,5 @@ For an action item to work in offline mode you need to define the action item ty
 12. Select **Submit**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md)
 

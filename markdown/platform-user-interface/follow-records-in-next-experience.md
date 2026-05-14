@@ -33,7 +33,7 @@ You receive instant confirmation when you start following or unfollowing a recor
 
 2.  Select **Follow**.
 
-    ![Follow button](../../../administer/navigation-and-ui/image/follow-button.png)
+    ![Follow button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/image/follow-button.png)
 
     **Note:** To stop receiving notifications about a record, select **Following/Unfollow**.
 
@@ -44,10 +44,10 @@ When comments or work notes are added to the record, you receive notifications a
 
 The following example shows a sample notification.
 
-![Notification banner for a record that you follow](../image/follow-notification.png)
+![Notification banner for a record that you follow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/follow-notification.png)
 
 **Related topics**  
 
 
-[Configure Next Experience notification preferences](next-experience-notifications-preferences.md)
+[Configure Next Experience notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-notifications-preferences.md)
 

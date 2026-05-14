@@ -17,5 +17,5 @@ Include fix scripts to make changes that are necessary for the data integrity or
 
 Administrators can create, manage, and run fix scripts. Users with the script\_fix\_admin role can create and manage fix scripts but cannot run fix scripts.
 
-**Note:** An annotation with the following message shows up when you open an existing fix script or create a new fix script.![Image showing the annotation "Any customizations you make to the fix script will apply only when you manually run the script. Instance upgrades use the out of box fix script"](../image/uc-fixscript-annotation.png)
+**Note:** An annotation with the following message shows up when you open an existing fix script or create a new fix script.![Image showing the annotation "Any customizations you make to the fix script will apply only when you manually run the script. Instance upgrades use the out of box fix script"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/uc-fixscript-annotation.png)
 

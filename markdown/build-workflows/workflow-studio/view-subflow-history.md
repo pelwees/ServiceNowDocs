@@ -40,5 +40,5 @@ The sidebar view displays a list of subflow history entries.
 
 You can annotate, copy, remove, or restore subflow history entries.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflow-history.md)
 

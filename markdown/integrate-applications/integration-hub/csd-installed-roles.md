@@ -45,5 +45,5 @@ Administrator role for managing client software distribution application.
 -   workflow\_admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with client software distribution](comp-installed-csd-ihub.md)
+</table>**Parent Topic:**[Components installed with client software distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/comp-installed-csd-ihub.md)
 

@@ -15,7 +15,7 @@ Configure the Java connector to set up the Java application screens and elements
 
 ## Before you begin
 
-Ensure you have installed the Java plugin on the RPA Desktop Design Studio. To install, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
+Ensure you have installed the Java plugin on the RPA Desktop Design Studio. To install, see [Manage plugins in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-plugins-rpa-studio.md).
 
 Ensure that Java is installed on the computer.
 
@@ -35,7 +35,7 @@ Role required: none
 
 5.  In the AVAILABLE WINDOWS list, select a Java application.
 
-    **Tip:** If the window doesn't appear in the list, click the refresh icon \(![Refresh icon.](../image/refresh-jav-program.png)\).
+    **Tip:** If the window doesn't appear in the list, click the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/refresh-jav-program.png)\).
 
 6.  Click **Add Window**.
 
@@ -51,12 +51,12 @@ Role required: none
 
 10. To capture elements, use the context dialog.
 
-    To use the context dialog, see [Use the Capture element dialog](use-context-dialog.md).
+    To use the context dialog, see [Use the Capture element dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-context-dialog.md).
 
 11. To close the Java Connector window, click **OK**.
 
-    The connector, screen and its elements are configured.![Connector levels](../image/connector-levels.png)
+    The connector, screen and its elements are configured.![Connector levels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/connector-levels.png)
 
 
-**Parent Topic:**[Java](../concept/java-connector.md)
+**Parent Topic:**[Java](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/java-connector.md)
 

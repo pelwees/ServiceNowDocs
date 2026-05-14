@@ -23,7 +23,7 @@ You can view the contracts associated with each engagement or third party and al
 
 4.  Select a third party or engagement name to open all tabs for the item and then select the **Documents** tab.
 
-    ![Access contracts for a third party or engagement.](../image/tprm-ws-dd-list-contracts.png)
+    ![Access contracts for a third party or engagement.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-dd-list-contracts.png)
 
 5.  Select a **Name** to view detailed information.
 

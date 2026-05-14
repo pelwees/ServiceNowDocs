@@ -33,7 +33,7 @@ Query routing takes the load off the primary database for SELECT queries that ta
 
 3.  In the Name field, enter **odbc** or **jdbc**.
 
-    Don't change any other field on this page. If you must change the default values, first refer to this KB: [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB0824441](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0824441) ![UI screen example for creating secondary database category.](../image/sql-api-read-replica.png)
+    Don't change any other field on this page. If you must change the default values, first refer to this KB: [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB0824441](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0824441) ![UI screen example for creating secondary database category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-read-replica.png)
 
 4.  Select **Map All Pools** to map the database pools to this category.
 
@@ -44,5 +44,5 @@ Query routing takes the load off the primary database for SELECT queries that ta
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-sql-api.md)
 

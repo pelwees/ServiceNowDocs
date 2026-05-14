@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
-2.  On the Assistants screen, select **Now Assist Panel - Platform \(default\).**![Assistants screen that displays Now Assist panel assistants.](../images/now-assist-panel-assistants-screen.png)
+2.  On the Assistants screen, select **Now Assist Panel - Platform \(default\).**![Assistants screen that displays Now Assist panel assistants.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-panel-assistants-screen.png)
 
     The Now Assist Panel - Platform \(default\) page displays.
 
@@ -32,5 +32,5 @@ Role required: admin
 4.  On the Review tab, activate the Now Assist panel assistant.
 
 
-**Parent Topic:**[Configuring Now Assist Admin features](../../now-assist-admin/concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/concept/configuring-na-landing.md)
 

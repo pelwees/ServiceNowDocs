@@ -36,5 +36,5 @@ Some of the key benefits of using Dispute Content Pack for US Regulations are:
 -   Helps issuers to meet the demands of US regulations.
 -   Streamlines processes to resolve disputes more efficiently, which ensures timely resolutions that benefit both issuers and cardholders.
 
-**Parent Topic:**[Dispute Content Pack for US Regulations](dispute-content-pack-for-us-regulation-landing-page.md)
+**Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 

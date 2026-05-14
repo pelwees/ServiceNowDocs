@@ -22,10 +22,10 @@ The integration eliminates service silos and provides employees with a unified e
 
 |Feature|Core Business Suite only|Simplified IT Service Management only|ESM Foundation \(both together\)|
 |-------|------------------------|-------------------------------------|--------------------------------|
-|Unified employee portal experience|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Cross-departmental request routing|![Yes](../../reuse/images/icon-check-mark-green.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Multi-channel support \(chat, email\)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Supplier Collaboration Portal|![Yes](../../reuse/images/icon-check-mark-green.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
+|Unified employee portal experience|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Cross-departmental request routing|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Multi-channel support \(chat, email\)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Supplier Collaboration Portal|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
 
 ## Workflow for ESM Foundation
 
@@ -268,5 +268,5 @@ Get started with ESM Foundation by completing the following implementation and c
 11. Configure comprehensive analytics dashboards for service performance monitoring across all domains
 12. Train service agents on AI-assisted tools and integrated case management workflows.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

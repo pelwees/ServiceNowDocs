@@ -54,12 +54,12 @@ The following plugins are activated with ITOM Content Service:
 
 ## What to do next
 
-[Share data on ITOM Content Service](share-data-itom-content-service.md)
+[Share data on ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md)
 
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/discovery-content-services.md)
 
-[Discovery Admin Workspace](../concept/discovery-admin-workspace.md)
+[Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/discovery-admin-workspace.md)
 

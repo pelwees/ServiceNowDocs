@@ -32,7 +32,7 @@ Edit rights granted by sharing a dashboard do not apply to the underlying data v
 
 2.  Select the dashboard you want to share.
 
-3.  Select the **More actions** button \(![More actions button](../image/icon-vert-3dot-p.png)\) and choose **Share**.
+3.  Select the **More actions** button \(![More actions button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-vert-3dot-p.png)\) and choose **Share**.
 
     The Share Dashboard dialog opens.
 
@@ -76,37 +76,37 @@ Grant editing rights to the users, groups, or roles you are sharing the dashboar
 
 The roles, groups, and users you have shared the dashboard with appear when you reopen the dialog, along with the rights you have given them.
 
-![Dashboard sharing dialog showing who the dashboard has been shared with and whether they can edit or only view it.](../../par-for-workspace/image/db-share-dialog.png)
+![Dashboard sharing dialog showing who the dashboard has been shared with and whether they can edit or only view it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-share-dialog.png)
 
-**Tip:** The users, groups, and roles with which a dashboard is shared are also visible in the dashboard details. For more information, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
+**Tip:** The users, groups, and roles with which a dashboard is shared are also visible in the dashboard details. For more information, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).
 
 ## What to do next
 
 You can change the rights of whom you have shared the dashboard with in the Share Dashboard dialog, under the Can view/Can edit list for each user, group, or role.
 
-![Rights selector for a user, group, or role that a dashboard was shared with.](../../par-for-workspace/image/db-share-rights-selector.png)
+![Rights selector for a user, group, or role that a dashboard was shared with.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-share-rights-selector.png)
 
--   **[Dashboard sharing reference qualifiers](../../par-for-workspace/task/share-db-ref-qualifiers.md)**  
+-   **[Dashboard sharing reference qualifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/share-db-ref-qualifiers.md)**  
 Use reference qualifiers to limit the users, groups, and roles in the recipients field of shared dashboards.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/duplicate-db.md#)
 
-[Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
+[Print a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/printer-friendly-db-ac.md)
 
-[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
 
-[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md)
 
-[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
+[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 

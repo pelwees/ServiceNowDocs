@@ -21,7 +21,7 @@ To install the required application on the instance, navigate to **Plugin Manage
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
-![Set-up indicator for security phase](../image/ProgressBarSecure.png)
+![Set-up indicator for security phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarSecure.png)
 
 </td></tr></tbody>
 </table>Role required: External Credential Storage and Management application Scope ID is required: com.sn\_mid\_extcredstrg
@@ -51,38 +51,38 @@ For more information about specific Azure and Azure Key Vault procedures, see th
 7.  Set the resource to the key vault that you want to integrate with the MID Server.
 
 
-**Parent Topic:**[Securing and encrypting MID Server data](../concept/mid-server-security-encryption.md)
+**Parent Topic:**[Securing and encrypting MID Server data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-server-security-encryption.md)
 
 **Related topics**  
 
 
-[MID Server certificate check policies](../concept/mid-security-checks.md)
+[MID Server certificate check policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 
-[MID Server authentication credentials and SOAP requests](../concept/mid-authentication-soap-requests.md#)
+[MID Server authentication credentials and SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-authentication-soap-requests.md#)
 
-[MID Server unified key store](../concept/mid-unified-keystore.md#)
+[MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-unified-keystore.md#)
 
-[Enable MID Server mutual authentication](install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/install-mid-mutual-auth.md)
 
-[MID Server command audit log](../concept/mid-audit-log.md)
+[MID Server command audit log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-audit-log.md)
 
-[Rekey a MID Server](t_RekeyAMIDServer.md)
+[Rekey a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-script-attach.md#)
 
-[MID Server FIPS Enforced Mode](../concept/mid-fips-enforced.md#)
+[MID Server FIPS Enforced Mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-fips-enforced.md#)
 
-[MID Server Governance](../concept/mid-timeout.md)
+[MID Server Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-timeout.md)
 
 ## Azure Key Vault Integration for External Virtual Machine MID Servers
 
@@ -98,7 +98,7 @@ When setting up access to the Azure Key Vault, the MID Server is either within t
 
 For more information about specific Azure and Azure Key Vault procedures, see the [Azure Key Vault documentation](https://learn.microsoft.com/en-us/azure/key-vault/).
 
-MID servers can use the Vault Credential Resolver to consume secrets directly from Vault for the purpose of performing discovery. The External Credential Storage and Management Application offers out-of-the-box integration to external credential providers. MID Servers support certificate-based authentication when connecting to Azure Key Vault. This provides a more secure and flexible way to authenticate, especially for enterprise environments that prefer certificate credentials over client secrets. For more information on managing certificates, see [MID Server unified key store](../concept/mid-unified-keystore.md#).
+MID servers can use the Vault Credential Resolver to consume secrets directly from Vault for the purpose of performing discovery. The External Credential Storage and Management Application offers out-of-the-box integration to external credential providers. MID Servers support certificate-based authentication when connecting to Azure Key Vault. This provides a more secure and flexible way to authenticate, especially for enterprise environments that prefer certificate credentials over client secrets. For more information on managing certificates, see [MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-unified-keystore.md#).
 
 ### Procedure
 

@@ -34,12 +34,12 @@ Role required: sn\_communities.forum\_admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Create a permission](create-permission.md)
+**Parent Topic:**[Create a permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-permission.md)
 
 **Related topics**  
 
 
-[Add access types to a permission](define-access-type-permission.md)
+[Add access types to a permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/define-access-type-permission.md)
 
-[Create a permission exception](manage-permission-exceptions.md)
+[Create a permission exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-permission-exceptions.md)
 

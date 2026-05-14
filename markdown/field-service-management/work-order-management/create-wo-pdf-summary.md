@@ -47,5 +47,5 @@ The signed PDF summary is generated and attached to the Work Order form.
 **Related topics**  
 
 
-[Signed PDF summaries for closed work orders](../concept/work-order-sign-and-confirm-pdf.md#)
+[Signed PDF summaries for closed work orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/work-order-sign-and-confirm-pdf.md#)
 

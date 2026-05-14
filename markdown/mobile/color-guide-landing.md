@@ -95,11 +95,11 @@ Before you start using color variables, keep the following guidelines in mind.
 
 Use these links to learn how to use color variables to change theming in your mobile components.
 
--   [Color variable support for UI rules](../reference/color-var-ui-rule.md)
--   [Color variable support for icon UI sections](../reference/color-var-ui-section.md)
--   [Color variable support for map icons](../reference/color-var-map-pin.md)
--   [Color variable support for icons](../reference/color-var-mobile-icons.md)
--   [Color variable support for card view templates](../reference/color-var-mobile-template.md)
--   [Color variable support for card view buttons](../reference/color-var-cardview-button.md)
--   [Color variable support for input descriptions](../reference/color-var-input-description.md)
+-   [Color variable support for UI rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-ui-rule.md)
+-   [Color variable support for icon UI sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-ui-section.md)
+-   [Color variable support for map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-map-pin.md)
+-   [Color variable support for icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-mobile-icons.md)
+-   [Color variable support for card view templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-mobile-template.md)
+-   [Color variable support for card view buttons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-cardview-button.md)
+-   [Color variable support for input descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/color-var-input-description.md)
 

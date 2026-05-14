@@ -170,7 +170,7 @@ Each object supported can be declared with the following:
 
 We do not support `while` or unconditional `for` loops with `break`, because of the risk of infinite loops halting performance.
 
-We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md) and [Minimizing table queries](table_queries.md).
+We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [Matrix Loader: CSV table upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-matrix-loader-csv-table-upload.md) and [Minimizing table queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/table_queries.md).
 
 ## Alternative scripts for unsupported operations
 
@@ -323,9 +323,9 @@ If your instance of CPQ needs functionality not described here, contact support@
 **Related topics**  
 
 
-[Sample scripts](cpq-sample-scripts.md)
+[Sample scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-sample-scripts.md)
 
-[Using comments and the console to debug scripts](rules-enrichments-comments-and-console_log.md)
+[Using comments and the console to debug scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rules-enrichments-comments-and-console_log.md)
 
-[Scripting: Checking for first and subsequent configurations](enrichments_on_configurer_and_reconfigure_behavior.md)
+[Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md)
 

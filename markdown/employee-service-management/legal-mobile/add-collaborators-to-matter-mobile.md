@@ -25,12 +25,12 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 2.  Tap the assigned matter to which you want to add a collaborator.
 
-3.  Tap the actions icon \(![Actions icon.](../image/action-icon.png)\) and select the **Add Collaborators** option.
+3.  Tap the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/action-icon.png)\) and select the **Add Collaborators** option.
 
 4.  Tap the **Add Collaborators** field and select the users to add as collaborators.
 
-5.  Tap the ok icon \(![OK icon.](../image/ok-icon.png)\).
+5.  Tap the ok icon \(![OK icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/ok-icon.png)\).
 
-6.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+6.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 

@@ -17,7 +17,7 @@ Create a multi-component model to define more than one model component based on 
 
 ## Before you begin
 
-For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](../concept/complex-models.md).
+For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/complex-models.md).
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
@@ -25,16 +25,16 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 1.  Create a model by navigating to **Enterprise Asset Workspace** &gt; **Enterprise model management**
 
-    You can create a pre-assembled or an user-assembled model. For details on creating a model, see [Create enterprise models](create-model-eam.md).
+    You can create a pre-assembled or an user-assembled model. For details on creating a model, see [Create enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-model-eam.md).
 
 2.  After you created a model, add model components to the model.
 
-    For details on creating model components, see [Create enterprise model components](create-model-components-eam.md).
+    For details on creating model components, see [Create enterprise model components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-model-components-eam.md).
 
 3.  Once you added the model components to the model, change the status of the model to **In Production**.
 
 4.  Select **Publish to Enterprise Asset Catalog** to publish your model to the catalog.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-models.md)
 

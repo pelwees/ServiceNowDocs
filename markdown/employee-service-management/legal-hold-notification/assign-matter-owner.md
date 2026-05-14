@@ -17,7 +17,7 @@ Assign a matter owner \(fulfiller\) for the legal hold matter to be responsible 
 
 ## Before you begin
 
-If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../../legal-request-management/concept/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/concept/install-legal-counsel-center-workspace.md).
 
 Role required: admin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Default lists** tab, navigate to **Matters** &gt; **All**.
 
@@ -33,7 +33,7 @@ Role required: admin
 
 5.  Update the **Assignment group permission** field value to **Read**.
 
-6.  In the **Matter owner** field, select the Search for Record icon \(![Search for Record icon](../../legal-request-management/image/lookup-using-list.png)\) and search for and select the fulfiller to be responsible for managing this legal hold matter.
+6.  In the **Matter owner** field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/image/lookup-using-list.png)\) and search for and select the fulfiller to be responsible for managing this legal hold matter.
 
 7.  Select **Save**.
 
@@ -44,5 +44,5 @@ The legal matter state changes from New to Assigned.
 
 A matter owner \(fulfiller\) is assigned to the legal hold matter.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/use-lg-hold-notif.md)
 

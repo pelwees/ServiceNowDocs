@@ -28,7 +28,7 @@ By default, the skill configurations in the domains inherit the settings from th
 
 1.  Change the current domain to the domain that you want to activate the skills in by selecting the new domain.
 
-    ![Different domains that are created under the global scope.](../image/domain-separation-change-domain.png "Domain scope")
+    ![Different domains that are created under the global scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/domain-separation-change-domain.png "Domain scope")
 
     For example, if you want to configure the skill in ParentDomain, change the domain scope to ParentDomain.
 
@@ -38,7 +38,7 @@ By default, the skill configurations in the domains inherit the settings from th
 
     As shown in the following example, a modal pop-up window confirms that the skill configuration is being edited in the current domain. This action creates a skill configuration that overrides the existing global configuration. The active skill configuration in use is derived from the global domain and shares the same name as the global skill configuration.
 
-    ![Confirmation modal pop-up window that indicates the skill configuration is being edited in the current domain.](../image/domain-separation-modal.png "Edit skill in a domain")
+    ![Confirmation modal pop-up window that indicates the skill configuration is being edited in the current domain.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/domain-separation-modal.png "Edit skill in a domain")
 
 4.  Proceed to the guided setup by selecting **Yes, edit**.
 
@@ -46,7 +46,7 @@ By default, the skill configurations in the domains inherit the settings from th
 
     **Note:** The activation order must follow Global &gt; Parent domain &gt; Child domain to ensure a proper inheritance and overrides. If the child skill configuration in the child domain is activated before the parent domain, the parent skill configuration can't override the existing skill configuration in the child domain. Consequently, both the parent skill and the child skill remain active in the child domain and the result is a misconfiguration.
 
-    ![Configuration setup that will be applicable to the current domain and name of the skill changes to <Skill Name> for <Domain Name>.](../image/domain-separation-changed-skill-name.png "New skill configuration name")
+    ![Configuration setup that will be applicable to the current domain and name of the skill changes to <Skill Name> for <Domain Name>.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/domain-separation-changed-skill-name.png "New skill configuration name")
 
     More information about domain separation for CSM can be found in [Domain separation and Customer Service Management](https://servicenow.com/docs/csh?topicname=domain-separation-customer-service.html&version=latest)
 

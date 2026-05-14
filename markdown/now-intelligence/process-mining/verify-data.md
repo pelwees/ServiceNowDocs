@@ -17,19 +17,19 @@ Verify the data that was imported and validate that the data is accurate. The su
 
 ## Before you begin
 
--   [Create an audit table](create-table.md).
+-   [Create an audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-table.md).
 
--   [Import data into the audit table](import-data.md).
+-   [Import data into the audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-data.md).
 
 Role required: sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to the step where you selected **Import using Integration Hub** in the [Import data into the audit table](import-data.md) section.
+1.  Navigate to the step where you selected **Import using Integration Hub** in the [Import data into the audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-data.md) section.
 
 2.  Select **Yes, my data import is complete**, and select **Next**.
 
-    ![Validate dataset](../image/ext-dataset-import2.png)
+    ![Validate dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset-import2.png)
 
 3.  On the next page, select **Preview** to verify the data you’ve imported.
 
@@ -40,5 +40,5 @@ Role required: sn\_process\_mining\_admin
 5.  Select **Confirm and continue** after validating your data.
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/external-dataset.md)
 

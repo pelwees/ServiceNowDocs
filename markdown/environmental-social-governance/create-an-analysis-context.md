@@ -89,7 +89,7 @@ Number of previous periods to be used as historical data. You must have at least
 
 ## What to do next
 
-Create analyses to use for forecasting. For more information, see [Create an analysis](create-a-scenario-analysis.md).
+Create analyses to use for forecasting. For more information, see [Create an analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-scenario-analysis.md).
 
-**Parent Topic:**[Set up analysis contexts and analyses](../concept/set-up-scenarios.md)
+**Parent Topic:**[Set up analysis contexts and analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/set-up-scenarios.md)
 

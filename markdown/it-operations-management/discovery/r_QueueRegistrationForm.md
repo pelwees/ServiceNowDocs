@@ -94,5 +94,5 @@ Description
 Description of the queue.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Discovery reference](discovery-references.md)
+</table>**Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 

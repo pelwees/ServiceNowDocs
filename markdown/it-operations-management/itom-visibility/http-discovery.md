@@ -27,8 +27,8 @@ The HTTP port probe uses mappings between a protocol and port number in the IP S
 |----------|------|-------|
 | |HTTP \(port probe\): this probe launches the HTTP - Classify probe, which runs an HTTP GET request for every entry in the HTTP classification table.| |
 
--   **[Run discovery through an HTTP or HTTPS REST call](../task/run-http-discovery.md)**  
+-   **[Run discovery through an HTTP or HTTPS REST call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/run-http-discovery.md)**  
 Discovery can classify devices using the HTTP\(S\) protocol. You can create your own HTTP classifier to find devices and access them with Basic Auth credentials, rather than using SNMP or SSH credentials.
 
-**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 

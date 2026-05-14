@@ -29,7 +29,7 @@ Role required: interaction\_agent
 
 3.  Select **Associate Record**.
 
-    ![Interaction with Associate record button highlighted.](../image/associate-record.png)
+    ![Interaction with Associate record button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../image/associate-record.png)
 
 4.  In the Interaction Related Record form, fill in the fields:
 
@@ -43,14 +43,14 @@ Role required: interaction\_agent
 
 5.  Save the form.
 
-    ![Interaction related record form.](../image/interaction-related-record.png)
+    ![Interaction related record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../image/interaction-related-record.png)
 
 
 ## Result
 
 Task type records associated will appear in the Related Tasks related list for the interaction.
 
-![Associated tasks are available under Related Tasks.](../image/associated-interaction.png)
+![Associated tasks are available under Related Tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../image/associated-interaction.png)
 
-**Parent Topic:**[Using Interaction Management](../concept/using-interaction-management.md)
+**Parent Topic:**[Using Interaction Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../concept/using-interaction-management.md)
 

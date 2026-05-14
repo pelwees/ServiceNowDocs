@@ -28,7 +28,7 @@ Activate and install multiple plugins and applications to finish installing Conv
 
 1.  Install the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin.
 
-    For more information on activating the Glide Virtual Agent plugin, see [Activate Virtual Agent](activate-virtual-agent.md).
+    For more information on activating the Glide Virtual Agent plugin, see [Activate Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
 
 2.  Download the Google chat app from the ServiceNow® Store.
 
@@ -36,12 +36,12 @@ Activate and install multiple plugins and applications to finish installing Conv
 
 3.  Install the Google chat \[sn\_va\_google-chat\] plugin in your ServiceNow instance.
 
-    For more information about installing Google chat, see [Integrate Virtual Agent with Google chat using the self-configured bot](installing-ci-google-chat.md).
+    For more information about installing Google chat, see [Integrate Virtual Agent with Google chat using the self-configured bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/installing-ci-google-chat.md).
 
 
 ## What to do next
 
-[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+[Configuring your Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-va-google-chat.md)
 
-**Parent Topic:**[Install Conversational Integration with Google chat](../concept/install-ci-google-chat.md)
+**Parent Topic:**[Install Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/install-ci-google-chat.md)
 

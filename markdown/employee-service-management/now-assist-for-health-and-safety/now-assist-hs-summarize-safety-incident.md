@@ -19,7 +19,7 @@ Generate a summary from the fields that you selected on the safety incident and 
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
-Verify that the Health and Safety incident summarization skill is enabled. For more information, see [Activate a Now Assist for Health and Safety skill](now-assist-hs-activate-skill.md).
+Verify that the Health and Safety incident summarization skill is enabled. For more information, see [Activate a Now Assist for Health and Safety skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-activate-skill.md).
 
 Role required: sn\_ohs\_im.agent or sn\_ohs\_im.manager
 
@@ -27,7 +27,7 @@ Role required: sn\_ohs\_im.agent or sn\_ohs\_im.manager
 
 The Health and Safety incident summarization skill provides the summary of Health and Safety incidents including the details, actions taken, and root cause analysis. The safety agent and safety manager can view a summary to understand the context, refresh the summary, and post the summary to the work notes.
 
-The incident summarization skill is available in Health and Safety Workspace and in the Core UI. When this skill is enabled on an instance, the Now Assist icon \(![now assist icon](../image/na-hs-panel-icon.png)\) appears in the workspace.
+The incident summarization skill is available in Health and Safety Workspace and in the Core UI. When this skill is enabled on an instance, the Now Assist icon \(![now assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../image/na-hs-panel-icon.png)\) appears in the workspace.
 
 -   In Health and Safety Workspace, use the Health and Safety incident summary by Now Assist component to generate a summary. This component appears above the activity stream.
 
@@ -45,7 +45,7 @@ The incident summarization skill is available in Health and Safety Workspace and
 
     **Note:** Generating and displaying the summary may take several seconds.
 
-    ![AI-generated incident summarization](../image/na-hs-incident-summarization.png "Safety incident summary")
+    ![AI-generated incident summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../image/na-hs-incident-summarization.png "Safety incident summary")
 
 4.  When you're finished summarizing an incident, you can add it to the incident work notes, expand or collapse it, provide feedback, copy it, or view information about the incident.
 
@@ -74,7 +74,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../../human-resources/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../../human-resources/image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d304018e289">
 
@@ -82,7 +82,7 @@ Select the expand card icon \(![Expand card icon.](../../human-resources/image/i
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../human-resources/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../human-resources/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d304018e312">
 
@@ -90,7 +90,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../../human-resources/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d304018e328">
 
@@ -98,7 +98,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../../human-resou
 
 </td><td>
 
-Select the refresh icon \(![Refresh icon.](../../legal-matter-management/image/refresh-list-icon.png)\) to summarize the request again.
+Select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../legal-matter-management/image/refresh-list-icon.png)\) to summarize the request again.
 
 </td></tr><tr><td id="d304018e343">
 
@@ -106,7 +106,7 @@ Select the refresh icon \(![Refresh icon.](../../legal-matter-management/image/r
 
 </td><td>
 
-If you want to check details about the summary, select the more info icon \(![More info icon.](../../human-resources/image/icon-more-info.png)\).
+If you want to check details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../human-resources/image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>5.  Share the AI-generated summary with relevant stakeholders through the **Email** tab in the activity stream.

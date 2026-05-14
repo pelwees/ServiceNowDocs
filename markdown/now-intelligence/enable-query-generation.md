@@ -35,7 +35,7 @@ Role required: admin
 
 4.  Browse for the analytics query generation skill.
 
-    ![Analytics query generation skill tile.](../image/querygen-activate-qg-skill-new.png)
+    ![Analytics query generation skill tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/querygen-activate-qg-skill-new.png)
 
 5.  To deactivate a skill, select **Deactivate skill**.
 
@@ -43,10 +43,10 @@ Role required: admin
 
 6.  To change the roles that can access a skill, open it for editing.
 
-    ![Opening a skill card to edit the settings.](../image/open-skill-edit.png)
+    ![Opening a skill card to edit the settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/open-skill-edit.png)
 
     **Warning:** Be careful when selecting the roles that can access a skill. The default role is sn\_query\_gen.user, which the default roles for other Now Assist in Platform Analytics skills contain. Users of these other skills must be able to access Query Generation skills.
 
 
-**Parent Topic:**[Configuring Query Generation](../concept/configuring-query-generation.md)
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configuring-query-generation.md)
 

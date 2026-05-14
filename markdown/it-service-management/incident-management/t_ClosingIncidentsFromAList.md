@@ -25,7 +25,7 @@ Role required: itil, list\_updater, sn\_incident\_write, or admin
 
 2.  Right-click on any list column header and select **Update Selected**.
 
-    ![Update selected UI action](../image/close-inci-from-list.png)
+    ![Update selected UI action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/close-inci-from-list.png)
 
 3.  Set the value of **State** to **Closed**.
 
@@ -36,5 +36,5 @@ Role required: itil, list\_updater, sn\_incident\_write, or admin
     The changes apply to all the selected records.
 
 
-**Parent Topic:**[Incident resolution and closure](../concept/c_IncidentResolutionAndRecovery.md)
+**Parent Topic:**[Incident resolution and closure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/c_IncidentResolutionAndRecovery.md)
 

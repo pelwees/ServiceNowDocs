@@ -54,7 +54,7 @@ Role required: admin
     -   Everyone: The app is added to all user-compatible devices.
     -   No one: The app is staged for distribution at a later date.
     -   Custom: The app is distributed only to users or groups you choose.
-    ![App configuration page for Android on MobileIron](../image/mobileIron-12.png "MobileIron app config")
+    ![App configuration page for Android on MobileIron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobileIron-12.png "MobileIron app config")
 
 13. Click **Next**.
 
@@ -69,5 +69,5 @@ For more information on the MobileIron App Catalog, see the [MobileIron document
 
 If your instance is on an internal network, you might need to configure the VPN. For more information, see the MobileIron documentation on [VPN configuration](http://mi.extendedhelp.mobileiron.com/49/all/en/desktop/VPN_Configuration.htm).
 
-**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](../concept/mobileiron-mdm.md)
+**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobileiron-mdm.md)
 

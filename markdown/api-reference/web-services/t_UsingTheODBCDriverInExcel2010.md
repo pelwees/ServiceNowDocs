@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Under **From Other Sources**, open **From Microsoft Query**.
 
-    ![From Microsoft Query.](../image/ExcelOtherQuery.png)
+    ![From Microsoft Query.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ExcelOtherQuery.png)
 
 3.  Select **ServiceNow** as your database \(the default DSN name\).
 
@@ -33,15 +33,15 @@ Role required: admin
 
     **Note:** The Excel Query Wizard does not support the listing of columns from a table name that contain an underscore \( \_ \). Clearing this check box uses the Query Builder instead, which supports the use of this character.
 
-    ![ServiceNow Data Source.](../image/ExcelServiceNowDataSource.png)
+    ![ServiceNow Data Source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ExcelServiceNowDataSource.png)
 
 5.  Supply the ServiceNow user name and password.
 
-    ![Data Source Login.](../image/ExcelDataSourceLogin.png)
+    ![Data Source Login.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ExcelDataSourceLogin.png)
 
 6.  Select a table from the ServiceNow instance and click **Add**.
 
-    ![Add Table.](../image/ExcelODBCAddTable.png)
+    ![Add Table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ExcelODBCAddTable.png)
 
 7.  Close the dialog box.
 
@@ -51,12 +51,12 @@ Role required: admin
 
 9.  Retrieve the data and create the Excel record by clicking the **Return Data** icon or selecting **File &gt; Return Data to Microsoft Office Excel**.
 
-    ![Query Builder Retrieve Data.](../image/QueryBuilderRetrieveData.png)
+    ![Query Builder Retrieve Data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/QueryBuilderRetrieveData.png)
 
     The requested data is brought into Excel.
 
-    ![Excel ODBC Results.](../image/ExcelODBCResults.png)
+    ![Excel ODBC Results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ExcelODBCResults.png)
 
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_ODBCAndClientApplications.md)
 

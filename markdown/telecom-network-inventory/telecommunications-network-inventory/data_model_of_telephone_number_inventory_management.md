@@ -17,7 +17,7 @@ By using the telephone number inventory management data model, you can understan
 
 ## Data model
 
-The following diagram shows the telephone number inventory management data model.![Data model that explains how the tables of a telephone number block, telephone number allocation, and telephone number are related.](../image/telephone_datamodel.png)
+The following diagram shows the telephone number inventory management data model.![Data model that explains how the tables of a telephone number block, telephone number allocation, and telephone number are related.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/telephone_datamodel.png)
 
 The data model provides an overview of telephone number usage and availability. With this data model, you can store the telephone block, allocation, and telephone number.
 
@@ -29,10 +29,10 @@ A telephone number is assigned this way:
 2.  A telephone number inventory manager then creates a telephone allocation to assign a service to a series or to a set of numbers. A telephone block can have a group as its child. These allocations are created in the telephone number allocation table.
 3.  The telephone number allocation table relates the telephone numbers that are ready to use to a record in the telephone number table.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telephone infrastructure](../concept/telephone_block_telephone_number_and_telephone_number.md)
+[Create a telephone infrastructure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telephone_block_telephone_number_and_telephone_number.md)
 

@@ -207,5 +207,5 @@ Resolution code for the impact. Options are:-   None
 -   Fixed by maintenance
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Connected Workforce Mobile Experience reference](industrial-connected-workforce-mobile-experience-reference.md)
+</table>**Parent Topic:**[Industrial Connected Workforce Mobile Experience reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/industrial-connected-workforce-mobile-experience-reference.md)
 

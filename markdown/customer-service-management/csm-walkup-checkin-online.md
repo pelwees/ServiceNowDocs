@@ -31,7 +31,7 @@ Role required: sn\_walkup.walkup\_login
 
 4.  Select a reason for your visit from the drop-down list.
 
-5.  Select the Calendar icon \(![Calendar icon.](../image/calendar.jpg)\) and select the date and time of the appointment.
+5.  Select the Calendar icon \(![Calendar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/calendar.jpg)\) and select the date and time of the appointment.
 
 6.  Select **Schedule Appointment**.
 

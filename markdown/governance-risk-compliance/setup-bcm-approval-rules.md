@@ -82,7 +82,7 @@ Approver type
 Type of approver.-   Specific approvers: Your choice of approvers.
 -   Approver from source: Users or groups from the source table.
 -   Dynamic approvers: Approvers selected dynamically from any table.
--   Scripted approvers: Script to determine approvers. See the script shown as an example below.![Sample script](../image/approval-rule-sample-script.png)
+-   Scripted approvers: Script to determine approvers. See the script shown as an example below.![Sample script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-rule-sample-script.png)
 **Note:**
 
 For security reasons, the BCM admin doesn’t have write access to the **Script** field on the Approval Rule form. Only the Approver Configurator developer has create and write access to the **Script** field on the Approval Rule form.
@@ -91,7 +91,7 @@ If you have the BCM admin role, you can set up an approval rule only with types 
 
 -   Specific approvers
 -   Approver from source
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/reference/roles-installed-with-approver-configurator.md).
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ Field values on the form:
     Scripted approvers
 
 
-![Sample script to add approvers.](../image/ScriptedApproverSampleScript.png "Sample script to add approvers")
+![Sample script to add approvers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ScriptedApproverSampleScript.png "Sample script to add approvers")
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-approval-configuration.md)
 

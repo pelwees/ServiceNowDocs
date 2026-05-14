@@ -18,7 +18,7 @@ Delivery dates define when goods or services are expected to be delivered and gi
 
 Delivery dates are selected during checkout and are tracked throughout the purchase lifecycle. Delivery date selection applies at the purchase line level, which allows different products, and even the same product, to follow different delivery schedules within a single checkout.
 
-![Checkout page showing delivery date options for two products with radio buttons for scheduling preferences.](../image/spo-add-delivery-date-range.png "Delivery date options")
+![Checkout page showing delivery date options for two products with radio buttons for scheduling preferences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-add-delivery-date-range.png "Delivery date options")
 
 ## Delivery date selection during checkout
 
@@ -54,5 +54,5 @@ After a purchase is submitted, delivery date information remains visible through
 -   **View by line**: Displays delivery dates per purchase line, including split delivery schedules and service start and end dates.
 -   **Purchase details**: Shows delivery-related fields such as expected delivery date \(for goods\), start and end dates \(for services\), and the associated delivery location.
 
-**Parent Topic:**[Select a delivery date](../task/select-delivery-date.md)
+**Parent Topic:**[Select a delivery date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/select-delivery-date.md)
 

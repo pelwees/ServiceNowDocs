@@ -74,11 +74,11 @@ The Matrix Loader performs uploads in a controlled sequence to maintain relation
 **Related topics**  
 
 
-[Configure the Matrix Loader](cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-[Matrix Loader CSV fields and field options upload and export](cpq-matrix-loader-csv-fields-and-field-options-upload-and-export.md)
+[Matrix Loader CSV fields and field options upload and export](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-fields-and-field-options-upload-and-export.md)
 
-[Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 
-[Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md)
+[Matrix Loader: CSV table upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-matrix-loader-csv-table-upload.md)
 

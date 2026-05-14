@@ -41,7 +41,7 @@ For more information, see the [ServiceNow store](https://store.servicenow.com/).
 
 ## Security analyst experience
 
-To understand how to resolve security threats in a step-by-step manner, see [Resolve security threats with the playbook](../task/use-the-playbook.md#).
+To understand how to resolve security threats in a step-by-step manner, see [Resolve security threats with the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/use-the-playbook.md#).
 
 ## Deeper understanding of the Child Security Incident Automation playbook with Flow Designer capabilities
 
@@ -57,31 +57,31 @@ To understand how to resolve security threats in a step-by-step manner, see [Res
 
 The following image shows a copy of the Child Security Incident Automation playbook. Review the steps below to get an understanding of the various actions in the playbook.
 
-![Child Automation Flow:Overview](../image/cj-sir-child-automation-1.png)
+![Child Automation Flow:Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-child-automation-1.png)
 
 This playbook is triggered when:
 
 -   The parent security incident field isn’t empty.
 -   The parent security incident is in Draft, Analysis, Contain, or Eradicate state.
 
-![Child Automation playbook: Trigger](../image/cj-sir-child-automation-trigger.png)
+![Child Automation playbook: Trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-child-automation-trigger.png)
 
 The following steps walk you through the actions and tasks that are available in the Child Security Incident Automation playbook.
 
 1.  When the playbook starts executing, in Step 1, if the security incident is in a Draft state, it’s updated and set to the Analysis state.
 
-    ![Child Automation playbook: step 1](../image/cj-sir-child-automation-step1.png)
+    ![Child Automation playbook: step 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-child-automation-step1.png)
 
 2.  In steps 2 and 3, affected users for the security incident are retrieved and rolled up to the parent security incident. Any duplicate users are eliminated.
 3.  In steps 4 and 5, configuration items associated with the child security incident are retrieved and unique CIs are rolled up to the parent security incident.
 
-    ![Child automation playbook: step 5](../image/cj-sir-child-automation-step4-5.png)
+    ![Child automation playbook: step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-child-automation-step4-5.png)
 
 4.  In steps 6 and 7, observables associated with the child security incident are retrieved and unique observables are rolled up to the parent security incident.
 
-    ![Child automation playbook: step 7](../image/cj-sir-child-automation-step6-7.png)
+    ![Child automation playbook: step 7](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-child-automation-step6-7.png)
 
 5.  In steps 8 and 9, automated worknotes are posted to the parent and child security incidents indicating that the affected users, configuration items, and observables have been rolled up from the child to the parent security incident.
 
-**Parent Topic:**[Flow-based Playbooks](playbook-flow-based.md)
+**Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 

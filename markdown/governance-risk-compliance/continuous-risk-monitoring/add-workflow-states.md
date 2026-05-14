@@ -71,5 +71,5 @@ The workflow states appear in the workflow states related list on the state mode
 
 ## What to do next
 
-[Configure transition between state models](create-state-transitions.md)
+[Configure transition between state models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/create-state-transitions.md)
 

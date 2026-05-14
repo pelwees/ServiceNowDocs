@@ -116,7 +116,7 @@ Incidents
 Total count of active incidents for the device.
 
 </td></tr></tbody>
-</table>To return to the main devices page, see [Devices](../concept/dex-workspace-devices-tab.md).
+</table>To return to the main devices page, see [Devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-workspace-devices-tab.md).
 
-**Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
+**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 

@@ -29,7 +29,7 @@ Configure the heatmap using the prepackaged heatmap widgets. Map the configured 
 
 2.  In the upper-right corner, change the selected application from Global to GRC: Advanced Risk.
 
-3.  To add widgets, select the plus ![Add widgets icon](../image/plus-icon.png) icon in the upper right.
+3.  To add widgets, select the plus ![Add widgets icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/plus-icon.png) icon in the upper right.
 
 4.  From the Add Widgets list, select one of the following.
 
@@ -50,5 +50,5 @@ Configure the heatmap using the prepackaged heatmap widgets. Map the configured 
 
 The selected heatmap appears on the dashboard.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-advanced-risk-assessment.md)
 

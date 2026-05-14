@@ -34,5 +34,5 @@ For more information on differences in ServiceNow AI results, see [Search result
 
 ![image.nowllm-vs-azure]
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 

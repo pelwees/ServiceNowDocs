@@ -27,22 +27,22 @@ You must have access to the list of records that you want to analyze.
 
 2.  Right-click on the header of the column you want to analyze and select **Launch Interactive Analysis**.
 
-3.  Click the filter icon \(![filter icon](../../../common/image/List_FilterIcon.png)\) and click **Add filters**.
+3.  Click the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../common/image/List_FilterIcon.png)\) and click **Add filters**.
 
     Use the **Search Filters** bar to limit the number of filters displayed.
 
-    ![Add filters panel](../../reporting/image/ia-add-filters.png)
+    ![Add filters panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/ia-add-filters.png)
 
 4.  Select the filter to add.
 
 5.  Click **Apply Filters**.
 
-    ![Filters panel with Filter icon, Add Filters button, and Apply Filters button highlighted.](../../reporting/image/apply-filters.png)
+    ![Filters panel with Filter icon, Add Filters button, and Apply Filters button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/apply-filters.png)
 
 
 ## Result
 
-The new filter is applied to the interactive analysis. Click the information icon \(![Info icon](../../common-ui-elements/image/PreviewIcon.png)\) to view the filters in the source filter summary.
+The new filter is applied to the interactive analysis. Click the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../common-ui-elements/image/PreviewIcon.png)\) to view the filters in the source filter summary.
 
-**Parent Topic:**[Interactive Analysis](../concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/interactive-analysis.md)
 

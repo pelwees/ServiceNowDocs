@@ -59,8 +59,8 @@ Role required: admin
 
     **Note:** The Business Roles \[com.snc.businessroles\] plugin is automatically activated with the Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\] plugin.
 
-    For instructions on how to configure the business roles and map them to the relevant groups, see [Configure a business role](configure-business-role.md).
+    For instructions on how to configure the business roles and map them to the relevant groups, see [Configure a business role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/configure-business-role.md).
 
 
-**Parent Topic:**[Microsoft Entra ID integration for new hire onboarding](../concept/azure-active-directory-integration-for-new-hire-onboarding.md)
+**Parent Topic:**[Microsoft Entra ID integration for new hire onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../concept/azure-active-directory-integration-for-new-hire-onboarding.md)
 

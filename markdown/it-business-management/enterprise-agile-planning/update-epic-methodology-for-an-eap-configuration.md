@@ -35,8 +35,8 @@ By default, the epic methodology for an EAP configuration is set to **SAFe** and
 
 3.  Double-click the Epic methodology cell to change and update the value.
 
-    ![Epic methodology update for EAP configurations.](../images/eap-epic-methodology.png)
+    ![Epic methodology update for EAP configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-epic-methodology.png)
 
-    If the Epic methodology column is not displayed in your ServiceNow instance, personalize the column settings using the Update Personalized List icon \(![Update Personalized List icon](../images/eap-personalize-list.png)\) from the list header.
+    If the Epic methodology column is not displayed in your ServiceNow instance, personalize the column settings using the Update Personalized List icon \(![Update Personalized List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-personalize-list.png)\) from the list header.
 
 

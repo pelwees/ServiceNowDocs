@@ -25,9 +25,9 @@ When you update and save changes to a published catalog configuration, the catal
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Publishing Center**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Publishing Center**.
 
 4.  Select **All**.
 
@@ -51,16 +51,16 @@ The publishing configuration is updated based on your changes.
 
 You must republish to apply changes to the published knowledge base output. Use the Run logs to monitor the publishing job and confirm completion.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Republish a TRM catalog after updates](republish-trm-cat.md)
+[Republish a TRM catalog after updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/republish-trm-cat.md)
 
-[View publishing status and run log](view-run-log.md)
+[View publishing status and run log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-run-log.md)
 
-[Access the published TRM catalog knowledge base](access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/understand-publishing-output.md)
 

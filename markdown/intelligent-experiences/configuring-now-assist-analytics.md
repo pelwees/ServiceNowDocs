@@ -16,11 +16,11 @@ Configure the Now Assist Analytics dashboard to view the usage, value, and perfo
 
 ## Configuration overview
 
-Now Assist Analytics requires at least one Now Assist application, for example, Now Assist for Customer Service Management \(CSM\), to be installed and configured on your instance. See [Installing Now Assist Analytics](installing-now-assist-analytics.md) for more information.
+Now Assist Analytics requires at least one Now Assist application, for example, Now Assist for Customer Service Management \(CSM\), to be installed and configured on your instance. See [Installing Now Assist Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/installing-now-assist-analytics.md) for more information.
 
 The following is an optional configuration task used to map a Now Assist skill to a dashboard.
 
-[Map a skill to a dashboard](map-a-skill-to-a-dashboard.md) to view skill usage and performance indicators.
+[Map a skill to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/map-a-skill-to-a-dashboard.md) to view skill usage and performance indicators.
 
 ## Domain Separation
 

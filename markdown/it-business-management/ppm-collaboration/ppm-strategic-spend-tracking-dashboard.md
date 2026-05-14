@@ -19,13 +19,13 @@ The Strategic Spend Tracking for PPM dashboard provides comprehensive visualizat
 
 You can analyze the total expenses, and drill down to what is contributing to the cost, and which departments and business units are spending.
 
-![The Strategy Overview tab](../image/strategy_overview_dashboard.gif "Strategy Overview tab")
+![The Strategy Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/strategy_overview_dashboard.gif "Strategy Overview tab")
 
-![The Strategy Detail tab](../image/strategy_detail_dashboard.png "Strategy Detail tab")
+![The Strategy Detail tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/strategy_detail_dashboard.png "Strategy Detail tab")
 
-![The Goal Overview tab](../image/goals_overview_dashboard.gif "Goal Overview tab")
+![The Goal Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/goals_overview_dashboard.gif "Goal Overview tab")
 
-![The Goal Detail tab](../image/goals_details_dashboard.png "Goal Detail tab")
+![The Goal Detail tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/goals_details_dashboard.png "Goal Detail tab")
 
 ## End user and roles
 
@@ -153,21 +153,21 @@ The dashboard includes the following visualizations for strategies:
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Project Cost|Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual costs for all projects grouped by fiscal period for strategies.|
-|Project Benefit|Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual benefits for all projects grouped by fiscal period for strategies.|
-|Project Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of projects by strategy.|
-|Planned Cost Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned cost of projects by strategy.|
-|Planned Benefit Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned benefit of projects by strategy.|
+|Project Cost|Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual costs for all projects grouped by fiscal period for strategies.|
+|Project Benefit|Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual benefits for all projects grouped by fiscal period for strategies.|
+|Project Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of projects by strategy.|
+|Planned Cost Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned cost of projects by strategy.|
+|Planned Benefit Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned benefit of projects by strategy.|
 
 The dashboard includes the following visualizations for goals:
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Project Cost|Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual costs for all projects grouped by fiscal period for goals.|
-|Project Benefit|Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual benefits for all projects grouped by fiscal period for goals.|
-|Project Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of projects by goals.|
-|Planned Cost Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned cost of projects by goals.|
-|Planned Benefit Distribution|Pie chart![Pie chart](../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned benefit of projects by goals.|
+|Project Cost|Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual costs for all projects grouped by fiscal period for goals.|
+|Project Benefit|Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)|Comparison of total planned and actual benefits for all projects grouped by fiscal period for goals.|
+|Project Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of projects by goals.|
+|Planned Cost Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned cost of projects by goals.|
+|Planned Benefit Distribution|Pie chart![Pie chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/donut-icon.png)|Breakdown of the distribution of planned benefit of projects by goals.|
 
-**Parent Topic:**[Strategic Spend Tracking for PPM](../../../product/itbm-business-outcomes/concept/ppm-strategic-spend-tracking-overview.md)
+**Parent Topic:**[Strategic Spend Tracking for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../../product/itbm-business-outcomes/concept/ppm-strategic-spend-tracking-overview.md)
 

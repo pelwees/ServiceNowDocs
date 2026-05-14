@@ -33,7 +33,7 @@ Depending on the value of the **glide.knowman.submission.workflow** property, kn
 
 2.  Select the **Knowledge** check box on the form.
 
-    You may need to configure the form to include the **Languages** field. Click the form context menu icon \(![context menu icon](../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form layout**. Use slushbucket to add the Languages field.
+    You may need to configure the form to include the **Languages** field. Click the form context menu icon \(![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/ContextMenu.png)\) and navigate to **Configure** &gt; **Form layout**. Use slushbucket to add the Languages field.
 
 3.  Close the incident or problem.
 
@@ -50,5 +50,5 @@ Depending on the value of the **glide.knowman.submission.workflow** property, kn
     A new draft knowledge article is created. Articles created this way are added to the knowledge base specified in the property **glide.knowman.task\_kb**.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 

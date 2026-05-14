@@ -22,16 +22,16 @@ A manager wants to compare performance across regional teams to understand why o
 
 Comparing projects lets you analyze two versions or scenarios from the same project simultaneously. When comparing, you can choose a project version, set different filters, choose routes to view, and see their records separately.
 
-![Compare process models](../image/compare-processes.gif)
+![Compare process models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/compare-processes.gif)
 
 From the project comparison view, you can refine activities and connections for each map. You can also apply filters and routes, and compare statistics between them.
 
--   **[Start a comparison](../task/start-comparison.md)**  
+-   **[Start a comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/start-comparison.md)**  
 Begin a side-by-side project comparison.
--   **[Compare statistics and transitions between two projects](compare-statistics-two-models.md)**  
+-   **[Compare statistics and transitions between two projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/compare-statistics-two-models.md)**  
 Compare records, routes, average case duration, and transitions of two side-by-side projects.
--   **[Change a project version name](edit-version-name.md)**  
+-   **[Change a project version name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/edit-version-name.md)**  
 Change the name of a project version for easier referencing when viewing and comparing.
 
-**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 

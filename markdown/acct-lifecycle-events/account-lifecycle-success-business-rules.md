@@ -1538,5 +1538,5 @@ Update renewal finalized on field value on Contract table when Substate changes 
 This helps to determine the won/loss of a contract and at what month of the year for Renewal Tab won/loss visualization graphical plot.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Success Management reference](account-lifecycle-reference.md)
+</table>**Parent Topic:**[Customer Success Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-reference.md)
 

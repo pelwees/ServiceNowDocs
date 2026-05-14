@@ -46,7 +46,7 @@ Do this
 
 1.  Tap **My Work**.
 2.  In the **My Tasks** section, select the relevant work order task.
-3.  Tap Overflow action ![overflow action icon](../image/more_actions1.png) icon.
+3.  Tap Overflow action ![overflow action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/more_actions1.png) icon.
 4.  Tap **Create opportunity**.
 
 

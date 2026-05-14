@@ -27,7 +27,7 @@ For detailed information on authoring and managing knowledge articles in a works
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+2.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-risk-management/image/icon-config.png)\).
 
 3.  In the **Configuration** tab, select **Knowledge** and then **All**.
 
@@ -65,5 +65,5 @@ The knowledge article appears in a **Knowledge** list under **Configuration**:
 -   When published, it appears in the **My Articles - Published** list and the **All Articles** list. Published articles are visible to all employees.
 -   When unpublished, it appears in the **My Articles - Unpublished** list and the **All Articles** list.
 
-**Parent Topic:**[Managing safety knowledge articles](../concept/hs-managing-safety-knowledge-articles.md)
+**Parent Topic:**[Managing safety knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../concept/hs-managing-safety-knowledge-articles.md)
 

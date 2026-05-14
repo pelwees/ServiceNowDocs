@@ -27,12 +27,12 @@ Before you set up Workforce Optimization for ITSM, you must assign each agent in
 
 1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
-2.  Right-click the form context menu icon \(![Form context menu icon](../image/list-icon.png)\) and select **View** &gt; **WFO Workspace**.
+2.  Right-click the form context menu icon \(![Form context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/list-icon.png)\) and select **View** &gt; **WFO Workspace**.
 
 3.  In the **Primary Assignment Group** field, select a group as the primary assignment group for each agent.
 
     If you do not see the **Primary Assignment Group** field, select the gear icon and add the **Primary Assignment Group** field to the **Selected** column and select **OK**.
 
 
-**Parent Topic:**[Configuring groups in Workforce Optimization for ITSM](../concept/configuring-groups-wfo-itsm.md)
+**Parent Topic:**[Configuring groups in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/configuring-groups-wfo-itsm.md)
 

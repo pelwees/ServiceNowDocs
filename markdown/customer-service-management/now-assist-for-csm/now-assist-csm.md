@@ -20,15 +20,15 @@ Use the ServiceNow® Now Assist for Customer Service Management \(CSM\) applicat
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for CSM](now-assist-csm-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for CSM](now-assist-csm-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for CSM application to get started](now-assist-csm-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for CSM application to get started](now-assist-csm-configuring.md)
 
 </td><td>
 
-[Use Customer Service Management generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for CSM](now-assist-csm-using.md)
+[Use Customer Service Management generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for CSM](now-assist-csm-using.md)
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Use the ServiceNow® Now Assist for Customer Service Management \(CSM\) applicat
 
 </td><td>
 
-[Use Agentic AI in CSM ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for CSM AI agents to complete tasks autonomously.](csm-ai-agents-use-cases.md)
+[Use Agentic AI in CSM ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for CSM AI agents to complete tasks autonomously.](csm-ai-agents-use-cases.md)
 
 </td><td>
 

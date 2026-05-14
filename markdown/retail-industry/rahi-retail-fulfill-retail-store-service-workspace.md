@@ -37,5 +37,5 @@ Role required: sn\_rtl\_stre\_servcs.agent or sn\_rtl\_stre\_servcs.agent\_manag
     |**Resolution notes**|Note about the resolution.|
 
 
-**Parent Topic:**[Manage store inquiries](rahi-retail-manage-store-inquiries.md)
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 

@@ -17,7 +17,7 @@ Doing a bulk import of the data of all your workspaces into the Workplace Core a
 
 By using a spreadsheet that contains the global information for your work sites, you can enter only the distinguishing space information instead of manually repeating information such as region, site, building, and floor. You can either create an Excel spreadsheet from the data already entered into the Workplace Core application or modify an existing workplace spreadsheet.
 
-**Parent Topic:**[Providing your workplace data](providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/providing-your-workplace-data.md)
 
 ## Configure an existing workspaces spreadsheet
 
@@ -54,7 +54,7 @@ This example describes how to modify the floor information for your workspace da
         -   RGIN0001002 represents USA
         **Note:** You can exclude the **Area** column as it is not mandatory. Enter a dummy value in the column instead of leaving it empty.
 
-        ![Import workspace data](../../../reuse/workplace-safety-mgmt/images/import-workspace-data.gif)
+        ![Import workspace data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../reuse/workplace-safety-mgmt/images/import-workspace-data.gif)
 
 2.  In your workspaces spreadsheet, add individual workspace information in the **Name** column.
 
@@ -73,7 +73,7 @@ Role required: sn\_wsd\_core.admin
 
 If you have a large number of work sites, consider creating a spreadsheet that you can then import into your ServiceNow instance to avoid having to manually enter global information such as the site or building names for each workspace.
 
-**Note:** If you already have an existing workspaces spreadsheet for your organization, follow the instructions in [Configure an existing workspaces spreadsheet](../../workplace-service-delivery/concept/importing-workspace-data-wsd.md#) to customize it for exporting the data.
+**Note:** If you already have an existing workspaces spreadsheet for your organization, follow the instructions in [Configure an existing workspaces spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/concept/importing-workspace-data-wsd.md#) to customize it for exporting the data.
 
 ### Procedure
 
@@ -100,5 +100,5 @@ If you have a large number of work sites, consider creating a spreadsheet that y
 
 ### What to do next
 
-[Import your workspaces data from an Excel spreadsheet](../../workplace-service-delivery/task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/task/import-excel-spreadsheet-workspace-data-wsd.md)
 

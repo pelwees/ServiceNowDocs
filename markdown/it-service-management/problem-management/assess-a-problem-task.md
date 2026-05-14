@@ -27,7 +27,7 @@ Assessing a problem task involves analyzing the scale and extent of the task, as
 
 1.  Select **Assess**.
 
-    ![new state](../image/pm-task-assess.png)
+    ![new state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-task-assess.png)
 
     The problem task enters the **Assess** state. You can confirm whether there’s enough information to work on the task or if the task should be canceled.
 
@@ -47,7 +47,7 @@ Action to be taken
 
 </td><td>
 
-Select **Start Work**. ![start state](../image/pm-task-start-work.png)The problem task enters the **Work in Progress** state.
+Select **Start Work**. ![start state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-task-start-work.png)The problem task enters the **Work in Progress** state.
 
 </td></tr><tr><td id="d119192e118">
 
@@ -55,7 +55,7 @@ Select **Start Work**. ![start state](../image/pm-task-start-work.png)The proble
 
 </td><td>
 
-Select **Re-asses**.![re-assess state](../image/pm-task-reassess.png)The state of the problem task changes from **Work in Progress** back to **Assess**.
+Select **Re-asses**.![re-assess state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-task-reassess.png)The state of the problem task changes from **Work in Progress** back to **Assess**.
 
 </td></tr><tr><td id="d119192e143">
 
@@ -63,7 +63,7 @@ Select **Re-asses**.![re-assess state](../image/pm-task-reassess.png)The state o
 
 </td><td>
 
-Select **Cancel**. ![cancel state](../image/pm-task-cancel.png)The problem task prompts you to complete the **Canceled reason** field, and the record moves to the **Closed** state with the **Close code** as **Canceled**.
+Select **Cancel**. ![cancel state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-task-cancel.png)The problem task prompts you to complete the **Canceled reason** field, and the record moves to the **Closed** state with the **Close code** as **Canceled**.
 
 </td></tr></tbody>
 </table>
@@ -71,5 +71,5 @@ Select **Cancel**. ![cancel state](../image/pm-task-cancel.png)The problem task 
 
 Complete the problem task as resolved.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-lifecycle.md)
 

@@ -83,5 +83,5 @@ Do this
 </table>
 ## What to do next
 
-You can pickup parts from your peer agents for the part request. For more information, see [Pick up a part to complete tasks](../concept/picking-up-parts.md#) and [Pick up a part to complete tasks](../concept/picking-up-parts.md#).
+You can pickup parts from your peer agents for the part request. For more information, see [Pick up a part to complete tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/picking-up-parts.md#) and [Pick up a part to complete tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/picking-up-parts.md#).
 

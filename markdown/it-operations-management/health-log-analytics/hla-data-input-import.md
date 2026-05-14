@@ -18,9 +18,9 @@ Import a data input configuration that you've exported from another instance as 
 
 ## Before you begin
 
-For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md).
+For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-migration.md).
 
-Before performing this procedure, export the data input to an update set. For more information, see [Export a Health Log Analytics data input configuration](hla-data-input-migrate.md).
+Before performing this procedure, export the data input to an update set. For more information, see [Export a Health Log Analytics data input configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-migrate.md).
 
 Role required: admin
 
@@ -84,12 +84,12 @@ Role required: admin
         **Note:** Whether you need to configure credentials depends on the data input that you've imported. For example, you must configure Amazon Web Services \(AWS\) credentials for Amazon CloudWatch and Amazon S3 data inputs.
 
     -   \(Optional\) The service instance to which to bind the log data.
-    For more information, see the configuration documentation for the relevant data input: [Set up data inputs in Health Log Analytics manually](hla-data-input-setup-manual.md).
+    For more information, see the configuration documentation for the relevant data input: [Set up data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-manual.md).
 
 
 ## Result
 
 You can begin using the data input for streaming and processing log data.
 
-**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md)
+**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-migration.md)
 

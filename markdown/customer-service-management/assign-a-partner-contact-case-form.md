@@ -23,11 +23,11 @@ Role required: customer service agent
 
 2.  Select **New**.
 
-3.  In the **Install Base** field, use the search icon ![Search icon.](../image/search_icon.png) to add an install base item on the Create Case form.
+3.  In the **Install Base** field, use the search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/search_icon.png) to add an install base item on the Create Case form.
 
-    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [Case task form](../reference/csm-case-task-form.md).
+    The **Account** and **Contact** fields are automatically filled from the install base form. For a description of the field values, see [Case task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-case-task-form.md).
 
-4.  In the **Partner** field, use the search icon to ![Search icon.](../image/search_icon.png) search for a partner associated with the selected account.
+4.  In the **Partner** field, use the search icon to ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/search_icon.png) search for a partner associated with the selected account.
 
     The partner in the **Partner** field is the partner account that is associated with the account.
 
@@ -37,7 +37,7 @@ Role required: customer service agent
     -   All partner contacts with the partner admin role are eligible if **Restrict Account Access** is enabled.
     -   Partner contacts that are added as an Authorized Representative through the related party list for the install base item.
     -   Partner contacts that are added as an Authorized Account through the related party list for the install base item.
-    To add a related party to an install base item, see [Add related parties to an install base item](add-related-party-install-base.md).
+    To add a related party to an install base item, see [Add related parties to an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/add-related-party-install-base.md).
 
 6.  Select **Submit**.
 

@@ -37,9 +37,9 @@ This procedure is applicable if you are using Google Chrome, or Edge application
 
     -   Locate the running `chrome.exe`, `msedge.exe`, `msedgewebview2.exe`, `UTL.RPA.ChromeNativeMessaging.exe`, and `UTL.RPA.EdgeNativeMessaging.exe` processes and select and hold \(or right-click\) **End task**.
 
-        ![Chrome and MS Edge exe files.](../image/chrome-exe-hotfix-rpa-studio.jpeg "Ending Chrome and MS Edge exe files")
+        ![Chrome and MS Edge exe files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/chrome-exe-hotfix-rpa-studio.jpeg "Ending Chrome and MS Edge exe files")
 
-        ![Native Messaging Chrome and MS Edge exe files.](../image/native-messaging-exe-rpa-studio.jpeg "Ending Chrome and MS Edge Native Messaging exe files")
+        ![Native Messaging Chrome and MS Edge exe files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/native-messaging-exe-rpa-studio.jpeg "Ending Chrome and MS Edge Native Messaging exe files")
 
     -   Use the following commands with elevated access to terminate all dependent tasks.
         -   taskkill /f /im msedge.exe
@@ -52,14 +52,14 @@ This procedure is applicable if you are using Google Chrome, or Edge application
 4.  Launch either RPA Desktop Design Studio, Unattended Robot, or Attended Robot and proceed.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Universal app connector](../concept/universal-app-connector.md)
+[Universal app connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/universal-app-connector.md)
 
-[Chromium connector](../concept/chrome-connector.md)
+[Chromium connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/chrome-connector.md)
 
-[Configuring RPA Desktop Design Studio](../concept/rpa-studio-configure.md)
+[Configuring RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-configure.md)
 

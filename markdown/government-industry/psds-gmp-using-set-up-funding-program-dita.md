@@ -49,6 +49,6 @@ Role required: admin
 
     Choose **new** to create a grant program.
 
-    For more information about creating a grant program, see [Create a grant program using Grants Management program setup for Public Sector Digital Services](psds-gmp-using-set-up-grants-management-program.md).
+    For more information about creating a grant program, see [Create a grant program using Grants Management program setup for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-set-up-grants-management-program.md).
 
 

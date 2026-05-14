@@ -17,8 +17,8 @@ Kiosk operators can bind and unbind kiosk devices from kiosk configuration pages
 
 ## Configuration checklist
 
--   **[Setting up a kiosk device](setting-up-kiosk-device.md#)**  
+-   **[Setting up a kiosk device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/setting-up-kiosk-device.md#)**  
 Set up a kiosk device by assigning a kiosk to a physical device.
 
-**Parent Topic:**[Workplace Services Kiosk](workplace-services-kiosk.md)
+**Parent Topic:**[Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk.md)
 

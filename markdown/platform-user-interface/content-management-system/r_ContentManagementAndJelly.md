@@ -148,17 +148,17 @@ To select only one record and not iterate through many records, the code looks l
 </j:jelly>
 ```
 
--   **[Content management and Jelly code examples](r_CodeExamples.md)**  
+-   **[Content management and Jelly code examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_CodeExamples.md)**  
 Code examples
 
-**Parent Topic:**[Content blocks](../concept/c_ContentBlocks.md)
+**Parent Topic:**[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a content block](../task/t_CreateAContentBlock.md)
+[Configure a content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateAContentBlock.md)
 
-[View CMS block tags](../task/t_CMSBlockTag.md)
+[View CMS block tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CMSBlockTag.md)
 
-[Types of content blocks](r_TypesOfContentBlocks.md)
+[Types of content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_TypesOfContentBlocks.md)
 

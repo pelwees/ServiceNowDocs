@@ -43,7 +43,7 @@ Role required: Cloud user, designer, or admin
 
     The subflow operation step is attached to the resource block and appears on the page. Any input parameters associated with the subflow you selected are auto-populated on the **Input** tab.
 
-8.  In the **Inputs** subtab, select the ![Add step parameter](../image/add-button.png) icon to add a new step parameter.
+8.  In the **Inputs** subtab, select the ![Add step parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/add-button.png) icon to add a new step parameter.
 
     1.  Add the following key value pair to the subflow.
 
@@ -57,7 +57,7 @@ Role required: Cloud user, designer, or admin
 
 10. In the **Script Name** list, select a script for the response processor.
 
-    For a script to appear in the **Script Name** list, the script should already have been created in the **Resource Script** tab. For more information, see [Configure a response processor](configure-response-processor.md).
+    For a script to appear in the **Script Name** list, the script should already have been created in the **Resource Script** tab. For more information, see [Configure a response processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-response-processor.md).
 
 11. Select **Submit**.
 
@@ -66,7 +66,7 @@ Role required: Cloud user, designer, or admin
 
 ## What to do next
 
-[Create a response action for Cloud Provisioning and Governance](create-subflow-action-cloud-provision-governance.md)
+[Create a response action for Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-subflow-action-cloud-provision-governance.md)
 
-**Parent Topic:**[Add operation steps to a resource block](add-operation-steps.md)
+**Parent Topic:**[Add operation steps to a resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-operation-steps.md)
 

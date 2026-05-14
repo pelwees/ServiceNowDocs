@@ -30,7 +30,7 @@ In the Equipment Model menu of the Industrial Workspace, the **Daily Activity** 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Industrial Workspace** &gt; **Equipment Model menu \(![Equipment model entity icon](../../mftg-manufacturing-process-mgr/image/equip-model-manager-button.png)\) icon.**.
+1.  Navigate to **All** &gt; **Industrial Workspace** &gt; **Equipment Model menu \(![Equipment model entity icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../mftg-manufacturing-process-mgr/image/equip-model-manager-button.png)\) icon.**.
 
 2.  Select the equipment model entity record for which you want to view the Daily Summary of its OT devices.
 
@@ -50,5 +50,5 @@ You can view the total number of activities in the **Daily Activity** tab. If yo
 
 **Note:** The daily activity records, which are older than two days are automatically deleted.
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../operational-technology-management/concept/using-industrial-workspace.md)
 

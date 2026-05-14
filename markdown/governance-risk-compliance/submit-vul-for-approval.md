@@ -31,7 +31,7 @@ Role required: sn\_oper\_res.manager
 
     The following example shows that the action task for the vulnerability is in the **Review** state.
 
-    ![Action task for the vulnerability.](../image/review-state-action-task.png)
+    ![Action task for the vulnerability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/review-state-action-task.png)
 
 4.  Select the open action task, review its details, and select the **Update state** UI action.
 
@@ -43,20 +43,20 @@ Role required: sn\_oper\_res.manager
 
     The state of the vulnerability record is updated to **Pending approval**.
 
-    ![Pending approval.](../image/vul-pending-approval-state.png)
+    ![Pending approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-pending-approval-state.png)
 
     The list of the approvers is displayed in the Approvers related list. The Operational vulnerability record owner requests an approval by updating the state to **Requested** as shown in the example.
 
-    ![Approvers.](../image/vul-approvers.png)
+    ![Approvers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-approvers.png)
 
     An email notification is sent to one or more reviewers with the Operational vulnerability details and a link to approve the Operational vulnerability. A sample email notification is shown in the example.
 
-    ![Email to approve the vulnerability.](../image/vul-email-approval-request.png)
+    ![Email to approve the vulnerability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-email-approval-request.png)
 
     The Operational vulnerability record is now in the **Pending approval** state.
 
 
 ## What to do next
 
-The subsequent step requires the approver to review the email notification, select the approval link from the email, and approve the Operational vulnerability. For more information, see [Approve the operational vulnerability](approve-vul.md).
+The subsequent step requires the approver to review the email notification, select the approval link from the email, and approve the Operational vulnerability. For more information, see [Approve the operational vulnerability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/approve-vul.md).
 

@@ -23,7 +23,7 @@ GRC: Policy and Compliance Management quick start tests require activating the P
 |GRC: Create Policy Exception and Flow|Create a policy exception and navigate through its states.|Paris|
 |GRC: Policy Lifecycle|Create a policy and navigate through its states.|Paris|
 
-**Parent Topic:**[Download GRC: Policy and Compliance Management](../../../product/grc-common/task/t_ActivateGRCPandC.md)
+**Parent Topic:**[Download GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../product/grc-common/task/t_ActivateGRCPandC.md)
 
 **Related topics**  
 

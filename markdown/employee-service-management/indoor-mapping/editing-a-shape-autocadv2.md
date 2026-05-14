@@ -31,16 +31,16 @@ Role required: admin
 
     The editing panel displays a "The shape isn’t closed" validation message.
 
-    ![elected entity showing polyline as unclosed.](../images/wsd-autocad-polygon-shape-unclosed.png)
+    ![elected entity showing polyline as unclosed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-autocad-polygon-shape-unclosed.png)
 
 4.  Select **Close shape** to close the polylines automatically.
 
     The shape is closed.
 
-    ![Selected entity showing polyline as closed.](../images/wsd-autocad-polygon-shape-closed.png)
+    ![Selected entity showing polyline as closed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-autocad-polygon-shape-closed.png)
 
 5.  Select **Remove** to remove the element from the CAD drawing.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/editing-tools-cad-editor.md)
 

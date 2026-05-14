@@ -27,10 +27,10 @@ Role required: admin
 
 3.  In the formula, change the multiplier value.
 
-    ![Modify the formula by changing the highlighted multiplier value](../image/success-score-formula.png)
+    ![Modify the formula by changing the highlighted multiplier value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/success-score-formula.png)
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Success score calculation](../concept/change-score-calculation.md)
+**Parent Topic:**[Success score calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-score-calculation.md)
 

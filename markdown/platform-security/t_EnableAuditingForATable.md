@@ -40,5 +40,5 @@ Role required: admin.
 
 ## What to do next
 
-If you want to audit only a few fields in the table [Enable inclusion list auditing for a table](enable-whitelist-for-table.md). If you want to audit most – but exclude some – fields, see [Exclude a field from being audited \(exclusion listing\)](t_ExcludeAFieldFromBeingAudited.md).
+If you want to audit only a few fields in the table [Enable inclusion list auditing for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/enable-whitelist-for-table.md). If you want to audit most – but exclude some – fields, see [Exclude a field from being audited \(exclusion listing\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_ExcludeAFieldFromBeingAudited.md).
 

@@ -34,5 +34,5 @@ Role required: external\_app\_install\_admin
 
 A confirmation message appears on successful installation.
 
-**Parent Topic:**[Integrating Employee Center for Microsoft Viva Connections](../concept/integrate-viva.md)
+**Parent Topic:**[Integrating Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/integrate-viva.md)
 

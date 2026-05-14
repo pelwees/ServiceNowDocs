@@ -32,5 +32,5 @@ This log functions as a report that captures antivirus activity, such as discove
 
 ## What to do next
 
-Determine which records you want to delete, restore, download, or keep in the log. See [Review quarantined files](resolve-infected-file.md)
+Determine which records you want to delete, restore, download, or keep in the log. See [Review quarantined files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/resolve-infected-file.md)
 

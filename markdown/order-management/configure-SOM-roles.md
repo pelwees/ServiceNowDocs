@@ -44,7 +44,7 @@ The roles in the following table apply to Lead Management.
 
 ## Opportunity Management roles
 
-The roles in the following table apply to Opportunity Management. To learn more about these roles, see [Opportunity Management](opportunity-management.md).
+The roles in the following table apply to Opportunity Management. To learn more about these roles, see [Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md).
 
 |Role|Description|
 |----|-----------|
@@ -249,5 +249,5 @@ Fallout Agent \[sn\_fallout\_mgmt.fallout\_agent\]
 View fallout records. Agents with this role can also update the state of fallout records and create work notes on them.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Sales Customer Relationship Management applications](som-configuring.md)
+</table>**Parent Topic:**[Configuring Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-configuring.md)
 

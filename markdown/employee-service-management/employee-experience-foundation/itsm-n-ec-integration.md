@@ -17,7 +17,7 @@ Employee Center for IT Service Management helps you improve the self-service cap
 
 Automate routine agent interactions and increase the speed of resolution from the Employee Center portal. Recommendations based on machine learning enable automated incident categorization and assignment. It helps eliminate bottlenecks created by manual incident management on the IT Service Management ITSM.
 
-For more information on the Employee Center portal and the features, see [Employee Center](../../concept/employee-center-landing-page.md).
+For more information on the Employee Center portal and the features, see [Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-landing-page.md).
 
 ## All that you get with Employee Center for ITSM
 
@@ -29,21 +29,21 @@ Connect everything and easily scale across the enterprise to deliver the experie
 -   Increase employee engagement
 -   Increase employee productivity
 
-![The image shows the benefit summary of the ITSM and EC integration.](../../images/zz-ec-itsm.jpg)
+![The image shows the benefit summary of the ITSM and EC integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../images/zz-ec-itsm.jpg)
 
 ## How to use Employee Center for ITSM
 
 |Functionality|ITSM Standard|ITSM Pro/Enterprise|Employee Center Pro|
 |-------------|-------------|-------------------|-------------------|
-|Unified employee profile|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
+|Unified employee profile|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
 |Complete tasks|Approvals|Approvals, universal tasks|Campaign tasks|
-|Curated experience \(rich content, unified browse option\) and AI search|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
-|Service catalog and knowledge-base support|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
+|Curated experience \(rich content, unified browse option\) and AI search|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
+|Service catalog and knowledge-base support|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
 |Content recommendations|By popularity|Machine-learning driven|By popularity|
-|Content experience \(content automation, campaigns\)|![No](../../../../reuse/images/icon-error-red-x.png)|![No](../../../../reuse/images/icon-error-red-x.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
-|Content publishing \(content library, schedule content, org chart\)|![No](../../../../reuse/images/icon-error-red-x.png)|![No](../../../../reuse/images/icon-error-red-x.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
-|Integration-powered capabilities \(App launcher with SSO and non-SSO apps\)|![No](../../../../reuse/images/icon-error-red-x.png)|![No](../../../../reuse/images/icon-error-red-x.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
-|Employee forums|![No](../../../../reuse/images/icon-error-red-x.png)|![No](../../../../reuse/images/icon-error-red-x.png)|![Yes](../../../../reuse/images/icon-check-mark-green.png)|
+|Content experience \(content automation, campaigns\)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
+|Content publishing \(content library, schedule content, org chart\)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
+|Integration-powered capabilities \(App launcher with SSO and non-SSO apps\)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
+|Employee forums|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../../reuse/images/icon-check-mark-green.png)|
 
 Meet increasing demands without further addition to staff while empowering existing IT staff and management staff to focus on more meaningful work. Provide better experience and support to the employees.
 
@@ -64,13 +64,13 @@ Experience more simplified user interface to deflect simple cases with recommend
 
 Service management is also easier with rich content editor and unified browse to see all content types in one place.
 
-![This image lists the EC capabilities and benefits for ITSM.](../../images/itsm-ec-functionalities.png "Employee Center functionalities for ITSM")
+![This image lists the EC capabilities and benefits for ITSM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../images/itsm-ec-functionalities.png "Employee Center functionalities for ITSM")
 
 ### Employee Center and ITSM workflows
 
 Configure and manage the capabilities to improve self-service and time-to-value.
 
-![This image compares the EC and ITSM workflow.](../../images/ec-itsm-wrkflw.jpg "Employee Center for ITSM workflow")
+![This image compares the EC and ITSM workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../images/ec-itsm-wrkflw.jpg "Employee Center for ITSM workflow")
 
 ### Prerequisites to use Employee Center for ITSM
 
@@ -115,12 +115,12 @@ Configure portal
 
 </td><td>
 
-Configure the following capabilities to optimize the user experience.-   [Employee requests page](../../concept/employee-center-requests-page-configuration.md)
--   [Quick links](../../concept/emp-center-quick-link-config.md)
--   [Recommended for you](../../concept/rfy-ec.md)
--   [Personalized Answers on Employee Center](../../concept/personalized-answers-on-employee-center.md#)
--   [Employee requests page](../../concept/employee-center-requests-page-configuration.md)
--   [My active items widget configuration](../../concept/my-activity-config.md)
+Configure the following capabilities to optimize the user experience.-   [Employee requests page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-requests-page-configuration.md)
+-   [Quick links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/emp-center-quick-link-config.md)
+-   [Recommended for you](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/rfy-ec.md)
+-   [Personalized Answers on Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/personalized-answers-on-employee-center.md#)
+-   [Employee requests page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-center-requests-page-configuration.md)
+-   [My active items widget configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/my-activity-config.md)
 
 </td><td>
 
@@ -144,9 +144,9 @@ Configure curated experiences
 
 </td><td>
 
--   [Unified Taxonomy for Employee Center](../../concept/config-taxonomy.md)
--   [Dynamic topic pages](../../concept/dynamic-topic-page.md)
--   [Mega menu configuration](../config-mega-menu.md)
+-   [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/config-taxonomy.md)
+-   [Dynamic topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/dynamic-topic-page.md)
+-   [Mega menu configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../config-mega-menu.md)
 
 </td><td>
 
@@ -158,7 +158,7 @@ Work with action framework
 
 </td><td>
 
-[Action framework](../../concept/action-group-framework.md)
+[Action framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/action-group-framework.md)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Configure unified approvals experience
 
 </td><td>
 
-[Approvals hub](../../concept/approval-hub-intro.md)
+[Approvals hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/approval-hub-intro.md)
 
 </td><td>
 
@@ -182,14 +182,14 @@ Configure Employee Profile
 
 </td><td>
 
-[Employee profile](../../concept/employee-profile-portal.md)
+[Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/employee-profile-portal.md)
 
 </td><td>
 
 sn\_employee.admin
 
 </td></tr></tbody>
-</table>For more information on configuring Employee Center, see [Employee Center admin configurations](../../concept/configure-ec-portal.md).
+</table>For more information on configuring Employee Center, see [Employee Center admin configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/configure-ec-portal.md).
 
 ## Manage the Employee Center functionalities for ITSM
 
@@ -199,13 +199,13 @@ To manage the operations Employee Center for ITSM, follow these steps.
 
 |Tasks|Capabilities|Roles|
 |-----|------------|-----|
-|Work with taxonomy|[Manage taxonomy](../create-taxonomy-content.md)|sp\_admin, taxonomy admin, or taxonomy manager|
-|Manage content|[Managing content requests](../../concept/ec-content-governance.md)|Content manager|
-|Manage applications|[Access applications from App Launcher](../../concept/web-application-employee.md)|admin|
-|Manage campaigns|[Creating campaigns](../../concept/ecpro-campaigns.md)|Campaign manager|
-|Manage favorites|[Manage favorites](../web-configure-favorites-employee.md)|admin|
+|Work with taxonomy|[Manage taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../create-taxonomy-content.md)|sp\_admin, taxonomy admin, or taxonomy manager|
+|Manage content|[Managing content requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ec-content-governance.md)|Content manager|
+|Manage applications|[Access applications from App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/web-application-employee.md)|admin|
+|Manage campaigns|[Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/ecpro-campaigns.md)|Campaign manager|
+|Manage favorites|[Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../web-configure-favorites-employee.md)|admin|
 
-For more information on managing Employee Center, see [Authoring and managing employee communications](../../concept/manage-emp-center.md).
+For more information on managing Employee Center, see [Authoring and managing employee communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/manage-emp-center.md).
 
 ## Use the Employee Center functionalities for ITSM
 
@@ -215,11 +215,11 @@ To use Employee Center for ITSM capabilities, follow these steps.
 
 |Tasks|Capabilities|Roles|
 |-----|------------|-----|
-|Approve requests from employees|[Use approval experience](../ec-to-dos-use-approval-hub.md)|Employee/Approver|
-|Access all your applications in one place|[App Launcher](../../concept/web-application-employee-about.md)|Employee/Agent|
-|Track all your tasks through the Unified Employee profile|[Use the My To-dos page](../ec-to-dos-use.md)|Employee/Approver|
-|Mark service catalog items and knowledge base articles as your favorites|[Manage favorites](../web-configure-favorites-employee.md)|Employee/Agent|
-|Track your leave balance on the same platform|[Personalized Answers](../../concept/using-personalized-search-on-employee-center.md)|Employee/Agent|
+|Approve requests from employees|[Use approval experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../ec-to-dos-use-approval-hub.md)|Employee/Approver|
+|Access all your applications in one place|[App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/web-application-employee-about.md)|Employee/Agent|
+|Track all your tasks through the Unified Employee profile|[Use the My To-dos page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../ec-to-dos-use.md)|Employee/Approver|
+|Mark service catalog items and knowledge base articles as your favorites|[Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../web-configure-favorites-employee.md)|Employee/Agent|
+|Track your leave balance on the same platform|[Personalized Answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/using-personalized-search-on-employee-center.md)|Employee/Agent|
 
-For more information on using Employee Center, see [Using Employee Center](../../concept/using-emp-center.md).
+For more information on using Employee Center, see [Using Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../concept/using-emp-center.md).
 

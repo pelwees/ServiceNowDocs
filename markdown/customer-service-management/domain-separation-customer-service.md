@@ -91,10 +91,10 @@ Ribbon and Lookup Verify configurations and Special Handling Notes support domai
 
 When inserting or updating a record for process-separated tables, the picker domain scope takes precedence by design with the Overrides \[sys\_override\] field on process-separated tables. For more information, see [Process administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DelegatedAdministration.md).
 
--   **[Domain separation and entity relationships](../reference/domain_separation_csm_accounts.md)**  
+-   **[Domain separation and entity relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/domain_separation_csm_accounts.md)**  
 With domain separation in Customer Service Management, you can further control visibility and access to data by using contact, partner, and parent-child relationships.
 
-**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 

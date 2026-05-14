@@ -87,5 +87,5 @@ All the skills assigned to the agent.
 **Related topics**  
 
 
-[Configure the fields to appear on task cards or in the Contextual Side Panel](../../field-service-management/task/configuring-popover-fields.md)
+[Configure the fields to appear on task cards or in the Contextual Side Panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/task/configuring-popover-fields.md)
 

@@ -23,11 +23,11 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst, sn\_compliance
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  Select the lists \(![List icon.](../../grc-cam-workspace/image/ws-list-icon.png)\) icon.
+2.  Select the lists \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-cam-workspace/image/ws-list-icon.png)\) icon.
 
 3.  Select **All entities** from the Scoping list on the left pane and click the entity record for which you completed the CRI tiering questionnaire.
 
-4.  As an owner of the entity, select the ![More actions icon.](../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) icon and click the **Initiate CRI profile assessment** option.
+4.  As an owner of the entity, select the ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) icon and click the **Initiate CRI profile assessment** option.
 
     The CRI profile assessment is created based on the tier value, and you can view the assessments in the **CRI profile assessment** related list, which takes a few seconds to be generated. The controls are also created simultaneously.
 

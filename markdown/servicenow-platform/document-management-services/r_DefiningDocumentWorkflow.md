@@ -15,9 +15,9 @@ breadcrumb: [Features, Managed Documents, Document Services, Manage content capa
 
 In the base system, all managed documents use the **Managed Documents** workflow after the **Active** check box is selected.
 
-![Workflow](../image/MDOCworkflow.png "Document workflow")
+![Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/MDOCworkflow.png "Document workflow")
 
 The document parameters defined in the workflow are often used as conditions to trigger more specific workflows, such as type-specific workflows or classification-specific workflows. If different kinds of documents should follow different workflows, use the Graphical Workflow Editor to create new workflows.
 
-**Parent Topic:**[Managed Document features](r_ManagedDocumentFeatures.md)
+**Parent Topic:**[Managed Document features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentFeatures.md)
 

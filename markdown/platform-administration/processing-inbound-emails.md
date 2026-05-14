@@ -16,7 +16,7 @@ Save time from responding to emails manually when you configure your instance to
 You can define system responses to inbound emails in two ways:
 
 -   Create an inbound email flow in Workflow Studio
--   Script an [inbound email action](c_InboundEmailActions.md)
+-   Script an [inbound email action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md)
 
 ## Inbound email trigger in Workflow Studio
 
@@ -26,7 +26,7 @@ Inbound email flows take priority over inbound email actions. If you create flow
 
 The following diagram shows the processing order for inbound emails. When an email is sent to your instance, the system first classifies the email as a reply, forward, or new email. Then the system runs the inbound email through an inbound email flow. If the flow issues stop processing, the email is finished being processed. If the flow does not issue stop processing, the system tries to match the email to another inbound email flow. If at any point the email does not match with an inbound email flow, the system matches the email to an inbound email action instead.
 
-![Processing order for inbound emails](../image/inbound-email-diagram.png "Processing order for inbound emails")
+![Processing order for inbound emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/inbound-email-diagram.png "Processing order for inbound emails")
 
 The benefits to automating system responses to inbound emails in Workflow Studio are:
 

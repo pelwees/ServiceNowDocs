@@ -17,15 +17,15 @@ Access Findings is the proactive detection and remediation layer within Access M
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-access-findings.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-access-findings.md)
 
- [Learn the features and business value of Access findings.](explore-access-findings.md)
+ [Learn the features and business value of Access findings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/explore-access-findings.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-findings.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-findings.md)
 
- [Understand how to use Access findings.](../task/use-access-findings.md)
+ [Understand how to use Access findings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/use-access-findings.md)
 
 </td></tr></tbody>
 </table>

@@ -29,7 +29,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
@@ -45,19 +45,19 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
     The selected benefit plan is associated with this benefit plan.
 
-    **Note:** Alternatively, you can associate benefit plans with each other from the **Benefit estimate** playbook activity. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
+    **Note:** Alternatively, you can associate benefit plans with each other from the **Benefit estimate** playbook activity. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
 
 
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-dw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md)
 
-[Create and manage benefit plans](create-monetary-benefit-plan-for-dw.md)
+[Create and manage benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-monetary-benefit-plan-for-dw.md)
 
-[Monetary benefit plan form](../reference/monetary-benefit-plan-form-dw.md)
+[Monetary benefit plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/monetary-benefit-plan-form-dw.md)
 
-[Non-monetary benefit plan form](../reference/non-monetary-benefit-plan-form-dw.md)
+[Non-monetary benefit plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/non-monetary-benefit-plan-form-dw.md)
 

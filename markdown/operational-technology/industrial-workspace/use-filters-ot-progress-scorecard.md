@@ -38,8 +38,8 @@ Role required: admin
 
 5.  View the scorecard metrics for a calendar date.
 
-    1.  In the header, select the calendar \(![Calendar icon](../image/calendar-icon.png)\) icon.
+    1.  In the header, select the calendar \(![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/calendar-icon.png)\) icon.
     2.  Select the month and year that you want to the data for.
 
-**Parent Topic:**[Operational Technology Progress Scorecard filters](../concept/ot-progress-scorecard-filters.md)
+**Parent Topic:**[Operational Technology Progress Scorecard filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/ot-progress-scorecard-filters.md)
 

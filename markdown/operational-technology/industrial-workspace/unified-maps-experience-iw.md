@@ -19,7 +19,7 @@ The Operational Technology \(OT\) Unified Map available in the Industrial Worksp
 
 The OT Unified Map experience shows a hierarchical map of CIs and their relationships while centered on a selected CI, known as a home node. The experience combines the capabilities of dependency views and service mapping into a single map experience. The following image shows an example of what the OT Unified Map experience looks like in the Industrial Workspace.
 
-![Unified map for an equipment model entity in the Industrial Workspace](../image/ot-um-horizontal.png)
+![Unified map for an equipment model entity in the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ot-um-horizontal.png)
 
 You can access a Unified Map in the following locations in the Industrial Workspace.
 
@@ -88,9 +88,9 @@ Changes ![](../image/changes-unified-map.png)
 History of changes made to the Unified Map.
 
 </td></tr></tbody>
-</table>For more information about configuring the OT Unified Maps experience, see [Setting up the Operational Technology Unified Map experience](../task/setting-up-unified-maps-experience.md).
+</table>For more information about configuring the OT Unified Maps experience, see [Setting up the Operational Technology Unified Map experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../task/setting-up-unified-maps-experience.md).
 
-For more information about viewing an OT Unified Map, see [View an Operational Technology Unified Map](../task/view-ot-unified-map.md).
+For more information about viewing an OT Unified Map, see [View an Operational Technology Unified Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../task/view-ot-unified-map.md).
 
-**Parent Topic:**[Exploring the Industrial Workspace](../../operational-technology-management/concept/exploring-industrial-workspace.md)
+**Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../operational-technology-management/concept/exploring-industrial-workspace.md)
 

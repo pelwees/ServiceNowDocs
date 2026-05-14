@@ -72,10 +72,10 @@ Category Limit
 The maximum number of categories a user can select while submitting an idea. Default: 5This field does not appear by default on the Idea module form so you must add it by personalizing the form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Innovation Management](form-field-information-for-innovation-management.md)
+</table>**Parent Topic:**[Form field information for Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/form-field-information-for-innovation-management.md)
 
 **Related topics**  
 
 
-[Create an Idea module](../task/create-idea-module.md)
+[Create an Idea module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/create-idea-module.md)
 

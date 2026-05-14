@@ -30,14 +30,14 @@ For more information on support levels, see [Application support for domain sepa
 
 The following topics provide details about domain separation in Configuration Management \(CMDB\) modules:
 
--   [Domain separation in CMDB Health](cmdb-health-domain-separation.md)
--   [Domain separation and CMDB Query Builder](domain-separation-groups-query-builder.md)
--   [Domain separation and CMDB Identification and Reconciliation](domain-separation-identification-reconciliation.md)
--   [Domain separation](domain-separation-relationship-formatter-editor.md)
--   [CMDB APIs \(CMDB SDK\)](domain-separation-APIs.md)
+-   [Domain separation in CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-domain-separation.md)
+-   [Domain separation and CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-groups-query-builder.md)
+-   [Domain separation and CMDB Identification and Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-identification-reconciliation.md)
+-   [Domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-relationship-formatter-editor.md)
+-   [CMDB APIs \(CMDB SDK\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-APIs.md)
 
 **Related topics**  
 
 
-[Domain separation and Configuration Management Database \(CMDB\)](domain-separation-cmdb.md)
+[Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 

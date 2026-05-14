@@ -32,7 +32,7 @@ There are two ways to request a plugin:
 
 2.  From the Application Manager, select **Request Plugin** to open the **Activate Plugin** form on Now Support.
 
-    ![Request Plugin button in the Application Manager.](../image/request-plugin-appmgr.png)
+    ![Request Plugin button in the Application Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/request-plugin-appmgr.png)
 
 3.  On the **Activate Plugin** form on Now Support, provide the following information.
 
@@ -75,19 +75,19 @@ The date and time to activate the plugin.
 </td></tr></tbody>
 </table>    For example, see the following request to activate the CSM Workspace plugin on an instance named My Instance.
 
-    ![Completed form to activate a plugin.](../../../reuse/images/activate-plugin-form.png "Activate Plugin form")
+    ![Completed form to activate a plugin.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/images/activate-plugin-form.png "Activate Plugin form")
 
 4.  Click **Submit**.
 
     For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
 
 
-**Parent Topic:**[ServiceNow plugins](../concept/c_ServiceNowPlugins.md)
+**Parent Topic:**[ServiceNow plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_ServiceNowPlugins.md)
 
 **Related topics**  
 
 
-[Activate a plugin](t_ActivateAPlugin.md)
+[Activate a plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
-[List of plugins \(Australia\)](../reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/list-of-plugins.md#)
 

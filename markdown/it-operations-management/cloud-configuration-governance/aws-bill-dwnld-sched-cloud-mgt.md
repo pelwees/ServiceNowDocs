@@ -118,7 +118,7 @@ Time of day that the download job should run.
 
 ## What to do next
 
-[View cloud costs on the Billing dashboard](../../cloud-management-v2/concept/cloud-dashboards.md#).
+[View cloud costs on the Billing dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2/concept/cloud-dashboards.md#).
 
 **Related topics**  
 

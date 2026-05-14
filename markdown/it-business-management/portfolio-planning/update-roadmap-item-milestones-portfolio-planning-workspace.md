@@ -18,7 +18,7 @@ Update or delete the milestones that you added to your planning items \(such as 
 
 ## Before you begin
 
-[Add milestones for roadmap items](add-milestones-for-roadmap-items-portfolio-planning.md).
+[Add milestones for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-milestones-for-roadmap-items-portfolio-planning.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -32,7 +32,7 @@ For free-form roadmaps, milestones are supported only if the source table is Pla
 
 You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
-However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](../concept/portfolio-planning-integration-with-execution-applications.md).
+However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/portfolio-planning-integration-with-execution-applications.md).
 
 ## Procedure
 
@@ -77,12 +77,12 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     -   To update, edit the field details and click **Save**.
 
-        For information on the form fields, see [Planning item milestone form](../../alignment-planner-workspace/reference/planning-item-milestone-form.md).
+        For information on the form fields, see [Planning item milestone form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/reference/planning-item-milestone-form.md).
 
     -   To delete the milestone, click **Delete.**
 
         Select **OK** to confirm.
 
 
-**Parent Topic:**[Add milestones for roadmap items](add-milestones-for-roadmap-items-portfolio-planning.md)
+**Parent Topic:**[Add milestones for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-milestones-for-roadmap-items-portfolio-planning.md)
 

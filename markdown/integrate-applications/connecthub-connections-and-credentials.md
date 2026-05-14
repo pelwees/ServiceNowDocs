@@ -25,7 +25,7 @@ When you create an outbound connection, you:
 -   Set up endpoints for different environments
 -   Save the connection for use in workflows
 
-See [Set up outbound connections](../task/connecthub-set-up-outbound-connections.md) for detailed steps.
+See [Set up outbound connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/connecthub-set-up-outbound-connections.md) for detailed steps.
 
 ## Inbound connections
 
@@ -39,7 +39,7 @@ When you create an inbound connection, you:
 -   Activate the connection to generate an endpoint URL
 -   Share the endpoint URL with the external system
 
-See [Set up inbound connections](../task/connecthub-set-up-inbound-connections.md) for detailed steps.
+See [Set up inbound connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/connecthub-set-up-inbound-connections.md) for detailed steps.
 
 ## Credentials and security
 

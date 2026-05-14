@@ -17,7 +17,7 @@ To learn more about managing subscriptions, see [Managing per-user subscriptions
 
 No role is required to take assigned survey questionnaires.
 
-**Parent Topic:**[Surveys reference](survey-reference.md)
+**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 ## Survey administrator \[survey\_admin\]
 

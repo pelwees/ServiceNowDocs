@@ -43,12 +43,12 @@ Role required: admin
 
     The list shows the applications with average response time collected from the data. Setting this alert On with selected applications enables you to monitor their performance.
 
-    ![Setting conditions for average response time alert.](../image/io-alert-config-sim-set.png)
+    ![Setting conditions for average response time alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-alert-config-sim-set.png)
 
 10. Select **Set Notification**.
 
-    To set notification, see the [Set notification step](configuring-io-alerts.md) of [Configure Key Alerts](configuring-io-alerts.md).
+    To set notification, see the [Set notification step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md) of [Configure Key Alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts-intro.md)
 

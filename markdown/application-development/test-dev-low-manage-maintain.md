@@ -17,11 +17,11 @@ Maintain your ServiceNow apps.
 
 <table id="table_otg_lfd_pvb" class="nav-card"><tbody><tr><td>
 
-[System Update Sets ![System update sets.](../image/icon-update-sets.png) Allow administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.](../../system-update-sets/concept/system-update-sets.md)
+[System Update Sets ![System update sets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-update-sets.png) Allow administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.](../../system-update-sets/concept/system-update-sets.md)
 
 </td><td>
 
-[Service Mapping ![Service Mapping.](../image/icon-service-mapping.png) The ServiceNow® Service Mapping application discovers all application services in your organization and builds a comprehensive map of all devices, applications, and configuration profiles used in these application services.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md)
+[Service Mapping ![Service Mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-service-mapping.png) The ServiceNow® Service Mapping application discovers all application services in your organization and builds a comprehensive map of all devices, applications, and configuration profiles used in these application services.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md)
 
 </td></tr></tbody>
 </table>

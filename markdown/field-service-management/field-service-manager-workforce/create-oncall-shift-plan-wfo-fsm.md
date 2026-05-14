@@ -23,13 +23,13 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\) icon.
 
 3.  Click the **Shifts** tab.
 
-4.  In the contextual side panel, click the Show Shifts Plans \(![Show Shift Plans icon.](../image/show-schedule-new.png)\) icon to display the schedules.
+4.  In the contextual side panel, click the Show Shifts Plans \(![Show Shift Plans icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/show-schedule-new.png)\) icon to display the schedules.
 
-5.  Click the Create Work shift plans or On-call shifts \(![Add Shift Plan icon.](../image/add.png)\) icon.
+5.  Click the Create Work shift plans or On-call shifts \(![Add Shift Plan icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/add.png)\) icon.
 
 6.  Create the on-call shift.
 

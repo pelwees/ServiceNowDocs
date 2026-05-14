@@ -13,7 +13,7 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 The Case Report form includes reporting-related fields that are derived from case records.
 
-The Case Report table stores KPIs and metrics for case records and includes the following calculated metrics which are displayed on the [Customer Service Manager dashboard](../concept/csm-manager-dashboard.md).
+The Case Report table stores KPIs and metrics for case records and includes the following calculated metrics which are displayed on the [Customer Service Manager dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-manager-dashboard.md).
 
 -   Agent Reassignment Count
 -   First Contact Resolution

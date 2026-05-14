@@ -29,11 +29,11 @@ Role required: admin
 
 4.  Click **ServiceNow Spoke**.
 
-    ![Uninstall Workplace from Facebook spoke.](../image/fb-uninstall.png)
+    ![Uninstall Workplace from Facebook spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/fb-uninstall.png)
 
 5.  Click **Uninstall**.
 
-    ![Confirm uninstallation.](../image/fb-uninstall2.png)
+    ![Confirm uninstallation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/fb-uninstall2.png)
 
 6.  In the Uninstall window, confirm your choice by clicking **Uninstall** again.
 

@@ -40,7 +40,7 @@ Role required: sn\_cm\_core.contract\_config
 
 4.  In the Parent Child Mapping form, configure the child contract type and map the fields.
 
-    ![Parent child mapping form to configure field inheritance.](../image/cmpro-conf-parent-child-link.png "Parent child mapping configuration")
+    ![Parent child mapping form to configure field inheritance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-conf-parent-child-link.png "Parent child mapping configuration")
 
     |Field|Description|
     |-----|-----------|

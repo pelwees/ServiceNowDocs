@@ -4201,7 +4201,7 @@ sn\_vault\_console.vault\_console\_admin
 
 </td><td>
 
-Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](../../vault/concept/configuring-servicenow-vault.md)
+Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../vault/concept/configuring-servicenow-vault.md)
 
 </td></tr><tr><td>
 
@@ -4480,6 +4480,6 @@ sn\_vul.vulnerability\_admin
 Role required for complete access to the Vulnerability Response \(VR\) application and its records. Users with this role configure all VR applications and rules and can install third-party integrations.
 
 </td></tr></tbody>
-</table>-   **[Platform security granular admin roles](platsec-granular-roles.md)**  
+</table>-   **[Platform security granular admin roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platsec-granular-roles.md)**  
 Use granular admin roles to verify access management by assigning roles that define user permissions and responsibilities.
 

@@ -27,7 +27,7 @@ Role required: sn\_csm\_ocs.ext\_manager
 
 3.  Enter the name of the agent in the **Assigned to** field and select the agent from the list displayed.
 
-    You can also click the Lookup using list icon \(![Lookup using list.](../image/lookup-list.jpg)\) and select the agent.
+    You can also click the Lookup using list icon \(![Lookup using list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg)\) and select the agent.
 
     **Note:** The **Assignment group** field is pre-populated with the group name. The list of agents belonging to that group is displayed when you lookup.
 

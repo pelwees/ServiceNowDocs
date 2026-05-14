@@ -28,7 +28,7 @@ Role required: virtual\_agent\_admin or admin
 
 3.  Select **Communication channels** in the Settings tab and select **Mobile channels** tab.
 
-    ![Voice launcher function selection in mobile channel configuration](../image/voice-agents-voice-launcher-function-configuration.png "Voice launcher function setup")
+    ![Voice launcher function selection in mobile channel configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/voice-agents-voice-launcher-function-configuration.png "Voice launcher function setup")
 
 4.  In Voice launcher functions, select from the **Add voice launcher function** drop-down to add a voice launcher function to open the assistant in voice mode.
 

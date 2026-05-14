@@ -66,7 +66,7 @@ Newly created users have END\_USER permissions only. The access level can be cha
 **Related topics**  
 
 
-[User access](please_share_your_feedback_on_admin_assist_responses.md)
+[User access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/please_share_your_feedback_on_admin_assist_responses.md)
 
-[User Access Control reference](../reference/cpq-user-access-control-ref.md)
+[User Access Control reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/cpq-user-access-control-ref.md)
 

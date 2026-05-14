@@ -17,7 +17,7 @@ Create automation for decisions in App Engine Studio \(AES\). The automation dec
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -90,8 +90,8 @@ ServiceNow provides several additional resources on adding decisions in App Engi
 ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) ServiceNow University [Introduction to App Engine Studio on-demand course](https://learning.servicenow.com/lxp?id=learning_course_prev&course_id=ae0beaabdb4e8550788d2509139619dc)
 
 </td></tr></tbody>
-</table>-   **[Edit a decision](edit-decision.md)**  
+</table>-   **[Edit a decision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/edit-decision.md)**  
 To update or change an existing decision for an app built in App Engine Studio \(AES\), edit it in Workflow Studio.
 
-**Parent Topic:**[Add logic and automation](../concept/add-automation.md)
+**Parent Topic:**[Add logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-automation.md)
 

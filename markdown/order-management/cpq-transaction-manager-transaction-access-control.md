@@ -42,7 +42,7 @@ Full access:
 
 Access control can be accessed through the runtime UI.
 
-![Transaction access](../images/cpq-txn-mgr-access-control.png)
+![Transaction access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-access-control.png)
 
 Any user with access can grant or remove access for others. However, admins and owners cannot have their access removed. When users without access try to open restricted transactions, they receive an error.
 

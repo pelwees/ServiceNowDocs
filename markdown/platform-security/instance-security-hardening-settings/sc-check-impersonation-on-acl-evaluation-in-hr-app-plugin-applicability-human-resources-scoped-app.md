@@ -73,7 +73,7 @@ Category
 
 </td><td>
 
-[Architecture, design, and threat modeling](sc-architecture-design-threat-molding.md)
+[Architecture, design, and threat modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
 </td></tr><tr><td>
 
@@ -102,5 +102,5 @@ Functional impact
 When this property set to true, it prevents an admin from seeing another user's HR information while using impersonation. When set to false, it allows an admin to impersonate a user and access HR data such as survey results or audit records with the impersonated user's access. Due to the nature of this type of data, such as information which should available only to the user themselves like an email, this is not recommended. Setting sn\_hr\_core.impersonateCheck to true only allows access to HR information when the user is not impersonating any others.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Architecture, design, and threat modeling](sc-architecture-design-threat-molding.md)
+</table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 

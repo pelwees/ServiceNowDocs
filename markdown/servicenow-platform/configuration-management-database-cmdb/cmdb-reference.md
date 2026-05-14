@@ -15,8 +15,8 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 The topics in this section provide various reference details for CMDB.
 
--   [Domain separation and Configuration Management Database \(CMDB\)](../concept/domain-separation-cmdb.md)
--   [CMDB APIs \(CMDB SDK\)](../concept/domain-separation-APIs.md)
--   [Quick start tests for Configuration Management Database \(CMDB\)](../../../administer/atf-quick-start-tests/reference/quick-start-tests-cmdb.md)
--   [CMDB glossary](cmdb-glossary.md)
+-   [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/domain-separation-cmdb.md)
+-   [CMDB APIs \(CMDB SDK\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/domain-separation-APIs.md)
+-   [Quick start tests for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../administer/atf-quick-start-tests/reference/quick-start-tests-cmdb.md)
+-   [CMDB glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-glossary.md)
 

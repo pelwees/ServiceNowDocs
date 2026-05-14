@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Select the flow that you want to copy.
 
-3.  Click the More actions icon \(![More actions icon](../image/more_actions.png)\) in the top right and select **Copy flow**.
+3.  Click the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions.png)\) in the top right and select **Copy flow**.
 
 4.  Enter a name for the copied flow or retain the default.
 
@@ -41,5 +41,5 @@ Role required: admin
 **Related topics**  
 
 
-[Intra-day schedule automation flows and subflows](../reference/intraday-scheduling-flows.md)
+[Intra-day schedule automation flows and subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/intraday-scheduling-flows.md)
 

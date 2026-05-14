@@ -30,5 +30,5 @@ For each Service Graph Connector in the list, you can see if that connector is r
     3.  Infrastructure Monitoring.
     4.  Application Performance Monitoring .
 
-After you verify you have met these prerequisites, you must activate the following policy, Assets not scanned for vulnerabilities. For more information on policies, please refer to [Policies for Security Posture Control](spc-policies-overview.md).
+After you verify you have met these prerequisites, you must activate the following policy, Assets not scanned for vulnerabilities. For more information on policies, please refer to [Policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-policies-overview.md).
 

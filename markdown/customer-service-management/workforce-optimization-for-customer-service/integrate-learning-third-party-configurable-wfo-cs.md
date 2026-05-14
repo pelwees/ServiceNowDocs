@@ -17,7 +17,7 @@ Connect your ServiceNow instance with third-party learning sites to pull learnin
 
 ## Before you begin
 
-**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](request-configurable-wfo-cs.md).
+**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/request-configurable-wfo-cs.md).
 
 Role required: learning\_admin
 
@@ -168,7 +168,7 @@ Register an OAuth application in Cornerstone and authenticate requests from Serv
     2.  For each of the following properties, set the value to **1638400**:
         -   com.glide.transform.json.max-partial-length
         -   com.snc.process\_flow.reporting.serialized.val\_size\_limit
-    For more information on these system properties, see [Coaching With Learning System Properties](../reference/components-installed-configurable-wfo-cs.md).
+    For more information on these system properties, see [Coaching With Learning System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md).
 
 3.  Activate schedule flows to integrate third-party learning content.
 
@@ -181,7 +181,7 @@ Register an OAuth application in Cornerstone and authenticate requests from Serv
     4.  Select each of the third-party learning sources and set the **Active** field to **true**.
     Schedule flows automatically run on a scheduled basis to synchronize third-party learning content into your ServiceNow instance.
 
-4.  After [configuring the third-party integration sources](../reference/integration-source-coaching-with-learning-coaching-wfo-cs.md), you can refresh the entire third-party content or synchronize new and updated services into your ServiceNow instance.
+4.  After [configuring the third-party integration sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/integration-source-coaching-with-learning-coaching-wfo-cs.md), you can refresh the entire third-party content or synchronize new and updated services into your ServiceNow instance.
 
     -   To refresh the entire content, set the **full\_pull** property to **true**.
 
@@ -237,10 +237,10 @@ Pluralsight
 </table>
 ## What to do next
 
-[Add external courses to Coaching With Learning](../concept/coaching-configurable-wfo-cs.md#)
+[Add external courses to Coaching With Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/coaching-configurable-wfo-cs.md#)
 
--   **[External Content Integration Sources](../reference/integration-source-coaching-with-learning-coaching-wfo-cs.md)**  
+-   **[External Content Integration Sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/integration-source-coaching-with-learning-coaching-wfo-cs.md)**  
 When you integrate Coaching With Learning with third-party learning management systems, the source record for Cornerstone OnDemand, Pluralsight, and Udemy applications are automatically created in the Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services.
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](../concept/setup-coaching-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setup-coaching-configurable-wfo-cs.md)
 

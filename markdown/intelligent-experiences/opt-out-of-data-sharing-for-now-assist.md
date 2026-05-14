@@ -18,11 +18,11 @@ Data sharing improves ServiceNow AI products. You can opt out of data sharing fr
 
 **Important:** Data sharing is not available for GCC or self-hosted instances. You don't need to opt out because data sharing is never enabled. If you have any questions, reach out to your account representative.
 
-If you do not have a data steward, see [Assign the data steward role](assign-data-steward-role.md) documentation.
+If you do not have a data steward, see [Assign the data steward role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/assign-data-steward-role.md) documentation.
 
 Role required: sn\_generative\_ai.data\_steward
 
-**Note:** The **Opt out** button appears only if you’ve installed at least one Now Assist application or plugin. For a list of all Now Assist applications, see [Exploring Now Assist Admin](../../now-assist-platform/concept/exploring-now-assist-platform.md).
+**Note:** The **Opt out** button appears only if you’ve installed at least one Now Assist application or plugin. For a list of all Now Assist applications, see [Exploring Now Assist Admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/exploring-now-assist-platform.md).
 
 ## About this task
 
@@ -44,7 +44,7 @@ Opting out can take up to five business days to process.
 
 3.  In the Settings panel, select the **Data sharing and processing** &gt; **Data sharing** tab.
 
-    ![Account panel in Now Assist Admin Settings that shows the features that are included with your license. It also provides a data sharing opt-out button.](../image/naa-data-sharing.png)
+    ![Account panel in Now Assist Admin Settings that shows the features that are included with your license. It also provides a data sharing opt-out button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/naa-data-sharing.png)
 
 4.  Select **Opt Out**.
 
@@ -55,5 +55,5 @@ Opting out can take up to five business days to process.
 
 Your data sharing preference is saved on the instance. If you want to opt back in to data sharing, you must consult with your account executive.
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-data-sharing-and-processes.md)
 

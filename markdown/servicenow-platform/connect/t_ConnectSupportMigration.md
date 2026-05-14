@@ -31,7 +31,7 @@ If you do not close out existing help desk chats, your metrics and chat queue wi
 
     When you activate the Connect Support plugin, the **glide.connect.support.enabled** property redirects the legacy chat URL to Connect Support.
 
-    For more information, see [Activate Connect Support](t_ActivateConnectSupport.md#).
+    For more information, see [Activate Connect Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_ActivateConnectSupport.md#).
 
 2.  Hide the Social IT application.
 

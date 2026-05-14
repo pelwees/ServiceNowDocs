@@ -55,7 +55,7 @@ Actions
 </td><td>
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **View all requests**.
 4.  Open your non-disclosure agreement request.
 
@@ -109,7 +109,7 @@ Action
 
 </td><td>
 
-Send the document for signature. For more information, see [Send a non-disclosure agreement document for signature](snlc-send-doc-sign-nda.md).
+Send the document for signature. For more information, see [Send a non-disclosure agreement document for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-send-doc-sign-nda.md).
 
 </td></tr><tr><td id="d157985e262">
 
@@ -132,5 +132,5 @@ The change request is submitted for the contract document. The change request de
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Reviewing and finalizing a self-served contract document](snlc-review-finalize-contract.md)
+**Parent Topic:**[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)
 

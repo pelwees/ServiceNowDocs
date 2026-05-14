@@ -64,7 +64,7 @@ Product Results
 
 </td><td>
 
-Number of publishers that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](sam-license-workbench.md).
+Number of publishers that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [Software license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -378,5 +378,5 @@ Removal Candidates Breakdown
 Active removal candidates in various breakdowns \(State, Publisher, Product, Justification, and Last Updated\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
+</table>**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
 

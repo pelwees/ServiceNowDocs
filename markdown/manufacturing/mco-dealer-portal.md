@@ -13,7 +13,7 @@ breadcrumb: [Explore, Manufacturing Commercial Operations]
 
 The dealer portal enables the OEM and Dealers to engage in the post-sales customer service requirements like claim submission, product recall announcements, customer service requests. It enables dealers to efficiently manage day-to-day business operations. The portal also provides real-time data insights, enabling proactive monitoring and informed decision-making.
 
-![Decorative](../image/Dealer-portal-lp.png "Dealer portal landing page")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Dealer-portal-lp.png "Dealer portal landing page")
 
 The Dealer Portal landing page includes different sections and components.
 
@@ -122,7 +122,7 @@ Display user profile information. To learn more about user profile, see [User Pr
 </table>**Related topics**  
 
 
-[Dealer data model](../reference/dealer-data-model-overview.md)
+[Dealer data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/dealer-data-model-overview.md)
 
-[Dealer management](mco-use-dealer-portal.md)
+[Dealer management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-use-dealer-portal.md)
 

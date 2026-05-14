@@ -19,23 +19,23 @@ Leverage ServiceNow Upgrade Console for a comprehensive and efficient upgrade ex
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../common/image/icon-explore.png)Learn about Upgrade Console](um-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../../common/image/icon-explore.png)Learn about Upgrade Console](um-explore.md)
 
 </td><td>
 
-[Use![](../../upgrade-center/image/uc-review-icon.png) Use the tools, relevant information, and guided setup for your upgrades](um-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-review-icon.png) Use the tools, relevant information, and guided setup for your upgrades](um-using.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Upgrade Console](um-configure.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Upgrade Console](um-configure.md)
 
 </td></tr><tr><td>
 
-[Administer![](../../upgrade-center/image/uc-administer-icon.png)Administering Upgrade Console](../reference/um-administer.md#)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-administer-icon.png)Administering Upgrade Console](../reference/um-administer.md#)
 
 </td><td>
 
-[Reference![](../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Console](../reference/um-references.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Console](../reference/um-references.md)
 
 </td><td>
 

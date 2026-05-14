@@ -15,9 +15,9 @@ breadcrumb: [GitHub, Integrate, DevOps Change Velocity, IT Service Management]
 
 Use the custom actions from the GitHub marketplace to collect SonarQube scan data, security data, pause or resume workflow, or resume workflow until a change request is approved or rejected in your instance, or get and update change request details and so on.
 
-Alternatively, you can use Docker container images to implement custom actions for GitHub Actions pipelines. For more information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).
+Alternatively, you can use Docker container images to implement custom actions for GitHub Actions pipelines. For more information, see [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md).
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-integration-dev-ops.md)
 
 ## ServiceNow DevOps SonarQube custom action
 
@@ -32,7 +32,7 @@ Perform the following tasks to use the custom action.
 
 -   Create SonarQube tool in your instance.
 
-    Generate token from **User** &gt; **My Account** &gt; **Security** page in your SonarQube tool and create tool in the ServiceNow instance using the generated token. For more information, see [Onboard SonarQube to DevOps Change Velocity — Workspace](../task/sonar-connect-workspace.md) and [Onboard SonarQube to DevOps Change Velocity — Classic](../task/create-sonar-tool-devops.md).
+    Generate token from **User** &gt; **My Account** &gt; **Security** page in your SonarQube tool and create tool in the ServiceNow instance using the generated token. For more information, see [Onboard SonarQube to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/sonar-connect-workspace.md) and [Onboard SonarQube to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/create-sonar-tool-devops.md).
 
 -   Create the following Secrets to save SonarQube scan results in the ServiceNow instance.
     -   SONAR\_HOST\_URL: SonarQube instance URL. For example, `https://sonarcloud.io`
@@ -92,13 +92,13 @@ Create a change request in the ServiceNow instance to pause and resume the workf
 
 Use the ServiceNow DevOps Change Automation custom action at steps level of job in the workflow. If the change is not created within the time period specified in the threshold \(changeCreationTimeOut\), and the **abortOnChangeCreationFailure** parameter is enabled, the pipeline will be aborted.
 
-This custom action creates a change request in ServiceNow, enables the **Change Control** option, and polls the ServiceNow instance at the defined time interval for change status until either the change is approved or rejected or the timeout threshold \(timeout\) is reached. GitHub aborts the workflow run if the timeout threshold is reached and the **abortOnChangeStepTimeout** parameter is enabled. ![GitHub Actions console - change step timeout](../image/github-actions-console-2.png)
+This custom action creates a change request in ServiceNow, enables the **Change Control** option, and polls the ServiceNow instance at the defined time interval for change status until either the change is approved or rejected or the timeout threshold \(timeout\) is reached. GitHub aborts the workflow run if the timeout threshold is reached and the **abortOnChangeStepTimeout** parameter is enabled. ![GitHub Actions console - change step timeout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-actions-console-2.png)
 
 This custom action immediately resumes the workflow run when change receipt is enabled for pipeline in ServiceNow without waiting for the change to be approved or rejected in the ServiceNow instance.
 
 View the change created for the workflow run in the ServiceNow instance by navigating to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests**.
 
-The change number with status **pending\_decision** is displayed in the GitHub Actions console while polling the ServiceNow instance for change status. The details like change comments, approved by, approved on, and status are logged in GitHub Actions console after the change is approved or rejected or canceled by the user in the ServiceNow instance. ![GitHub Actions console - change approved](../image/github-action-console1.png)
+The change number with status **pending\_decision** is displayed in the GitHub Actions console while polling the ServiceNow instance for change status. The details like change comments, approved by, approved on, and status are logged in GitHub Actions console after the change is approved or rejected or canceled by the user in the ServiceNow instance. ![GitHub Actions console - change approved](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-action-console1.png)
 
 You can navigate to the console logs in your pipeline to view the state of a change request when a change request is created, change details will be displayed as per the polling time interval. The policy conditions associated with the change request state will also be evaluated and displayed in the logs. For example, if the DevOps Change Request Advanced Automation policy is activated, the policy conditions will be evaluated and the corresponding decision made \(auto-approve/auto-reject/manual-approval\) will be displayed in the logs.
 
@@ -116,7 +116,7 @@ The following change request details are displayed:
 -   plannedEndDate
 -   changeRequestURL
 
-![Change state in GitHub pipeline console logs](../image/github-change-state.png)
+![Change state in GitHub pipeline console logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-change-state.png)
 
 **Note:** **changeState** is the state of the change request, and **status** is the status of the step execution.
 

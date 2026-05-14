@@ -84,5 +84,5 @@ For details on the object ID and tenant ID, see [Microsoft documentation](https:
 
 ## What to do next
 
-[Schedule and manage the jobs that download Azure billing data](schedule-azure-billing-job.md)
+[Schedule and manage the jobs that download Azure billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/schedule-azure-billing-job.md)
 

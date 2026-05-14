@@ -15,12 +15,12 @@ The architectural artifact categories enable you to categorize and manage artifa
 
 Using architectural artifact categories, you can classify artifacts by type such as architectural decision records \(ADR\), URLs, and attachments.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all architectural artifact categories](../../task/eaw-task/eaw-view-arch-art-categories.md)
+[View all architectural artifact categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-arch-art-categories.md)
 
-[Add or edit an architectural artifact category](../../task/eaw-task/eaw-add-edit-arch-art-category.md)
+[Add or edit an architectural artifact category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-arch-art-category.md)
 

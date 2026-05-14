@@ -23,12 +23,12 @@ Role required: none
 
 1.  Open the card details.
 
-2.  In the details tab \(![Details tab](../image/DetailsTab.png)\), click **Move Card**.
+2.  In the details tab \(![Details tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/DetailsTab.png)\), click **Move Card**.
 
 3.  In the pop-up window that appears, select the board and lane to move the card to.
 
     The board selection list displays freeform boards only.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

@@ -27,7 +27,7 @@ The scheduler only runs when there are active exposures so that the actions are 
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk management icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Exposure types** list, open the exposure type, and select the exposure assessment record that you want to add the measurement to.
 
@@ -35,7 +35,7 @@ The scheduler only runs when there are active exposures so that the actions are 
 
 5.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Action schedule form for an exposure](../reference/hs-action-schedule-form.md).
+    For information on field descriptions, see [Action schedule form for an exposure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../reference/hs-action-schedule-form.md).
 
 6.  Select **Save**.
 
@@ -45,5 +45,5 @@ The scheduler only runs when there are active exposures so that the actions are 
 -   The **Actions** tab appears for the action schedule.
 -   An action record is created in the **Actions** tab for each affected person whenever there's an active exposure for the exposure assessment. An action schedule might generate multiple actions for the affected people over time.
 
-**Parent Topic:**[Perform an exposure assessment for a location](hs-perform-exposure-assessment.md)
+**Parent Topic:**[Perform an exposure assessment for a location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-exposure-assessment.md)
 

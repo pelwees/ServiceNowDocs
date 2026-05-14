@@ -24,7 +24,7 @@ The property **com.snc.iam.enable\_notify** must be enabled in Notify Properties
 
 3.  Click **Save**.
 
-**Parent Topic:**[Use Notify connector for Microsoft Teams](c-agent-ex-use-nc.md)
+**Parent Topic:**[Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md)
 
 ## Start a conference call from an incident communication plan
 

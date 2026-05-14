@@ -115,14 +115,14 @@ Record evaluated as the assessment subject. You may need to configure the form t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[View a quiz designer scorecard](t_ViewAQuizDesignerScorecard.md)
+**Parent Topic:**[View a quiz designer scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)
 
 **Related topics**  
 
 
-[Assessment results](../reference/r_AssessmentResults.md)
+[Assessment results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_AssessmentResults.md)
 
 [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-[View a metric result](t_ViewAMetricResult.md)
+[View a metric result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 

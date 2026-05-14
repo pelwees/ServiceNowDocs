@@ -23,7 +23,7 @@ Roles required:
 -   sn\_vul\_cmn.usem\_admin to configure workspace rules
 -   For vulnerability findings remediation by product:
 
-See [Security Exposure Management Workspace Roles](../../security-exposure-management-workspace/reference/sem-new-roles-installed.md)
+See [Security Exposure Management Workspace Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-workspace/reference/sem-new-roles-installed.md)
 
 ## Top-level filters
 
@@ -39,7 +39,7 @@ Locate and organize findings based on the following top-level filters to help yo
 -   **Source** - View security exposures organized by the third-party scanner product integrations you have installed in your instance.
 -   **Risk rating** - View security exposures by their criticality \(Critical, High, or Medium\). Multi-select is supported.
 
-    **Note:** Select the Settings ![Gear icon that opens configuration options.](../../vulnerability-response/image/vr-gear-icon.png) \(gear icon\). With **Filters** selected you can include findings with **Low** criticality and no imported criticality \(**None**\). You might prefer to keep the criticality in its default setting to limit your import and help you focus on your most important findings. If you modify this filter, findings that match your settings are imported with the next daily data import for all your finding types.
+    **Note:** Select the Settings ![Gear icon that opens configuration options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/vr-gear-icon.png) \(gear icon\). With **Filters** selected you can include findings with **Low** criticality and no imported criticality \(**None**\). You might prefer to keep the criticality in its default setting to limit your import and help you focus on your most important findings. If you modify this filter, findings that match your settings are imported with the next daily data import for all your finding types.
 
 
 ## Needs attention
@@ -92,7 +92,7 @@ Select a card and then select the filters on the new tabs that are displayed to 
     -   Red
     -   Orange
     -   Yellow
--   View toxic combinations and assets with the least compliant scores that have the most security exposures due to failed configurations. Both misconfigurations and issues are populated on test results in Configuration Compliance. This data is imported by the [Understanding the Wiz Vulnerability Response Integration](../../secops-integration-vr/wiz-host-vuln-integration/concept/vr-wiz-exploring-host-cf.md), and this data is not displayed unless Configuration Compliance and the Wiz Vulnerability Response Integration are installed.
+-   View toxic combinations and assets with the least compliant scores that have the most security exposures due to failed configurations. Both misconfigurations and issues are populated on test results in Configuration Compliance. This data is imported by the [Understanding the Wiz Vulnerability Response Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../secops-integration-vr/wiz-host-vuln-integration/concept/vr-wiz-exploring-host-cf.md), and this data is not displayed unless Configuration Compliance and the Wiz Vulnerability Response Integration are installed.
 
     Findings with failed test results are color-coded. You can select the date range for the last 7 days or the last 30 days.
 

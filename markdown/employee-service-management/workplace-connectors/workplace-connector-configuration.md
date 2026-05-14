@@ -27,19 +27,19 @@ Role required: sn\_wsd\_wc.admin
 
 2.  On the pane, select the Application scope as **Workplace Connectors**.
 
-    ![Application Global Scope selected as Workplace Connectors.](../images/wsd-app-scope-connectors.png)
+    ![Application Global Scope selected as Workplace Connectors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../images/wsd-app-scope-connectors.png)
 
 3.  Select **New**.
 
 4.  In the **Target table** field, select the target table for the badging spoke data.
 
-    In this case, it’s the Employee Attendance Data table. For more information, see [Employee attendance data](employee-attendance.md).
+    In this case, it’s the Employee Attendance Data table. For more information, see [Employee attendance data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/employee-attendance.md).
 
 5.  In the **Type** field, select the type of data the connector processes from the drop-down list.
 
     For example, badging data or occupancy data.
 
-6.  In the **Extension Point Definition** field, select the lookup list icon \(![Lookup list icon.](../../workplace-case-mgmt/image/search-icon.png)\) and select the **BadgingDataHandler** as the extension point for integration.
+6.  In the **Extension Point Definition** field, select the lookup list icon \(![Lookup list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../../workplace-case-mgmt/image/search-icon.png)\) and select the **BadgingDataHandler** as the extension point for integration.
 
     **Note:** The extension point is used to process badging data from the provider and convert it to the standard format to be implemented by each provider. It's just an interface. Each provider must have a separate implementation.
 
@@ -48,9 +48,9 @@ Role required: sn\_wsd\_wc.admin
 7.  Select **Submit** to save the connector configuration.
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-workplace-connectors.md)
 
-**Previous topic:**[Create a badging data provider](wsd-connector-badging-providers.md)
+**Previous topic:**[Create a badging data provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-connector-badging-providers.md)
 
-**Next topic:**[Provider connector configuration](../concept/provider-configuration-ovw.md)
+**Next topic:**[Provider connector configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/provider-configuration-ovw.md)
 

@@ -38,14 +38,14 @@ To edit the minimum and maximum values for a question that has the Template data
     **Note:** When the data type is Template, a UI policy prevents the editing of Min and Max from the form.
 
 
-**Parent Topic:**[Create a metric template](t_CreateAMetricTemplate.md)
+**Parent Topic:**[Create a metric template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricTemplate.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 
-[Create an assessment metric for a category](t_CreateAMetric.md)
+[Create an assessment metric for a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
-[Create an assessment metric definition](t_CreateAMetricDefinition.md)
+[Create an assessment metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md)
 

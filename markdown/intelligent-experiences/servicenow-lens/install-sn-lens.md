@@ -39,7 +39,7 @@ The following items are installed with ServiceNow AI Lens:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with ServiceNow AI Lens](../reference/components-installed-sn-lens.md).
+For more information, see [Components installed with ServiceNow AI Lens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../reference/components-installed-sn-lens.md).
 
 ## Procedure
 
@@ -64,5 +64,5 @@ The ServiceNow AI Lens and ServiceNow AI Lens Core applications are installed.
 
 ## What to do next
 
-Turn on the ServiceNow AI Lens skill to extract, comprehend, and synthesize visual data to optimize your workflows. For more information, see [Activate the ServiceNow AI Lens skill](activate-lens-skill.md).
+Turn on the ServiceNow AI Lens skill to extract, comprehend, and synthesize visual data to optimize your workflows. For more information, see [Activate the ServiceNow AI Lens skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/activate-lens-skill.md).
 

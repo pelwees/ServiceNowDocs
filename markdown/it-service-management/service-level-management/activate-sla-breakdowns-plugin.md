@@ -57,19 +57,19 @@ Provides the core SLA functionality.SLA Definitions provide conditions to start,
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with SLA breakdown definitions](installed-with-sla-breakdowns.md#)**  
+-   **[Installed with SLA breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/installed-with-sla-breakdowns.md#)**  
 Several types of components are installed with the SLA breakdown definitions.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/sla-plugins.md)
 
 **Related topics**  
 
 
-[Activate Service Level Management](../task/activate-sla-plugin.md)
+[Activate Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/activate-sla-plugin.md)
 
-[Activate SLA timeline](../task/t_ActivateSLATimeline.md)
+[Activate SLA timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/t_ActivateSLATimeline.md)
 
-[Activate Service Level Management - SLA Timer Config API](../task/activate-sla-timer-config-api.md)
+[Activate Service Level Management - SLA Timer Config API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/activate-sla-timer-config-api.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

@@ -16,25 +16,25 @@ ServiceNow Impact is built on the ServiceNow AI Platform and combines customized
 
 <table id="table_uqc_flp_fsb" class="nav-card"><tbody><tr><td>
 
-[Exploring Impact![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Impact features to help you realize the full potential of your instances.](impact-program-features.md)
+[Exploring Impact![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Impact features to help you realize the full potential of your instances.](impact-program-features.md)
 
 </td><td>
 
-[Using Impact![](../../../reuse/icons/brand-icons/bus-management-console.svg)Use an updated interactive Impact program where you can access your Impact tools and benefits.](impact-in-app.md)
+[Using Impact![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/brand-icons/bus-management-console.svg)Use an updated interactive Impact program where you can access your Impact tools and benefits.](impact-in-app.md)
 
 </td></tr><tr><td>
 
-[Configuring Impact![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to setup and configure Impact.](configuring-impact.md)
+[Configuring Impact![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to setup and configure Impact.](configuring-impact.md)
 
 </td><td>
 
-[Impact Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Impact components, such as plugins, tables, and roles.](../reference/impact-reference.md)
+[Impact Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Impact components, such as plugins, tables, and roles.](../reference/impact-reference.md)
 
 </td></tr><tr><td colspan="2">
 
-[Additional resources for Impact![](../../../reuse/icons/brand-icons/bus-documentation.svg)](../reference/additional-resources-impact.md)
+[Additional resources for Impact![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/brand-icons/bus-documentation.svg)](../reference/additional-resources-impact.md)
 
- [Explore additional resources for learning about Impact.](../reference/additional-resources-impact.md)
+ [Explore additional resources for learning about Impact.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/additional-resources-impact.md)
 
 </td></tr></tbody>
 </table>

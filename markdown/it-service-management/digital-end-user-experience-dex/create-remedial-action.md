@@ -19,7 +19,7 @@ Create your custom remedial actions from Check Definitions to resolve end-point 
 
 Role required: admin, dex\_admin
 
-**Note:** To learn more about different remedial actions, see [Digital End-User Experience Remedial Actions](../reference/dex-diff-ra.md).
+**Note:** To learn more about different remedial actions, see [Digital End-User Experience Remedial Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/dex-diff-ra.md).
 
 ## Procedure
 
@@ -61,5 +61,5 @@ Role required: admin, dex\_admin
     -   Confirm that the selected Check Definition is applicable for the selected OS.
     -   Depending on the Check Definition selected, the related Check Definition parameters are listed.
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-remedial-actions.md)
 

@@ -15,15 +15,15 @@ An application family is an attribute to group a set of related applications bas
 
 You can add new application families or edit existing application families to simplify your application portfolio and align related apps with your business goals.
 
--   **[Add or edit an application family](../../task/eaw-task/eaw-create-app-family.md)**  
+-   **[Add or edit an application family](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-family.md)**  
 Add or edit an application family and align it with your business requirements.
 
-**Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
+**Parent Topic:**[Configure EA Workspace using the Setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-config-eaw-using-setup-page.md)
 
 **Related topics**  
 
 
-[Manage application families](eaw-configure-application-families.md)
+[Manage application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-configure-application-families.md)
 
-[View all application families](../../task/eaw-task/eaw-view-all-application-families.md)
+[View all application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-application-families.md)
 

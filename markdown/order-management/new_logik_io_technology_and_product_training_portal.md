@@ -57,7 +57,7 @@ In the Student Home page you can view the Course Catalog and select courses, mon
 
 [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)[Training Portal Demo](https://drive.google.com/file/d/1GD-brNEYjrGT31VFyTG1_EkaGCkhsvJ_/view?usp=sharing)
 
-For more information about the Training Portal and how to purchase a subscription to the Portal, contact CPQ Training at [training@logik.io](mailto:training@logik.io) or your CPQ Sales Representative.
+For more information about the Training Portal and how to purchase a subscription to the Portal, contact CPQ Training at [training@logik.io](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/mailto:training@logik.io) or your CPQ Sales Representative.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/servicenow-cpq-reference.md)
 

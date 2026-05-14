@@ -55,7 +55,7 @@ In JSON format:
 
 6.  Leave the **User Inputs** field blank, and select **Submit**.
 
-    ![In the Advanced Solution Setting new record, in the Solution Parameters field, the option Use LightGBM algo for classification model training is highlighted.](../images/predictive-intel-lightgbm-algoZ1.png)
+    ![In the Advanced Solution Setting new record, in the Solution Parameters field, the option Use LightGBM algo for classification model training is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-lightgbm-algoZ1.png)
 
 
 ## Result
@@ -66,12 +66,12 @@ The setting appears as a row on the **Advanced Solution Setting** tab on your so
 
 Retrain your solution.
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Using Machine Learning APIs](../concept/using-ml-apis.md#)
+[Using Machine Learning APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/using-ml-apis.md#)
 
-[Create and train a classification solution](create-solution-definition.md)
+[Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 

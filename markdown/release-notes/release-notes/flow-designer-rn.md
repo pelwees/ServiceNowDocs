@@ -85,5 +85,5 @@ Get the latest Workflow Studio features by updating the app from the ServiceNow 
     Automate integration tasks using ServiceNow components for ServiceNow® Workflow Studio, or develop custom integrations. A separate subscription is required.
 
 
-**Parent Topic:**[Workflow Studio release notes](workflow-studio-rn-landing.md)
+**Parent Topic:**[Workflow Studio release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/workflow-studio-rn-landing.md)
 

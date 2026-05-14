@@ -36,13 +36,13 @@ Enable the monetary benefit plans and non-monetary benefit plans related lists f
 
 6.  Change the record page view to **EAP Default**.
 
-    To change the view, select **Additional actions** menu \(![Three small black horizontal parallel lines.](../../agile-development/image/hamburger-icon.png)\), select **View**, and select the **EAP Default** view.
+    To change the view, select **Additional actions** menu \(![Three small black horizontal parallel lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../agile-development/image/hamburger-icon.png)\), select **View**, and select the **EAP Default** view.
 
-    ![Additional options menu to select the EAP Default view to enable benefit plans.](../images/fin-select-eap-default-view.png)
+    ![Additional options menu to select the EAP Default view to enable benefit plans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-select-eap-default-view.png)
 
-7.  Select **Additional actions** menu \(![Three small black horizontal parallel lines.](../../agile-development/image/hamburger-icon.png)\), select **Configure**, and select the **Related Lists** option.
+7.  Select **Additional actions** menu \(![Three small black horizontal parallel lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../agile-development/image/hamburger-icon.png)\), select **Configure**, and select the **Related Lists** option.
 
-    ![Additional options menu to configure related lists for your planning items.](../images/fin-config-related-lists.png)
+    ![Additional options menu to configure related lists for your planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-config-related-lists.png)
 
 8.  Select **Monetary Benefit Plans** and **Non-monetary Benefit Plans** from the Available list and add them to Selected list.
 
@@ -55,6 +55,6 @@ Enable the monetary benefit plans and non-monetary benefit plans related lists f
 
 Create and manage monetary and non-monetary benefits plans for your planning items.
 
--   [Create monetary benefit plans for your planning items in Strategic Planning](fin-manage-monetary-benefit-plans-spw.md)
--   [Manage non-monetary benefit plans for your planning items in Strategic Planning](fin-manage-non-monetary-benefit-plans-spw.md)
+-   [Create monetary benefit plans for your planning items in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/fin-manage-monetary-benefit-plans-spw.md)
+-   [Manage non-monetary benefit plans for your planning items in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/fin-manage-non-monetary-benefit-plans-spw.md)
 

@@ -17,7 +17,7 @@ To place a request from a service catalog, navigate to the catalog home page and
 
 When an item is ordered, the base system generates a request to track the order and displays a summary that includes the order status in the **Stage** column:
 
-![Service Catalog Request Status](../image/SC_RequestCatalogItem.png "Service Catalog Request Status")
+![Service Catalog Request Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/SC_RequestCatalogItem.png "Service Catalog Request Status")
 
 Each individual catalog item in a request creates a discrete request item. For example, a request for 2 PCs, 1 chair, and 1 desk would produce four request items on a single request.
 
@@ -31,7 +31,7 @@ You can configure the layout for either the one-step or two-step catalog checkou
 
 The order status screen is the final summary screen a user sees in the service catalog after placing an order successfully.
 
-**Parent Topic:**[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)
+**Parent Topic:**[Service Catalog for managers and end users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)
 
 ## Request generation for a Service Catalog item
 
@@ -56,5 +56,5 @@ If a service catalog request is canceled, all associated purchase orders and tra
 **Related topics**  
 
 
-[Service Catalog home page](c_ViewNavSvrCat.md#)
+[Service Catalog home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ViewNavSvrCat.md#)
 

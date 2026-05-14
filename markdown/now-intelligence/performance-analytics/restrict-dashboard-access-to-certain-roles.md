@@ -31,18 +31,18 @@ When dashboards are migrated between releases, this field is automatically popul
 
 1.  Navigate to the dashboard to restrict to specific roles.
 
-2.  Click the context menu \(![Context menu icon](../../../common/image/Form_MenuIcon.png)\) and select **Dashboard properties**.
+2.  Click the context menu \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../common/image/Form_MenuIcon.png)\) and select **Dashboard properties**.
 
 3.  In the **Restrict to roles** field, specify the additional roles required to access the dashboard.
 
-    Users with any of the specified roles can access the dashboard only if it has been shared with them first from the **Share** panel. For more information, see [Share a responsive dashboard](t_ControlAccessToADashboard.md).
+    Users with any of the specified roles can access the dashboard only if it has been shared with them first from the **Share** panel. For more information, see [Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md).
 
 
 ## Result
 
 Only users with the restricted role are able to view the dashboard. A message on the Sharing panel indicates which roles have access. Click the roles in this message to view the properties of the dashboard.
 
-![Restricted roles message in the Sharing panel](../image/dashboard-restricted-to-roles.png)
+![Restricted roles message in the Sharing panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/dashboard-restricted-to-roles.png)
 
-**Note:** The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](../reference/dashboard-properties.md).
+**Note:** The ability of users to share dashboards may be limited by the administrator. For more information, see [Responsive dashboard properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../reference/dashboard-properties.md).
 

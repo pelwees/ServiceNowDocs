@@ -121,5 +121,5 @@ Personal data rights request sn\_grc\_pdr\_request
 Collects information with respect to personal data rights.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Privacy Management reference](privacy-mgmt-reference.md)
+</table>**Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 

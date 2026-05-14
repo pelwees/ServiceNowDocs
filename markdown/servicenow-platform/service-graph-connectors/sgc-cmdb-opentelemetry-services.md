@@ -60,11 +60,11 @@ Role required: cmdb\_inst\_admin
 
 3.  For an inferred service, double-click the **Inferred service CI** column cell.
 
-4.  Select the lookup using list icon \(![Lookup using list icon.](../image/Lookup-list-icon.png)\) to search for and select an inferred service CI available within the Configuration item \[cmdb\_ci\] table.
+4.  Select the lookup using list icon \(![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/Lookup-list-icon.png)\) to search for and select an inferred service CI available within the Configuration item \[cmdb\_ci\] table.
 
-5.  Select the save icon \(![Green check mark icon](../../../administer/workflow-administration/image/Check.png)\).
+5.  Select the save icon \(![Green check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../../administer/workflow-administration/image/Check.png)\).
 
-6.  Repeat the steps [3](sgc-cmdb-opentelemetry-services.md#select-ci) to [5](sgc-cmdb-opentelemetry-services.md#save-ci) for each inferred service that you want to link with a CI.
+6.  Repeat the steps [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-opentelemetry-services.md#select-ci) to [5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-opentelemetry-services.md#save-ci) for each inferred service that you want to link with a CI.
 
 
 ### Result

@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Splunk TCP integration configuration forms for Health Log Analytics.
 
-For the Splunk TCP integration setup procedure, see [Set up a Splunk TCP integration for Health Log Analytics](../task/il-connector-hla-splunktcp.md).
+For the Splunk TCP integration setup procedure, see [Set up a Splunk TCP integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-splunktcp.md).
 
 <table id="table_rp3_c3g_q2c"><thead><tr><th>
 
@@ -196,5 +196,5 @@ Drop if queue is full
 Option to discard logs if there is a load on the MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

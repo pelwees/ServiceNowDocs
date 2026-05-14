@@ -70,5 +70,5 @@ The following components are defined in the base system.
 |Revision|Displays the document revision.|revision|
 |Type code|Displays the code assigned to the document type.|document.type.code|
 
-**Parent Topic:**[Defining Document Parameters](r_DefiningDocumentParameters.md)
+**Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 

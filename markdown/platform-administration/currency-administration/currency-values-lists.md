@@ -66,7 +66,7 @@ This limitation extends to different price types.
 -   For price type fixed, the calculated reference value can be old.
 -   For price type multiple, the reference value of the first price entered is used. The other values are not used.
 
-The aggregate value is shown formatted in user’s locale with a currency symbol. Currency fields are stored with four decimal places, and aggregates have four decimal places. For upgrades, you must set the **glide.currency\_price.use\_all\_fraction\_digits** property. See [Change default currency decimal places](../task/change-currency-fraction-digits.md) for more information.
+The aggregate value is shown formatted in user’s locale with a currency symbol. Currency fields are stored with four decimal places, and aggregates have four decimal places. For upgrades, you must set the **glide.currency\_price.use\_all\_fraction\_digits** property. See [Change default currency decimal places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../task/change-currency-fraction-digits.md) for more information.
 
 ## Filtering
 
@@ -82,5 +82,5 @@ Matching records are shown in the list view.
 -   For a Fixed price field type, the calculated reference value can be old.
 -   For a Multiple price field type, it uses the reference value of the first price, and does not use the other values.
 
-**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 

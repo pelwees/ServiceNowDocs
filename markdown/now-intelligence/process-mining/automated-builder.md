@@ -21,13 +21,13 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 Ping-pong finding definition surfaces areas in the process where records continuously bounce between two steps. Identifying these loops helps determine the necessary improvements.
 
-![Ping-pong example](../image/ping-pong.png)
+![Ping-pong example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ping-pong.png)
 
 ## Procedure
 
 1.  Navigate to Improvement opportunity definition page.
 
-    For information about Improvement opportunity definition page, see [Set improvement opportunities](improve-opportunities.md).
+    For information about Improvement opportunity definition page, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md).
 
 2.  Select **Create** on the Ping-Pong card.
 
@@ -116,7 +116,7 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
     The **Configure** tab is displayed. Default values are provided. You can edit them if needed.
 
-    ![Ping-Pong configuration](../image/ping-pong-config.png)
+    ![Ping-Pong configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ping-pong-config.png)
 
     According to the example, records that meet the following conditions are available as improvement opportunities in the Summary and insights page:
 
@@ -125,5 +125,5 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 5.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting Automated improvement opportunities](../concept/automated-findings.md)
+**Parent Topic:**[Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/automated-findings.md)
 

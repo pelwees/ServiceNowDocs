@@ -17,7 +17,7 @@ You can stash \(or save\) changes made locally on application files, pull the la
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 You must have at least one changed application file to stash it.
 
@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Stash changes**.
 
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sns-sc-work-with-changes-in-git.md)
 

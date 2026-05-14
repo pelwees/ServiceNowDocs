@@ -17,7 +17,7 @@ Move application files that are linked to source control to any folder of the re
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 Role required: Source control credentials with write access
 
@@ -50,5 +50,5 @@ Linking an application to source control generates a properties text file called
 7.  Save the properties file.
 
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/source-control-in-servicenow-studio.md)
 

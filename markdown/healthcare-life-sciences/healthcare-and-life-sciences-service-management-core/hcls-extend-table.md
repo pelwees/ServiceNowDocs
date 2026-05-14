@@ -29,7 +29,7 @@ Role required: sn\_hcls.admin
 
 3.  Fill in the details of the new table record.
 
-4.  In the **Extends Table** field, click the lookup icon ![Lookup using list icon.](../image/lookup-using-list.png) and search for and select the sn\_hcls\_case table.
+4.  In the **Extends Table** field, click the lookup icon ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/lookup-using-list.png) and search for and select the sn\_hcls\_case table.
 
 5.  Click **Submit**.
 

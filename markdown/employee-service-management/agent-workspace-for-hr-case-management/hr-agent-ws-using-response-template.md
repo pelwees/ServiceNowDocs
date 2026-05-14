@@ -23,7 +23,7 @@ Role required: sn\_hr\_core.case\_writer
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Select an HR case or task.
 
@@ -56,9 +56,9 @@ Steps
 
 
 </td></tr></tbody>
-</table>4.  From the contextual side panel, select the Response templates icon \(![Response template icon](../reference/images/response-template-icon.png)\).
+</table>4.  From the contextual side panel, select the Response templates icon \(![Response template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/response-template-icon.png)\).
 
-5.  Select the View response templates icon \(![View response templates icon](../image/view-response-templates.png)\) to display templates based on the language preference of the selected user.
+5.  Select the View response templates icon \(![View response templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/view-response-templates.png)\) to display templates based on the language preference of the selected user.
 
     For example, only response templates in the French language are displayed to the **assigned to** user because French has been selected in the **Language** field in the user profile of **assigned to**.
 

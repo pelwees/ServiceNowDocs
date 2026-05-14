@@ -21,7 +21,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Create an observable for a manual lookup using the WHOISIQ API. For more information on how to create and edit an observable, see [Create an observable for manual WHOISIQ lookups](manually-attch-obsv-whoisiq.md).
+Create an observable for a manual lookup using the WHOISIQ API. For more information on how to create and edit an observable, see [Create an observable for manual WHOISIQ lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manually-attch-obsv-whoisiq.md).
 
 ## Procedure
 
@@ -29,33 +29,33 @@ Create an observable for a manual lookup using the WHOISIQ API. For more informa
 
 2.  Click your observable in the **Value** column to open the record.
 
-    ![Click the observable you want to lookup.](../image/riskiq-test1email-select.png)
+    ![Click the observable you want to lookup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-test1email-select.png)
 
 3.  Click the **Run Observable Enrichment** related link to run the lookup.
 
-    ![Run Observable Enrichment in Related Links.](../image/riskiq-new-obsv-b4-run.png)
+    ![Run Observable Enrichment in Related Links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-new-obsv-b4-run.png)
 
 4.  In the **Run Observable Enrichment** window, move **RiskIQ Whois** to the Selected list.
 
-    ![Move RsikIQ Whois to Selected.](../image/riskiq-run-whois.png)
+    ![Move RsikIQ Whois to Selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-run-whois.png)
 
 5.  Click **Submit**.
 
     Lookup results are displayed on the **Observable Enrichment Results** tab on the observable record.
 
-    ![Observable Enrichment Results tab and lookup results.](../image/riskiq-test1gmail-rslts.png)
+    ![Observable Enrichment Results tab and lookup results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-test1gmail-rslts.png)
 
 
 If no results are returned for the observable, a message is displayed in the **Summary** column. If you do not see results, verify the observable is supported by the API.
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/riskiq-lookups.md)
 
-**Previous topic:**[Create an observable for manual WHOISIQ lookups](manually-attch-obsv-whoisiq.md)
+**Previous topic:**[Create an observable for manual WHOISIQ lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manually-attch-obsv-whoisiq.md)
 
-**Next topic:**[Shodan integration](../../secops-integration-shodan/concept/shodan-lookups.md)
+**Next topic:**[Shodan integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-shodan/concept/shodan-lookups.md)
 
 **Related topics**  
 
 
-[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+[Supported observables for RISKIQ and RISKIQ WHOISIQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/riskiq_supported_obsv.md)
 

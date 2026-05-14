@@ -33,7 +33,7 @@ The following items are installed with synthetic monitoring:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with synthetic monitoring](../reference/components-installed-with-synthetic-monitoring.md).
+For more information, see [Components installed with synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../reference/components-installed-with-synthetic-monitoring.md).
 
 ## Procedure
 
@@ -56,7 +56,7 @@ For more information, see [Components installed with synthetic monitoring](../re
 
 ## What to do next
 
-[Create synthetic monitoring locations](create-synthetic-monitoring-locations.md)
+[Create synthetic monitoring locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md)
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/configuring-synthetic-monitoring.md)
 

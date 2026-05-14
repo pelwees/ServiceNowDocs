@@ -32,5 +32,5 @@ Sometimes, UserA and UserB are working at the same time on two different changes
 
 An open changeset with conflicts is blocked—it cannot be committed. The system notifies you of conflicts with a warning message on the page. In addition, the **State** value in the header changes from **Open** to **Blocked**.
 
-See [Conflicts between changeset commits](cdm-changeset-conflicts.md) for descriptions of the types of conflicts that the system identifies.
+See [Conflicts between changeset commits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-changeset-conflicts.md) for descriptions of the types of conflicts that the system identifies.
 

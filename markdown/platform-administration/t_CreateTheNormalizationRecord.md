@@ -30,7 +30,7 @@ Special Cases
 
 ## Procedure
 
-1.  [Activate](../../plugins/task/t_ActivateAPlugin.md) the Field Normalization plugin.
+1.  [Activate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../plugins/task/t_ActivateAPlugin.md) the Field Normalization plugin.
 
 2.  Navigate to **Field Normalization** &gt; **Configurations** &gt; **Normalizations**.
 
@@ -44,9 +44,9 @@ Special Cases
     |Table|Select the ServiceNow table for the field being normalized.|
     |Field|Select the field to normalize.|
     |Mode|The three available modes are Off, Test, and Active. All normalization records are created in the test mode by default. If you are planning to select aliases for your normal values, change the Mode to Active. If you intend to normalize the field using rules, be sure to leave this record in the Test mode. To disable this normalization, switch the mode to Off.|
-    |Normalize query|Select this check box to apply the field value normalized by this record to all queries involving this field. Queries formed with the raw \(original\) field value return records displaying the normal value. Queries issued by a script using the conditions equals or not equals return normalized values. See [Normalized Queries](../concept/c_WhatFieldNormalizationDoes.md) for details.|
-    |Coalesce each normal|Select this check box to normalize reference field values. This option resets all references to records containing an alias field value to the record using the normal value. See [Coalesce Normal Values](t_CoalesceNormalValues.md) for details.|
-    |Raw field|Select the field to use to display the original \(non-normalized\) input values on a form in which a field value has been normalized. For the selection to appear in the drop-down list, add a custom field to the form for the table selected. For instructions on adding a field for raw data, see [Creating a Raw Field](t_CreateARawField.md).|
+    |Normalize query|Select this check box to apply the field value normalized by this record to all queries involving this field. Queries formed with the raw \(original\) field value return records displaying the normal value. Queries issued by a script using the conditions equals or not equals return normalized values. See [Normalized Queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_WhatFieldNormalizationDoes.md) for details.|
+    |Coalesce each normal|Select this check box to normalize reference field values. This option resets all references to records containing an alias field value to the record using the normal value. See [Coalesce Normal Values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CoalesceNormalValues.md) for details.|
+    |Raw field|Select the field to use to display the original \(non-normalized\) input values on a form in which a field value has been normalized. For the selection to appear in the drop-down list, add a custom field to the form for the table selected. For instructions on adding a field for raw data, see [Creating a Raw Field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateARawField.md).|
 
     After the normalization record is submitted, the platform runs the Pending value collection job in the **Data Jobs** related list automatically to gather all the current values \(Pending Values\) for the field being normalized.
 

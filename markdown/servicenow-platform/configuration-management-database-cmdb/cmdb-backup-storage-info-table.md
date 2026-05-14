@@ -21,7 +21,7 @@ The table captures backup policy, last successful backup, last backup attempt, e
 
 To mitigate the risk of uncontrolled growth of the table, a cascade-delete rule applies to the Backup Source \(CI\) reference field. When a CI is deleted, the corresponding rows in the table are deleted.
 
-![Diagram of the references that the cmdb_backup_storage_information table makes to the technical service and backup source tables.](../image/cmdb-backup-storage-info-table.png)
+![Diagram of the references that the cmdb_backup_storage_information table makes to the technical service and backup source tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/cmdb-backup-storage-info-table.png)
 
 ## Tables related to backup operations
 

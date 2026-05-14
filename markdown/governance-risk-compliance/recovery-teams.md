@@ -19,7 +19,7 @@ You can create a recovery team by entering the name and description for a recove
 
 The description for the recovery team also indicates the responsibilities of the users and groups who are assigned to the recovery team. You can also create a recovery team and add the user and group assignment later as shown in the example.
 
-![Recovery team.](../image/recovery-teams.png)
+![Recovery team.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/recovery-teams.png)
 
 ## Recovery groups and assignment groups
 
@@ -33,11 +33,11 @@ If you have the BCM administrator role, you create a business continuity plan by
 
 Your plan has a basic set of loss scenarios attached to it. You can then add additional loss scenarios to the plan as per your requirement in the BCM UIB Workspace as shown in the example.
 
-![Loss scenario.](../image/loss-scenarios.png)
+![Loss scenario.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/loss-scenarios.png)
 
 ## Recovery tasks
 
 You can assign the recovery task to a group by identifying an owner to execute the processes and procedures of a recovery. The recovery task contains the details of the item to be recovered and the time by which it should be accomplished as shown in the example.
 
-![Recovery task.](../image/new-recovery-task.png)
+![Recovery task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-recovery-task.png)
 

@@ -37,7 +37,7 @@ You must map each signature field from the DocuSign template to an appropriate u
 
 3.  On the PDF Document Template form, set the **Template type** field to `DocuSign Template`.
 
-    ![Set the Template type field to DocuSign template.](../image/hr-pdf-document-template-for-docusign.png)
+    ![Set the Template type field to DocuSign template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-pdf-document-template-for-docusign.png)
 
 4.  Fill in the fields on the form, as appropriate.
 
@@ -114,7 +114,7 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
     **Note:** If any changes are made to the signature or document fields on the DocuSign template, you must click the **Get Template Fields** related link to synchronize those changes. Existing mappings are not affected.
 
-    ![Click the Get Template Fields related link.](../image/hr-pdf-doc-template-docusign-get-template-fields.png)
+    ![Click the Get Template Fields related link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-pdf-doc-template-docusign-get-template-fields.png)
 
 7.  When the **Get template fields status** field changes to **Completed**, reload the form.
 
@@ -126,7 +126,7 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
     **Note:** Configuration of the signature fields, including for parallel and serial signing, must be completed within the DocuSign system. You cannot add or configure the signature fields from within the HR PDF document template.
 
-    ![How to map table fields to signature fields on a DocuSign template.](../image/docusign-template-signature-mapping.png)
+    ![How to map table fields to signature fields on a DocuSign template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/docusign-template-signature-mapping.png)
 
 9.  In the **PDF Template Mappings** section, you can also map fields from the DocuSign template to corresponding table fields to auto-populate the document when it is generated for signing.
 
@@ -145,5 +145,5 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 10. Click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/docusign-integration-for-hr.md)
 

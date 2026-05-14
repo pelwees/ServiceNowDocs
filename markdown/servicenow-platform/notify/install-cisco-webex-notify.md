@@ -44,5 +44,5 @@ Role required: notify\_setup\_admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/setup-cisco-webex-notify.md)
 

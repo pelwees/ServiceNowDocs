@@ -29,13 +29,13 @@ The ACC Events list shows all log shipper-related events in one place. The list 
 
 2.  Review the information provided in the Events list.
 
-    For details and a description of the columns, see [View events](../../event-management/task/t_EMManageEvent.md).
+    For details and a description of the columns, see [View events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../event-management/task/t_EMManageEvent.md).
 
 
-**Parent Topic:**[Agent Client Collector Log Analytics setup](../concept/accl-setup.md)
+**Parent Topic:**[Agent Client Collector Log Analytics setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/accl-setup.md)
 
 **Related topics**  
 
 
-[View log shipper alerts](accl-log-shipper-alerts.md)
+[View log shipper alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-log-shipper-alerts.md)
 

@@ -124,13 +124,13 @@ To allow the connector to access your Zoom source system via the Zoom APIs, you 
 
 Provide the following items to your connector admin:
 
--   The account ID that you copied in step [2.a](configure-zoom-external-content-indexing.md#copy-account-id-step).
--   The client ID that you copied in step [2.b](configure-zoom-external-content-indexing.md#copy-client-id-step).
--   The client secret that you copied in step [2.c](configure-zoom-external-content-indexing.md#copy-client-secret-step).
+-   The account ID that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-zoom-external-content-indexing.md#copy-account-id-step).
+-   The client ID that you copied in step [2.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-zoom-external-content-indexing.md#copy-client-id-step).
+-   The client secret that you copied in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-zoom-external-content-indexing.md#copy-client-secret-step).
 
 Your connector admin needs these items to configure a Zoom external content connector to retrieve meetings, webinars, and security principals from your Zoom source system.
 
-For details on creating and configuring a Zoom external content connector, see [Create a Zoom external content connector](create-ext-cont-connector-zoom.md).
+For details on creating and configuring a Zoom external content connector, see [Create a Zoom external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-zoom.md).
 
-**Parent Topic:**[Zoom external content connector](../concept/zoom-external-content-connector.md)
+**Parent Topic:**[Zoom external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/zoom-external-content-connector.md)
 

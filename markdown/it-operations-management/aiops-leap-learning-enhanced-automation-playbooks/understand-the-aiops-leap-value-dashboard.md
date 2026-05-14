@@ -30,7 +30,7 @@ The LEAP value dashboard provides real-time insights into automation opportuniti
 
     The dashboard displays records analyzed and grouped into automation opportunities.
 
-    ![LEAP value dashboard showing automation metrics and opportunities](../images/leap-value-dashboard.png)
+    ![LEAP value dashboard showing automation metrics and opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/leap-value-dashboard.png)
 
     The dashboard opens, displaying automation metrics and grouping statistics.
 

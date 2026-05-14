@@ -40,14 +40,14 @@ A workplace case is created and is automatically assigned to the Workplace servi
 
 On the Workplace Case form, the universal request number that was used for creating the workplace case is displayed. The Workplace case number appears in the primary **Ticket** field on the Universal Request form and also under the Associated Tickets related list.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 
 
-[Configure a workplace service record producer as a Universal Request](configure-workplace-service-record-prod-as-universal-req.md)
+[Configure a workplace service record producer as a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-workplace-service-record-prod-as-universal-req.md)
 
-[Work on a workplace case from a Universal Request](work-on-workplace-case-of-universal-req.md)
+[Work on a workplace case from a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/work-on-workplace-case-of-universal-req.md)
 
-[Transfer a workplace case created from a universal request](transfer-a-workplace-case-created-from-a-universal-request.md)
+[Transfer a workplace case created from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/transfer-a-workplace-case-created-from-a-universal-request.md)
 

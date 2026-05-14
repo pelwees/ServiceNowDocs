@@ -17,7 +17,7 @@ Edit the contents of your glossary in Language Asset Management. Modify existing
 
 ## Before you begin
 
--   First, create a glossary using the provided spreadsheet template and upload it to Language Asset Management. For information see [Upload glossaries to Language Asset Management](lw-lam-upload-glossaries.md).
+-   First, create a glossary using the provided spreadsheet template and upload it to Language Asset Management. For information see [Upload glossaries to Language Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-lam-upload-glossaries.md).
 -   Role required: sn\_lw.user
 
 ## About this task
@@ -34,27 +34,27 @@ Initially you create a glossary in Language Asset Management by uploading a spre
 
 3.  From your glossary's default tab \(**Details**\), select the **Glossary Sources** tab to open a list of source terms.
 
-    ![In Language Asset Management, the glossary "Key terminology used in HR" has been opened. It opens to the Details tab by default.](../image/lw-lam-edit-glossary-details-tab-a.png)
+    ![In Language Asset Management, the glossary "Key terminology used in HR" has been opened. It opens to the Details tab by default.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-lam-edit-glossary-details-tab-a.png)
 
 4.  To open information about a particular source term, select the value in the first column.
 
     **Note:** Because it's possible to have the same source term in different Part of Speech or Product/Service categories, be sure to select the desired source term.
 
-    ![A glossary opened to the Glossary Sources tab. A value in the first column is highlighted. Also highlighted is the New button, the way to add a source term.](../image/lw-lam-edit-glossary-gloss-sources-a.png)
+    ![A glossary opened to the Glossary Sources tab. A value in the first column is highlighted. Also highlighted is the New button, the way to add a source term.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-lam-edit-glossary-gloss-sources-a.png)
 
 5.  On the source term's Details tab, modify any values \(such as Definition, Product/Service, Part of Speech, or Source Language\) then select Save.
 
 6.  Select the **Glossary Translations** tab to open a list of all translations for your source term.
 
-    The Glossary Translations tab includes the number of translations for that term.![A source term's Details tab, showing fields such as the Definition. The Glossary Translation tab is highlighted, the way to view this term's translations.](../image/lw-lam-edit-glossary-source-term-details-a.png)
+    The Glossary Translations tab includes the number of translations for that term.![A source term's Details tab, showing fields such as the Definition. The Glossary Translation tab is highlighted, the way to view this term's translations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-lam-edit-glossary-source-term-details-a.png)
 
 7.  If you want to modify a translation, select the value in the Translation column to open the translation's tab.
 
-    Select Save after you have finished.![A source term's list of translations on the Glossary Translations tab. A value in the Translation column is highlighted, and also the New button, for adding a translation.](../image/lw-lam-edit-glossary-open-translation-a.png)
+    Select Save after you have finished.![A source term's list of translations on the Glossary Translations tab. A value in the Translation column is highlighted, and also the New button, for adding a translation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-lam-edit-glossary-open-translation-a.png)
 
 8.  To add a new translation for your source term, select New on Glossary Translations.
 
-    ![The form to add a new translation for a source term. Available fields are Language, Translation, and Glossary Source.](../image/lw-lam-edit-glossary-create-translation-a.png)
+    ![The form to add a new translation for a source term. Available fields are Language, Translation, and Glossary Source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-lam-edit-glossary-create-translation-a.png)
 
 9.  To add a new source term, select New on the Details tab of the glossary.
 
@@ -122,7 +122,7 @@ Glossary Info
 
 </td><td>
 
-This is a drop-down selection. The current glossary is selected by default, or you can choose a different existing glossary. You can't create a new glossary while editing an existing glossary. To create a separate glossary, see [Upload glossaries to Language Asset Management](lw-lam-upload-glossaries.md).
+This is a drop-down selection. The current glossary is selected by default, or you can choose a different existing glossary. You can't create a new glossary while editing an existing glossary. To create a separate glossary, see [Upload glossaries to Language Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-lam-upload-glossaries.md).
 
 </td></tr></tbody>
 </table>
@@ -132,5 +132,5 @@ You can delete a source term and its translations by selecting Delete from More 
 
 You can also delete a translation from a source term using Delete from More Options![image.more-options-menu], when you are on the translation's Details tab.
 
-**Parent Topic:**[Language Asset Management](../concept/lw-language-asset-management.md)
+**Parent Topic:**[Language Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/lw-language-asset-management.md)
 

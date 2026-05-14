@@ -82,5 +82,5 @@ The system creates or reuses one update set named 'LF: Translations', and all ad
 </td></tr></tbody>
 </table>To set these properties, navigate to **Localization Framework** &gt; **Properties**. Choose the appropriate strategy and select **Save**.
 
-**Parent Topic:**[Localization Framework settings](localization-settings.md)
+**Parent Topic:**[Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md)
 

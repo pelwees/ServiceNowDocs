@@ -39,7 +39,7 @@ Role required:external\_app\_install\_admin
 
     4.  **Unfurl Links**: Option to unfurl the links in Microsoft Teams.
 
-        Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md).
+        Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/enable-link-unfurling.md).
 
     5.  **Short description**: Short description about the manifest file.
 
@@ -51,17 +51,17 @@ Role required:external\_app\_install\_admin
 
 4.  Click **Submit**.
 
-    ![Submit manifest file](../images/submit-manifest.png)
+    ![Submit manifest file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/submit-manifest.png)
 
 5.  In the **Generic Info** section, click **Next** to navigate to **Configure Virtual Agent** tab.
 
-    ![Next option in Generic Info tab](../images/next-tab.png)
+    ![Next option in Generic Info tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/next-tab.png)
 
 6.  In the **Configure Virtual Agent** section, you can do one of the following.
 
     To configure the Virtual Agent in your instance, click **Configure Virtual Agent**. For more information, see [Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-conv-integration.md).
 
-    ![Configure Virtual Agent tab](../images/configure-va-tab.png)
+    ![Configure Virtual Agent tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/configure-va-tab.png)
 
     Select **Connect multiple ServiceNow instances to your Microsoft Teams tenant**and select the Virtual agent installed in Step 5.
 
@@ -77,7 +77,7 @@ Role required:external\_app\_install\_admin
 
         For self-configured app, you must provide the Application \(client\) ID and Directory \(tenant\) ID in the **Configure Tab** section.
 
-        ![pre-published app configure tab](../images/multi-tenant-configure-tab.png)
+        ![pre-published app configure tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/multi-tenant-configure-tab.png)
 
 8.  In the **Ready** section, select **Enable Activity Feed** option to receive notifications for campaigns.
 
@@ -88,7 +88,7 @@ Role required:external\_app\_install\_admin
 
 ## What to do next
 
-You must upload the manifest file in Microsoft Teams. For more information, refer [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
+You must upload the manifest file in Microsoft Teams. For more information, refer [Upload manifest file in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-manifest-ms-teams.md).
 
-**Parent Topic:**[Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD](../concept/ec-teams-va-integration-gcch.md)
+**Parent Topic:**[Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-teams-va-integration-gcch.md)
 

@@ -64,12 +64,12 @@ Role required: sn\_doc.admin, sn\_doc.reader, or admin
 
 ## What to do next
 
-[Sign document templates for PDF documents using CAC or PIV smart card](sign-pdf-documents-cac-piv.md)
+[Sign document templates for PDF documents using CAC or PIV smart card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/sign-pdf-documents-cac-piv.md)
 
--   **[Assign a custom signing domain for CAC/PIV digital signatures](configure-domain-api-signing.md)**  
+-   **[Assign a custom signing domain for CAC/PIV digital signatures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/configure-domain-api-signing.md)**  
 Improve signing traffic management by assigning a custom domain for CAC/PIV digital signatures by setting an optional system property to override the default **glide.servlet.uri** setting.
--   **[Property value for digital signature using CAC or PIV smart cards](../reference/property-value-cac-piv-signing.md)**  
+-   **[Property value for digital signature using CAC or PIV smart cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/property-value-cac-piv-signing.md)**  
 Specify the method that will be used to identify and validate the user who has signed the PDF using the **com.snc.pdfsigning.validation.method** property.
 
-**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](../concept/digital-signature.md)
+**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/digital-signature.md)
 

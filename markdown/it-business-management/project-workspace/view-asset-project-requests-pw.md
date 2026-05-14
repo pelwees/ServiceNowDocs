@@ -27,7 +27,7 @@ This helps portfolio or project managers quickly understand which asset requests
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the details page of the project by selecting **Details** from the list.
 
@@ -40,5 +40,5 @@ This helps portfolio or project managers quickly understand which asset requests
 
 You can see all hardware asset requests and refresh requests associated with the project.
 
-**Parent Topic:**[Create an Asset Project Request from Project Workspace](create-asset-project-requests-pw.md)
+**Parent Topic:**[Create an Asset Project Request from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-asset-project-requests-pw.md)
 

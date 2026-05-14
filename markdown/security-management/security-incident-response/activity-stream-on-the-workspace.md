@@ -17,7 +17,7 @@ Use the File Explorer section from the Major Security Incident Management worksp
 
 The activity stream lists all the automation activity postings whenever any folder and file activity, or logs that occur during the Major Security Incident resolution. The activity stream structure is aligned in the same format of the Microsoft SharePoint library which shows the folders that were created and which users or user groups were assigned to those folders.
 
-Activity Stream enables the workspace mangers and other user or user group\(s\) to communicate and collaborate effectively, list down the activities that were performed on Microsoft SharePoint folders and files, monitor the status of the incident, post the notes or add additional comments they have on the incident record. The workspace mangers can pick up and work based on the last updated activity.![FE Activity Stream](../image/fe-activity-stream.png)
+Activity Stream enables the workspace mangers and other user or user group\(s\) to communicate and collaborate effectively, list down the activities that were performed on Microsoft SharePoint folders and files, monitor the status of the incident, post the notes or add additional comments they have on the incident record. The workspace mangers can pick up and work based on the last updated activity.![FE Activity Stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fe-activity-stream.png)
 
-**Parent Topic:**[Configure File Explorer Component](../../security-incident-response/concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/file-explorer.md)
 

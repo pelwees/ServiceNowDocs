@@ -27,7 +27,7 @@ The escalation type determines the order in which members of a user group are no
 
 -   If a shift has only one roster, the escalation type is automatically set to **Rotate through members** and the escalation path goes through the member list of a roster \(primary, secondary, tertiary\) to determine whom to notify.
 -   If the shift has multiple rosters, the escalation type is automatically set to **Rotate through rosters** and the escalation path goes through all rosters to determine whom to notify.
--   If the shift has a customized escalation hierarchy, the escalation type is set to **Custom** and the escalation path goes through members as defined in the escalation hierarchy. See [Create an escalation policy](create-custom-esc-policy-oncall.md) for details.
+-   If the shift has a customized escalation hierarchy, the escalation type is set to **Custom** and the escalation path goes through members as defined in the escalation hierarchy. See [Create an escalation policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-custom-esc-policy-oncall.md) for details.
 
 On-Call Scheduling supports multiple escalation policies per shift; for example, policies based on the priority of the incident or type of task record.
 
@@ -191,5 +191,5 @@ Option to select group managers hierarchically to send escalation notifications 
 6.  To reset to the default escalation type for the shift, click the actions icon and click **Reset escalation**.
 
 
-**Parent Topic:**[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+**Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/designing-escalation-process-oncall.md)
 

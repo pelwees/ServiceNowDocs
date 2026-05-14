@@ -51,11 +51,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[Configuring Planned Work Management](configuring-planned-work-management.md)
+[Configuring Planned Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-planned-work-management.md)
 
-[Create a work order for the planned work](creating-work-orders-from-planned-work.md)
+[Create a work order for the planned work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/creating-work-orders-from-planned-work.md)
 
-[Work plan example](../reference/example-planned-work.md#)
+[Work plan example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/example-planned-work.md#)
 
-[Planned Work Management Home page](../../../use/dashboards/application-content-packs/pwm-dashboard.md)
+[Planned Work Management Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/application-content-packs/pwm-dashboard.md)
 

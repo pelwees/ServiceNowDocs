@@ -42,11 +42,11 @@ The discovered data includes the following tables and fields.
 
 The Dependency Views map shows all discovered IBM Db2 instances in your organization and the relationships between them.
 
-![IBM Db2 Windows Dependency view](../image/IBM-Db2-Windows-dependency.png)
+![IBM Db2 Windows Dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/IBM-Db2-Windows-dependency.png)
 
 ## CI relationships
 
 The IBM Db2 on Windows pattern does not create any CI relationships.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

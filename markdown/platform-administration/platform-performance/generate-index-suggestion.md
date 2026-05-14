@@ -47,10 +47,10 @@ When the ISE generates an index suggestion for a slow query, it reviews query me
 
     |Option|Description|
     |------|-----------|
-    |**Export**|Downloads the index suggestion as an .xml file so that you can [export it to a non-production instance for testing and evaluation](export-index-suggestion.md).|
+    |**Export**|Downloads the index suggestion as an .xml file so that you can [export it to a non-production instance for testing and evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/export-index-suggestion.md).|
     |**Ignore**|Sets the index suggestion state to Ignore, which indicates that the index suggestion isn’t to be used. Index suggestions with an Ignore state are listed in the **Index Suggestions &gt; Done** view of the Index Suggestion table.|
-    |**Schedule creation**|Opens the Schedule Index Creation window for [scheduling index creation](create-index-slowquery.md).|
+    |**Schedule creation**|Opens the Schedule Index Creation window for [scheduling index creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/create-index-slowquery.md).|
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/resolving-slow-queries.md)
 

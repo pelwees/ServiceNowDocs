@@ -44,5 +44,5 @@ Drill-down into the specific record and perform the following actions against ea
 3.  Monitor ongoing work from agents.
 
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/configurable-channels-workforce-optimization-itsm.md)
 

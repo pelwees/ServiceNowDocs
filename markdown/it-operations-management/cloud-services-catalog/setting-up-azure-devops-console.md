@@ -32,10 +32,10 @@ Role required: none
 
 3.  In the **Update variable** dialog box, override the pipeline variables by selecting the **Let users override this value when running this pipeline** check box.
 
-    ![Update variable dialog box that has two options that you can select. Keep the value secret or override the value when you run the pipeline.](../image/update-variable.png "Update variable dialog box")
+    ![Update variable dialog box that has two options that you can select. Keep the value secret or override the value when you run the pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/update-variable.png "Update variable dialog box")
 
     The pipeline works with the CSC DevOps Integration catalog item. The Microsoft Azure DevOps integration discovers pipelines with the deploymentID variable.
 
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](../concept/integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/integrating-azure-devops-and-cicd-pipeline.md)
 

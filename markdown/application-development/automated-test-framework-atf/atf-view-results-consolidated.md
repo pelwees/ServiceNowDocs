@@ -31,7 +31,7 @@ You have multiple options for navigating to the test results, depending on where
 
 2.  Click a row to access the results for a specific test.
 
-    The system displays the [Test results record](../reference/atf-test-results-record.md).
+    The system displays the [Test results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-results-record.md).
 
 3.  View step results for the selected test.
 
@@ -39,7 +39,7 @@ You have multiple options for navigating to the test results, depending on where
 
     2.  Scroll down and click the row for the step result you want to view.
 
-        The system displays the [Step results record](../reference/atf-step-result-record.md).
+        The system displays the [Step results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-step-result-record.md).
 
 4.  View test logs for this test result.
 
@@ -47,10 +47,10 @@ You have multiple options for navigating to the test results, depending on where
 
     2.  Scroll down and click the row for the test log you want to view.
 
-        The system displays the [Test logs record](../reference/atf-test-log-record.md).
+        The system displays the [Test logs record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-log-record.md).
 
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](../concept/atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-build-overview.md)
 
 ## View automated test results
 
@@ -95,17 +95,17 @@ View results from an automated test suite.
 
 2.  Click the row containing the test whose results you want to view.
 
-    The system displays the [Test suite results record](../reference/atf-test-suite-results-record.md).
+    The system displays the [Test suite results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-suite-results-record.md).
 
 
 **Related topics**  
 
 
-[Identify and resolve client errors](identify-and-resolve-client-errors.md#)
+[Identify and resolve client errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/identify-and-resolve-client-errors.md#)
 
-[Allow client errors from test results](whitelist-errors-from-test-results.md)
+[Allow client errors from test results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/whitelist-errors-from-test-results.md)
 
-[Allow client errors from step results](whitelist-errors-from-step-results-related-list.md)
+[Allow client errors from step results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/whitelist-errors-from-step-results-related-list.md)
 
-[Allow client errors from the test logs](whitelist-errors-from-test-log-related-list.md)
+[Allow client errors from the test logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/whitelist-errors-from-test-log-related-list.md)
 

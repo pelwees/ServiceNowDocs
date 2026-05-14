@@ -34,9 +34,9 @@ Plugins required:
 
 2.  Search for **Process Classification Attachment using DI** flow.
 
-3.  Select the ![more actions](../image/more-actions.png) icon &gt; **Copy flow**.
+3.  Select the ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/more-actions.png) icon &gt; **Copy flow**.
 
-    A copy of the **Process Classification Attachment using DI** is created. ![Process classification attachment using DI flow](../image/proces-classify-flow.png)
+    A copy of the **Process Classification Attachment using DI** is created. ![Process classification attachment using DI flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/proces-classify-flow.png)
 
 4.  Select **Done**.
 

@@ -32,7 +32,7 @@ Using the Guided Self-Service, employees can self-serve with step-by-step assist
 -   Optimize the employee self-service capabilities for complex and high-volume topics.
 -   Streamline authoring for non-technical users with playbook designer usability enhancements
 
-![Guided Self-Service in Employee Center and its intuitive uses.](../images/gss-guided-self-service-overview.png "Guided Self-Service experiences")
+![Guided Self-Service in Employee Center and its intuitive uses.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/gss-guided-self-service-overview.png "Guided Self-Service experiences")
 
 Provide Guided Self-Service that caters to the frequent needs of employees. You can display Guided Self-Service as a widget on the home page or as a quick link or as a widget on topic pages.
 
@@ -67,7 +67,7 @@ Understand the basics of playbooks and workflow studio. Ensure you have working 
 **Related topics**  
 
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/gss-guided-self-service-reference-info.md)
 
-[Use Guided Self-Service](gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-homepage.md)
 

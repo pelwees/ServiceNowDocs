@@ -38,7 +38,7 @@ Role required:
 
 1.  Navigate to **Workspaces** &gt; **IT Remediation Workspace**.
 
-2.  In the application navigator, select the List icon \(![List icon.](../image/icon-polaris-list-workspace.png)\).
+2.  In the application navigator, select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../image/icon-polaris-list-workspace.png)\).
 
 3.  On the List page, under Host vulnerable items, Application vulnerable items, Container vulnerable items, or Remediation tasks \(VUL, AVUL, CVUL, or CRG\), select the record that you want to request an exception for.
 
@@ -48,7 +48,7 @@ Role required:
 
 5.  On the form, fill in the fields.
 
-    For more information on the form fields, see [Request exception form fields for policy exceptions](../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-grc.md).
+    For more information on the form fields, see [Request exception form fields for policy exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-grc.md).
 
 6.  Select **Request Exception**.
 

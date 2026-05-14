@@ -37,5 +37,5 @@ Role required: admin
 5.  Click **Submit**
 
 
-**Parent Topic:**[WebLogic application server discovery](../concept/c_DataCollDiscoWebLogicServers.md)
+**Parent Topic:**[WebLogic application server discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_DataCollDiscoWebLogicServers.md)
 

@@ -53,7 +53,7 @@ Field Values
 
 Set static or dynamic values of fields in the record. For example, to set the short description to a static value, select **Short description** and set the desired value.
 
- To add dynamic values, see [Create a template value input](../task/template-value.md).
+ To add dynamic values, see [Create a template value input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/template-value.md).
 
  **Important:** The system does not support updating multiple journal fields such as the additional comments or work notes of a task record.
 
@@ -104,12 +104,12 @@ Specify whether to continue running the flow when there is an error.
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Example
 
-![Example Update Multiple Records step.](../images/update-multiple-records-action-designer.png)
+![Example Update Multiple Records step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/update-multiple-records-action-designer.png)
 
 ## Outputs
 
@@ -163,5 +163,5 @@ The completion status of the step as a numeric value.-   0 \(success\)
 Choice
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+</table>**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

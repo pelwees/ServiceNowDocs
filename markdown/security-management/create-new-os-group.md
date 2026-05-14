@@ -28,7 +28,7 @@ Role required: sn\_sec\_cmn.admin
     -   Windows OS
 2.  Select **New**.
 
-    ![Operating system groups](../image/os-groups.png)
+    ![Operating system groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/os-groups.png)
 
 3.  Fill in the fields, as needed.
 
@@ -46,7 +46,7 @@ Role required: sn\_sec\_cmn.admin
 
     The Operating System Related Scripts related list opens.
 
-    ![Operating System Related Scripts](../image/os-related-scripts.png)
+    ![Operating System Related Scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/os-related-scripts.png)
 
 5.  Select **New**.
 
@@ -55,7 +55,7 @@ Role required: sn\_sec\_cmn.admin
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sec-ops-common-functionality.md)
 
 **Related topics**  
 

@@ -20,16 +20,16 @@ The Dashboard API defines dashboards \[par\_dashboard\] for organizing and shari
 
 A dashboard consists of tabs, widgets, visibilities, and permissions. Each tab contains widgets that display data visualizations, headings, rich text, and other components.
 
-Dashboards can be used as the home page of a workspace by referring to one or more workspaces from the visibilities array of the Dashboard object. To create a workspace, see [Workspace API - ServiceNow Fluent](fluent-workspace-api.md#).
+Dashboards can be used as the home page of a workspace by referring to one or more workspaces from the visibilities array of the Dashboard object. To create a workspace, see [Workspace API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 For general information about dashboards, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## Dashboard object
 
@@ -57,7 +57,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Array
 
 </td><td>
 
-A list of tabs to display in the dashboard. For more information, see [tabs array](fluent-dashboard-api.md#).
+A list of tabs to display in the dashboard. For more information, see [tabs array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Array
 
 </td><td>
 
-A list of user permissions required to access the dashboard. For more information, see [permissions array](fluent-dashboard-api.md#).
+A list of user permissions required to access the dashboard. For more information, see [permissions array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Array
 
 </td><td>
 
-A list of visibility rules that control which UX experiences display the dashboard. For more information, see [visibilities array](fluent-dashboard-api.md#).Default: A default visibility rule with sys\_id 08c73d60537101100834ddeeff7b1287 is used.
+A list of visibility rules that control which UX experiences display the dashboard. For more information, see [visibilities array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).Default: A default visibility rule with sys\_id 08c73d60537101100834ddeeff7b1287 is used.
 
 </td></tr><tr><td>
 
@@ -332,7 +332,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -368,7 +368,7 @@ Array
 
 </td><td>
 
-A list of widgets to display in the tab. For more information, see [widgets array](fluent-dashboard-api.md#).
+A list of widgets to display in the tab. For more information, see [widgets array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).
 
 </td></tr></tbody>
 </table>```javascript
@@ -439,7 +439,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -499,7 +499,7 @@ Object
 
 </td><td>
 
-The property configuration of a component. For more information, see [componentProps object](fluent-dashboard-api.md#).
+The property configuration of a component. For more information, see [componentProps object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).
 
 </td></tr></tbody>
 </table>```javascript
@@ -793,7 +793,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -805,7 +805,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a user \[sys\_user\] to which to grant permissions. To define a user, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a user \[sys\_user\] to which to grant permissions. To define a user, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -817,7 +817,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a user group \[sys\_user\_group\] to which to grant permissions. To define a user, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a user group \[sys\_user\_group\] to which to grant permissions. To define a user, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -829,7 +829,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a role \[sys\_user\_role\] to which to grant permissions. To define a user, use the [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+The variable identifier or sys\_id of a role \[sys\_user\_role\] to which to grant permissions. To define a user, use the [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -930,7 +930,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -942,7 +942,7 @@ Reference or String
 
 </td><td>
 
-Required. The variable identifier of a Workspace object or sys\_id of a UX application \[sys\_ux\_page\_registry\]. For more information, see [Workspace API - ServiceNow Fluent](fluent-workspace-api.md#).
+Required. The variable identifier of a Workspace object or sys\_id of a UX application \[sys\_ux\_page\_registry\]. For more information, see [Workspace API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 </td></tr></tbody>
 </table>```javascript

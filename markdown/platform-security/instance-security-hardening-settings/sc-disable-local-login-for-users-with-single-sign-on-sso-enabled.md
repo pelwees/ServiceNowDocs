@@ -33,5 +33,5 @@ Review Now Support Knowledge Base article [KB1649420](https://support.servicenow
 |Fallback value|N/A|
 |Recommended value|N/A|
 
-**Parent Topic:**[Architecture, design, and threat modeling](sc-architecture-design-threat-molding.md)
+**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 

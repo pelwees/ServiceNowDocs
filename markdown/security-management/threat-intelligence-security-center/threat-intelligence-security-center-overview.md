@@ -250,17 +250,17 @@ Securely share threat intelligence within and across organizations using automat
 -   sn\_sec\_tisc.admin
 
 </td></tr></tbody>
-</table>-   **[TISC Key terminology](tisc-key-terminology.md)**  
+</table>-   **[TISC Key terminology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-key-terminology.md)**  
 Key terms and definitions used in TISC to help you understand threat intelligence concepts and navigate the interface effectively.
--   **[TISC Workspace](../task/view-threat-intelligence-security-center-homepage.md)**  
+-   **[TISC Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/view-threat-intelligence-security-center-homepage.md)**  
 View a centralized dashboard of threat intelligence data including feeds overview, trending threats, and intelligence sharing metrics. Monitor your security posture with trending intelligence data.
 
 **Related topics**  
 
 
-[Configuring Threat Intelligence Security Center](../concept/tisc-configure.md)
+[Configuring Threat Intelligence Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-configure.md)
 
-[Download TISC application from ServiceNow Store](tisc-download-app-first-time.md)
+[Download TISC application from ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-download-app-first-time.md)
 
-[Set up Threat Intelligence Security Center](set-up-threat-intelligence-security-center.md)
+[Set up Threat Intelligence Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/set-up-threat-intelligence-security-center.md)
 

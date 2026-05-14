@@ -29,7 +29,7 @@ Role required: wm\_dispatcher
 
     **Note:** Tasks must be in the assigned or scheduled state to be selected.
 
-4.  Select the Overflow actions icon \(![Overflow actions icon](../image/overflow-actions.png)\) in the contextual side panel.
+4.  Select the Overflow actions icon \(![Overflow actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/overflow-actions.png)\) in the contextual side panel.
 
 5.  Select the action to perform on the tasks:
 

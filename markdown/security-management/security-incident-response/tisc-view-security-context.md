@@ -25,7 +25,7 @@ Roles required:
 
 ## About this task
 
-Security incidents enable tracking and management of remediation efforts for vulnerabilities in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](tisc-create-security-incident.md).
+Security incidents enable tracking and management of remediation efforts for vulnerabilities in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-create-security-incident.md).
 
 ## Procedure
 
@@ -48,14 +48,14 @@ Security incidents enable tracking and management of remediation efforts for vul
 7.  Select any object to view the corresponding record in the TISC workspace.
 
 
-**Parent Topic:**[TISC integration within SIR Workspace](../concept/tisc-sir-workspace.md)
+**Parent Topic:**[TISC integration within SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/tisc-sir-workspace.md)
 
 **Related topics**  
 
 
-[Define Vulnerability](define-vulnerability.md)
+[Define Vulnerability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/define-vulnerability.md)
 
-[Create Remediations](tisc-create-remediation-record.md)
+[Create Remediations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-create-remediation-record.md)
 
-[Create Vulnerability Assessment from a Vulnerability](tisc-vul-assess.md)
+[Create Vulnerability Assessment from a Vulnerability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-vul-assess.md)
 

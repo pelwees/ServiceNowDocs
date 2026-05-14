@@ -49,7 +49,7 @@ Time zones for dispatchers example
 **Related topics**  
 
 
-[Configure multiple time zones for dispatchers](add-remore-time-zones.md)
+[Configure multiple time zones for dispatchers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/add-remore-time-zones.md)
 
-[Change the time zone in Dispatcher Workspace](change-timezone-calendar.md)
+[Change the time zone in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/change-timezone-calendar.md)
 

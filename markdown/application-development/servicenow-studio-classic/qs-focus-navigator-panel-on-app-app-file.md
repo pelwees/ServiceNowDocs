@@ -33,7 +33,7 @@ Video on how to focus the Navigator panel on an app or app file in ServiceNow St
 
     In this example, the file open in the canvas and the Navigator panel are both from the Dining Pass Share application.
 
-    ![Several files are open, and you can select Show in File Navigator to focus the Navigator panel on that file.](../image/sn-studio-focus-navigator.png)
+    ![Several files are open, and you can select Show in File Navigator to focus the Navigator panel on that file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-focus-navigator.png)
 
 4.  Verify that the Navigator panel now shows the selected file.
 
@@ -41,6 +41,6 @@ Video on how to focus the Navigator panel on an app or app file in ServiceNow St
 
     **Note:** The file open in the canvas stays the same until you select a different tab.
 
-    ![The focused file displayed in the Navigator panel.](../image/sn-studio-focus-nav-2.png)
+    ![The focused file displayed in the Navigator panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-focus-nav-2.png)
 
 

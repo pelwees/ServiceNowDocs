@@ -66,7 +66,7 @@ Role required: admin
     |-----|-----------|
     |Name|Option to uniquely identify the record.|
     |Path|Option to provide the webhook path. Enter `api/sn_aha_spoke/aha_webhook`.|
-    |Token|Option to specify the token you had created. See [Create a Token](setup-aha-webhook.md#).|
+    |Token|Option to specify the token you had created. See [Create a Token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-aha-webhook.md#).|
 
 4.  Right-click the form header and click **Save**.
 
@@ -115,7 +115,7 @@ Role required: admin
 
 ### About this task
 
-The default routing policy in the Aha Webhook Decision Policy module triggers the Process Aha webhooks subflow and notifies the ServiceNow app when certain events occur in Aha!. See [Aha! Spoke](../concept/aha-spoke.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
+The default routing policy in the Aha Webhook Decision Policy module triggers the Process Aha webhooks subflow and notifies the ServiceNow app when certain events occur in Aha!. See [Aha! Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/aha-spoke.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
 
 ### Procedure
 
@@ -163,7 +163,7 @@ Answer
 
 </td><td>
 
-Subflow that must be triggered when the specified conditions are met.1.  Click the lookup icon \(![Lookup icon](../image/lookup-icon.png)\).
+Subflow that must be triggered when the specified conditions are met.1.  Click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/lookup-icon.png)\).
 2.  Select the required subflow from the **Document** list.
 
 **Note:** Ensure that the **Table name** is `Flow [sys_hub_flow]`.

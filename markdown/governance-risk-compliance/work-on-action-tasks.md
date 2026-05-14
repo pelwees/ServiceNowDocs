@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.manager
 
     From the Digital resilience incident reporting \(DRIR\) cases in the instance, DRI0001003 is selected for this example.
 
-    ![Cases.](../image/drir-cases-created-opres.png)
+    ![Cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/drir-cases-created-opres.png)
 
     Its automated workflow generates the Regulatory reporting assessment of IT incidents, DRI Initial report, DRI Intermediate report, and DRI Final report action tasks.
 
@@ -35,23 +35,23 @@ Role required: sn\_oper\_res.manager
 
     The examples show that an action task is assigned automatically.
 
-    ![Action task is assigned automatically to the case.](../image/ent-acer-w-dora-regulation.png)
+    ![Action task is assigned automatically to the case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-acer-w-dora-regulation.png)
 
     A regulation is mapped to the case.
 
-    ![Regulation is mapped to the case.](../image/ent-acer-w-dora-regulation-mapped.png)
+    ![Regulation is mapped to the case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-acer-w-dora-regulation-mapped.png)
 
 3.  Review the details of the Digital resilience incident reporting case and verify that the owner of the case is a member of the assignment group.
 
     A sample Digital resilience incident reporting incident is shown where the source is Incident, Source record is in the New state, the source record is an Incident INC0010005, and the date of discovery is listed. The case is assigned to the 'Digital Resilience Incident Managers' assignment group.
 
-    ![Incident assigned.](../image/inci-assigned.png)
+    ![Incident assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-assigned.png)
 
 4.  As a Digital Resilience Incident Manager, log in to the case record, assign it to an analyst from your group, and select **Save**.
 
     The example shows that an analyst, Opres manger01, is assigned to the 'Digital resilience incident reporting: Facility issue' case.
 
-    ![Case assigned.](../image/dri-case-to-analyst.png)
+    ![Case assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-case-to-analyst.png)
 
     As the assigned analyst, you can begin working on the action tasks.
 
@@ -59,9 +59,9 @@ Role required: sn\_oper\_res.manager
 
     The example shows that the 'Regulatory reporting assessment of IT incidents' action task is updated to the **Assigned** state.
 
-    ![Action task state is updated.](../image/update-state-assigned.png)
+    ![Action task state is updated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/update-state-assigned.png)
 
-    ![Action task is in the assigned state.](../image/act-task-assigned.png)
+    ![Action task is in the assigned state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-assigned.png)
 
 6.  Select **View assessment**, select **Start** in the assessment section of the action task, and respond to the questions in the assessment template.
 
@@ -69,35 +69,35 @@ Role required: sn\_oper\_res.manager
 
     As an analyst, you can start the assessment as shown in the example.
 
-    ![Start the assessment.](../image/asmt-section-of-action-task.png)
+    ![Start the assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-section-of-action-task.png)
 
     Sample assessment questions and answers are shown in the example.
 
     **Note:** You can trigger the assessment from an incident or a security incident.
 
-    ![Sample assessment questions and answers.](../image/act-t1-asmt-q.png)
+    ![Sample assessment questions and answers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-t1-asmt-q.png)
 
 7.  To submit the responses to the questions, select **Submit** and respond to the confirmation message by selecting **Submit** again.
 
     The assessment submission form is shown in the example.
 
-    ![Submit the assessment.](../image/act-task-submit-asmt.png)
+    ![Submit the assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-submit-asmt.png)
 
     When you complete the assessment, its state is shown as **Completed** in the **Assessment** tab.
 
-    ![Assessment completed.](../image/act-task-asmt-comp.png)
+    ![Assessment completed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-asmt-comp.png)
 
     The assessment is pending for review and the state is updated to **Review** as shown in the action task.
 
-    ![Pending for review.](../image/act-task-asmt-pending-review.png)
+    ![Pending for review.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-asmt-pending-review.png)
 
     Once the assessment is submitted, the regulation status is updated to 'Reportable' as shown in the Regulations related list.
 
-    ![Reporting status is updated to Reportable.](../image/regu-reportable.png)
+    ![Reporting status is updated to Reportable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/regu-reportable.png)
 
     In this example, the action task CCT002001 is in the 'Review' state, while CCT002002 for 'DRI Initial report' has been created automatically.
 
-    ![Second action task is created.](../image/act-t2-created.png)
+    ![Second action task is created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-t2-created.png)
 
 8.  As a reviewer of the action task, log in and complete the review.
 
@@ -118,7 +118,7 @@ Role required: sn\_oper\_res.manager
     -   **Generate MS Word**: Creates a Microsoft Word document of the assessment.
     -   **Export Excel**: Displays the assessment sections in separate sheets in Microsoft Excel, with questions as column headers and their respective answers in the columns.
     -   **Export JSON**: Provides a JSON structure with question-and-answer pairs in key-value format, ideal for automated systems and integrations.
-    ![Options to export the action task reports.](../image/dri-act-task-asmts-export-options.png)
+    ![Options to export the action task reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-act-task-asmts-export-options.png)
 
     Select a format from the **Export** drop-down, enter a file name, and save— the report downloads automatically. This enhancement streamlines your workflow for regulatory reporting, documentation, and compliance purposes.
 
@@ -147,7 +147,7 @@ Role required: sn\_oper\_res.manager
 
         When you navigate to an assessment action task, you can access the export options as shown in the example.
 
-        ![Options to export the action task reports.](../image/dri-act-task-asmts-export-options.png)
+        ![Options to export the action task reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-act-task-asmts-export-options.png)
 
     The report downloads automatically.
 
@@ -161,7 +161,7 @@ Role required: sn\_oper\_res.manager
 
         The example shows the Word template and sample name of the report.
 
-        ![Generate report UI action.](../image/act-task-word-report.png)
+        ![Generate report UI action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/act-task-word-report.png)
 
     3.  Select **Generate**.
 
@@ -169,9 +169,9 @@ Role required: sn\_oper\_res.manager
 
     The action task report is generated in the Microsoft Word format. It includes information from the **Details** and **Assessments** tabs and attachments. It includes information such as form sections, questions, template sections, question answers, and attachment links as shown in the examples.
 
-    ![Word report sections.](../image/word-rep-1.png)![Details of Word report.](../image/word-rep-2.png)
+    ![Word report sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/word-rep-1.png)![Details of Word report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/word-rep-2.png)
 
-    For information on Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](../concept/gen-word-reports.md).
+    For information on Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/gen-word-reports.md).
 
     The generation of Microsoft Word reports, required by regulatory authorities for analysis in Digital resilience incident reporting, is completed with this step.
 
@@ -179,13 +179,13 @@ Role required: sn\_oper\_res.manager
 
     The **Microsoft Excel** file and formats are shown in the example.
 
-    ![Excel.](../image/drir-downloaded-excel-file.png)
+    ![Excel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/drir-downloaded-excel-file.png)
 
 16. To generate a report in JSON format, select **Export JSON**.
 
     The example shows a report in JSON format.
 
-    ![JSON format.](../image/drir-downloaded-json-file-keypairs.png)
+    ![JSON format.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/drir-downloaded-json-file-keypairs.png)
 
 17. To save the action task in the instance, select **Save**.
 

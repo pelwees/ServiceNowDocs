@@ -48,5 +48,5 @@ When calculating the required licenses, the maximum number of potential VMs per 
 
 For configuring the Microsoft SQL Server Enterprise on Software Asset Management Professional, see Microsoft SQL server enterprise, see [https://support.servicenow.com/kb?sys\_kb\_id=6ec3c13d93da3610080af35d6cba106e&amp;id=kb\_article\_view](https://support.servicenow.com/kb?sys_kb_id=6ec3c13d93da3610080af35d6cba106e&id=kb_article_view).
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

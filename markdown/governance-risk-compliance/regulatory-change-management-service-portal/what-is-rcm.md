@@ -21,7 +21,7 @@ The Regulatory Change Management application enables you to manage your upcoming
 
 The following infographic shows the process flow of the Regulatory Change Management application.
 
-![Regulatory Change Management process flow.](../image/rcm-process-flow.png "Process flow of the Regulatory Change Management application")
+![Regulatory Change Management process flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/rcm-process-flow.png "Process flow of the Regulatory Change Management application")
 
 The Regulatory Change Management application works with the following types of components:
 
@@ -49,7 +49,7 @@ The Regulatory Change Management application consists of the following workflow:
 
 The following diagram shows the workflow of the Regulatory Change Management application.
 
-![Regulatory Change Management workflow. For a text description, refer to the text that precedes this diagram.](../image/Regulatory_Change_Management_key_components.png "Workflow of the Regulatory Change Management application")
+![Regulatory Change Management workflow. For a text description, refer to the text that precedes this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/Regulatory_Change_Management_key_components.png "Workflow of the Regulatory Change Management application")
 
 ## Key product innovations
 
@@ -71,18 +71,18 @@ A user with the sn\_grc\_reg\_change.manager role \(RCM manager\) monitors, mana
 
 The following infographic depicts a typical day for a regulatory change management.
 
-![A user with the regulatory change manage role passes through various phases on a daily-basis.](../image/day-in-the-life-of-a-regulatory-change-manager.png "Typical day of a regulatory change manager")
+![A user with the regulatory change manage role passes through various phases on a daily-basis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/day-in-the-life-of-a-regulatory-change-manager.png "Typical day of a regulatory change manager")
 
--   **[Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)**  
+-   **[Regulatory Change Management application in the Compliance Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-workspace-overview.md)**  
 Starting with GRC: Regulatory Change Management, version 13.0.1, the Regulatory Change Management application is available in Compliance Workspace. Compliance Workspace provides your users with a single-pane view so that they can check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes for the organization.
--   **[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)**  
+-   **[Differences between regulatory event alert and source document alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)**  
 A regulatory event alert informs you of a regulatory change, while a source document alert signals the release or update of the related official document.
--   **[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)**  
+-   **[Regulatory process flow and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-workflow-swimlane.md)**  
 The Regulatory Change Management process flow includes the tasks that different users can perform to help your organization manage and comply with regulatory changes.
--   **[Next Experience Discuss and Chat Collaboration](next-experience-discuss-chat-collaboration.md)**  
+-   **[Next Experience Discuss and Chat Collaboration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/next-experience-discuss-chat-collaboration.md)**  
 On a regulatory change management case, select **Discuss** from other options. Collaborate with virtual agents by using **Next Experience Chat Collaboration** and Discuss.
--   **[Exploring Now Assist in Regulatory Change Management \(RCM\)](rcm-exploring-now-assist-for-irm.md)**  
+-   **[Exploring Now Assist in Regulatory Change Management \(RCM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-exploring-now-assist-for-irm.md)**  
 With Now Assist in Regulatory Change Management, part of the Now Assist for Integrated Risk Management \(IRM\) application, you can use agentic workflows and generative AI skills that streamline the analysis, summarization, and impact assessment of regulatory alerts. These capabilities empower compliance teams to act swiftly and accurately on regulatory changes.
 
-**Parent Topic:**[Regulatory Change Management](../reference/reg-change-mgmt-landing-page.md)
+**Parent Topic:**[Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../reference/reg-change-mgmt-landing-page.md)
 

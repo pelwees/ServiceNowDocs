@@ -44,11 +44,11 @@ When you filter the dashboard on breakdown elements, you can select only one bre
 
 <table id="simpletable_a2p_ksn_n3b"><tbody><tr><td>
 
-![Element selection with Multiple element selection disabled, and the Awaiting Approval state selected.](../image/mes-disabled.png "List of breakdown elements - multiple element selection disabled")
+![Element selection with Multiple element selection disabled, and the Awaiting Approval state selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/mes-disabled.png "List of breakdown elements - multiple element selection disabled")
 
 </td><td>
 
-![Element selection with Multiple element selection enabled, and Awaiting Approval and Awaiting User states selected.](../image/mes-enabled.png "List of breakdown elements - multiple element selection enabled")
+![Element selection with Multiple element selection enabled, and Awaiting Approval and Awaiting User states selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/mes-enabled.png "List of breakdown elements - multiple element selection enabled")
 
 </td></tr></tbody>
 </table>

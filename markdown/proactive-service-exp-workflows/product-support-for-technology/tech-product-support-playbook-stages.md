@@ -21,7 +21,7 @@ The agent selects a service and then selects **Create** to create a case. The sy
 
 ## Intake stage
 
-During the intake stage, an agent gathers information about the customer, the issue, and the impacted instances.![Intake stage.](../image/tech-product-support-case-intake.png)
+During the intake stage, an agent gathers information about the customer, the issue, and the impacted instances.![Intake stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-support-case-intake.png)
 
 <table id="table_d4y_ypz_y1c"><thead><tr><th>
 
@@ -58,7 +58,7 @@ The agent adds the impacted instances from a list of instances that belong to th
 </td></tr></tbody>
 </table>## Triage stage
 
-During the triage stage, the agent reviews the case information, makes changes as needed, and sends an initial response to the customer.tech-product-case-resolve![Triage stage.](../image/tech-product-case-triage.png)
+During the triage stage, the agent reviews the case information, makes changes as needed, and sends an initial response to the customer.tech-product-case-resolve![Triage stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-case-triage.png)
 
 <table id="table_b42_gqz_y1c"><thead><tr><th>
 
@@ -99,7 +99,7 @@ After entering text in these fields, the agent can:
 </td></tr></tbody>
 </table>## Troubleshoot stage
 
-During the troubleshoot stage, the agent investigates the customer's issue and updates their findings in the action plan. The agent can leverage tools such as search or recommended actions as part of the investigation. If the agent needs assistance, they can create case tasks or other types of records or initiate a Sidebar discussion.![Troubleshoot stage.](../image/tech-product-support-case-troubleshoot.png)
+During the troubleshoot stage, the agent investigates the customer's issue and updates their findings in the action plan. The agent can leverage tools such as search or recommended actions as part of the investigation. If the agent needs assistance, they can create case tasks or other types of records or initiate a Sidebar discussion.![Troubleshoot stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-support-case-troubleshoot.png)
 
 <table id="table_v3c_jqz_y1c"><thead><tr><th>
 
@@ -185,7 +185,7 @@ The agent can see the action status of the case, if available, and can update th
 </td></tr></tbody>
 </table>## Resolve stage
 
-In the Resolve stage, the agent proposes a solution to the customer.![Resolve stage.](../image/tech-product-case-resolve.png)
+In the Resolve stage, the agent proposes a solution to the customer.![Resolve stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-case-resolve.png)
 
 <table id="table_bv5_mqz_y1c"><thead><tr><th>
 
@@ -210,7 +210,7 @@ The agent updates the following fields:
 
  The agent can also enable the **Add resolution notes to comments** check box to add the resolution information to the case activity stream.
 
-**Note:** If the Now Assist for Customer Service Management \(CSM\) application is installed and the resolution notes generation skill has been configured, the **Resolution notes** field is automatically populated. For more information, see [Using Now Assist for CSM to generate resolution notes for a case](tech-product-support-playbook.md#section_nsx_b4n_3bc).
+**Note:** If the Now Assist for Customer Service Management \(CSM\) application is installed and the resolution notes generation skill has been configured, the **Resolution notes** field is automatically populated. For more information, see [Using Now Assist for CSM to generate resolution notes for a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-playbook.md#section_nsx_b4n_3bc).
 
  -   **Propose resolution**: Completes the activity and moves to the Close stage. The case state changes to Solution Proposed.
 -   **Save**: Saves the information in the activity.
@@ -227,7 +227,7 @@ A case can be closed in the following ways:
 
 In the Close stage, the agent updates the case with a summary of the issue and provides any additional comments or work notes.
 
-The case record is read-only when the state is Closed.![Close stage.](../image/tech-product-case-close.png)
+The case record is read-only when the state is Closed.![Close stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-case-close.png)
 
 <table id="table_grq_4qz_y1c"><thead><tr><th>
 
@@ -278,5 +278,5 @@ The Technology Product Case Troubleshoot recommended actions rule:
 
 For more information, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
-**Parent Topic:**[Technology Product Support Case playbook](tech-product-support-playbook.md)
+**Parent Topic:**[Technology Product Support Case playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-playbook.md)
 

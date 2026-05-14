@@ -78,7 +78,7 @@ Element
 
 </td><td>
 
-The element on the table to be translated. Refer to [Translation values for mobile element](../reference/mobile-translation-reference.md) for the element names of each translatable element.
+The element on the table to be translated. Refer to [Translation values for mobile element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mobile-translation-reference.md) for the element names of each translatable element.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -86,5 +86,5 @@ The element on the table to be translated. Refer to [Translation values for mobi
 5.  Repeat the steps to create a record for each language you want to support on your instance.
 
 
-**Parent Topic:**[Server-side localization](../concept/localization-server-side.md)
+**Parent Topic:**[Server-side localization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/localization-server-side.md)
 

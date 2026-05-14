@@ -18,7 +18,7 @@ Add or remove services to update a unified service. The flow is available using 
 
 ## About this task
 
-[Multi-source service mapping](../concept/multi-source-service-mapping.md)
+[Multi-source service mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/multi-source-service-mapping.md)
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You must have at least Australia platform version installed.
 
 You must have the latest version of Service Mapping Plus.
 
-[Create a service instance from various data sources](unified-map-create-service-instance.md)
+[Create a service instance from various data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-create-service-instance.md)
 
 Role required: service\_mapping\_admin
 
@@ -67,10 +67,10 @@ Role required: service\_mapping\_admin
     In the process of editing the unified service, the list of configuration items \(CI\) is updated. After completion, a map refresh is needed to present the updated unified service.
 
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/using-service-mapping.md)
 
 **Related topics**  
 
 
-[Delete a unified service](unified-map-delete-unified-service.md)
+[Delete a unified service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/unified-map-delete-unified-service.md)
 

@@ -21,7 +21,7 @@ You can check the status of your shipments in real time by integrating your Serv
 
 1.  Create a script include that extends from the base class `ITAMShipmentIntegration` script.
 
-    For more details, see [Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md).
+    For more details, see [Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/creating-integration-script-include-ham.md).
 
 2.  If you’re using any credentials, then use the Credential table or any table with Password2 fields and provide the KMF access map policy to enable your customers to access your application.
 
@@ -29,13 +29,13 @@ You can check the status of your shipments in real time by integrating your Serv
 
 3.  Add the application name, API, and connection details to the Carrier integration profile \[sn\_itam\_carrier\_int\_profile\] table.
 
-    For more details, see [View the carrier integration profile details](../task/view-integration-profiles.md).
+    For more details, see [View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-integration-profiles.md).
 
 
 **Note:** If you are creating the integration as part of an application, complete the following steps before you create a script include:
 
 1.  Create an application.
-2.  Make the application accessible from any application that belongs to a different scope. For more details, see [Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md).
+2.  Make the application accessible from any application that belongs to a different scope. For more details, see [Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/creating-integration-script-include-ham.md).
 
-For more details, see [Track shipments using the integration framework](tracking-shipments-using-integration-framework.md).
+For more details, see [Track shipments using the integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/tracking-shipments-using-integration-framework.md).
 

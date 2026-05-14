@@ -39,5 +39,5 @@ To access these configurations, navigate to **All** &gt; **System Notification**
 |Notify model owner for new model|A model is created.|Model owner|
 |New model submission|A model is submitted for review.|Model Risk Governance team|
 
-**Parent Topic:**[Model Risk Management reference](mrm-reference.md)
+**Parent Topic:**[Model Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md)
 

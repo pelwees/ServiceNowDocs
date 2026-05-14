@@ -25,17 +25,17 @@ Role required: admin
 
 3.  On the Preventive Action form, fill in the fields.
 
-    For a description of the field values, see [Preventive action form](../reference/mco-preventive-action-form.md).
+    For a description of the field values, see [Preventive action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-preventive-action-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for quality issues](../concept/mco-related-list-for-pqi.md)
+**Parent Topic:**[Related list for quality issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-related-list-for-pqi.md)
 
 **Related topics**  
 
 
-[Create a CoPQ expense line](mco-copq-expense-line.md)
+[Create a CoPQ expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)
 
-[Impacted asset action](mco-impacted-asset-action.md)
+[Impacted asset action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md)
 

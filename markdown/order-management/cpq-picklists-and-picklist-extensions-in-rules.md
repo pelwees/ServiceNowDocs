@@ -34,27 +34,27 @@ If you are using selections in a PLE to drive actions, make sure to note the dif
 
 For example: A user creates a multi-select picklist field with four options.
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-four-options.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-four-options.png)
 
 Suppose the condition of a rule \(in this case, a determination action\) is set to fire if the multi-select field equals multi option 4.
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-equals.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-equals.png)
 
 If the end user selects only multi option 4, the rule fires:
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-fires.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-fires.png)
 
 If the end user selects multi option 3 and multi option 4, the rule does not fire:
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-does-not-fire.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-does-not-fire.png)
 
 On the other hand, if the condition is set to fire if the multi-select field contains option 4, it fires in both instances.
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-contains-option-4.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-contains-option-4.png)
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-fires-both-instances-1.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-fires-both-instances-1.png)
 
-![Picklists and picklist extensions in rules](../images/cpq-picklist-field-fires-both-instances-2.png)
+![Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-field-fires-both-instances-2.png)
 
 ## How PLE filters interact with exclusion rules
 
@@ -92,9 +92,9 @@ For other manipulations with the multi-select picklist array in advanced functio
 
 ## Additional reading
 
-For an overview of the picklist extension feature, see [Picklist extensions](cpq-picklist-extensions-ples.md).
+For an overview of the picklist extension feature, see [Picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-picklist-extensions-ples.md).
 
-For a deeper understanding of the back end and how to display PLEs, see [Displaying a picklist extension on a layout](csv_layouts_how_do_i_display_a_picklist_extension.md).
+For a deeper understanding of the back end and how to display PLEs, see [Displaying a picklist extension on a layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md).
 
-For an overview of the Picklist Extension Pricing enrichment feature, see [The Picklist Extension Pricing enrichment](picklist-extension-pricing-scripts.md).
+For an overview of the Picklist Extension Pricing enrichment feature, see [The Picklist Extension Pricing enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/picklist-extension-pricing-scripts.md).
 

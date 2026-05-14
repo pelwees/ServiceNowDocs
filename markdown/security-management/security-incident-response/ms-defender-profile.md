@@ -80,7 +80,7 @@ Description
 Optional description of the profile.
 
 </td></tr></tbody>
-</table>    ![Create an incident profile](../image/ms-def-name.png)
+</table>    ![Create an incident profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-def-name.png)
 
 4.  Select **Continue**.
 
@@ -95,5 +95,5 @@ Optional description of the profile.
 
 ## What to do next
 
-[Map incident fields](microsoft-defender-mapping.md)
+[Map incident fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/microsoft-defender-mapping.md)
 

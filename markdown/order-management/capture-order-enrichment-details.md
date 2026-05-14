@@ -99,5 +99,5 @@ The order record is updated with all necessary fulfillment details. The order st
 
 ## What to do next
 
-[Approve orders in Order Management](som-om-approve-product-order.md)
+[Approve orders in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-om-approve-product-order.md)
 

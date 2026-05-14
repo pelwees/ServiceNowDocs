@@ -21,9 +21,9 @@ Additionally, the agent presence state must match between the ServiceNow workspa
 
 Review the following architecture diagram for more insight on the contact center integration flow with ServiceNow.
 
-See [Integrating with Computer Telephony Integration \(CTI\)](../../../administer/workspace/task/cti-csm-integration.md).
+See [Integrating with Computer Telephony Integration \(CTI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../administer/workspace/task/cti-csm-integration.md).
 
-![Contact center integration with ServiceNow architecture](../image/contact-center-integration-flow.png "Contact Center integration flow")
+![Contact center integration with ServiceNow architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contact-center-integration-flow.png "Contact Center integration flow")
 
 ## External routing with Contact Centers
 

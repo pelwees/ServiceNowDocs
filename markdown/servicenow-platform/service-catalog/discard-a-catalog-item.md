@@ -35,8 +35,8 @@ If you no longer want a draft item, you can discard it in Catalog Builder. When 
 
 4.  Select **Discard draft**.
 
-    **Note:** If a catalog item wizard is already open for editing, and you want to discard it, select the more actions icon \(![More Actions icon](../image/more-actions-ne-icon.png)\) on the wizard, and select **Discard draft**.
+    **Note:** If a catalog item wizard is already open for editing, and you want to discard it, select the more actions icon \(![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/more-actions-ne-icon.png)\) on the wizard, and select **Discard draft**.
 
 
-**Parent Topic:**[Edit a catalog item in Catalog Builder](edit-cat-item-cat-builder.md)
+**Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 

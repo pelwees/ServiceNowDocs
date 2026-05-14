@@ -32,5 +32,5 @@ Role required: admin
 5.  Select the lock to close the **Roles** field, and then save your changes.
 
 
-**Parent Topic:**[Create a role](t_CreateARole.md)
+**Parent Topic:**[Create a role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 

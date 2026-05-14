@@ -32,7 +32,7 @@ Role required: sn\_vulc.remediation\_owner
 
 1.  Navigate to **Workspaces** &gt; **IT Remediation Workspace**.
 
-2.  Select the List icon \(![List icon](../../secops-analyst-workspace/image/listview-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../secops-analyst-workspace/image/listview-icon.png)\).
 
 3.  On the List page, select the Configuration Compliance Remediation Task.
 
@@ -44,7 +44,7 @@ Role required: sn\_vulc.remediation\_owner
 
 7.  On the Take Questionnaire modal, answer the questions to provide additional information about your request to the approver and select **Submit**.
 
-    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information on how a questionnaire is configured, see [Configure Exception Management for Configuration Compliance](../../vulnerability-config-compliance/task/configure-exception-management-configuration-compliance.md).
+    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information on how a questionnaire is configured, see [Configure Exception Management for Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vulnerability-config-compliance/task/configure-exception-management-configuration-compliance.md).
 
 
 ## Result

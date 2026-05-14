@@ -42,7 +42,7 @@ Rising system downtime indicates infrastructure instability or maintenance gaps,
 
 The metrics workflow defines how organizations design, operationalize, and monitor Key Risk Indicators \(KRIs\) and Key Control Indicators \(KCIs\) to gain visibility into enterprise risk exposure.
 
-![Workflow of metrics in IRM.](../images/metrics-workflow-irm.png "Workflow of metrics")
+![Workflow of metrics in IRM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../images/metrics-workflow-irm.png "Workflow of metrics")
 
 1.  An operational risk manager defines the overall metrics framework. This establishes the foundation for measuring risk performance and verifies that KRIs and KCIs are consistently applied across the organization.
 2.  The operational risk manager trains business stakeholders on how the metrics framework works, including how KRIs and KCIs are identified, measured, and used to monitor risk.
@@ -60,7 +60,7 @@ The metrics workflow defines how organizations design, operationalize, and monit
 
 To learn more about configuring and using GRC: Metrics, see:
 
--   [Configuring metrics](configuring-irm-metrics.md)
--   [Using GRC: Metrics to provide data](using-metrics-irm.md)
--   [GRC: Metrics reference](grc-metrics-reference-irm.md)
+-   [Configuring metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
+-   [Using GRC: Metrics to provide data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
+-   [GRC: Metrics reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-metrics-reference-irm.md)
 

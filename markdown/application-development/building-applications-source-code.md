@@ -25,11 +25,11 @@ Developing and maintaining applications in source code enables you to work in fa
 
 <table id="table_hmf_wtt_3bc" class="nav-card"><tbody><tr><td>
 
-[ServiceNow IDE![](../../servicenow-ide/image/servicenow-ide-logo.png)Develop applications in code in an IDE on the ServiceNow AI Platform.](../../servicenow-ide/concept/servicenow-ide-landing.md)
+[ServiceNow IDE![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-ide/image/servicenow-ide-logo.png)Develop applications in code in an IDE on the ServiceNow AI Platform.](../../servicenow-ide/concept/servicenow-ide-landing.md)
 
 </td><td>
 
-[ServiceNow SDK![](../../servicenow-sdk/image/servicenow-sdk-logo.png)Develop applications in code locally and upload changes to an instance.](../../servicenow-sdk/concept/servicenow-sdk-landing.md)
+[ServiceNow SDK![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/image/servicenow-sdk-logo.png)Develop applications in code locally and upload changes to an instance.](../../servicenow-sdk/concept/servicenow-sdk-landing.md)
 
 </td></tr></tbody>
 </table>## Comparison of the ServiceNow IDE and the ServiceNow SDK
@@ -148,7 +148,7 @@ Build Agent
 
 </td><td>
 
-Full support. Build Agent is accessed from a chat panel in the ServiceNow IDE.For information about activation, see [Build Agent](../../build-agent/concept/build-agent.md).
+Full support. Build Agent is accessed from a chat panel in the ServiceNow IDE.For information about activation, see [Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../build-agent/concept/build-agent.md).
 
 </td><td>
 
@@ -159,7 +159,7 @@ Not supported
 
 Applications created or converted with the ServiceNow IDE or ServiceNow SDK include source code files and metadata XML files. The `package.json` and `now.config.json` files define the application structure, which is similar to that of Node.js applications or Node Package Manager \(npm\) packages.
 
-![Structure of an application created in the ServiceNow IDE](../../servicenow-ide/image/servicenow-ide-app-structure.png "Default structure of an application created in the ServiceNow IDE")
+![Structure of an application created in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-ide/image/servicenow-ide-app-structure.png "Default structure of an application created in the ServiceNow IDE")
 
 By default, applications include the following directories and files. You can modify certain aspects of the application structure to suit your needs in the `now.config.json` file.
 
@@ -246,7 +246,7 @@ now.config.json
 
 </td><td>
 
-File containing the ServiceNow application configuration. The `now.config.json` file must be in the base directory for an application. You can configure aspects of an application by adding support parameters. For more information, see [Custom application configuration in source code](../../servicenow-sdk/reference/app-config-source-code.md).
+File containing the ServiceNow application configuration. The `now.config.json` file must be in the base directory for an application. You can configure aspects of an application by adding support parameters. For more information, see [Custom application configuration in source code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/reference/app-config-source-code.md).
 
 </td></tr><tr><td>
 
@@ -283,11 +283,11 @@ File containing information about your application and custom or third-party mod
 **Related topics**  
 
 
-[ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/concept/servicenow-fluent.md)
 
-[JavaScript modules and third-party libraries](../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md)
+[JavaScript modules and third-party libraries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md)
 
-[User interface development with React](../../servicenow-sdk/concept/ui-development-react.md)
+[User interface development with React](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/concept/ui-development-react.md)
 
-[Custom application configuration in source code](../../servicenow-sdk/reference/app-config-source-code.md)
+[Custom application configuration in source code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/reference/app-config-source-code.md)
 

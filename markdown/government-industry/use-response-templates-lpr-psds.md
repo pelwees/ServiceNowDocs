@@ -19,7 +19,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 ## About this task
 
-Selecting the response templates icon![Email template icon](../image/email-template-icon.png) shows the reusable messages that you can copy and paste into cases and case tasks.
+Selecting the response templates icon![Email template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/email-template-icon.png) shows the reusable messages that you can copy and paste into cases and case tasks.
 
 In License and Permit Playbook,Response Templates replace the static text with details from the license/permit application, such as:
 
@@ -36,7 +36,7 @@ For information on how to create response templates, see [Create or modify a res
 
 1.  In the CSM Configurable Workspace, open an information request task.
 
-2.  In the contextual side panel, select the response templates icon ![Response template icon.](../image/response-template-icon.png) to display a list of the available templates.
+2.  In the contextual side panel, select the response templates icon ![Response template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/response-template-icon.png) to display a list of the available templates.
 
 3.  In the Response Templates side panel, search for a template.
 

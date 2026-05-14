@@ -53,5 +53,5 @@ Role required: admin
 
 Planning attributes dependency plug-in is installed along with Project Workspace.
 
-**Parent Topic:**[Configuring projects with Project Workspace](../../pw-resource-management/concept/configure-projects-pw.md)
+**Parent Topic:**[Configuring projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../pw-resource-management/concept/configure-projects-pw.md)
 

@@ -39,18 +39,18 @@ While creating a project task in the project workbench, the time constraint type
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+**Parent Topic:**[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_UsingProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Open a project in the project workbench](t_OpenAProjectInTheProjectWorkbench.md)
+[Open a project in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_OpenAProjectInTheProjectWorkbench.md)
 
-[Manage project stories in the project workbench](t_ManageProjStoriesProjWorkbench.md)
+[Manage project stories in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ManageProjStoriesProjWorkbench.md)
 
-[Create a story in the project workbench](t_CreateAStoryInTheProjectWorkbench.md)
+[Create a story in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAStoryInTheProjectWorkbench.md)
 
-[Create a test case in the project workbench](t_CreateTestCaseProjWorkbench.md)
+[Create a test case in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTestCaseProjWorkbench.md)
 
-[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_UsingProjectWorkbench.md)
 

@@ -172,12 +172,12 @@ Check box to make the column editable in the planning console.
 
 ## Result
 
-The display column appears in the column filter list \(![Filter icon](../image/filter_icon.png)\) in the planning console.
+The display column appears in the column filter list \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/filter_icon.png)\) in the planning console.
 
-**Parent Topic:**[Custom columns in the planning console](../concept/custom-columns-planning-console.md)
+**Parent Topic:**[Custom columns in the planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/custom-columns-planning-console.md)
 
 **Related topics**  
 
 
-[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+[Using Planning console - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_TheProjectPlanningConsole.md)
 

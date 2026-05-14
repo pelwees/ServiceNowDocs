@@ -36,5 +36,5 @@ By default, the lineage map displays nodes up to five levels downstream and one 
 5.  Select **Update**.
 
 
-**Parent Topic:**[Create a lineage for a processing activity](create-a-data-lineage-for-a-processing-activity.md)
+**Parent Topic:**[Create a lineage for a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-data-lineage-for-a-processing-activity.md)
 

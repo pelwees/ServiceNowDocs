@@ -41,7 +41,7 @@ To request a new service category:
 
 5.  Click **Submit**.
 
-    ![Service Creator Request Category](../image/ServiceCreatorRequestCategory.png)
+    ![Service Creator Request Category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/service-creator/../image/ServiceCreatorRequestCategory.png)
 
     |Field|Description|
     |-----|-----------|

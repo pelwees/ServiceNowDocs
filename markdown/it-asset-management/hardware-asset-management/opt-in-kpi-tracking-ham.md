@@ -34,5 +34,5 @@ Role required: admin
 
 ## Result
 
-[Create an operational schedule for hardware assets](create-operational-schedule-ham.md).
+[Create an operational schedule for hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-operational-schedule-ham.md).
 

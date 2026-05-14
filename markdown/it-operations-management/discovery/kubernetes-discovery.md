@@ -53,7 +53,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
-**Note:** For prerequisites for Kubernetes Cloud infrastructure discovery, see [below](kubernetes-discovery.md#section_qgk_lbh_dtb).
+**Note:** For prerequisites for Kubernetes Cloud infrastructure discovery, see [below](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/kubernetes-discovery.md#section_qgk_lbh_dtb).
 
 **Note:** Running automatic serverless Kubernetes schedules fetches the Bearer token. Adding credentials is unnecessary.
 
@@ -81,7 +81,7 @@ Perform the following steps so that Discovery can use the pattern to successfull
 
             `kubectl config view`
 
-        2.  In the output, find the username and password.![Locate the lines that contain information on password and username.](../image/kubernetes-username-password.png)
+        2.  In the output, find the username and password.![Locate the lines that contain information on password and username.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/kubernetes-username-password.png)
 
             **Note:** If in a certain environment, `kubectl config view` command is not showing the expected details, use the `supported` command from the Kubernetes admin to fetch the user name and password details.
 
@@ -274,9 +274,9 @@ Cluster resource ID example:-   Azure Kubernetes clusters- Resource ID.
 
     **Note:** When the pattern is run for the first time, it stores an event\_timestamp. Later on it collects only the delta events based on the timestamp. The more often the pattern is run, the fewer updates to the CMDB IRE are needed.
 
-    Create a serverless execution pattern for the discovery schedule and assign it to the Kubernetes Events pattern. Configure the parameters required by the Kubernetes pattern as described in [Configuring execution pattern attributes](kubernetes-discovery.md#table_obc_k2z_3db).
+    Create a serverless execution pattern for the discovery schedule and assign it to the Kubernetes Events pattern. Configure the parameters required by the Kubernetes pattern as described in [Configuring execution pattern attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/kubernetes-discovery.md#table_obc_k2z_3db).
 
-10. To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](tag_discovery_configuration.md).
+10. To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/tag_discovery_configuration.md).
 
 ## Prerequisites for Kubernetes Cloud infrastructure discovery
 
@@ -781,7 +781,7 @@ String
  
 
 </td></tr></tbody>
-</table>**Note:** `<service_account_id>` is the account ID name under Cloud Service Accounts. For more information, see: [Create Discovery schedules for cloud resources](../../discovery/concept/discovery-manager.md#)
+</table>**Note:** `<service_account_id>` is the account ID name under Cloud Service Accounts. For more information, see: [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/concept/discovery-manager.md#)
 
 ## Kubernetes Credential-less or mid-in-cluster discovery
 
@@ -1920,9 +1920,9 @@ The graphic illustrates CIs that are part of Kubernetes discovery.
 
 **Note:** This Dependency Views map was simplified for clarity. Your Kubernetes deployments may contain many more CIs.
 
-![Relationships between Kubernetes configuration items and Kubernetes workload tables](../../it-operations-management/image/kubernetes-diagram.png "Components of the Kubernetes deployment")
+![Relationships between Kubernetes configuration items and Kubernetes workload tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/image/kubernetes-diagram.png "Components of the Kubernetes deployment")
 
-![Namespace contains OpenShift configuration items](../../it-operations-management/image/openshift-diagram.png "Components of the Kubernetes deployment including OpenShift")
+![Namespace contains OpenShift configuration items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/image/openshift-diagram.png "Components of the Kubernetes deployment including OpenShift")
 
 ## CI relationships collected by the Kubernetes pattern
 
@@ -2420,7 +2420,7 @@ Service Mapping uses tag-based discovery to create application service maps incl
 
 ## Kubernetes dashboard
 
-After Discovery finishes discovering components of the Kubernetes deployment, you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the Kubernetes Explorer dashboard to view the Kubernetes environments and resources of your organization. To use the enhanced Kubernetes dashboard, verify you have Discovery Admin Workspace starting from version 1.3.1 \(August 2024 Store\). For more information about Kubernetes Explorer, see [Kubernetes Explorer](../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md).
+After Discovery finishes discovering components of the Kubernetes deployment, you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the Kubernetes Explorer dashboard to view the Kubernetes environments and resources of your organization. To use the enhanced Kubernetes dashboard, verify you have Discovery Admin Workspace starting from version 1.3.1 \(August 2024 Store\). For more information about Kubernetes Explorer, see [Kubernetes Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md).
 
 ## Troubleshooting
 
@@ -2467,8 +2467,8 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 </td></tr></tbody>
 </table>To run the Kubernetes pattern in Debug mode, refer to [KB0832567](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0832567) for operational information.
 
--   **[Container image scanning for software decomposition](container-image-concept.md)**  
+-   **[Container image scanning for software decomposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-concept.md)**  
 The ITOM Visibility apps, Discovery and Service Mapping Patterns and Kubernetes Visibility Agent integrate with Aqua Trivy to collect data on container images and OS packages. You can increase your control over container deployment by having visibility to the container components.
 
-**Parent Topic:**[Discovery for containerized resources](../../discovery/concept/container-discovery.md)
+**Parent Topic:**[Discovery for containerized resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/concept/container-discovery.md)
 

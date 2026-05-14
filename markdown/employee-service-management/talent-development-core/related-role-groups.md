@@ -25,7 +25,7 @@ Role required: sn\_skills\_int.job\_arch\_admin
 
 1.  Navigate to **All** &gt; **Skills Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../../../common/image/icon-list.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../common/image/icon-list.png)\).
 
 3.  Go to **Job architecture** &gt; **Role groups**.
 
@@ -49,7 +49,7 @@ Actions
 
 </td><td>
 
-1.  Select the Recommendations icon \(![Recommendations icon](../image/skills-recommendations-icon.png)\) on the sidebar.
+1.  Select the Recommendations icon \(![Recommendations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/skills-recommendations-icon.png)\) on the sidebar.
 2.  Select **Link** on the role group.
 
 The linked role group and the value in the **From role group** field will create a related role group.
@@ -83,14 +83,14 @@ The default value of the **From role group** field is the selected role group.
 
 A new relation between two role groups is created.
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/job-architecture-working.md)
 
 **Related topics**  
 
 
-[Creating a new role group through the Skills Workspace](create-new-role-group.md)
+[Creating a new role group through the Skills Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-new-role-group.md)
 
-[Add more skills to a role group](adding-skills-with-skills-matrix.md)
+[Add more skills to a role group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/adding-skills-with-skills-matrix.md)
 
-[Edit skills and proficiencies in the Skills Matrix](edit-skills-with-skills-matrix.md)
+[Edit skills and proficiencies in the Skills Matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/edit-skills-with-skills-matrix.md)
 

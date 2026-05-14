@@ -19,15 +19,15 @@ Select a tile to learn how you can use AI capabilities in order management and s
 
 <table id="table_stf_ydj_fhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Order Management](explore-now-assist-for-order-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Order Management](explore-now-assist-for-order-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Order Management application to get started](now-assist-for-order-management-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Order Management application to get started](now-assist-for-order-management-configuring.md)
 
 </td><td>
 
-[Use Now Assist for Order Management generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Order Management](now-assist-order-management-using.md)
+[Use Now Assist for Order Management generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Order Management](now-assist-order-management-using.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
@@ -57,10 +57,10 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
--   **[Exploring Now Assist for Order Management](explore-now-assist-for-order-management.md)**  
+-   **[Exploring Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/explore-now-assist-for-order-management.md)**  
 With the Now Assist for Order Management application, you can use generative AI to summarize complex orders involving multiple products, services, and fulfillment tasks for faster, more accurate decision-making and improved customer responsiveness.
--   **[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)**  
+-   **[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)**  
 If you have the admin role, you can configure the Now Assist for Order Management application so that your agents can use the generative AI skills in the CSM/FSM Configurable Workspace and Business Portal.
--   **[Using Now Assist for Order Management](now-assist-order-management-using.md)**  
+-   **[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)**  
 Use agents in an agentic workflow or as standalone agents to achieve specific automated outcomes.
 

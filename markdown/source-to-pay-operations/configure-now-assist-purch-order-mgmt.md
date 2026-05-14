@@ -23,13 +23,13 @@ Role required: admin
 
 1.  Install the Now Assist for POM plugin \(sn\_poem\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Purchase Order Management \(POM\)](../concept/supporting-information-na-pom.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/supporting-information-na-pom.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Review the define PO exception mitigation strategy agentic workflow in AI Agenti Studio.
 
 
--   **[Review the define PO exception mitigation strategy workflow](activate-poe-mitigation-strategy-workflow.md)**  
+-   **[Review the define PO exception mitigation strategy workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/activate-poe-mitigation-strategy-workflow.md)**  
 Review the define PO exception mitigation strategy agentic workflow that uses Now Assist agentic support to identify and execute mitigation strategies for purchase order exceptions.
 
-**Parent Topic:**[Now Assist for Purchase Order Management \(POM\)](../concept/now-assist-for-purch-order-magmt.md)
+**Parent Topic:**[Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/now-assist-for-purch-order-magmt.md)
 

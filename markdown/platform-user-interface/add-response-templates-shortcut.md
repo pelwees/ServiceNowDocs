@@ -29,7 +29,7 @@ Role required: email\_composer
 
     -   **Open the full email composer**
 
-        Select the **More Actions** icon \(![More actions icon](../image/x-more-actions-icon.png)\) and **Compose Email**.
+        Select the **More Actions** icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-more-actions-icon.png)\) and **Compose Email**.
 
 3.  In the email body, enter a keyboard shortcut.
 

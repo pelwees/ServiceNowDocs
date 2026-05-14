@@ -33,7 +33,7 @@ Description
 
 </td><td>
 
-Enables [predefined Virtual Agent conversations, reusable topic blocks, and prebuilt ServiceNow NLU models](prebuilt-topics-ITSM.md) for the Customer Service Management, HR Service Delivery, and IT Service Management applications.
+Enables [predefined Virtual Agent conversations, reusable topic blocks, and prebuilt ServiceNow NLU models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for the Customer Service Management, HR Service Delivery, and IT Service Management applications.
 
  -   Requires the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin to be activated.
 -   Automatically activates the NLU Workbench \(com.snc.nlu\_studio\) plugin.

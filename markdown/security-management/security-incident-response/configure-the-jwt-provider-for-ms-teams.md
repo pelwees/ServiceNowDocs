@@ -19,7 +19,7 @@ Add a JSON Web Token \(JWT\) provider to your ServiceNow instance.
 
 -   Copy and record the value of **Application \(client\) ID** and **Directory \(tenant\) ID** of the application you had registered in the Azure portal.
 
-    ![Copy the values of Client ID and Tenant ID.](../../../administer/integrationhub-store-spokes/image/ms-sharept-clientid.png)
+    ![Copy the values of Client ID and Tenant ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../administer/integrationhub-store-spokes/image/ms-sharept-clientid.png)
 
 -   Role required: admin
 
@@ -40,5 +40,5 @@ Add a JSON Web Token \(JWT\) provider to your ServiceNow instance.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Using Certificates for authentication](using-certificates-for-authentication.md)
+**Parent Topic:**[Using Certificates for authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-certificates-for-authentication.md)
 

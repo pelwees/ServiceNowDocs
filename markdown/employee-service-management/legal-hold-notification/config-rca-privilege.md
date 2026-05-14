@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Set the application scope.
 
-    1.  Select the Application scope icon \(![Application scope icon](../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\).
+    1.  Select the Application scope icon \(![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\).
 
     2.  In the filter navigator, search for and select **Document Templates**.
 
@@ -46,5 +46,5 @@ Role required: admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/config-lg-hold-notif.md)
 

@@ -23,11 +23,11 @@ Some applications may only contain a few files, and others could contain thousan
 
 Vibe coding is an AI-driven approach to application development. Use vibe coding and ServiceNow AI-powered app building tools to describe your goals in natural language, and the ServiceNow AI Platform generates full-stack applications, workflows, and integrations. The ServiceNow AI Platform automatically incorporates governance into the app creation process.
 
-Vibe coding and using AI to build apps with the ServiceNow AI Platform collapses the traditional app development lifecycle—from ideation to deployment—into minutes instead of weeks. For more information, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](../../vibe-coding/concept/vibe-coding-landing.md).
+Vibe coding and using AI to build apps with the ServiceNow AI Platform collapses the traditional app development lifecycle—from ideation to deployment—into minutes instead of weeks. For more information, see [Vibe coding and AI-assisted development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../vibe-coding/concept/vibe-coding-landing.md).
 
 Traditional app development on the ServiceNow AI Platform usually takes place in ServiceNow Studio. ServiceNow Studio provides a unified experience for all ServiceNow development activities, enabling admins and developers to extend base system solutions and create custom apps with ease.
 
-Use ServiceNow Studio to build apps and app files with integrated tools, access and edit app metadata in scoped and global apps, and package app changes for deployment, all in one powerful development tool. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Use ServiceNow Studio to build apps and app files with integrated tools, access and edit app metadata in scoped and global apps, and package app changes for deployment, all in one powerful development tool. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 ## Apps and plugins
 
@@ -69,18 +69,18 @@ For instance, the Incident Management application might contain workflows that a
 
 **Note:** Applications are the "what" \(the functionality\), workflows are the "how" \(the automated processes that make things happen\).
 
--   **[Determining good candidates for apps in ServiceNow](determining-good-candidates-for-apps.md)**  
+-   **[Determining good candidates for apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/determining-good-candidates-for-apps.md)**  
 Before creating an app in ServiceNow, determine if the idea is a good candidate for an application.
--   **[Configure, customize, or build new apps](configure-customize-or-build-new-apps.md)**  
+-   **[Configure, customize, or build new apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/configure-customize-or-build-new-apps.md)**  
 Configuration and customization are hallmarks of the ServiceNow AI Platform that enable your company to customize workflows to fit its specific needs. You can also build new apps for novel use cases or departmental processes that don't fit within the scope of your current applications.
--   **[Parts of an application in ServiceNow](parts-of-an-application.md)**  
+-   **[Parts of an application in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/parts-of-an-application.md)**  
 Applications in ServiceNow have tables, UI elements, application files, integrations, and dependencies, all with a layer of security through the entire app.
--   **[ServiceNow files in applications](servicenow-files-in-applications.md)**  
+-   **[ServiceNow files in applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-files-in-applications.md)**  
 ServiceNow files are digital documents and assets stored within the ServiceNow AI Platform that serve various purposes across applications and workflows.
--   **[ServiceNow metadata in applications](servicenow-metadata-in-applications.md)**  
+-   **[ServiceNow metadata in applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-metadata-in-applications.md)**  
 ServiceNow metadata refers to the configuration and structural definitions that make up a ServiceNow application itself.
--   **[Automation basics for apps](automation-basics-for-apps.md)**  
+-   **[Automation basics for apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automation-basics-for-apps.md)**  
 Automation is central to ServiceNow application development and is a core strength of the ServiceNow AI Platform. Automation enables developers to build applications that reduce manual work, enforce consistency, and respond intelligently to business events.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/getting-started-landing-page.md)
 

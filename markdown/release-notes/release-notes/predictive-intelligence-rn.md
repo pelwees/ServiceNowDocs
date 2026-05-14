@@ -44,5 +44,5 @@ Predictive Intelligence is a ServiceNow AI Platform feature that is active by de
     Prebuilt Predictive Intelligence solutions tailored to specific BUs are available in apps across the ServiceNow AI Platform.
 
 
-**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/intelligent-experiences-rn-landing.md)
 

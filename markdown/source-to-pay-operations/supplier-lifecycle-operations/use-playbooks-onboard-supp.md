@@ -38,7 +38,7 @@ You can use the Supplier onboarding playbook with cases that are created using t
 
 The Supplier onboarding playbook appears in the **Playbook** tab on the Case Details page in the Source-to-Pay Workspace.
 
-After you submit a supplier onboarding request, the application creates a new case of type Onboard a Supplier and opens the Case Details page. You can select the **Playbook** tab and start the supplier onboarding process using playbook. For more information on creating a supplier, see [Add a supplier](../../sourcing-procurement-operations/task/create-supplier.md).
+After you submit a supplier onboarding request, the application creates a new case of type Onboard a Supplier and opens the Case Details page. You can select the **Playbook** tab and start the supplier onboarding process using playbook. For more information on creating a supplier, see [Add a supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/task/create-supplier.md).
 
 **Important:** Supplier Lifecycle Operations creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md).
 
@@ -49,14 +49,14 @@ The Supplier onboarding playbook includes the following stages:
 -   Activation: Includes activities to activate the supplier.
 -   Rejection: Includes activities to reject the supplier.
 
-**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/new-supplier.md)
 
 **Related topics**  
 
 
-[Add a subsidiary for a supplier from the Source-to-Pay Workspace](../task/add-subsidiary.md)
+[Add a subsidiary for a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/add-subsidiary.md)
 
-[Perform risk assessment playbook](perform-risk-playbook.md)
+[Perform risk assessment playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/perform-risk-playbook.md)
 
 ## Registration stage
 
@@ -205,11 +205,11 @@ Sets the case status to On Hold.After this activity is completed, the playbook m
 </table>**Related topics**  
 
 
-[Qualification stage](use-playbooks-onboard-supp.md#)
+[Qualification stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Activation stage](use-playbooks-onboard-supp.md#)
+[Activation stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Rejection stage](use-playbooks-onboard-supp.md#)
+[Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
 ## Qualification stage
 
@@ -258,8 +258,8 @@ Waiting for risk assessment to be completed
 
 The playbook waits for the risk assessment to be completed. A new due diligence case is created. You can see this case on the **Related Cases** tab of the Onboard a supplier case. Select the link for the due diligence case, which opens the Perform risk assessment playbook.One of the following occurs:
 
--   If you have installed only the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] plugin, the Perform risk assessment playbook triggers the flow that includes activities to verify the eligibility of the supplier by creating risk assessments. For more information, see [Playbook stages and activities when only Vendor Risk Management is installed](risk-flow-vrm-stages.md).
--   If you have installed both the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] and GRC: Third-party Risk Due Diligence \[com.sn\_tprm\_onboarding\] plugins, the Perform risk assessment playbook triggers the flow that includes activities to create a due diligence request, complete Inherent Risk Questionnaire \(IRQ\) assessments, and conduct risk assessments for a third-party and an engagement. For more information, see [Playbook stages and activities when Third-party Risk Due Diligence is installed](risk-flow-tprmdd-stages.md).
+-   If you have installed only the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] plugin, the Perform risk assessment playbook triggers the flow that includes activities to verify the eligibility of the supplier by creating risk assessments. For more information, see [Playbook stages and activities when only Vendor Risk Management is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-vrm-stages.md).
+-   If you have installed both the Risk Assessments Integration for Supplier Lifecycle Operations \[com.snc.sn\_supplier\_tprm\] and GRC: Third-party Risk Due Diligence \[com.sn\_tprm\_onboarding\] plugins, the Perform risk assessment playbook triggers the flow that includes activities to create a due diligence request, complete Inherent Risk Questionnaire \(IRQ\) assessments, and conduct risk assessments for a third-party and an engagement. For more information, see [Playbook stages and activities when Third-party Risk Due Diligence is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/risk-flow-tprmdd-stages.md).
 
 </td></tr><tr><td>
 
@@ -280,7 +280,7 @@ Verify that this supplier is not on any corporate or governmental restricted lis
 -   **Confirm not restricted**
 -   **Reject**
 
-If you select **Reject**, the playbook opens the [Rejection stage](use-playbooks-onboard-supp.md#).
+If you select **Reject**, the playbook opens the [Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#).
 
 
 </td></tr><tr><td>
@@ -294,7 +294,7 @@ Confirm if you would like to continue onboarding or reject the supplier.Availabl
 -   **Continue Onboarding**
 -   **Reject**
 
-If you select **Reject**, the playbook opens the [Rejection stage](use-playbooks-onboard-supp.md#).
+If you select **Reject**, the playbook opens the [Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#).
 
 
 After this activity is completed, the playbook moves to the Activation stage.
@@ -303,11 +303,11 @@ After this activity is completed, the playbook moves to the Activation stage.
 </table>**Related topics**  
 
 
-[Registration stage](use-playbooks-onboard-supp.md#)
+[Registration stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Activation stage](use-playbooks-onboard-supp.md#)
+[Activation stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Rejection stage](use-playbooks-onboard-supp.md#)
+[Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
 ## Activation stage
 
@@ -364,7 +364,7 @@ Confirm if you would like to continue onboarding or reject the supplier.Availabl
 -   **Continue Onboarding**
 -   **Reject**
 
-If you select **Reject**, the playbook opens the [Rejection stage](use-playbooks-onboard-supp.md#).
+If you select **Reject**, the playbook opens the [Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#).
 
 
 </td></tr><tr><td>
@@ -411,11 +411,11 @@ Updates the onboarding case to Closed completed.
 </table>**Related topics**  
 
 
-[Registration stage](use-playbooks-onboard-supp.md#)
+[Registration stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Qualification stage](use-playbooks-onboard-supp.md#)
+[Qualification stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Rejection stage](use-playbooks-onboard-supp.md#)
+[Rejection stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
 ## Rejection stage
 
@@ -470,9 +470,9 @@ Updates the onboarding case to Closed rejected.
 </table>**Related topics**  
 
 
-[Registration stage](use-playbooks-onboard-supp.md#)
+[Registration stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Qualification stage](use-playbooks-onboard-supp.md#)
+[Qualification stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Activation stage](use-playbooks-onboard-supp.md#)
+[Activation stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 

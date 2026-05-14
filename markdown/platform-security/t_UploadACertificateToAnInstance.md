@@ -56,15 +56,15 @@ When a certificate is updated on the ADFS server, you must also upload an update
     If the instance encounters any errors with the certificate or keystore, it displays an error message.
 
 
--   **[Uploading a trusted server certificate](t_UploadATrustedServerCertificate.md)**  
+-   **[Uploading a trusted server certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_UploadATrustedServerCertificate.md)**  
 By uploading the service provider's trusted server certificate, the instance ensures it is connecting to a valid and secure service.
 
-**Parent Topic:**[Certificates](../concept/c_Certificates.md)
+**Parent Topic:**[Certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_Certificates.md)
 
 **Related topics**  
 
 
-[Exploring Certificates](../concept/exploring-certificates.md)
+[Exploring Certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/exploring-certificates.md)
 
-[Generating an LDAP client certificate](t_GenerateAnLDAPClientCertificate.md)
+[Generating an LDAP client certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAnLDAPClientCertificate.md)
 

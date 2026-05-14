@@ -31,5 +31,5 @@ To access the ACL Trails, navigate to **All** &gt; **System Security** &gt; **Id
 |Created By|The user who made the change.|
 |Created|The time and date the audit was performed.|
 
-![ACL Trails](../images/acl-trails.png)
+![ACL Trails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/acl-trails.png)
 

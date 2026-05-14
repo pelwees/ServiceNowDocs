@@ -30,7 +30,7 @@ Domain separation provides complete data isolation for domain-specific users.
 
 Elements of the Service Portal platform such as settings, portals, pages and widgets are not domain-separated. However, the data within widgets does display when based on the appropriate domain. To provide different experiences, admins should create separate service portals, each with unique URLs, that they can redirect users to.
 
-**Parent Topic:**[Service Portal reference](reference-service-portal.md)
+**Parent Topic:**[Service Portal reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reference-service-portal.md)
 
 **Related topics**  
 

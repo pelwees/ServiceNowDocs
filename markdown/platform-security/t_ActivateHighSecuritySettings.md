@@ -17,17 +17,17 @@ The High Security Settings plugin is active by default on all new instances. If 
 
 Role required: None
 
-Before [activating High Security Settings](t_ActivateHighSecuritySettings.md) on an existing instance:
+Before [activating High Security Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHighSecuritySettings.md) on an existing instance:
 
 1.  Review the following information to understand the new behavior:
-    -   [Access Control List Rules](../../contextual-security/concept/access-control-rules.md)
-    -   [High Security Settings](../concept/c_HighSecuritySettings.md)
-    -   [Default deny property](../concept/c_DefaultDenyProperty.md)
+    -   [Access Control List Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../contextual-security/concept/access-control-rules.md)
+    -   [High Security Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_HighSecuritySettings.md)
+    -   [Default deny property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DefaultDenyProperty.md)
 2.  Enable the plugin on a non-production instance. A recent clone of production is preferable.
 3.  Test the revised functionality, especially the added ACLs and default-deny functionality. Continue testing until the system performs as expected. If users cannot access expected resources, ensure they have appropriate roles and ACL rules to grant them the access.
 4.  Create update sets of any needed changes so you can apply them to production.
 
-**Note:** To learn more about this plugin, see [Enable High Security Plugin](../../security-center/reference/sc-high-security-plugin.md) in Instance Security Hardening Settings.
+**Note:** To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-high-security-plugin.md) in Instance Security Hardening Settings.
 
 Role required: admin
 

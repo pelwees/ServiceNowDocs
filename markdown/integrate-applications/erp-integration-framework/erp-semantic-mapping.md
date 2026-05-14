@@ -21,9 +21,9 @@ When you configure a Zero Copy Connector for ERP \(Enterprise Resource Planning\
 
 When you select a source field in the inputs or outputs configuration of a platform model operation entity, the platform evaluates all candidate target fields in the Glide table and ranks them by semantic relevance to the selected source field. The ranked list of candidates is displayed automatically so you can review and confirm the mapping.
 
-![Specify inputs page with a field label selected and mapped value options listed.](../image/erp-semantic_mapping1.jpg)
+![Specify inputs page with a field label selected and mapped value options listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-semantic_mapping1.jpg)
 
-![Specify outputs page with a field label selected and mapped value options listed.](../image/erp-semantic_mapping2.jpg)
+![Specify outputs page with a field label selected and mapped value options listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-semantic_mapping2.jpg)
 
 The ranking is based on semantic similarity — the meaning of the field relative to the source field — rather than alphabetical order or exact name matching. Fields with different names can rank highly if their semantic meaning is closely related. The ranking takes into consideration all source fields and all target fields. Then it ranks the target fields considering a 1:1 mapping with the source fields, maximizing the similarity between sources and targets.
 
@@ -39,5 +39,5 @@ Each candidate target field is assigned a confidence score that reflects how clo
 
 **Important:** AI-generated field mapping suggestions may not be accurate in all cases. Review the ranked candidates and confirm the appropriate target field before saving the connector model.
 
-**Parent Topic:**[Zero Copy Connector for ERP reference](erp-integration-reference.md)
+**Parent Topic:**[Zero Copy Connector for ERP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-reference.md)
 

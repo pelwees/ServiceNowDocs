@@ -157,7 +157,7 @@ Managed by
 
 </td><td>
 
-The workplace manager of the group that manages the reservation for the floor plan.Click the Lookup using list icon \(\) to view a![Lookup list.](../../contact-tracing/image/icon-lookup.png) list of group managers you can select.
+The workplace manager of the group that manages the reservation for the floor plan.Click the Lookup using list icon \(\) to view a![Lookup list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../contact-tracing/image/icon-lookup.png) list of group managers you can select.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Managed by group
 
 </td><td>
 
-he group that manages the reservation for the floor plan.Click the lookup using list icon \( ![Lookup list.](../../contact-tracing/image/icon-lookup.png)\) to view a list of groups you can select.
+he group that manages the reservation for the floor plan.Click the lookup using list icon \( ![Lookup list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../contact-tracing/image/icon-lookup.png)\) to view a list of groups you can select.
 
 </td></tr><tr><td>
 
@@ -184,12 +184,12 @@ Image
 Upload an image of the space. The supported ratio of an image is: 26:17.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+</table>**Parent Topic:**[Workplace Reservation Management - Field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/workplace-reservation-management-field-descriptions.md)
 
 **Related topics**  
 
 
-[Add a room form](add-room-form.md)
+[Add a room form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-room-form.md)
 
-[User criteria form](user-criteria-form.md)
+[User criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/user-criteria-form.md)
 

@@ -37,5 +37,5 @@ The following default email notifications are in the public scope, and can thus 
 
 In addition to the default emails, you can create custom email notifications that the ServiceNow AI Platform sends when it runs a playbook.
 
-**Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)
+**Parent Topic:**[Administering Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/administering-creator-studio.md)
 

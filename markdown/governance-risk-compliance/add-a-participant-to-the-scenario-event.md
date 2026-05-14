@@ -32,7 +32,7 @@ Role required: sn\_oper\_res.manager
 
         The Create New Participant form is displayed as shown in the following example.
 
-        ![Create a participant for the scenario analysis.](../image/create-new-participant-for-scenario-analysis.png)
+        ![Create a participant for the scenario analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-participant-for-scenario-analysis.png)
 
         The name of the scenario analysis is auto-filled by default.
 
@@ -46,7 +46,7 @@ Role required: sn\_oper\_res.manager
 
         You can view the tabs on the Participant form as shown in the following example.
 
-        ![Tabs on the Participant form.](../image/scenario-events-associated-with-participant.png)
+        ![Tabs on the Participant form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/scenario-events-associated-with-participant.png)
 
         When you create a scenario event and add a participant to it, a response task is automatically created for the participant. The following example shows that when a participant is assigned to a scenario event, a response task is created.
 
@@ -70,7 +70,7 @@ Role required: sn\_oper\_res.manager
 
     6.  Log out from the scenario analysis response record.
 
-    For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](../reference/response-task-form.md).
+    For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/response-task-form.md).
 
 4.  Log in as the owner of the scenario event.
 
@@ -89,5 +89,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-To associate an issue or operational vulnerability with the scenario analysis, see [Link issues and operational vulnerabilities](add-an-issue-to-the-analysis.md).
+To associate an issue or operational vulnerability with the scenario analysis, see [Link issues and operational vulnerabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-an-issue-to-the-analysis.md).
 

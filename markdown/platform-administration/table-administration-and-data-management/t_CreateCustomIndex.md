@@ -82,5 +82,5 @@ Steps
     Optimize data storage and retrieval by creating a columnstore index. Columnstore indexes store data in a compressed, column-oriented format that can improve query performance, especially when querying large datasets. Available with RaptorDB Professional.
 
 
-**Parent Topic:**[Managing tables and indexes](../concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/using-table-administration.md)
 

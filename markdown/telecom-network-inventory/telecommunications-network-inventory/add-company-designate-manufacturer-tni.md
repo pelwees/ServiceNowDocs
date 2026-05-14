@@ -27,10 +27,10 @@ Role required: user\_admin or admin
 
 3.  On the form, fill in the fields.
 
-    **Note:** To learn more about the fields on the Company form, see [Company form](../reference/tni-company-form.md).
+    **Note:** To learn more about the fields on the Company form, see [Company form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-company-form.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](../concept/configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configuring-telecom-network-inventory.md)
 

@@ -27,7 +27,7 @@ By default, the demand new record form in Next Experience for Demand Management 
 
 1.  Navigate to **All** &gt; **Demands** &gt; **Demand** &gt; **All** &gt; **New**.
 
-2.  Select **Additional actions** and navigate to **Configure** &gt; **Form Layout**.![Navigation path from Configure to Form Layout.](../images/demand-new-record-layout.png)
+2.  Select **Additional actions** and navigate to **Configure** &gt; **Form Layout**.![Navigation path from Configure to Form Layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-new-record-layout.png)
 
 3.  In the **View name** field, select **APW New**.
 

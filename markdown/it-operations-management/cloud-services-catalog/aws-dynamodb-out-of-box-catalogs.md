@@ -19,8 +19,8 @@ This is a fully functional sample catalog item that can be used to order a Dynam
 
 Order an AWS DynamoDB table, which is a key-value store, with primary keys and secondary indices. This is useful for developers who require a highly scalable and fully managed NoSQL database.
 
--   **[Amazon Web Services DynamoDB Out Of Box permissions](aws-dynamodb-oob-permissions.md)**  
+-   **[Amazon Web Services DynamoDB Out Of Box permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-dynamodb-oob-permissions.md)**  
 Amazon Web Services DynamoDB OOB catalog items permissions. DynamoDB supports provision and deprovision only.
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/out-of-the-box-catalog-items.md)
 

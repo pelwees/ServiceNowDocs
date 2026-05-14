@@ -19,5 +19,5 @@ When a quorum request has been created, the minimum number of approvals is requi
 
 Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
-**Parent Topic:**[Manage Quorum Control](quorum-ctrl-mgmt.md)
+**Parent Topic:**[Manage Quorum Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-mgmt.md)
 

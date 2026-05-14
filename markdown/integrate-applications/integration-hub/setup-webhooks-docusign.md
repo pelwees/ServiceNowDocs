@@ -70,7 +70,7 @@ Data Format
 Select either **Legacy** or **REST v2.1**.**Note:** Ensure that this selection matches is accordance with the URL you provided in **URL to Publish**.
 
 </td></tr></tbody>
-</table>        ![Select the Events settings and enter URL to publish.](../image/ds-webhook-event.png)
+</table>        ![Select the Events settings and enter URL to publish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ds-webhook-event.png)
 
 2.  Under **Trigger Events**, enable Docusign to share envelope events with ServiceNow by selecting these events:
 
@@ -85,17 +85,17 @@ Select either **Legacy** or **REST v2.1**.**Note:** Ensure that this selection m
     -   Recipient Delivered
     -   Recipient Signed/Completed
     -   Recipient Declined
-    ![Select the required envelope events.](../image/ds-trigger-events.png)
+    ![Select the required envelope events.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ds-trigger-events.png)
 
 3.  Under **Include Data**, select the **Recipients** option.
 
     Select other options as per your requirement.
 
-    ![Select the Recipients option.](../image/include-data.png)
+    ![Select the Recipients option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/include-data.png)
 
 4.  Select the **Include basic authorization** option in the header and provide your ServiceNow instance credentials.
 
-    ![Option to include basic authentiocation header.](../image/ds-basic-auth-header.png)
+    ![Option to include basic authentiocation header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ds-basic-auth-header.png)
 
 5.  Click **Add Configuration**.
 

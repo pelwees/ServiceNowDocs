@@ -25,17 +25,17 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator, or evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](../../service-operations-workspace-itom/image/icon-service-dashboard.png).
+2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/image/icon-service-dashboard.png).
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/add-impact-cal-services.md).
 
 3.  Select a service tile.
 
     A pop-up window displays the business criticality and severity of a service.
 
-    ![Application service tile with options to see service details and service map.](../../service-operations-workspace-itom/image/sow-itom-service-app-tile-options.png)
+    ![Application service tile with options to see service details and service map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/image/sow-itom-service-app-tile-options.png)
 
 4.  Select **Service Details**.
 
@@ -43,10 +43,10 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator, or evt\_mgmt\_admin
 
     The details page provides comprehensive information about an application service.
 
-    ![Application service details page](../../service-operations-workspace-itom/image/sow-app-service-details.png)
+    ![Application service details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/image/sow-app-service-details.png)
 
-    For information on the fields, see [Application service details page](../../service-operations-workspace-itom/reference/app-service-details.md).
+    For information on the fields, see [Application service details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/reference/app-service-details.md).
 
 
-**Parent Topic:**[Service Operations Workspace](../../service-operations-workspace-itom/concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/concept/workspace-dashboard-use.md)
 

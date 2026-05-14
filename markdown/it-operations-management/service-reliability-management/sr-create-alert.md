@@ -170,7 +170,7 @@ Consider making the following optional adjustments to your alert for testing pur
 
 -   Acknowledge the alert or assign it to someone on your team.
 -   Add comments or work notes in the **Compose** panel.
--   Add an attachment related to the alert using the attachment icon ![Attachment icon](../image/icon-sr-attachment.png).
+-   Add an attachment related to the alert using the attachment icon ![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-attachment.png).
 
-**Parent Topic:**[Working with alerts in SRM](../concept/sr-work-alerts-expresslist.md)
+**Parent Topic:**[Working with alerts in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-work-alerts-expresslist.md)
 

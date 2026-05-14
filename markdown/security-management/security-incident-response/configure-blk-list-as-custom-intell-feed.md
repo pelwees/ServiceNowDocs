@@ -47,6 +47,6 @@ For more information on setting up Custom Intelligence Feed on Check Point Gatew
 
     “Status:Succeed” message would appear, confirming that the Feed is successfully added.
 
-    ![Custom Intelligence Feed status message](../image/custom-intell-feed-code.png)
+    ![Custom Intelligence Feed status message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/custom-intell-feed-code.png)
 
 

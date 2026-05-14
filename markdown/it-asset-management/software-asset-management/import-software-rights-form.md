@@ -58,5 +58,5 @@ Create duplicate entitlement
 Duplicate entitlement records cause an import error. Select **Create duplicate entitlement** to override the error and create an entitlement for the duplicate record. **Note:** This action only appears if there is an entitlement that already exists and a duplicate entitlement is being created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

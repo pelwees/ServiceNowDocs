@@ -247,5 +247,5 @@ The `emailId` must match a `sys_user` record that meets all of the below conditi
     -   Review auto-link script for modifications.
     -   Test with OOB script if customized.
 
-**Parent Topic:**[Virtual Agent API reference](virtual-agent-api-reference.md)
+**Parent Topic:**[Virtual Agent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-api-reference.md)
 

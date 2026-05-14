@@ -42,5 +42,5 @@ The output variables contain data that can be used in subsequent activities.
 |output|Formatted return data on running processes used by the abstract workflow.|
 |processes|List of processes in an array.|
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/secops-integration-cb-get-running-processes-workflow.md)
 

@@ -60,7 +60,7 @@ The days and hours during which data is written to each shard.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    ![New table extension](../image/TableExtension.png)
+    ![New table extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TableExtension.png)
 
 
 ## Result
@@ -69,5 +69,5 @@ A schedule is created and new shards are added indefinitely to preserve data.
 
 **Note:** Deleting a rotation deletes the additional tables and all the data. Do not delete the rotation if you still need the data.
 
-**Parent Topic:**[Table extension](../../managing-data/concept/table-extension.md)
+**Parent Topic:**[Table extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../managing-data/concept/table-extension.md)
 

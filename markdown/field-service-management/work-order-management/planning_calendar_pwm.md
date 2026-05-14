@@ -31,7 +31,7 @@ The planning calendar displays work order or schedule occurrence events that are
 
 You can navigate forward or backward in time or switch between views using buttons in the calendar header.
 
-The **Settings** pane, accessed through the gear icon \(![gear icon](../image/IconPersonalizeList.png)\), enables you to control the display of the calendar.
+The **Settings** pane, accessed through the gear icon \(![gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/IconPersonalizeList.png)\), enables you to control the display of the calendar.
 
 |Field|Description|
 |-----|-----------|
@@ -39,7 +39,7 @@ The **Settings** pane, accessed through the gear icon \(![gear icon](../image/Ic
 |Records per group|The number of events to display per group on the calendar display.|
 |Calendar events to show|The type of event to be displayed on the calendar, either schedule occurrences or work orders.|
 
-The **Filter** pane, accessed through the filter icon\( ![filter icon](../image/filter-right-side.png)\) enables you to determine the information you want to view on the calendar.
+The **Filter** pane, accessed through the filter icon\( ![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/filter-right-side.png)\) enables you to determine the information you want to view on the calendar.
 
 |Filter|Description|
 |------|-----------|

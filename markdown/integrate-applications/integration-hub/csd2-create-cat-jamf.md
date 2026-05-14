@@ -120,5 +120,5 @@ Check box that forces the system to determine if deploying this item is allowed 
     **Note:** If you are unable to see any of the above fields or tabs, configure the table's form view or related lists accordingly.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2-jamf-tsk.md)
 

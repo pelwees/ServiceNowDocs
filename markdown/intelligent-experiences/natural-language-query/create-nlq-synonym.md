@@ -23,7 +23,7 @@ Role required: admin, nlq\_admin, or pa\_analyst
 
 NLQ synonyms enable you to map common words in your users' requests to the columns in your instance tables. When these words are detected in natural-language queries, NLQ replaces them with actual column and table names, then submits the formal query.
 
-Several synonyms are provided in the base system, and you can add more for your use cases and business requirements. Review NLQ logs of actual user utterances to find possible synonyms to add. For more information, see [View NLQ logs](view-nlq-logs.md).
+Several synonyms are provided in the base system, and you can add more for your use cases and business requirements. Review NLQ logs of actual user utterances to find possible synonyms to add. For more information, see [View NLQ logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md).
 
 You can create a new synonym, or modify an existing synonym, as follows.
 
@@ -132,18 +132,18 @@ The new synonym is available to your users as soon as they refresh the browser w
 
 The following image shows an example of an NLQ synonym record for the **Active** field on a change request. The synonyms open and in progress are replaced by the term active when the system submits a query.
 
-![NLQ synonym record form for a column synonym.](../images/create-nlq-synonymT1.png)
+![NLQ synonym record form for a column synonym.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/create-nlq-synonymT1.png)
 
 With this synonym record, a user can type `show open change requests` or `change requests in progress`and the system displays active change requests.
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../concept/configuring-nlq.md)
 
 **Related topics**  
 
 
-[Create an NLQ shortcut](create-nlq-shortcut.md)
+[Create an NLQ shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-shortcut.md)
 
-[View NLQ logs](view-nlq-logs.md)
+[View NLQ logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md)
 
-[View NLQ Table Guesser logs](view-nlq-table-guesser-logs.md)
+[View NLQ Table Guesser logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-table-guesser-logs.md)
 

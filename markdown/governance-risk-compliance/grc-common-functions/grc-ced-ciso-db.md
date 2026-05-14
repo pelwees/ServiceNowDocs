@@ -20,5 +20,5 @@ To access the Risk and compliance dashboard and the access control limitations, 
 
 To know more about the features of the Cybersecurity Executive dashboard, see [Cybersecurity Executive Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-unified-CISO-dashboard.md).
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

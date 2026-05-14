@@ -47,5 +47,5 @@ By creating a good definition, you provide a structure for the extensions.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Creating and adding a scripted extension point](../concept/impl-scripted-ext-pts-base-code.md)
+**Parent Topic:**[Creating and adding a scripted extension point](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/impl-scripted-ext-pts-base-code.md)
 

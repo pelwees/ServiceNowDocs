@@ -38,7 +38,7 @@ The execution contexts feature enables you to identify the order of execution of
     -   All the import set records that are part of a scheduled import.
     -   The scheduled import record names.
     -   The date that the execution context was created. This date is when the import executed.
-3.  To add any of the following fields, click the personalized list icon \(![Personalized list icon.](../image/gearicon.png)\):
+3.  To add any of the following fields, click the personalized list icon \(![Personalized list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/gearicon.png)\):
 
     -   **Created by**
     -   **Import Set Table**
@@ -58,5 +58,5 @@ The execution contexts feature enables you to identify the order of execution of
     You can open the import set record from the execution record.
 
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_ImportDataUsingImportSets.md)
 

@@ -44,7 +44,7 @@ Role required: kg\_admin
 
 5.  Enter or search for the nodes that you want to add to the Knowledge Graph schema and select **Add**.
 
-    ![Add nodes.](../Images/add-nodes.png)
+    ![Add nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/add-nodes.png)
 
     You can search and select the Workflow Data Fabric tables, if integrated.
 
@@ -52,13 +52,13 @@ Role required: kg\_admin
 
 6.  In the navigation pane, add the following details:
 
-    ![Knowledge Graph canvas.](../Images/kg-canvas.png)
+    ![Knowledge Graph canvas.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/kg-canvas.png)
 
 7.  In the Node details section, you can add or edit the following fields.
 
     -   Add node synonym
     -   Node description
-    ![Node details.](../Images/edit-node-details.png)
+    ![Node details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/edit-node-details.png)
 
 8.  In the **Table filters** section, view and add filters to set rules that control which records are shown in query results.
 
@@ -69,14 +69,14 @@ Role required: kg\_admin
     -   Value
     -   Add Condition set: optional field to add an alternative filter condition.
     -   Apply filters to child tables: optional check box to add the same filter conditions for the child table of the selected table in the graph.
-    ![Table filters](../Images/table-filters.png)
+    ![Table filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/table-filters.png)
 
 9.  In the Columns that can be queried section, search for and select the desired columns and select **Save**.
 
-    ![Columns that can be queried.](../Images/columns-that-can-be-queried.png)
+    ![Columns that can be queried.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/columns-that-can-be-queried.png)
 
 10. Add, delete, or edit edges in the Related nodes section and select **Save**.
 
-    ![Related nodes.](../Images/related-nodes.png)
+    ![Related nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/related-nodes.png)
 
 

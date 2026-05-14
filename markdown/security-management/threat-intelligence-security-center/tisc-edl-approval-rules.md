@@ -61,12 +61,12 @@ As a TISC admin, you define these approval rules to grant consent on approval re
 5.  Select **Enable** to enable the approval rule.
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/palo-alto-networks-integration.md)
 
 **Related topics**  
 
 
-[Create EDL for Palo Alto Networks](create-new-edl.md)
+[Create EDL for Palo Alto Networks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/create-new-edl.md)
 
-[Approve EDL entries for Palo Alto Networks](tisc-approve-edl-entries.md)
+[Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 

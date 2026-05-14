@@ -19,13 +19,13 @@ Role required: ui\_builder\_admin, admin
 
 ## Procedure
 
-1.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+1.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/edit-db-in-ac.md).
 
-    If the dashboard is a technical dashboard, you see an **Edit in UI Builder** button. If it is in the inline editor, you see an **Edit** button. In the latter case, go to [Create or add a filter on an inline dashboard](select-workspace-filter-type.md).
+    If the dashboard is a technical dashboard, you see an **Edit in UI Builder** button. If it is in the inline editor, you see an **Edit** button. In the latter case, go to [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md).
 
 2.  If you are in a different application scope than the dashboard, use the application picker to select the correct scope.
 
-    ![Application scope picker](../image/app-scope-picker.png)
+    ![Application scope picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/app-scope-picker.png)
 
 3.  Select **Edit in UI Builder**.
 

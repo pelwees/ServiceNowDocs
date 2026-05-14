@@ -17,13 +17,13 @@ The ITOM/OT SU Licensing application calculates and displays subscription consum
 
 The Subscriptions window displays information about the purchased and allocated subscriptions for ITOM applications.
 
-![Subscriptions window displaying subscriptions purchased a la carte.](../image/itom-license-summary-carte.png "Subscriptions window displaying subscriptions purchased a la carte")
+![Subscriptions window displaying subscriptions purchased a la carte.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-summary-carte.png "Subscriptions window displaying subscriptions purchased a la carte")
 
 If your organization surpasses the number of purchased subscriptions for an ITOM application, you cannot utilize the remaining subscriptions for another application.
 
-![The diagram shows how the licensing module calculates a la carte subscriptions.](../image/itom-license-subscr-only-diagram.png "Calculation of the a la carte subscriptions")
+![The diagram shows how the licensing module calculates a la carte subscriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-subscr-only-diagram.png "Calculation of the a la carte subscriptions")
 
 If your organization exceeds the total number of subscription units purchased, the Subscriptions window indicates the relevant a la carte subscription as overdrawn. In the following illustration, ITOM AIOps consumed more subscriptions than the amount purchased for it.
 
-![Subscriptions window showing a la carte subscriptions in an overdraft.](../image/itom-license-summary-carte-overdraft.png "A la carte subscriptions in an overdraft")
+![Subscriptions window showing a la carte subscriptions in an overdraft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-summary-carte-overdraft.png "A la carte subscriptions in an overdraft")
 

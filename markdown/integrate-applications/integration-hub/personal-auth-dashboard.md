@@ -26,7 +26,7 @@ The Personal Authentication dashboard has two main sections.
 -   The My Integrations section at the top of the page, which shows your authenticated integrations.
 -   The Integrations I can use section at the bottom of the page, which shows the integrations available to you.
 
-![The Personal Authentication dashboard with two sections: The My Integrations section, and the Integrations I can use section.](../images/personal-auth-dashboard.png "Personal Authentication dashboard")
+![The Personal Authentication dashboard with two sections: The My Integrations section, and the Integrations I can use section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/personal-auth-dashboard.png "Personal Authentication dashboard")
 
 -   **My Integrations section**
 

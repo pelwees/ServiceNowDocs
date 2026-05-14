@@ -26,7 +26,7 @@ For more information on support levels, see [Application support for domain sepa
 
 The ServiceNow® Dispute Content Pack for US Regulations enables issuers in the United States \(US\) to track dispute cases and conform with regulatory guidelines.
 
-**Parent Topic:**[Dispute Content Pack for US Regulations reference](dispute-content-pack-for-us-regulation-reference.md)
+**Parent Topic:**[Dispute Content Pack for US Regulations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-reference.md)
 
 **Related topics**  
 

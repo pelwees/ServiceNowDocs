@@ -48,16 +48,16 @@ Use Now Assist capabilities to elaborate, shorten, and summarize selected conten
 
 -   Summarize, elaborate, or shorten selected text.
 
-    ![Summarize, elaborate, or shorten the selected text](../../spw-eap/images/eap-now-assist-selected-content.png)
+    ![Summarize, elaborate, or shorten the selected text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-eap/images/eap-now-assist-selected-content.png)
 
 -   Summarize the entire content on the page.
 
-    ![Summarize the entire content on the page](../../spw-eap/images/eap-now-assist-doc-summarize.png)
+    ![Summarize the entire content on the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-eap/images/eap-now-assist-doc-summarize.png)
 
 
 **Note:**
 
--   Now Assist for Docs requires an SPM Pro + license. For more information, see [Configure Now Assist Admin features](../../now-assist-spm/concept/configuring-na-spm.md).
+-   Now Assist for Docs requires an SPM Pro + license. For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../now-assist-spm/concept/configuring-na-spm.md).
 -   If there is more content to summarize, you can remove some content and retry.
 -   Because the information in these fields is AI generated, it's a good idea to review the text and make sure it's accurate.
 
@@ -65,7 +65,7 @@ Use Now Assist capabilities to elaborate, shorten, and summarize selected conten
 
 With the feature of real-time collaboration, edit a doc page concurrently with multiple other editors. Colored cursors denote the current location of each editor on the page. You can choose to show or hide these live presence indicators based on your preference while working on or reviewing the content of the page.
 
-![Docs real-time collaboration.](../../collab-work-mgmt/images/cwm-docs-rtc.png)
+![Docs real-time collaboration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../collab-work-mgmt/images/cwm-docs-rtc.png)
 
 **Note:** Huge number of users editing the same block of content simultaneously might result in issues with application performance.
 
@@ -77,11 +77,11 @@ For example, if you add a reference to a Project record, the reference shows the
 
 A hover popover displays the details of the mentioned record, providing quick access to additional information without leaving the current context.
 
-![Dynamic linking a project record in SPW Docs.](../../collab-work-mgmt/images/cwm-docs-dynamic-record.png)
+![Dynamic linking a project record in SPW Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../collab-work-mgmt/images/cwm-docs-dynamic-record.png)
 
 Dynamic linking also enables adding references to a particular field of a record, such as Assigned to of a Project record.
 
-![Dynamic linking the Assigned to field of a project record in SPW Docs.](../../collab-work-mgmt/images/cwm-docs-dynamic-field.png)
+![Dynamic linking the Assigned to field of a project record in SPW Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../collab-work-mgmt/images/cwm-docs-dynamic-field.png)
 
 You can add references from any ServiceNow table you have access to, with no setup or configuration needed.
 

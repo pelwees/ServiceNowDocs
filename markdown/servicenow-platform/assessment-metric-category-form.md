@@ -63,7 +63,7 @@ Weight
 
 </td><td>
 
-Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [Weight Metrics and Metric Categories](../concept/c_AssessmentMetrics.md).
+Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [Weight Metrics and Metric Categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md).
 
  This field is visible and required unless the **Data type** is **Date**, **Date/Time**, or **String**. These data types are not included in results calculations.
 
@@ -73,7 +73,7 @@ Order
 
 </td><td>
 
-Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [Complete Assessment Questionnaires](../concept/c_AssessmentQuestionnaires.md). **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
+Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [Complete Assessment Questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentQuestionnaires.md). **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Mandatory
 
 </td><td>
 
-Check box that makes the metric question mandatory \(selected\) or optional \(cleared\) on assessment questionnaires. Users cannot submit questionnaires until they provide valid responses to all mandatory questions, which display a red [field status indicator](../concept/c_AssessmentQuestionnaires.md).
+Check box that makes the metric question mandatory \(selected\) or optional \(cleared\) on assessment questionnaires. Users cannot submit questionnaires until they provide valid responses to all mandatory questions, which display a red [field status indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentQuestionnaires.md).
 
  This field is visible only if the **Method** is **Assessment**, the **Depends on** field is empty, and the data type is not **Checkbox**.
 
@@ -101,7 +101,7 @@ Allow not applicable
 
 Check box that determines whether to include a **Not Applicable** answer option for this metric question on assessment questionnaires. Users can select **Not Applicable** if they do not have sufficient information to respond to a question or if a question does not apply to a particular assessable record. User responses of **Not Applicable** are excluded from results calculations.
 
- This field is visible only if the **Method** is **Assessment** and certain data types are selected.![Assessments not applicable option](../images/AssessmentNotApplicableOption.png)
+ This field is visible only if the **Method** is **Assessment** and certain data types are selected.![Assessments not applicable option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentNotApplicableOption.png)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -113,7 +113,7 @@ Details
 
 </td><td>
 
-Text field containing an HTML editor. Use this field to present important details about this metric to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. ![Assessment metric details](../images/AssessmentMetricDetails.png)
+Text field containing an HTML editor. Use this field to present important details about this metric to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. ![Assessment metric details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentMetricDetails.png)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -125,7 +125,7 @@ Question
 
 </td><td>
 
-Text to use as the question on assessment questionnaires. Enter a clear, straightforward question that is easy to answer, such as **How likely are you to recommend this vendor for the purchase of office supplies?** ![Assessment question field](../images/AssessmentQuestionField.png)
+Text to use as the question on assessment questionnaires. Enter a clear, straightforward question that is easy to answer, such as **How likely are you to recommend this vendor for the purchase of office supplies?** ![Assessment question field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentQuestionField.png)
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Description
 
 </td><td>
 
-Information about the metric and what it evaluates. If the **Method** is **Assessment**, include details that help users understand how to answer the question. This text appears as a hint when a user points to the question text on the questionnaire.![Assessment description field tooltip](../images/AssessmentDescriptionFieldTooltip.png)
+Information about the metric and what it evaluates. If the **Method** is **Assessment**, include details that help users understand how to answer the question. This text appears as a hint when a user points to the question text on the questionnaire.![Assessment description field tooltip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentDescriptionFieldTooltip.png)
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ Check box that determines whether to present the answer options for this metric 
 
  **Note:** Randomizing answer options for certain questions can make those questions confusing for the person answering. In general, only randomize answer options that do not follow a logical order. For example, the following question is confusing when randomization is enabled:
 
- ![Assessment question random order](../images/AssessmentQuestionRandomOrder.png)
+ ![Assessment question random order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentQuestionRandomOrder.png)
 
 </td></tr><tr><td>
 
@@ -215,7 +215,7 @@ Setting that determines whether lesser or greater numerical values equate to a g
 
  This field is visible and required unless the **Data type** is **Date**, **Date/Time**, or **String**. The results for these data types are not included in results calculations.
 
- **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [Data Types](r_DataTypes.md).
+ **Note:** For information about how to set the scale definition for data types that do not require you to set a numerical value, see [Data Types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_DataTypes.md).
 
 </td></tr><tr><td>
 
@@ -262,10 +262,10 @@ Lists all metric definitions, which appear as answer options for questions on as
  This related list is available only if the Data type is **Choice** or **Likert Scale**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assessments reference](assessment-reference.md)
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[Create an assessment metric for a category](../task/t_CreateAMetric.md)
+[Create an assessment metric for a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateAMetric.md)
 

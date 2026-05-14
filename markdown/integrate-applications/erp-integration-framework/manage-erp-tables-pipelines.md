@@ -33,5 +33,5 @@ There are several ways to move changes to your production instance on the Servic
 
 For more information on ways to publish your ERP updates, see [Application sharing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_SharingApplications.md).
 
-**Parent Topic:**[Building with ERP data](erp-canvas-building-with-erp-data.md)
+**Parent Topic:**[Building with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-building-with-erp-data.md)
 

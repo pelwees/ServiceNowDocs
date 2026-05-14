@@ -33,7 +33,7 @@ There is no sys\_domain column in the Maintenance Plan \(sm\_maint\_plan\) table
 
 You can set maintenance plans to include or exclude domains or set them globally by design. Support in the Part Requirements \(sm\_part\_requirement\} table is data only.
 
-**Parent Topic:**[Planned Maintenance](c_SMPlanMaint.md)
+**Parent Topic:**[Planned Maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_SMPlanMaint.md)
 
 **Related topics**  
 

@@ -34,7 +34,7 @@ You can identify a privileged and confidential request by following UI elements.
 -   Privileged and Confidential flag: Displayed in the secondary header of the request when it is marked as privileged and confidential.
 -   Privileged document access related list to display the permission of each attachment.
 
-![Identify privileged and confidential request](../image/lsd-acp-indicators.png)
+![Identify privileged and confidential request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-acp-indicators.png)
 
 ## Email notifications
 
@@ -59,16 +59,16 @@ You can promote a legal request to legal matter by creating a new matter or addi
 
 The Privileged and Confidential status of a legal request and its associated matter are tracked independently. Changing the Privileged and Confidential status of a request does not automatically change the Privileged and Confidential status of the associated matter, and vice versa.
 
-**Parent Topic:**[Exploring Legal Request Management](legal-request-management-overview.md)
+**Parent Topic:**[Exploring Legal Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-overview.md)
 
 **Related topics**  
 
 
-[Work on a legal request](../task/work-on-legal-request.md)
+[Work on a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/work-on-legal-request.md)
 
-[Disable attorney client privilege for a legal request](lsd-acp-enable.md)
+[Disable attorney client privilege for a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/lsd-acp-enable.md)
 
-[Manage attachments for a legal request](../task/manage-attachments-legal-request.md)
+[Manage attachments for a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/manage-attachments-legal-request.md)
 
-[Transfer a legal request](../task/transfer-existing-legal-request.md)
+[Transfer a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/transfer-existing-legal-request.md)
 

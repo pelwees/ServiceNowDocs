@@ -40,5 +40,5 @@ The following table lists the high-level differences between an Interaction Reco
 |Universal Request is a task type that agents work on. Universal Request supports cross-departmental ticket transfers and a unified ticket page experience for the requester.|Interaction record is not a task type.|
 |Universal Request is a task type that serves as a parent record for other records that are created as child records, such as INC, HRC, and custom task types. It is also used for all cross-departmental reporting.|Interaction records cannot be used for cross-departmental SLA reporting.|
 
-**Parent Topic:**[Exploring Universal Request](explore-universal-request.md)
+**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 

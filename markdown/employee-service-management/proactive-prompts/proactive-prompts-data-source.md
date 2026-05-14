@@ -65,21 +65,21 @@ Performance Analytics Indicator
 
 </td><td>
 
-Uses the data collected by the Performance Analytics job for the selected indicator and breakdown. For example, this type of table can be used to prompt the manager about number of open incidents.**Note:** The Performance Analytics job must be run to process the data. For more information, see [Activate Performance Analytics jobs](../task/activae-pa-indicator-jobs-sdb.md).
+Uses the data collected by the Performance Analytics job for the selected indicator and breakdown. For example, this type of table can be used to prompt the manager about number of open incidents.**Note:** The Performance Analytics job must be run to process the data. For more information, see [Activate Performance Analytics jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../task/activae-pa-indicator-jobs-sdb.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)
+</table>**Parent Topic:**[Reference for Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Proactive Prompts](proactive-prompts-components.md)
+[Components installed with Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-components.md)
 
-[Tokens in Proactive Prompts](proactive-prompts-tokens.md)
+[Tokens in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-tokens.md)
 
-[Actions and action groups in Proactive Prompts](proactive-prompts-actions.md)
+[Actions and action groups in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-actions.md)
 
-[Signal data source form](proactive-prompts-signal-datasource-form.md)
+[Signal data source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-datasource-form.md)
 
-[Signal configuration form](proactive-prompts-create-signal-form.md)
+[Signal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-create-signal-form.md)
 

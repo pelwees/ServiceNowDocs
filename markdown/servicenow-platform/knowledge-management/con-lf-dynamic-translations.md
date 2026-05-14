@@ -17,7 +17,7 @@ Add a custom Localization Framework setting to enable machine translation for bu
 
 ## Before you begin
 
--   [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md).
+-   [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-knowledge-advanced-plugin.md).
 -   [Activate Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/activate-lf-plugin.md).
 -   [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 -   Bulk Translation is available with the base Australia release. If you are upgrading from a previous release, you must configure the following settings:
@@ -65,7 +65,7 @@ Role required: admin
 
 ## What to do next
 
-[Translate knowledge articles using Dynamic Translation](dynamic-translation-translate-articles.md)
+[Translate knowledge articles using Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/dynamic-translation-translate-articles.md)
 
-**Parent Topic:**[Configure translation management](configure-translation-management.md)
+**Parent Topic:**[Configure translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-translation-management.md)
 

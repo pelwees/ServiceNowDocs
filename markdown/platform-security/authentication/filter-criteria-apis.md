@@ -17,16 +17,16 @@ Filter criteria contains filter conditions or queries that are used as policy in
 
 You can create filter criteria based on the user's IP address, role, and the user group to which they belong.
 
-**Note:** You also use the filter criteria created from the **Adaptive Authentication** module. For more information, see [Adaptive authentication](adaptive-authentication.md).
+**Note:** You also use the filter criteria created from the **Adaptive Authentication** module. For more information, see [Adaptive authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
-You can create filter criteria for APIs using the same process as filter criteria for adaptive authentication. For details see [Filter criteria](adaptive-auth-filter-criteria.md).
+You can create filter criteria for APIs using the same process as filter criteria for adaptive authentication. For details see [Filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-auth-filter-criteria.md).
 
 **Related topics**  
 
 
-[Create IP filter criteria](../task/create-ip-filter-criteria.md)
+[Create IP filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/create-ip-filter-criteria.md)
 
-[Create role filter criteria](../task/create-role-filter-criteria.md)
+[Create role filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/create-role-filter-criteria.md)
 
-[Create group filter criteria](../task/create-group-filter-criteria.md)
+[Create group filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/create-group-filter-criteria.md)
 

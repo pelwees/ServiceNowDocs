@@ -24,11 +24,11 @@ To access the Discovery Admin Workspace Diagnostics page, navigate to **Workspac
 
 -   **Anomaly detection tab**
 
-    Displays all the Discovery schedules with anomalies detected in a certain time period. You can configure this time scale on the Settings page. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
+    Displays all the Discovery schedules with anomalies detected in a certain time period. You can configure this time scale on the Settings page. For more information, see [Discovery Admin Workspace Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-setup.md).
 
     **Important:** This tab only displays anomalies when anomaly detection is enabled. Starting with version 1.11.0, anomaly detection requires a minimum of five CIs to trigger. For more information, see the [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB2601541](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2601541) article in the Now Support Knowledge Base.
 
-    Select the **More options** icon \(![More options icon](../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
+    Select the **More options** icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
 
 <table id="table_e1w_2dh_z2c"><thead><tr><th>
 
@@ -128,7 +128,7 @@ Number of Discovery schedules that had a long run time.**Note:** The threshold f
 
 -   **Support tools**
 
-    The **Support tools** tab provides tools to investigate and troubleshoot your instance. For a full list of the tools available on this tab, see [Discovery Admin Workspace support tools](../reference/r_dawSupportTools.md).
+    The **Support tools** tab provides tools to investigate and troubleshoot your instance. For a full list of the tools available on this tab, see [Discovery Admin Workspace support tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_dawSupportTools.md).
 
 -   **Logs**
 

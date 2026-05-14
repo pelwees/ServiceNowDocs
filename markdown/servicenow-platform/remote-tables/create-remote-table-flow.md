@@ -122,8 +122,8 @@ Option to select the enhanced capacity to support more than 1000 rows in a remot
 5.  Click **Submit**.
 
 
--   **[Define a flow logic](define-flow.md)**  
+-   **[Define a flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/define-flow.md)**  
 Set the triggers and actions to define a remote table flow logic.
 
-**Parent Topic:**[Remote tables](../concept/remote-tables.md)
+**Parent Topic:**[Remote tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/../concept/remote-tables.md)
 

@@ -193,5 +193,5 @@ Isolate script
 New client scripts are run in strict mode, with direct DOM access disabled. Access to jQuery, prototype, and the window object are also disabled. To disable this on a per-script basis, configure this form and select the **Isolate script** check box. To disable this feature for all new globally-scoped client-side scripts set the system property glide.script.block.client.globals to false.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Client-side scripting](client-side-scripting-overview.md)
+</table>**Parent Topic:**[Client-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/client-side-scripting-overview.md)
 

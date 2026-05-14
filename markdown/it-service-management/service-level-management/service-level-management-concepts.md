@@ -65,5 +65,5 @@ Application Templates support Service Level Management tables to be included whe
 -   SLA Timer Configuration\[sla\_timer\_config\]
 -   SLA timer configuration mapping\[sla\_timer\_config\_mapping\]
 
-**Parent Topic:**[Exploring Service Level Management](exploring-slm.md)
+**Parent Topic:**[Exploring Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/exploring-slm.md)
 

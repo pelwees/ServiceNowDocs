@@ -41,5 +41,5 @@ Closing a case automatically closes the corresponding case action summary.
 **Related topics**  
 
 
-[Create a case action summary](../task/create-case-action-summary.md)
+[Create a case action summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-case-action-summary.md)
 

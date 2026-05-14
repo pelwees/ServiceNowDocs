@@ -33,7 +33,7 @@ If there is a Record Producer associated with the table, variables defined in th
 
 You cannot group by Record Producer variables. For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md).
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/configure-data-visualizations.md)
 
 ## Use questions in data visualizations
 
@@ -105,11 +105,11 @@ Under **Group by**, select **+Add** for Columns or Rows, then select **Questions
 
 Here you have opened the Edit data source page for a data visualization. No custom conditions have been defined for this data visualization, so you select **Add custom condition**.
 
-![The Add custom conditions link on the Add or Edit data source page.](../../par-for-workspace/image/dv-data-source-custom-conditions.png)
+![The Add custom conditions link on the Add or Edit data source page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-data-source-custom-conditions.png)
 
 Next, you scroll down the Select field list to question, select that, and select a question.
 
-![Selecting a question for the custom filter.](../../par-for-workspace/image/add-custom-filter-questions.png)
+![Selecting a question for the custom filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/add-custom-filter-questions.png)
 
 Finally you select the operator and the value, such as Is \| A4, and select **Apply**.
 
@@ -117,7 +117,7 @@ Finally you select the operator and the value, such as Is \| A4, and select **Ap
 
 In this case, you have a horizontal bar visualization of data in the Incident table. In the Group by section, you edit the group by. You scroll to the bottom of the list of fields and replace the Active field with questions, and select your question.
 
-![Selecting a Question in a Group by field.](../../par-for-workspace/image/question-dv-groupby.png)
+![Selecting a Question in a Group by field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/question-dv-groupby.png)
 
 If you want to add a question as a row or column on a Pivot Table, the experience is almost identical.
 
@@ -125,5 +125,5 @@ If you want to add a question as a row or column on a Pivot Table, the experienc
 
 You want a different question as an alternative group by. You select **Add alternative group by** and scroll to **Questions**. Unlike other menus, its position is alphabetical instead of at the bottom. You expand **Questions**, and the list changes to a selection of questions. Not all questions that were available as a group by are available as an alternative group by. Anyway, you select some questions and press **Apply all**.
 
-![Additional group by selector for questions.](../../par-for-workspace/image/dv-alternative-group-by-questions.png)
+![Additional group by selector for questions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-alternative-group-by-questions.png)
 

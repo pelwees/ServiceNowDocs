@@ -27,14 +27,14 @@ Role required: itil
 
     The User Rotation Schedules list shows the shift, the roster, and the start and end times for each timeslot.
 
-    ![User Rotation Schedules list](../image/NewMyOnCallScheduleDetails.png)
+    ![User Rotation Schedules list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/NewMyOnCallScheduleDetails.png)
 
 3.  To view alternate rosters, expand an entry by clicking the arrow.
 
     The alternate roster appears for that timeslot. For example, if you are the primary contact, this list shows secondary and tertiary contacts for the timeslot.
 
-    ![Viewing alternate rosters](../image/NewMyOnCallScheduleDetailsExpand.png)
+    ![Viewing alternate rosters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/NewMyOnCallScheduleDetailsExpand.png)
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/viewing-schedules-and-escalation.md)
 

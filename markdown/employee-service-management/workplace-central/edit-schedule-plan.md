@@ -27,7 +27,7 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
     You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the **Schedule Planner** icon \(![Schedule Planner icon.](../images/schedule-plan-icon.png)\).
+2.  Select the **Schedule Planner** icon \(![Schedule Planner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/schedule-plan-icon.png)\).
 
 3.  From the Schedule Plans list, select the draft schedule plan that you want to edit.
 
@@ -39,8 +39,8 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 5.  Navigate to the Mapping page, then select **Create Plan**.
 
-    For more information about user-space mapping and validation, see [Create a schedule plan](create-schedule-plan.md).
+    For more information about user-space mapping and validation, see [Create a schedule plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-schedule-plan.md).
 
 
-**Parent Topic:**[Working with Schedule Planning](../concept/working-with-schedule-planning.md)
+**Parent Topic:**[Working with Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-schedule-planning.md)
 

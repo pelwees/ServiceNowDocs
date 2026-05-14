@@ -17,7 +17,7 @@ Service Mapping does not offer semi-automated resolution options for errors that
 
 ## Before you begin
 
-Try fixing errors using semi-automated resolution options as described in [Fix errors in individual application service maps](fix-or-ignore-errors-business-service-map.md).
+Try fixing errors using semi-automated resolution options as described in [Fix errors in individual application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-or-ignore-errors-business-service-map.md).
 
 Role required: service\_mapping\_admin
 
@@ -39,9 +39,9 @@ You can fix errors in individual application services at any time.
 
 3.  Ensure that the map opens in Edit mode.
 
-    ![Discovery messages appear under the map.](../image/MapEditDiscoveryMessages.png)
+    ![Discovery messages appear under the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapEditDiscoveryMessages.png)
 
-    CIs discovered with errors appear with the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on the map. Discovery messages on the **Discovery Messages** tab give short error descriptions.
+    CIs discovered with errors appear with the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on the map. Discovery messages on the **Discovery Messages** tab give short error descriptions.
 
 4.  Fix errors based on the symptoms and discovery messages.
 
@@ -61,7 +61,7 @@ The following discovery message is displayed: `The map does not display the enti
 
 Reduce the application service size.-   For an application service mapped using pattern-based and traffic-based discovery, perform the following actions:
     -   If you use customized discovery patterns and mapping results in very large service instances, modify the patterns so that they don't map irrelevant CIs.
-    -   [Split the service into smaller services](add-segment-to-business-service-map.md).
+    -   [Split the service into smaller services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-segment-to-business-service-map.md).
 -   For an application service converted from an application service, perform the following actions:
     -   Review the converted service instance to identify CI relations irrelevant or redundant for this service. Remove such CI relations in the CMDB.
     -   Decide how many levels of related CIs you must include into this service instance. If necessary, [change the number of levels used in conversion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-services-from-cmdb.md) to reduce the service size.
@@ -73,13 +73,13 @@ The following discovery message is displayed in a tag-based service instance: **
 
 </td><td>
 
-Perform the following actions: -   [Modify tag definitions used for mapping](modify-tag-category-family.md) to make sure Service Mapping includes only relevant CIs in the service instance.
--   If necessary, [Tag-based discovery configuration](../concept/tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
+Perform the following actions: -   [Modify tag definitions used for mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/modify-tag-category-family.md) to make sure Service Mapping includes only relevant CIs in the service instance.
+-   If necessary, [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
 
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the configuration item.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the configuration item.
 -   The following discovery message displays for the configuration item: `Failed to execute command using sudo on host <host IP address>`.
 
 
@@ -97,7 +97,7 @@ The following error message displays for the configuration item: `Access is deni
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the Windows Server.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the Windows Server.
 -   The following discovery message displays for the Windows Server: `RPC Server unavailable`.
 
 
@@ -107,7 +107,7 @@ The following error message displays for the configuration item: `Access is deni
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon ![The Warning icon](../image/MapWarningIcon.png) instead of the load balancer CI.
+-   The service instance map displays the warning icon ![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png) instead of the load balancer CI.
 -   The following discovery message is displayed: `Service Mapping triggered the horizontal discovery to find the host x.x.x.x, because this host was not in the CMDB. The horizontal discovery failed. See discovery status for more info`.
 
 
@@ -157,7 +157,7 @@ There is no load balancer CI on the service instance map. There are connections 
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the configuration item.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the configuration item.
 -   The following discovery message displays for the configuration item: `SSH command timed out on host`.
 
 
@@ -175,7 +175,7 @@ A cluster CI appears detached from all CIs in map tiers above or below it.
 
 </td></tr><tr><td>
 
--   The map displays either the load balancer configuration item \(CI\) with a warning icon or just the warning icon ![The Warning icon](../image/MapWarningIcon.png)
+-   The map displays either the load balancer configuration item \(CI\) with a warning icon or just the warning icon ![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)
 -   The following discovery message appears for the CI that is expected to be the load balancer in the service instance: `Failed to recognize application. See the discovery log for more details.`
 
 </td><td>
@@ -192,7 +192,7 @@ The service instance map shows a different load balancer from the one you expect
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the configuration item.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the configuration item.
 -   The following discovery message displays for the configuration item: `SSH command timed out on host`.
 
 
@@ -202,7 +202,7 @@ The service instance map shows a different load balancer from the one you expect
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the configuration item.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the configuration item.
 -   The following discovery message displays for the configuration item: `No active MID Server found for IP X.X.X.X.`
 
 
@@ -212,13 +212,13 @@ The service instance map shows a different load balancer from the one you expect
 
 </td></tr><tr><td>
 
--   The service instance map displays the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on top or instead of the configuration item.
+-   The service instance map displays the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on top or instead of the configuration item.
 -   The following discovery message displays for the configuration item: `'64\rctrlx' is not recognized as an internal or external command, operable program or batch file.`
 
 
 </td><td>
 
-Perform the procedure described in [Upload the rctrlx.exe file to MID Servers](upload-rctrlx-file.md).
+Perform the procedure described in [Upload the rctrlx.exe file to MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/upload-rctrlx-file.md).
 
 </td></tr><tr><td>
 
@@ -234,12 +234,12 @@ Perform the following steps:1.  \(Optional for grayed out segments\) Identify th
 </table>5.  Click **Run Discovery**.
 
 
-**Parent Topic:**[Fix errors in individual application service maps](fix-or-ignore-errors-business-service-map.md)
+**Parent Topic:**[Fix errors in individual application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-or-ignore-errors-business-service-map.md)
 
 **Related topics**  
 
 
-[Skip errors to continue discovering an application service](skip-errors-continue-discovery-individual-services.md)
+[Skip errors to continue discovering an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/skip-errors-continue-discovery-individual-services.md)
 
-[Resolve pattern-related mapping errors](t_TBSMapProcess.md)
+[Resolve pattern-related mapping errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_TBSMapProcess.md)
 

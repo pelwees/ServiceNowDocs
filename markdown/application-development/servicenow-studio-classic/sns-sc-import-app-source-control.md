@@ -20,7 +20,7 @@ Importing an application from source control results in a new application being 
 -   Verify that the non-production instance has network access to the Git repository.
 -   Verify that the repository contains a valid application.
 -   Ensure that users add the email address to their respective Users table \[sys\_user\] record that they use in their commits to the Git repository.
--   Learn more about application-customizations [Manage customizations to applications](../../applications/task/manage-customizations-store-apps.md).
+-   Learn more about application-customizations [Manage customizations to applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../applications/task/manage-customizations-store-apps.md).
 -   Role required: admin
 
 ## About this task
@@ -33,9 +33,9 @@ The source control integration does not support importing an application on a pr
 
 2.  Select the **Create** dropdown list on the home page, and select **Import app**.
 
-    ![Select the Import app option from the Create dropdown list on the home page.](../image/sn-studio-create-import.png)
+    ![Select the Import app option from the Create dropdown list on the home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-create-import.png)
 
-    ![Import an app from source control.](../image/sn-studio-import-app-sc.png)
+    ![Import an app from source control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-import-app-sc.png)
 
 3.  On the form, fill in the fields.
 
@@ -116,5 +116,5 @@ ServiceNow Studio displays the application as a new choice in the Switch Applica
 -   Review the upgrade logs for any sanitization applied to application files during the import.
 -   Select the imported application to edit it.
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/source-control-in-servicenow-studio.md)
 

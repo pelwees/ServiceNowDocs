@@ -29,11 +29,11 @@ Role required: it\_project\_manager
 
 4.  On the Issue form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/ridac-forms.md).
 
 5.  Search in the knowledge base for any article related to the issue.
 
-    1.  Select the search knowledge icon \(![Search knowledge icon](../image/search_knowledge_icon.png)\).
+    1.  Select the search knowledge icon \(![Search knowledge icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/search_knowledge_icon.png)\).
 
     2.  If you find relevant articles, select the title of an article to view its content.
 
@@ -46,11 +46,11 @@ Role required: it\_project\_manager
 
 ## What to do next
 
--   Convert an existing issue to decision, action, or request change and close the issue. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](convert-ridac-for-project.md).
--   Associate the issue with your existing risks so you can track dependencies and recognize trends for future. For more information, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](reassociate-ridac-project.md).
+-   Convert an existing issue to decision, action, or request change and close the issue. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/convert-ridac-for-project.md).
+-   Associate the issue with your existing risks so you can track dependencies and recognize trends for future. For more information, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md).
 
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ridac-entries-for-project.md)
 

@@ -17,7 +17,7 @@ Add supplier products to populate the primary data.
 
 ## Before you begin
 
-To add a supplier product, you must have already added a supplier, product category or model category, and product model to the primary data. For more information on how to add them, see [Add a supplier](create-supplier.md), [Create product categories](create-product-model-categories.md), and [Create product models](create-product-models.md).
+To add a supplier product, you must have already added a supplier, product category or model category, and product model to the primary data. For more information on how to add them, see [Add a supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md), [Create product categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), and [Create product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md).
 
 Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administrator
 
@@ -35,7 +35,7 @@ You can add a supplier product and choose to publish it on the Shopping Hub port
 
 3.  On the form, fill in the fields.
 
-    ![Supplier product form.](../image/add_supplier_product_step3.png)
+    ![Supplier product form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_supplier_product_step3.png)
 
 <table id="table_kcc_bcf_flb"><thead><tr><th>
 
@@ -114,7 +114,7 @@ Option for specifying if the product is to be listed on the Shopping Hub portal.
 
 4.  Select the **Details** tab and fill in the fields.
 
-    ![Details tab in Supplier product form.](../image/add_supplier_product_step4.png)
+    ![Details tab in Supplier product form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_supplier_product_step4.png)
 
     |Field|Description|
     |-----|-----------|
@@ -125,7 +125,7 @@ Option for specifying if the product is to be listed on the Shopping Hub portal.
 
 5.  Select the **Purchasing Automation** tab and fill in the fields.
 
-    ![Purchasing automation tab in Supplier product form.](../image/add_supplier_product_step5.png)
+    ![Purchasing automation tab in Supplier product form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_supplier_product_step5.png)
 
     **Note:** These cascade down from the model category to the product model, to the supplier product, but can be overridden at the leaf level.
 
@@ -220,11 +220,11 @@ Supplier delivers to
 Countries where the suppliers can deliver the product.
 
 </td></tr></tbody>
-</table>    For more information, see [Manage delivery to valid address](manage-shipping-address.md).
+</table>    For more information, see [Manage delivery to valid address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/manage-shipping-address.md).
 
 6.  Select the **Lead Time** tab and review the fields.
 
-    ![Lead Time tab in Supplier product form.](../image/add_supplier_product_step6.png)
+    ![Lead Time tab in Supplier product form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_supplier_product_step6.png)
 
     |Field|Description|
     |-----|-----------|
@@ -233,7 +233,7 @@ Countries where the suppliers can deliver the product.
     |Purchasing time in days|Estimated number of days to complete the purchase requisition and create a purchase order.|
     |Shipping time in days|Estimated number of days to ship the product to the delivery location.|
 
-    For more information, see [Lead time calculations](../reference/lead-time-calculations.md).
+    For more information, see [Lead time calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/lead-time-calculations.md).
 
 7.  Select **Submit**.
 
@@ -242,5 +242,5 @@ Countries where the suppliers can deliver the product.
 
 Use the related lists of the supplier product form to view the pricing, purchase order lines, product visuals, and ledger assignment rules that are associated with this supplier product.
 
-**Parent Topic:**[Setting up your product catalog](create-product-catalogue.md)
+**Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 

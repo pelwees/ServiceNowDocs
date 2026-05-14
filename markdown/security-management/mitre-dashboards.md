@@ -15,28 +15,28 @@ The MITRE-ATT&amp;CK dashboard provides an executive view of the data source cov
 
 The MITRE-ATT&amp;CK Overview module displays MITRE-ATT&amp;CK information about security incidents including trends and reports. You can click any part of a widget \(bar, data point, table, and so on\) to view data that is specific to that part.
 
-![The MITRE-ATT&CK Overview module shows four widgets.](../image/mitre-overview-reports.png)
+![The MITRE-ATT&CK Overview module shows four widgets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-overview-reports.png)
 
-**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](mitre-att-ck-features.md)
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security incidents](../task/associate-mitre-with-sir.md#)
+[Associate MITRE-ATT&amp;CK information with security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/associate-mitre-with-sir.md#)
 
-[Associate MITRE-ATT&amp;CK information with observables](../task/associate-mitre-observables.md)
+[Associate MITRE-ATT&amp;CK information with observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
 
-[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](../task/rollup-threat-lookup-results.md)
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/rollup-threat-lookup-results.md)
 
-[Rollup MITRE-ATT&amp;CK information from detection rules](../task/rollup-mitre-attack-information-detection-rules.md)
+[Rollup MITRE-ATT&amp;CK information from detection rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/rollup-mitre-attack-information-detection-rules.md)
 
-[Rollup MITRE-ATT&amp;CK information from child security incidents](../task/rollup-mitre-att-ck-information-from-child-security-incidents.md)
+[Rollup MITRE-ATT&amp;CK information from child security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/rollup-mitre-att-ck-information-from-child-security-incidents.md)
 
-[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](../task/link-analysis-threat-hunt-mitre.md)
+[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/link-analysis-threat-hunt-mitre.md)
 
-[MITRE-ATT&amp;CK heat map and navigator](mitre-att-ck-heatmap-and-navigator.md#)
+[MITRE-ATT&amp;CK heat map and navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md#)
 
 ## Use the MITRE-ATT&amp;CK dashboard to see your security-related data
 
@@ -69,13 +69,13 @@ The MITRE-ATT&amp;CK Overview module consists of widgets that enable you to corr
 
 In this example, the **Security Incidents by MITRE ATT&amp;CK Technique** widget displays the techniques by security incident in an organization's environment in the last 90 days.
 
-![MITRE Overview Techniques.](../image/mitre-reports-techniques.png)
+![MITRE Overview Techniques.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-techniques.png)
 
 ### Example of Security Incidents by MITRE-ATT&amp;CK Tactic
 
 In this example, the **Security Incidents by MITRE ATT&amp;CK Tactic** widget displays the top tactics by security incident in an organization's environment in the last 90 days.
 
-![MITRE Overview Tactics.](../image/mitre-reports-tactics.png)
+![MITRE Overview Tactics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-tactics.png)
 
 ### Example of Critical Assets with MITRE-ATT&amp;CK Techniques
 
@@ -83,7 +83,7 @@ In this example, the **Critical Assets with MITRE ATT&amp;CK Techniques** widget
 
 This report enables an organization to see the types and number of techniques that are used in carrying attacks against the critical assets.
 
-![MITRE Overview Configuration Items.](../image/mitre-reports-cis.png)
+![MITRE Overview Configuration Items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-cis.png)
 
 ### Example of Security Incident Close Codes Vs MITRE-ATT&amp;CK Techniques
 
@@ -91,7 +91,7 @@ In this example, the **Security Incident Close Codes Vs MITRE-ATT&amp;CK Techniq
 
 The x-axis displays the top techniques that were used to carry attacks against the enterprise, and the y-axis displays the closed codes.
 
-![MITRE overview of closed codes versus techniques.](../image/mitre-reports-codes.png)
+![MITRE overview of closed codes versus techniques.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-codes.png)
 
 ### Example of detection coverage by MITRE-ATT&amp;CK techniques
 
@@ -99,7 +99,7 @@ In this example, the **MITRE-ATT&amp;CK Techniques by Detection Coverage** widge
 
 The x-axis displays the technique count, and the y-axis displays the detection coverage types.
 
-![This illustration shows the MITRE dashboards with the detection coverage information.](../image/mitre-reports-detection.png)
+![This illustration shows the MITRE dashboards with the detection coverage information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-detection.png)
 
 ### Example of mitigation coverage by MITRE-ATT&amp;CK techniques
 
@@ -107,7 +107,7 @@ In this example, the **MITRE-ATT&amp;CK Techniques by Mitigation Coverage** widg
 
 The x-axis displays the technique count, and the y-axis displays the mitigation coverage types.
 
-![This illustration shows the MITRE dashboards with the mitigation coverage information.](../image/mitre-reports-mitigation.png)
+![This illustration shows the MITRE dashboards with the mitigation coverage information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-mitigation.png)
 
 ### Example of threat groups by MITRE-ATT&amp;CK techniques
 
@@ -115,7 +115,7 @@ In this example, the **Threat Groups by MITRE-ATT&amp;CK Technique** widget disp
 
 The x-axis displays the threat group count, and the y-axis displays the MITRE-ATT&amp;CK techniques.
 
-![This illustration shows the MITRE dashboards with the threat group information.](../image/mitre-reports-threat.png)
+![This illustration shows the MITRE dashboards with the threat group information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-reports-threat.png)
 
 ### Example of CVEs by MITRE-ATT&amp;CK techniques
 
@@ -123,5 +123,5 @@ In this example, the **CVEs by MITRE-ATT&amp;CK Technique** widget displays the 
 
 The x-axis displays the relevant CVE count, and the y-axis displays the MITRE-ATT&amp;CK techniques.
 
-![This illustration shows the MITRE dashboards with the CVE information.](../image/mitre-report-cve.png)
+![This illustration shows the MITRE dashboards with the CVE information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-report-cve.png)
 

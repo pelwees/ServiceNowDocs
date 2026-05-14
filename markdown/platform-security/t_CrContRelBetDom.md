@@ -27,7 +27,7 @@ Domains in a contains relationship inherit the settings of the containing domain
 
 2.  Select the domain record that is the parent \(container\) domain of the new contains relationship.
 
-3.  [Toggle the domain scope](../concept/c_DomainScope.md) to switch between the session scope and record scope, if necessary.
+3.  [Toggle the domain scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainScope.md) to switch between the session scope and record scope, if necessary.
 
 4.  From the Contains Domains related list, click **Edit**.
 
@@ -37,11 +37,11 @@ Domains in a contains relationship inherit the settings of the containing domain
 
 6.  Click **Save**, and then click **Update**.
 
-    ![Contains Domains](../image/Contains_domains.png)
+    ![Contains Domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Contains_domains.png)
 
 
 **Related topics**  
 
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/bp-domain-sep-recommended.md)
 

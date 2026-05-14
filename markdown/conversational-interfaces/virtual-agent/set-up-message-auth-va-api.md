@@ -17,7 +17,7 @@ You can configure Message Authentication for the Virtual Agent API instead of Ba
 
 ## Before you begin
 
-Follow the steps in [Review the inbound REST endpoint and configure inbound authentication](configure-send-request.md).
+Follow the steps in [Review the inbound REST endpoint and configure inbound authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-send-request.md).
 
 Role required: admin
 
@@ -77,7 +77,7 @@ Role required: admin
 
     3.  In the Provider Channel Identity form, locate the **Message auth** field and select the message auth that you set up previously.
 
-        ![Provider Channel Identify form for VA Bot-to-Bot Provider Application record, with Message auth field highlighted.](../images/b2b-provider-identity_brand2.0.png)
+        ![Provider Channel Identify form for VA Bot-to-Bot Provider Application record, with Message auth field highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/b2b-provider-identity_brand2.0.png)
 
     4.  Click **Update**.
 
@@ -87,7 +87,7 @@ Role required: admin
 
     1.  In the Headers, set the **x-b2b-signature** to `{{hashValue}}`.
 
-        ![Example Postman encoding in Headers.](../images/postman-encoding-example.png)
+        ![Example Postman encoding in Headers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/postman-encoding-example.png)
 
     2.  In the Pre-request Script area, set the token as follows:
 
@@ -95,12 +95,12 @@ Role required: admin
         pm.environment.set('hashValue', CryptoJS.HmacSHA1(JSON.stringify(JSON.parse(request.data)), '<insert your token>').toString(CryptoJS.enc.Hex));
         ```
 
-        ![Example Postman pre-request script that shows where to enter the token.](../images/postman-prerequest-script.png)
+        ![Example Postman pre-request script that shows where to enter the token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/postman-prerequest-script.png)
 
 
 ## What to do next
 
 
 
-**Parent Topic:**[Review the inbound REST endpoint and configure inbound authentication](configure-send-request.md)
+**Parent Topic:**[Review the inbound REST endpoint and configure inbound authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-send-request.md)
 

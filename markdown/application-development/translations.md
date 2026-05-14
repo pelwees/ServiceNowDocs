@@ -21,5 +21,5 @@ For example, export all **sys\_choice** records. Provide the export to a transla
 
 For more information, see [Language Internationalization Support](https://servicenow.com/docs/bundle/paris-platform-administration/page/administer/localization/concept/c_LangInternationalizationSupport.html)
 
-**Parent Topic:**[Create design elements](create-design-elements.md)
+**Parent Topic:**[Create design elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-design-elements.md)
 

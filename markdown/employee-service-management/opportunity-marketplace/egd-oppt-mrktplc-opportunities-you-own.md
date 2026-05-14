@@ -29,5 +29,5 @@ Select **New applicants** to view opportunities that have new applications that 
 
 Select **Accepting applications** to view a list of active opportunities that employees can apply to.
 
-**Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](egd-oppt-mrktplc-explore.md)
+**Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 

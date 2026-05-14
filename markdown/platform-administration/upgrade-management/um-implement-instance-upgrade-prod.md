@@ -48,5 +48,5 @@ Role required: admin
 2.  Select **Mark as complete** when the upgrade process completes.
 
 
-**Parent Topic:**[Access guided upgrade on a production instance](um-guided-tour-implement-prod.md)
+**Parent Topic:**[Access guided upgrade on a production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement-prod.md)
 

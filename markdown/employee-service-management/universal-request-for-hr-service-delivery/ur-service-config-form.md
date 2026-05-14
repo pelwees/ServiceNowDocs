@@ -24,5 +24,5 @@ Use the **Service Configuration** form to register your service to use the Unive
 |Service Set|Select the service set that your service belongs to.|
 |Restrict requests|Select to mark all the requests created for the service as restricted.|
 
-**Parent Topic:**[Universal Request reference](ur-reference-topic.md)
+**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 

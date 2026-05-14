@@ -33,7 +33,7 @@ For example, an HR administrator may have some confidential information. A user 
 
 3.  In the Search as section, fill in the fields.
 
-    ![Search as configuration fields.](../image/search-as.png)
+    ![Search as configuration fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/search-as.png)
 
 <table id="table_gh2_gtj_lq"><thead><tr><th>
 
@@ -89,5 +89,5 @@ A condition script, enabling administrators to implement more powerful condition
 
 The **My Results** tab displays search results for the currently logged-in user. The **&lt;user-name&gt; Results** tab displays search results for the user referenced in the **Search as field**.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

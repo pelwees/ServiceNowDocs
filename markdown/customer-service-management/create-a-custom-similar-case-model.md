@@ -76,7 +76,7 @@ Steps in Assess the similarity model:
 
     |Options|Description|
     |-------|-----------|
-    |Recommendations|Shows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for CSM. For more information, see [Configuring the Recommended Actions application](configure-recommended-actions.md).|
+    |Recommendations|Shows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for CSM. For more information, see [Configuring the Recommended Actions application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-recommended-actions.md).|
     |Turn off predictions|Stops the model from performing any predictions.|
     |Monitor only|Monitors and runs the model in the background only without making any predictions on the case form.|
 

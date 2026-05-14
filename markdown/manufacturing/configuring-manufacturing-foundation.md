@@ -15,9 +15,9 @@ Set up Manufacturing Commercial Operations to enable manufacturers to manage the
 
 ## Installing and configuring Manufacturing Commercial Operations applications
 
-With admin role, when you activate the Manufacturing Commercial Operations application \[sn\_dealer\_mgmt\], the [Plugins installed with Manufacturing Commercial Operations](manufacturing-commercial-operations-plugins.md) plugins are automatically installed.
+With admin role, when you activate the Manufacturing Commercial Operations application \[sn\_dealer\_mgmt\], the [Plugins installed with Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-commercial-operations-plugins.md) plugins are automatically installed.
 
-To learn how to install and configure Manufacturing Commercial Operations applications plugins, see [Getting started with Manufacturing Commercial Operations](getting-started-mco.md).
+To learn how to install and configure Manufacturing Commercial Operations applications plugins, see [Getting started with Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/getting-started-mco.md).
 
 As a user with the admin role, complete the following main configuration tasks to set up your Manufacturing Commercial Operations application.
 
@@ -31,7 +31,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Customer Service Management for Manufacturing Commercial Operations](../task/mco-install-cust-ser-mgmt.md)\(Mandatory\)
+[Install Customer Service Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-cust-ser-mgmt.md)\(Mandatory\)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Install the Customer Service Management application from the ServiceNow Store st
 
 </td></tr><tr><td>
 
-[Install Order Management for Manufacturing Commercial Operations](../task/mco-install-som.md)\(Mandatory\)
+[Install Order Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-som.md)\(Mandatory\)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Install the Order to cash operations application from the ServiceNow Store. This
 
 </td></tr><tr><td>
 
-[Getting started with Manufacturing Commercial Operations](getting-started-mco.md)\(Mandatory\)
+[Getting started with Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/getting-started-mco.md)\(Mandatory\)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Install the Install Base Management application from the ServiceNow Store store.
 
 </td></tr><tr><td>
 
-[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](../task/mco-install-configure-sb-providers.md)\(Optional\)
+[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-configure-sb-providers.md)\(Optional\)
 
 </td><td>
 

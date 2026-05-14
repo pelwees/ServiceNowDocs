@@ -20,23 +20,23 @@ Watch this short video for an introduction to the Telecommunications Network Inv
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how providers use Telecommunications Network Inventory.](exploring-telecommunicatons-network-inventory.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how providers use Telecommunications Network Inventory.](exploring-telecommunicatons-network-inventory.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Telecommunications Network Inventory.](configuring-telecom-network-inventory.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Telecommunications Network Inventory.](configuring-telecom-network-inventory.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend Telecommunications Network Inventory capabilities by integrating with other applications.](integrating-telecommunications-network-inventory--applications.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend Telecommunications Network Inventory capabilities by integrating with other applications.](integrating-telecommunications-network-inventory--applications.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Network Inventory to create and review a comprehensive network inventory model.](using-telecom-network-inventory.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Network Inventory to create and review a comprehensive network inventory model.](using-telecom-network-inventory.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Network Inventory reference information.](telecommunications-network-inventory-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Network Inventory reference information.](telecommunications-network-inventory-reference.md)
 
 </td><td>
 

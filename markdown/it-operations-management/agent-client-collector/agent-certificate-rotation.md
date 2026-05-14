@@ -20,12 +20,12 @@ When an Agent Client Collector's certificate expiration is approaching, system p
 -   **certificate-rotation-days-out**: Indicates the number of days before certificate expiration that an agent attempts to rotate its certificate. Configured in the `acc.yml` configuration file. Default = 28.
 -   **sn\_agent.certificate\_rotation\_days\_out**: Indicates the number of days before certificate expiration that the system accepts a certificate rotation request for a specific agent. Configured on the System Properties page \(**All** &gt; **System Properties** &gt; **All Properties**\). Default = 28.
 
-**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-certificates.md)
 
 **Related topics**  
 
 
-[View the Agent Client Collector configuration file for an agent](../task/acc-yml-view.md)
+[View the Agent Client Collector configuration file for an agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/acc-yml-view.md)
 
-[Configuration file options](../reference/acc-yml-options.md)
+[Configuration file options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/acc-yml-options.md)
 

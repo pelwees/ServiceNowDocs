@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-Short description of the business process.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+Short description of the business process.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -123,14 +123,14 @@ Risk rating for the risk of impact to integrity. Impact to integrity has consequ
 -   **3- Low**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring business processes](../../concept/eaw-concept/eaw-business-processes.md)
+[Exploring business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-business-processes.md)
 
-[Add or edit a business process](../../task/eaw-task/eaw-create-business-process.md)
+[Add or edit a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-business-process.md)
 
-[View all business processes](../../task/eaw-task/eaw-view-all-business-processes.md)
+[View all business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-business-processes.md)
 

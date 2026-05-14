@@ -19,7 +19,7 @@ To access the Branding Editor, navigate to **Service Portal** &gt; **Service Por
 
 From the portal list, select the portal you want to customize the theme for. Then use the options on the Quick Setup and Theme Colors tabs to customize your portal.
 
-![Branding Editor.](../image/BrandEditor.png "Branding Editor")
+![Branding Editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/BrandEditor.png "Branding Editor")
 
 <table id="table_bq1_v4h_2z"><thead><tr><th>
 
@@ -119,5 +119,5 @@ Upload an image to appear in the background of your homepage. This image is stor
 
 Changes made to the theme colors in the Branding Editor appear in the CSS variables field of the portal form in the platform UI.
 
-**Parent Topic:**[Defining portal styles](portal-css.md)
+**Parent Topic:**[Defining portal styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-css.md)
 

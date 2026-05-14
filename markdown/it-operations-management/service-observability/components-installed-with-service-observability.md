@@ -175,5 +175,5 @@ Service Observability PA Dashboardssn\_sow\_svcobs\_pa\_dashboards
 Contains reference information for customized dashboards.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Observability reference](service-observability-reference.md)
+</table>**Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 

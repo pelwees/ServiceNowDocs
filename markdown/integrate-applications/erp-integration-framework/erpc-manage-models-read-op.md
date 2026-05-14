@@ -42,24 +42,24 @@ Video that shows how to add an operation to a model in Zero Copy Connector for E
 
 5.  Select **Add model operation**.
 
-    ![Add model operation button appears on the ERP model manager page.](../image/erpc-model-operation-page-manager-ys2.png)
+    ![Add model operation button appears on the ERP model manager page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-model-operation-page-manager-ys2.png)
 
 6.  In the **Select type** field of the **Add operation** modal, specify the type of operation you're adding.
 
     -   **Update** sends data back to write to the ERP system.
     -   **Read** reads and retrieves data from the ERP system and brings it onto the ServiceNow AI Platform.
     -   **Create** is used to create a new instance of the business object in the SAP system.
-    ![Specify the type of operation you're adding](../image/erpc-add-operation-modal.png)
+    ![Specify the type of operation you're adding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-add-operation-modal.png)
 
 7.  Select at least one user role or group that can read or run the model operation.
 
-    To prevent disruptions, all existing model operations have been assigned the admin role and the erp\_user role by default. You can edit these permissions on the existing operations at any time to suit your needs. To change the permissions, select the edit \(pencil\) icon ![](../../../reuse/icons/product-icons/pencil-outline-24.svg) on the model operation card. For more information about model operation security, see [Set operation-level security on a model](../concept/erp-canvas-set-operation-level-security-on-a-model.md).
+    To prevent disruptions, all existing model operations have been assigned the admin role and the erp\_user role by default. You can edit these permissions on the existing operations at any time to suit your needs. To change the permissions, select the edit \(pencil\) icon ![](../../../reuse/icons/product-icons/pencil-outline-24.svg) on the model operation card. For more information about model operation security, see [Set operation-level security on a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-set-operation-level-security-on-a-model.md).
 
 8.  Select **Save and continue**.
 
     The operation tile is displayed with the roles and groups you added.
 
-    ![Manage model page with create, read, and update operations that have user or group roles assigned for security.](../image/erp-operation-security1.png)
+    ![Manage model page with create, read, and update operations that have user or group roles assigned for security.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-operation-security1.png)
 
 
 ## Result
@@ -68,9 +68,9 @@ The foundation of the operation is created.
 
 ## What to do next
 
-Next, you must add the read or update entity to the operation. For more information, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+Next, you must add the read or update entity to the operation. For more information, see [Add an entity to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/add-an-entity-to-model.md).
 
 You can select the delete icon \(![](../../../reuse/icons/product-icons/trash-outline-24.svg)\) on the operation's card to remove any operations you don't need, or to start over.
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/work-with-erp-data-models.md)
 

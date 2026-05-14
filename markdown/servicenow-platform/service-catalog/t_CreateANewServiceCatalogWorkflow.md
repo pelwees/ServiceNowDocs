@@ -29,7 +29,7 @@ This example describes the procedure to set up fulfillment for a laptop request.
 
 2.  Click **New Workflow**.
 
-    ![Service catalog workflow form](../image/ServiceCatalogWorkflowForm.png "Service catalog workflow form")
+    ![Service catalog workflow form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogWorkflowForm.png "Service catalog workflow form")
 
 3.  Complete the form with the following information.
 
@@ -101,12 +101,12 @@ Description
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-    ![Service catalog workflow form activities](../image/ServiceCatalogWorkflowFormActivities.png "Service catalog workflow form activities")
+    ![Service catalog workflow form activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogWorkflowFormActivities.png "Service catalog workflow form activities")
 
 
 ## What to do next
 
 After initiating a workflow, add workflow activities to it. Workflow activities are listed on the **Core** tab in the right pane.
 
-**Parent Topic:**[Service catalog workflows](../concept/c_ServiceCatalogWorkflowDefinition.md)
+**Parent Topic:**[Service catalog workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogWorkflowDefinition.md)
 

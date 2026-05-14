@@ -35,7 +35,7 @@ Role required: admin
 
 6.  Add the appropriate filter conditions to control the visibility of the tab.
 
-    For example, set **Sys ID** to `javascript:new sn_uni_task.UniversalTaskUtils().hasTasksToShow(current)` to make the task tab visible only if there tasks are assigned to the employee. ![Filter conditions for tab configurations.](../images/ut-tab-configuration.png)
+    For example, set **Sys ID** to `javascript:new sn_uni_task.UniversalTaskUtils().hasTasksToShow(current)` to make the task tab visible only if there tasks are assigned to the employee. ![Filter conditions for tab configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/ut-tab-configuration.png)
 
 7.  In the **Widget** field, add a widget.
 
@@ -44,9 +44,9 @@ Role required: admin
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Add a Universal Task related list](create-relatedlist-ur.md)
+**Previous topic:**[Add a Universal Task related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/create-relatedlist-ur.md)
 
-**Next topic:**[Define the agent criteria for Universal Task](ut-config-extn-point-agent.md)
+**Next topic:**[Define the agent criteria for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-extn-point-agent.md)
 

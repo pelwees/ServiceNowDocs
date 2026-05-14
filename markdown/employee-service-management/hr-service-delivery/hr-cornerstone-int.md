@@ -19,7 +19,7 @@ Cornerstone OnDemand is a learning system that hosts learning videos, training, 
 
 ## Setting up the application
 
-To set up the HR Service Delivery Integration with Cornerstone OnDemand application, you must first activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and Enterprise Service Management Integrations Framework. Next you must set up the Cornerstone spoke in IntegrationHub. For details on how to complete the set up, refer to [Setting up HR Service Delivery Integration with Cornerstone OnDemand](../task/set-up-cornerstone.md).
+To set up the HR Service Delivery Integration with Cornerstone OnDemand application, you must first activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and Enterprise Service Management Integrations Framework. Next you must set up the Cornerstone spoke in IntegrationHub. For details on how to complete the set up, refer to [Setting up HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/set-up-cornerstone.md).
 
 ## Using Enterprise Service Management Integrations Framework
 
@@ -41,11 +41,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../task/set-up-cornerstone.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../task/set-up-cornerstone.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](../reference/reference-ondemand.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](../reference/reference-ondemand.md)
 
 </td></tr></tbody>
 </table>## Additional resources

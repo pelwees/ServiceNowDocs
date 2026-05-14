@@ -30,7 +30,7 @@ Role required: sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin
 
 ## What to do next
 
-[Create an action category](create-action-category.md)
+[Create an action category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-action-category.md)
 
-**Parent Topic:**[Creating an action](../concept/creating-action.md)
+**Parent Topic:**[Creating an action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/creating-action.md)
 

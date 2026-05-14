@@ -75,7 +75,7 @@ The total time spent is grouped by the following task categories:
 
     **Total time spent by task category** report is displayed.
 
-    ![Asset task time summary](../image/asset-task-summary-ham.png)
+    ![Asset task time summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/asset-task-summary-ham.png)
 
     The Asset task time summary report includes the following details:
 

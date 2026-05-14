@@ -92,15 +92,15 @@ After completing the form, check the box.
 
 9.  To save a PDF copy of your report, select the **Save a PDF copy of your report** link.
 
-    **Note:** The report key and report number are required to access updates or comments related to an anonymous report. The report key and report number allows the person filing the complaint to track and view details about the progress of the anonymous case and respond to any follow up questions. Without the report key, the person who made the anonymous report cannot access their report. HR agents that have access to the Anonymous Report Center \(ARC\) and admin has access. For more information, see [Access an anonymous report](arc-access-anon-report.md).
+    **Note:** The report key and report number are required to access updates or comments related to an anonymous report. The report key and report number allows the person filing the complaint to track and view details about the progress of the anonymous case and respond to any follow up questions. Without the report key, the person who made the anonymous report cannot access their report. HR agents that have access to the Anonymous Report Center \(ARC\) and admin has access. For more information, see [Access an anonymous report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md).
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/arc-use.md)
 
 **Related topics**  
 
 
-[Anonymously report discrimination](arc-report-discrimination.md)
+[Anonymously report discrimination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-report-discrimination.md)
 
-[Access an anonymous report](arc-access-anon-report.md)
+[Access an anonymous report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md)
 

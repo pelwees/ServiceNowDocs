@@ -16,7 +16,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Log Analytics alerts.
 
-For a detailed description of Log Analytics alerts, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Log Analytics alerts, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -24,9 +24,9 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
 
     This card describes the issue that led to the alert. The identified issue appears on the card and in the title for the alert. Information about the alert appears in the banner.
 
-    ![Identified issue appears here and in alert title.](../image/identified-issue-card-loganalytics-alert-sow.png "Identified issue")
+    ![Identified issue appears here and in alert title.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/identified-issue-card-loganalytics-alert-sow.png "Identified issue")
 
-    Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-surrounding-logs-view-sow.md).
 
 -   **Anomaly**
 
@@ -40,9 +40,9 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
     -   Baseline values from the previous week
     In this example, the blue line represents the current average number of events per minute. The orange-shaded area represents the baseline values for the same hour in the previous week.
 
-    ![Baseline values for same hour in previous week.](../image/anomaly-week-earlier.png "Anomaly card with baseline values one week earlier")
+    ![Baseline values for same hour in previous week.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/anomaly-week-earlier.png "Anomaly card with baseline values one week earlier")
 
-    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md).
+    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-op-anomalous-behavior-types.md).
 
 
 ## Impact
@@ -55,7 +55,7 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
 
     This card provides information about the services that are impacted by the alert.
 
-    ![Impact section provides information on the impacted CIs and services.](../image/hla-ovrvw-tab-impact-single-sow.png "Impact section")
+    ![Impact section provides information on the impacted CIs and services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-ovrvw-tab-impact-single-sow.png "Impact section")
 
 
 ## Cause
@@ -64,8 +64,8 @@ For a detailed description of Log Analytics alerts, see [Types of Health Log Ana
 
     On this card, each bar chart shows the distribution of values for a single log property that contributed to the anomaly. Each property value is associated with a color. The length of a color bar correlates to the percentage that the property value holds in comparison with all other values for the property.
 
-    ![Meaningful log properties shows relative frequency of occurrence for property values.](../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
+    ![Meaningful log properties shows relative frequency of occurrence for property values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
 
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-overview-tab-view-sow.md)
 

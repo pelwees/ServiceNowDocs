@@ -15,12 +15,12 @@ The ServiceNow® Vault application provides a set of data security tools that pr
 
 ## ServiceNow Vault highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   Enhance your security posture by securing the data in your custom applications with Ask Now Assist.
 -   Surface sensitive data access by users automatically by leveraging Now Assist to configure, audit, and summarize your Access Observer logs.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-all-other-fixes.md)
 
 -   Identify potential threats and data leaks using the new AI Insights section within the ServiceNow Vault console dashboard.
 -   Use guided setup to begin autoclassifying sensitive data within your custom applications.
@@ -102,5 +102,5 @@ Install ServiceNow Vault and Now Assist for Vault by requesting them from the Se
     Use continuous authentication on classified sensitive data in real time.
 
 
-**Parent Topic:**[ServiceNow AI Platform security release notes](now-platform-security-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform security release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-security-rn-landing.md)
 

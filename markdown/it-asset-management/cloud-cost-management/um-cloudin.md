@@ -33,9 +33,9 @@ Cloud Cost Management generates aged snapshot recommendations for the following 
 
 ## How the Unused resources feature works
 
-![Flow of the Unused resources project](../image/um-process-flow-diagram.png)
+![Flow of the Unused resources project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/um-process-flow-diagram.png)
 
-1.  On the Unused resources recommendations page, select the resources to terminate or power off based on your analysis of the recommendations. For more information, see [Manage unused resources](manage-unused-mac.md).
+1.  On the Unused resources recommendations page, select the resources to terminate or power off based on your analysis of the recommendations. For more information, see [Manage unused resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-unused-mac.md).
 2.  Add the resources to an Unused resources job, either a new job or an already-defined job.
 3.  Specify the date and time for the job to run.
 4.  Specify the action to take on the selected resources:
@@ -54,16 +54,16 @@ The system immediately generates the change requests. Later, at the scheduled ti
 
 Cloud Cost Management uses an optimized process for each provider.
 
--   [Unused resources analysis for AWS](../reference/aws-how-um-works-cloudin.md)
--   [Unused resources analysis for Microsoft Azure](../reference/azure-how-um-works-cloudin.md)
--   [Unused resources analysis for Google Cloud](../reference/gcp-how-um-works-cloudin.md)
+-   [Unused resources analysis for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/aws-how-um-works-cloudin.md)
+-   [Unused resources analysis for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/azure-how-um-works-cloudin.md)
+-   [Unused resources analysis for Google Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/gcp-how-um-works-cloudin.md)
 
 **Related topics**  
 
 
-[Schedule unused resources to be powered off or terminated](../task/um-schedule-job-cloudin.md)
+[Schedule unused resources to be powered off or terminated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/um-schedule-job-cloudin.md)
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 
-[Exclude a resource from all Cloud Cost Management reports](../task/exclusion-list-add-to-cloudin.md)
+[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/exclusion-list-add-to-cloudin.md)
 

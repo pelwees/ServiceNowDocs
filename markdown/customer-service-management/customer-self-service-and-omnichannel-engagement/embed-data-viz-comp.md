@@ -17,7 +17,7 @@ Embed the global code and component code of the Data visualization component ins
 
 ## Before you begin
 
-You must configure the Data visualization component instance. For information, see [Configure the Data visualization component instance](config-data-viz-comp.md).
+You must configure the Data visualization component instance. For information, see [Configure the Data visualization component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-data-viz-comp.md).
 
 Role required: admin
 

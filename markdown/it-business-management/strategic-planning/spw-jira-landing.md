@@ -19,15 +19,15 @@ Improve visibility from strategy to execution with Jira Integration. This integr
 
 <table id="table_uk2_m12_nhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore](../concept/exploring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SPW Jira Integrations and its workflow.
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/exploring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SPW Jira Integrations and its workflow.
 
 </td><td>
 
-[Configure](../concept/configuring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the integration between SPW and Jira.
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/configuring-spw-jira-integrations.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the integration between SPW and Jira.
 
 </td><td>
 
-[Reference](spw-jira-integrations-reference.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)More information on roles, tables, and forms used in SPW Jira integration.
+[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)More information on roles, tables, and forms used in SPW Jira integration.
 
 </td></tr></tbody>
 </table>

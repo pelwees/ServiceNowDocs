@@ -21,13 +21,13 @@ Role required: BCM admin or BCM Program Manager
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the map icon \(![Crisis map icon](../image/CrisisMapIcon.png)\).
+2.  Click the map icon \(![Crisis map icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/CrisisMapIcon.png)\).
 
 3.  Click an alert record to open the alert in its detailed view.
 
     You can see various details of the alert on the form header.
 
-    ![Assets at risk form header.](../image/AssetsAtRiskFormHeader.png "Assets at risk form header")
+    ![Assets at risk form header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AssetsAtRiskFormHeader.png "Assets at risk form header")
 
     -   The title of the alert
     -   The category of the alert
@@ -38,7 +38,7 @@ Role required: BCM admin or BCM Program Manager
     -   The coordinates of the impacted area
     -   The source or the website from where the feed alert was received
     -   Its description
-    ![Assets at risk in the map.](../image/AssetsAtRiskCrisisMap.png "Assets at risk in the map")
+    ![Assets at risk in the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AssetsAtRiskCrisisMap.png "Assets at risk in the map")
 
 4.  Expand **Assets at Risk** section to view all the listed assets that are at risk.
 
@@ -46,7 +46,7 @@ Role required: BCM admin or BCM Program Manager
 
     The boundary of the alert's impacted area on the map is marked in mauve color. You can view the assets that are at risk within this impacted area on the map. If one of your location, datacenter, or a core company is impacted by the alert, you can edit the impacted zone to include the asset.
 
-5.  To edit an impacted area, click the alert menu icon \(![Alert menu icon.](../image/AlertMenuIcon.png)\).
+5.  To edit an impacted area, click the alert menu icon \(![Alert menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AlertMenuIcon.png)\).
 
     1.  Click the **Edit Impact Area** option.
 
@@ -56,7 +56,7 @@ Role required: BCM admin or BCM Program Manager
         -   Custom Radius: If the impacted area is a circle.
     3.  Click and drag the vertex on the boundary of the impacted area to include the asset location.
 
-        ![Edit impacted area.](../image/VertexAlertImpactedArea.png "Edit impacted area")
+        ![Edit impacted area.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/VertexAlertImpactedArea.png "Edit impacted area")
 
     4.  Click **Save**.
 

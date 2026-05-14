@@ -15,7 +15,7 @@ breadcrumb: [Microsites, Creating employee communications, Authoring and managin
 
 Modify the HTML and CSS source code for all the elements in the canvas or for a specific element.
 
-Build the layout using HTML elements, directly edit the CSS for an element to add styling that isn't otherwise available in the canvas interface, or copy-paste code to migrate content from other sources.![Add a border around a row and customize the header font](../images/rce-code-editor.png)
+Build the layout using HTML elements, directly edit the CSS for an element to add styling that isn't otherwise available in the canvas interface, or copy-paste code to migrate content from other sources.![Add a border around a row and customize the header font](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/rce-code-editor.png)
 
 ## Features and capabilities
 
@@ -44,10 +44,10 @@ Build the layout using HTML elements, directly edit the CSS for an element to ad
 
     In the following video, the user tries to delete a CSS rule using the delete key, but the system reinstates the code. Next the user highlights the code and clicks **Remove CSS**, which successfully removes the code.
 
-    ![User unsuccessfully tries to delete a CSS rule using the delete key, so they use the Remove CSS button, which removes the highlighted code](../images/rce-remove-css.gif "Example of using the Remove CSS button")
+    ![User unsuccessfully tries to delete a CSS rule using the delete key, so they use the Remove CSS button, which removes the highlighted code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/rce-remove-css.gif "Example of using the Remove CSS button")
 
 
-**Note:** This feature is not available by default. An Admin must enable the **Edit code** property. See [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+**Note:** This feature is not available by default. An Admin must enable the **Edit code** property. See [Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md)
 
 ## Important considerations
 
@@ -56,9 +56,9 @@ Build the layout using HTML elements, directly edit the CSS for an element to ad
 
     In the following example, the user defines a CSS rule for the p element in a cell. However, in the page preview, the style rules apply to the p elements in all the text boxes, as well as in the footer.
 
-    ![User defines a CSS rule using the HTML p element for a cell but the rule is applied throughout the page](../images/rce-dont-do-this.gif "Example of an unexpected outcome when using HTML element to define CSS rule")
+    ![User defines a CSS rule using the HTML p element for a cell but the rule is applied throughout the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/rce-dont-do-this.gif "Example of an unexpected outcome when using HTML element to define CSS rule")
 
 -   Different browsers may exhibit varying copy/paste behaviours. If pressing Ctrl+V does not duplicate the content as expected, click the duplicate icon in the component toolbar.
--   If copy-pasted content does not retain its styling \(such as font\), and adjusting the settings does not help, clear the styling by clicking the “x" next to the styling field, then set the styling.![Remove the custom styling by clicking the "x" next to the styling field](../images/rce-fix-styling.png)
+-   If copy-pasted content does not retain its styling \(such as font\), and adjusting the settings does not help, clear the styling by clicking the “x" next to the styling field, then set the styling.![Remove the custom styling by clicking the "x" next to the styling field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/rce-fix-styling.png)
 -   If pasted content appears differently saving, it likely due to some script tags being removed by the HTML sanitizer.
 

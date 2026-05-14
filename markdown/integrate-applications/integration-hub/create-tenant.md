@@ -65,7 +65,7 @@ Tenant Id
 
 </td><td>
 
-Enter the Tenant ID. This is the Directory ID for the Azure AD Directory that is supporting the Microsoft SharePoint Online tenant you want to connect to. See [Configure OAuth application in Microsoft Azure](configure-oauth-application-in-microsoft-azure.md).
+Enter the Tenant ID. This is the Directory ID for the Azure AD Directory that is supporting the Microsoft SharePoint Online tenant you want to connect to. See [Configure OAuth application in Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-oauth-application-in-microsoft-azure.md).
 
 </td></tr><tr><td>
 

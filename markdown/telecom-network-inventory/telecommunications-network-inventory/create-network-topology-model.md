@@ -27,7 +27,7 @@ When you create a network topology model record, it creates a model in the Netwo
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Network Topology Models**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Network Topology Models**.
 
 3.  Select **New**.
 
@@ -86,23 +86,23 @@ Type of topology. Select one from the following:-   Generic
 
 
 </td></tr></tbody>
-</table>    To learn more about common fields, see [Inventory Model form - General](../reference/tni-model-form-general.md).
+</table>    To learn more about common fields, see [Inventory Model form - General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-model-form-general.md).
 
 5.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](../reference/additional-tabs-of-inventory-models.md).
+    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/additional-tabs-of-inventory-models.md).
 
 
 ## What to do next
 
-You use the design and assign function to create a topology record. To learn more, see [Create a network topology record by using design and assign](../task/instantiate-network-topology-design-assign.md).
+You use the design and assign function to create a topology record. To learn more, see [Create a network topology record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/instantiate-network-topology-design-assign.md).
 
-**Parent Topic:**[Create inventory models](creating-your-inventory-models.md)
+**Parent Topic:**[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-your-inventory-models.md)
 
 **Related topics**  
 
 
-[Network topology](visualization-of-topology.md)
+[Network topology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/visualization-of-topology.md)
 
-[Network inventory models](using-inventory-models-tni.md)
+[Network inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 

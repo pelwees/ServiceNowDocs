@@ -61,18 +61,18 @@ Additionally, the SQL API is read-only by design. You cannot perform INSERT, UPD
 
 To learn more about configuring and using SQL API, see:
 
--   [SQL API architecture](sql-api-architecture.md)
--   [Configuring SQL API](configuring-sql-api.md)
--   [Install SQL API plugin on your ServiceNow instance](install-sql-api-plugin.md)
--   [Common use cases for SQL API](common-use-cases-for-sql-api.md)
--   [SQL API reference information](../reference/troubleshooting.md)
+-   [SQL API architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/sql-api-architecture.md)
+-   [Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/configuring-sql-api.md)
+-   [Install SQL API plugin on your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/install-sql-api-plugin.md)
+-   [Common use cases for SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/common-use-cases-for-sql-api.md)
+-   [SQL API reference information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/troubleshooting.md)
 
--   **[SQL API architecture](sql-api-architecture.md)**  
+-   **[SQL API architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/sql-api-architecture.md)**  
 The SQL API architecture demonstrates how the SQL API plugin integrates with the ServiceNow system to provide secure, read-only data access through industry-standard ODBC and JDBC drivers.
--   **[Supported SQL functions](../reference/supported-sql-functions.md)**  
+-   **[Supported SQL functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/supported-sql-functions.md)**  
 Common SQL functions used in SQL API for querying and analyzing incident data.
--   **[Common use cases for SQL API](common-use-cases-for-sql-api.md)**  
+-   **[Common use cases for SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/common-use-cases-for-sql-api.md)**  
 The SQL API supports business intelligence reporting, ad-hoc data analysis, and custom report development.
 
-**Parent Topic:**[Access your ServiceNow data using SQL API](accessing-your-servicenow-data-using-sql-api.md)
+**Parent Topic:**[Access your ServiceNow data using SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/accessing-your-servicenow-data-using-sql-api.md)
 

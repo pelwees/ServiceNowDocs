@@ -28,5 +28,5 @@ For more information on support levels, see [Application support for domain sepa
 
 **Note:** All Manufacturing Commercial Operations tables support domain separation.
 
-**Parent Topic:**[Reference](manufacturing-reference.md)
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 

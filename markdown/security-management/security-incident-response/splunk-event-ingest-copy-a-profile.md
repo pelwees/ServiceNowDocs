@@ -33,7 +33,7 @@ If you copy a profile, the profile name is initially modified to avoid duplicate
 
 2.  In the Splunk Event Profiles list that is displayed, select a profile that you want to copy, and, from the Actions on selected rows choice list, select **Copy**.
 
-    ![Event Profiles list with Actions on selected rows highlighted.](../image/splunk-copy-profile1.png)
+    ![Event Profiles list with Actions on selected rows highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-copy-profile1.png)
 
     The profile is copied and displayed on the list. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the configuration settings apply to the new profile as required.
 
@@ -44,5 +44,5 @@ If you copy a profile, the profile name is initially modified to avoid duplicate
 
 You are prompted to activate \(enable\) the new profile after you complete the configuration steps.
 
-**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](../concept/splunk-event-ingest-integration-architecture.md)
+**Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/splunk-event-ingest-integration-architecture.md)
 

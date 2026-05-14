@@ -36,5 +36,5 @@ Ensure that the application and all of its associated ServiceNow store applicati
     In the Install dialog box, all dependent plugins are displayed.
 
 
-**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](../concept/configure-ci-sms-with-aws.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-ci-sms-with-aws.md)
 

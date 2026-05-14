@@ -27,7 +27,7 @@ The value in the **Group** column identifies the type of alert as one of the fol
 
     In this example service instance, the identical Java apps X, Y, and Z make up a single component: Component B. Tomcat servers Q, R, and S and their hosts make up a different single component: Component C.
 
-    ![Service instance with four components.](../image/component-example.png "Example service instance")
+    ![Service instance with four components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/component-example.png "Example service instance")
 
 -   **Log Analytics alert**
 
@@ -41,6 +41,6 @@ The value in the **Group** column identifies the type of alert as one of the fol
     -   Metadata: The alerts have matching values in log-line metadata. For example, all alerts involve the same host.
     -   Message text: The message text in the log data is similar or identical between alerts.
     -   Trend: The alerts show a similar tendency in values or rates. For example, a particular metric value is increasing in all alerts.
-    **Note:** You can mark an alert as significant. A significant alert is more likely to be included in a Log Analytics group when the associated metric behaves anomalously. For more information, see [Mark an alert as significant in Health Log Analytics](../task/hla-op-alert-make-significant-sow.md)
+    **Note:** You can mark an alert as significant. A significant alert is more likely to be included in a Log Analytics group when the associated metric behaves anomalously. For more information, see [Mark an alert as significant in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/hla-op-alert-make-significant-sow.md)
 
 

@@ -15,12 +15,12 @@ breadcrumb: [Configure Finance Operations Workspace, Configure, Finance Case Man
 
 Configure a knowledge base so that guest users can publish the knowledge base articles from the Finance Operations Workspace.
 
-**Parent Topic:**[Configure Finance Operations Workspace](configuring-fin-ops-ws.md)
+**Parent Topic:**[Configure Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/configuring-fin-ops-ws.md)
 
 **Related topics**  
 
 
-[Configure the Finance Operations Workspace landing page](configure-fin-ops-ws.md)
+[Configure the Finance Operations Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/configure-fin-ops-ws.md)
 
 ## Enable guest users to publish knowledge base articles from the Finance Operations Workspace
 
@@ -69,7 +69,7 @@ Role required: admin
 
 4.  Under the Number column, select the link to a knowledge base article to open it.
 
-5.  Select **Publish**.![Publish a finance article](../image/fin-ops-publish.png)
+5.  Select **Publish**.![Publish a finance article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-publish.png)
 
     A confirmation message appears, notifying you that the article is published.
 

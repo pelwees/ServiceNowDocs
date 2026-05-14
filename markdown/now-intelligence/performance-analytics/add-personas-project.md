@@ -16,7 +16,7 @@ breadcrumb: [KPI Composer projects, Design your indicator solution, Configure fu
 Each project has several personas with different roles in the Performance Analytics solution that you are designing. A persona is a role within your company, such as service desk manager or service owner.
 
 Prerequisites
-:   [Create a KPI Composer project](create-kpi-composer-project.md)
+:   [Create a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-kpi-composer-project.md)
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 ## Adding personas to a KPI Composer project
 
-In the following short animation, you see how to add the personas Agent and CIO to a project. Then you see how to add the CIO persona to a Business Goal. ![Creating personas and adding one to an artifact](../image/kpi-comp-add-persona.gif)
+In the following short animation, you see how to add the personas Agent and CIO to a project. Then you see how to add the CIO persona to a Business Goal. ![Creating personas and adding one to an artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-add-persona.gif)
 
 ## What to do next
 
@@ -60,9 +60,9 @@ By holding down the Ctrl/Command or Alt/Option key while dropping a persona onto
     Remove the persona from the artifact on which is dropped and from all child artifacts of that artifact.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Previous topic:**[Define properties for a project](define-properties-project.md)
+**Previous topic:**[Define properties for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/define-properties-project.md)
 
-**Next topic:**[Group data by breakdown definitions](add-breakdowns-project.md#)
+**Next topic:**[Group data by breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-breakdowns-project.md#)
 

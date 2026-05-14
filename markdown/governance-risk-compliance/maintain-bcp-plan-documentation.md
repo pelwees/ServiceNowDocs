@@ -25,7 +25,7 @@ Document all additional information such as the goals, objectives, and scope tha
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon.](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  Click **In Draft** state in the Planning list.
 
@@ -35,7 +35,7 @@ Document all additional information such as the goals, objectives, and scope tha
 
     You can view each section of the documentation in a separate text box. The documentation sections that are part of the plan template, which you used to create the plan, default to this plan. You can create new sections to the documentation and edit existing sections as well.
 
-6.  To edit a documentation section, click the edit icon \(![Edit icon.](../image/EditIcon.png)\).
+6.  To edit a documentation section, click the edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/EditIcon.png)\).
 
     Use this icon to edit the title as well as the text in the description of the documentation section.
 
@@ -47,7 +47,7 @@ Document all additional information such as the goals, objectives, and scope tha
 
     When you reset, both the title and description along with the text in the documentation section are reset to the title, description, and documentation content in the plan template.
 
-9.  To delete a documentation section, click the delete icon \(![Delete icon.](../image/DeleteIcon.png)\).
+9.  To delete a documentation section, click the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DeleteIcon.png)\).
 
     This action deletes the documentation section.
 
@@ -63,7 +63,7 @@ Document all additional information such as the goals, objectives, and scope tha
 
 12. To save and exit the edit mode, click **Complete**.
 
-    After you click **Complete**, both the ![Edit icon.](../image/EditIcon.png) and ![Delete icon.](../image/DeleteIcon.png) icons are disabled. To enable the icons, click the **Edit** button in the documentation section text box.
+    After you click **Complete**, both the ![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/EditIcon.png) and ![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DeleteIcon.png) icons are disabled. To enable the icons, click the **Edit** button in the documentation section text box.
 
 13. To view the subsequent section and scroll through all the sections, collapse the section after you complete editing.
 
@@ -77,14 +77,14 @@ Document all additional information such as the goals, objectives, and scope tha
 
         1.  To rearrange the section order, navigate to **Business Continuity** &gt; **Plan Configuration** &gt; **Plan Templates**
         2.  Click the plan template in the **Name** link.
-        3.  Click unlock document sections icon \(![Unlock document sections icon](../image/UnlockDocumentSectionicon.png)\)
-        4.  Click the add/remove multiple icon \(![Add or remove multiple icon](../image/AddRemoveMultipleIcon.png)\) and move the items in a preferred order in the **Document Sections** field.
+        3.  Click unlock document sections icon \(![Unlock document sections icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/UnlockDocumentSectionicon.png)\)
+        4.  Click the add/remove multiple icon \(![Add or remove multiple icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AddRemoveMultipleIcon.png)\) and move the items in a preferred order in the **Document Sections** field.
 
-            ![Rearrange the order of document sections](../image/DocumentSectionConfigure.png "Document sections")
+            ![Rearrange the order of document sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DocumentSectionConfigure.png "Document sections")
 
         5.  Click **Update**.
     As a program manager, planner, viewer, or BCM administrator, you can only view the rearranged order of the sections in the workspace when your plan uses that template.
 
-    ![Order of documentation sections](../image/DocumentSectionOrder.png "Order of the sections in a document")
+    ![Order of documentation sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DocumentSectionOrder.png "Order of the sections in a document")
 
 

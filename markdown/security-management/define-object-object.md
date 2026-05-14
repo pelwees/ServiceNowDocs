@@ -38,5 +38,5 @@ Role required: sn\_ti.admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Relationships](../concept/stix-relationships.md)
+**Parent Topic:**[Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/stix-relationships.md)
 

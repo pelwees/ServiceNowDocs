@@ -19,7 +19,7 @@ You can view and manage the Enterprise Graph schema, go to **All** &gt; **Knowle
 
 Use Enterprise Graph to view and test the schema. You can also contribute synonyms to the schema for your use case. Synonyms will help improve the accuracy of Enterprise Graph for answering queries.
 
-![Enterprise Graph start page](../Images/GG-landing.png)
+![Enterprise Graph start page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/GG-landing.png)
 
 On the Enterprise Graph start page, use the search bar to search and select a table you want to view or manage. Alternately, you can use the **Open your last view** or **Start with user tables** to view the user and the related table.
 

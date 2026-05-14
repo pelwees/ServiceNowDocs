@@ -18,15 +18,15 @@ Use Build Agent, an autonomous AI agent, for creating and updating ServiceNow® 
 
 <table id="table_a3w_q5k_hgc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Build Agent.](exploring-build-agent.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Build Agent.](exploring-build-agent.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Build Agent to use its features.](../tasks/install-build-agent.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Build Agent to use its features.](../tasks/install-build-agent.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Build Agent to autonomously create and update ServiceNow applications.](../tasks/use-build-agent.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Build Agent to autonomously create and update ServiceNow applications.](../tasks/use-build-agent.md)
 
 </td></tr></tbody>
 </table>**Important:**

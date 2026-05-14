@@ -13,7 +13,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 Several type of components like tables, business rules, and script includes are installed for Work Configurations.
 
-Install the Field Service Work Configurations \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. For more information see [Configuring Field Service Work Configurations](../concept/configuring-work-configs.md).
+Install the Field Service Work Configurations \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. For more information see [Configuring Field Service Work Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/configuring-work-configs.md).
 
 ## Tables
 
@@ -151,5 +151,5 @@ Field Service Work Configurations adds the following script includes.
 |WorkConfigUtil|Utility functions for Work Configurations.|
 |WorkConfigValidationsOOB|Implements extension point `sn_fsm_wt.WorkConfigValidationExtPoint`. This extension point validates insertions or updates made to the tables Work Configuration \(wm\_work\_configuration\) and Work Type Category \(wm\_work\_type\_category\).|
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

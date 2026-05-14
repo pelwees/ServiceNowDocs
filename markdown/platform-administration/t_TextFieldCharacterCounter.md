@@ -29,6 +29,6 @@ This property adds a counter under text fields, such as the **Additional Comment
 
 3.  Select **Save**.
 
-    ![Callout for the location of character counter after the check box has been selected.](../image/CharactersLeft.png)
+    ![Callout for the location of character counter after the check box has been selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CharactersLeft.png)
 
 

@@ -54,5 +54,5 @@ You will find the following duplicate notifications after installing the IT Serv
 
 Leave a comment on an incident record, only one notification appears about the comment in Microsoft Teams.
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](../concept/sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/sn-ms-teams-config-it.md)
 

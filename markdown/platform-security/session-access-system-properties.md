@@ -15,7 +15,7 @@ Use system properties to enable and customize Zero Trust Access to meet your sec
 
 ## Properties
 
-![Zero Trust Access Properties](../images/session-access-system-properties.png)
+![Zero Trust Access Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/session-access-system-properties.png)
 
 <table id="table_vkg_2wf_twb"><thead><tr><th>
 

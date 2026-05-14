@@ -78,5 +78,5 @@ The following data is collected on the DNS \[cmdb\_ci\_dns\_name\] table.
 |Name|name|
 |IP address|ip\_address|
 
-**Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 

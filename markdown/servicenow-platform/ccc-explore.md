@@ -19,19 +19,19 @@ Use ServiceNow Voice to facilitate inbound and outbound telephone calls by integ
 
     Provide a seamless inbound and outbound voice call experience for your callers and agents using third-party systems. See the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/search?listingtype=allintegrations&q=voice&searchDetail&pagetype=integration) for a full list of integrations.
 
-    ![Integrate third-party phone system](../image/integrate-third-party-phone-app.png "Integrate third-party phone system")
+    ![Integrate third-party phone system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/integrate-third-party-phone-app.png "Integrate third-party phone system")
 
 -   **Display relevant data for an agent at the right time**
 
     Display relevant data in an interaction for an agent to help a customer during a call.
 
-    ![Route calls to agents](../image/route-calls-agent.png "Route calls to agents")
+    ![Route calls to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/route-calls-agent.png "Route calls to agents")
 
 -   **Analyze recording and call metrics of interactions**
 
     Within your ServiceNow instance, access recordings, call metrics, and call transcripts of agents to analyze interactions.
 
-    ![Review and analyze call transcripts](../image/review-analyze-call-transcripts.png "Review and analyze call transcripts")
+    ![Review and analyze call transcripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/review-analyze-call-transcripts.png "Review and analyze call transcripts")
 
 
 As an admin, you can:
@@ -70,7 +70,7 @@ When a caller contacts the call center, using the voice or dual-tone multi-frequ
 
 Here is an example workflow.
 
-![Amazon Connect Integration](../image/amazon-connect-integration.png "Amazon Connect Integration")
+![Amazon Connect Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/amazon-connect-integration.png "Amazon Connect Integration")
 
-**Parent Topic:**[ServiceNow Voice](cloud-call-center-overview.md)
+**Parent Topic:**[ServiceNow Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-overview.md)
 

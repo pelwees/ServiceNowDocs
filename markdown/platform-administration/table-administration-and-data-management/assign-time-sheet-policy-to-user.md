@@ -40,5 +40,5 @@ You can assign only one time sheet policy to a user.
 
 The selected users appear on the **Users** related list. The time sheet policy is assigned to the selected users.
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/time-sheet-policies.md)
 

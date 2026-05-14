@@ -244,5 +244,5 @@ Live Feed Message \[live\_message\]
 Ensures user's access to Live Feed messages
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Live Feed](r_InstalledWithLiveFeed.md)
+</table>**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 

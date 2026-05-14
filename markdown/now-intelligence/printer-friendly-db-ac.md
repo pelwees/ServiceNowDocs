@@ -27,33 +27,33 @@ Role required: Any
 
 2.  Open the dashboard that you want to print.
 
-3.  From the More actions menu \(![More actions menu icon](../../par-for-workspace/image/icon-paw-more-actions.png)\), select **Printer friendly**.
+3.  From the More actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-paw-more-actions.png)\), select **Printer friendly**.
 
-    ![Printer friendly option in More actions menu](../../par-for-workspace/image/paw-printer-friendly.png)
+    ![Printer friendly option in More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/paw-printer-friendly.png)
 
     A printer-friendly copy of the dashboard opens in a new browser tab.
 
 4.  Use your browser functionality to export or print the printer-friendly dashboard copy.
 
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-[Share a Platform Analytics dashboard](share-db-in-ac.md)
+[Share a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/duplicate-db.md#)
 
-[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
 
-[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md)
 
-[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
+[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 

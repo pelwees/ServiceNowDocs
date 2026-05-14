@@ -48,7 +48,7 @@ The sys\_cs\_callback table is domain separated.
 
 When domain separation is used, a callback request from guest users is routed to the agent with the same domain as the guest user. For custom chat channels, the domain of the provider application is used as a reference to route the callback to the domain-specific agent.
 
-**Parent Topic:**[Omnichannel Callback reference](omnichannel-callback-reference.md)
+**Parent Topic:**[Omnichannel Callback reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/omnichannel-callback-reference.md)
 
 **Related topics**  
 

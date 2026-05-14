@@ -19,15 +19,15 @@ Use the Now Assist for Operational Technology Service Management \(OTSM\) applic
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for OTSM](exploring-now-assist-otsm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for OTSM](exploring-now-assist-otsm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for OTSM application to get started](configuring-now-assist-otsm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for OTSM application to get started](configuring-now-assist-otsm.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for OTSM](using-now-assist-otsm.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for OTSM](using-now-assist-otsm.md)
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ Use the Now Assist for Operational Technology Service Management \(OTSM\) applic
 
 </td><td>
 
-[Use the OTSM AI agent collection![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows for Now Assist for OTSM](now-assist-otsm-use-cases.md)
+[Use the OTSM AI agent collection![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows for Now Assist for OTSM](now-assist-otsm-use-cases.md)
 
 </td><td>
 

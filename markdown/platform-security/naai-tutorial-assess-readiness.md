@@ -46,7 +46,7 @@ Once the required applications are installed, assign the following roles to the 
 
 -   **__sn\_generative\_ai.data\_steward__**
 
-    Required to make data sharing decisions and configure privacy policies. Assign this role before configuring data protection settings in [Configure security controls](naai-tutorial-configure-security.md).
+    Required to make data sharing decisions and configure privacy policies. Assign this role before configuring data protection settings in [Configure security controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-configure-security.md).
 
 
 For a full list of roles installed with Now Assist, see [Now Assist Admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/roles-installed-with-now-assist-admin.md).
@@ -59,7 +59,7 @@ For any dedicated AI user accounts your agents will run as, set the Identity typ
 
 ## Next step
 
-When your instance passes the readiness evaluation and roles are assigned, proceed to [Plan your agent](naai-tutorial-plan-agent.md).
+When your instance passes the readiness evaluation and roles are assigned, proceed to [Plan your agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-plan-agent.md).
 
-**Parent Topic:**[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 

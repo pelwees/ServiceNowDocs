@@ -34,9 +34,9 @@ Role required: none
 
 ## What to do next
 
--   [Add a personal task to a freeform Visual Task Board](t_AddAPersonalTaskToAFreeformBoard.md)
--   [Add a task to a freeform Visual Task Board from a form](t_AddATaskToAFreeformBoardFromAForm.md)
--   [Add a task to a freeform Visual Task Board from a list](t_AddATaskToAFreeformBoardFromAList.md)
+-   [Add a personal task to a freeform Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddAPersonalTaskToAFreeformBoard.md)
+-   [Add a task to a freeform Visual Task Board from a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddATaskToAFreeformBoardFromAForm.md)
+-   [Add a task to a freeform Visual Task Board from a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddATaskToAFreeformBoardFromAList.md)
 
-**Parent Topic:**[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+**Parent Topic:**[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_FreeformBoardTasks.md)
 

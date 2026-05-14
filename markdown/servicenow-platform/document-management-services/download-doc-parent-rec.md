@@ -34,5 +34,5 @@ Role required: none
 4.  In the **Actions on selected rows** drop-down menu, select **Download Document**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-linked-parent-rec.md)
 

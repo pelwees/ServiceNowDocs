@@ -73,7 +73,7 @@ Engagement Messenger loads on a third-party website.
 
 The following code includes a sample URL that contains `support.acme.com` as a custom URL.
 
-![Custom url](../image/em-custom-URL-in-code.png "Custom URL in code")
+![Custom url](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-custom-URL-in-code.png "Custom URL in code")
 
 **Related topics**  
 

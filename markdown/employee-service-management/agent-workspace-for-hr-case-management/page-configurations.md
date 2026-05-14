@@ -23,10 +23,10 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the settings icon \(![Settings icon](../../../common/image/List_PersonalizeListIcon.png)\).
+2.  Select the settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../common/image/List_PersonalizeListIcon.png)\).
 
-3.  Personalize your page configurations![Page configurations](../image/page-config-aws.png).
+3.  Personalize your page configurations![Page configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/page-config-aws.png).
 
-    For a description of the fields, see [Page Configurations reference](../reference/configuration-settings.md).
+    For a description of the fields, see [Page Configurations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/configuration-settings.md).
 
 

@@ -25,7 +25,7 @@ Agents can search for information such as name, phone number, email address, cas
 
 1.  Open CSM Configurable Workspace.
 
-2.  In the contextual side panel, click the Contact Verify icon \(![Verify contact icon.](../image/config-ws-lookup-verify-contact.png)\) or the Consumer Verify icon \(![Verify consumer icon.](../image/config-ws-lookup-verify-consumer.png)\) to access the lookup and verify feature.
+2.  In the contextual side panel, click the Contact Verify icon \(![Verify contact icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-contact.png)\) or the Consumer Verify icon \(![Verify consumer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-consumer.png)\) to access the lookup and verify feature.
 
 3.  In the **Verify Contact** or **Verify Consumer** fields, enter information such as the first few letters of a first or last name or the first few digits of a phone or case number.
 
@@ -51,5 +51,5 @@ Agents can search for information such as name, phone number, email address, cas
 **Related topics**  
 
 
-[Lookup and verify](../concept/lookup-and-verify-overview.md)
+[Lookup and verify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/lookup-and-verify-overview.md)
 

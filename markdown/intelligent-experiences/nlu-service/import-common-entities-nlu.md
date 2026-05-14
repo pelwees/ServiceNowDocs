@@ -42,13 +42,13 @@ In this example procedure, you are importing several entities to a new model.
 
 4.  Select **Import entity**.
 
-    ![On the Entities tab of the Build and train your model phase, the Import entity button is highlighted.](../images/import-entities1U.png)
+    ![On the Entities tab of the Build and train your model phase, the Import entity button is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-entities1U.png)
 
 5.  In the Import Entity window, select the entities you want to import.
 
     In this example, you click the drop-down arrow for Application: HR Service Delivery NLU Model for Virtual Agent Conversations. Select the four entities.
 
-    ![Import Entity window. The applications refer to other models.](../images/import-entites2.png)
+    ![Import Entity window. The applications refer to other models.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-entites2.png)
 
     **Note:** Importing entities does not import any utterances that are annotated with those entities. You must annotate your current model's utterances using the new imported entities, then retrain the model.
 
@@ -56,7 +56,7 @@ In this example procedure, you are importing several entities to a new model.
 
     The selected entities import to the model. The entities appear under **User Defined Entities** in the Entities tab. By default, **Model Availability** will be enabled so that all intents in the model can use the entity.
 
-    ![Entities tab of the Manage your model content page with your imported entities.](../images/import-entities3.png)
+    ![Entities tab of the Manage your model content page with your imported entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import-entities3.png)
 
 
 ## What to do next
@@ -66,5 +66,5 @@ Use the imported entities to annotate the utterances of the model. Train your mo
 **Related topics**  
 
 
-[Import an NLU intent](import-nlu-intent.md)
+[Import an NLU intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/import-nlu-intent.md)
 

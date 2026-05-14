@@ -17,7 +17,7 @@ Software discovery models are automatically created during discovery so you can 
 
 Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table.
 
-There is a difference between [software models](../task/t_AddASoftwareModelSAMF.md) and software discovery models.
+There is a difference between [software models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/t_AddASoftwareModelSAMF.md) and software discovery models.
 
 -   A software model is a specific version or configuration of software that is purchased and/or available to users.
 -   A software discovery model is a model created when a version of software is discovered in a network environment.
@@ -62,7 +62,7 @@ Normalization status
 
 </td><td>
 
-[Status](c_SAMDiscoverySAMF.md) of the normalization process:-   Manually Normalized
+[Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMDiscoverySAMF.md) of the normalization process:-   Manually Normalized
 -   New
 
 </td></tr><tr><td>
@@ -237,7 +237,7 @@ Edition Override
 
 Override of the software edition setting.If the edition for the software was not discovered, you can edit this field to set the edition, if known, so reconciliation can be performed successfully.
 
- For more information, see [Manually override SAM Foundation edition value](../task/t_ManOverrideEditionSAMF.md).
+ For more information, see [Manually override SAM Foundation edition value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/t_ManOverrideEditionSAMF.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -336,5 +336,5 @@ Omit from suites
 Check box for not counting the software install as a component of a suite during reconciliation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Software Asset Management Foundation plugin](exploring-sam-foundation.md)
+</table>**Parent Topic:**[Exploring Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/exploring-sam-foundation.md)
 

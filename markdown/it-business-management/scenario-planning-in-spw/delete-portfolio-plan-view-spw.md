@@ -31,21 +31,21 @@ Role required: sn\_align\_core.ap\_read\_only
 
 2.  From the list of portfolio plans, select one.
 
-3.  Select the Portfolio plan view drop-down from the portfolio plan header and then select Delete view icon \(![Delete view icon.](../images/delete-view-icon-spw.png)\) next to the view you want to delete.
+3.  Select the Portfolio plan view drop-down from the portfolio plan header and then select Delete view icon \(![Delete view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/delete-view-icon-spw.png)\) next to the view you want to delete.
 
     The Delete this view window appears.
 
 4.  On the Delete this view window, select **Delete**.
 
-    ![Delete portfolio plan view.](../images/delete-view-spw.gif)
+    ![Delete portfolio plan view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/delete-view-spw.gif)
 
 
-**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](../concept/managing-portfolio-plan-views-spw.md)
+**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/managing-portfolio-plan-views-spw.md)
 
 **Related topics**  
 
 
-[Create a portfolio plan view](create-portfolio-plan-view-spw.md)
+[Create a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plan-view-spw.md)
 
-[Edit a portfolio plan view](edit-portfolio-plan-view-spw.md)
+[Edit a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/edit-portfolio-plan-view-spw.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Administer and monitor API data, API Insights, Configuration Manage
 
 The Overview tab in the API Insights workspace provides a centralized view of data ingestion activities and integration health.
 
-![API Insights overview tab.](../image/api-insights-overview.png)
+![API Insights overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-overview.png)
 
 ## Access the API Insights Overview tab
 
@@ -224,7 +224,7 @@ All APIs managed by your team
 
 </td><td>
 
-Overview of the APIs managed by a team, based on the group associated with the logged-in user and the APIs linked to that group. API details include name, consumer count, management platform, life cycle stage, version, and requests per minute.Populates data corresponding to the selected card in the [Your team's APIs](api-insights-overview-page-architect.md#entry_vc1_1n2_sfc) section.
+Overview of the APIs managed by a team, based on the group associated with the logged-in user and the APIs linked to that group. API details include name, consumer count, management platform, life cycle stage, version, and requests per minute.Populates data corresponding to the selected card in the [Your team's APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-overview-page-architect.md#entry_vc1_1n2_sfc) section.
 
 </td><td>
 

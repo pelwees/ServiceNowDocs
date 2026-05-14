@@ -36,5 +36,5 @@ Role required: admin
 
 ## What to do next
 
-[Migrate inactive records](migrate-inactive-records.md).
+[Migrate inactive records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-inactive-records.md).
 

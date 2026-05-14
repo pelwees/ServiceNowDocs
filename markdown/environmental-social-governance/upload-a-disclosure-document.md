@@ -47,5 +47,5 @@ Role required: sn\_esg.admin or the owner of the disclosure
 -   The disclosure document is synced. The data takes some time to sync.
 -   The corresponding claim records are synced and created in the disclosure.
 
-**Parent Topic:**[Create a narrative disclosure on local system](create-a-disclosure-on-local.md)
+**Parent Topic:**[Create a narrative disclosure on local system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-disclosure-on-local.md)
 

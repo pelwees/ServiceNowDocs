@@ -19,7 +19,7 @@ The DevOps Change Velocity integration with external tools is achieved by exposi
 
 ## Supported tools
 
-The DevOps Change Velocity application provides connectors by default to connect the following commonly used DevOps tools to import data. If your tool isn’t included in this list, you can manually connect and configure an integration. See [User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md).
+The DevOps Change Velocity application provides connectors by default to connect the following commonly used DevOps tools to import data. If your tool isn’t included in this list, you can manually connect and configure an integration. See [User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md).
 
 <table id="table_qpj_y3v_shb"><thead><tr><th>
 
@@ -159,21 +159,21 @@ Additional extensions may be required for applications such as Jenkins or Azure 
 
     Use the **ServiceNow DevOps** extension on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ServiceNow.vss-services-servicenow-devops) if you plan to integrate your Azure DevOps pipeline with ServiceNow DevOps.
 
-    For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](../task/config-dev-ops-extensions-azure.md#).
+    For more information, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/config-dev-ops-extensions-azure.md#).
 
 -   **ServiceNow DevOps custom actions for GitHub Actions**
 
     Use the **ServiceNow DevOps** custom actions on [GitHub marketplace](https://github.com/marketplace?query=servicenow+devops) if you plan to integrate your GitHub workflows with ServiceNow DevOps.
 
-    For more information, see [GitHub Actions configurations](github-actions-integration-with-devops.md#).
+    For more information, see [GitHub Actions configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-actions-integration-with-devops.md#).
 
 
-To start integrating DevOps Change Velocity with your toolchain, see [Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md).
+To start integrating DevOps Change Velocity with your toolchain, see [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
-**Parent Topic:**[Exploring DevOps Change Velocity](dev-ops-landing-page.md)
+**Parent Topic:**[Exploring DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-landing-page.md)
 
 **Related topics**  
 
 
-[Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md)
+[Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/setting-up-devops-change-velocity.md)
 

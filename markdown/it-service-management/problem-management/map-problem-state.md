@@ -48,5 +48,5 @@ Role required: admin
 
 ## What to do next
 
-[Map problem task states](map-problem-task-state.md).
+[Map problem task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/map-problem-task-state.md).
 

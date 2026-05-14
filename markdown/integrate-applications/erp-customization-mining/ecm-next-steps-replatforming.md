@@ -54,7 +54,7 @@ For example, use in ServiceNow Studio, use a template \(or build the app from th
 
 You can also access data from the system of record through the Glide API.
 
-For more information, see [Sample Glide query for ERP data in ERP Semantic Mining](../reference/using-glide-to-query-erp-data.md).
+For more information, see [Sample Glide query for ERP data in ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../reference/using-glide-to-query-erp-data.md).
 
 ## After you replatform custom code to a ServiceNow app
 
@@ -64,5 +64,5 @@ After you have identified candidates to replatform and taken the recommended act
 
 If you're sure that legacy code on the system of record isn't referenced elsewhere, you can remove it from the system after it's replatformed.
 
-**Parent Topic:**[Exploring ERP Semantic Mining](exploring-ecm.md)
+**Parent Topic:**[Exploring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/exploring-ecm.md)
 

@@ -29,7 +29,7 @@ Dependencies and requirements:
     -   Investigation
 -   The Industrial Core plugin. You must activate this plugin.
 
-    The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector Integration for Claroty CTD. For more information about the Industrial Core plugin, see [Industrial Core plugin](../reference/industrial-core-plugin.md).
+    The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector Integration for Claroty CTD. For more information about the Industrial Core plugin, see [Industrial Core plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/industrial-core-plugin.md).
 
 
 Role required: admin
@@ -290,7 +290,7 @@ sn\_clarotyctdsgc.filter.asset\_type\_code
 
 </td><td>
 
-Property to provide a list of codes for device types separated by the delimiter \($\).For more information about Claroty types and codes, see [CMDB classes targeted](../reference/sgc-claroty-ctd-classes.md). For example, to only import PLC and HMI device types, enter the Claroty type code as `0$1`.
+Property to provide a list of codes for device types separated by the delimiter \($\).For more information about Claroty types and codes, see [CMDB classes targeted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/sgc-claroty-ctd-classes.md). For example, to only import PLC and HMI device types, enter the Claroty type code as `0$1`.
 
 </td></tr><tr><td>
 
@@ -371,7 +371,7 @@ Run an import
 
 </td><td>
 
-Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](configuring-sgc-claroty-ctd-guided-setup.md).
+Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-sgc-claroty-ctd-guided-setup.md).
 
 </td></tr><tr><td>
 
@@ -440,7 +440,7 @@ Run an import
 
 </td><td>
 
-Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](configuring-sgc-claroty-ctd-guided-setup.md).
+Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-sgc-claroty-ctd-guided-setup.md).
 
 </td></tr><tr><td>
 
@@ -509,7 +509,7 @@ Run an import
 
 </td><td>
 
-Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](configuring-sgc-claroty-ctd-guided-setup.md).
+Run an import by selecting Execute Now. You can import either all records or only new records since the start time of the last successful import, based on the system properties configured. For more information, see [Configure guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-sgc-claroty-ctd-guided-setup.md).
 
 </td></tr><tr><td>
 
@@ -599,7 +599,7 @@ Save any schedule changes by selecting **Update**.
 </td></tr></tbody>
 </table>12. When configuration items \(CIs\) are created in the CMDB, asset records are created.
 
-    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](../reference/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
+    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
 
     1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
     2.  Select an OT device to view its asset record in a new tab.
@@ -626,5 +626,5 @@ Save any schedule changes by selecting **Update**.
         For additional information about troubleshooting issues while using the Service Graph Connector Integration for Claroty CTD, see [Troubleshooting scenarios for the Service Graph Connector Integration for Claroty CTD \(KB1502041\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1502041).
 
 
-**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](../concept/sgc-cmdb-integration-claroty-ctd.md)
+**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/sgc-cmdb-integration-claroty-ctd.md)
 

@@ -26,7 +26,7 @@ The Business Portal supports your business-to-business \(B2B\) customers, allowi
 
 **Note:** The Business Portal Store app is automatically installed when you install the Customer Service Portal store app. For details, see [Activate the Consumer and Customer Service Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-consumer-portal.md).
 
-**Parent Topic:**[Order Management](mco-som-using.md)
+**Parent Topic:**[Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-som-using.md)
 
 ## Create an order using the Business Portal in Manufacturing Commercial Operations
 

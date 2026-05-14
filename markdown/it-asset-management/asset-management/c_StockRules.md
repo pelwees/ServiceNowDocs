@@ -90,10 +90,10 @@ When the Hardware Asset Management application is installed and the stock rule i
 -   The pending\_delivery flag is used to track the status of the Service Catalog requests. This flag guarantees that the Service Catalog requests are processed correctly, avoiding duplicate actions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Stockrooms](c_Stockrooms.md)
+</table>**Parent Topic:**[Stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_Stockrooms.md)
 
 **Related topics**  
 
 
-[Create a stock rule](../task/t_CreateAStockRule.md)
+[Create a stock rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_CreateAStockRule.md)
 

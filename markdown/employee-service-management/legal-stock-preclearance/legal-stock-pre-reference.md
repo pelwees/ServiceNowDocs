@@ -15,8 +15,8 @@ breadcrumb: [Legal Stock Preclearance, Legal Service Delivery Practice Applicati
 
 Reference topics provide additional information about the lists and forms that you use in Legal Stock Preclearance.
 
--   **[Components installed with Legal Stock Preclearance](installed-with-legal-stock-preclearance.md)**  
+-   **[Components installed with Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/installed-with-legal-stock-preclearance.md)**  
 Several types of components are installed with activation of the Legal Stock Preclearance application, including tables and user roles.
 
-**Parent Topic:**[Legal Stock Preclearance](legal-stock-preclearance-landing-page.md)
+**Parent Topic:**[Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-preclearance-landing-page.md)
 

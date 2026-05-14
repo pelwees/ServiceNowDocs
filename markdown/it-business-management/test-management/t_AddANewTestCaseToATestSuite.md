@@ -17,7 +17,7 @@ Create and add a new test case to an existing test suite.
 
 ## Before you begin
 
--   [Create a test suite](t_CreateATestSuite.md).
+-   [Create a test suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateATestSuite.md).
 -   Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
@@ -41,5 +41,5 @@ Create and add a new test case to an existing test suite.
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Test suites](../concept/c_TestSuites.md)
+**Parent Topic:**[Test suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_TestSuites.md)
 

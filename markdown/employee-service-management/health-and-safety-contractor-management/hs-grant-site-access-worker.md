@@ -43,7 +43,7 @@ Steps
 
 </td><td>
 
-1.  Select the contractor management icon \(![Contractor management icon](../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
+1.  Select the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
 2.  In the **Lists** tab, select **Contractor companies** and then **All**.
 3.  Open the company that the worker belongs to.
 4.  In the **Workers** tab, select the worker from the list to grant the site access to.
@@ -55,7 +55,7 @@ Steps
 
 </td><td>
 
-1.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+1.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-risk-management/image/icon-config.png)\).
 2.  In the **Lists** tab, select **Health and safety profiles** and then **All**.
 3.  From the list, select the worker from the list to grant the site access to.
 

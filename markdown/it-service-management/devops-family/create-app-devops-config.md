@@ -44,11 +44,11 @@ You can edit or delete apps in DevOps Config. When you delete an app:
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Click the apps icon \(![DevOps Config apps icon](../image/devops-config-apps-icon.png)\) in the left navigation to open the Apps tab.
+2.  Click the apps icon \(![DevOps Config apps icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-apps-icon.png)\) in the left navigation to open the Apps tab.
 
 3.  On the Applications form, click **New** to create an application and a new model, or to create an application and specify an existing model \(or service\).
 
-    ![DevOps Config create application](../image/devops-config-create-app.png)
+    ![DevOps Config create application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-create-app.png)
 
     For a **New application** without an existing application model, both application and model are created.
 
@@ -68,7 +68,7 @@ User groups that maintain the application.With the cdm\_admin role, you can add 
 
 If groups you're a member of are removed, you will lose access to the application.
 
-**Note:** A user with cdm\_all\_app\_access and one of the other roles \(cdm\_admin, cdm\_editor, or cdm\_viewer\) can see and manage the application even if they are not in those groups. For more information, see [Roles in CDM](../../configuration-data-management/reference/cdm-roles.md).
+**Note:** A user with cdm\_all\_app\_access and one of the other roles \(cdm\_admin, cdm\_editor, or cdm\_viewer\) can see and manage the application even if they are not in those groups. For more information, see [Roles in CDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../configuration-data-management/reference/cdm-roles.md).
 
 </td></tr><tr><td>
 
@@ -102,5 +102,5 @@ Manufacturer of the application.
 
 ## Example
 
-![DevOps Config app overview](../image/devops-config-app-overview.png "DevOps Config App Overview")
+![DevOps Config app overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-app-overview.png "DevOps Config App Overview")
 

@@ -79,5 +79,5 @@ When you right-click and select **Show XML** on any form within the system, the 
 </j:jelly>
 ```
 
-**Parent Topic:**[Content Management design](c_ContentManagementPlanning.md)
+**Parent Topic:**[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 

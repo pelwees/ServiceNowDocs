@@ -28,7 +28,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Knowledge Center** &gt; **System Properties**.
 
-    ![Knowledge Centre system properties.](../image/KC-AO-system-properties.jpeg)
+    ![Knowledge Centre system properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/KC-AO-system-properties.jpeg)
 
 2.  Enable the following system properties by setting the parameter to **true**.
 

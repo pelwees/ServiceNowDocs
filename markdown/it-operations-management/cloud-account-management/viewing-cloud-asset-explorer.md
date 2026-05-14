@@ -20,7 +20,7 @@ You can access the dashboard in either of two ways.
 -   Navigate to **All** &gt; **Cloud Workspace** &gt; **Cloud asset explorer**
 -   Navigate to **Workspaces** &gt; **Cloud Workspace** &gt; **Cloud asset explorer**
 
-![Cloud asset explorer dashboard view](../image/cam-cloud-asset-overview.png "Cloud asset explorer dashboard")
+![Cloud asset explorer dashboard view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cam-cloud-asset-overview.png "Cloud asset explorer dashboard")
 
-**Note:** You can enable or disable the Asset collection configuration to list the CIs. For more information, see [Configure cloud asset collection table](configure-cloud-asset-collection-table.md).
+**Note:** You can enable or disable the Asset collection configuration to list the CIs. For more information, see [Configure cloud asset collection table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-cloud-asset-collection-table.md).
 

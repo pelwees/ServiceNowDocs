@@ -17,7 +17,7 @@ Use the attachment widget to attach items to tickets. You can use this base syst
 
 Attachments should be less than 24MB. You can drag files into the Attachments widget to add them to a record.
 
-![Ticket Attachments widget](../image/WidgetTicketAttachments.png "Ticket Attachments widget")
+![Ticket Attachments widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetTicketAttachments.png "Ticket Attachments widget")
 
 ## Instance options
 
@@ -26,14 +26,14 @@ Attachments should be less than 24MB. You can drag files into the Attachments wi
 |Record ID|The ID number of the record for the attachment.|
 |Record table|Limit the records users can add an attachment to by adding a table to the attachment widget. Users can then only add attachments if they are in a record for that table.|
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

@@ -35,7 +35,7 @@ Use the floor map to view the following:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the blue hub icon ![Blue Hub Icon.](../image/icon-blue-hub.png).
+2.  Select the blue hub icon ![Blue Hub Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-blue-hub.png).
 
     The Network viewer window is displayed.
 
@@ -111,10 +111,10 @@ Select a place on the map pane. The selected place is highlighted on map pane. Y
 
 </td><td>
 
-Select the alert icon \(![Alert Icon.](../image/icon-alert-floor-map.png)\) on a place in the map pane. On the details pane, you can view the following information about the CI that is mapped on that place.-   Active alerts
+Select the alert icon \(![Alert Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-alert-floor-map.png)\) on a place in the map pane. On the details pane, you can view the following information about the CI that is mapped on that place.-   Active alerts
 -   Active events
 -   Active change requests
-You can also select the green lightening bolt icon \(![Green Lightening Bolt Icon.](../image/icon-green-lightening-bolt.png)\) to view the alert information.
+You can also select the green lightening bolt icon \(![Green Lightening Bolt Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-green-lightening-bolt.png)\) to view the alert information.
 
 </td></tr><tr><td id="d44180e287">
 
@@ -144,7 +144,7 @@ Select an empty space on the map pane to view the following floor health informa
 -   Temperature
 -   Power usage
 -   Humidity
- Select the more option icon \(![More Options Icon.](../image/icon-more-option.png)\) in the health section, and select **Open metrics** to view the metric values.
+ Select the more option icon \(![More Options Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-more-option.png)\) in the health section, and select **Open metrics** to view the metric values.
 
 </td></tr><tr><td id="d44180e366">
 
@@ -187,18 +187,18 @@ In the **Filter By Accounts** field, select an account. The map highlights the C
 
 </td><td>
 
-1.  On the details pane, select the more options icon \(![More Options Icon.](../image/icon-more-option.png)\) of a card. The card can be a place, CI, incident, alert, or change request.
+1.  On the details pane, select the more options icon \(![More Options Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-more-option.png)\) of a card. The card can be a place, CI, incident, alert, or change request.
 2.  Select **Open record**.
  The corresponding record opens. To open a rack record, you can also select **Open rack** on the Rack view.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-floor-map.md)
 
 **Related topics**  
 
 
-[Floor map](../concept/visualization-floor-maps.md)
+[Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/visualization-floor-maps.md)
 
-[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+[Configuring overlays on floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-overlays-floor-map.md)
 

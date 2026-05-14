@@ -17,7 +17,7 @@ If **Follow filters** is activated on a time series or bar visualization that sh
 
 For example, consider a bar visualization that shows the Number of open problems and the Average age of open problems. You can configure this visualization so that the Number of open problems follows any applicable filters on a dashboard, but the Average age of problems does not.
 
-![Bar visualization configured so that of two metrics, one follows filters on a dashboard and one does not.](../../par-for-workspace/image/dv-follow-filters-per-metric.png)
+![Bar visualization configured so that of two metrics, one follows filters on a dashboard and one does not.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-follow-filters-per-metric.png)
 
-**Parent Topic:**[Create a horizontal or vertical bar data visualization](../task/create-dv-bar-ac.md)
+**Parent Topic:**[Create a horizontal or vertical bar data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-dv-bar-ac.md)
 

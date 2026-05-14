@@ -18,12 +18,12 @@ Create an application category group or edit an existing one to align it with yo
 |Name|Unique name of the application category group.|
 |Description|Description of the application category group.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Manage application category groups](../../concept/eaw-concept/eaw-configure-application-category-groups.md)
+[Manage application category groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-configure-application-category-groups.md)
 
-[Add or edit an application category group](../../task/eaw-task/eaw-create-app-cat-grp.md)
+[Add or edit an application category group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-cat-grp.md)
 

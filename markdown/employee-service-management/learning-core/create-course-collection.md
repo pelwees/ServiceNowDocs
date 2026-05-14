@@ -19,7 +19,7 @@ Create a content collection in Learning Core to dynamically group learning conte
 
 Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
-Every collection has to be a part of a course catalog. Create a course catalog before you can create a collection. For more information, see [Create a course catalog](create-course-catalog.md).
+Every collection has to be a part of a course catalog. Create a course catalog before you can create a collection. For more information, see [Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
 
 ## Procedure
 
@@ -29,36 +29,36 @@ Every collection has to be a part of a course catalog. Create a course catalog b
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Collection form](../reference/collection-form-lc.md).
+    For a description of the field values, see [Collection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/collection-form-lc.md).
 
 4.  Click **Submit**.
 
 
--   **[Add course items to collection](add-course-items-collection.md)**  
+-   **[Add course items to collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-course-items-collection.md)**  
 After you create a collection, add course items as groupings of courses that are orchestrated within ServiceNow®.
--   **[Define user access to course within a collection](define-user-access-collection.md)**  
+-   **[Define user access to course within a collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-user-access-collection.md)**  
 Define user access to the collection to define who has read access to the collections.
--   **[Add learning course sections](add-learning-course-sections.md)**  
+-   **[Add learning course sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections.md)**  
 Add learning course sections to collections.
 
-**Parent Topic:**[Managing course and catalog content](manage-ln-content.md)
+**Parent Topic:**[Managing course and catalog content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
 **Related topics**  
 
 
-[Create a course catalog](create-course-catalog.md)
+[Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md)
 
-[Create internal learning content](create-ln-cnt.md)
+[Create internal learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-cnt.md)
 
-[View external learning content](create-ln-extcnt.md)
+[View external learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-extcnt.md)
 
-[Create a learning library](create-ln-ctg.md)
+[Create a learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
 
-[Create a learning task](ln-task-le.md)
+[Create a learning task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-task-le.md)
 
-[Collection form](../reference/collection-form-lc.md)
+[Collection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/collection-form-lc.md)
 
-[Add course items to collection](add-course-items-collection.md)
+[Add course items to collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-course-items-collection.md)
 
-[Add learning course sections](add-learning-course-sections.md)
+[Add learning course sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections.md)
 

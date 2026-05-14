@@ -29,19 +29,19 @@ Patient O is an alert class that includes an unknown file that has been permitte
 
 2.  In the Inbound Email Configuration section, select the **Email receiving enabled** option.
 
-    ![Configuring inbound email.](../image/zscaler-inbound-email-config.png "Inbound email configuration")
+    ![Configuring inbound email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-inbound-email-config.png "Inbound email configuration")
 
 3.  Click **Save**.
 
 4.  Navigate to **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
-    ![ServiceNow AI Platform SMTP email account.](../image/zscaler-smtp-email-account.png)
+    ![ServiceNow AI Platform SMTP email account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-smtp-email-account.png)
 
 5.  Select the **ServiceNow SMTP** email account.
 
     Note the user name. The user name that is identified here is the ServiceNow AI Platform email address that you use to configure in Zscaler for Patient 0 alerts.
 
-    ![User name for the ServiceNow AI Platform SMTP account.](../image/zscaler-user-name.png "User name for the ServiceNow AI Platform SMTP account")
+    ![User name for the ServiceNow AI Platform SMTP account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-user-name.png "User name for the ServiceNow AI Platform SMTP account")
 
 6.  Log in to the Zscaler Internet Access administration portal.
 

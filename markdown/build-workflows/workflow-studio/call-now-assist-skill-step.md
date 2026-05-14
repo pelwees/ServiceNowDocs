@@ -25,7 +25,7 @@ Available as an Workflow Studio action step. Users with the action\_designer rol
 
 -   **Role requirements**
 
-    This step requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](../concept/user-access-flow-designer.md).
+    This step requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/user-access-flow-designer.md).
 
 
 ## Inputs
@@ -56,7 +56,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Outputs
@@ -108,7 +108,7 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ## Call the Flow Summarization skill
 
-![Action that uses the Call Now Assist Skill step for the Flow Summarization skill.](../images/call-now-assist-step.png)
+![Action that uses the Call Now Assist Skill step for the Flow Summarization skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/call-now-assist-step.png)
 
 This example action calls the Flow Summarize skill, which provides a text summary of what a flow or subflow does. The Flow Summarization skill has two skill inputs.
 
@@ -137,7 +137,7 @@ We can test this action by providing these example input values.
     This example uses the Flow Summarization Now Assist Skill Config record.
 
 
-![Example execution details of the call flow summarization skill](../images/example-execution-details-call-na-skill.png)
+![Example execution details of the call flow summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-execution-details-call-na-skill.png)
 
 Here are the example output values produced by the Flow summarization skill.
 
@@ -172,5 +172,5 @@ Here are the example output values produced by the Flow summarization skill.
     This example returns a success output value.
 
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

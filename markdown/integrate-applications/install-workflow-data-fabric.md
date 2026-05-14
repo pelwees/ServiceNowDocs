@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Roles are installed with the Workflow Data Fabric Home store applications. For more information, see [Workflow Data Fabric Home roles](../reference/installed-with-workflow-data-fabric.md).
+Roles are installed with the Workflow Data Fabric Home store applications. For more information, see [Workflow Data Fabric Home roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/installed-with-workflow-data-fabric.md).
 
 ## Procedure
 

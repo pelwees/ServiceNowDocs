@@ -38,12 +38,12 @@ Role required: sn\_wsd\_case.manager
 
 5.  Specify other field details.
 
-    For more information, see [View and track workplace cases](view-workplace-cases.md).
+    For more information, see [View and track workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-workplace-cases.md).
 
 6.  Select **Submit**.
 
     If the case matches the trigger conditions, a smart assessment instance is automatically created and the assessment is attached to the workplace case.
 
 
-**Parent Topic:**[Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
+**Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 

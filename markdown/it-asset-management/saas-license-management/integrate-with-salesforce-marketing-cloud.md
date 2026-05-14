@@ -17,6 +17,6 @@ Integrating your Software Asset Management application with the Salesforce Marke
 
 Use either of the following authentication methods to integrate your ServiceNow instance with Salesforce Marketing Cloud:
 
--   [Basic authentication](integrate-sfmc-basicauth.md#)
--   [OAuth 2.0](integrate-sfmc-oauth.md#)
+-   [Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#)
+-   [OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#)
 

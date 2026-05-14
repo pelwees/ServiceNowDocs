@@ -96,5 +96,5 @@ Users Covered \[clm\_m2m\_contract\_user\]
 Lists the users covered by contracts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
+</table>**Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 

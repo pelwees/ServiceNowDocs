@@ -36,5 +36,5 @@ Role required: virtual\_agent\_admin or admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](configure-va-mobile-web-client.md)
+**Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-mobile-web-client.md)
 

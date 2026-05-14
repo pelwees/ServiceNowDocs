@@ -23,7 +23,7 @@ Role required: sn\_hr\_core.kb\_writer
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![HR Workspace Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![HR Workspace Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Select **My tasks - feedback** under **Knowledge**.
 

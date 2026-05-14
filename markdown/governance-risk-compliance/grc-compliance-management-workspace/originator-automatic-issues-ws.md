@@ -19,7 +19,7 @@ You can link an automatically generated issue that belongs to a different contro
 
 **Note:** You can identify the origin of an issue whether it was automatically generated or manually created after you link the issue from one control to another only in a control form.
 
-You can create an issue manually for a control when you click the **New** button in the Issues related list of a Control form. For manually created issues, see [Manually create GRC issues](../task/manually-create-issues-ws.md).
+You can create an issue manually for a control when you click the **New** button in the Issues related list of a Control form. For manually created issues, see [Manually create GRC issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../task/manually-create-issues-ws.md).
 
 However, issues are also automatically generated when there are:
 
@@ -40,7 +40,7 @@ The source of the issue generation for one or more of the three failures can be 
 
 When a control's status moves to non-complaint, all the reasons for non-compliancy are pulled from the **Issue source** field and displayed as **Reasons for non-compliance** in the Status widget of the control's Overview page.
 
-![List of reasons for a control's non-compliance.](../image/ReasonsforNonComp.png "Reasons for non-compliance")
+![List of reasons for a control's non-compliance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/ReasonsforNonComp.png "Reasons for non-compliance")
 
 ## Handling more than one automatically generated issue while linking to a control
 

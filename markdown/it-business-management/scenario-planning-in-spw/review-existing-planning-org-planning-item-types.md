@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Filter the list of tables by using **sn\_align\_core** in the Name column.
 
-    ![Review existing planning organizations and planning item types](../images/table-filter-apw.png)
+    ![Review existing planning organizations and planning item types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/table-filter-apw.png)
 
 3.  Review the tables that have **Planning Item** in the Extends table column.
 
@@ -38,6 +38,6 @@ Role required: admin
 
 If you need a planning item type other than those available, use one of the five pre-defined custom planning item tables or you can create your own.
 
--   [Enable pre-defined custom planning item tables.](../concept/planning-items-for-lenses-and-portfolio-plans.md#section_predefined_plan_item)
--   [Define a new planning item type in Strategic Planning](create-planning-organization-and-planning-item-type.md)
+-   [Enable pre-defined custom planning item tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/planning-items-for-lenses-and-portfolio-plans.md#section_predefined_plan_item)
+-   [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-organization-and-planning-item-type.md)
 

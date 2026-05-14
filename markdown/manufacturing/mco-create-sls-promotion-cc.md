@@ -34,5 +34,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
     |Sale price|Sale price of the product sold. Select the required currency from the list|
 
 
-**Parent Topic:**[Related list for my promotions](../concept/related-list-for-my-promotions.md)
+**Parent Topic:**[Related list for my promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/related-list-for-my-promotions.md)
 

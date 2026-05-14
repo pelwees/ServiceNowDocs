@@ -53,7 +53,7 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
 
 4.  Right-click the form header and select **Save**.
 
-    The connector instance values are added to the form and the parameters that are relevant to the connector appear.![vCenter Connector Instance Values](../image/vcenter-connector-values.png)
+    The connector instance values are added to the form and the parameters that are relevant to the connector appear.![vCenter Connector Instance Values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/vcenter-connector-values.png)
 
 5.  In the Connector Instance Values section, specify the vCenter values.
 
@@ -84,5 +84,5 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
 9.  Click **Update**.
 
 
-**Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)
+**Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 

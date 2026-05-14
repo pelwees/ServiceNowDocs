@@ -17,19 +17,19 @@ Use the Identity and Access Audit to understand changes made to users, groups, r
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../common/image/icon-explore.png)](explore-identity-audit.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-explore.png)](explore-identity-audit.md)
 
- [Learn about the features and business value of Identity and Access Audit.](explore-identity-audit.md)
+ [Learn about the features and business value of Identity and Access Audit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/explore-identity-audit.md)
 
 </td><td>
 
-[Configure![Use](../../../common/image/icon-set-up.png)](../task/configure-tables-and-fields.md)
+[Configure![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-set-up.png)](../task/configure-tables-and-fields.md)
 
- [Understand how to configure Identity and Access Audit.](../task/configure-tables-and-fields.md)
+ [Understand how to configure Identity and Access Audit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../task/configure-tables-and-fields.md)
 
 </td></tr><tr><td>
 
-[Audit Results![Evaluation](../../../common/image/icon-manage.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md)
+[Audit Results![Evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-manage.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md)
 
  [View results from Identity and Access Audit.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md)
 

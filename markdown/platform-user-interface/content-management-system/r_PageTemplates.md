@@ -24,7 +24,7 @@ When you build a new site, there are four page reference fields on the site reco
 -   Login page: a standalone login page, which is useful to force authentication for the entire CMS site.
 -   Gauge target page: page used to display the drill-through content from a gauge. When the user clicks a gauge, the gauge target page opens showing the drill-through content for that gauge.
 
-![CMS page reference fields](../image/CMSKeyPages.png "Critical page reference fields")
+![CMS page reference fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../image/CMSKeyPages.png "Critical page reference fields")
 
 ## Detail pages
 
@@ -48,9 +48,9 @@ These pages are mandatory if you plan on accessing system data. For example, if 
 
 ## New templates
 
-If the base system sample site pages are not suitable, you can create a template from scratch. Create a page and then use it as a template. For more information, see [Create a Content Page](../task/t_CreateAContentPage.md).
+If the base system sample site pages are not suitable, you can create a template from scratch. Create a page and then use it as a template. For more information, see [Create a Content Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateAContentPage.md).
 
 When you save a new template, include the word "template" in the page name.
 
-**Parent Topic:**[Content Management templates](../concept/c_ContentManagementTemplates.md)
+**Parent Topic:**[Content Management templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentManagementTemplates.md)
 

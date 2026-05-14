@@ -29,7 +29,7 @@ Existing alert action rules are active, read-only rules. An alert action rule ca
 
 2.  Select an alert action rule to migrate or delete.
 
-    ![Alert Action Rule form](../image/EMAlertRuleForm.png "Alert Action Rule record")
+    ![Alert Action Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMAlertRuleForm.png "Alert Action Rule record")
 
 3.  Click **Migrate**.
 
@@ -46,25 +46,25 @@ When an alert action rule has been migrated successfully, the alert action rule 
 
 If the alert action rule that was migrated had a task template, you can customize the alert management rule designer to display the task template name.
 
-1.  In the header of the alert management rule, click **Additional actions** ![Additional actions](../../cloud-workspace/image/additional-actions.png).
+1.  In the header of the alert management rule, click **Additional actions** ![Additional actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../cloud-workspace/image/additional-actions.png).
 2.  Select **Configure** &gt; **Form Layout**.
 
-    ![Form layout](../image/form-layout.png)
+    ![Form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/form-layout.png)
 
 3.  In the **Available** pane, select **Task template** and move it to the **Selected** pane. Position it as required.
 
-    ![Task template](../image/task-template.png)
+    ![Task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/task-template.png)
 
 4.  In the **Task template** field, select the required template.
 5.  In the Actions tab, in the Remediation Subflows area, select the Create Task \(legacy\) subflow to run the task template.
 
-    ![Subflow to run task template](../image/create-task-legacy.png)
+    ![Subflow to run task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/create-task-legacy.png)
 
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-management-rule.md)
 
 **Related topics**  
 
 
-[Apply a quick response in an alert](apply-quick-response-in-alert.md)
+[Apply a quick response in an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apply-quick-response-in-alert.md)
 

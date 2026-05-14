@@ -39,34 +39,34 @@ This sample flow demonstrates using the Utility Actions spoke actions to create 
 
     3.  For Each flow logic to apply the Append to Delimited File action to the list of incident records.
 
-        ![Append to Delimited File spoke action](../image/append-delmt-utility.png)
+        ![Append to Delimited File spoke action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/append-delmt-utility.png)
 
     4.  Build File action to add rows.
 
         Each incident record is added as a row in the file.
 
-        ![Build File spoke action](../image/build-file-utility.png)
+        ![Build File spoke action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/build-file-utility.png)
 
     5.  Perform similar steps to retrieve records from the User \[sys\_user\] table.
 
-        ![Retrieve user records](../image/user-records-utility.png)
+        ![Retrieve user records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/user-records-utility.png)
 
     6.  Begin Zip action to build the ZIP file for the incident and user records.
 
     7.  Add File To Zip action to add a file containing the incident records to the ZIP file.
 
-        ![Add File To Zip action](../image/add-file-zip-utility.png)
+        ![Add File To Zip action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/add-file-zip-utility.png)
 
     8.  Add File To Zip action to add file containing the user records to the ZIP file.
 
-        ![Add File To Zip action](../image/add-file2-utility.png)
+        ![Add File To Zip action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/add-file2-utility.png)
 
     9.  Build a Zip action to create the ZIP file containing the incident and user records.
 
-        ![Build File action](../image/build-file-utility.png)
+        ![Build File action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/build-file-utility.png)
 
 4.  Save, test, and publish the flow to use it.
 
-    ![Sample flow using the Utility Actions spoke actions](../image/flow-utility.png)
+    ![Sample flow using the Utility Actions spoke actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/flow-utility.png)
 
 

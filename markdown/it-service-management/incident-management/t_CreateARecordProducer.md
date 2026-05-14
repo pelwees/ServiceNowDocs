@@ -42,7 +42,7 @@ The following example demonstrates how to create a record producer to request a 
     |Catalogs|Service Catalog|
     |Category|Can We Help You?|
 
-    ![Record producer](../image/record-producer.png)
+    ![Record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/record-producer.png)
 
 3.  Right-click on the form header and from the context menu select **Save**.
 
@@ -61,7 +61,7 @@ The following example demonstrates how to create a record producer to request a 
     |Type Specifications|
     |Reference|IP Router \[cmdb\_ci\_ip\_router\]|
 
-    ![Variables related list](../image/record-producer2.png)
+    ![Variables related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/record-producer2.png)
 
 6.  Select **Submit**.
 
@@ -70,14 +70,14 @@ The following example demonstrates how to create a record producer to request a 
     In Service Catalog, the new catalog item appears and any user can select it.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-templates-record-producers.md)
 
 **Related topics**  
 
 
-[Create incident template](t_CreateAnIncidentTemplate.md)
+[Create incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateAnIncidentTemplate.md)
 
-[Create a module that uses incident template](t_UseATemplateFromAModule.md)
+[Create a module that uses incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_UseATemplateFromAModule.md)
 
-[Create a record producer using a template](t_CreateRecProducWithTempl.md)
+[Create a record producer using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateRecProducWithTempl.md)
 

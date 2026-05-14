@@ -15,7 +15,7 @@ breadcrumb: [Task Intelligence, Enable AI experiences]
 
 Reference topics provide additional information about components installed and language detection details.
 
--   **[Task Intelligence roles](task-intelligence-roles.md#)**
+-   **[Task Intelligence roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/task-intelligence-roles.md#)**
 
     Reference for user roles that are installed with activation of the sn\_ti\_admin plugin.
 
@@ -27,7 +27,7 @@ Reference topics provide additional information about components installed and l
 
     View Task Intelligence for Customer Service analytics and see how your machine learning models are working.
 
--   **[Languages supported by Task Intelligence](languages-supported-by-language-detection.md)**
+-   **[Languages supported by Task Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/languages-supported-by-language-detection.md)**
 
     The language detection feature for Task Intelligence for CSM supports 22 different languages.
 

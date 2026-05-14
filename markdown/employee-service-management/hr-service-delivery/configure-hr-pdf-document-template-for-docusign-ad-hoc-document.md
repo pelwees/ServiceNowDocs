@@ -33,7 +33,7 @@ You can use an existing or create a new HR PDF document template. You can add si
 
 3.  On the PDF Document Template form, set the **Template type** field to `HR PDF Templates`.
 
-    ![Set the Template type field to HR PDF Templates.](../image/hr-pdf-document-template-for-adhoc.png)
+    ![Set the Template type field to HR PDF Templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-pdf-document-template-for-adhoc.png)
 
 4.  Configure the HR PDF document template, as appropriate.
 
@@ -47,10 +47,10 @@ You can use an existing or create a new HR PDF document template. You can add si
 
     -   By default, if a document has two or more signature fields, parallel signing is enabled.
     -   If the **Signing order** column is not visible, click the gear icon to personalize the list columns. Add the **Signing order** field to the Selected column.
-    ![How to assign the signing order for serial signing in DocuSign.](../image/docusign-serial-signing.png)
+    ![How to assign the signing order for serial signing in DocuSign.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/docusign-serial-signing.png)
 
 6.  Click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/docusign-integration-for-hr.md)
 

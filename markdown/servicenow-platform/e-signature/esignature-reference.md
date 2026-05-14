@@ -15,8 +15,8 @@ breadcrumb: [E-signature, Manage people and work capabilities, Extend ServiceNow
 
 Activating the e-signature plugin installs additional roles and tables.
 
--   **[Components installed with e-signature](components-installed-with-e-signature.md)**  
+-   **[Components installed with e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/components-installed-with-e-signature.md)**  
 Several types of components are installed with activation of e-signature, including tables and user roles.
 
-**Parent Topic:**[E-signature](../concept/e-signature.md)
+**Parent Topic:**[E-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/../concept/e-signature.md)
 

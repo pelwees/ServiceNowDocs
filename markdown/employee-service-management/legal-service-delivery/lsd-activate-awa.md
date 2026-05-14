@@ -31,7 +31,7 @@ Role required: admin
 
 Roles are installed with Advanced Work Assignment for Legal Service Delivery:
 
-For more information, see [Components installed for Advanced Work Assignment for Legal Service Delivery reference](../reference/lsd-components-installed-awa.md).
+For more information, see [Components installed for Advanced Work Assignment for Legal Service Delivery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/lsd-components-installed-awa.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed for Advanced Work Assignment for
 
     **Note:** If you're using skill management, ensure you have the right subscription.
 
--   Configure live agent support for legal services. For more information, see [Configure Virtual Agent conversation topics for legal services](../../legal-request-management/task/configure-legal-va.md).
+-   Configure live agent support for legal services. For more information, see [Configure Virtual Agent conversation topics for legal services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/configure-legal-va.md).
 

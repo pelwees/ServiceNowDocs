@@ -29,7 +29,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 4.  On the Word Template New Record form, fill in the fields.
 
-    For a description of the field values, see [Word Template New Record form](../reference/lsc-word-tmple-rec-form.md).
+    For a description of the field values, see [Word Template New Record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../reference/lsc-word-tmple-rec-form.md).
 
 5.  Extract the content marked by the supported content controls from the imported document by selecting **Parse Document**.
 
@@ -38,7 +38,7 @@ Role required: sn\_lg\_contracts.contracts\_config
     -   **field** - Indicates metadata
     -   **signature\_** - Indicates a signature
     -   **sign\_date\_** - Indicates the signing date
-    For more information on the supported content controls and tagging guidelines, see [Add content controls in a Microsoft Word document](lsc-cont-contr-word-tmplt.md).
+    For more information on the supported content controls and tagging guidelines, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-cont-contr-word-tmplt.md).
 
     The content controls derived from the documentare listed in the Template mappings related list.
 
@@ -49,16 +49,16 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 The contract template is saved in the Draft state.
 
-**Parent Topic:**[Configure legal contract templates of type Microsoft Word](lsc-configure-ct-msword.md)
+**Parent Topic:**[Configure legal contract templates of type Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-configure-ct-msword.md)
 
 **Related topics**  
 
 
-[Add content controls in a Microsoft Word document](lsc-cont-contr-word-tmplt.md)
+[Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-cont-contr-word-tmplt.md)
 
-[Create and configure participants for legal contract template](lsc-add-config-participants-msword.md)
+[Create and configure participants for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-add-config-participants-msword.md)
 
-[Update contract template mappings for legal contract template](lsc-template-map-msword.md)
+[Update contract template mappings for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md)
 
-[Publish a contract template](lsc-publish-word-template.md)
+[Publish a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-publish-word-template.md)
 

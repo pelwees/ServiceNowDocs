@@ -45,7 +45,7 @@ State
 
 </td><td>
 
-The state of the release, which will be moved automatically after the release admin selects Activate Release and the release process begins. See [Release states](release-states.md).
+The state of the release, which will be moved automatically after the release admin selects Activate Release and the release process begins. See [Release states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/release-states.md).
 
 </td></tr><tr><td>
 
@@ -114,5 +114,5 @@ Release date
 The date on which the release will be pushed to the destination environment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ReleaseOps reference](releaseops-reference.md)
+</table>**Parent Topic:**[ReleaseOps reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/releaseops-reference.md)
 

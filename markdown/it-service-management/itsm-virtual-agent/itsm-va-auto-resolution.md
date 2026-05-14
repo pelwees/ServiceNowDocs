@@ -23,7 +23,7 @@ Issue Auto Resolution uses ITSM Virtual Agent to proactively resolve incidents t
 -   If a matching intent and topic are found, Issue Auto Resolution sends an actionable notification to the end user on their existing chat channel. The user can accept or decline assistance.
 -   If the end user accepts the assistance, Issue Auto Resolution invokes the matched ITSM Virtual Agent conversation to resolve the incident.
 -   When the conversation completes, the user can indicate if the conversation resolved the incident and can choose to keep the ticket open or to close it.
--   When there are no matching Issue Auto Resolution intents found, AI Search is enabled as fallback along with added intents. For more information, see [Enabling AI Search in Issue Auto Resolution](enable-ai-search-itsm.md).
+-   When there are no matching Issue Auto Resolution intents found, AI Search is enabled as fallback along with added intents. For more information, see [Enabling AI Search in Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/enable-ai-search-itsm.md).
 
 ## When an incident is unassigned from Issue Auto Resolution
 
@@ -68,11 +68,11 @@ To view the dashboard, navigate to **All** &gt; **Conversational Interfaces** &g
 
 Issue Auto Resolution uses NLU to identify Virtual Agent topics that match intents submitted by users. Intent matching is determined by the **incident Description** and **Short Description** fields. Intents must meet the required minimum confidence threshold to be considered a match.
 
-![Issue Auto Resolution NLU integration process.](../../../administer/virtual-agent/images/MachineLearning.png "Issue Auto Resolution NLU integration")
+![Issue Auto Resolution NLU integration process.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../../../administer/virtual-agent/images/MachineLearning.png "Issue Auto Resolution NLU integration")
 
 To view, train, or retrain the NLU model, see [Train and test your model in Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/train-test-publish-nlu-model-vad.md).
 
-**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU models. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](../task/setup-itsm-ar.md).
+**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU models. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../task/setup-itsm-ar.md).
 
 ## About actionable notifications
 
@@ -105,10 +105,10 @@ The default intents and matched topics are listed in the **Auto Resolution Inten
 
 Tune the default IAR intents in the NLU Workbench before returning to the Issue Auto Resolution Admin Console and publish them. For more information, see [Issue Auto Resolution Tuning in NLU](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/issue-auto-resolution-tuning-nlu.md).
 
--   **[Enabling AI Search in Issue Auto Resolution](enable-ai-search-itsm.md)**  
+-   **[Enabling AI Search in Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/enable-ai-search-itsm.md)**  
 You can enable AI Search as a fallback mechanism in Issue Auto Resolution when there are no matching intents found for the incident.
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-actionable-notifications.md)
 
 **Related topics**  
 

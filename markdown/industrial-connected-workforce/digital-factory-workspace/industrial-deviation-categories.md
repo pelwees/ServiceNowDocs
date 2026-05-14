@@ -110,5 +110,5 @@ Other
 Other
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Deviation Management](../concept/industrial-deviation-management.md)
+</table>**Parent Topic:**[Deviation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/industrial-deviation-management.md)
 

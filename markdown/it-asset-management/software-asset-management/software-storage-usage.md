@@ -24,5 +24,5 @@ Determine the usage information for SaaS applications for generating downgrade s
 |Product|Name of the product for the usage record.|
 |Is deleted|Indicates whether the user's storage account, such as Microsoft OneDrive or mailbox, has been deleted.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

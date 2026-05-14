@@ -16,55 +16,55 @@ Respond to business risks in real time. Connect security and IT with an integrat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[AI Risk and Compliance![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
+[AI Risk and Compliance![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
 
 </td><td>
 
-[Audit Management ![](../image/app-audit-mgt.svg)Use risk data to scope and prioritize audit plans and automate cross-functional processes.](../../grc-audit/concept/c_GRCAudits.md)
+[Audit Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-audit-mgt.svg)Use risk data to scope and prioritize audit plans and automate cross-functional processes.](../../grc-audit/concept/c_GRCAudits.md)
 
 </td><td>
 
-[Business Continuity Management ![](../image/app-bcm.svg)Plan, exercise, and recover from disasters effectively and efficiently.](../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
+[Business Continuity Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-bcm.svg)Plan, exercise, and recover from disasters effectively and efficiently.](../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
 
 </td></tr><tr><td>
 
-[Compliance Case Management ![](../image/app-ccm.svg)Report, investigate, analyze, and resolve compliance cases.](../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
+[Compliance Case Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-ccm.svg)Report, investigate, analyze, and resolve compliance cases.](../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
 
 </td><td>
 
-[Continuous Authorization and Monitoring ![](../image/app-cam.svg)Accelerate the process of bringing IT systems online and continuously monitoring them.](../../grc-cam/reference/grc-cam-landing-page.md)
+[Continuous Authorization and Monitoring ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-cam.svg)Accelerate the process of bringing IT systems online and continuously monitoring them.](../../grc-cam/reference/grc-cam-landing-page.md)
 
 </td><td>
 
-[Operational Resilience ![](../image/app-op-res.svg)Gain real-time visibility into the resilience of your technology, people, processes, and facilities.](../../grc-operational-res/reference/grc-opres-landing-page.md)
+[Operational Resilience ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-op-res.svg)Gain real-time visibility into the resilience of your technology, people, processes, and facilities.](../../grc-operational-res/reference/grc-opres-landing-page.md)
 
 </td></tr><tr><td>
 
-[Policy and Compliance Management ![](../image/app-policy-compliance-mgt.svg)Automate and manage policy life-cycles and continuously monitor for compliance.](../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
+[Policy and Compliance Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-policy-compliance-mgt.svg)Automate and manage policy life-cycles and continuously monitor for compliance.](../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
 
 </td><td>
 
-[Privacy Management ![](../image/app-privacy-mgt.svg)Manage privacy risk and compliance across the enterprise in real time.](../../grc-privacy-management/concept/privacy-management.md)
+[Privacy Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-privacy-mgt.svg)Manage privacy risk and compliance across the enterprise in real time.](../../grc-privacy-management/concept/privacy-management.md)
 
 </td><td>
 
-[Regulatory Change Management ![](../image/app-rcm.svg)Keep pace with today's complex regulatory landscape with integration to leading content providers.](../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
+[Regulatory Change Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-rcm.svg)Keep pace with today's complex regulatory landscape with integration to leading content providers.](../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
 
 </td></tr><tr><td>
 
-[Risk Management![](../image/app-risk-mgt.svg) Enable fine-grained business impact analysis to appropriately prioritize and respond to risks.](../../grc-risk/concept/grc-risk-overview.md)
+[Risk Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-risk-mgt.svg) Enable fine-grained business impact analysis to appropriately prioritize and respond to risks.](../../grc-risk/concept/grc-risk-overview.md)
 
 </td><td>
 
-[Smart Assessment Engine![](../image/app-sae.svg)Reduce the manual burden and costs of your risk assessment processes through automation.](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
+[Smart Assessment Engine![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-sae.svg)Reduce the manual burden and costs of your risk assessment processes through automation.](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
 
 </td><td>
 
-[Third-party Risk Management ![](../image/app-tprm.svg)Continuously monitor, detect, assess, mitigate, and remediate risks in third-party ecosystems.](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
+[Third-party Risk Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-tprm.svg)Continuously monitor, detect, assess, mitigate, and remediate risks in third-party ecosystems.](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
 
 </td></tr><tr><td>
 
-Common GRC features[![](../image/app-grc-core.svg)Leverage the power of entities, 360 degree views, the tasks landing page, and security features across GRC products.](../concept/common-grc-features.md)
+Common GRC features[![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/app-grc-core.svg)Leverage the power of entities, 360 degree views, the tasks landing page, and security features across GRC products.](../concept/common-grc-features.md)
 
 </td><td>
 
@@ -89,7 +89,7 @@ Only ServiceNow applications can connect the business, security, and IT with an 
 
 <table id="table_uw5_lxw_sjb"><tbody><tr><td>
 
-![Emergency Response Management](../image/erm-icon.png)
+![Emergency Response Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/erm-icon.png)
 
 </td><td>
 
@@ -100,7 +100,7 @@ Mobilize your business continuity efforts during natural disasters and pandemics
 
 </td></tr><tr><td>
 
-![Automate and manage](../image/wrench.png)
+![Automate and manage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/wrench.png)
 
 </td><td>
 
@@ -111,7 +111,7 @@ It makes perfect sense to embrace a single platform that can make all compliance
 
 </td></tr><tr><td>
 
-![Risk Management](../image/mag_glass.png)
+![Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/mag_glass.png)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Respond to business risks in real-time with integrated risk management.
 
 </td></tr><tr><td>
 
-![Audit Management](../image/clipbrd.png)
+![Audit Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/clipbrd.png)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Reduce audit costs, improve efficiency, and minimize risk.
 
 </td></tr><tr><td>
 
-![Vendor Risk Management](../image/dollar.png)
+![Vendor Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dollar.png)
 
 </td><td>
 
@@ -145,19 +145,19 @@ As your vendors become privy to more of your sensitive systems and data, their r
 </td></tr></tbody>
 </table>## Automate and manage policy life cycles and continuously monitor for compliance
 
-![Policy and Compliance Management](../image/policy-compliance-servicenow-solution.png)
+![Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/policy-compliance-servicenow-solution.png)
 
 The ServiceNow® Policy and Compliance Management product provides a centralized process for creating and managing policies, standards, and internal control procedures. The process automatically cross-maps the procedures to external regulations. Also, the application provides structured workflows for the identification, assessment, and continuous monitoring of control activities.
 
 ## Enable fine-grained business impact analysis to appropriately prioritize and respond to risks
 
-![Risk Management](../image/risk-servicenow-solution.png)
+![Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/risk-servicenow-solution.png)
 
 The ServiceNow Risk Management product provides a centralized process to identify, assess, respond to, and continuously monitor Enterprise and IT risks that may negatively impact business operations. The application also provides structured workflows for the management of risk assessments, risk indicators, and risk issues.
 
 ## Use risk data to scope and prioritize audit plans and automate cross-functional processes
 
-![Audit Management](../../grc-audit/image/mmasset0021307-audit-servicenow-solution-horizontal.png)
+![Audit Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-audit/image/mmasset0021307-audit-servicenow-solution-horizontal.png)
 
 The ServiceNow Audit Management product automates the work streams of internal audits teams, optimizing resources and productivity, and eliminating recurring audit findings. Audit Management uses compliance and risk data to scope, plan, and prioritize audit engagements. The ongoing review of policies and procedures, risks, and control breakdowns provide an opportunity for fixing issues before they become audit failures.
 
@@ -189,18 +189,18 @@ By aligning Vendor Risk Management with overall enterprise risk management prior
 
 ## Applications and features
 
--   [AI Risk and Compliance](../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
--   [Audit Management](../../grc-audit/concept/c_GRCAudits.md)
--   [Business Continuity Management](../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
--   [Compliance Case Management](../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
--   [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md)
--   [Operational Resilience](../../grc-operational-res/reference/grc-opres-landing-page.md)
--   [Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
--   [Privacy Management](../../grc-privacy-management/concept/privacy-management.md)
--   [Regulatory Change Management](../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
--   [Risk Management](../../grc-risk/concept/grc-risk-overview.md)
--   [Smart Assessment Engine](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
--   [Third-party Risk Management](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
--   [GRC and the ServiceNow Store](../concept/grc-and-store.md)
--   [Common GRC Features](../concept/common-grc-features.md)
+-   [AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
+-   [Audit Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-audit/concept/c_GRCAudits.md)
+-   [Business Continuity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
+-   [Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
+-   [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-cam/reference/grc-cam-landing-page.md)
+-   [Operational Resilience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res/reference/grc-opres-landing-page.md)
+-   [Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
+-   [Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-privacy-management/concept/privacy-management.md)
+-   [Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
+-   [Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-risk/concept/grc-risk-overview.md)
+-   [Smart Assessment Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
+-   [Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
+-   [GRC and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/grc-and-store.md)
+-   [Common GRC Features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/common-grc-features.md)
 

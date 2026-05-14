@@ -25,7 +25,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 2.  Create a MECM script with the name `GetProcess`.
 
-    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md).
+    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md).
 
 3.  Provide the following code in the script block.
 
@@ -58,7 +58,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 7.  In the **Action input** field, add the script GUID.
 
-    ![Edit running processes CPU](../image/edit-cpu-config.png)
+    ![Edit running processes CPU](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/edit-cpu-config.png)
 
 8.  Click **Save**.
 
@@ -73,5 +73,5 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 The top processes by CPU and top processes by memory metrics are displayed on the **Investigation** tab of the incident record in Service Operations Workspace.
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

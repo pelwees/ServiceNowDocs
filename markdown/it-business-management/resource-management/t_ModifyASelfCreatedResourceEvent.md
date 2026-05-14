@@ -30,14 +30,14 @@ Role required: none
 4.  Select **Update**.
 
 
-**Parent Topic:**[Resource events](../concept/c_ResourceEvents.md)
+**Parent Topic:**[Resource events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ResourceEvents.md)
 
 **Related topics**  
 
 
-[Resource events and schedules](../reference/r_ResourceEventsAndSchedules.md)
+[Resource events and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_ResourceEventsAndSchedules.md)
 
-[Resource event modifications](../concept/c_ModifyAResourceEvent.md)
+[Resource event modifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ModifyAResourceEvent.md)
 
-[Change the resource event color](t_ChangeTheResourceEventColor.md)
+[Change the resource event color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_ChangeTheResourceEventColor.md)
 

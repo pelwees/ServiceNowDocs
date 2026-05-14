@@ -27,7 +27,7 @@ Role required: sn\_pace.mapping\_admin
 
 3.  Select a document type in the **Document Type** field.
 
-4.  Select a policy in the **Policy** field or you can select the Search icon ![Search icon.](../image/pace-search-icon.jpg) to view and select multiple policies, then select **Map**.
+4.  Select a policy in the **Policy** field or you can select the Search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-search-icon.jpg) to view and select multiple policies, then select **Map**.
 
 5.  When you're finished, select **Done**.
 

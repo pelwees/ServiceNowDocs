@@ -33,7 +33,7 @@ Translate content in Document Templates and document blocks Localization Framewo
 
 3.  Select a target language and start to manually translate the text in the space given.
 
-    ![Translate content in Document Blocks or Document Templates](doc-lzt-fm.png)
+    ![Translate content in Document Blocks or Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/doc-lzt-fm.png)
 
 4.  Click **Publish Translations**.
 

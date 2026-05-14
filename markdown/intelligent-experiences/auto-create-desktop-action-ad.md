@@ -17,8 +17,8 @@ Create desktop actions by auto-capturing steps to automate repetitive tasks in A
 
 To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](configure-agentic-desktop.md).
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](download-agentic-desktop-installer.md).
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -27,7 +27,7 @@ Confirm that the following system requirements are met:
 -   No extended monitors are connected.
 -   Theme must match between the systems used for recording and execution.
 
-Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](../concept/agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](../concept/action-recorder-ad.md).
+Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/action-recorder-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -47,7 +47,7 @@ With Action recorder, you can record every step you perform on desktop applicati
 
     For example, `https://<instance name>.service-now.com`.
 
-    ![AI Desktop Actions login screen for entering ServiceNow instance URL.](../image/ad-login-screen.png)
+    ![AI Desktop Actions login screen for entering ServiceNow instance URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-login-screen.png)
 
 3.  Select **Proceed**.
 
@@ -55,21 +55,21 @@ With Action recorder, you can record every step you perform on desktop applicati
 
     Your must have the sn\_aia.admin role.
 
-    ![Login window for entering your ServiceNow account username and password.](../image/ad-login-screen-cred.png)
+    ![Login window for entering your ServiceNow account username and password.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-login-screen-cred.png)
 
 5.  On the onboarding journey wizard, complete the onboarding and select **Get started**.
 
-    ![Onboarding journey widget with five pages to show you the highlights of the application.](../image/onboarding-widget-ad.png)
+    ![Onboarding journey widget with five pages to show you the highlights of the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/onboarding-widget-ad.png)
 
     If you launch the AI Desktop Actions for the first time, the onboarding journey widget appears. You can select **Don't show me again** to hide the widget the next time you launch AI Desktop Actions or **Skip intro** to skip the onboarding.
 
 6.  On the AI Desktop Actions home page, select **Create desktop action**.
 
-    ![AI Desktop Actions home page displaying the Create desktop action UI action, search and select options, and cards of existing desktop actions.](../image/home-page-actions-ad.png)
+    ![AI Desktop Actions home page displaying the Create desktop action UI action, search and select options, and cards of existing desktop actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/home-page-actions-ad.png)
 
 7.  In the New desktop action dialog box, select **Auto-capture steps \(recommended\)**.
 
-    ![New desktop action window with auto-capture option selected and fields to enter name and description for the desktop action.](../image/new-desktop-action-window-ad.png)
+    ![New desktop action window with auto-capture option selected and fields to enter name and description for the desktop action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/new-desktop-action-window-ad.png)
 
 8.  Enter a name and description for the desktop action.
 
@@ -77,7 +77,7 @@ With Action recorder, you can record every step you perform on desktop applicati
 
     The AI Desktop Actions window is minimized and the Action recorder panel is launched. You can freely drag and reposition the Action recorder panel anywhere on your desktop screen.
 
-    ![Floating recorder panel that has Discard, Pause, and Start recording UI actions.](../image/recorder-auto-capture-ad.png)
+    ![Floating recorder panel that has Discard, Pause, and Start recording UI actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/recorder-auto-capture-ad.png)
 
 10. Open the applications that you want to record steps for.
 
@@ -97,11 +97,11 @@ With Action recorder, you can record every step you perform on desktop applicati
 
     -   When the message in the Action recorder panel appears in red, wait for the recorder to finish processing the current step before continuing.
 
-        ![Message in yellow indicating panel is still capturing step.](../image/recorder-auto-capture-red-ad.png)
+        ![Message in yellow indicating panel is still capturing step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/recorder-auto-capture-red-ad.png)
 
     -   Proceed with capturing the next step when the red highlight box appears around the element you interact with and the message in the Action recorder panel changes to blue.
 
-        ![Message in blue indicating panel finished capturing step.](../image/recorder-auto-capture-blue-ad.png)
+        ![Message in blue indicating panel finished capturing step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/recorder-auto-capture-blue-ad.png)
 
 12. Perform the steps that you want to automate.
 
@@ -131,7 +131,7 @@ With Action recorder, you can record every step you perform on desktop applicati
 
     2.  Select the type of step to perform for this step from the contextual menu.
 
-        ![Screen capture of an app with anchor added, displaying various type of input and output steps.](../image/add-action-context-menu-ad.png)
+        ![Screen capture of an app with anchor added, displaying various type of input and output steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/add-action-context-menu-ad.png)
 
 <table id="table_vtf_jds_ghc"><thead><tr><th>
 
@@ -266,7 +266,7 @@ Recognize text from images and return it in the standard text format.
 
 17. Configure the properties for added screens, anchors, and steps in the Properties panel.
 
-    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/screen-anchor-and-action-properties-ad.md).
 
 18. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -281,24 +281,24 @@ Recognize text from images and return it in the standard text format.
 
 ## What to do next
 
-1.  Configure the details of your desktop action. For more information, see [Add details to desktop actions in AI Desktop Actions](add-details-desktop-action-ad.md).
-2.  Test and activate the desktop action so that it can be added as a tool to AI agents. For more information, see [Test and activate a desktop action in AI Desktop Actions](test-activate-desktop-action-ad.md).
-3.  Add the desktop action as a tool to AI agents in AI Agent Studio. For more information, see [Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
+1.  Configure the details of your desktop action. For more information, see [Add details to desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/add-details-desktop-action-ad.md).
+2.  Test and activate the desktop action so that it can be added as a tool to AI agents. For more information, see [Test and activate a desktop action in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-activate-desktop-action-ad.md).
+3.  Add the desktop action as a tool to AI agents in AI Agent Studio. For more information, see [Add a desktop action to an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
 
 **Related topics**  
 
 
-[AI Desktop Actions Design workspace](../concept/agentic-desktop-overview.md)
+[AI Desktop Actions Design workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/agentic-desktop-overview.md)
 
-[Action recorder in AI Desktop Actions](../concept/action-recorder-ad.md)
+[Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/action-recorder-ad.md)
 
-[Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md)
+[Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/screen-anchor-and-action-properties-ad.md)
 
-[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md)
+[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md)
 
-[Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md)
+[Add a desktop action to an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md)
 
-[Examples of creating desktop actions](../concept/examples-of-agentic-desktop-automation.md)
+[Examples of creating desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/examples-of-agentic-desktop-automation.md)
 
-[Examples of executing desktop actions using AI agents](../concept/use-agentic-desktop.md)
+[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/use-agentic-desktop.md)
 

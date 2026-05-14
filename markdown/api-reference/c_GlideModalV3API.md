@@ -19,10 +19,10 @@ Use the GlideModal methods in scripts anywhere that you can use client-side Java
 
 For modal options and compatibility in Configurable Workspace in the Next Experience UI, refer to the following:
 
--   [g\_modal \(Next Experience\) - Client](../../g_modalNX/concept/g_modalClientAPINX.md#)
--   [GlideModal \(Next Experience\) - Client](../../GlideModalClientNX/concept/GModClientAPINX.md#)
+-   [g\_modal \(Next Experience\) - Client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../g_modalNX/concept/g_modalClientAPINX.md#)
+-   [GlideModal \(Next Experience\) - Client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../GlideModalClientNX/concept/GModClientAPINX.md#)
 
-![Example overlay](../../Images/GlideModalV3-Client-example-overlay-dialog.png "Example modal")
+![Example overlay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../Images/GlideModalV3-Client-example-overlay-dialog.png "Example modal")
 
 Modals can contain different types of content such as:
 
@@ -43,8 +43,8 @@ Using this API you can:
 
 To make a modal appear in the UI you must call one of the render methods:
 
--   [GlideModal - render\(\)](c_GlideModalV3API.md#)
--   [GlideModal - renderWithContent\(String html\)](c_GlideModalV3API.md#)
+-   [GlideModal - render\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#)
+-   [GlideModal - renderWithContent\(String html\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#)
 
 The following code example shows how to create and render a modal using the UI page "UI\_dialog\_name".
 
@@ -102,7 +102,7 @@ function cancelDialog(){
 
 **Note:** This is a fully-featured replacement for the GlideWindow and GlideDialogWindow APIs.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## GlideModal - GlideModal\(String id, Boolean readOnly, Number/String width\)
 
@@ -130,7 +130,7 @@ String
 
 </td><td id="GMod-GMod-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -315,7 +315,7 @@ String
 
 </td><td id="GMod-get-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -347,7 +347,7 @@ glideModal.destroy();
 
 Returns the value of the specified preference \(property\).
 
-Invoking actions that create the modal typically also create the necessary preferences for the modal using the [GlideModal - setPreference\(String name, String value\)](c_GlideModalV3API.md#) method. The UI page client script can then consume these preferences using this method.
+Invoking actions that create the modal typically also create the necessary preferences for the modal using the [GlideModal - setPreference\(String name, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#) method. The UI page client script can then consume these preferences using this method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -375,7 +375,7 @@ var title = dialog.getPreference('table');
 
 Renders the UI page specified when the API was instantiated in the modal. You must call this method after you define the modal for it to appear in the UI.
 
-Call this method when you use a UI page to generate the content in your modal. If you want to display HTML within a modal, call [GlideModal - renderWithContent\(String html\)](c_GlideModalV3API.md#) to render the modal.
+Call this method when you use a UI page to generate the content in your modal. If you want to display HTML within a modal, call [GlideModal - renderWithContent\(String html\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#) to render the modal.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -586,7 +586,7 @@ dialog.render();
 
 Sets the width of the modal.
 
-You can also set the width of a modal when you first instantiate the API using the [GlideModal - GlideModal\(String id, Boolean readOnly, Number/String width\)](c_GlideModalV3API.md#) method.
+You can also set the width of a modal when you first instantiate the API using the [GlideModal - GlideModal\(String id, Boolean readOnly, Number/String width\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#) method.
 
 <table id="table_msx_wts_3v" class="parameters"><thead><tr><th>
 
@@ -654,7 +654,7 @@ Change the view and reload the modal.
 
 Updates the title specified using GlideModal setTitle\(\) method.
 
-You must always first call [GlideModal - setTitle\(String title\)](c_GlideModalV3API.md#) to specify the Modal title using updateTitle\(\) to commit the change.
+You must always first call [GlideModal - setTitle\(String title\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/c_GlideModalV3API.md#) to specify the Modal title using updateTitle\(\) to commit the change.
 
 |Name|Type|Description|
 |----|----|-----------|

@@ -33,6 +33,6 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 5.  Filter your results by tapping one of the filter bubbles at the top of the page.
 
-    ![manager mobile search results page](../image/manage-mobile-search.png)
+    ![manager mobile search results page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/manage-mobile-search.png)
 
 

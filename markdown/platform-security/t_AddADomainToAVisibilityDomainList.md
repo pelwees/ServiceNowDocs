@@ -37,6 +37,6 @@ Assigning visibility domains to all members of a group is preferred over grantin
 
 6.  Click **Save**, and then click **Update**.
 
-    ![Visibility Domains group](../image/Visibility_domains_group.png)
+    ![Visibility Domains group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Visibility_domains_group.png)
 
 

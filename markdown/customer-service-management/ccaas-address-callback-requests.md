@@ -21,7 +21,7 @@ You must log in to your CCaaS account and ServiceNow Configurable Workspace to r
 
 ## About this task
 
-The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
+The callback interaction is either routed in the customer-first or agent-first method by CCaaS to the agent. The interaction appears like any other voice interaction in a customer-first scenario. The interaction appears with callback actions component and callback context card for an agent-first scenario. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](../concept/csm-native-voice-record-page.md#section-ccaas-callback-actions).
+Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-native-voice-record-page.md#section-ccaas-callback-actions).
 
 </td></tr><tr><td id="d257700e141">
 
@@ -62,7 +62,7 @@ Select this button to reject the callback interaction request.The callback inter
 </td></tr></tbody>
 </table>3.  View the Callback context card for the details of the callback.
 
-    For more information on the Callback context card, see [Callback context card](../concept/csm-native-voice-record-page.md#section-callback-context).
+    For more information on the Callback context card, see [Callback context card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-native-voice-record-page.md#section-callback-context).
 
 4.  Use the callback actions card to perform the following actions.
 
@@ -102,8 +102,8 @@ When you select the Transfer callback button, the Transfer callback subcomponent
     -   In the search field, select from the list or to transfer the callback.
     -   In the Queues list, select the queue for transfer to which you want to transfer the callback.
     -   In the Agents list, select the agent to whom you want to transfer the callback.
-2.  Select the ![Transfer callback arrow](../image/Transfer_queue_arrow.png) icon to initiate the transfer callback. When transferring a callback, the Callback actions component displays a Transferring callback, please wait... message and a 'Cancel callback transfer' button.
-3.  Select the **Cancel callback transfer** button to cancel the transfer before the receiving agent accepts the request. For more details on how it’s displayed in the UI, see [CSM voice interaction record page](../concept/csm-native-voice-record-page.md).
+2.  Select the ![Transfer callback arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Transfer_queue_arrow.png) icon to initiate the transfer callback. When transferring a callback, the Callback actions component displays a Transferring callback, please wait... message and a 'Cancel callback transfer' button.
+3.  Select the **Cancel callback transfer** button to cancel the transfer before the receiving agent accepts the request. For more details on how it’s displayed in the UI, see [CSM voice interaction record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-native-voice-record-page.md).
 
 
 </td></tr><tr><td>
@@ -135,7 +135,7 @@ Once the new agent accepts the call, you can select **Merge calls** to merge you
 </td></tr></tbody>
 </table>5.  Mute, hold, and record the calls if necessary while you are on an active call with the customer.
 
-    ![Actions you can perform on an active conversation.](../image/ccaas-callback-call-actions.png)
+    ![Actions you can perform on an active conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ccaas-callback-call-actions.png)
 
     The following table provides a description for the annotations in the preceding image:
 
@@ -145,7 +145,7 @@ Once the new agent accepts the call, you can select **Merge calls** to merge you
     |2|Use the mute icon to mute or unmute the conversation.|
     |3|Use the hold icon to hold or resume the conversation.|
     |4|Use the dialpad to enter a phone number of your choice and press the dial button to make a call.|
-    |5|To transfer the call to another agent, select the transfer icon. For more details, see [ccaas-address-callback-requests.md\#entry-transfer-call](ccaas-address-callback-requests.md#entry-transfer-call).|
+    |5|To transfer the call to another agent, select the transfer icon. For more details, see [ccaas-address-callback-requests.md\#entry-transfer-call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ccaas-address-callback-requests.md#entry-transfer-call).|
     |6|Use the flag icon to escalate customer issue.|
 
 6.  Update the **Reason** and **Notes** appropriately and select **Submit &amp; close** in the Wrap up modal after ending the call.
@@ -162,9 +162,9 @@ Once the new agent accepts the call, you can select **Merge calls** to merge you
 **Related topics**  
 
 
-[Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md)
+[Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/interaction-controls-component-icc-callback-integration-features.md)
 
-[Callback interaction features](../concept/contact-center-intergration-with-icc-callback.md)
+[Callback interaction features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/contact-center-intergration-with-icc-callback.md)
 
-[Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md)
+[Manage a CCaaS callback request using Global Voice Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/handle-ccaas-callback-gvc.md)
 

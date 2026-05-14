@@ -23,15 +23,15 @@ Now Assist for Sales Force Automation \(SFA\) application packages ServiceNow® 
 
 <table id="table_np5_rf3_y2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SFA](exploring-now-assist-for-som.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SFA](exploring-now-assist-for-som.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SFA application to get started](../task/configure-now-assist-som.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SFA application to get started](../task/configure-now-assist-som.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-community.svg)Use the Now Assist for SFA AI agents to complete tasks autonomously](using-agentic-worklflows-in-lead-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-community.svg)Use the Now Assist for SFA AI agents to complete tasks autonomously](using-agentic-worklflows-in-lead-management.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
@@ -54,10 +54,10 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
--   **[Exploring Now Assist for SFA](exploring-now-assist-for-som.md)**  
+-   **[Exploring Now Assist for SFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/exploring-now-assist-for-som.md)**  
 With the Now Assist for Sales Force Automation \(SFA\) application, sales agents can manage the lifecycle of leads by automating outreach, follow-up communications, demo bookings, and handling lead disinterest or opt-outs. It can operate independently or under human supervision, thereby streamlining engagement and demo scheduling.
--   **[Configure Now Assist for Sales Force Automation \(SFA\)](../task/configure-now-assist-som.md)**  
+-   **[Configure Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-now-assist-som.md)**  
 If you have the admin role, you can configure the Now Assist for Sales Force Automation \(SFA\) application so that agents can use the generative AI capabilities in the CSM Configurable Workspace.
--   **[Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)](using-agentic-worklflows-in-lead-management.md)**  
+-   **[Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-agentic-worklflows-in-lead-management.md)**  
 Use the Now Assist for Sales Force Automation \(SFA\) AI agent collection to complete tasks autonomously.
 

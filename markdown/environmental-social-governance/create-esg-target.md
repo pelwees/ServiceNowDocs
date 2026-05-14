@@ -187,7 +187,7 @@ Source for target
 
 </td><td>
 
-The metric definition or the metric that acts as a source of the target. This field only appears when the **Type** field contains either **Maximize** or **Minimize**. For information on how to add a source, see [Add a source for a target](add-a-source-for-a-target.md).
+The metric definition or the metric that acts as a source of the target. This field only appears when the **Type** field contains either **Maximize** or **Minimize**. For information on how to add a source, see [Add a source for a target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-a-source-for-a-target.md).
 
 </td></tr></tbody>
 </table>4.  To mark a material topic as confidential, in the Security section, select the **Confidential** option.
@@ -217,8 +217,8 @@ The metric definition or the metric that acts as a source of the target. This fi
 
 The target with metric definitions is created.
 
--   **[Add a source for a target](add-a-source-for-a-target.md)**  
+-   **[Add a source for a target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-a-source-for-a-target.md)**  
 After you create a target, you must add a source for the target. The source can be a metric or a metric definition that contributes to the parent target.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configuring-esg.md)
 

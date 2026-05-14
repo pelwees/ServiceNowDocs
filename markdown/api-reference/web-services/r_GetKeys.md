@@ -56,11 +56,11 @@ Sample SOAP response
 
 For language-specific getKeys samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md)
+[Perl SOAP::Lite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PerlWebServicesClientExamples.md)
 
-[Java Apache Axis2](../../examples/concept/c_JAAWbSrvcsClntExUpdt.md)
+[Java Apache Axis2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_JAAWbSrvcsClntExUpdt.md)
 
-[Python](../../examples/concept/c_PythonWebServicesClientExamples.md#getKeys)
+[Python](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PythonWebServicesClientExamples.md#getKeys)
 
-**Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
+**Parent Topic:**[Data Retrieval API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataRetrievalAPI.md)
 

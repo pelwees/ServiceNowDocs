@@ -21,7 +21,7 @@ Role required: sn\_aia.admin
 
 The **Define security controls** step is divided into two parts: **Define user access** and **Define data access**. The former creates an access control list \(ACL\) that determines which users can discover or invoke the agentic workflow. The latter defines the data that the agentic workflow has access to once it’s invoked.
 
-See [Security for AI agents](../concept/aia-security-implementation.md) for more information about creating ACLs and user identities for security for agentic workflows.
+See [Security for AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/aia-security-implementation.md) for more information about creating ACLs and user identities for security for agentic workflows.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ See [Security for AI agents](../concept/aia-security-implementation.md) for more
     -   Public
     If you select **Users with specified roles**, you can select exactly which roles can access the agentic workflow. Agentic workflows installed with Now Assist applications and their AI agents might require you to include specific roles. To learn which roles they need, consult the documentation for the AI agent or the agentic workflow that uses the AI agent.
 
-    ![Define user access for an agentic workflow](../image/def-user-access-aw.png)
+    ![Define user access for an agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/def-user-access-aw.png)
 
 2.  Select **Save and continue** to move to the next step.
 
@@ -54,7 +54,7 @@ See [Security for AI agents](../concept/aia-security-implementation.md) for more
 
     If you select **AI user**, the list of roles that the AI user has is displayed.
 
-    ![Define data access for an agentic workflow](../image/def-data-access-aw.png)
+    ![Define data access for an agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/def-data-access-aw.png)
 
 
 ## Result
@@ -63,5 +63,5 @@ You have created an ACL that determines who can discover and access your agentic
 
 ## What to do next
 
-Select **Save and continue** to move to the next step, [Adding a trigger](add-trigger-aw.md). Adding a trigger is optional. You can also skip to the final step, [Select channels and access](channels-access-aw.md).
+Select **Save and continue** to move to the next step, [Adding a trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/add-trigger-aw.md). Adding a trigger is optional. You can also skip to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md).
 

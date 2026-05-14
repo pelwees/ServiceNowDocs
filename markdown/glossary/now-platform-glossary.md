@@ -348,9 +348,9 @@ An automated indicator uses an indicator source as its data set. The indicator s
 **Related topics**  
 
 
-[indicator \(KPI\)](now-platform-glossary.md#)
+[indicator \(KPI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
-[database view](now-platform-glossary.md#)
+[database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
 ### Automated Test Framework \(ATF\)
 
@@ -423,7 +423,7 @@ The values for a breakdown. For example, the Priority breakdown may have the ele
 **Related topics**  
 
 
-[breakdown](now-platform-glossary.md#)
+[breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
 ### breakdown mapping
 
@@ -436,11 +436,11 @@ A set of records from a table or database view that constitute the unique values
 **Related topics**  
 
 
-[breakdown](now-platform-glossary.md#)
+[breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
-[breakdown element](now-platform-glossary.md#)
+[breakdown element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
-[bucket group](now-platform-glossary.md#)
+[bucket group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
 ### breakdown
 
@@ -449,9 +449,9 @@ A grouping or a filter of indicator scores that is based on a qualitative attrib
 **Related topics**  
 
 
-[breakdown element](now-platform-glossary.md#)
+[breakdown element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
-[indicator \(KPI\)](now-platform-glossary.md#)
+[indicator \(KPI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md#)
 
 ### breakpoint
 

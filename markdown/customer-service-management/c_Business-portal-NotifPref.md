@@ -23,9 +23,9 @@ Email notification preferences are set to control email notifications that are s
 **Related topics**  
 
 
-[Manage customer registration requests from Business Portal](manage-cust-registration-requests-business-portal.md#)
+[Manage customer registration requests from Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/manage-cust-registration-requests-business-portal.md#)
 
-[Manage contacts from Business Portal](c_ManageUsersFrom-business-Portal.md#)
+[Manage contacts from Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_ManageUsersFrom-business-Portal.md#)
 
 ## Set email notification preferences
 

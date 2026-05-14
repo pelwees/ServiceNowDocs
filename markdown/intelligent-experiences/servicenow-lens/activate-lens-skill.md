@@ -17,7 +17,7 @@ Activate the ServiceNow AI Lens skill to start using generative AI to scan and a
 
 ## Before you begin
 
--   Confirm that the ServiceNow AI Lens application is installed. For more information, see [Configure ServiceNow AI Lens](install-sn-lens.md).
+-   Confirm that the ServiceNow AI Lens application is installed. For more information, see [Configure ServiceNow AI Lens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/install-sn-lens.md).
 -   Perform this task in your ServiceNow instance.
 -   Role required: admin
 
@@ -31,12 +31,12 @@ Activate the ServiceNow AI Lens skill to start using generative AI to scan and a
 
 4.  On the tile for the ServiceNow AI Lens skill, select **Turn on**.
 
-    ![ServiceNow AI Lens skill card that displays the skill to be turned on.](../image/sn-lens-card.png)
+    ![ServiceNow AI Lens skill card that displays the skill to be turned on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/sn-lens-card.png)
 
 5.  On the Successfully activated dialog box, select **Back to skills**.
 
 6.  On the ServiceNow AI Lens card, verify that the ServiceNow AI Lens skill is activated.
 
-    ![ServiceNow AI Lens skill is active.](../image/sn-lens-skill-activated.png)
+    ![ServiceNow AI Lens skill is active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/sn-lens-skill-activated.png)
 
 

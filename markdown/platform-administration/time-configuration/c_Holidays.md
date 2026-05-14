@@ -25,28 +25,28 @@ The following example shows a schedule that includes the preceding holiday sched
 
 ![](../image/ScheduleWithChildSchedule.png "Child Schedule")
 
-**Parent Topic:**[Schedules](c_UseSchedules.md)
+**Parent Topic:**[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_DefaultSchedules.md)
 
-[Create a holiday schedule for multiple regions](../task/t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](c_ParentAndChildSchedules.md)
+[Parent and child schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ParentAndChildSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](../task/t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_FifthInstanceOfADayOfTheWeek.md)
 
-[Repeat a monthly schedule](../task/t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_RepeatAMonthlySchedule.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_CreateCalendarsWithSchedulePages.md)
 
-[Domain support and schedules](domain-support-for-schedules.md)
+[Domain support and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/domain-support-for-schedules.md)
 
-[Schedules](c_UseSchedules.md)
+[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_DefineASchedule.md)
 

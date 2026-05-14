@@ -156,5 +156,5 @@ Tool Input
 Inputs defined for use by MCP server tools.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[MCP Server Console reference](../concept/mcp-server-console-reference.md)
+</table>**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/mcp-server-console-reference.md)
 

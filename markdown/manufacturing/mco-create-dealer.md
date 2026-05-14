@@ -65,5 +65,5 @@ Business functions of the dealer:-   Sales
 **Related topics**  
 
 
-[Assign roles](../concept/assign-mco-roles.md)
+[Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/assign-mco-roles.md)
 

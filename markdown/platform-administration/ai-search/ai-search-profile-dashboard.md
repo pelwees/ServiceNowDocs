@@ -15,11 +15,11 @@ breadcrumb: [Advanced AI Search Management Tools, ServiceNow Store applications 
 
 The AI Search Profile dashboard summarizes indexed record counts and search query traffic associated with a search profile defined in AI Search. Interactive filters enable users to choose a search profile and select the time frame for analysis of search query traffic.
 
-![AI Search Profile dashboard.](../image/adv-ais-mgmt-dashboard-profile.png "AI Search Profile dashboard")
+![AI Search Profile dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/adv-ais-mgmt-dashboard-profile.png "AI Search Profile dashboard")
 
 To access the dashboard, navigate to **All** &gt; **AI Search** &gt; **AI Search Analytics** &gt; **Search Profile Analytics**.
 
-**Note:** If the dashboard displays a `Read operation on table '<name>' from scope 'Advanced AI Search Management Tools' was denied` informational message, ask your administrator to perform the steps described in [Create a cross-scope access privilege for the AI Search dashboards](ais-dashboards-cross-scope-access.md) for the listed table.
+**Note:** If the dashboard displays a `Read operation on table '<name>' from scope 'Advanced AI Search Management Tools' was denied` informational message, ask your administrator to perform the steps described in [Create a cross-scope access privilege for the AI Search dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-dashboards-cross-scope-access.md) for the listed table.
 
 ## Required ServiceNow AI Platform® roles
 

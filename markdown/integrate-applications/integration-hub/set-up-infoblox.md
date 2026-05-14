@@ -47,7 +47,7 @@ Role required: admin
     |User Name|User name of your Infoblox account.|
     |Password|Password of your Infoblox account.|
 
-    ![Create Connection and Credential form for Infoblox spoke](../image/conn-cred-alias-infoblox.png)
+    ![Create Connection and Credential form for Infoblox spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conn-cred-alias-infoblox.png)
 
 5.  Click **Create**.
 

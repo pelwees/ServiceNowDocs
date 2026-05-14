@@ -52,7 +52,7 @@ Code signing for Discovery supports the following discovery methods:
 -   IP-based Discovery
 -   Cloud Discovery
 
-    **Note:** Cloud Discovery requires additional configuration. For more information, see [Configure Cloud Discovery for code-signed instances](../task/config-cloud-disco-code-sign.md).
+    **Note:** Cloud Discovery requires additional configuration. For more information, see [Configure Cloud Discovery for code-signed instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/config-cloud-disco-code-sign.md).
 
 
 ## Signature validation scope

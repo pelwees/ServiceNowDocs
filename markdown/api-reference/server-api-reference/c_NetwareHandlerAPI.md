@@ -19,7 +19,7 @@ This handler is designed to be invoked by Classify.java as an interim step towar
 
 Use this script include for SNMP classification.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## NetwareHandler - classifyAndIdentify\(\)
 

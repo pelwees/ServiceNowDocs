@@ -85,5 +85,5 @@ User role for the Industrial Guided Tasks application
 -   Industrial Guided Task Standard \[sn\_icw\_igt\_standard\]
 -   Industrial Guided Task \[sn\_icw\_igt\_task\]
 
-**Parent Topic:**[Industrial Guided Tasks reference](industrial-guided-tasks-reference.md)
+**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 

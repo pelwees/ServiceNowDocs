@@ -42,14 +42,14 @@ Role required: inventory\_user
 
 Keep closing each task until you reach the last stage **Received**. After you close the task for the **Received** stage, the transfer order line is completed and closed. All transfer order lines and the transfer order are marked **Delivered**.
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/work-with-transfer-orders.md)
 
 **Related topics**  
 
 
-[Create a transfer order](create-a-transfer-order.md)
+[Create a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-a-transfer-order.md)
 
-[Create transfer order line](create-transfer-order-line.md)
+[Create transfer order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-transfer-order-line.md)
 
-[Summary of transfer order line tasks](../reference/r_SummaryOfTransferOrderStages.md)
+[Summary of transfer order line tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../reference/r_SummaryOfTransferOrderStages.md)
 

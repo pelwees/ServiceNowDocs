@@ -33,7 +33,7 @@ You can create both the internal \(snc\_internal\) and external \(snc\_external\
 
 2.  Select the consumer from the consumer record.
 
-3.  In the Login Details related list, select the User lookup icon ![Lookup icon.](../image/lookup-list.jpg) to open the list of sys\_users.
+3.  In the Login Details related list, select the User lookup icon ![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg) to open the list of sys\_users.
 
 4.  On the Users list, select **New**.
 
@@ -48,7 +48,7 @@ You can create both the internal \(snc\_internal\) and external \(snc\_external\
 
 ### What to do next
 
-Associate an existing user with a consumer record. For more information, see [Associate an existing user with a consumer record](associating-users-to-a-consumer-record.md#).
+Associate an existing user with a consumer record. For more information, see [Associate an existing user with a consumer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/associating-users-to-a-consumer-record.md#).
 
 ## Associate an existing user with a consumer record
 
@@ -64,7 +64,7 @@ Role required: sn\_crm\_consumer\_data\_manager, sn\_crm\_consumer\_relationship
 
 2.  Select the consumer from the consumer record.
 
-3.  In the Login Details related list, select the User lookup icon ![Lookup icon.](../image/lookup-list.jpg) to open the list of sys\_users.
+3.  In the Login Details related list, select the User lookup icon ![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg) to open the list of sys\_users.
 
 4.  On the Users form, select the user to associate with the consumer record.
 

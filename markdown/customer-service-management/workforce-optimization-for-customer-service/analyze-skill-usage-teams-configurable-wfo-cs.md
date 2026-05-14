@@ -23,7 +23,7 @@ Role required: skill\_admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Teams icon \(![Teams icon.](../image/teams-new.png)\).
+2.  Click the Teams icon \(![Teams icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/teams-new.png)\).
 
 3.  Select a team for which you want to analyze skills.
 
@@ -37,5 +37,5 @@ Role required: skill\_admin
     You can click on a skill to analyze skill data such as the number of users or tasks with that skill, the overall skill coverage, and how many experts you currently have with that skill.
 
 
-**Parent Topic:**[Channel Management in Workforce Optimization for Customer Service](../concept/configurable-channels-wfo-cs.md)
+**Parent Topic:**[Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/configurable-channels-wfo-cs.md)
 

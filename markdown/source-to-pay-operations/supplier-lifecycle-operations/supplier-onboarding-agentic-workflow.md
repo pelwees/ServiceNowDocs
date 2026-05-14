@@ -121,7 +121,7 @@ This activity is triggered during the registration stage to validate banking det
 **Related topics**  
 
 
-[Activate AI agents](../task/activate-ai-agents.md)
+[Activate AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/activate-ai-agents.md)
 
-[Supplier document strategy generator AI agent](supplier-document-strategy-generator-ai-agent.md)
+[Supplier document strategy generator AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-document-strategy-generator-ai-agent.md)
 

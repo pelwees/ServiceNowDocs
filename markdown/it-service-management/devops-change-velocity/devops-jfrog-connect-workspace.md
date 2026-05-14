@@ -17,9 +17,9 @@ Connect to your JFrog instance using the DevOps Change Workspace playbook to tra
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
-Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and integration with JFrog AppTrust application. For more information, see [Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md).
+Install the JFrog plugin \(x\_snc\_jfrog\) from the ServiceNow® Store to enable bearer token authentication and integration with JFrog AppTrust application. For more information, see [Integration with JFrog AppTrust application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integration-with-jfrog-apptrust-application.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -51,8 +51,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\).
-2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](app-create-all.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\).
+2.  Select an existing application, or create one. To create an application, see [Create an application - Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-all.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select JFrog from the **Artifact** category.
 
@@ -63,7 +63,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\).
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\).
 2.  From the Capability list, select **Artifact**.
 3.  Select **Connect a tool**.
 4.  On the  Connect to a tool  modal, select JFrog.
@@ -72,7 +72,7 @@ Steps
 </td></tr></tbody>
 </table>2.  Specify a name for the tool in the **Tool name** field, and select **Next**.
 
-    ![Connect to the JFrog tool screen](../image/jfrog-workspace-1.png)
+    ![Connect to the JFrog tool screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-workspace-1.png)
 
 3.  On the JFrog instance details playbook activity:
 
@@ -85,25 +85,25 @@ Steps
         -   For Basic Auth, select the login credentials of the primary user.
         -   For Bearer Token, select the bearer token associated with the project.
 
-            **Note:** Bearer token can be generated from the AppTrust Integrations page of your JFrog tool. For more information, see [Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md).
+            **Note:** Bearer token can be generated from the AppTrust Integrations page of your JFrog tool. For more information, see [Integration with JFrog AppTrust application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integration-with-jfrog-apptrust-application.md).
 
     4.  Select the MID Server option and enter its details if your JFrog instance is attached to a MID Server.
 
         A MID server is required if your tool instance is hosted on-prem. For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md).
 
-    ![Connect to the JFrog tool - Enter instance details screen](../image/jfrog-workspace-connect-2.png)
+    ![Connect to the JFrog tool - Enter instance details screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-workspace-connect-2.png)
 
 4.  Select **Connect**.
 
 5.  Permission checks are run based on the credential type and credentials that you entered.
 
-    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. The credentials that you specified must have the Administer Platform role in JFrog for seamless discovery and import of tool objects. This is a limitation from JFrog. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. The credentials that you specified must have the Administer Platform role in JFrog for seamless discovery and import of tool objects. This is a limitation from JFrog. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/tool-req-permission.md).
 
     You can choose to continue with the tool connection even if you don't have all the required permissions.
 
-    **Note:** If your tool credential has changed, you must update the credentials in your ServiceNow instance. For more information, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
+    **Note:** If your tool credential has changed, you must update the credentials in your ServiceNow instance. For more information, see [Update third-party tool credentials in DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-third-party-tool-credentials-in-devops-change-velocity.md).
 
-    ![Connect to JFrog tool - Permission checks screen](../image/jfrog-workspace-connect-3.png)
+    ![Connect to JFrog tool - Permission checks screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-workspace-connect-3.png)
 
 6.  Select **Next**.
 
@@ -131,5 +131,5 @@ Steps
 
 You’ve successfully onboarded your JFrog tool to DevOps Change Velocity.
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-jfrog-integration.md)
 

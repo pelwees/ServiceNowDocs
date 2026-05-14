@@ -59,7 +59,7 @@ For example, the **Work Notes** field is an Activity type in change request reco
 -   If you do not select **Preserve Modified By**, Instance Data Replication appears in place of the user name in the consumer records.
 -   If you select **Preserve Modified By**, the user who updated the change request is identified in the entry and the system prepends IDR to their name.
 
-![Preserve modified by.](../image/preserved-modified-by-2.png)
+![Preserve modified by.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/preserved-modified-by-2.png)
 
 When replicating changes, **Preserve modified by** affects values for the **Updated by**, **Updated**, **Created**, and **Created by** system fields:
 

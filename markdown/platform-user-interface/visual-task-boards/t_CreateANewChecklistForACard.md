@@ -23,7 +23,7 @@ Role required: none
 
 1.  Open the card details for a task.
 
-2.  Click the checklist tab \(![Checklist tab](../image/IconChecklist.png)\).
+2.  Click the checklist tab \(![Checklist tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconChecklist.png)\).
 
 3.  Click **Add Item**.
 
@@ -35,11 +35,11 @@ Role required: none
 
 7.  To delete a checklist item, click the minus \(-\) icon.
 
-8.  To reorder checklist items, click the drag icon \(![Drag icon](../../using-forms/image/IconDrag.png)\) and drag a checklist item to a different position in the list.
+8.  To reorder checklist items, click the drag icon \(![Drag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../using-forms/image/IconDrag.png)\) and drag a checklist item to a different position in the list.
 
 9.  To create a task from a checklist item:
 
-    1.  Point to a checklist item and click the create task icon \(![Create task icon](../image/IconCreateTask.png)\).
+    1.  Point to a checklist item and click the create task icon \(![Create task icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconCreateTask.png)\).
 
     2.  Select the type of task you want to create.
 
@@ -52,5 +52,5 @@ Role required: none
     4.  Click **Update**.
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardChecklists.md)
 

@@ -50,7 +50,7 @@ You can activate the notifications specific to Contract Management Pro approval 
 
     **Note:** You must configure the **ApprovalNotificationWorkspaceURLExt** extension point to enable the notifications for Legal Counsel Center.
 
-    For more information, see [Configure extension point for notifications](cmpro-configure-action-extension-point-email-notification-admin.md).
+    For more information, see [Configure extension point for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-configure-action-extension-point-email-notification-admin.md).
 
 6.  Ensure that default notifications will not be triggered for approval workflow related to Contract Management Pro.
 
@@ -60,7 +60,7 @@ You can activate the notifications specific to Contract Management Pro approval 
 
         The default notifications are **Approval Request** and **Approval Rejected**.
 
-        ![Default platform approval notifications in the notifications page](../image/cmpro-ptfm-apprvl-notf.png "Default platform notifications for approval workflow")
+        ![Default platform approval notifications in the notifications page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-ptfm-apprvl-notf.png "Default platform notifications for approval workflow")
 
     3.  Select the notification.
 
@@ -73,5 +73,5 @@ You can activate the notifications specific to Contract Management Pro approval 
 
 The approval notifications for Contract Management Pro are activated and the default system notifications are stopped for contract revision approval.
 
-**Parent Topic:**[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+**Parent Topic:**[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-notifications.md)
 

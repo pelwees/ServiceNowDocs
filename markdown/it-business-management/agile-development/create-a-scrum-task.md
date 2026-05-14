@@ -23,7 +23,7 @@ Role required: scrum\_story\_creator, scrum\_admin
 
 Team members volunteer for tasks based on their skills and track the hours remaining daily. If the task is not complete within the planned hours, it can be further split into additional tasks. A story is not complete until all its tasks are complete.
 
-This task explains how to create one scrum task at a time. To save time, you can create multiple scrum tasks at once. See [Create multiple scrum tasks for stories in Agile Development 2.0](create-multiple-scrum-tasks.md).
+This task explains how to create one scrum task at a time. To save time, you can create multiple scrum tasks at once. See [Create multiple scrum tasks for stories in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-multiple-scrum-tasks.md).
 
 ## Procedure
 
@@ -163,8 +163,8 @@ Notes to indicate progress on the scrum task or issues blocking it.
     **Important:** When a Scrum Task is created under a Story, the date fields on the Story become read-only.
 
 
--   **[Create multiple scrum tasks for stories in Agile Development 2.0](create-multiple-scrum-tasks.md)**  
+-   **[Create multiple scrum tasks for stories in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-multiple-scrum-tasks.md)**  
 For your Agile Development 2.0 stories, create batches of different types of scrum tasks at a time, to save time.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/using-agile-development-2-0.md)
 

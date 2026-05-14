@@ -24,9 +24,9 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Express List icon \(![Express List icon.](../../event-management/image/express-list1.png)\) in the left navigation bar.
+2.  Select the Express List icon \(![Express List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/image/express-list1.png)\) in the left navigation bar.
 
-3.  In the Active alerts list, select the information icon \(![Information icon.](../../event-management/image/info.png)\) to the left of an alert.
+3.  In the Active alerts list, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/image/info.png)\) to the left of an alert.
 
 4.  On the preview panel Info tab, select **Analyze** in Alert analysis by Now Assist.
 
@@ -37,5 +37,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     The AI-generated summary content replaces the original description of the alert group.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-use.md)
 

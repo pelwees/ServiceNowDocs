@@ -71,7 +71,7 @@ State
 
 </td><td>
 
-The current state of the interaction. For more information, see [Interaction states](interaction-states.md#section_o4v_j4r_vdb).
+The current state of the interaction. For more information, see [Interaction states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-states.md#section_o4v_j4r_vdb).
 
 </td></tr><tr><td>
 
@@ -127,5 +127,5 @@ If using the Interaction wrap up feature, the system administrator can configure
  The default value for this field is false.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+</table>**Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../concept/interaction-wrap-up-state.md)
 

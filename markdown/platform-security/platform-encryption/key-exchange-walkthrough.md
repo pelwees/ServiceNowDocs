@@ -45,15 +45,15 @@ This example shows you how a target instance requests keys from a host instance.
 
     The request from the host instance is displayed in the table.
 
-    ![Requests page with pending requests on Target.](../image/view-key-exchange.png)
+    ![Requests page with pending requests on Target.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/view-key-exchange.png)
 
     **Important:** For both one-time and recurring clone requests, your instance creates a module access policy automatically. You don’t need to configure a policy manually. At clone time, this policy on the source instance is invoked to auto-approve the request and send keys to the newly cloned target.
 
-    ![Shows the module access policy is auto-generated.](../image/module-access-policy-RE-auto.png)
+    ![Shows the module access policy is auto-generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/module-access-policy-RE-auto.png)
 
     In the Requests form, the status updates to **Request Approved** and the **Imported Key Count** field appears on the record.
 
-    ![Request screen shows number of imported and exported key counts.](../image/request-approved.png)
+    ![Request screen shows number of imported and exported key counts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/request-approved.png)
 
     ![]()
 
@@ -63,7 +63,7 @@ This example shows you how a target instance requests keys from a host instance.
 
 7.  View the Module Access Policy record to see that the **Type** is Resource Exchange.
 
-    ![Shows module access policy of type Resource Exchange.](../image/source-success.png)
+    ![Shows module access policy of type Resource Exchange.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/source-success.png)
 
     **Note:** Resource Exchange also supports rekeying of ciphertext on the target instance. See for details.
 
@@ -72,5 +72,5 @@ This example shows you how a target instance requests keys from a host instance.
 
 After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the System Properties \[sys\_properties\] table. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, your instance will attempt to encrypt again the next day.
 
-**Parent Topic:**[Key Management Framework Resource Exchange](../reference/resource-exchange.md)
+**Parent Topic:**[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../reference/resource-exchange.md)
 

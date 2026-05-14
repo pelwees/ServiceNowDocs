@@ -19,27 +19,27 @@ Role required: admin
 
 ## Procedure
 
-1.  In the banner, select the Application scope icon \(![Scope selector icon.](../image/polaris-scope-selector-icon.png)\).
+1.  In the banner, select the Application scope icon \(![Scope selector icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris-scope-selector-icon.png)\).
 
 2.  Select **Application scope: Global**.
 
 3.  From the Application list, select the required application.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_MapPages.md)
 
 **Related topics**  
 
 
-[Set up Google Maps API](set-up-google-maps-api.md)
+[Set up Google Maps API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md)
 
-[Create a map page](t_CreateAMapPage.md)
+[Create a map page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAMapPage.md)
 
-[Create a map page module](create-map-page-module.md)
+[Create a map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-map-page-module.md)
 
-[Create an advanced Map Page](create-advanced-map-page.md)
+[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
-[Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
+[Create a smartphone map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/scripting-for-map-pages.md)
 

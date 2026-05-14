@@ -30,13 +30,13 @@ Role required: local administrator on client machine for installation, admin on 
 
 3.  In the ServiceNow ODBC Driver Setup wizard, review the welcome screen and select **Next**.
 
-    ![ODBC driver setup wizard welcome screen.](../image/sql-api-driver-welcome.png)
+    ![ODBC driver setup wizard welcome screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-driver-welcome.png)
 
 4.  Read and accept the End User License Agreement \(EULA\), and then select **Next**.
 
 5.  Select the installation directory or accept the default location, and then select **Next**.
 
-    The default installation path is typically `C:\Program Files\ServiceNow\ODBC`. ![ODBC driver setup wizard-choose destination folder.](../image/sql-api-driver-destination.png)
+    The default installation path is typically `C:\Program Files\ServiceNow\ODBC`. ![ODBC driver setup wizard-choose destination folder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-driver-destination.png)
 
 6.  When prompted for the **Service Name**, enter a name to identify the service \(for example, ServiceNow\_ODBC\) and select **Next**.
 
@@ -71,11 +71,11 @@ Role required: local administrator on client machine for installation, admin on 
 
     Usually, the default values are appropriate.
 
-    ![ODBC driver setup wizard-creation of ODBC data source.](../image/sql-api-odbc-data-source.png)
+    ![ODBC driver setup wizard-creation of ODBC data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-odbc-data-source.png)
 
 10. Select the **Program Folder** to create links for the driver, and select **Next**.
 
-    ![ODBC driver setup wizard-select program folder to create ODBC driver link.](../image/sql-api-odbc-folder.png)
+    ![ODBC driver setup wizard-select program folder to create ODBC driver link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-odbc-folder.png)
 
 11. Start copying driver files to the client machine by selecting **Next**.
 
@@ -90,13 +90,13 @@ The installation creates a ServiceNow SQL API – ODBC folder in the Start menu 
 -   **Management Console**: A Microsoft MMC snap-in for configuring default properties for the ODBC driver.
 -   **ODBC Administrator**: A Microsoft ODBC Administrator program. Searchable by the name **ODBC Data Sources \(32-bit/64-bit\)**.
 
-![ODBC driver setup wizard-start menu with ODBC driver links](../image/sql-api-odbc-startmenu.png)
+![ODBC driver setup wizard-start menu with ODBC driver links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-odbc-startmenu.png)
 
 The ServiceNow ODBC driver is installed on your client machine and registered with the Windows ODBC Data Source Administrator. You can proceed to configure the driver with your ServiceNow instance connection details.
 
 ## What to do next
 
-After completing the installation, configure the ODBC driver to connect to your ServiceNow instance. For configuration instructions, see [Configure ServiceNow SQL API ODBC driver on client machine](configure-odbc-driver.md).
+After completing the installation, configure the ODBC driver to connect to your ServiceNow instance. For configuration instructions, see [Configure ServiceNow SQL API ODBC driver on client machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/configure-odbc-driver.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-sql-api.md)
 

@@ -15,13 +15,13 @@ Any Operational Resilience application user can report an operational vulnerabil
 
 Users of the Operational Resilience feature can report an operational vulnerability using one the following options:
 
--   To create an operational vulnerability from the Employee Center, see [Report operational vulnerability from the Employee Center](reporting-op-vul.md). The user must have the Operational Resilience business user \[sn\_oper\_res.operational\_resilience\_business\_user\] role.
--   To create an operational vulnerability from the Operational vulnerability menu in the Operational Resilience Workspace, see [Report an operational vulnerability from the module](../task/set-up-op-vul-record.md). The user must have the Operational Resilience manager \[sn\_oper\_res.operational\_resilience\_manager\] role.
+-   To create an operational vulnerability from the Employee Center, see [Report operational vulnerability from the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/reporting-op-vul.md). The user must have the Operational Resilience business user \[sn\_oper\_res.operational\_resilience\_business\_user\] role.
+-   To create an operational vulnerability from the Operational vulnerability menu in the Operational Resilience Workspace, see [Report an operational vulnerability from the module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/set-up-op-vul-record.md). The user must have the Operational Resilience manager \[sn\_oper\_res.operational\_resilience\_manager\] role.
 -   To create an operational vulnerability from the records in the Operational Resilience Workspace, see the following topics:
-    -   [Report an operational vulnerability from the Importance assessment](../task/create-op-vul-from-other-records-in-or-ws.md)
-    -   [Report an operational vulnerability from the Scenario analysis](../task/report-op-vul-from-sce-analysis.md)
-    -   [Report an operational vulnerability from the Self-attestation module](../task/report-op-vul-from-attestation.md)
-    -   [Report an operational vulnerability from the Service record](../task/report-op-vul-from-service.md)
+    -   [Report an operational vulnerability from the Importance assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-op-vul-from-other-records-in-or-ws.md)
+    -   [Report an operational vulnerability from the Scenario analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/report-op-vul-from-sce-analysis.md)
+    -   [Report an operational vulnerability from the Self-attestation module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/report-op-vul-from-attestation.md)
+    -   [Report an operational vulnerability from the Service record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/report-op-vul-from-service.md)
 
 ## States of the vulnerability
 

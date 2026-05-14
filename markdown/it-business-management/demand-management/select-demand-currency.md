@@ -65,7 +65,7 @@ Select **Flexi option** to manage your demands and projects, created from the de
 
 ## What to do next
 
-Enable the multicurrency view in the Demand and other demand-related forms. For more information, see [Enable demand currency view](enable-multicurrency-demand.md).
+Enable the multicurrency view in the Demand and other demand-related forms. For more information, see [Enable demand currency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md).
 
-**Parent Topic:**[Multicurrency in Demand Management](../concept/multicurrency-demand.md)
+**Parent Topic:**[Multicurrency in Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/multicurrency-demand.md)
 

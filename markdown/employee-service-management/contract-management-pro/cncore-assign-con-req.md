@@ -35,8 +35,8 @@ When a contract user submits a request, it is automatically assigned to a group 
 
     -   To assign the request to yourself, click **Assign to me**.
     -   To assign the request to another member, on the **Details** tab, select a user in the **Assigned to** field and click **Save**.
-    ![Assign request in your workspace.](../image/cmpro-assign-lr.png "Assign request")
+    ![Assign request in your workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-assign-lr.png "Assign request")
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

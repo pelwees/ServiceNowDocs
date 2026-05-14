@@ -35,7 +35,7 @@ Admins can define the login experience for mobile users by associating app-speci
 
 3.  In the **Login URL** field of the Application Registries page, enter the login URL you want to use for this mobile app.
 
-    ![Application Registries screen showing the Login URL field.](../image/mob-auth-redirect-idp-provider.png)
+    ![Application Registries screen showing the Login URL field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-auth-redirect-idp-provider.png)
 
     For example, enter:
 
@@ -51,7 +51,7 @@ Admins can define the login experience for mobile users by associating app-speci
 
         This login URL displays the ServiceNow SSO login screen where users can enter their email or user ID.
 
-        ![ServiceNow SSO login page on a mobile app screen.](../image/mob-auth-servicenow-sso-login.png)
+        ![ServiceNow SSO login page on a mobile app screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-auth-servicenow-sso-login.png)
 
     You can also enter the login URL for a custom login page.
 
@@ -67,7 +67,7 @@ Admins can define the login experience for mobile users by associating app-speci
     2.  In the Identity Providers page, select the IdP provider.
     3.  On the IdP provider page, right-click the page banner, and select **Copy sys\_id**.
 
-        ![Right-click menu showing the option to copy the IdP's sys_id.](../image/mob-auth-redirect-copy-idp-sysid.png)
+        ![Right-click menu showing the option to copy the IdP's sys_id.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mob-auth-redirect-copy-idp-sysid.png)
 
     If a valid IdP sys\_id isn’t provided, the OAuth client login URL value can't be saved.
 
@@ -82,5 +82,5 @@ Open the mobile app on a mobile device and select the instance. You should be re
 
 **Note:** If **login\_locate\_sso.do** was saved as the Login URL and no default IdP is configured or the **sso\_source** for the user isn’t set, then an error displays when the user name is entered. This behavior is similar to web UI behavior.
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-authentication.md)
 

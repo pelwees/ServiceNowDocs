@@ -36,7 +36,7 @@ Relationships are removed from the **Relationships** tab on the work item form. 
 
 5.  Select the remove icon on the relationship card you want to remove.
 
-    ![The Relationships tab showing a relationship card with the remove option highlighted.](../images/cwm-relationships-remove-prereq.png)
+    ![The Relationships tab showing a relationship card with the remove option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-relationships-remove-prereq.png)
 
 
 ## Result
@@ -45,14 +45,14 @@ The relationship is removed from both work items.
 
 ## What to do next
 
-To add a new relationship, see [Add a dependency to a work item in CWM](add-a-dependency-to-a-work-item-cwm.md).
+To add a new relationship, see [Add a dependency to a work item in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-a-dependency-to-a-work-item-cwm.md).
 
-**Parent Topic:**[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+**Parent Topic:**[Task dependencies and relationships in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/managing-task-dependencies-relationships-cwm.md)
 
 **Related topics**  
 
 
-[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+[Task dependencies and relationships in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/managing-task-dependencies-relationships-cwm.md)
 
-[Add a dependency to a work item in CWM](add-a-dependency-to-a-work-item-cwm.md)
+[Add a dependency to a work item in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-a-dependency-to-a-work-item-cwm.md)
 

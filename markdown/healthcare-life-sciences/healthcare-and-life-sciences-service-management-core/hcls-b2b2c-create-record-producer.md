@@ -17,7 +17,7 @@ Create a record producer for use with B2B2C.
 
 ## Before you begin
 
-Create a table for use with B2B2C. For more information, see [Create a table for B2B2C in Healthcare and Life Sciences Service Management Core](hcls-b2b2c-create-hcls-case-table.md).
+Create a table for use with B2B2C. For more information, see [Create a table for B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-b2b2c-create-hcls-case-table.md).
 
 Role required: admin
 
@@ -129,5 +129,5 @@ The record producer is created.
 
 ## What to do next
 
-Add your record producer to the CSM portal. For more information, see [Add a record producer to CSM portal for B2B2C in Healthcare and Life Sciences Service Management Core](hcls-add-record-producer-csm-portal.md).
+Add your record producer to the CSM portal. For more information, see [Add a record producer to CSM portal for B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-add-record-producer-csm-portal.md).
 

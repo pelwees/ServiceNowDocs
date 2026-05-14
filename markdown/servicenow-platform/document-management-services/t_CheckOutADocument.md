@@ -31,12 +31,12 @@ Role required: document\_management\_user
 
 3.  Select **Download file** to download the current version of the document when it is checked out.
 
-    ![Checkout](../image/MDOCCheckout.png)
+    ![Checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/MDOCCheckout.png)
 
 4.  Click **Check Out**.
 
     After checking out a document, you can edit the document and make any necessary changes.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_CreateADocument.md)
 

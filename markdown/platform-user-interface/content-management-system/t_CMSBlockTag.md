@@ -73,34 +73,34 @@ An example of the block tag is included in the ESS Portal sample site.
     For example, `http://instance name.service-now.com/ess/administration.do`.
 
 
-**Parent Topic:**[Content blocks](../concept/c_ContentBlocks.md)
+**Parent Topic:**[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a content block](t_CreateAContentBlock.md)
+[Configure a content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+[Types of content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_TypesOfContentBlocks.md)
 
-[Content Management and the Apache Jelly engine](../reference/r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_ContentManagementAndJelly.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 
-[Configure a header block](t_HeaderBlock.md)
+[Configure a header block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_HeaderBlock.md)
 
-[Configure a static HTML block](t_StaticHTMLBlock.md)
+[Configure a static HTML block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md)
 
-[Format an image as a static HTML block](t_AddAnImageAsAStaticHTMLBlock.md)
+[Format an image as a static HTML block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddAnImageAsAStaticHTMLBlock.md)
 
-[Configure dynamic blocks](t_CreateADynamicBlock.md)
+[Configure dynamic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md)
 
-[Catalog cart block](../concept/c_CatalogCartBlock.md)
+[Catalog cart block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_CatalogCartBlock.md)
 
-[Integrate Live Feed with CMS](t_AddLiveFeedToIFrame.md)
+[Integrate Live Feed with CMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddLiveFeedToIFrame.md)
 
-[Configure Flash movie blocks](t_FlashMovieBlock.md)
+[Configure Flash movie blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_FlashMovieBlock.md)
 
-[Configure a detailed content block](t_DetailedContentBlock.md)
+[Configure a detailed content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DetailedContentBlock.md)
 
-[Configure iFrames](t_IFrame.md)
+[Configure iFrames](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_IFrame.md)
 

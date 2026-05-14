@@ -32,12 +32,12 @@ The Similar Closed HR Cases \(ml\_sn\_sn\_hr\_core\_global\_similar\_closed\_hr\
 -   The Predictive Intelligence \(com.glide.platform\_ml\) plugin is installed.
 -   The **glide.platform\_ml.auto\_training.enabled** system property is either set to true or absent.
 
-**Parent Topic:**[Machine learning solutions in Agent Workspace for HR Case Management](hr-agent-ws-ml-solutions.md)
+**Parent Topic:**[Machine learning solutions in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-ml-solutions.md)
 
 **Related topics**  
 
 
-[Auto determination of HR service in Agent Workspace for HR Case Management](hr-agent-ws-auto-hrservice.md)
+[Auto determination of HR service in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-auto-hrservice.md)
 
-[Auto determination of assignment group in Agent Workspace for HR Case Management](hr-agent-ws-auto-assign-grp.md)
+[Auto determination of assignment group in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-auto-assign-grp.md)
 

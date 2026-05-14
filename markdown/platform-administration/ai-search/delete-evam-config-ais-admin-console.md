@@ -32,12 +32,12 @@ Role required: admin or ais\_admin
 
     The list of view configurations that are associated with the selected bundle are displayed.
 
-5.  Select the **More Actions icon \(![More Actions.](../../localization-framework/image/more-actions-icon.png)\)** &gt; **Delete** at the end of the view configuration row that you want to delete.
+5.  Select the **More Actions icon \(![More Actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../localization-framework/image/more-actions-icon.png)\)** &gt; **Delete** at the end of the view configuration row that you want to delete.
 
 
 ## Result
 
 The selected view configuration is permanently deleted.
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ais-admin-console-managing-evam.md)
 

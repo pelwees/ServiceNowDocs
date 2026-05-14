@@ -17,19 +17,19 @@ The individual pieces of data in a record are called fields. You enter data in f
 
 <table id="table_tfh_j4w_g2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about fields on the ServiceNow AI Platform.](../../reference-pages/concept/c_IntroductionToFields.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about fields on the ServiceNow AI Platform.](../../reference-pages/concept/c_IntroductionToFields.md)
 
 </td><td>
 
-[Customize![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Add and customize fields in a table.](customize-fields-now-platform-landing.md)
+[Customize![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Add and customize fields in a table.](customize-fields-now-platform-landing.md)
 
 </td></tr><tr><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Administer data normalization and policy in your fields.](administering-fields-now-platform.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Administer data normalization and policy in your fields.](administering-fields-now-platform.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Information about supported field types.](../../reference-pages/reference/r_FieldTypes.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-learn.svg)Information about supported field types.](../../reference-pages/reference/r_FieldTypes.md)
 
 </td></tr></tbody>
 </table>

@@ -83,17 +83,17 @@ Field values that are populated on the change task created as part of the standa
     **Note:** Standard change catalog templates are not supported on Service Portal.
 
 
--   **[Propose a standard change template](propose-standard-chg-template.md)**  
+-   **[Propose a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/propose-standard-chg-template.md)**  
 Propose a new standard change template when you identify a need while creating a change request.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 
 
-[Configure standard change catalog properties](t_ConfigureTheStandardChangeCatalog.md)
+[Configure standard change catalog properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md)
 
-[Attach files to a standard change template](attach-files-change-templates.md)
+[Attach files to a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/attach-files-change-templates.md)
 
-[Modify or retire a standard change template](manage-standard-change-template.md)
+[Modify or retire a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-standard-change-template.md)
 

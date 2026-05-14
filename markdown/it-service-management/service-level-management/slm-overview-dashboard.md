@@ -22,7 +22,7 @@ You can navigate to the dashboard in the following ways:
 -   **Service Level Management** &gt; **Overview**
 -   **Self – Service** &gt; **Dashboard** &gt; **SLA Overview**
 
-![sla overview dashboard](../image/sla-overview-dashboard.png "SLA overview dashboard")
+![sla overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/sla-overview-dashboard.png "SLA overview dashboard")
 
 |UI component|Description|
 |------------|-----------|
@@ -34,5 +34,5 @@ You can navigate to the dashboard in the following ways:
 |My Groups Active SLAs \(bar chart\)|Displays a bar chart of active Task SLAs for Tasks assigned to groups that the logged in user is a member of. The data can be grouped and/or stacked on some of the fields available in the task SLA records.|
 |My Active SLAs \(list\)|Displays a list of active task SLAs for tasks assigned to the logged in user. The data can be grouped on some of the fields available in the task SLA records.|
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 

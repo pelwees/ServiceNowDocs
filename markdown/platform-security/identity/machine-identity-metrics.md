@@ -25,11 +25,11 @@ The following results are unique API calls in the last 7 days. Records collected
 
 The following results are the machine integration accounts used for integrations. Records collected in this table are in real time.
 
-![Machine identity accounts](../images/metrics-mic-accounts.png)
+![Machine identity accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/metrics-mic-accounts.png)
 
 ## High Privilege machine accounts
 
 The following results are the high privilege machine integration accounts used for integrations. Records collected in this table are in real time.
 
-![High Privilege machine accounts](../images/metrics-high-privilege.png)
+![High Privilege machine accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/metrics-high-privilege.png)
 

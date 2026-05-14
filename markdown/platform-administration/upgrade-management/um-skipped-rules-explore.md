@@ -37,9 +37,9 @@ The following is the list of tables from which if any skipped record is being ge
 
 The skipped records that are retained automatically by the default skipped rules are found in the Skipped Changes Reviewed related list.
 
-![Image showing retained skipped rules in the Skipped Changes Reviewed related list](../../upgrade-center/image/uc-default-skipped-rules.png)
+![Image showing retained skipped rules in the Skipped Changes Reviewed related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-default-skipped-rules.png)
 
 **Note:** You can also find a comment for each retained skipped record to show the related table it was generated from during the upgrade process.
 
-See [Upgrade Skipped Record Rules Editor tool in Upgrade Console](um-skipped-rules-tool.md) for more information.
+See [Upgrade Skipped Record Rules Editor tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-skipped-rules-tool.md) for more information.
 

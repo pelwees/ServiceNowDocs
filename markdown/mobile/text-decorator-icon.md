@@ -97,9 +97,9 @@ The style where you define your icon. For a text decorator icon, use `text_decor
 
 This example demonstrates how to apply a text decorator icon to all records on an incident list in the **New** state.
 
-![UI style configuration for a text decorator icon.](../image/text-decor-ui-style.png)
+![UI style configuration for a text decorator icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/text-decor-ui-style.png)
 
 This example applies to the **State** element of the **Incident List Screen Item View** UI style. The condition field has been set, so the icon only appears for records in the **New** state. The icon is located on the **Icon** \[sys\_sg\_icon\] table.
 
-![List of incidents displaying an icon for records in the New state.](../image/text-decor-result.png)
+![List of incidents displaying an icon for records in the New state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/text-decor-result.png)
 

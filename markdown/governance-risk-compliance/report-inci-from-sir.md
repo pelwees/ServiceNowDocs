@@ -38,7 +38,7 @@ Security Incident Response reporting workflow consists of the following steps:
 
     The source of the case is SIR.
 
-    ![SIR.](../image/src-sir.png)
+    ![SIR.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/src-sir.png)
 
     The case is assigned to the Digital Resilience Incident Managers group.
 
@@ -48,7 +48,7 @@ Security Incident Response reporting workflow consists of the following steps:
 
     The assessment template is aligned with the Digital Operational Resilience classification for major Information and Communication Technology \(ICT\) incidents. The same assessment template is tagged in the reported incident.
 
-    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
 3.  Select **Accept work**.
 
@@ -96,7 +96,7 @@ Security Incident Response reporting workflow consists of the following steps:
 
     The export functionality generates a Microsoft Excel sheet based on the reporting cases, which can be saved to your local hard drive and shared with regulatory authorities. You can download the DRI report as shown in the example.
 
-    ![Export.](../image/export.png)
+    ![Export.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/export.png)
 
     The Microsoft Excel report contains the Common details and Initial report tabs. All fields from the initial report are exported with their names as column headers.
 

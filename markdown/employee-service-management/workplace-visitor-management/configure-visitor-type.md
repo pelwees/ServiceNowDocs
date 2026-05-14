@@ -51,22 +51,22 @@ Role required: sn\_wsd\_visitor.admin
     The visitor type is created and is available to hosts and reception staff members.
 
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/configure-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Install Workplace Visitor Management](install-workplace-visitor-mgmt.md)
+[Install Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/install-workplace-visitor-mgmt.md)
 
-[Create a visitor policy](create-visitor-policy.md)
+[Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-policy.md)
 
-[Create a record producer for visitor management](create-rec-prodcr-visit-mgmt.md)
+[Create a record producer for visitor management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-rec-prodcr-visit-mgmt.md)
 
-[Configure visit requirements](configure-visit-requirements.md)
+[Configure visit requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/configure-visit-requirements.md)
 
-[Create a visitor badge template](create-visitor-badge-template.md)
+[Create a visitor badge template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
 

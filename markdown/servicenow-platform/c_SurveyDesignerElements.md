@@ -19,7 +19,7 @@ The survey designer contains the **Controls** tab, the **Questions** tab, the **
 
 To create a question, drag the appropriate data type control from the **Controls** palette and drop it onto the designer canvas.
 
-![Data type controls for questions](../image/SurveyDesignerControls.png "Controls")
+![Data type controls for questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyDesignerControls.png "Controls")
 
 The assessment engine provides a built-in result calculation feature that converts responses to scored question data types to a score from 0 through 10.
 
@@ -69,7 +69,7 @@ Yes
 
 </td><td>
 
-List of predefined options. For more information, see the definition of the **Choices** field in [Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md).**Note:** The Choice values can only be numeric, string values will not be saved.
+List of predefined options. For more information, see the definition of the **Choices** field in [Create a question in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateQuestSurveyDesigr.md).**Note:** The Choice values can only be numeric, string values will not be saved.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Yes
 
 </td><td>
 
-Choice list of templates that provide a predefined scale of options. For details, see [Quiz scorecards](../../assessments/concept/c_QuizScorecards.md).
+Choice list of templates that provide a predefined scale of options. For details, see [Quiz scorecards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/concept/c_QuizScorecards.md).
 
 </td></tr><tr><td>
 
@@ -229,10 +229,10 @@ This tab displays all metric categories added to the question bank for surveys. 
 The tabs on the header bar display views and a menu of functions. Click a tab to change the view on the canvas:
 
 -   **Design**: Add and configure the properties of categories and questions. This is the default view.
--   **Configuration**: Create introductions and end notes for surveys and select a [signature](../../assessments/task/t_CreateAnAssessmentSignature.md).
+-   **Configuration**: Create introductions and end notes for surveys and select a [signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_CreateAnAssessmentSignature.md).
 -   **Availability**: Select the recipients for each category in the survey.
 
-Point to the menu icon \(![Menu icon](../image/Menu.png)\) to select an option. The list of options depends on the currently open survey.
+Point to the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Menu.png)\) to select an option. The list of options depends on the currently open survey.
 
 -   **Save**: Save the current survey without changing its state.
 -   **Preview**: Display a preview of the survey as it appears to recipients.
@@ -246,24 +246,24 @@ Point to the menu icon \(![Menu icon](../image/Menu.png)\) to select an option. 
 
 New surveys open in the canvas of the **Design** view. The survey **Name** field appears above first category in the canvas. A blank question field appears in the category container.
 
-![New survey question field](../image/SurveyDesignerNewSurvey.png "Initial appearance of the Survey Designer canvas")
+![New survey question field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyDesignerNewSurvey.png "Initial appearance of the Survey Designer canvas")
 
-**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](c_SurveyCategory.md)
+[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)
 
-[Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](../task/create-custom-templates-questions.md)
+[Create custom metric type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](../task/t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ConfigCatWeightsForSurvey.md)
 

@@ -45,5 +45,5 @@ Install Recommended Actions for OTSM by requesting it from the ServiceNow Store.
     When integrated with Operational Technology Incident Management, the ServiceNow IT Service Management application enables engineers to resolve OT device and production process issues.
 
 
-**Parent Topic:**[Operational Technology release notes](operational-technology-rn-landing.md)
+**Parent Topic:**[Operational Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/operational-technology-rn-landing.md)
 

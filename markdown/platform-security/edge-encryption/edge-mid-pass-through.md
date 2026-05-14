@@ -24,7 +24,7 @@ When MID Server data is configured to pass through the Edge Encryption proxy ser
 -   Encryption of ECC Queue fields is not supported.
 -   Encrypted data cannot be used with Discovery or Service Mapping.
 
-**Parent Topic:**[Data integration with Edge Encryption](data-integration.md)
+**Parent Topic:**[Data integration with Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/data-integration.md)
 
 ## Point the MID Server to the Edge Encryption proxy server
 

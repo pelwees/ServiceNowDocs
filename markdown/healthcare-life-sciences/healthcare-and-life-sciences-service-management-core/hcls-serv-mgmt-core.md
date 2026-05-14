@@ -32,7 +32,7 @@ You can install the Healthcare and Life Sciences Service Management Core applica
 
 The following diagram shows the tables and their relationships that comprise the Healthcare and Life Sciences data model.
 
-![Data model displaying of how tables interact, For more information on these tables, refer to the Healthcare and Life Sciences.](../image/hcls-data-model.png "Healthcare and Life Sciences data model")
+![Data model displaying of how tables interact, For more information on these tables, refer to the Healthcare and Life Sciences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-data-model.png "Healthcare and Life Sciences data model")
 
 ## Healthcare and Life Sciences Service Management Core tables for the Healthcare and Life Sciences data model
 

@@ -25,11 +25,11 @@ You can request inventory in two ways:
 **Related topics**  
 
 
-[Track inventory](../task/view-available-parts-inventory.md)
+[Track inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/view-available-parts-inventory.md)
 
-[Accept or reject part requests from peer agents](../task/accept-reject-part-request-mobile.md)
+[Accept or reject part requests from peer agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/accept-reject-part-request-mobile.md)
 
-[View transfer order lines for requested parts](../task/source-part-mobile.md)
+[View transfer order lines for requested parts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/source-part-mobile.md)
 
 ## Request a single part
 
@@ -68,7 +68,7 @@ Do this
 3.  Select the work order task that needs parts.
 4.  Tap on the **Parts** tab.
 5.  Under part requirements, tap see all
-6.  Tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select **Create Part Requirement**.
+6.  Tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select **Create Part Requirement**.
 
 
 </td></tr><tr><td id="d67801e212">
@@ -152,7 +152,7 @@ Request and source multiple parts simultaneously from a single or multiple stock
 
 ### Before you begin
 
-The Field Service Advanced Parts Sourcing \[com.snc.fsm\_advanced\_parts\_sourcing\] plugin must be activated. For more information on the steps to activate a plugin, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+The Field Service Advanced Parts Sourcing \[com.snc.fsm\_advanced\_parts\_sourcing\] plugin must be activated. For more information on the steps to activate a plugin, see [Activate Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
 
 Role required: wm\_agent
 
@@ -162,7 +162,7 @@ You can create part requests from **My work** and **Inventory** screens with the
 
 **Note:**
 
--   The parts are searched for in the stockrooms based on the defined values in the Part Search Criteria property. For more information, see [Advanced Part Sourcing components](../reference/advanced-part-souring-components.md).
+-   The parts are searched for in the stockrooms based on the defined values in the Part Search Criteria property. For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/advanced-part-souring-components.md).
 -   Your current location is considered as the source location and searches for stockrooms in the radius as mentioned in the **Maximum part search radius** and **Distance Unit** of your profile.
 
 ### Procedure
@@ -308,7 +308,7 @@ Do this
 ### Result
 
 -   The part request state changes to In progress and the part request line changes to Requested. To view the status of your requests, navigate to **Inventory** &gt; **My requests**.
--   The part requests are sent to the peer agents from whom you have requested parts if the **Use part request approvals** property is enabled. For more information, see [Advanced Part Sourcing components](../reference/advanced-part-souring-components.md).
+-   The part requests are sent to the peer agents from whom you have requested parts if the **Use part request approvals** property is enabled. For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/advanced-part-souring-components.md).
 -   A temporary part request \(RITM\) record is created for the requested parts and sent to your agents as a mobile notification. If the property is disabled or you have requested parts from warehouse, the transfer orders are generated automatically in the Draft state.
 -   If you have requested parts for a specific work order task, the Part Requests and Transfer Orders related lists are updated in the work order task form.
 

@@ -36,7 +36,7 @@ This task topic follows the demand AI playbook. It’s a standard playbook compr
 -   Approve and finalize demand
 -   Complete demand
 
-![The stages and activities of a demand AI playbook.](../images/demand-playbook.png)
+![The stages and activities of a demand AI playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-playbook.png)
 
 **Note:** The AI checkpoint stage is available if the AI Control Tower plugin is installed and the investment type of the demand is set to artificial intelligence.
 
@@ -50,7 +50,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
 2.  Open an existing demand or create a demand.
 
-    For more information on creating demands, refer to [Create a demand](create-demand-from-dw.md).
+    For more information on creating demands, refer to [Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-demand-from-dw.md).
 
 3.  Use the default playbook or create or customize one.
 
@@ -61,7 +61,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
             **Note:** The default playbook is a stage-gate playbook, that is, a stage is unlocked only when its prior stages are marked as completed or skipped.
 
-        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md).
+        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md).
         4.  For each activity, perform one of the following actions:
             -   Select **Mark Complete** to mark the activity as done and move to the next activity.
             -   Select **Save** to save your progress without completing the activity.
@@ -83,9 +83,9 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
 [Playbooks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer-reference.md)
 
-[Create and customize playbooks](playbooks-configuration-for-dmnd-wpc.md)
+[Create and customize playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/playbooks-configuration-for-dmnd-wpc.md)
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace.md)
+[Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/playbooks-in-demand-workspace.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md)
 

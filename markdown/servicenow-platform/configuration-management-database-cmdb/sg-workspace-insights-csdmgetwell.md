@@ -23,6 +23,6 @@ Access the CSDM Data Foundation insights dashboard in Service Graph Workspace to
 
 Role required: sn\_cmdb\_admin, app\_service\_admin, app\_service\_user, asset, cmdb\_read, itil\_admin, portfolio\_admin, service\_viewer, or technology\_service\_owner
 
--   For general information about the CSMD and CMDB Data Foundations Dashboards, see [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md).
--   For information about the CSDM Data Foundations dashboard, see [CSDM Data Foundations dashboard](../../csdm-implementation/concept/csdm-data-foundations-dashboard.md).
+-   For general information about the CSMD and CMDB Data Foundations Dashboards, see [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
+-   For information about the CSDM Data Foundations dashboard, see [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../csdm-implementation/concept/csdm-data-foundations-dashboard.md).
 

@@ -38,22 +38,22 @@ Role required: admin
         After the **Browse Catalog** applet launcher section is enabled, the catalog appears as the first level of browsing and then the categories.
 
 
-**Parent Topic:**[Request experience in Now Mobile](../concept/now-mobile-catalog.md)
+**Parent Topic:**[Request experience in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/now-mobile-catalog.md)
 
 **Related topics**  
 
 
-[Configure catalogs](../../../administer/mobile-employee/task/configure-catalog.md)
+[Configure catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../administer/mobile-employee/task/configure-catalog.md)
 
-[Submit and track a request](../../../administer/mobile-employee/task/order-item.md)
+[Submit and track a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../administer/mobile-employee/task/order-item.md)
 
-[Create a quick action in your mobile applications](../../../administer/mobile-employee/task/sc-quick-action.md)
+[Create a quick action in your mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../administer/mobile-employee/task/sc-quick-action.md)
 
-[Enable notifications in Now Mobile](enable-notification-mobile.md)
+[Enable notifications in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/enable-notification-mobile.md)
 
-[Enable the cart in Now Mobile](enable-cart-mobile.md)
+[Enable the cart in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/enable-cart-mobile.md)
 
-[Edit the label of Submit button for a record producer](edit-recprdcr-submit-label.md)
+[Edit the label of Submit button for a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-recprdcr-submit-label.md)
 
-[Configure Now Mobile properties](config-now-mob-properties.md)
+[Configure Now Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/config-now-mob-properties.md)
 

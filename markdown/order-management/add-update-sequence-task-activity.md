@@ -15,7 +15,7 @@ Dynamically update the sequence task records based on predefined configuration u
 
 ## Before you begin
 
-The delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](grant-delegated-developer-permissions.md).
+The delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
@@ -85,5 +85,5 @@ Field in the parent table you want to update. For example, to mark a lead as con
 </table>11. Select **Save and close**.
 
 
-**Parent Topic:**[Create a customer engagement sequence](create-customer-engagement-sequence.md)
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 

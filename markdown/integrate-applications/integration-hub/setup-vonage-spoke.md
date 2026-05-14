@@ -36,13 +36,13 @@ Access to a Vonage developer account.
 
 1.  Log in to [https://developer.vonage.com/en/home](https://developer.vonage.com/en/home).
 
-2.  On the Vonage Developer Center page, select My dashboard.![My dashboard page.](../image/Vonage-spoke-my-dashboard-link.png)
+2.  On the Vonage Developer Center page, select My dashboard.![My dashboard page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-my-dashboard-link.png)
 
 3.  On the Vonage API Dashboard page, use the default API key and the API secret or create your custom API key and API secret.
 
-    1.  To use the default API key and the API secret, copy the default API key and the API secret values.![Copy button for API key and API secret.](../image/Vonage-spoke-copy-API-key-secret.png)
+    1.  To use the default API key and the API secret, copy the default API key and the API secret values.![Copy button for API key and API secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-copy-API-key-secret.png)
 
-    2.  To generate a custom API key and API secret, on the left panel, select API Settings.![API settings link.](../image/Vonage-spoke-api-settings-link.png)
+    2.  To generate a custom API key and API secret, on the left panel, select API Settings.![API settings link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-api-settings-link.png)
 
     3.  Select **Request more API keys**.
 
@@ -75,7 +75,7 @@ Role required: admin
 
 2.  Select Connections.
 
-3.  In the Search all connections field, enter `Vonage`.![Search all connections field.](../image/search-all-conections.png)
+3.  In the Search all connections field, enter `Vonage`.![Search all connections field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/search-all-conections.png)
 
 4.  On the Vonage card, select **View Details**.
 
@@ -90,7 +90,7 @@ Role required: admin
     |Messages API Version|The version of APIs the connection record requests for using the SMS feature in the Vonage instance.|
     |Voice API Version|The version of APIs the connection record requests for using the Voice feature in the Vonage instance.|
     |Credential Name|Name of the credential record. The default name os Vonage credential which you can update.|
-    |Application Name|Name of the account that you had entered in the Settings page of the Vonage developers account.![Account name field on Vonage instance.](../image/Vonage-spoke-conn-record-account-name.png)|
+    |Application Name|Name of the account that you had entered in the Settings page of the Vonage developers account.![Account name field on Vonage instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-conn-record-account-name.png)|
     |API Key|API key you had acquired in the Vonage developer instance.|
     |API Secret|API secret you had acquired in the Vonage developer instance.|
     |Signature Secret|Signature secret key you had acquired in the Vonage developer instance.|
@@ -116,7 +116,7 @@ Role required: admin
 
 2.  Select Connections.
 
-3.  In the Search all connections field, enter `Vonage`.![Search all connections field.](../image/search-all-conections.png)
+3.  In the Search all connections field, enter `Vonage`.![Search all connections field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/search-all-conections.png)
 
 4.  On the VonagePrimary card, select **View Details**.
 
@@ -167,13 +167,13 @@ Role required: admin.
 
 7.  Log in to [https://developer.vonage.com/en/home](https://developer.vonage.com/en/home).
 
-8.  On the left panel, under Build &amp; Manage, select Applications.![Applications link under Build & Manage.](../image/Vonage-spoke-dashboard-applications.png)
+8.  On the left panel, under Build &amp; Manage, select Applications.![Applications link under Build & Manage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-dashboard-applications.png)
 
-9.  On the Your applications page, select the menu icon \(![Menu icon.](../image/Vonage-spoke-three-dots.png)\) for your application.![My application.](../image/Vonage-spoke-my-applications.png)
+9.  On the Your applications page, select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-three-dots.png)\) for your application.![My application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-my-applications.png)
 
 10. Select **Edit**.
 
-11. Under the Messages heading, enter the callback URL in the Inbound URL and the Status URL fields.![Messages settings.](../image/Vonage-spoke-messages.png)
+11. Under the Messages heading, enter the callback URL in the Inbound URL and the Status URL fields.![Messages settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/Vonage-spoke-messages.png)
 
 12. On the left panel, select API Settings.
 
@@ -209,7 +209,7 @@ Role required: admin
 
 4.  Customize the subflow as per your requirement and publish it.
 
-    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [Vonage Spoke](../concept/vonage-spoke.md) for information about the fields that the default routing policy and subflows support.
+    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [Vonage Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/vonage-spoke.md) for information about the fields that the default routing policy and subflows support.
 
 5.  Navigate to **Vonage Spoke** &gt; **Vonage WebHook Routing Policy**.
 
@@ -239,7 +239,7 @@ Default answer
 
 </td><td>
 
-Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](../image/lookup-icon.png)\).
+Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/lookup-icon.png)\).
 2.  Select the required subflow from the Document list.
 
 **Note:** Ensure that the **Table name** is `Flow [sys_hub_flow]`.

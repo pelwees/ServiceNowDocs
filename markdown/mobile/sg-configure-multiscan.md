@@ -41,10 +41,10 @@ Role required: admin
     |Max entries|Maximum number of entries for this input. Enter `0` for an unlimited number of entries. This field is visible only when the **Multiple entries** field is enabled.|
 
 
--   **[Create UI parameters for your grouped input](sg-configure-multiscan-2.md)**  
+-   **[Create UI parameters for your grouped input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan-2.md)**  
 Create UI parameters to contain the values that your users scan in with your grouped input.
--   **[Configure your action item to use your grouped input UI parameters](sg-configure-multiscan-3.md)**  
+-   **[Configure your action item to use your grouped input UI parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan-3.md)**  
 Configure the action item on your button so that you can use the values that your users scan in.
 
-**Parent Topic:**[Mobile barcode scanning](../concept/sg-mobile-scanning.md)
+**Parent Topic:**[Mobile barcode scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-mobile-scanning.md)
 

@@ -51,7 +51,7 @@ Option that you can select to make a field active so that form users can view it
 
  Deselecting **Active** inactivates a field. When **Active** is not selected, the field will not display in the form editor.
 
- To reactivate a field, hover to the left of the field column in the **Data** tab and select the Open side panel icon \[![Open side panel icon.](../image/field-config-icon.png)\]. Select **Active** and save changes.
+ To reactivate a field, hover to the left of the field column in the **Data** tab and select the Open side panel icon \[![Open side panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/field-config-icon.png)\]. Select **Active** and save changes.
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Option that you can select so that the data that your users enter in the field i
 
 </td></tr><tr><td>
 
-Configure Label details menu \( ![Configure label details.](../image/fb-configure-label.png)\)
+Configure Label details menu \( ![Configure label details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-configure-label.png)\)
 
 </td><td>
 
@@ -307,7 +307,7 @@ Attribute value that you can set to alter the field behavior that is described b
 </td></tr></tbody>
 </table>## Formula
 
-A formula allows you to calculate the value of a column without writing a script. You can use one of the predefined formulas or combine two are more formulas to calculate the column value. For information on the predefined formulas and examples, see [Formulas](formulas-columns-table-builder.md#).
+A formula allows you to calculate the value of a column without writing a script. You can use one of the predefined formulas or combine two are more formulas to calculate the column value. For information on the predefined formulas and examples, see [Formulas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/formulas-columns-table-builder.md#).
 
 In the Formula section, select **Edit** or **+ Add** to edit or add a formula.
 
@@ -315,10 +315,10 @@ In the Formula section, select **Edit** or **+ Add** to edit or add a formula.
 |-----|-----------|
 |Formula editor|A text-editor like interface that allows you to enter and edit formulas.|
 
--   **[Formulas for column values in Table Builder](formulas-columns-table-builder.md#)**  
+-   **[Formulas for column values in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/formulas-columns-table-builder.md#)**  
 You can use a predefined function and create a formula to calculate the value of a column without writing a script. Use a predefined function or create a nested formula by using the existing predefined functions to calculate the column value type.
--   **[Add a formula to a column in Table Builder](../task/add-formula-column-table-builder.md)**  
+-   **[Add a formula to a column in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../task/add-formula-column-table-builder.md)**  
 Use a predefined function or create a formula to calculate a value for a column without writing a script in Table Builder. You can use two or more functions to create a formula according to your requirements.
 
-**Parent Topic:**[Table Builder reference](../concept/fb-reference.md)
+**Parent Topic:**[Table Builder reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/fb-reference.md)
 

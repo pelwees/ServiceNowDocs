@@ -29,7 +29,7 @@ Role required:
 
 1.  Navigate to **Workspaces** &gt; **CAM Workspace**.
 
-2.  In the CAM Workspace, select the List icon \(![List](../image/ws-list-icon.png)\).
+2.  In the CAM Workspace, select the List icon \(![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/ws-list-icon.png)\).
 
 3.  Select Authorization packages from the **RMF** list.
 
@@ -43,7 +43,7 @@ Role required:
 
     A message appears stating that the word file is being generated. A zip is generated which contains JSON files along with some diagrams. You’ll have to refresh the page before you download the JSON files.
 
-7.  Select More icon and then select **Download OSCAL SSP** from the **Generate OSCAL SSP** drop-down list to download the SSP zip file.![Dowload oscal-ssp-zip.](../image/cam-oscal-ssp-without-zip.png)
+7.  Select More icon and then select **Download OSCAL SSP** from the **Generate OSCAL SSP** drop-down list to download the SSP zip file.![Dowload oscal-ssp-zip.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-ssp-without-zip.png)
 
     **Important:** Verify that the pop-up blocker is turned off for the URL so that the SSP zip file is automatically downloaded to your local repository.
 
@@ -56,5 +56,5 @@ Role required:
     For more information on OSCAL import error, see the [OSCAL Import \[KB1794095\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1794095) article in the Now Support Knowledge Base.
 
 
-**Parent Topic:**[Export in OSCAL format](../concept/oscal-support-cam.md)
+**Parent Topic:**[Export in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../concept/oscal-support-cam.md)
 

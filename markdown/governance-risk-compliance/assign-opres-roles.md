@@ -35,6 +35,6 @@ To use the Operational Resilience application successfully, you must assign rele
 
 6.  Repeat these steps for each of your users.
 
-    For more information on the roles, see [Roles installed with Operational Resilience](../reference/roles-installed-with-op-res.md).
+    For more information on the roles, see [Roles installed with Operational Resilience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/roles-installed-with-op-res.md).
 
 

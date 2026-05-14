@@ -91,13 +91,13 @@ Option to prompts Playbooks users to determine if the activity pauses for input 
 
 ## Send Email with user input Activity
 
-![Send Email with user input Activity subflow where step 1 is a sample configuration of the Create Flow Data action.](../images/example-create-flow-data-01.png)
+![Send Email with user input Activity subflow where step 1 is a sample configuration of the Create Flow Data action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-create-flow-data-01.png)
 
 Send Email with user input Activity is a subflow that gathers the information needed to create and send an email. This subflow provides data for the corresponding Playbooks activity. The subflow uses the Create Flow Data action to gather information from the person running the activity. This example configures the Create Flow Data action to use the Email Data Definition record, which includes variables for an email subject and body. The action is also configured to use the subflow inputs for Assigned To and Assignment Group to determine who can enter flow data.
 
-![The Send Email action is configured to use the body variable from the Create Flow Data action as the body of the email.](../images/example-create-flow-data-02.png)
+![The Send Email action is configured to use the body variable from the Create Flow Data action as the body of the email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-create-flow-data-02.png)
 
 The subflow waits until the Create Flow Data record is in the Complete state before sending an email. The Send Email action is configured to use the body variable from the Create Flow Data action as the body of the email.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

@@ -50,5 +50,5 @@ Examples of data you can protect with sensitive data filters include:
 -   Tracked configuration files: A MySQL configuration file may contain a password. A regex filter can detect the password and redact it.
 -   Process parameters: Linux server process arguments may include sensitive tokens. Filters can identify and redact these values.
 
-**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 

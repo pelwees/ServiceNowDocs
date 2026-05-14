@@ -28,6 +28,6 @@ The client application requests an ID or access token from a trusted external id
 
 You can use accounts from a third-party identity provider \(IdP\) to access the ServiceNow® API for:
 
--   [Third party token workflow for user accounts](third-party-token-worflow-for-user-accounts.md)
--   [Third party token workflow for service accounts](third-party-token-workflow-for-service-accounts.md)
+-   [Third party token workflow for user accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/third-party-token-worflow-for-user-accounts.md)
+-   [Third party token workflow for service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/third-party-token-workflow-for-service-accounts.md)
 

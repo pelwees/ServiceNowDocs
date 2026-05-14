@@ -31,7 +31,7 @@ In this flow, ServiceNow functions as both the authorization server \(handling u
 **Related topics**  
 
 
-[Authorization code grant workflow](authorization-workflow.md)
+[Authorization code grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/authorization-workflow.md)
 
-[Configure an OAuth authorization code grant](../../machine-identity/task/configure-an-oauth-authorization-code-grant.md)
+[Configure an OAuth authorization code grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../machine-identity/task/configure-an-oauth-authorization-code-grant.md)
 

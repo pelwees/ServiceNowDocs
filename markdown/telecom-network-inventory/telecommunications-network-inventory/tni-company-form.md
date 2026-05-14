@@ -29,10 +29,10 @@ The Company form enables you to review, create, and modify the company details f
 |Zip/Postal code|Zip or postal code for the company.|
 |Notes|Any information about the company that would be helpful for others to know.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create manufacturer and vendor codes](../task/add-company-designate-manufacturer-tni.md)
+[Create manufacturer and vendor codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/add-company-designate-manufacturer-tni.md)
 

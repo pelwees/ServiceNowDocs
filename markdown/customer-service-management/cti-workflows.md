@@ -19,23 +19,23 @@ The following sample workflows show how CTI can be integrated with Interaction M
 
 The following workflow describes the logical sequence of actions when an outgoing call is triggered using the OpenFrame window.
 
-![CTI integration work flow for outgoing call-Success and Reject/busy](../image/cti-outgoing-successrejectbusy.png)
+![CTI integration work flow for outgoing call-Success and Reject/busy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cti-outgoing-successrejectbusy.png)
 
 ## CTI integration for incoming call
 
 The following workflow describes the logical sequence of actions when an incoming call is received using the OpenFrame window.
 
-![CTI and IMS integration work flow for incoming call](../image/ctiims-workflow.png)
+![CTI and IMS integration work flow for incoming call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ctiims-workflow.png)
 
 ## CTI integration for transferring call
 
 The following workflow describes the logical sequence of actions when an incoming call is transferred to an agent.
 
-![CTI integration workflow for call transfer.](../image/cti-call-transfer.png)
+![CTI integration workflow for call transfer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cti-call-transfer.png)
 
 ## CTI call interactions operations
 
 CTI integration with IMS and OF uses the `OpenframeInteractionUtility` script. You can use the`createOrUpdateInteractionForOpenframe` method from the utility script to create an interaction. For more information about creating interaction using APIs, see Interaction Management API.
 
-![FMS and CTI integration legend.](../image/cti-legend.png)
+![FMS and CTI integration legend.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cti-legend.png)
 

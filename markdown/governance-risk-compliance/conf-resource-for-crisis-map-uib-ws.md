@@ -27,11 +27,11 @@ Set up the Google maps for enabling the Crisis map functionality. For more infor
 
 3.  On the form, fill in the fields.
 
-    For more information on the Resource Configuration form, see [Resource Configuration form](../reference/resource-configuration-form.md).
+    For more information on the Resource Configuration form, see [Resource Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/resource-configuration-form.md).
 
     A sample resource configuration is shown in the illustration.
 
-    ![Resource configuration.](../image/create-resrc-config.png)
+    ![Resource configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-resrc-config.png)
 
 4.  Select **Submit**.
 
@@ -40,8 +40,8 @@ Set up the Google maps for enabling the Crisis map functionality. For more infor
 
 The resource is displayed in the **Resource Configurations** record page.
 
--   **[Resource Configuration form](../reference/resource-configuration-form.md)**  
+-   **[Resource Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/resource-configuration-form.md)**  
 Use the Resource Configuration form in BCM UIB Workspace to add details about a resource configuration record.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/crisis-map-admin-tasks.md)
 

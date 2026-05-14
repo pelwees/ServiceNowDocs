@@ -36,5 +36,5 @@ You can specify criteria and rules that fit your requirements, enabling a tailor
     The field value having value as False isn’t included in the validation process.
 
 
-**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](decision_tables.md)
+**Parent Topic:**[Configuring decision tables for Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decision_tables.md)
 

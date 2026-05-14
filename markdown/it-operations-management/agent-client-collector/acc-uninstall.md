@@ -24,5 +24,5 @@ Role required: agent\_client\_collector\_admin
 -   Uninstall the Agent Client Collector in the Windows Control Panel.
 
 
-**Parent Topic:**[Install the Agent Client Collector on a Windows machine manually](acc-install-windows.md)
+**Parent Topic:**[Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-windows.md)
 

@@ -29,7 +29,7 @@ The option to compose an email is available only when the State is Awaiting appr
 
 2.  Open the contract request.
 
-3.  Select the More Actions ![More actions icon](../../workplace-central/images/more-actions-move-schedule.png) icon.
+3.  Select the More Actions ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-central/images/more-actions-move-schedule.png) icon.
 
 4.  Select **Compose email**.
 
@@ -65,7 +65,7 @@ Enter your message in the text box.
 
 </td><td>
 
--   Select Response Templates icon \(![Response Templates icon](../../human-resources/reference/images/response-template-icon.png)\).
+-   Select Response Templates icon \(![Response Templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../human-resources/reference/images/response-template-icon.png)\).
 -   Select the appropriate response template.
 -   Select **Copy to clipboard**.
 -   Paste the content in the email body.
@@ -77,7 +77,7 @@ Enter your message in the text box.
 
 </td><td>
 
--   Select Email Templates icon \(![Email Templates icon](../image/cncore-email-template.png)\).
+-   Select Email Templates icon \(![Email Templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cncore-email-template.png)\).
 -   Select an appropriate response template based on the subject of your email.
 -   Select **Apply Template** to use the template.
 
@@ -108,7 +108,7 @@ To send the email immediately, select **Send email**.
 
 </td><td>
 
--   In the New Email Draft form, select the More Actions ![More actions button icon.](../../legal-request-management/image/more-button-icon.png) icon To view draft emails, select **View drafts**
+-   In the New Email Draft form, select the More Actions ![More actions button icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/more-button-icon.png) icon To view draft emails, select **View drafts**
 -   Select a draft email from the list to load it.
 -   If a newer document revision has been posted, you will have to substitute that revision for the document you attached.
 -   To send the email, select **Send email**.
@@ -132,5 +132,5 @@ To see a list of available default email notifications, go to **All** &gt; **Sys
 
 For more information, see [Create an email notification](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/notification/task/t_CreateANotification.html).
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

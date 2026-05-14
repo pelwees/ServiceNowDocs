@@ -88,5 +88,5 @@ Hardware request app
 </td></tr></tbody>
 </table>## Other types of apps
 
-See [Example apps you can build in Creator Studio](creator-studio-sample-apps.md) for some other, less-recurring ideas for apps.
+See [Example apps you can build in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-sample-apps.md) for some other, less-recurring ideas for apps.
 

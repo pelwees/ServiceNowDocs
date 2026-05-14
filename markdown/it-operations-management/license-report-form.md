@@ -76,5 +76,5 @@ Total consumption of subscription units by the application and all ITOM applicat
  Appears highlighted under Total Subscription Units Consumed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](itom-su-licensing-reference.md)
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 

@@ -27,7 +27,7 @@ A product owner or release planner uses this tool to establish the order in whic
 
 2.  Click and drag each story into position using the move icon to the left of the story number.
 
-    ![Scrum Stories Ranking](../image/ScrumStoriesRanking.png)
+    ![Scrum Stories Ranking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/ScrumStoriesRanking.png)
 
 3.  When you are done, click the **X** in the upper right corner to close the list.
 
@@ -35,14 +35,14 @@ A product owner or release planner uses this tool to establish the order in whic
 
 4.  To view the related list in its ranked order, open the context menu from the related list and select **Sort by rank**.
 
-    ![Sort by rank option](../image/SortByRankOption.png)
+    ![Sort by rank option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/SortByRankOption.png)
 
 5.  To return the sort order of the list to an unranked state, click once in the heading of any column that contains data.
 
     The system uses this ranked list to display the appropriate backlog in the planning board. For example, if you rank stories in the **Stories** related list in the Release form, the release backlog in the planning board uses the same ranking to display the stories. Conversely, scrum masters, product owners, and release planners can create a new ranking order for the **Stories** related list by rearranging the list of stories in the planning board.
 
 
-**Parent Topic:**[Scrum ranking definitions](../reference/r_ScrumRankingDefinitions.md)
+**Parent Topic:**[Scrum ranking definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../reference/r_ScrumRankingDefinitions.md)
 
 **Related topics**  
 

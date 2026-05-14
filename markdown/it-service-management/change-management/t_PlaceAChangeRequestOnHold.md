@@ -50,12 +50,12 @@ Change tasks inherit some state conditions from the parent change request they a
 5.  Click **Update**.
 
 
-**Parent Topic:**[Process a change request](t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ProcessAChangeRequest.md)
 
 **Related topics**  
 
 
-[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+[Legacy: State model and transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ChangeStateModel.md)
 
-[Create a change request](t_CreateAChange.md)
+[Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 

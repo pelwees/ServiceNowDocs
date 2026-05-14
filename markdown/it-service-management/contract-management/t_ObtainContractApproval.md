@@ -37,10 +37,10 @@ After a contract is sent to an approver for review, the approver name cannot be 
 4.  Click a record to view the approval details.
 
 
-**Parent Topic:**[Send the contract for approval](t_SendTheContractForApproval.md)
+**Parent Topic:**[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)
 
 **Related topics**  
 
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/contract-approval-workflow.md)
 

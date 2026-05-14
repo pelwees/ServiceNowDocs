@@ -33,7 +33,7 @@ Role required: adaptive\_auth\_admin
     |Description|Short description of the IP network.|
     |Application|Scope of the application.|
 
-    ![IP filter criteria form](../images/ip-filter-criteria.png "Example IP filter criteria record")
+    ![IP filter criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/ip-filter-criteria.png "Example IP filter criteria record")
 
 4.  Right-click the form header and click **Save**.
 
@@ -47,6 +47,6 @@ Role required: adaptive\_auth\_admin
 
     Enter the Network IP address and Netmask in the Classless Inter-Domain Routing \(CIDR\) format. For example, enter `255.255.255.0` as Network IP and `25` as Netmask.
 
-    ![Sample Subnet in IP filter criteria](../images/subnet-ip-filter-sample.png)
+    ![Sample Subnet in IP filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/subnet-ip-filter-sample.png)
 
 

@@ -46,7 +46,7 @@ All input controls and bot response controls are supported.
     The timeout value is the maximum time the primary bot waits for a response from the secondary bot. You can pass a custom timeout value \(in milliseconds\) in the Bot Interconnect Topic Block properties to override this.
 
     1.  Select the **Bot Interconnect Topic Block** node in the shell topic on your primary instance.
-    2.  In the **Additional Params \(String\)** area, select the script icon ![Script icon.](../images/icon-script.png).
+    2.  In the **Additional Params \(String\)** area, select the script icon ![Script icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-script.png).
     3.  Add the following script:
 
         ```
@@ -111,14 +111,14 @@ All input controls and bot response controls are supported.
     Autopilot mode is currently not supported in the secondary instance when the conversation is initiated on the primary instance. Live agent connection in the secondary instance works only when the secondary instance is in asynchronous mode.
 
 
--   **[Install Virtual Agent Bot Interconnect](../task/install-bot-interconnect.md)**  
+-   **[Install Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/install-bot-interconnect.md)**  
 You can install the Bot Interconnect application if you have the admin role. The application is available from the ServiceNow® Store.
--   **[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)**  
+-   **[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-api-ggl-dialogflow.md)**  
 With Bot Interconnect, you can use ServiceNow® Virtual Agent as the primary bot with a Google Dialogflow secondary bot. All of the skills and topics available to Google Dialogflow are made available to and executable from channels that are configured for ServiceNow® Virtual Agent.
--   **[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)**  
+-   **[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-api-ms-powerva.md)**  
 With Bot Interconnect, you can use ServiceNow® Virtual Agent as the primary bot with a Microsoft Power Virtual Agents secondary bot. All of the skills and topics available to Power Virtual Agents are made available to and executable from channels that are configured for ServiceNow® Bot Interconnect.
--   **[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)**  
+-   **[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-secondary-bot-with-sn-primary.md)**  
 Virtual Agent Bot Interconnect enables you to use ServiceNow® Virtual Agent as the primary bot with a ServiceNow Virtual Agent secondary bot.
 
-**Parent Topic:**[Building and deploying Virtual Agent](using-virtual-agent.md)
+**Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 

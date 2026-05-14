@@ -23,7 +23,7 @@ The goal of AI Search Assist is to give a Service Portal record producer AI Sear
 
 Domain separation for AI Search Assist is set in the record producer configuration. A related link for each record producer configuration enables you to expand or collapse the domain scope. If you expand the domain scope, any child domain record producer configurations can override a global or parent domain record configuration.
 
-**Parent Topic:**[AI Search Assist record producer integration for Service Portal](ai-search-assist.md)
+**Parent Topic:**[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ Assess the results from the model training and view sample results to see the si
 
 ## Before you begin
 
-You must train your model with various data. For more information on how to train your model, see [Train the similarity model](train-the-similarity-model.md)
+You must train your model with various data. For more information on how to train your model, see [Train the similarity model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/train-the-similarity-model.md)
 
 Role required: sn\_ti\_admin.tia\_admin or admin 
 
@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-hows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+hows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
 
 </td></tr><tr><td id="d225938e144">
 
@@ -72,10 +72,10 @@ Stops the model from performing any predictions.
 Monitors and runs the model in the background only without making any predictions on the incident form.
 
 </td></tr></tbody>
-</table>    ![Access the model page](../image/TI_Assess_the_similarity_model_page.png)
+</table>    ![Access the model page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/TI_Assess_the_similarity_model_page.png)
 
 4.  Select **Save &amp; continue**.
 
 
-**Parent Topic:**[Set up similar records prediction model](set-up-similar-records-prediction-model.md)
+**Parent Topic:**[Set up similar records prediction model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
 

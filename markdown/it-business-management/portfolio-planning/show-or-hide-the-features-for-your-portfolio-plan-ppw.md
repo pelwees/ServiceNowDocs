@@ -19,11 +19,11 @@ As a portfolio manager, show or hide the features \(for example, Prioritization,
 
 Hiding features for your portfolio plan helps you share only the data that matters to your stakeholders and restrict access to the other data in your portfolio plan.
 
-**Note:** When you [share a portfolio plan with your stake holder](share-portfolio-plan-in-portfolio-planning-workspace.md) providing view access and hiding a feature \(for example, Capacity Planning\), the viewer can only view the enabled features and can't see the hidden feature \(Capacity Planning\) in the shared portfolio plan. However, when you share a portfolio plan providing edit access, the editor can enable or hide the features as required and can view and edit any data in the shared portfolio plan.
+**Note:** When you [share a portfolio plan with your stake holder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md) providing view access and hiding a feature \(for example, Capacity Planning\), the viewer can only view the enabled features and can't see the hidden feature \(Capacity Planning\) in the shared portfolio plan. However, when you share a portfolio plan providing edit access, the editor can enable or hide the features as required and can view and edit any data in the shared portfolio plan.
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 
 Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
@@ -37,15 +37,15 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 4.  On the Show/hide modules window, select the features that you want to show and deselect the features that you want to hide.
 
-    ![Show or hide modules window.](../images/show-hide-modules-ppw.gif)
+    ![Show or hide modules window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/show-hide-modules-ppw.gif)
 
 5.  Select **Apply changes**.
 
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-portfolio-plans-in-portfolio-planning.md)
 
 **Related topics**  
 
 
-[Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md)
+[Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md)
 

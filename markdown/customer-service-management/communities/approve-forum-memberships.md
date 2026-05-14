@@ -38,5 +38,5 @@ There are two ways of approving forum memberships.
     Once the task has been approved or rejected, an email notification is sent to the user.
 
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

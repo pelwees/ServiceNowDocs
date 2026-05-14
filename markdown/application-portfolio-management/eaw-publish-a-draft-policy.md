@@ -33,7 +33,7 @@ After importing the legacy certification schedules, you can activate the draft p
 
 5.  Select the Draft policies list view on the Data Manager policies page.
 
-    ![Draft policies in the Data Manager policies page](../../image/eaw-image/cmdb-draft-policies.png)
+    ![Draft policies in the Data Manager policies page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/cmdb-draft-policies.png)
 
     The following is the list of Enterprise Architecture Workspace certification policies:
 
@@ -43,13 +43,13 @@ After importing the legacy certification schedules, you can activate the draft p
     -   Software Product Lifecycle Internal Source Certification on Demand
 6.  Select the policy that you want to publish and then, on the policy form, select **Edit Policy**.
 
-    ![Draft policy details](../../image/eaw-image/cmdb-edit-policy.png)
+    ![Draft policy details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/cmdb-edit-policy.png)
 
 7.  Review any policy settings by selecting the pages to review in the left-side bar.
 
 8.  Select Review in the left-side bar and then select **Publish Policy** to activate the policy.
 
-    ![Publish a draft policy](../../image/eaw-image/cmdb-publish-policy.png)
+    ![Publish a draft policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/cmdb-publish-policy.png)
 
     The CMDB Data Management Certification Policies \(sn\_cmdb\_ws\_dm\_certification\_policy\) table gets populated with the list of published certification policies.
 
@@ -64,14 +64,14 @@ After importing the legacy certification schedules, you can activate the draft p
 
 The Certifications tab in the Needs Attention section fetches and displays the data from the CMDB Data Management Policy \(cmdb\_data\_management\_policy\) table.
 
-**Parent Topic:**[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+**Parent Topic:**[Configure certification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-cert-policies.md)
 
 **Related topics**  
 
 
-[Import certification schedules in to Data Manager](eaw-convert-cert-schedules-to-cert-policies.md)
+[Import certification schedules in to Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-convert-cert-schedules-to-cert-policies.md)
 
-[Add or edit a certification policy](eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-cert-schedules.md)
 
-[View all certification policies](eaw-view-all-cert-schedules.md)
+[View all certification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-cert-schedules.md)
 

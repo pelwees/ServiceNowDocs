@@ -22,7 +22,7 @@ Teams can choose the methodology that would be the most effective for them, and 
 
 With this flexible approach of delivering work, empower your teams to deliver more value, while being able to fund, manage, and monitor all work from a single workspace.
 
-![The real-time bi-directional sync of information between Strategic Planning and PPM, Agile Development 2.0, and SAFe.](../images/spw-integration.png "Strategic Planning integration with ServiceNow applications")
+![The real-time bi-directional sync of information between Strategic Planning and PPM, Agile Development 2.0, and SAFe.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/spw-integration.png "Strategic Planning integration with ServiceNow applications")
 
 ## Key benefits of Strategic Planning with PPM, Agile 2.0, and SAFe
 
@@ -32,7 +32,7 @@ With this flexible approach of delivering work, empower your teams to deliver mo
 -   Synchronize updates for linked planning items of Strategic Planning with PPM, Agile 2.0, and SAFe.
 -   Track the progress of the linked planning items in Strategic Planning.
 
-To get started on integrating Strategic Planning with PPM, Agile 2.0, and SAFe, see [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](configuring-apw-with-agile-safe-and-ppm.md).
+To get started on integrating Strategic Planning with PPM, Agile 2.0, and SAFe, see [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Frequently asked questions about execution integration
 
@@ -95,7 +95,7 @@ To get started on integrating Strategic Planning with PPM, Agile 2.0, and SAFe, 
     -   Check that the planning item and PPM project/epic are properly linked \(primary planning item field is populated\).
     -   Review transformation maps for any table, field, or choice mapping issues.
 
-For detailed configuration steps, see [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](configuring-apw-with-agile-safe-and-ppm.md).
+For detailed configuration steps, see [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-apw-with-agile-safe-and-ppm.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
 

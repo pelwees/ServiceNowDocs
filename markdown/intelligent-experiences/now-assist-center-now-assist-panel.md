@@ -30,9 +30,9 @@ Use the Now Assist panel to perform the following types of actions:
 -   View active and deprecated AI model versions
 -   Discover and assign AI agents and agentic workflows that implement use cases
 
-![Now Assist panel in Now Assist Center.](../image/now-assist-center-panel.png "Now Assist panel")
+![Now Assist panel in Now Assist Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-panel.png "Now Assist panel")
 
-For more information, see [Using the conversational experience in Now Assist Center](using-now-assist-panel-now-assist-center.md).
+For more information, see [Using the conversational experience in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-panel-now-assist-center.md).
 
-**Parent Topic:**[Now Assist Center workspace](now-assist-center-workspace.md)
+**Parent Topic:**[Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 

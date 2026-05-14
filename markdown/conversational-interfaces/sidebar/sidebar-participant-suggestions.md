@@ -17,7 +17,7 @@ Activate Participant suggestions to display a list of users and user groups who 
 
 When you add participants to a Sidebar discussion, a drop-down list displays users and user groups that can be added. If Participant suggestions are activated, the top of the list displays "top suggestions." The participant suggestions include users or user groups who may be helpful due to their related expertise and also have access to the record.
 
-![Participant suggestions screenshot](../image/participant-finder-screenshot.png)
+![Participant suggestions screenshot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/participant-finder-screenshot.png)
 
 ## Requirements
 

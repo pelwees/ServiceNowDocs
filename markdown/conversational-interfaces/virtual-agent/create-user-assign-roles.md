@@ -32,12 +32,12 @@ Role required: admin
     -   AWSLambdaExecute
     -   AmazonConnect\_FullAccess
     -   AmazonS3FullAccess
-    **Note:** You can search and select the attachments at the **Permissions policies** search bar.![Attach policies to the IAM user for configuring IVR.](../images/ivr-attach-policies-iam-user.png)
+    **Note:** You can search and select the attachments at the **Permissions policies** search bar.![Attach policies to the IAM user for configuring IVR.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ivr-attach-policies-iam-user.png)
 
 5.  After selecting the required roles, click **Next**.
 
 6.  Click **Create user**.
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-aws-account.md)
 

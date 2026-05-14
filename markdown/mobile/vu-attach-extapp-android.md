@@ -31,7 +31,7 @@ The supported file types that can be opened in the internal, native viewer on th
 
 When a user attempts to open an attachment that isn't supported, an error message displays. For example:
 
-![mobile attachment error message](../image/mobile-attachment-error.png)
+![mobile attachment error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-attachment-error.png)
 
 **Note:** The following supported file types can be opened in the internal, native viewer on iOS devices:
 
@@ -91,5 +91,5 @@ Enter one of the following values:-   Enter `true` to prevent users from opening
 </table>4.  Right-click the banner at the top of the **glide.sg.block\_mobile\_attachments\_external\_viewing** form and select **Save**.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/additional-mobile-configuration.md)
 

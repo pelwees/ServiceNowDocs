@@ -89,7 +89,7 @@ Select the **Consumer** name and enter the following:-   Deal type: Indicates th
 
 ## What to do next
 
-[Add and view details of a quote](quote-management-details-tab.md).
+[Add and view details of a quote](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-details-tab.md).
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

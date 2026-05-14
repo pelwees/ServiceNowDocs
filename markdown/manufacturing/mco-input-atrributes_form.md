@@ -32,5 +32,5 @@ MCO input attributes form.
 |Text index|Option to determine whether searches index the text in a table.|
 |Audit|Option to enable auditing for a table.|
 
-**Parent Topic:**[Repair form](repair-form.md)
+**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 

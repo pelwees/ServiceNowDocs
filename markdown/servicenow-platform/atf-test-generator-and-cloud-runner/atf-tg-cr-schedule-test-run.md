@@ -97,10 +97,10 @@ Option to execute the scheduled run on cloud runner. The default value is True f
 6.  Select **Execute Now** to execute the suite.
 
 
-**Parent Topic:**[Using ATF Test Generator and Cloud Runner](../concept/atf-tg-cr-use.md)
+**Parent Topic:**[Using ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../concept/atf-tg-cr-use.md)
 
 **Related topics**  
 
 
-[Executing the tests using Cloud Runner](atf-tg-cr-execute-tests.md)
+[Executing the tests using Cloud Runner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-execute-tests.md)
 

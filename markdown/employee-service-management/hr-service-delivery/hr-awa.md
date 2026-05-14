@@ -21,5 +21,5 @@ For more information, see Agent Workspace Advanced Work Assignment \(AWA\).
 
 AWA is also available for HR Service Delivery Agent Workspace. For more information, see .
 
-**Parent Topic:**[HR Service Delivery case assignment](hr-case-assignment.md)
+**Parent Topic:**[HR Service Delivery case assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-assignment.md)
 

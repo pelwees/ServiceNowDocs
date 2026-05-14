@@ -24,11 +24,11 @@ Typically, this is to prevent any other application from creating or modifying d
 |**Can delete**|Disabled|
 |**Allow access to this table via web services**|Disabled|
 
-![Application access settings](../image/DenyingAllRuntimeAccess.png "Limiting runtime access to this application scope only")
+![Application access settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/DenyingAllRuntimeAccess.png "Limiting runtime access to this application scope only")
 
 The following diagram illustrates the effect of denying other application scopes access to application tables from script API and web service calls.
 
-![Effects of denying all runtime access to application tables](../image/EffectsOfDenyAllRuntimeAccess.png "Deny all runtime access permissions to application tables")
+![Effects of denying all runtime access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/EffectsOfDenyAllRuntimeAccess.png "Deny all runtime access permissions to application tables")
 
-**Parent Topic:**[Runtime access to applications tables](c_RuntimeAccessToAppTables.md)
+**Parent Topic:**[Runtime access to applications tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_RuntimeAccessToAppTables.md)
 

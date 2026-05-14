@@ -38,14 +38,14 @@ The list of open asset pick tasks for the stockroom is displayed.
 
 ## What to do next
 
-Manage all the hardware asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage hardware asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-ham-mobile-app.md).
+Manage all the hardware asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage hardware asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-pick-task-ham-mobile-app.md).
 
-**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-picking-stockroom-ham-ws.md)
 
 **Related topics**  
 
 
-[Enable the Asset pick task for your stockroom in the Hardware Asset Workspace](enable-pick-task-for-stockroom-ham.md)
+[Enable the Asset pick task for your stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/enable-pick-task-for-stockroom-ham.md)
 
-[Add aisles and spaces to a stockroom in the Hardware Asset Workspace](add-aisle-space-stockroom-ham-ws.md)
+[Add aisles and spaces to a stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-aisle-space-stockroom-ham-ws.md)
 

@@ -56,12 +56,12 @@ Planning items
 Type of work that can be planned using this lens.Move the desired planning item types from the **Available** list to the **Selected** list.
 
 </td></tr></tbody>
-</table>If you want additional planning items types, you can create them. See [Define a new planning item type in Strategic Planning](../task/create-planning-organization-and-planning-item-type.md).
+</table>If you want additional planning items types, you can create them. See [Define a new planning item type in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/create-planning-organization-and-planning-item-type.md).
 
-**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Create or modify a lens in Strategic Planning](../task/create-a-lens-in-alignment-planner-workspace.md)
+[Create or modify a lens in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/create-a-lens-in-alignment-planner-workspace.md)
 

@@ -64,8 +64,8 @@ Install Contract Management Pro by requesting it from the ServiceNow Store. Visi
     Use the ServiceNow® Now Assist application in the Contract Management application to analyze a contract for missing and non-standard clauses. It also enables you to review and add the information to the mapped fields in the contract repository, eliminating the need to manually update the contract repository.
 
 
--   **[Now Assist in Contract Management release notes](cmpro-na-rn.md)**  
+-   **[Now Assist in Contract Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/cmpro-na-rn.md)**  
 The ServiceNow® Now Assist in Contract Management uses generative AI capabilities to analyze a contract for missing or non-standard clauses and conversational search to query documents using natural language. It also includes agentic AI capabilities that automatically extract metadata and obligations from signed contracts and calculate reminder dates for contract renewals or terminations. Now Assist in Contract Management was enhanced and updated in the Australia release.
 
-**Parent Topic:**[Employee Service Management release notes](../employee-service-management/employee-service-management-rn-landing.md)
+**Parent Topic:**[Employee Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../employee-service-management/employee-service-management-rn-landing.md)
 

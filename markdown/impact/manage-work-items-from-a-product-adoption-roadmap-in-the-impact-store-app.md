@@ -27,7 +27,7 @@ Role required: Impact App Admin, Impact Platform Owner, Impact Portfolio Owner, 
 
     **Note:** You can't convert a legacy product adoption roadmap to an SPM or a CWM work item.
 
-4.  Select the more action \(![more actions icon](../image/more-action-icon.png)\) icon for the desired capability and click **Convert to work item** option.
+4.  Select the more action \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/more-action-icon.png)\) icon for the desired capability and click **Convert to work item** option.
 
 5.  Select a work item from those that are listed for the product adoption roadmap.
 
@@ -41,7 +41,7 @@ Role required: Impact App Admin, Impact Platform Owner, Impact Portfolio Owner, 
 
 8.  Select the link to view the record details, or open the capability from the product adoption roadmap and click **Work Items** on the capability details page.
 
-    ![Capability details work items tab](../image/capability_workitems.png "Work Items tab")
+    ![Capability details work items tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/capability_workitems.png "Work Items tab")
 
     You can view the work items that you created for this capability. A work item \(![](../image/impact-my-work-item-icon.png)\) icon on the capability indicate that one or more work items are associated with it.
 

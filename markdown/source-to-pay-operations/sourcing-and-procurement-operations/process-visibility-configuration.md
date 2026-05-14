@@ -19,12 +19,12 @@ You can track your purchase requisitions, purchase orders, and sourcing requests
 
 To configure the visibility tracker, you can define the process steps and work items involved in the purchase procedure. You can then link the work items to their respective process steps. You can also update the sequence and labels to ensure flexibility and alignment with business processes.
 
--   **[Add process steps](add-process-steps.md)**  
+-   **[Add process steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-process-steps.md)**  
 Create process steps involved in the product purchase cycle.
--   **[Add work items](add-work-items.md)**  
+-   **[Add work items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-work-items.md)**  
 Create work items to be added to the process steps involved in the product purchase cycle.
--   **[Link work items with process steps](link-work-items-with-process-steps.md)**  
+-   **[Link work items with process steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/link-work-items-with-process-steps.md)**  
 Establish the relationship between the process steps and their work items.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 

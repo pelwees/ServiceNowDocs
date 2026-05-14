@@ -65,5 +65,5 @@ In the title bar, select **Copy** from the context menu.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 

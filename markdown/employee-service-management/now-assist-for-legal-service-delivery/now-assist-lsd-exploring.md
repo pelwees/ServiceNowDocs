@@ -28,11 +28,11 @@ The following generative AI capabilities are available in Now Assist for Legal S
 
 The Now Assist for Legal Service Delivery \(LSD\) application generates an AI‑powered summary of a legal request or matter. This summary captures key details and the actions taken throughout the lifecycle of the request or matter. Request fulfillers can review the summary to quickly understand context, refresh it as needed, and post it to work notes for reference and collaboration.
 
-The summary is displayed above the activity stream and includes the information from the fields and variablesconfigured as inputs.![Legal matter summarization](../image/lsd-sum-matter-landing.png)
+The summary is displayed above the activity stream and includes the information from the fields and variablesconfigured as inputs.![Legal matter summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-sum-matter-landing.png)
 
-For more information on the fields and variables that are considered for summarization, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-skill-inputs.md) and [Configure variables for Now Assist summarization](../task/configure-variables-for-now-assist-summarization.md).
+For more information on the fields and variables that are considered for summarization, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-skill-inputs.md) and [Configure variables for Now Assist summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../task/configure-variables-for-now-assist-summarization.md).
 
-For information on activating the Legal Request summarization skill or the Legal Matter summarization skill, see [Configure Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-configuring.md). For information on how to use the skills on Legal Counsel Center, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](../task/now-assist-lsd-summarize-case.md).
+For information on activating the Legal Request summarization skill or the Legal Matter summarization skill, see [Configure Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-configuring.md). For information on how to use the skills on Legal Counsel Center, see [Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../task/now-assist-lsd-summarize-case.md).
 
 ## Q&amp;A Genius Results
 
@@ -42,7 +42,7 @@ The answer card shows a topic snippet and an answer snippet that was extracted f
 
 It is enabled when both AI Search and Now Assist for Legal Service Delivery \(LSD\) are activated.
 
-![Q&A Genius search results in Legal Counsel Center.](../image/lsd-na-genius-result.png)
+![Q&A Genius search results in Legal Counsel Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-na-genius-result.png)
 
 ## Conversational intake
 
@@ -52,7 +52,7 @@ Instead of completing static forms, legal users can describe the COI details in 
 
 After submission, the system evaluates the COI request to determine risk. Low‑risk requests are auto‑approved, while medium‑ and high‑risk requests are routed for approval.
 
-For more information on COI application and the risk assessment, see [Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md) and [Exploring Legal Conflict of Interest](../../legal-conflict-of-interest/concept/conflict-of-interest-overview.md).
+For more information on COI application and the risk assessment, see [Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md) and [Exploring Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../legal-conflict-of-interest/concept/conflict-of-interest-overview.md).
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
@@ -91,8 +91,8 @@ Matter Fulfiller\[sn\_lg\_gen\_ai.matter\_fulfiller\]
 Provides access for users to utilize skill for legal matters provided via Now Assist for Legal Service Delivery \(LSD\).
 
 </td></tr></tbody>
-</table>-   **[Supporting information for Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-support-info.md)**  
+</table>-   **[Supporting information for Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-support-info.md)**  
 Get a quick overview of the important information that is related to the Now Assist for Legal Service Delivery \(LSD\) application.
 
-**Parent Topic:**[Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-landing.md)
+**Parent Topic:**[Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
 

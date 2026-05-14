@@ -15,7 +15,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 You can configure shopping cart status screens for desktop and Classic Mobile orders.
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ConfigureCartLayout.md)
 
 ## Configure desktop order status screen
 
@@ -33,7 +33,7 @@ Role required: admin, catalog\_admin
 
 3.  You can add/remove components, columns, buttons, and rename labels.
 
-    See [Configure cart layout](t_ConfigureCartLayout.md#).
+    See [Configure cart layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ConfigureCartLayout.md#).
 
 4.  Click **Update**.
 

@@ -49,7 +49,7 @@ Role required: Any user with an internal role can create dashboards.
 
 8.  Select the dashboard details icon ![](../../grc-business-continuity-management/image/InformationIcon.png) to open the Details panel and provide a name and description for your dashboard.
 
-    For more information, see [Edit TPRM dashboard details](edit-tprm-db-details.md).
+    For more information, see [Edit TPRM dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/edit-tprm-db-details.md).
 
 9.  Arrange the data on the canvas to make it useful.
 
@@ -64,6 +64,6 @@ Role required: Any user with an internal role can create dashboards.
 
 ## What to do next
 
--   [Edit TPRM dashboard details](edit-tprm-db-details.md)
--   [Edit TPRM dashboard elements](tprm-edit-db-elements.md)
+-   [Edit TPRM dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/edit-tprm-db-details.md)
+-   [Edit TPRM dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-edit-db-elements.md)
 

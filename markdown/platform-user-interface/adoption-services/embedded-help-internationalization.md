@@ -45,8 +45,8 @@ For example, if an admin user is in a French working session and requests embedd
 
 If there is no embedded help content for the French admin role, but there is content for the French itil role and English admin role, the French itil role takes priority over the English admin role. The French-language content will display at the itil-role level.
 
--   **[Create internationalized embedded help](../task/create-international-embedded-help.md)**  
+-   **[Create internationalized embedded help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../task/create-international-embedded-help.md)**  
 Translate provided English embedded help content into other languages or create custom embedded help content in the language of your choice.
 
-**Parent Topic:**[Embedded Help planning](embedded-help-planning.md)
+**Parent Topic:**[Embedded Help planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-planning.md)
 

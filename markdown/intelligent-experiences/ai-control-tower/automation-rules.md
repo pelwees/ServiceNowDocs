@@ -34,7 +34,7 @@ Only active rules are evaluated during scheduled runs; inactive rules are skippe
 
 ## References
 
-For information on managed and unmanaged assets, see [Assets list managed and unmanaged assets](assets-list-managing-and-unmanaging-assets.md)
+For information on managed and unmanaged assets, see [Assets list managed and unmanaged assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/assets-list-managing-and-unmanaging-assets.md)
 
-For information on creating rules, see [Create an Automation rule](../task/create-automation-rules.md)
+For information on creating rules, see [Create an Automation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/create-automation-rules.md)
 

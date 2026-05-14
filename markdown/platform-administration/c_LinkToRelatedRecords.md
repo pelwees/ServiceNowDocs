@@ -78,7 +78,7 @@ Click here to view Incident: ${URI_REF}
 Click here to view Related Problem: ${problem_id.URI_REF}
 ```
 
-![Related record link.](../image/RelatedRecordLink.png "Related record link")
+![Related record link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RelatedRecordLink.png "Related record link")
 
-**Parent Topic:**[Links to records in email notifications](c_EnablingLinksToServiceNowRecords.md)
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md)
 

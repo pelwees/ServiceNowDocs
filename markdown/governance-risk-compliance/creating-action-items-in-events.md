@@ -192,8 +192,8 @@ The roles associated with action items are listed in the table.
 |Viewers|Can read all action items.|
 |Recovery event/Plan owner|Can read and update all action items that they are assigned to.|
 
--   **[Create task and assessment-type action items in events](../task/create-action-items-in-events.md)**  
+-   **[Create task and assessment-type action items in events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-action-items-in-events.md)**  
 Use integration of events and Smart Assessment for creating necessary action items related to an event.
 
-**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 

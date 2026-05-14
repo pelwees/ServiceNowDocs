@@ -55,5 +55,5 @@ inputlookup <lookup_name>" example : | inputlookup tisc_store_lookup
 Query to lookup records in the KV store.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[TISC add-on for Splunk overview](tisc-addon-splunk.md)
+</table>**Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-addon-splunk.md)
 

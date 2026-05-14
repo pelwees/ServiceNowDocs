@@ -25,13 +25,13 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Tap the incident record you want to work on.
 
 4.  Tap on **Assignment group**.
 
-    ![Assignment group in ITSM Mobile Agent](../image/assignment-group-itsm-mobile-2.png)
+    ![Assignment group in ITSM Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/assignment-group-itsm-mobile-2.png)
 
 5.  Do one of the following:
 
@@ -45,5 +45,5 @@ Role required: itil, itil\_admin, or admin
     You can also interact with a user from the assignment group. Tap on the assignment group, and then tap on a user and select either Slack or Microsoft Teams to initiate a conversation.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../concept/collaboration-incident-itsm-mobile.md)
 

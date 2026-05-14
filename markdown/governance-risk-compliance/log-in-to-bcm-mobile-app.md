@@ -17,7 +17,7 @@ Open the BCM mobile app and add a ServiceNow AI Platform® instance with BCM to 
 
 Role required: sn\_bcm.manager
 
-Verify that you have completed the setup steps described in [Set up the BCM mobile application](configure-mobile-app-setup.md).
+Verify that you have completed the setup steps described in [Set up the BCM mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-mobile-app-setup.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ Verify that you have completed the setup steps described in [Set up the BCM mobi
 
 2.  If the ServiceNow AI Platform instance with the BCM core application isn’t already added to your mobile device, follow these steps to add it.
 
-    1.  On the Instances screen that is displayed, tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\).
+    1.  On the Instances screen that is displayed, tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/image/mobile_instances_plus.png)\).
 
         A screen is displayed that prompts you to enter and save an address of a ServiceNow AI Platform instance.
 

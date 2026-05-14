@@ -19,7 +19,7 @@ Encryption rules are used by the proxy to find content in HTTP requests that sho
 
 Role required: security\_admin
 
-Before creating an encryption rule, you must [Inspect the client request](request-type.md) to determine the format.
+Before creating an encryption rule, you must [Inspect the client request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/request-type.md) to determine the format.
 
 ## About this task
 
@@ -49,5 +49,5 @@ To create or edit encryption rules, you must be connected to the instance throug
 7.  Click **Submit**, or save the form.
 
 
-**Parent Topic:**[Define a custom encryption rule](../concept/c_EncryptionRules.md)
+**Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_EncryptionRules.md)
 

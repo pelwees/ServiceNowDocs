@@ -49,5 +49,5 @@ When you generate a data visualization, look it over carefully. Check whether it
     Gives you a bar visualization of records on the Task table that were created this month, grouped by the value of the Priority field.
 
 
-**Parent Topic:**[Generate visualizations in the Now Assist panel](../task/use-dv-generation.md)
+**Parent Topic:**[Generate visualizations in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/use-dv-generation.md)
 

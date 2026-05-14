@@ -359,5 +359,5 @@ Interview reschedule history\[sn\_ta\_hiring\_core\_reschedule\_history\]
 Historic data of the interview schedules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hiring Experiences reference](reference-frmwrk-ta.md)
+</table>**Parent Topic:**[Hiring Experiences reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/reference-frmwrk-ta.md)
 

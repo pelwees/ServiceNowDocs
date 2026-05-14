@@ -35,5 +35,5 @@ The new GRC: taxonomy management application provides the following benefits:
 
 **Note:** If you have downloaded the Regulatory Change Management application previously and you are upgrading to the Australia GA release, copy the data from the old taxonomy tables to the new taxonomy tables.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

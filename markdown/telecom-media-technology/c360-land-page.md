@@ -17,15 +17,15 @@ The Telecommunications Customer 360 application provides a unified interface tha
 
 <table id="table_nr4_4bw_33c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Telecommunications Customer 360](c360-overview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Telecommunications Customer 360](c360-overview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Setup and configure Telecommunications Customer 360](../task/c360-configure.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Setup and configure Telecommunications Customer 360](../task/c360-configure.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Customer 360](c360-use.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Customer 360](c360-use.md)
 
 </td></tr></tbody>
 </table>## Additional resources

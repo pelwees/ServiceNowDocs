@@ -17,7 +17,7 @@ Create a subflow to reclaim a user subscription.
 
 ## Before you begin
 
-This subflow requires an action to remove a user. For more information, see [Create an action to remove a user](create-data-stream-remove-user.md).
+This subflow requires an action to remove a user. For more information, see [Create an action to remove a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-data-stream-remove-user.md).
 
 Role required: flow\_designer
 
@@ -124,7 +124,7 @@ Run As
 
 7.  In the list of installed spokes, select the spoke for the SaaS application that you're integrating with.
 
-    **Note:** To add additional spokes to your list of installed spokes, request them on the [ServiceNow Store](https://store.servicenow.com). For a complete list of available spokes, see [IntegrationHub available spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/spokes-list.md). If there's no existing spoke for the SaaS application that you want to integrate with, you can [create a new spoke](create-saas-spoke.md).
+    **Note:** To add additional spokes to your list of installed spokes, request them on the [ServiceNow Store](https://store.servicenow.com). For a complete list of available spokes, see [IntegrationHub available spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/spokes-list.md). If there's no existing spoke for the SaaS application that you want to integrate with, you can [create a new spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-saas-spoke.md).
 
 8.  To remove a user, select an action.
 
@@ -153,7 +153,7 @@ Run As
 
     The following image shows a completed example of a subflow to reclaim a user subscription. The example shown is the Webex Reclaim Subscription subflow.
 
-    ![Example subflow to reclaim a user subscription](../image/slc-remove-user-flow.png)
+    ![Example subflow to reclaim a user subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/slc-remove-user-flow.png)
 
 13. To test your subflow, click **Test**.
 

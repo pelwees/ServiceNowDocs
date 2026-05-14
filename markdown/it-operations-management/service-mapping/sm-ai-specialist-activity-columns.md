@@ -110,5 +110,5 @@ Created
 The date and time the activity record was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Agents for Service Mapping](../concept/service-mapping-ai-specialists.md)
+</table>**Parent Topic:**[AI Agents for Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/service-mapping-ai-specialists.md)
 

@@ -36,7 +36,7 @@ Stores information about the task details.
 </td></tr></tbody>
 </table>## Base roles installed with Retail Core
 
-For information on configuring these roles for retail, see [Assign roles to Retail users](../task/rahi-retail-assign-roles-users.md).
+For information on configuring these roles for retail, see [Assign roles to Retail users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../task/rahi-retail-assign-roles-users.md).
 
 <table id="table_d5t_ttp_bdc"><thead><tr><th>
 
@@ -202,5 +202,5 @@ Includes common themes, widgets, and code artifacts for customer and industry wo
 |Restrict SO update|sn\_retail\_organization|Before update|Restricts the user from updating the Organization Core field in the Retail Organization \[sn\_retail\_organization\] table.|
 |Hide multistore child cases|sn\_retail\_case|Before Query|Filters retail cases whose parent's child case creation state is either none or Completed successfully.|
 
-**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

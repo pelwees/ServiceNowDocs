@@ -17,7 +17,7 @@ Create a failure or resolution code to help enterprise asset technicians identif
 
 ## Before you begin
 
-The source for the code that you want to create should already be available. For more details, see [Create a source for failure and resolution codes](create-source-failure-res-code.md).
+The source for the code that you want to create should already be available. For more details, see [Create a source for failure and resolution codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-source-failure-res-code.md).
 
 Role required: sn\_eam.enterprise\_admin or inventory\_admin
 

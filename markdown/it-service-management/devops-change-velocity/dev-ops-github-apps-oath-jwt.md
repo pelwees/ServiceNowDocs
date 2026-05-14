@@ -60,7 +60,7 @@ Complete these steps from your GitHub account. See [Building GitHub Apps](https:
     1.  Navigate to the connected tool's tool record page.
     2.  Select **Configure GitHub App**, then select **Auto configure with existing token**.
 
-        ![Auto configure with existing token.](../image/github-jwt-config-01.png)
+        ![Auto configure with existing token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-jwt-config-01.png)
 
     This configures the Webhook URL of the GitHub App automatically.
 
@@ -232,7 +232,7 @@ Role required: admin
     |Key store password|Password associated with the certificate \(hint: the destination KeyStore password previously created\).|
     |Short description|Summary about the certificate.|
 
-4.  Select the attachments icon \(![Attachments icon](../image/dev-ops-attachments-icon.png)\) and attach a JKS certificate.
+4.  Select the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-attachments-icon.png)\) and attach a JKS certificate.
 
 5.  Select **Validate Stores/Certificates**.
 
@@ -377,7 +377,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 </td></tr></tbody>
 </table>5.  Leave the rest of the form fields as default.
 
-    ![Application Registry form](../image/github-oauth-jwt-app-registries.png)
+    ![Application Registry form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-oauth-jwt-app-registries.png)
 
 6.  Right-click the form header, and select **Save**.
 
@@ -391,7 +391,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 
 11. Ensure the **Result** field is set to **Track** and save the changes.
 
-    ![Form that shows the result field is set to track.](../image/github-oauth-provider.png)
+    ![Form that shows the result field is set to track.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-oauth-provider.png)
 
 
 ## Create a credential record for GitHub App provider \(JWT\)
@@ -428,9 +428,9 @@ Role required: admin, sn\_devops.admin
 **Related topics**  
 
 
-[GitHub Actions configurations](github-actions-integration-with-devops.md#)
+[GitHub Actions configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-actions-integration-with-devops.md#)
 
-[ServiceNow DevOps custom actions from GitHub marketplace](servicenow-devops-custom-actions-from-github-marketplace.md#)
+[ServiceNow DevOps custom actions from GitHub marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-devops-custom-actions-from-github-marketplace.md#)
 
-[GitHub Deployment Gates for ServiceNow DevOps Change](github-deployment-gate-for-servicenow-devops-change.md)
+[GitHub Deployment Gates for ServiceNow DevOps Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-deployment-gate-for-servicenow-devops-change.md)
 

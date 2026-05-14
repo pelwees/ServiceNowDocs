@@ -21,23 +21,23 @@ Create service requests from directly within an EMR system that can then be fulf
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how clinicians and healthcare agents use EMR Help.](emr-help.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how clinicians and healthcare agents use EMR Help.](emr-help.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](configuring-emr-help.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](configuring-emr-help.md)
 
 </td><td>
 
-[Request ![](../../../reuse/icons/brand-icons/bus-manage.svg) Submit ServiceNow service requests from EMR systems](emr-help-issues-reporting.md)
+[Request ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../../../reuse/icons/brand-icons/bus-manage.svg) Submit ServiceNow service requests from EMR systems](emr-help-issues-reporting.md)
 
 </td></tr><tr><td>
 
-[Resolve ![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg) Resolve ServiceNow service requests from EMR systems](emr-help-issues-resolve.md#)
+[Resolve ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg) Resolve ServiceNow service requests from EMR systems](emr-help-issues-resolve.md#)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/emr-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/emr-reference.md)
 
 </td><td>
 

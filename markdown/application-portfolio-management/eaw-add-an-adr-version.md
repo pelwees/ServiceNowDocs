@@ -27,9 +27,9 @@ Role required: Depends on the role permissions set for a particular ADR.
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Architectural Decision Record**.
 
@@ -58,22 +58,22 @@ You can view version specific ADR content using the version drop-down. The versi
 
 On selecting a particular version, you’re directed to the ADR artifact content page for that version.
 
-![ADR artifact content page with the version drop-down highlighted](../../image/eaw-image/adr-version-dropdown.png)
+![ADR artifact content page with the version drop-down highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/adr-version-dropdown.png)
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-adr.md)
 
 **Related topics**  
 
 
-[Manage access to architectural artifacts](eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-access-to-architectural-artifacts.md)
 
-[Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md)
+[Tag users or records in Architectural Decision Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-tag-users-or-records-in-adr.md)
 
-[Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-edit-adr.md)
 
-[Request approval for an architectural artifact version of type Architectural Decision Record](eaw-request-approval-adr.md)
+[Request approval for an architectural artifact version of type Architectural Decision Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-request-approval-adr.md)
 
-[Create and manage pages and subpages for architectural decision records](eaw-create-and-mng-page-subpage-for-adr.md)
+[Create and manage pages and subpages for architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-and-mng-page-subpage-for-adr.md)
 
-[Enable referencing additional records in architectural decision records](eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
+[Enable referencing additional records in architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
 

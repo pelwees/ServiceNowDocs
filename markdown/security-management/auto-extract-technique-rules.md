@@ -13,56 +13,56 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK information from any existing third-party integrations.
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/domain-separation-and-mitre-att-ck.md)
 
-[Set up the MITRE-ATT&amp;CK framework](../task/setup-mitre-profile.md)
+[Set up the MITRE-ATT&amp;CK framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/setup-mitre-profile.md)
 
-[Manage matrices](../task/view-mitre-collection.md)
+[Manage matrices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/view-mitre-collection.md)
 
-[Manage techniques](../task/view-techniques.md)
+[Manage techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/view-techniques.md)
 
-[Manage mitigations](../task/manage-mitigations.md)
+[Manage mitigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-mitigations.md)
 
-[Manage groups](../task/manage-groups-threat-intel.md)
+[Manage groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-groups-threat-intel.md)
 
-[Manage malware](../task/manage-malware.md)
+[Manage malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-malware.md)
 
-[Manage tools](../task/manage-tools.md)
+[Manage tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-tools.md)
 
-[Manage MITRE relationships](../task/manage-mitre-relationships.md)
+[Manage MITRE relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-mitre-relationships.md)
 
-[Manage CVE and technique mapping](../task/manage-cve-and-technique-mapping.md)
+[Manage CVE and technique mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-cve-and-technique-mapping.md)
 
-[Extend the MITRE-ATT&amp;CK data](../task/view-and-extend-information.md)
+[Extend the MITRE-ATT&amp;CK data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/view-and-extend-information.md)
 
-[Define the data source and detection tool mapping](../task/manage-mitre-att-ck-data-sources.md)
+[Define the data source and detection tool mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/manage-mitre-att-ck-data-sources.md)
 
-[Define the data source and data component mapping](../task/map-the-data-source-and-data-components.md)
+[Define the data source and data component mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/map-the-data-source-and-data-components.md)
 
-[Define the technique detection coverage](../task/define-technique-coverage.md)
+[Define the technique detection coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/define-technique-coverage.md)
 
-[Map your technique detection coverage to a technique](../task/map-technique-coverage.md)
+[Map your technique detection coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/map-technique-coverage.md)
 
-[Define the mitigation coverage](../task/define-the-mitigation-coverage.md)
+[Define the mitigation coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/define-the-mitigation-coverage.md)
 
-[Map your mitigation coverage to a technique](../task/map-your-mitigation-coverage-to-a-technique.md)
+[Map your mitigation coverage to a technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/map-your-mitigation-coverage-to-a-technique.md)
 
-[Create and map detection rules](../task/create-detection-rules.md)
+[Create and map detection rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/create-detection-rules.md)
 
-[Review threat group and MITRE-ATT&amp;CK techniques mapping](../task/review-threat-group-and-techniques-mapping.md)
+[Review threat group and MITRE-ATT&amp;CK techniques mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/review-threat-group-and-techniques-mapping.md)
 
-[Threat group to technique heatmap definition](../task/threat-group-to-technique-heatmap-definition.md)
+[Threat group to technique heatmap definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/threat-group-to-technique-heatmap-definition.md)
 
-[Review the MITRE-ATT&amp;CK system properties](../task/configure-mitre-att-ck-properties.md)
+[Review the MITRE-ATT&amp;CK system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-mitre-att-ck-properties.md)
 
 ## Use threat-lookup auto-extraction rules
 
@@ -79,7 +79,7 @@ Role required:
 
 When any Threat Intelligence integration, such as Sandbox or a TIP, supports the MITRE-ATT&amp;CK framework and if the MITRE-ATT&amp;CK information is parsed at each integration level, then the information is displayed in each threat lookup result record. However, not all Threat Intelligence integrations parse the MITRE-ATT&amp;CK information. The threat lookup global auto-extraction rule can extract MITRE-ATT&amp;CK information from all Threat Intelligence integrations.
 
-You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [enable the system property](../task/configure-mitre-att-ck-properties.md). Alternatively, you can [rollup the information manually](../task/associate-mitre-observables.md) for each individual threat lookup.
+You can choose to roll up the MITRE-ATT&amp;CK information automatically from the threat lookup results to a security incident. For automatic rollup of threat lookup results to security incidents, [enable the system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-mitre-att-ck-properties.md). Alternatively, you can [rollup the information manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/associate-mitre-observables.md) for each individual threat lookup.
 
 The base system Threat Intelligence automatically extracts the MITRE-ATT&amp;CK information from the third-party integrations raw payload to the threat lookup result record, if the Threat Intelligence integration provides you with MITRE-ATT&amp;CK information like the technique or tactic.
 
@@ -229,7 +229,7 @@ Enable either the SIEM auto-extraction rule or the alert rule at a time.
 
     In the following illustration, you see an example of the Splunk Enterprise SIEM technique extraction rule in the form view. This rule is similar to all the other SIEM technique extraction rules.
 
-    ![Splunk technique extraction rule.](../image/mitre-splunk-extraction.gif)
+    ![Splunk technique extraction rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/mitre-splunk-extraction.gif)
 
 4.  Click **Submit**.
 

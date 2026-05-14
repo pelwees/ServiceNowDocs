@@ -17,7 +17,7 @@ Create a transfer order that moves the necessary parts or assets to the correct 
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifie
 
 5.  Click **Source Part**.
 
-    The system completes the **Model** field automatically with information from the part requirement. You can select a different model, but it must be a [substitute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingSubModelsToHrdwModel.md) for the requested model. If you click the reference lookup icon \(![Lookup icon.](../image/SearchIcon.png)\) beside the **Model** field, only the selected model and any substitute models that are in stock are listed.
+    The system completes the **Model** field automatically with information from the part requirement. You can select a different model, but it must be a [substitute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingSubModelsToHrdwModel.md) for the requested model. If you click the reference lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/SearchIcon.png)\) beside the **Model** field, only the selected model and any substitute models that are in stock are listed.
 
 6.  Select a **From Stockroom**.
 

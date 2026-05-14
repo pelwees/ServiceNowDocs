@@ -19,7 +19,7 @@ To access the ServiceNow Vault console dashboard, navigate to **All** &gt; **Vau
 
 ## Vault console dashboard page
 
-![The Vault console dashboard](../images/vault-dashboard.png)
+![The Vault console dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/vault-dashboard.png)
 
 <table id="table_v3f_qsx_rfc"><thead><tr><th>
 
@@ -67,7 +67,7 @@ Ask Now Assist
 
 </td><td>
 
-Use generative AI to streamline your tasks in ServiceNow Vault. For example, you can ask Now Assist to schedule a data discovery job for you. Prerequisite: Enable skills in Now Assist Admin console. For more information, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md) and [Use generative AI skills in Now Assist for Vault](../../now-assist-vault/concept/using-now-assist-vault.md).
+Use generative AI to streamline your tasks in ServiceNow Vault. For example, you can ask Now Assist to schedule a data discovery job for you. Prerequisite: Enable skills in Now Assist Admin console. For more information, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md) and [Use generative AI skills in Now Assist for Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-assist-vault/concept/using-now-assist-vault.md).
 
 </td></tr><tr><td>
 
@@ -79,11 +79,11 @@ Guided setup cards for applications
 
 </td><td>
 
-Select the **Get Started** button on an applications card to start using ServiceNow Vault with that application. Read more about Guided setup here:[Use guided setup for ServiceNow Vault](../task/use-vault-guided-setup.md)
+Select the **Get Started** button on an applications card to start using ServiceNow Vault with that application. Read more about Guided setup here:[Use guided setup for ServiceNow Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/use-vault-guided-setup.md)
 
 </td></tr><tr><td rowspan="2">
 
-[Vault tools and metrics](vault-tools.md)
+[Vault tools and metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/vault-tools.md)
 
 </td><td>
 
@@ -91,12 +91,12 @@ Tool information
 
 </td><td>
 
-A brief description and licensing information for the tools used in ServiceNow Vault. Select the **Go to** button go to the tools home page. Tools currently displayed on the dashboard are:-   [Data Discovery](../../security/concept/data-discovery-landing.md)
--   [Data Classification](../../security/concept/data-classification.md)
--   [Data anonymization](../../data-privacy-store/concept/dps-data-anonymization.md)
--   [Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)
--   [Field Encryption](../../encryption/concept/field-encryption.md)
--   [Zero Trust Access \(ZTA\)](../../../integrate/authentication/concept/session-access.md)
+A brief description and licensing information for the tools used in ServiceNow Vault. Select the **Go to** button go to the tools home page. Tools currently displayed on the dashboard are:-   [Data Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/data-discovery-landing.md)
+-   [Data Classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/data-classification.md)
+-   [Data anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../data-privacy-store/concept/dps-data-anonymization.md)
+-   [Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption-dare/concept/dare-overview.md)
+-   [Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/field-encryption.md)
+-   [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/authentication/concept/session-access.md)
 
 </td></tr><tr><td>
 
@@ -107,8 +107,8 @@ Tool metrics
 Select the dropdown to review various metrics and graphs about a tool. **Note:** Find out more information about the metrics by reviewing the respective tools home page.
 
 </td></tr></tbody>
-</table>-   **[Vault tools and metrics](vault-tools.md)**  
+</table>-   **[Vault tools and metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/vault-tools.md)**  
 Learn about the tools and metrics ServiceNow Vault uses to protect and discover sensitive data.
 
-**Parent Topic:**[ServiceNow Vault](../reference/servicenow-vault-landing.md)
+**Parent Topic:**[ServiceNow Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/servicenow-vault-landing.md)
 

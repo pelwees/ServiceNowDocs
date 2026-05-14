@@ -36,23 +36,23 @@ You can also investigate a wider view of the service topology on the service map
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](../image/icon-service-dashboard.png).
+2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-service-dashboard.png).
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/task/add-impact-cal-services.md).
 
 3.  Select a service tile.
 
     A pop-up window displays the business criticality and severity of a service.
 
-    ![Application service tile with options to see service details and service map.](../image/sow-itom-service-app-tile-options.png)
+    ![Application service tile with options to see service details and service map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-itom-service-app-tile-options.png)
 
 4.  Select **Service Map**.
 
     The application map along with the CI relationships appears.
 
-    ![The application map along with the CI relationships appears.](../image/sow-service-map-page.png)
+    ![The application map along with the CI relationships appears.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-service-map-page.png)
 
     **Note:**
 
@@ -60,13 +60,13 @@ You can also investigate a wider view of the service topology on the service map
 
     **Impact Path** shows alerts on the selected CI and all CIs within its impact subtree.
 
-    ![Option to change how many CIs you want to view in the map.](../image/sow-service-map-nodes.png)
+    ![Option to change how many CIs you want to view in the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-service-map-nodes.png)
 
-    If the **Impact path** panel is closed, you can open it by selecting the Impact path icon \(![Impact path icon](../image/icon-sow-impact-path.png)\).
+    If the **Impact path** panel is closed, you can open it by selecting the Impact path icon \(![Impact path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-sow-impact-path.png)\).
 
-    To view active alerts directly associated with the selected CI, select the Related items icon \(![Related items icon](../image/icon-service-map-related-items.png)\) in the right pane, then select **Active Alerts**.
+    To view active alerts directly associated with the selected CI, select the Related items icon \(![Related items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-service-map-related-items.png)\) in the right pane, then select **Active Alerts**.
 
-    ![View active alerts directly associated with the selected CI.](../image/sow-service-map-related-items.png)
+    ![View active alerts directly associated with the selected CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-service-map-related-items.png)
 
 5.  Navigate between alerts by selecting an alert card.
 
@@ -74,14 +74,14 @@ You can also investigate a wider view of the service topology on the service map
 
     Selecting any alert tile displays the unified map for that alert. To return to the full map for the service, select **Clear**.
 
-    ![Clear option to return to the full service map.](../image/sow-clear-option.png)
+    ![Clear option to return to the full service map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-clear-option.png)
 
-6.  To view alert details, select the Open Record Form icon \(![Open record form icon to view details of the alert.](../image/icon-sow-open-record-form.png)\) on the alert card.
+6.  To view alert details, select the Open Record Form icon \(![Open record form icon to view details of the alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-sow-open-record-form.png)\) on the alert card.
 
     The alert details page opens.
 
-    ![Alert details page.](../image/sow-servicemap-alert-details-page.png)
+    ![Alert details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-servicemap-alert-details-page.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

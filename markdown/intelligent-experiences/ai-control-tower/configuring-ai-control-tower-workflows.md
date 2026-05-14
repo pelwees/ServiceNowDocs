@@ -17,9 +17,9 @@ Configure the AI Control Tower workflow.
 
 ## Configuration overview
 
-1.  [Activation and installation of AI Control Tower](activation-and-installation-of-ai-control-tower.md)
-2.  [Configure AI Control Tower](configuring-ai-governance.md)
-3.  [Configure multi-instance management for AI Control Tower](../task/configure-multi-instance-management-for-aict.md)
+1.  [Activation and installation of AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/activation-and-installation-of-ai-control-tower.md)
+2.  [Configure AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configuring-ai-governance.md)
+3.  [Configure multi-instance management for AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/configure-multi-instance-management-for-aict.md)
 
 **Note:**
 

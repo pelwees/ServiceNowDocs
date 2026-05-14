@@ -18,21 +18,21 @@ AI Agent Advisor analyzes your instance data to identify where AI can improve ou
 
 Perform the following activities to use AI Agent Advisor in Now Assist Center.
 
--   **[View your automation opportunities](../task/now-assist-center-view-automation-opportunities.md)**  
+-   **[View your automation opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/now-assist-center-view-automation-opportunities.md)**  
 Review the automation opportunities that AI Agent Advisor has identified for your instance.
--   **[Implement an automation opportunity from Now Assist Center](../task/activate-automation-opportunity-now-assist-center.md)**  
+-   **[Implement an automation opportunity from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-automation-opportunity-now-assist-center.md)**  
 Deploy a matched AI agent or a new agent to automate a resolution for an identified automation opportunity.
 
-**Parent Topic:**[Using Now Assist Center](using-now-assist-center.md)
+**Parent Topic:**[Using Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-center.md)
 
 **Related topics**  
 
 
-[Using the conversational experience in Now Assist Center](using-now-assist-panel-now-assist-center.md)
+[Using the conversational experience in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-panel-now-assist-center.md)
 
-[Activating actionable use cases from Now Assist Center](now-assist-center-actionable-use-cases.md)
+[Activating actionable use cases from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-actionable-use-cases.md)
 
-[Using the asset inventory in Now Assist Center](now-assist-center-using-asset-inventory.md)
+[Using the asset inventory in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-asset-inventory.md)
 
-[Using other Now Assist applications and features from Now Assist Center](now-assist-center-using-other-applications.md)
+[Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md)
 

@@ -32,11 +32,11 @@ Role required: admin
 
 ## What to do next
 
-After successfully installing the Edge Encryption proxy server, [Set the proxy server initial memory limit and upper bound memory limit](increase-memory.md).
+After successfully installing the Edge Encryption proxy server, [Set the proxy server initial memory limit and upper bound memory limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/increase-memory.md).
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
 
-**Previous topic:**[Configure the Edge Encryption proxy database](configure-proxy-db.md)
+**Previous topic:**[Configure the Edge Encryption proxy database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-proxy-db.md)
 
-**Next topic:**[Verify and troubleshoot the Edge Encryption proxy server installation](verify-install.md)
+**Next topic:**[Verify and troubleshoot the Edge Encryption proxy server installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/verify-install.md)
 

@@ -52,6 +52,6 @@ Manually assigned to users by the admin who has access to the Supplier Collabora
 To learn more about configuring and using Core Business Suite, see:
 
 -   
--   [Using Core Business Suite](cbs-using-parent.md)
--   [Core Business Suite reference](../reference/cbs-reference-parent.md)
+-   [Using Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
+-   [Core Business Suite reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../reference/cbs-reference-parent.md)
 

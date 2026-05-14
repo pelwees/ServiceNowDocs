@@ -21,7 +21,7 @@ Role required: data\_privacy\_admin and admin
 
 ## Procedure
 
-1.  Assign anonymization techniques for data tables or columns, user specific data, or real time data.![The bulk assign techniques form.](../image/bulk-assign-technique.png)
+1.  Assign anonymization techniques for data tables or columns, user specific data, or real time data.![The bulk assign techniques form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/bulk-assign-technique.png)
 
 <table id="choicetable_ywk_ywc_dwb"><thead><tr><th align="left" id="d264925e41">
 
@@ -37,7 +37,7 @@ Description
 
 </td><td>
 
-Applies anonymization to all data records in the chosen data class. Select the data type and the anonymization technique to apply to all entries with the selected data type. Repeat this step for additional bulk assignments of different data types.See [Supported field types for anonymization](../../security/reference/data-privacy-supported-data-types.md) for a list of data types.
+Applies anonymization to all data records in the chosen data class. Select the data type and the anonymization technique to apply to all entries with the selected data type. Repeat this step for additional bulk assignments of different data types.See [Supported field types for anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/reference/data-privacy-supported-data-types.md) for a list of data types.
 
 </td></tr><tr><td id="d264925e72">
 
@@ -48,7 +48,7 @@ Applies anonymization to all data records in the chosen data class. Select the d
 Your data privacy processor users can choose which records to anonymize when creating data privacy jobs. Individually apply anonymization to each data record in the chosen data class.
 
 </td></tr></tbody>
-</table>    ![Individually assign a technique.](../image/assign-technique.png)
+</table>    ![Individually assign a technique.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/assign-technique.png)
 
 2.  Enter child tables to be scanned.
 
@@ -75,5 +75,5 @@ Your data privacy processor users can choose which records to anonymize when cre
 
 ## What to do next
 
-[Create anonymization job](dps-create-anonymization-job.md).
+[Create anonymization job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-job.md).
 

@@ -21,6 +21,6 @@ Admins can also integrate documents with 3rd party e-signature providers like Do
 
 ## Features
 
--   [Financial Services Operations Integration with Document Intelligence](integration-with-document-intelligence.md)
--   [Configuring Financial Services Document Processor](configuring-fso-document-processor.md)
+-   [Financial Services Operations Integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md)
+-   [Configuring Financial Services Document Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md)
 

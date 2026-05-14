@@ -29,7 +29,7 @@ In the problem overview dashboard, refer to the closed problems by setting Activ
 
 1.  If you are prompted with the message `To edit this record click here`, then click **here**.
 
-2.  Click the configuration icon \(![Configuration icon](../image/configuration-icon.png)\).
+2.  Click the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/configuration-icon.png)\).
 
 3.  Hover your mouse on **Problems Closed per Week** chart to view and select the Edit Content menu.
 

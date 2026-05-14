@@ -23,11 +23,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Object list component instance](../task/we-config-object-list-comp.md)
+[Configure the Object list component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/we-config-object-list-comp.md)
 
-[Embed the Object list component on the third-party website](../task/we-embed-object-list-comp-on-thirdparty-web.md)
+[Embed the Object list component on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/we-embed-object-list-comp-on-thirdparty-web.md)
 
-[Component properties for the Object list](we-object-list-comp-prop.md)
+[Component properties for the Object list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-object-list-comp-prop.md)
 
-[Sample code for the Object list component](we-object-list-sample-code.md)
+[Sample code for the Object list component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-object-list-sample-code.md)
 

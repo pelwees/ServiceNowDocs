@@ -16,7 +16,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 Use the HTML bot response control to display static HTML text in the Virtual Agent bot response.
 
-**Note:** If you created conversations in earlier releases that use this bot response control to generate card layouts, consider updating your conversations to use the [Card bot response control](va-card-output.md). The Card displays information from a record in your instance and contains a link to that related record.
+**Note:** If you created conversations in earlier releases that use this bot response control to generate card layouts, consider updating your conversations to use the [Card bot response control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-card-output.md). The Card displays information from a record in your instance and contains a link to that related record.
 
 ## Security considerations for HTML markup
 
@@ -48,7 +48,7 @@ HTML message
 
 </td><td>
 
-HTML output to be displayed. Select the Script icon ![Script icon.](../images/icon-script.png) to open the HTML editor and enter the HTML text.
+HTML output to be displayed. Select the Script icon ![Script icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-script.png) to open the HTML editor and enter the HTML text.
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Not supported|Not applicable|
 |WhatsApp|Not supported|Not applicable|
 |Apple Messages for Business|Not supported|Not applicable|
-|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the user receives a message: `We found a link`. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-settings-for-alexa.md).|
 
 ## Example HTML bot response output
 
@@ -118,12 +118,12 @@ HTML bot response output
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties include the node name, HTML message, height, and width.](../images/va-html-properties.png "HTML bot response control basic properties")
+![Basic properties include the node name, HTML message, height, and width.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-html-properties.png "HTML bot response control basic properties")
 
 </td><td>
 
-![A chat window shows the company logo with a header, subheader, and body text.](../../notification/image/va-html-native.png "Web UI HTML output")
+![A chat window shows the company logo with a header, subheader, and body text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../notification/image/va-html-native.png "Web UI HTML output")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+</table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

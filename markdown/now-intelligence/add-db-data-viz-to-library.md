@@ -19,7 +19,7 @@ Role required: itil, report\_user, viz\_creator, or higher, and the right to edi
 
 ## About this task
 
-You may want to add a data visualization that exists only as a local copy on an in-line dashboard to the data visualization library. You may want to do this to make the data visualization available to add to other dashboards. You may also want to be able to edit the data visualization in the Visualization Designer, as described in [Open a visualization in the Visualization Designer from a dashboard](open-dv-on-db-in-vd.md).
+You may want to add a data visualization that exists only as a local copy on an in-line dashboard to the data visualization library. You may want to do this to make the data visualization available to add to other dashboards. You may also want to be able to edit the data visualization in the Visualization Designer, as described in [Open a visualization in the Visualization Designer from a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/open-dv-on-db-in-vd.md).
 
 ## Procedure
 
@@ -27,11 +27,11 @@ You may want to add a data visualization that exists only as a local copy on an 
 
 2.  Locate or create the relevant data visualization.
 
-    See [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md).
+    See [Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md).
 
 3.  Expand the data visualization 3-dot menu.
 
-    ![3-dot menu for data visualization with Add to library highlighted.](../../par-for-workspace/image/dv-context-menu-add-to-lib.png)
+    ![3-dot menu for data visualization with Add to library highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-context-menu-add-to-lib.png)
 
 4.  Select **Add to library**.
 
@@ -42,7 +42,7 @@ You may want to add a data visualization that exists only as a local copy on an 
 
 ## What to do next
 
-The data visualization now exists in the data visualization library. You can edit it as described in [Open a visualization in the Visualization Designer from a dashboard](open-dv-on-db-in-vd.md).
+The data visualization now exists in the data visualization library. You can edit it as described in [Open a visualization in the Visualization Designer from a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/open-dv-on-db-in-vd.md).
 
-**Parent Topic:**[Edit a data visualization in an inline dashboard](editing-dv-in-line-db.md)
+**Parent Topic:**[Edit a data visualization in an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/editing-dv-in-line-db.md)
 

@@ -29,7 +29,7 @@ The available workspace displays in the Unified Navigation when you have access 
 
 3.  In related lists, select the **UX Application Category M2Ms** tab.
 
-    ![UX Application Category M2Ms tab.](../image/ux-application-category-tab.png)
+    ![UX Application Category M2Ms tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ux-application-category-tab.png)
 
 4.  Select **New** in the UX Application Category M2Ms list.
 
@@ -77,7 +77,7 @@ Order
 
 </td><td>
 
-Order in which the Workspace you select is displayed in the Workspaces menu.**Note:** This option is enabled once the **glide.ui.next\_experience.workspace\_sorting** system property has been created. For more information, see [Set the order of your workspaces in the Unified Navigation Workspaces menu](set-order-workspace-unified-navigation.md).
+Order in which the Workspace you select is displayed in the Workspaces menu.**Note:** This option is enabled once the **glide.ui.next\_experience.workspace\_sorting** system property has been created. For more information, see [Set the order of your workspaces in the Unified Navigation Workspaces menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-order-workspace-unified-navigation.md).
 
 </td></tr></tbody>
 </table>7.  Select **Submit**.
@@ -85,5 +85,5 @@ Order in which the Workspace you select is displayed in the Workspaces menu.**No
 8.  Refresh your browser to access the new workspace from the Workspaces menu.
 
 
-**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-ui-admin.md)
 

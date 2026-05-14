@@ -42,5 +42,5 @@ Install Legal Matter Management by requesting it from the ServiceNow Store. Visi
     Summarize a legal request or legal matter to understand the context, refresh a summary, and post the summary to the work notes.
 
 
-**Parent Topic:**[Legal Service Delivery release notes](lsd-rn-landing-page.md)
+**Parent Topic:**[Legal Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/lsd-rn-landing-page.md)
 

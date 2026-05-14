@@ -60,7 +60,7 @@ Create the pipeline credentials with a functional user account that you created 
 
 8.  In the **What kind of Credentials would you like to create?** list, select **Basic Auth Credentials**.
 
-    **Note:** If you want to use OAuth credentials in your pipelines instead, see [Configure OAuth credentials for use in Pipelines and Deployments](configure-oauth-credentials-pipelines-deployments.md).
+    **Note:** If you want to use OAuth credentials in your pipelines instead, see [Configure OAuth credentials for use in Pipelines and Deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/configure-oauth-credentials-pipelines-deployments.md).
 
 9.  On the form, fill in the fields.
 

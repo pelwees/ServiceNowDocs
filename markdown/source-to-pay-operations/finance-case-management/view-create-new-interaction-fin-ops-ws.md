@@ -36,19 +36,19 @@ Role required: sn\_fin\_ops.specialist
 
 5.  On the form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Interaction form](../reference/details-tab-fin-ops-interaction.md)
+    For more information on the form fields and descriptions, see [Interaction form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../reference/details-tab-fin-ops-interaction.md)
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Interaction management in Finance Operations Workspace](../concept/interaction-mgmt-fin-ops.md)
+**Parent Topic:**[Interaction management in Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/interaction-mgmt-fin-ops.md)
 
 **Related topics**  
 
 
-[Finance Operations Workspace inbox](../concept/fin-ops-ws-inbox.md)
+[Finance Operations Workspace inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/fin-ops-ws-inbox.md)
 
-[Create a finance case from an interaction](create-fin-case-from-interaction-record.md)
+[Create a finance case from an interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/create-fin-case-from-interaction-record.md)
 
-[Associate an interaction with a finance case](associate-interaction-with-finance-case.md)
+[Associate an interaction with a finance case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/associate-interaction-with-finance-case.md)
 

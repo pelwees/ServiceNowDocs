@@ -33,7 +33,7 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
 
     3.  View the risk level assigned by the risk assessment from the secondary header.
 
-        ![View the risk level for the submitted request](../image/lsd-coi-risk-level.png)
+        ![View the risk level for the submitted request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../image/lsd-coi-risk-level.png)
 
 2.  View risk responses.
 
@@ -41,13 +41,13 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
 
         The Risk responses tab displays a list of all risk factor evaluations performed for this request. The count in the tab label indicates the number of risk factors evaluated.
 
-        ![View risk responses](../image/lsd-coi-risk-response-lcc.png "Risk responses")
+        ![View risk responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../image/lsd-coi-risk-response-lcc.png "Risk responses")
 
     2.  Select the risk response to see details.
 
 3.  Select the **Risk assessment report** tab to detailed report.
 
-    ![View risk assessment report](../image/lsd-coi-view-report.png)
+    ![View risk assessment report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../image/lsd-coi-view-report.png)
 
 4.  View overall risk assessment score.
 
@@ -56,5 +56,5 @@ When an employee submits a COI disclosure, the risk assessment evaluates the req
     2.  Select the record associated with the legal request number for which you want to view the overall risk assessment.
 
 
-**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+**Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../concept/lsd-coi-use-landing.md)
 

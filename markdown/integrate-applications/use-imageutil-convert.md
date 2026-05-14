@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Convert component. For more information about these properties, see [Properties of the Image Utilities components](../reference/util-imageutil-prop.md).
+You can configure the properties for the Convert component. For more information about these properties, see [Properties of the Image Utilities components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-imageutil-prop.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ You can configure the properties for the Convert component. For more information
 
 2.  Drag the Convert component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the Convert component to the corresponding ports of the other components as described in the following table.
 
@@ -73,7 +73,7 @@ Takes the new image format from a previously executed component.Double click thi
 
 For example, select Png.
 
-![Image format options such as png, jpg.](../image/imageformat-options-convert-rpa.png "Image format options")
+![Image format options such as png, jpg.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/imageformat-options-convert-rpa.png "Image format options")
 
 </td><td>
 
@@ -91,7 +91,7 @@ Return
 
 Returns the image that is converted to the specified format.You can additionally add the Save component from Image Utilities to save the converted image to a different filepath.
 
-![Read file path from ReadFromFile component, convert that image format using Convert component, and save it using Save component.](../image/convert-image-utlities-rpa.png "Convert component using other components")
+![Read file path from ReadFromFile component, convert that image format using Convert component, and save it using Save component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/convert-image-utlities-rpa.png "Convert component using other components")
 
 </td><td>
 
@@ -105,5 +105,5 @@ Bitmap
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Image Utilities](../concept/image-utilities.md)
+**Parent Topic:**[Image Utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/image-utilities.md)
 

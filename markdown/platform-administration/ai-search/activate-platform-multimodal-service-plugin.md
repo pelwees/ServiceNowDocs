@@ -42,7 +42,7 @@ To use the automatic caption generation feature, you must activate the Platform 
 
 ## What to do next
 
-With the plugin activated, AI Search administrators can activate automatic image captioning for individual AI Search indexed sources. For details on this procedure, see [Activate automatic image captioning for attachments from an indexed source](activate-automatic-image-captioning.md).
+With the plugin activated, AI Search administrators can activate automatic image captioning for individual AI Search indexed sources. For details on this procedure, see [Activate automatic image captioning for attachments from an indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-automatic-image-captioning.md).
 
-**Parent Topic:**[Configuring AI Search](../concept/configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/configuring-ais.md)
 

@@ -13,5 +13,5 @@ breadcrumb: [Move planning tool, Enterprise move, Facilities move management, Fa
 
 Enterprise move requests are managed by a workflow, which contains required approvals from facilities\_admin or move\_admin. State changes are handled by UI actions.
 
-**Parent Topic:**[Move planning tool](../concept/c_MovePlanningTool.md)
+**Parent Topic:**[Move planning tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_MovePlanningTool.md)
 

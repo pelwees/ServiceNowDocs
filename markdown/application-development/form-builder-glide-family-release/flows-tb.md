@@ -21,9 +21,9 @@ The **Flows** tab within Table Builder is where you can view and work with recor
 
 The following diagram shows flow cards in Table Builder.
 
-![Flows tab.](../image/flows-tb.png "Flows tab")
+![Flows tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/flows-tb.png "Flows tab")
 
-**Parent Topic:**[Using Table Builder](using-fb.md)
+**Parent Topic:**[Using Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/using-fb.md)
 
 ## Find a record-based flow
 
@@ -31,21 +31,21 @@ Use the **Flows** tab in Table Builder to search and filter a list of flows that
 
 ### Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
-1.  Launch Table Builder as described in [Accessing Table Builder](accessing-form-builder.md).
+1.  Launch Table Builder as described in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
 
 2.  Select the **Flows** tab.
 
     The flows triggered by the selected table are listed as flow cards.
 
-3.  ![Flows list.](../image/flows-list-tb.png "Flow cards list")
+3.  ![Flows list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/flows-list-tb.png "Flow cards list")
 
 4.  Filter or search the list of flow cards as needed to find the desired flow.
 
@@ -85,7 +85,7 @@ Filter flows by setting up filter criteria
 
 </td><td>
 
-1.  Select the filter icon \(![Filter flows.](../image/filter-flows.png)\).
+1.  Select the filter icon \(![Filter flows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/filter-flows.png)\).
 2.  Add your filter condition criteria including any AND/OR logic.
 3.  To add additional conditions, select **+ New condition set**.
 4.  Select **Apply**.
@@ -95,9 +95,9 @@ Filter flows by setting up filter criteria
 </table>
 ### What to do next
 
--   Select the flow card to edit your new flow using Workflow Studio. See [Modify a record-based flow](flows-tb.md#).
--   Create a new record-based flow from an existing one. See [Copy a record-based flow](flows-tb.md#).
--   Delete the flow. See [Delete a record-based flow](flows-tb.md#).
+-   Select the flow card to edit your new flow using Workflow Studio. See [Modify a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
+-   Create a new record-based flow from an existing one. See [Copy a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
+-   Delete the flow. See [Delete a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
 
 ## Add a record-based flow
 
@@ -105,15 +105,15 @@ Add flows that are triggered when a table record is updated, created, or both up
 
 ### Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
-1.  Launch Table Builder as described in [Accessing Table Builder](accessing-form-builder.md).
+1.  Launch Table Builder as described in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
 
 2.  Select the **Flows** tab.
 
@@ -256,9 +256,9 @@ Test your flow until you're ready to activate it. For more information on testin
 
 **Note:** Your application can trigger only activated flows. For detailed information on how to design, test, and activate flows for your application, see [Flows in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-flows.md).
 
-To return to the comprehensive list of flows related to the selected table after editing a flow, select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows** as shown in the following example.
+To return to the comprehensive list of flows related to the selected table after editing a flow, select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows** as shown in the following example.
 
-![All flows.](../image/return-to-flow-list.png "All flows")
+![All flows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/return-to-flow-list.png "All flows")
 
 ## Modify a record-based flow
 
@@ -266,11 +266,11 @@ Edit flows that are triggered when table records that you select are updated, cr
 
 ### Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -278,7 +278,7 @@ The **Flows** tab in Table Builder provides a list of flows that are triggered b
 
 ### Procedure
 
-1.  Launch Table Builder as described in [Accessing Table Builder](accessing-form-builder.md).
+1.  Launch Table Builder as described in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
 
 2.  Select the **Flows** tab.
 
@@ -286,7 +286,7 @@ The **Flows** tab in Table Builder provides a list of flows that are triggered b
 
 3.  Filter or search the list of flow cards as needed to find the desired flow.
 
-    See [Find a record-based flow](flows-tb.md#).
+    See [Find a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
 
 4.  Select a flow card to open the flow for editing.
 
@@ -294,7 +294,7 @@ The **Flows** tab in Table Builder provides a list of flows that are triggered b
 
     For detailed information on how to work with flows for your application, see [Create a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md).
 
-    **Note:** To return to the list of flow cards that are related to the table, select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows**.
+    **Note:** To return to the list of flow cards that are related to the table, select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows**.
 
 6.  Select **Save**.
 
@@ -305,9 +305,9 @@ Test your flow until you're ready to activate it. For more information on testin
 
 **Note:** Your application can trigger only activated flows. For detailed information on how to design, test, and activate flows for your application, see [Flows in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-flows.md).
 
-To return to the list of flows related to the table that you selected after you edited a flow, select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows** as shown in the following example.
+To return to the list of flows related to the table that you selected after you edited a flow, select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows** as shown in the following example.
 
-![All flows.](../image/return-to-flow-list.png "All flows")
+![All flows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/return-to-flow-list.png "All flows")
 
 ## Delete a record-based flow
 
@@ -315,15 +315,15 @@ Delete a record-based flow by using the **Flows** tab in Table Builder.
 
 ### Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
-1.  Launch Table Builder as described in [Accessing Table Builder](accessing-form-builder.md).
+1.  Launch Table Builder as described in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
 
 2.  Select the **Flows** tab.
 
@@ -331,9 +331,9 @@ Role required: personalize\_forms, personalize\_dictionary, and flow\_designer p
 
 3.  Filter or search the list of flow cards as needed to find the desired flow.
 
-    See [Find a record-based flow](flows-tb.md#).
+    See [Find a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
 
-4.  Select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu in the top-right corner of the flow that you want to delete, and then select **Delete** from the list of options.
+4.  Select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu in the top-right corner of the flow that you want to delete, and then select **Delete** from the list of options.
 
 5.  In the delete confirmation window, enter `DELETE`, and then select **Delete**.
 
@@ -346,15 +346,15 @@ Create a new record-based flow from an existing flow by using the **Flows** tab 
 
 ### Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
-1.  Launch Table Builder as described in [Accessing Table Builder](accessing-form-builder.md).
+1.  Launch Table Builder as described in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md).
 
 2.  Select the **Flows** tab.
 
@@ -362,9 +362,9 @@ Role required: personalize\_forms, personalize\_dictionary, and flow\_designer p
 
 3.  Filter or search the list of flow cards as needed to find the desired flow.
 
-    See [Find a record-based flow](flows-tb.md#).
+    See [Find a record-based flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/flows-tb.md#).
 
-4.  Select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu in the top-right corner of the flow that you want to delete, and then select **Copy** from the list of options.
+4.  Select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu in the top-right corner of the flow that you want to delete, and then select **Copy** from the list of options.
 
 5.  In the Create a copy of the flow window that appears, enter a name for the new flow that you want to create from the existing flow, and then select **Copy**.
 
@@ -374,6 +374,6 @@ Role required: personalize\_forms, personalize\_dictionary, and flow\_designer p
 
 7.  Select **Save**.
 
-    **Note:** To return to the list of flows after editing a flow, select the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows**.
+    **Note:** To return to the list of flows after editing a flow, select the Additional actions \( ![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/ellipsisIcon.png)\) menu to the right of the **Flows** tab, and then select **All flows**.
 
 

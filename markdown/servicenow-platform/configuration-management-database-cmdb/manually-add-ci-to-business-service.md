@@ -18,7 +18,7 @@ Add configuration items to manually created application services or to services 
 ## Before you begin
 
 -   Verify that the CI type for the configuration item \(CI\) that you are planning to add, exists. If necessary, create the CI type as described in [Create CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md).
--   Add CIs to the CMDB for the device or application that you want to add, if necessary. See [Populate the CMDB](../../configuration-management/concept/c_OptionsToPopulateCMDB.md) for more information.
+-   Add CIs to the CMDB for the device or application that you want to add, if necessary. See [Populate the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/concept/c_OptionsToPopulateCMDB.md) for more information.
 
 Role required: app\_service\_admin or service\_mapping\_admin
 
@@ -28,11 +28,11 @@ Adding a CI to an application service requires creating a relationship between t
 
 -   Adding a method to populate the application service.
 
-    Navigate to **CSDM** &gt; **Manage Technology Management Services** &gt; **Application Service**. Select an application service and then use the **Populate the Application Service** tab to choose a method to populate the application service. For more details, see [Create an application service](create-it-services.md).
+    Navigate to **CSDM** &gt; **Manage Technology Management Services** &gt; **Application Service**. Select an application service and then use the **Populate the Application Service** tab to choose a method to populate the application service. For more details, see [Create an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
 -   Using the application service service map as described in the steps below.
 
-    The default relationship type of the added connection in this case is **Depends on::Used by**. You can modify this default relationship type by changing the value of the **sa.it\_service.manual\_ci\_rel\_type** property. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md) for more information.
+    The default relationship type of the added connection in this case is **Depends on::Used by**. You can modify this default relationship type by changing the value of the **sa.it\_service.manual\_ci\_rel\_type** property. See [Components installed with application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/reference/components-installed-app-services.md) for more information.
 
 
 **Important:** You cannot fine-tune or edit tag-based and dynamic services from the map.
@@ -48,7 +48,7 @@ You can manually connect a CI only to actual CIs existing in the CMDB, not to a 
 -   Qualifier \[cmdb\_ci\_qualifier\]
 -   Application cluster \[cmdb\_ci\_application\_cluster\]
 
-There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
+There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/reference/components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 
@@ -125,7 +125,7 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 
     4.  Click **Submit**.
 
-        Discovery and Service Mapping attempt to discover this CI. If successful, the CI appears on the map. Otherwise, a warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) appears.
+        Discovery and Service Mapping attempt to discover this CI. If successful, the CI appears on the map. Otherwise, a warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapWarningIcon.png)\) appears.
 
 7.  If Service Mapping is activated and you want Service Mapping to automatically discover a CI, which you previously added manually:
 
@@ -139,7 +139,7 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 
         If Service Mapping discovered the CI, then two connectors, a manual and automatically discovered, appear for the CI.
 
-        ![Manually added CI, which Service Mapping later discovered automatically.](../image/MapManualCIRediscoveredCI.png)
+        ![Manually added CI, which Service Mapping later discovered automatically.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapManualCIRediscoveredCI.png)
 
     5.  Right-click the CI you added manually.
 
@@ -153,7 +153,7 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 **Related topics**  
 
 
-[Link application services](link-services-to-services.md)
+[Link application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/link-services-to-services.md)
 
 [addCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/BusinessServiceManagerAPI.md)
 

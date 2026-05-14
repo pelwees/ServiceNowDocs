@@ -32,9 +32,9 @@ Role required: admin \(sn\_wsd\_wc.admin\)
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Workplace Connectors](../concept/configure-workplace-connectors.md)
+**Parent Topic:**[Configure Workplace Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/configure-workplace-connectors.md)
 
-**Previous topic:**[Install Workplace Connectors](../concept/install-workplace-connectors.md)
+**Previous topic:**[Install Workplace Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/install-workplace-connectors.md)
 
-**Next topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Next topic:**[Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-workplace-connectors.md)
 

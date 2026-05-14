@@ -31,10 +31,10 @@ Following is a listing of some ServiceNow products that use Predictive Intellige
 -   [Work order insights powered by Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/machine-learning-fsm.md)
 -   [Machine Learning solutions for Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/predictive-intelligence-spoke.md)
 
-**Parent Topic:**[Explore Predictive Intelligence](predictive-intelligence.md)
+**Parent Topic:**[Explore Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
 **Related topics**  
 
 
-[Predictive Intelligence frameworks](predictive-intelligence-frameworks.md)
+[Predictive Intelligence frameworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-frameworks.md)
 

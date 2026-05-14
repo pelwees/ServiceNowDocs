@@ -27,11 +27,11 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 3.  Edit the default columns in the pane.
 
-    1.  Select the gear icon \(![Gear icon](../../cloud-management-v2/image/icon-gear-system-settings.png)\).
+    1.  Select the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../cloud-management-v2/image/icon-gear-system-settings.png)\).
 
     2.  In the **Available columns** list, select the desired columns.
 
-    3.  In the **Selected columns** list, drag selected columns up or down to reorder the fields. ![Edit list columns dialog box](../image/edit-list-columns.png)
+    3.  In the **Selected columns** list, drag selected columns up or down to reorder the fields. ![Edit list columns dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/edit-list-columns.png)
 
     4.  Select **Restore to column default** to return the columns to the default state.
 
@@ -48,6 +48,6 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## What to do next
 
--   [Filter the Express List display by adding or removing fields](filter-express-list-fields.md)
--   [Save a custom filter in Express List](filter-saving-deleting-default.md)
+-   [Filter the Express List display by adding or removing fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-express-list-fields.md)
+-   [Save a custom filter in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-saving-deleting-default.md)
 

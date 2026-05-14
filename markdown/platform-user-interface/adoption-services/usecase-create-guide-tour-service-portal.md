@@ -210,14 +210,14 @@ No trigger is required.
 
 The guided tour is created and listed in the **Tours** menu.
 
-Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](../concept/accessing-guided-tours.md#).
+Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/accessing-guided-tours.md#).
 
-**Parent Topic:**[Guided Tour Designer use case](../concept/guided-tour-designer-use-case.md)
+**Parent Topic:**[Guided Tour Designer use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/guided-tour-designer-use-case.md)
 
 **Related topics**  
 
 
-[Create Guided Tours](add-guided-tour.md)
+[Create Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-guided-tour.md)
 
-[Edit Guided Tours](edit-guided-tour.md)
+[Edit Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md)
 

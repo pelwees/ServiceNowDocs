@@ -21,25 +21,25 @@ You can use the links to explore, configure, and learn more about deploying Oper
 
 Deploy![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
- [Before deploying Operational Technology \(OT\) Discovery](before-ot-deployment.md)
+ [Before deploying Operational Technology \(OT\) Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/before-ot-deployment.md)
 
 </td><td>
 
 Get started![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [Get started with OT Discovery components](get-started-ot-deployment.md)
+ [Get started with OT Discovery components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/get-started-ot-deployment.md)
 
 </td></tr><tr><td>
 
 Communicate![](../../operational-technology-management/image/Workflow_Icon_Standard.png)
 
- [Enabling OT Discovery component communications](communications.md)
+ [Enabling OT Discovery component communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/communications.md)
 
 </td><td>
 
 Architecture![](../images/IND_64px_Factory-Worker_YG.png)
 
- [Discovery for Operational Technology \(OT\) deployment scenarios](deployment-scenarios.md)
+ [Discovery for Operational Technology \(OT\) deployment scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md)
 
 </td></tr></tbody>
 </table>

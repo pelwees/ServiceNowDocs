@@ -25,7 +25,7 @@ In this example scenario, you're using Intent Discovery to identify the top inte
 
 ## Installation
 
-Intent Discovery is available from the ServiceNow Store. For more information, see [Install Intent Discovery](../task/install-intent-discovery.md).
+Intent Discovery is available from the ServiceNow Store. For more information, see [Install Intent Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/install-intent-discovery.md).
 
 After Intent Discovery is installed and activated, it appears under **All** &gt; **NLU Workbench** &gt; **NLU Advanced Features**.
 
@@ -45,7 +45,7 @@ After Intent Discovery is installed and activated, it appears under **All** &gt;
 
 2. Select either **Run analysis** or **Find recommendations**.
 
-![On the Intent Discovery landing page, buttons for Run analysis and Find recommendations are highlighted.](../images/intent-discovery1w.png "Intent Discovery landing page")
+![On the Intent Discovery landing page, buttons for Run analysis and Find recommendations are highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery1w.png "Intent Discovery landing page")
 
 ## Running an analysis on the report
 
@@ -60,11 +60,11 @@ After Intent Discovery is installed and activated, it appears under **All** &gt;
 
 2. Select **Run analysis**.
 
-![The Intent Discovery > Create New screen and the fields you need to configure before you select Run Analysis](../images/intent-discovery2.png "Selecting data sources in Intent Discovery for a run analysis")
+![The Intent Discovery > Create New screen and the fields you need to configure before you select Run Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery2.png "Selecting data sources in Intent Discovery for a run analysis")
 
 **Result**: Your report appears on the Intent Discovery screen, showing its status as the analysis begins. The subsequent status values appear in the following order during the analysis: Preparing to run, Work in progress, Clustering, and Done. This can take from 5 minutes to 30 minutes to complete. The fewer the records you have in a cluster, the less time it takes. Turning clustering off can also speed up the process.
 
-![Your report appears on the Intent Discovery screen where the analysis shows its ongoing status as its job begins and ends](../images/intent-discovery3.png "An ongoing run analysis")
+![Your report appears on the Intent Discovery screen where the analysis shows its ongoing status as its job begins and ends](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery3.png "An ongoing run analysis")
 
 When the analysis is complete, the column values on the screen appear, with the **Status** column value set to **Done**, as shown in the image below.
 
@@ -72,7 +72,7 @@ When the analysis is complete, the column values on the screen appear, with the 
 
 3. Select the **Name** of your report.
 
-![The report column values have appeared, as the analysis is complete and its status value is set to Done](../images/intent-discovery4.png "A completed run analysis")
+![The report column values have appeared, as the analysis is complete and its status value is set to Done](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery4.png "A completed run analysis")
 
 **Result**: The screen refreshes, showing the analyzed incident records and the remaining incident records that were not classified.
 
@@ -82,13 +82,13 @@ Before importing intents to an NLU model, ensure that you are in the same applic
 
 1. On the Records covered by recommendations section of the screen, select the caret icon on a recommended intent you want to add to a custom model.
 
-![Instructions to click the caret button which opens to reveal the details of the recommended intent](../images/intent-discovery5.png "Reviewing a recommended intent")
+![Instructions to click the caret button which opens to reveal the details of the recommended intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery5.png "Reviewing a recommended intent")
 
 **Result**: The details of the recommended intent appear so you can review them, as shown in the image below.
 
 2. Select **Add to Model**.
 
-![The recommended intent details are shown with an instruction to add them to a model](../images/intent-discovery6.png "Adding a recommended intent to a model")
+![The recommended intent details are shown with an instruction to add them to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery6.png "Adding a recommended intent to a model")
 
 3. On the Select a destination model screen that appears, choose a model you want to add the recommended intent to. If you can't find an appropriate model, create a new one, return to the report, and add the new model.
 
@@ -96,15 +96,15 @@ Before importing intents to an NLU model, ensure that you are in the same applic
 
 4. Select **Save**.
 
-![The model you choose to associate to the recommended intent is followed by an instruction to select the Save button](../images/intent-discovery7.png "Saving a recommended intent to a model")
+![The model you choose to associate to the recommended intent is followed by an instruction to select the Save button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery7.png "Saving a recommended intent to a model")
 
 **Result**: A banner appears on the screen, confirming the intent is added to the target model.
 
-![A banner that confirms the recommended intent you chose has been successfully added to the target model](../images/intent-discovery8.png "Confirmation of adding a recommended intent to a target model")
+![A banner that confirms the recommended intent you chose has been successfully added to the target model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery8.png "Confirmation of adding a recommended intent to a target model")
 
 The recommended intent also appears on the Model screen of the target model, as shown in the image below.
 
-![The recommended intent is now visible in the Model screen of the target model](../images/intent-discovery9.png "View a recommended intent in the target model")
+![The recommended intent is now visible in the Model screen of the target model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery9.png "View a recommended intent in the target model")
 
 ## Adding clustered utterances to an intent and its model
 
@@ -116,43 +116,43 @@ There's also a **Show Additional** filter you can use to show or hide the added 
 
 2. Select **Add to intent**.
 
-![The cluster you chose to add to an intent. Select the Add to Intent button or choose the Ignore button if you want to remove the cluster from the report](../images/intent-discovery10.png "Adding a cluster to an intent")
+![The cluster you chose to add to an intent. Select the Add to Intent button or choose the Ignore button if you want to remove the cluster from the report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery10.png "Adding a cluster to an intent")
 
 3. In the Add this cluster to an intent and model screen, select an intent and model pair you want to associate to this cluster.
 
-![How to add an a cluster to an intent and its model](../images/intent-discovery11.png "Adding a cluster to an intent and model")
+![How to add an a cluster to an intent and its model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery11.png "Adding a cluster to an intent and model")
 
 4. Enter a few utterance examples into the open text field. Select **Add** each time you complete your entry to save it in the system. Use the pencil icon or the trash can icon respectively to edit or delete your entry.
 
 5. Select **Save**.
 
-![Instruction to add and save paraphrased utterances to an intent](../images/intent-discovery12.png "Adding paraphrased utterances to an intent")
+![Instruction to add and save paraphrased utterances to an intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery12.png "Adding paraphrased utterances to an intent")
 
 **Result**: The records screen appears, showing a banner confirming you added two new utterances to the target intent and its associated model. The model and intent pair appears in the **Added To** column, as shown in the image below.
 
-![A banner that confirms the utterances you added to the intent are successfully added](../images/intent-discovery13.png "Confirmation of adding paraphrased utterances to an intent")
+![A banner that confirms the utterances you added to the intent are successfully added](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery13.png "Confirmation of adding paraphrased utterances to an intent")
 
 Use the **Show Additional** filter if you want to show or hide the clusters that have added intents, and the clusters that are ignored.
 
-![How to show or hide clusters that have added intents, and those that you have marked as ignored](../images/intent-discovery13a.png "Viewing or hiding clusters and ignored clusters")
+![How to show or hide clusters that have added intents, and those that you have marked as ignored](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery13a.png "Viewing or hiding clusters and ignored clusters")
 
 ## Running another analysis on your Intent Discovery report
 
 1. Select **Run Again**.
 
-![Instruction to choose the version of the analysis you want to run](../images/intent-discovery14.png "Selecting the version of the analysis to run")
+![Instruction to choose the version of the analysis you want to run](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery14.png "Selecting the version of the analysis to run")
 
 **Result**: The new run begins. When it's in progress, the option to cancel the run appears, as shown in the image below.
 
-![An image that shows the Cancel Run option is available during the first few minutes of the In Progress phase of the run](../images/intent-discovery15.png "The Cancel Run option")
+![An image that shows the Cancel Run option is available during the first few minutes of the In Progress phase of the run](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery15.png "The Cancel Run option")
 
 When the run is complete, a new banner appears that states you have a new version of the report.
 
 2. Select the new version, then select **Run Again**.
 
-![How to select the new version of the report.](../images/intent-discovery16.png "Selecting the new version of the report")
+![How to select the new version of the report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery16.png "Selecting the new version of the report")
 
 **Result**: The time stamp you selected for the most recent run appears in the **Run date** column of the Intent Discovery screen.
 
-![The new time stamp of the Intent Discovery report](../images/intent-discovery17.png "View the new time stamp of the Intent Discovery report")
+![The new time stamp of the Intent Discovery report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/intent-discovery17.png "View the new time stamp of the Intent Discovery report")
 

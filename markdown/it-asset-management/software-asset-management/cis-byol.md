@@ -17,5 +17,5 @@ Use your on-premise CIS entitlements to license Windows Server installations on 
 
 The CIS entitlements would license the Windows Server installations in accordance with the Microsoft licensing rules on cloud: If you licensed Windows Server through CIS, you can use the Azure Hybrid Use Benefit. The System Center component in CIS, however, is not covered.
 
-**Parent Topic:**[Bring your own license or subscription to the public cloud](byol-concepts.md)
+**Parent Topic:**[Bring your own license or subscription to the public cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/byol-concepts.md)
 

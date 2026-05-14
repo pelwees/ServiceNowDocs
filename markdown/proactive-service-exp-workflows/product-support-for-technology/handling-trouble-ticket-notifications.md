@@ -23,13 +23,13 @@ Trouble ticket in the TMF ecosystem is an incident that tracks and resolves cust
 
 The following diagram shows the components in the framework for the trouble ticket notification.
 
-![Trouble ticket notification data model](../image/trouble-ticket-datamodel.png "Trouble ticket notification data model")
+![Trouble ticket notification data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/trouble-ticket-datamodel.png "Trouble ticket notification data model")
 
 The trouble ticket notification uses a generic framework to send the outbound notifications to the external system. This framework supports two use cases:
 
 1.  Publish messages to Hermes Kafka using the Hermes messaging service. The cloud customers who use the Hermes Kafka can use this architecture to receive the notification.
 
-    To learn more, see [Producing outbound API notifications using Hermes](hermes-stream-connect-kafka-workflow.md).
+    To learn more, see [Producing outbound API notifications using Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/hermes-stream-connect-kafka-workflow.md).
 
-2.  Publish messages to open message bus. This use case is message-bus agnostic and therefore supports publishing the notification to any open message bus. Both cloud and on-premise customers can use this use case. To learn more, see [Producing outbound trouble ticket notifications using the open message bus](trouble-ticket-workflow-using-pub-sub-model.md).
+2.  Publish messages to open message bus. This use case is message-bus agnostic and therefore supports publishing the notification to any open message bus. Both cloud and on-premise customers can use this use case. To learn more, see [Producing outbound trouble ticket notifications using the open message bus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/trouble-ticket-workflow-using-pub-sub-model.md).
 

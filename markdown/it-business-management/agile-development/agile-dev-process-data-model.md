@@ -17,7 +17,7 @@ Learn about the relationship between tables that Agile Development 2.0 uses to m
 
 The following diagram displays the Agile Development tables as well as their relationships to other tables.
 
-![Agile development process relation diagram](../image/AgileProcessDataModel.png "Agile development process relationship diagram")
+![Agile development process relation diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/AgileProcessDataModel.png "Agile development process relationship diagram")
 
-**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 

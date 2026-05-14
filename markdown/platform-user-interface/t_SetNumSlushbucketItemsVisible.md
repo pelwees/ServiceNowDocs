@@ -30,7 +30,7 @@ Role required: admin
 4.  Save the property.
 
 
-**Parent Topic:**[Configure items on forms or in lists using a list collector](t_UseSlushbuckets.md)
+**Parent Topic:**[Configure items on forms or in lists using a list collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseSlushbuckets.md)
 
 **Related topics**  
 

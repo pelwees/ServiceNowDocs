@@ -15,7 +15,7 @@ breadcrumb: [Flow administration, Configure flows, Flows, subflows, and actions,
 
 Specify the runtime settings for an individual flow, subflow, or action such as the run priority, reporting level, and logging level.
 
-![List of two flow execution setting records.](../images/example-flow-execution-setting-records-list.png "Sample execution setting record list")
+![List of two flow execution setting records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-flow-execution-setting-records-list.png "Sample execution setting record list")
 
 You can create an execution settings record for each flow, subflow, or action for which you want to collect execution details. An execution setting record \[sys\_flow\_execution\_setting\] overrides the reporting system properties for a particular item. For example, you can keep the system wide reporting level off, and create execution setting records just for the items that you want to collect execution details.
 
@@ -27,7 +27,7 @@ Execution setting records are available from the Flow administration module.
 
 ## Execution setting record fields
 
-![Execution setting record for the flow called Add a pause. The flow reports all iterations, generates reporting details at full, and replicates logs at the info level.](../images/example-flow-execution-setting-record.png "Sample execution setting record")
+![Execution setting record for the flow called Add a pause. The flow reports all iterations, generates reporting details at full, and replicates logs at the info level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-flow-execution-setting-record.png "Sample execution setting record")
 
 An execution setting record \[sys\_flow\_execution\_setting\] contains these fields.
 
@@ -77,7 +77,7 @@ Flow Priority
 
 </td><td>
 
-Priority value used to run a background flow. For more information about setting flow priority, see [Flow priority](flow-priority.md).**Note:** This field is hidden by default. For more information about showing the flow priority field, see [Show flow priority field](../task/show-flow-priority-field.md).
+Priority value used to run a background flow. For more information about setting flow priority, see [Flow priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-priority.md).**Note:** This field is hidden by default. For more information about showing the flow priority field, see [Show flow priority field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/show-flow-priority-field.md).
 
 .
 
@@ -107,5 +107,5 @@ Use these general guidelines when creating execution setting records to capture 
     Use the flow reporting and report all iterations options only when you need to troubleshoot a flow. These settings generate information that consume instance resources. To reduce their performance impact, either turn off these settings or delete the settings record altogether when you are done troubleshooting the flow.
 
 
-**Parent Topic:**[Flow administration](flow-administration.md)
+**Parent Topic:**[Flow administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-administration.md)
 

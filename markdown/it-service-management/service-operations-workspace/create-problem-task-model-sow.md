@@ -17,9 +17,9 @@ Create custom Problem Management models with states and transitions tailored to 
 
 ## Before you begin
 
-See considerations for enabling Problem Management models at [Problem Management models in Service Operations Workspace](../concept/problem-mgmt-models-sow.md).
+See considerations for enabling Problem Management models at [Problem Management models in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/problem-mgmt-models-sow.md).
 
-Enable the system property **com.snc.problem\_management.models.enabled**. For more information, see [Enable Problem Management models in Service Operations Workspace](enable-problem-mgmt-models-sow.md).
+Enable the system property **com.snc.problem\_management.models.enabled**. For more information, see [Enable Problem Management models in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enable-problem-mgmt-models-sow.md).
 
 Role required: admin
 
@@ -38,9 +38,9 @@ Role required: admin
 
     2.  On the Problem Task Model form, fill in the fields.
 
-        For more information, see [Problem task model form](../../problem-management/reference/problem-task-model-form.md).
+        For more information, see [Problem task model form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../problem-management/reference/problem-task-model-form.md).
 
-3.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](../../change-management/image/form-context-menu.png)\).
+3.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/image/form-context-menu.png)\).
 
     1.  From the Model States context menu that appears, select **New**.
 
@@ -53,7 +53,7 @@ Role required: admin
 
     3.  Select **Submit** for each state you choose.
 
-4.  Apply a transition to each model state by selecting the display/hide hierarchical lists icon \(![Display/hide hierarchical lists icon.](../../change-management/image/display-hide-hierarchial-lists.png)\).
+4.  Apply a transition to each model state by selecting the display/hide hierarchical lists icon \(![Display/hide hierarchical lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/image/display-hide-hierarchial-lists.png)\).
 
     1.  From the Model State Transitions context menu, select **New**.
 
@@ -73,7 +73,7 @@ Role required: admin
 
     2.  On the Model State Transition Condition form, fill in the fields.
 
-        For more information, see [Problem Management model state transition condition form](../../problem-management/reference/problem-model-state-transition-condition.md).
+        For more information, see [Problem Management model state transition condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../problem-management/reference/problem-model-state-transition-condition.md).
 
     3.  Select **Submit** for each transition condition that you add.
 
@@ -95,7 +95,7 @@ Role required: admin
 
     4.  From the drop-down **Values** list, select **Model**.
 
-    5.  Select the search icon \(![search icon](../../configurable-workforce-optimization-itsm/image/search_icon.png)\) and select your custom problem task model from the list.
+    5.  Select the search icon \(![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/search_icon.png)\) and select your custom problem task model from the list.
 
     6.  From the Condition list, select **Show Related Fields** at the bottom of the list.
 

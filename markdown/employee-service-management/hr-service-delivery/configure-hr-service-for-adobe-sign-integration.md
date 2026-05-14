@@ -33,7 +33,7 @@ Role required: sn\_hr\_core.admin
 
 3.  On the PDF Document Template form, set the **Template type** field to `Adobe Sign Templates`.
 
-    ![Set the template type to Adobe Sign Templates](../image/set-template-adobe.png)
+    ![Set the template type to Adobe Sign Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/set-template-adobe.png)
 
     **Note:** Pre filled Adobe sign templates are not supported.
 
@@ -110,7 +110,7 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
 6.  In the **PDF Template Mappings** section, you must manually map fields from the Adobe Sign template to corresponding table fields to populate the document when it is generated for signing.
 
-    ![How to assign the signing order for serial signing in Adobesign.](../image/pdf-mapping-adobe.png)
+    ![How to assign the signing order for serial signing in Adobesign.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/pdf-mapping-adobe.png)
 
 <table id="table_gs5_stf_sjb"><thead><tr><th>
 
@@ -195,5 +195,5 @@ Option for enabling or disabling a field mapping.
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrating-with-adobe-sign-service.md)
 

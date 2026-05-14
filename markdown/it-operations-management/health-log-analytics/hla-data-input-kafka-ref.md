@@ -229,7 +229,7 @@ Reference to the Apache Kafka credentials.You can display the Kafka SSL credenti
 -   **SASL\_SSL** - SASL authenticated, SSL channel.
 -   **SASL\_PLAINTEXT** - SASL authenticated, non-encrypted channel.
 
-For a description of the fields on the Kafka SSL credentials form, see [Kafka SSL credentials fields](hla-data-input-kafka-credentials.md).
+For a description of the fields on the Kafka SSL credentials form, see [Kafka SSL credentials fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md).
 
 </td><td>
 
@@ -261,8 +261,8 @@ logs
 |Character encoding|The character encoding for this data input.|UTF-8|
 |Drop if queue is full|Option to discard logs if there is a load on the MID Server.|False|
 
--   **[Kafka SSL credentials fields](hla-data-input-kafka-credentials.md)**  
+-   **[Kafka SSL credentials fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md)**  
 Description of the fields on the Kafka SSL credentials form.
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-config-fields.md)
 

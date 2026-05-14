@@ -37,7 +37,7 @@ Required by \(Device\)
 
 </td><td>
 
-Configuration item, such as a server, cluster, vCenter, or datacenter, on which the Oracle database, Database option, management pack, or WebLogic Server is installed.Select an entry to view additional information about the licensing requirements for that configuration item. See [Licenses Required By form](oracle-infrastructure-report.md#section_ahj_vhh_vpb) for more details.
+Configuration item, such as a server, cluster, vCenter, or datacenter, on which the Oracle database, Database option, management pack, or WebLogic Server is installed.Select an entry to view additional information about the licensing requirements for that configuration item. See [Licenses Required By form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-infrastructure-report.md#section_ahj_vhh_vpb) for more details.
 
 </td></tr><tr><td>
 
@@ -469,5 +469,5 @@ Vendor
 Vendor of the database or WebLogic Server that the instance accesses and manages. This field is set to **Oracle**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/oracle-publisher-pack.md)
 

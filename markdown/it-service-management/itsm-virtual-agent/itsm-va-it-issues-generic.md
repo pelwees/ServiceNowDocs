@@ -19,7 +19,7 @@ IT Issues topic conversations are designed to automate common IT-related issues,
 
 Users can use Virtual Agent to troubleshoot common issues with collaboration software, such as Cisco Webex, Zoom, and Microsoft Teams. This topic uses topic blocks that can be customized for your environment. If the user isn't satisfied with the static help content for the issue they're facing, they can perform an AI search or Contextual search. The type of search is dictated by the system property **sn\_itsm\_va.fallback\_search\_option**.​
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
@@ -27,31 +27,31 @@ This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 -   Troubleshoot Microsoft Teams
 -   Troubleshoot Zoom
 
-![Collaboration Application topic.](../image/TroubleshootMSTeams.jpg)
+![Collaboration Application topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/TroubleshootMSTeams.jpg)
 
 ## Email Issues
 
 Users can request help with email problems, such as issues sending and receiving email or problems with the email client.
 
-![Email Issues topic.](../image/EmailIssues.png)
+![Email Issues topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/EmailIssues.png)
 
 ## Email Setup
 
 Users can request help with email access or setting up an email account accessible by computer or phone. Users can also request help with configuring email or setting up web mail.
 
-![Email Setup topic.](../image/EmailSetup.png)
+![Email Setup topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/EmailSetup.png)
 
 ## Guest WiFi Access
 
 Guests to your company can obtain WiFi access.
 
-![Guest WiFi Access topic.](../image/GuestWiFiAccess.png)
+![Guest WiFi Access topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/GuestWiFiAccess.png)
 
 ## Hardware Issues
 
 Users can troubleshoot specific hardware issues.
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
@@ -72,72 +72,72 @@ Requirements:
     If the user selects another operating system, Virtual Agent provides relevant KB articles.
 
 
-![Local Admin Access topic.](../image/LocalAdminAccess.png)
+![Local Admin Access topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/LocalAdminAccess.png)
 
-To set up and use the Local Admin Access topic, refer to [Set up the Local Admin Access topic](../task/setup-admin-access.md).
+To set up and use the Local Admin Access topic, refer to [Set up the Local Admin Access topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../task/setup-admin-access.md).
 
 ## Meeting Room Issues
 
 Users can request help with meeting room issues, such as conferencing problems, sound issues, display, connectivity, sharing, and more.
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
 
-![Meeting Room Issues topic.](../image/MeetingRoomIssues.png)
+![Meeting Room Issues topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/MeetingRoomIssues.png)
 
 ## Printer Issues
 
-Users can request help with issues associated with a printer, such as no ink, printer not working, or connectivity problems. This topic can be used with [Issue Auto Resolution](../concept/itsm-va-auto-resolution.md).
+Users can request help with issues associated with a printer, such as no ink, printer not working, or connectivity problems. This topic can be used with [Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/itsm-va-auto-resolution.md).
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
 
-![Printer Issues topic.](../image/PrinterIssues.png)
+![Printer Issues topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/PrinterIssues.png)
 
 ## Repository Access
 
 Users can request and gain access to a data repository manually, or choose from preloaded available repositories.
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-![Repository Access topic.](../image/RepositoryAccess.png)
+![Repository Access topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/RepositoryAccess.png)
 
 ## RSA Token
 
 Users can request an RSA token or report a problem with an RSA token. Users can also request help with the setup of an RSA token.
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
 
-![RSA Token topic.](../image/RSAToken.png)
+![RSA Token topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/RSAToken.png)
 
 ## Troubleshoot Slow Computer
 
 Users can request help associated with a slow computer, such as low RAM.
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
 
-![Troubleshoot Slow Computer topic.](../image/TroubleshootSlowComputer.png)
+![Troubleshoot Slow Computer topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/TroubleshootSlowComputer.png)
 
 ## VPN Connectivity
 
 Users can request help with connecting to VPN or setting up VPN to access business systems from remote locations.
 
-This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
+This topic uses the following [topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md):
 
 -   Contextual Search
 -   Create Incident
 
-![VPN Connectivity topic.](../image/VPNConnectivity.png)
+![VPN Connectivity topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/VPNConnectivity.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

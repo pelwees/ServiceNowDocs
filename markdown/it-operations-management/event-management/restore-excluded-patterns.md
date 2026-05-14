@@ -23,17 +23,17 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Excluded patterns**.
 
-    ![Restore pattern navigation](../image/em-restore-pattern-nav.png)
+    ![Restore pattern navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-restore-pattern-nav.png)
 
 2.  On the Excluded Patterns page, expand or select a pattern to view its alerts.
 
-    ![Expanded patterns](../image/em-pattern-excluded.png)
+    ![Expanded patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-pattern-excluded.png)
 
 3.  Select the patterns you want to restore.
 
 4.  In the **Actions on selected rows** drop-down menu, select **Delete**.
 
-    ![Delete patterns that you want to restore](../image/em-excluded-patterns-delete.png)
+    ![Delete patterns that you want to restore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-excluded-patterns-delete.png)
 
 5.  In the confirmation window, select **Delete**.
 
@@ -45,7 +45,7 @@ Role required: evt\_mgmt\_admin
 
     3.  Open the Service Analytics Alert Aggregation Learner - Daily job.
 
-        ![Scheduled job](../image/em-learned-patterns-job.png)
+        ![Scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-learned-patterns-job.png)
 
     4.  Select **Execute Now**.
 

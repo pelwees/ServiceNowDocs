@@ -19,5 +19,5 @@ This Cloud Provisioning and Governance MID Server property with name and value p
 
 See [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md) for more information on creating a MID Server property.
 
-**Parent Topic:**[ITOM Optimization reference](itom-optimization-reference.md)
+**Parent Topic:**[ITOM Optimization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-optimization-reference.md)
 

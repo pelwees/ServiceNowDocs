@@ -25,13 +25,13 @@ Role required: admin
 
 3.  On the Remediation Action Plan form, fill in the fields.
 
-    For a description of the field values, see [Remediation action plan form](../reference/mco-remediation-action-plan-form.md).
+    For a description of the field values, see [Remediation action plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-remediation-action-plan-form.md).
 
 4.  Select **Save**.
 
 
--   **[Related list for remediation action plan](mco-related-list-for-remediation-action-plan.md)**  
+-   **[Related list for remediation action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-remediation-action-plan.md)**  
 In the workspace, you can use the remediation action-related list to log the information.
 
-**Parent Topic:**[Remediation action plans](mco-remediation-action-plans.md)
+**Parent Topic:**[Remediation action plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-remediation-action-plans.md)
 

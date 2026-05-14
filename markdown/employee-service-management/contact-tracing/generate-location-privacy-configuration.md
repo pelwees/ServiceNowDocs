@@ -76,7 +76,7 @@ The location-based privacy configuration is set.
 
 ## What to do next
 
-[Configure an email notification for a privacy consent request](configure-privacy-email.md).
+[Configure an email notification for a privacy consent request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-privacy-email.md).
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-privacy-consent-settings.md)
 

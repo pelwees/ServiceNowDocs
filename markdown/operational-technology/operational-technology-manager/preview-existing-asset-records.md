@@ -27,7 +27,7 @@ If a matching configuration item \(CI\) is in the CMDB when you import OT device
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the **List** \(![List icon](../../../common/image/icon-list.png)\) icon.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
 
 3.  Under the OT Excel SGC - Import Task module, select one of the available lists.
 
@@ -46,5 +46,5 @@ If a matching configuration item \(CI\) is in the CMDB when you import OT device
 6.  View the matching CI by selecting it from the Matching CI in the CMDB column.
 
 
-**Parent Topic:**[Validate imported staging records](run-validations.md)
+**Parent Topic:**[Validate imported staging records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/run-validations.md)
 

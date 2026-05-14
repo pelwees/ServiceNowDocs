@@ -825,5 +825,5 @@ No
 </table>**Related topics**  
 
 
-[Service Model Foundation Granular admin roles](granular-admin-roles.md)
+[Service Model Foundation Granular admin roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/granular-admin-roles.md)
 

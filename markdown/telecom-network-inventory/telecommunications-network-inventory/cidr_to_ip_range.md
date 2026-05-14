@@ -38,30 +38,30 @@ The following table lists the information about the function output.
 |----|-----------|---------|
 |Allocated IP address|Returns a glide a record|Record|
 
-**Parent Topic:**[Telecommunications Network Inventory function catalog](tni-flow-action.md)
+**Parent Topic:**[Telecommunications Network Inventory function catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-flow-action.md)
 
 **Related topics**  
 
 
-[Allocate Free Number function](allocate-free-number-action.md)
+[Allocate Free Number function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/allocate-free-number-action.md)
 
-[Create CI From Template function](add-card-action.md)
+[Create CI From Template function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-card-action.md)
 
-[Cascade Update function](cascade-update-action.md)
+[Cascade Update function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cascade-update-action.md)
 
-[Create and Assign Range/Single Number function](create-assign-range-single-number-function.md)
+[Create and Assign Range/Single Number function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-assign-range-single-number-function.md)
 
-[Create Logical Interface function](create-logical-interface-action.md)
+[Create Logical Interface function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-interface-action.md)
 
-[Create Logical Connection function](create-logical-connection-action.md)
+[Create Logical Connection function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-action.md)
 
-[Create Physical Connection function](create-physical-connection-action.md)
+[Create Physical Connection function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-physical-connection-action.md)
 
-[Create IP subnetwork function](create_ip_subnetwork.md)
+[Create IP subnetwork function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_ip_subnetwork.md)
 
-[Get Interface Summary function](get-interface-summary-action.md)
+[Get Interface Summary function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/get-interface-summary-action.md)
 
-[Lookup Next Hub function](lookup-next-hub-action.md)
+[Lookup Next Hub function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/lookup-next-hub-action.md)
 
-[Path Search function](path-compute-action.md)
+[Path Search function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/path-compute-action.md)
 

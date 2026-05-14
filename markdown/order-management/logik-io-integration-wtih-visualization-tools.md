@@ -42,7 +42,7 @@ You can perform the following:
     -   Add a determination rule \(or enrichment\) to parse that JSON and update fields or set rows.
     -   If a listener field is present, only mappings explicitly configured for two-way will write back.
 
-![Tabular format to showcase supported and non supported features of the visualization tools.](../images/cpq-integration-matrix.png)
+![Tabular format to showcase supported and non supported features of the visualization tools.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-matrix.png)
 
 ## Data exchanged
 
@@ -77,9 +77,9 @@ You can perform the following:
 **Related topics**  
 
 
-[Integrating kBridge visualization](cpq-kbridge-visualization-integration.md)
+[Integrating kBridge visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-kbridge-visualization-integration.md)
 
-[Integrating CDS or other third-party visualization tools](cds_visualization_integration.md)
+[Integrating CDS or other third-party visualization tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cds_visualization_integration.md)
 
-[Integrating Threekit visualization](threekit-visualization-integration.md)
+[Integrating Threekit visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/threekit-visualization-integration.md)
 

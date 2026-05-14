@@ -28,22 +28,22 @@ Role required: procurement\_admin or procurement\_user
     For example, click a request number to view the request record.
 
 
-**Parent Topic:**[Procurement](../concept/c_Procurement.md)
+**Parent Topic:**[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../reference/r_ProcurementRoles.md)
 
-[Procurement workflows](../concept/c_ProcurementWorkflows.md)
+[Procurement workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ProcurementWorkflows.md)
 
-[Activate Procurement](t_ActivateProcurement.md)
+[Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_UseProcurement.md)
 
-[Receive assets](../concept/c_ReceiveAssets.md)
+[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAssets.md)
 
-[Domain separation and Procurement](../concept/domain-separation-procurement.md)
+[Domain separation and Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/domain-separation-procurement.md)
 

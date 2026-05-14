@@ -59,5 +59,5 @@ Install Now Assist for Setup by requesting it from the ServiceNow Store. Visit t
     -   app-ia-config
     -   admin-center
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

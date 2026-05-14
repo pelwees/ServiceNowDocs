@@ -25,18 +25,18 @@ Access to SAP Fieldglass tenant account.
 
 1.  Log in to your SAP Fieldglass tenant account.
 
-2.  Select Linked Accounts.![Linked Accounts link.](../image/sap-fieldglass-spoke-linked-account.png)
+2.  Select Linked Accounts.![Linked Accounts link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sap-fieldglass-spoke-linked-account.png)
 
-3.  On the Self-Service Dashboard, select the API Application Keys card.![API Application Keys card.](../image/sap-fieldglass-spoke-application-keys-card.png)
+3.  On the Self-Service Dashboard, select the API Application Keys card.![API Application Keys card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sap-fieldglass-spoke-application-keys-card.png)
 
-4.  Select **New**.![New button.](../image/sap-fieldglass-spoke-new-button.png)
+4.  Select **New**.![New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sap-fieldglass-spoke-new-button.png)
 
 5.  On the Create Application Key page, enter values.
 
     -   Application Name: Name of the application.
     -   Description: Custom description of the API key.
-6.  Select **Create**.![Create API Application Key page.](../image/sap-fieldglass-spoke-api-key-details.png)
+6.  Select **Create**.![Create API Application Key page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sap-fieldglass-spoke-api-key-details.png)
 
-    The API key and other details are generated.![API key generated.](../image/sap-fieldglass-spoke-api-key-generated.png)
+    The API key and other details are generated.![API key generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sap-fieldglass-spoke-api-key-generated.png)
 
 

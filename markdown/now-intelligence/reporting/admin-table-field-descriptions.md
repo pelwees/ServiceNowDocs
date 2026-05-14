@@ -19,9 +19,9 @@ A user with the admin role must enable the report\_description\_admin role. The 
 
 In the Report Designer, the user sees the table descriptions on the **Data** tab. When appropriate, the user sees the field descriptions on the **Configure** tab.
 
-![Group by field in Configure tab showing field description.](../image/field-hint-in-report-designer.png)
+![Group by field in Configure tab showing field description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/field-hint-in-report-designer.png)
 
-**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdminsteringReports.md)
 
 ## Enable the report description admin role
 
@@ -39,7 +39,7 @@ Role required: admin
 
 3.  Install the **Table and field description configuration for report** plugin.
 
-    This plugin enables the configuration of table and field descriptions in reports. ![Find the table and field description configuration plugin and install it.](../image/enable-table-field-descr-plugin.png)
+    This plugin enables the configuration of table and field descriptions in reports. ![Find the table and field description configuration plugin and install it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/enable-table-field-descr-plugin.png)
 
 4.  Assign the report\_description\_admin role.
 
@@ -86,12 +86,12 @@ Role required: report\_description\_admin
 
 2.  Double-click the cell in the **Hint** column and add or edit the description.
 
-    Click the check icon to save the description.![A description being added to the severity element on the incident table.](../image/add-field-description.png)
+    Click the check icon to save the description.![A description being added to the severity element on the incident table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/add-field-description.png)
 
 
 ### Result
 
 In the Report Designer, when you group by a field that you have added a hint to, you see that hint text in the Information popup for the field.
 
-![The added description of the severity element visible on the Report Designer.](../image/field-hint-in-report-designer.png)
+![The added description of the severity element visible on the Report Designer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/field-hint-in-report-designer.png)
 

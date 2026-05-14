@@ -47,7 +47,7 @@ Entity classes are used to add conceptual information about an entity. Entity cl
 
 ## What to do next
 
-[Update an entity class](update-entity-class.md)
+[Update an entity class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/update-entity-class.md)
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/entities-in-esg.md)
 

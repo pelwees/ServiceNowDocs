@@ -255,17 +255,17 @@ Appointment Schedule Override​\[sn\_apptmnt\_booking\_schedule\_override\]
 Stores override schedule changes. ​
 
 </td></tr></tbody>
-</table>-   **[Advanced appointment booking components](adv-appt-booking-components.md)**  
+</table>-   **[Advanced appointment booking components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/adv-appt-booking-components.md)**  
 The roles, properties, and tables for the advanced appointment booking feature.
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
 
-[Appointment booking](../concept/appointment-booking.md)
+[Appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/appointment-booking.md)
 
-[Configuring Appointment Booking](../concept/appointment-booking-administer.md)
+[Configuring Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/appointment-booking-administer.md)
 
-[Managing appointments](../concept/managing-appointments.md)
+[Managing appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/managing-appointments.md)
 

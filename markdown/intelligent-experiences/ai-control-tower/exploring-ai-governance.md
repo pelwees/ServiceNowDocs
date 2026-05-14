@@ -17,13 +17,13 @@ Explore the AI Control Tower Configurations page to manage and govern ServiceNow
 
 The **Configurations** page contains the following sections to manage the workflow of AI Control Tower
 
--   [Data sharing, Data overflow processing, and Security &amp; privacy in AI Control Tower](data.md)
--   [Controls](controls.md)
--   [Multi-instance Setup](multi-instance-management.md)
--   [AI connections](ai-discovery-setup.md)
--   [Playbooks](playbooks.md)
+-   [Data sharing, Data overflow processing, and Security &amp; privacy in AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/data.md)
+-   [Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/controls.md)
+-   [Multi-instance Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/multi-instance-management.md)
+-   [AI connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-discovery-setup.md)
+-   [Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/playbooks.md)
 
-For information on configuring AI Control Tower, see [Configure AI Control Tower](configuring-ai-governance.md).
+For information on configuring AI Control Tower, see [Configure AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configuring-ai-governance.md).
 
-For information on completing the AI asset lifecycle, see [Complete AI asset lifecycle](../task/complete-ai-asset-lifecycle.md).
+For information on completing the AI asset lifecycle, see [Complete AI asset lifecycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/complete-ai-asset-lifecycle.md).
 

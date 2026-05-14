@@ -20,8 +20,8 @@ Accelerate usage and adoption of specific platform and product capabilities via 
 Accelerator outputs and formats have common standardized features, but may differ from package to package. Not all Accelerators are available for each package. The Accelerators and available feature levels are denoted by these symbols:
 
 -   ✓ = Common standardized feature set
--   ![Green check mark icon](../image/dark-green-checks.png) = Includes unique accelerator-specific features
--   ![Blue plus sign icon](../image/blueplus.png) = Includes additional unique accelerator-specific features
+-   ![Green check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/dark-green-checks.png) = Includes unique accelerator-specific features
+-   ![Blue plus sign icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/blueplus.png) = Includes additional unique accelerator-specific features
 
 |Accelerator|Guided package|Guided+Strategic Value|Guided+Platform Governance|Advanced package|Total package|Restricted and protected environments|
 |:---------:|:------------:|:--------------------:|:------------------------:|:--------------:|:-----------:|:-----------------------------------:|

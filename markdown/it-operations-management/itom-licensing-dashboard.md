@@ -21,7 +21,7 @@ Role required: sn\_itom\_license.reader
 
 Ensure that you have an sn\_itom\_license.reader role to access the ITOM Licensing Dashboard located at **All** &gt; **ITOM License** &gt; **ITOM Licensing Dashboard**.
 
-![ITOM Licensing Dashboard](../image/itom-licensing-dashboard-021126.png "ITOM Licensing dashboard") ![]( "ITOM Licensing dashboard")
+![ITOM Licensing Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-licensing-dashboard-021126.png "ITOM Licensing dashboard") ![]( "ITOM Licensing dashboard")
 
 ## Use cases
 
@@ -83,5 +83,5 @@ Hover over the vertical bar in the Subscription units area for the desired day t
 The third area shows which version of the ITOM Licensing is used on the instance each day. It helps explain spikes in count every time the new version is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](../../../product/it-operations-management/reference/itom-su-licensing-reference.md)
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../product/it-operations-management/reference/itom-su-licensing-reference.md)
 

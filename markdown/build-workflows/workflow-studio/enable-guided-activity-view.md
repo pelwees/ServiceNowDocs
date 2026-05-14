@@ -18,7 +18,7 @@ Guide end users through a playbook, step-by-step.
 ## Before you begin
 
 -   Role required: admin or playbook.admin
--   Familiarize yourself with how to begin customizing the playbook experience in UI Builder. To learn more, see [Customizing the Playbook Experience](../../workspace/concept/playbook-customize-playbook.md).
+-   Familiarize yourself with how to begin customizing the playbook experience in UI Builder. To learn more, see [Customizing the Playbook Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-customize-playbook.md).
 
 ## About this task
 
@@ -40,26 +40,26 @@ The following configurations and features are not supported for the **Guided** a
 
 1.  Navigate to **All** &gt; **UI Builder**, and open the **Guided Self-Service in Employee Center** experience.
 
-    ![Guided Self-Service Employee Center experience in UI Builder](../images/pe-UIB-guided-self-service.png)
+    ![Guided Self-Service Employee Center experience in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/pe-UIB-guided-self-service.png)
 
 2.  Open the page that you want to enable the Guided activity view for.
 
-    ![Opening the Default page for the Guided Self-Service EC experience in UI Builder](../images/pe-guided-ssec-page.png)
+    ![Opening the Default page for the Guided Self-Service EC experience in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/pe-guided-ssec-page.png)
 
 3.  Under **Body** in the component tree, open **Playbook Activity Viewer**.
 
-    ![Opening the Playbook Activity Viewer component in the component tree](../images/pe-activity-viewer-component.png)
+    ![Opening the Playbook Activity Viewer component in the component tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/pe-activity-viewer-component.png)
 
     The **Playbook Activity Viewer** panel opens on the right.
 
 4.  In the **Playbook Activity Viewer** panel, under the **Configure** tab, open the **Activity View** drop-down and select **Guided**.
 
-    ![Selecting the Guided activity view](../images/pe-activity-viewer-panel-guided-view.png)
+    ![Selecting the Guided activity view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/pe-activity-viewer-panel-guided-view.png)
 
 
 ## Result
 
 For an end user who is running a playbook, the result is a playbook that runs one activity at a time. If configured, users can still restart the playbook and activities.
 
-![End user experience of a Guided view, Self-Service playbook](../images/PE-Guided-Activity-Viewer.gif)
+![End user experience of a Guided view, Self-Service playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/PE-Guided-Activity-Viewer.gif)
 

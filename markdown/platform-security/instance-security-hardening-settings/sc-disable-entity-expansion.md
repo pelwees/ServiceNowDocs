@@ -85,7 +85,7 @@ Category
 
 </td><td>
 
-[Validation, sanitization, and encoding](validation-sanitization-encoding.md)
+[Validation, sanitization, and encoding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
 </td></tr><tr><td>
 
@@ -113,9 +113,9 @@ Dependencies and prerequisites
 
 Before setting this property:
 
--   Set the **glide.xml.entity.whitelist.enabled** and **glide.stax.whitelist\_enabled** properties to true. To learn more, see [Restrict XML external entities](sc-xml-entity-validation-url-allowlist.md) and [Require XMLdoc2 entity validation with allowlist](sc-xmldoc2-entity-validation-with-entity-expansion.md).
--   Define a listing of comma-delimited FQDN in the **glide.xml.entity.whitelist** property, which is the only URLs that can be reached using XML Entity processing. property. To learn more, see [Restrict XML external entities](sc-xml-entity-validation-url-allowlist.md).
+-   Set the **glide.xml.entity.whitelist.enabled** and **glide.stax.whitelist\_enabled** properties to true. To learn more, see [Restrict XML external entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-xml-entity-validation-url-allowlist.md) and [Require XMLdoc2 entity validation with allowlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-xmldoc2-entity-validation-with-entity-expansion.md).
+-   Define a listing of comma-delimited FQDN in the **glide.xml.entity.whitelist** property, which is the only URLs that can be reached using XML Entity processing. property. To learn more, see [Restrict XML external entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-xml-entity-validation-url-allowlist.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Validation, sanitization, and encoding](validation-sanitization-encoding.md)
+</table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 

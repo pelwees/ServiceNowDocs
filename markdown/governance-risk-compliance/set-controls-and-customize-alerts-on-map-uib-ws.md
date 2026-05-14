@@ -35,10 +35,10 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
     The assets such as **Locations**, **Web Servers**, **Datacenters**, or **Vendors** are displayed on the map as shown in the example.
 
-    ![Assets displayed in the map.](../image/layers-icon-assets-displayed.png)
+    ![Assets displayed in the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/layers-icon-assets-displayed.png)
 
 6.  Clear the map of all the search results with the **Reset** icon.
 
 
-**Parent Topic:**[Structured workflows for Crisis map](../concept/crisis-map-collective-tasks.md)
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/crisis-map-collective-tasks.md)
 

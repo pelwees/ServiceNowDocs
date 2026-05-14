@@ -17,19 +17,19 @@ The GRC: Personal Data Rights application enables you to exercise control over y
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how privacy managers, privacy users, and privacy administrators use the Personal data rights application.](exploring-personal-data-rights.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how privacy managers, privacy users, and privacy administrators use the Personal data rights application.](exploring-personal-data-rights.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Personal data rights application.](../task/configure-pdr-request-type.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Personal data rights application.](../task/configure-pdr-request-type.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)](using-personal-data-right.md) Work on creating new data requests and the corresponding action tasks.
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)](using-personal-data-right.md) Work on creating new data requests and the corresponding action tasks.
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the roles, tables, and properties of Personal Data Rights](../reference/pdr-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the roles, tables, and properties of Personal Data Rights](../reference/pdr-reference.md)
 
 </td><td>
 

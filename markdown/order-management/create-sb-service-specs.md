@@ -256,5 +256,5 @@ You can't change this field.
 
 ## What to do next
 
-[Associate consumer criteria to a remote record producer](associate-criteria-remote-catalog.md) for this remote catalog item.
+[Associate consumer criteria to a remote record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/associate-criteria-remote-catalog.md) for this remote catalog item.
 

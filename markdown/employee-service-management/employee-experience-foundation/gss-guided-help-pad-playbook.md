@@ -19,7 +19,7 @@ Create a visual playbook flow of activities so that employees can find informati
 
 Understand the basics of playbooks and workflow studio [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-a-process.md).
 
-Review the information from [Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md).
+Review the information from [Guided Self-Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/gss-guided-self-service-reference-info.md).
 
 Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
@@ -31,7 +31,7 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
     Here is a sample illustration of the entire flow.
 
-    ![process design flow](../images/gss-playbook-design-flow.png "Visual flow")
+    ![process design flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/gss-playbook-design-flow.png "Visual flow")
 
     Each activity definition contains some basic configuration details, as well as an automation plan and activity experience. Table is Guided Self-Service \(GSS\) Process Execution.
 
@@ -40,7 +40,7 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
     -   **Add activity** &gt; **Guided Self-Service in Employee Center** &gt; **Catalog Item Guidance**.
     -   **Add activity** &gt; **Guided Self-Service in Employee Center** &gt; **Show Knowledge Article Guidance**.
     -   **Add activity** &gt; **Common Activities** &gt; **Instruction Activity**.
-    ![Add activity for GSS](../images/gss-add-activity-ec-interactive.png "Add activity")
+    ![Add activity for GSS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/gss-add-activity-ec-interactive.png "Add activity")
 
     For more information, see the activity information such as Input, Output, and Advanced Properties on the UI.
 
@@ -48,7 +48,7 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
     Here is a sample illustration for time off flow.
 
-    ![Workflow Studio PAD design](../images/gss-pad-trigger-flow-confi.png "Step-by-step playbook flow")
+    ![Workflow Studio PAD design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/gss-pad-trigger-flow-confi.png "Step-by-step playbook flow")
 
     **Note:** Ensure you configure the Restart operation for every activity in the flow. When only one activity has the restart operation, it won't work.
 
@@ -63,5 +63,5 @@ Role required: sn\_hr\_sp.esc\_admin, playbook.write
 
 ## Result
 
-GSS is configured to guide employees. For more information, see [Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md).
+GSS is configured to guide employees. For more information, see [Use Guided Self-Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/gss-guided-self-service-homepage.md).
 

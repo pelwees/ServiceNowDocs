@@ -52,10 +52,10 @@ The **Remove Contact** option is available only to the primary supplier contact 
 
 The contact is removed and all the tasks that were assigned to that contact are reassigned to the alternate contact.
 
-**Parent Topic:**[Remove a supplier contact from the Supplier Collaboration Portal](remove-supplier-contact.md)
+**Parent Topic:**[Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 
 **Related topics**  
 
 
-[Remove a supplier contact from the Supplier Collaboration Portal](remove-supplier-contact.md)
+[Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 

@@ -61,5 +61,5 @@ The following roles are required for a risk assessment project:
 **Related topics**  
 
 
-[Workflow of risk assessment project in AI Risk and Compliance](workflow-of-risk-assessment-project-airc.md)
+[Workflow of risk assessment project in AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/workflow-of-risk-assessment-project-airc.md)
 

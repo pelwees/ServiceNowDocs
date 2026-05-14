@@ -264,5 +264,5 @@ Option to enable employees to reserve a workplace item of the module for an enti
 
 The reservable module is added to the application. On the Reservation portal, employees can view the spaces of an area in this module.
 
-**Parent Topic:**[Configure a reservable module](config-reservable-module.md)
+**Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 

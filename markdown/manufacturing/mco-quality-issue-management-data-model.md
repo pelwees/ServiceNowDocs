@@ -23,10 +23,10 @@ The QIM involves the following tasks:
 -   Outcome monitoring
 -   Documentation
 
-![Decorative](../image/Data-model-QIM.png "Quality issue management data model")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Data-model-QIM.png "Quality issue management data model")
 
--   **[Quality issue management tables](mco-quality-issue-management-tables.md)**  
+-   **[Quality issue management tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-quality-issue-management-tables.md)**  
 This section explains quality issue management \(QIM\) tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[Data model](data-model.md)
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 

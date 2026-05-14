@@ -65,9 +65,9 @@ Is initial requirement
 
 Option to display the requirement on the visit creation page. If this option is selected, the requirement is displayed on the visit creation page to the host and receptionist.
 
-Initial requirements are displayed first in the Workplace Services Kiosk self-registration flow. For more information about self-registration, see [Self-register as a visitor](../../workplace-services-kiosk/task/visitor-self-register.md).
+Initial requirements are displayed first in the Workplace Services Kiosk self-registration flow. For more information about self-registration, see [Self-register as a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../workplace-services-kiosk/task/visitor-self-register.md).
 
-Initial requirements are used by the Workplace Concierge agentic workflow to create visits. For more information, see [Workplace Concierge agentic workflow](../../now-assist-wsd/concept/workplace-concierge-ai-agent.md).
+Initial requirements are used by the Workplace Concierge agentic workflow to create visits. For more information, see [Workplace Concierge agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../now-assist-wsd/concept/workplace-concierge-ai-agent.md).
 
 If this option is not selected, the requirements appear later in the visit creation process based the conditions set in the **Apply if** section.
 
@@ -114,13 +114,13 @@ Option to set the record to active.
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Additional requirement form](../reference/additional-req-form.md).
+    For a description of the field values, see [Additional requirement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/additional-req-form.md).
 
 8.  On the Acknowledgment tab, in the Policy field, select a policy record.
 
     The acknowledgment tab is displayed if the **Requirement type** is `Document to acknowledge`.
 
-    For more information about creating policies, see [Create a visitor policy](create-visitor-policy.md).
+    For more information about creating policies, see [Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-policy.md).
 
 9.  On the Field mapping tab, select a **Target table** and **Target field** to map the additional information.
 
@@ -133,22 +133,22 @@ Option to set the record to active.
 
 Create more records for additional information based on your preference. You can view the created records in the related lists of the Visit requirement record.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/configure-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Install Workplace Visitor Management](install-workplace-visitor-mgmt.md)
+[Install Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/install-workplace-visitor-mgmt.md)
 
-[Create a visitor policy](create-visitor-policy.md)
+[Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-policy.md)
 
-[Create a record producer for visitor management](create-rec-prodcr-visit-mgmt.md)
+[Create a record producer for visitor management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-rec-prodcr-visit-mgmt.md)
 
-[Configure a visitor type](configure-visitor-type.md)
+[Configure a visitor type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/configure-visitor-type.md)
 
-[Create a visitor badge template](create-visitor-badge-template.md)
+[Create a visitor badge template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
 

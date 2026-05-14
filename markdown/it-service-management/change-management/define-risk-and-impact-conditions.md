@@ -138,15 +138,15 @@ Write the script in the **Script values** field. Specify the **Risk** and **Impa
 </td></tr></tbody>
 </table>    In the following example, the **Advanced condition** script first determines whether the CI is a business service. If so, the script identifies whether the **Business criticality** value is **1 - most critical** or **2 - somewhat critical**. If it does, it sets the global variable answer to *true*.
 
-    ![Critical business service risk condition](../image/risk-condition-rule.png)
+    ![Critical business service risk condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/risk-condition-rule.png)
 
     When the **Advanced condition** script returns *true*, the script in the **Script values** field sets the change request **Impact** and **Risk** values based on the **Business criticality** value.
 
 
-**Parent Topic:**[Risk conditions and calculation](../concept/change-risk-assess-detect-conflict.md)
+**Parent Topic:**[Risk conditions and calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-risk-assess-detect-conflict.md)
 
 **Related topics**  
 
 
-[Risk Calculator property](../../../script/server-scripting/reference/r_ChangeRiskCalculator.md)
+[Risk Calculator property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../../script/server-scripting/reference/r_ChangeRiskCalculator.md)
 

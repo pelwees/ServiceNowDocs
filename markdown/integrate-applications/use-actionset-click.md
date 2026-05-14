@@ -15,7 +15,7 @@ Simulate a simple left-click on the target area as part of a series of actions i
 
 ## Before you begin
 
-Capture an image of the target application window and create an anchor. For information about how to do this, see [Use the ActionSet component](use-actionsui-actionset.md).
+Capture an image of the target application window and create an anchor. For information about how to do this, see [Use the ActionSet component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-actionsui-actionset.md).
 
 Role required: none
 
@@ -23,17 +23,17 @@ Role required: none
 
 The ActionSet Click action simulates a manual click at the area you specify in the ActionSet Settings window. You can use it to click a button, open a menu, select an object, or perform any action typically performed by a mouse click.
 
-You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](../reference/actionset-actions-properties.md#actionset-click).
+You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/actionset-actions-properties.md#actionset-click).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    For more information about an anchor, see [Anchor](../concept/anchor.md).
+    For more information about an anchor, see [Anchor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/anchor.md).
 
 2.  Click **Click**.
 
-3.  Drag and place the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) to the location where you want to simulate a click.
+3.  Drag and place the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) to the location where you want to simulate a click.
 
 4.  In the Properties pane of the ActionSet Settings window, configure the properties of the Click action.
 
@@ -52,5 +52,5 @@ You can configure the properties for the Click action. For more information abou
 7.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Use the ActionSet component](use-actionsui-actionset.md)
+**Parent Topic:**[Use the ActionSet component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-actionsui-actionset.md)
 

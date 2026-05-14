@@ -25,15 +25,15 @@ Role required: sn\_hr\_core.case\_writer
 
 2.  Select a case for which you want to send an email.
 
-3.  Select ![Search for Record icon](../image/magnifying-glass.png) next to the **Assigned to** field.
+3.  Select ![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/magnifying-glass.png) next to the **Assigned to** field.
 
 4.  Select an agent.
 
-5.  Click the Open record icon \(![Open Record icon](../reference/images/icon-global-search.png)\) next to the agent's name.
+5.  Click the Open record icon \(![Open Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/icon-global-search.png)\) next to the agent's name.
 
     The agent's details are opened in a new tab.
 
-6.  In the Email field, click the Email icon\(![Email icon](../reference/images/envelope-outline.png)\).
+6.  In the Email field, click the Email icon\(![Email icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/envelope-outline.png)\).
 
 7.  Add a **Subject** line and compose the mail in the space provided.
 

@@ -46,5 +46,5 @@ Appointment booking is enabled or disabled based on your configuration settings.
 
 ## What to do next
 
-[Create or modify an application configuration for Appointment Booking](appt-booking-create-app-config.md)
+[Create or modify an application configuration for Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appt-booking-create-app-config.md)
 

@@ -17,7 +17,7 @@ Embed the global code and component code of the Catalog item component instance 
 
 ## Before you begin
 
-You must configure the Catalog item component instance. For information, see [Configure the Catalog item component instance](configure-catalog-item-component-on-instance.md).
+You must configure the Catalog item component instance. For information, see [Configure the Catalog item component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-catalog-item-component-on-instance.md).
 
 Role required: None
 

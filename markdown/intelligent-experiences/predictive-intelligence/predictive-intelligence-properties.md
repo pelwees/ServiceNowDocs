@@ -190,16 +190,16 @@ Sets the maximum number of records you can include in a cluster. -   Type: Integ
 |Maximum number of artifacts cached \(in MB\)|glide.cache.size.ml\_object\_cache|
 |Artifact cache compression scheme|glide.platform\_ml.artifact.cache\_compression\_scheme|
 
-**Parent Topic:**[Predictive Intelligence references](reference-predictive-intelligence.md)
+**Parent Topic:**[Predictive Intelligence references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/reference-predictive-intelligence.md)
 
 **Related topics**  
 
 
-[Domain separation and Predictive Intelligence](../concept/domain-separation-predictive-intelligence.md)
+[Domain separation and Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/domain-separation-predictive-intelligence.md)
 
-[Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md)
+[Data Encryption in Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-encryption.md)
 
-[Predictive Intelligence language support](../concept/predictive-intelligence-localization.md)
+[Predictive Intelligence language support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/predictive-intelligence-localization.md)
 
-[Predictive Intelligence roles](predictive-intelligence-roles.md#)
+[Predictive Intelligence roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-roles.md#)
 

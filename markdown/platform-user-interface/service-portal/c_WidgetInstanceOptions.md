@@ -69,7 +69,7 @@ Before an option value is set on an instance, it appears as an undefined value w
 })
 ```
 
-**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
 ## Edit the widget option schema
 
@@ -87,7 +87,7 @@ Role required: admin or sp\_admin
 
 2.  Select the widget you want to configure the option schema for.
 
-3.  Click the menu icon \(![Menu icon](../image/MenuIcon.png)\) and select **Edit option schema**.
+3.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/MenuIcon.png)\) and select **Edit option schema**.
 
     This option only appears for users that have the right to edit the widget.
 
@@ -99,7 +99,7 @@ Role required: admin or sp\_admin
 
     Adding flexible widget options allows you to create more reusable widgets. You can add default values to help users understand each widget option. If you do not select a form section, the default is set to **Other options**.
 
-    ![Widget options schema form with fields completed as follows: label=time zone, name=zone, type=string, hint=blank, default value=America/Denver](../image/WidgetOptionsSchemaFields.png)
+    ![Widget options schema form with fields completed as follows: label=time zone, name=zone, type=string, hint=blank, default value=America/Denver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetOptionsSchemaFields.png)
 
 6.  Click **Save**.
 
@@ -111,7 +111,7 @@ Role required: admin or sp\_admin
 
     2.  Add the widget to a page and click the edit icon on the widget instance to view the instance options.
 
-    3.  [Configure the widget instance options](c_ConfigureWidgetInstances.md).
+    3.  [Configure the widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
 
     4.  View the configuration by navigating to the instance record in the sp\_instance table.
 
@@ -167,7 +167,7 @@ To define a custom option schema, add fields to an sp\_instance extension table,
 
     3.  In the **Data table** field, select your sp\_instance extension table.
 
-        ![Card List Instance extension table selected in the Data table field.](../image/data-table-field.png)
+        ![Card List Instance extension table selected in the Data table field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/data-table-field.png)
 
 4.  Configure the extension table form to display the desired fields.
 
@@ -189,12 +189,12 @@ To define a custom option schema, add fields to an sp\_instance extension table,
 
     3.  Use the **Fields** slushbucket to select fields to display as instance options.
 
-        ![My Custom Field moved to the Selected column.](../image/custom-option-field.png)
+        ![My Custom Field moved to the Selected column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/custom-option-field.png)
 
     4.  Save the form.
 
 
 ### What to do next
 
-Test the option schema by adding the widget to a page in the Service Portal Designer. Click the edit icon on the widget instance to view the instance options. After [configuring the widget instance options](c_ConfigureWidgetInstances.md), view the configuration by navigating to the instance record in the sp\_instance extension table.
+Test the option schema by adding the widget to a page in the Service Portal Designer. Click the edit icon on the widget instance to view the instance options. After [configuring the widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md), view the configuration by navigating to the instance record in the sp\_instance extension table.
 

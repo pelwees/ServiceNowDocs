@@ -31,5 +31,5 @@ During an upgrade, existing items have the **Finding** column set to Malicious.
 **Related topics**  
 
 
-[Create a security incident observable](../task/create-si-observable.md)
+[Create a security incident observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-si-observable.md)
 

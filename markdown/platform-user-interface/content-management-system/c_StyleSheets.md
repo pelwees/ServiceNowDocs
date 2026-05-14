@@ -21,10 +21,10 @@ Use an external style sheet by defining a URL that points to the .cssx file. If 
 
 Content pages do not reference style sheets directly. To invoke a style sheet, you assign the style sheet to a Theme using the related list on the Theme form.
 
-**Parent Topic:**[Style in Content Management](c_StyleInContentManagement.md)
+**Parent Topic:**[Style in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_StyleInContentManagement.md)
 
 **Related topics**  
 
 
-[Customize a design theme](../task/t_CreateADesignTheme.md)
+[Customize a design theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateADesignTheme.md)
 

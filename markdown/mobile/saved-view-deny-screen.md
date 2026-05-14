@@ -25,9 +25,9 @@ Role required: admin
 
 3.  In the **Source Table** field, select `Screen [sys_sg_screen]`.
 
-4.  Select the reference lookup icon \(![Reference lookup icon.](../image/reference-lookup-icon.png)\) from the **Source** field.
+4.  Select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) from the **Source** field.
 
-5.  In the **Select the document** screen, select the reference lookup icon \(![Reference lookup icon.](../image/reference-lookup-icon.png)\) within the **Document** field.
+5.  In the **Select the document** screen, select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) within the **Document** field.
 
 6.  Select the screen on which you want the saved views icon not to display.
 

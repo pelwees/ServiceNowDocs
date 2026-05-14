@@ -210,5 +210,5 @@ AWS EC2 Linux with security groups stack deprovision- terminate all resources
 11. DescribeImages
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Amazon Web Services EC2 Linux Out Of Box Catalog items](aws-ec2-linux-oob-catalogs.md)
+</table>**Parent Topic:**[Amazon Web Services EC2 Linux Out Of Box Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-linux-oob-catalogs.md)
 

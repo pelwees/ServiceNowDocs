@@ -29,15 +29,15 @@ For more information about the delegated developer role, see [Delegated developm
 
 4.  Open a new or existing record.
 
-    -   To open a new record, select the **New** button \(![New button in categories home screen.](../image/mab-buttton-new-green-solid.png)\).
+    -   To open a new record, select the **New** button \(![New button in categories home screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-buttton-new-green-solid.png)\).
     -   To edit an existing record, select a record name.
-5.  In the record screen, select the **Choose** button \(![Choose button.](../image/mab-button-choose.png)\) to open a list of reference records within all the application scopes you have access to.
+5.  In the record screen, select the **Choose** button \(![Choose button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-choose.png)\) to open a list of reference records within all the application scopes you have access to.
 
     **Note:** You can use records from other scopes. However, you are not able to create a new record in an alternative application scope.
 
-    ![Select an item to edit.](../image/mab-refer-record-edit.png)
+    ![Select an item to edit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-refer-record-edit.png)
 
-6.  Select a record name and then select the **Apply** button \(![Apply button.](../image/mab-button-apply.png)\).
+6.  Select a record name and then select the **Apply** button \(![Apply button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-apply.png)\).
 
     The record screen opens with the predefined data.
 

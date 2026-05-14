@@ -50,5 +50,5 @@ Role required: notify\_admin
 7.  Click **Submit.**
 
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/configuring-notify.md)
 

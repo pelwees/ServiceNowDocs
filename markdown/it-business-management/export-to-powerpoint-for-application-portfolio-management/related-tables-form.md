@@ -37,7 +37,7 @@ Parent relation column
 
 </td><td>
 
-The column that defines the relationship between the parent and child tables. This field determines how the child table data is joined to the parent record.For more information on how to manage Related Tables, see [Manage Related Tables and Scripted Elements forms](../task/manage-components-export-ppt.md).
+The column that defines the relationship between the parent and child tables. This field determines how the child table data is joined to the parent record.For more information on how to manage Related Tables, see [Manage Related Tables and Scripted Elements forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../task/manage-components-export-ppt.md).
 
 </td></tr><tr><td>
 
@@ -56,5 +56,5 @@ Advanced
 Expand this section to access advanced configuration options for controlling how the related table data is rendered in the PowerPoint export, including field mappings, sort order, and display formatting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Export to PowerPoint Reference](export-ppt-reference.md)
+</table>**Parent Topic:**[Export to PowerPoint Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-reference.md)
 

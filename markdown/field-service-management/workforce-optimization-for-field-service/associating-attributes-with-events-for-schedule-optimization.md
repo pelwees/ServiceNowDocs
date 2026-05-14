@@ -113,5 +113,5 @@ Schedule Optimization calculates the travel duration to the event and from the e
 **Related topics**  
 
 
-[Configuring Schedule Optimization](schedule-optimization-engine.md)
+[Configuring Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/schedule-optimization-engine.md)
 

@@ -195,7 +195,7 @@ The number of seconds to cache the client session. After an initial CORS request
 
 ## What to do next
 
-[Add the portable Virtual Agent chat widget to a third-party website](add-portable-va-client-website.md).
+[Add the portable Virtual Agent chat widget to a third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-portable-va-client-website.md).
 
-**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](../concept/use-portable-va-web-client.md)
+**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-portable-va-web-client.md)
 

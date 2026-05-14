@@ -43,14 +43,14 @@ Role required: web\_service\_admin or admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md)
 
 **Related topics**  
 
 
-[SOAP web services security](../concept/c_SOAPWebService.md#SOAP-web-services-security)
+[SOAP web services security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md#SOAP-web-services-security)
 
-[WS-Security](../concept/c_SOAPWebService.md#WS-Security)
+[WS-Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md#WS-Security)
 
-[WS-Security profiles](../concept/c_SOAPWebService.md#WS-Security-profiles)
+[WS-Security profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md#WS-Security-profiles)
 

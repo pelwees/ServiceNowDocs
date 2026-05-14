@@ -29,7 +29,7 @@ Use an MCP client application, such as Moveworks or Claude, with the ITOM MCP Se
 
 ## Before you begin
 
-Verify that the ITOM MCP Server is active and the required plugins are installed on your instance. For more information, see [Activate the ITOM MCP server](activate-itom-mcp-server.md).
+Verify that the ITOM MCP Server is active and the required plugins are installed on your instance. For more information, see [Activate the ITOM MCP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-itom-mcp-server.md).
 
 Role required: sn\_sow\_slo.slo\_operator
 
@@ -52,5 +52,5 @@ Role required: sn\_sow\_slo.slo\_operator
 
 ## What to do next
 
-If you created an SLO, you can learn more about SLOs, including SLO types and compliance periods, in [Working with reliability metrics](../../slo-management/concept/sr-work-SLI-SLO.md). To edit or deactivate an SLO, see [Edit a reliability metric](../../slo-management/task/sr-edit-sli-slo.md).
+If you created an SLO, you can learn more about SLOs, including SLO types and compliance periods, in [Working with reliability metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../slo-management/concept/sr-work-SLI-SLO.md). To edit or deactivate an SLO, see [Edit a reliability metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../slo-management/task/sr-edit-sli-slo.md).
 

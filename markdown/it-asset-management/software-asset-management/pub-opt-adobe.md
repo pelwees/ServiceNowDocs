@@ -78,10 +78,10 @@ Software Subscriptions\[samp\_sw\_subscription\]
 Number of users not having a record in the User \[sys\_user\] table of your ServiceNow instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Integrating with Adobe Cloud](../concept/adobe-cloud-integration.md)
+[Integrating with Adobe Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/adobe-cloud-integration.md)
 

@@ -26,7 +26,7 @@ For more information on support levels, see [Application support for domain sepa
 
 The Dispute Rules Content Pack for Mastercard application provides questionnaires for the intake of dispute related information under various dispute categories as per Mastercard guidelines.
 
-**Parent Topic:**[Dispute Rules Content Pack for Mastercard reference](dispute-rules-content-pack-for-mastercard-reference.md)
+**Parent Topic:**[Dispute Rules Content Pack for Mastercard reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-reference.md)
 
 **Related topics**  
 

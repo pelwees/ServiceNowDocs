@@ -29,15 +29,15 @@ A method of increasing page usability is to tailor the look and feel of componen
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch with responsive authoring.
 
-    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  At the top, check that the desktop form factor icon is selected.
 
-    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-desktop.png)
+    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-desktop.png)
 
 5.  On the stage, select **+ Add content**.
 
@@ -53,7 +53,7 @@ A method of increasing page usability is to tailor the look and feel of componen
 
 11. Select the mobile form factor icon.
 
-    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-mobile.png)
+    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-mobile.png)
 
     At the mobile form factor, the list component is crowded and contains both vertical and horizontal scroll bars.
 
@@ -73,7 +73,7 @@ A method of increasing page usability is to tailor the look and feel of componen
 
     3.  Select the **Hide list actions** option.
 
-        ![Header section of the configuration panel's configure tab.](../image/responsive-author-config2.png)
+        ![Header section of the configuration panel's configure tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-config2.png)
 
         As you made each change, the stage updated automatically. The header is a smaller size, the refresh time was removed, and the list actions icon was removed.
 
@@ -97,10 +97,10 @@ A method of increasing page usability is to tailor the look and feel of componen
 
 17. Select the mobile cascade icon next to any option or field to confirm that the value is for the mobile form factor.
 
-    ![Configuration panel with configure tab displayed and black arrow pointing to value is specific message.](../image/responsive-author-config3.png)
+    ![Configuration panel with configure tab displayed and black arrow pointing to value is specific message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-config3.png)
 
 18. Select the tablet and the desktop form factor icons at the top to confirm that no changes were made to the larger form factors.
 
 
-**Parent Topic:**[Responsive authoring](../concept/responsive-authoring.md)
+**Parent Topic:**[Responsive authoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/responsive-authoring.md)
 

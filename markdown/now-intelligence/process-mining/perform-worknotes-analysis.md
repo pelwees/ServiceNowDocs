@@ -31,7 +31,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     A window is displayed with all the details.
 
-    ![Work notes analysis](../image/worknote-investigate.png)
+    ![Work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/worknote-investigate.png)
 
 4.  From the **Investigate** section, select **Worknotes analysis**.
 
@@ -41,10 +41,10 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     The result is displayed.
 
-    ![Work notes analysis result](../image/worknotes-result.png)
+    ![Work notes analysis result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/worknotes-result.png)
 
-    Select ![View details icon](../image/worknotes-icon.png) to view all items with the same reasons.
+    Select ![View details icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/worknotes-icon.png) to view all items with the same reasons.
 
 
-**Parent Topic:**[Work notes analysis](../concept/worknotes-analysis.md)
+**Parent Topic:**[Work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/worknotes-analysis.md)
 

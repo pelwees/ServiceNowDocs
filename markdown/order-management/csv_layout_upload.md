@@ -25,7 +25,7 @@ Access a layout from its corresponding blueprint administration page.
 2.  Click the Layouts tab \(3\).
 3.  Click the name of the blueprint you want to access.
 
-![CSV layout upload](../images/cpq-csv-layout-upload-layouts-tab.png)
+![CSV layout upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-csv-layout-upload-layouts-tab.png)
 
 To start a new layout, click **Create Layout**. To edit an existing layout, click the name of a layout in the list.
 
@@ -35,7 +35,7 @@ When you begin a new layout, the New Layout window opens. You can import a CSV f
 
 [Sample layout file](https://drive.google.com/file/d/1lzNW_jGkdzdUGwm9rh8xL9BeSxhv3MEJ/view?usp=sharing)
 
-![CSV layout upload](../images/cpq-csv-layout-upload-new-layout.png)
+![CSV layout upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-csv-layout-upload-new-layout.png)
 
 When you edit an existing layout:
 
@@ -45,7 +45,7 @@ Import a layout CSV file by clicking **Replace** \(b\).
 
 Click **Save** \(c\) to replace the current layout with the edited layout. If CSV file upload fails, all errors found in the file will be shown to the administrator in an error dialog.
 
-![CSV layout upload](../images/cpq-csv-layout-upload-example-layout.png)
+![CSV layout upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-csv-layout-upload-example-layout.png)
 
 ## Using layout CSV file upload
 
@@ -381,9 +381,9 @@ For picklist display components that include images, when options are disabled, 
 **Related topics**  
 
 
-[Layout Wizard](layout_wizard.md)
+[Layout Wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_wizard.md)
 
-[Layout editor](layout_editor.md)
+[Layout editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_editor.md)
 
-[Configure the Matrix Loader](cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 

@@ -25,7 +25,7 @@ The KMF key structure uses the SafeNet KeySecure Hardware Security Module \(HSM\
 
 Envelope encryption is the practice of encrypting a key with another key, also referred to as wrapping. Module keys are envelope encrypted by the Instance Key Encryption Key \(IKEK\), which in turn is envelope encrypted by the Instance Root Key \(IRK\), which is finally envelope encrypted by the Root Key \(RK\). Since the IRK can only be accessed by the HSM, the IKEK must be uploaded for decryption.
 
-![Envelope encryption flow for ServiceNow keys](../../encryption/image/envelope-encryption.png)
+![Envelope encryption flow for ServiceNow keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/image/envelope-encryption.png)
 
 At the instance level, KMF defines several keys that are used internally for varying cryptographic purposes throughout the ServiceNow AI Platform.
 
@@ -152,5 +152,5 @@ Instance
 Specific encryption keys used for the IDR process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the Key Management Framework](../../encryption/concept/explore-kmf.md)
+</table>**Parent Topic:**[Exploring the Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/concept/explore-kmf.md)
 

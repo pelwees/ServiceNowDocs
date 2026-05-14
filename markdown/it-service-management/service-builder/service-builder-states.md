@@ -67,8 +67,8 @@ A service item is in the **Draft** state in one of these scenarios:
 **Note:** In the **Draft** state \(checked out\), the item displays in both Service Builder and in Service Portfolio Management in one or more of the following ways:
 
         -   The word \[DRAFT\] is in front of the checked out item name.
-        -   A red dot \(![Red dot](../image/sb-service-red-dot.png)\) is next to the item, signifying that it's read only.
-        -   A clear triangle warning symbol \(![Clear triangle](../image/sb-service-triangle.png)\) is next to the item name, signifying it's the new copy \(DRAFT\) that's being worked on.
+        -   A red dot \(![Red dot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-builder/../image/sb-service-red-dot.png)\) is next to the item, signifying that it's read only.
+        -   A clear triangle warning symbol \(![Clear triangle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-builder/../image/sb-service-triangle.png)\) is next to the item name, signifying it's the new copy \(DRAFT\) that's being worked on.
     -   The published item remains in the **Published** state and the **Checked out** field is set to **True**.
     -   After editing and submitting the item, the edits to the draft are merged with the related published item, and then the draft version is deleted.
 

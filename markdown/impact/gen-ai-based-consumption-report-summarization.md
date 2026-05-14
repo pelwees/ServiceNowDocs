@@ -15,7 +15,7 @@ View a concise summary of the consumption report in the Impact store application
 
 ## Before you begin
 
-Configure the Now Assist consumption report summarization for Impact application to use the generative AI skills. For more information, see [Activate Now Assist skills in Now Assist for Impact](activate-now-assist-skills-in-now-assist-for-impact_0.md).
+Configure the Now Assist consumption report summarization for Impact application to use the generative AI skills. For more information, see [Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/activate-now-assist-skills-in-now-assist-for-impact_0.md).
 
 **Note:** Access to the AI-based consumption report summarization feature requires a Pro Plus license for any ServiceNow product.
 
@@ -41,8 +41,8 @@ Use the Gen AI based consumption report summary to view the following:
 
 3.  Provide feedback for the summary by selecting the thumbs-up ![](../../../reuse/icons/product-icons/thumbs-up-outline-24.svg) or thumbs-down ![](../../../reuse/icons/product-icons/thumbs-down-outline-24.svg) icons.
 
-4.  Copy the summary to use its information outside the app, for example, for including in an email or editing before forwarding, by selecting the Copy to clipboard icon ![Copy to clipboard](../image/copytoclipboard.png).
+4.  Copy the summary to use its information outside the app, for example, for including in an email or editing before forwarding, by selecting the Copy to clipboard icon ![Copy to clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/copytoclipboard.png).
 
-5.  If you think that data might have changed after you viewed the summary, refresh the summary information by selecting the redo icon ![Refresh](../image/refresh_aisummary.png).
+5.  If you think that data might have changed after you viewed the summary, refresh the summary information by selecting the redo icon ![Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/refresh_aisummary.png).
 
 

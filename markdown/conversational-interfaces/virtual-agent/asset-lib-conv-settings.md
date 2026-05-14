@@ -17,7 +17,7 @@ Manage asset settings from the Asset library for individual assets.
 
 To manage the settings for an asset directly from the Asset library page, select the **Show actions for this row** icon \(![](../images/icon-show-actions-for-this-row.png)\) and select **Conversational settings**.
 
-![Conversational settings for an asset in the Asset library.](../images/asset-lib-conv-set-01.png)
+![Conversational settings for an asset in the Asset library.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/asset-lib-conv-set-01.png)
 
 Use the conversational settings module to edit the settings depending on your asset type. Asset settings vary depending on the asset type. The following table contains the editable settings for each asset type.
 
@@ -29,7 +29,7 @@ Use the conversational settings module to edit the settings depending on your as
 |Now Assist Custom skills|Assistants, Roles, Discoverable \(assistants\), Visible \(assistants\)|
 |AI Agents|Assistants, Roles, Discoverable \(assistants\), Visible \(assistants\)|
 
-![Conversational settings module.](../images/asset-lib-conv-set-02.png)
+![Conversational settings module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/asset-lib-conv-set-02.png)
 
 The following fields are available on the Conversational settings module. Depending on the asset type, you can update the various fields.
 
@@ -98,5 +98,5 @@ If an asset is selected as Visible, it appears whenever the **Show me everything
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+</table>**Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/conversation-designer-virtual-agent.md)
 

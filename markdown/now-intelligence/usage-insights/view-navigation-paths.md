@@ -25,7 +25,7 @@ A navigation path shows the frequency of specific, ordered paths within the appl
 
 **Note:** Navigation path data is sampled to 15% by default. Toggle **Use data sampling** off to analyze the full data set.
 
-![Navigation path visualization](../../../use/par-for-workspace/image/uxa-nav-path-example.png)
+![Navigation path visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-nav-path-example.png)
 
 ## Viewing and interacting with a navigation path
 
@@ -61,5 +61,5 @@ Change the root screen several ways:-   Choose a start screen from the list labe
 Choose Session start from the **Navigation path analysis starting with** list to return to the full navigation path analysis.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+</table>**Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/concept/using-uxa.md)
 

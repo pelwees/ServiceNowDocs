@@ -58,5 +58,5 @@ If automatic setup fails, you can create a MID Server distributed cluster manual
 **Related topics**  
 
 
-[MID Server and MID Server distributed cluster for Metric Intelligence](../concept/ops-intelligence-mid-server.md)
+[MID Server and MID Server distributed cluster for Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../concept/ops-intelligence-mid-server.md)
 

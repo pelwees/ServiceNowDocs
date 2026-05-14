@@ -23,10 +23,10 @@ Define your own TRM phase or edit an existing TRM phase.
 |Color|Color that defines the TRM phase. Select a color from the drop-down list.|
 |Shape|Shape that defines the TRM phase. Select a shape from the drop-down list.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)
+[Add or edit a TRM phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-trm-phase.md)
 

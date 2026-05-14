@@ -66,5 +66,5 @@ If this property is set to false, the License and Permit Playbooks data is expos
 -   Location: System Property \[/sys\_properties\_list.do\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md)
+</table>**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md)
 

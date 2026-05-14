@@ -28,7 +28,7 @@ For a session bypassing the Edge Encryption proxy:
 
 For a session using the encryption proxy, the user can open and download existing attachments and add new attachments.
 
-**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
 ## Configure attachment encryption
 

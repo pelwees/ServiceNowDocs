@@ -19,21 +19,21 @@ Playbook resources include the following:
 
 <table id="table_jrl_qvg_vkb"><thead><tr><th>
 
-[Security Incident Response playbooks](cj-sir-about-flows.md)
+[Security Incident Response playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-about-flows.md)
 
 </th><th>
 
-[Security Incident Response playbook actions](cj-sir-flow-library-1.md)
+[Security Incident Response playbook actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-flow-library-1.md)
 
 </th></tr></thead><tbody><tr><td>
 
 The playbooks provided with the base system are designed to accelerate the security incident investigation process by automating complex and mundane tasks.
 
- Playbooks are highly configurable and are built using ServiceNow's Flow Designer technology. To configure, copy the playbook provided with the base system and modify it using the simple drag-and-drop graphical interface. See [Security Incident Response playbooks](cj-sir-about-flows.md).
+ Playbooks are highly configurable and are built using ServiceNow's Flow Designer technology. To configure, copy the playbook provided with the base system and modify it using the simple drag-and-drop graphical interface. See [Security Incident Response playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-about-flows.md).
 
 </td><td>
 
-Complex actions that are critical for building playbooks are available as **Action Libraries**. These Action Libraries enable security administrators to create playbooks without writing any complicated code. See [Security Incident Response playbook actions](cj-sir-flow-library-1.md).
+Complex actions that are critical for building playbooks are available as **Action Libraries**. These Action Libraries enable security administrators to create playbooks without writing any complicated code. See [Security Incident Response playbook actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-flow-library-1.md).
 
 </td></tr></tbody>
 </table>

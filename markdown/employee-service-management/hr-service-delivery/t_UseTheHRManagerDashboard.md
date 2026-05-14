@@ -28,7 +28,7 @@ By default, the following reports appear on the Manager Dashboard:
 -   Active HR Cases by Assignment And State: Review the numbers of HR cases assigned to each HR agent by state, for example, **Ready** or **Work in Progress**, to help you evaluate the effectiveness of each HR agent.
 -   HR Case Transfer Rate: Review the number of cases transferred to a different HR agent by case category to determine whether the right assignments are taking place.
 
-![HR Manager Dashboard](../image/hr-mgr-dashboard.png)
+![HR Manager Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-mgr-dashboard.png)
 
 You can customize any dashboard that you can access to add or remove reports and other widgets. For example, an HR benefits administrator adds a report to the Manager Dashboard that has the assignment and state of HR cases in the **Benefits** category.
 
@@ -45,5 +45,5 @@ You can customize any dashboard that you can access to add or remove reports and
     |**Save the chart as an image file**|If a menu icon appears when you point your cursor to a chart, you can click the icon to export the chart to an image file.|
 
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRDashboardsReports.md)
 

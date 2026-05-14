@@ -31,9 +31,9 @@ In its life cycle, an audit observation moves through the following states:
 
 ## Status workflow of an audit observation in workspace
 
-1.  An audit user with the role sn\_audit.user creates an observation. See [Create an observation for an engagement](../task/create-observation-audit-ws.md).
+1.  An audit user with the role sn\_audit.user creates an observation. See [Create an observation for an engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../task/create-observation-audit-ws.md).
     1.  To create an observation, navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
-    2.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+    2.  Click the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
     3.  Click **All engagements** or **My engagements** in the Execution list.
     4.  Click the link to the engagement record in the **Name** column.
     5.  Click the **Observations** tab.
@@ -42,7 +42,7 @@ In its life cycle, an audit observation moves through the following states:
 2.  The observation creator assigns respondents and peer reviewers to the observation. The respondents are the entity owners and control owners. The peer reviewers are the auditors and audit leads of the engagement.
 3.  The observation creator can request a peer review of the observation. In that case, the following happens:
 
-    1.  The peer reviewer gets a notification to perform the peer review. The peer reviewer can view the task under **My pending tasks** &gt; **All** by clicking the tasks icon \(![Tasks icon](../image/TasksIcon.jpg)\) in the workspace.
+    1.  The peer reviewer gets a notification to perform the peer review. The peer reviewer can view the task under **My pending tasks** &gt; **All** by clicking the tasks icon \(![Tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/TasksIcon.jpg)\) in the workspace.
 
         **Note:** The peer reviewer can also navigate to **Tasks** &gt; **My tasks** &gt; **Open** in the Home page of the workspace.
 

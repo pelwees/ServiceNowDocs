@@ -29,7 +29,7 @@ Depending on the context of the case that you’re working on, a decision tree c
 
 2.  Open a customer service case that you want to work on.
 
-3.  Select the Recommended Actions icon \(![Recommended Actions icon.](../image/nba-icon.png)\) in the contextual side panel.
+3.  Select the Recommended Actions icon \(![Recommended Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/nba-icon.png)\) in the contextual side panel.
 
     Depending on the case context, the side panel might display Recommended Actions cards for guidances and decision trees.
 
@@ -42,7 +42,7 @@ Depending on the context of the case that you’re working on, a decision tree c
 
 5.  Work your way through a decision tree by providing inputs and proceeding by going to the next or previous set of questions, or dismissing the decision tree flow.
 
-6.  In the View my responses tab, select the Edit icon ![Edit icon](../image/icon-pencil-ac.png)\) next to the node to modify your selection or entered value.
+6.  In the View my responses tab, select the Edit icon ![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-pencil-ac.png)\) next to the node to modify your selection or entered value.
 
 7.  Select the action button to apply the resolution or take the action proposed.
 

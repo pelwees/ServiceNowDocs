@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Wait For Images component. For more information about these properties, see [Properties of the Wait components](../reference/wait-properties.md).
+You can configure the properties for the Wait For Images component. For more information about these properties, see [Properties of the Wait components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/wait-properties.md).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ You can configure the properties for the Wait For Images component. For more inf
 
 2.  Drag the Wait For Images component to the Design surface.
 
-3.  To add images, click the add image icon![add image icon.](../image/add-image-icon.png) on the Wait For Images component title bar.
+3.  To add images, click the add image icon![add image icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png) on the Wait For Images component title bar.
 
-4.  To capture the image that you want the component to find first, click the ![Camera icon](../image/camera-icon.png).
+4.  To capture the image that you want the component to find first, click the ![Camera icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/camera-icon.png).
 
 5.  To select a region, press the **CTRL+SHIFT** keys.
 
@@ -48,5 +48,5 @@ You can configure the properties for the Wait For Images component. For more inf
 7.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Wait](../concept/wait.md)
+**Parent Topic:**[Wait](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/wait.md)
 

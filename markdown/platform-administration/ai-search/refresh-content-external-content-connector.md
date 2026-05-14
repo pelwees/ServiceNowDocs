@@ -18,7 +18,7 @@ Refresh searchable content and metadata, including unchanged items, for an exter
 
 ## Before you begin
 
-To run crawls for external content connectors, your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](verify-adcv2-inbound-mtls-enabled.md).
+To run crawls for external content connectors, your instance must have inbound mTLS support enabled. For details on verifying that this feature is enabled on your instance, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-adcv2-inbound-mtls-enabled.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -45,7 +45,7 @@ You can force an external content connector to refresh some or all of its search
 
 The external content connector runs a one-time full content crawl to refresh its searchable content and metadata.
 
-This one-time crawl appears in the connector's crawl history with name **Force reindex** so you can monitor its status. For details on monitoring crawl history, see [Review crawl history for an external content connector](review-crawl-ext-cont-connector.md).
+This one-time crawl appears in the connector's crawl history with name **Force reindex** so you can monitor its status. For details on monitoring crawl history, see [Review crawl history for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/review-crawl-ext-cont-connector.md).
 
-**Parent Topic:**[Crawling content with External Content Connectors](../concept/using-ext-cont-connectors.md)
+**Parent Topic:**[Crawling content with External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/using-ext-cont-connectors.md)
 

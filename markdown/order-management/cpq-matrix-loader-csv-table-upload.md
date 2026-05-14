@@ -33,13 +33,13 @@ Role required: Admin
 
 1.  In the Admin navigation pane, click **Tables**.
 
-    ![tables list](../images/cpq-tables-pane.png)
+    ![tables list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-pane.png)
 
 2.  In the upper right, click **+ New**.
 
 3.  Name the table.
 
-    ![Create table screen](../images/cpq-create-table.png)
+    ![Create table screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-create-table.png)
 
 4.  Name the columns, select their table type, and add a description.
 
@@ -51,11 +51,11 @@ Role required: Admin
 
 7.  In CPQ Admin, click **Matrix Loader** in the navigation pane.
 
-    ![Matrixloader menu](../images/cpq-matrix-loader.png)
+    ![Matrixloader menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-matrix-loader.png)
 
 8.  Upload the CSV file to the Matrix Loader.
 
-    ![import matrix loader](../images/cpq-matrix-loader-import.png)
+    ![import matrix loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-matrix-loader-import.png)
 
     Note that if the name of the table and CSV file contains the word "table," the Matrix Loader will automatically select the Upload Type as "table." Otherwise, you will need to manually select the Upload Type.
 
@@ -63,13 +63,13 @@ Role required: Admin
 
 10. To confirm that the import was successful, check the import status.
 
-    ![Import status](../images/cpq-matrix-loader-import-status.png)
+    ![Import status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-matrix-loader-import-status.png)
 
     If there are error messages, confirm that the CSV file name and table name are the same, and that the column names in the table and the CSV file match exactly. Then upload the corrected CSV.
 
 11. In the Tables section of the Admin navigation pane, click the table, and view the table to confirm that column data imported properly.
 
-    ![tables list](../images/cpq-sample-table.png)
+    ![tables list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sample-table.png)
 
 
 ## Result
@@ -79,7 +79,7 @@ You are now ready to create queries using the new table. Updates to managed tabl
 **Related topics**  
 
 
-[Configure the Matrix Loader](../concept/cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/cpq-using-the-matrix-loader.md)
 
-[Matrix Loader: CSV rules upload](../concept/matrix_loader_csv_rules_upload.md)
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/matrix_loader_csv_rules_upload.md)
 

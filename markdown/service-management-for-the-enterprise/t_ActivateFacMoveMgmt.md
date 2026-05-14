@@ -19,19 +19,19 @@ Role required: admin
 
 For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[Configure Enterprise Move](t_ConfigureEnterpriseMove.md)**  
+-   **[Configure Enterprise Move](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ConfigureEnterpriseMove.md)**  
 Facilities or Move administrators can set configurations to determine how the system displays colors on the move planning tool.
--   **[Installed with Facilities Move Management](../reference/r_InstallWFacMoveMgmt.md)**  
+-   **[Installed with Facilities Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_InstallWFacMoveMgmt.md)**  
 Several types of components are installed with the Facilities Move Management plugin.
 
-**Parent Topic:**[Facilities Service Management overview](../../facilities-service-management/concept/c_FacilitiesServiceManagement.md)
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-service-management/concept/c_FacilitiesServiceManagement.md)
 
 **Related topics**  
 
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-[Activate Facilities Service Management](../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
+[Activate Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
 
-[Activate Facilities Visualization Workbench](../../facilities-interactive-facility-maps/task/t_ActivateFacVisWorkbench.md)
+[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-interactive-facility-maps/task/t_ActivateFacVisWorkbench.md)
 

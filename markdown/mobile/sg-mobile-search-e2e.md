@@ -79,10 +79,10 @@ Enable Photo Search
 
 </td><td>
 
-Whether photo search is available for your search bar. If the **glide.sg.image\_recognition.search.enable** system property is false, you cannot select this option. For details on this property see [Create the image search system property](sg-image-search-prop.md).
+Whether photo search is available for your search bar. If the **glide.sg.image\_recognition.search.enable** system property is false, you cannot select this option. For details on this property see [Create the image search system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-image-search-prop.md).
 
 </td></tr></tbody>
-</table>4.  In the **Search Application Configuration** field, click the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\).
+</table>4.  In the **Search Application Configuration** field, click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\).
 
 5.  In the search application configuration list, click **New**.
 
@@ -123,7 +123,7 @@ Whether photo search is available for your search bar. If the **glide.sg.image\_
 
     **Note:** Search sources display from the lowest order to the highest.
 
-    A search application configuration with an associated search source. ![Example search application configuration with an associated search source](../image/scc-example.png)
+    A search application configuration with an associated search source. ![Example search application configuration with an associated search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/scc-example.png)
 
 11. Repeat steps 8 through 10 to add additional search sources if you created them in previous steps.
 
@@ -133,13 +133,13 @@ Whether photo search is available for your search bar. If the **glide.sg.image\_
 
 14. In the **Global Search M2M Item Configuration** list, click **New**.
 
-15. In the Global Search M2M Item Configuration form, click the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\) next to the **Item Configuration** field.
+15. In the Global Search M2M Item Configuration form, click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) next to the **Item Configuration** field.
 
 16. Select the item configuration you want to use for a table that contains your desired search results.
 
     For example, if you want your search to return problem records, select the item configuration that has **problem** in its **Table** field.
 
-    ![Item configuration records filtered for the problem table](../image/master-item-selection.png)
+    ![Item configuration records filtered for the problem table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/master-item-selection.png)
 
 17. On the Global Search M2M Item Configuration form, click **Submit**.
 
@@ -148,5 +148,5 @@ Whether photo search is available for your search bar. If the **glide.sg.image\_
 19. Click **Save** when you have finished adding item configurations.
 
 
-**Parent Topic:**[Configure search criteria](../concept/sg-create-custom-search.md)
+**Parent Topic:**[Configure search criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-create-custom-search.md)
 

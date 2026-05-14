@@ -95,5 +95,5 @@ The date since historical incidents were ingested from Cortex XSIAM.
 
 ## What to do next
 
-[Automate incident updates and closures](pan-xsiam-automate-inc-updates.md)
+[Automate incident updates and closures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-xsiam-automate-inc-updates.md)
 

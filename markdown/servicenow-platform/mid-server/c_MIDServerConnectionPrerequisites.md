@@ -61,14 +61,14 @@ These methods are used for discovering various devices on a network and are spec
 -   **SNMP - Network**: For network devices, Discovery uses an SNMP scan to get device specific MIBs and OIDs. SNMP is a common protocol used on most routers, switches, printers, load balancers and various other network enabled devices. Use a community string \(password\) for authentication when scanning a device via SNMP. Many devices have a default community string of **public** which Discovery uses by default when querying a target. Define additional community strings in the [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_SNMPCredentials.md) form which are tried in succession, along with **public**, until a successful query returns. In addition to the credentials, the platform also requires the ability to make SNMP requests on port 161 from the MID Server to the target. If Access Control Lists \(ACLs\) are in place to control the IP addresses that can make these queries, ensure that the IP address of the MID Server is in the ACL. Discovery supports SNMP versions 1, 2c, and 3.
 -   **WBEM:** Web-Based Enterprise Management \(WBEM\) defines a particular implementation of the Common Information Model \(CIM\), including protocols for discovering and accessing each CIM implementation. WBEM requires either of two ports, 5989 or 5988 and uses the HTTP transport protocol. WBEM supports SSL encryption and uses CIM user name/password credentials. Discovery launches a WBEM port probe to detect activity on the target ports and to append gathered data to a classification probe that explores CIM Servers.
 
-**Parent Topic:**[Configuring MID Server](configure-mid-server.md)
+**Parent Topic:**[Configuring MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md)
 
 **Related topics**  
 
 
-[Installing the MID Server](mid-server-installation.md)
+[Installing the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md)
 
-[Configuring MID Servers](c_MIDServerConfiguration.md)
+[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
 ## Configure MID Server network connectivity
 
@@ -81,10 +81,10 @@ Role required: admin
 <table id="table_xsh_kvf_wgb"><tbody><tr><td>
 
 ![Setup indicator for connection prerequisites
-                                            phase](../image/ProgressBarConnect.png)
+                                            phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConnect.png)
 
 </td></tr></tbody>
-</table>Make sure that the host machine meets the requirements specified in the [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md).
+</table>Make sure that the host machine meets the requirements specified in the [MID Server system requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerSystemRequirements.md).
 
 ### About this task
 
@@ -133,5 +133,5 @@ Additionally, for the MID Server to access your ServiceNow instance, satisfy the
 
 ### What to do next
 
-After the network is prepared, proceed to [Installing the MID Server](mid-server-installation.md).
+After the network is prepared, proceed to [Installing the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md).
 

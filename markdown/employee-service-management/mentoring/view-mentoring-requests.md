@@ -17,7 +17,7 @@ Track any mentoring requests you've sent or received from others.
 
 ## Before you begin
 
-Enroll as a mentee or a mentor. See [Enroll as a mentor or mentee](enroll-mentoring.md).
+Enroll as a mentee or a mentor. See [Enroll as a mentor or mentee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
 Role required: none
 

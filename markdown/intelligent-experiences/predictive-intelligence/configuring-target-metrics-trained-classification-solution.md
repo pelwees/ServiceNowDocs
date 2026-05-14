@@ -38,7 +38,7 @@ Here are the basic steps for configuring a target metric for your solution.
 
 Here's a sample landing page for a recently trained classification solution. As you can see, the precision metric is 44.18, recall is 41.26, and coverage is 77.23.
 
-![This sample image shows the estimated values set for solution precision, recall and coverage metrics.](../images/metric-default-solution.png)
+![This sample image shows the estimated values set for solution precision, recall and coverage metrics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-default-solution.png)
 
 If you need to adjust these default values for a use case, refer to the sample configurations below. For example, based on the classification solution you're implementing, you might want to change the target metric value for precision, recall, or coverage. Keep in mind that when you change the target metric value for one metric, such as precision, it impacts the values of the recall and coverage metrics as well.
 
@@ -46,17 +46,17 @@ If you need to adjust these default values for a use case, refer to the sample c
 
 In this example scenario, you're replacing a manual triage process for routing incident records with an ML classification solution that automatically assigns the records to the correct assignment group. For this scenario, you have a target value in mind and the system must predict correctly at least 80% of the time. So you set the precision metric value to `80` and click **Apply Values**.
 
-![This image shows you how to set the Precision metric to 80%.](../images/metric-precision-example.png)
+![This image shows you how to set the Precision metric to 80%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-precision-example.png)
 
 Here are the metric values the system applied to the solution. In this scenario, the precision value of 80.04 slightly exceeded your request for 80%, so you're likely satisfied with that value.
 
-![This image shows you the estimated precision, recall, and coverage values the system assigned to the solution based on your Precision input value of 80%.](../images/metric-precision-example-result.png)
+![This image shows you the estimated precision, recall, and coverage values the system assigned to the solution based on your Precision input value of 80%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-precision-example-result.png)
 
 ## Coverage configuration example
 
 In another example scenario where you're replacing a manual triage process for routing incident records, your minimum goal is to predict at least 70% of incoming incidents in the first quarter of the year. So you set the coverage metric value to `70` and click **Apply Values**.
 
-![How to set the Coverage metric to 70%.](../images/metric-coverage-example.png)
+![How to set the Coverage metric to 70%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-coverage-example.png)
 
 The metric values the system applied to the solution are shown in the following image. The coverage metric value increased from 35.99 to 55.98. However, the precision metric decreased from 80.18 to 64.97. This could be because you set the coverage metric to a relatively high value of 70, or perhaps because of how the data you're training is distributed.
 
@@ -66,11 +66,11 @@ The metric values the system applied to the solution are shown in the following 
 
 In another scenario, classifying if an incoming email is a Phish or not can be an important use case in a security-related machine learning solution. In this situation, it's very important to identify every Phish, and it may be okay to report a non-Phish as a Phish occasionally. However, no real Phish should be classified as a non-Phish. In such situations, the recall metric must have a high value, which might lead to lower percentages for precision and coverage. So here you can set the recall metric to `95` and click **Apply Values**.
 
-![This image shows you how to set the Recall metric to 95%.](../images/metric-recall-example.png)
+![This image shows you how to set the Recall metric to 95%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-recall-example.png)
 
 Here are the metric values the system applied to the solution. The recall metric value increased from 54.87 to 61.03. However, the precision metric decreased from 60.1 to 55.44. This is likely because you set the recall metric to the high value of 95.
 
-![The estimated precision, recall, and coverage values that the system assigned to the solution based on your Recall input value of 95%.](../images/metric-recall-example-result.png)
+![The estimated precision, recall, and coverage values that the system assigned to the solution based on your Recall input value of 95%.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-recall-example-result.png)
 
 ## Class-level results for the solution metric values you apply to your solution
 
@@ -78,5 +78,5 @@ The following image shows an example of the class-level results the system appli
 
 By Sorting \(z to a\) on the Estimated Precision column you can see which classes have the highest precision for the solution.
 
-![The class-level results the system applied to a solution's precision, coverage, and recall statistics for 37 classes.](../images/metric-all-example-result-classes.png)
+![The class-level results the system applied to a solution's precision, coverage, and recall statistics for 37 classes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/metric-all-example-result-classes.png)
 

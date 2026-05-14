@@ -41,7 +41,7 @@ The Spend Savings Estimation \[sn\_slm\_opt\_spend\_savings\_estimation\] table 
 |Volume based rebates|Decimal|Total rebates earned based on the payments made through the virtual card.|
 |Total savings|Currency|Total savings earned from process savings, working capital, and earned rebates.|
 
-For more information, see [Supplier Payment Optimization data model](supp-opt-data-model.md).
+For more information, see [Supplier Payment Optimization data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-opt-data-model.md).
 
-**Parent Topic:**[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+**Parent Topic:**[Supplier Payment Optimization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-payment-opt-ref.md)
 

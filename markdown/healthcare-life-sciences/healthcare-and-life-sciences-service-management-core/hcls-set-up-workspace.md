@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure patient information in Healthcare workspace](hcls-config-patient-info.md).
+[Configure patient information in Healthcare workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-patient-info.md).
 
 </td><td>
 
@@ -33,7 +33,7 @@ Configure the Patient information related list inHealthcare workspace used by he
 
 </td></tr><tr><td>
 
-[Display patient information on a healthcare case](hcls-enable-viewing-patient-info.md).
+[Display patient information on a healthcare case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-enable-viewing-patient-info.md).
 
 </td><td>
 

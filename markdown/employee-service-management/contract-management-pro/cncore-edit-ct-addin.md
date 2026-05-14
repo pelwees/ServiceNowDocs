@@ -47,7 +47,7 @@ Modify the metadata, signatories, or clauses using the Microsoft Word add-in for
 
 </td><td>
 
-[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
+[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md)
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Edit or delete signatories.
 
 </td><td>
 
-[Edit or delete participants using add-in](../concept/cncore-del-signatory-addin.md)
+[Edit or delete participants using add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-del-signatory-addin.md)
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Right-click the content control and select **Remove Content Control**.The conten
 
 7.  Complete clause mapping in the ServiceNow instance.
 
-    For more information, see [Complete clause mapping to build a clause library](cncore-clause-map-addin.md).
+    For more information, see [Complete clause mapping to build a clause library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-map-addin.md).
 
     -   Unmodified existing metadata, signatories, and clauses are retained along with their details.
     -   Deleted metadata, signatories, and clauses are deleted from the Template mappings, Participants, and Imported clauses related lists of the contract template.
@@ -88,23 +88,23 @@ Right-click the content control and select **Remove Content Control**.The conten
 9.  On finalizing the content of the contract document, select **Publish**.
 
 
--   **[Edit or delete participants using add-in](../concept/cncore-del-signatory-addin.md)**  
+-   **[Edit or delete participants using add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-del-signatory-addin.md)**  
 As a contract configurator, edit or delete a participant from a Microsoft Word document using the Microsoft Word add-in for ServiceNow Contracts.
--   **[Edit or delete table mappings in a contract template using Microsoft Word add-in](cncore-manage-table-mappings.md)**  
+-   **[Edit or delete table mappings in a contract template using Microsoft Word add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-table-mappings.md)**  
 As a contract configurator, edit or delete table mappings in a contract template using the Microsoft Word add-in.
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 
 
-[Edit a contract clause variation](cncore-edit-cv.md)
+[Edit a contract clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-cv.md)
 
-[Edit contract templates by manually adding content controls](cncore-edit-ct.md)
+[Edit contract templates by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct.md)
 
-[Create a contract template from an existing template](cncore-create-template-revision.md)
+[Create a contract template from an existing template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-template-revision.md)
 
-[Generate and preview a contract document from a template](cncore-preview-template.md)
+[Generate and preview a contract document from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-preview-template.md)
 
-[Delete a contract template](cncore-delete-template.md)
+[Delete a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-delete-template.md)
 

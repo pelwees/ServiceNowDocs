@@ -17,7 +17,7 @@ Enable dispatchers to respond to unexpected changes by configuring on demand int
 
 ## Before you begin
 
-Activate and configure intraday optimization. For more information, see [Activate intraday optimization](activate-intraday-optimization.md) and [Configure intraday optimization](configure-intraday-optimization.md).
+Activate and configure intraday optimization. For more information, see [Activate intraday optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-intraday-optimization.md) and [Configure intraday optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md).
 
 Role required: wm\_admin
 
@@ -31,7 +31,7 @@ This video demonstrates how to configure on demand optimization for dispatchers
 
 1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Administration** &gt; **Scheduling Attributes**.
 
-2.  Select an existing **Scheduling attribute** and proceed to step 3 or select **New** to [Create a scheduling attribute for Schedule Optimization](configure-scheduling-attributes.md).
+2.  Select an existing **Scheduling attribute** and proceed to step 3 or select **New** to [Create a scheduling attribute for Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-scheduling-attributes.md).
 
 3.  In the **On demand applicable policies** related list, select **Edit** to add a policy or select **New** to create a policy.
 
@@ -41,7 +41,7 @@ This video demonstrates how to configure on demand optimization for dispatchers
 
 5.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Intraday optimization** &gt; **Configurations**.
 
-6.  Select an existing **Intraday configuration** and proceed to step 7 or select **New** to [Configure intraday optimization](configure-intraday-optimization.md).
+6.  Select an existing **Intraday configuration** and proceed to step 7 or select **New** to [Configure intraday optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md).
 
 7.  In the **Qualifiers** tab, set **Enable on demand optimization** to true.
 
@@ -57,5 +57,5 @@ Intraday optimization can now be triggered on demand by dispatchers to adapt to 
 **Related topics**  
 
 
-[Run optimization for your groups or territories from Dispatcher Workspace](../concept/optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
+[Run optimization for your groups or territories from Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../concept/optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
 

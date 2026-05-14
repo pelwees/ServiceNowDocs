@@ -80,11 +80,11 @@ Legal entity that is responsible for this office location.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-    ![Office location.](../image/add_office_location.png)
+    ![Office location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_office_location.png)
 
 
--   **[Manage delivery to valid address](manage-shipping-address.md)**  
+-   **[Manage delivery to valid address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/manage-shipping-address.md)**  
 As an administrator, you can define one or multiple valid countries where a supplier can deliver the products.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 

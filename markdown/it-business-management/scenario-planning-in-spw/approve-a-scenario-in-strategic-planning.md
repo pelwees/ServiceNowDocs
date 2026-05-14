@@ -17,7 +17,7 @@ Approve a scenario that aligns with your organizational goals and offers the bes
 
 ## Before you begin
 
-Ensure that you have compared the scenarios and selected the one you want to approve. For more information, see [Compare scenarios](compare-scenarios-in-strategic-planning.md).
+Ensure that you have compared the scenarios and selected the one you want to approve. For more information, see [Compare scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/compare-scenarios-in-strategic-planning.md).
 
 Role required:
 
@@ -45,7 +45,7 @@ When you approve a scenario:
 
 4.  Select the **Approve scenario** button relevant to the scenario that you want to approve.
 
-    ![Approve scenario modal.](../image/approve-scenario-modal-spw.png)
+    ![Approve scenario modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../image/approve-scenario-modal-spw.png)
 
     While approving a scenario, you can:
 

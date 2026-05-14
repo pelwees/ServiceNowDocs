@@ -17,8 +17,8 @@ The mobile UI includes ServiceNow® branding.
 
 **Note:** The mobile browser experience is consistent with the ServiceNow Classic mobile app.
 
--   **[Mobile web UI](c_MobileWebUI.md)**  
+-   **[Mobile web UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/c_MobileWebUI.md)**  
 Access an instance using the browser on your mobile device.
--   **[Tablet interface](c_TabletSupport.md)**  
+-   **[Tablet interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/c_TabletSupport.md)**  
 Use a tablet to access your instance either app or from a browser.
 

@@ -17,5 +17,5 @@ Metric Intelligence enables you to capture, explore and analyze operational metr
 
 View and work with Metric Intelligence data in the Insight Explorer, Agent Workspace, and Service Operations Workspace interfaces.
 
-For details on the plugins activated with Metric Intelligence, see [Plugins or applications installed with ITOM AIOps](../../it-operations-management/reference/plugin-app-itom-health.md).
+For details on the plugins activated with Metric Intelligence, see [Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../it-operations-management/reference/plugin-app-itom-health.md).
 

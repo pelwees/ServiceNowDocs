@@ -21,11 +21,11 @@ You can use the Classic environment to define additional primary and secondary f
 
 As you define filters to be used in the Security Analyst Workspace, you can assign tags to indicate whether they can be used as primary or secondary filters. Primary filters are shown at the top of the security incident list.
 
-![Primary filter](../image/primary-filter.png)
+![Primary filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/primary-filter.png)
 
 Click **Edit** next to the Quick Filters option to select secondary \(or quick\) filters.
 
-![Secondary or quick filter selection](../image/secondary-filters.png)
+![Secondary or quick filter selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secondary-filters.png)
 
 Role required: admin or sn\_sec\_cmn.write
 
@@ -43,7 +43,7 @@ Role required: admin or sn\_sec\_cmn.write
 
         For example, the **Open Incidents with Priority = Critical** filter, uses these conditions.
 
-        ![Filter conditions](../image/filter-conditions.png)
+        ![Filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/filter-conditions.png)
 
     4.  Click **Submit**.
 

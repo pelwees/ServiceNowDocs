@@ -17,7 +17,7 @@ View license usage information for Bentley Systems and its software models in th
 
 From the Software Asset Workspace, access the publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting Bentley Systems from the list of publishers.
 
-![Publisher overview for Bentley Systems showing key metrics such as true-up cost, savings, unlicensed entities, progress indicators, peak concurrent usage, and top denied products](../image/publisher-overview-bentley.png "Publisher overview for Bentley Systems")
+![Publisher overview for Bentley Systems showing key metrics such as true-up cost, savings, unlicensed entities, progress indicators, peak concurrent usage, and top denied products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-overview-bentley.png "Publisher overview for Bentley Systems")
 
 <table id="table_jvt_wrl_g3c"><thead><tr><th>
 
@@ -96,7 +96,7 @@ Top denied products for Bentley Systems for the last 30 days.Select a bar to vie
 </td></tr></tbody>
 </table>You can view the key metrics on license usage information for a Bentley Systems software product by selecting the product on the list.
 
-![Publisher overview for Bentley Systems product SewerCAD showing key metrics such as true-up cost, savings, unlicensed entities, progress indicators, peak concurrent usage, and top denied products](../image/publisher-overview-sewercad.png "Publisher overview for SewerCAD")
+![Publisher overview for Bentley Systems product SewerCAD showing key metrics such as true-up cost, savings, unlicensed entities, progress indicators, peak concurrent usage, and top denied products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-overview-sewercad.png "Publisher overview for SewerCAD")
 
 <table id="table_sewercad"><thead><tr><th>
 
@@ -173,5 +173,5 @@ Denial trends
 Denial trends for SewerCAD for the last 30 days.Select a bar to view the complete list of users that have been denied the specified software product.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engineering license management](../concept/concurrent-licenses.md)
+</table>**Parent Topic:**[Engineering license management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/concurrent-licenses.md)
 

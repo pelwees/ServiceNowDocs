@@ -76,7 +76,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>    You can also convert an active SAFe story into a SAFe feature. For details, see [Related links and lists for a SAFe story](../reference/related-links-and-lists-of-a-safe-story.md).
+</table>    You can also convert an active SAFe story into a SAFe feature. For details, see [Related links and lists for a SAFe story](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/related-links-and-lists-of-a-safe-story.md).
 
 2.  On the form, fill in the fields.
 
@@ -244,13 +244,13 @@ Estimated duration for completion of the job.
 
 Use the SAFe stories related list to view and add stories to the feature.
 
--   **[Split a SAFe feature](split-a-safe-feature.md)**  
+-   **[Split a SAFe feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/split-a-safe-feature.md)**  
 Split a SAFe feature into two separate features so that you can track complete and incomplete stories. You can move the feature with the incomplete stories to your backlog or to a future program increment \(PI\) so that you can maintain accurate metrics of the previous sprints and PIs.
 
-**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+**Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/key-entities-SAFe.md)
 
 **Related topics**  
 
 
-[Define a story in SAFe](create-SAFestory.md)
+[Define a story in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)
 

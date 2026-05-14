@@ -53,5 +53,5 @@ The following table describes the recipient list of notifications and the associ
 |Smart assessment cancelled by RCM admin|Assessor|
 |Smart assessment reassigned|Assessor|
 
-**Parent Topic:**[Regulatory Change Management reference](rcm-reference.md)
+**Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 

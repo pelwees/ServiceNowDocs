@@ -88,5 +88,5 @@ After you complete the configuration, the state of the subscription item and of 
 
 ## What to do next
 
-[Accept the subscription](service-bridge-v2-accept-fds-subscription.md).
+[Accept the subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-accept-fds-subscription.md).
 

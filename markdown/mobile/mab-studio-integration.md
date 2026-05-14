@@ -17,5 +17,5 @@ ServiceNow Studio offers a streamlined platform for ServiceNow® development, al
 
 To learn more about ServiceNow Studio, see [ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/servicenow-studio-landing.md).
 
-![mobile app builder record open in studio](../image/mab-snstudio.png "Mobile App Builder in ServiceNow Studio")
+![mobile app builder record open in studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-snstudio.png "Mobile App Builder in ServiceNow Studio")
 

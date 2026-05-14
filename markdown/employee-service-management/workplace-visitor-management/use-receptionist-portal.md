@@ -174,32 +174,32 @@ Alternatively, you can drag the visitor card into the checked out visitors colum
 1.  Select **Create new visit**.
 2.  On the New visit form, fill in the fields.
 
-For a description of the field values, see [New visit form](../reference/new-visit-form.md).
+For a description of the field values, see [New visit form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/new-visit-form.md).
 
 3.  Select **Create Visit**.
 4.  Add internal or external visitors.
 
-For more information about adding visitors, see [Adding visitors](../concept/adding-visitors.md#).
+For more information about adding visitors, see [Adding visitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/adding-visitors.md#).
 
 5.  Select **Confirm**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Update a visitor registration](update-visitor-registration.md)
+[Update a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/update-visitor-registration.md)
 
-[View visitor registrations](view-visitor-registrations.md)
+[View visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-visitor-registrations.md)
 
-[View visitor policy confirmations](view-policy-confirmations.md)
+[View visitor policy confirmations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/visitor-registration-states.md)
 
-[Anonymize a visitor](anonymize-visitor.md)
+[Anonymize a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md)
 
-[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/apply-visitor-management-archival-rule.md)
 

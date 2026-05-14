@@ -36,7 +36,7 @@ Install the Document Intelligence for Accounts Payable Operations Content Pack f
 
 4.  For Invoice case summarization skill:
 
-    ![Invoice case summarization in Now Assist](../image/invoice-case-na.png)
+    ![Invoice case summarization in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/invoice-case-na.png)
 
     1.  Select **General Details**, review the details about the skill, and then select **Save and continue** to go to the next step.
 

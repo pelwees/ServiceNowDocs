@@ -85,7 +85,7 @@ State
 
 </td><td>
 
-[Current state](../concept/c_SAMOptimization.md) of the removal candidate.-   Attention Required
+[Current state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMOptimization.md) of the removal candidate.-   Attention Required
 -   Ready
 -   Awaiting User
 -   Awaiting Approval
@@ -259,5 +259,5 @@ Used to track the actions that have been performed on this task.
     |Delete|Delete removal candidate.|
 
 
-**Parent Topic:**[Software license usage](../concept/sam-license-workbench.md)
+**Parent Topic:**[Software license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sam-license-workbench.md)
 

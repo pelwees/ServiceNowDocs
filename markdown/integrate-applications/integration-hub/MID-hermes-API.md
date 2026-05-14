@@ -28,7 +28,7 @@ Configuration details for the MID Hermes API extension are stored in context rec
 
 The following image shows an example of a completed MID Hermes API Context record.
 
-![Screenshot of a filled in MID Hermes API Context record.](../images/mid-hermes-api-context.png)
+![Screenshot of a filled in MID Hermes API Context record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/mid-hermes-api-context.png)
 
 ## Statistics
 

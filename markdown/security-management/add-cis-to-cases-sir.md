@@ -37,21 +37,21 @@ You need to navigate to the CIs you want to add to the existing cases.
 
     The **Add to Security Case** dialog box opens and displays the cases assigned to you.
 
-    ![Add a CI to a case](../image/add-ci-to-case.png)
+    ![Add a CI to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-ci-to-case.png)
 
 4.  Select the cases into which you want to add the selected CIs.
 
-    ![Add CIs to an existing case](../image/add-ci-to-existing-cases.png)
+    ![Add CIs to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-ci-to-existing-cases.png)
 
 5.  Click **Add**.
 
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Configuration items in cases](../concept/cases-from-cis.md)
+**Parent Topic:**[Configuration items in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-from-cis.md)
 
 **Related topics**  
 
 
-[Create a case from CIs](create-cases-from-CIs.md)
+[Create a case from CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-from-CIs.md)
 

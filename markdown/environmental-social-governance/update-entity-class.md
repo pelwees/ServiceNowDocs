@@ -32,7 +32,7 @@ Role required: \(per product\)
     |Field|Description|
     |-----|-----------|
     |Tabs|
-    |Details tab|Information on the entity. See [Create an entity class](create-entity-class.md) for more information.|
+    |Details tab|Information on the entity. See [Create an entity class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-entity-class.md) for more information.|
     |Related lists|
     |Entities|Details of the entity, such as name, owned by, and compliance score percentage. To add a new entity, click **New**.|
     |Child classes|Details of the child classes for the selected parent entity class. To add a new child entity class for the parent entity class, click **New**.|
@@ -42,5 +42,5 @@ Role required: \(per product\)
 5.  To visually explore the relationship between the upstream entities, downstream entities, entity, and entity type that is associated with the entity class, click **360° view**.
 
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/entities-in-esg.md)
 

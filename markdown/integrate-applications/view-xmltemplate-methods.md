@@ -30,5 +30,5 @@ Role required: none
     The methods appear under the Object Explorer pane.
 
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/data-modellers.md)
 

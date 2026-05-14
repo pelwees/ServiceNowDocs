@@ -49,5 +49,5 @@ None
 
 |Table|Description|
 |-----|-----------|
-|Document temoplate Adobe Sign groups \[sn\_dt\_adobesign\_group\]|Stores Adobe Sign groups. For more information, see [Create adobe sign groups](../task/create-adobe-groups.md)|
+|Document temoplate Adobe Sign groups \[sn\_dt\_adobesign\_group\]|Stores Adobe Sign groups. For more information, see [Create adobe sign groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-adobe-groups.md)|
 

@@ -29,7 +29,7 @@ The following items are installed with Retail Task Management Core:
 -   Tables
 -   Plugins
 
-For more information, see [Components installed with Retail Task Management](../reference/rahi-retail-task-management-components.md).
+For more information, see [Components installed with Retail Task Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../reference/rahi-retail-task-management-components.md).
 
 ## Procedure
 

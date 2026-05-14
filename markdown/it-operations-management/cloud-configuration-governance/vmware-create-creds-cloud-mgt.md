@@ -120,7 +120,7 @@ Enables Cloud Provisioning and Governance to collect events from resource types 
 
     This value is the **Account ID** that you will paste into the form in the next step.
 
-    ![Copy the locationId so you can paste it into the form](../image/locationId-on-capi-trail.png)
+    ![Copy the locationId so you can paste it into the form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/locationId-on-capi-trail.png)
 
 10. On the instance, navigate to **Cloud Admin Portal** &gt; **Manage** &gt; **Service Accounts** and then click the service account that you created earlier \(`Cloud Provisioning Service Account` in the example\).
 
@@ -134,5 +134,5 @@ Enables Cloud Provisioning and Governance to collect events from resource types 
 **Related topics**  
 
 
-[Discovery for VMware](../../discovery/concept/vmware-cloud-discovery.md)
+[Discovery for VMware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/concept/vmware-cloud-discovery.md)
 

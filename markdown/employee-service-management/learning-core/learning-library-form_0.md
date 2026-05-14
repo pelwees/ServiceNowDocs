@@ -64,5 +64,5 @@ Manager Access Restrict To
 Employees that the catalog is visible to or employees who can curate the items in the catalog.**Note:** This field appears only when **User criteria** is selected in the **Restrict Type** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Learning reference](learning-experience-reference.md)
+</table>**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 

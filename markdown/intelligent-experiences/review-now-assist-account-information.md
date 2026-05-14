@@ -30,14 +30,14 @@ From the Account page, you can review the licensing information to verify which 
 
 2.  In the Settings page, select **Account**.
 
-    ![Account panel in Now Assist Admin Settings that shows the features that are included with your license.](../image/now-assist-account-overview.png)
+    ![Account panel in Now Assist Admin Settings that shows the features that are included with your license.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-account-overview.png)
 
 3.  In the Account details section of the panel, review what is included with your Now Assist license.
 
 
 ## What to do next
 
-Turn on the skills that you want for your Now Assist workflow applications so that you can use generative AI capabilities across the ServiceNow AI Platform. For more information, see [Configuring Now Assist Admin features](../concept/configuring-na-landing.md).
+Turn on the skills that you want for your Now Assist workflow applications so that you can use generative AI capabilities across the ServiceNow AI Platform. For more information, see [Configuring Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/configuring-na-landing.md).
 
-**Parent Topic:**[Now Assist Admin Settings](configure-now-assist-admin-settings.md)
+**Parent Topic:**[Now Assist Admin Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-now-assist-admin-settings.md)
 

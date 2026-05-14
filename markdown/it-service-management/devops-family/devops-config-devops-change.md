@@ -35,7 +35,7 @@ With the DevOps Change Velocity change control feature, a change request is crea
 
 In DevOps Change Velocity, navigate to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests** to view and approve DevOps change requests created by DevOps Config changes. CDM snapshots are listed in the **Config data** related list of the DevOps change request.
 
-![DevOps Config change request](../image/devops-config-change-request.png)
+![DevOps Config change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-change-request.png)
 
-**Parent Topic:**[Exploring DevOps Config](devops-config-getting-started.md)
+**Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 

@@ -44,8 +44,8 @@ The output variables contain data that can be used in subsequent actions.
 |--------|-----------|
 |capabilityExecutionId|System identifier of the execution tracking record.|
 
--   [Get Supported Security Capabilities action](get-supported-security-capabilities-activity.md)
--   [Capability Execution Tracking- No Impls action](execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[Security Operations Integration - Email Search and Delete flow](../../security-operations-common/task/secops-integ-email-search-delete.md)
+**Parent Topic:**[Security Operations Integration - Email Search and Delete flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/task/secops-integ-email-search-delete.md)
 

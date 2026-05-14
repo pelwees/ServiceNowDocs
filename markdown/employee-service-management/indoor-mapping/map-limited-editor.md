@@ -64,9 +64,9 @@ Role required: map admin
     **Note:** If a user with map editor limited role deletes a building, the building is only made inactive in the database and is not actually deleted from the database.
 
 
-**Parent Topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Parent Topic:**[Configure Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/configure-ind-mapping.md)
 
-**Previous topic:**[Configure your map instance data](configure-map-data.md)
+**Previous topic:**[Configure your map instance data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-map-data.md)
 
-**Next topic:**[Indoor Mapping properties](indoor-mapping-properties.md)
+**Next topic:**[Indoor Mapping properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-properties.md)
 

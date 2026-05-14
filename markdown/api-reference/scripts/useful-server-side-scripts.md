@@ -15,7 +15,7 @@ breadcrumb: [Useful scripts, Scripting, API implementation, API implementation a
 
 Use cases for server-side scripts include logging output, getting user objects, and modifying date/time values.
 
-**Parent Topic:**[Useful scripts](usefulScripts.md)
+**Parent Topic:**[Useful scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/usefulScripts.md)
 
 ## Accessing the workflow scratchpad from business rules
 
@@ -463,7 +463,7 @@ In a business rule or other server script, the gs.getUser\(\) method returns a u
 
 ### About this task
 
-For a list and description of the available scoped methods for the user object, see [GlideUser](../../../app-store/dev_portal/API_reference/GlideUser_global/concept/GUserAPI.md#).
+For a list and description of the available scoped methods for the user object, see [GlideUser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideUser_global/concept/GUserAPI.md#).
 
 ### Procedure
 
@@ -498,9 +498,9 @@ Logs can be at the level of debug, info, notice, warning, err, or crit \(after B
 
 Use for any server-side script where you want to implement event logging.
 
-For the API reference, see [GSLog\(\)](../../../app-store/dev_portal/API_reference/GSLogBoth/concept/GSLogBoth.md#).
+For the API reference, see [GSLog\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GSLogBoth/concept/GSLogBoth.md#).
 
-For more information, see [Debugging scripts](../../debugging/concept/script-debug-overview.md)
+For more information, see [Debugging scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../debugging/concept/script-debug-overview.md)
 
 ## Modify a GlideDateTime field value
 
@@ -547,14 +547,14 @@ gs.info('In ' + GlideSession.get().getTimeZoneName() + ": " + gdt.getDisplayValu
 
 See also:
 
--   [GlideDateTime](../../glide-server-apis/topic/p_GlideServerAPIs.md#)
--   [GlideDate - Global](../../../app-store/dev_portal/API_reference/GlideDate/concept/GlideDateAPI.md#)
--   [GlideDate - Scoped](../../../app-store/dev_portal/API_reference/glideDateScoped/concept/c_GlideDateScopedAPI.md#)
--   [GlideDateTime - Global](../../../app-store/dev_portal/API_reference/GlideDateTime/concept/c_GlideDateTimeAPI.md#)
--   [GlideDateTime - Scoped](../../../app-store/dev_portal/API_reference/glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
--   [GlideElement - Global](../../../app-store/dev_portal/API_reference/GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideElement - Scoped](../../../app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.md#)
--   [GlideTime - Scoped](../../../app-store/dev_portal/API_reference/glideTimeScoped/concept/c_GlideTimeScopedAPI.md#)
+-   [GlideDateTime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../glide-server-apis/topic/p_GlideServerAPIs.md#)
+-   [GlideDate - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideDate/concept/GlideDateAPI.md#)
+-   [GlideDate - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/glideDateScoped/concept/c_GlideDateScopedAPI.md#)
+-   [GlideDateTime - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideDateTime/concept/c_GlideDateTimeAPI.md#)
+-   [GlideDateTime - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#)
+-   [GlideElement - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideElement_global/concept/c_GlideElementAPI.md#)
+-   [GlideElement - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.md#)
+-   [GlideTime - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/glideTimeScoped/concept/c_GlideTimeScopedAPI.md#)
 
 ## Using custom queues to process events
 
@@ -582,13 +582,13 @@ Role required: admin
 
     A new event is listed in the Events \[sysevent\] table.
 
-    In the following example, when the employeeOccasion event is generated, the event is added to my\_queue. The events are stuck in the queue. To resolve this issue, create a process to watch the queue for events.![Events table listing the event with the added queue listed in the queue field.](../image/queue-create-new-val.png)
+    In the following example, when the employeeOccasion event is generated, the event is added to my\_queue. The events are stuck in the queue. To resolve this issue, create a process to watch the queue for events.![Events table listing the event with the added queue listed in the queue field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/queue-create-new-val.png)
 
 5.  Navigate to **System Scheduler** &gt; **Scheduled Jobs** &gt; **Scheduled Jobs** and open the scheduled job named **text index events process**.
 
-    ![Schedule table with *text in the Name search field and the name of the text index events process schedule highlighted.](../image/queue-create-process-locate.png)
+    ![Schedule table with *text in the Name search field and the name of the text index events process schedule highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/queue-create-process-locate.png)
 
-6.  Click the additional actions menu icon ![additional actions icon menu](../../../product/wsd-indoor-mapping/images/additional_icon.png)\)--&gt; and select **Insert and Stay** to create a copy of **text index events process**.
+6.  Click the additional actions menu icon ![additional actions icon menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../product/wsd-indoor-mapping/images/additional_icon.png)\)--&gt; and select **Insert and Stay** to create a copy of **text index events process**.
 
     **Important:** Be sure to copy the job and not overwrite the **text index events process** Scheduled Job.
 
@@ -596,11 +596,11 @@ Role required: admin
 
 8.  In the **Job context** field, replace the value for the GlideEventManager\(\) parameter with the name of the new queue.
 
-    ![Schedule Item form showing the copied item renamed and the updated queue name for GlideEventManager in theJob context field.](../image/queue-create-process-name.png)
+    ![Schedule Item form showing the copied item renamed and the updated queue name for GlideEventManager in theJob context field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/queue-create-process-name.png)
 
     The queue monitoring process looks for and processes events in the example **my\_queue** event queue.
 
-    ![Events table highlighting the contents of the Processed and Queue fields.](../image/queue-create-processed.png)
+    ![Events table highlighting the contents of the Processed and Queue fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/queue-create-processed.png)
 
 9.  Use the gs.eventQueue\(\) method's fifth parameter to send events to the custom queue.
 

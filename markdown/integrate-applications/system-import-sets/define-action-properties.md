@@ -74,5 +74,5 @@ Role required: import\_admin
     -   Click **Save** to save the request action.
     -   Click **Publish** to publish the request action and make it available for use.
 
-**Parent Topic:**[Create a REST \(Integration Hub\) type data source](create-rest-type-data-source.md)
+**Parent Topic:**[Create a REST \(Integration Hub\) type data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-rest-type-data-source.md)
 

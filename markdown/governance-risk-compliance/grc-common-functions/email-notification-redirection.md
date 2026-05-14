@@ -30,15 +30,15 @@ When you select a link in a notification, the system determines where to direct 
 -   Reduced confusion and fewer steps when accessing records.
 -   If your workspace access can't be determined, you're directed to the classic view so that you can still access records from notifications.
 
--   **[Configure GRC notification redirection](../task/configure-email-notification-redirection.md)**  
+-   **[Configure GRC notification redirection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/configure-email-notification-redirection.md)**  
 Create notification routing rules that automatically direct users to workspace view or classic view based on their access permissions.
--   **[Modify email notifications to use notification redirection](../task/modify-email-notifications-to-use-notification-redirection.md)**  
+-   **[Modify email notifications to use notification redirection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/modify-email-notifications-to-use-notification-redirection.md)**  
 Update email notifications to use the notification redirection framework so users are automatically directed to the appropriate view based on their workspace access.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
 **Related topics**  
 
 
-[Configure GRC notification redirection](../task/configure-email-notification-redirection.md)
+[Configure GRC notification redirection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/configure-email-notification-redirection.md)
 

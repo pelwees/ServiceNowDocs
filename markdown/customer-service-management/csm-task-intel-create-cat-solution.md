@@ -36,7 +36,7 @@ Create and train a model to predict fields for case and interaction records.
 
 Select the table and the trigger for the model's predictions.
 
-![Model page displaying options for selection like case or interaction data to predict fields as well as the prediction trigger.](../image/tiac-categorization-model-pg1.png)
+![Model page displaying options for selection like case or interaction data to predict fields as well as the prediction trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/tiac-categorization-model-pg1.png)
 
 You can have the model predict case or interaction fields when a new customer email arrives or when an interaction is created. Base your decision on the data that your model should use to make the predictions.
 
@@ -86,7 +86,7 @@ Selecting this information tells the model what to look for during training.
 
 **Note:** You can use the recommended settings or select different ones.
 
-![Model page used to choose fields and conditions for your model to make predictions.](../image/task-intel-admin-console-pg-2.png)
+![Model page used to choose fields and conditions for your model to make predictions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-admin-console-pg-2.png)
 
 1.  Provide a name for the model.
 2.  Choose the output table and the output fields for the model to predict.
@@ -96,7 +96,7 @@ Selecting this information tells the model what to look for during training.
 
 4.  Select the fields in the training data that the model should use to make the predictions \(input fields\).
 
-    ![Model page displaying different input fields in the training data to make predictions.](../image/task-intel-admin-console-pg-2a.png)
+    ![Model page displaying different input fields in the training data to make predictions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-admin-console-pg-2a.png)
 
 5.  Choose the input fields.
 6.  Review the resulting number of cases in the training data based on the selected conditions.
@@ -114,7 +114,7 @@ Assess the results from the training and view sample results for the predicted f
 
 Select the prediction preference for each field. The model provides flexible options to autofill field values, provide recommendations for field values, monitor only, or turn off predictions depending on the sensitivity of those fields.
 
-![Model page displaying the estimated number of predicted field values and a sample selection of the test results.](../image/task-intel-admin-console-pg3-new.png)
+![Model page displaying the estimated number of predicted field values and a sample selection of the test results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-admin-console-pg3-new.png)
 
 1.  Select a **Prediction preference** for each enabled field.
 
@@ -158,5 +158,5 @@ Turns off predictions for the field.
 
 Review your choices from the previous pages and information about how the model was trained. Then you can select **Deploy** to deploy the model.
 
-![Model page displaying choices and inputs for review before deploying the model.](../image/task-intel-admin-console-pg5.png)
+![Model page displaying choices and inputs for review before deploying the model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-admin-console-pg5.png)
 

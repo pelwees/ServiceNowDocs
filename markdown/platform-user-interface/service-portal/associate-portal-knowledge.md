@@ -34,7 +34,7 @@ Role required: admin or sp\_admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Create a portal](create-a-portal.md)
+**Parent Topic:**[Create a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md)
 
 **Related topics**  
 

@@ -21,11 +21,11 @@ Extract worker's skill details based on employee ID and time duration.
 -   Create all calculated fields for this report before developing the report. This ensure that all fields are available during report creation.
     -   Create a True/False condition type calculated field with name **CF\_Last\_updated?**.
 
-        ![Create calculated field with name CF_Last_updated?.](../image/wirker-skill-report-withcloud-1.PNG)
+        ![Create calculated field with name CF_Last_updated?.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-1.PNG)
 
     -   Create a Extract Multi-instance calculated field with name **CF last functionally updated**.
 
-        ![Create calculated field with name CF last functionally updated.](../image/wirker-skill-report-withcloud-2.PNG)
+        ![Create calculated field with name CF last functionally updated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-2.PNG)
 
 
 ## About this task
@@ -56,59 +56,59 @@ This procedure must be performed in your Workday instance.
 
 6.  Do not select the **Temporary report** check box and click **Ok**.
 
-    ![Create a custom report.](../image/wirker-skill-report-withcloud-3.PNG)
+    ![Create a custom report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-3.PNG)
 
 7.  Select the report business object and report fields.
 
-    ![Select the required report business object and report fields.](../image/wirker-skill-report-withcloud-4.PNG)
+    ![Select the required report business object and report fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-4.PNG)
 
-    ![Select the required report business object and report fields.](../image/wirker-skill-report-withcloud-5.PNG)
+    ![Select the required report business object and report fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-5.PNG)
 
 8.  In the **Group Column Headings** section, select all business objects.
 
     Group Column heading for each business object will be blank.
 
-    ![Select the business objects under Group Column Headings.](../image/wirker-skill-report-withcloud-6.PNG)
+    ![Select the business objects under Group Column Headings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-6.PNG)
 
 9.  In the **Filter** section, select the value as shown here.
 
     Ensure that you add parenthesis as shown here.
 
-    ![Select values in the Filter section.](../image/wirker-skill-report-withcloud-7.PNG)
+    ![Select values in the Filter section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-7.PNG)
 
 10. In the **Subfilter** section, select the value as shown.
 
-    ![Select values in the Subfilter section.](../image/wirker-skill-report-withcloud-8.PNG)
+    ![Select values in the Subfilter section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-8.PNG)
 
 11. In the **Prompts** section, select the **Populate Undefined Prompt Defaults** check box.
 
-    ![Select the Populate Undefined Prompt Defaults check box.](../image/wirker-skill-report-withcloud-9.PNG)
+    ![Select the Populate Undefined Prompt Defaults check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-9.PNG)
 
 12. Select the value of prompts in the **Prompt Default** section as shown.
 
     Ensure that the **Label For Prompt XML Alias** values of all prompt fields are as shown here.
 
-    ![Select the value of prompts in the Prompt Default section.](../image/wirker-skill-report-withcloud-10.PNG)
+    ![Select the value of prompts in the Prompt Default section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-10.PNG)
 
 13. In the **Advanced** section, select the **Enable as Webservice** check box and click **Ok**.
 
 14. After configuring the report, click the three dots icon and navigate to **Web Service** &gt; **View URLs**.
 
-    ![Navigate to Web Service > View URLs .](../image/wirker-skill-report-withcloud-11.png)
+    ![Navigate to Web Service > View URLs .](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-11.png)
 
 15. Select the worker whose details you want to see or select the time duration for which you want to see the data.
 
-    ![Select worker details of time duration.](../image/wirker-skill-report-withcloud-12.PNG)
+    ![Select worker details of time duration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-12.PNG)
 
 16. In the View URLs Web Service page, click the marked icon under the **CSV** section.
 
-    ![Click the marked icon under the CSV section.](../image/wirker-skill-report-withcloud-13.png)
+    ![Click the marked icon under the CSV section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-13.png)
 
     You will be navigated to a new browser and the RaaS URL of the report is displayed.
 
 17. From the RaaS URL, copy and record these values.
 
-    ![RaaS URL.](../image/wirker-skill-report-withcloud-14.PNG)
+    ![RaaS URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wirker-skill-report-withcloud-14.PNG)
 
     -   `https://wd2-impl-services1.workday.com` is the base URL of your Workday tenant.
     -   **Tenant\_Name** is your Workday tenant.

@@ -89,5 +89,5 @@ This process assumes you have existing edge encrypted fields that you want to mi
 
 You edge encrypted field is ready to be migrated to field encryption. To configure more fields, repeat the preceding steps for each of those fields.
 
-**Parent Topic:**[Migrate from Edge Encryption to Field Encryption](../concept/migrate-ee-to-fe.md)
+**Parent Topic:**[Migrate from Edge Encryption to Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/migrate-ee-to-fe.md)
 

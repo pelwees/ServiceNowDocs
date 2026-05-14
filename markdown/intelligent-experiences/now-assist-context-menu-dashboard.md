@@ -21,15 +21,15 @@ The Now Assist context menu usage dashboard provides insights into usage pattern
 -   Capacity distribution
 -   Responses by feedback
 
-![Now assist context menu usage dashboard](../images/now-assist-context-menu-usage-dashboard.png)
+![Now assist context menu usage dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-context-menu-usage-dashboard.png)
 
 The Now Assist context menu usage dashboard enables you to filter the data based on the usage date. You can choose from the standard options or provide a custom range and select apply to filter the data.
 
-![Date filter](../images/nacm-dashboard-date-filter.png)
+![Date filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-dashboard-date-filter.png)
 
-You have an option to refresh, duplicate, edit, create, and export a dashboard. ![More option](../images/nacm-dashboard-elipsis-more-icon.png)
+You have an option to refresh, duplicate, edit, create, and export a dashboard. ![More option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-dashboard-elipsis-more-icon.png)
 
-You can also select the info icon \(\) to view the dashboard-related information. ![Dashboard information](../images/nacm-dashboard-infoicon-tab.png)![Information icon.](../../now-assist-admin/image/info-icon.png)
+You can also select the info icon \(\) to view the dashboard-related information. ![Dashboard information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-dashboard-infoicon-tab.png)![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/image/info-icon.png)
 
 ## Key features
 
@@ -47,5 +47,5 @@ Insights: View insights and suggestions for Now Assist usage.
 
 \`
 
-**Parent Topic:**[Now Assist context menu](now-assist-write-overview.md)
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 

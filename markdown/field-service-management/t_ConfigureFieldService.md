@@ -245,7 +245,7 @@ Configure notifications to be sent to specific recipients when selected fields i
 3.  From **Recipients**, select one or more recipients
 4.  If **a specific user** or **a specific group**, is selected, the user is prompted to select a user or group.
 5.  To define more notifications using other fields or recipients, repeat the steps on the next line.
-6.  To remove a notification, click the ![delete notification symbol](../image/DeleteNotification.png) symbol to the right of the notification.
+6.  To remove a notification, click the ![delete notification symbol](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/DeleteNotification.png) symbol to the right of the notification.
 
 
 </td><td>
@@ -409,7 +409,7 @@ Enable this option to consider agent's schedules, skills, teams, and coaching to
 
 </td><td>
 
-[Activate Workforce Optimization for Field Service](../../field-service-management/task/activate-wfo-fsm.md).
+[Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../field-service-management/task/activate-wfo-fsm.md).
 
 </td></tr><tr><td>
 

@@ -74,7 +74,7 @@ Function
 
 </td><td>
 
-Optional user-defined function code that you use to categorize the functions of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a function code.
+Optional user-defined function code that you use to categorize the functions of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a function code.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Location
 
 </td><td>
 
-Geographic location of the network site. Select the search icon \(![Search icon.](../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](../task/define-tni-locations.md).
+Geographic location of the network site. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-locations.md).
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Managed by
 
 </td><td>
 
-Name of the person who manages this network asset. Select the search icon \(![Search icon.](../image/search.png)\) and select a user from the listing.
+Name of the person who manages this network asset. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a user from the listing.
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Product Model
 
 </td><td>
 
-Product model, if any, that is associated with this network asset. Select the search icon \(![Search icon.](../image/search.png)\) and select a product model.
+Product model, if any, that is associated with this network asset. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a product model.
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ Role
 
 </td><td>
 
-Optional user-defined role code that you use to categorize the roles or purposes of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a role code.
+Optional user-defined role code that you use to categorize the roles or purposes of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a role code.
 
 </td></tr><tr><td>
 
@@ -217,7 +217,7 @@ Type
 
 </td><td>
 
-Optional user-defined type code that you use to categorize the types of the various network entities or assets. Select the search icon \(![Search icon.](../image/search.png)\) and select a type code.
+Optional user-defined type code that you use to categorize the types of the various network entities or assets. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a type code.
 
 </td></tr><tr><td>
 
@@ -304,5 +304,5 @@ Number of the addresses that are reserved for this IP pool or IP subnet.
 |Spare length Z|Length of the cable that connects to site Z in millimeters \(mm\).|
 |KML Route|Option that designates the fiber route maps in a KML format.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 

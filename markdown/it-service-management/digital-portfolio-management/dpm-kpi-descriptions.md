@@ -83,7 +83,7 @@ Display aggregate
 
 </td><td>
 
-The method for how KPIs are displayed in the DPM Workspace. The entry can be Average or Sum.**Note:** This field applies when the latest score property \[sn\_dpm.kpi\_groups.show\_latest\_score\] is set to false. For information, see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md).
+The method for how KPIs are displayed in the DPM Workspace. The entry can be Average or Sum.**Note:** This field applies when the latest score property \[sn\_dpm.kpi\_groups.show\_latest\_score\] is set to false. For information, see [Configure the Digital Portfolio Management experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-experience.md).
 
 </td></tr><tr><td>
 
@@ -152,10 +152,10 @@ The flag that determines if the KPI displays in the KPI group. KPI groups can di
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-configure-kpi-groups.md)
 
 **Related topics**  
 
 
-[KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi.md)
+[KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-configure-kpi.md)
 

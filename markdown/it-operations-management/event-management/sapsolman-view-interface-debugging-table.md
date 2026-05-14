@@ -25,8 +25,8 @@ Role required: admin
 
     The ZSNOW interface debugging table appears.
 
-    ![ZSNOW interface debugging table](../image/sap-solman-interface-debugging-table.png)
+    ![ZSNOW interface debugging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-interface-debugging-table.png)
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

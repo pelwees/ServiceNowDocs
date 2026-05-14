@@ -30,7 +30,7 @@ Role required: wm\_technician\_sales\_write
 
 2.  Tap the **Sales** tab.
 
-    **Note:** If the **Sales** tab is not visible, tap the **More**![More actions icon.](../image/moreactions_mobile.jpg) icon.
+    **Note:** If the **Sales** tab is not visible, tap the **More**![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/moreactions_mobile.jpg) icon.
 
     The list of opportunities appear.
 
@@ -38,7 +38,7 @@ Role required: wm\_technician\_sales\_write
 
     The list of opportunities appear sorted based on the selected option.
 
-4.  To filter the opportunities based on a specific criteria, tap the Filter![Filter icon.](../image/filter-icon-mobile.jpg) icon and enter the filter criteria.
+4.  To filter the opportunities based on a specific criteria, tap the Filter![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/filter-icon-mobile.jpg) icon and enter the filter criteria.
 
 5.  Tap **Apply**.
 

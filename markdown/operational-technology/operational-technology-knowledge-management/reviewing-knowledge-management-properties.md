@@ -38,5 +38,5 @@ Enter the role names exactly as they appear in **User Administration** &gt; **Ro
 </td></tr></tbody>
 </table>For more information about the other available Knowledge Management properties, see [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md).
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 

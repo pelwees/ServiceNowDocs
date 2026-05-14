@@ -36,11 +36,11 @@ Role required: none
 
 3.  Register a new device by clicking **Add a new trusted mobile device**.
 
-    ![Add New Trusted Device](../images/register-trusted-device-qr-code.jpg)
+    ![Add New Trusted Device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/register-trusted-device-qr-code.jpg)
 
 4.  In the Device Registration screen on your ServiceNow mobile app, tap the **Scan QR code** button and scan the QR code that is displayed on your laptop or desktop.
 
-    ![Device Registration - Scan QR code](../images/device_registration_scan_qr.png)
+    ![Device Registration - Scan QR code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/device_registration_scan_qr.png)
 
     The Registration process will complete and you will be prompted to your login page to complete your authentication.
 
@@ -48,12 +48,12 @@ Role required: none
 
     The mobile home screen is displayed.
 
-    ![Mobile - Home screen](../images/mobile_home_screen.png)
+    ![Mobile - Home screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mobile_home_screen.png)
 
 
 ## Result
 
-In the Register Trusted Devices page on your laptop or desktop, the registered device is displayed. You can use the ![Delete icon](../images/delete-icon.png) icon if you want to remove the registered device from the page.
+In the Register Trusted Devices page on your laptop or desktop, the registered device is displayed. You can use the ![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/delete-icon.png) icon if you want to remove the registered device from the page.
 
 ## What to do next
 

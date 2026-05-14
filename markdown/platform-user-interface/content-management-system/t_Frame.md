@@ -32,10 +32,10 @@ Configuring a new frame is a two-step process.
 2.  Create the frame UI macro to invoke the frame definition.
 
 
--   **[Define a frame in a style sheet](t_DefineTheFrameInAStyleSheet.md)**  
+-   **[Define a frame in a style sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheFrameInAStyleSheet.md)**  
 Add style definitions for any custom frame UI macro you create.
--   **[Create a frame UI macro](t_CreateANewFrameUIMacro.md)**  
+-   **[Create a frame UI macro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateANewFrameUIMacro.md)**  
 Copy an existing frame UI macro to display content in a custom frame.
 
-**Parent Topic:**[Style in Content Management](../concept/c_StyleInContentManagement.md)
+**Parent Topic:**[Style in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_StyleInContentManagement.md)
 

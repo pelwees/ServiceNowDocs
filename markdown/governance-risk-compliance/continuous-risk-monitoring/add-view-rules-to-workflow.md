@@ -27,7 +27,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 3.  To add a view rule, select **New** in the **View Rules** tab.
 
-    ![New view rule.](../image/WF-view-rule1.png)
+    ![New view rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-view-rule1.png)
 
 4.  In the **View Rule New record** form, fill in the following fields:
 
@@ -137,7 +137,7 @@ Form Tabs
 To configure which form tabs display.
 
 </td></tr></tbody>
-</table>    ![View rule fields.](../image/WF-view-rule2.png)
+</table>    ![View rule fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-view-rule2.png)
 
 5.  Select **Submit** to add the new view rule.
 

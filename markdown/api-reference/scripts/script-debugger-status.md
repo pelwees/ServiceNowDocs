@@ -17,7 +17,7 @@ The Script Debugger status determines what debugging actions are available and w
 
 The Script Debugger displays its status at the bottom left of the user interface.
 
-![The Script Debugger Status field showing the sample status EXECUTION_PAUSED](../image/script-debugger-status.png "Sample Script Debugger status")
+![The Script Debugger Status field showing the sample status EXECUTION_PAUSED](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/script-debugger-status.png "Sample Script Debugger status")
 
 <table id="table_dty_1dm_zw"><thead><tr><th>
 
@@ -124,5 +124,5 @@ chars: 20,731, SQL time: 50 (count: 34), business rule: 0 (count: 0), phase 1
 form length 56,464, largest chunk written: 10,428, request parms size: 40, largest input read: 0
 ```
 
-**Parent Topic:**[Script Debugger user interface](../reference/parts-script-debugger-interface.md)
+**Parent Topic:**[Script Debugger user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/parts-script-debugger-interface.md)
 

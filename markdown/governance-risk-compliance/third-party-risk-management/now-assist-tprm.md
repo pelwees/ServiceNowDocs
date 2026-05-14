@@ -20,15 +20,15 @@ Use the ServiceNow® Now Assist for Third-party Risk Management \(TPRM\) applica
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for TPRM](exploring-now-assist-tprm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for TPRM](exploring-now-assist-tprm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for TPRM application to get started](../task/configure-now-assist-for-tprm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for TPRM application to get started](../task/configure-now-assist-for-tprm.md)
 
 </td><td>
 
-[Use TPRM generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for TPRM](using-now-assist-for-tprm.md)
+[Use TPRM generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for TPRM](using-now-assist-for-tprm.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).

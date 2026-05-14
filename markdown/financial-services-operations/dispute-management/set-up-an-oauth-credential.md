@@ -19,7 +19,7 @@ Create an OAuth 2.0 credential to enable secure authentication for Card Data Sec
 
 Role required: admin
 
-This task requires an OAuth Provider created for Card Data Security. See [Set up an OAuth Provider](set-up-an-oauth-provider.md) for more information.
+This task requires an OAuth Provider created for Card Data Security. See [Set up an OAuth Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-provider.md) for more information.
 
 ## Procedure
 
@@ -45,5 +45,5 @@ The OAuth credential record is created.
 
 ## What to do next
 
-[Set up the OAuth Vault API REST message](set-up-the-vault-api-rest-message.md).
+[Set up the OAuth Vault API REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-the-vault-api-rest-message.md).
 

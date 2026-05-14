@@ -35,11 +35,11 @@ Determine how to display these modular components in your Playbook Experience:
         -   How many activities are in progress for each stage.
         In this example, a playbook named **Playbook Experience Demo** with stages named **Assign**, **Create**, **Review and Update** is shown. The **Assign** stage has 2 activities left to complete, with 1 in progress. The **Create** and **Review and Update** stages don't have blue numbers next to them, so they don't have any activities that are in progress.
 
-        ![Vertical view of a playbook named Playbook Experience Demo with stages named Assign, Create, Review and Update.](../image/playbook-vert-stages.png "Vertical stage picker")
+        ![Vertical view of a playbook named Playbook Experience Demo with stages named Assign, Create, Review and Update.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-vert-stages.png "Vertical stage picker")
 
     -   The horizontal orientation only shows the stages of a selected playbook. To see the activities of a stage, select the stage.
 
-        ![Horizontal view of a playbook named Playbook Experience Demo with stages named Assign, Create, Review and Update.](../image/playbook-horizontal-stages.png "Horizontal stage picker")
+        ![Horizontal view of a playbook named Playbook Experience Demo with stages named Assign, Create, Review and Update.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-horizontal-stages.png "Horizontal stage picker")
 
         Playbooks with more than 5 stages paginate.
 
@@ -55,11 +55,11 @@ Determine how to display these modular components in your Playbook Experience:
 
     If you're using the vertical stage picker, turning on the activity picker means each stage can be expanded to shows its activities.
 
-    ![Activity picker when you're viewing stages vertically.](../image/playbook-activity-picker-vert.png "Activity picker when viewing stages vertically")
+    ![Activity picker when you're viewing stages vertically.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-activity-picker-vert.png "Activity picker when viewing stages vertically")
 
     If you're using the horizontal stage picker, turning on the activity picker allows you to expand or collapse the entire list of activities for the stage you're in.
 
-    ![Activity picker when you're viewing stages horizontally.](../image/playbook-activity-picker-horizon.png "Activity picker when viewing stages horizontally")
+    ![Activity picker when you're viewing stages horizontally.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-activity-picker-horizon.png "Activity picker when viewing stages horizontally")
 
     To toggle the **Show Stages flag** flag on or off, .
 
@@ -69,11 +69,11 @@ Determine how to display these modular components in your Playbook Experience:
 
     -   The **Stacked** view displays all activities in a stage stacked on top of each other.
 
-        ![Activities stacked for the Assign stage. The 1st activity is complete, the 2nd is in progress and can be marked complete or skipped, and the 3rd is pending.](../image/playbook-stacked-view.png "Playbook stacked view")
+        ![Activities stacked for the Assign stage. The 1st activity is complete, the 2nd is in progress and can be marked complete or skipped, and the 3rd is pending.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stacked-view.png "Playbook stacked view")
 
     -   The **Focused** view displays a single selected activity.
 
-        ![A single activity that you can mark as complete or skip.](../image/playbook-focused-view.png "Playbook focused view")
+        ![A single activity that you can mark as complete or skip.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-focused-view.png "Playbook focused view")
 
     -   The **Guided** layout
     -   The **Wizard** layout
@@ -81,12 +81,12 @@ Determine how to display these modular components in your Playbook Experience:
 
     If you want the ability to cancel playbooks and add optional activities, you must add the **Playbook Modals** component to your pages. If you use a template, this is already included.
 
-    ![The Cancel playbook modal](../image/playbook-cancel-modular-modal.png "Cancel playbook modal")
+    ![The Cancel playbook modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-cancel-modular-modal.png "Cancel playbook modal")
 
-    ![The Add optional activity modal](../image/playbook-opt-activity-modal.png "Add optional activity modal")
+    ![The Add optional activity modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-opt-activity-modal.png "Add optional activity modal")
 
 
-To start setting up components for your customized Playbook Experience, see [Customize a playbook in UI Builder](../task/playbook-get-started-custom-layouts.md).
+To start setting up components for your customized Playbook Experience, see [Customize a playbook in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/playbook-get-started-custom-layouts.md).
 
 ## Provided UI Builder Bundles
 
@@ -110,5 +110,5 @@ Each layout contains the following components:
 -   Stage picker
 -   Client scripts
 
-To add a bundle to an existing or new UI Builder page, see [Add a custom layout bundle to a UI Builder page](../../process-automation-designer/task/add-custom-layout-bundle-uib-page.md). If you're creating a new experience and want to add a bundle to a standard record page, see [Add a custom layout bundle to a UI Builder standard record page](../../process-automation-designer/task/add-custom-layout-bundle-uib-standard-record.md).
+To add a bundle to an existing or new UI Builder page, see [Add a custom layout bundle to a UI Builder page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../process-automation-designer/task/add-custom-layout-bundle-uib-page.md). If you're creating a new experience and want to add a bundle to a standard record page, see [Add a custom layout bundle to a UI Builder standard record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../process-automation-designer/task/add-custom-layout-bundle-uib-standard-record.md).
 

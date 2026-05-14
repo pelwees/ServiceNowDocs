@@ -15,15 +15,15 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 Notify users when a change is made to a virtual machine \(VM\) instance.
 
-You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../task/setup-actionable-notifications.md).
 
 ## Start VM failure
 
-End users are notified when a change made to a virtual machine instance has failed. For example, the virtual machine failed to start or stop. For information about pre-built topics for virtual machines, see [Virtual machine pre-built topics for ITSM Virtual Agent](manage-virtual-machine.md).
+End users are notified when a change made to a virtual machine instance has failed. For example, the virtual machine failed to start or stop. For information about pre-built topics for virtual machines, see [Virtual machine pre-built topics for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/manage-virtual-machine.md).
 
 ## Start VM Success
 
-End users are notified when a change made to a virtual machine instance has been successful. For example, the virtual machine successfully started or stopped. For information about pre-built topics for virtual machines, see [Virtual machine pre-built topics for ITSM Virtual Agent](manage-virtual-machine.md).
+End users are notified when a change made to a virtual machine instance has been successful. For example, the virtual machine successfully started or stopped. For information about pre-built topics for virtual machines, see [Virtual machine pre-built topics for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/manage-virtual-machine.md).
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](../concept/itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/itsm-actionable-notifications.md)
 

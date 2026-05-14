@@ -27,13 +27,13 @@ For details on the Unified Map panels and navigation, see [Unified Map](https://
 
 On the map page, use the panels for more information about the mapped solutions.
 
--   Select ![Summary icon.](../../../common/image/Form_ReferenceLookupIcon.png) to view a summary of the selected solution.
--   Select ![Contacts icon.](../image/contacts.png) to view contact information for team members and teams that are associated with the selected solution.
--   Select ![Current issues icon.](../../../common/image/icon-current-issues.png) to view all current issues in the context of the selected solution, for example, critical incidents, current outages, or critical alerts.
+-   Select ![Summary icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../common/image/Form_ReferenceLookupIcon.png) to view a summary of the selected solution.
+-   Select ![Contacts icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/contacts.png) to view contact information for team members and teams that are associated with the selected solution.
+-   Select ![Current issues icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../common/image/icon-current-issues.png) to view all current issues in the context of the selected solution, for example, critical incidents, current outages, or critical alerts.
 
     **Note:** The options change for the current issues depending on the solution type.
 
--   Select ![Service instances icon.](../../../common/image/icon-pipelines.png) to see the service instances associated with the selected solution.
+-   Select ![Service instances icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../common/image/icon-pipelines.png) to see the service instances associated with the selected solution.
 
-**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+**Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../reference/dpm-working-with.md)
 

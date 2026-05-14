@@ -31,24 +31,24 @@ Role required:
 
 3.  From the list of subflows, select the subflow for which you want to create the skill.
 
-4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](../images/conversational-settings-icon-z.png)\).
+4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-settings-icon-z.png)\).
 
     If the subflow already contains skills, the conversational settings displays a list of exiting skills with an option to create a new skill.
 
-    ![Option to access the conversational subflow settings.](../images/create-skill-conversational-subflow.png)
+    ![Option to access the conversational subflow settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-skill-conversational-subflow.png)
 
 5.  Select **Create a new skill**.
 
 6.  Select **Generate skill metadata** to generate descriptions for the skill and the inputs and outputs using generative AI.
 
-    ![Option to generate descriptions for the skill and the inputs and outputs using generative AI.](../images/create-new-skill-subflow.png)
+    ![Option to generate descriptions for the skill and the inputs and outputs using generative AI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-new-skill-subflow.png)
 
-7.  Specify the settings as described in the topic [Configure subflow conversational settings](configure-subflow-conversation-settings.md)
+7.  Specify the settings as described in the topic [Configure subflow conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-subflow-conversation-settings.md)
 
 8.  Save the skill.
 
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

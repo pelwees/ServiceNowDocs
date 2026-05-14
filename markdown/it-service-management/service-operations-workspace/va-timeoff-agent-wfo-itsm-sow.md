@@ -54,5 +54,5 @@ Role required: sn\_shift\_planning.agent
 8.  To view the submitted request on your calendar, click **View submitted request \(Request Number\)**.
 
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/itsm-sow-workspace-scheduling.md)
 

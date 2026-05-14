@@ -51,5 +51,5 @@ Use this procedure to explicitly assign users to product-specific roles. Only ex
 
 The users are assigned to the role. The user count updates automatically when the modal is closed.
 
-**Parent Topic:**[Configure users and groups in Security Exposure Management Workspace](sem-configure-users-groups-overview.md)
+**Parent Topic:**[Configure users and groups in Security Exposure Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-users-groups-overview.md)
 

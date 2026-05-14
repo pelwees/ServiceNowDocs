@@ -53,12 +53,12 @@ Role required: admin
     For detailed instructions on how to configure Advanced Work Assignment, see [Configuring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/installing-awa.md).
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/awa-slm-config.md)
 
 **Related topics**  
 
 
-[Configure the Supplier Collaboration Queue](configure-scp-queue.md)
+[Configure the Supplier Collaboration Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-scp-queue.md)
 
-[Configure Agent Chat for Source-to-Pay Workspace](configure-agent-chat-slm.md)
+[Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-agent-chat-slm.md)
 

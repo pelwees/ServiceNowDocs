@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an input form screen. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [Mobile UI Rules](../concept/mobile-ui-rules.md).
+Auto-fill inputs are configured by using mobile client scripts that run as a UI rule action in the UI rule of an input form screen. These scripts run in UI rules with an **OnChange** trigger type. For more information about UI rules and UI rule actions, see [Mobile UI Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-ui-rules.md).
 
 **Note:**
 
@@ -181,13 +181,13 @@ Make sure that at least one of the **Triggers** is set to **onChange**.
 
 5.  In the Mobile UI Rule Actions section of the mobile UI rule form, select **New**.
 
-    ![Mobile Rule UI Actions form](../image/autofill-input-form-screen-nu-act.png)
+    ![Mobile Rule UI Actions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/autofill-input-form-screen-nu-act.png)
 
     The Mobile UI Rule Action form appears.
 
 6.  In the Mobile UI Rule Action form **Operation** field, search for and select **Run Client Script**.
 
-    ![Mobile UI Rule Action form with Run Client Script Operation called out](../image/autofil-inpt-frm-scrn-rn-clnt-scrpt.png)
+    ![Mobile UI Rule Action form with Run Client Script Operation called out](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/autofil-inpt-frm-scrn-rn-clnt-scrpt.png)
 
 7.  Write the client script in the **Client script** field.
 

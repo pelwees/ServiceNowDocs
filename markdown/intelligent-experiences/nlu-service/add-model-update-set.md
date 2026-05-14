@@ -51,21 +51,21 @@ A video walkthrough of migrating NLU models by update sets in the Vancouver rele
 
 1.  Select **All** and enter `sys_nlu_model.list` into the navigator.
 
-    ![System navigator with sys_nlu_model.list entered.](../images/add-model-updateT1.png)
+    ![System navigator with sys_nlu_model.list entered.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-updateT1.png)
 
 2.  Select the **Model Name** of the model.
 
-    ![NLU models system list.](../images/add-model-updateT2.png)
+    ![NLU models system list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-updateT2.png)
 
     The **Display name** is the name you gave the model when creating it. The **Model name** is given to the model by the system.
 
 3.  If Global is your current application, follow the prompt at the top to edit the record.
 
-    ![Message regarding current application scope. Click "here" to edit the record and add it to an update set.](../images/add-model-updateT3.png)
+    ![Message regarding current application scope. Click "here" to edit the record and add it to an update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-updateT3.png)
 
 4.  In the **Related Links** section, click **Add model to current update set.**
 
-    ![Model page with the add model to current update set button highlighted.](../images/add-model-updateT4.png)
+    ![Model page with the add model to current update set button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-updateT4.png)
 
     If the model's records are all in one scope, the system adds the model to the current update set. Once completed, the record can be found in the sys\_update\_set table.
 
@@ -73,7 +73,7 @@ A video walkthrough of migrating NLU models by update sets in the Vancouver rele
 
 5.  If the system displays the error **You are attempting to add a record to the system default update set**, continue with the remaining steps in this procedure.
 
-    ![Error upon Adding model to update set. The option to create a New Local Update Set is highlighted.](../images/add-model-update5V.png)
+    ![Error upon Adding model to update set. The option to create a New Local Update Set is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-update5V.png)
 
     In the error banner, select the **New Local Update Set** link to create a new update set which is not Default. In the case of a parent-child update set, the parent is first created in the model's scope. \(Any child update sets are created in a later step\).
 
@@ -81,7 +81,7 @@ A video walkthrough of migrating NLU models by update sets in the Vancouver rele
 
 6.  For the new update set record, provide a name, review other values including Application scope, then select **Submit and Make Current**.
 
-    ![The form for a new Update Set, with the Submit and Make Current button highlighted.](../images/add-model-update6V.png)
+    ![The form for a new Update Set, with the Submit and Make Current button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/add-model-update6V.png)
 
     A new update set is created, and the screen re-opens to the model's record in the sys\_nlu\_model table.
 

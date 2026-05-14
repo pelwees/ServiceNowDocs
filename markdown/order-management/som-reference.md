@@ -13,24 +13,24 @@ breadcrumb: [Sales Customer Relationship Management]
 
 Reference topics provide additional information about the Sales Customer Relationship Management applications.
 
--   **[Sales Customer Relationship Management REST APIs](../reference/som-rest-apis.md)**  
+-   **[Sales Customer Relationship Management REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/som-rest-apis.md)**  
 Sales Customer Relationship Management \(Sales CRM\) APIs provide endpoints to create and manage Sales CRM entities such as leads, quotes, and orders from external systems.
--   **[Lead and opportunity management reference](reference-lead-opportunity-mgt.md)**  
+-   **[Lead and opportunity management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reference-lead-opportunity-mgt.md)**  
 Reference for lead and opportunity management applications.
--   **[Configure, price, quote reference](reference-cpq.md)**  
+-   **[Configure, price, quote reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)**  
 Reference for configure, price, and quote applications.
--   **[Order Management reference](../reference/order-mgt-reference.md)**  
+-   **[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/order-mgt-reference.md)**  
 Reference topics provide additional information about Order Management.
--   **[Order operations reference](reference-order-operations.md)**  
+-   **[Order operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reference-order-operations.md)**  
 Reference for order operations applications.
--   **[Partner Relationship Management reference](../reference/partner-relationship-management-reference.md)**  
+-   **[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/partner-relationship-management-reference.md)**  
 Reference topics provide additional information about Partner Relationship Management.
--   **[Lead-to-cash foundation reference](reference-lead-cash-foundation.md)**  
+-   **[Lead-to-cash foundation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)**  
 Reference for lead-to-cash foundation applications.
--   **[Business Portal reference for Sales Customer Relationship Management](../reference/som-business-portal-reference.md)**  
+-   **[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/som-business-portal-reference.md)**  
 Reference topics provide additional information about the components such as roles and tables that are installed with various Business Portal plugins.
--   **[Sales Customer Relationship Management glossary](som-glossary.md#)**  
+-   **[Sales Customer Relationship Management glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-glossary.md#)**  
 Learn about terms and concepts that are unique to Sales Customer Relationship Management.
 
-**Parent Topic:**[Sales Customer Relationship Management](order-mgt-overview.md)
+**Parent Topic:**[Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-overview.md)
 

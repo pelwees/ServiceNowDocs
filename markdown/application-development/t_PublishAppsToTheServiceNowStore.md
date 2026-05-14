@@ -35,7 +35,7 @@ The **Can Edit Application in Studio** property defaults to true for new applica
 
 In Studio, when an application customization has the **Can Edit Application in Studio** property set to false, the user sees this warning:
 
-![Can Edit Application in Studio warning](../image/can-edit-app-studio-warning.png)
+![Can Edit Application in Studio warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/can-edit-app-studio-warning.png)
 
 ## Procedure
 
@@ -47,9 +47,9 @@ In Studio, when an application customization has the **Can Edit Application in S
 
 4.  Click the **Publish to Store** related link.
 
-5.  Fill in the fields, as appropriate \([see table](t_PublishAppsToTheAppRepository.md)\).
+5.  Fill in the fields, as appropriate \([see table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/t_PublishAppsToTheAppRepository.md)\).
 
-    ![Publish an application to the marketplace](../image/PublishToMarketplace.png)
+    ![Publish an application to the marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/PublishToMarketplace.png)
 
 6.  Enter your HI credentials.
 
@@ -58,10 +58,10 @@ In Studio, when an application customization has the **Can Edit Application in S
     The system uploads the current version of the application to the ServiceNow Store allowing other users to download it.
 
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_SharingApplications.md)
 
 **Related topics**  
 
 
-[Delegate development and deployment permissions to personnel](t_AddADeveloper.md)
+[Delegate development and deployment permissions to personnel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/t_AddADeveloper.md)
 

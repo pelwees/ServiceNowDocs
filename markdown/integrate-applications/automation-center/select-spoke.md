@@ -21,7 +21,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 If your spoke isn’t already installed, ensure to install it first.
 
-Proceed from the **Schedule data import** section. For information on scheduling data import, see [Schedule data import](schedule-import.md).
+Proceed from the **Schedule data import** section. For information on scheduling data import, see [Schedule data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/schedule-import.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Proceed from the **Schedule data import** section. For information on scheduling
     The **Select action** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/configure-data-import.md)
 

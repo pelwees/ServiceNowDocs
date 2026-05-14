@@ -19,11 +19,11 @@ Use the Conversational Interfaces Diagnostic Tool to identify, troubleshoot, and
 
 <table id="table_ngw_3vj_4bc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features of the diagnostic tool.](exploring-ci-diagnostics-tool.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features of the diagnostic tool.](exploring-ci-diagnostics-tool.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Use the tool to resolve errors and solve configuration issues with Microsoft Teams and Advanced Work Assignment.](using-ci-diagnostics-tool.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Use the tool to resolve errors and solve configuration issues with Microsoft Teams and Advanced Work Assignment.](using-ci-diagnostics-tool.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

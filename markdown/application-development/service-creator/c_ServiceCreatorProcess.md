@@ -40,5 +40,5 @@ End users can request published services by submitting a service catalog request
 **Related topics**  
 
 
-[Service Creator](c_ServiceCreator.md)
+[Service Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/service-creator/c_ServiceCreator.md)
 

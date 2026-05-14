@@ -40,7 +40,7 @@ For example, a risk might have high probability and medium impact but you might 
 -   Probability Number = 1
 -   Risk Value = 3 Low
 
-The following image illustrates a Risk form.![Risk rank and risk value in the Risk form](../image/risk-value-form-color.png)
+The following image illustrates a Risk form.![Risk rank and risk value in the Risk form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/risk-value-form-color.png)
 
 ## Procedure
 
@@ -50,10 +50,10 @@ The following image illustrates a Risk form.![Risk rank and risk value in the Ri
 
 3.  On the risk value matcher form, fill in the fields.
 
-    For a description of the field names, see [Risk value matcher form](../reference/risk-value-matcher-form.md).
+    For a description of the field names, see [Risk value matcher form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/risk-value-matcher-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Add risks for a demand](add-risks-for-demand.md)
+**Parent Topic:**[Add risks for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/add-risks-for-demand.md)
 

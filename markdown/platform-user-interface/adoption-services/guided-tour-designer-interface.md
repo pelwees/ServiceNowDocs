@@ -17,11 +17,11 @@ The Guided Tour Designer \(GTD\) provides an easy way to create guided tours. Yo
 
 The GTD has the following features:
 
-![GTD interface with description callouts](../image/gtd-interface.png "GTD interface")
+![GTD interface with description callouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-interface.png "GTD interface")
 
 -   **\(A\) Guided tour actions**
 
-    Share your draft or published tour with your internal colleagues for review by selecting the copy URL icon ![Copy URL icon](../../../reuse/icons/product-icons/link-outline-24.svg) and copying the link.
+    Share your draft or published tour with your internal colleagues for review by selecting the copy URL icon ![Copy URL icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/product-icons/link-outline-24.svg) and copying the link.
 
 -   **\(B\) Callouts**
 
@@ -43,7 +43,7 @@ The GTD has the following features:
 
     When you hover over a step, the corresponding number on the page becomes large.
 
-    Edit the text of a specific step by choosing that step and selecting the edit icon ![edit icon](../../service-portal/image/edit-icon.png). Then, in the Content HTML formatter, make your changes and select **Save**.
+    Edit the text of a specific step by choosing that step and selecting the edit icon ![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../service-portal/image/edit-icon.png). Then, in the Content HTML formatter, make your changes and select **Save**.
 
     Remove a step by selecting it from the list and then selecting the delete icon \(-\).
 
@@ -67,9 +67,9 @@ The GTD has the following features:
 **Related topics**  
 
 
-[GTD triggers](../reference/guided-tour-triggers.md)
+[GTD triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../reference/guided-tour-triggers.md)
 
-[Create Guided Tours](../task/add-guided-tour.md)
+[Create Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../task/add-guided-tour.md)
 
-[Guided Tour Designer use case](guided-tour-designer-use-case.md)
+[Guided Tour Designer use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-designer-use-case.md)
 

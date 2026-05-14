@@ -34,7 +34,7 @@ The task administrators can change the order of the tabs in the UI. If the same 
 
 The following image shows the updated Task Configuration record.
 
-![Task Configuration](../image/task-page-config-module-new-button.png "Task Configuration record")
+![Task Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/task-page-config-module-new-button.png "Task Configuration record")
 
 GRC administrators can configure the names of the task configuration records that are displayed in the landing pages. Administrators can do the following:
 
@@ -46,5 +46,5 @@ GRC administrators can configure the names of the task configuration records tha
 -   Add, update, remove, or override the state labels of the tables.
 -   Update the type of the tab such as group tab or regular tab.
 
-**Parent Topic:**[Landing Page Configurations module](../../grc-common/reference/admin-config-using-grc-common.md)
+**Parent Topic:**[Landing Page Configurations module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/reference/admin-config-using-grc-common.md)
 

@@ -15,10 +15,10 @@ breadcrumb: [Implement, Policy and Compliance Management, Governance, Risk, and 
 
 Prior to performing application-specific setup, you need to prepare the system. This involves assigning user roles and setting properties.
 
--   **[Assigning Policy and Compliance Management roles to your users](../task/assign-user-roles.md)**  
+-   **[Assigning Policy and Compliance Management roles to your users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/assign-user-roles.md)**  
 Before you can successfully implement or use the Policy and Compliance Management application, you must assign roles to your users.
--   **[Set Policy and Compliance Management properties](../task/set-policy-compliance-properties.md)**  
+-   **[Set Policy and Compliance Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../task/set-policy-compliance-properties.md)**  
 Set properties to control various aspects and behaviors in the software.
 
-**Parent Topic:**[Implementing Policy and Compliance Management](policy-compliance-impl-overview.md)
+**Parent Topic:**[Implementing Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/policy-compliance-impl-overview.md)
 

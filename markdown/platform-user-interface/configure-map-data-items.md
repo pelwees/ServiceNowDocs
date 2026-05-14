@@ -42,7 +42,7 @@ Create a container for your map data items first, then configure and select the 
 
 ## Map Data Item form
 
-Select the options in the table to successfully create a map data item. Use this configuration with the examples in [Add a map filter](set-up-map-filters.md#) and [Configure a map filter data mapping](set-up-map-filters.md#) to successfully create a map filter.
+Select the options in the table to successfully create a map data item. Use this configuration with the examples in [Add a map filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#) and [Configure a map filter data mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#) to successfully create a map filter.
 
 |Field|Description|
 |-----|-----------|
@@ -54,7 +54,7 @@ Select the options in the table to successfully create a map data item. Use this
 
 ## What to do next
 
-Create [map markers](configure-map-markers.md#) for your map.
+Create [map markers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md#) for your map.
 
-**Parent Topic:**[Create an advanced Map Page](create-advanced-map-page.md)
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 

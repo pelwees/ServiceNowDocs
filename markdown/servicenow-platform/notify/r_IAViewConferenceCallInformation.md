@@ -15,7 +15,7 @@ breadcrumb: [Using Notify for making conference calls, Using Notify, Notify, Man
 
 Conference calls are listed as system activities in the **Activity** section of the Incident Communication Plan form and also are listed in the **Conference Calls** related list.
 
-![View conference call information from incident communication plan](../image/ViewConfCall.png "View conference call information")
+![View conference call information from incident communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/ViewConfCall.png "View conference call information")
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyConferenceCalls.md)
 

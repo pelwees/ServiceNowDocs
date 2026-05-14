@@ -15,9 +15,9 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowWebViewController class provides functions that enable you to manage a web viewer.
 
-![Web page load flow](../../image/mobsdk-web-start-flow.png)
+![Web page load flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../image/mobsdk-web-start-flow.png)
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowWebViewController - loadPage\(\)
 
@@ -55,7 +55,7 @@ Updates the NowWebView theme with the specified UI theme. Use this function to u
 
 |Name|Type|Description|
 |----|----|-----------|
-|themeColors|[NowWebThemeable](../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)|Theme to update the web UI with.|
+|themeColors|[NowWebThemeable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)|Theme to update the web UI with.|
 
 |Type|Description|
 |----|-----------|

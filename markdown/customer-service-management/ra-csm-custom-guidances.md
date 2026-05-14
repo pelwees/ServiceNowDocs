@@ -25,7 +25,7 @@ These guidances enable search results from the corresponding search source table
 
 ## Knowledge guidance
 
-The Case Context record includes a search result mapping record for the Knowledge table that maps search results to the [Attach and share article](ra-csm-guidances-attach-share-article.md) guidance. When an agent is viewing a case record, preview cards for Knowledge search results in the Recommended Actions tab include the **Attach and share article** action.
+The Case Context record includes a search result mapping record for the Knowledge table that maps search results to the [Attach and share article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md) guidance. When an agent is viewing a case record, preview cards for Knowledge search results in the Recommended Actions tab include the **Attach and share article** action.
 
 ## Case guidance
 

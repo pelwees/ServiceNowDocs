@@ -19,7 +19,7 @@ Help an HR agent resolve the current case by displaying similar closed cases.
 
 When the Similar Closed HR Cases \(ml\_sn\_sn\_hr\_core\_global\_similar\_closed\_hr\_cases\) is configured and the predictive model is trained, the **Similar Closed HR cases** option is displayed on an HR case. This option displays the most relevant HR closed cases to an HR agent to help resolve the current HR case.
 
-![Similar Closed HR cases option on the Related Search Results in HR case.](../image/similar-closed-cases.png "Similar Closed HR Cases")
+![Similar Closed HR cases option on the Related Search Results in HR case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/similar-closed-cases.png "Similar Closed HR Cases")
 
 ## Auto training the predictive model
 
@@ -29,5 +29,5 @@ The Similar Closed HR Cases \(ml\_sn\_sn\_hr\_core\_global\_similar\_closed\_hr\
 -   The Predictive Intelligence for Contextual Search \(com.snc.contextual\_search\_ml\) plugin is installed.
 -   The **glide.platform\_ml.auto\_training.enabled** system property is set either set to true or absent.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/predictive-intelligence-for-hr-service-delivery-1.md)
 

@@ -57,10 +57,10 @@ On new instances, the first parameter is set to **true** and the second is set t
     2.  In the **Value** field, double-click the value and select **true** to enable suggestions, or **false** to disable Search Suggestions globally.
 
 
-**Parent Topic:**[Zing displays search suggestions as users enter search terms](../concept/search-suggestions-zing.md)
+**Parent Topic:**[Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-suggestions-zing.md)
 
 **Related topics**  
 
 
-[Set the maximum number of search suggestions Zing displays](set-max-num-of-suggestions.md)
+[Set the maximum number of search suggestions Zing displays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-max-num-of-suggestions.md)
 

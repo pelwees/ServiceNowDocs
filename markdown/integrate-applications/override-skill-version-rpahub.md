@@ -16,9 +16,9 @@ Override a skill package version in RPA Hub to use a specific version of a skill
 
 ## Before you begin
 
-Verify that the life-cycle stage status of the bot process isn't set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+Verify that the life-cycle stage status of the bot process isn't set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/lifecycle-stages-botprocess.md).
 
-You can see the skill package versions in the **Skill Overrides** tab of the bot process when the attended or unattended packages have the skill package associated with them. For more information, see [Create a package to assign to a bot process](create-package.md#).
+You can see the skill package versions in the **Skill Overrides** tab of the bot process when the attended or unattended packages have the skill package associated with them. For more information, see [Create a package to assign to a bot process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-package.md#).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
@@ -30,13 +30,13 @@ To use the latest version of a skill package, you can override the skill package
 
 If you're upgrading to Xanadu and can't view the existing skill package versions in the **Skill Overrides** tab, then publish the attended or unattended package again and associate the package with the bot process.
 
-In the skill package version, you can select the bot processes that you want the skill package version to override. For more information, see [Override a skill package version for multiple bot processes in RPA Hub](override-skill-version-multi-bot-process.md).
+In the skill package version, you can select the bot processes that you want the skill package version to override. For more information, see [Override a skill package version for multiple bot processes in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/override-skill-version-multi-bot-process.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Bot Process**.
 
@@ -47,5 +47,5 @@ In the skill package version, you can select the bot processes that you want the
 6.  In the **Overridden version** field, select the version to override.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/post-req-bot-process-rpa.md)
 

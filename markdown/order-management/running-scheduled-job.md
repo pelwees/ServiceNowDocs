@@ -35,7 +35,7 @@ You can also use the Create Order UI action on the Inbound Queue table to create
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create records from inbound queue table async form](../reference/create-records-from-inbound-queue-table-async-form.md).
+    For a description of the field values, see [Create records from inbound queue table async form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/create-records-from-inbound-queue-table-async-form.md).
 
 4.  Select **Update**.
 
@@ -44,7 +44,7 @@ You can also use the Create Order UI action on the Inbound Queue table to create
 
 Customer order records are created.
 
-**Parent Topic:**[Asynchronous order processing for large customer and consumer orders](../concept/asynchronous-order-processing.md)
+**Parent Topic:**[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/asynchronous-order-processing.md)
 
 **Related topics**  
 

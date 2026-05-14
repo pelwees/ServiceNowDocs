@@ -30,13 +30,13 @@ DPM supports services, service offerings, business applications, and service ins
 
 As you navigate the DPM landscape, you may find services, offerings, business applications, and service instances that interest you. You can add those solutions to your personal portfolio immediately, without having to return to the personal portfolio menu. You can also share your personal portfolio with individuals and with groups.
 
-**Note:** The information on each personal portfolio solution card can be altered by configuration. To configure the solution cards, you must have the DPM admin role \[sn\_dpm.dpm\_admin\]. For more information, see [Configure personal portfolio solution cards in the DPM Admin Center](dpm-configure-solution-cards.md).
+**Note:** The information on each personal portfolio solution card can be altered by configuration. To configure the solution cards, you must have the DPM admin role \[sn\_dpm.dpm\_admin\]. For more information, see [Configure personal portfolio solution cards in the DPM Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-solution-cards.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Digital Portfolio Management**.
 
-2.  Select the personal portfolios icon \(![Personal portfolios icon.](../image/personal-portfolio-gray.png)\).
+2.  Select the personal portfolios icon \(![Personal portfolios icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/personal-portfolio-gray.png)\).
 
 3.  Select **Create personal portfolio**.
 
@@ -86,7 +86,7 @@ Add collaborators
 
 </td></tr><tr><td colspan="2">
 
-**Note:** You can only edit each item within a personal portfolio if you have edit access based on the ACL for each item that makes up the portfolio. For groups to edit or view personal portfolios, the group must have the DPM manager \[dpm\_manager\] role. See [Roles for Digital Portfolio Management](../reference/dpm-roles.md).
+**Note:** You can only edit each item within a personal portfolio if you have edit access based on the ACL for each item that makes up the portfolio. For groups to edit or view personal portfolios, the group must have the DPM manager \[dpm\_manager\] role. See [Roles for Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../reference/dpm-roles.md).
 
 </td></tr></tbody>
 </table>5.  Select **Next**.
@@ -113,12 +113,12 @@ Add collaborators
     When you edit a personal portfolio, only those solutions that aren't already in the personal portfolio are in the selection list to add. **Share** gives you the option to share your personal portfolio with individuals, with groups, or with a combination of both.
 
 
-**Parent Topic:**[Personal portfolios](../concept/dpm-personal-portfolio.md)
+**Parent Topic:**[Personal portfolios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-personal-portfolio.md)
 
 **Related topics**  
 
 
-[Personal portfolios](../concept/dpm-personal-portfolio.md)
+[Personal portfolios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-personal-portfolio.md)
 
-[Personal and enterprise portfolio reference](../reference/dpm-portfolios-reference.md)
+[Personal and enterprise portfolio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../reference/dpm-portfolios-reference.md)
 

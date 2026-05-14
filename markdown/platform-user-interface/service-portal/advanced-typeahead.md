@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Complete the required fields in [Define a search source](add-table-search-source.md).
+1.  Complete the required fields in [Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md).
 
 2.  In the **Typeahead** tab of the **Search Source** record, select the **Advanced typeahead config** check box.
 
@@ -43,8 +43,8 @@ Role required: admin
 
     Typeahead results display beside the image defined in the service catalog record.
 
-    ![Typeahead showing results for search term "apple".](../image/adv-typeahead-result.png)
+    ![Typeahead showing results for search term "apple".](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/adv-typeahead-result.png)
 
 
-**Parent Topic:**[Define a search source](add-table-search-source.md)
+**Parent Topic:**[Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 

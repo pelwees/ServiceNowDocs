@@ -44,5 +44,5 @@ Role required: sn\_oper\_res.manager, Action task owner
 
 ## What to do next
 
-Devise a course of treatment plan and perform root cause analysis. For more information, see [Decide the treatment and perform a root cause analysis](deciding-treatment-analysis.md).
+Devise a course of treatment plan and perform root cause analysis. For more information, see [Decide the treatment and perform a root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/deciding-treatment-analysis.md).
 

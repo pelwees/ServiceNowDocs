@@ -25,7 +25,7 @@ Role required: cdm\_editor or cdm\_admin
 
 -   Do not manually validate snapshots that have already been validated and published.
 -   If you select the **Validate snapshots** or **Validate and publish snapshots** option when committing a changeset, then the system auto-validates each snapshot when it is first generated.
--   To view the current validation failures or warnings for a snapshot, open the snapshot and select the **Validation Results** tab. For details, see [View the results of snapshot validation](cdm-validation-results-view.md).
+-   To view the current validation failures or warnings for a snapshot, open the snapshot and select the **Validation Results** tab. For details, see [View the results of snapshot validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-validation-results-view.md).
 -   Use the Policy Test Playground feature to revalidate snapshots while you develop a policy. The resulting validation results are flagged as test results and do not affect operations.
 -   If there is a requirement to revalidate all snapshots for a deployable, revalidate only after you have tested and published the policies.
 
@@ -47,10 +47,10 @@ Role required: cdm\_editor or cdm\_admin
 
 ## What to do next
 
-If the snapshot failed validation, you can view the issues to fix them. See [View the results of snapshot validation](cdm-validation-results-view.md).
+If the snapshot failed validation, you can view the issues to fix them. See [View the results of snapshot validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-validation-results-view.md).
 
 **Related topics**  
 
 
-[View the results of snapshot validation](cdm-validation-results-view.md)
+[View the results of snapshot validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-validation-results-view.md)
 

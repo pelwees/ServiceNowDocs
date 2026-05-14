@@ -21,12 +21,12 @@ After you set up continuous replication, the IDRProducerJob job runs on the prod
 
 The IDRConsumerJob job runs on the consumer instances to detect the data updates from the producer. When the IDRConsumerJob job detects updates, it updates the data in consumer tables.
 
-![Data flows from the producer to the message queue and then to a consumer.](../image/data-lag.png "IDR data updates flow")
+![Data flows from the producer to the message queue and then to a consumer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/data-lag.png "IDR data updates flow")
 
 Inserts and updates on the producer instance are replicated in near-real time.
 
--   Monitor how long updates from the producer to the consumer are taking in the Monitoring Dashboard. See [Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md).
--   Monitor the replication record queue, message queue, and messages processed for all replications sets by in the Queue Dashboard. See [Monitoring queues in Instance Data Replication](idr-queue-dashboard.md).
+-   Monitor how long updates from the producer to the consumer are taking in the Monitoring Dashboard. See [Monitoring replication status in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-dashboard.md).
+-   Monitor the replication record queue, message queue, and messages processed for all replications sets by in the Queue Dashboard. See [Monitoring queues in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/idr-queue-dashboard.md).
 
-For more information, see [Set up continuous replication](../task/set-up-continuous-replication-idr.md).
+For more information, see [Set up continuous replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/set-up-continuous-replication-idr.md).
 

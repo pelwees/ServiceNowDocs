@@ -23,7 +23,7 @@ Role required: admin or delegated\_developer
 
 The Navigator panel organizes apps and app files alphabetically by metadata type. For example, to find an audio app file, navigate to **File Categories** &gt; **Content** &gt; **Audio**.
 
-For more information about the file types available in the Navigator panel, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+For more information about the file types available in the Navigator panel, see [ServiceNow Studio Navigator panel taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-file-navigator-taxonomy.md).
 
 ## Procedure
 
@@ -33,8 +33,8 @@ For more information about the file types available in the Navigator panel, see 
 
 3.  Select the icon that corresponds to the type of file you want to find.
 
-    -   To find an app, select the Apps icon ![apps icon](../image/sn-studio-app-nav-icon.png).
-    -   To find an app file, select the File Categories icon ![file categories icon](../image/sn-studio-file-nav-icon.png).
+    -   To find an app, select the Apps icon ![apps icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-app-nav-icon.png).
+    -   To find an app file, select the File Categories icon ![file categories icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-file-nav-icon.png).
 4.  Refine the list of apps or app files using the following options.
 
 <table id="choicetable_gjw_s5k_fdc"><thead><tr><th align="left" id="d200943e179">
@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d200943e188">
 
-**Filter icon ![filter icon](../../../reuse/icons/product-icons/filter-fill-24.svg)**
+**Filter icon ![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../../reuse/icons/product-icons/filter-fill-24.svg)**
 
 </td><td>
 
@@ -57,7 +57,7 @@ Select a filter to display applications within a specific scope.Available filter
 
 </td></tr><tr><td id="d200943e225">
 
-**Sort icon ![sort icon](../../../reuse/icons/product-icons/sort-ascending-outline-24.svg)**
+**Sort icon ![sort icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../../reuse/icons/product-icons/sort-ascending-outline-24.svg)**
 
 </td><td>
 
@@ -65,7 +65,7 @@ Sort the list of apps or app files in alphabetical or reverse alphabetical order
 
 </td></tr><tr><td id="d200943e239">
 
-**Filter list box![Enter the name of the app or app file in the Filter list box to refine the list items.](../image/sn-studio-filter-box-track.png)
+**Filter list box![Enter the name of the app or app file in the Filter list box to refine the list items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-filter-box-track.png)
 
 **
 
@@ -75,13 +75,13 @@ Enter an app or app file name in the Filter list box to display only matching re
 
 </td></tr><tr><td id="d200943e254">
 
-**Expand the metadata section![Expand the metadata section, then select the file type that corresponds to the app file you are looking for](../image/sn-studio-metadata-section-flow.png)
+**Expand the metadata section![Expand the metadata section, then select the file type that corresponds to the app file you are looking for](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-metadata-section-flow.png)
 
 **
 
 </td><td>
 
-**Note:** Only used when finding app files. For more information, see [Working with metadata app file categories in the ServiceNow Studio Navigator](../concept/sn-studio-working-with-metadata.md).
+**Note:** Only used when finding app files. For more information, see [Working with metadata app file categories in the ServiceNow Studio Navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sn-studio-working-with-metadata.md).
 
 Expand the metadata section that contains the app file you want. For example, to find a flow file, expand **Automation** and select **Flow**.
 
@@ -92,7 +92,7 @@ Expand the metadata section that contains the app file you want. For example, to
 
 6.  To view all files of a single metadata type, hover over a file type and select **Show all Files**.
 
-    ![Selecting show all files opens a list of just one type of file.](../image/sn-studio-show-all-files.png)
+    ![Selecting show all files opens a list of just one type of file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-show-all-files.png)
 
 7.  Select the app or file to open it in a new integrated tab.
 

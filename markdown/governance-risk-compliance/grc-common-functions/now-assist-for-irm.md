@@ -20,15 +20,15 @@ Use the Now Assist for Integrated Risk Management \(IRM\) plugin to summarize is
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for IRM](exploring-now-assist-for-irm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for IRM](exploring-now-assist-for-irm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for IRM application to get started](configure-now-assist-for-irm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for IRM application to get started](configure-now-assist-for-irm.md)
 
 </td><td>
 
-[Use IRM generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for IRM](using-now-assist-for-irm-to-summarize-issues.md)
+[Use IRM generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for IRM](using-now-assist-for-irm-to-summarize-issues.md)
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Use the Now Assist for Integrated Risk Management \(IRM\) plugin to summarize is
 
 </td><td>
 
-[Use agentic AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for Integrated Risk Management AI agents to complete tasks autonomously.](use-agentic-ai-in-risk-sustainability.md)
+[Use agentic AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for Integrated Risk Management AI agents to complete tasks autonomously.](use-agentic-ai-in-risk-sustainability.md)
 
 </td><td>
 

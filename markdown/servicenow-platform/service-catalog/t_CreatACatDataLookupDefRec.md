@@ -126,7 +126,7 @@ Select this check box to automatically look up values whenever a user changes a 
 16. Click **Update**.
 
 
-**Parent Topic:**[Service catalog data lookup](../concept/c_ServiceCatalogDataLookup.md)
+**Parent Topic:**[Service catalog data lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogDataLookup.md)
 
 ## Add a data lookup value
 
@@ -152,7 +152,7 @@ For example, you can define the matching settings for bronze, silver, and gold o
 
     For example:
 
-    ![Service Catalog lookup 1.](../image/ServiceCatalogLookup1.png "Service Catalog lookup 1")
+    ![Service Catalog lookup 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogLookup1.png "Service Catalog lookup 1")
 
     **Note:** Each row in a data lookup table must be unique.
 

@@ -17,8 +17,8 @@ Configure connection settings for the installed ODBC driver including server URL
 
 ## Before you begin
 
--   You have a valid ServiceNow credentials for a Service Account with the required roles assigned. See [Create a Service Account and assign Roles](create-service-account.md) for more information.
--   Your client machine's IP address is included in the SQL API IP filter criteria. See [Create IP filter criteria](create-ip-filter-criteria.md) for more information.
+-   You have a valid ServiceNow credentials for a Service Account with the required roles assigned. See [Create a Service Account and assign Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/create-service-account.md) for more information.
+-   Your client machine's IP address is included in the SQL API IP filter criteria. See [Create IP filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/create-ip-filter-criteria.md) for more information.
 -   You have the necessary connection parameters including your ServiceNow instance URL and Service Account credentials.
 
 Role required: local administrator on client machine for installation
@@ -39,11 +39,11 @@ After installing the ServiceNow SQL API ODBC driver on your client machine, you 
 
 5.  Open the `ServiceJVMClassPath` parameter.
 
-    ![UI screen of ODBC driver ServiceJVMClassPath.](../image/sql-api-odbcdriver-ip-parameters.png)
+    ![UI screen of ODBC driver ServiceJVMClassPath.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-odbcdriver-ip-parameters.png)
 
 6.  Append the value, separated by semicolons, with the location where the `bc-fips-2.0.0.jar`, `bcutil-fips-2.0.3.jar`, and `bcpkix-fips-2.0.7.jar` files are extracted.
 
-    See [Download the SQL API drivers on client machine](download-sql-api-drivers.md) to locate the JAR files.
+    See [Download the SQL API drivers on client machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/download-sql-api-drivers.md) to locate the JAR files.
 
     For example, the JAR file location follows this pattern:
 
@@ -112,7 +112,7 @@ Custom Properties
 `url=https://<instance>.service-now.com`Enter your ServiceNow instance URL.
 
 </td></tr></tbody>
-</table>    ![UI screen of ODBC driver DNS settings.](../image/sql-api-odbcdriver-dns-setting.png)
+</table>    ![UI screen of ODBC driver DNS settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-odbcdriver-dns-setting.png)
 
 13. Select **Apply**.
 
@@ -131,7 +131,7 @@ The ServiceNow SQL API ODBC driver is configured on your client machine. You can
 
 ## What to do next
 
-You can use Interactive SQL application to verify the connection and test SQL queries. See [Test SQL API ODBC driver connection using Interactive SQL](test-sql-api-odbc-driver-connection-using-interactive-sql.md).
+You can use Interactive SQL application to verify the connection and test SQL queries. See [Test SQL API ODBC driver connection using Interactive SQL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/test-sql-api-odbc-driver-connection-using-interactive-sql.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-sql-api.md)
 

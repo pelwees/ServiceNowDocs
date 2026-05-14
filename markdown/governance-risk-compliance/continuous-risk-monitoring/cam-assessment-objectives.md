@@ -28,5 +28,5 @@ In CAM, a control is tested at a more granular level with multiple assessment pr
 
 New control test criteria such as Examine, Interview, and Test are available during control testing. These fields are read-only, however you can update these descriptions at the test template and test plan levels. A set of assessment procedures is available as a related list while control testing. Assessment procedures are at the objective level, and can be marked as not applicable in addition to being effective, ineffective, and none.
 
-![Control objectives sourced by NIST for which test templates are provided.](../image/cam-nist-co.png "Control objectives sourced by NIST 800-53 revision 5")
+![Control objectives sourced by NIST for which test templates are provided.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-nist-co.png "Control objectives sourced by NIST 800-53 revision 5")
 

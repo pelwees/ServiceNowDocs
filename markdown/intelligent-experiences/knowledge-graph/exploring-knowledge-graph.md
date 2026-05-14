@@ -23,7 +23,7 @@ By linking data and embedding semantic meaning, ServiceNow Knowledge Graph trans
 
 ServiceNow Knowledge Graph application:
 
-1.  Natural language queries: Allow users to query structured ServiceNow data conversationally—for example, “Who is my manager?”, “What’s the status of my incident?”, or “What assets are assigned to me.” For more examples, see [Natural language queries use cases and examples](natural-language-queries-example-usecases.md)
+1.  Natural language queries: Allow users to query structured ServiceNow data conversationally—for example, “Who is my manager?”, “What’s the status of my incident?”, or “What assets are assigned to me.” For more examples, see [Natural language queries use cases and examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/natural-language-queries-example-usecases.md)
 2.  User context: Provide Now Assist in Virtual Agent and AI Agents with contextual information such as role, department, or location to deliver personalized and relevant responses.
 3.  Slot-filling: Simplify user interactions by automatically populating known information in forms or chat requests, reducing effort and friction.
 4.  Smarter AI Agents: Empower agents to retrieve insights, facts, and relationships directly from the knowledge graph to automate actions and improve accuracy.
@@ -81,7 +81,7 @@ In this release, the available prebuilt integrations are:
 
 To learn more about configuring and using Knowledge Graph, see:
 
--   [Configuring Knowledge Graph](../Task/configuring-knowledge-graph.md)
--   [Using Knowledge Graph Designer](../Task/using-knowledge-graph-designer.md)
--   [Reference for Knowledge Graph](../Reference/reference-for-knowledge-graph.md)
+-   [Configuring Knowledge Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Task/configuring-knowledge-graph.md)
+-   [Using Knowledge Graph Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Task/using-knowledge-graph-designer.md)
+-   [Reference for Knowledge Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Reference/reference-for-knowledge-graph.md)
 

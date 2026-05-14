@@ -96,5 +96,5 @@ Indicates the closure comments that are posted for the LogRhythm alarm.
 
 If you do not see notes indicating the alarm has closed successfully in the security incident, review the work notes for more information about how to proceed to fix the problem. Also, check your server connection. If you confirm the ServiceNow AI Platform security incident has been closed and the server has not timed out, you may have to manually close the alarm on the LogRhythm Web Console.
 
-**Parent Topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
+**Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 

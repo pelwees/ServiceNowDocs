@@ -29,7 +29,7 @@ Role required: sn\_hr\_core.basic or sn\_hr\_core.case\_writer
 
 4.  Complete the form.
 
-    These instructions describe the required fields for requesting an office space. For a complete listing of all HR task fields, refer to [Adding an HR task to an HR case](t_ViewAnHRTask.md).
+    These instructions describe the required fields for requesting an office space. For a complete listing of all HR task fields, refer to [Adding an HR task to an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewAnHRTask.md).
 
 <table id="choicetable_x1q_p25_gz"><thead><tr><th align="left" id="d607991e89">
 
@@ -99,5 +99,5 @@ Appears from the HR task template, but you can override it. If blank, select an 
 </table>5.  Select **Submit** or **Ready for Work**.
 
 
-**Parent Topic:**[Adding an HR task to an HR case](t_ViewAnHRTask.md)
+**Parent Topic:**[Adding an HR task to an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewAnHRTask.md)
 

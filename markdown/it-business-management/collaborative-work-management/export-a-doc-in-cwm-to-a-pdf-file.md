@@ -17,7 +17,7 @@ Use the Docs offline, and share with teams or stakeholders outside Collaborative
 
 ## Before you begin
 
-[Create a Doc in CWM](create-a-doc-in-cwm.md)
+[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-doc-in-cwm.md)
 
 Role required: sn\_cwm.cwm\_user
 
@@ -27,14 +27,14 @@ Role required: sn\_cwm.cwm\_user
 
 2.  From a Space, select the Doc that you want to export.
 
-3.  From the Doc header, select the More actions icon \(![More actions icon.](../images/cwm-icon-more-actions-dots.png)\), and then select **Export as PDF**.
+3.  From the Doc header, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-more-actions-dots.png)\), and then select **Export as PDF**.
 
-    ![Export as PDF.](../images/cwm-doc-export-pdf.png)
+    ![Export as PDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-doc-export-pdf.png)
 
 
 ## Result
 
 The Doc is exported and saved in your local system as a PDF file.
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-docs.md)
 

@@ -56,11 +56,11 @@ console.log(errorMessage, errorType);
 **Related topics**  
 
 
-[Configure the Case list component instance](../task/configure-case-list-component-on-instance.md)
+[Configure the Case list component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/configure-case-list-component-on-instance.md)
 
-[Embed the Case list component instance on the third-party website](../task/embed-case-list-component-on-third-party-website.md)
+[Embed the Case list component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/embed-case-list-component-on-third-party-website.md)
 
-[Component properties for the Case list](component-properties-for-the-case-list.md)
+[Component properties for the Case list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/component-properties-for-the-case-list.md)
 
-[Event handler in the Case list component](we-case-list-event-handlers.md)
+[Event handler in the Case list component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-list-event-handlers.md)
 

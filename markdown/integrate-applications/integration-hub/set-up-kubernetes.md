@@ -88,12 +88,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the Kubernetes spoke, click **View Details**.
 
-        ![Connection for the Kubernetes spoke.](../image/kubernetes-conf-temp.png)
+        ![Connection for the Kubernetes spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/kubernetes-conf-temp.png)
 
-    -   To manage more than one Kubernetes spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Kubernetes spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![First-time connection configuration.](../image/kubernetes-configure-temp.png)
+    ![First-time connection configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/kubernetes-configure-temp.png)
 
 5.  On the **Connection** form, fill in the fields.
 
@@ -103,7 +103,7 @@ Role required: admin
     |Connection URL|IP address and port of the host machine where Kubernetes is installed.|
     |API Key|Token you obtained from Kubernetes in this format: `Bearer {access token}`.|
 
-    ![Configure a connection for the Kubernetes spoke.](../image/kubernetes-temp.png)
+    ![Configure a connection for the Kubernetes spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/kubernetes-temp.png)
 
 6.  Click **Configure Connection**.
 

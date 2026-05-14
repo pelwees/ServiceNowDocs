@@ -28,9 +28,9 @@ Each action taken after a **Help Request** is accepted and recorded with a times
 
 For more information, see:
 
--   [Manager Workspace landing page](../../workforce-optimization-for-customer-service-configurable/concept/csm-configurable-manager-workspace-dashboards-new.md)
--   [Manager dashboard for operational Insights](../../workforce-optimization-for-customer-service-configurable/concept/manager-dashboard-for-operational-insights.md)
--   [Listen, Monitor or Barge in to an agent call](../../workforce-optimization-for-customer-service-configurable/task/listen-agent-call-configurable-wfo-cs.md)
+-   [Manager Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../workforce-optimization-for-customer-service-configurable/concept/csm-configurable-manager-workspace-dashboards-new.md)
+-   [Manager dashboard for operational Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../workforce-optimization-for-customer-service-configurable/concept/manager-dashboard-for-operational-insights.md)
+-   [Listen, Monitor or Barge in to an agent call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../workforce-optimization-for-customer-service-configurable/task/listen-agent-call-configurable-wfo-cs.md)
 
 ## Dependencies
 

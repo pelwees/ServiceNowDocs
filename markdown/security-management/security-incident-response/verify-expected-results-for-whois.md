@@ -33,7 +33,7 @@ Results are displayed on the **Observable Enrichment Results** tab on the Observ
 
 3.  Select the **Reverse Whois Domains** tab at the bottom of the record.
 
-    ![Domain results from the lookup.](../images/reverse-205.png)
+    ![Domain results from the lookup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-205.png)
 
     In the **Domains** column, the list of returned domains is displayed.
 
@@ -41,41 +41,41 @@ Results are displayed on the **Observable Enrichment Results** tab on the Observ
 
     On the **Child Observables** tab, the child observables are displayed. The child observables are generated only if the initial scan of the observable by the Reverse Whois application returned domains.
 
-    ![Child observables tab with results.](../images/reverse-child-observables.png)
+    ![Child observables tab with results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-child-observables.png)
 
 5.  Select the child observables you want to run the observable enrichment on, and, in the **Action on selected rows** choice list, select **Run Observable Enrichment**.
 
-    ![Child observable selected and choice list.](../images/reverse-run-observable-enrichment.png)
+    ![Child observable selected and choice list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-run-observable-enrichment.png)
 
     The **Run Observable Enrichment** dialog box is displayed.
 
 6.  Move the Whois integration from **Available** to **Selected** and click **Submit**.
 
-    ![Whois integration selected for observable enrichment.](../images/reverse-who-is-run-observable-dialog.png)
+    ![Whois integration selected for observable enrichment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-who-is-run-observable-dialog.png)
 
     Results are displayed on the **Observable Enrichment Results** tab of the observable record.
 
 7.  Click the blue information icon then click **Open Record** in the dialog box that is displayed.
 
-    ![The observable record.](../images/reverse-run-enrich-rslts.png)
+    ![The observable record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-run-enrich-rslts.png)
 
-    ![Raw data returned from the child observable enrichment.](../images/reverse-raw-data-enrich.png)
+    ![Raw data returned from the child observable enrichment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-raw-data-enrich.png)
 
     More information and raw data related to the original domain lookup is displayed, such as the registration date, name of registrar, and country of origin.
 
 
 If you cannot locate child observables or enrichment results, verify that the Reverse Whois integration ran successfully and returned domains. Also, refer to the work notes on the record for more information.
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/reversewhois-lookups.md)
 
-**Previous topic:**[Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md)
+**Previous topic:**[Verify expected results for Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md)
 
-**Next topic:**[RISKIQ and WHOISIQ integration](../../secops-integration-riskiq/concept/riskiq-lookups.md)
+**Next topic:**[RISKIQ and WHOISIQ integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-riskiq/concept/riskiq-lookups.md)
 
 **Related topics**  
 
 
-[Install and configure Reverse Whois](install-and-config-reversewhois.md)
+[Install and configure Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-config-reversewhois.md)
 
-[Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md)
+[Verify expected results for Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md)
 

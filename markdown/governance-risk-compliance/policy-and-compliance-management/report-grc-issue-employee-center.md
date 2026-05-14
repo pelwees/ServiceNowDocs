@@ -177,7 +177,7 @@ Analysis of the root cause of the issue.
 
 8.  Click **My Requests** link at the top right corner to view all the requests that includes your issues and issue triage.
 
-    ![My Requests page in Employee Center.](../image/MyRequestPageEmpCenter.png "My Requests page")
+    ![My Requests page in Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/MyRequestPageEmpCenter.png "My Requests page")
 
 9.  Click the issue triage request number, which has a prefix IST, to view messages, if any, from the approver.
 

@@ -136,5 +136,5 @@ var selectedValue = menuItem.myCustomData; //get the custom data for the selecte
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+</table>**Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyActivities.md)
 

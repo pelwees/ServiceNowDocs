@@ -49,10 +49,10 @@ Role required: admin or maint user.
 
 In the navigation filter, enter `sn_ex_sp_user_portal_data_map.list` to see the data.
 
-![Illustrative image for the user portal data map session data](../images/mm-user-portal-data-map.png "User portal data map session data")
+![Illustrative image for the user portal data map session data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/mm-user-portal-data-map.png "User portal data map session data")
 
 **Related topics**  
 
 
-[Configure Mega menu async load system properties](config-mega-menu-async-load.md)
+[Configure Mega menu async load system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-mega-menu-async-load.md)
 

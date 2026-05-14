@@ -29,5 +29,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
     -   Unassigned- Unassigned cases and assign them to the available agent.
     -   Escalated: Cases that are escalated and need attention.
 
-**Parent Topic:**[Sales promotion claim management](../concept/mco-sls-pro-clm-mgmt.md)
+**Parent Topic:**[Sales promotion claim management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-sls-pro-clm-mgmt.md)
 

@@ -17,7 +17,7 @@ Database Encryption with Customer-Controlled Switch \(DBE-CCS\) is an encryption
 
 **Important:**
 
-Database Encryption with Customer Controlled Switch has begun its End of Life process, and has reached the End Of Sale and End of Renewal milestones as of the Yokohama release. For data-at-rest encryption support, see [Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md).
+Database Encryption with Customer Controlled Switch has begun its End of Life process, and has reached the End Of Sale and End of Renewal milestones as of the Yokohama release. For data-at-rest encryption support, see [Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/../../encryption-dare/concept/dare-overview.md).
 
 ## Overview
 
@@ -48,5 +48,5 @@ Refer to these references for additional information about DBE with CCS:
 
 **Note:** To access KB articles, you must first authenticate into Now Support.
 
-**Parent Topic:**[Database Encryption](db-full-disk-encryption.md)
+**Parent Topic:**[Database Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/db-full-disk-encryption.md)
 

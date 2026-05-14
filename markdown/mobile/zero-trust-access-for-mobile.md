@@ -17,10 +17,10 @@ Session states can either be relegated with limited user access or restored with
 
 For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md).
 
-![Banner notifying the user that their access may be limited because they are not on a trusted network.](../image/mobile-zero-trust-access.png)
+![Banner notifying the user that their access may be limited because they are not on a trusted network.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-zero-trust-access.png)
 
--   **[Configure Zero Trust Access for mobile](configure-zero-trust-access-mobile.md)**  
+-   **[Configure Zero Trust Access for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-zero-trust-access-mobile.md)**  
 Configure Zero Trust Access \(ZTA\) on mobile to reduce end-user access based on factors such as IP address, location, and identity provider attributes.
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-authentication.md)
 

@@ -44,5 +44,5 @@ Role required: itil, the agents part of the assignment group or the agents on th
 7.  Select **Transfer**.
 
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/using-ur-sow.md)
 

@@ -19,7 +19,7 @@ You can activate the Universal Request: Advanced Work Assignment plugin \(com.sn
 
 **Note:** The Universal Request: Advanced Work Assignment plugin \(com.snc.universal\_request.awa\) plugin requires a separate subscription and must be activated by a ServiceNow personnel.
 
-Before installing the Universal Request: Advanced Work Assignment plugin \(com.snc.universal\_request.awa\) plugin, install the Universal Request plugin. For more information, see [Activate Universal Request](activate-ur-plugin.md).
+Before installing the Universal Request: Advanced Work Assignment plugin \(com.snc.universal\_request.awa\) plugin, install the Universal Request plugin. For more information, see [Activate Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-ur-plugin.md).
 
 Role required: admin
 
@@ -38,7 +38,7 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Universal Request plugins](../concept/ur-plugins.md)
+**Parent Topic:**[Universal Request plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-plugins.md)
 
 **Related topics**  
 

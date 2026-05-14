@@ -25,7 +25,7 @@ Role required: sn\_bcm.admin
 
     The form is shown in the example.
 
-    ![Registry.](../image/360-rel-reg-new.png)
+    ![Registry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-rel-reg-new.png)
 
 3.  On the form, fill in the fields.
 
@@ -96,13 +96,13 @@ The table name you selected in the **Relationship** field.
 
     The form is shown in the example.
 
-    ![360° Views.](../image/360-views.png)
+    ![360° Views.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-views.png)
 
 6.  Save the record.
 
     The Relationship Registries related list appears.
 
-    ![Relationship registries](../../grc-360-degree-rel-vis/image/relationship-registry.png "Relationship registries")
+    ![Relationship registries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-360-degree-rel-vis/image/relationship-registry.png "Relationship registries")
 
 7.  Choose **Select Relationships**.
 
@@ -187,8 +187,8 @@ Based on the **Order** value given the position of element in the 360º view wil
 
     The new view you have defined is now available on the 360º view.
 
-    ![Select a new view](../../grc-360-degree-rel-vis/image/new-view.png "Selecting a new view")
+    ![Select a new view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-360-degree-rel-vis/image/new-view.png "Selecting a new view")
 
-    For more information on 360° views configurations, see [Configure 360º views](../../grc-360-degree-rel-vis/concept/set-up-360-data-reg.md#).
+    For more information on 360° views configurations, see [Configure 360º views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-360-degree-rel-vis/concept/set-up-360-data-reg.md#).
 
 

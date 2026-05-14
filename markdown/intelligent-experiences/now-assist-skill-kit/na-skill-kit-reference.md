@@ -15,12 +15,12 @@ breadcrumb: [Now Assist Skill Kit, Enable AI experiences]
 
 Reference topics for Now Assist Skill Kit
 
--   **[Now Assist Skill Kit roles](na-skill-kit-roles.md#)**  
+-   **[Now Assist Skill Kit roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/na-skill-kit-roles.md#)**  
 Certain roles are required to use Now Assist Skill Kit functionality.
--   **[Field of use for Now Assist Skill Kit](nask-field-of-use.md)**  
+-   **[Field of use for Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/nask-field-of-use.md)**  
 Now Assist Skill Kit is included in various Now Assist packages that cover a given customers’ ability to build Now Assist skills.
--   **[Web search custom skill](web-search-custom-skill.md)**  
+-   **[Web search custom skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/web-search-custom-skill.md)**  
 The web search custom skill performs an internet search to answer a query. Web search is used whenever the LLM and AI Search are unable to provide results or whenever web search mode is activated.
 
-**Parent Topic:**[Now Assist Skill Kit](../concept/now-assist-skill-kit-landing.md)
+**Parent Topic:**[Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/now-assist-skill-kit-landing.md)
 

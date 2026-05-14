@@ -19,22 +19,22 @@ In the Inventory Template form in the Network Inventory Workspace Lists view, yo
 
 The following example shows an inventory template for a network interface model.
 
-![Inventory Template for the network interface model.](../image/inventory-template-GigabitEthernet.png "Inventory template for a network interface model")
+![Inventory Template for the network interface model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/inventory-template-GigabitEthernet.png "Inventory template for a network interface model")
 
 **Note:** If the equipment model supports multiple models of network interfaces, you must create an individual inventory template for each model.
 
 ## What's next
 
-Next, add slots to the equipment template. To learn more, see [Add slots to the equipment inventory template](adding-slot-equipment-model.md).
+Next, add slots to the equipment template. To learn more, see [Add slots to the equipment inventory template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/adding-slot-equipment-model.md).
 
-**Parent Topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
+**Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
-**Previous topic:**[Create inventory templates for related interface card models](creating-inventory-templates-for-related-interface-card-models.md)
+**Previous topic:**[Create inventory templates for related interface card models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md)
 
-**Next topic:**[Add slots to the equipment inventory template](adding-slot-equipment-model.md)
+**Next topic:**[Add slots to the equipment inventory template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/adding-slot-equipment-model.md)
 
 **Related topics**  
 
 
-[Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md)
+[Create inventory template for network asset instantiation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 

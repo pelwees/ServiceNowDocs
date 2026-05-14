@@ -46,5 +46,5 @@ The Card Data Security connection records are configured.
 
 ## What to do next
 
-[Set up an OAuth Credential](set-up-an-oauth-credential.md).
+[Set up an OAuth Credential](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-credential.md).
 

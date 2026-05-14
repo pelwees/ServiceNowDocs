@@ -27,7 +27,7 @@ There are also methods that enable you to obtain the current values of specific 
 
 This API runs in the `sn_chg_score` namespace and the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin must be activated.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## ChangeSuccess - getEntryLevelTeamScore\(\)
 
@@ -8657,9 +8657,9 @@ Controls whether the associated method returns the details of the Performance An
 
 Use this method to toggle the return of this data on or off for the current ChangeSuccess object. This method is a helper method and must be used in conjunction with one of the other methods that return a success score such as:
 
--   [ChangeSuccess - getScoresForChange\(Object chgGr\)](ChangeSuccessScopedAPI.md#)
--   [ChangeSuccess - getTeamScoreForChange\(Object chgGr\)](ChangeSuccessScopedAPI.md#)
--   [ChangeSuccess - getModelScoreForModelId\(String sys\_id, String domain\_id\)](ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getScoresForChange\(Object chgGr\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getTeamScoreForChange\(Object chgGr\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getModelScoreForModelId\(String sys\_id, String domain\_id\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
 
 <table id="table_zhv_yhk_ltb" class="parameters"><thead><tr><th>
 
@@ -9716,7 +9716,7 @@ gs.info(JSON.stringify(new sn_chg_score.ChangeSuccess().withModelScore(false).ge
 
 ```
 
-The following output only shows the model success score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](ChangeSuccessScopedAPI.md#).
+The following output only shows the model success score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#).
 
 ```
 "model_success_score": {
@@ -11296,7 +11296,7 @@ chgGr.get("number", "CHG0030305");
 gs.info(JSON.stringify(new sn_chg_score.ChangeSuccess().withTeamScore(false).getScoresForChange(chgGr), null, 2));
 ```
 
-The following output only shows the team score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](ChangeSuccessScopedAPI.md#).
+The following output only shows the team score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#).
 
 ```
 {
@@ -11476,9 +11476,9 @@ Controls whether the associated method returns the details for all change succes
 
 Use this method to toggle the return of this data on or off for the current ChangeSuccess object. This method is a helper method and must be used in conjunction with one of the other methods that return a success score such as:
 
--   [ChangeSuccess - getScoresForChange\(Object chgGr\)](ChangeSuccessScopedAPI.md#)
--   [ChangeSuccess - getTeamScoreForChange\(Object chgGr\)](ChangeSuccessScopedAPI.md#)
--   [ChangeSuccess - getModelScoreForModelId\(String sys\_id, String domain\_id\)](ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getScoresForChange\(Object chgGr\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getTeamScoreForChange\(Object chgGr\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
+-   [ChangeSuccess - getModelScoreForModelId\(String sys\_id, String domain\_id\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#)
 
 <table id="table_eqg_lhk_ltb" class="parameters"><thead><tr><th>
 
@@ -12374,7 +12374,7 @@ gs.info(JSON.stringify(new sn_chg_score.ChangeSuccess().withTypeScore(true).getS
 
 ```
 
-The following output only shows the type success score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](ChangeSuccessScopedAPI.md#).
+The following output only shows the type success score values that are returned if this helper is set to true. To see the other scores that may be returned, see [getScoresForChange\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md#).
 
 ```
 "type_success_score": {

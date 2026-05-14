@@ -23,7 +23,7 @@ Role required: none
 
 1.  Open a task board.
 
-2.  From the task board tools, click the board information icon \(![Board information icon](../image/BoardInfoIcon.png)\).
+2.  From the task board tools, click the board information icon \(![Board information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoIcon.png)\).
 
 3.  Click **View List** at the bottom of the information panel.
 
@@ -32,5 +32,5 @@ Role required: none
     **Note:** The freeform board list view only shows cards made by the board and no other tasks that might be added manually.
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/viewing-sharing-vis-task-brds.md)
 

@@ -35,7 +35,7 @@ The **Update catalog items conversational status** scheduled job pulls conversat
 
 [Configure Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-gen-ai-catalog-item.md)
 
-[View the conversational catalog overview dashboard using Catalog Builder](using-catalog-conversational-experience.md#)
+[View the conversational catalog overview dashboard using Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
 ## Conversational catalog overview dashboard
 
@@ -160,13 +160,13 @@ Date and time when the catalog item was last edited.
 </table>**Related topics**  
 
 
-[View the conversational catalog overview dashboard using Catalog Builder](using-catalog-conversational-experience.md#)
+[View the conversational catalog overview dashboard using Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[View the conversational catalog overview dashboard using the ServiceNow AI Platform](using-catalog-conversational-experience.md#)
+[View the conversational catalog overview dashboard using the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[Catalog item conversational details page overview](using-catalog-conversational-experience.md#)
+[Catalog item conversational details page overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[Catalog Conversational Coverage](using-catalog-conversational-experience.md#)
+[Catalog Conversational Coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
 ## Catalog item conversational details page overview
 
@@ -209,15 +209,15 @@ By default, all catalog items are conversational. To make the catalog item non-c
 **Related topics**  
 
 
-[Conversational catalog overview dashboard](using-catalog-conversational-experience.md#)
+[Conversational catalog overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[View the conversational catalog overview dashboard using Catalog Builder](using-catalog-conversational-experience.md#)
+[View the conversational catalog overview dashboard using Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[View the conversational catalog overview dashboard using the ServiceNow AI Platform](using-catalog-conversational-experience.md#)
+[View the conversational catalog overview dashboard using the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[Catalog Conversational Coverage](using-catalog-conversational-experience.md#)
+[Catalog Conversational Coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md#)
 
-[Topic blocks to request catalog items through conversational experience](request-topic-blocks-va-llm.md)
+[Topic blocks to request catalog items through conversational experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/request-topic-blocks-va-llm.md)
 
 ## View the conversational catalog overview dashboard using the ServiceNow AI Platform
 
@@ -268,5 +268,5 @@ Role required: catalog\_admin
 **Related topics**  
 
 
-[Edit a catalog item in Catalog Builder](../task/edit-cat-item-cat-builder.md)
+[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/../task/edit-cat-item-cat-builder.md)
 

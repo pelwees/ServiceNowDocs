@@ -17,7 +17,7 @@ Use the CSDM Data Foundations dashboard to monitor and evaluate key foundational
 
 ## Before you begin
 
-For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../concept/csdm-data-foundations-dashboard.md).
+For an introduction to the dashboard, see [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-data-foundations-dashboard.md).
 
 -   Before you use the dashboard for the first time, populate the CSDM metrics: Navigate to **All** &gt; **System Scheduler** &gt; **Scheduled Jobs** and run the **CSDM Get Well Metric Collection** job.
 -   The CSDM Data Foundations dashboard adds the following scheduled jobs that must be running:
@@ -39,7 +39,7 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../c
     Note the percentages and color-coding in the **Result** column for each metric.
 
     -   If the percentage is 100%, the CSDM framework has the information it needs. No other action is needed.
-    -   Otherwise, required information is missing and additional actions are required. Continue with [step 5](csdm-foundations-dashboard.md#access-pa-widgets).
+    -   Otherwise, required information is missing and additional actions are required. Continue with [step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-foundations-dashboard.md#access-pa-widgets).
     Note the metrics on the **Foundation** tab:
 
     -   **Named Product Models with Product Owners**
@@ -58,7 +58,7 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../c
         -   20%: 16 or more CIs have custom status values.
         To view the default base-system status values, enter `sn_getwell_oob_status_table_field.list` in the navigator **Filter** text box. The Configuration item Status Values form displays the list of elements and associated tables. Select a table name to see the list of default labels and values.
 
-        ![Configuration item status values.](../../configuration-management/image/config-item-status-value.png)
+        ![Configuration item status values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../configuration-management/image/config-item-status-value.png)
 
     -   **Business Units with Companies**
 
@@ -75,13 +75,13 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../c
 
     [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md) are provided by the **CSDM PA Metric Collection** scheduled job. These widgets provide trending data over time for the non-conforming CIs associated with the metric.
 
-    -   Verify that the **Real-time** option is selected \(![real-time option.](../../configuration-management/image/RealTimeFoundationsDashboard.png)\) and then select **Show Records** to view the list of CIs.
+    -   Verify that the **Real-time** option is selected \(![real-time option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../configuration-management/image/RealTimeFoundationsDashboard.png)\) and then select **Show Records** to view the list of CIs.
     -   Select the **Breakdowns** context menu to view available breakdowns.
 5.  Scroll to the list of CIs in the **Custom Status Values** related list.
 
     The charts show the number of custom values that have been defined for each element. Select a chart to view custom values that have been defined for the element. This example shows custom label-value combinations for the install\_status element.
 
-    ![Custom status values for configuration items.](../../configuration-management/image/custom-config-item-status-value.png)
+    ![Custom status values for configuration items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../configuration-management/image/custom-config-item-status-value.png)
 
 6.  Select a CI to drill down to the form view.
 
@@ -96,5 +96,5 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../c
 
 The key foundational metric results are available for you to review and analyze.
 
-**Parent Topic:**[Configuring CSDM](../concept/configure-csdm.md)
+**Parent Topic:**[Configuring CSDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/configure-csdm.md)
 

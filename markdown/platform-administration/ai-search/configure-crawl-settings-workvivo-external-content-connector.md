@@ -18,7 +18,7 @@ Define inclusion or exclusion filters to control the attachment file types the W
 
 ## Before you begin
 
-A connector admin must have already created the Workvivo external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Workvivo external content connector](create-ext-cont-connector-workvivo.md).
+A connector admin must have already created the Workvivo external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Workvivo external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-workvivo.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -59,7 +59,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 5.  Select **Save and validate**.
 
@@ -70,7 +70,7 @@ The Workvivo external content connector is updated with your modified crawl sett
 
 ## What to do next
 
-To retrieve content from your Workvivo source system using your modified crawl settings, create and run a one-time content crawl for your Workvivo external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Workvivo source system using your modified crawl settings, create and run a one-time content crawl for your Workvivo external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Workvivo external content connector](../concept/workvivo-external-content-connector.md)
+**Parent Topic:**[Workvivo external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workvivo-external-content-connector.md)
 

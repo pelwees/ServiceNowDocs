@@ -44,5 +44,5 @@ The model category for the component can differ from that of the model. You can 
     The newly created model component appears in the Model Components tab and by default, is in the **In production** status even though the model is in **Build**status.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-models.md)
 

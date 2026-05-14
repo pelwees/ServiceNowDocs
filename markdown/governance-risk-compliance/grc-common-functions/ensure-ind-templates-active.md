@@ -29,7 +29,7 @@ Starting with version 12.0.1 of the Technology Controls Monitoring Accelerator a
 
 2.  Locate and open **GRC: Update Plugin Activation Status in Indicator-Plugin Mapping table**.
 
-    ![Scheduled Script Execution](../image/sched-job.png "Scheduled Script Execution")
+    ![Scheduled Script Execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/sched-job.png "Scheduled Script Execution")
 
 3.  Click **Execute Now**.
 
@@ -38,5 +38,5 @@ Starting with version 12.0.1 of the Technology Controls Monitoring Accelerator a
     **Note:** You must repeat this process any time you upgrade this application.
 
 
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/tech-controls-monitoring-accel.md)
 

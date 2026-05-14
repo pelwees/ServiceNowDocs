@@ -23,7 +23,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Default lists** tab, navigate to **Matters** &gt; **All**
 
@@ -40,5 +40,5 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 The closed legal hold notification matter is reopened, and its state changes from Closed complete to Work in Progress.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/use-lg-hold-notif.md)
 

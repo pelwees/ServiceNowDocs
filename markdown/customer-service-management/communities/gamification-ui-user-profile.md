@@ -68,7 +68,7 @@ The number within the circle and the blue highlight around the circle represent 
 
 Clicking the info icon displays the forum or topic levels and the point ranges.
 
-![Forum Expertise and Topic Expertise widgets displaying user’s top areas of expertise in completed levels and points.](../images/CommunitiesForumTopicExpertiseWidget.png "Forum and topic expertise widgets")
+![Forum Expertise and Topic Expertise widgets displaying user’s top areas of expertise in completed levels and points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/CommunitiesForumTopicExpertiseWidget.png "Forum and topic expertise widgets")
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-UI.md)
 

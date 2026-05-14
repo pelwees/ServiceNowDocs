@@ -45,7 +45,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 **Related topics**  
 
 
-[Create a campaign](../../mftg-manufacturing/concept/mco-rc-my-campaigns.md)
+[Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../../mftg-manufacturing/concept/mco-rc-my-campaigns.md)
 
 [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md)
 

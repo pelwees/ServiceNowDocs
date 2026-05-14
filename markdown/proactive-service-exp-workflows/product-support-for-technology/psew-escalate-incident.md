@@ -17,7 +17,7 @@ An escalation can be triggered when an incident is created with the appropriate 
 
 The following diagram provides a visual representation of the escalation flow.
 
-![Escalation flow](../image/psew-incident-escalate-flow.png)
+![Escalation flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/psew-incident-escalate-flow.png)
 
 The following category and sub category values are available with the base system:
 
@@ -38,7 +38,7 @@ The following values are available for the Stage field in the Incident table:
 
 Based on the defined conditions, such as current stage, category, and sub-category, the Incident Escalation Policy decision table determines the results and the next escalation stage if appropriate.
 
-![Incident Escalation Policy decision table to configure incident escalation results in Service Operations Workspace](../image/psew-incident-dec-table.png)
+![Incident Escalation Policy decision table to configure incident escalation results in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/psew-incident-dec-table.png)
 
 The decision table is provided with the Proactive Service Experience Workflows application. You can modify the conditions that have been defined, and the results to suit your requirements. For more details on updating decision tables, see [Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/decision-tables/decision-table.md).
 
@@ -46,8 +46,8 @@ When an incident is escalated, the status of the Needs attention field is update
 
 **Note:** As a system administrator, you can configure the **Set Needs Attention False** business rule.
 
--   **[Escalate an incident in Proactive Service Experience Workflows](../task/escalate-incident-aw.md)**  
+-   **[Escalate an incident in Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../task/escalate-incident-aw.md)**  
 Escalate an incident to continue the investigation and diagnosis of that incident. By escalating an incident, you can ask for help from a more-experienced resource so that the issue is resolved more quickly.
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-assurance-workflows.md)
 

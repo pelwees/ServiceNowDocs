@@ -15,7 +15,7 @@ breadcrumb: [Enterprise architect administrator tasks, Configure, API Insights, 
 
 Configure flows in Workflow Studio for automating API actions within API Insights, streamlining processes like API access requests.
 
-Configure flows to automate various API actions, such as granting access to APIs or processing API requests. Enterprise architect administrators with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role can then select workflows that align with specific API automation tasks when they configure settings for managing APIs. See [Configure settings to manage APIs in API Insights](../task/api-insights-config-settings.md).
+Configure flows to automate various API actions, such as granting access to APIs or processing API requests. Enterprise architect administrators with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role can then select workflows that align with specific API automation tasks when they configure settings for managing APIs. See [Configure settings to manage APIs in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-config-settings.md).
 
 ## Predefined flow to send reminders for API access
 

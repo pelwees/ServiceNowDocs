@@ -46,5 +46,5 @@ The **Generate Talent Profiles** scheduled job is run daily by default, once you
 3.  Select **Execute Now**.
 
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-tp.md)
 

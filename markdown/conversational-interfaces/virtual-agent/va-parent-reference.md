@@ -15,10 +15,10 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 Reference topics provide descriptions about the Virtual Agent Designer interface components and technical details to learn more about scripting methods, Natural Language Understanding system entities, and the Virtual Agent Interactions table.
 
--   **[Assistant Designer interface reference](../concept/vad-reference.md)**  
+-   **[Assistant Designer interface reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/vad-reference.md)**  
 The Assistant Designer interface lets you create, modify, test, publish, and localize topics, topic blocks, and custom controls.
--   **[Virtual Agent technical reference](../concept/va-advanced-technical-reference.md)**  
+-   **[Virtual Agent technical reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-advanced-technical-reference.md)**  
 Use these topics to learn more about scripting methods, NLU system entities, and the Virtual Agent Interactions table.
 
-**Parent Topic:**[Virtual Agent](../concept/virtual-agent-landing-page.md)
+**Parent Topic:**[Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/virtual-agent-landing-page.md)
 

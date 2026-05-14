@@ -19,23 +19,23 @@ Enable your team to collaborate in real time and add versions, store, copy, dele
 
 <table id="table_jkb_q1y_pcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore Multi Provider Document Services Framework](explore-mp-framework.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-explore.svg) Explore Multi Provider Document Services Framework](explore-mp-framework.md)
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Activate Multi Provider Document Services Framework](../task/activate-multi-provider-doc-framework.md)
+[Activate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-sdlc.svg) Activate Multi Provider Document Services Framework](../task/activate-multi-provider-doc-framework.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate with Microsoft OneDrive, Google Drive, and Microsoft SharePoint](integrate-with-document-services-mp.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate with Microsoft OneDrive, Google Drive, and Microsoft SharePoint](integrate-with-document-services-mp.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Use Multi Provider Document Services Framework](use-mp-document-services-framework.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Use Multi Provider Document Services Framework](use-mp-document-services-framework.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference Multi Provider Document Services Framework](reference-mp-doc-framework.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-learn.svg)Reference Multi Provider Document Services Framework](reference-mp-doc-framework.md)
 
 </td><td>
 

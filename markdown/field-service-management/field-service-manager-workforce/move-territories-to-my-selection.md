@@ -29,7 +29,7 @@ Move a territory to the My Selection list to be able to view it on a map.
 
 2.  In the All Territories list, select a territory that you want to mark as favorite.
 
-3.  Select the Favourite \(![Favourite icon](../image/fsm-star-icon.png)\) icon.
+3.  Select the Favourite \(![Favourite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/fsm-star-icon.png)\) icon.
 
 
 ## Result

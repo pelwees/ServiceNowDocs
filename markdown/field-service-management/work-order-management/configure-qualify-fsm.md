@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Turn on the switch that says **Qualification is required for new requests**.
 
-    ![qualify task switch](../image/switch-qualify.png)
+    ![qualify task switch](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/switch-qualify.png)
 
 3.  Select **Save**.
 

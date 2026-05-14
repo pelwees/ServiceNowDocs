@@ -28,5 +28,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 4.  Select **Assign**.
 
 
-**Parent Topic:**[Recall a campaign phase](mco-recall-campaign-phases.md)
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 

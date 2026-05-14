@@ -27,13 +27,13 @@ When a business service, process, or application experiences downtime due to a d
 
 With the BCM administrator role, you can view the impact categories that are installed with demo data and set up new impact categories in the **Impact categories** module of the BCM application. The example shows the impact categories that are installed with demo data in an instance.
 
-![BIA impact categories that are installed with demo data.](../image/bia-impact-categories.png)
+![BIA impact categories that are installed with demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-impact-categories.png)
 
 ## Configuration of an impact category
 
 The BCM administrators can configure or modify the impact categories by adding key information about the impact. The example shows the configuration details of an impact category in an instance.
 
-![Details of the legal impact category.](../image/configure-impact-category-for-bia.png)
+![Details of the legal impact category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/configure-impact-category-for-bia.png)
 
 The BCM administrators can configure the details of a new impact category:
 
@@ -61,22 +61,22 @@ The BCM administrators can configure the details of a new impact category:
 
     Helper text that provides a hint to users on how to respond to the assessment questions. The helper text is then displayed for the user in the business impact analysis record. In the example, "Select an estimated time for each impact level" is the helper text for the impact category.
 
-    ![Helper text in the Impact Rating record.](../image/imact-category-helper-text.png)
+    ![Helper text in the Impact Rating record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/imact-category-helper-text.png)
 
 
 ## Impact category configuration by BCM administrators
 
-For more information on how to configure an impact category with the sn\_bcm.admin role, see [Configure impact category for BIA](../task/configure-impact-category-uib-ws.md).
+For more information on how to configure an impact category with the sn\_bcm.admin role, see [Configure impact category for BIA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-impact-category-uib-ws.md).
 
 ## Impact ratings in BCM
 
 If you have the BCM administrator role, you can view the impact ratings that are installed with demo data and define specific impact ratings in the **Impact ratings** module. The following example shows the impact ratings that are installed with demo data for an impact category.
 
-![Impact ratings that are installed with demo data.](../image/configure-impact-category-for-bia.png)
+![Impact ratings that are installed with demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/configure-impact-category-for-bia.png)
 
 The impact ratings for an impact category are shown in the example.
 
-![Impact ratings for an impact category.](../image/question-text.png)
+![Impact ratings for an impact category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/question-text.png)
 
 ## Configuration of an impact rating
 
@@ -109,7 +109,7 @@ The BCM administrators can configure details of an impact rating for the busines
 
 ## Impact rating configuration by the administrators
 
-For more information on how to configure an impact rating with the sn\_bcm.admin role, see [Configure impact ratings](../task/configure-impact-rating-uib-ws.md).
+For more information on how to configure an impact rating with the sn\_bcm.admin role, see [Configure impact ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-impact-rating-uib-ws.md).
 
-**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 

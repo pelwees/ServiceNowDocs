@@ -21,9 +21,9 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
 The following are minimum prerequisites:
 
--   Install and configure the Impact Store App. See [Configure the Impact Store Application](../concept/configuring-impact-platform.md) for details.
--   Scan Engine configured: See [Activate Scan Engine and review settings](configure-initial-scan-engine-settings.md) for details.
--   Now Assist for Impact v.3.03: See [Activate Now Assist skills in Now Assist for Impact](../concept/activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
+-   Install and configure the Impact Store App. See [Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md) for details.
+-   Scan Engine configured: See [Activate Scan Engine and review settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-initial-scan-engine-settings.md) for details.
+-   Now Assist for Impact v.3.03: See [Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
 -   Now Assist for ServiceNow AI Platform v11.0.1
 
 ## Procedure
@@ -36,7 +36,7 @@ The following are minimum prerequisites:
 
 4.  On the Code Fix tile, select **Activate skill.**
 
-    ![The Now Assist Admin Console with the Impact Code Fix activation tile displayed.](../image/impact-activate-skill-now-assist-adminpanel.png)
+    ![The Now Assist Admin Console with the Impact Code Fix activation tile displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/impact-activate-skill-now-assist-adminpanel.png)
 
     The button on the tile updates to **Deactivate skill** when the option has been selected and the status will show **Active**.
 
@@ -47,7 +47,7 @@ The following are minimum prerequisites:
 
     This value is set to `false` by default.
 
-    ![System property to enable the gen_ai.ai_fix.enabled functionality.](../image/code-fix-ai-sys-property.png)
+    ![System property to enable the gen_ai.ai_fix.enabled functionality.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/code-fix-ai-sys-property.png)
 
 8.  Assign users to have access to the Resolve Scan Engine findings panel:
 9.  Navigate to **All****sys\_user\_role.list**.

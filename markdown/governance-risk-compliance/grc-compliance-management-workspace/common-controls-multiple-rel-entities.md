@@ -17,7 +17,7 @@ Instead of generating controls for individual entities and testing each entity s
 
 Test the common control for control tests, indicators, attestations, issues, and policy exceptions. Use the test results that are inheritable and implement them on all the reliant entities associated to the common control.
 
-![Multiple entities linked to a common control.](../image/CommonControlOverview.png "Multiple entities linked to a common control")
+![Multiple entities linked to a common control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/CommonControlOverview.png "Multiple entities linked to a common control")
 
 Using common controls gives you the ability to:
 
@@ -37,10 +37,10 @@ Requirements and use case:
 
 For more information, see:
 
--   [Tables installed](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#) for descriptions of the common item m2m tables.
--   [Control form changes](../task/create-control-ws.md) with respect to common controls.
--   [Convert standard control to common control](../task/convert-standard-control-common.md) to add reliant entities.
--   [Action handler components](../../grc-common/reference/components-item-gen-process.md#table_cgt_f4d_ftb) for common controls.
--   [Operational changes in item generation of common controls](../../grc-common/reference/item-gen-action-types.md).
--   [Impact of common control on compliance score calculation](compliance-score-common-control.md).
+-   [Tables installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#) for descriptions of the common item m2m tables.
+-   [Control form changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../task/create-control-ws.md) with respect to common controls.
+-   [Convert standard control to common control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../task/convert-standard-control-common.md) to add reliant entities.
+-   [Action handler components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-common/reference/components-item-gen-process.md#table_cgt_f4d_ftb) for common controls.
+-   [Operational changes in item generation of common controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-common/reference/item-gen-action-types.md).
+-   [Impact of common control on compliance score calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/compliance-score-common-control.md).
 

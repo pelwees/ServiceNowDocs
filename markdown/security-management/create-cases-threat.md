@@ -31,11 +31,11 @@ Role required: sn\_ti.case\_user\_write
 
 3.  From the **Actions on selected items** drop-down list, select **Add to Security Case**.
 
-    ![Add indicators to a new case](../image/add-to-case.png)
+    ![Add indicators to a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-to-case.png)
 
     The **Add to Security Case** dialog box opens. If you already have cases assigned to you, they display in the list.
 
-    ![Add an indicator to the case](../image/add-to-security-case.png)
+    ![Add an indicator to the case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-to-security-case.png)
 
 4.  Click **Create New Case**.
 
@@ -53,14 +53,14 @@ Role required: sn\_ti.case\_user\_write
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-in-threat.md)
 
 **Related topics**  
 
 
-[Add IoCs and observables to an existing case](add-records-to-cases-threat.md)
+[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)
 
-[Create an observable from a case](create-an-observable-from-a-case.md)
+[Create an observable from a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-an-observable-from-a-case.md)
 
-[Run a sightings search on observables in a case](run-local-sighted-srch.md)
+[Run a sightings search on observables in a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/run-local-sighted-srch.md)
 

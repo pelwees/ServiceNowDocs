@@ -54,25 +54,25 @@ Role required: it\_project\_manager
 
 ## What to do next
 
-[Update resource assignment from Project Workspace](update-resource-assignment-pw.md)
+[Update resource assignment from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/update-resource-assignment-pw.md)
 
--   **[Create a resource assignment for a user in Project Workspace](create-user-resource-assignment.md)**  
+-   **[Create a resource assignment for a user in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-user-resource-assignment.md)**  
 Use Project Workspace to create a user-based Resource assignment. User records store information about individuals who access your instance or application. These records can be assigned to groups and roles to determine what records and actions can be accessed by individuals.
--   **[Create a resource assignment for a group in Project Workspace](create-group-resource-assignment.md)**  
+-   **[Create a resource assignment for a group in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-group-resource-assignment.md)**  
 Use Project Workspace to create a group and associate it to your resource assignment. You can associate a set of users who share a common purpose to a group.
--   **[Create an attribute-based resource assignment](create-attribute-resource-assignment.md)**  
+-   **[Create an attribute-based resource assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-attribute-resource-assignment.md)**  
 Create an attribute-based resource assignment in Project Workspace. You can pre-define attributes based on your requirement.
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[New Resource Assignment form](../../resource-management-workspace/concept/create-ra-form-rmw.md)
+[New Resource Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../resource-management-workspace/concept/create-ra-form-rmw.md)
 
-[Delete a resource assignment from Project Workspace](delete-resource-assignment-pw.md)
+[Delete a resource assignment from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/delete-resource-assignment-pw.md)
 
-[Update the resource allocation in a heatmap](view-allocations-heatmap-prj-wksp.md)
+[Update the resource allocation in a heatmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-allocations-heatmap-prj-wksp.md)
 
-[Realign resource assignment to project task](realign-resource-assignment-to-task.md)
+[Realign resource assignment to project task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 

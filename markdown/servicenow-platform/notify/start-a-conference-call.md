@@ -39,7 +39,7 @@ Call participants can include:
 
 5.  Select the participants for the conference.
 
-    ![Initiating a conference call.](../image/StartCall.png "Initiate a conference call")
+    ![Initiating a conference call.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/StartCall.png "Initiate a conference call")
 
     The dialog box displays the Recommended and Selected participants for the conference. All users from the **User Contacts**list in the incident communication plan are in the Recommended section by default. The user who initiates the conference call is added to the selected list of participants.
 
@@ -77,5 +77,5 @@ Click **Add to selected**.
     **Note:** VoIP phone systems, which do not use touch tone phones, may encounter issues with recognizing key presses. To avoid problems, ensure that conference call users use touch tone phones, or configure your VoIP system settings to recognize key presses, as described in your VoIP system documentation.
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyConferenceCalls.md)
 

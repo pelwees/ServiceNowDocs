@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideTime API provides methods for performing operations on GlideTime objects, such as instantiating GlideTime objects or working with GlideTime fields.
 
-For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideTime - GlideTime\(\)
 
@@ -443,7 +443,7 @@ String
 
 </td><td>
 
-Value to set for the time. The [getDisplayValueEx\(\)](c_GlideTimeScopedAPI.md#) method returns times in a valid format, or times can be formatted as shown below.
+Value to set for the time. The [getDisplayValueEx\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideTimeScopedAPI.md#) method returns times in a valid format, or times can be formatted as shown below.
 
 -   HH:mm \(AM/PM\)
 -   HH:mm:ss \(AM/PM\)
@@ -516,7 +516,7 @@ String
 
 </td><td>
 
-Value to set for the time. The [getDisplayValueLang\(\)](c_GlideTimeScopedAPI.md#) and [getDisplayValueEx\(\)](c_GlideTimeScopedAPI.md#) methods return times in a valid format, or times can be formatted as shown below.
+Value to set for the time. The [getDisplayValueLang\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideTimeScopedAPI.md#) and [getDisplayValueEx\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideTimeScopedAPI.md#) methods return times in a valid format, or times can be formatted as shown below.
 
 -   HH:mm \(AM/PM\)
 -   HH:mm:ss \(AM/PM\)

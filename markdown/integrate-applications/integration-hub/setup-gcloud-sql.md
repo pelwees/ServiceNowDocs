@@ -130,7 +130,7 @@ Role required: admin
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Cloud SQL**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcpcloudsql\_spk.Google\_Cloud\_SQL** is selected.|
 
-    ![Credential record for Google Cloud SQL spoke.](../image/gcloud-sql-cred.png)
+    ![Credential record for Google Cloud SQL spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-sql-cred.png)
 
 6.  Right-click the form header and click **Save**.
 

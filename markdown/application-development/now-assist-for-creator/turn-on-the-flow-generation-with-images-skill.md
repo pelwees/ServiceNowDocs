@@ -36,12 +36,12 @@ Turn on the flow generation with images skill to use generative AI to create flo
 
 5.  In the Flow card, verify that the **Flow Generation with Images** skill is activated under **Active skills**.
 
-    ![Confirmation page with all skills active.](../images/flowgen-image-skill.jpg)
+    ![Confirmation page with all skills active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flowgen-image-skill.jpg)
 
 
 ## What to do next
 
 Grant the now.assist.creator and flow\_designer roles to each user who will use the flow generation with images skill.
 
-**Parent Topic:**[Flow generation with images](../reference/flow-generation-with-images-landing.md)
+**Parent Topic:**[Flow generation with images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-generation-with-images-landing.md)
 

@@ -30,13 +30,13 @@ Role required:
 
 3.  From the list of all subflows, select the subflow that you want to configure.
 
-4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](../images/conversational-settings-icon-z.png)\).
+4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-settings-icon-z.png)\).
 
 5.  Select the skill that you want to edit, or create a new skill.
 
 6.  Configure the general settings.
 
-    ![Example general settings for the Send SMS subflow.](../images/general-settings-conv-sublow-z.png)
+    ![Example general settings for the Send SMS subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/general-settings-conv-sublow-z.png)
 
 <table id="table_rfk_qjx_c2c"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Subflow skill description
 
 </td><td>
 
-The search terms and keywords that someone might use in a conversation to call this subflow. The more descriptive the skill, the better AI Search can be in matching it to an utterance. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](../images/generate-skill-metadata-icon.png).
+The search terms and keywords that someone might use in a conversation to call this subflow. The more descriptive the skill, the better AI Search can be in matching it to an utterance. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/generate-skill-metadata-icon.png).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ The roles you must have to access this subflow from a conversation. During a con
 </td></tr></tbody>
 </table>7.  Configure the subflow inputs and outputs.
 
-    ![Example inputs and outputs of the Send SMS subflow.](../images/conversational-subflow-input-output-z.png)
+    ![Example inputs and outputs of the Send SMS subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-subflow-input-output-z.png)
 
 <table id="table_lnb_4lx_c2c"><thead><tr><th>
 
@@ -115,7 +115,7 @@ Show/hide checkbox
 
 </td><td>
 
-Controls the visibility of an input or output in a conversation. Select the checkbox if you want to make the field visible in the conversation.![Option to select the visibility of inputs in a conversation.](../images/conversational-input-checkbox-z.png)
+Controls the visibility of an input or output in a conversation. Select the checkbox if you want to make the field visible in the conversation.![Option to select the visibility of inputs in a conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-input-checkbox-z.png)
 
 For example, you can take the message text as an input from the user during the conversation or you can have a default text and hide the input field during the conversation.
 
@@ -135,7 +135,7 @@ Describe this input
 
 </td><td>
 
-The search terms and keywords that someone might use in a conversation to set this input. The more descriptive the input, the better AI Search can be in matching it to an utterance. You must provide a description for mandatory inputs. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](../images/generate-skill-metadata-icon.png).
+The search terms and keywords that someone might use in a conversation to set this input. The more descriptive the input, the better AI Search can be in matching it to an utterance. You must provide a description for mandatory inputs. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/generate-skill-metadata-icon.png).
 
 </td></tr><tr><td>
 
@@ -181,13 +181,13 @@ The field whose existing record values you want to display as a list of options.
 
 **Note:** This option is not available for inputs with the GUID data type, because each table already has a unique field that stores its Sys ID value.
 
- ![Example conversation where a string input shows a list of user names to choose from.](../images/example-input-string-user-name-01.png)
+ ![Example conversation where a string input shows a list of user names to choose from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-input-string-user-name-01.png)
 
  For more information about display values and reference fields, see [Display values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md).
 
  You can use condition in the filter to limit the records that are referenced in this field. The filter helps you reduce the number of records from the referenced table and provide the most relevant options in the conversation.
 
- ![Option to apply filter for records in the Reference field.](../images/reference-field-filter-z.png)
+ ![Option to apply filter for records in the Reference field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/reference-field-filter-z.png)
 
 </td></tr><tr><td>
 
@@ -203,12 +203,12 @@ Describe this output
 
 </td><td>
 
-The search terms and keywords that someone might use in a conversation to set this output. The more descriptive the output, the better AI Search can be in matching it to an utterance. You must provide a description for mandatory outputs. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](../images/generate-skill-metadata-icon.png).
+The search terms and keywords that someone might use in a conversation to set this output. The more descriptive the output, the better AI Search can be in matching it to an utterance. You must provide a description for mandatory outputs. **Tip:** You can enter the description manually or use generative AI. To generate the description with generative AI, make sure that the field is empty and select **Generate skill metadata** ![Generate skill metadata icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/generate-skill-metadata-icon.png).
 
 </td></tr></tbody>
 </table>8.  Configure conversational advanced settings.
 
-    ![Example advanced settings for the Send SMS subflow.](../images/conversational-subflow-advanced-setting-z.png)
+    ![Example advanced settings for the Send SMS subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-subflow-advanced-setting-z.png)
 
 <table id="table_erk_nmx_c2c"><thead><tr><th>
 
@@ -280,5 +280,5 @@ The list of default channels in which this subflow is available.To learn more ab
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

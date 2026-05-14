@@ -25,9 +25,9 @@ You can create or update the scoring profile with new indicators and associate i
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Scoring Profiles**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Scoring Profiles**.
 
 4.  Select **All**.
 
@@ -37,10 +37,10 @@ You can create or update the scoring profile with new indicators and associate i
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new profile indicator form](../../reference/eaw-reference/eaw-create-new-profile-indicator-form.md).
+    For a description of the field values, see [Create new profile indicator form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-profile-indicator-form.md).
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Add or edit a scoring profile](eaw-create-scoring-profile.md)
+**Parent Topic:**[Add or edit a scoring profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-scoring-profile.md)
 

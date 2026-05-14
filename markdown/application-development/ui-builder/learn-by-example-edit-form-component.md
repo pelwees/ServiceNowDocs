@@ -33,7 +33,7 @@ You can edit form components without leaving UI Builder. Access Form Builder fro
 
 2.  On the stage, move your cursor to the form component to display the **Edit Form** button.
 
-    ![Edit Form button on the form component](../image/edit-form.png)
+    ![Edit Form button on the form component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/edit-form.png)
 
 3.  Select the **Edit Form** button.
 
@@ -41,7 +41,7 @@ You can edit form components without leaving UI Builder. Access Form Builder fro
 
 4.  Move your cursor to individual fields to display additional options.
 
-    ![Additional options on a field with callouts indicating the move button, the add buttons, and the delete button.](../image/form-builder-hover.png)
+    ![Additional options on a field with callouts indicating the move button, the add buttons, and the delete button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-builder-hover.png)
 
 5.  Insert fields by moving your cursor to the **+** button, which displays the **+ Add** button, then selecting **+ Add**.
 
@@ -62,20 +62,20 @@ You can edit form components without leaving UI Builder. Access Form Builder fro
 
 ## What to do next
 
-You can enhance the functionality of a custom form by configuring additional features. For more information, see [Forms in Table Builder](../../form-builder/concept/form-view-configuration.md).
+You can enhance the functionality of a custom form by configuring additional features. For more information, see [Forms in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../../form-builder/concept/form-view-configuration.md).
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-uib-by-example.md)
 
 **Related topics**  
 
 
-[Create a demo experience to explore UI Builder](learn-by-example-create-experience.md)
+[Create a demo experience to explore UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-experience.md)
 
-[Create a blank page](learn-by-example-create-blank-page.md)
+[Create a blank page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-blank-page.md)
 
-[Create a record page using a template](learn-by-example-create-page-with-template.md)
+[Create a record page using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-page-with-template.md)
 
-[Define an audience for your variant](learn-by-example-define-audience.md)
+[Define an audience for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-audience.md)
 
-[Define conditions for your variant](learn-by-example-define-conditions.md)
+[Define conditions for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-conditions.md)
 

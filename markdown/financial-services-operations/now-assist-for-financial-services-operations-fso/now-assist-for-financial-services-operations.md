@@ -20,15 +20,15 @@ Use the ServiceNow® Now Assist for Financial Services Operations \(FSO\) applic
 
 <table id="table_vqd_fm5_lbc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for FSO](exploring-now-assist-for-financial-services-operations-fso.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for FSO](exploring-now-assist-for-financial-services-operations-fso.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSO application to get started](../task/configure-now-assist-for-fso.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for FSO application to get started](../task/configure-now-assist-for-fso.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use agentic AI capabilities offered by Now Assist for FSO](using-now-assist-for-financial-services-operations-fso.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use agentic AI capabilities offered by Now Assist for FSO](using-now-assist-for-financial-services-operations-fso.md)
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Use the ServiceNow® Now Assist for Financial Services Operations \(FSO\) applic
 
 </td><td>
 
-[Use Financial Services Operations AI agent collection ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for FSO](../../fso-now-assist/concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
+[Use Financial Services Operations AI agent collection ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for FSO](../../fso-now-assist/concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
 
 </td><td>
 

@@ -31,17 +31,17 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
     The Models page opens that displays the models that predict intents in your setup.
 
-    ![NLU Workbench dashboard list of NLU models.](../images/dashboard-list-of-models-2.png)
+    ![NLU Workbench dashboard list of NLU models.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-list-of-models-2.png)
 
 3.  If none of the models contain intents and utterances you'd like in your setup, select **Create Model** and follow the instructions in [Create an NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-nlu-modelx.md).
 
 4.  Click a model to display the intents the model predicts.
 
-    ![NLU Workbench Model Intents tab.](../images/dashboard-model-intents.png)
+    ![NLU Workbench Model Intents tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-model-intents.png)
 
 5.  Click an intent to display the utterances associated with it.
 
-    ![NLU Workbench Intent utterances tab.](../images/dashboard-intents-utterances.png)
+    ![NLU Workbench Intent utterances tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-intents-utterances.png)
 
 6.  To create a new intent and add it to the model:
 
@@ -53,7 +53,7 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
         A page for your new intent opens.
 
-        ![NLU Workbench intent utterances tab showing utterance added.](../images/dashboard-intent-added.png)
+        ![NLU Workbench intent utterances tab showing utterance added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-intent-added.png)
 
     3.  Enter an utterance for your new intent and select **Add**.
 
@@ -61,7 +61,7 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
 7.  Import one or more intents by selecting **Import Intents**.
 
-    The **Import Intents** dialog box opens, which displays the intents you can import.![Import intents dialog box with SubmitRequest intent selected.](../images/dashboard-import-intents.png)
+    The **Import Intents** dialog box opens, which displays the intents you can import.![Import intents dialog box with SubmitRequest intent selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-import-intents.png)
 
     1.  Find the intent\(s\) to import by entering a search term, or by clicking an arrowhead to display the intents in a folder, and then selecting one or more check boxes.
     2.  Select **Import**.
@@ -75,10 +75,10 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
 9.  To test all the utterances, select **Test** and enter a sentence a user might enter in a chat to see if NLU understands the intent of your sentence.
 
-    ![NLU Workbench Intents tab and Test model tab displaying test utterance.](../images/dashboard-test-utterance.png)
+    ![NLU Workbench Intents tab and Test model tab displaying test utterance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-test-utterance.png)
 
 10. If the models fail to predict the intent, add additional intents to the model, or utterances to the intents, as described in step 6.
 
 
-**Parent Topic:**[Natural Language Understanding of Virtual Agent responses](../concept/nlu-tab-pae.md)
+**Parent Topic:**[Natural Language Understanding of Virtual Agent responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/nlu-tab-pae.md)
 

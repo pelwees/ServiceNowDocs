@@ -118,5 +118,5 @@ The order in which the conditions are evaluated. The first condition that is fou
 8.  Continue adding conditions as needed, following the steps above.
 
 
-**Parent Topic:**[Condition check definitions](../concept/c_UseConditionCheckDefinitions.md)
+**Parent Topic:**[Condition check definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_UseConditionCheckDefinitions.md)
 

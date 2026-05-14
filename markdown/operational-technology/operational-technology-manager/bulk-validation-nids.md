@@ -40,5 +40,5 @@ If the sensors you validated have a **Life Cycle Stage Status** of In Use, a suc
 
 If the selected sensors have a **Life Cycle Stage Status** of Learning Mode or the **Validated** column is set to true, an error message appears alerting you that one or more sensors in learning mode haven’t been validated or already validated. You should consider changing the **Life Cycle Stage Status** column to In Use to proceed with the bulk validation.
 
-**Parent Topic:**[Managing Network Intrusion Detection System appliances](managing_network_intrusion_detection_system_nids_appliances.md)
+**Parent Topic:**[Managing Network Intrusion Detection System appliances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/managing_network_intrusion_detection_system_nids_appliances.md)
 

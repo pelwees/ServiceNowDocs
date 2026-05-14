@@ -48,7 +48,7 @@ Role required: discovery\_admin
 
 ## What to do next
 
-[Set up Alibaba Cloud service accounts](set-up-alibaba-cloud-service-account.md)
+[Set up Alibaba Cloud service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-up-alibaba-cloud-service-account.md)
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/alibaba-cloud-discovery.md)
 

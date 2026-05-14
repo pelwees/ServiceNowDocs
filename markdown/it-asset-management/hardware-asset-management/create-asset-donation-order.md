@@ -23,7 +23,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Service Catalog** &gt; **Asset Lifecycle**.
 
-    The Asset Lifecycle category isn't on the Service Catalog page by default. To add this category, select the Add content icon \(![Add content icon.](../image/add_content_icon.png)\) beside the Search catalog bar and then select **Asset Lifecycle**.
+    The Asset Lifecycle category isn't on the Service Catalog page by default. To add this category, select the Add content icon \(![Add content icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/add_content_icon.png)\) beside the Search catalog bar and then select **Asset Lifecycle**.
 
     **Note:** You require admin role to add a category to the Service Catalog.
 
@@ -63,14 +63,14 @@ Name and quantity of the assets that you want to donate. For example, `Request t
 5.  View the status of your Asset Donation Order by navigating to **All** &gt; **Self-Service** &gt; **My Requests**.
 
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 
 
-[Approve or reject an Asset Donation Order](approve-reject-asset-donation-order.md)
+[Approve or reject an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/approve-reject-asset-donation-order.md)
 
-[Process an Asset Donation Order](process-asset-donation-order.md)
+[Process an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-asset-donation-order.md)
 
-[Add a charity organization for donating assets](add-charity-org.md)
+[Add a charity organization for donating assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-charity-org.md)
 

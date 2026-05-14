@@ -13,12 +13,12 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 Includes all the forms related to the sales promotion.
 
--   **[All promotion form](mco-all-promotion-form.md)**  
+-   **[All promotion form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-all-promotion-form.md)**  
 The All promotion form enables the manufacturers to enter the promotion campaign and incentive details.
--   **[My promotions form](mco-my-promotions-form.md)**  
+-   **[My promotions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions-form.md)**  
 The My promotions form enables the manufacturers to enter the promotion campaign and incentive details.
--   **[Sales promotion bulk upload form](mco-sp-bulk-upload-form.md)**  
+-   **[Sales promotion bulk upload form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sp-bulk-upload-form.md)**  
 Bulk sales promotion upload form.
 
-**Parent Topic:**[Reference](manufacturing-reference.md)
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 

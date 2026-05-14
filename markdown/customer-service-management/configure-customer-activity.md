@@ -39,11 +39,11 @@ There are two panels on the Customer History view. On the left, the facets categ
 
     |Task|Description|
     |----|-----------|
-    |[Configure Customer Central properties](properties-customer-central.md)|Set the Customer History view component attributes as required.|
-    |[Configure activity types](configure-activity-types-ca.md)|Create an activity type to display in the activity feed on the Customer History view.|
-    |[Configure activity groups](configure-activity-groups-ca.md)|Create an activity group and then add activity types to the activity group.|
-    |[Configure activity type templates](configure-act-type-templates-ca.md)|Create an activity type template to define how to display the activity type data on each of the activity tiles in the activity feed.|
-    |[Configure activity contexts](configure-act-contexts-ca.md)|Add the activity groups and activity types you created to an activity context, depending on who you want to display the information for and create facets to group the data.|
+    |[Configure Customer Central properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/properties-customer-central.md)|Set the Customer History view component attributes as required.|
+    |[Configure activity types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-activity-types-ca.md)|Create an activity type to display in the activity feed on the Customer History view.|
+    |[Configure activity groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-activity-groups-ca.md)|Create an activity group and then add activity types to the activity group.|
+    |[Configure activity type templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-act-type-templates-ca.md)|Create an activity type template to define how to display the activity type data on each of the activity tiles in the activity feed.|
+    |[Configure activity contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-act-contexts-ca.md)|Add the activity groups and activity types you created to an activity context, depending on who you want to display the information for and create facets to group the data.|
 
 3.  To perform a task, select **Configure**.
 

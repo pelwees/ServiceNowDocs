@@ -67,5 +67,5 @@ Improved overall accessibility across Network Inventory application, focusing on
     Browse the catalog and create a request from the Customer or Consumer Service Portals.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

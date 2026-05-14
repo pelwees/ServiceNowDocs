@@ -19,7 +19,7 @@ The Demand Management application consists of tools for capturing, centralizing,
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../ppw-demand/concept/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -32,19 +32,19 @@ If you have Portfolio Planning Workspace or Strategic Planning Workspace, you ca
 
 <table id="table_ygv_153_rzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Demand Management](exploring-demand-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Demand Management](exploring-demand-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure Demand Management](configuring-demand-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure Demand Management](configuring-demand-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-alignment.svg)Create and manage demands with Demand Management](../reference/r_UsingDemandManagement.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../../reuse/icons/brand-icons/bus-alignment.svg)Create and manage demands with Demand Management](../reference/r_UsingDemandManagement.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the forms and fields of Demand Management](../../service-portfolio-management2/concept/demand-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the forms and fields of Demand Management](../../service-portfolio-management2/concept/demand-management-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -56,7 +56,7 @@ A typical workflow for you as the demand manager is as follows:
 
 -   Work on a demand to assess the feasibility, effort, and cost of the demand and create a business case for approval of the demand.
 -   Create demand tasks, such as an initial feasibility review, cost estimate, and effort estimate, to delegate activities to specialized resources or groups. For example, a demand manager can create demand tasks for assessing the cost associated with a software upgrade and the resources required.
--   Assign demand tasks to a business analyst, resource user, or an appropriate group. The assigned resource or group then creates a cost plan and resource assignment to help the demand manager assess and qualify the demand. For more information, see [Demand tasks](demand-task.md).
+-   Assign demand tasks to a business analyst, resource user, or an appropriate group. The assigned resource or group then creates a cost plan and resource assignment to help the demand manager assess and qualify the demand. For more information, see [Demand tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task.md).
 
 Basics of Demand Management
 
@@ -65,14 +65,14 @@ Basics of Demand Management
 -   Create and add details to the demands: Create demands and add demand tasks, stakeholders and assessments, and evaluate and qualify demands.
 -   Use the Demand Management application or the demand workbench to compare and assess demands, and promote demands to projects, enhancements, changes, or defects.
 
--   **[Exploring Demand Management](exploring-demand-management.md)**  
+-   **[Exploring Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/exploring-demand-management.md)**  
 Learn more about Demand Management and its process flow, and reviewing its benefits to your organization.
--   **[Configuring Demand Management](configuring-demand-management.md)**  
+-   **[Configuring Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/configuring-demand-management.md)**  
 Configure your Demand Management application to assess and promote demands to projects, enhancements, changes, defects, or Enterprise Agile Planning \(EAP\) entities.
--   **[Use Demand Management](../reference/r_UsingDemandManagement.md)**  
+-   **[Use Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/r_UsingDemandManagement.md)**  
 Users with the demand manager role can create, view, and modify demands using the Demand Management application.
--   **[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)**  
+-   **[Demand Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../service-portfolio-management2/concept/demand-management-reference.md)**  
 Reference information to provide additional details about Demand Management such as the fields, user roles, tables, guidelines, and domain separation information.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
 

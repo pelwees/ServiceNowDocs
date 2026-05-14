@@ -57,7 +57,7 @@ Parent security incident
 
 </td><td>
 
-Select a security incident record related to the underlying issue that caused this security incident to be created. See [Parent and child security incident relationships](../concept/c_ParentChildRelationships.md).
+Select a security incident record related to the underlying issue that caused this security incident to be created. See [Parent and child security incident relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/c_ParentChildRelationships.md).
 
 </td></tr><tr><td>
 
@@ -78,9 +78,9 @@ Select a Change Request \(CHG\) record that resolves the underlying issue that c
 </td></tr></tbody>
 </table>4.  Click any of the following tabs to further update the security incident:
 
-    -   [Incident Details](add_inc_details_to_si.md)
-    -   [Post Incident Review](../concept/c_PostIncidentReview.md)
-    -   [Closure Information](add-closure-info-to-si.md)
+    -   [Incident Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add_inc_details_to_si.md)
+    -   [Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/c_PostIncidentReview.md)
+    -   [Closure Information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-closure-info-to-si.md)
 5.  When you have completed your entries, click **Submit**.
 
 

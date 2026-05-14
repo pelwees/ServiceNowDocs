@@ -27,7 +27,7 @@ The sn\_erp\_integration.erp\_ai\_user role is required to work with generative 
 
 ## Prerequisites for using ERP data query
 
-Follow the instructions in [Configure Now Assist for Zero Copy Connector](../task/configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
+Follow the instructions in [Configure Now Assist for Zero Copy Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
 
 ## Asking Now Assist to identify SAP objects
 
@@ -35,15 +35,15 @@ Select the Now Assist icon \(![](../images/now-assist-sparkle-icon-dark.png)\) f
 
 Ask for information in plain language. For example, `Fetch routing operations for material 12345 in work center WC-10`.
 
-![Now Assist panel with entered question highlighted.](../images/erp-data-query-skill1.png)
+![Now Assist panel with entered question highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-query-skill1.png)
 
 Now Assist responds with the table and filter condition it will use and asks for your confirmation. You select **Yes**.
 
-![Now Assist panel with information about the table and a confirmation option.](../images/erp-data-query-skill2.png)
+![Now Assist panel with information about the table and a confirmation option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-query-skill2.png)
 
 Now Assist provides the information you requested.
 
-![Now assist panel with information retrieved listed.](../images/erp-data-query-skill3.png)
+![Now assist panel with information retrieved listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-query-skill3.png)
 
 ## Licensing requirements
 

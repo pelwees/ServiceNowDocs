@@ -27,7 +27,7 @@ Assign users the agent role for the app's scope, for example, `x_snc_jd_it_fulf_
 
 By default, all users on the production instance get access to forms built in Creator Studio, but Creator Studio developers can choose from existing access criteria if they want to restrict access. The **Available For** and **Not Available For** form settings are lists of User Criteria Records. For more information, see [Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md).
 
-Developers can work with admins to define new access criteria for their app's forms to define the proper access from within Creator Studio. For more information, see [Edit the settings for a form in Creator Studio](../task/creator-studio-edit-form-settings.md).
+Developers can work with admins to define new access criteria for their app's forms to define the proper access from within Creator Studio. For more information, see [Edit the settings for a form in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/creator-studio-edit-form-settings.md).
 
 ## Personas for apps built in Creator Studio
 
@@ -40,5 +40,5 @@ Developers can work with admins to define new access criteria for their app's fo
     Someone who works on requests. Fulfillers may also approve or deny requests, depending on any approval automation for the app.
 
 
-**Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)
+**Parent Topic:**[Administering Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/administering-creator-studio.md)
 

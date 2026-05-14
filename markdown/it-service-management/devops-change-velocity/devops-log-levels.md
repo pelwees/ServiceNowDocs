@@ -36,5 +36,5 @@ Multiple flows for in the DevOps application now use the new logging framework t
 -   Change Traceability flow
 -   Notification flow for plan, code, and orchestration capabilities
 
-**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 

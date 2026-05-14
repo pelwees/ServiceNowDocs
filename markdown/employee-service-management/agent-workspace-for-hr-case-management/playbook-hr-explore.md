@@ -23,7 +23,7 @@ When Playbook is activated with HR Service Delivery Agent Workspace, the **Playb
 
     The Playbook Header shows the title of an activity set.
 
-    **Note:** For more information on lifecycle event structure, see [Configure a lifecycle event](../task/configure-hr-lifecycle-event-type.md).
+    **Note:** For more information on lifecycle event structure, see [Configure a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-hr-lifecycle-event-type.md).
 
 -   **Stage panel**
 
@@ -54,13 +54,13 @@ When Playbook is activated with HR Service Delivery Agent Workspace, the **Playb
 
     The first icon on the left provides the state of the HR case or task. Hovering over shows details of the SLA.
 
-    Click the **Add note or comment** \(![HR Playbook - Add note or comment icon](../image/playbook-hr-comment-icon.png)\) icon to add comments or notes related to the activity.
+    Click the **Add note or comment** \(![HR Playbook - Add note or comment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-comment-icon.png)\) icon to add comments or notes related to the activity.
 
     To view comments or notes, click the **See activity** button.
 
-    Click the Open task \(![HR Playbook - Open task icon](../image/playbook-hr-open-task-icon.png)\) icon to view the details of the HR case or task. A new tab with the HR case or tab opens.
+    Click the Open task \(![HR Playbook - Open task icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-open-task-icon.png)\) icon to view the details of the HR case or task. A new tab with the HR case or tab opens.
 
-    Click the Minimize task \(![HR Playbook - Minimize task icon](../image/playbook-hr-minimize-task-icon.png)\) icon to close the details of the HR case or task.
+    Click the Minimize task \(![HR Playbook - Minimize task icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-minimize-task-icon.png)\) icon to close the details of the HR case or task.
 
 
 The other areas of Playbook are covered in .

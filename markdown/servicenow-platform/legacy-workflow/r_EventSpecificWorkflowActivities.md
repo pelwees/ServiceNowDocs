@@ -80,11 +80,11 @@ On the notification thread, outside of workflow
 
 </td></tr><tr><td>
 
-[Wait for WF Event](../../workflow-activities/reference/r_WaitForWFEvent.md)
+[Wait for WF Event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow-activities/reference/r_WaitForWFEvent.md)
 
 </td><td>
 
-Listens for workflow events, as described in the [Workflow Events in the Base System](r_WorkflowEventsInTheBaseSystem.md) table, and only within the current context. This activity is located in the **Conditions** category of the workflow tree.
+Listens for workflow events, as described in the [Workflow Events in the Base System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowEventsInTheBaseSystem.md) table, and only within the current context. This activity is located in the **Conditions** category of the workflow tree.
 
 </td><td>
 
@@ -107,5 +107,5 @@ Triggered in the current thread or from a script include
 The onUnhandledEvent of the **Wait for WF Event** activity
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow events in the base system](r_WorkflowEventsInTheBaseSystem.md)
+</table>**Parent Topic:**[Workflow events in the base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowEventsInTheBaseSystem.md)
 

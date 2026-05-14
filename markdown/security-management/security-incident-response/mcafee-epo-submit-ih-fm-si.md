@@ -19,7 +19,7 @@ Trigger a capability profile manually from a ServiceNow AI Platform Security Inc
 
 Role required: sn\_si.admin
 
-**Note:** The approvals option in the [Configure settings](../concept/mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
+**Note:** The approvals option in the [Configure settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
 
 ## About this task
 
@@ -35,7 +35,7 @@ Once you activate the profile, based on the configured trigger conditions, you c
 
 3.  In the related lists section, select **Run EDR Profile\(s\)**.
 
-    ![Trigger a profile manually from a security incident](../image/mcafee-edr-profile.png "McAfee Run EDR Profile")
+    ![Trigger a profile manually from a security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-edr-profile.png "McAfee Run EDR Profile")
 
 4.  Browse and select a profile from the list of available profiles.
 
@@ -49,13 +49,13 @@ Once you activate the profile, based on the configured trigger conditions, you c
 
     The selected profile is triggered manually. You can review the work notes and activities section and the profile-initiated and profile-completed tags in the work notes section.
 
-    ![Work notes logging when capability tasks are initiated and successfully completed](../image/mcafee-edr-worknotes.png "Work notes for automation activity")
+    ![Work notes logging when capability tasks are initiated and successfully completed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-edr-worknotes.png "Work notes for automation activity")
 
     The results appear in the form of related lists such as Get Host Details, Isolate Host machine, or Remove Isolation.
 
     **Note:** All the related list tables extend the base tables. In this example, the McAfee EPO System Details is an extended table of the Host Details base table.
 
-    ![Review the related list for additional details.](../image/mcafee-test-relatedlist.png "McAfee Related lists")
+    ![Review the related list for additional details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-test-relatedlist.png "McAfee Related lists")
 
 7.  To run individual capabilities on a Configuration Item \(CI\), perform the following steps:
 
@@ -70,9 +70,9 @@ Once you activate the profile, based on the configured trigger conditions, you c
         The select CI gets isolated from the network.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Configure a profile to initiate malware scan](mcafee-epo-config-scan-malwr.md)
+**Previous topic:**[Configure a profile to initiate malware scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-config-scan-malwr.md)
 
-**Next topic:**[Trigger additional actions in McAfee ePO integration](configure-additional-actions-mcafee.md)
+**Next topic:**[Trigger additional actions in McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-additional-actions-mcafee.md)
 

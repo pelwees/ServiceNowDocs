@@ -25,7 +25,7 @@ Enable sn\_ap\_apm.reader role to access invoice filters for tolerance rules.
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **All** &gt; **Tolerance rules**.
 
-    ![Navigate to Tolerance rules](../image/apo-tolerance-rules-nav.png)
+    ![Navigate to Tolerance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-tolerance-rules-nav.png)
 
 2.  On the **Invoice Tolerance rule** list, select **New**.
 
@@ -109,5 +109,5 @@ Filter condition to determine the invoices for which the tolerance rule is appli
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tolerance-rules-and-variance.md)
 

@@ -21,7 +21,7 @@ Advanced Work Assignment for Supplier Lifecycle Operations pushes work to qualif
 
 ## Prerequisites for installing Advanced Work Assignment for Supplier Lifecycle Operations
 
-Before you install Advanced Work Assignment for Supplier Lifecycle Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md).
+Before you install Advanced Work Assignment for Supplier Lifecycle Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/load-demo-agent-chat.md).
 
 ## Required plugins
 
@@ -32,43 +32,43 @@ Install the Advanced Work Assignment for Supplier Lifecycle Operations \(com.snc
 -   Glide Virtual Agent \(com.glide.cs.chatbot\)
 -   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
 
--   **[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)**  
+-   **[Source-to-Pay Workspace agent inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/agent-inbox-ws.md)**  
 Use the agent inbox to manage your incoming work items, such as chats, cases, incidents, and more.
--   **[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)**  
+-   **[Activate Agent Chat and load demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/load-demo-agent-chat.md)**  
 Activate Agent Chat and load demo data.
--   **[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)**  
+-   **[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/awa-slm-config.md)**  
 Plan and configure your implementation of Advanced Work Assignment for Supplier Lifecycle Operations.
--   **[Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)**  
+-   **[Using Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-awa-slm.md)**  
 Enables supplier contacts to interact with supplier owners and resolve their issues and get answers to questions.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Install Supplier Case Management](../task/install-supp-mgmt.md)
+[Install Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-central.md)
 
-[Install Supplier Operations](../task/install-supplier-ops.md)
+[Install Supplier Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](../task/install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-payment-opt.md)
 
-[Supplier Document Management](supp-doc-mgmt-overview.md)
+[Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md)
 
-[Configure the document template for the Sign document action type for supplier task](../task/configure-pdf-template-sign-doc-task.md)
+[Configure the document template for the Sign document action type for supplier task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-pdf-template-sign-doc-task.md)
 
-[Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md)
 
-[Install Universal Request for SLO](../task/install-universal-request.md)
+[Install Universal Request for SLO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-universal-request.md)
 
-[Configure smart assessments](configure-smart-assessments.md)
+[Configure smart assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 
-[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
+[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/awa-slm-config.md)
 
-[Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)
+[Using Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-awa-slm.md)
 
-[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
+[Source-to-Pay Workspace agent inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/agent-inbox-ws.md)
 

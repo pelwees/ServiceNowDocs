@@ -32,5 +32,5 @@ To access Group Trails, navigate to **All** &gt; **System Security** &gt; **Iden
 |Created By|The user who made the change.|
 |Created|The time and date the audit was performed.|
 
-![Group Trails](../images/group-trails.png)
+![Group Trails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/group-trails.png)
 

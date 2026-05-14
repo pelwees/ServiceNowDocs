@@ -19,7 +19,7 @@ You can activate the Content Engagement \[sn\_ce\] plugin if you have the admin 
 
 Role required: admin
 
-Activate the Content Publishing \[sn\_cd\] plugin: [Activate Content Publishing](activate-content-delivery-plugin.md)
+Activate the Content Publishing \[sn\_cd\] plugin: [Activate Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-delivery-plugin.md)
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Activate the Content Publishing \[sn\_cd\] plugin: [Activate Content Publishing]
 **Related topics**  
 
 
-[Components installed with Content engagement](../reference/installed-content-engagement.md)
+[Components installed with Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/installed-content-engagement.md)
 
-[Content engagement](../concept/ec-content-engagement.md)
+[Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-content-engagement.md)
 

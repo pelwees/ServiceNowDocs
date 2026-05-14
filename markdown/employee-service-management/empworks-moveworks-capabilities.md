@@ -43,7 +43,7 @@ The assistant collects inputs in the conversation rather than in a separate form
 
 You can search through all the content in SharePoint, OneDrive, Google Drive, Slack, and Outlook from one place. The search covers up to 100 million documents per system.
 
-![Search and find content across org](../images/es-mw-enterprise-search.png "Enterprise Search interface")
+![Search and find content across org](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-mw-enterprise-search.png "Enterprise Search interface")
 
 You have two ways to search:
 
@@ -56,7 +56,7 @@ When you find something useful, you can select **Dive Deeper** to continue the c
 
 You can ask the AI assistant about topics that go beyond the internal knowledge base of your company. This secure capability combines AI reasoning with web search to help you with general knowledge tasks.
 
-![Use world knowledge for creativity and exploration](../images/es-mw-world-knowledge.png "World Knowledge interface")
+![Use world knowledge for creativity and exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-mw-world-knowledge.png "World Knowledge interface")
 
 You can use this to:
 
@@ -131,10 +131,10 @@ You can request services and items from the catalog of your company in two ways:
     You can tell the AI assistant what you need in natural language. It asks for the required information through the conversation and submits your request when you've provided everything needed.
 
 
-For a full-list of features, see [Employee Slate capabilities](eslate-capabilities-common.md).
+For a full-list of features, see [Employee Slate capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-capabilities-common.md).
 
 **Related topics**  
 
 
-[Employee Slate capabilities](eslate-capabilities-common.md)
+[Employee Slate capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-capabilities-common.md)
 

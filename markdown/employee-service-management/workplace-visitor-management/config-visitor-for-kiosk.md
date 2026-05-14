@@ -15,29 +15,29 @@ breadcrumb: [Configure, Workplace Visitor Management, Workplace Service Delivery
 
 You can configure pages, check-in flows, check-out flows to integrate Workplace Visitor Management with the Workplace Services Kiosk.
 
-For more information about the Workplace Services Kiosk, see [Workplace Services Kiosk](../../workplace-services-kiosk/concept/workplace-services-kiosk.md).
+For more information about the Workplace Services Kiosk, see [Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../workplace-services-kiosk/concept/workplace-services-kiosk.md).
 
--   **[Configure pages for Workplace Services Kiosk](../task/create-kiosk-pages.md)**  
+-   **[Configure pages for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-kiosk-pages.md)**  
 Configure pages that you want to display for check-in or check-out flows on the Workplace Services Kiosk.
--   **[Create a flow for Workplace Services Kiosk](../task/create-kiosk-flow.md)**  
+-   **[Create a flow for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-kiosk-flow.md)**  
 Create a check-in or check-out flow for the Workplace Service Kiosk.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/configure-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Install Workplace Visitor Management](../task/install-workplace-visitor-mgmt.md)
+[Install Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/install-workplace-visitor-mgmt.md)
 
-[Create a visitor policy](../task/create-visitor-policy.md)
+[Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-visitor-policy.md)
 
-[Create a record producer for visitor management](../task/create-rec-prodcr-visit-mgmt.md)
+[Create a record producer for visitor management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-rec-prodcr-visit-mgmt.md)
 
-[Configure a visitor type](../task/configure-visitor-type.md)
+[Configure a visitor type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/configure-visitor-type.md)
 
-[Configure visit requirements](../task/configure-visit-requirements.md)
+[Configure visit requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/configure-visit-requirements.md)
 
-[Create a visitor badge template](../task/create-visitor-badge-template.md)
+[Create a visitor badge template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-visitor-badge-template.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
 

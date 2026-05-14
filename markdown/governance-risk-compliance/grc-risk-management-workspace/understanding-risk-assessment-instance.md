@@ -62,5 +62,5 @@ The risk assessment life cycle goes through the following states:
 7.  Awaiting approval: The risk assessment is awaiting approval from the approvers if they have been identified.
 8.  Monitor: The risk assessment is complete and is being monitored.
 
-**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 

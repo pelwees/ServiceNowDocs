@@ -25,8 +25,8 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
 -   The legal support for a contract request and amendment requestworks based on a workflow, so you must provide specific information while setting up the intake process.
 -   Three record producers are available with the base system, Non-disclosure Agreement, Third-party Contract Review, and Amendment request. You can create a record producer by copying a base system \(OOB\) record producer to reuse its existing configuration settings.
--   To add supporting documents to an own-paper request, include the supporting documents widget in the record producer. For more information, see [Add supporting document widget in own-paper record producer](snlc-add-support-doc-wdgt.md).
--   To add external signatories to an third-party paper request, include the external signatories widget in the record producer. For more information, see [Add external signatories widget in third-party paper record producer](snlc-add-ext-signer-wdgt.md).
+-   To add supporting documents to an own-paper request, include the supporting documents widget in the record producer. For more information, see [Add supporting document widget in own-paper record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-add-support-doc-wdgt.md).
+-   To add external signatories to an third-party paper request, include the external signatories widget in the record producer. For more information, see [Add external signatories widget in third-party paper record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-add-ext-signer-wdgt.md).
 
 ## Procedure
 
@@ -36,11 +36,11 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
     -   To create a record producer, click **New**.
 
-        For more information, see [Create or modify a record producer for legal services through Classic environment](../../legal-request-management/task/create-record-producer-legal-request.md).
+        For more information, see [Create or modify a record producer for legal services through Classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/create-record-producer-legal-request.md).
 
     -   To copy a base system record producer, open the record producer and then select **Copy**.
 
-        ![Copy a base system record producer](../../contract-mgmt-pro/image/cmpro-copy-record-producer.png "Copy record producer")
+        ![Copy a base system record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cmpro-copy-record-producer.png "Copy record producer")
 
 3.  On the record producer form, provide the following specifications for a new contract type.
 
@@ -69,7 +69,7 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
 4.  Add an intake form in the Contracts practice area.
 
-    For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md). Provide the following details in the respective fields.
+    For more information, see [Add an intake form to a practice area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/associate-categories-practice-area.md). Provide the following details in the respective fields.
 
     1.  From the **Type** drop-down list, select **Request**.
 
@@ -83,17 +83,17 @@ Role required: sn\_lg\_cnt.contract\_config, admin
 
 5.  Modify business rule to enable data synchronization for custom intake forms.
 
-    For more information, see [Configure a practice area table](../../legal-request-management/task/configure-pa-tables-for-reporting.md).
+    For more information, see [Configure a practice area table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/configure-pa-tables-for-reporting.md).
 
 6.  For Non-disclosure agreement intake form that use own-papers, create a contract template.
 
-    For more information, see [Create a contract template](../../contract-mgmt-pro/task/cncore-create-contract-template.md).
+    For more information, see [Create a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-create-contract-template.md).
 
     In the **Conditions**, you must select the new category added for the new contract.
 
 7.  For Non-disclosure agreement intake form that use own-papers, configure contract template rules when a legal contract request is being created by a legal user.
 
-    For more information, see [Configure contract template rules](../../contract-mgmt-pro/task/cncore-config-template-rules.md).
+    For more information, see [Configure contract template rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-config-template-rules.md).
 
 8.  Configure the settings in the Standard Ticket Page for legal requests.
 

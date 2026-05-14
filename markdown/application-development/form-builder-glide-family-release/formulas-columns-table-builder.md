@@ -26,7 +26,7 @@ The following comparison operators are supported only for number type values.
 -   &gt;= \(Greater than or equal to\)
 -   &lt;= \(Less than or equal to\)
 
-**Parent Topic:**[Field configuration in Table Builder](field-parameters.md)
+**Parent Topic:**[Field configuration in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/field-parameters.md)
 
 ## Simple math functions
 

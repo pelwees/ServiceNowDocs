@@ -16,7 +16,7 @@ Create or edit a synthetic monitor to test the availability and performance of y
 ## Before you begin
 
 -   A configuration item \(CI\) for the endpoint you want to test.
--   If you're testing private endpoints or want to run the monitors from your environment, one or more locations must be created to host the monitor. To create a location, see [Create synthetic monitoring locations](create-synthetic-monitoring-locations.md).
+-   If you're testing private endpoints or want to run the monitors from your environment, one or more locations must be created to host the monitor. To create a location, see [Create synthetic monitoring locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md).
 
 **Note:** For information about how to bulk create synthetic monitors, see the [Synthetic Monitoring Developer Guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/developer-guides/synth-monitor_dev-guide.md).
 
@@ -24,7 +24,7 @@ Role required: sn\_sow\_synthetics.synthetics\_editor or sn\_sow\_synthetics.syn
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](../image/sys-mon-icon.png)\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/sys-mon-icon.png)\).
 
 2.  On the Overview page, either create a synthetic monitor or edit an existing one.
 
@@ -117,7 +117,7 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 
         Choose **Create new location** to create a location.
 
-        For more information on how to create a location, see [Create synthetic monitoring locations](create-synthetic-monitoring-locations.md).
+        For more information on how to create a location, see [Create synthetic monitoring locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md).
 
     4.  In the Assertion section, define a successful test by selecting one or more criteria, an operator, and a value.
 
@@ -135,13 +135,13 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 
         -   In the Alert settings section, activate the toggle switch.
         -   Select an alert severity for a test failure.
-        -   Add tags to the alert. For more information about using tags in alerts, see [Tag cluster alert grouping](../../event-management/concept/alert-clustering-tag-definitions-concept.md).
+        -   Add tags to the alert. For more information about using tags in alerts, see [Tag cluster alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../event-management/concept/alert-clustering-tag-definitions-concept.md).
 4.  Select **Save**.
 
 
 ## Result
 
-The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [Identifying system issues with synthetic monitoring](../concept/identifying-system-issues.md) for more information.
+The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [Identifying system issues with synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/identifying-system-issues.md) for more information.
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/configuring-synthetic-monitoring.md)
 

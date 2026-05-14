@@ -27,7 +27,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 3.  Open the related reservation record, which is the parent reservation:
 
-    1.  Select the information \(![Info icon](../../wsd-reservation-management/image/info-icon.png)\) icon next to the **Reservation** field.
+    1.  Select the information \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../wsd-reservation-management/image/info-icon.png)\) icon next to the **Reservation** field.
 
     2.  Select **Open Record** for the desired request.
 
@@ -57,5 +57,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 Once the status of workplace request is updated to **Closed complete**, the reservation information is populated in the **Notes** field of the workplace request.
 
-**Parent Topic:**[Managing workplace reservations for employees](../concept/managing-workplace-reservations.md)
+**Parent Topic:**[Managing workplace reservations for employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/managing-workplace-reservations.md)
 

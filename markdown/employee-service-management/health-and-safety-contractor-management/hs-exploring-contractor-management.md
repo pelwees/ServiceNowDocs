@@ -54,7 +54,7 @@ Prequalify contractor companies and their workers to keep track of their health 
 
 </td><td>
 
-[Add contractor company and worker](../task/hs-add-contractor-company-from-workspace.md)
+[Add contractor company and worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../task/hs-add-contractor-company-from-workspace.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Ensure prerequisite training and document uploads for contractor workers before 
 
 </td><td>
 
-[Task assignment for contractors](../task/hs-assign-tasks-contractor-worker.md)
+[Task assignment for contractors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../task/hs-assign-tasks-contractor-worker.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Gather prerequisite documents form the contractor company and its workers.
 
 </td><td>
 
-[Contractor documents](../task/hs-add-document-contractor-worker.md)
+[Contractor documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../task/hs-add-document-contractor-worker.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Track all contractor workers and know who is on site at all times.
 
 </td><td>
 
-[Site access](../task/hs-grant-site-access-worker.md)
+[Site access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../task/hs-grant-site-access-worker.md)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Add contractor worker on incident and observation.
 
 </td><td>
 
-[People involved in a safety incident](../../ohs-incident-management/task/add-hs-people-involved.md)
+[People involved in a safety incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../ohs-incident-management/task/add-hs-people-involved.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Add contractor worker on incident and observation.
 
 To learn more about configuring and using Health and Safety Contractor Management, see:
 
--   [Configuring Health and Safety Contractor Management](hs-configuring-contractor-management.md)
--   [Managing contractors for health and safety](hs-using-contractor-management.md)
--   [Health and Safety Contractor Management reference](hs-contractor-management-reference.md)
+-   [Configuring Health and Safety Contractor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-configuring-contractor-management.md)
+-   [Managing contractors for health and safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-using-contractor-management.md)
+-   [Health and Safety Contractor Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-reference.md)
 

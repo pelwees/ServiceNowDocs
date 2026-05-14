@@ -45,12 +45,12 @@ If a required dependency does not function as expected, as might happen if there
 
 In the example below, the Subcategory field is made dependent upon the Category field. On an incident form, the value selected for the Category field determines which options appear for the Subcategory field.
 
-![Dependent Value](../image/DependentValue.png)
+![Dependent Value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/DependentValue.png)
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[Reference qualifiers](../../../script/server-scripting/concept/c_ReferenceQualifiers.md)
+[Reference qualifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../script/server-scripting/concept/c_ReferenceQualifiers.md)
 

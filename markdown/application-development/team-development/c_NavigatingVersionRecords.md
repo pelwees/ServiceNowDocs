@@ -28,8 +28,8 @@ You can navigate from a version record to:
 -   The customized object: Click the **Show Related Record** related link.
 -   The application file record for the object: Click the **Show Application File** related link.
 
-    ![Navigate from a version to either related records or the application file itself.](../image/VersionRecord.png "Version record")
+    ![Navigate from a version to either related records or the application file itself.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/VersionRecord.png "Version record")
 
 
-**Parent Topic:**[Versions](c_Versions.md)
+**Parent Topic:**[Versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/c_Versions.md)
 

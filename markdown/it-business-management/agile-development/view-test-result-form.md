@@ -51,10 +51,10 @@ Use the Sprint Tracking tab of the Agile board to review the tests run for a sto
     Beneath these fields, the tests steps that are executed and verified for this test are listed along with their execution status. Any comments or attachments that are added to these steps are also displayed for reference.
 
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 
 **Related topics**  
 
 
-[Track sprint progress in Agile Development 2.0](sprint-tracking-list.md)
+[Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/sprint-tracking-list.md)
 

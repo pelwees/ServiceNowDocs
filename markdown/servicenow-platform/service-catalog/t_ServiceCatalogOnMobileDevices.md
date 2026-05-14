@@ -45,13 +45,13 @@ Accessing the Service Catalogon Mobile Devices
 
 To access the service catalog, navigate to **Self-Service** &gt; **Catalog**.
 
-![Screenshot for Service Catalog Classic Mobile homepage.](../image/ServiceCatalogHomepageMobile.png "Service Catalog homepage Classic Mobile")
+![Screenshot for Service Catalog Classic Mobile homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogHomepageMobile.png "Service Catalog homepage Classic Mobile")
 
 Catalog items are grouped into categories, which can also contain one or more subcategories.
 
 You can browse and select an item. To browse for an item within a category, tap the category filter to select the category or subcategory.
 
-![Screenshot for Service Catalog category.](../image/MobileUIServiceCatalogCategory.png "Sample service catalog category")
+![Screenshot for Service Catalog category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/MobileUIServiceCatalogCategory.png "Sample service catalog category")
 
 To request an item:
 
@@ -59,13 +59,13 @@ To request an item:
 
 1.  Select an item.
 
-    ![Screenshot for order item Classic Mobile.](../image/OrderItemMobile.png "Order Item Classic Mobile")
+    ![Screenshot for order item Classic Mobile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/OrderItemMobile.png "Order Item Classic Mobile")
 
 2.  Tap any field with an arrow \(&gt;\) to add information, such as the name or location of the requestor, the need-by date, or item quantity.
 
 3.  Tap **Add to Cart** to add the item to your cart. The order screen appears.
 
-    ![Screenshot for Order Item Classic Mobile 2.](../image/OrderItemMobile2.png "Order Item Classic Mobile 2")
+    ![Screenshot for Order Item Classic Mobile 2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/OrderItemMobile2.png "Order Item Classic Mobile 2")
 
 4.  Tap **Edit** to edit your order, if required.
 
@@ -73,11 +73,11 @@ To request an item:
 
     A confirmation message appears.
 
-    ![Screenshot for Classic Mobile order confirmation.](../image/OrderMobileConfirmation.png "Classic Mobile Order Confirmation")
+    ![Screenshot for Classic Mobile order confirmation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/OrderMobileConfirmation.png "Classic Mobile Order Confirmation")
 
 6.  Tap the item to see further details.
 
-    ![Screenshot for Classic Mobile Order Requested Item Details.](../image/OrderMobileRequestedItemDetails.png "Classic Mobile Order Requested Item Details")
+    ![Screenshot for Classic Mobile Order Requested Item Details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/OrderMobileRequestedItemDetails.png "Classic Mobile Order Requested Item Details")
 
 7.  Tap the back arrow to return to the confirmation message.
 
@@ -86,10 +86,10 @@ To request an item:
     After the request is submitted, ServiceNow follows request fulfillment processes to fulfill the ordered item.
 
 
--   **[Define the mobile layout](t_DefiningMobileLayout.md)**  
+-   **[Define the mobile layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefiningMobileLayout.md)**  
 You can configure the Classic Mobile layout for categories within a service catalog.
--   **[Limit description sizes in the Classic Mobile UI](t_LimitDescriptionSizesInMobileUI.md)**  
+-   **[Limit description sizes in the Classic Mobile UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_LimitDescriptionSizesInMobileUI.md)**  
 By default, item descriptions in the smartphone interface are truncated to a maximum of two lines.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogCustomization.md)
 

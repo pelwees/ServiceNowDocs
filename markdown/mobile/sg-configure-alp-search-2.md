@@ -40,7 +40,7 @@ Role required: admin
     4.  In the Search Config form, locate the **Placeholder** section under **Properties**.
     5.  In the Placeholder text box, enter the text that you want to appear in the search bar before a user enters a value into the field, and then press Tab.
 
-        ![Placeholder text box in Mobile App Builder](../image/global-search-placeholder-txt.png)
+        ![Placeholder text box in Mobile App Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/global-search-placeholder-txt.png)
 
 5.  In the **Settings** section, select **Interleave result** to display interleaved search results.
 
@@ -53,5 +53,5 @@ Role required: admin
 
 ## What to do next
 
-Enable voice search so that your users can search using native speech recognition. For more details, see [Turn on voice search](../../mobile-employee/task/turn-on-voice-search.md)
+Enable voice search so that your users can search using native speech recognition. For more details, see [Turn on voice search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../mobile-employee/task/turn-on-voice-search.md)
 

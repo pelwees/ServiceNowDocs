@@ -21,7 +21,7 @@ Role required: wm\_dispatcher
 
 Show multiple time zones at once in Dispatcher Workspace 
 
-You must have **Show multiple time zone rows** enabled, and multiple time zones input in the **Select time zones for calendar** setting. For more information, see the Calendar section on [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+You must have **Show multiple time zone rows** enabled, and multiple time zones input in the **Select time zones for calendar** setting. For more information, see the Calendar section on [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Procedure
 

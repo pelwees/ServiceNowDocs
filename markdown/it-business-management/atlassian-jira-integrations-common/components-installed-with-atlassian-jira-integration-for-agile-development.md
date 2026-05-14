@@ -78,7 +78,7 @@ Import Jira Issue
 
 Imports issues and sprints from Jira automatically at a scheduled time.This job is inactive by default.
 
- For more information, see [Schedule a job to auto-import issues from Jira to Agile Development 2.0](schedule-jobs-to-import-issue-from-jira.md).
+ For more information, see [Schedule a job to auto-import issues from Jira to Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/schedule-jobs-to-import-issue-from-jira.md).
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -220,5 +220,5 @@ Webhook Registry\[sn\_int\_common\_webhook\_registry\]
 Stores details of the registry callback path for webhooks registered in Jira to receive event updates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Atlassian Jira Integration for Agile Development](../concept/agile-jira-integration-overview.md)
+</table>**Parent Topic:**[Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../concept/agile-jira-integration-overview.md)
 

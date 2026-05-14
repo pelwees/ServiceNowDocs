@@ -50,7 +50,7 @@ Cloud providers often use different names for accounts, regions, and credential 
 
         For example, enter `Google credentials-1` and then copy/paste values from the JSON key file into the form fields. Paste the `private_key` value into the **Secret key** field and the `client_email` value into the **EMail** field.
 
-        ![Specifying the Google Cloud Platform credentials in the instance](../image/gcp-copy-cred-to-sn-form.png)
+        ![Specifying the Google Cloud Platform credentials in the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/gcp-copy-cred-to-sn-form.png)
 
     4.  Select the **Active** check box to use the credentials and then click **Submit**.
 

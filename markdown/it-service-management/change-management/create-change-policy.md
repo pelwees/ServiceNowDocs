@@ -40,12 +40,12 @@ Role required: admin or change manager
 
 ## What to do next
 
-To add additional policy inputs and decisions, see [Create Policy inputs](create-policy-input.md) and [Create Decision records](create-decisions.md)..
+To add additional policy inputs and decisions, see [Create Policy inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-policy-input.md) and [Create Decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-decisions.md)..
 
--   **[Create policy inputs](create-policy-input.md)**  
+-   **[Create policy inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-policy-input.md)**  
 Policy inputs are variable sources that you can use while evaluating a decision to determine the approval action. You can create multiple policy inputs to evaluate the decision created, and also access the change request table and any table change request references.
--   **[Create Decision records](create-decisions.md)**  
+-   **[Create Decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-decisions.md)**  
 Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when creating change approval policies.
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-change-approval-policies-cf.md)
 

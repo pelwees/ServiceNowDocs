@@ -33,11 +33,11 @@ You need to navigate to the configuration items you want to use to create a case
 
 3.  From the **Actions on selected items** drop-down list, select **Add to Security Case**.
 
-    ![Add a CI to a new case](../image/add-ci-to-new-case.png)
+    ![Add a CI to a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-ci-to-new-case.png)
 
     The **Add to Security Case** dialog box opens. If you already have cases assigned to you, they display in the list.
 
-    ![Add a CI to a new case](../image/add-ci-to-case.png)
+    ![Add a CI to a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-ci-to-case.png)
 
 4.  Click **Create New Case**.
 
@@ -55,10 +55,10 @@ You need to navigate to the configuration items you want to use to create a case
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[Configuration items in cases](../concept/cases-from-cis.md)
+**Parent Topic:**[Configuration items in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-from-cis.md)
 
 **Related topics**  
 
 
-[Add CIs to existing cases](add-cis-to-cases-sir.md)
+[Add CIs to existing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-cis-to-cases-sir.md)
 

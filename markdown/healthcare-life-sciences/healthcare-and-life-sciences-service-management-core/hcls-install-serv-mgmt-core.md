@@ -33,7 +33,7 @@ The following items are installed with Healthcare and Life Sciences Service Mana
 
 The Healthcare and Life Sciences Service Management Core application is dependent on the Product Catalog Management Core, CIWF UI Components, and Industry Core applications.
 
-For more information, see [Components installed with Healthcare and Life Sciences Service Management Core](../reference/hcls-components-installed-serv-mgmt.md).
+For more information, see [Components installed with Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../reference/hcls-components-installed-serv-mgmt.md).
 
 ## Procedure
 

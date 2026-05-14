@@ -36,7 +36,7 @@ Aggregating similar query data allows administrators to monitor the performance 
 
 2.  Open a query record for more details.
 
-    For a description of the field values in the query record, see [Query record form fields](../reference/query-record-fields.md).
+    For a description of the field values in the query record, see [Query record form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../reference/query-record-fields.md).
 
 3.  To see what the database is doing to retrieve the data, click **Explain Plan**.
 
@@ -46,8 +46,8 @@ Aggregating similar query data allows administrators to monitor the performance 
 
 4.  To generate an index suggestion for a slow query, click **Index Suggestion**.
 
-    For details, see [Generate an index suggestion for a slow query](generate-index-suggestion.md).
+    For details, see [Generate an index suggestion for a slow query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/generate-index-suggestion.md).
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/resolving-slow-queries.md)
 

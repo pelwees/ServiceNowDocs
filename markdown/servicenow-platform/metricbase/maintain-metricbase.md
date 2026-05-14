@@ -17,7 +17,7 @@ View the overall health and performance of MetricBase, and debug its triggers an
 
 ## Overview of managing MetricBase
 
-**Parent Topic:**[MetricBase](metricbase.md)
+**Parent Topic:**[MetricBase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase.md)
 
 ## View MetricBase database status
 
@@ -66,17 +66,17 @@ Role required: clotho\_admin
 
     1.  Enter the number of days \(greater than or equal to 1\) in the **Staleness Time Period** field.
 
-    2.  Select the Refresh icon \(![Refresh icon.](../../virtual-agent/images/refresh-icon.png)\).
+    2.  Select the Refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../virtual-agent/images/refresh-icon.png)\).
 
     The closer the ratio is to 0%, the fewer unused series there are within the given time period. You determine your own threshold for an acceptable stale series ratio. To lower the ratio, adjust the metric's sampling schedule or remove unused metrics or series. For help with removing a stale series, contact Customer Service and Support.
 
 4.  Determine how efficiently your time series data is used by viewing the **Data Utilization Efficiency** value.
 
-    The value is the percentage of data points per metric that have a non-null value. The closer this value is to 100%, the fewer null data points there are. To increase the efficiency, review each metric to ensure that data is being posted at a similar rate to the first schedule of its retention policy. See [MetricBase retention policies](../reference/metricbase-retention-policies.md) for more information.
+    The value is the percentage of data points per metric that have a non-null value. The closer this value is to 100%, the fewer null data points there are. To increase the efficiency, review each metric to ensure that data is being posted at a similar rate to the first schedule of its retention policy. See [MetricBase retention policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../reference/metricbase-retention-policies.md) for more information.
 
 5.  Determine how often values are published to MetricBase by viewing the **Average Unutilized Data Gap** value.
 
-    The gap value is the average number of entries between two non-null data points. To decrease the gap value, change the metric's schedule to publish data more often or update the metric's sampling period in its retention policy. See [MetricBase retention policies](../reference/metricbase-retention-policies.md).
+    The gap value is the average number of entries between two non-null data points. To decrease the gap value, change the metric's schedule to publish data more often or update the metric's sampling period in its retention policy. See [MetricBase retention policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../reference/metricbase-retention-policies.md).
 
 
 ## View MetricBase statistics and metrics
@@ -95,7 +95,7 @@ Role required: admin
 
     2.  Scroll down to find **MetricBase Statistics**
 
-        ![MetricBase statistics](../image/mb-statistics.png)
+        ![MetricBase statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/mb-statistics.png)
 
 2.  View the metrics monitored by MetricBase and statistics about them.
 
@@ -103,19 +103,19 @@ Role required: admin
 
         The MetricBase Status page displays all of the metrics tracked in MB.
 
-        ![List of metrics monitored](../image/mb-status-metrics-monitored.png)
+        ![List of metrics monitored](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/mb-status-metrics-monitored.png)
 
     2.  Click the gear icon.
 
         The Personalize List Columns dialog box displays.
 
-        ![Select metrics to display.](../image/personalize-list-columns.png)
+        ![Select metrics to display.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/personalize-list-columns.png)
 
     3.  Select and move metrics from the **Available** column to the **Selected** column to display the metric and click **OK**.
 
         The metrics display on the MetricBase Status page.
 
-        ![Metrics](../image/mb-statistics-metrics.png)
+        ![Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/mb-statistics-metrics.png)
 
 
 ## Debug MetricBase

@@ -16,7 +16,7 @@ Users with the customer administrator role can approve or reject registration re
 **Related topics**  
 
 
-[Customer contact self-registration on Business Portal](c_Business-PortalSelfRegistration.md)
+[Customer contact self-registration on Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_Business-PortalSelfRegistration.md)
 
 ## Approve a registration request with a valid registration code on Business Portal
 

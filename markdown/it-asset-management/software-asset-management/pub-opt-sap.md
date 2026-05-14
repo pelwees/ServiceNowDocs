@@ -160,5 +160,5 @@ Software Subscriptions\[samp\_sw\_subscription\]
 Number of users by their SAP cloud use type in SAP S/4HANA Public Cloud.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

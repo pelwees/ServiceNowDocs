@@ -17,7 +17,7 @@ Submit an automation request using the ServiceNow® Service Catalog form to auto
 
 ## Before you begin
 
-\(Optional\) Create an automation goal. For more information, see [Create an automation goal](create-automation-goal.md).
+\(Optional\) Create an automation goal. For more information, see [Create an automation goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-goal.md).
 
 Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_user, catalog\_admin, or sn\_ac.automation\_admin
 
@@ -27,21 +27,21 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Submit an Automation Request form](../reference/submit-automation-request-form.md).
+    For a description of the field values, see [Submit an Automation Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/submit-automation-request-form.md).
 
 3.  Select **Submit**.
 
 
 ## What to do next
 
-Move the automation request to **Planned** state. For more information, see [Move an automation request to the Planned state](move-automation-request-to-planned.md).
+Move the automation request to **Planned** state. For more information, see [Move an automation request to the Planned state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/move-automation-request-to-planned.md).
 
-**Parent Topic:**[Creating an automation request](create-automation-request.md)
+**Parent Topic:**[Creating an automation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-request.md)
 
 **Related topics**  
 
 
-[Submit an Automation Request form](../reference/submit-automation-request-form.md)
+[Submit an Automation Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/submit-automation-request-form.md)
 
-[Create an automation request from Automation Center](create-automation-request-autocenter.md)
+[Create an automation request from Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-request-autocenter.md)
 

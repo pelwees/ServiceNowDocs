@@ -68,7 +68,7 @@ Network location
 The location of the applicable subnetwork.**Note:** This field is optional and visible only if Network location is enabled.
 
 </td></tr></tbody>
-</table>To configure entry points for subnetworks, see [Fine-tune Service Mapping with MID affinity and IP reuse](../concept/network-location-mid-affinity-td-discovery.md).
+</table>To configure entry points for subnetworks, see [Fine-tune Service Mapping with MID affinity and IP reuse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/network-location-mid-affinity-td-discovery.md).
 
 There are some attributes which you configure differently depending on what entry point they relate to, as described in the following table:
 
@@ -163,12 +163,12 @@ There are some attributes which you configure differently depending on what entr
 |XenApp or Presentation Server Components|Farm|The farm host the Citrix application.|
 |Icon path|The logic path of the Citrix application.|
 
-**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
 **Related topics**  
 
 
-[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_DefineNewBusinessService.md)
 
-[Create entry point types for Service Mapping](../task/t_CreateEntryPoint.md)
+[Create entry point types for Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_CreateEntryPoint.md)
 

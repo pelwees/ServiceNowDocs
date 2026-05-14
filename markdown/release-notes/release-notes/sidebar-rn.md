@@ -51,5 +51,5 @@ Sidebar is a ServiceNow AI Platform feature that is active by default.
     Increase deflections by empowering your employees and customers to serve themselves using the friendly Virtual Agent messaging interface, featuring prebuilt conversations powered by artificial intelligence.
 
 
-**Parent Topic:**[Conversational Interfaces release notes](conversational-interfaces-rn-landing.md)
+**Parent Topic:**[Conversational Interfaces release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/conversational-interfaces-rn-landing.md)
 

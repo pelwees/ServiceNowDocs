@@ -17,41 +17,41 @@ Install and configure the Conversational Integration with Amazon Connect applica
 
 ## Configuration overview
 
-1.  [Install Conversational IVR with Amazon Connect](../task/install-va-ivr.md)
+1.  [Install Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/install-va-ivr.md)
 
     Install the pre-built adapter for Conversational Integration with Amazon Connect.
 
-2.  [Configuring your AWS account for use with Conversational IVR](configure-aws-account.md)
+2.  [Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
     Set up your Amazon Connect account.
 
-3.  [Configure Conversational IVR with Amazon Connect](../task/configure-va-ivr.md)
+3.  [Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-va-ivr.md)
 
     Configure Conversational Integration with Amazon Connect.
 
-4.  [Sync agents to set up live agent transfer](../task/setup-live-agent-transfer.md)
+4.  [Sync agents to set up live agent transfer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/setup-live-agent-transfer.md)
 
     Set up live agent transfer for Conversational Integration with Amazon Connect.
 
-5.  [Configure user authentication for Conversational IVR](../task/setup-user-authentication-ivr.md)
+5.  [Configure user authentication for Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/setup-user-authentication-ivr.md)
 
     Configure user authentication.
 
-6.  [Manage bot messages for Conversational IVR](../task/edit-va-ivr-messages.md)
+6.  [Manage bot messages for Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/edit-va-ivr-messages.md)
 
     Modify the Conversational Integration with Amazon Connect settings for the best interactive voice response.
 
-7.  [Configure callback behavior for a channel](../../omnichannel-callback/task/configure-callback-behavior.md)
+7.  [Configure callback behavior for a channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../omnichannel-callback/task/configure-callback-behavior.md)
 
     Configure callback functionality.
 
 
-![Workflow describing the sequence of processes carried out in Conversational IVR with Amazon Connect integration.](../images/workflow-ivr-amz-cnct.png "Workflow of Conversational IVR with Amazon Connect")
+![Workflow describing the sequence of processes carried out in Conversational IVR with Amazon Connect integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/workflow-ivr-amz-cnct.png "Workflow of Conversational IVR with Amazon Connect")
 
--   **[Configuring your AWS account for use with Conversational IVR](configure-aws-account.md)**  
+-   **[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)**  
 To enable the Conversational IVR functionality within your ServiceNow instance, you must utilize a third-party Contact Center application. One such option is Amazon Connect, which is part of the Amazon Web Services \(AWS\) platform. You must configure your organization’s AWS account prior to making it available for use in the Conversational IVR feature.
--   **[Configure Conversational IVR with Amazon Connect](../task/configure-va-ivr.md)**  
+-   **[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-va-ivr.md)**  
 Configure Amazon Connect service provider to integrate with Virtual Agent and use interactive voice response.
 
-**Parent Topic:**[Conversational IVR with Amazon Connect](va-ivr-voice.md)
+**Parent Topic:**[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)
 

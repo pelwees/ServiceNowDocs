@@ -34,7 +34,7 @@ Role required: sn\_sec\_tisc.admin
 
 2.  Select the **Integrations** icon.
 
-    ![Sighting Search page showing three enabled enrichment integration cards: two Splunk integrations and one Elasticsearch integration, each with a last-modified timestamp and View button.](../image/enrich-sighting-section.png)
+    ![Sighting Search page showing three enabled enrichment integration cards: two Splunk integrations and one Elasticsearch integration, each with a last-modified timestamp and View button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-sighting-section.png)
 
 3.  Select the **Configure new enrichment** action.
 
@@ -44,7 +44,7 @@ Role required: sn\_sec\_tisc.admin
 
     The Configure new enrichment page for the selected integration opens. This page is pre filled with details of the selected integration by default. For example, Splunk integration.
 
-    ![Create Enrichment Integration form with Vendor Name set to Splunk, Integration Type set to Sighting Search, and the Integration Configuration section visible.](../image/enrich-sighting-config.png)
+    ![Create Enrichment Integration form with Vendor Name set to Splunk, Integration Type set to Sighting Search, and the Integration Configuration section visible.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-sighting-config.png)
 
 5.  On the Create Integration form, fill the fields.
 
@@ -93,7 +93,7 @@ Description
 Unique description of the new enrichment integration.
 
 </td></tr></tbody>
-</table>    ![Create Enrichment Integration form with Vendor Name set to Splunk and Integration Type set to Sighting Search.](../image/enrich-sighting-splunk.png)
+</table>    ![Create Enrichment Integration form with Vendor Name set to Splunk and Integration Type set to Sighting Search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-sighting-splunk.png)
 
 6.  In the **Integration Configuration** section, configure the integration details based on your requirements.
 
@@ -114,14 +114,14 @@ Unique description of the new enrichment integration.
     The enrichment integration is enabled. You can also enable a particular enrichment integration from the **Actions** on the integration tile on the **Catalog**.
 
 
--   **[Create Sighting Search queries](../concept/manage-sighting-search-configurations.md)**  
+-   **[Create Sighting Search queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/manage-sighting-search-configurations.md)**  
 Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific indicators appear in your data sources.
--   **[Using Sighting Search parameters](../concept/manage-sighting-search-parameters.md)**  
+-   **[Using Sighting Search parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/manage-sighting-search-parameters.md)**  
 Configure advanced search parameters to create complex queries with logic operators and other features supported by your log store. Use these parameters when basic search criteria are insufficient for your investigation needs.
--   **[Get started with Sighting Search Configurations](../concept/tisc-get-sighting-configs.md)**  
+-   **[Get started with Sighting Search Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-get-sighting-configs.md)**  
 Sighting Search Configurations define how threat intelligence data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
--   **[TISC add-on for Splunk overview](../concept/tisc-addon-splunk.md)**  
+-   **[TISC add-on for Splunk overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-addon-splunk.md)**  
 Configure the Threat Intelligence Security Center \(TISC\) integration with Splunk to import threat intelligence data, set up indicator collections, and analyze search matches using dashboards.
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-enrichment-integrations.md)
 

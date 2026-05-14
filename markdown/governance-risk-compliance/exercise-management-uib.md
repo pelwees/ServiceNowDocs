@@ -41,15 +41,15 @@ If you’re the BCM program manager, you can create an exercise in Business Cont
 
 -   You can navigate to the **Exercises** tab and select **Create exercise** as shown in the example.
 
-    ![Exercises tab in the Home page.](../image/exercises-homepage.png)
+    ![Exercises tab in the Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/exercises-homepage.png)
 
-    For information on the cards and action buttons in the **Exercises** tab, see [Home page view](home-page-uib-ws.md).
+    For information on the cards and action buttons in the **Exercises** tab, see [Home page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Exercises records.
 
-To create an exercise in Business Continuity Workspace, see [Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md).
+To create an exercise in Business Continuity Workspace, see [Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md).
 
 ## Grouping the event tasks
 
-For information on working with the grouped event tasks, see [Creating similar tasks groups](identifying-running-dup-tasks-once.md).
+For information on working with the grouped event tasks, see [Creating similar tasks groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md).
 

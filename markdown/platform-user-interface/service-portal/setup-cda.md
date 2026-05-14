@@ -38,11 +38,11 @@ Set up the Cloud Deployment Automation application by configuring the Service Po
 
     4.  Click the decision record.
 
-        ![Decision record.](../image/cda-decision.png)
+        ![Decision record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cda-decision.png)
 
     5.  Select the required group, user, or subflow in **Answer**, depending on what the decision table is used for.
 
-        ![Answer record.](../image/cda-answer.png)
+        ![Answer record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cda-answer.png)
 
         **Note:** Configure these seven decision tables and assign **Answer** as per your requirements.
 
@@ -57,7 +57,7 @@ Set up the Cloud Deployment Automation application by configuring the Service Po
 
     **Note:** Ensure that you select **Default \[Global\]** and **Global** for current update set and application.
 
-    ![Select the global value.](../../../build/service-portal/image/global.png)
+    ![Select the global value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../build/service-portal/image/global.png)
 
     1.  Navigate to **Service Portal** &gt; **Portals**.
 
@@ -69,7 +69,7 @@ Set up the Cloud Deployment Automation application by configuring the Service Po
 
     5.  Add **Cloud Deployment Automation** to the **Service Portal** list.
 
-        ![Add Cloud Deployment Automation.](../image/cda-add-sp.png)
+        ![Add Cloud Deployment Automation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cda-add-sp.png)
 
     6.  Click **Save**.
 
@@ -84,11 +84,11 @@ Set up the Cloud Deployment Automation application by configuring the Service Po
     1.  Navigate to the Service Portal.
     2.  Click the **Catalog** tab.
     3.  Click **Browse by Categories**.
-    4.  Select **Cloud Deployment Automation**.![Cloud Deployment Automation category.](../image/cda-sp-cat.png)
+    4.  Select **Cloud Deployment Automation**.![Cloud Deployment Automation category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cda-sp-cat.png)
     5.  Select the required action and submit the catalog item. When the request is approved, the associated flow is triggered and the required user can provide the approval. Activities are logged in the catalog item.
 
-        ![Cloud Deployment Automation catalogs.](../image/cda-catalogs.png)
+        ![Cloud Deployment Automation catalogs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cda-catalogs.png)
 
 
-**Parent Topic:**[Cloud Deployment Automation](../concept/cloud-dep-auto.md)
+**Parent Topic:**[Cloud Deployment Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/cloud-dep-auto.md)
 

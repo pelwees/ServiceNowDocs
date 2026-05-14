@@ -42,7 +42,7 @@ Description
 1.  Select **New**.
 2.  On the Planning attribute form, fill the fields.
 
-For a description of the field values, see [Planning attribute form](planning-attributes-form.md).
+For a description of the field values, see [Planning attribute form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes-form.md).
 
 3.  Select **Submit**.
 
@@ -86,5 +86,5 @@ The attribute is created and the planning attributes screen is displayed.
 **Related topics**  
 
 
-[Using the Planning attributes](../concept/planning-attributes.md)
+[Using the Planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/planning-attributes.md)
 

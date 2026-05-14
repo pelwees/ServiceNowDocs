@@ -42,9 +42,9 @@ Cryptographic modules also support key life-cycle management. You can create and
 
 The following screen shows these high-level components in a cryptographic module:
 
-![Shows the components of a cryptographic module](../image/crypto-components.png "Cryptographic module components")
+![Shows the components of a cryptographic module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/crypto-components.png "Cryptographic module components")
 
-For details on creating cryptographic modules, see [Create a cryptographic module](../task/create-cryptographic-module.md).
+For details on creating cryptographic modules, see [Create a cryptographic module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../task/create-cryptographic-module.md).
 
-**Parent Topic:**[Exploring the Key Management Framework](../../encryption/concept/explore-kmf.md)
+**Parent Topic:**[Exploring the Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/concept/explore-kmf.md)
 

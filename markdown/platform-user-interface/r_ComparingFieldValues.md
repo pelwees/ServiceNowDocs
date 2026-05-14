@@ -32,7 +32,7 @@ Field comparison compares the dictionary **Value** field of a choice list, not t
 
 ## Comparing empty fields
 
-By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [Filtering on empty fields](../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md).
+By default, most filter operations do not return empty fields in their result set. To include records with empty fields in a result set, add a filter condition for the left operand with an operator of **\[is empty\]**. For more information, see [Filtering on empty fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md).
 
 ## Using operators and operands
 
@@ -44,7 +44,7 @@ The **\[is more than\]** and **\[is less than\]** operators are only available w
 
 This example filter returns records where the user who opened the record also closed the record.
 
-![Example filter.](../image/ExampleFilter.png "Example filter")
+![Example filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ExampleFilter.png "Example filter")
 
 ## Comparable fields
 
@@ -62,13 +62,13 @@ Date comparison allows you to evaluate equality between two components of the da
 
 Date comparisons are based on the active user's time zone. For example, as a user in the PST time zone, a filter of **\[Created\] \[is same\] \[Day\] as \[Closed\]** evaluates true for an incident created at 6 AM PST and closed at 3:00 PM PST as both times are within the same day. However, a user in the GMT time zone would not see this same incident record in response to the example filter; in GMT those times do not fall on the same date.
 
-You can [Evaluate equality between date values](../task/t_EvaluatingEqualityBetweenDates.md) and you can evaluate unequal dates within a range.
+You can [Evaluate equality between date values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_EvaluatingEqualityBetweenDates.md) and you can evaluate unequal dates within a range.
 
 ## Evaluate unequal dates within a range
 
 You can compare unequal date field values by evaluating whether two dates fall within a certain range of each other. For example, you can create a filter of **\[Created on\] \[is more than\] \[3\] \[Months\] \[before\] Closed\]** to display all records that were created at least three months before they were closed. The numerical value specified, such as the value **3** in the example, must be an integer of no more than two digits. For evaluations of differences larger than 99 units, select a less granular unit of time, such as **Months** instead of **Days**.
 
-![Unequal dates field comparison.](../image/UnequalDatesFieldComparison.png "Unequal dates field comparison")
+![Unequal dates field comparison.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UnequalDatesFieldComparison.png "Unequal dates field comparison")
 
 |Choice field|Date Comparison Choices|
 |------------|-----------------------|
@@ -76,15 +76,15 @@ You can compare unequal date field values by evaluating whether two dates fall w
 |Unit of time|Hours, Days, Weeks, Months, Quarters, Years|
 |Relative position of dates|before, after, before or after|
 
--   **[Evaluate equality between date values](../task/t_EvaluatingEqualityBetweenDates.md)**  
+-   **[Evaluate equality between date values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_EvaluatingEqualityBetweenDates.md)**  
 Date comparison evaluates a match for one of several date increments.
 
-**Parent Topic:**[Condition builder](../../../use/common-ui-elements/concept/c_ConditionBuilder.md)
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/common-ui-elements/concept/c_ConditionBuilder.md)
 
 **Related topics**  
 
 
-[Filtering on empty fields](../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md)
+[Filtering on empty fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/common-ui-elements/task/t_FilteringOnEmptyFields.md)
 
-[Values for date/time fields](../../../use/common-ui-elements/concept/c_ValuesForDateTimeFields.md#)
+[Values for date/time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/common-ui-elements/concept/c_ValuesForDateTimeFields.md#)
 

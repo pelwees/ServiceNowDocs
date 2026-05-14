@@ -47,7 +47,7 @@ If installed, the Task-Outage Relationship table is not domain separated. Theref
 
 The Task-Outage Relationship table is installed when administrator activates the optional Task-Outage Relationship plugin.
 
-**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
+**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
 **Related topics**  
 

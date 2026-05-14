@@ -29,15 +29,15 @@ Role required: flow\_designer or admin.
 
     The action appears as a **For Each** flow logic block.
 
-    ![Data Stream For Each flow logic block.](../images/data-stream-in-flow.png)
+    ![Data Stream For Each flow logic block.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/data-stream-in-flow.png)
 
 3.  Add a child action within the **For Each** flow logic block.
 
     This action runs on each object within the data stream.
 
-    **Note:** You cannot add an action that pauses the flow to a Data Stream For Each flow logic block. Data Stream actions require a constant connection to the response stream. For example, you cannot use the Ask for Approval or Wait for Condition actions within Data Stream For Each flow logic. For more information, see [Data Stream action design considerations](../concept/data-stream-design.md).
+    **Note:** You cannot add an action that pauses the flow to a Data Stream For Each flow logic block. Data Stream actions require a constant connection to the response stream. For example, you cannot use the Ask for Approval or Wait for Condition actions within Data Stream For Each flow logic. For more information, see [Data Stream action design considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/data-stream-design.md).
 
-    ![Create Incident Record child action within flow logic block.](../images/data-stream-for-each.png)
+    ![Create Incident Record child action within flow logic block.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/data-stream-for-each.png)
 
 4.  Click **Save**.
 
@@ -50,5 +50,5 @@ Test the flow until it is ready to be activated.
 
 **Note:** The system only triggers active flows.
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/data-stream-actions.md)
 

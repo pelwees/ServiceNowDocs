@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the ChangeExtension component. For more information about these properties, see [Properties of the File components](../reference/util-file-prop.md).
+You can configure the properties for the ChangeExtension component. For more information about these properties, see [Properties of the File components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-file-prop.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ You can configure the properties for the ChangeExtension component. For more inf
 
 2.  Drag the ChangeExtension component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the ChangeExtension component to the corresponding ports of the other components as described in the following table.
 
@@ -115,7 +115,7 @@ Your RPA robot processes a batch of report files downloaded with `.txt` extensio
 2.  Add the ChangeExtension action after the variable component.
 3.  Set the target extension to `.pdf`.
 
-![changeExtension component with .docx extension.](../image/change-extension-rpa.png)
+![changeExtension component with .docx extension.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/change-extension-rpa.png)
 
-**Parent Topic:**[File](../concept/file.md)
+**Parent Topic:**[File](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/file.md)
 

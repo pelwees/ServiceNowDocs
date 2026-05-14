@@ -19,14 +19,14 @@ The MFA enhances security by requiring an additional verification step during th
 
 To access the MFA Dashboard, navigate **All** &gt; **Multi-factor Authentication** &gt; **MFA Dashboard**.
 
-![MFA Dashboard](../images/mfa-dashboard.png)
+![MFA Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-dashboard.png)
 
-**Note:** You must enable MFA to view the metrics. For more information, see [Multi-factor Authentication system properties](../reference/mfa-properties.md).
+**Note:** You must enable MFA to view the metrics. For more information, see [Multi-factor Authentication system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../reference/mfa-properties.md).
 
 Following are the types of metrics displayed on the MFA Dashboard:
 
--   [User Metrics](mfa-dashboard.md#section_qkr_l2c_cfc)
--   [Login Metrics](mfa-dashboard.md#section_byk_42c_cfc)
+-   [User Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-dashboard.md#section_qkr_l2c_cfc)
+-   [Login Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-dashboard.md#section_byk_42c_cfc)
 
 ## User Metrics
 

@@ -21,8 +21,8 @@ Role required: admin
 
 You must complete the following tasks:
 
--   [Configure Engagement Messenger](create-engagement-messenger-module.md).
--   [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+-   [Configure Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
+-   [Create an identity provider \(IdP\) for Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../concept/create-identity-providers-for-engagement-messenger.md).
 
 ## About this task
 
@@ -112,5 +112,5 @@ Comma-separated list of HTTP headers to send in the response. You can leave this
 
 ## What to do next
 
-[Create HTTP response headers for Engagement Messenger](create-http-response-headers-for-ec.md).
+[Create HTTP response headers for Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-http-response-headers-for-ec.md).
 

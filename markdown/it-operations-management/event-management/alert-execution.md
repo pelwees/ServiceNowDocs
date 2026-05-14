@@ -19,7 +19,7 @@ Alert execution information provides a reference to the actions that have been p
 
 In an alert form, the Alert Execution tab shows key related records for the alert. For example, it shows which actions were performed and which alert management rules were run. If an incident was opened, the related tasks are shown.
 
-![Alert execution details](../image/alert-execution.png "Alert Executions")
+![Alert execution details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-execution.png "Alert Executions")
 
 |Field|Description|
 |-----|-----------|
@@ -38,5 +38,5 @@ This indicates what occurred, for example, if an incident was created.
 
 The log reveals which alert management rule initiated the action. It shows, for example, automatic execution 1 out 3, or manual execution, 2 out of 4.
 
-**Parent Topic:**[View alert information](../task/t_EMViewAlert.md)
+**Parent Topic:**[View alert information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMViewAlert.md)
 

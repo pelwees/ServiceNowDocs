@@ -34,5 +34,5 @@ By default, the Informer runs a full discovery every 24 hours \(1440 minutes\). 
 
     -   When using the k8s\_informer.yaml: Replace the default value with the required one in the line under FULL\_DISCOVERY\_MIN.
 
-**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](cnov-deploy-install.md)
+**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 

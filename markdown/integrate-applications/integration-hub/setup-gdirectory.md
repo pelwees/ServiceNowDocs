@@ -94,7 +94,7 @@ Role required: admin
 4.  Locate the **Google Directory** connection alias and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Google Directory spoke, click **View Details**.
-    -   To manage more than one Google Directory spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Google Directory spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
 5.  On the form, fill these values.
@@ -110,7 +110,7 @@ Role required: admin
     |OAuth Authorization URL|OAuth authorization code endpoint. Enter `https://accounts.google.com/o/oauth2/v2/auth`.|
     |OAuth Token URL|Token URL. Enter `https://oauth2.googleapis.com/token`.|
 
-    ![Configure Google Directory connection.](../image/gdirectory-conf-temp.png)
+    ![Configure Google Directory connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gdirectory-conf-temp.png)
 
 6.  Click **Configure and Get OAuth Token**.
 

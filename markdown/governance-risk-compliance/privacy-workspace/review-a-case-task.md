@@ -81,5 +81,5 @@ Steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Work on a case task](accept-a-case-task.md)
+**Parent Topic:**[Work on a case task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/accept-a-case-task.md)
 

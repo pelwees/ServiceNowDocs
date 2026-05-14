@@ -132,5 +132,5 @@ Reasons for storing and using the personal data.
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Create or manage an information object within a processing activity](create-manage-io-on-pa.md)
+**Parent Topic:**[Create or manage an information object within a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-manage-io-on-pa.md)
 

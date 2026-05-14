@@ -35,5 +35,5 @@ This section includes the Customer Success Management flows.
 |Scheduled a Follow-Up|Demo subflow: Run internal actions to help improve the overall engagement health with this customer. Follow the attached playbook to drive next steps and recommended actions.|
 |Setup next Quarterly Business Review|Demo subflow: Run internal actions to help improve the overall engagement health with this customer. Follow the attached playbook to drive next steps and recommended actions.|
 
-**Parent Topic:**[Customer Success Management reference](account-lifecycle-reference.md)
+**Parent Topic:**[Customer Success Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-reference.md)
 

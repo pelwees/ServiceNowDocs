@@ -25,7 +25,7 @@ You can use this API in server scripts in the global scope. The GlideEncrypter c
 -   GlideEncrypter\(\)
 -   GlideEncrypter\(String key\)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideEncrypter - GlideEncrypter\(\)
 

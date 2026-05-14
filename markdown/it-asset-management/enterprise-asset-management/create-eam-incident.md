@@ -33,7 +33,7 @@ This procedure describes how an ITIL agent must complete an incident form to doc
 
 2.  From the list of available incidents, select the incident that you created in the previous step.
 
-3.  On the form header of your incident record, select the Additional actions menu icon \(![Additional actions menu icon.](../image/additional-actions-icon.png)\) and then select **View** &gt; **Enterprise Asset**.
+3.  On the form header of your incident record, select the Additional actions menu icon \(![Additional actions menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/additional-actions-icon.png)\) and then select **View** &gt; **Enterprise Asset**.
 
     This option sets your incident record to the Enterprise Asset Management incident form view, which contains additional fields that are specific to Enterprise Asset Management.
 
@@ -51,7 +51,7 @@ This procedure describes how an ITIL agent must complete an incident form to doc
 
     **Note:** The **Configuration item** field remains empty if you select a consumable asset.
 
-    **Important:** If you select a multi-component asset, the **Affected Assets** related list displays only the parent asset. You must manually add each child asset that is affected by this incident. See [step 5](create-eam-incident.md#add-child-assets) for more details.
+    **Important:** If you select a multi-component asset, the **Affected Assets** related list displays only the parent asset. You must manually add each child asset that is affected by this incident. See [step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-incident.md#add-child-assets) for more details.
 
 5.  If you selected a multi-component asset in the previous step, specify the child assets that are affected by this incident.
 
@@ -74,5 +74,5 @@ This procedure describes how an ITIL agent must complete an incident form to doc
 
 Resolve and close your incident.
 
-**Parent Topic:**[Managing incidents in Enterprise Asset Management](../concept/managing-eam-incidents.md)
+**Parent Topic:**[Managing incidents in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-eam-incidents.md)
 

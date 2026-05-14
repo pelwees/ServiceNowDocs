@@ -37,7 +37,7 @@ Role required: sn\_cmp.cloud\_admin
 
     2.  In the **Compute Security Group Profile Mappings** related list, click **New**, fill in the form, and then click **Submit**.
 
-        ![Compute security group profile](../image/compute-securitygrp-profile.png)
+        ![Compute security group profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/compute-securitygrp-profile.png)
 
 <table id="table_n3n_zvt_ddb"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Compute Security Group Template \[cmdb\_ci\_security\_grp\_template\]
 
 Select or create a template that the profile should be mapped to.To create a new template, click the list icon and then click **New**. Enter a name and a template ID and click **Submit**.
 
- Click the reference icon \(![Reference image](../../../common/image/icon-reference.png)\) to view the details of the template.
+ Click the reference icon \(![Reference image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-reference.png)\) to view the details of the template.
 
 </td></tr></tbody>
 </table>5.  Add rules to the template.
@@ -93,10 +93,10 @@ Select or create a template that the profile should be mapped to.To create a new
         |To Port|Specify the destination port number.|
 
 
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-resource-profiles.md)
 
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md)
+[Discover all datacenters in a service account on-demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md)
 

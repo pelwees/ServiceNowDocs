@@ -40,5 +40,5 @@ Starting with the Service Graph Connector for Microsoft Azure 1.14.0 version, li
 
 When you run a full data load for the first time after upgrading to version 1.14.0, the Install Status of all the records that aren't discovered is set to retired.
 
-**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](sgc-azure-reference.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-azure-reference.md)
 

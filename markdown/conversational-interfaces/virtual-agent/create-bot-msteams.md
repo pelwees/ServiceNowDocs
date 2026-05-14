@@ -58,7 +58,7 @@ Role required: Microsoft Teams admin, Global Administrator, or roles containing 
 
 ## What to do next
 
-[Integrate your self-configured bot with single Microsoft Teams tenant](teams-install-custom-app.md).
+[Integrate your self-configured bot with single Microsoft Teams tenant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install-custom-app.md).
 
-**Parent Topic:**[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](../concept/va-integ-single-teams.md)
+**Parent Topic:**[Integrating multiple ServiceNow instances with a single Microsoft Teams tenant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-single-teams.md)
 

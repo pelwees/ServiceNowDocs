@@ -24,7 +24,7 @@ The steps to create a custom activity for a playbook are as follows:
 
     **Note:** If an activity definition already exists for the activity you want, you can skip this step.
 
-3.  **Make the activity available in Creator Studio**: An App Engine admin adds the activity to the Creator Studio Activities table. For more information, see [Make a custom activity available for playbooks in Creator Studio](../task/creator-studio-add-custom-activity.md).
+3.  **Make the activity available in Creator Studio**: An App Engine admin adds the activity to the Creator Studio Activities table. For more information, see [Make a custom activity available for playbooks in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/creator-studio-add-custom-activity.md).
 
 ## Making existing activities and playbooks available in Creator Studio
 
@@ -34,5 +34,5 @@ Admins can also make existing playbook activities available in Creator Studio by
 
 **Note:** Creator Studio admins can see the Activity Definitions \[sn\_pd\_activity\_definition\] table by default, which also enables them to administer processes in Workflow Studio.
 
-**Parent Topic:**[Administering activities in Creator Studio](creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-administering-activities.md)
 

@@ -35,7 +35,7 @@ Open
 
 State on alert creation. From this state you can acknowledge and set to:-   **Flapping**
 
-Flapping occurs when the event source continues to generate events even after its associated alert has been closed. See [Configure alert flapping](../../event-management/task/t_EMConfigAlertStateFlapDetect.md) for more information on event flapping.
+Flapping occurs when the event source continues to generate events even after its associated alert has been closed. See [Configure alert flapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../event-management/task/t_EMConfigAlertStateFlapDetect.md) for more information on event flapping.
 
 -   **Closed**
 
@@ -100,5 +100,5 @@ Flapping occurs when the event source continues to generate events even after it
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
+</table>**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 

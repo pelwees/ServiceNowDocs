@@ -29,7 +29,7 @@ A suite is a collection of checks that can be used for a scan. View a list of sc
 
 3.  Enter a suite **name** and **description**, and then select **Save**
 
-    ![Create a new suite form](../images/create-suite-1.png)
+    ![Create a new suite form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/create-suite-1.png)
 
     After selecting **Save**, configuration options for the suite display in a tabbed interface.
 
@@ -76,10 +76,10 @@ A suite is a collection of checks that can be used for a scan. View a list of sc
     3.  **Save**.
 
 
--   **[Clone the access controls auditor suite](clone-the-auditor-suite.md)**  
+-   **[Clone the access controls auditor suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/clone-the-auditor-suite.md)**  
 Clone and customize the default access controls auditor suite in your instance to create a new suite tailored to your organization's security practices.
--   **[View the Access Controls Auditor Suite](view-access-controls-auditor-suites.md)**  
+-   **[View the Access Controls Auditor Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/view-access-controls-auditor-suites.md)**  
 View the checks available in the default Access Controls Auditor Suites to understand which checks are executed when this suite runs.
 
-**Parent Topic:**[Scan suites](../concept/sec-center-suites.md)
+**Parent Topic:**[Scan suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/sec-center-suites.md)
 

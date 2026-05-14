@@ -29,7 +29,7 @@ Limitation: When searching the body of emails, you can search a maximum of 1,500
 
 ## About this task
 
-This feature is used by the [Security Operations Integration - Email Search and Delete flow](../../security-operations-common/task/secops-integ-email-search-delete.md) to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
+This feature is used by the [Security Operations Integration - Email Search and Delete flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/task/secops-integ-email-search-delete.md) to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
 
 ## Procedure
 
@@ -41,7 +41,7 @@ This feature is used by the [Security Operations Integration - Email Search and 
 
 4.  Click the **Email Search** related list.
 
-    ![Email Search related list](../image/email-search.png)
+    ![Email Search related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/email-search.png)
 
 5.  Click **New**.
 
@@ -55,7 +55,7 @@ This feature is used by the [Security Operations Integration - Email Search and 
 
 7.  Right-click in the form header and select **Save**.
 
-    ![Email Search Criteria related list](../image/email-search-criteria.png)
+    ![Email Search Criteria related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/email-search-criteria.png)
 
 8.  Click the **Email Search Criteria** tab and click **New**.
 
@@ -166,13 +166,13 @@ The text to search for. Single quotation marks, double quotation marks, and colo
 
 12. You can view the results of the search by clicking the **Email Search Results** tab.
 
-    ![Email Search Results](../image/EmailSearchResults.png)
+    ![Email Search Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/EmailSearchResults.png)
 
     Each line of the Email Search Result Entries form represents a separate email.
 
 13. After you have created a search criteria record, two buttons appear in the Email Search form: **Delete from Email Server\(s\)** and **Search on Email Server\(s\)**.
 
-    ![Email search for phishing threats](../../security-operations-common/image/email-search-phishing.png)
+    ![Email search for phishing threats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/image/email-search-phishing.png)
 
 14. To search for emails in the selected server that meet the search criteria you defined, click **Search on Email Server\(s\)**.
 

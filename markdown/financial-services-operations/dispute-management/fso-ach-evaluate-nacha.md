@@ -35,13 +35,13 @@ To access the knowledge base article:
 
 Dispute agents may use the KB article to manually evaluate whether an ACH transaction is eligible for chargeback.
 
-**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the Nacha operating guidelines check AI Agent is available to assist you at this step. See [Evaluate Nacha operating guidelines with AI agent](../../fso-now-assist/task/nacha-guidelines-ai.md) for more information.
+**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the Nacha operating guidelines check AI Agent is available to assist you at this step. See [Evaluate Nacha operating guidelines with AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-now-assist/task/nacha-guidelines-ai.md) for more information.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -66,5 +66,5 @@ Dispute agents may use the KB article to manually evaluate whether an ACH transa
 10. Close the task.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/process-dispute-ach.md)
 

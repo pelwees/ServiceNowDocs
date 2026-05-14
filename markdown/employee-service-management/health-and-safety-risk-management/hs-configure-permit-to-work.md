@@ -24,12 +24,12 @@ Permit-to-work can be configured by an admin. An admin must assign the following
 -   snc\_internal
 -   sn\_hs\_rm.permit\_coordinator
 
--   **[Configure a permit-to-work request](../task/hs-configure-request-permit-to-work.md)**  
+-   **[Configure a permit-to-work request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../task/hs-configure-request-permit-to-work.md)**  
 Edit existing questions on a permit to work form or add new questions.
--   **[Configure a permit type](../task/hs-configure-permit-type.md)**  
+-   **[Configure a permit type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../task/hs-configure-permit-type.md)**  
 Create a permit type to categorize risk and safety requirements for different types of work.
--   **[Configure a permit checklist](../task/hs-configure-permit-checklist.md)**  
+-   **[Configure a permit checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../task/hs-configure-permit-checklist.md)**  
 Create a permit checklist and link it to the permit type of a permit-to-work request.
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 

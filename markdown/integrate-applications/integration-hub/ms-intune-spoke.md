@@ -37,7 +37,7 @@ This spoke was built for the Microsoft Intune Application programming Interface 
 
 If you’re having trouble installing the app, ensure that these dependent plugins are installed:
 
--   [Microsoft Entra ID Spoke \(formerly Microsoft Azure Active Directory spoke\)](../../integrationhub/concept/microsoft-azure-ad-spoke.md)
+-   [Microsoft Entra ID Spoke \(formerly Microsoft Azure Active Directory spoke\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/microsoft-azure-ad-spoke.md)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
 -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
 -   Complex Object \(com.glide.cobject\)
@@ -60,7 +60,7 @@ The Microsoft Intune spoke provides sample subflows to demonstrate automating ta
 |Look up Groups|Returns the list of install groups or uninstall groups associated with given application id.|
 |Revoke Application|Removes the provided user or device from the given group in the Microsoft Intune server.|
 
-**Important:** To use these subflows, install the [Client Software Distribution 2.0 application](csd-app-2.md).
+**Important:** To use these subflows, install the [Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/csd-app-2.md).
 
 ## Spoke actions
 
@@ -180,7 +180,7 @@ Returns the Application ID for the dynamic input of the Lookup Managed Devices B
 
 </td></tr><tr><td rowspan="2">
 
-Data Management**Important:** To use these actions, install the [Client Software Distribution 2.0 application](csd-app-2.md).
+Data Management**Important:** To use these actions, install the [Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/csd-app-2.md).
 
 </td><td>
 
@@ -211,11 +211,11 @@ The Microsoft Intune spoke adds the Microsoft Intune application to your instanc
 |Deployments|Displays the list of deployments on the Microsoft Intune server.|Deployment \[sn\_ms\_intune\_spoke\_deployment\]|
 |Server Instances|Stores details of the provider servers.|Server Instance \[sn\_ms\_intune\_spoke\_server\]|
 
-**Important:** To use these modules and tables, install the [Client Software Distribution 2.0 application](csd-app-2.md).
+**Important:** To use these modules and tables, install the [Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/csd-app-2.md).
 
 ## Connection and credential alias requirements
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Microsoft Intune spoke](../task/setup-ms-intune.md#).
+For information about setting up the spoke, see [Set up the Microsoft Intune spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-ms-intune.md#).
 

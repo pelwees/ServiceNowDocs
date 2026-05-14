@@ -21,25 +21,25 @@ When an asset is included in a transfer order line, the following takes place:
 -   The Active TO option on the asset form is automatically selected to show that the asset is part of a transfer order and cannot be added to multiple transfer orders
 -   The asset is removed from the pool of available assets and changed to a state of In Stock Pending Transfer
 
--   **[Transfer order line asset tracking of non-consumables](r_TrsferOrderLneAssetTrackNonConsum.md)**  
+-   **[Transfer order line asset tracking of non-consumables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_TrsferOrderLneAssetTrackNonConsum.md)**  
 When transfer order line stages change for non-consumables, it affects asset substates.
--   **[Transfer order line asset tracking consumables](r_TrsferOrderLneAssetTrackConsum.md)**  
+-   **[Transfer order line asset tracking consumables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_TrsferOrderLneAssetTrackConsum.md)**  
 When a consumable is added to a transfer order line, the stock for the consumable is split into two records and the transfer order links to the newly created stock line.
 
-**Parent Topic:**[Manage transfer order](../concept/manage-transfer-orders.md)
+**Parent Topic:**[Manage transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/manage-transfer-orders.md)
 
 **Related topics**  
 
 
-[Transfer order flow](../concept/transfer-order-flows.md)
+[Transfer order flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/transfer-order-flows.md)
 
-[Transfer order tasks](../concept/work-with-transfer-orders.md)
+[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/work-with-transfer-orders.md)
 
-[Customize transfer order line tasks](../concept/customize-transfer-order-line-tasks.md)
+[Customize transfer order line tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/customize-transfer-order-line-tasks.md)
 
-[Delete a transfer order](../task/t_DeleteATransferOrder.md)
+[Delete a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrder.md)
 
-[Delete a transfer order line](../task/t_DeleteATransferOrderLine.md)
+[Delete a transfer order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrderLine.md)
 
-[Return items received in a transfer order](../task/t_ReturnItemsRecInXferOrder.md)
+[Return items received in a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_ReturnItemsRecInXferOrder.md)
 

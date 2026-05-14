@@ -49,7 +49,7 @@ Action
     -   **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
     -   **Product Catalog** &gt; **Product Models** &gt; **Consumable Models**.
 2.  Select **New**.
-3.  On the Hardware Model or Consumable Model form [fill in the details](create-hardware-consumable-model.md).
+3.  On the Hardware Model or Consumable Model form [fill in the details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-hardware-consumable-model.md).
 4.  Select **Save**.
 
 
@@ -64,7 +64,7 @@ Action
     -   For hardware models, select the **Hardware models** tab.
     -   For consumable models, select the **Consumable models** tab.
 3.  Select **New**.
-4.  On the Hardware model or Consumable model form, [fill in the details](create-hardware-consumable-model.md).
+4.  On the Hardware model or Consumable model form, [fill in the details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-hardware-consumable-model.md).
 5.  Select **Save**.
 
 
@@ -125,5 +125,5 @@ Select **Save**.
 
 The **Normalization Status** field displays **Manually Normalized**.
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/Work-with-hardware-normalization.md)
 

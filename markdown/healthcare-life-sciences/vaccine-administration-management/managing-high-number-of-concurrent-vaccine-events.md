@@ -38,5 +38,5 @@ You can implement the vaccine queue events process flow in a parallel mode. With
     This configuration creates multiple sys\_trigger records for each node.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 

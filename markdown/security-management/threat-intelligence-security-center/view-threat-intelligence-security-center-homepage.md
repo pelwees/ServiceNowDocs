@@ -27,7 +27,7 @@ Role required: sn\_sec\_tisc.analyst
 
     The TISC Home page is displayed.
 
-    ![Screen shot showing the TISC home page dashboard with threat intelligence trending data and charts.](../image/tisc-homepage-view.png)
+    ![Screen shot showing the TISC home page dashboard with threat intelligence trending data and charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-homepage-view.png)
 
 2.  Review the TISC home page widgets.
 
@@ -155,10 +155,10 @@ Select a sector in the chart and this opens the list view filtered by the select
         |Outbound intelligence - Distribution by Format \(30 days\)|Displays the format distribution \(for example, MISP, STIX\) of outbound intelligence over the last 30 days.|Selecting this widget opens the list page with filtered records.|
 
 
-**Parent Topic:**[Explore](../reference/threat-intelligence-security-center-overview.md)
+**Parent Topic:**[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/threat-intelligence-security-center-overview.md)
 
 **Related topics**  
 
 
-[TISC Key terminology](../reference/tisc-key-terminology.md)
+[TISC Key terminology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/tisc-key-terminology.md)
 

@@ -90,5 +90,5 @@ The following table shows the scenario and recommended deployment approach:
 |Citizen developer app from App Engine Studio|Use App Engine Management Center Pipelines and Deployments with a guided approval workflow.|
 |Multi-team release coordination:|Use ReleaseOps with release trains and playbook validation.|
 
-**Parent Topic:**[Deployment](get-started-deployment.md)
+**Parent Topic:**[Deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/get-started-deployment.md)
 

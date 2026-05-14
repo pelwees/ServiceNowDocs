@@ -15,10 +15,10 @@ The CPQ and Salesforce base package lets the user use Salesforce Product2 record
 
 The base package provides the minimum components and configuration for CPQ interacting with Salesforce. This package allows the user to:
 
--   Enable Salesforce Product2 records to be a CPQ configurable product through custom fields added to the Product2 record. For detailed steps, see [Configurable products](configurable-products-explore.md).
+-   Enable Salesforce Product2 records to be a CPQ configurable product through custom fields added to the Product2 record. For detailed steps, see [Configurable products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configurable-products-explore.md).
 -   Launch the CPQ Admin from Salesforce, from enabled Product2 records
--   Embed the CPQ configuration UI in other Salesforce pages or applications outside CPQ using Visualforce. See [Use case: Embed CPQ UI in a Salesforce VisualForce page](use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md).
--   Access CPQ admin APIs using Salesforce tokens. For detailed steps, see [Admin APIs: Authentication using a Salesforce-connected app](admin-apis-authentication-via-salesforce-connected-app.md).
+-   Embed the CPQ configuration UI in other Salesforce pages or applications outside CPQ using Visualforce. See [Use case: Embed CPQ UI in a Salesforce VisualForce page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md).
+-   Access CPQ admin APIs using Salesforce tokens. For detailed steps, see [Admin APIs: Authentication using a Salesforce-connected app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/admin-apis-authentication-via-salesforce-connected-app.md).
 
 ## Product2 integration
 
@@ -44,7 +44,7 @@ CPQ writes the configuration line item objects when a CPQ configuration is saved
 
 **Note:** CPQ writes these records into Salesforce, but does not read them. Any changes made to these records will not affect a CPQ configuration.
 
-![Configuration line items](../images/cpq-fields-and-relationships-1.png)
+![Configuration line items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-and-relationships-1.png)
 
 ## Configuration field data
 
@@ -56,13 +56,13 @@ Writes the configuration Field Data objects when a CPQ configuration is saved. T
 
 **Note:** CPQ writes these records into Salesforce, but does not read them. Any changes made to these records will not affect a CPQ configuration.
 
-![Configuration line items](../images/cpq-fields-and-relationships-2.png)
+![Configuration line items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-and-relationships-2.png)
 
 ## Configuration tenant
 
 LGK\_\_ConfigurationTenant\_\_c controls aspects of the CPQ integration with Salesforce.
 
-![Tenant screen](../images/cpq-logik-tenant.png)
+![Tenant screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-tenant.png)
 
 A single record for org-wide defaults should be created and populated with the Administration URL and Runtime Configuration URL values of your CPQ instance.
 

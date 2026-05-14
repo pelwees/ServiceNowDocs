@@ -33,7 +33,7 @@ Avoid using this grant in modern applications unless absolutely necessary. For s
 **Related topics**  
 
 
-[Resource owner password credential grant workflow](resource-owner-password-credential-workflow.md)
+[Resource owner password credential grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/resource-owner-password-credential-workflow.md)
 
-[Configure an OAuth resource owner password credential grant](configure-an-oauth-resource-owner-password-credential-grant.md)
+[Configure an OAuth resource owner password credential grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-an-oauth-resource-owner-password-credential-grant.md)
 

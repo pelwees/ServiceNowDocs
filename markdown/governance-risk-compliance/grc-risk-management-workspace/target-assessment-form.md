@@ -206,7 +206,7 @@ Factor for X-axis
 
 </td><td>
 
-Factor that appears on the X-axis of the heatmap. **Note:** Only the qualitative factors of type **Choice** or factors with the transformation criteria can be selected. For more information, see [Transformation criteria](../concept/transformation-criteria.md).
+Factor that appears on the X-axis of the heatmap. **Note:** Only the qualitative factors of type **Choice** or factors with the transformation criteria can be selected. For more information, see [Transformation criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/transformation-criteria.md).
 
 </td></tr><tr><td>
 
@@ -214,8 +214,8 @@ Factor for Y-axis
 
 </td><td>
 
-Factor that appears on the Y-axis of the heatmap. **Note:** Only the qualitative factors of type **Choice** or with the transformation criteria can be selected. For more information, see [Transformation criteria](../concept/transformation-criteria.md).
+Factor that appears on the Y-axis of the heatmap. **Note:** Only the qualitative factors of type **Choice** or with the transformation criteria can be selected. For more information, see [Transformation criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/transformation-criteria.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure a target assessment](../task/configure-target-assessment.md)
+</table>**Parent Topic:**[Configure a target assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/configure-target-assessment.md)
 

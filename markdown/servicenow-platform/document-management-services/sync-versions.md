@@ -17,7 +17,7 @@ Download document versions from an external cloud to Document Management.
 
 ## Before you begin
 
-[Configure permission for roles or groups](configure-permissions-mp.md) by selecting the **mp\_document\_admin** from the document list.
+[Configure permission for roles or groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/configure-permissions-mp.md) by selecting the **mp\_document\_admin** from the document list.
 
 Role required: mp\_document\_admin
 
@@ -36,5 +36,5 @@ Role required: mp\_document\_admin
 5.  Select **Open Cloud URL** at the top to open the document in the external cloud.
 
 
-**Parent Topic:**[Document Management integration with external content providers](../concept/integration-external-content-providers.md)
+**Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/integration-external-content-providers.md)
 

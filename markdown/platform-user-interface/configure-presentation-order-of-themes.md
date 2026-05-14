@@ -31,9 +31,9 @@ Publishing multiple themes applies to web instances only.
 
 3.  On the form, fill in the fields.
 
-    **Note:** Themes created with Theme Builder are automatically added to the UX Parent App Theme table during publishing and don’t require a new record form. To create a theme with Theme Builder see [Create a theme with Theme Builder](tb-create-theme.md).
+    **Note:** Themes created with Theme Builder are automatically added to the UX Parent App Theme table during publishing and don’t require a new record form. To create a theme with Theme Builder see [Create a theme with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-create-theme.md).
 
-    ![UX Parent App Theme record.](../image/ux-parent-app-theme-record.png)
+    ![UX Parent App Theme record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ux-parent-app-theme-record.png)
 
 <table id="table_fry_v31_ccc"><thead><tr><th>
 
@@ -89,5 +89,5 @@ Parent application that you want the theme to apply to.
     After the record has been added to the UX Parent App Themes table, you’re able to change the **Applicability**, **Order**, and **UX App** fields, as needed. If no records are listed in the table and the **glide.ui.polaris.theme.custom** value is empty, the Unified Navigation base theme is displayed.
 
 
-**Parent Topic:**[Multi-theme management](../concept/multi-theme-management.md)
+**Parent Topic:**[Multi-theme management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/multi-theme-management.md)
 

@@ -29,7 +29,7 @@ This template walks you through customizing a use case model to categorize the e
 
 2.  Select the **Email case categorization for HR** guided template.
 
-    ![PIWB Email case categorization use case model](../image/piwb-hr-email-categorization.png "Email case categorization use case")
+    ![PIWB Email case categorization use case model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/piwb-hr-email-categorization.png "Email case categorization use case")
 
 3.  Provide a unique name for your use case in the **Use case name** field.
 
@@ -89,7 +89,7 @@ This template walks you through customizing a use case model to categorize the e
 
 17. When you are ready to test your use case model, click **Test your models** .
 
-    ![PIWB model guided steps for training, testing, and integration](../image/piwb-steps.png "Guided Steps")
+    ![PIWB model guided steps for training, testing, and integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/piwb-steps.png "Guided Steps")
 
     The use case **Testing your models** page opens.
 
@@ -128,13 +128,13 @@ This template walks you through customizing a use case model to categorize the e
 
 ## Result
 
-When the configuration is complete, the solution auto-categorizes the HR service for email cases. For more information, see [Auto-case creation from an email](../concept/hr-agent-intelligence-1.md)
+When the configuration is complete, the solution auto-categorizes the HR service for email cases. For more information, see [Auto-case creation from an email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-agent-intelligence-1.md)
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

@@ -21,11 +21,11 @@ Ensure that the following prerequisites are met before approving pull requests:
 
 -   Your admin has created a pull request branch in GitHub or Bitbucket using a Multi-branch project pipeline. For more information, see [GitHub branch source](https://plugins.jenkins.io/github-branch-source/) and [Bitbucket branch source](https://plugins.jenkins.io/cloudbees-bitbucket-branch-source/).
 -   Your admin has enabled pull request creation in the ADO repository. For more information, see [https://marketplace.visualstudio.com/items?itemName=ShaykiAbramczyk.CreatePullRequest](https://marketplace.visualstudio.com/items?itemName=ShaykiAbramczyk.CreatePullRequest).
--   Your admin has configured Jenkins integration with DevOps. For more information, see [Jenkins integration with DevOps](../concept/jenkins-integration-dev-ops.md).
--   Your admin has configured GitHub integration with DevOps. For more information, see [GitHub integration with DevOps](../concept/github-integration-dev-ops.md).
--   Your admin has configured Bitbucket integration with DevOps. For more information, see [Bitbucket integration with DevOps](../concept/bitbucket-integration-dev-ops.md).
--   Your admin has configured ADO integration with DevOps. For more information, see [Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md).
--   Your admin has enabled the Change Acceleration feature of DevOps for automatic change request creation in your pipeline. For more information, see [Accelerating DevOps change](../concept/dev-ops-change-acceleration.md).
+-   Your admin has configured Jenkins integration with DevOps. For more information, see [Jenkins integration with DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/jenkins-integration-dev-ops.md).
+-   Your admin has configured GitHub integration with DevOps. For more information, see [GitHub integration with DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/github-integration-dev-ops.md).
+-   Your admin has configured Bitbucket integration with DevOps. For more information, see [Bitbucket integration with DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/bitbucket-integration-dev-ops.md).
+-   Your admin has configured ADO integration with DevOps. For more information, see [Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/azure-devops-integration-dev-ops.md).
+-   Your admin has enabled the Change Acceleration feature of DevOps for automatic change request creation in your pipeline. For more information, see [Accelerating DevOps change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/dev-ops-change-acceleration.md).
 
 Role required: sn\_devops.admin
 
@@ -102,7 +102,7 @@ Pull request tracking will be enabled for all the existing configured projects. 
 
 8.  View the pull request details by clicking the pull request number corresponding to the **Number** field.
 
-    ![Pull request details associated with a change record for a Jenkins pipeline](../image/pull-request-change-record.png)
+    ![Pull request details associated with a change record for a Jenkins pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/pull-request-change-record.png)
 
     All the pull request details \(including the details after the request is merged\) associated with the change record are displayed. Details such as Pull request ID, Commits, Origin branch, Destination branch, Raised by, Approver, Comments, PR raised time, PR approved time, PR merged/closed time are displayed. Commits from pull requests are shown in the **Commits** related list.
 
@@ -111,5 +111,5 @@ Pull request tracking will be enabled for all the existing configured projects. 
         Details of pull requests that are created in a BitBucket coding source and associated with a Jenkins pipeline are not displayed for a change request.
 
 
-**Parent Topic:**[Accelerating your DevOps change process](../concept/dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/dev-ops-change-acceleration.md)
 

@@ -17,7 +17,7 @@ The Orchestration activity designer enables a user with either the workflow\_adm
 
 Activities created by the activity designer offer the following advantages over core activities offered in previous releases:
 
--   Reuse [custom activities](../task/create-custom-activities.md) in multiple workflows.
+-   Reuse [custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../task/create-custom-activities.md) in multiple workflows.
 -   Upload and download custom activities from the ServiceNow Store.
 -   Parse data from standard input formats.
 -   Test input variables against a target host or endpoint and inspect the payload.
@@ -43,18 +43,18 @@ Orchestration activities created by the activity designer:
 
 For instructions on using activities to construct a workflow, see [Add an activity to a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/t_AddAnActivityToAWorkflow.md).
 
--   **[Introduction to credentials, connections, and aliases for Orchestration](credentials-conn-alias-orch.md#)**  
+-   **[Introduction to credentials, connections, and aliases for Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/credentials-conn-alias-orch.md#)**  
 All application integrations in Orchestration require connection information, credentials, and connection and credential aliases to their respective applications to access resources.
--   **[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)**  
+-   **[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../task/create-custom-activities.md)**  
 You can create and update different types of custom activities in the Workflow Editor using a custom template.
--   **[Orchestration custom activity templates](c_ActivityDesignerComponents.md)**  
+-   **[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_ActivityDesignerComponents.md)**  
 Orchestration provides customizable activity templates to create and manage custom activities in the Workflow Editor.
--   **[Activity scoping](c_ActivityScoping.md)**  
+-   **[Activity scoping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_ActivityScoping.md)**  
 Custom activities run in their own scope, even if it is different from that of the workflow.
--   **[Publish a custom activity](../task/t_PublishACustomActivity.md#)**  
+-   **[Publish a custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../task/t_PublishACustomActivity.md#)**  
 When a user creates a custom activity and saves or submits it, that activity appears in the **Custom** and **Packs** tabs of the designer palette, but is visible only to the user who created it.
--   **[Copy a custom activity](../task/t_CopyACustomActivity.md)**  
+-   **[Copy a custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../task/t_CopyACustomActivity.md)**  
 You can copy activities for reuse from the **Custom** tab in the global scope.
 
-**Parent Topic:**[Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../../product/orchestration/reference/r-orchestration.md)
 

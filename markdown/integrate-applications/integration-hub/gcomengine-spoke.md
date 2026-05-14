@@ -36,8 +36,8 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   Complex Object \(com.glide.cobject\)
--   [Google Persistent Disk Spoke](gpersistentdisk-spoke.md) \(sn\_gpdisk\_spoke\)
--   [Google Cloud Virtual Network Spoke](gcloudvirntwrk-spoke.md) \(sn\_gcp\_vpc\_spoke\)
+-   [Google Persistent Disk Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gpersistentdisk-spoke.md) \(sn\_gpdisk\_spoke\)
+-   [Google Cloud Virtual Network Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gcloudvirntwrk-spoke.md) \(sn\_gcp\_vpc\_spoke\)
 
 **Note:** Some of these plugins are licensable features and require an appropriate license if used outside the spoke implementation. For information on licenses, contact your account manager.
 
@@ -86,5 +86,5 @@ For more information about the required permissions, see [IAM permissions refere
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Google Compute Engine spoke](../task/setup-gcompute.md#).
+For information about setting up the spoke, see [Set up the Google Compute Engine spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-gcompute.md#).
 

@@ -32,10 +32,10 @@ You can use either of the following methods to edit a test that depends on the c
     **Note:** You can also select an existing test row and select an action to be implemented on the selected row. You can also edit the test steps at any point of time during the test creation process.
 
 
-**Parent Topic:**[Using Test generation](tg-use.md)
+**Parent Topic:**[Using Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-use.md)
 
 **Related topics**  
 
 
-[Generate a test using Test generation](../task/tg-implement.md)
+[Generate a test using Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/../task/tg-implement.md)
 

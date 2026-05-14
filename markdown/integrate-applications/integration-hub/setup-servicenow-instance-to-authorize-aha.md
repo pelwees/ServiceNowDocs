@@ -33,12 +33,12 @@ Set up your ServiceNow instance to add the Aha! Client ID and Client Secret keys
 
     -   To configure the default connection and credential alias record that is shipped along with the Aha! spoke, select **View Details**.
 
-        ![Connection for the Aha! spoke](../image/aha-spoke-tile.jpg)
+        ![Connection for the Aha! spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/aha-spoke-tile.jpg)
 
-    -   To manage more than one Aha! spoke connection records, you should create child alias record by selecting **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Aha! spoke connection records, you should create child alias record by selecting **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
-    ![Initial connection configuration](../image/aha-spoke-configure.jpg)
+    ![Initial connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/aha-spoke-configure.jpg)
 
 5.  On the form, fill in the details.
 
@@ -50,7 +50,7 @@ Set up your ServiceNow instance to add the Aha! Client ID and Client Secret keys
     |OAuth Client Secret|OAuth Client Secret key that you received while creating an OAuth2 authentication from the Aha! site.|
     |OAuth Redirect URL|ServiceNow redirect URL.|
 
-    ![Configure a connection for the Aha! spoke](../image/aha-spoke-edit-connection.jpg)
+    ![Configure a connection for the Aha! spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/aha-spoke-edit-connection.jpg)
 
 6.  Select **Save and Get OAuth Token** and then select **Authorize**.
 

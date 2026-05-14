@@ -50,10 +50,10 @@ You can resume the task when you start working on it again. The system automatic
 
 Each time you pause or resume work on the task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time Worked tab.
 
-**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-time-drop-receive.md)
 
 **Related topics**  
 
 
-[Record time worked on a Drop off task or Receive task manually](record-time-manual-drop-receive.md)
+[Record time worked on a Drop off task or Receive task manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/record-time-manual-drop-receive.md)
 

@@ -19,7 +19,7 @@ Help users navigate a knowledge base by adding the Knowledge Breadcrumbs widget.
 
 The knowledge breadcrumbs widget displays information based on where an article is located in a knowledge base. For example, if you open an article on "How to Deal with Spam," the breadcrumbs show that the article is located in the Email category of the IT knowledge base.
 
-![The Knowledge Breadcrumb widget](../image/knowledge-breadcrumb.png)
+![The Knowledge Breadcrumb widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/knowledge-breadcrumb.png)
 
 You can broaden your search of the knowledge case by selecting the titles in the breadcrumbs. For example, to see all articles in the Email category, you would select **Email**. To see all articles in the knowledge base, you would select **IT \(Knowledge Base\)**.
 
@@ -29,7 +29,7 @@ The widget also includes a search box so that you can search for an article by n
 
 Use the instance options to configure the Knowledge Breadcrumbs widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-ais-sp.md).
 
 <table id="table_jtv_wws_jnb"><thead><tr><th>
 
@@ -100,14 +100,14 @@ AI Search Source Filter
 Content that portal users can search on, including tables in your instance or external data sources. For more information, see [Defining search sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Knowledge Management widgets](km-widgets.md)
+</table>**Parent Topic:**[Knowledge Management widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

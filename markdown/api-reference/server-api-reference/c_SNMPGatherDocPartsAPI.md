@@ -17,7 +17,7 @@ The SNMPGatherDocParts script include provides methods to handle the gathering o
 
 Use this script include in a discovery script when you need to gather the parts of an SNMP response document.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SNMPGatherDocParts - gather\(String doc, Object probe\)
 

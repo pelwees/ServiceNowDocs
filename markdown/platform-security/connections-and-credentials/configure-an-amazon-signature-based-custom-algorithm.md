@@ -100,7 +100,7 @@ Script that you select from the MID Server Script Includes \[Discovery view\] ta
 
 
 </td></tr></tbody>
-</table>    ![Auth Algorithm](../image/amazon-singature-based-custom-algorithm.png)
+</table>    ![Auth Algorithm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/amazon-singature-based-custom-algorithm.png)
 
 3.  Click **Update**.
 
@@ -120,7 +120,7 @@ Script that you select from the MID Server Script Includes \[Discovery view\] ta
     -   Secret Access Key
     -   Credential alias
     -   Authentication Algorithm
-    ![AWS Credentials](../image/amazon-credentials.png)
+    ![AWS Credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/amazon-credentials.png)
 
 8.  Click **Update**.
 
@@ -144,7 +144,7 @@ Input REST step with AWS as follows:
 
 You can test the action, the associated regions are displayed. The response body is as follows:
 
-![Code Snippet sample](../image/response-body-aws.png)
+![Code Snippet sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/response-body-aws.png)
 
 Amazon V4 is defined with standard set of algorithm that supports authentication mechanism. This algorithm when used adds the signature as authorization header for authentication \(HTTP request\) using REST step.
 

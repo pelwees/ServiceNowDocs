@@ -44,5 +44,5 @@ Role required: awa\_admin or admin
 
 When you create a change request, the item is routed through the Change Request service channel and assigned to the agent in the Change Management assignment group who is available to receive the change request. When the assignee checks their agent inbox, the change request appears with the option for the agent to either reject or accept the work item.
 
-![Change work item in agent inbox](../image/ChangeWorkItem.png "Change request in an agent inbox")
+![Change work item in agent inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/ChangeWorkItem.png "Change request in an agent inbox")
 

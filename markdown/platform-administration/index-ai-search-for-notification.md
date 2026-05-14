@@ -15,7 +15,7 @@ Make content from multiple internal indexed sources searchable by performing a f
 
 ## Before you begin
 
-Your indexed sources must be active and internal \(referring to ServiceNow AI Platform tables\). To index content from indexed sources for external documents, see [Indexing and searching external content in AI Search](../../ai-search/concept/external-content-ais.md).
+Your indexed sources must be active and internal \(referring to ServiceNow AI Platform tables\). To index content from indexed sources for external documents, see [Indexing and searching external content in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../ai-search/concept/external-content-ais.md).
 
 Role required: ais\_admin
 
@@ -42,5 +42,5 @@ If an indexed source contains unindexed records, the Indexed Sources list displa
     When the task completes, the **Ingestion State** field shows **indexed**.
 
 
-**Parent Topic:**[Activate AI Search for Notifications](activate-ai-search-for-notifications-plugin.md)
+**Parent Topic:**[Activate AI Search for Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-search-for-notifications-plugin.md)
 

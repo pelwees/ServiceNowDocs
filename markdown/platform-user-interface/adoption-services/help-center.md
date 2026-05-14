@@ -21,11 +21,11 @@ Help Center is the next-generation Embedded Help product for configurable worksp
 
 <table id="table_ogr_cnc_tzb" class="nav-card"><tbody><tr><td>
 
-[![](../../../reuse/icons/brand-icons/bus-explore.svg)Exploring Help Center](exploring-help-center.md)
+[![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-explore.svg)Exploring Help Center](exploring-help-center.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Help Center](../task/using-help-center.md)
+[![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Using Help Center](../task/using-help-center.md)
 
 </td><td>
 

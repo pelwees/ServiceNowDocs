@@ -102,14 +102,14 @@ If you have not been assigned the required roles, contact your system administra
 </td></tr></tbody>
 </table>    **Note:**
 
-    Default field values set in the **sn\_cim.initiative\_copy\_attributes** property are populated in the application record form. Contact your administrator to edit this property by adding or deleting fields. For more information, see [Configure CIM integration property](configure-cim-int-property.md).
+    Default field values set in the **sn\_cim.initiative\_copy\_attributes** property are populated in the application record form. Contact your administrator to edit this property by adding or deleting fields. For more information, see [Configure CIM integration property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/configure-cim-int-property.md).
 
 4.  Select **Submit**.
 
 
 ## Result
 
-The application record is created and UI changes display on the source improvement initiative or CIM task record and corresponding application records. For more information, see [Updates after application record creation from improvement initiatives](../reference/updates-app-record-from-initiative.md).
+The application record is created and UI changes display on the source improvement initiative or CIM task record and corresponding application records. For more information, see [Updates after application record creation from improvement initiatives](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../reference/updates-app-record-from-initiative.md).
 
-**Parent Topic:**[Create an improvement request](create-cim-request.md)
+**Parent Topic:**[Create an improvement request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-cim-request.md)
 

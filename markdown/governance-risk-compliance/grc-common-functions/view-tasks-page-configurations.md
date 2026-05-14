@@ -154,5 +154,5 @@ List of the states that are applicable to the tab. These states are displayed in
 11. Click **Update** to update the task configuration record.
 
 
-**Parent Topic:**[Landing Page Configurations module](../reference/admin-config-using-grc-common.md)
+**Parent Topic:**[Landing Page Configurations module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/admin-config-using-grc-common.md)
 

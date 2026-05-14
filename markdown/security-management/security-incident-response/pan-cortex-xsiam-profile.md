@@ -80,7 +80,7 @@ Description
 Optional description of the profile.
 
 </td></tr></tbody>
-</table>    ![Create an incident profile](../image/xsiam-name.png)
+</table>    ![Create an incident profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/xsiam-name.png)
 
 4.  Select **Continue**.
 
@@ -95,5 +95,5 @@ Optional description of the profile.
 
 ## What to do next
 
-[Set Alert Sources](pan-cortex-xsiam-rules.md)
+[Set Alert Sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-cortex-xsiam-rules.md)
 

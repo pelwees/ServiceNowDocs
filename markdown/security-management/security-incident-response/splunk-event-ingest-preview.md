@@ -31,13 +31,13 @@ Preview a security incident and edit the mapping again as required to fix fields
 
 2.  Select the **Alert Name** and then select an item from the **Sample Alert IDs** list.
 
-    ![Select alert choice list expanded.](../image/214_select_ID_previewsplunk.png)
+    ![Select alert choice list expanded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/214_select_ID_previewsplunk.png)
 
     The security incident is displayed. Do not change any information in the fields. This view is a read-only view, and a record of this security incident is not saved.
 
 3.  Review the field mapping of the alert values on the security incident.
 
-    ![Error message on a security incident in the preview.](../image/214SplunkProfilePreviewPage.png)
+    ![Error message on a security incident in the preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/214SplunkProfilePreviewPage.png)
 
     The preceding image is an example of a preview with a mapping error. In this example, a field on the security incident does not exist for a value, or the field does not support the value that you mapped.
 
@@ -49,7 +49,7 @@ Preview a security incident and edit the mapping again as required to fix fields
 
     The following figure is an example of the Incident Details tab on the bottom half of a SIR security incident after all error messages are resolved. For this example, the Description and Work notes fields were mapped, and these fields are populated with the values from the value pairs pulled from the Splunk Enterprise console. The first Work notes field has no value. This field was left empty on the mapping grid during the mapping step. The additional Work Note fields that have values were added to the mapping grid during the mapping step.
 
-    ![Work note and Description fields on the security incident preview.](../image/splunk226_si-preview.png)
+    ![Work note and Description fields on the security incident preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk226_si-preview.png)
 
     **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
@@ -107,7 +107,7 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 </table>
 ## What to do next
 
-If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-schedule.md).
+If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-schedule.md).
 
-**Parent Topic:**[Create and name an event profile](splunk-event-ingest-create-profile.md)
+**Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 

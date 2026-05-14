@@ -38,5 +38,5 @@ Role required: sn\_hcls.healthcare\_agent, sn\_hcls.manager
 
 ## Result
 
-The patient record is created. You can then verify the patient to associate the patient record with the interaction. For more information, see [Associate a patient record with an interaction in Workspace](hcls-verify-patient.md).
+The patient record is created. You can then verify the patient to associate the patient record with the interaction. For more information, see [Associate a patient record with an interaction in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-verify-patient.md).
 

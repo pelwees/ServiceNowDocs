@@ -59,7 +59,7 @@ Item view JSON
 
 </td><td>
 
-The configuration code you created for the card type. For more information, see [Configure the details for the appearance of cards for a mobile campaign](../reference/mobile-campaign-card-config.md).
+The configuration code you created for the card type. For more information, see [Configure the details for the appearance of cards for a mobile campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mobile-campaign-card-config.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ UI Styles
 
 </td><td>
 
-UI styles to apply to text cards. For information about how to configure the font color and background color for text cards, see [Mobile UI styles](../concept/mobile-ui-styles.md).
+UI styles to apply to text cards. For information about how to configure the font color and background color for text cards, see [Mobile UI styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-ui-styles.md).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
@@ -91,5 +91,5 @@ UI styles to apply to text cards. For information about how to configure the fon
 
 ## Result
 
-After creating item views for each card style, you need to build and link components to display your mobile campaign. For more information, see [Configure mobile campaign components](mobile-campaign-create.md).
+After creating item views for each card style, you need to build and link components to display your mobile campaign. For more information, see [Configure mobile campaign components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-create.md).
 

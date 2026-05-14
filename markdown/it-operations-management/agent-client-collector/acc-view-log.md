@@ -36,9 +36,9 @@ Role required: agent\_client\_collector\_admin
 
     The **Agent Client Collectors** page opens.
 
-    ![Agent Client Collectors page](../image/ACC-Agent-Client-Collectors.png "Agent Client Collectors page")
+    ![Agent Client Collectors page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Agent-Client-Collectors.png "Agent Client Collectors page")
 
-    The displayed columns are those selected when clicking the Settings icon ![Settings icon](../../event-management/image/search-icon.png).
+    The displayed columns are those selected when clicking the Settings icon ![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../event-management/image/search-icon.png).
 
     The **Host** column indicates the host name of the agent.
 
@@ -57,12 +57,12 @@ Role required: agent\_client\_collector\_admin
     The **Payload** section on the **Queue** form displays the log for the Agent Client Collector.
 
 
-**Parent Topic:**[Using Agent Client Collector logs](../concept/logs-acc.md)
+**Parent Topic:**[Using Agent Client Collector logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/logs-acc.md)
 
 **Related topics**  
 
 
-[Enable log monitoring in a Linux environment](acc-enable-log-monitoring-linux.md)
+[Enable log monitoring in a Linux environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-linux.md)
 
-[Enable log monitoring in a Windows environment](acc-enable-log-monitoring-windows.md)
+[Enable log monitoring in a Windows environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-windows.md)
 

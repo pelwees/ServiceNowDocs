@@ -35,18 +35,18 @@ The Problem Management form references the following CSDM elements \(attributes 
     **Note:** You can populate the Group attribute by using the Assignment Group for the relevant CI.
 
 
-![Problem Management form with numbered fields.](../image/prob-mang-form.png "Problem form")
+![Problem Management form with numbered fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/prob-mang-form.png "Problem form")
 
--   **[Problem Management and CSDM tables](../reference/pm-use-case.md)**  
+-   **[Problem Management and CSDM tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/pm-use-case.md)**  
 Problem Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Problem Management.
--   **[Problem Management use case](pm-use-case-example.md)**  
+-   **[Problem Management use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-example.md)**  
 The Problem Management use case is described in this section.
--   **[Problem Management considerations](pm-use-case-trouble.md)**  
+-   **[Problem Management considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.
 
-**Parent Topic:**[Configuring Problem Management](configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/configuring-problem-mgmt.md)
 
-**Previous topic:**[Create a problem task model](../task/create-problem-task-model.md)
+**Previous topic:**[Create a problem task model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../task/create-problem-task-model.md)
 
-**Next topic:**[Problem Management and CSDM tables](../reference/pm-use-case.md)
+**Next topic:**[Problem Management and CSDM tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/pm-use-case.md)
 

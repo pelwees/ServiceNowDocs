@@ -27,7 +27,7 @@ If you’re using a custom portal rather than the Employee Center, you can repla
 
 2.  Search for `sn_now_teams.portal.suffix` property under Name.
 
-    ![System properties list with sn_now_teams.portal.suffix highlighted](../images/sys-properties-list.png)
+    ![System properties list with sn_now_teams.portal.suffix highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sys-properties-list.png)
 
 3.  Select **sn\_now\_teams.portal.suffix**.
 
@@ -105,10 +105,10 @@ For example: `Frame-ancestors 'self' https://teams.microsoft.com *.office.com *.
 </table>    5.  Select **Submit**.
 
 
--   **[Hide the chat button on the custom portal](disable-chat-button-teams-custom-portal.md)**  
+-   **[Hide the chat button on the custom portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-chat-button-teams-custom-portal.md)**  
 Hide the chat option for your custom portal that appears in the Employee Center tab within Microsoft Teams.
--   **[Hide the logout button on the custom portal](disable-logout-button-teams-custom-portal.md)**  
+-   **[Hide the logout button on the custom portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-logout-button-teams-custom-portal.md)**  
 You can hide the logout option for your custom portal that appears in the Employee Center tab within Microsoft Teams.
 
-**Parent Topic:**[Configuring Employee Center](../concept/employee-center-dashboard-admin.md)
+**Parent Topic:**[Configuring Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-center-dashboard-admin.md)
 

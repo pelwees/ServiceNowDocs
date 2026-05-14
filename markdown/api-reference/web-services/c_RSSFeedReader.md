@@ -21,10 +21,10 @@ Developer's guide: http://code.google.com/apis/ajaxfeeds/documentation/
 
 API: http://code.google.com/apis/ajaxfeeds/documentation/reference.html
 
--   **[Scrollable areas](../reference/r_ScrollableAreas.md)**  
+-   **[Scrollable areas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/r_ScrollableAreas.md)**  
 A scrollable area is a div where contents scroll from the bottom up over time.
--   **[RSS feed reader example](c_RSSFeedReaderExample.md)**  
+-   **[RSS feed reader example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_RSSFeedReaderExample.md)**  
 An example of how to set up an RSS feed reader using an RSS feed.
 
-**Parent Topic:**[RSS web service](../topic/p_RSS.md)
+**Parent Topic:**[RSS web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../topic/p_RSS.md)
 

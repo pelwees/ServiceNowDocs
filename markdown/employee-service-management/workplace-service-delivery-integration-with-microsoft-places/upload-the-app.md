@@ -21,7 +21,7 @@ Role required: admin
 
 Ensure to modify the manifest file \(.json file\)
 
-For more information about modifying the manifest file, refer to [Modify the manifest file](modify-the-manifest-file.md)
+For more information about modifying the manifest file, refer to [Modify the manifest file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/modify-the-manifest-file.md)
 
 ## Procedure
 

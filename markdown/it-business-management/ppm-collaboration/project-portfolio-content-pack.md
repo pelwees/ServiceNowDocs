@@ -43,12 +43,12 @@ In some solutions, System Administrator is the **Run As** user for data collecti
 
 This solution replaces the Project Portfolio Suite \(com.snc.pa.ppm\) Solution. If you activated an earlier version of the solution and then upgraded your instance, you still have and can still use the earlier solution. You can also activate the newer version without losing data from existing indicators and breakdowns. If you activate the newer version, run a historical data collection job to populate new indicators and breakdowns for the Time Sheet dashboard.
 
--   **[PMO dashboard](pmo-dashboard.md)**  
+-   **[PMO dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/pmo-dashboard.md)**  
 The PMO dashboard provides comprehensive reports to the portfolio and program managers. The dashboard uses Platform Analytics to provide a trend of historical data as well as regular reports. It gives an overview of your investments, provides a pipeline view of upcoming intake and a calendar view of upcoming dates.
--   **[Analytics Time sheet](time-sheet-dashboard.md)**  
+-   **[Analytics Time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/time-sheet-dashboard.md)**  
 The Analytics Time sheet provides comprehensive time sheet activities and reports to the time card approvers and time card users. The dashboard uses Performance Analytics to provide a trend of historical data and regular reports. It gives an overview of the time sheet activities of resources, time sheet approval and rejection rate, over-allocated and under-allocated resource counts.
 
-**Parent Topic:**[Project Portfolio Management](../../../product/project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../../product/project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
 
 **Related topics**  
 

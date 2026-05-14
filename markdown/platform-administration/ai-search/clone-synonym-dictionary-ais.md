@@ -38,5 +38,5 @@ Cloning a synonym dictionary copies the source dictionary's settings and all of 
 
 The new synonym dictionary form opens. All synonym terms defined in the source dictionary appear in the AI Search Dictionary Terms related list.
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/synonyms-ais.md)
 

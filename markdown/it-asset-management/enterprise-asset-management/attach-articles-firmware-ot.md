@@ -17,7 +17,7 @@ Attach helpful and relevant knowledge articles to the firmware model in the OT A
 
 ## Before you begin
 
-**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
@@ -41,7 +41,7 @@ Role required: sn\_otam.ot\_asset\_manager
 **Related topics**  
 
 
-[Create a knowledge article for Enterprise Asset Management](create-eam-knowledge-article.md)
+[Create a knowledge article for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-knowledge-article.md)
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 

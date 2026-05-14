@@ -35,7 +35,7 @@ To specify the breakup of resource requirements for monthly or weekly Allocation
 
 4.  On the Requested Allocation form, fill in the fields.
 
-    For a description of the field values, see [Requested Allocation form](../reference/requested-allocation-form.md).
+    For a description of the field values, see [Requested Allocation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/requested-allocation-form.md).
 
 5.  To save the record and return to the resource plan, select **Submit**.
 
@@ -46,7 +46,7 @@ If a resource is requested from September 1 to Nov 30 for 360 hours, requested a
 
 -   **Case 1: Plan duration allocation type**
 
-    For a plan duration [allocation type](t_CreateResourcePlanProjectTask.md), the following requested allocation records would be created:
+    For a plan duration [allocation type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md), the following requested allocation records would be created:
 
     |Start date|End date|Planned hours|
     |----------|--------|-------------|
@@ -69,5 +69,5 @@ If a resource is requested from September 1 to Nov 30 for 360 hours, requested a
 
 For a weekly allocation, requested allocation records created similar to monthly. Three allocation records, one for each month are created.
 
-**Parent Topic:**[Resource Management classic](../concept/c_ResourceManagement.md)
+**Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ResourceManagement.md)
 

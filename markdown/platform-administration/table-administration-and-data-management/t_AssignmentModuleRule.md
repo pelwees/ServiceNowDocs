@@ -139,24 +139,24 @@ The order in which the assignment rule is processed. If assignment rules conflic
 
 In this example, the condition statement automatically assigns any incident opened in the Network category to the system administrator in the Network assignment group.
 
-![Applies To](../image/Assignment.png "Applies To")
+![Applies To](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/Assignment.png "Applies To")
 
-![Assign To](../image/assignment-assign-to.png "Assign To")
+![Assign To](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/assignment-assign-to.png "Assign To")
 
-**Parent Topic:**[Defining assignment rules](../concept/c_DefineAssignmentRules.md)
+**Parent Topic:**[Defining assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Assignment rules module](../concept/c_AssignmentRulesModule.md)
+[Assignment rules module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_AssignmentRulesModule.md)
 
-[Data lookup rules](../concept/c_DataLookupRules.md)
+[Data lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DataLookupRules.md)
 
-[Precedence between data lookup, assignment, and business rules](../concept/c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](../concept/c_WorkflowAssignments.md)
+[Workflow assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment data lookup rule](t_DataLookupRule.md)
+[Create an assignment data lookup rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_DataLookupRule.md)
 

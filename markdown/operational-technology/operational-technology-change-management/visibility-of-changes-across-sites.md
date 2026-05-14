@@ -57,5 +57,5 @@ The following OT change request lists are available in the Lists module on the I
 -   Belong to my sites: View and edit the change records that belong to your sites by navigating to **OT Change Requests** &gt; **Belong to my sites**.
 -   View the existing change records at different sites by navigating to **OT Change Requests** &gt; **All**.
 
-**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 

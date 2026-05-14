@@ -19,7 +19,7 @@ The Assets page shows a list of all available assets for the Discovery Console f
 
 The Assets page shows all assets that were automatically discovered along with all assets that were manually added to the system. To view the assets list, use the navigational menu on the left side of the screen and select **Assets &gt; Assets**.
 
-![Assets page](../../msi-console/image/asset-page.png)
+![Assets page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/asset-page.png)
 
 You can add assets with the following methods.
 
@@ -41,7 +41,7 @@ Views
 
 In the top right area above the Assets list, there are different icons that control how the Assets are viewed.
 
-![Asset views](../../msi-console/image/3-asset-views.png)
+![Asset views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/3-asset-views.png)
 
 The views are:
 
@@ -287,11 +287,11 @@ The Installed Software section includes a list of all software installed on the 
 
 1.  Select the **Edit** button.
 
-    ![Select the Edit button](../../msi-console/image/edit-button-msi-console.png)
+    ![Select the Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/edit-button-msi-console.png)
 
 2.  Scroll to the Installed Software section and select **Add Software**.
 
-    ![Add Software](../../msi-console/image/add-software-msi-console.png)
+    ![Add Software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/add-software-msi-console.png)
 
 3.  In the Add Software modal window, enter the **Vendor**, **Product**, and **Version** \(optional\) of the software being added.
 4.  Select **Save**.
@@ -305,7 +305,7 @@ The Attributes section contains the attributes discovered by the Discovery proce
 1.  Select the **Edit** button.
 2.  Scroll to the Attributes section and select **Add Attribute**.
 
-    ![Add attribute](../../msi-console/image/add-attr-msi-console.png)
+    ![Add attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/add-attr-msi-console.png)
 
 3.  In the Attribute modal window, enter the **Name** and **Value** of the attribute.
 4.  Select **Add Attribute**.
@@ -315,7 +315,7 @@ The Attributes section contains the attributes discovered by the Discovery proce
 
 The detected MAC Addresses section includes a list of all the MAC addresses that are associated with a given asset. The Real Address toggle is used to indicate that a MAC address belongs to an asset and should be considered the primary or main MAC address. Each detected MAC address in the list includes the **Vendor Name**, **Vendor Address**, **First Detected On**, and **Last Detected On** fields.
 
-![MAC address](../images/vender-mac-address.png)
+![MAC address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/vender-mac-address.png)
 
 To add a MAC address, complete the following actions.
 
@@ -332,7 +332,7 @@ The Comments section provides an area to enter additional information about the 
 1.  Select the **Edit** button.
 2.  Scroll to the Comments section and select **Add Comment**.
 
-    ![Add comment](../../msi-console/image/add-comment-msi-console.png)
+    ![Add comment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/add-comment-msi-console.png)
 
 3.  In the Add Comment modal window, enter a comment.
 4.  Select **Save**.

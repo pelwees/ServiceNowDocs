@@ -25,7 +25,7 @@ Role required: sn\_hr\_core.case\_writer
 
 2.  Locate and display an HR case.
 
-    If the HR case is configured to show a special handling note, it appears as a pop-up.![HR Agent Workspace - Special handling note](../image/agent-ws-hr-spec-hand-pop-up.png)
+    If the HR case is configured to show a special handling note, it appears as a pop-up.![HR Agent Workspace - Special handling note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-spec-hand-pop-up.png)
 
 3.  Read the note and select **Dismiss**.
 

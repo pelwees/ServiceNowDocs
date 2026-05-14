@@ -19,13 +19,13 @@ Labels help categorize tasks and visually distinguish them on the task board.
 
 Role required: none
 
-[Enable](t_ConfigureLabels.md) labels for the board.
+[Enable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureLabels.md) labels for the board.
 
 ## About this task
 
 You can filter the visible tasks to show only those with certain labels. Labels appear on cards as colored dots.
 
-![Task card labels](../image/TaskCardLabels.png "Task card labels")
+![Task card labels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/TaskCardLabels.png "Task card labels")
 
 You can add one or more labels to a task card.
 
@@ -50,7 +50,7 @@ You can add one or more labels to a task card.
 </td><td>
 
 1.  Open the card details for a task.
-2.  Click the details tab \(![Details tab](../image/DetailsTab.png)\).
+2.  Click the details tab \(![Details tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/DetailsTab.png)\).
 3.  Under **Labels**, select one or more labels. Point to a label to display its name.
 4.  Close the card detail pop-up window.
 
@@ -59,7 +59,7 @@ You can add one or more labels to a task card.
 </table>
 ## What to do next
 
-You can use configuration options to [rename or disable](t_ConfigureLabels.md) labels or to [hide](t_ConfigureTheTaskBoard.md#table_i5s_xfv_1r) labels altogether.
+You can use configuration options to [rename or disable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureLabels.md) labels or to [hide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureTheTaskBoard.md#table_i5s_xfv_1r) labels altogether.
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

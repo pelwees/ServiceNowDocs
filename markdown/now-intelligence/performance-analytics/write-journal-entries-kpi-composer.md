@@ -16,7 +16,7 @@ breadcrumb: [KPI Composer projects, Design your indicator solution, Configure fu
 Keep track of your KPI Composer project with journal entries
 
 Prerequisites
-:   [Create a KPI Composer project](create-kpi-composer-project.md)
+:   [Create a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-kpi-composer-project.md)
 
 ## Before you begin
 
@@ -35,11 +35,11 @@ Role required: Anyone with access to a KPI Composer project, including view acce
 
 All posted journal entries appear in descending chronological order.
 
-![KPI Composer journal entries](../image/kpi-composer-journal-entry.png)
+![KPI Composer journal entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-composer-journal-entry.png)
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Previous topic:**[Group data by breakdown definitions](add-breakdowns-project.md#)
+**Previous topic:**[Group data by breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-breakdowns-project.md#)
 
-**Next topic:**[Share a KPI Composer project](share-a-kpi-composer-project.md)
+**Next topic:**[Share a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/share-a-kpi-composer-project.md)
 

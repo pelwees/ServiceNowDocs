@@ -18,7 +18,7 @@ The health page shows the state of the Now LLM and AI Search, along with the sta
 
 Navigate to **All** &gt; **Query Generation** &gt; **Health page** to see the state of Query Generation dependencies. Role required: sn\_query\_generation.admin or higher
 
-![Health page showing Query Generation dependencies.](../image/querygen-health-page.png)
+![Health page showing Query Generation dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/querygen-health-page.png)
 
 ## Guide to sections
 
@@ -56,7 +56,7 @@ The state of Query Generation skills and the LLMs they use. Also the state of AI
 
 </td><td>
 
-For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [Query Generation skills](../task/enable-query-generation.md). If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
+For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/enable-query-generation.md). If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
 
 </td></tr><tr><td>
 
@@ -107,5 +107,5 @@ The state of relevant system properties that can be modified by an administrator
 Navigate to the Properties \[sys\_properties\] table and change the value of the property in question. Update only the required properties that start with sn\_query\_gen. \*\*
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tuning the semantic layer](../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
+</table>**Parent Topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
 

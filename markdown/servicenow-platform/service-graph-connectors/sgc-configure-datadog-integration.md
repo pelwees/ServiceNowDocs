@@ -21,8 +21,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
@@ -32,7 +32,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## Procedure
 
@@ -89,7 +89,7 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
         |Field|Description|
         |-----|-----------|
         |Name|Name of the Datadog webhook.|
-        |Connection Alias|Search for and select the connection and credential alias that you created in step [3](sgc-configure-datadog-integration.md#datadog-alias).|
+        |Connection Alias|Search for and select the connection and credential alias that you created in step [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-configure-datadog-integration.md#datadog-alias).|
 
     5.  Select **Submit**.
 
@@ -101,7 +101,7 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
     8.  On the Datadog Monitors page, select the **Webhook Active** check box, and then select **Update**.
 
-    9.  Repeat steps [4.g](sgc-configure-datadog-integration.md#substep-datadog-monitor1) and [4.h](sgc-configure-datadog-integration.md#substep-datadog-monitor2) for all the monitors in the Datadog Webhooks list.
+    9.  Repeat steps [4.g](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-configure-datadog-integration.md#substep-datadog-monitor1) and [4.h](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-configure-datadog-integration.md#substep-datadog-monitor2) for all the monitors in the Datadog Webhooks list.
 
     10. On the Datadog Webhook page, select **Update** to save your changes.
 
@@ -123,9 +123,9 @@ Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 **Related topics**  
 
 
-[Service Graph Connector for Observability - Datadog](../concept/sgc-cmdb-integration-datadog.md)
+[Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-cmdb-integration-datadog.md)
 
-[CMDB classes targeted in Service Graph Connector for Observability - Datadog](../reference/sgc-cmdb-datadog-classes.md)
+[CMDB classes targeted in Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-datadog-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Observability - Datadog](../concept/sgc-datadog-conn.md#)
+[Accessing the connection details of Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-datadog-conn.md#)
 

@@ -15,9 +15,9 @@ Learn how to write data to a third-party application such as Salesforce by using
 
 ## Prerequisites
 
-This article assumes that you have a CPQ environment that is integrated to a corresponding Salesforce environment. Before you continue, see [Installing the Salesforce Transaction Manager Integration Package extension](installing-the-salesforce-transaction-manager-integration-package-extension.md) to complete the necessary integrations.
+This article assumes that you have a CPQ environment that is integrated to a corresponding Salesforce environment. Before you continue, see [Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md) to complete the necessary integrations.
 
-When the end user initiates a function that writes CPQ data back to the corresponding Salesforce transaction record, CPQ must have the Salesforce transaction’s record identifier on hand. To understand how to retrieve the Salesforce transaction ID and save it into CPQ for future use, see [Transaction Manager: Integration - GET](transaction-manager-integration-get.md).
+When the end user initiates a function that writes CPQ data back to the corresponding Salesforce transaction record, CPQ must have the Salesforce transaction’s record identifier on hand. To understand how to retrieve the Salesforce transaction ID and save it into CPQ for future use, see [Transaction Manager: Integration - GET](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-get.md).
 
 ## Salesforce setup
 
@@ -90,19 +90,19 @@ return result;
 
 The rule should be configured as follows, with two determination actions to handle **txn.line.custom.lineReferenceId** and **txn.line.custom.parentLineReferenceId**:
 
-![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-rules-1.png)
+![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-rules-1.png)
 
-![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-rules-2.png)
+![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-rules-2.png)
 
 Add Connection
 
 The screenshot below shows the external connection as “Salesforce” in the POST integration.
 
-If you want to create a new connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](transaction-manager-integrations.md).
+If you want to create a new connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations.md).
 
-![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-add-connection.png)
+![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-add-connection.png)
 
-To POST data back to Salesforce, you need the Salesforce transaction record ID. If you have not yet set up the GET integration to fetch the transaction ID, see [Transaction Manager: Integration - GET](transaction-manager-integration-get.md).
+To POST data back to Salesforce, you need the Salesforce transaction record ID. If you have not yet set up the GET integration to fetch the transaction ID, see [Transaction Manager: Integration - GET](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-get.md).
 
 ## Add integration
 
@@ -112,7 +112,7 @@ To POST data back to Salesforce, you need the Salesforce transaction record ID. 
     -   Line Item Details to Include: Selected Lines
     -   Connection: Salesforce
 
-        ![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-add-1.png)
+        ![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-add-1.png)
 
 2.  In the Request Transformation section, add this sample transaction JSON \(header and line-level fields may vary according to your preference\):
 
@@ -160,9 +160,9 @@ To POST data back to Salesforce, you need the Salesforce transaction record ID. 
 
 This transformation template is added to the Transformation Template area of the Request Transformation section as follows:
 
-![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-add-2.png)
+![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-add-2.png)
 
-For more information about Handlebar syntax, see [Transaction Manager: Integrations - Handlebars syntax](transaction-manager-integrations-handlebar-syntax.md).
+For more information about Handlebar syntax, see [Transaction Manager: Integrations - Handlebars syntax](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations-handlebar-syntax.md).
 
 ## Debugging the POST call
 
@@ -170,21 +170,21 @@ To use the Integration Admin interface to debug a POST call that is not working 
 
 1.  Copy the transaction ID for which the integration is not working, paste it in the small Transaction ID box, and then click **Fetch JSON**.
 
-    ![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-debug-1.png)
+    ![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-debug-1.png)
 
     The application populates the Sample Transaction JSON box.
 
-    ![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-debug-2.png)
+    ![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-debug-2.png)
 
 2.  Click **Run Transformation**. This processes the transaction information contained in the Sample Transaction JSON input through the transformation logic and generates a result that you can test using Postman.
 
     For more information about setting up Postman to interface with your Salesforce org, see [Connect Postman to Salesforce](https://quickstarts.postman.com/guide/connect-postman-to-salesforce/index.html).
 
-    ![Transaction Manager Setup](../images/cpq-txn-mgr-integration-post-debug-3.png)
+    ![Transaction Manager Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-post-debug-3.png)
 
 
 **Related topics**  
 
 
-[Transaction Manager: Integration - GET](transaction-manager-integration-get.md)
+[Transaction Manager: Integration - GET](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-get.md)
 

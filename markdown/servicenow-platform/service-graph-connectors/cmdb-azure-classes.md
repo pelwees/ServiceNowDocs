@@ -622,7 +622,7 @@ The following attributes in the Windows Server \[cmdb\_ci\_win\_server\] table a
 
 ## Related content
 
-[Data mapping for Service Graph Connector for Microsoft Azure](cmdb-data-mapping-azure.md)
+[Data mapping for Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-data-mapping-azure.md)
 
-[Service Graph Connector for Microsoft Azure properties](cmdb-sgc-azure-props.md)
+[Service Graph Connector for Microsoft Azure properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-azure-props.md)
 

@@ -41,5 +41,5 @@ The widget is updated in the Visualization Library and can be used when creating
 -   You can create or update widgets in the Findings view, but not in the Remediation overview page. Widgets in the Remediation overview are predefined and can’t be created or edited. You can only change their display order or activate or deactivate them.
 -   Only the widgets marked **Active** = true appear for selection while creating a dashboard in the finding view.
 
-**Parent Topic:**[Configure Visualization library](sem-configure-visualization-library.md)
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 

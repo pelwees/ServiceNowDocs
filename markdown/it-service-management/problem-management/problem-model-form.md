@@ -25,5 +25,5 @@ Description of the field values for the problem task model form.
 |Read Roles|Option to define the roles to view the problem model.|
 |Write Roles|Option to define the roles to edit the problem model.|
 
-**Parent Topic:**[Reference section for Problem Management](../concept/reference-section-for-problem-management.md)
+**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/reference-section-for-problem-management.md)
 

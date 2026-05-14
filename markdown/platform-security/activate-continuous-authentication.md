@@ -39,9 +39,9 @@ You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_
 **Related topics**  
 
 
-[Pre-work for Continuous Authentication](../concept/pre-work-ca.md)
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/pre-work-ca.md)
 
-[Configuring Continuous Authentication](configure-ca.md)
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configure-ca.md)
 
-[High Assurance session with Continuous Authentication](../concept/high-assurance-ca.md)
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/high-assurance-ca.md)
 

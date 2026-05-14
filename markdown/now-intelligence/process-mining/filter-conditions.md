@@ -37,7 +37,7 @@ Setting filters is an optional task for project creation.
 
     **Tip:** Select **Advanced view** on the top-right corner if you want to edit the project in the Classic view.
 
-    ![Filter conditions](../image/filter-cond.png)
+    ![Filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/filter-cond.png)
 
 5.  Fill the form with details.
 
@@ -102,5 +102,5 @@ You can provide only 2 steps here.
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 

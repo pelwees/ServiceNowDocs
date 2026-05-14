@@ -25,7 +25,7 @@ Role required: cdm\_viewer, cdm\_editor, or cdm\_admin
 
 You can compare and contrast snapshots from any deployable of the same or different applications.
 
-To see the changes between two snapshots from the same deployables, see [Compare two snapshots of a deployable](cdm-cda-snapshots-compare-changes.md).
+To see the changes between two snapshots from the same deployables, see [Compare two snapshots of a deployable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-cda-snapshots-compare-changes.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ To see the changes between two snapshots from the same deployables, see [Compare
 
     The **Compare config data** tab opens. The current application is the target application, and its name is pre-populated in the **Target application**.
 
-    ![Compare config data tab for comparing application snapshots.](../image/cdm-snapshot-compare.png)
+    ![Compare config data tab for comparing application snapshots.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-compare.png)
 
 2.  Select the **Snapshot** option in the **Compare type** field.
 
@@ -57,7 +57,7 @@ To see the changes between two snapshots from the same deployables, see [Compare
 
     The letters in the following illustration identify the tools that you can use to analyze the data.
 
-    ![Tools in the Config data differences section.](../image/cdm-snapshot-compare-result.png)
+    ![Tools in the Config data differences section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-compare-result.png)
 
     -   **A: Navigation panel**
 
@@ -73,7 +73,7 @@ To see the changes between two snapshots from the same deployables, see [Compare
 
         -   By default, the root node is selected and the data panel includes all CDIs for both changesets. Select a node in the navigation panel to display data for only that node and its descendents.
         -   When **Diff only** is selected, the number of CDIs that differ appears after the node path.
-        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](../image/cdm-icon-expand.png)\) to view CDIs in a folder.
+        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-expand.png)\) to view CDIs in a folder.
 <table id="table_znm_bcc_yvb"><thead><tr><th>
 
 Column
@@ -99,7 +99,7 @@ Description
 
 </td><td>
 
-Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for a variable differ between the changesets. See [Types of differences between CDM applications](../reference/cdm-cda-diff-types.md) for the full list of difference types and their causes.
+Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for a variable differ between the changesets. See [Types of differences between CDM applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-cda-diff-types.md) for the full list of difference types and their causes.
 
 </td></tr><tr><td>
 

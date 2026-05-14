@@ -17,7 +17,7 @@ Create and configure an app for Meeting Extensions in Microsoft Teams Developer 
 
 ## Before you begin
 
-Ensure you have installed Notify connector and other required plugins on your ServiceNow® instance. For more information, see [Install Meeting Extensions for Microsoft Teams](install-meeting-ext-ms-teams.md).
+Ensure you have installed Notify connector and other required plugins on your ServiceNow® instance. For more information, see [Install Meeting Extensions for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-meeting-ext-ms-teams.md).
 
 Role required: Microsoft Teams admin
 
@@ -187,7 +187,7 @@ Option to allow users to reconfigure the Meeting Extensions app.
 
 5.  Go to **Single sign-on** and enter the Application ID URI in the format `api://<instance_name>.service-now.com/<client ID in Microsoft Azure>`.
 
-    For information about the Client ID, see [Create an app in Microsoft Teams to enable making calls](../../notify2/task/create-app-ms-teams.md).
+    For information about the Client ID, see [Create an app in Microsoft Teams to enable making calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../notify2/task/create-app-ms-teams.md).
 
 6.  Add a domain.
 
@@ -200,7 +200,7 @@ Option to allow users to reconfigure the Meeting Extensions app.
 
 ## What to do next
 
-[Upload the app manifest in Microsoft Teams](upload-app-manifest-ms-teams.md).
+[Upload the app manifest in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-app-manifest-ms-teams.md).
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-single-tenant.md)
 

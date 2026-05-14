@@ -36,16 +36,16 @@ You can also use the Virtual agent chat support on the Workplace Service Portal 
 
 Once you submit the registration, the reception staff receives the registration in the application. When visitors are at the premises, the reception staff checks in the visitors, prints their badges, updates their breaks, and updates their other statuses during the day.
 
-For more information about how you can register a visitor, see [Make a visitor registration](../task/register-a-guest.md).
+For more information about how you can register a visitor, see [Make a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/register-a-guest.md).
 
-**Parent Topic:**[Exploring Workplace Visitor Management](workplace-visitor-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Host portal](host-portal.md)
+[Host portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/host-portal.md)
 
-[Receptionist portal](receptionist-portal.md)
+[Receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/receptionist-portal.md)
 
-[Visitor portal](visitor-portal.md)
+[Visitor portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/visitor-portal.md)
 

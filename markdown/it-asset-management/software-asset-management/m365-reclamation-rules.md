@@ -99,16 +99,16 @@ For example, if Office 365 Enterprise E5, Windows, and EMS subscriptions exist, 
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/add-reclamation-rule-sub.md)
 
-[Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md)
+[Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/o365-usage-activity.md)
 
-[Publisher optimizations for Microsoft](pub-opt-microsoft.md)
+[Publisher optimizations for Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-microsoft.md)
 
-[Integrating with Microsoft 365](../concept/integrate-with-microsoft.md)
+[Integrating with Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-microsoft.md)
 

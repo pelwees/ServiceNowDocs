@@ -16,7 +16,7 @@ Employee Slate helps you create, publish, and manage employee communications in 
 
 Announcements give communication teams a controlled channel for highlighting important content on the Employee Slate home page. Examples include a new policy, a required action, a seasonal announcement, or a featured knowledge article. Announcements appear in the Employee Comms widget as a carousel. Content managers can also promote them to supported chat channels.
 
-![Create employee communication and engagement](../images/es-employee-comms.png "Employee communications")
+![Create employee communication and engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-employee-comms.png "Employee communications")
 
 ## Employee Comms widget
 
@@ -38,7 +38,7 @@ The content library allows filtering, sorting, and viewing announcements in grid
 
 **Note:** Content Library/Editor are only available in desktop resolution,
 
-![Create employee communication and engagement](../images/es-content-library.png "Employee communications")
+![Create employee communication and engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-content-library.png "Employee communications")
 
 ## Content priority and freshness
 
@@ -49,11 +49,11 @@ For example, a critical announcement that is 20 days old might appear after a hi
 **Related topics**  
 
 
-[Create an Employee Slate announcement](../task/eslate-create-announcement.md)
+[Create an Employee Slate announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/eslate-create-announcement.md)
 
-[Conversational authoring for announcements](eslate-conversational-authoring-announcements.md)
+[Conversational authoring for announcements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-conversational-authoring-announcements.md)
 
-[Create an announcement using chat](../task/eslate-create-announcement-with-now-assist.md)
+[Create an announcement using chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/eslate-create-announcement-with-now-assist.md)
 
-[Employee Slate announcement form](../reference/eslate-employee-slate-announcement-fields.md)
+[Employee Slate announcement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/eslate-employee-slate-announcement-fields.md)
 

@@ -21,36 +21,36 @@ We begin by opening a Transaction Manager transaction in Salesforce. Then, by cl
 
 In the buyside transaction UI, click **Get SF Data**.
 
-![Get SF Data](../images/cpq-txn-mgr-integration-get-1.png)
+![Get SF Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-1.png)
 
 Notice that the details are all populated.
 
-![Transaction stages](../images/cpq-txn-mgr-integration-get-2.png)
+![Transaction stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-2.png)
 
-![Get SF Data](../images/cpq-txn-mgr-integration-get-3.png)
+![Get SF Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-3.png)
 
 The rest of this article lists the steps in CPQ to create the integrations that get the data from Salesforce.
 
 ## Administration setup: Prerequisites
 
-This guide assumes a CPQ environment with Transaction Manager features enabled, as well as installation of the Logik Transaction Manager Integration Extension on a corresponding Salesforce environment. To view the installation instructions, see [Installing the Salesforce Transaction Manager Integration Package extension](installing-the-salesforce-transaction-manager-integration-package-extension.md).
+This guide assumes a CPQ environment with Transaction Manager features enabled, as well as installation of the Logik Transaction Manager Integration Extension on a corresponding Salesforce environment. To view the installation instructions, see [Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md).
 
 ## CPQ: Add a connection
 
 A connection record contains the data required to initiate a Transaction Manager Integration. This includes authentication details, host URL, path, and headers. To view a connection record, in CPQ Admin, go to **Utilities**, and then click **Connections**.
 
-![Add a Connection](../images/cpq-txn-mgr-integration-get-add-connection.png)
+![Add a Connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-add-connection.png)
 
-For information about adding a connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](transaction-manager-integrations.md). For the purposes of this article, we use a connection to a Salesforce environment.
+For information about adding a connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations.md). For the purposes of this article, we use a connection to a Salesforce environment.
 
 ## CPQ: Add the integration
 
 1.  Open CPQ Admin and go to the Integrations section.
 2.  Click **Add Integration**. Create a new integration using any suitable name. In this example, we use the name "Get Oppty Id".
 
-    ![Add Integration](../images/cpq-txn-mgr-integration-get-add-opp-1.png)
+    ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-add-opp-1.png)
 
-    ![Add Integration](../images/cpq-txn-mgr-integration-get-add-opp-2.png)
+    ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-add-opp-2.png)
 
     The integration details page shown above includes the following sections:
 
@@ -72,14 +72,14 @@ For information about adding a connection, see the "Creating a Connection" secti
 
     -   Line Item Details to Include: Selected Lines
     -   Timeout: 2000 ms
-    ![Add Integration](../images/cpq-txn-mgr-integration-get-add-opp-3.png)
+    ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-add-opp-3.png)
 
     Click **Next**.
 
 -   Request Transformation: Not required when we are building a GET Integration.
 -   Connection to Endpoint: For this example, we are querying **Salesforce**. If you are setting up an integration with another system, select the appropriate connection.
 
-    ![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-4.png)
+    ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-4.png)
 
     Click **Next**.
 
@@ -107,7 +107,7 @@ Create another integration to get additional details through **txn.opportunity.i
 
 Now that we have the opportunity ID, the next step in the integration involves using it as a reference to retrieve additional details from the opportunity and to populate the relevant LGK transaction fields.
 
-![Admin transaction](../images/cpq-txn-mgr-integration-get-retrieve-opp-1.png)
+![Admin transaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-1.png)
 
 -   Integration settings:
 
@@ -118,12 +118,12 @@ Now that we have the opportunity ID, the next step in the integration involves u
 
         To get the field details from Salesforce, click **Setup** &gt; **Object Manager** &gt; **Opportunity** &gt; **Fields &amp; Relationships**.
 
-        ![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-2.png)
+        ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-2.png)
 
     -   Line Item Details to Include: Selected Lines
     -   Timeout: 2000 ms
 
-        ![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-3.png)
+        ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-3.png)
 
     Click **Next**.
 
@@ -132,7 +132,7 @@ Now that we have the opportunity ID, the next step in the integration involves u
 
     Select **Connection to Endpoint**. For this example, we are querying Salesforce. If you are setting up an integration with another system, select the appropriate connection.
 
-    ![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-4.png)
+    ![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-4.png)
 
     Click **Next**.
 
@@ -174,33 +174,33 @@ Now that we have the opportunity ID, the next step in the integration involves u
 
 Trigger the integration when the end user clicks a button. You can now click **Events** to create a new event or to select an existing one. In this case, we use the Get SF Data event \(a button in the UI\) to connect to the integrations we previously created.
 
-![Admin transaction](../images/cpq-txn-mgr-integration-get-retrieve-opp-5.png)
+![Admin transaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-5.png)
 
 Click **Add New Action**.
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-6.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-6.png)
 
 Click **Integrations**.
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-7.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-7.png)
 
 Search for and add the "Get Oppty Id" integration.
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-8.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-8.png)
 
 Click **Save**. Then, click **Add New Action** and add "retrieveSFOptyData".
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-9.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-9.png)
 
 Click the up and down arrows next to the action items to arrange them in the desired order. \(Here, we are selecting "Get Oppty Id", followed by "Retrieve SF Opty Data", to fetch the opportunity ID and retrieve relevant data.\)
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-10.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-10.png)
 
 Click **Save**, and deploy the changes.
 
 We have discussed how integrations can be added with events. Integrations can also be configured at the stage level. To do so, navigate to **Stages** &gt; **Edit Settings** &gt; **Add New Action** &gt; **Integration**.
 
-![Add Integration](../images/cpq-txn-mgr-integration-get-retrieve-opp-11.png)
+![Add Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-get-retrieve-opp-11.png)
 
 ## Troubleshooting
 
@@ -216,5 +216,5 @@ By following this order, you can maintain the integrity of the integration and e
 **Related topics**  
 
 
-[Transaction Manager: Integration - POST](transaction-manager-integration-post.md)
+[Transaction Manager: Integration - POST](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-post.md)
 

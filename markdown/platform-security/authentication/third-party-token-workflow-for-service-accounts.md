@@ -25,11 +25,11 @@ When a third-party application authenticates using a token from an external iden
 
 Create a corresponding `sys_user` account in ServiceNow for your service account. The value of the claim configured during the initial setup in the token issued by your Idp is mapped to the user field specified. This account represents the service identity in ServiceNow. You can restrict this account to API access only, and assign the necessary permissions by adding the appropriate roles and groups.
 
-![Service Account Workflow](../images/mic-third-party-token-service-account.png "Service Account Workflow")
+![Service Account Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mic-third-party-token-service-account.png "Service Account Workflow")
 
 ## Procedure
 
-1.  Follow the [Third party token workflow for user accounts](third-party-token-worflow-for-user-accounts.md) to create a user account.
+1.  Follow the [Third party token workflow for user accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/third-party-token-worflow-for-user-accounts.md) to create a user account.
 
 2.  Create a `sys-user` account in ServiceNow to represent your service account identity.
 

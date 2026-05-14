@@ -17,7 +17,7 @@ The processing activity overview page provides the privacy risk and compliance p
 
 The vertical layout of a processing activity provides a structured, top-down view that presents information in a clear and sequential manner. This design facilitates an intuitive understanding of the data processing lifecycle by visually representing each step of the workflow in a linear progression. You can easily trace the flow of information from initiation through to completion, enabling better insight into how personal data is collected, used, shared, and retained. This layout supports streamlined navigation and improves the ability to identify key elements and dependencies within the processing activity, enhancing both usability and compliance oversight.
 
-![Overview of the reports on a processing activity in Privacy management.](../image/processing-activity-prm-hr-onboarding-sample.png "Processing activity overview page")
+![Overview of the reports on a processing activity in Privacy management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/processing-activity-prm-hr-onboarding-sample.png "Processing activity overview page")
 
 ## Required roles
 
@@ -66,5 +66,5 @@ The processing activity overview page is organized into six sections.
 |Attestations|Number of attestations that are open, overdue, and due in 7 days.|
 |Indicators|Number of indicators that are open, overdue, and failed in the last 6 months.|
 
-**Parent Topic:**[Reporting for Privacy Management](reporting-prm.md)
+**Parent Topic:**[Reporting for Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reporting-prm.md)
 

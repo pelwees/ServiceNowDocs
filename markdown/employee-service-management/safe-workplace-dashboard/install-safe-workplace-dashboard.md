@@ -27,7 +27,7 @@ Use the default setting **active=false** to avoid incorrect mappings in the Camp
 
 Run this script after activating the Safe Workplace Dashboard \(sn\_imt\_dashboard\) plugin and ensuring that your existing campuses have sites and regions populated.
 
-After running the Map existing campus with locations fix script, validate that all campuses and locations are accurate. For inaccurate data, remove entries and see [Manually map a location and campus](man-create-campus.md) for more information.
+After running the Map existing campus with locations fix script, validate that all campuses and locations are accurate. For inaccurate data, remove entries and see [Manually map a location and campus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/man-create-campus.md) for more information.
 
 Role required: admin
 
@@ -119,7 +119,7 @@ If you've subscribed to the Safe Workplace suite and you already have some of th
 7.  When the installation is complete, click **Close**.
 
 
-**Parent Topic:**[Safe Workplace Dashboard](../concept/safe-workplace-dashboard.md)
+**Parent Topic:**[Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../concept/safe-workplace-dashboard.md)
 
 ## Components installed with the Safe Workplace Dashboard
 

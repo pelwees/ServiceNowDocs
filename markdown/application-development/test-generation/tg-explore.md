@@ -19,7 +19,7 @@ Starting with the Australia release, Test generation is being prepared for futur
 
 Follow the gif to create tests from natural language leveraging AI power.
 
-![Gif showing the working of Test generation](../image/tg-gif.gif)
+![Gif showing the working of Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/../image/tg-gif.gif)
 
 ## Test generation overview
 
@@ -47,15 +47,15 @@ Test generation has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate test generation|[Generate a test using Test generation](../task/tg-implement.md)|System Administrator and Creator Pro|
-|Edit a generated test after the preview|[Edit a generated test using Test generation](tg-edit-test.md)|System Administrator and Creator Pro|
+|Automate test generation|[Generate a test using Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/../task/tg-implement.md)|System Administrator and Creator Pro|
+|Edit a generated test after the preview|[Edit a generated test using Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-edit-test.md)|System Administrator and Creator Pro|
 
 ## What to explore next
 
 To learn more about using Test generation, see:
 
--   [Using Test generation](tg-use.md)
--   [Test generation references](tg-reference.md)
+-   [Using Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-use.md)
+-   [Test generation references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-reference.md)
 
-**Parent Topic:**[Test generation](test-generation-intro.md)
+**Parent Topic:**[Test generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/test-generation-intro.md)
 

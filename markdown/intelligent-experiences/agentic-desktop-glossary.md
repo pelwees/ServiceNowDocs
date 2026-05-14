@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
 
 Learn about the terms and concepts that are unique to AI Desktop Actions.
 
-**Parent Topic:**[AI Desktop Actions reference](agentic-desktop-reference.md)
+**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 
 ## A
 

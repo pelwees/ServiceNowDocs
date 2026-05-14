@@ -46,9 +46,9 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## What to do next
 
-If a test case has failed, you can create a defect for this test case from the failed test by clicking the **Report Defect** related link. For more information, see [Report a defect from a failed test](t_ReportADefectFromAFailedTest.md).
+If a test case has failed, you can create a defect for this test case from the failed test by clicking the **Report Defect** related link. For more information, see [Report a defect from a failed test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_ReportADefectFromAFailedTest.md).
 
-You can link an existing defect to the test case by clicking the **Assign Defect** related link. For more information, see [Assign a defect to a test case](t_AssignADefectToATestCase.md).
+You can link an existing defect to the test case by clicking the **Assign Defect** related link. For more information, see [Assign a defect to a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_AssignADefectToATestCase.md).
 
 The reported and assigned defects are listed in the Defects for Test Case related list.
 

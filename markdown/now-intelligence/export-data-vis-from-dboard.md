@@ -39,7 +39,7 @@ Role required: Anyone viewing a data visualization can export that visualization
 
     1.  Select **Export**.
 
-        ![Export option under More Options for a data visualization.](../../par-for-workspace/image/dv-moreoptions-list.png)
+        ![Export option under More Options for a data visualization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-moreoptions-list.png)
 
     2.  Select the desired file type from the Export list.
 
@@ -47,7 +47,7 @@ Role required: Anyone viewing a data visualization can export that visualization
         -   CSV
         -   JSON
         -   PDF
-        ![Export file type options](../../par-for-workspace/image/list-export-from-db.png)
+        ![Export file type options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/list-export-from-db.png)
 
     3.  Select the delivery type.
 
@@ -60,5 +60,5 @@ Role required: Anyone viewing a data visualization can export that visualization
 
 The file is saved to the download folder of your browser, unless you are emailing a list.
 
-**Parent Topic:**[View data visualizations](../concept/view-data-visualizations.md)
+**Parent Topic:**[View data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/view-data-visualizations.md)
 

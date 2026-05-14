@@ -29,33 +29,33 @@ The Security Incident Response call collaboration provides the following key fea
 -   View call recordings and chat details.
 -   Send invites to participants through emails and Microsoft Teams chat.
 
--   **[Manage Conference Call users and groups](../task/config-conference-call.md)**  
+-   **[Manage Conference Call users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/config-conference-call.md)**  
 The Admin can configure conference call settings to display a predefined list of users and groups to add to a call.
--   **[Integrate SIR with third-party communication channels](../task/integrate-comm-channels.md)**  
+-   **[Integrate SIR with third-party communication channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/integrate-comm-channels.md)**  
 The SIR Conference Call integration with third-party communication channels such as Microsoft Teams, Zoom, and Cisco Webex, enables you to manage and initiate a call directly from a security incident.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[Set up view of SIR Records](set-up-view-of-sir-records.md)
+[Set up view of SIR Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-view-of-sir-records.md)
 
-[Configure SI design time investigation](configure-investigation-canvas-records.md)
+[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md)
 
-[SIR Workspace Related Records](sir-records.md#)
+[SIR Workspace Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/define-risk-score-calculator-rules-sir.md)
 
-[Configure Shift Handover](config-shift-handover.md)
+[Configure Shift Handover](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/config-shift-handover.md)
 
-[Configure report templates in Security Incident Response](daily-status-sir.md)
+[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 
-[On-Call scheduling in Security Incident Response](on-call-schedule-sir.md)
+[On-Call scheduling in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/on-call-schedule-sir.md)
 
-[Category management in Security Incident Response](category-management-sir.md)
+[Category management in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/category-management-sir.md)
 
-[View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
+[View and update Security Incident Response system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-quick-filters-for-security-incidents.md)
 

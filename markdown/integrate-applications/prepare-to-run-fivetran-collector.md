@@ -32,5 +32,5 @@ The collector authenticates using a Fivetran API key. The API key owner must hav
     You need these credentials when configuring the collector.
 
 
-**Parent Topic:**[Fivetran metadata collector](../concept/fivetran-metadata-collector.md)
+**Parent Topic:**[Fivetran metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/fivetran-metadata-collector.md)
 

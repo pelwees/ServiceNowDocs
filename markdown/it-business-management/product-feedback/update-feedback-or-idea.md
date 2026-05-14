@@ -29,7 +29,7 @@ Modify feedback or product idea records within the list view or side panel using
 
 2.  From the feedback or product idea list, select the feedback or product idea record that you want to edit.
 
-    You can use the full details page to edit the feedback or product idea record. Select ![Info icon.](../image/icon-help.png) to open the preview of the feedback or product idea record from the list view.
+    You can use the full details page to edit the feedback or product idea record. Select ![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../image/icon-help.png) to open the preview of the feedback or product idea record from the list view.
 
 3.  Update the record details, attach files, or delete the feedback or product idea record.
 
@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-Double-click on the feedback or product idea field on the grid to make inline edits. You can select the short description of feedback or product idea to open the full details page. Bulk edit rows in the list view to enable quick updates without editing each record individually. For feedback or product idea field information, see [Feedback form](../reference/feedback-form.md) and [Product idea form](../reference/product-idea-form.md).
+Double-click on the feedback or product idea field on the grid to make inline edits. You can select the short description of feedback or product idea to open the full details page. Bulk edit rows in the list view to enable quick updates without editing each record individually. For feedback or product idea field information, see [Feedback form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../reference/feedback-form.md) and [Product idea form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../reference/product-idea-form.md).
 
  **Note:** You can’t make inline edits for read-only fields.
 
@@ -71,7 +71,7 @@ From the full details page:
 
 From the full details page:
 
-1.  Select the More Actions icon \(![More actions icon](../image/more-actions-feedback-icon.png)\).
+1.  Select the More Actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../image/more-actions-feedback-icon.png)\).
 2.  Select **Delete**.
 3.  Select **OK** to confirm.
 

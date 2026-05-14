@@ -19,7 +19,7 @@ Adjust the calendar zoom level in Dispatcher Workspace to view task details more
 
 Role required: wm\_dispatceher
 
-Show zoom controls must be enabled to zoom in or out on the calendar. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+Show zoom controls must be enabled to zoom in or out on the calendar. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ Show zoom controls must be enabled to zoom in or out on the calendar. For more i
 
 2.  Select **Dispatcher Workspace**.
 
-3.  Select the **Expand Toolbar** icon ![expand toolbar](../image/expand-toolbar.png) to display the zoom controls
+3.  Select the **Expand Toolbar** icon ![expand toolbar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/expand-toolbar.png) to display the zoom controls
 
-4.  Select the **Zoom in** icon ![zoom in](../image/increase-zoom.png) or the Zoom out icon ![zoom out](../image/decrease-zoom.png).
+4.  Select the **Zoom in** icon ![zoom in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/increase-zoom.png) or the Zoom out icon ![zoom out](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/decrease-zoom.png).
 
     **Note:** You can’t zoom out farther than 100%.
 

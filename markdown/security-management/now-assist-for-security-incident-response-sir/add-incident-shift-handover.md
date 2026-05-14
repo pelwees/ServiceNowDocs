@@ -29,7 +29,7 @@ Role required: sn\_si.analyst
 
 2.  Open the security incident that you want to add to a shift handover report using the AI agent.
 
-3.  Select the Now Assist \(![Now Assist panel for AI agent icon.](../image/ai-icon-now-assist.png)\) icon.
+3.  Select the Now Assist \(![Now Assist panel for AI agent icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/ai-icon-now-assist.png)\) icon.
 
     The Generate SIR Shift Handover Report agentic workflow is on-demand. You can enter a query in natural language to add a security incident to a shift handover report.
 
@@ -51,12 +51,12 @@ Role required: sn\_si.analyst
 
     For each section of the shift handover report, the AI agent provides the content and requests feedback from the analyst. If required, you can skip to update any section.
 
-    ![Content added to shift handover report.](../image/NA-shift-handover.png)
+    ![Content added to shift handover report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/NA-shift-handover.png)
 
 
 ## Result
 
 The AI agent displays the summary of all the updated and skipped sections.
 
-![Shift handover workflow result](../image/shifthandover-report-update.png)
+![Shift handover workflow result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/shifthandover-report-update.png)
 

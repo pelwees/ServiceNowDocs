@@ -39,14 +39,14 @@ You must customize your theme to add font or theme size-related style sheets.
 
     3.  Add the following style sheets from the Collection list to the CSS Includes list:
 
-        ![Edit css includes](../image/edit_css_include_list.png "Edit CSS includes list")
+        ![Edit css includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/edit_css_include_list.png "Edit CSS includes list")
 
         -   portal-polaris-set-base-font
         -   portal-polaris-rem-px-theme
         -   portal-polaris-kb-rem-px-theme
     4.  Select **Save**.
 
-4.  Hover over the style sheet and select the preview icon \(![Preview icon](../image/preview-record.png)\) then select **Open Record** to set the order of added style sheets.
+4.  Hover over the style sheet and select the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/preview-record.png)\) then select **Open Record** to set the order of added style sheets.
 
     1.  Set the order of portal-polaris-set-base-font as the lowest.
 

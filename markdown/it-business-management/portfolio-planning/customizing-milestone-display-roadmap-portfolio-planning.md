@@ -16,12 +16,12 @@ breadcrumb: [Personalize roadmap view, Plan roadmaps, Portfolio Planning, Strate
 
 Easily track the milestones of your roadmap timeline or its planning items by choosing how the milestones are displayed on the roadmap view.
 
-The Personalize \(![Personalize icon.](../../alignment-planner-workspace/images/personalize-icon.png)\) side panel on the roadmap provides different toggles to personalize the display of milestones on your roadmap.
+The Personalize \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/personalize-icon.png)\) side panel on the roadmap provides different toggles to personalize the display of milestones on your roadmap.
 
 -   For portfolio plan roadmaps, these toggles are always available.
 -   For free-form roadmaps, these toggles are available only if the roadmap's source table is the Planning Item table \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
-![Milestone display toggles.](../../alignment-planner-workspace/images/milestone-toggles.png)
+![Milestone display toggles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/milestone-toggles.png)
 
 <table id="table_zr1_5lg_prb"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Roadmap view
 
 </td><td>
 
-![Roadmap-level-milestones](../../alignment-planner-workspace/images/milestones-on-roadmap.png)
+![Roadmap-level-milestones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/milestones-on-roadmap.png)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Roadmap view
 
 </td><td>
 
-![Milestones on roadmap item bars.](../../alignment-planner-workspace/images/item-milestones.png)
+![Milestones on roadmap item bars.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/item-milestones.png)
 
 </td></tr><tr><td>
 
@@ -65,11 +65,11 @@ Roadmap view
 -   Green: Achieved
 -   Black/Dark gray: Upcoming
 
- **Note:** If the total number of item-level milestones, including the milestones for unscheduled items, exceeds 100, the item milestone indicators aren’t visible on the roadmap. You can work with your admin to change this number to a value of your preference. For more information, see [Update the display limit of items for Prioritization and Roadmap in Portfolio Planning](../task/update-items-display-limit-backlog-prioritization-roadmap.md).
+ **Note:** If the total number of item-level milestones, including the milestones for unscheduled items, exceeds 100, the item milestone indicators aren’t visible on the roadmap. You can work with your admin to change this number to a value of your preference. For more information, see [Update the display limit of items for Prioritization and Roadmap in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/update-items-display-limit-backlog-prioritization-roadmap.md).
 
 </td><td>
 
-![Display only milestones toggle.](../../alignment-planner-workspace/images/display-only-milestones.png)
+![Display only milestones toggle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/display-only-milestones.png)
 
 </td></tr><tr><td>
 
@@ -79,10 +79,10 @@ Roadmap view
 
 </td><td>
 
-![Milestone indicator with label.](../../spw-roadmap/images/milestone-with-label.png "Milestone indicator with label")
+![Milestone indicator with label.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/milestone-with-label.png "Milestone indicator with label")
 
- ![Milestone indicator.](../../spw-roadmap/images/milestone-icon.png "Milestone indicator without label")
+ ![Milestone indicator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/milestone-icon.png "Milestone indicator without label")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personalize roadmap view](../task/personalize-roadmap-view-portfolio-planning.md)
+</table>**Parent Topic:**[Personalize roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/personalize-roadmap-view-portfolio-planning.md)
 

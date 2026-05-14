@@ -13,7 +13,7 @@ breadcrumb: [Using License and Permit Playbook, Playbooks, Use, Public Sector Di
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the License and Permit Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the License and Permit Playbook application](configuring-license-permit-playbook.md).
+**Note:** Verify that the License and Permit Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the License and Permit Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/configuring-license-permit-playbook.md).
 
 By default, the following stages are available to you as a government service agent in the License and Permit Playbook in the CSM Configurable Workspace.
 
@@ -68,7 +68,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 8.  Enter the name of the constituent or business that the requester is submitting the application on behalf of, and select **Save**.
 
-    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [Create a business contact account from license or permit application data](../task/psds-multi-party-create-business-contact.md).
+    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [Create a business contact account from license or permit application data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/psds-multi-party-create-business-contact.md).
 
 9.  Select any add-ons, such as permit endorsements.
 

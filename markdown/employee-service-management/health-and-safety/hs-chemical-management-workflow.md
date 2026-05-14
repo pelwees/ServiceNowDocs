@@ -57,5 +57,5 @@ The system supports integration with external databases like 3E Protect, enablin
 
 A chemical group is a way to organize chemicals together within the system, allowing you to group similar chemicals for easier management. For example, Acids chemical group contains different types of acids listed under it. The group aggregates information like the number of chemicals, chemical requests, ingredients, hazard identification, related documents, and risk assessments, providing a consolidated view of key details for all chemicals in that group.
 
-**Parent Topic:**[Exploring Health and Safety Environmental Management](hs-exploring-environmental-management.md)
+**Parent Topic:**[Exploring Health and Safety Environmental Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-exploring-environmental-management.md)
 

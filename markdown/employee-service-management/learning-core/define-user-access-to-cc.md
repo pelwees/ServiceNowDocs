@@ -19,7 +19,7 @@ After creating a course catalog, define user access criteria at the course catal
 
 Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
-Create a course catalog. For more information, see [Create a course catalog](create-course-catalog.md).
+Create a course catalog. For more information, see [Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ Create a course catalog. For more information, see [Create a course catalog](cre
 10. Add users who cannot contribute to the course catalog.
 
 
-**Parent Topic:**[Create a course catalog](create-course-catalog.md)
+**Parent Topic:**[Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md)
 

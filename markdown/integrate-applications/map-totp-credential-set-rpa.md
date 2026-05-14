@@ -18,13 +18,13 @@ Map a multi-factor authentication \(MFA\) authenticator record with a seed in a 
 
 Familiarize yourself with multi-factor authentication \(MFA\) concepts. For more information, see [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
 
-Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](../concept/totp-authentication-rpa.md).
+Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/totp-authentication-rpa.md).
 
-Create an MFA authenticator record. For more information, see [Create an MFA authenticator in RPA Hub](create-mfa-authenticator-rpa.md).
+Create an MFA authenticator record. For more information, see [Create an MFA authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-mfa-authenticator-rpa.md).
 
-Create a robot credential. For more information, see [Create a robot credential in RPA Hub](create-credential-set-botprocess.md).
+Create a robot credential. For more information, see [Create a robot credential in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-credential-set-botprocess.md).
 
-Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-botprocess-config.md#), and [Bot Process form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/select-botprocess.md#).
 
 Verify that the life-cycle stage status of the associated bot process is set to either **Build** or **In Maintenance**.
 
@@ -43,13 +43,13 @@ If a TOTP authenticator is using external credential vault, then ensure that the
 In RPA Hub, you can retrieve robot credentials, application credentials, or TOTP seed in two ways:
 
 -   From ServiceNow credentials record \(application credential, robot credential, or TOTP authenticator\).
--   From an external credential vault. For more information, see [External credential vault in RPA Hub](../concept/external-credentials-rpa.md).
+-   From an external credential vault. For more information, see [External credential vault in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/external-credentials-rpa.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Credential Management**, select **Robot Credentials**.
 
@@ -115,7 +115,7 @@ Provide a JSON that acts as an input to the subflow mapped in the selected exter
 
 The value must be in JSON format. You cannot enter an empty JSON value.
 
-For more information about the JSON, see [Steps to configure an external credential vault in RPA Hub](../reference/config-ext-cred-rpa.md).
+For more information about the JSON, see [Steps to configure an external credential vault in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/config-ext-cred-rpa.md).
 
 This field appears only when the **External Credential** check box is selected.
 
@@ -127,12 +127,12 @@ This field appears only when the **External Credential** check box is selected.
 
 ## What to do next
 
-[Use the GetTOTP component in the RPA Desktop Design Studio to generate TOTP](../../rpa-studio/task/preview-data-rpa-studio.md).
+[Use the GetTOTP component in the RPA Desktop Design Studio to generate TOTP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/task/preview-data-rpa-studio.md).
 
 **Related topics**  
 
 
-[Delete a TOTP authenticator in RPA Hub](delete-mfa-authenticator-rpa.md)
+[Delete a TOTP authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/delete-mfa-authenticator-rpa.md)
 
-[Retire an MFA authenticator in RPA Hub](retire-mfa-authenticator.md)
+[Retire an MFA authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/retire-mfa-authenticator.md)
 

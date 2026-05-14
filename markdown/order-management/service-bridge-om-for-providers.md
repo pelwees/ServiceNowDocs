@@ -67,5 +67,5 @@ During order processing, note that order status states correspond to certain pro
 
 ## Next step
 
-As a Service Exchange admin, review the setup tasks in [Configuring Service Exchange Order Management for Providers](configuring-sb-om.md).
+As a Service Exchange admin, review the setup tasks in [Configuring Service Exchange Order Management for Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-sb-om.md).
 

@@ -41,12 +41,12 @@ When configuring analysis reports, consider the following:
 
 5.  On the form, fill in the fields.
 
-    For details, see [Topic Recommendations settings](../reference/tr-settings-page.md).
+    For details, see [Topic Recommendations settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/tr-settings-page.md).
 
 6.  Select **Save**.
 
 
 ## Result
 
-The data source that you defined for a given table and taxonomy displays as a section on the Topic Recommendations page. You can now [run a topic recommendation analysis](run-tr-analysis.md).
+The data source that you defined for a given table and taxonomy displays as a section on the Topic Recommendations page. You can now [run a topic recommendation analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/run-tr-analysis.md).
 

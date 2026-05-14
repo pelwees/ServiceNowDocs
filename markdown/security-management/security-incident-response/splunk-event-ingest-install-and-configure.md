@@ -23,7 +23,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the Splunk Enterprise Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Navigate to **All** &gt; **Integrations** &gt; **Integrations Configurations**
 
@@ -135,12 +135,12 @@ If an error message is displayed after you click **Submit**, enter your informat
 
 You have successfully installed and configured the application. The next step is to create an event profile.
 
--   **[Configure Splunk Enterprise Event Ingestion settings](configure-splunk-enterprise-event-ingestion-settings.md)**  
+-   **[Configure Splunk Enterprise Event Ingestion settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-splunk-enterprise-event-ingestion-settings.md)**  
 Use the Splunk Enterprise Event Ingestion settings to modify the preset configurations and their values as per your requirements.
 
-**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](../concept/splunk-event-ingest-overview.md)
+**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/splunk-event-ingest-overview.md)
 
-**Previous topic:**[Set up your ServiceNow AI Platform instance for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-setup-sn.md)
+**Previous topic:**[Set up your ServiceNow AI Platform instance for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-setup-sn.md)
 
-**Next topic:**[Configure Splunk Enterprise Event Ingestion settings](configure-splunk-enterprise-event-ingestion-settings.md)
+**Next topic:**[Configure Splunk Enterprise Event Ingestion settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-splunk-enterprise-event-ingestion-settings.md)
 

@@ -17,7 +17,7 @@ Flexibly organize information for your teams and work items by creating, duplica
 
 ## Before you begin
 
-[Create a Doc in CWM](create-a-doc-in-cwm.md)
+[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-doc-in-cwm.md)
 
 Role required: sn\_cwm.cwm\_user
 
@@ -27,7 +27,7 @@ Role required: sn\_cwm.cwm\_user
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
-    ![Spaces menu in CWM.](../images/cwm-spaces-navigation-doc.png)
+    ![Spaces menu in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-spaces-navigation-doc.png)
 
 3.  To create a page, you can create a blank page or start with a predefined template.
 
@@ -35,22 +35,22 @@ Role required: sn\_cwm.cwm\_user
     -   To create from templates:
         1.  Select **Create Page from template**.
 
-            ![Create Page from template](../../spw-eap/images/eap-doc-create-from-template.png)
+            ![Create Page from template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../spw-eap/images/eap-doc-create-from-template.png)
 
         2.  From a template card that you want to use, select **Use**.
 
-            ![Doc templates list.](../../spw-eap/images/eap-doc-templates-list.png)
+            ![Doc templates list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../spw-eap/images/eap-doc-templates-list.png)
 
     The new page is created and added to your Doc.
 
-4.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create Subpage**.
+4.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create Subpage**.
 
-    ![Create subpage for a Doc in CWM.](../../spw-eap/images/eap-doc-create-subpage.png)
+    ![Create subpage for a Doc in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../spw-eap/images/eap-doc-create-subpage.png)
 
-5.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
+5.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
 
     Only a user with Editor or Owner access to the Space can delete Doc pages. If there's only one page left in the Doc, it can't be deleted by any user.
 
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-docs.md)
 

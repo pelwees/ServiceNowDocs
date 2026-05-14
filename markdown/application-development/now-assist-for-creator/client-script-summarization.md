@@ -51,12 +51,12 @@ Client script summarization provides the following benefits:
     Creators with limited coding experience gain visibility into what scripts do, which helps them make informed decisions about whether to modify or replace a script.
 
 
-**Parent Topic:**[Exploring UI generation](exploring-ui-generation.md)
+**Parent Topic:**[Exploring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-ui-generation.md)
 
 **Related topics**  
 
 
-[Summarize a client script using Now Assist](../task/client-script-summarization-generation.md)
+[Summarize a client script using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/client-script-summarization-generation.md)
 
-[Use case: Summarize a client script using Now Assist](use-case-client-script-summarization.md)
+[Use case: Summarize a client script using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/use-case-client-script-summarization.md)
 

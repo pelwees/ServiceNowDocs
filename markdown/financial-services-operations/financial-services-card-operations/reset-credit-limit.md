@@ -19,7 +19,7 @@ Revert a card's credit limit to its original limit for a customer who requested 
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -27,13 +27,13 @@ This credit card service case is automatically created for a credit card service
 
 If the request is for a temporary increase in the credit limit, the case remains in the Work in Progress state even after increasing the credit limit. The system automatically creates a new credit card service case on the specified end date to reset the credit limit.
 
-The **sn\_bom\_credit\_card.reserverd\_hours\_to\_update\_credit\_limit** [card property](../reference/properties-installed-card-ops.md) defines the number of hours before the end date when the system creates a credit card service case to revert the credit limit.
+The **sn\_bom\_credit\_card.reserverd\_hours\_to\_update\_credit\_limit** [card property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../reference/properties-installed-card-ops.md) defines the number of hours before the end date when the system creates a credit card service case to revert the credit limit.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Credit Card Service Cases**, open the case list.
 

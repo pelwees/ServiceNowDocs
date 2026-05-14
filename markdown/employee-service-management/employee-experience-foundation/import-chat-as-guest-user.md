@@ -21,7 +21,7 @@ Role required: agent
 
 ## About this task
 
-This procedure is accomplished through the classic ServiceNow® user interface. For information about the same procedure accomplished through the workspace, see [Import messages from Agent Workspace](import-messages-agent-workspace.md).
+This procedure is accomplished through the classic ServiceNow® user interface. For information about the same procedure accomplished through the workspace, see [Import messages from Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/import-messages-agent-workspace.md).
 
 When a guest imports a chat, attachments are not uploaded to the record. Attachments appear as a link to the file on the Microsoft OneDrive application.
 
@@ -48,5 +48,5 @@ When a guest imports a chat, attachments are not uploaded to the record. Attachm
 8.  Select **Import**.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](../concept/start-import-req-based-chat-as-guest.md)
+**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/start-import-req-based-chat-as-guest.md)
 

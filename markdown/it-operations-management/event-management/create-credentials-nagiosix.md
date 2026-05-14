@@ -85,7 +85,7 @@ The order \(sequence\) in which the platform tries this credential as it attempt
 
 The credential for use with the Nagios XI server connector is created.
 
-**Parent Topic:**[Configure event collection from NagiosXI](configure-nagios-connector.md)
+**Parent Topic:**[Configure event collection from NagiosXI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-nagios-connector.md)
 
 **Related topics**  
 

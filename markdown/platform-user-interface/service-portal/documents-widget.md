@@ -23,7 +23,7 @@ The maximum document size is 100 MB and concurrent uploads should be less than 1
 
 **Note:** External users don’t have permission to share documents, review or approve documents, or access records in the platform.
 
-![Related Documents widget](../image/documents-widget.png "Related Documents widget")
+![Related Documents widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/documents-widget.png "Related Documents widget")
 
 ## Configure the Related Documents widget
 
@@ -78,14 +78,14 @@ Metadata form view
 The configured form view to be opened when **Edit Document** is selected or while uploading a single file. By default, the **dw** form view is selected. This form contains only **Name** and **Description** fields.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Example widgets](sp-example-widgets.md)
+</table>**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

@@ -25,7 +25,7 @@ CPQ lets you export the configuration bill of materials \(BOM\) before the quote
 
 1.  In your blueprint, navigate to Layouts.
 
-2.  In your layout, scroll to Product List and select Product List Settings.![Product List](../images/cpq-product-list.png)
+2.  In your layout, scroll to Product List and select Product List Settings.![Product List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-list.png)
 
 3.  In Settings, scroll to Raw Value and insert the following code block:
 
@@ -52,7 +52,7 @@ CPQ lets you export the configuration bill of materials \(BOM\) before the quote
 
     In the UI, you see two new icons on the far right of the product list:
 
-    ![Product List](../images/cpq-product-list-new-items.png)
+    ![Product List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-list-new-items.png)
 
     The icon to the left of **Export** lets you manipulate the columns via the UI, such as hiding and pinning certain columns. You can also manually resize columns as you would in a spreadsheet.
 

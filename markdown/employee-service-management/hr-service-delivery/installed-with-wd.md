@@ -64,7 +64,7 @@ Run Workday Integration Flow
 
 </td><td>
 
-Pulls data from Workday to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Pulls data from Workday to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/activate-w-schedule-flow.md).
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -118,10 +118,10 @@ Workday Configuration Pull To-Dos\[sn\_hr\_workday\_pull\_todo\_config\]
 Stores parameters or inputs which help in setting up the todos configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference - HR Service Delivery Integration with Workday](hrsd-int-workday-reference.md)
+</table>**Parent Topic:**[Reference - HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-reference.md)
 
 **Related topics**  
 
 
-[Worker profile synchronization limitations](limit-w-sync.md)
+[Worker profile synchronization limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/limit-w-sync.md)
 

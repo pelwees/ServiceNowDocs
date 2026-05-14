@@ -18,17 +18,17 @@ You can edit dashboard and dashboard tab information in the inline editor. If th
 
 You can edit the details of dashboards created in the inline editor and in the technical editor in the Platform Analytics experience. When you edit elements in dashboards created in the technical editor, you’re redirected to UI Builder.
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## About this task
 
 **Important:** By default, dashboards are subject to edit lock. Only one person at a time can have the same dashboard in edit mode. If you are viewing a locked dashboard, you will not have an **Edit** button even with edit rights. You will see the locking user's initials next to the **Refresh** and **View dashboard details** icons. Hover on the initials to see the user's name, company, and roles.
 
-![Locked dashboard showing locking user's initials.](../../par-for-workspace/image/db-locking-user-initials.png)
+![Locked dashboard showing locking user's initials.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-locking-user-initials.png)
 
 The **More actions** menu includes the option to clear the edit lock. Use this option with caution.
 
-![Clear edit lock option in More actions menu.](../../par-for-workspace/image/db-clear-edit-lock.png)
+![Clear edit lock option in More actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-clear-edit-lock.png)
 
 ## Procedure
 
@@ -38,7 +38,7 @@ The **More actions** menu includes the option to clear the edit lock. Use this o
 
     If you are in a different application scope than the dashboard, use the application picker to select the correct scope.
 
-    ![Application scope picker](../../par-for-workspace/image/app-scope-picker.png)
+    ![Application scope picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/app-scope-picker.png)
 
 3.  Perform any of the following actions.
 
@@ -58,23 +58,23 @@ Steps
 
 To edit the details of a dashboard created in the inline editor:
 
-1.  Select the information button \(![Dashboard details icon](../../reporting/image/icon-info-ac-2.png)\).
-2.  Select the **Edit** button \(![Edit button](../image/edit-button.png)\) to put the dashboard into edit mode.
+1.  Select the information button \(![Dashboard details icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/icon-info-ac-2.png)\).
+2.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into edit mode.
 
 **Note:** If you don’t see the **Edit** button, either you don’t have the right to edit the dashboard or it is in edit lock.
 
 3.  Edit the details of the dashboard and then select **Exit editing mode**.
  To edit the details of a technical dashboard:
 
-1.  Select the information button ![info icon](../../performance-analytics/image/InfoIcon.png).
+1.  Select the information button ![info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/image/InfoIcon.png).
 2.  Select the arrow next to the **Edit in UI builder** button and then select **Edit dashboard details** to put the dashboard into edit mode.
 
 **Note:** If you don’t see this option, you don’t have the right to edit the dashboard.
 
-![Edit in UI builder menu expanded to show Edit dashboard details option](../../par-for-workspace/image/edit-tech-db-details.png)
+![Edit in UI builder menu expanded to show Edit dashboard details option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/edit-tech-db-details.png)
 
 3.  Edit the details of the dashboard and then select **Exit editing mode**.
- For more information, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
+ For more information, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).
 
 </td></tr><tr><td id="d166657e260">
 
@@ -90,7 +90,7 @@ Select and drag an element's handlebars to resize it. Select and drag an entire 
 
 </td><td>
 
-Select **Add a tab**. A tab labeled `Untitled` is added next to any existing tabs. When you add your first tab to a dashboard, there’s a new part of the layout below the title and above the tabs. Add elements above the tabs that are visible no matter which tab has focus. Select the pencil icon \(![pencil icon](../image/icon-pencil-ac.png)\) to rename the tab.
+Select **Add a tab**. A tab labeled `Untitled` is added next to any existing tabs. When you add your first tab to a dashboard, there’s a new part of the layout below the title and above the tabs. Add elements above the tabs that are visible no matter which tab has focus. Select the pencil icon \(![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-pencil-ac.png)\) to rename the tab.
 
 </td></tr><tr><td id="d166657e293">
 
@@ -98,7 +98,7 @@ Select **Add a tab**. A tab labeled `Untitled` is added next to any existing tab
 
 </td><td>
 
-You can reorder tabs by dragging and dropping them. You can also reorder dashboard tabs using keyboard actions:1.  Select the **Edit** button \(![Edit button](../image/edit-button.png)\) to put the dashboard into edit mode.
+You can reorder tabs by dragging and dropping them. You can also reorder dashboard tabs using keyboard actions:1.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into edit mode.
 
 **Note:** If you don’t see the **Edit** button, you don’t have the right to edit the dashboard.
 
@@ -114,11 +114,11 @@ You can reorder tabs by dragging and dropping them. You can also reorder dashboa
 
 </td><td>
 
-You can duplicate a tab on the current dashboard.1.  Select the **Edit** button \(![Edit button](../image/edit-button.png)\) to put the dashboard into edit mode.
+You can duplicate a tab on the current dashboard.1.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into edit mode.
 
 **Note:** If you don’t see the **Edit** button, you don’t have the right to edit the dashboard.
 
-2.  Select the More actions menu icon \(![More actions icon](../image/context-menu-db-element-ac.png)\) next to the tab's name and choose **Duplicate**.
+2.  Select the More actions menu icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/context-menu-db-element-ac.png)\) next to the tab's name and choose **Duplicate**.
 A new tab with the same content as the duplicated tab opens with the name Untitled. Choose the pencil icon to rename the tab.
 
 </td></tr><tr><td id="d166657e380">
@@ -127,11 +127,11 @@ A new tab with the same content as the duplicated tab opens with the name Untitl
 
 </td><td>
 
-1.  Select the **Edit** button \(![Edit button](../image/edit-button.png)\) to put the dashboard into edit mode.
+1.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into edit mode.
 
 **Note:** If you don’t see the **Edit** button, you don’t have the right to edit the dashboard.
 
-2.  Select the More actions menu icon \(![More actions icon](../image/context-menu-db-element-ac.png)\) next to the tab's name and choose **Delete**.
+2.  Select the More actions menu icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/context-menu-db-element-ac.png)\) next to the tab's name and choose **Delete**.
  **Note:** There’s no confirmation message. The tab disappears from the dashboard.
 
 </td></tr><tr><td id="d166657e424">
@@ -141,7 +141,7 @@ A new tab with the same content as the duplicated tab opens with the name Untitl
 </td><td>
 
 1.  Select the tab to make it active.
-2.  Point to the tab name and select the pencil icon \(![pencil icon](../image/icon-pencil-ac.png)\).
+2.  Point to the tab name and select the pencil icon \(![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-pencil-ac.png)\).
 3.  Type the new name then press Enter.
  **Note:** If you rename a tab on a dashboard that has been translated, the translations are replaced with the new English tab name. To translate the new name:
 
@@ -156,11 +156,11 @@ A new tab with the same content as the duplicated tab opens with the name Untitl
 
 </td><td>
 
-Role required: admin.1.  Select the **Edit** button \(![Edit button](../image/edit-button.png)\) to put the dashboard into edit mode.
+Role required: admin.1.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into edit mode.
 
 **Note:** If you don’t see the **Edit** button, you don’t have the right to edit the dashboard.
 
-2.  Select the Dashboard Settings button \(![Edit columns icon](../image/icon-cogwheel-ac.png)\) to open the Settings panel.
+2.  Select the Dashboard Settings button \(![Edit columns icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-cogwheel-ac.png)\) to open the Settings panel.
 3.  Select **Show refresh information** to show the time of the last refresh under the dashboard's title.
 4.  Select **Scheduled repetition** to configure the number of minutes that the dashboard is automatically refreshed.
 
@@ -173,7 +173,7 @@ The minimum refresh interval is 10 minutes.
 </td><td>
 
 1.  Open the Background Color menu to show the preconfigured colors.
-2.  Choose an existing color or select the Color Palette icon \(![palette icon](../image/icon-color-palette.png)\) to open the palette.
+2.  Choose an existing color or select the Color Palette icon \(![palette icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-color-palette.png)\) to open the palette.
 
 Specify Hex or RGBA values, or choose from the color picker.
 
@@ -183,39 +183,39 @@ Specify Hex or RGBA values, or choose from the color picker.
 
 </td><td>
 
-Choose whether and which analytics to show in the **Insights** section.When you select **Show insights panel**, an Insights button is added to the dashboard and the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+Choose whether and which analytics to show in the **Insights** section.When you select **Show insights panel**, an Insights button is added to the dashboard and the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/proactive-analytics.md).
 
 </td></tr></tbody>
 </table>
--   **[Add visual elements to an in-line dashboard](add-elements-to-a-dashboard.md)**  
+-   **[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)**  
 Populate your dashboard with a selection of widgets, including data visualizations and filters.
--   **[Edit in-line Platform Analytics dashboard elements](edit-db-elements-in-ac.md)**  
+-   **[Edit in-line Platform Analytics dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-elements-in-ac.md)**  
 You can edit the contents of a dashboard or dashboard tab, including data visualizations and filters. Because dashboards are shared, any changes you make are applied globally.
--   **[Group dashboard elements](group-db-elements.md)**  
+-   **[Group dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/group-db-elements.md)**  
 Improve your layout control and dashboard customization capabilities, by organizing related elements into single visual and logical units. Configure backgrounds and borders according to group.
--   **[Edit a copy of a shared dashboard element](editing-local-copy-saved-dv.md)**  
+-   **[Edit a copy of a shared dashboard element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/editing-local-copy-saved-dv.md)**  
 To configure a shared element that you added to a dashboard from a library, make a local copy that is not linked to a library. You only have to do this if you do not have permission to edit the version in the library.
--   **[Add images to Platform Analytics dashboard cards](add-images-db-cards-ac.md)**  
+-   **[Add images to Platform Analytics dashboard cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-images-db-cards-ac.md)**  
 Distinguish the cards in the dashboard overview with uploaded images.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-[Share a Platform Analytics dashboard](share-db-in-ac.md)
+[Share a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/duplicate-db.md#)
 
-[Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
+[Print a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/printer-friendly-db-ac.md)
 
-[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
 
-[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md)
 
-[Delete a Platform Analytics dashboard](delete-db-in-ac.md)
+[Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac.md)
 

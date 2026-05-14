@@ -19,11 +19,11 @@ Select a tile to learn about the main mobile app building tool, Mobile App Build
 
 <table id="table_k2x_wd5_g1c" class="nav-card"><tbody><tr><td>
 
-[Mobile App Builder ![](../../../reuse/icons/brand-icons/bus-application-logic.svg)Build mobile applications using Mobile App Builder.](mab-concept.md)
+[Mobile App Builder ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-application-logic.svg)Build mobile applications using Mobile App Builder.](mab-concept.md)
 
 </td><td>
 
-[Mobile Card Builder ![](../../../reuse/icons/brand-icons/bus-customize.svg) Create or modify card templates using Mobile Card Builder.](mobile-card-builder.md)
+[Mobile Card Builder ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-customize.svg) Create or modify card templates using Mobile Card Builder.](mobile-card-builder.md)
 
 </td><td>
 

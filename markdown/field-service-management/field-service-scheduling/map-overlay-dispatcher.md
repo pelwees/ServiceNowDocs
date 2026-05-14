@@ -70,6 +70,6 @@ Displays task locations on the map.
 Displays event locations on the map.**Note:** Event markers are only available if Workforce Optimization for Field Service is enabled.
 
 </td></tr></tbody>
-</table>    ![map overlay options](../image/map-overlay.png)
+</table>    ![map overlay options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/map-overlay.png)
 
 

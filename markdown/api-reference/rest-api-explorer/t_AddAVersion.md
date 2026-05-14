@@ -38,5 +38,5 @@ Role required: web\_service\_admin
 6.  Click **OK**.
 
 
-**Parent Topic:**[Enable versioning for a scripted REST API](t_EnableVersioning.md)
+**Parent Topic:**[Enable versioning for a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_EnableVersioning.md)
 

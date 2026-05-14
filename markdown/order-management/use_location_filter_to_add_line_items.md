@@ -19,7 +19,7 @@ Role required: sales\_agent
 
 ## About this task
 
-You can add opportunity lines by location if the [location-based transactions property](som-activate-location-filter.md) is enabled by your admin and [eligibility rule filters and product eligibility rules](../concept/config-location-transaction.md) have been configured by your product catalog admin for location-based transactions.
+You can add opportunity lines by location if the [location-based transactions property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-activate-location-filter.md) is enabled by your admin and [eligibility rule filters and product eligibility rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/config-location-transaction.md) have been configured by your product catalog admin for location-based transactions.
 
 ## Procedure
 
@@ -31,12 +31,12 @@ You can add opportunity lines by location if the [location-based transactions pr
 
     After you select a location, only the opportunity line items that are eligible for the selected location are displayed.
 
-    ![Product catalog user interface with location filter for adding a product offering to an opportunity by service location.](../image/location-filter-som.png)
+    ![Product catalog user interface with location filter for adding a product offering to an opportunity by service location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/location-filter-som.png)
 
 4.  Select **Add** to create an opportunity line item.
 
 5.  Navigate to the **Line Items** tab to view the details of the newly added opportunity line item.
 
 
-**Parent Topic:**[Location-based transactions for Opportunity Management](../concept/location_based_transactions_for_opportunity.md)
+**Parent Topic:**[Location-based transactions for Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/location_based_transactions_for_opportunity.md)
 

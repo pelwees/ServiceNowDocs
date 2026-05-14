@@ -33,5 +33,5 @@ Role required: You can delete any data visualization that you created. If you ha
     You cannot undo this action.
 
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/common-dv-tasks.md)
 

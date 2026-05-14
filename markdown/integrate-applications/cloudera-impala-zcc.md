@@ -13,7 +13,7 @@ breadcrumb: [Primary connectors, Zero Copy Connectors, Workflow Data Fabric]
 
 The Cloudera Impala connector provides read-only access to data and metadata in Cloudera Impala.
 
-A connection admin can set up a connection to Cloudera Impala in the Zero Copy Connector Hub and grant data stewards access to this connection. Data stewards can then use the established connection to create a data fabric table and map data from Cloudera Impala. This allows users to access Cloudera Impala data through the table list view or by using GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](managing-data-fabric-tables-zcc.md).
+A connection admin can set up a connection to Cloudera Impala in the Zero Copy Connector Hub and grant data stewards access to this connection. Data stewards can then use the established connection to create a data fabric table and map data from Cloudera Impala. This allows users to access Cloudera Impala data through the table list view or by using GlideRecord scripts. For details on creating data fabric tables and mapping data, see [Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-data-fabric-tables-zcc.md).
 
 **Important:** The Cloudera Impala primary connector is in preview. A primary connector in preview is developed and supported by ServiceNow, but is still being enhanced to include all planned functionality. While in preview, a connector may have limitations in platform support or available features.
 
@@ -59,5 +59,5 @@ The following table lists supported Cloudera Impala data types and the default m
 **Related topics**  
 
 
-[Create a Cloudera Impala connection](../task/create-cloudera-impala-connection.md)
+[Create a Cloudera Impala connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-cloudera-impala-connection.md)
 

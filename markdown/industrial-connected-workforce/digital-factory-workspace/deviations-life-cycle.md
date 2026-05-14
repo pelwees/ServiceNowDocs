@@ -34,5 +34,5 @@ Only the resolution and resolution code are still editable. If it's in any other
 
 You can manage deviations, such as bulk assign from the list view, which is only available in the Workspace.
 
-**Parent Topic:**[Deviation Management](industrial-deviation-management.md)
+**Parent Topic:**[Deviation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-deviation-management.md)
 

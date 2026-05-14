@@ -17,7 +17,7 @@ Discover and import all available Jira projects and boards into Strategic Planni
 
 ## Before you begin
 
-[Connect SPW to Jira](connect-spw-to-jira.md).
+[Connect SPW to Jira](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/connect-spw-to-jira.md).
 
 Role required: sn\_jira\_int.user
 
@@ -42,5 +42,5 @@ Once the status of each import request changes to **Complete**, you can see that
 
 ## What to do next
 
-[Configure integration settings for a Jira project.](../concept/configuring-jira-project-settings-in-spw.md)
+[Configure integration settings for a Jira project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/configuring-jira-project-settings-in-spw.md)
 

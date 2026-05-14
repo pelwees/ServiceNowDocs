@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Data Collector** &gt; **Performance Analytics** &gt; **Jobs**.
 
-2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](../../mftg-manufacturing-oper-tech-mgr/image/show-hide-filter-icon.png)\) icon and add the following filters .
+2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../mftg-manufacturing-oper-tech-mgr/image/show-hide-filter-icon.png)\) icon and add the following filters .
 
     -   `[Application] [is] [Operational Technology Vulnerability Response]`
     -   `[Class] [is] [Scheduled Data Collection]`
@@ -56,7 +56,7 @@ The Operational Technology Vulnerability Response \(PA\) dashboard is now showin
 
 ## What to do next
 
-Now, you can review the indicator sources and determine if you need to override the default records collection. For more information, see [Review the indicator sources for a larger number of records](update-indicator-source-to-collect-more-records.md).
+Now, you can review the indicator sources and determine if you need to override the default records collection. For more information, see [Review the indicator sources for a larger number of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/update-indicator-source-to-collect-more-records.md).
 
-**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](../../operational-technology-management/concept/setting-up-the-otvr-pa-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../operational-technology-management/concept/setting-up-the-otvr-pa-dashboard.md)
 

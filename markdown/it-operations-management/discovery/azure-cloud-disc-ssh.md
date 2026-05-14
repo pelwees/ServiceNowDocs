@@ -31,7 +31,7 @@ Role required: admin
 
 3.  Fill in the form with the required info and submit.
 
-    ![The Azure Service Principle record.](../image/azure-cloud-disc-ssh-new-record.png)
+    ![The Azure Service Principle record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/azure-cloud-disc-ssh-new-record.png)
 
 4.  Navigate to **Discovery** &gt; **Credentials** and select **New**.
 
@@ -55,7 +55,7 @@ Role required: admin
 
 13. Create a new cloud account using your Azure Service Principal credential.
 
-    For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+    For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/task/setup-azure-service-accounts.md).
 
 14. Select **next**.
 

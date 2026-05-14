@@ -19,23 +19,23 @@ Maintain workplaces more efficiently using a single workspace, Workplace Central
 
 <table id="table_qld_tw1_gvb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Central concepts and features.](workplace-central.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Central concepts and features.](workplace-central.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Workplace Central and related plugins to get started.](configure-workplace-central.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Workplace Central and related plugins to get started.](configure-workplace-central.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Central to efficiently perform workplace-related activities.](use-workplace-central.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Central to efficiently perform workplace-related activities.](use-workplace-central.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace-related activities. View metrics and the list of activities that have been created.](manage-workplace-central.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace-related activities. View metrics and the list of activities that have been created.](manage-workplace-central.md)
 
 </td><td>
 
-[Components ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the components installed and key features of Workplace Central.](workplace-central-references.md)
+[Components ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the components installed and key features of Workplace Central.](workplace-central-references.md)
 
 </td><td>
 

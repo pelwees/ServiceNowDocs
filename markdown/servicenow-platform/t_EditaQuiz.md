@@ -22,7 +22,7 @@ Role required: assessment\_admin or admin
 You can only edit a quiz that has the same application scope as that of your current session.
 
 -   Questions that you add are available only on quizzes that are distributed after the update.
--   Before a quiz is submitted or during the [retake period](t_EnableAQuizRetake.md):
+-   Before a quiz is submitted or during the [retake period](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnableAQuizRetake.md):
     -   Changes to existing questions are immediately available to users. This includes changes to the answers, such as additional choices or changes to the data type.
     -   Deleted questions are deleted from distributed quizzes in users' queues.
 
@@ -64,15 +64,15 @@ Open a quiz from the list and click **Quiz Designer** in the header of the Asses
 
 </td></tr></tbody>
 </table>
--   **[Configure a scored question](t_ConfigureAScoredQuestion.md)**  
+-   **[Configure a scored question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAScoredQuestion.md)**  
 Only scored questions are considered when calculating category and quiz results.
--   **[Configure a template question](t_ConfigureATemplateQuestion.md)**  
+-   **[Configure a template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureATemplateQuestion.md)**  
 You can configure template questions when designing quizzes.
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 

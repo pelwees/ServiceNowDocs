@@ -25,9 +25,9 @@ Role required: admin
 
 When you install the Legal Simple Compliance application, the following applications are installed along with the other dependent applications and plugins if they aren’t already installed:
 
--   [Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
--   [Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)
--   [Legal Stock Preclearance](../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md)
+-   [Gifts and Entertainment Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
+-   [Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)
+-   [Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md)
 
 **Note:** You can also install these applications separately.
 
@@ -50,5 +50,5 @@ When you install the Legal Simple Compliance application, the following applicat
 5.  Select **Install**.
 
 
-**Parent Topic:**[Legal Simple Compliance](../concept/legal-simple-compliance-applications.md)
+**Parent Topic:**[Legal Simple Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../concept/legal-simple-compliance-applications.md)
 

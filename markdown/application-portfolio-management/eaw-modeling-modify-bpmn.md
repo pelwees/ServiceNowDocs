@@ -21,20 +21,20 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Modeling icon \(![Modeling](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Modeling icon \(![Modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Open an existing BPMN diagram.
 
 4.  Select the **Modify business process details** icon on the diagram page.
 
-    ![Modify business process details icon on the bpmn diagram page](../../image/eaw-image/modeling/modeling-modify-bpmn.png)
+    ![Modify business process details icon on the bpmn diagram page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/modeling-modify-bpmn.png)
 
 5.  Modify the details such as name, description, and other details.
 
-    ![Modifying the details of a business process](../../image/eaw-image/modeling/modeling-modify-bpmn-details.png)
+    ![Modifying the details of a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/modeling-modify-bpmn-details.png)
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+**Parent Topic:**[Working with business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-bp-map.md)
 

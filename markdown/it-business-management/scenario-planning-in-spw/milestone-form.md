@@ -60,12 +60,12 @@ Assigned to
 User who is assigned to the milestone.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Add milestones for a roadmap](../../spw-roadmap/task/create-milestones-on-roadmap.md)
+[Add milestones for a roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-milestones-on-roadmap.md)
 
-[Update a roadmap milestone](../../spw-roadmap/task/update-roadmap-milestone.md)
+[Update a roadmap milestone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/update-roadmap-milestone.md)
 

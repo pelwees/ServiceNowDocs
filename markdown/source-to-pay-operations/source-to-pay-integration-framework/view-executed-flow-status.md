@@ -25,21 +25,21 @@ Role required: admin
 
 2.  From the Workflow Studio home page, select the **Operations** tab and then select **Flows** tab.
 
-    ![View the execution status of a flow](../../source-to-pay-operations/image/coupa-integration-execution-status.png "Execution status of the flows")
+    ![View the execution status of a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/coupa-integration-execution-status.png "Execution status of the flows")
 
 
 ## Result
 
 The list of flow executions appear. You can look up the status of the flows or subflows that you triggered. If there were any errors during execution, you can view them under the processing message column.
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 
 
-[Trigger a flow or subflow in Coupa](manually-trigger-subflows-coupa.md)
+[Trigger a flow or subflow in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-coupa.md)
 
-[Use a flow or subflow in Coupa \(outbound\)](use-flow-or-subflow-coupa.md)
+[Use a flow or subflow in Coupa \(outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-coupa.md)
 
-[Copy a flow or subflow in Coupa](copy-flow-or-subflow-coupa.md)
+[Copy a flow or subflow in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-coupa.md)
 

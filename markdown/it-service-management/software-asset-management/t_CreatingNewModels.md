@@ -49,10 +49,10 @@ Role required: sam
 
 6.  Select **Approved**.
 
-    ![SAM match model](../image/SAMMatchModel.png "SAM match model")
+    ![SAM match model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMMatchModel.png "SAM match model")
 
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](../concept/c_UsingSoftwareDiscoveryModels.md)
+**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UsingSoftwareDiscoveryModels.md)
 

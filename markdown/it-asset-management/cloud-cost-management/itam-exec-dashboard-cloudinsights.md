@@ -19,7 +19,7 @@ To access the Asset Management Executive dashboard, you must either have Softwar
 
 To view the Asset Management Executive dashboard, navigate to **Asset Executive Workspace** &gt; **Asset Management Executive Dashboard**. A user with the role of sn\_itam\_common.asset\_exec can access the dashboard.
 
-![Asset Management Executive Dashboard](../../hardware-asset-management/image/itam-exec-dashboard.png "Asset Management Executive Dashboard")
+![Asset Management Executive Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../hardware-asset-management/image/itam-exec-dashboard.png "Asset Management Executive Dashboard")
 
 You can filter the results in the dashboard by product, domain, or by both product and domain. If you filter by domain, the filter gets applied to all the widgets. If you filter by product, since some widgets are applicable for certain products, the filter isn’t applied to all the widgets.
 

@@ -97,16 +97,16 @@ Returns prompt responses in a consistent JSON format. **Note:** Only Google Gemi
 
 ## What to do next
 
-After you configure your prompt settings, you can test your skill. To learn more about testing skills, see [Test a prompt](test-prompt-template.md).
+After you configure your prompt settings, you can test your skill. To learn more about testing skills, see [Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/test-prompt-template.md).
 
 To learn more about configuring models and tokens, see [Now Assist Skill Kit FAQs on the ServiceNow Community.](https://www.servicenow.com/community/now-assist-articles/now-assist-skill-kit-nask-faq/ta-p/3007953)
 
-**Parent Topic:**[Configuring Now Assist Skill Kit](../concept/configuring-now-assist-skill-kit.md)
+**Parent Topic:**[Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/configuring-now-assist-skill-kit.md)
 
 **Related topics**  
 
 
-[Configure skill deployment settings](configure-skill-settings.md)
+[Configure skill deployment settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-settings.md)
 
-[Configure security controls for a skill](nask-access-control.md)
+[Configure security controls for a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/nask-access-control.md)
 

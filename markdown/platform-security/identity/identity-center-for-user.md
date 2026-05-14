@@ -30,19 +30,19 @@ To access the Identity Center for users, navigate to one of the following:
 
     **Note:** You can also access your profile by selecting your user name in the instance header.
 
-    ![Profile in the instance header](../../authentication/images/user-banner.jpg)
+    ![Profile in the instance header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../authentication/images/user-banner.jpg)
 
 -   On Now Support, select the profile, select **View Identity Center** at the bottom of the page.
 
 The Identity Center page is displayed as follows:
 
-![Identity Center for User Home page](../images/identity-center-for-user.png)
+![Identity Center for User Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/identity-center-for-user.png)
 
 Identity Center has the following tabs:
 
--   [Active Sessions](active-sessions.md)
--   [Login History](login-history.md)
--   [Registered Mobile Devices](registered-mobile-devices.md)
+-   [Active Sessions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/active-sessions.md)
+-   [Login History](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/login-history.md)
+-   [Registered Mobile Devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/registered-mobile-devices.md)
 
 You can select these tabs to view the details such browser, IP Addressees, session relation information, login information, your registered mobile devices.
 

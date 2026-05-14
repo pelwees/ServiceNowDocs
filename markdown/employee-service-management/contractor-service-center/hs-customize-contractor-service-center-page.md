@@ -17,5 +17,5 @@ Edit or configure the Contractor Service Center web interface and use layouts to
 
 For more information to perform the web interface customization, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md)
 
-**Parent Topic:**[Configuring Contractor Service Center](hs-configure-contractor-service-center.md)
+**Parent Topic:**[Configuring Contractor Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
 

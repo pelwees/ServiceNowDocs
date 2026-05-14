@@ -22,5 +22,5 @@ As an administrator, you must create custom unit of measures so that the goal us
 -   For quantitative targets, you can define a custom unit of measures from the Unit \[sn\_gf\_unit\] table.
 -   For qualitative targets, you must first create a choice set and then create a choice list for the choice set.
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/configuring-goal-framework.md)
 

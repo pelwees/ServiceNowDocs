@@ -25,7 +25,7 @@ You can connect multiple ServiceNow instances to one Microsoft Teams tenant. For
 
 Only one pre-published app setup can be connected to the Microsoft Teams tenant.
 
-**Note:** You can connect multiple self-configured app environments to the Microsoft Teams tenant as you can create separate Azure apps for each self-configured app environment. For information about creating a manifest file for self-configured apps, see [Create and download the manifest file for self-configured apps](download-manifest-file-st.md#).
+**Note:** You can connect multiple self-configured app environments to the Microsoft Teams tenant as you can create separate Azure apps for each self-configured app environment. For information about creating a manifest file for self-configured apps, see [Create and download the manifest file for self-configured apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-st.md#).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Unfurl Links
 
 </td><td>
 
-Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md).
+Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/enable-link-unfurling.md).
 
 </td></tr><tr><td>
 
@@ -114,15 +114,15 @@ Option to use the default images for branding.**Note:** If you want to customize
 
 5.  Select **Next**.
 
-    ![Next option in Generic Info tab](../images/next-tab.png)
+    ![Next option in Generic Info tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/next-tab.png)
 
     The **Configure Virtual Agent** section opens
 
 6.  In the **Configure Virtual Agent** section, select either of the following options.
 
     -   Select **Connect a single ServiceNow instance to your Microsoft Teams Tenant** to connect one ServiceNow instance to a Microsoft Teams tenant. The Virtual Agent Bot ID is auto-populated when you select this option.
-    -   Select **Connect multiple ServiceNow instances to your Microsoft Teams tenant** to connect multiple ServiceNow instances to one Microsoft Teams tenant. This is applicable for self-configured apps. For more information, see [Create and download the manifest file for self-configured apps](download-manifest-file-st.md#).
-    ![Configure Virtual Agent tab](../images/configure-va-tab.png)
+    -   Select **Connect multiple ServiceNow instances to your Microsoft Teams tenant** to connect multiple ServiceNow instances to one Microsoft Teams tenant. This is applicable for self-configured apps. For more information, see [Create and download the manifest file for self-configured apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-st.md#).
+    ![Configure Virtual Agent tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/configure-va-tab.png)
 
 7.  Configure the Virtual Agent in your instance.
 
@@ -138,7 +138,7 @@ Option to use the default images for branding.**Note:** If you want to customize
 
     For a self-configured app, you must provide the Application \(client\) ID and Directory \(tenant\) ID in the **Configure Tab** section.
 
-    ![pre-published app configure tab](../images/multi-tenant-configure-tab.png)
+    ![pre-published app configure tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/multi-tenant-configure-tab.png)
 
 9.  Select **Next**.
 
@@ -156,14 +156,14 @@ Option to use the default images for branding.**Note:** If you want to customize
 
 12. Verify the details provided and select **Download Manifest**.
 
-    ![Manifest file](../images/activity-feed-manifest-file.png)
+    ![Manifest file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/activity-feed-manifest-file.png)
 
     The manifest file is downloaded in the zip format.
 
 
 ## What to do next
 
-You must upload the manifest file in Microsoft Teams. For more information, see [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
+You must upload the manifest file in Microsoft Teams. For more information, see [Upload manifest file in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-manifest-ms-teams.md).
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_tnt.md)
 

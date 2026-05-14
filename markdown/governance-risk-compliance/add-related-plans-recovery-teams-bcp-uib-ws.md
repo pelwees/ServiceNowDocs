@@ -38,7 +38,7 @@ Previously, adding an associated plan would automatically include a link to the 
     -   Upstream plans
     -   Downstream plans
     -   Related plans
-    ![Associated plans.](../image/add-associated-plans.png)
+    ![Associated plans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-associated-plans.png)
 
     The **Is Associated to Task** field in the associated plans table is set to True if the associated plan is linked to a recovery task; or else it is set to False.
 
@@ -76,7 +76,7 @@ Previously, adding an associated plan would automatically include a link to the 
 
     **Note:** Recovery tasks inside a business continuity plan \(BCP\) can now be linked to tasks from other plans, provided they belong to a direct parent plan. These recovery tasks are carried across to the event tasks.
 
-    ![6.](../image/cp6-recovery-task-dependencies.png)
+    ![6.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/cp6-recovery-task-dependencies.png)
 
     By performing the cyclic dependency check, you can verify that child tasks aren’t added in the parent tasks and it isn’t a cyclic dependency.
 
@@ -86,7 +86,7 @@ Previously, adding an associated plan would automatically include a link to the 
 
         You can add a recovery team to the plan as shown in the examples.
 
-        ![Recovery teams.](../image/recovery-teams-new.png)![Create New Recovery team form.](../image/add-new-recovery-team-form.png)
+        ![Recovery teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/recovery-teams-new.png)![Create New Recovery team form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-new-recovery-team-form.png)
 
 8.  Select **Save**.
 
@@ -95,8 +95,8 @@ Previously, adding an associated plan would automatically include a link to the 
     The selected plans and recovery teams are added to the plan record.
 
 
--   **[Associating related plans to a recovery task](../concept/handling-related-plans.md)**  
+-   **[Associating related plans to a recovery task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/handling-related-plans.md)**  
 You can now associate related plans with recovery tasks, making it easier to identify and manage plans during recovery. You can then use auto-generated nested plans in an event, reducing the manual effort of adding plans and improving system performance.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

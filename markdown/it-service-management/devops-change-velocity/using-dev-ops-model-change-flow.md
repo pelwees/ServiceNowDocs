@@ -31,7 +31,7 @@ You can use either a flow or a script to call the action.
 
     This action serves as a trigger for the **Change Control Callback** flow, which is used to notify the change decision to the orchestration tool.
 
-    ![DevOps Change Request Manual Approval flow](../image/devops-manual-flow.png)
+    ![DevOps Change Request Manual Approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-manual-flow.png)
 
 -   **Calling the Workflow Studio action using a script**
 
@@ -54,7 +54,7 @@ You can use either a flow or a script to call the action.
 
     This action serves as a trigger for the **Change Control Callback** flow, which is used to notify the change decision to the orchestration tool.
 
-    ![DevOps Change Request Minimal Automation Approval flow](../image/devops-minimal-flow.png)
+    ![DevOps Change Request Minimal Automation Approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-minimal-flow.png)
 
 -   **Calling the Workflow Studio action using a script**
 
@@ -77,7 +77,7 @@ You can use either a flow or a script to call the action.
 
     This action serves as a trigger for the **Change Control Callback** flow, which is used to notify the change decision to the orchestration tool.
 
-    ![DevOps Change Request Advanced Automation Approval flow](../image/devops-advanced-flow.png)
+    ![DevOps Change Request Advanced Automation Approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-advanced-flow.png)
 
 -   **Calling the Workflow Studio action using a script**
 
@@ -88,10 +88,10 @@ You can use either a flow or a script to call the action.
     ```
 
 
-**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
 **Related topics**  
 
 
-[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
+[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 

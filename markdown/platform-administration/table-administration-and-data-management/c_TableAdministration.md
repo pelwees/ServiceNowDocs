@@ -19,19 +19,19 @@ A table is a collection of records in the database. Each record corresponds to a
 
 <table id="table_mqd_2m1_cyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the basics of tables and table administration.](exploring-table-administration.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the basics of tables and table administration.](exploring-table-administration.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage tables and indexes, and create relational connections between records.](using-table-administration.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage tables and indexes, and create relational connections between records.](using-table-administration.md)
 
 </td></tr><tr><td>
 
-[Work with the Task table![](../../../reuse/icons/brand-icons/bus-datasheet.svg)Use the Task table to track task-specific functions, and connect with Incident and Problem tables.](../../task-table/concept/c_TaskTable.md)
+[Work with the Task table![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../reuse/icons/brand-icons/bus-datasheet.svg)Use the Task table to track task-specific functions, and connect with Incident and Problem tables.](../../task-table/concept/c_TaskTable.md)
 
 </td><td>
 
-[Create database views![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create database views for reporting purposes.](../../../use/reporting/concept/c_DatabaseViews.md)
+[Create database views![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create database views for reporting purposes.](../../../use/reporting/concept/c_DatabaseViews.md)
 
 </td></tr></tbody>
 </table>

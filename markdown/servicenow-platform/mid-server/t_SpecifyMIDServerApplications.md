@@ -21,7 +21,7 @@ Role required: agent\_admin or admin
 
 <table id="table_vdg_ns4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -106,7 +106,7 @@ N/A
 5.  Click **Update**.
 
 
-**Parent Topic:**[MID Server selection](../concept/c_MIDServerSelector.md)
+**Parent Topic:**[MID Server selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerSelector.md)
 
 ## Select applications to include in the definition of ALL for a MID Server
 
@@ -128,7 +128,7 @@ You can specify the ALL application for a MID Server, which means that the MID S
 
 2.  If you do not see the **Included in application ALL** column, you can personalize the list and add it.
 
-    ![Included in application ALL](../image/includedInAllApplications.png "Included in application ALL")
+    ![Included in application ALL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/includedInAllApplications.png "Included in application ALL")
 
 3.  For each application, double-click the value in the **Included in application ALL** column.
 

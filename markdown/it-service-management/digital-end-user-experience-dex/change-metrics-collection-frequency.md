@@ -33,7 +33,7 @@ Role required: sn\_dex\_admin
 
     **Note:** Make sure you're editing in the correct application.
 
-    ![Policy form with the record application and the Edit in Sandbox button highlighted](../image/acc-policy-edit-in-sandbox.png)
+    ![Policy form with the record application and the Edit in Sandbox button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/acc-policy-edit-in-sandbox.png)
 
 6.  In the Check Instances related list, select the name of the appropriate instance.
 

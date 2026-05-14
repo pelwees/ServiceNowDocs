@@ -15,9 +15,9 @@ breadcrumb: [Workspace, Source-to-Pay Operations, Finance and Supply Chain]
 
 Plan and configure your implementation for Source-to-Pay Workspace.
 
--   For more information on configuring Sourcing and Procurement Operations, see [Configure Sourcing and Procurement Operations](../../sourcing-procurement-operations/concept/configuring-spo.md).
--   For more information on configuring Supplier Lifecycle Operations, see [Configure Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/config-supp-mgmt.md).
--   For more information on configuring Source-to-Pay Workspace, see [Configure Accounts Payable Operations](config-acc-pay-mgmt.md).
+-   For more information on configuring Sourcing and Procurement Operations, see [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../sourcing-procurement-operations/concept/configuring-spo.md).
+-   For more information on configuring Supplier Lifecycle Operations, see [Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/concept/config-supp-mgmt.md).
+-   For more information on configuring Source-to-Pay Workspace, see [Configure Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/config-acc-pay-mgmt.md).
 
 ## AI search in Source-to-Pay Workspace
 
@@ -27,17 +27,17 @@ Make record content searchable by configuring an indexed source to add it to the
 
 Change the general settings to Source-to-Pay Workspace experience in UI Builder to fit the needs of your organization. For example, you can modify the title, description, and path for your workspace experience. Use the Global search to show or hide the search functionality in Source-to-Pay Workspace. For more information on global search, see [Display global search in a workspace experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/workspace-global-search.md).
 
--   **[Configuring knowledge bases to enable guest users to read knowledge articles from the Source-to-Pay Workspace](../../supplier-lifecycle-operations/concept/configuring-kb-publish.md#)**  
+-   **[Configuring knowledge bases to enable guest users to read knowledge articles from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/concept/configuring-kb-publish.md#)**  
 Configure knowledge bases so that guest users can read the created knowledge articles from the Source-to-Pay Workspace.
 
-**Parent Topic:**[Source-to-Pay Workspace](../../source-to-pay-operations/concept/source-to-pay-ws-overview.md)
+**Parent Topic:**[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../source-to-pay-operations/concept/source-to-pay-ws-overview.md)
 
 **Related topics**  
 
 
-[Explore Source-to-Pay Operations Workspace](exploring-source-to-pay-operations.md)
+[Explore Source-to-Pay Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/exploring-source-to-pay-operations.md)
 
-[Use Source-to-Pay Workspace](using-source-to-pay-ws.md)
+[Use Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/using-source-to-pay-ws.md)
 
-[Source-to-Pay Workspace Reference](../reference/source-to-pay-ws-reference.md)
+[Source-to-Pay Workspace Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../reference/source-to-pay-ws-reference.md)
 

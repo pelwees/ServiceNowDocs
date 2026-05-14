@@ -50,16 +50,16 @@ The **Starting** and **Ending** times define the window of time during which the
 
 If you change the **Repeat every** setting to 2, the job will run every 2 days, at 9:00 AM, starting June 1. That means it will run on June 1, June 3, June 5, and so on, continuing every other day until June 29 \(the last occurrence before the **Ending** time of June 30 at 23:59\).
 
-**Parent Topic:**[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+**Parent Topic:**[Scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reference-pages/concept/c_ScheduledJobs.md)
 
 **Related topics**  
 
 
-[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+[Scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reference-pages/concept/c_ScheduledJobs.md)
 
-[Create a scheduled job](t_CreateAScheduledJob.md)
+[Create a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAScheduledJob.md)
 
-[Advanced options for scheduled jobs](advanced-options-for-scheduled-jobs.md)
+[Advanced options for scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/advanced-options-for-scheduled-jobs.md)
 
-[Enable run types for scheduled job child tables](customize-run-times-for-scheduled-jobs.md#)
+[Enable run types for scheduled job child tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/customize-run-times-for-scheduled-jobs.md#)
 

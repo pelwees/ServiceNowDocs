@@ -94,7 +94,7 @@ The closure comments as defined in the IBM QRadar dashboard are displayed here.
 The default reason to be used when a security incident is closed, When a security incident is closed, a close code \(or the reason for closing\) is specified in the security incident record, If the close code does not match the closing reason specified in the IBM QRadar dashboard, and you try to close the security incident, an error message is displayed. In such cases, the default closing reason specified here is used when the security incident is closed.
 
 </td></tr></tbody>
-</table>    ![IBM QRadar: Create Profile: Automate Offense](../image/ibm-qradar-profile-auto.png)
+</table>    ![IBM QRadar: Create Profile: Automate Offense](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-profile-auto.png)
 
 3.  Select **Finish** to complete the configuration and move the profile to the **Waiting** state.
 

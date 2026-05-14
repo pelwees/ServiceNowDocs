@@ -22,24 +22,24 @@ You can achieve the following using the System Clone tool:
 -   Clone a ServiceNow instance from a backup.
 -   Clone a ServiceNow instance over a production instance.
 
-See [Exploring Instance Clone](../../managing-data/concept/exploring-instance-clone.md) for more information.
+See [Exploring Instance Clone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../managing-data/concept/exploring-instance-clone.md) for more information.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../reference/um-tools.md)
 
 **Related topics**  
 
 
-[ATF Test Generator and Cloud Runner tool in Upgrade Console](um-atf-tool.md)
+[ATF Test Generator and Cloud Runner tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-atf-tool.md)
 
-[Upgrade History tool in Upgrade Console](um-upgrade-history-tool.md)
+[Upgrade History tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-history-tool.md)
 
-[Upgrade Monitor tool in Upgrade Console](um-upgrade-monitor-tool.md)
+[Upgrade Monitor tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-monitor-tool.md)
 
-[Now Support in Upgrade Console](um-now-support.md)
+[Now Support in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-now-support.md)
 
-[Upgrade Preview tool in Upgrade Console](um-upgrade-preview-tool.md)
+[Upgrade Preview tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-preview-tool.md)
 
-[Upgrade Skipped Record Rules Editor tool in Upgrade Console](um-skipped-rules-tool.md)
+[Upgrade Skipped Record Rules Editor tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-skipped-rules-tool.md)
 
-[Upgrade Plans tool in Upgrade Console](um-upgrade-plans-tool.md)
+[Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-plans-tool.md)
 

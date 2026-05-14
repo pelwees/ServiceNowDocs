@@ -18,5 +18,5 @@ Judicious use of these HTML tags can make your email easier to read.
 -   You can use `**&lt;br/&gt;**` to insert a line break
 -   You can wrap paragraphs in `**&lt;p&gt; ... &lt;/p&gt;**` tags to format your email nicely.
 
-**Parent Topic:**[Construct an email message with a template](r_ConstructAnEmailMessage.md)
+**Parent Topic:**[Construct an email message with a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_ConstructAnEmailMessage.md)
 

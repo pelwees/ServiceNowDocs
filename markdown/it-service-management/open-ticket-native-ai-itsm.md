@@ -31,7 +31,7 @@ Role required: none
 
 4.  In the **Add attachments** field, select a file related to the issue.
 
-    ![Create incident in employee portal](../image/AINativeCreateIncident.png)
+    ![Create incident in employee portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/AINativeCreateIncident.png)
 
 5.  Select **Save as Draft** to save the ticket as a draft request to update and submit later.
 
@@ -65,5 +65,5 @@ Select **Solution found**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Employee experience in Simplified IT Service Management](../concept/employee-experience-native-ai-itsm.md)
+**Parent Topic:**[Employee experience in Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../concept/employee-experience-native-ai-itsm.md)
 

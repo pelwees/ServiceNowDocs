@@ -30,7 +30,7 @@ A provider instance belongs to the government agency who provides Service Bridge
 -   Receive and fulfill service requests on your instance pushed remotely from your constituents', business partners', channels', or agency partners' ServiceNow® instance\(s\).
 -   Access data synced in real-time between the provider instance and the consumer instance to track updates to government case records
 
-![Exploring Service Bridge for PSDS](../image/psds-servicebridge_graphic.png)
+![Exploring Service Bridge for PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-servicebridge_graphic.png)
 
 Agencies can connect:
 

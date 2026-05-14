@@ -53,7 +53,7 @@ Role required: admin
 
 9.  Fill in the following connection details as explained in the Connection details table.
 
-    ![Create Connection](../images/connection-window.png)
+    ![Create Connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/connection-window.png)
 
 <table id="table_utt_3fc_23c"><thead><tr><th>
 
@@ -120,5 +120,5 @@ This field is mandatory.
 
 ## What to do next
 
-The next step is to [Generate imports and validate the connections](generate-imports-validate-connections.md).
+The next step is to [Generate imports and validate the connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/generate-imports-validate-connections.md).
 

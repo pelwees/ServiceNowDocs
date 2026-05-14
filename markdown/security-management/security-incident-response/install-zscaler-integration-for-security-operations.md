@@ -100,7 +100,7 @@ API key that you obtained from the Zscaler Internet Access administration portal
 </td></tr></tbody>
 </table>    The following example shows the Zscaler configuration page.
 
-    ![Zscaler integration configuration page.](../image/zscaler-configuration.png "ZScaler configuration page")
+    ![Zscaler integration configuration page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-configuration.png "ZScaler configuration page")
 
 5.  Select **Validate and Update**.
 

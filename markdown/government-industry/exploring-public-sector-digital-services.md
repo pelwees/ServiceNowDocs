@@ -21,27 +21,27 @@ Public Sector Digital Services Overview
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Investigative Case Management ![](../../../reuse/icons/brand-icons/bus-observable.svg)Handle investigative cases.](psds-explore-inv-case-management.md#)
+[Investigative Case Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-observable.svg)Handle investigative cases.](psds-explore-inv-case-management.md#)
 
 </td><td>
 
-[Grants Management ![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](psds-using-grants-management-playbook.md)
+[Grants Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](psds-using-grants-management-playbook.md)
 
 </td><td>
 
-[Social Benefits Playbook ![](../../../reuse/icons/brand-icons/bus-handshake.svg)Handle applications for social benefit programs.](psds-exploring-pbs-social-benefits.md)
+[Social Benefits Playbook ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-handshake.svg)Handle applications for social benefit programs.](psds-exploring-pbs-social-benefits.md)
 
 </td></tr><tr><td>
 
-[License and Permit Playbook ![](../../../reuse/icons/brand-icons/bus-profile.svg)Handle license and permit requests.](psds-exploring-pbs-license-permit.md)
+[License and Permit Playbook ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-profile.svg)Handle license and permit requests.](psds-exploring-pbs-license-permit.md)
 
 </td><td>
 
-[Information Request Playbook ![](../../../reuse/icons/brand-icons/bus-discover.svg)Handle public record and information requests.](psds-exploring-pbs-information-request.md)
+[Information Request Playbook ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-discover.svg)Handle public record and information requests.](psds-exploring-pbs-information-request.md)
 
 </td><td>
 
-[Service Request Playbook ![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Handle non-emergency service requests.](psds-exploring-pbs-service-request.md)
+[Service Request Playbook ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-demand-management.svg)Handle non-emergency service requests.](psds-exploring-pbs-service-request.md)
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Walk constituents through the process of submitting a grant proposal, applying f
 
 </td><td>
 
-[Playbooks](playbooks-psds-exploring.md)
+[Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/playbooks-psds-exploring.md)
 
 </td><td>
 
@@ -111,7 +111,7 @@ Drive self-service from a portal that is integrated with knowledge articles, ser
 
 </td><td>
 
-[Portals](portals-psds-exploring.md)
+[Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/portals-psds-exploring.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Improve your agent efficiency for faster resolution and a better constituent exp
 
 </td><td>
 
-[Playbooks and Solutions](using-public-sector-workspace-for-government-agents.md)
+[Playbooks and Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/using-public-sector-workspace-for-government-agents.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Manage case interactions and service level agreements \(SLAs\), product model re
 
 </td><td>
 
-[Case Management](psds-config-case-management.md)
+[Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-case-management.md)
 
 </td><td>
 
@@ -147,7 +147,7 @@ Increase productivity with automated case detail and comment summarization, so a
 
 </td><td>
 
-[Intelligence](../reference/now-assist-for-psds.md)
+[Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/now-assist-for-psds.md)
 
 </td><td>
 
@@ -159,7 +159,7 @@ Get at-a-glance visibility and a deep understanding of the data and identify are
 
 </td><td>
 
-[Analytics and Insights](../../../use/application-content-packs/concept/psds-content-pack.md)
+[Analytics and Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../use/application-content-packs/concept/psds-content-pack.md)
 
 </td><td>
 
@@ -171,7 +171,7 @@ Embed a messenger-like pop up inside any website to interact with ServiceNow fea
 
 </td><td>
 
-[Virtual Agent](using-va-for-public-sector-digital-services.md)
+[Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/using-va-for-public-sector-digital-services.md)
 
 </td><td>
 
@@ -183,7 +183,7 @@ A dedicated, customizable workspace for government agents and agents from extern
 
 </td><td>
 
-[CSM Configurable Workspace](psds-using-csm-workspace.md)
+[CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-using-csm-workspace.md)
 
 </td><td>
 

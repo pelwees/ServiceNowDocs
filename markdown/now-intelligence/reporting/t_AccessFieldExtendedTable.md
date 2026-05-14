@@ -40,7 +40,7 @@ The video shows how to create a report with data from multiple tables using the 
 
 2.  On the Data tab, name the report `Active Incidents and Problems of Priority 1 or 2`, select the Source type Table, and select the table Task \[task\].
 
-    ![Report on extended tables in Report Designer, Data tab, with report name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task](../image/report-ext-tables-data.png)
+    ![Report on extended tables in Report Designer, Data tab, with report name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/report-ext-tables-data.png)
 
 3.  On the **Type** tab, enter **List** in the filter, select the report type, and click **Next**.
 
@@ -48,9 +48,9 @@ The video shows how to create a report with data from multiple tables using the 
 
 4.  On the **Configure** tab, Group by Task type and click **Save**.
 
-    The list report is refreshed with all tasks collapsed into their types.![List report on the task table showing all task types.](../image/ext-table-list-rep-with-all-tasks.png)
+    The list report is refreshed with all tasks collapsed into their types.![List report on the task table showing all task types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ext-table-list-rep-with-all-tasks.png)
 
-5.  Click the filter icon \(![Filter icon](../image/icon-filter.png)\) to open the Condition Builder.
+5.  Click the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/icon-filter.png)\) to open the Condition Builder.
 
     Use the Condition Builder to limit what the report displays to only the information you want.
 
@@ -59,22 +59,22 @@ The video shows how to create a report with data from multiple tables using the 
     -   Active is true.
     -   Task type is Incident OR Task type is Problem.
     -   Priority is one of 1 - Critical or 2 - High.
-    ![Condition builder showing the selected conditions Active, Task type, and priority conditions](../image/related-fields-task-conditions.png)
+    ![Condition builder showing the selected conditions Active, Task type, and priority conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/related-fields-task-conditions.png)
 
     The new report only has the two task types. Because you selected only Active tasks, there are fewer tasks in each category as well.
 
-    ![List report on the Task table showing only active Incidents and Problems.](../image/ext-table-list-rep-with-tasks-filtered.png)
+    ![List report on the Task table showing only active Incidents and Problems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ext-table-list-rep-with-tasks-filtered.png)
 
 7.  Select the columns to display in the report, including the extended table fields Category \[Incident\] and Related Incidents \[Problem\] and click **Save**.
 
-    ![Available Columns with several columns moved Selected.](../image/related-fields-columnns.png)
+    ![Available Columns with several columns moved Selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/related-fields-columnns.png)
 
     The Category \[Incident\] and Related Incidents \[Problem\] fields are unique to the extended tables \(Incident and Problem\). They appear at the bottom of the list of columns that are available from the Task table. These two fields are available because you enabled the property **Allow base table lists to include extended table fields, and allow filtering on extended table fields** \(glide.ui.list.allow\_extended\_fields\).
 
     The report shows the open incidents and their categories and the open problems with the number of their related incidents.
 
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdvancedReporting.md)
 
 ## Related tables in reporting
 
@@ -100,7 +100,7 @@ Dot-walking references a field by building a chain of field names separated by d
 
     Assigned to Company is an option in the report's Group by list. In this example, you see Assigned to Active because the Active field is a configured Stack by option.
 
-    ![Report on extended tables with Assigned to Company option selected in Group by](../image/report-ext-table-result.png)
+    ![Report on extended tables with Assigned to Company option selected in Group by](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/report-ext-table-result.png)
 
 
 **Related topics**  

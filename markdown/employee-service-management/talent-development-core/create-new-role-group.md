@@ -27,7 +27,7 @@ Role required: sn\_skills\_int.job\_arch\_admin
 
 1.  Navigate to **All** &gt; **Skills Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../../../common/image/icon-list.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../common/image/icon-list.png)\).
 
 3.  Go to **Job architecture** &gt; **Role groups**.
 
@@ -97,7 +97,7 @@ Actions
     3.  Add more role groups either by selecting the role group directly or from suggested role groups.
 
         -   To add a role group directly, select **Add group** and provide details about the role group.
-        -   To add a role group from suggestions, select the Recommendations icon \(![Recommendations icon](../image/skills-recommendations-icon.png)\) and select **Add** on the role group.
+        -   To add a role group from suggestions, select the Recommendations icon \(![Recommendations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/skills-recommendations-icon.png)\) and select **Add** on the role group.
 10. Select **Submit**.
 
     **Note:** A new role group is created with all the data.
@@ -105,16 +105,16 @@ Actions
 
 ## Result
 
-The new role group is opened in form view starting with the Skills matrix. You can see all the skills and role levels related to the role group. You can add more skills to the role group after it is created if necessary. For more information, see [Add more skills to a role group](adding-skills-with-skills-matrix.md).
+The new role group is opened in form view starting with the Skills matrix. You can see all the skills and role levels related to the role group. You can add more skills to the role group after it is created if necessary. For more information, see [Add more skills to a role group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/adding-skills-with-skills-matrix.md).
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/job-architecture-working.md)
 
 **Related topics**  
 
 
-[Add more skills to a role group](adding-skills-with-skills-matrix.md)
+[Add more skills to a role group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/adding-skills-with-skills-matrix.md)
 
-[Edit skills and proficiencies in the Skills Matrix](edit-skills-with-skills-matrix.md)
+[Edit skills and proficiencies in the Skills Matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/edit-skills-with-skills-matrix.md)
 
-[Create related role groups](related-role-groups.md)
+[Create related role groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/related-role-groups.md)
 

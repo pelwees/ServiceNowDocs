@@ -61,7 +61,7 @@ PCI Configuration Controls
 
 </td><td>
 
-![Stacked bar chart](../../../reuse/reporting/image/bar-stacked.svg) Stacked bar chart
+![Stacked bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/reporting/image/bar-stacked.svg) Stacked bar chart
 
 </td><td>
 
@@ -72,5 +72,5 @@ Security Configurations \[isc\_security\_configurations\]
 Displays compliant and non-compliant PCI control configurations in high, medium, and low categories. Click an area of the report to display the matching security configurations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](../../../administer/security/concept/instance-sec-center-hardening.md)
+</table>**Parent Topic:**[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../administer/security/concept/instance-sec-center-hardening.md)
 

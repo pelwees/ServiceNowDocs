@@ -19,10 +19,10 @@ The tab is designed to help the safety teams quickly understand where risks are 
 
 ## Prerequisites
 
--   Verify that the Health and Safety Incident Management application is installed. For more information, see [Health and Safety Incident Management](../../ohs-incident-management/concept/hs-incident-mgmt-landing-page.md).
+-   Verify that the Health and Safety Incident Management application is installed. For more information, see [Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../../ohs-incident-management/concept/hs-incident-mgmt-landing-page.md).
 -   Verify that the generative AI \[com.snc.sn\_hs\_gen\_ai\] plugin is installed.
--   Configure the inclusion of incident records that contain sensitive data. For more information, see [Configure the inclusion of sensitive data in incident patterns](../task/hs-configure-sensitive-data-incident-pattern.md).
--   Verify that all the jobs are running. For more information on configuring the interval at which these jobs run, see [Configure the generation of incident patterns](../task/hs-configure-generation-incident-pattern.md).
+-   Configure the inclusion of incident records that contain sensitive data. For more information, see [Configure the inclusion of sensitive data in incident patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../task/hs-configure-sensitive-data-incident-pattern.md).
+-   Verify that all the jobs are running. For more information on configuring the interval at which these jobs run, see [Configure the generation of incident patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../task/hs-configure-generation-incident-pattern.md).
 
 ## Role required
 
@@ -109,5 +109,5 @@ Monthly snapshot of the total number of patterns identified and stacked by urgen
 
 You can customize the widgets in the dashboard to display relevant metrics by using the UI Builder. For more information, see [UI Builder tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/uib-tutorial.md).
 
-**Parent Topic:**[Incident pattern analysis](hs-incident-pattern-analysis.md)
+**Parent Topic:**[Incident pattern analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md)
 

@@ -33,13 +33,13 @@ This playbook is displayed only for these case types:
 -   Supplier location change request
 -   Conduct sanction screening
 
-![Review supplier primary data request playbook.](../image/primary-data-playbook.png "Review supplier primary data request playbook on the Playbook tab")
+![Review supplier primary data request playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/primary-data-playbook.png "Review supplier primary data request playbook on the Playbook tab")
 
 ## Review supplier primary data request playbook flow
 
 The following diagram illustrates the flow of the activities in each stage of the Review supplier primary data request playbook.
 
-![Review supplier primary data request playbook.](../image/primary-data-playbook-flow.png "Review supplier primary data request playbook flow")
+![Review supplier primary data request playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/primary-data-playbook-flow.png "Review supplier primary data request playbook flow")
 
 ## Review supplier primary data request playbook stages and activities
 
@@ -170,16 +170,16 @@ You can do the following:
 Updates the case to Closed Rejected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage supplier details](supp-ws-details-page.md)
+</table>**Parent Topic:**[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 
-[Configure due dates for supplier cases](../task/configure-case-due-date.md)
+[Configure due dates for supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-case-due-date.md)
 
-[Case playbook for specific supplier case types](gen-playbook-cases.md)
+[Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/gen-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-new-supplier-case.md)
 

@@ -19,7 +19,7 @@ With this template, you can do the following actions:
 
 -   Map your equipment model entities. With this map, you create a hierarchical structure.
 -   Create multiple equipment models for multiple industrial sites.
--   Assign users to each site so that you can manage their access to the equipment model information for specific sites. For example, you can designate that users in Atlanta can access only the Atlanta site information but not the data for a site in Michigan. To learn more, see [Assign or remove equipment model site access for non-administrators](../task/create-user-criteria-for-equipment-model-entity-site-users.md).
+-   Assign users to each site so that you can manage their access to the equipment model information for specific sites. For example, you can designate that users in Atlanta can access only the Atlanta site information but not the data for a site in Michigan. To learn more, see [Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 The equipment models start at the site level and contain a detailed hierarchical structure that describes each industrial site. You apply an equipment model template to structure this data in a hierarchical sequence.
 
@@ -51,7 +51,7 @@ The following graphic is an example of the standard ISA-95 default template that
         For example, in a car manufacturing plant there are designated storage units to store car-paint, electrical accessories, and raw steel.
 
 
-![Equipment model template example.](../image/equipment-model-template.png "Equipment model template example")
+![Equipment model template example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/equipment-model-template.png "Equipment model template example")
 
-**Parent Topic:**[Exploring Industrial Process Manager](exploring-manufacturing-process-mgr.md)
+**Parent Topic:**[Exploring Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/exploring-manufacturing-process-mgr.md)
 

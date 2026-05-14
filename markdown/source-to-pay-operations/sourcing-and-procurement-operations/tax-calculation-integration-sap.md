@@ -29,5 +29,5 @@ SAP's tax engine API consumes necessary parameters from the tax calculation gene
 
 The tax estimates are consumed by ServiceNow and updated in the **Estimated Tax** field on the cart line.
 
-**Parent Topic:**[Tax calculations](tax-calculations.md)
+**Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/tax-calculations.md)
 

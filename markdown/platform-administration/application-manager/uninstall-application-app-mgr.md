@@ -42,5 +42,5 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 5.  Select **OK**.
 
 
-**Parent Topic:**[Uninstalling applications](../concept/uninstalling-apps-app-manager.md)
+**Parent Topic:**[Uninstalling applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../concept/uninstalling-apps-app-manager.md)
 

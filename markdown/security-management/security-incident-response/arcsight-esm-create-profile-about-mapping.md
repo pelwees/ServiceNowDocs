@@ -21,7 +21,7 @@ For the mapping step, you can ingest sample correlation events for the selected 
 
 The following figure shows the default mapping configuration that is provided for creating the correlation event profile. You can customize the fields that populate the security incident.
 
-![ArcSight ESM: Create Profile: Default Map](../image/sir-arcsight-esm-profile-default-map.png)
+![ArcSight ESM: Create Profile: Default Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-default-map.png)
 
 When you click **Retrieve Events**, the correlation event field names and the corresponding values are populated on the left side of the form. These are the ArcSight ESM correlation event fields that are available to map to the security incident fields.
 

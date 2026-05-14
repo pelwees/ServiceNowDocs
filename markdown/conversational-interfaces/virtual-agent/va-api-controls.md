@@ -773,5 +773,5 @@ Boolean options
 
 Indicates that the conversation has started in Virtual Agent API.
 
-**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 

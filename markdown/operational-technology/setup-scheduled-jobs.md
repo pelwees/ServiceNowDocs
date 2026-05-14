@@ -74,5 +74,5 @@ Role required: admin
 
 ## Result
 
-You have completed the Service Graph Connector for ServiceNow OT Discovery Guided Setup. You may want to review the [Use advanced configurations](advanced-configuration-sgc-ot-discovery.md) section.
+You have completed the Service Graph Connector for ServiceNow OT Discovery Guided Setup. You may want to review the [Use advanced configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/advanced-configuration-sgc-ot-discovery.md) section.
 

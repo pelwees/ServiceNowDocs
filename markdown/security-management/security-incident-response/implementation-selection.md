@@ -31,7 +31,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     The investigation tab with the entry points lists is displayed.
 
-    ![Investigation tab of the workspace](../image/example1.png)
+    ![Investigation tab of the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/example1.png)
 
 4.  Select the associated observable from the entry point lists.
 
@@ -39,7 +39,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     **Note:** You can select an implementation to perform a lookup on the selected observables, or you can perform the lookup by selecting all implementations.
 
-    ![Run Threat Lookup](../image/example1-run-threat-lookup.png "Run Threat Lookup")
+    ![Run Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/example1-run-threat-lookup.png "Run Threat Lookup")
 
 5.  Select any observable check box that you wish to perform the threat lookup.
 
@@ -51,7 +51,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     The **Run Threat Lookup Implementations** modal screen is displayed.
 
-    ![Run Threat Lookup Implementations](../image/example1-run-threat-lookup-select.png "Run Threat Lookup Implementations")
+    ![Run Threat Lookup Implementations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/example1-run-threat-lookup-select.png "Run Threat Lookup Implementations")
 
 8.  Select one or more implementations from the list.
 
@@ -59,10 +59,10 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     After the selected records are submitted, a message is displayed that the lookup is being executed. Once the implementation is processed in the backend, the results are displayed in the **Threat Lookup Results** related list section. Also, the respective implementation activity is displayed in the **Activity** section. Two activities are displayed, one is when the implementation execution is started and the second one is when the execution is completed.
 
-    ![User Reported Phishing view: Associated Observables section.](../image/example1-execution.png)
+    ![User Reported Phishing view: Associated Observables section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/example1-execution.png)
 
     **Note:** The **Threat intel** related lists such as the associated observables related lists are displayed in the **Threat Lookup Results** section, and the **Sightings Search** related lists are displayed in the **Sightings Search Results** section under the Related Records.
 
 
-**Parent Topic:**[Example 1: Select implementations: Threat Lookup](example-1-select-implementations-threat-lookup.md)
+**Parent Topic:**[Example 1: Select implementations: Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-1-select-implementations-threat-lookup.md)
 

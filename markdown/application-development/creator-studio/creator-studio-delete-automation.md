@@ -29,16 +29,16 @@ To delete a playbook, you must be given permission to work on the app.
 
 4.  Select the automation that contains the playbook that you want to delete.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation that has the playbook")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation that has the playbook")
 
 5.  Select the more actions icon ![](../image/cs-more-actions-icon.png).
 
 6.  Select **Delete**.
 
-    ![Menu option to delete a playbook](../image/crs-delete-playbook.png "Delete menu option")
+    ![Menu option to delete a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-delete-playbook.png "Delete menu option")
 
 7.  On the confirmation modal, select the **Delete** button.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

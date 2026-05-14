@@ -69,7 +69,7 @@ Role required: admin
         -   Select **New** and then from the Select Icon Section Destination Type menu, select either launcher, screen, or function option.
     4.  In the **Image** field, use the reference lookup icon to select the icon type image you created.
 
-        **Note:** For details to complete the rest of the Icon section destination type table, see [Configure an icon UI section](sg-ui-section-config-navig.md).
+        **Note:** For details to complete the rest of the Icon section destination type table, see [Configure an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
 
     5.  Select **Submit**.
 

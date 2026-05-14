@@ -117,7 +117,7 @@ The following changes are made to the domain assignment process to manage data s
 |Article Template|User Domain|
 |Compliance data source registry|User Domain|
 
-**Parent Topic:**[Policy and Compliance Management reference](reference-data-policy-compliance.md)
+**Parent Topic:**[Policy and Compliance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/reference-data-policy-compliance.md)
 
 **Related topics**  
 

@@ -33,7 +33,7 @@ Visual Task Boards that are "data-driven" show the data from tables that are lik
 
 Condition-based criteria is used to filter that data. Free-form VTBs' use Private Tasks \(vtb\_task\), which supports domain separation as an extension of Task and inherits domain separation logic as a result.
 
-**Parent Topic:**[Visual Task Boards reference](vis-task-boards-ref.md)
+**Parent Topic:**[Visual Task Boards reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/vis-task-boards-ref.md)
 
 **Related topics**  
 

@@ -25,11 +25,11 @@ Role required: email\_composer
 
 3.  **Note:** Instead of a button to save email drafts manually, drafts save automatically.
 
-    Access your drafts by selecting the drafts icon \(![Drafts icon](../image/x-mini-drafts-icon.png)\) from the email footer.
+    Access your drafts by selecting the drafts icon \(![Drafts icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-mini-drafts-icon.png)\) from the email footer.
 
     A modal opens with a list of actions and email drafts.
 
-    ![View drafts modal](../image/xs2-drafts-modal.png)
+    ![View drafts modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-drafts-modal.png)
 
 4.  Select an action or recent draft.
 

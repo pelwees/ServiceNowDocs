@@ -36,7 +36,7 @@ All tables in the Health and Safety Incident Management can be domain-separated 
 -   Each table in Health and Safety Incident Management includes the domain separation fields **Domain** and **Domain path**.
 -   Customer can use these fields to configure domain separation in their implementation of Health and Safety Incident Management.
 
-**Parent Topic:**[Health and Safety Incident Management reference](hs-incident-mgmt-reference.md)
+**Parent Topic:**[Health and Safety Incident Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
 **Related topics**  
 

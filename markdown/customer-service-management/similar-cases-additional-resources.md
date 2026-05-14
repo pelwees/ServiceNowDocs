@@ -171,11 +171,11 @@ To configure the time-frame for the solution definition threshold, see [Update y
 
 If the Major Case agent assist recommendations find one or more major cases similar to the current case, the Predictive Intelligence tab displays these cases ranked by similarity score. The case with the highest score is highlighted with a white box and the title **Major Case** and includes a user action to link the current case to the major case.
 
-![Agent Assist window in the Predictive Intelligence tab displaying a recommendation to link the current case to a major case.](../image/csm-agent-intelligence-tab-major-case.png "Predictive Intelligence major case recommendation")
+![Agent Assist window in the Predictive Intelligence tab displaying a recommendation to link the current case to a major case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-agent-intelligence-tab-major-case.png "Predictive Intelligence major case recommendation")
 
 If the Major Case agent assist recommendations find cases similar to the current case, but no major cases, the Predictive Intelligence tab displays a recommendation highlighted with a blue box. It includes the option to propose the current case as a major case candidate.
 
-![Agent Assist window in the Predictive Intelligence tab displaying a recommendation to propose the current case as a major case.](../image/csm-agent-intelligence-tab-recommendation.png "Predictive Intelligence tab similar case recommendation")
+![Agent Assist window in the Predictive Intelligence tab displaying a recommendation to propose the current case as a major case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-agent-intelligence-tab-recommendation.png "Predictive Intelligence tab similar case recommendation")
 
 The Major Case agent assist recommendations:
 

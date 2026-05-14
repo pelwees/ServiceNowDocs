@@ -15,7 +15,7 @@ Subscription pricing is a pricing model where customers pay a recurring fee for 
 
 Subscription revenue amounts are metrics that help sales agents and sales managers track and analyze the revenue impact of sales deals. Sales agents and managers can view these system-calculated revenue amounts in the pricing details for opportunities and quotes, both at the header and line levels. These revenue amounts, such as monthly recurring revenue \(MRR\) or annual recurring revenue \(ARR\), are useful for monitoring sales performance, forecasting subscription revenue, and providing relevant subscription amounts when agents engage with customers.
 
-![Opportunity line and Opportunity header records that display system-calculated subscription revenue values described in the opportunity subscription tables that follow](../image/opportunity-subscription-revenue.png "Example opportunity subscription revenue details")
+![Opportunity line and Opportunity header records that display system-calculated subscription revenue values described in the opportunity subscription tables that follow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/opportunity-subscription-revenue.png "Example opportunity subscription revenue details")
 
 ## Subscription pricing metrics
 
@@ -278,7 +278,7 @@ Cumulative margin %
 |Total monthly margin %|\(Total monthly margin/Total monthly price\) × 100|
 |Total margin %|\(Total Margin Amount/Total amount\) × 100|
 
-To learn more about the revenue metrics in opportunity details, see [Add and view the details of an opportunity](opportunity-management-details-tab.md) and [Add line items to an opportunity](opportunity-management-line-items-tab.md).
+To learn more about the revenue metrics in opportunity details, see [Add and view the details of an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md) and [Add line items to an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-line-items-tab.md).
 
-To learn more about the revenue metrics in quote details, see [Add and view details of a quote](../task/quote-management-details-tab.md).
+To learn more about the revenue metrics in quote details, see [Add and view details of a quote](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/quote-management-details-tab.md).
 

@@ -23,7 +23,7 @@ Role required: admin
 
 If you don't define specific search sources for your portal, the system uses default search sources instead.
 
-![Flow chart for default search sources, which shows how default search sources are only used if no search sources are defined](../image/DefaultSearchSources.png "Default search source flow chart")
+![Flow chart for default search sources, which shows how default search sources are only used if no search sources are defined](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/DefaultSearchSources.png "Default search source flow chart")
 
 ## Procedure
 
@@ -42,5 +42,5 @@ If you don't define specific search sources for your portal, the system uses def
 4.  Click **Update**.
 
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/zing-search-service-portal.md)
 

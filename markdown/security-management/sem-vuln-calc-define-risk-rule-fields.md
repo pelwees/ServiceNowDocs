@@ -160,7 +160,7 @@ Use case: Third-party vendors, like Qualys and Tenable, provide their own scores
 6.  In the **Weight** field, enter the relative importance of this field within the risk rule. The value must be an integer from 0 through 100.
 7.  In the Define Value Weightage section, add field values, and assign a weight to them.
 
-    ![Risk rule VI example.](../../vulnerability-response/image/risk-rule-vi-example.jpg "Vulnerable item table")
+    ![Risk rule VI example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/risk-rule-vi-example.jpg "Vulnerable item table")
 
 8.  Select **Submit**.
 
@@ -187,7 +187,7 @@ The mapping between the CI and services is stored in the Related Services \[sn\_
 8.  In the **Weight** field, enter the relative importance of this field within the risk rule. The value must be an integer from 0 through 100.
 9.  In the Define Value Weightages section, add field values, and assign a weight to them.
 
-    ![Risk rule CI reference table.](../../vulnerability-response/image/risk-rule-ci-ref-table-define-value-weightages.png "Configuration item reference table")
+    ![Risk rule CI reference table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/risk-rule-ci-ref-table-define-value-weightages.png "Configuration item reference table")
 
 10. Select **Submit**.
 
@@ -208,21 +208,21 @@ To add a conditional criterion to the risk rule, do the following:
 7.  In the **Weight** field, enter the relative importance of this field within the risk rule. The value must be an integer from 0 through 100.
 8.  In the **Condition** field, select **Name** &gt; **starts with** and enter the value **external**.
 
-    ![Custom conditions for a new risk rule.](../../vulnerability-response/image/risk-rule-custom-conditions.jpg "Custom conditions for the new risk rule")
+    ![Custom conditions for a new risk rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/risk-rule-custom-conditions.jpg "Custom conditions for the new risk rule")
 
 9.  Select **Submit**.
 
     **Note:** Adding conditional criteria to your risk rule might degrade performance.
 
 
-**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Vulnerability Response calculators and vulnerability calculator rules](../../vulnerability-response/concept/vuln-calculators-rules.md)
+[Vulnerability Response calculators and vulnerability calculator rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/vuln-calculators-rules.md)
 
-[Create a Vulnerability Response calculator](../../vulnerability-response/task/create-vul-calculator.md)
+[Create a Vulnerability Response calculator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/task/create-vul-calculator.md)
 
-[Filtering within Vulnerability Response](../../vulnerability-response/concept/vr-filtering.md)
+[Filtering within Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/vr-filtering.md)
 

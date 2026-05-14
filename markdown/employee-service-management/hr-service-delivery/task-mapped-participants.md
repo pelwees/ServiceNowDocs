@@ -30,7 +30,7 @@ Document tasks are automatically initiated for the participants when you:
 
 -   Change the state of the HR case to **Ready**.
 
-![Enabling case option and selecting document template on HR service.](../image/hr-service-config.png)
+![Enabling case option and selecting document template on HR service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-service-config.png)
 
 ## Manually
 
@@ -38,9 +38,9 @@ Document tasks are manually initiated when you click the **Initiate document tas
 
 **Note:** The **Initiate document tasks** option does not appear when the **Automatically Initiate Document tasks** option is already enabled on the HR service of a case.
 
-![Initiating document tasks](../image/initiate-tasks.png)
+![Initiating document tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/initiate-tasks.png)
 
 **Note:** Initiating document tasks from a Preview model is not available for a word document template.
 
-**Parent Topic:**[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+**Parent Topic:**[Using Document Templates: HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/understanding-doc-templates.md)
 

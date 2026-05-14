@@ -399,12 +399,12 @@ Ship to state/province
 The state to which the items on the purchase order should be shipped.
 
 </td></tr></tbody>
-</table>-   **[Invoice form tabs](invoice-form-related-list.md)**  
+</table>-   **[Invoice form tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-form-related-list.md)**  
 The Invoice form includes tabs that store invoice information that an Accounts Payable Specialist can use to perform related tasks.
--   **[Inbound Invoice Fields](inbound-invoice-fields.md)**  
+-   **[Inbound Invoice Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-fields.md)**  
 The Inbound invoice table is the source table from where you import the invoice required fields to successfully create an invoice through the integration framework.
--   **[Outbound invoice fields](outbound-invoice-fields.md)**  
+-   **[Outbound invoice fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-invoice-fields.md)**  
 The outbound invoice table transfers the invoice details from ServiceNow® to third party applications through integration framework.
 
-**Parent Topic:**[Create New Invoice Line form](create-invoice-line-form.md)
+**Parent Topic:**[Create New Invoice Line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 

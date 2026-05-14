@@ -17,7 +17,7 @@ Edit, disable, or delete automations for your Boards in Collaborative Work Manag
 
 ## Before you begin
 
-[Create automations in CWM](create-and-manage-automations-in-cwm.md).
+[Create automations in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-and-manage-automations-in-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -34,7 +34,7 @@ Role required: sn\_cwm.cwm\_user
     -   To disable an active automation, switch the toggle off.
     -   To enable a disabled automation, switch the toggle on.
 
-        ![Enable or disable an automation.](../images/cwm-automations-enable-disable.gif)
+        ![Enable or disable an automation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-automations-enable-disable.gif)
 
     -   To edit an automation:
         1.  Select **More actions** and select **Edit**.
@@ -44,8 +44,8 @@ Role required: sn\_cwm.cwm\_user
 
         1.  Select **More actions** and select **Delete**.
         2.  Confirm by selecting **Delete**.
-        ![Edit automations.](../images/cwm-automations-manage.jpg)
+        ![Edit automations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-automations-manage.jpg)
 
 
-**Parent Topic:**[Work item automations in CWM](../concept/implementing-automations-in-collaborative-work-management.md)
+**Parent Topic:**[Work item automations in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/implementing-automations-in-collaborative-work-management.md)
 

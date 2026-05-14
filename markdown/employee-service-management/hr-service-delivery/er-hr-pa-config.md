@@ -41,7 +41,7 @@ Role required: pa\_admin
 
         Here you see the indicator sources filtered on the Self-Service Analytics dashboard from the Employee Relations Executive Overview.
 
-        ![Indicator Sources tab of the PA Admin Console listing indicator sources and their details within the Employee Relations Executive Overview dashboard.](../../../reuse/images/hr-er-admin-console.png)
+        ![Indicator Sources tab of the PA Admin Console listing indicator sources and their details within the Employee Relations Executive Overview dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/images/hr-er-admin-console.png)
 
     2.  Review the facts table, conditions, and frequency of the indicator sources compared to the data structure on your own instance.
 

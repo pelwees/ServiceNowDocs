@@ -65,7 +65,7 @@ Platform functions can be defined in two ways:
 
 2.  Create a field that holds the function definition, as shown in the following example.
 
-    ![Function field definition](../image/platform-functions-dictionary-entry.png)
+    ![Function field definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/platform-functions-dictionary-entry.png)
 
     Select the **Function field** check box on the Dictionary Entry \[sys\_dictionary\] form. This action specifies that the field runs a function rather than stores a value.
 

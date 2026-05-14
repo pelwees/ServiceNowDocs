@@ -29,13 +29,13 @@ Role required: admin
 
 3.  On the Software Library section, select **Scripts** and click **Create Script**.
 
-    Alternatively, you can also right-click **Scripts** and select **Create Script**.![Select create script option](../image/select-create-script.png)
+    Alternatively, you can also right-click **Scripts** and select **Create Script**.![Select create script option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/select-create-script.png)
 
 4.  Specify **Script name**.
 
 5.  Add the script on the script field \(block\).
 
-    ![Add script block](../image/add-script-block.png)
+    ![Add script block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-script-block.png)
 
 6.  Click **Next**.
 
@@ -47,18 +47,18 @@ Role required: admin
 
 9.  Select the **Approve/Deny** option and then click **Approve** to approve the script.
 
-    Alternatively, you can also right-click on the created script record and select the **Approve/Deny** option and then click **Approve**.![Approve script record](../image/approve-script-record.png)
+    Alternatively, you can also right-click on the created script record and select the **Approve/Deny** option and then click **Approve**.![Approve script record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/approve-script-record.png)
 
 10. Get the script GUID.
 
     1.  Open power shell console using **Connect via Windows PowerShell ISE**.
 
-        ![Connect via Windows Powershell ISE](../image/connect-window-power-shell.png)
+        ![Connect via Windows Powershell ISE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/connect-window-power-shell.png)
 
     2.  Get the script GUID by running the command `Get-CMScript -ScriptName 'GetProcess' | Select ScriptGuid`.
 
-        ![Run command for script GUID](../image/script-guid-command.png)
+        ![Run command for script GUID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/script-guid-command.png)
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

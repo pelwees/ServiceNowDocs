@@ -32,5 +32,5 @@ When you can create an OT change request, you can choose from the categories lis
 |Firmware|Changes to the OT firmware.|
 |Other|Other changes not captures in the categories above.|
 
-**Parent Topic:**[Operational Technology Change Management reference](oper-tech-change-management-reference.md)
+**Parent Topic:**[Operational Technology Change Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
 

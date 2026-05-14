@@ -29,7 +29,7 @@ Role required: catalog\_admin, taxonomy\_admin, or any user that meets the Taxon
 
 4.  In the Collection list, do one of the following to move the catalog categories to the Catalog Categories list:
 
-    -   Select a catalog category and then click the right arrow icon \(![Right-arrow icon.](../images/right-arrow-icon.png)\) icon.
+    -   Select a catalog category and then click the right arrow icon \(![Right-arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/right-arrow-icon.png)\) icon.
     -   Double-click a catalog category.
     **Note:** In the Collection list, you can search for catalog categories by entering the category name or by using wild cards \(\*\).
 
@@ -40,7 +40,7 @@ Role required: catalog\_admin, taxonomy\_admin, or any user that meets the Taxon
 
 ## What to do next
 
-For more information, see [Taxonomy and connected content](../concept/track-new-content.md).
+For more information, see [Taxonomy and connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/track-new-content.md).
 
 **Related topics**  
 

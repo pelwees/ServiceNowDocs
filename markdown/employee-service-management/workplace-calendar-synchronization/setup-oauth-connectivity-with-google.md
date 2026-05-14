@@ -17,11 +17,11 @@ Create an application registry for Google Calendar with ServiceNow to synchroniz
 
 ## Before you begin
 
-[Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md)
+[Authenticate Google for calendar synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-google-for-calendar-sync.md)
 
 Ensure that the application scope is set to **Google Calendar Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(![Application scope to set the scope of your application.](../image/application-scope-globe-icon.png)\) on the top-right corner of your Employee Center homepage.
+1.  Select the Application scope icon \(![Application scope to set the scope of your application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../image/application-scope-globe-icon.png)\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Google Calendar Spoke**.
 4.  Refresh the page.
@@ -81,7 +81,7 @@ Role required: admin
     2.  On the OAuth Entity Profile form, do the following:
 
         1.  In the OAuth Entity Profiles Scopes section, double-click **Insert a new row**.
-        2.  Select the Lookup icon \(![Lookup icon.](../../../common/image/List_SearchIcon.png)\).
+        2.  Select the Lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../common/image/List_SearchIcon.png)\).
         3.  Select `calendar` that is assigned to the OAuth provider that you created in Step 6.
         4.  Repeat the previous steps and also add `calendar.events`.
 9.  Select **Update**.
@@ -93,5 +93,5 @@ The OAuth connectivity is added for Google.
 
 ## What to do next
 
-[Create your own connection and credential alias for Google](create-own-connection-credential-alias-for-google.md)
+[Create your own connection and credential alias for Google](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-connection-credential-alias-for-google.md)
 

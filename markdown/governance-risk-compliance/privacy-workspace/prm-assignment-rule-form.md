@@ -33,5 +33,5 @@ For a description of the field values, see the following table:
 |Script|
 |Script|Script to define advanced assignment rule.|
 
-**Parent Topic:**[Create an assignment rule](../task/prm-create-assignment-rule.md)
+**Parent Topic:**[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../task/prm-create-assignment-rule.md)
 

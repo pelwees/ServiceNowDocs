@@ -15,7 +15,7 @@ You can edit tags that you created from the list and form views, the **My Tags**
 
 **Note:** Tag names are case-insensitive and must not include punctuation.
 
-**Parent Topic:**[Tags](c_Tags.md)
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Edit tags from the list view
 
@@ -33,7 +33,7 @@ Role required: none
 
 1.  Navigate to a list that contains records you have previously tagged.
 
-2.  Click the edit tag audience icon \(![Edit tag audience](../image/IconEditTagAudience.png)\) beside the tag name.
+2.  Click the edit tag audience icon \(![Edit tag audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconEditTagAudience.png)\) beside the tag name.
 
     The Tag Details dialog box opens.
 
@@ -60,9 +60,9 @@ Role required: none
 
 2.  Perform the appropriate action for your version of the UI.
 
-3.  Select the more options icon \(![More options icon.](../../using-forms/image/IconUI16MoreOptions.png)\) in the form header.
+3.  Select the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-forms/image/IconUI16MoreOptions.png)\) in the form header.
 
-4.  Select the edit tag audience icon \(![Edit tag audience icon.](../image/IconEditTagAudienceUI16Form.png)\) beside the tag name.
+4.  Select the edit tag audience icon \(![Edit tag audience icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconEditTagAudienceUI16Form.png)\) beside the tag name.
 
 5.  In the Tag Details dialog box, edit the **Name** field as necessary.
 

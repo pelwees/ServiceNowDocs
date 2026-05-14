@@ -44,14 +44,14 @@ The **On resource limit exceeded** base system policy action has a default Servi
 3.  Modify the policy rules conditions.
     -   Click **New** to create a new policy record.
 
-        For more information, see [Create a cloud policy](create-cloud-policy.md).
+        For more information, see [Create a cloud policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md).
 
 2.  In the Rules related list, modify the base system rule or create a new rule.
 
     -   Open the base system **approveresourcelimit** rule that should perform the action and customize it.
     -   Create a policy rule.
 
-        For more information, see [Configure a cloud policy rule](configure-cloud-policy-rule.md).
+        For more information, see [Configure a cloud policy rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-cloud-policy-rule.md).
 
 3.  Specify a policy action.
 
@@ -103,5 +103,5 @@ The base system notification email for the 'on Resource Limit exceeded' policy a
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Create a cloud policy](create-cloud-policy.md)
+**Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 

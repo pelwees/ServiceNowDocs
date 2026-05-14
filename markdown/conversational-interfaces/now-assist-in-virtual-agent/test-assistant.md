@@ -17,7 +17,7 @@ Test your chat assistant.
 
 ## Before you begin
 
-See [Review chat assistant settings](review-assistant-settings.md).
+See [Review chat assistant settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/review-assistant-settings.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -31,13 +31,13 @@ It's important to test your assistant to simulate an end-to-end conversation bef
 
     If selected portals only have the standard chat experience or only the enhanced chat experience enabled, the drop-down list doesn't appear. If both experience types are enabled, the drop-down list shows both of them.
 
-    ![Option to select a chat experience when testing an assistant.](../image/NAinVA-test-052026.png "Test a chat assistant from the Home page")
+    ![Option to select a chat experience when testing an assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-test-052026.png "Test a chat assistant from the Home page")
 
     The **Test** options reflect the assistant’s configured display experiences. When multiple chat experience types are configured, a drop‑down list appears with all available testing options. If only one chat experience type is configured, the drop‑down list is not shown.
 
     Testing a chat assistant can also be accessed when editing an assistant.
 
-    ![Option to select a chat experience when testing an assistant.](../image/NAinVA-test-edit-052026.png "Test a chat assistant when editing an assistant")
+    ![Option to select a chat experience when testing an assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-test-edit-052026.png "Test a chat assistant when editing an assistant")
 
     **Note:** If a display experience hasn’t been configured, the test panel launches the enhanced chat experience.
 

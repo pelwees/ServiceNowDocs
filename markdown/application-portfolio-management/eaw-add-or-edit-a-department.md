@@ -21,9 +21,9 @@ Role required: user\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Departments**.
 
@@ -33,17 +33,17 @@ Role required: user\_admin
     -   To update details of an existing department, select the department.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new department form](../../reference/eaw-reference/eaw-create-new-department-form.md).
+    For field information, see [Create new department form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-department-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage departments](../../concept/eaw-concept/eaw-manage-departments.md)
+**Parent Topic:**[Manage departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-departments.md)
 
 **Related topics**  
 
 
-[View all departments](eaw-view-all-departments.md)
+[View all departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-departments.md)
 
-[Add a user to a department](eaw-add-a-new-user-to-a-deparment.md)
+[Add a user to a department](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-a-new-user-to-a-deparment.md)
 

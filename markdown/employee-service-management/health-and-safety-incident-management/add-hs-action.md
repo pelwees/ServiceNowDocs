@@ -33,7 +33,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 5.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Health and Safety action form](../reference/hs-action-form.md).
+    For information on field descriptions, see [Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../reference/hs-action-form.md).
 
 6.  Select **Save**.
 
@@ -48,7 +48,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 ## What to do next
 
 -   You can assign the action to yourself or to another safety team member to start working on it.
--   You can share the action, independent of the incident, with other groups or agents, so that they can prevent the similar incident from happening at any of their locations. To share an action, select **Copy action**. For more information, see [Share an action with other teams](share-hs-action.md).
+-   You can share the action, independent of the incident, with other groups or agents, so that they can prevent the similar incident from happening at any of their locations. To share an action, select **Copy action**. For more information, see [Share an action with other teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/share-hs-action.md).
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing-hs-incidents-obs.md)
 

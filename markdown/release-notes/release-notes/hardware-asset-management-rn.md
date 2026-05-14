@@ -14,7 +14,7 @@ The ServiceNow® Hardware Asset Management application provides advanced workflo
 
 ## Hardware Asset Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
 
 Australia Patch 0
 
@@ -120,5 +120,5 @@ Install Hardware Asset Management by requesting it from the ServiceNow Store. Vi
     The ServiceNow® Procurement application enables you to create purchase orders and obtain items for fulfilling service catalog requests.
 
 
-**Parent Topic:**[IT Asset Management release notes](it-asset-management-rn-landing.md)
+**Parent Topic:**[IT Asset Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-asset-management-rn-landing.md)
 

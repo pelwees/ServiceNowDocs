@@ -13,7 +13,7 @@ breadcrumb: [Using playbooks, Automate and optimize, Use, Customer Service Manag
 
 Customer service agents can view ribbon information in the contextual side panel in CSM Configurable Workspace.
 
-Click the Record information icon \(![Record information icon.](../image/contextual-side-panel-record-info.jpg)\) in the contextual side panel to view ribbon information.
+Click the Record information icon \(![Record information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contextual-side-panel-record-info.jpg)\) in the contextual side panel to view ribbon information.
 
 Agents can see the following information:
 
@@ -25,15 +25,15 @@ Agents can see the following information:
 **Related topics**  
 
 
-[Filter playbook activities](../task/csm-playbook-filter-activities.md)
+[Filter playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-playbook-filter-activities.md)
 
-[Using the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)
+[Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
 
-[Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
+[Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
-[Add an optional activity](using-customized-playbook-experience-for-customer-service-management.md)
+[Add an optional activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-customized-playbook-experience-for-customer-service-management.md)
 
-[Summarize a case](case-summarization-in-process-page.md)
+[Summarize a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-summarization-in-process-page.md)
 
-[Create a record using a playbook](../task/csm-playbook-create-record.md)
+[Create a record using a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-playbook-create-record.md)
 

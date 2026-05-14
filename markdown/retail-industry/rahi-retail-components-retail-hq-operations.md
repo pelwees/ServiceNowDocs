@@ -110,5 +110,5 @@ Create, update, and resolve HQ communications case for their location.
 -   sn\_retail.manager\_fulfiller
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

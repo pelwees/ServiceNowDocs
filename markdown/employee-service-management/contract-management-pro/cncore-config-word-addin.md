@@ -34,13 +34,13 @@ Role required: admin
 
 2.  From the Office Manifests list, select **ServiceNow Contracts**.
 
-    ![Microsoft Word add-in for Contract Management Pro.](../image/cmpro-office-add-in.png "Manifest file for ServiceNow Contracts")
+    ![Microsoft Word add-in for Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-office-add-in.png "Manifest file for ServiceNow Contracts")
 
 3.  If your ServiceNow instance is configured with single sign-on \(SSO\) login, clear the **Login Page not Required** check box, right-click the form header, and then select **Save**.
 
 4.  Select **Download Manifest** to download the file.
 
-    ![Download Microsoft Word add-in manifest file.](../image/cmpro-manifest-file.png "Download manifest file")
+    ![Download Microsoft Word add-in manifest file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-manifest-file.png "Download manifest file")
 
 5.  If your ServiceNow instance is configured with single sign-on \(SSO\) login, update the manifest file.
 
@@ -128,5 +128,5 @@ The **ServiceNow Contracts** add-in is available on the Home ribbon. When you lo
 
 ## What to do next
 
-[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-setup-ct-add-in.md)
 

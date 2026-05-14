@@ -18,15 +18,15 @@ You can edit the contents of a dashboard, including Performance Analytics widget
 
 ## Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Edit Platform Analytics dashboards](edit-db-in-ac.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/edit-db-in-ac.md).
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](../../par-for-workspace/task/data-migration-migrate-dbs-you-own.md).
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/task/data-migration-migrate-dbs-you-own.md).
 
 If Platform Analytics experience is enabled, the dashboard picker shows both Core UI and Platform Analytics experience dashboards.
 
 Core UI dashboard backgrounds are not themeable with custom colors.
 
-Role required: The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. See [Dashboard permissions](../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
+Role required: The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. See [Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 
@@ -52,7 +52,7 @@ Steps
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 2.  From the list, select the type of widget that you want to add, for example, Performance Analytics, Report, or Content Block.
 3.  Select the widget. A preview of the widget appears.
 4.  Click **Add**. The widget appears at the top of the dashboard.
@@ -65,8 +65,8 @@ Steps
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
-2.  Point to the top of the widget, then click the X icon \(![X icon](../image/RemoveWidgetButton.png)\) that appears.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
+2.  Point to the top of the widget, then click the X icon \(![X icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/RemoveWidgetButton.png)\) that appears.
  **Note:** There is no confirmation message. The widget disappears from the dashboard.
 
 </td></tr><tr><td id="d230692e298">
@@ -75,7 +75,7 @@ Steps
 
 </td><td>
 
-To change widget appearance and layouts, and show and hide widget headers, see [Configure the layout of a responsive dashboard](configure-widget-layouts.md).
+To change widget appearance and layouts, and show and hide widget headers, see [Configure the layout of a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/configure-widget-layouts.md).
 
 </td></tr><tr><td id="d230692e314">
 
@@ -83,10 +83,10 @@ To change widget appearance and layouts, and show and hide widget headers, see [
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
-2.  Point to the widget's header and select the pencil icon \(![Pencil icon](../image/EditWidgetButton.png)\). This icon is available only if your roles give you access to the widget's source. Edit rights to a dashboard do not necessarily give you edit rights to the widgets on that dashboard.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
+2.  Point to the widget's header and select the pencil icon \(![Pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/EditWidgetButton.png)\). This icon is available only if your roles give you access to the widget's source. Edit rights to a dashboard do not necessarily give you edit rights to the widgets on that dashboard.
 
-![Widget header with edit options shown by pointing at it](../image/widget-edit-mode-header.png)
+![Widget header with edit options shown by pointing at it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/widget-edit-mode-header.png)
 
  The widget opens in the tool where it was created. For example, when you edit a report widget, the source report opens in the Report Designer.
 
@@ -96,7 +96,7 @@ To change widget appearance and layouts, and show and hide widget headers, see [
 
 </td><td>
 
-Click the configuration icon \(![Configuration icon](../image/ConfigurationPaneButton.png)\) to open the Configuration pane, then click a layout to snap the widgets against. Modify the layout as desired.
+Click the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ConfigurationPaneButton.png)\) to open the Configuration pane, then click a layout to snap the widgets against. Modify the layout as desired.
 
 </td></tr><tr><td id="d230692e369">
 
@@ -104,7 +104,7 @@ Click the configuration icon \(![Configuration icon](../image/ConfigurationPaneB
 
 </td><td>
 
-Click the configuration icon \(![Configuration icon](../image/ConfigurationPaneButton.png)\) to open the Configuration pane, then click **Create Tab**. The panel created with the dashboard becomes the dashboard's first tab. The default names of the tabs are the name of the dashboard followed by New Tab and New Tab 2. To change the default names, see Rename a tab in this table.**Note:** You cannot link an existing tab into a dashboard.
+Click the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ConfigurationPaneButton.png)\) to open the Configuration pane, then click **Create Tab**. The panel created with the dashboard becomes the dashboard's first tab. The default names of the tabs are the name of the dashboard followed by New Tab and New Tab 2. To change the default names, see Rename a tab in this table.**Note:** You cannot link an existing tab into a dashboard.
 
 </td></tr><tr><td id="d230692e390">
 
@@ -112,11 +112,11 @@ Click the configuration icon \(![Configuration icon](../image/ConfigurationPaneB
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 2.  Select the dashboard tab and drag it to the desired position.
  Alternatively,
 
-1.  Click the context menu \(![Context menu icon](../../../common/image/Form_MenuIcon.png)\) and select **Dashboard Properties**.
+1.  Click the context menu \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../common/image/Form_MenuIcon.png)\) and select **Dashboard Properties**.
 2.  On the **Dashboard Tabs** related list, enter numbers in the **Order** column to specify the tab order. Tabs display from left to right with lower numbers appearing first.
 
 
@@ -150,11 +150,11 @@ Click the tab to make it active. Point to the tab name and click the trash icon 
 
 </td><td>
 
-Interactive filters let users filter data for all report widgets on a dashboard that follow them.1.  Click the plus sign \(![Plus sign button](../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+Interactive filters let users filter data for all report widgets on a dashboard that follow them.1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 2.  From the list, select **Interactive Filters**.
 3.  Navigate to the filter you want to add.
 4.  Click **Add**.
-For more information, see [Interactive Filters](../concept/c_HomepagePublishers.md).
+For more information, see [Interactive Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_HomepagePublishers.md).
 
 </td></tr><tr><td id="d230692e545">
 
@@ -162,9 +162,9 @@ For more information, see [Interactive Filters](../concept/c_HomepagePublishers.
 
 </td><td>
 
-1.  Point to the report widget, then click the gear icon \(![Gear icon](../image/Pa_dashboard_cog.png)\).
+1.  Point to the report widget, then click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/Pa_dashboard_cog.png)\).
 2.  In the Edit Widget window, select the **Follow interactive filter** check box.
-3.  To show a filter icon \(![Filter icon](../image/InteractiveFilterFilteringIcon.png)\) on the report when it is following an interactive filter, select the **Show when following** check box.
+3.  To show a filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/InteractiveFilterFilteringIcon.png)\) on the report when it is following an interactive filter, select the **Show when following** check box.
  **Note:** Performance Analytics widgets cannot follow interactive filters.
 
 </td></tr><tr><td id="d230692e587">
@@ -173,9 +173,9 @@ For more information, see [Interactive Filters](../concept/c_HomepagePublishers.
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 2.  Add a breakdown to a dashboard so that users can filter data for all Performance Analytics widgets on that dashboard. Only users with the pa\_admin or pa\_power user roles can work with breakdowns.
- See [Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md).
+ See [Add breakdown sources to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ExistingBreakdownDashboard.md).
 
 </td></tr><tr><td id="d230692e621">
 
@@ -183,17 +183,17 @@ For more information, see [Interactive Filters](../concept/c_HomepagePublishers.
 
 </td><td>
 
-Point to the widget, then click the question mark \(![Question mark icon](../image/QuestionMarkButtonWidgets.png)\). If the widget does not have a description, the question mark icon does not appear.
+Point to the widget, then click the question mark \(![Question mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/QuestionMarkButtonWidgets.png)\). If the widget does not have a description, the question mark icon does not appear.
 
 </td></tr></tbody>
 </table>
--   **[Configure the layout of a responsive dashboard](configure-widget-layouts.md)**  
+-   **[Configure the layout of a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/configure-widget-layouts.md)**  
 You can change the appearance of widgets; change widget layouts; change the colors of the widget title, header, and background; and show or hide widget headers.
 
-**Parent Topic:**[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+**Parent Topic:**[Create and use dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/create-and-edit-dashboards.md)
 
 **Related topics**  
 
 
-[Share a responsive dashboard](t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 

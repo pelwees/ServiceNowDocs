@@ -19,7 +19,7 @@ Accounts with no login for 100 days displays the non human identity accounts tha
 
 **Note:** Any changes made to the record displayed on this page are immediately updated in the list, risk score resulting from those changes will be reflected the following day.
 
-![No login for 100 days](../images/mic-no-login-100-days.png)
+![No login for 100 days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-no-login-100-days.png)
 
 You can select the machine identity name to know more about the account and the recommendation to maintain a good security posture for the account.
 

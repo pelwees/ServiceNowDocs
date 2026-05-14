@@ -21,15 +21,15 @@ Role required: itil or admin
 
 ## About this task
 
-When you view or import a Microsoft Teams chat conversation for a task record, the record details are displayed in the **Details** section of the **MS Teams Import** tab. For information about configuring these details, see [Configure the task record information in the MS Teams Import tab](configure-record-details-import-chat-sow.md).
+When you view or import a Microsoft Teams chat conversation for a task record, the record details are displayed in the **Details** section of the **MS Teams Import** tab. For information about configuring these details, see [Configure the task record information in the MS Teams Import tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-record-details-import-chat-sow.md).
 
 ## Procedure
 
 1.  Open a task record, for example, incident.
 
-2.  From the Sidebar, click the collaborate icon \(![Collaborate](../image/collab-icon-02.png)\).
+2.  From the Sidebar, click the collaborate icon \(![Collaborate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/collab-icon-02.png)\).
 
-3.  To view a chat conversation, click the more options icon \(![more options icon](../image/more-options-card.png)\) on the chat and select **View chat**.
+3.  To view a chat conversation, click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) on the chat and select **View chat**.
 
 4.  To start a chat conversation, perform the following actions.
 
@@ -45,7 +45,7 @@ When you view or import a Microsoft Teams chat conversation for a task record, t
 
         -   A chat conversation is initiated in Microsoft Teams.
         -   All automatic chats are automatically imported to the **Collaborate** panel.
-5.  To view a chat conversation, click the more options icon \(![more options icon](../image/more-options-card.png)\) on the chat and select **View chat**.
+5.  To view a chat conversation, click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) on the chat and select **View chat**.
 
 6.  To import a chat conversation, perform one of the following actions.
 
@@ -74,8 +74,8 @@ Description
 
 </td><td>
 
-1.  From the conversation that you are a member of, click the more options icon \(![more options icon](../image/more-options-card.png)\) and select **View chat**.
-2.  Click the filter chat messages icon \(![filter chat messages icon](../image/filter-icon.png)\) and select the type of messages you want to view.
+1.  From the conversation that you are a member of, click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) and select **View chat**.
+2.  Click the filter chat messages icon \(![filter chat messages icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/filter-icon.png)\) and select the type of messages you want to view.
 3.  Select the required messages and click **Import**.
 
 
@@ -83,5 +83,5 @@ Description
 </table>    Imported chats are reflected in the activity stream of the task record.
 
 
-**Parent Topic:**[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](../concept/msteams-sow.md)
+**Parent Topic:**[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/msteams-sow.md)
 

@@ -123,5 +123,5 @@ For account onboarding case tasks, when the State field is updated, the Progress
 
 If you’re using an earlier version of the Customer Success Management application, follow the instructions in [KB1651427](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=87a1689247a34e1077748d01426d4308) to correct the mapping between these fields.
 
-**Parent Topic:**[Set up the account onboarding playbook](account-lifecycle-use-playbook.md)
+**Parent Topic:**[Set up the account onboarding playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-playbook.md)
 

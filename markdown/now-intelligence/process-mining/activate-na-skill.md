@@ -29,10 +29,10 @@ Role required: admin
 
 4.  Select **Turn on** for the Transition Work Notes Analysis skill.
 
-    ![Transition work notes analysis skill activated](../image/na-skills.png)
+    ![Transition work notes analysis skill activated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/na-skills.png)
 
     The skill is activated for your instance.
 
 
-**Parent Topic:**[Working with work notes using Now Assist](../concept/worknotes.md)
+**Parent Topic:**[Working with work notes using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/worknotes.md)
 

@@ -23,5 +23,5 @@ The archiving rules support data hygiene and system usability by making sure tha
 
 For more information on archive rules, see [Create an archive rule in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
-**Parent Topic:**[Configuring Industrial Guided Tasks](configuring-industrial-guided-tasks.md)
+**Parent Topic:**[Configuring Industrial Guided Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/configuring-industrial-guided-tasks.md)
 

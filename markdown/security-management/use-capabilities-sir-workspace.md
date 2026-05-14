@@ -35,7 +35,7 @@ Role required: sn\_si\_int\_kit.integration\_creator or sn\_si.analyst
 
     A pop-up appears with the list of applications.
 
-    ![Select capability](../images/select-cap-sir-workspace.png)
+    ![Select capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../images/select-cap-sir-workspace.png)
 
 7.  Select the application to execute the capability.
 

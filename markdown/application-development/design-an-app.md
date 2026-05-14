@@ -26,5 +26,5 @@ For more information, see [Horizon Design System](https://horizon.servicenow.com
 
 Start with user personas to define workflows and UI needs. Use Horizon’s reusable components to reduce development time and maintain upgrade safety. Avoid unnecessary custom styling to preserve governance.
 
-**Parent Topic:**[Plan your app before you start building](plan-app-building.md)
+**Parent Topic:**[Plan your app before you start building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-app-building.md)
 

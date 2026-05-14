@@ -89,5 +89,5 @@ The methods and events of the TabControl element are displayed in the Object Exp
     Occurs when the focus moves out of the current element.
 
 
-**Parent Topic:**[Methods and events of elements](form-control-methods-events.md)
+**Parent Topic:**[Methods and events of elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/form-control-methods-events.md)
 

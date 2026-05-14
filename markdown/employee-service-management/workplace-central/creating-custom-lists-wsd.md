@@ -15,29 +15,29 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 You can create custom lists using the Lists module on Workplace Central. You can create a custom list by using existing lists from Workplace Central, or by using a system table.
 
--   **[Create a custom list based on an existing list](../task/create-list-from-existing.md)**  
+-   **[Create a custom list based on an existing list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/create-list-from-existing.md)**  
 Create a custom list based on an existing list on Workplace Central.
--   **[Create a custom list based on a system table](../task/create-custom-list.md)**  
+-   **[Create a custom list based on a system table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/create-custom-list.md)**  
 Create a custom list on Workplace Central based on a system table.
 
-**Parent Topic:**[Use Workplace Central](use-workplace-central.md)
+**Parent Topic:**[Use Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-workplace-central.md)
 
 **Related topics**  
 
 
-[Working with Space Planning](working-with-space-planning.md)
+[Working with Space Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-planning.md)
 
-[Working with Space Optimization](working-with-space-optimization.md)
+[Working with Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-optimization.md)
 
-[Working with Schedule Planning](working-with-schedule-planning.md)
+[Working with Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-planning.md)
 
-[Working with Workplace Analytics](working-with-workplace-analytics.md)
+[Working with Workplace Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-workplace-analytics.md)
 
-[Working with Move management](working-with-move-management.md)
+[Working with Move management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-move-management.md)
 
-[Working with Event planner](working-with-event-planner.md)
+[Working with Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-[Working with Case management](working-with-case-management.md)
+[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-case-management.md)
 
-[Working with Kiosk Indoor Mapping](working-kiosk-ind-map.md)
+[Working with Kiosk Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-kiosk-ind-map.md)
 

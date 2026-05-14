@@ -31,13 +31,13 @@ Role required: sn\_map\_core.map\_admin
 
     The Map Configuration preview page is brought into focus.
 
-2.  Expand **Places** by selecting the chevron toggle icon \(![Expand Layers icon.](../images/wsd-chevron-up-icon.png)\).
+2.  Expand **Places** by selecting the chevron toggle icon \(![Expand Layers icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-chevron-up-icon.png)\).
 
 3.  Select **Edit** to edit the place attributes and elements.
 
     The edit panel appears.
 
-    ![Summary pill showing additional information for a selected place.](../images/wsd-places-expanded-view-autocad-v2.png)
+    ![Summary pill showing additional information for a selected place.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-places-expanded-view-autocad-v2.png)
 
     The selected place shows the number of elements in a place. For example: Breakout Room \(1 element\).
 
@@ -58,7 +58,7 @@ Role required: sn\_map\_core.map\_admin
 
 5.  Select **Import as polygon** to import a place as a polygon in your CAD file.
 
-    ![Map configuration tab with the Import as polygon option selected.](../images/wsd-map-config-import-as-polygon.png)
+    ![Map configuration tab with the Import as polygon option selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-map-config-import-as-polygon.png)
 
     **Note:** The text appears in red on the Map Configuration preview when you select create as polygon and the shape is missing.
 
@@ -95,17 +95,17 @@ Role required: sn\_map\_core.map\_admin
 
     You can select any of the following options to retrieve place types from the CAD file:
 
-    -   **Place type catalog**: Select this option if you want to apply the default Indoor Mapping place type styles and categories to a place type. The place type catalog or the Place types table \(**All** &gt; **Indoor Mapping** &gt; **Place types**\) contains Indoor Mapping place types and their default styles. For more information, see [Create Indoor Mapping icons and place types](place-icons-place-type.md).
+    -   **Place type catalog**: Select this option if you want to apply the default Indoor Mapping place type styles and categories to a place type. The place type catalog or the Place types table \(**All** &gt; **Indoor Mapping** &gt; **Place types**\) contains Indoor Mapping place types and their default styles. For more information, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md).
         -   **Place types**: Select an appropriate Indoor Mapping place type to style and categorize it. For example: Fire Extinguisher. Selected place type is displayed on the CAD editor preview.
         -   When Indoor Mapping Places are integrated with Workplace Service Delivery, the places are categorized as meeting room, fire extinguisher, and so on. Based on this categorization, you can also verify if the meeting rooms are reservable.
 
     -   **Block attributes**: Select this option if you want the retrieve the place type from the block attributes.
 
-        **Note:** The Block attributes name contain the place type information. The place type name in a CAD file must be the same as the place type names in the Indoor Mapping Place type catalog. If the Block attributes name doesn't match with the Place type name in Indoor Mapping, create the place type, styles, and icons in Indoor Mapping Place types. For more information, see [Create Indoor Mapping icons and place types](place-icons-place-type.md).
+        **Note:** The Block attributes name contain the place type information. The place type name in a CAD file must be the same as the place type names in the Indoor Mapping Place type catalog. If the Block attributes name doesn't match with the Place type name in Indoor Mapping, create the place type, styles, and icons in Indoor Mapping Place types. For more information, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md).
 
-        ![Retrieve place type from a block or text attributes.](../images/wsd-place-type-template-options.png)
+        ![Retrieve place type from a block or text attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-place-type-template-options.png)
 
-        ![Block Reference edit panel showing the type of space and name attributes.](../images/wsd-block-attribute-reference.png)
+        ![Block Reference edit panel showing the type of space and name attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-block-attribute-reference.png)
 
     -   **Other layer**: Select this option if you want to apply place types from another layer.
 
@@ -120,9 +120,9 @@ Role required: sn\_map\_core.map\_admin
         To assign place types manually, perform any of the following:
 
         -   Set the places manually using the CAD editor. Select the appropriate **Active layer**. Select places and add the place type information to the text or block attribute, if it exists.
-        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****Manage Places**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](manage-buildings.md).
+        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****Manage Places**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
-            ![Manually set places using Manage Places in Map Studio.](../images/wsd-manually-set-places-map-studio.png)
+            ![Manually set places using Manage Places in Map Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-manually-set-places-map-studio.png)
 
 7.  Select **Import as point** to import a place as a point in your CAD file.
 
@@ -149,7 +149,7 @@ Role required: sn\_map\_core.map\_admin
         -   **Place types**: Select an appropriate Indoor Mapping place type to style and categorize places. For example: Fire extinguishers.
         -   The selected place type is displayed on the CAD editor preview.
 
-            ![CAD editor preview showing the retrieved place type from the place type catalog](../images/wsd-autocadv2-place-type-catalog.png)
+            ![CAD editor preview showing the retrieved place type from the place type catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-autocadv2-place-type-catalog.png)
 
     -   **Block attributes**: Select this option if you want the retrieve the place type from the block attributes.
 
@@ -164,21 +164,21 @@ Role required: sn\_map\_core.map\_admin
         To assign place types manually, perform any of the following:
 
         -   Set the places manually using the CAD editor. Select the appropriate **Active layer**. Select places and add the place type information to the text or block attribute, if it exists.
-        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****Manage Places**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](manage-buildings.md).
+        -   Navigate to Indoor Mapping Map Studio **Manage Workplace****Manage Places**. Multi-select places or select a place using a lasso or by using the Shift key option to select the required places. Select an appropriate **Place type** in the Place edit panel. For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
-            ![Manually set places using Manage Places in Map Studio.](../images/wsd-manually-set-places-map-studio.png)
+            ![Manually set places using Manage Places in Map Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-manually-set-places-map-studio.png)
 
 9.  Select the warning check boxes to display the warnings on the map.
 
     The check boxes are updated based on the changes made on the edit panel.
 
-    ![Map configuration tab with warning check boxes selected and the warnings displayed on the map.](../images/wsd-map-studio-errors.png)
+    ![Map configuration tab with warning check boxes selected and the warnings displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-map-studio-errors.png)
 
 10. To resolve issues like a missing polygon, perform the following steps:
 
     -   From the Map Configuration preview, switch to the CAD Editor tab.
 
-        For more information, see [Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md).
+        For more information, see [Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/cad-editor-v2-ovw.md).
 
     -   Select the place on the CAD Editor preview and add a polygon or a missing line.
     -   Switch back to the Map configuration preview.
@@ -186,9 +186,9 @@ Role required: sn\_map\_core.map\_admin
         Notice that the summary pill for the place shows the **Import as polygon** highlighted in green and the text is not highlighted in red. The style appears along with the polygon.
 
 
-**Parent Topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Parent Topic:**[Configure CAD objects using the Map Configuration tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/manage-cad-map-config.md)
 
-**Previous topic:**[Configure layers](wsd-edit-layers.md)
+**Previous topic:**[Configure layers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/wsd-edit-layers.md)
 
-**Next topic:**[Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md)
+**Next topic:**[Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/cad-editor-v2-ovw.md)
 

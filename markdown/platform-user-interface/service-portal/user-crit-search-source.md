@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-You can add user criteria to custom or default [Configuring search in a portal](../concept/search-service-portal.md).
+You can add user criteria to custom or default [Configuring search in a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/search-service-portal.md).
 
 ## Procedure
 
@@ -35,10 +35,10 @@ You can add user criteria to custom or default [Configuring search in a portal](
 
 5.  Select a criteria from the **Can View** or **Cannot View** list.
 
-    Selecting criteria from the **Can View** or **Cannot View** list applies user criteria records created in [Create a user criteria record for Service Portal](create-user-criteria-record.md) to the selected search source.
+    Selecting criteria from the **Can View** or **Cannot View** list applies user criteria records created in [Create a user criteria record for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-user-criteria-record.md) to the selected search source.
 
 6.  Click **Save**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/user-criteria.md)
 

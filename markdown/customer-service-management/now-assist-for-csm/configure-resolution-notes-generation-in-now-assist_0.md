@@ -104,11 +104,11 @@ Input fields
 
     Skill is activated for agents and a success modal shows up with the option to **Return to CSM** and to **Go to Now Assist content menu**.
 
-11. Select **Go to Now Assist context menu** to [configure](customize-now-assist-context-menu-for-skills.md) the activity response generation skill's Now Assist Context Menu in Now Assist Experience.
+11. Select **Go to Now Assist context menu** to [configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/customize-now-assist-context-menu-for-skills.md) the activity response generation skill's Now Assist Context Menu in Now Assist Experience.
 
 
 **Related topics**  
 
 
-[Generate the resolution notes for a case by using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-generate-resolution.md#)
+[Generate the resolution notes for a case by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-generate-resolution.md#)
 

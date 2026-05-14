@@ -30,5 +30,5 @@ The timer counts down the amount of time specified in the **Duration in seconds*
 |Orange|Time remaining is between 25% and 0% of duration.|
 |Red|When the timer reaches 0.00, the display turns red and then disappears. The system updates the state of the interaction record to Closed Complete.|
 
-**Parent Topic:**[Interaction wrap up](interaction-wrap-up-state.md)
+**Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 

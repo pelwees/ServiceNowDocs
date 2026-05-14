@@ -156,10 +156,10 @@ sn\_claim\_cmn.warranty\_specialist
 -   sn\_repr\_claim\_mgmt.pre\_auth\_navigation\_menu
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference](manufacturing-reference.md)
+</table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
 **Related topics**  
 
 
-[Explore Manufacturing Commercial Operations](../concept/manufacturing-explore.md)
+[Explore Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/manufacturing-explore.md)
 

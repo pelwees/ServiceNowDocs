@@ -84,5 +84,5 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
     -   When you drag and drop a parent metric, all dependent questions are also added to the metric category.
     -   When you drag and drop a child metric, only the child question is added to the metric category.
 
-**Parent Topic:**[Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
+**Parent Topic:**[Add a metric category and metric in the question bank for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-for-survey.md)
 

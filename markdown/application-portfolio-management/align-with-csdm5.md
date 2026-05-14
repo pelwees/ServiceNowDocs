@@ -60,10 +60,10 @@ CSDM 5 introduces seven domains, each grouping related entities. Shapes in Enter
 |Software Product|Foundation|Represents actual software product offered or used|Microsoft Office Suite|
 |Product Feature|Foundation|Represents specific capability or function of a product|Multi-factor Authentication feature|
 
-**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
+**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling.md)
 
 **Related topics**  
 
 
-[Common Service Data Model \(CSDM\) shapes](../../reference/eaw-reference/eaw-modeling-csdm-shapes.md)
+[Common Service Data Model \(CSDM\) shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-csdm-shapes.md)
 

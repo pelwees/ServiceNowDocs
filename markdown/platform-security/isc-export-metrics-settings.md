@@ -37,7 +37,7 @@ Add or remove classifications to this field to determine which exports are inclu
 -   Internal
 -   Public
 
-For more detail on data classifications, see [Data classifications](data-classification.md)
+For more detail on data classifications, see [Data classifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Classifications for Alerts
 
 </td><td>
 
-Add or remove classifications to this field to determine which exports trigger instance security notifications. The classifications supported in the **Classifications for Metrics** field are supported here. For more detail on these alerts, see the security notifications section on the [Instance Security Center](instance-security-center.md) page. The **Record Threshold** field defines the number of records exported before your instance triggers and alert.
+Add or remove classifications to this field to determine which exports trigger instance security notifications. The classifications supported in the **Classifications for Metrics** field are supported here. For more detail on these alerts, see the security notifications section on the [Instance Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md) page. The **Record Threshold** field defines the number of records exported before your instance triggers and alert.
 
 </td></tr><tr><td>
 
@@ -58,5 +58,5 @@ Number of record a user must export to trigger an alert. To trigger an alert, th
 </td></tr></tbody>
 </table>Save your settings by entering **Control + s** \(Windows\) or **⌘ + s** \(macOS\).
 
-**Parent Topic:**[Export metrics](instance-sec-center-export-metrics.md)
+**Parent Topic:**[Export metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-export-metrics.md)
 

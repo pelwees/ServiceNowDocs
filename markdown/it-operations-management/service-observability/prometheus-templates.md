@@ -15,12 +15,12 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 Templates used to create Prometheus dashboards in Service Observability. You can edit these templates as needed.
 
-See [Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md) for more information.
+See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/../task/customize-service-observability-dashboard-templates.md) for more information.
 
--   **[Prometheus Overview tab for Service Observability](prometheus-overview-tab-for-service-observability.md)**  
+-   **[Prometheus Overview tab for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/prometheus-overview-tab-for-service-observability.md)**  
 Information that is displayed on the Prometheus **Overview** tab of the Service Details page in the SOW.
--   **[Prometheus Observability tab for Service Observability](prometheus-observability-tab-for-service-observability.md)**  
+-   **[Prometheus Observability tab for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/prometheus-observability-tab-for-service-observability.md)**  
 Dashboard and charts on the Prometheus Observability tab of the Service Details page in the SOW.
 
-**Parent Topic:**[Service Observability templates](observability-templates.md)
+**Parent Topic:**[Service Observability templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md)
 

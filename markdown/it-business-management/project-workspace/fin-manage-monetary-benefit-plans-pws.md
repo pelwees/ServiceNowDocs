@@ -17,7 +17,7 @@ Create and manage monetary benefit plans to capture the potential benefits while
 
 ## Before you begin
 
--   [Enable monetary benefit plans for projects](enable-benefitplans-pws-fin.md)
+-   [Enable monetary benefit plans for projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-benefitplans-pws-fin.md)
 -   Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
@@ -43,7 +43,7 @@ Procedure
 1.  Select the **Monetary Benefit Plans** related list.
 2.  Select **New**.
 
-![GIF showing selection of Monetary Benefit Plans related link.](../../spw-financials/images/fin-slct-monetary-benefit-plan-gif.gif)
+![GIF showing selection of Monetary Benefit Plans related link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-slct-monetary-benefit-plan-gif.gif)
 
 </td></tr><tr><td id="d318123e127">
 
@@ -61,10 +61,10 @@ Procedure
 4.  Select **Save**.
 
 
--   **[Edit monetary benefit plan](fin-edit-monetary-benefit-plan-pws.md)**  
+-   **[Edit monetary benefit plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-edit-monetary-benefit-plan-pws.md)**  
 Edit a planned monetary benefit plan to revise the benefits, dates, offset, and so on, to maintain the updated financial records as your work progresses.
--   **[Capture actual monetary benefits](fin-manage-actual-monetary-benefit-pws.md)**  
+-   **[Capture actual monetary benefits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-actual-monetary-benefit-pws.md)**  
 Capture the actual benefit from the planned benefits to measure revenue and calculate the profits.
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/using-financials-prj-wrkspc.md)
 

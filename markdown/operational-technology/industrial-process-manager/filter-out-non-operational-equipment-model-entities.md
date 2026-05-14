@@ -39,5 +39,5 @@ Role required: cmdb\_ot\_isa\_viewer and cmdb\_ot\_isa\_admin
     For example, if you want to remove equipment model entities with **Operational Status** field values of **Retired** and**Not in Use**, list `6, 9`.
 
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

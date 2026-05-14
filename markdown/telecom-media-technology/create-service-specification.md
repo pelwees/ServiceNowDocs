@@ -294,7 +294,7 @@ Specification Relationships
 
 </td><td>
 
-[Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](create-specification-relationships-somt.md).
+[Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/create-specification-relationships-somt.md).
 
 </td></tr><tr><td>
 

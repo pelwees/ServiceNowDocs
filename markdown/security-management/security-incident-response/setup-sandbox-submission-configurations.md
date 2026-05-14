@@ -119,7 +119,7 @@ Option that allows you to select the type of network settings used while submitt
 
 ## What to do next
 
-After you configure sandbox submissions, the next step is to [manually submit files or ULRs to Sandbox](submit-files-or-urls-to-sandbox.md)
+After you configure sandbox submissions, the next step is to [manually submit files or ULRs to Sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/submit-files-or-urls-to-sandbox.md)
 
 .
 

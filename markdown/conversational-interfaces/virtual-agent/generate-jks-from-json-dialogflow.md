@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Copy the private key text, starting with the BEGIN PRIVATE KEY section and ending with the END PRIVATE KEY section.
 
-    ![Select the text starting with –––--BEGIN PRIVATE KEY----- and ending with –––--END PRIVATE KEY-----](../images/ggl-dialogflow-copy-private-key.png)
+    ![Select the text starting with –––--BEGIN PRIVATE KEY----- and ending with –––--END PRIVATE KEY-----](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-copy-private-key.png)
 
 3.  Remove the line return characters \(\\n\) from the key:
 
@@ -90,9 +90,9 @@ Role required: admin
 
 A JKS file is created.
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/using-va-api-ggl-dialogflow.md)
 
-**Previous topic:**[Create a service account and private key for the Google Dialogflow project](create-srvc-acct-key-dialogflow.md)
+**Previous topic:**[Create a service account and private key for the Google Dialogflow project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-srvc-acct-key-dialogflow.md)
 
-**Next topic:**[Configure connections to Google Dialogflow in your Virtual Agent Bot Interconnect instance](configure-sn-instance-google-dialogflow.md)
+**Next topic:**[Configure connections to Google Dialogflow in your Virtual Agent Bot Interconnect instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-sn-instance-google-dialogflow.md)
 

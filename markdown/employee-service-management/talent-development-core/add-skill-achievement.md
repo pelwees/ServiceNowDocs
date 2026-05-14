@@ -57,5 +57,5 @@ Option to select the skill you want to associate to the achievement template. **
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[View achievement credential templates](view-ach-credential-templates.md)
+**Parent Topic:**[View achievement credential templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-ach-credential-templates.md)
 

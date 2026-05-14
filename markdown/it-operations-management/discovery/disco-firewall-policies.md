@@ -43,7 +43,7 @@ Administrators in charge of Discovery can establish a recurring schedule for Pal
     1.  Select **Discover: Serverless**.
     2.  Select the appropriate **MID Server**.
     3.  Right-click the header and select **Save**.
-    For more information on Discovery schedule, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+    For more information on Discovery schedule, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#).
 
 4.  From the tab at the bottom of the screen, select the Serverless Execution pattern and then select **New**.
 
@@ -64,5 +64,5 @@ Administrators in charge of Discovery can establish a recurring schedule for Pal
 7.  Right-click the header and select **Save**.
 
 
-**Parent Topic:**[Visibility to Firewall inventory](../concept/use-firewall-audit-rep.md)
+**Parent Topic:**[Visibility to Firewall inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/use-firewall-audit-rep.md)
 

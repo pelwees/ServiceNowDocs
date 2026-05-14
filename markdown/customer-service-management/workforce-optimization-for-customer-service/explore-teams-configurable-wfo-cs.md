@@ -17,11 +17,11 @@ Learn how you can organize each of your teams into assignment groups. You can de
 
 This video gives you an overview of how you set up your teams into assignment groups and add KPIs to measure performance.Organize your teams into assignment groups
 
-![GIF demonstrating navigation from Service Support to a specific agent's page.](../image/teams-drilldown-wfo-cs.png)
+![GIF demonstrating navigation from Service Support to a specific agent's page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/teams-drilldown-wfo-cs.png)
 
 Drill down into your reports.
 
-![Teams drilldown](../image/teams_drilldown_wfo_cs.gif)
+![Teams drilldown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/teams_drilldown_wfo_cs.gif)
 
 As an administrator for **Teams**, you can:
 
@@ -43,7 +43,7 @@ As a manager, you can:
 **Related topics**  
 
 
-[Setting up Teams Workforce Optimization for Customer Service](setting-teams-configurable-wfo-cs.md#)
+[Setting up Teams Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setting-teams-configurable-wfo-cs.md#)
 
-[Teams in Workforce Optimization for Customer Service](teams-configurable-wfo-cs.md#)
+[Teams in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/teams-configurable-wfo-cs.md#)
 

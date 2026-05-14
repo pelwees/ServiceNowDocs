@@ -35,7 +35,7 @@ Preview a security incident and edit the mapping again as required to fix fields
 
 3.  Review the field mapping of the ticket values on the security incident.
 
-    ![Secureworks CTP: Create Profile: Preview](../image/secureworks-create-profile-preview.gif)
+    ![Secureworks CTP: Create Profile: Preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-preview.gif)
 
     The preceding image is an example of a preview with a mapping error of the samples that were ingested.
 

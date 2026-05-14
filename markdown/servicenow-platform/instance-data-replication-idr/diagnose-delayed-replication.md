@@ -68,7 +68,7 @@ Version of the Message Queue. Default is V2 \(Hermes\).
 </td></tr></tbody>
 </table>    To get additional information, view the producer instance xmlstats at `https://<producer-instance-name>/xmlstats.do?include=idr`.
 
-    ![Producer instance xmlstats](../image/xmlstats-producer.png)
+    ![Producer instance xmlstats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/xmlstats-producer.png)
 
     The xmlstats shows:
 
@@ -128,7 +128,7 @@ Message that describes the error status.
 Version of the Message Queue. Default is V2 \(Hermes\)
 
 </td></tr></tbody>
-</table>    To get additional information, view the consumer instance xmlstats at `https://<consumer-instance-name>/xmlstats.do?include=idr`. ![Consumer xmlstats](../image/xmlstats-consumer.png) The xmlstats shows:
+</table>    To get additional information, view the consumer instance xmlstats at `https://<consumer-instance-name>/xmlstats.do?include=idr`. ![Consumer xmlstats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/xmlstats-consumer.png) The xmlstats shows:
 
     -   The *consumer\_last\_run* indicates the last time that the consumer job ran and received changes from the producer.
     -   The *last\_heartbeat\_received\_on* shows the timestamp when the consumer last received a heartbeat from the producer instance.
@@ -136,5 +136,5 @@ Version of the Message Queue. Default is V2 \(Hermes\)
         **Note:** The timestamps are GMT.
 
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/common-issues-idr.md)
 

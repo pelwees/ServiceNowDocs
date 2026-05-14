@@ -19,7 +19,7 @@ Role required: Data Steward \(df\_data\_steward\)
 
 ## About this task
 
-Business glossary terms define business concepts and can be linked to catalog assets to provide business context. Terms include definitions, synonyms, related concepts, and ownership information. Use glossary terms to bridge the gap between technical data structures and business understanding. ![List of glossary terms](../image/dc-glossary-list.png)
+Business glossary terms define business concepts and can be linked to catalog assets to provide business context. Terms include definitions, synonyms, related concepts, and ownership information. Use glossary terms to bridge the gap between technical data structures and business understanding. ![List of glossary terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-glossary-list.png)
 
 ## Procedure
 
@@ -52,8 +52,8 @@ Business glossary terms define business concepts and can be linked to catalog as
     -   Parent Term: Relationship with a broader - or more general – term or concept giving important context and disambiguation of the child term
     -   Child Term: Relationship with a narrower - or more specific – term or concept giving important context and helping to disambiguate child terms
     -   Reference URL: URLs where the term is defined or more context is accessed.
-8.  Select **Save**. ![Create a glossary term](../image/dc-glossary-create.png)
+8.  Select **Save**. ![Create a glossary term](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-glossary-create.png)
 
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-catalog.md)
 

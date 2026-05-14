@@ -19,7 +19,7 @@ A responsible user evaluates the KPI Signals notification. If they determine tha
 
 If it is later determined that it was a mistake to dismiss the signal or update the baseline, a responsible user can undo the action.
 
-![Responsible user's reactions to receiving a notification from KPI Signals. For details, see the following text.](../image/kpi-signals-user-workflow.png "Responses to a KPI Signals notification")
+![Responsible user's reactions to receiving a notification from KPI Signals. For details, see the following text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-user-workflow.png "Responses to a KPI Signals notification")
 
 1.  Receive a notification from KPI Signals that an indicator should be examined.
 2.  Decide whether the signal is showing a temporary change, possibly due to a problem that can be corrected, or the signal is showing a long-term change in process behavior.
@@ -29,19 +29,19 @@ If it is later determined that it was a mistake to dismiss the signal or update 
 
 ## Other use topics
 
--   **[Reset baseline or dismiss signal](../task/reset-baseline-dismiss-signal.md)**  
+-   **[Reset baseline or dismiss signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/reset-baseline-dismiss-signal.md)**  
 When you get a signal that abnormal variation has occurred, either dismiss the signal or recalculate the parameters.
--   **[Revert baseline reset or signal dismissal](../task/revert-reset-dismissal.md)**  
+-   **[Revert baseline reset or signal dismissal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/revert-reset-dismissal.md)**  
 Review previous decisions to reset the KPI Signals baseline or dismiss a signal. Revert the decision if necessary.
 
-**Parent Topic:**[KPI Signals](process-behavior-charts-for-kpis.md)
+**Parent Topic:**[KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md)
 
 **Related topics**  
 
 
-[Exploring KPI Signals](exploring-kpi-signals.md)
+[Exploring KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/exploring-kpi-signals.md)
 
-[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
+[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-[KPI Signals roles](kpi-signals-roles.md)
+[KPI Signals roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-signals-roles.md)
 

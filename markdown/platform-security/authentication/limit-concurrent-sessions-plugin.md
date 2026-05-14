@@ -78,7 +78,7 @@ This property restricts the limit of concurrent sessions per node instead of res
 
 ## What to do next
 
-[Set a concurrent session limit by user or role](set-session-limit-user-role.md).
+[Set a concurrent session limit by user or role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/set-session-limit-user-role.md).
 
 **Related topics**  
 

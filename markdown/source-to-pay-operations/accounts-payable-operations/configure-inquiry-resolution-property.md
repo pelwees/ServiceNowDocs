@@ -19,7 +19,7 @@ Configure the inquiry resolution AI agent to extract data from KB articles.
 
 Role required: admin
 
-![APO properties page](../image/apo-properties.png)
+![APO properties page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-properties.png)
 
 ## Procedure
 
@@ -39,5 +39,5 @@ The AI agent uses the data from the specified KB article to resolve the inquiry 
 **Related topics**  
 
 
-[Set APO properties](set-apo-properties.md)
+[Set APO properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md)
 

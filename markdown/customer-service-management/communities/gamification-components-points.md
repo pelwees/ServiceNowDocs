@@ -24,5 +24,5 @@ The Points list has a widget instance option to **Show points for private forum*
 
 The Points list also has a widget instance options for the **Page size**, which determines the number of results displayed in the list. If there are more results than the number specified in this option, a button to show additional results appears at the bottom of the points page.
 
-**Parent Topic:**[Gamification components](gamification-components.md)
+**Parent Topic:**[Gamification components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components.md)
 

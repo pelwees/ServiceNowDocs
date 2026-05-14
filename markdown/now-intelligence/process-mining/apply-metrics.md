@@ -42,7 +42,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Result
 
-The process map automatically refreshes showing the metric selection. The numbers on the metrics box \(![metrics-boxes](../image/metrics-boxes.png)\) on a route correspond to the metrics you selected.
+The process map automatically refreshes showing the metric selection. The numbers on the metrics box \(![metrics-boxes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/metrics-boxes.png)\) on a route correspond to the metrics you selected.
 
-**Parent Topic:**[Filtering project data](filter-project.md)
+**Parent Topic:**[Filtering project data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-project.md)
 

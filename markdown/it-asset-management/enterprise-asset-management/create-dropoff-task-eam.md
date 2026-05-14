@@ -81,16 +81,16 @@ A Drop off task in the Open state is created and listed in the **Asset tasks** t
 
 ## What to do next
 
-[Drop off enterprise assets at a stockroom](add-eam-assets-drop-off.md).
+[Drop off enterprise assets at a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-eam-assets-drop-off.md).
 
-**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](../concept/drop-off-receive-assets-eam.md)
+**Parent Topic:**[Delivering enterprise assets in your personal stockroom through Drop off tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/drop-off-receive-assets-eam.md)
 
 **Related topics**  
 
 
-[Drop off enterprise assets at a stockroom](add-eam-assets-drop-off.md)
+[Drop off enterprise assets at a stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-eam-assets-drop-off.md)
 
-[Verify the enterprise assets received through a Drop off task](verify-assets-eam-receive.md)
+[Verify the enterprise assets received through a Drop off task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/verify-assets-eam-receive.md)
 
-[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+[Record time worked on Drop off and Receive tasks for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-time-drop-receive.md)
 

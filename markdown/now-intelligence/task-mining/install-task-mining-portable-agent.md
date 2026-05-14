@@ -29,7 +29,7 @@ Role required: Task Mining Agent Install
 
     2.  Select an existing key or create one.
 
-        ![Screenshot of registration key selection.](../image/tm-agent-3.png)
+        ![Screenshot of registration key selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-3.png)
 
     3.  Select the Portable Windows agent tab.
 
@@ -37,7 +37,7 @@ Role required: Task Mining Agent Install
 
     5.  Copy the **Instance URL** and **Registration key** on the Agent Installation page.
 
-    ![Screenshot of portable windows agent download screen.](../image/tm-agent-5.png)
+    ![Screenshot of portable windows agent download screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-5.png)
 
 2.  Run `PortableLauncher.exe` from the extracted folder.
 

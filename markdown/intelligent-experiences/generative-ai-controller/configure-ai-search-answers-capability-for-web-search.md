@@ -18,7 +18,7 @@ AI web search is a OneExtend capability that enables end users to perform web se
 
 ## Before you begin
 
-When web search is turned on, Gemini is the default AI provider. To switch AI providers, admins must configure the AI Search answers OneExtend capability. The instance or skills default AI provider that is set in Now Assist Admin can differ from the web search AI provider. For more information on the default instance or skills AI provider, see [Manage model providers](../../now-assist-admin/task/edit-model-providers.md).
+When web search is turned on, Gemini is the default AI provider. To switch AI providers, admins must configure the AI Search answers OneExtend capability. The instance or skills default AI provider that is set in Now Assist Admin can differ from the web search AI provider. For more information on the default instance or skills AI provider, see [Manage model providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../../now-assist-admin/task/edit-model-providers.md).
 
 Some of the AI providers require API keys whereas others don’t require API keys because they use OEM. The following table highlights the four AI providers and whether they use API keys or OEM.
 
@@ -100,7 +100,7 @@ For example, `Open AI connection`.
 
 **Note:** For more information about the fields on the HTTP\(s\) Connections New record form, see [Create an HTTP\(s\) connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-https-connection.md).
 
-3.  Select the Lookup using list icon \( ![Lookup using list icon.](../../../reuse/icons/product-icons/magnifying-glass-outline-24.svg)\) next to **Credential**.
+3.  Select the Lookup using list icon \( ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../../../reuse/icons/product-icons/magnifying-glass-outline-24.svg)\) next to **Credential**.
 4.  Select **New** to create a credential for your connection.
 
 **Note:** You may see an existing credential that you can select from the Credentials list, but some AI providers, like OpenAI, do not come with default credentials.

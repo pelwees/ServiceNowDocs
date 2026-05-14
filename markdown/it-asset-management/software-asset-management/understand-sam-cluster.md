@@ -15,11 +15,11 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Get a holistic and strategic analysis of all the entities in your clusters in one view on the Software Asset Management application.
 
-The SAM Cluster 360° feature simplifies the process of analyzing a cluster, which is typically a time-consuming task. This feature helps SAM managers to make strategic decisions by providing them with a visually comprehensive view of their cluster setup, licensing, and cluster health issues. Drill down to each node on a cluster for a deeper understanding. For detailed information on your cluster, see [View your cluster setup in 360 degrees](../task/view-360-sam-cluster.md).
+The SAM Cluster 360° feature simplifies the process of analyzing a cluster, which is typically a time-consuming task. This feature helps SAM managers to make strategic decisions by providing them with a visually comprehensive view of their cluster setup, licensing, and cluster health issues. Drill down to each node on a cluster for a deeper understanding. For detailed information on your cluster, see [View your cluster setup in 360 degrees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/view-360-sam-cluster.md).
 
 ## Cluster overview
 
-![Software Asset Management support for cluster](../image/mmasset0020510.svg)
+![Software Asset Management support for cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/mmasset0020510.svg)
 
 A cluster is a type of virtualization where hosts are grouped and share resources. This technology provides high availability, resource pooling, and load balancing for virtual machines that run on it. This technology provides the foundation for building highly resilient, scalable, and efficient virtualized environments.
 
@@ -40,5 +40,5 @@ The SAM Cluster 360° feature helps you to view and analyze the following concep
 -   All software, licensable and non-licensable, running on a cluster.
 -   All software consuming licenses.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

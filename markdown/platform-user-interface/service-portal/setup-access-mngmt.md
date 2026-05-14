@@ -47,11 +47,11 @@ Set up the Access Management Automation application by configuring the Service P
 
     4.  Click the decision record.
 
-        ![Decision record.](../image/decision.png)
+        ![Decision record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/decision.png)
 
     5.  Select the required group, user, or subflow in **Answer**, depending on what the decision table is used for.
 
-        ![Select the required Answer.](../image/condition.png)
+        ![Select the required Answer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/condition.png)
 
         **Note:** Configure these seven decision tables and assign **Answer** as per your requirements.
 
@@ -68,7 +68,7 @@ Set up the Access Management Automation application by configuring the Service P
 
     **Note:** Ensure that you select **Default \[Global\]** and **Global** for current update set and application.
 
-    ![Select the global value.](../image/global.png)
+    ![Select the global value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/global.png)
 
     1.  Navigate to **Service Portal** &gt; **Portals**.
 
@@ -80,7 +80,7 @@ Set up the Access Management Automation application by configuring the Service P
 
     5.  Add **Access Management** to the **Service Portal** list.
 
-        ![Add Access Management.](../image/access-management.png)
+        ![Add Access Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/access-management.png)
 
     6.  Click **Save**.
 
@@ -95,11 +95,11 @@ Set up the Access Management Automation application by configuring the Service P
     1.  Navigate to the Service Portal.
     2.  Click the **Catalog** tab.
     3.  Click **Browse by Categories**.
-    4.  Select **Access Management**.![Access Management catalogs.](../image/access-management-catalogs.png)
-    5.  Select the required service from the displayed categories.![Access Management category.](../image/categories.png)
+    4.  Select **Access Management**.![Access Management catalogs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/access-management-catalogs.png)
+    5.  Select the required service from the displayed categories.![Access Management category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/categories.png)
     6.  Select the required action and submit the catalog item. When the request is approved, the associated flow is triggered and the required user can provide the approval. Activities are logged in the catalog item.
 -   If you are using the application to manage access in Okta, ensure that the user has the Okta admin role to retrieve data in the Okta groups module. Also, the user must have the Okta admin role to submit request using the catalog item.
 -   For information about customizing the widget and macro, see the KB article, [Access Management Automation - Widget &amp; Macro Customisations](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0993763).
 
-**Parent Topic:**[Access Management Automation](../concept/access-management.md)
+**Parent Topic:**[Access Management Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/access-management.md)
 

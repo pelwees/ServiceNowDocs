@@ -29,7 +29,7 @@ Role required: rota\_admin or rota\_manager
 
     The **Schedule Entry** dialog box is displayed.
 
-    ![Schedule entry form](../image/OC_SchedEntry.png)
+    ![Schedule entry form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/OC_SchedEntry.png)
 
 3.  Update the fields as needed.
 
@@ -160,10 +160,10 @@ Delete the schedule entry. A warning message appears.
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Configure or update an On-Call schedule](create-update-schedule-oncall.md)
+**Parent Topic:**[Configure or update an On-Call schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-update-schedule-oncall.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/roles-assigning-oncall.md)
 

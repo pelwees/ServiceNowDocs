@@ -49,7 +49,7 @@ SLO Error Budget
 
 </td><td>
 
-Information about your current error budget for this service, as configured in Service Reliability Management \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](../../slo-management/task/sr-create-slo-sli.md).
+Information about your current error budget for this service, as configured in Service Reliability Management \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/../../slo-management/task/sr-create-slo-sli.md).
 
 </td><td>
 
@@ -116,5 +116,5 @@ Listing of active alerts that affect this service.
 CMDB
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Azure Monitor templates for Service Observability](azure-templates.md)
+</table>**Parent Topic:**[Azure Monitor templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/azure-templates.md)
 

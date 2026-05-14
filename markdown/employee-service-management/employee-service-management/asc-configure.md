@@ -90,7 +90,7 @@ Content Delivery manager \[sn\_cd.content\_manager\]
     -   Home page: asc\_home
     -   Main menu: Alumni Center Header
     -   Theme: Alumni Center Coral Theme
-    ![Service Portal configuration for Alumni Center](../image/alumni-service-portal-config.png)
+    ![Service Portal configuration for Alumni Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../image/alumni-service-portal-config.png)
 
 -   **Supported task types**
 
@@ -106,11 +106,11 @@ Content Delivery manager \[sn\_cd.content\_manager\]
     -   View video
 -   **Adding content**
 
-    The Alumni Center uses the same widgets as the HR Service Delivery Employee Center. For more information, see [Employee Center widget instance options](../../employee-center/concept/emp-center-topic-inst-options.md).
+    The Alumni Center uses the same widgets as the HR Service Delivery Employee Center. For more information, see [Employee Center widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../employee-center/concept/emp-center-topic-inst-options.md).
 
-    Use Content Publishing to add and display content to your Alumni Center. For more information, see [Content Publishing](../../employee-center/concept/ec-publish-content.md).
+    Use Content Publishing to add and display content to your Alumni Center. For more information, see [Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../employee-center/concept/ec-publish-content.md).
 
-    To add content as part of a campaign, use **Content Automation**. For more information, see [Working on Campaigns](../../employee-center/concept/ecpro-campaigns.md).
+    To add content as part of a campaign, use **Content Automation**. For more information, see [Working on Campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../employee-center/concept/ecpro-campaigns.md).
 
 -   **Load data**
 

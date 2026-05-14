@@ -41,7 +41,7 @@ Role required: requester
 
 6.  If necessary, edit the quantity of items.
 
-7.  To remove an item from the cart, click the Remove Item icon \(![Icon to remove item](../image/RemoveIcn.png)\).
+7.  To remove an item from the cart, click the Remove Item icon \(![Icon to remove item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/RemoveIcn.png)\).
 
 8.  To make changes to this item, select it, and then select **Save as Draft**.
 
@@ -71,7 +71,7 @@ Role required: requester
 
 15. Specify the **Delivery Information** and **Special instructions**.
 
-16. To add one or more attachments for the cart, click the add attachment icon \(![add attachment icon](../image/IconAddAttachmnt.png)\).
+16. To add one or more attachments for the cart, click the add attachment icon \(![add attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddAttachmnt.png)\).
 
     You can browse and choose the files, drag the files, or copy and paste them in the Add attachments window.
 
@@ -80,10 +80,10 @@ Role required: requester
     The corresponding request is displayed in the My Requests page with the request number, estimated delivery date for the entire order, price, and the order status of individual ordered items.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-in-ec.md)
 
 **Related topics**  
 
 
-[Save a draft of a catalog item](save-draft-catalog-item.md)
+[Save a draft of a catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/save-draft-catalog-item.md)
 

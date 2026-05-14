@@ -23,7 +23,7 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 
 Use a hierarchy if it makes sense for your organization. In the example below, the last two expense lines are a level under expense line number EXP0010001.
 
-![Expense lines hierarchy](../image/ExpenseLinesInherited.png "Expense lines in a hierarchy")
+![Expense lines hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../image/ExpenseLinesInherited.png "Expense lines in a hierarchy")
 
 ## Procedure
 
@@ -55,20 +55,20 @@ Use a hierarchy if it makes sense for your organization. In the example below, t
     |Cost center|The cost center financially responsible for the item identified in **Source ID**, if any.|
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../concept/c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
-[Create an allocation rule](t_CreateAnAllocationRule.md)
+[Create an allocation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../concept/c_CreateExpenseLinesAutomatically.md)
 
-[Delete an expense line](t_DeleteAnExpenseLine.md)
+[Delete an expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_DeleteAnExpenseLine.md)
 
-[Create a sample allocation rule](t_SampleAllocationRule.md)
+[Create a sample allocation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_SampleAllocationRule.md)
 
-[Use a scripted allocation](t_UseAScriptedAllocation.md)
+[Use a scripted allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_UseAScriptedAllocation.md)
 
 [c_CreatingFixedAssets]
 

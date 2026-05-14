@@ -19,7 +19,7 @@ Role required: agent
 
 ## About this task
 
-Review and optimize knowledge articles in the Knowledge Center \(KC\) by running quality scans of all the articles. Default settings come with default scan configurations, but you can also customize scan jobs. For more on creating an Article Optimization job, see [Configuring Article Optimization jobs](configuring-article-optimization-jobs.md).
+Review and optimize knowledge articles in the Knowledge Center \(KC\) by running quality scans of all the articles. Default settings come with default scan configurations, but you can also customize scan jobs. For more on creating an Article Optimization job, see [Configuring Article Optimization jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-article-optimization-jobs.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Review and optimize knowledge articles in the Knowledge Center \(KC\) by running
 
 6.  Review each of the feedback cards and select the suggested action \(such as Review, Add alt attribute, and so on\) to accept the changes or, select **Ignore** to reject the feedback.
 
-    ![Article optimization panel in Knowledge Center.](../image/article-optimization.png)
+    ![Article optimization panel in Knowledge Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/article-optimization.png)
 
 7.  Select **Save** to save the changes made to the article.
 

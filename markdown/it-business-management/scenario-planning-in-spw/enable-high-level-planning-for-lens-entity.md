@@ -17,7 +17,7 @@ To enable high-level planning on for an entity in Strategic Planning Workspace, 
 
 ## Before you begin
 
-[Create portfolio plan configuration for high-level planning](create-portfolio-plan-configuration-for-high-level-planning.md).
+[Create portfolio plan configuration for high-level planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plan-configuration-for-high-level-planning.md).
 
 Role required: admin
 
@@ -39,9 +39,9 @@ For this task, consider the example of Strategic Investments as the lens and the
 
     For example, set the Planning enabled field of Strategic Priority entity to **true**.
 
-    If your high-level entity is not a part of your lens structure, you can add it. See [Add or modify lens structure in Strategic Planning](define-lens-structure-in-alignment-planner-workspace.md).
+    If your high-level entity is not a part of your lens structure, you can add it. See [Add or modify lens structure in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/define-lens-structure-in-alignment-planner-workspace.md).
 
-    ![Planning enabled field for a lens entity in the Lens structures related list of a Lens form.](../images/planning-enabled-field.png)
+    ![Planning enabled field for a lens entity in the Lens structures related list of a Lens form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/planning-enabled-field.png)
 
 4.  Save the Lens form.
 
@@ -54,5 +54,5 @@ Your planning managers can now create portfolio plans on the Strategic Investmen
 
 ## What to do next
 
-[Populate global rank for high-level planning items](populate-global-rank-for-high-level-planning-items.md).
+[Populate global rank for high-level planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/populate-global-rank-for-high-level-planning-items.md).
 

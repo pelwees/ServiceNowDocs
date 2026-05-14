@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select a case that was created from the New Hire Onboarding \(Demo\) lifecycle event.
 
-3.  Select the Additional actions \(![Additional actions icon](../image/additional-actions-icon.png) icon.
+3.  Select the Additional actions \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/additional-actions-icon.png) icon.
 
 4.  Select **Configure** and then **Business Rules**.
 
@@ -48,5 +48,5 @@ Role required: admin
     The Timer was cancelled when the LE/HR case state was changed to **Work in Progress** and the **check\_activity\_set\_trigger** event was fired.
 
 
-**Parent Topic:**[Lifecycle Events evaluation interval](../concept/le-evaluation-interval1.md)
+**Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/le-evaluation-interval1.md)
 

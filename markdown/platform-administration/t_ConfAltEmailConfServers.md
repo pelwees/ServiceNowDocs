@@ -19,7 +19,7 @@ You can use your own SMTP and POP3 servers to send email from the instance and t
 -   Email servers required:
     -   SMTP
     -   POP3
--   [Basic email properties:](t_ConfiguringStandardEmail.md) enabled
+-   [Basic email properties:](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md) enabled
 
 ## Procedure
 
@@ -141,7 +141,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../../notification/concept/system-address-filters.md).
+ For more information, see [System address filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
     If the email account is valid, the system returns a success message.
 
-    ![Test SMTP connection](../../notification/image/test-smtp-connection.png)
+    ![Test SMTP connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/test-smtp-connection.png)
 
 9.  Click **New**.
 
@@ -186,12 +186,12 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
     If the email account is valid, the system returns a success message.
 
-    ![Test POP3 connection](../../notification/image/test-pop3-connection.png)
+    ![Test POP3 connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/test-pop3-connection.png)
 
 
 ## Example
 
-![Using your own SMTP and POP3 servers](../image/AlternateEmailConfigurationUsingYourOwnSMTPAndPOP3Servers.png "Using your own SMTP and POP3 servers")
+![Using your own SMTP and POP3 servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AlternateEmailConfigurationUsingYourOwnSMTPAndPOP3Servers.png "Using your own SMTP and POP3 servers")
 
-**Parent Topic:**[Advanced email setup](../concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_AlternateEmailConfigurations.md)
 

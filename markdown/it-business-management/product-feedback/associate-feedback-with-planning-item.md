@@ -31,11 +31,11 @@ You can associate a feedback or product idea record with only one planning item 
 
 2.  Select **Feedback**.
 
-3.  Select **Feedback** and then [Create feedback](create-feedback-in-sp.md).
+3.  Select **Feedback** and then [Create feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-feedback-in-sp.md).
 
 4.  Once the feedback is created, from the link product idea list, select the planning item to associate with the feedback.
 
-    ![This image displays feedback list from where you can select the items.](../image/feedback-list.png)
+    ![This image displays feedback list from where you can select the items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../image/feedback-list.png)
 
     From the planning item list, select one or multiple records that you want to associate. You can follow similar steps for the product idea.
 

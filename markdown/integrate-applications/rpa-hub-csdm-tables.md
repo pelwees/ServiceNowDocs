@@ -18,11 +18,11 @@ RPA Hub manages and uses CSDM tables. Several ServiceNow products benefit from a
 1.  Bot Process \[cmdb\_ci\_rpa\_process\]
 2.  Robot \[cmdb\_ci\_rpa\_robot\]
 
-The Bot Process table \(cmdb\_ci\_rpa\_process\) contains the configuration details of a process that runs on a robot. This table extends from the Base Bot Process table \(cmdb\_ci\_base\_rpa\_process\). The following image is a visual depiction of the bot process table hierarchy. ![Visual depiction of the bot process table hierarchy.](../image/botprocess-ci-rpa-csdm.png)
+The Bot Process table \(cmdb\_ci\_rpa\_process\) contains the configuration details of a process that runs on a robot. This table extends from the Base Bot Process table \(cmdb\_ci\_base\_rpa\_process\). The following image is a visual depiction of the bot process table hierarchy. ![Visual depiction of the bot process table hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/botprocess-ci-rpa-csdm.png)
 
 The Robot table \(cmdb\_ci\_rpa\_robot\) contains the details of a software agent that runs a bot process \(cmdb\_ci\_rpa\_process\) that is built in the RPA Desktop Design Studio. This table extends from the Base Robot table \(cmdb\_ci\_base\_rpa\_robot table\). The following image is a visual depiction of the robot table hierarchy.
 
-![Visual depiction of the robot table hierarchy.](../image/robot-ci-rpa-csdm.png)
+![Visual depiction of the robot table hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/robot-ci-rpa-csdm.png)
 
 The bot process and the robot are associated with each other using CI relationship ‘Runs On::Runs’.
 
@@ -30,11 +30,11 @@ The bot process and the robot are associated with each other using CI relationsh
 
 1.  Business Application \[cmdb\_ci\_business\_app\] - For associating business applications to bot processes and later, defining the application credentials for the same.
 
-    For more information about assigning a business application to a bot process, see [Assign a business application to a bot process in RPA Hub](../../rpa-hub/task/associate-business-apps.md).
+    For more information about assigning a business application to a bot process, see [Assign a business application to a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/associate-business-apps.md).
 
 2.  Hardware \[cmdb\_ci\_hardware\] - For the machine name lookup feature on a robot record.
 
-    For more information about machine name field, see [Create an unattended robot in RPA Hub](../../rpa-hub/task/create-unattended-robot.md).
+    For more information about machine name field, see [Create an unattended robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/create-unattended-robot.md).
 
 
 ## Products that add value to RPA Hub

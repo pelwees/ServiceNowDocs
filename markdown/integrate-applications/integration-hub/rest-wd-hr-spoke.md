@@ -133,7 +133,7 @@ Add and configure a Workday HR REST API connection to authenticate ServiceNow re
 #### Before you begin
 
 -   Role required: admin
--   [Register Workday HR as an OAuth provider](rest-wd-hr-spoke.md#)
+-   [Register Workday HR as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/rest-wd-hr-spoke.md#)
 
 #### Procedure
 
@@ -147,12 +147,12 @@ Add and configure a Workday HR REST API connection to authenticate ServiceNow re
 
 5.  Click **View Details**.
 
-    ![Connection template for Workday HR spoke](../image/wkday-hr-conn-temp.png)
+    ![Connection template for Workday HR spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-hr-conn-temp.png)
 
 6.  Configure a cloud connection.
 
     1.  Add or edit a cloud connection.
-        -   To set up an existing connection, select **Configure** or **Edit**.![Configure the connection using connection template for Workday HR spoke](../image/wkday-hr-con-config.png)
+        -   To set up an existing connection, select **Configure** or **Edit**.![Configure the connection using connection template for Workday HR spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-hr-con-config.png)
         -   To create and configure a new connection, select **Add Connection**.
     2.  On the configuration form, fill in the fields.
     |Field|Description|

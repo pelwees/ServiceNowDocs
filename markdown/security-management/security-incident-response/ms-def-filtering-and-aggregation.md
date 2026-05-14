@@ -55,7 +55,7 @@ Aggregation Conditions define additional incident field criteria that enable an 
     -   If **OR** is selected, either condition can be matched.
 5.  To set a second filter condition, select **New Criteria**.
 
-    ![Define filter and aggregation criteria](../image/ms-def-fil-and-agg.png)
+    ![Define filter and aggregation criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-def-fil-and-agg.png)
 
 6.  Select **Aggregation Conditions** check box to define additional incident field criteria that enables an incoming incident to be appended to an open security incident instead of creating one.
 
@@ -76,5 +76,5 @@ Aggregation Conditions define additional incident field criteria that enable an 
 
 ## What to do next
 
-Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](ms-defender-schedule-inc.md).
+Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-defender-schedule-inc.md).
 

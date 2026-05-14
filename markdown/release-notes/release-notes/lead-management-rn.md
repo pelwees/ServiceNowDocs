@@ -40,5 +40,5 @@ Install Lead Management by requesting it from the ServiceNow Store. Visit the [S
     ServiceNow®Activity Management applications help sales and service teams work more productively by capturing, organizing, and acting on customer interactions in one place, helping to ensure complete context and effective follow‑up across Customer Relationship Management \(CRM\) records.
 
 
-**Parent Topic:**[Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md)
+**Parent Topic:**[Sales Customer Relationship Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/sales-order-management-rn-landing.md)
 

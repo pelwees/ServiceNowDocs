@@ -19,18 +19,18 @@ The Employee Center application provides out-of-the-box portal pages with releva
 
 To get started, follow these key steps to configure the portal:
 
-1.  [Install plugins](install-plugins.md)
-2.  [Assign roles](emp-center-personas.md)
+1.  [Install plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-plugins.md)
+2.  [Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-personas.md)
 3.  Configure the portal:
-    -   [Customize Employee Center portal theme](../task/customize-theme.md)
-    -   [Employee Center global header](config-global-header.md)
-    -   [Footer configuration](emp-center-footer-config.md)
-    -   [Enable support for right-to-left languages](ec-direction-right-to-left-languages.md)
+    -   [Customize Employee Center portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/customize-theme.md)
+    -   [Employee Center global header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-global-header.md)
+    -   [Footer configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-footer-config.md)
+    -   [Enable support for right-to-left languages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-direction-right-to-left-languages.md)
     -   Modify the portal pages, such as the home page:
 
         Navigate to **Service Portal** &gt; **Pages** to view all the pages.
 
         **Note:** The default Employee Center home page is `ec_home`.
 
-    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](../task/activate-notification-template.md)
+    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/activate-notification-template.md)
 

@@ -64,7 +64,7 @@ The following items are installed with SGC Central:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with SGC Central](../concept/sgcc-installed-components.md).
+For more information, see [Components installed with SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/sgcc-installed-components.md).
 
 ## Procedure
 

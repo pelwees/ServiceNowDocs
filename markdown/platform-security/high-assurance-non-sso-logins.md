@@ -21,9 +21,9 @@ When the user perform step-up authentication \(MFA\), there's a high assurance s
 
 You can create CA policies to verify the users identity and authentication the users to access the data that you've protected. The users who are performing non- SSO based login \(local or LDAP\) and whenever there is an attempt to access the protected data, step-up authentication \(MFA\) screen is prompted to the users.
 
-![MFA-SMS](../images/mobile-screen-mfa.png)
+![MFA-SMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/mobile-screen-mfa.png)
 
-After successful authentication, the protected data is displayed to the users for a certain time frame. You can configure the properties to change the time limit based on your requirement. To know more, see [High Assurance session with Continuous Authentication](high-assurance-ca.md).
+After successful authentication, the protected data is displayed to the users for a certain time frame. You can configure the properties to change the time limit based on your requirement. To know more, see [High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md).
 
 **Note:** If the users haven't setup MFA, it is compulsory to complete the setup.
 
@@ -34,9 +34,9 @@ An high assurance session established for the user is limited to the High Assura
 **Related topics**  
 
 
-[High Assurance session with Continuous Authentication](high-assurance-ca.md)
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md)
 
-[Pre-work for Continuous Authentication](pre-work-ca.md)
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-ca.md)
 

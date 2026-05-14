@@ -15,14 +15,14 @@ Learn how configuration IDs link Configuration Line Items and quote lines in Sal
 
 Whenever a configuration session is saved, a collection of Configuration Line Item objects are created in SFDC that all share the same Configuration Id field.
 
-![Quote line details](../images/cpq-salesforce-configuration-id-1.png)
+![Quote line details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-configuration-id-1.png)
 
 When you save the quote, the quote line for the parent level configurable product will have a similar Configuration Id field, which should be populated with the same value.
 
-![Quote line details](../images/cpq-salesforce-configuration-id-2.png)
+![Quote line details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-configuration-id-2.png)
 
 A Salesforce admin can leverage the fact that these values match to pull information from the Configuration Line Items to the quote \(or its associated opportunity/account\). For more information about pulling information to the quote line, see:
 
--   [Use case: Configuration line item to quote line flow](use-case-configuration-line-item-to-quote-line-flow.md) \(if your Logik Extension for Salesforce CPQ Package is version 1.8 or later\)
--   [Use case: Using the Salesforce Quote Calculator plugin to integrate data from CPQ to Salesforce quotes and quote lines](integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp.md) \(for CPQ Extension Package version 1.7 or earlier\)
+-   [Use case: Configuration line item to quote line flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-case-configuration-line-item-to-quote-line-flow.md) \(if your Logik Extension for Salesforce CPQ Package is version 1.8 or later\)
+-   [Use case: Using the Salesforce Quote Calculator plugin to integrate data from CPQ to Salesforce quotes and quote lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/integrate_config_data_from_productlist_extended_to_salesforce_quote_and_quote_lines_using_quote_calculator_pluginqcp.md) \(for CPQ Extension Package version 1.7 or earlier\)
 

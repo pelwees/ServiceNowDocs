@@ -27,5 +27,5 @@ Summary and insights page:
 -   KPIs are visible to any user who has the required permission to access related KPIs.
 -   Insights are visible to any user who has access to the project.
 
-**Parent Topic:**[Configuring Process Mining](setting-up-process-mining.md)
+**Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-up-process-mining.md)
 

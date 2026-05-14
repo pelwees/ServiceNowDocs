@@ -15,7 +15,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Use a system property to prevent Knowledge Based Authentication \(KBA\) from being the only factor of authentication required to authenticate to the platform for AI voice.
 
-Use the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property to prevent security questions from being the only factor of authentication required to authenticate to the platform in the AI voice agent authentication feature. Knowledge Based Authentication \(KBA\) allows users to answer security questions as an authentication factor. Learn more about authentication factors for AI voice agents at [Explore authentication factors for AI voice agents](../../../integrate/authentication/concept/explore-authentication-factors.md).
+Use the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property to prevent security questions from being the only factor of authentication required to authenticate to the platform in the AI voice agent authentication feature. Knowledge Based Authentication \(KBA\) allows users to answer security questions as an authentication factor. Learn more about authentication factors for AI voice agents at [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/concept/explore-authentication-factors.md).
 
 Ensure that the **glide.voice.authenticate.allow\_kba\_as\_only\_factor** system property is set to `false`.
 
@@ -83,7 +83,7 @@ Category
 
 </td><td>
 
-[Authentication](sc-authentication.md)
+[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
 </td></tr><tr><td>
 
@@ -112,5 +112,5 @@ Dependencies and prerequisites
 AI voice agent authentication feature is setup and enabled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Authentication](sc-authentication.md)
+</table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 

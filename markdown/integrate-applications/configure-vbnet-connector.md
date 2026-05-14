@@ -15,7 +15,7 @@ Write and validate a custom VB.Net script before executing it as part of a Workf
 
 ## Before you begin
 
-Ensure you have installed the Scripting plugin on the RPA Desktop Design Studio. To install, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
+Ensure you have installed the Scripting plugin on the RPA Desktop Design Studio. To install, see [Manage plugins in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-plugins-rpa-studio.md).
 
 Role required: Developer
 
@@ -31,7 +31,7 @@ Role required: Developer
 
 4.  Enter the custom VB.NET script in the Script pane.
 
-    ![Script pane in Script Editor](../image/vbnet-scripteditor.png "Script pane in Script Editor")
+    ![Script pane in Script Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/vbnet-scripteditor.png "Script pane in Script Editor")
 
 5.  Select **Add Reference** from the **References** tab section if you want to add Dynamic-link library \(DLL\) references to your custom script.
 
@@ -41,7 +41,7 @@ Role required: Developer
 
     If your custom script has any errors, it is displayed in the Errors pane. Resolve the errors and select **Validate** to check for errors again.
 
-    ![Error pane for Script Editor](../image/vbnet-error.png "Error pane for Script Editor")
+    ![Error pane for Script Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/vbnet-error.png "Error pane for Script Editor")
 
 7.  Click **OK**.
 
@@ -52,5 +52,5 @@ Role required: Developer
 
 The custom script you created by using the VB.net connector is now ready to be used in your automation.
 
-**Parent Topic:**[VB.Net](../concept/vb-net.md)
+**Parent Topic:**[VB.Net](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/vb-net.md)
 

@@ -39,8 +39,8 @@ You can define the number of characters to be used as tags in the **glide.knowma
 
     **Note:** You can change which article template field is used for generating SEO. Changes are applied only to knowledge articles created or updated after the change was made. To apply the update to all existing published articles created using this template, run the Populate Meta Description on KB Articles fix script.
 
-    ![Article template page](../image/article-template-seo-tag.png "Article template page")
+    ![Article template page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/article-template-seo-tag.png "Article template page")
 
 
-**Parent Topic:**[Configure knowledge article templates](../concept/configure-knowledge-article-templates.md)
+**Parent Topic:**[Configure knowledge article templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configure-knowledge-article-templates.md)
 

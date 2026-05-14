@@ -19,7 +19,7 @@ Use the **Simulate Add Role** for simulating the user's access changes for a res
 
 Role required: access\_analyzer\_admin
 
-Enable Take actions. For more information, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
+Enable Take actions. For more information, see [Configuring the Access Simulator \(Take actions\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/configure-access-simulator.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     |Select record|Specify a record name to select from the list \(Optional\).|
     |Select field|Specify a field name to select from the list. This field can be used to analyze permissions at the field level. For example, **Active**, **Created By**, and so on.|
 
-    ![Add a role to a user - criteria](../images/simulate-add-criteria.png)
+    ![Add a role to a user - criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-criteria.png)
 
 4.  Click **Next**.
 
@@ -46,7 +46,7 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
 
     Use the **Preview changes** view to see a simulation of your configured choices. Validate the roles and child roles that have been added to the user before moving to the next step.
 
-    ![Preview changes](../images/simulate-add-preview.png)
+    ![Preview changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-preview.png)
 
     In this example, you can see the new child roles that have been added in this simulation \(highlighted in green, as **Role or Group being added**\) as part of the **itil\_admin** role, along with the user's currently assigned roles \(Role or group being unchanged\).
 
@@ -54,7 +54,7 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
 
 7.  In the **Simulated results** view, check the **Present status** and **Simulated status** to validate that access is **Passed** or **Blocked** to the simulated user as intended.
 
-    ![Results](../images/simulate-add-results.png)
+    ![Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-results.png)
 
     In this example, adding the **itil\_admin** role enables the user to perform delete operations on the table \(Incident\).
 
@@ -67,13 +67,13 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
 
 9.  To apply the simulated changes, on the **Take action** view, click **Add and complete** .
 
-    ![Actions](../images/simulate-add-actions.png)
+    ![Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-actions.png)
 
     **Note:**
 
     -   If Access Simulator isn’t enabled, you can't complete the simulation. To enable it, select **Enable actions** and accept the legal information.
-    -   To hide the simulation, select **Hide actions**. To unhide and enable actions, go to **Settings**. For more information, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
+    -   To hide the simulation, select **Hide actions**. To unhide and enable actions, go to **Settings**. For more information, see [Configuring the Access Simulator \(Take actions\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/configure-access-simulator.md).
     -   To exit the simulation without applying the simulated changes, select **Skip and Exit**.
-    If you clicked **Add and complete**, the simulated roles are successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](../concept/access-analyzer.md).
+    If you clicked **Add and complete**, the simulated roles are successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../concept/access-analyzer.md).
 
 

@@ -49,7 +49,7 @@ Role required: admin
 
 3.  Create or duplicate catalog item templates.
 
-    For information on creating a template, see [Creating or editing catalog item template](create-cat-item-template-cat-builder.md).
+    For information on creating a template, see [Creating or editing catalog item template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md).
 
 4.  To allow users with access to a catalog item template to edit all items created using that template, perform the following steps.
 
@@ -141,12 +141,12 @@ State of the pre-publish subflow. Possible values are:-   completed: Publishing 
         **Note:** If the user has the catalog\_admin role, the user can view and edit all catalog items irrespective of what is selected in the property.
 
 
--   **[Configure a step-based service fulfillment flow](configure-flow-sf-flow.md)**  
+-   **[Configure a step-based service fulfillment flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-flow-sf-flow.md)**  
 Define service fulfillment steps while creating a catalog item in Catalog Builder.
--   **[Create a service fulfillment step type](create-sf-step-type.md)**  
+-   **[Create a service fulfillment step type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-sf-step-type.md)**  
 Expand the coverage of service fulfillment use cases beyond those supported by step types in base system. Using a service fulfillment step type, catalog item owners can define multiple steps that are part of the request fulfilment process.
--   **[Add a step, section, or question to a catalog item wizard](configure-the-catalog-builder-experience.md)**  
+-   **[Add a step, section, or question to a catalog item wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-the-catalog-builder-experience.md)**  
 Add a step, section, or question to a catalog item wizard so catalog item editors can enter custom details while creating catalog items.
 
-**Parent Topic:**[Catalog Builder](../concept/catalog-builder.md)
+**Parent Topic:**[Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/catalog-builder.md)
 

@@ -17,7 +17,7 @@ After you review the similarity examples provided by the system, update your sol
 
 ## Before you begin
 
--   Review your similarity examples and their scores. For more information see [Review solution similarity examples](review-similarity-examples.md).
+-   Review your similarity examples and their scores. For more information see [Review solution similarity examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 -   Role required: ml\_admin or admin
 
 ## About this task

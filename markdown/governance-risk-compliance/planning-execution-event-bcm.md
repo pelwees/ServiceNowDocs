@@ -37,7 +37,7 @@ When a record in created in ServiceNow AI Platform as a configuration item in CM
 
     When you are in the planning stage, if you have scoped the BIA-dependent item and added it as the scope, then the dependencies of the scoped item are available as Related Assets. Also, the plans existing for these assets are available as Related Plans. In addition, you can add new plans also. For example, a plan is created for Data Center: NYC, along with which the related plans of the related assets such as SAP on-premise application and Facility: New York \(created in BIA\) also move in to the planning phase automatically. In addition to the items that came from the BIA, you can also add new assets manually to the plan.
 
-    In the **Recovery Tasks** tab of a plan, you can also [refer to a different plan](../task/bcp-recovery-tasks-grid.md#refer-related-plan-bcp) and select the plan from the list of related plans.
+    In the **Recovery Tasks** tab of a plan, you can also [refer to a different plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/bcp-recovery-tasks-grid.md#refer-related-plan-bcp) and select the plan from the list of related plans.
 
 -   **Exercise**
 
@@ -48,7 +48,7 @@ When a record in created in ServiceNow AI Platform as a configuration item in CM
 
 In this planning phase, as a planner you can identify the related assets, add the related plans, and set a sequence and dependencies for execution of recovery.
 
-![Recovery tasks to activate related plans.](../image/RecoveryTaskPlanningBCP.png "Recovery tasks to activate related plans")
+![Recovery tasks to activate related plans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/RecoveryTaskPlanningBCP.png "Recovery tasks to activate related plans")
 
 If you must recover assets in Data center A before recovering assets in Data center B, then you can refer to a different plan that follows the recovery process of Data Center A. In this case, use the **Refer a different plan** option in the **Recovery Tasks** tab of the main plan, and select the relevant plan from the related plans to recover Data center A. The referred plan has its own set of tasks that the application executes when it comes to this particular task. You can also set a sequence for the execution of the referred plan within the event tasks of the main plan.
 

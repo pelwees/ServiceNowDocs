@@ -17,7 +17,7 @@ A sample payload for the Citrix publisher pack that populates the Software Insta
 
 The Citrix publisher pack supports two products: virtual applications and virtual desktop. For these products, Citrix supports concurrent licensing and user/device licensing.
 
-**Note:** For information on license metrics, see [Software License Metrics](../concept/c_SAMLicenseMetrics.md)
+**Note:** For information on license metrics, see [Software License Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMLicenseMetrics.md)
 
 The IRE API relies on two CI identifier rules for creating Citrix software install records. The Citrix License server \[cmdb\_ci\_appl\_license\_server\] identifier populates the CAL entries and the Citrix Delivery Controller \[cmdb\_ci\_appl\_delivery\_controler\] identifier creates the software install records.
 
@@ -130,5 +130,5 @@ Once the entries are created in the tables, execute the scheduled job, SAM- Crea
             }
 ```
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_kmf.admin
 
 3.  Select a key alias on the Crypto Specifications tab.
 
-    ![Shows how to select a key from the lifecycle definition.](../image/key-lifecycle-configuration.jpg)
+    ![Shows how to select a key from the lifecycle definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/key-lifecycle-configuration.jpg)
 
 4.  Select **Next**.
 
@@ -57,7 +57,7 @@ For field
 
 </td><td>
 
-Select the type of control for the key that the lifecycle applies to.![Shows the values in the "For field."](../image/field-lifecycle-for-field.jpg "Key lifecycle management "For field" values")
+Select the type of control for the key that the lifecycle applies to.![Shows the values in the "For field."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/field-lifecycle-for-field.jpg "Key lifecycle management "For field" values")
 
 </td></tr><tr><td>
 
@@ -115,9 +115,9 @@ Relative to
 
 </td><td>
 
-Field the duration is relative to. Displays if a relative duration or operation is selected.![Shows the values of the "Relative to" list.](../image/relative-to-kl-state.jpg)
+Field the duration is relative to. Displays if a relative duration or operation is selected.![Shows the values of the "Relative to" list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/relative-to-kl-state.jpg)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a cryptographic module](create-cryptographic-module.md)
+**Parent Topic:**[Create a cryptographic module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md)
 

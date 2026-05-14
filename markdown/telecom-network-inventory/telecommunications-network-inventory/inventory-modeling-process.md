@@ -28,7 +28,7 @@ When you create inventory models for your equipment inventory in the Telecommuni
 
 The following diagram shows a top-to-bottom approach for the inventory modeling process.
 
-![Top-to-bottom inventory modeling. For a text description, refer to the modeling steps that follow.](../image/inventory-modeling-process.png "Top-to-bottom inventory modeling")
+![Top-to-bottom inventory modeling. For a text description, refer to the modeling steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/inventory-modeling-process.png "Top-to-bottom inventory modeling")
 
 The steps for top-to-bottom modeling of an inventory are as follows:
 
@@ -47,7 +47,7 @@ This process ensures that all models and model relationships are created accordi
 **Related topics**  
 
 
-[Create inventory models](creating-your-inventory-models.md)
+[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-your-inventory-models.md)
 
-[Define a network model relationship](../task/create-network-model-relationships.md)
+[Define a network model relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-network-model-relationships.md)
 

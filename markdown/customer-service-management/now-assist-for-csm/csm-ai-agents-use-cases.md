@@ -32,7 +32,7 @@ Available AI agents
 
 </th></tr></thead><tbody><tr><td>
 
-[Triage cases](case-resolving-use-case.md)
+[Triage cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/case-resolving-use-case.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Handles end-to-end case or case type validation, creation, verification, and esc
 
 </td></tr><tr><td>
 
-[Provide customer 360 insights](customer-service-management-ai-agent-collection-customer-360.md)
+[Provide customer 360 insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/customer-service-management-ai-agent-collection-customer-360.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Provides agents with real-time, context aware responses to queries on customer d
 
 </td></tr><tr><td>
 
-[Complaint Case AI Agent collection](csm-ai-agents-use-cases.md)
+[Complaint Case AI Agent collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/csm-ai-agents-use-cases.md)
 
 </td><td>
 

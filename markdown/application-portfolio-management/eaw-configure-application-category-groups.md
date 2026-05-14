@@ -15,12 +15,12 @@ An application category group is a collection of application categories. Categor
 
 Application category groups help organize your application categories into broader business-aligned clusters, making it easier to manage your application portfolios.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all application category groups](../../task/eaw-task/eaw-view-all-application-category-groups.md)
+[View all application category groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-application-category-groups.md)
 
-[Add or edit an application category group](../../task/eaw-task/eaw-create-app-cat-grp.md)
+[Add or edit an application category group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-cat-grp.md)
 

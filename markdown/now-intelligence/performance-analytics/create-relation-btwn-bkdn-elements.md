@@ -17,7 +17,7 @@ Use a breakdown relation to set up navigation on an Analytics Hub between a hier
 
 ## Before you begin
 
-Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md).
+Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/breakdown-relations.md).
 
 **Important:** Platform Analytics features, such as KPI Details and data visualizations, do not support breakdown relations.
 
@@ -37,7 +37,7 @@ In a breakdown with a hierarchical relationship between elements, one field in t
 
 The example used in this topic is the Location breakdown for the Number of open incidents indicator. A child relation and a parent relation are needed to navigate the several levels of hierarchy, such as from region to country to city and back.
 
-![Navigating from Germany to child locations or to the parent EMEA region.](../image/child-locations.png)
+![Navigating from Germany to child locations or to the parent EMEA region.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/child-locations.png)
 
 **Note:** Breakdown relations are one-way relationships. Define multiple breakdown relations to create a bi-directional relationship.
 
@@ -131,5 +131,5 @@ After you submit the Breakdown Relation form, the navigation options are availab
 
 View examples of breakdown relations that are shipped by default in every instance. For the Location breakdown, the **Child Location** and **Parent Location** breakdown relations are included. The **Sibling Group** breakdown relation is an example of a sibling or peer relation.
 
-**Parent Topic:**[Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md)
+**Parent Topic:**[Navigating breakdown elements with breakdown relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/breakdown-relations.md)
 

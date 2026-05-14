@@ -25,25 +25,25 @@ From the list of records, assign an open security incident that has a risk score
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](mobile-sir-get-started.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sir-get-started.md).
 
 2.  With the Security Incidents landing screen displayed, tap **Risk Score &gt; 60**.
 
     If you navigate away from the Security Incident Response Mobile app after you have logged in, tap the Now Agent app at any time to return to the last screen you had displayed.
 
-    ![Incident Risk Score > 60 applet highlighted.](../image/mobile_SIR_greater_60si.jpg)
+    ![Incident Risk Score > 60 applet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile_SIR_greater_60si.jpg)
 
     The Incident Risk Score screen is displayed with a list of security incidents.
 
-    ![Security Incidents with Risk Score > 60 list.](../image/mobile-risk-si-list.jpg)
+    ![Security Incidents with Risk Score > 60 list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile-risk-si-list.jpg)
 
-3.  Refer to [Search for security incidents with the Security Incident Response Mobile app](mobile-sir-search.md) to search for security incidents that match specific criteria.
+3.  Refer to [Search for security incidents with the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sir-search.md) to search for security incidents that match specific criteria.
 
-    Alternatively, with the filter icon \(![Filter icon.](../image/sir-filter-image.png)\) displayed, [Set filters to limit the number of records](mobile-sire-filters.md) on the list. Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform.
+    Alternatively, with the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-filter-image.png)\) displayed, [Set filters to limit the number of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sire-filters.md) on the list. Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform.
 
 4.  To assign a security incident to yourself or reassign it directly from the list of open security incident records displayed, swipe left on a record to open the menu.
 
-    ![Incident Risk Score > 60 swipe menu.](../image/mobile-sir-risk-60-swipe.jpg)
+    ![Incident Risk Score > 60 swipe menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile-sir-risk-60-swipe.jpg)
 
 5.  Choose one to continue.
 
@@ -75,14 +75,14 @@ To assign or reassign the assignment group:1.  Tap **Assignment group**.
 
  1.  Tap **Assigned to** and
 2.  Tap a name from the list that is displayed, or enter text in the search field.
- Tap the send icon \(![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+ Tap the send icon \(![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr></tbody>
 </table>6.  Alternatively, to view the details of an open security incident record and to see more associated records and related lists, with the Incident Risk Score screen displayed, tap a record on the list.
 
 7.  On the open record that is displayed, choose one option from the following table to continue.
 
-    ![Security incident record for Risk Score > 60.](../image/mobile-sir-risk-60-record.jpg)
+    ![Security incident record for Risk Score > 60.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile-sir-risk-60-record.jpg)
 
 <table id="choicetable_zjs_jhq_zhb"><thead><tr><th align="left" id="d500860e284">
 
@@ -94,13 +94,13 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d500860e293">
 
-**Tap the menu icon ![Menu icon.](../../vulnerability-response/image/mobile-top-menu.png) on the upper right of the screen.**
+**Tap the menu icon ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile-top-menu.png) on the upper right of the screen.**
 
 </td><td>
 
 From the menu that is displayed, choose from the following options.-   Tap **Edit**. With the Edit Security Incident screen displayed, tap a field to expand it and choose one or more of the options that are displayed. Alternatively, tap the search icon and enter text.
 -   To reassign the incident, tap **Reassign** or **Assign to Me**. Follow the instructions described in the previous table.
- After you complete your edits, tap the send icon \(![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save your changes and update the security incident.
+ After you complete your edits, tap the send icon \(![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save your changes and update the security incident.
 
 </td></tr><tr><td id="d500860e338">
 
@@ -108,7 +108,7 @@ From the menu that is displayed, choose from the following options.-   Tap **Edi
 
 </td><td>
 
-With the Activity Stream tab selected, review the audit trail of work notes, activities, and additional comments of the record. Tap the plus icon \(![Plus icon.](../../vulnerability-response/image/mobile_instances_plus.png)\) to add a work note or attach a file.
+With the Activity Stream tab selected, review the audit trail of work notes, activities, and additional comments of the record. Tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_plus.png)\) to add a work note or attach a file.
 
 </td></tr><tr><td id="d500860e356">
 

@@ -46,10 +46,10 @@ To configure dynamic catalog categories:
     The results displayed are limited to those items or knowledge articles available in the currently viewed catalog.
 
 
-**Parent Topic:**[Service catalog categories](../concept/c_ServiceCatalogCategories.md)
+**Parent Topic:**[Service catalog categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogCategories.md)
 
 **Related topics**  
 
 
-[Create a category](t_CreateACategory.md)
+[Create a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateACategory.md)
 

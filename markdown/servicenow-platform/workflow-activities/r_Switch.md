@@ -81,9 +81,9 @@ The **Field** selected is the incident **Assigned to** field.
 
 If the value of the **Assigned to** field of the workflow-triggering incident is **Service Desk** or **Field Services**, the workflow populates values on the incident record before continuing. If the **Assigned to** value is **Hardware**, the workflow continues without populating any field values.
 
-Condition type \(Standard, Else, or Error\) is used. For more information, see [Manage workflow activity conditions](../../using-workflows/task/t_ManageActivityConditions.md#).
+Condition type \(Standard, Else, or Error\) is used. For more information, see [Manage workflow activity conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/../../using-workflows/task/t_ManageActivityConditions.md#).
 
 ![](../image/ConditionPropertiesHardware.png "Hardware group condition")
 
-**Parent Topic:**[Condition Workflow activities](r_ConditionActivites.md)
+**Parent Topic:**[Condition Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ConditionActivites.md)
 

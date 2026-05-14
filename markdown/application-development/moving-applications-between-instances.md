@@ -47,5 +47,5 @@ When moving an application, every artifact associated with that application scop
     Confirm that test data in non-production does not contain unmasked production PII. Use data masking or anonymization during clone operations.
 
 
-**Parent Topic:**[Deployment](get-started-deployment.md)
+**Parent Topic:**[Deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/get-started-deployment.md)
 

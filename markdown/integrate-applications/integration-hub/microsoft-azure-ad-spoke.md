@@ -54,7 +54,7 @@ The Microsoft Entra ID spoke provides sample subflows in the draft state to demo
 
 ## Available sample conversational subflows
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/conv-spokes-na.md).
 
 |Conversational subflow|Description|
 |----------------------|-----------|
@@ -1871,7 +1871,7 @@ User.Read.All, User.ReadWrite.All, Directory.Read.All, Directory.ReadWrite.All
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -1896,7 +1896,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Microsoft Entra ID account requirements
 
-The Microsoft Entra ID spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create an Microsoft Entra ID application](../../integrationhub-store-spokes/task/set-up-azure.md#).
+The Microsoft Entra ID spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create an Microsoft Entra ID application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/task/set-up-azure.md#).
 
 ## Connection and credential alias requirements
 
@@ -1908,5 +1908,5 @@ This spoke uses the AzureAD alias record to authorize actions on Microsoft Entra
 |----------------|-----------|--------------|
 |AzureAD|Connection to Microsoft Entra ID.|https://graph.microsoft.com|
 
-For information about setting up the spoke, see [Set up Microsoft Entra ID spoke](../../integrationhub-store-spokes/task/set-up-azure.md#).
+For information about setting up the spoke, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/task/set-up-azure.md#).
 

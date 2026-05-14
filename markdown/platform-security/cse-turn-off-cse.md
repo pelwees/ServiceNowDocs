@@ -35,7 +35,7 @@ Role required: admin, codesigning\_admin
 
 7.  Log in to your protected instance.
 
-8.  Upload your configuration files using the steps in [Upload your Code Signing configuration file to your protected instance](cse-upload-cs-config.md).
+8.  Upload your configuration files using the steps in [Upload your Code Signing configuration file to your protected instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cse-upload-cs-config.md).
 
 9.  Navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the Code Signing configuration page.
 
@@ -56,5 +56,5 @@ Role required: admin, codesigning\_admin
 
 You can verify successful completion by looking at your system properties. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **false**.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/config-code-signing.md)
 

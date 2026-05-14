@@ -59,10 +59,10 @@ The [Recommended practice](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
 To learn more, see [Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md), [Contains queries and domain access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-contains-domain-visibility.md), and [Importance of Default domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-default-domain.md).
 
--   **[Domain separation and lifecycle reports](domain-sep-sam-lifecycle.md)**  
+-   **[Domain separation and lifecycle reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/domain-sep-sam-lifecycle.md)**  
 There are certain domain separation aspects to consider when running software lifecycle reports.
 
-**Parent Topic:**[Software Asset Management references](../reference/references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/references.md)
 
 **Related topics**  
 

@@ -23,7 +23,7 @@ Export the financials data from Costs and benefits or Baseline comparison view a
 
 Forecast your planned costs, create, and manage cost plans and expense lines to track the financial performance of your planning items, review the latest costs and actuals.
 
-![Financials screen.](../../spw-financials/images/financials-screen.png)
+![Financials screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/financials-screen.png)
 
 In the Cost screen, you can:
 
@@ -31,14 +31,14 @@ In the Cost screen, you can:
 -   The parent project widgets display the consolidated values of forecasted costs and expenses.
 -   Identify and manage costs using the **Project/Demand** column for any sub-project or demand directly from Cost view of the parent planning item.
 -   Reforecast all the cost plan values for future fiscal periods by double-clicking to edit the value in the least time scale view, either by month or by period.
--   Manage cost plans for your planning items. For more information, see [Add, edit, or delete cost plans](../task/create-cost-plan-pp.md).
--   Add or edit expense lines for your planning items to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](../task/create-expense-line-pp.md).
--   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](../task/gen-labor-costs-pp.md).
--   Create and compare baselines to capture the financial snapshot of your planning items. For more information, see [Create and compare financial baselines for demands and projects](../task/create-compare-baselines-pp.md).
--   [Configure widgets](../../spw-financials/task/configure-financial-widgets.md) to get a high-level overview of the financial data for your planning item.
+-   Manage cost plans for your planning items. For more information, see [Add, edit, or delete cost plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/create-cost-plan-pp.md).
+-   Add or edit expense lines for your planning items to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/create-expense-line-pp.md).
+-   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/gen-labor-costs-pp.md).
+-   Create and compare baselines to capture the financial snapshot of your planning items. For more information, see [Create and compare financial baselines for demands and projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/create-compare-baselines-pp.md).
+-   [Configure widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/configure-financial-widgets.md) to get a high-level overview of the financial data for your planning item.
 -   All financial details from sub-projects will be aggregated and displayed in the parent project's cost plans and widgets.
 
-**Tip:** Cost view gives you enhanced user experience to customize the left pane columns by using the personalize icon \(![Personalize gear icon.](../../alignment-planner-workspace/images/icon-personalize.png)\) and by saving user preferences to retain the customizations made to hide, view, or adjust columns, time scope viewing, and so on.
+**Tip:** Cost view gives you enhanced user experience to customize the left pane columns by using the personalize icon \(![Personalize gear icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-personalize.png)\) and by saving user preferences to retain the customizations made to hide, view, or adjust columns, time scope viewing, and so on.
 
 ## Multicurrency
 
@@ -51,7 +51,7 @@ Financial users can now perform the following financial activities in Investment
 -   Allocate and manage the budget.
 -   View simple financials data.
 
-**Important:** New customers should install the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable multicurrency feature and [Activate scheduled job to populate to multicurrency fields](../../spw-financials/task/multi-currency-scheduled-job-spw.md).
+**Important:** New customers should install the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable multicurrency feature and [Activate scheduled job to populate to multicurrency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/multi-currency-scheduled-job-spw.md).
 
 Using this feature, you can work on financial reporting at a global level and see the real-time currency conversions of your financial records.
 
@@ -59,7 +59,7 @@ Organizations operation at a global or multinational level, the work is planned 
 
 You can monitor and track the financials in one currency, and capture the costs in a different currency.
 
-Using multicurrency, you can see all the costs in the currency you choose for the planning item, instead of restricting to use Functional currency defined in your locale. For more information on how to choose investment currency of your planning items, see [Configure multicurrency for planning items](../task/config-investment-currency-ppw-fin.md).
+Using multicurrency, you can see all the costs in the currency you choose for the planning item, instead of restricting to use Functional currency defined in your locale. For more information on how to choose investment currency of your planning items, see [Configure multicurrency for planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/config-investment-currency-ppw-fin.md).
 
 Financial records and widgets will display the costs based on the currency selection.
 
@@ -134,8 +134,8 @@ View only planned costs for the full range and manage the planned costs using th
 </td></tr></tbody>
 </table>**Note:**
 
--   If you don’t see the Budget allocation or Budget vs forecast display options, [enable the budget allocation property](../task/enable-fin-budget-ppw.md) and [configure the budget attribute](../task/config-budget-allocation-attribute-ppw.md) at instance level.
--   To work on budget allocation using the Next Experience, [Activate a scheduled job to migrate budget of your planning items](../task/fin-migrate-budget-scheduled-job-ppw.md).
+-   If you don’t see the Budget allocation or Budget vs forecast display options, [enable the budget allocation property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/enable-fin-budget-ppw.md) and [configure the budget attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/config-budget-allocation-attribute-ppw.md) at instance level.
+-   To work on budget allocation using the Next Experience, [Activate a scheduled job to migrate budget of your planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/fin-migrate-budget-scheduled-job-ppw.md).
 
 The last selected view is saved as user preferences.
 
@@ -147,13 +147,13 @@ The last selected view is saved as user preferences.
 
 ## Baseline view
 
-Create a financial to capture a snapshot of the financial changes for your planning items. You can create on-demand baselines manually or automatically at a required cadence using a scheduler job. For more information, see [Create a baseline](../../spw-financials/task/create-compare-baselines.md#ol_tgp_v2k_2zb)
+Create a financial to capture a snapshot of the financial changes for your planning items. You can create on-demand baselines manually or automatically at a required cadence using a scheduler job. For more information, see [Create a baseline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/create-compare-baselines.md#ol_tgp_v2k_2zb)
 
 **Note:** Baselines created on the parent project include cost plans and expense lines from all of the child projects to calculate and give you a better breakdown of the financial performance of the projects and sub-projects.
 
-[Compare baselines](../../spw-financials/task/create-compare-baselines.md#ol_lrh_3gk_2zb) to compare the difference in costs between latest status against a baseline or between any two baselines.
+[Compare baselines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/create-compare-baselines.md#ol_lrh_3gk_2zb) to compare the difference in costs between latest status against a baseline or between any two baselines.
 
-**Note:** Each baseline is tagged with a number based on the order that they’re created. The Current Financials baseline captures the financials details in real-time and is always represented with a flag icon \(![Flag icon to indicate current baseline.](../../spw-financials/images/fin-current-baseline-flag.png)\).
+**Note:** Each baseline is tagged with a number based on the order that they’re created. The Current Financials baseline captures the financials details in real-time and is always represented with a flag icon \(![Flag icon to indicate current baseline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-current-baseline-flag.png)\).
 
 Financial baselines now capture the investment currency for customers using multicurrency.
 
@@ -184,7 +184,7 @@ You can view the planning item and investment baseline using the list view. Acce
 
 The baselines comparison view helps you to understand the variances between the two baselines.
 
-![Baselines comparison view.](../../spw-financials/images/fin-baselines-comparison.png)
+![Baselines comparison view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-baselines-comparison.png)
 
 Use the widgets when you compare baselines to view:
 
@@ -217,15 +217,15 @@ Consider a planning item scoped from July 2023 to June 2024. Baseline A is creat
 
 1.  The baseline comparison view show Actuals vs Actuals columns from July 2023 to September 2023.
 
-    ![Baseline comparison of actual vs actual costs.](../../spw-financials/images/fin-baselines-actuals-vs-actuals.png)
+    ![Baseline comparison of actual vs actual costs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-baselines-actuals-vs-actuals.png)
 
 2.  Planned vs Actuals for October 2023 and November 2023.
 
-    ![Baseline comparison of planned vs actual costs.](../../spw-financials/images/fin-baselines-planned-vs-actuals.png)
+    ![Baseline comparison of planned vs actual costs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-baselines-planned-vs-actuals.png)
 
 3.  Planned vs Planned from December 2023 to June 2024.
 
-    ![Baseline comparison of planned vs planned costs.](../../spw-financials/images/fin-baselines-planned-vs-planned.png)
+    ![Baseline comparison of planned vs planned costs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-baselines-planned-vs-planned.png)
 
 
 **Note:** The columns are defined to calculate EAC, which is the sum of Actual costs until the last fiscal period and Planned costs from current to future fiscal periods.
@@ -238,7 +238,7 @@ Plan and approve the budget for a shorter planning cycle at monthly, quarterly, 
 
 **Note:** If the budget is allocated monthly, the total budget is rolled up to quarterly and yearly level. Similarly, if the budget is allocated at a quarterly or yearly level, the equal breakdown happens until monthly level.
 
-For more information on how to allocate, approve, and handle budget for planning items, see, [Manage budget of your planning items in Strategic Planning](../../spw-financials/task/fin-manage-budget-spw.md).
+For more information on how to allocate, approve, and handle budget for planning items, see, [Manage budget of your planning items in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/fin-manage-budget-spw.md).
 
 **Tip:** In the budget allocation view, Portfolio managers review the EAC to understand the financial projections made by Project managers and use the **Copy cost as budget** option to allocate the entire planned cost as budget.
 
@@ -250,8 +250,8 @@ Product managers can compare the latest cost with the approved budget by Capex o
 
 You can migrate the budget of existing active projects and demands items from the Classic UI to Next Experience. Financials in the Next Experience has new budget data model that facilitates to store the budget at a detailed level by monthly breakdowns and cost types. You can migrate the budget for active projects and demands individually or by bulk using the scheduled job.
 
--   Migrate budget of active projects from Classic UI to Next Experience. For more information, see [Migrate budget of active projects to Next Experience](../../project-management/task/fin-migrate-budget-project-ppm.md).
--   Migrate budget of active demands from Classic UI to Next Experience. For more information, see [Migrate budget of active demands to Next Experience](../../planning-and-policy/task/fin-migrate-budget-demand.md).
+-   Migrate budget of active projects from Classic UI to Next Experience. For more information, see [Migrate budget of active projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../project-management/task/fin-migrate-budget-project-ppm.md).
+-   Migrate budget of active demands from Classic UI to Next Experience. For more information, see [Migrate budget of active demands to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../planning-and-policy/task/fin-migrate-budget-demand.md).
 
 **Note:** The migrated budget is captured in the `sn_invst_pln_invst_budget` table to enable the lean budgeting for required time scope.
 
@@ -284,7 +284,7 @@ Budget allocation logic is divided into three focus areas: past fiscal periods, 
 
 ## Benefit plans
 
-Monetary benefit plans capture potential benefits accrued while executing a planning item. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a planning item. You can create and manage [monetary benefit plans](../task/fin-manage-monetary-benefit-plans-ppw.md) and [non-monetary benefit plans](../task/fin-manage-non-monetary-benefit-plans-ppw.md) to capture the potential benefits of your planning items.
+Monetary benefit plans capture potential benefits accrued while executing a planning item. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a planning item. You can create and manage [monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/fin-manage-monetary-benefit-plans-ppw.md) and [non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/fin-manage-non-monetary-benefit-plans-ppw.md) to capture the potential benefits of your planning items.
 
 Instead of switching to and fro from the financials record page to benefit plan tabs, you now have a seamless experience to manage all the cost plans and benefit plans from the Cost and benefits view and can leverage the new financials experience with the side panel and grids for quick forecasting and tracking of monetary benefit plans.
 
@@ -292,7 +292,7 @@ Instead of switching to and fro from the financials record page to benefit plan 
 
 Simple financials gives you the ability to enter the preliminary high-level planned capex, opex, benefit, and so on from the Details page without capturing the costs plans from the Cost view. You can update the simple financials values as required until you have the planned and actual costs captured.
 
-![Simple financials view in the Details page of Strategic Planning workspace.](../../spw-financials/images/fin_simple_financials_spw-ppw.png)
+![Simple financials view in the Details page of Strategic Planning workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin_simple_financials_spw-ppw.png)
 
 Using the baseline feature, you can capture these simple financial values in a baseline and compare them against any existing baseline. You can:
 

@@ -45,7 +45,7 @@ Do this
 
 </td><td>
 
-Click the more actions icon \(![More actions icon](../image/KnowledgeServicePortalOverflowIcon.png)\), and then click **Flag Article** to report an article that contains incorrect or inappropriate content. A dialog box is displayed in which you can provide the reason for the flag. A feedback task is automatically created for the article and assigned to the author or ownership group, as configured.
+Click the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)\), and then click **Flag Article** to report an article that contains incorrect or inappropriate content. A dialog box is displayed in which you can provide the reason for the flag. A feedback task is automatically created for the article and assigned to the author or ownership group, as configured.
 
 </td></tr><tr><td id="d556911e130">
 
@@ -53,7 +53,7 @@ Click the more actions icon \(![More actions icon](../image/KnowledgeServicePort
 
 </td><td>
 
-Click the star icons displayed on the article to indicate its effectiveness on a scale from 1 through 5.Administrators can configure the **glide.knowman.feedback.enable\_actionable\_feedback\_for\_rating** property to ensure that feedback tasks are automatically created and assigned when a lower rating is posted. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+Click the star icons displayed on the article to indicate its effectiveness on a scale from 1 through 5.Administrators can configure the **glide.knowman.feedback.enable\_actionable\_feedback\_for\_rating** property to ensure that feedback tasks are automatically created and assigned when a lower rating is posted. For more information, see [Knowledge Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#).
 
 </td></tr><tr><td id="d556911e155">
 
@@ -77,7 +77,7 @@ Scroll down to the Comments section. To view or hide replies added to a comment,
 
 </td><td>
 
-Underneath the comment, click the like icon \(![Like icon](../image/like-agent.png)\).
+Underneath the comment, click the like icon \(![Like icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/like-agent.png)\).
 
 </td></tr><tr><td id="d556911e204">
 
@@ -85,7 +85,7 @@ Underneath the comment, click the like icon \(![Like icon](../image/like-agent.p
 
 </td><td>
 
-Underneath the comment, click the reply icon \(![Reply icon](../image/reply-agent.png)\), enter your comment in the text box that appears, and then click **Submit**.
+Underneath the comment, click the reply icon \(![Reply icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/reply-agent.png)\), enter your comment in the text box that appears, and then click **Submit**.
 
 </td></tr><tr><td id="d556911e222">
 
@@ -93,14 +93,14 @@ Underneath the comment, click the reply icon \(![Reply icon](../image/reply-agen
 
 </td><td>
 
-Go to a comment or reply and then click the delete icon \(![Delete icon](../image/delete-agent.png)\). If a message appears, click **Yes, delete**. **Note:** Only users who have posted the comment, knowledge administrators, and knowledge owners can delete a comment.
+Go to a comment or reply and then click the delete icon \(![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/delete-agent.png)\). If a message appears, click **Yes, delete**. **Note:** Only users who have posted the comment, knowledge administrators, and knowledge owners can delete a comment.
 
 </td></tr></tbody>
 </table>
 **Related topics**  
 
 
-[View a knowledge article in Agent Workspace](view-article-agent.md)
+[View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-agent.md)
 
-[Work on a feedback task in Agent Workspace](respond-feedback-workspace.md)
+[Work on a feedback task in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/respond-feedback-workspace.md)
 

@@ -38,5 +38,5 @@ A leading financial institution sought to streamline its risk management process
 -   Enhanced compliance with IT-Related regulations: The real-time data provided by ITOM ensured that the institution could meet regulatory requirements around IT risks and audit readiness. The ability of ITOM to keep all IT assets and configurations up to date made audit processes faster and more accurate.
 -   Scalability for future risk management needs: The cloud-native architecture of ITOM provided scalability and flexibility, ensuring that the institution could continue to manage risks as it grew. ITOM also supported mobile access, enabling remote monitoring and alert management by risk and IT teams.
 
-**Parent Topic:**[Automating and optimizing your services and operations using Service Operations Workspace](service-operations.md)
+**Parent Topic:**[Automating and optimizing your services and operations using Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/service-operations.md)
 

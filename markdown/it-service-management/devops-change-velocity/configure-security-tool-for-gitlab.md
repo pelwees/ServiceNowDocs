@@ -32,7 +32,7 @@ Role required: sn\_devops.admin
     |Tool integration|GitLab|
     |Tool type capability|Security|
 
-    ![Tool Integration Capability Mapping form for GitLab](../image/gitlab-security-01.png)
+    ![Tool Integration Capability Mapping form for GitLab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-security-01.png)
 
 4.  Select **Submit**.
 
@@ -105,7 +105,7 @@ Domain
 global
 
 </td></tr></tbody>
-</table>    ![Integration capability form for GitLab](../image/gitlab-security-02.png)
+</table>    ![Integration capability form for GitLab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-security-02.png)
 
     **Note:** Deactivate the **BR Seeded tool integrations not editable** business rule to integrate security tools with GitLab.
 
@@ -317,5 +317,5 @@ global
         ```
 
 
-**Parent Topic:**[DevOps user-created security tool integration](../concept/devops-security-tool-integration.md)
+**Parent Topic:**[DevOps user-created security tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-security-tool-integration.md)
 

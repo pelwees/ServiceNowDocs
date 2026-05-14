@@ -348,5 +348,5 @@ Notes
 Additional notes about the constituent or the case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](psds-profile-forms.md)
+</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-profile-forms.md)
 

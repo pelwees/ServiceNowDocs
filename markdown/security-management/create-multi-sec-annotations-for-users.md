@@ -34,14 +34,14 @@ Role required: admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Security annotations](../concept/security-annotations.md)
+**Parent Topic:**[Security annotations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/security-annotations.md)
 
 **Related topics**  
 
 
-[Create security annotations for CIs](create-security-annotations.md)
+[Create security annotations for CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-security-annotations.md)
 
-[Create security annotations for observables](create-security-annotations-multiple.md)
+[Create security annotations for observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-security-annotations-multiple.md)
 
-[View security annotations reports](view-security-annotations-report.md)
+[View security annotations reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-security-annotations-report.md)
 

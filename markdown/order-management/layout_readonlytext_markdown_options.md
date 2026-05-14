@@ -13,7 +13,7 @@ breadcrumb: [Enable Markdown in text fields, Configure fields, CPQ app, Configur
 
 Enable markdown formatting for ReadOnlyText components in CPQ layouts to enhance text presentation. Use syntax for bold, italics, lists, links, images, and dynamic field values to create clear, engaging, and context-aware display text in configurations.
 
-This article describes the markdown syntax and behaviors available to administrators when a text field is defined on a native CPQ UI layout with component display type ReadOnlyText. For a broader discussion of layout options, see [CSV layout upload](csv_layout_upload.md).
+This article describes the markdown syntax and behaviors available to administrators when a text field is defined on a native CPQ UI layout with component display type ReadOnlyText. For a broader discussion of layout options, see [CSV layout upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/csv_layout_upload.md).
 
 To apply markdown formatting to a ReadOnlyText component:
 
@@ -219,13 +219,13 @@ When you return a string with Markdown, enclose the string in double quotes, esp
 
 For example, when the following return function is entered, it leads to the escaped characters appearing in the output:
 
-![Incorrect use of single quotes](../images/cpq-layout-markdown-options-1.png)
+![Incorrect use of single quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-markdown-options-1.png)
 
-![Bad string appearing as a result of single quotes](../images/cpq-layout-markdown-options-2.png)
+![Bad string appearing as a result of single quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-markdown-options-2.png)
 
 When the return function encloses the same text in double quotes, the output appears as intended:
 
-![Correct use of double quotes](../images/cpq-layout-markdown-options-3.png)
+![Correct use of double quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-markdown-options-3.png)
 
-![Appropriate string appearing as a result of double quotes](../images/cpq-layout-markdown-options-4.png)
+![Appropriate string appearing as a result of double quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-markdown-options-4.png)
 

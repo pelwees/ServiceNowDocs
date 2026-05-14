@@ -49,7 +49,7 @@ Labor union
 
 </td><td>
 
-The name of the labor union that the local chapter belongs to.**Note:** For more information, see [Create a labor union](labor-unions-create.md).
+The name of the labor union that the local chapter belongs to.**Note:** For more information, see [Create a labor union](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-create.md).
 
 </td></tr><tr><td>
 
@@ -80,8 +80,8 @@ The website URL of the local union chapter.
 
     If you select **Save**, the **Labor Union Contacts** and **Employee Union Memberships** tabs appear.
 
-    **Note:** For more information on **Labor Union Contacts**, see [Create union contacts](labor-union-contacts.md). For more information on **Employee Union Memberships**, see [Create employee union memberships](labor-union-employee-membership.md).
+    **Note:** For more information on **Labor Union Contacts**, see [Create union contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-contacts.md). For more information on **Employee Union Memberships**, see [Create employee union memberships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-employee-membership.md).
 
 
-**Parent Topic:**[Setting up labor unions](../concept/labor-unions-setting-up.md)
+**Parent Topic:**[Setting up labor unions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/labor-unions-setting-up.md)
 

@@ -20,7 +20,7 @@ Navigate to the Diagnostics and Connection page from either of these modules:
 -   **System Mailboxes** &gt; **Email Diagnostics**
 -   **System Diagnostics** &gt; **Email Diagnostics**
 
-![Diagnostics and Connection page that shows email receiving as non-operational](../../notification/image/EmailDiagnosticsPage.png "Email Diagnostics and Connection page")
+![Diagnostics and Connection page that shows email receiving as non-operational](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/EmailDiagnosticsPage.png "Email Diagnostics and Connection page")
 
 For quick status on a field, point to the green check mark or red X icon. The check mark icon indicates that the item is operational or healthy, while the X icon indicates that the item is not operational or within the expected range.
 
@@ -173,10 +173,10 @@ Date and time when the reader job last ran.
 The result of the test connection to the accounts. The connection is tested every time you load the page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](../../notification/concept/troubleshooting-notification-emails.md)
+</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/troubleshooting-notification-emails.md)
 
 **Related topics**  
 
 
-[Scheduled jobs](../concept/c_ScheduledJobs.md)
+[Scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_ScheduledJobs.md)
 

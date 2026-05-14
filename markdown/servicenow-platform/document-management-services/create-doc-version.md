@@ -36,5 +36,5 @@ Role required: none
 6.  To submit the version for review and approval, go back and select the version and select **Submit Version**.
 
 
-**Parent Topic:**[Document versions](../concept/document-mgt-versions.md)
+**Parent Topic:**[Document versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-mgt-versions.md)
 

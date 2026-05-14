@@ -17,9 +17,9 @@ Create case records for the imported data as it is important for creating a proj
 
 ## Before you begin
 
--   [Create an audit table](create-table.md)
--   [Import data into the audit table](import-data.md)
--   [Verify the imported data](verify-data.md)
+-   [Create an audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-table.md)
+-   [Import data into the audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-data.md)
+-   [Verify the imported data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/verify-data.md)
 
 Role required: sn\_process\_mining\_admin
 
@@ -33,12 +33,12 @@ Role required: sn\_process\_mining\_admin
 
 3.  Select **Create record table**.
 
-    ![Create case records for external dataset](../image/ext-dataset-recordtable.png)
+    ![Create case records for external dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset-recordtable.png)
 
     After the record table is created, a tab opens displaying details of the audit and record tables.
 
-    ![External dataset created](../image/ext-data-edit.png)
+    ![External dataset created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-data-edit.png)
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/external-dataset.md)
 

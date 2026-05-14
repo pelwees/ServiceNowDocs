@@ -84,5 +84,5 @@ To change the time that this hourly scheduled job runs or to make other adjustme
     The job runs at the specified time and frequency.
 
 
-**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 

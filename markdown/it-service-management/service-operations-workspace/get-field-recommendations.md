@@ -45,8 +45,8 @@ Description
 
 </td><td>
 
-1.  From the primary navigation, select the list icon \(![List icon](../../itsm-manager-workspace/image/lists_icon.png)\).
-2.  Select the add icon \(![add icon](../image/add-icon.png)\) next to the **List** tab.
+1.  From the primary navigation, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-manager-workspace/image/lists_icon.png)\).
+2.  Select the add icon \(![add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-icon.png)\) next to the **List** tab.
 3.  Select **New Incident**.
 
 
@@ -87,12 +87,12 @@ Description
 
         The fields are auto-filled or recommended based on the output defined in the recommendation.
 
-        ![UI of the field recommendations on a new incident form when using a version prior to 4.2.](../image/ra-field-recommendation.png)
+        ![UI of the field recommendations on a new incident form when using a version prior to 4.2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/ra-field-recommendation.png)
 
     -   If you're using a version after 4.2, select the required fields to see the field recommendations in the drop-down list.
 
-        ![UI of the field recommendations on a new incident form when using a version after 4.2.](../image/ra_get_field_recommendations_drop-down.png)
+        ![UI of the field recommendations on a new incident form when using a version after 4.2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/ra_get_field_recommendations_drop-down.png)
 
 
-**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](../concept/recommended-actions-for-itsm-in-service-operations-workspace.md)
+**Parent Topic:**[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/recommended-actions-for-itsm-in-service-operations-workspace.md)
 

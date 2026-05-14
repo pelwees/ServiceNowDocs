@@ -17,7 +17,7 @@ Discover and import all available Azure DevOps projects into Agile Development 2
 
 ## Before you begin
 
--   Complete [connecting Agile Development and Azure DevOps](../reference/connect-sn-agile-with-azure.md#).
+-   Complete [connecting Agile Development and Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../reference/connect-sn-agile-with-azure.md#).
 -   Role required: sn\_ado\_int.user
 
 ## Procedure
@@ -40,17 +40,17 @@ Once the status of each import request changes to **Complete**, you can see that
 
     For example, default process types such as Agile, Basic, and CMMI or any custom process types that you defined for your Azure DevOps projects.
 
-    For more information on the default map configuration of work items, see [Default map configuration for Azure DevOps integration with Agile Development 2.0](../reference/default-agile-azure-mapping.md).
+    For more information on the default map configuration of work items, see [Default map configuration for Azure DevOps integration with Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../reference/default-agile-azure-mapping.md).
 
 
 ## What to do next
 
-[Import areas, teams, and iterations from Azure DevOps](import-areas-teams-azure-agile.md)
+[Import areas, teams, and iterations from Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/import-areas-teams-azure-agile.md)
 
 .
 
--   **[Default map configuration for Azure DevOps integration with Agile Development 2.0](../reference/default-agile-azure-mapping.md)**  
+-   **[Default map configuration for Azure DevOps integration with Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../reference/default-agile-azure-mapping.md)**  
 Understand the default field map configuration, of different process types, between Azure DevOps and Agile Development 2.0.
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../concept/setting-up-agile-azure-integration.md)
 

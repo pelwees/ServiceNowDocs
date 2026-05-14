@@ -23,7 +23,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent, sn\_bom\_credit\_card.dispu
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![Lists icon.](../../../use/reporting/image/inline-data-vis-list.png)\).
+2.  Select the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../use/reporting/image/inline-data-vis-list.png)\).
 
 3.  Open a card disputes service case.
 
@@ -36,7 +36,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent, sn\_bom\_credit\_card.dispu
 
 The interaction record is displayed with the interaction transcript.
 
-![The interaction transcript shows the conversation history between Virtual Agent and the customer.](../image/disputes-va-transcript.png)
+![The interaction transcript shows the conversation history between Virtual Agent and the customer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-transcript.png)
 
-**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](submit-dispute-case-disputes-intake-via-virtual-agent.md)
+**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/submit-dispute-case-disputes-intake-via-virtual-agent.md)
 

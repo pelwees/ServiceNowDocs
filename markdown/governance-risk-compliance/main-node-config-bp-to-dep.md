@@ -19,5 +19,5 @@ For the Business process to dependencies Main node configuration, the source is 
 
 You can configure the node relationships such as the sequence, source table, relationship table, target table, and active flag in the Business process to dependencies Main node configuration as shown in the example.
 
-![Business process to dependencies Main node configuration.](../image/node-rel-config-bp-to-dep.png)
+![Business process to dependencies Main node configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-config-bp-to-dep.png)
 

@@ -46,5 +46,5 @@ Submitting a SOAP request to this web service endpoint returns the following to 
 </SOAP-ENV:Envelope>
 ```
 
-**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](createSOAPwebserviceStaticWSDL.md)
+**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/createSOAPwebserviceStaticWSDL.md)
 

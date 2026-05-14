@@ -19,17 +19,17 @@ A credential store type is a set of workflows that specify how to connect to a c
 
 Navigate to **Password Reset** &gt; **Credential Stores** to view the list of example credential stores that are based on the base-system types. You can also use subflows and integration hub [IntegrationHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md).
 
--   **[Integrate Password Reset with your Active Directory service](../task/t_ConPassResetActiveDir.md)**  
+-   **[Integrate Password Reset with your Active Directory service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_ConPassResetActiveDir.md)**  
 The Password Reset application can change passwords on an Active Directory credential store. The application changes passwords by referencing an Active Directory user role with the appropriate password change privileges.
--   **[Configure the connection to an AD credential store](../task/config-ad-credential-store.md)**  
+-   **[Configure the connection to an AD credential store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-ad-credential-store.md)**  
 You can create a Password Reset credential store record to configure access to your Active Directory server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other settings.
 
-**Parent Topic:**[Credential stores for Password Reset](c_CredentialStores.md)
+**Parent Topic:**[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md)
 
 **Related topics**  
 
 
-[Integrate Password Reset with your Active Directory service](../task/t_ConPassResetActiveDir.md)
+[Integrate Password Reset with your Active Directory service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_ConPassResetActiveDir.md)
 
-[Configure the connection to an AD credential store](../task/config-ad-credential-store.md)
+[Configure the connection to an AD credential store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-ad-credential-store.md)
 

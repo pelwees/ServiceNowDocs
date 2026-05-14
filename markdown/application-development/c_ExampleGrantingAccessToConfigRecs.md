@@ -55,11 +55,11 @@ Dictionary entry \(new field only\)
 UI actions
 
 </td></tr></tbody>
-</table>![Granting other application scopes design access permission](../image/GrantingAllDesignTimeAccess.png "Granting other application scopes design access permission")
+</table>![Granting other application scopes design access permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/GrantingAllDesignTimeAccess.png "Granting other application scopes design access permission")
 
 The following diagram illustrates the effect of granting other application scopes the ability to create configuration records.
 
-![Granting access to configuration records](../image/EffectsOfGrantAllDesignTimeAccess.png "Granting access to configuration records")
+![Granting access to configuration records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/EffectsOfGrantAllDesignTimeAccess.png "Granting access to configuration records")
 
-**Parent Topic:**[Design-time access to application tables](c_DesignTimeAccessToAppTables.md)
+**Parent Topic:**[Design-time access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_DesignTimeAccessToAppTables.md)
 

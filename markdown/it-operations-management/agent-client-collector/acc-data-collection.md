@@ -168,5 +168,5 @@ cmdb\_serial\_number
 |TCP Connections|cmdb\_tcp|
 |Running Processes|cmdb\_running\_process|
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

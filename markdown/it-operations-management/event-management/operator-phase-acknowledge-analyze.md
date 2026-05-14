@@ -23,7 +23,7 @@ Phase 1
 
 </td><td align="justify">
 
-![Analyze icon](../image/progress-wip.png)
+![Analyze icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -35,11 +35,11 @@ Phase 2
 
 </td><td align="justify">
 
-![Triage icon](../image/progress-not-started.png)
+![Triage icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[Triage alerts](operator-phase-triage-incident.md)
+[Triage alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 
 </td></tr><tr><td>
 
@@ -47,14 +47,14 @@ Phase 3
 
 </td><td align="justify">
 
-![Close alert icon](../image/progress-not-started.png)
+![Close alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[Close an alert](operator-close-alert.md)
+[Close an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-close-alert.md)
 
 </td></tr></tbody>
-</table>You must understand both of your operator environments: the Service Operations Workspace dashboard and Service Operations Workspace. Review [Event Management operator environment](../concept/operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
+</table>You must understand both of your operator environments: the Service Operations Workspace dashboard and Service Operations Workspace. Review [Event Management operator environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-user-interfaces.md) if you have not already done so. This tutorial uses the Service Operations Workspace dashboard.
 
 Role required: evt\_mgmt\_operator
 
@@ -62,9 +62,9 @@ Role required: evt\_mgmt\_operator
 
 1.  Navigate to **Event Management** &gt; **Workspaces** &gt; **Service Operations Workspace**.
 
-    In the list, click **Alerts** &gt; **All Alerts**. By default, all alerts appear in the list sorted by **Group**. Click any heading to sort by that value. To view current filter settings, click the filter icon ![Filter icon](../image/filter-icon.png). To modify filter settings, click **Advanced view**.
+    In the list, click **Alerts** &gt; **All Alerts**. By default, all alerts appear in the list sorted by **Group**. Click any heading to sort by that value. To view current filter settings, click the filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/filter-icon.png). To modify filter settings, click **Advanced view**.
 
-    ![List of alerts](../image/list-all-alerts.png)
+    ![List of alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/list-all-alerts.png)
 
 2.  Find the alerts to focus on by clicking **Application Services** &gt; **Services**, or by using any of the filtering and sorting options.
 
@@ -72,7 +72,7 @@ Role required: evt\_mgmt\_operator
 
     The important fields on the form and related items are described after the screenshot.
 
-    ![Alert details](../image/operator-app-service-alert-example.png)
+    ![Alert details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-app-service-alert-example.png)
 
 <table id="table_umx_h5t_hdb"><thead><tr><th>
 
@@ -198,7 +198,7 @@ Any existing knowledge base \(KB\) article that is associated with the alert. Wh
 
     The service opens and displays the **Details** tab. Click **Service Map** to view the map of related application services.
 
-    ![Service map](../image/operator-bsm-alert-example.png)
+    ![Service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-bsm-alert-example.png)
 
     Notice that the major severity indicator in orange is displayed on several CIs. It starts with the Oracle database \(**PS ORA01**\) and propagates up to all CIs that depend on the database. From this, you can surmise that the alert with the highest level of severity on the Oracle database indicates the root cause of the issue.
 
@@ -208,7 +208,7 @@ Any existing knowledge base \(KB\) article that is associated with the alert. Wh
 
     The percentages next to each CI in the impact tree show you the effect on each CI. In this example, each CI is impacted 100% by the alert, which means the underlying issue that led to the alert is serious enough to impact the functionality of the application service.
 
-    ![Impact tree](../image/operator-dashboard-impact-tree.png)
+    ![Impact tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-impact-tree.png)
 
 6.  Acknowledge the alert.
 
@@ -240,12 +240,12 @@ With this process, you can acknowledge one alert or multiple related alerts.1.  
 
     You can see that the **Acknowledged** value is **true**.
 
-    ![Alert that is acknowledged](../image/alert-acknowledged.png)
+    ![Alert that is acknowledged](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-acknowledged.png)
 
 
 ## What to do next
 
-Go to [Operator phase 2: Triage an alert](operator-phase-triage-incident.md).
+Go to [Operator phase 2: Triage an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md).
 
-**Parent Topic:**[What Event Management operators do](../concept/operator-process.md)
+**Parent Topic:**[What Event Management operators do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-process.md)
 

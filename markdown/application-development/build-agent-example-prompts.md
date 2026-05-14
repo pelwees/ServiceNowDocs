@@ -25,7 +25,7 @@ Explore example prompts for building apps, as well as adding governance, UI and 
 
 Prompt: `Create an application that handles several types of issues related to cash management. Create a custom data model with tables for each type of request. Add fields that are typical for these types of issues to each table. Request tables should extend the Task table. Create custom states for each request type to track issue resolution.`
 
-![List of steps completed by Build Agent to build an app](../../vibe-coding/image/vc-ba-build-app-prompt-result.png "Build an app prompt outcome")
+![List of steps completed by Build Agent to build an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../vibe-coding/image/vc-ba-build-app-prompt-result.png "Build an app prompt outcome")
 
 ## Example Build Agent prompt to add security to an app
 
@@ -34,13 +34,13 @@ Prompt: `Create a new role and define permissions on the request tables for two 
 1.  `Requesters who submit issues and can only view their own requests.`
 2.  `Fulfillers who can view and edit all requests.`
 
-![List of steps completed by Build Agent to add security to an app](../../vibe-coding/image/vc-ba-security-prompt-result.png "Add security to an app prompt outcome")
+![List of steps completed by Build Agent to add security to an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../vibe-coding/image/vc-ba-security-prompt-result.png "Add security to an app prompt outcome")
 
 ## Example Build Agent prompt to add business rules to an app
 
 Prompt: `Create business rules for each request that is triggered by state changes in the workflow. Design the business rules to work together to create business processes aligned to industry best practices for each type of issue.`
 
-![List of steps completed by Build Agent to add business rules to an app](../../vibe-coding/image/vc-ba-biz-rules-prompt-result.png "Add business rules to an app prompt outcome")
+![List of steps completed by Build Agent to add business rules to an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../vibe-coding/image/vc-ba-biz-rules-prompt-result.png "Add business rules to an app prompt outcome")
 
 ## Example Build Agent prompt to generate different UIs for an app
 
@@ -48,7 +48,7 @@ Prompt 1: `Create an easy to use UI for users with the cash management fulfiller
 
 Prompt 2: `Create a UI for cash management requesters to submit issues and view or edit issues that they have previously created.`
 
-![List of steps completed by Build Agent to generate fulfiller and requester UIs for an app](../../vibe-coding/image/vc-ba-ui-prompt-result.png "Generate different UIs for an app prompt outcome")
+![List of steps completed by Build Agent to generate fulfiller and requester UIs for an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../vibe-coding/image/vc-ba-ui-prompt-result.png "Generate different UIs for an app prompt outcome")
 
 ## Additional prompt suggestions
 
@@ -72,7 +72,7 @@ After you have the foundation of an app created, save your session and keep prom
 
 Prompting with governance requirements helps produce secure and compliant applications on the ServiceNow AI Platform. By embedding governance requirements directly into your prompts, you help the AI produce results aligned with your organizational standards for security, compliance, and quality.
 
-For more information on governance, see [Build Agent governance](../concept/build-agent-governance.md).
+For more information on governance, see [Build Agent governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/build-agent-governance.md).
 
 **Tip:** If you have explicit security requirements, include them in your initial prompt.
 
@@ -100,5 +100,5 @@ For more information on governance, see [Build Agent governance](../concept/buil
 
 `Generate a summary of the app and flow logic for governance review.`
 
-**Parent Topic:**[Build Agent reference](build-agent-reference-landing.md)
+**Parent Topic:**[Build Agent reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-agent-reference-landing.md)
 

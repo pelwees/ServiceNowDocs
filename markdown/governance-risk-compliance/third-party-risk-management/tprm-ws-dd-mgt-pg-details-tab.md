@@ -99,7 +99,7 @@ Skip contract risk process
 
 </td><td>
 
-Option to skip the contract risk process. When you select the check box, you bypass the `contract negotiation` state. The **Contract start date** and **Contract expiration date** fields are replaced with **Engagement start date** and **Engagement expiration date**. See [Contract Risk process](../concept/tprm-workflow-in-workspace.md#def_contract_risk_process).
+Option to skip the contract risk process. When you select the check box, you bypass the `contract negotiation` state. The **Contract start date** and **Contract expiration date** fields are replaced with **Engagement start date** and **Engagement expiration date**. See [Contract Risk process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-workflow-in-workspace.md#def_contract_risk_process).
 
 **Note:** After the Third-party risk \(TPR\) manager approves the request, it won’t be sent to the contract negotiators, and the request is closed.
 
@@ -141,7 +141,7 @@ IRQ assessor
 
 </td><td>
 
-User at your organization that responds to the IRQ. See [IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md).
+User at your organization that responds to the IRQ. See [IRQ process management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-irq-tab.md).
 
 </td></tr><tr><td>
 
@@ -337,21 +337,21 @@ The **Compose section** on the **Details** tab enables you to permanently add te
 -   **Work notes \(Private\)**: Information about the third-party risk assessment. Work notes are visible only to internal users who are assigned to the process.
 -   **Comments**: Comments about the third-party risk assessment are visible both to internal users and to third-party contacts.
 
--   **[Request third-party risk due diligence request form](tprm-dd-form.md)**  
+-   **[Request third-party risk due diligence request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dd-form.md)**  
 The due diligence request form captures all the initial information that you need to start the due diligence process. Any employee within your organization can request due diligence. If you’re selecting an existing third party, a significant portion of the information is automatically filled in.
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/tprm-reference.md)
 
 **Related topics**  
 
 
-[Requesting third-party risk due diligence](../../grc-vendor-risk/concept/tprm-requesting-tpr-due-diligence.md)
+[Requesting third-party risk due diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/tprm-requesting-tpr-due-diligence.md)
 
-[Request due diligence for a third-party engagement](../task/tprm-ws-request-dd-for-engagement.md)
+[Request due diligence for a third-party engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-ws-request-dd-for-engagement.md)
 
-[Offboarding an engagement without conducting due diligence](../concept/tprm-dd-request-offboard-no-dd.md)
+[Offboarding an engagement without conducting due diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-dd-request-offboard-no-dd.md)
 
-[Request third-party risk due diligence request form](tprm-dd-form.md)
+[Request third-party risk due diligence request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dd-form.md)
 
-[Create New Third-party engagement form](../../grc-vendor-risk/reference/tprm-create-engmt-form.md)
+[Create New Third-party engagement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/reference/tprm-create-engmt-form.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_communities.admin, sn\_communities.moderation\_admin, or sn\_
 
 2.  On the Community Profile, search the user in the **Live Profile** column.
 
-3.  Hover on the user and select the Preview icon \(![Preview icon](../../customer-service-management/image/preview-record.png)\).
+3.  Hover on the user and select the Preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../customer-service-management/image/preview-record.png)\).
 
 4.  On the Community Profile window, select **Open Record**.
 
@@ -34,5 +34,5 @@ Role required: sn\_communities.admin, sn\_communities.moderation\_admin, or sn\_
     The user is banned. In the Community Profiles list, the value in the **Banned** column is set to **true**.
 
 
-**Parent Topic:**[Moderate a community](moderate-communities.md)
+**Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 

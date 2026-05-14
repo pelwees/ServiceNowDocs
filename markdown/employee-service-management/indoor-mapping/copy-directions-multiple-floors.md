@@ -31,7 +31,7 @@ Role required: map editors, map admin, map editor limited
 
 3.  Select **Manage Workplace** &gt; **Directions**.
 
-4.  Select a building on the Map Studio and click the More actions menu icon \(![More actions menu icon.](../../wsd-for-mobile/images/more-options-icon.png)\).
+4.  Select a building on the Map Studio and click the More actions menu icon \(![More actions menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../wsd-for-mobile/images/more-options-icon.png)\).
 
 5.  Select **Copy directions** from the list.
 
@@ -51,5 +51,5 @@ Role required: map editors, map admin, map editor limited
 8.  Select **Clear floor directions** to clear existing directions for a selected building or floor.
 
 
-**Parent Topic:**[Manage Directions](enable-interactive-locations.md)
+**Parent Topic:**[Manage Directions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-interactive-locations.md)
 

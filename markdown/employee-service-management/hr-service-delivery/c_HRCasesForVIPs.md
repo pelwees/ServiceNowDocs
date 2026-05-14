@@ -33,5 +33,5 @@ You can identify VIP HR cases in the following ways:
 -   **HR Case** form: The employee name in the **Opened for** and/or **Subject person** fields is red.
 -   HR catalog items: When the form is submitted, a message appears at the top identifying the submitter as a VIP.
 
-**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 

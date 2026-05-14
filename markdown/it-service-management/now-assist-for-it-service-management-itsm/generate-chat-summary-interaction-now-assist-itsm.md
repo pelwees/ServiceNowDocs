@@ -46,7 +46,7 @@ You can also summarize the chat interaction when the chat ends or when an incide
 
     The **Short description** and **Chat Summary** fields are updated for the interaction.
 
-    ![Chat summarization for an interaction.](../image/itsm-chat-summary.png)
+    ![Chat summarization for an interaction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-chat-summary.png)
 
 6.  Review the text in the **Short description** or **Chat Summary** fields and edit if necessary.
 

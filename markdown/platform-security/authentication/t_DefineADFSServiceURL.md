@@ -25,11 +25,11 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 2.  Right-click **Service** and select **Edit Federation Service Properties**.
 
-    ![Edit Federation Service Properties.](../image/ADFSEditFSProperties01.png)
+    ![Edit Federation Service Properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/ADFSEditFSProperties01.png)
 
 3.  Confirm that the General settings match your DNS entries and certificate names.
 
-    ![Edit properties.](../image/ADFSEditFSProperties02.png)
+    ![Edit properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/ADFSEditFSProperties02.png)
 
 4.  Browse to the certificates and export the Token-Signing certificate.
 

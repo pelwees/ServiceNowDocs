@@ -52,19 +52,19 @@ Role required: admin
     **Note:** This step is applicable only if you have any error items in the upgrade plan.
 
 
--   **[Preview Upgrade Plan](uc-preview-upgrade-plan.md)**  
+-   **[Preview Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-preview-upgrade-plan.md)**  
 Preview your upgrade plan before being implemented in the upgrades. Once the upgrade plan is installed, it auto generates the preview of the upgrade plan.
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-prepare-up.md)
 
 **Related topics**  
 
 
-[Building your Upgrade Plan](uc-building-upgrade-plan.md)
+[Building your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-building-upgrade-plan.md)
 
-[Refreshing your Upgrade Plan](uc-refreshing-upgrade-plan.md)
+[Refreshing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-refreshing-upgrade-plan.md)
 
-[Installing your Upgrade Plan](uc-installing-upgrade-plan.md)
+[Installing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-installing-upgrade-plan.md)
 
-[Apply Upgrade Plan on your upgrade](uc-apply-upgrade-plan.md)
+[Apply Upgrade Plan on your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-apply-upgrade-plan.md)
 

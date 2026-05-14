@@ -28,7 +28,7 @@ When you open a parent record in the CI Relationships table, you can view the Ma
 1.  To view the mapped OT devices in the Industrial Workspace, complete the following actions.
 
     1.  Navigate to the Industrial Workspace.
-    2.  Select the Equipment model \(![Equipment model icon in the Industrial Workspace to access the Equipment Model Manager](../../mftg-manufacturing-process-mgr/image/equip-model-manager-button.png)\) icon.
+    2.  Select the Equipment model \(![Equipment model icon in the Industrial Workspace to access the Equipment Model Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../mftg-manufacturing-process-mgr/image/equip-model-manager-button.png)\) icon.
     3.  Open the equipment model entity that you want to view the mapped devices for.
     4.  Select the **Mapped OT Devices** tab.
 
@@ -41,5 +41,5 @@ When you open a parent record in the CI Relationships table, you can view the Ma
     In this list, you can use the **Mapped Equipment Model Entity** column to identify the equipment model entity the device is mapped to. For more information on how to add a column to a list, see [Personalize a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md).
 
 
-**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](automate-mappings-between-ot-assets-and-equipment-model-entity.md)
+**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 

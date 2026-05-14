@@ -56,10 +56,10 @@ Click a space outside the zone. **Note:** The space turns green indicating that 
 </td></tr></tbody>
 </table>5.  You can select other floors, buildings, and campuses while making edits to a zone.
 
-    ![In this figure, a facilities map image displays a building floor and its designated spaces.](../image/CampusFloorSelection.png)
+    ![In this figure, a facilities map image displays a building floor and its designated spaces.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CampusFloorSelection.png)
 
 6.  When finished making edits, click **Apply edits**.
 
 
-**Parent Topic:**[Facilities Workbench](../concept/c_FacilitiesWorkbench.md)
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_FacilitiesWorkbench.md)
 

@@ -21,7 +21,7 @@ Setting up the Hermes Messaging Service requires coordination with your network 
 
 Make sure the following setup is in place:
 
--   The Hermes Messaging Service is activated. See [Activating the Hermes Messaging Service](../concept/hermes-messaging-service-activation.md).
+-   The Hermes Messaging Service is activated. See [Activating the Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-activation.md).
 -   The Key Management Framework plugin \(com.glide.kmf.global\) is activated.
 -   The Certificates \[sys\_kmf\_certificate\] table contains a ServiceNow instance root CA certificate.
 -   The instance isn't configured with a Custom URL. Custom URLs are not supported with the Instance PKI Certificate Generator.
@@ -100,21 +100,21 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 ## What to do next
 
--   Review the guidance in [Exchanging data using Hermes](../concept/exchanging-data-hermes-messaging-service.md).
--   [Prepare your Apache Kafka client environment](prepare-kafka-client-environment.md)
+-   Review the guidance in [Exchanging data using Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/exchanging-data-hermes-messaging-service.md).
+-   [Prepare your Apache Kafka client environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/prepare-kafka-client-environment.md)
 -   Configure the SSL connection to Hermes in the producer and consumer properties files using the truststore and keystore files that you generated. For more information, refer to the following topics:
-    -   [Create a test topic in Hermes using the Kafka client](create-hermes-topic.md)
-    -   [Produce test messages to a Hermes topic using the Kafka client](produce-messages-hermes.md)
-    -   [Consume test messages from a Hermes topic using the Kafka client](consume-messages-hermes.md)
+    -   [Create a test topic in Hermes using the Kafka client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/create-hermes-topic.md)
+    -   [Produce test messages to a Hermes topic using the Kafka client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/produce-messages-hermes.md)
+    -   [Consume test messages from a Hermes topic using the Kafka client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/consume-messages-hermes.md)
 
-**Parent Topic:**[Configuring Hermes Messaging Service](../concept/configuring-hermes-messaging-service.md)
+**Parent Topic:**[Configuring Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/configuring-hermes-messaging-service.md)
 
 **Related topics**  
 
 
-[Activating the Hermes Messaging Service](../concept/hermes-messaging-service-activation.md)
+[Activating the Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-activation.md)
 
-[Revoke a Hermes certificate](revoke-certificate.md)
+[Revoke a Hermes certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/revoke-certificate.md)
 
-[Restricting access to Hermes](../concept/restricting-access-hermes-topics.md)
+[Restricting access to Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/restricting-access-hermes-topics.md)
 

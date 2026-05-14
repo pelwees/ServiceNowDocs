@@ -24,5 +24,5 @@ The following video demonstrates set indexes and how to use them to drive a prod
 **Related topics**  
 
 
-[Hiding the set grid and field grid indexes](how_to_hide_the_setfield_grid_index.md)
+[Hiding the set grid and field grid indexes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/how_to_hide_the_setfield_grid_index.md)
 

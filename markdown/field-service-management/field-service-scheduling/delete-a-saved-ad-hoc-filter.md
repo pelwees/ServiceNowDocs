@@ -29,7 +29,7 @@ Role required: wm\_dispatcher
 
 4.  Select a filter.
 
-5.  Select the **More Actions** \(![More actions icon.](../image/more_actions1.png)\) icon.
+5.  Select the **More Actions** \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions1.png)\) icon.
 
 6.  Select **Delete**.
 

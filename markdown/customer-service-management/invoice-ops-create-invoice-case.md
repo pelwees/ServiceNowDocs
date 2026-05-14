@@ -49,6 +49,6 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
 After submitting an invoice case, you can:
 
--   [Add an invoice case line to an invoice case](invoice-ops-add-invoice-case-line-item.md)
--   [Create a task for an invoice case line](invoice-ops-create-case-line-task.md)
+-   [Add an invoice case line to an invoice case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-add-invoice-case-line-item.md)
+-   [Create a task for an invoice case line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-create-case-line-task.md)
 

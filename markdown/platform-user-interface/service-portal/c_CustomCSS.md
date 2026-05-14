@@ -172,7 +172,7 @@ RTL CSS file URL
 
 A URL to an external style sheet for mirroring the direction of a portal when the session language is a right-to-left language, such as Hebrew.
 
- For information about support for right-to-left languages, see [Styling for right-to-left languages in portals](styling-right-to-left-languages.md).
+ For information about support for right-to-left languages, see [Styling for right-to-left languages in portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/styling-right-to-left-languages.md).
 
 </td></tr></tbody>
 </table>5.  To add a JavaScript include to the theme, in the **JS Include** related list, select **New**.
@@ -238,10 +238,10 @@ The Service Portal package that the JS include is associated with. For example, 
 
 </td></tr></tbody>
 </table>
--   **[Enable dark theme](enable-dark-theme.md)**  
+-   **[Enable dark theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-dark-theme.md)**  
 Use a Coral dark theme on a portal to improve focus, readability, and accessibility.
--   **[Create a theme variant](create-theme-variant.md)**  
+-   **[Create a theme variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-theme-variant.md)**  
 Create a theme variant from the Coral theme. A theme variant uses customizable styling CSS variables and branding options to tailor the visual experience for your users.
 
-**Parent Topic:**[Defining portal styles](portal-css.md)
+**Parent Topic:**[Defining portal styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-css.md)
 

@@ -31,7 +31,7 @@ You can visualize the metrics from the Amazon Connect phone queues that are rout
 
 Here's how the Voice integrates with Amazon Connect:
 
-![Amazon Connect Integration.](../image/amazon-connect-integration.png)
+![Amazon Connect Integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/amazon-connect-integration.png)
 
 ## Benefits of using Voice with Workforce Optimization for ITSM
 
@@ -48,12 +48,12 @@ As an agent, you can:
 -   Analyze call transcripts and listen to recordings after you complete an interaction.
 -   Place outbound calls using automated outbound dialing.
 
--   **[Associate Amazon Connect queues for ITSM to a ServiceNow instance](../../itsm-manager-workspace/task/setup-cloudcallcenter-itsm-configurable-workspace.md)**  
+-   **[Associate Amazon Connect queues for ITSM to a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/task/setup-cloudcallcenter-itsm-configurable-workspace.md)**  
 Set up phone queues for Amazon Connect to gain visibility into the queues using Workforce Optimization for ITSM.
--   **[Listen in to an agent call](../../itsm-manager-workspace/task/listen-in-to-agent-call-configurable-workspace.md)**  
+-   **[Listen in to an agent call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/task/listen-in-to-agent-call-configurable-workspace.md)**  
 Monitor agent calls when they are resolving issues for external callers by using Workforce Optimization for ITSM.
--   **[Analyze transcripts and sentiments for the Amazon Connect phone channel](../../itsm-manager-workspace/task/analyze-transcripts-sentiments-wfo-itsm-confgurable-workspace.md)**  
+-   **[Analyze transcripts and sentiments for the Amazon Connect phone channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/task/analyze-transcripts-sentiments-wfo-itsm-confgurable-workspace.md)**  
 Analyze your agent's call recordings, transcripts, and sentiment reports. With this information, you can assess the call quality and train your agents to handle calls better in the future.
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-channels-workforce-optimization-itsm.md)
 

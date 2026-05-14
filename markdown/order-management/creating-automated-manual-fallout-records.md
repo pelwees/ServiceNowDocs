@@ -47,5 +47,5 @@ You can define a workflow that automatically creates fallout records whenever in
 
 Even when the right data structure is submitted in an external system, errors can happen due to the business logic that is implemented in the external system.
 
-**Parent Topic:**[Managing order fallout](fallout-management-overview.md)
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 

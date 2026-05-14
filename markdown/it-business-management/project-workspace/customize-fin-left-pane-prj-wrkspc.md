@@ -42,5 +42,5 @@ Role required: admin
 
 Cost plans table with customized fields for Financials View is displayed.
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/config-fin-pws.md)
 

@@ -21,7 +21,7 @@ Separate plug-ins must be installed for each widget to work. The My Contacts rec
 
 The user can add delegates via the **Add Delegates** button on the My Delegates widget and add contacts via the **Add new contact**.
 
-For more information on managing the documents of an employee, see [Managing employee documents](../../human-resources/concept/hr-doc-management-admin.md#).
+For more information on managing the documents of an employee, see [Managing employee documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/concept/hr-doc-management-admin.md#).
 
-For more information on adding delegates, see [Granular Delegation](../../employee-service-management/granular-delegation/concept/granular-delegation.md).
+For more information on adding delegates, see [Granular Delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-service-management/granular-delegation/concept/granular-delegation.md).
 

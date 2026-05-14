@@ -17,7 +17,7 @@ As a group manager, with the My team dashboard, gain insights into the data like
 
 Tap on the sections to process the incidents.
 
-![my team dashboard](../image/itsm-ma-my-team-dashboard.png)
+![my team dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/itsm-ma-my-team-dashboard.png)
 
 **Note:**
 
@@ -27,5 +27,5 @@ Tap on the sections to process the incidents.
 **Related topics**  
 
 
-[Overdue changes](../task/overdue-change-mobile.md)
+[Overdue changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../task/overdue-change-mobile.md)
 

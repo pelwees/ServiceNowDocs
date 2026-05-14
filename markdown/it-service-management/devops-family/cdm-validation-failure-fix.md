@@ -29,11 +29,11 @@ The Validation failures panel appears on the application tab whenever validation
 
 ## Procedure
 
-1.  While working in a changeset, select the validation failures icon \(![validation failures icon](../image/icon-validation-result-wrench.png)\) to view the list of snapshots from the application that failed validation.
+1.  While working in a changeset, select the validation failures icon \(![validation failures icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-validation-result-wrench.png)\) to view the list of snapshots from the application that failed validation.
 
     In this example, the snapshots for all three deployables in the application failed validation in some way \(error, warning, or execution failure\).
 
-    ![Select a card in the validation failures panel to go to the problematic CDI](../image/cdm-val-results-select-snapshot.png)
+    ![Select a card in the validation failures panel to go to the problematic CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-val-results-select-snapshot.png)
 
 2.  Navigate to the failure.
 
@@ -43,13 +43,13 @@ The Validation failures panel appears on the application tab whenever validation
 
     2.  Select a card to open the editor directly to the problematic CDI.
 
-    ![Select a card in the validation results panel to go to the problematic CDI](../image/cdm-val-results-select-card.png)
+    ![Select a card in the validation results panel to go to the problematic CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-val-results-select-card.png)
 
 3.  Review the data and perform the necessary updates.
 
 4.  When you finish working on the data, update the status of the error.
 
-    Open the more actions more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) to update the status of the error.
+    Open the more actions more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) to update the status of the error.
 
     -   **Unresolved**: This status is the initial status for a validation error. Leave this status if you are unable to repair the data. You might work on the issue with another user.
     -   **Resolved**: You have fixed the error. Be sure to commit the changeset and validate the data to ensure that the data is correct.

@@ -17,7 +17,7 @@ The Personal Data Rights Workspace offers you the ability to create new personal
 
 The following image shows the Personal Data Rights workspace homepage.
 
-![PDR workspace homepage displaying the tasks details such as timelines, SLA, status, request type and requester.](../image/pdr-workspace.png)
+![PDR workspace homepage displaying the tasks details such as timelines, SLA, status, request type and requester.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/pdr-workspace.png)
 
 From the homepage you can create a new PDR request. The following are the sections on the home page.
 

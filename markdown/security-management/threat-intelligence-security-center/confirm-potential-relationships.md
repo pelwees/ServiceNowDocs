@@ -39,31 +39,31 @@ Role required: sn\_sec\_tisc.analyst
 
 8.  Click **Confirm Relationships** button to confirm the relationships between the objects.
 
-    **Note:** For more information, see[Relationships Objects](../concept/relationship-objects.md) and [Potential Relationships](../concept/potential-relationships.md).
+    **Note:** For more information, see[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/relationship-objects.md) and [Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/potential-relationships.md).
 
-    ![Related Records-Potential Relationships](../image/tisc-confirm-relationships-related-records.png)
+    ![Related Records-Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-confirm-relationships-related-records.png)
 
 9.  Click **Delete** to delete the associated observables.
 
-    For information on how the potential relationships and relationships are established between the SDOs, see [Potential Relationships](../concept/potential-relationships.md) and [Relationships Objects](../concept/relationship-objects.md).
+    For information on how the potential relationships and relationships are established between the SDOs, see [Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/potential-relationships.md) and [Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/relationship-objects.md).
 
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-delete-lib-records.md)
 
-[Export intelligence data](tisc-export-observables.md)
+[Export intelligence data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-export-observables.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/automated-correlation-rules.md)
 

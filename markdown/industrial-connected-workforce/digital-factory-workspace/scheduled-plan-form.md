@@ -102,5 +102,5 @@ Task values for the schedule plan. Available options for this field depend on th
 **Note:** You can create a schedule plan without specifying task values such as a short description. This is useful when you want to create a schedule that applies broadly and the generated tasks inherit their descriptions from the manufacturing standard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Standards reference](industrial-standards-reference.md)
+</table>**Parent Topic:**[Industrial Standards reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-standards-reference.md)
 

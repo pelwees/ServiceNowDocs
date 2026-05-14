@@ -23,7 +23,7 @@ The HR ER PA dashboard provides timely information for the following:
 
 Provides data on trends or areas of concern that are emerging and require a deeper analysis in order to create proactive strategies.
 
-![Executive Overview](../image/hr-er-ov1.png)
+![Executive Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-er-ov1.png)
 
 ## Case analysis
 

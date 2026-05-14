@@ -61,5 +61,5 @@ Contains the following roles:-   sn\_erp\_integration.erp\_data\_pill
 -   sn\_erp\_integration.erp\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
+</table>**Parent Topic:**[Configuring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/configuring-ecm.md)
 

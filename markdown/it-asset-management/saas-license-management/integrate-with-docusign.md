@@ -17,6 +17,6 @@ Integrating your Software Asset Management application with the Docusign service
 
 You can integrate your Software Asset Management application with the Docusign service at Organization level and Account level. However, an integration profile can be either at the Organization level or Account level.
 
--   [Integrate with Docusign at Organization level](integrate-with-docusign-org.md#)
--   [Integrate with Docusign at Account level](integrate-with-docusign-account.md#)
+-   [Integrate with Docusign at Organization level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#)
+-   [Integrate with Docusign at Account level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-account.md#)
 

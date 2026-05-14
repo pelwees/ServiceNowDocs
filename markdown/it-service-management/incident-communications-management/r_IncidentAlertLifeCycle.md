@@ -17,9 +17,9 @@ Incident communication plan state model helps you to understand the different st
 
 Incident alerts are created with a **New** state. They follow a process that finishes with the **Closed** or **Canceled** state.
 
-**Note:** The state model shown below is available only for customers prior to the London release. Beginning London release, customers who have upgraded to the latest release, can refer to [Incident communication plan state model](../concept/incident-comm-plan-new-state-model.md).
+**Note:** The state model shown below is available only for customers prior to the London release. Beginning London release, customers who have upgraded to the latest release, can refer to [Incident communication plan state model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/incident-comm-plan-new-state-model.md).
 
-![Stages of an incident communication plan](../image/IncidentAlertStages.png "Incident communication plan stages")
+![Stages of an incident communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../image/IncidentAlertStages.png "Incident communication plan stages")
 
 The incident communication plan changes from the **New** state to the **Work in Progress** state when you update the **Actions Taken** field. Only the incident communication plan creator or a user with the admin role can cancel an incident communication plan.
 

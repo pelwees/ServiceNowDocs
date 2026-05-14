@@ -15,7 +15,7 @@ breadcrumb: [Administer and monitor API data, API Insights, Configuration Manage
 
 The Overview tab in the API Insights workspace provides a centralized view of data ingestion activities and integration health.
 
-![API Insights Overview tab for CMDB administrators.](../image/api-insights-overview-cmdb-admin.png)
+![API Insights Overview tab for CMDB administrators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-overview-cmdb-admin.png)
 
 ## Access the API Insights Overview tab
 
@@ -84,7 +84,7 @@ API clustering recommendations
 
 </td><td>
 
-Number representing the current clustering recommendation, based on the data model recommendation settings.See [Configure data model recommendations for API clustering in API Insights](../task/api-insights-config-dm.md).
+Number representing the current clustering recommendation, based on the data model recommendation settings.See [Configure data model recommendations for API clustering in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-config-dm.md).
 
 </td><td>
 
@@ -144,7 +144,7 @@ APIs by ownership group
 
 </td><td>
 
-Total count of APIs categorized by assigned ownership group. Groups APIs by managing team or function, as defined by an enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role in settings. For more information on setting an ownership group, see [Configure settings to manage APIs in API Insights](../task/api-insights-config-settings.md).
+Total count of APIs categorized by assigned ownership group. Groups APIs by managing team or function, as defined by an enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role in settings. For more information on setting an ownership group, see [Configure settings to manage APIs in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-config-settings.md).
 
 </td><td>
 
@@ -173,7 +173,7 @@ Between 10% and 50% of APIs are missing the attribute.
 Less than 10% of APIs are missing the attribute.
 
 
-Use the visual indicator to prioritize remediation efforts based on data completeness. Select a bar in the bar chart to start the remediation process. See [Identifying and remediating missing API data in API Insights](api-insights-resolve-gaps.md#).
+Use the visual indicator to prioritize remediation efforts based on data completeness. Select a bar in the bar chart to start the remediation process. See [Identifying and remediating missing API data in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-resolve-gaps.md#).
 
 </td><td>
 

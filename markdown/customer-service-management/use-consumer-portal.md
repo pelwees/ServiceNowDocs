@@ -168,5 +168,5 @@ To customize this portal, navigate to **Service Portal** &gt; **Portals** and se
 **Related topics**  
 
 
-[Portal usage calculation](../reference/csm-portal-user-sessions-timeouts.md)
+[Portal usage calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-portal-user-sessions-timeouts.md)
 

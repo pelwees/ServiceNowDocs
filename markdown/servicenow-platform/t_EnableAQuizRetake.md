@@ -29,15 +29,15 @@ Results are not calculated until the quiz's configured duration has elapsed. The
 
 3.  Open the quiz.
 
-4.  In the [Assessment Metric Type](../concept/c_MetricTypesAndAssessableRecords.md) form, select the **Allow retake** check box and save the record.
+4.  In the [Assessment Metric Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MetricTypesAndAssessableRecords.md) form, select the **Allow retake** check box and save the record.
 
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
-[Publish a quiz](t_PublishaQuiz.md)
+[Publish a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishaQuiz.md)
 

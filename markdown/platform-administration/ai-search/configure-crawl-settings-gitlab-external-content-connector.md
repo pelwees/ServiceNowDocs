@@ -18,7 +18,7 @@ Specify the groups, projects, and repositories you want your GitLab external con
 
 ## Before you begin
 
-A connector admin must have already created the GitLab external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a GitLab external content connector](create-ext-cont-connector-gitlab.md).
+A connector admin must have already created the GitLab external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a GitLab external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-gitlab.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -103,7 +103,7 @@ If one of your connectors reaches the content indexing limit, you can update its
     -   Content of wiki attachments in formats other than plain text \(.txt\)
     -   Internal or confidential notes in merge request discussions
     -   Repository files
-7.  If you included the Branches content type in step [6](configure-crawl-settings-gitlab-external-content-connector.md#select-content-types-step), use the **Add branches to include in regex format** field and the **Add** button to specify Java regular expression patterns matching the names of branches you want to include in content crawls.
+7.  If you included the Branches content type in step [6](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-crawl-settings-gitlab-external-content-connector.md#select-content-types-step), use the **Add branches to include in regex format** field and the **Add** button to specify Java regular expression patterns matching the names of branches you want to include in content crawls.
 
     As an example, you might specify `^2025.*$` to include branches with names that start with `2025`, or specify `^.*$` to crawl all branches. To learn about Java regular expression pattern syntax, see [the Javadoc for the java.regex.util.Pattern class](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html).
 
@@ -118,7 +118,7 @@ The GitLab external content connector is updated with your modified crawl settin
 
 ## What to do next
 
-To retrieve content from your GitLab source system using your modified crawl settings, create and run a one-time content crawl for your GitLab external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your GitLab source system using your modified crawl settings, create and run a one-time content crawl for your GitLab external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[GitLab external content connector](../concept/gitlab-external-content-connector.md)
+**Parent Topic:**[GitLab external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/gitlab-external-content-connector.md)
 

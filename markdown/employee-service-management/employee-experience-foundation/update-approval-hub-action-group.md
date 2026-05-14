@@ -35,7 +35,7 @@ Action group provides quick access to action items such as approve or reject the
 
 4.  On the **Action group M2Ms** related list, click new or update an existing record.
 
-    1.  Select the **Action** from the available options such as **Approve** or **Reject** or [Configure actions](config-approval-hub-actions.md).
+    1.  Select the **Action** from the available options such as **Approve** or **Reject** or [Configure actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-approval-hub-actions.md).
 
     2.  Edit the **Order** of the action item.
 

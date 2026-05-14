@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-User roles are installed with CRM Outlook Add-in. For more information, see [Components installed with the CRM Outlook Add-in](../reference/components-installed-crm-outlook-add-in.md).
+User roles are installed with CRM Outlook Add-in. For more information, see [Components installed with the CRM Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/components-installed-crm-outlook-add-in.md).
 
 ## Procedure
 
@@ -49,6 +49,6 @@ User roles are installed with CRM Outlook Add-in. For more information, see [Com
 
 ## What to do next
 
--   [Configure CRM access from Microsoft Outlook](add-crm-outlook-add-in.md)
--   [Make emails associated through the CRM Outlook Add-in visible to agents](promote-crm-outlook-emails.md)
+-   [Configure CRM access from Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/add-crm-outlook-add-in.md)
+-   [Make emails associated through the CRM Outlook Add-in visible to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/promote-crm-outlook-emails.md)
 

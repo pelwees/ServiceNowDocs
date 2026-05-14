@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-![Fields that display when a value is selected in the slushbucket.](../image/EditMemberDescAddFields.png "Fields listed for selected record")
+![Fields that display when a value is selected in the slushbucket.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/EditMemberDescAddFields.png "Fields listed for selected record")
 
 To add fields to selections in a related list, record the exact field name, or element, not the label name. This example demonstrates adding fields to the **Groups** related list \[sys\_user\_group\].
 
@@ -40,20 +40,20 @@ To add fields to selections in a related list, record the exact field name, or e
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Related lists](../../../use/using-forms/concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/concept/c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Select or create records in a related list](../../../use/using-forms/task/t_SelectRelatedRecords.md)
+[Select or create records in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_SelectRelatedRecords.md)
 
-[Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
+[Configure when a related list loads](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
 
-[Create a default filter for a related list](../../../use/using-forms/task/t_CreateADefaultFilter.md)
+[Create a default filter for a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_CreateADefaultFilter.md)
 
-[Configure the edit option](../../../use/using-forms/task/t_ConfigureTheEditOption.md)
+[Configure the edit option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_ConfigureTheEditOption.md)
 
-[Create defined related lists](t_CreateDefinedRelatedLists.md)
+[Create defined related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md)
 
-[Create a default filter for list selector records](t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefaultRelatedRecSecFilter.md)
 

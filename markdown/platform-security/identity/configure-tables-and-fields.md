@@ -33,7 +33,7 @@ The following tables can be configured for auditing​:
 -   Contained Role \[sys\_user\_role\_contains\]​
 -   Group Member \[sys\_user\_grmember\]​
 
-**Note:** To understand which fields can be configured for the tables, see [Supported and unsupported fields in Identity Access and Audit](../concept/allowed-fields-for-audit.md).
+**Note:** To understand which fields can be configured for the tables, see [Supported and unsupported fields in Identity Access and Audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../concept/allowed-fields-for-audit.md).
 
 ## Procedure
 
@@ -43,13 +43,13 @@ The following tables can be configured for auditing​:
 
     For example, **sys\_user**.
 
-    ![Sys user table](../images/configure-fields.png)
+    ![Sys user table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/configure-fields.png)
 
 3.  Add one or more fields to be audited.
 
     For example, **Password**.
 
-    ![Adding password field](../images/configure-tfield-password.png)
+    ![Adding password field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/configure-tfield-password.png)
 
     **Note:** The following modifications for the security auditable fields result in more processing time when doing bulk import:
 
@@ -59,10 +59,10 @@ The following tables can be configured for auditing​:
 
     Any changes to the password field add a new record to the Security Table Audits. In this example, the audit shows a changed password field for the user **Abel Tuter**.
 
-    ![New Audit](../images/conf-password-fields.png)
+    ![New Audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/conf-password-fields.png)
 
     Selecting the created record displays the details of the changes.
 
-    ![Detail of the audit](../images/confi-fields-result.png)
+    ![Detail of the audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/confi-fields-result.png)
 
 

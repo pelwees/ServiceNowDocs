@@ -93,7 +93,7 @@ Use this strategy to check a particular value in a query table, which is present
 An advanced strategy approach, where a script is used for querying.
 
 
-Depending on the strategy that you’re selected, additional fields appear in the form. To learn more about the additional fields, see [Capacity function additional fields](capacity-function-additional-fields.md).
+Depending on the strategy that you’re selected, additional fields appear in the form. To learn more about the additional fields, see [Capacity function additional fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/capacity-function-additional-fields.md).
 
 </td></tr><tr><td>
 
@@ -116,12 +116,12 @@ Order
 Order field value.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create capacity function](../task/create-capacity-function.md)
+[Create capacity function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-capacity-function.md)
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/capacity-management-reporting.md)
 

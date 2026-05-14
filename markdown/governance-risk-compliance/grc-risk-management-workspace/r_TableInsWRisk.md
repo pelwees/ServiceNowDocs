@@ -154,5 +154,5 @@ Base table to Risk Acceptance, Risk Avoidance, Risk Mitigation, Risk Transfer ta
 </td></tr></tbody>
 </table>**Note:** All additional tables installed by the dependent plugins are also needed for GRC: Risk Management.
 
-**Parent Topic:**[Components installed with Risk Management](r_InstallWRisk.md)
+**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 

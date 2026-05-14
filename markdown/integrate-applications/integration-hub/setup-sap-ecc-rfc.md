@@ -37,7 +37,7 @@ Role required: admin.
 
 2.  Disable the MIME type validation for file attachments.
 
-    ![Option to disable the MIME type validation](../image/mime-type-sap-ecc-rfc.png)
+    ![Option to disable the MIME type validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/mime-type-sap-ecc-rfc.png)
 
     **Note:** This is applicable only if your MID Server is installed on a Linux machine
 

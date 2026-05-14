@@ -38,5 +38,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configure the inbox in Service Operations Workspace](configure-inbox-in-sow.md)
+**Parent Topic:**[Configure the inbox in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-inbox-in-sow.md)
 

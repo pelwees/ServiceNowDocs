@@ -69,14 +69,14 @@ Survey response \[survey\_response\]
 -   Category result \[asmt\_category\_result\], for system use only
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+</table>**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)
+[Migrate a legacy survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_MigrateALegacySurvey.md)
 
-[Survey question migration](r_SurveyQuestionMigration.md)
+[Survey question migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionMigration.md)
 
-[Migrated question review](r_ReviewMigratedQuestions.md)
+[Migrated question review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_ReviewMigratedQuestions.md)
 

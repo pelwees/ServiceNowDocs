@@ -15,7 +15,7 @@ breadcrumb: [AIOps Dashboards in SOW for ITOM, Using SOW for ITOM, Service Opera
 
 The Health Log Analytics Operational dashboard uses Performance Analytics to enable you to monitor log data, alerts, and error rate information in Service Operations Workspace and address issues as they occur in the system.
 
-![HLA Operational dashboard](../../../product/health-log-analytics-admin/image/hla-operational-dashboard2.png)
+![HLA Operational dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../product/health-log-analytics-admin/image/hla-operational-dashboard2.png)
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ Ensure that the Health Log Analytics application is installed.
 To open the dashboard, use one of the following methods:
 
 -   Navigate to **All** &gt; **AIOps Dashboards** &gt; **AIOps Operational** &gt; **HLA Operational**.
--   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](../../../product/health-log-analytics-admin/image/aiops-operational-icon.png)\), then display the HLA Operational dashboard.
+-   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../product/health-log-analytics-admin/image/aiops-operational-icon.png)\), then display the HLA Operational dashboard.
 
 ## Use cases
 

@@ -17,7 +17,7 @@ Automatically assign a sourcing request, negotiation, or purchase requisition to
 
 ## Before you begin
 
-To create a purchasing assignment rule, you must have set up your product catalog \(with the necessary product categories, product models, and supplier products\) and should be able to raise a purchase request. For more information on how to set up your product catalog, see [Create a product category](create-product-model-categories.md), [Create a product model](create-product-models.md), and [Add a supplier product](add-supplier-product.md). You should have also set up user attributes on the sys\_user record appropriately.
+To create a purchasing assignment rule, you must have set up your product catalog \(with the necessary product categories, product models, and supplier products\) and should be able to raise a purchase request. For more information on how to set up your product catalog, see [Create a product category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-model-categories.md), [Create a product model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-models.md), and [Add a supplier product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md). You should have also set up user attributes on the sys\_user record appropriately.
 
 Role required: sn\_shop.procurement\_administrator
 
@@ -33,7 +33,7 @@ You can create a purchasing assignment rule to route sourcing requests, negotiat
 
 3.  On the form, fill in the fields.
 
-    ![Assignment rule.](../image/create_assignment_rule.png)
+    ![Assignment rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_assignment_rule.png)
 
     |Field|Description|
     |-----|-----------|
@@ -43,7 +43,7 @@ You can create a purchasing assignment rule to route sourcing requests, negotiat
 
 4.  Select the **Applies To** tab and fill in the fields.
 
-    ![Assignment rule.](../image/create_assignment_rule_appliesto.png)
+    ![Assignment rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_assignment_rule_appliesto.png)
 
 <table id="table_ysk_5rb_glb"><thead><tr><th>
 
@@ -74,7 +74,7 @@ Combination of conditions that must be met before the task is assigned to a user
 </td></tr></tbody>
 </table>5.  Select the **Assign To** tab and fill in the fields.
 
-    ![Assignment rule.](../image/create_assignment_rule_assignto.png)
+    ![Assignment rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_assignment_rule_assignto.png)
 
     |Field|Description|
     |-----|-----------|
@@ -83,7 +83,7 @@ Combination of conditions that must be met before the task is assigned to a user
 
 6.  Select the **Script** tab and fill in the fields.
 
-    ![Assignment rule.](../image/create_assignment_rule_script.png)
+    ![Assignment rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_assignment_rule_script.png)
 
     |Field|Description|
     |-----|-----------|
@@ -92,5 +92,5 @@ Combination of conditions that must be met before the task is assigned to a user
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 

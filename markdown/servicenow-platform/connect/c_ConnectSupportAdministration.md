@@ -15,5 +15,5 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 Administrators can configure various performance settings and features of Connect Support.
 
-**Note:** There are also settings that apply to both Connect Chat and Connect Support. For more information, see [Connect administration](c_ConnectAdministration.md).
+**Note:** There are also settings that apply to both Connect Chat and Connect Support. For more information, see [Connect administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectAdministration.md).
 

@@ -78,7 +78,7 @@ The ServiceNow Integration Hub Starter Pack Installer \[com.glide.hub.integratio
 
 </td></tr><tr><td>
 
-[Register and configure your application in the Microsoft Azure portal.](../task/configure-microsoft-azure-portal.md)
+[Register and configure your application in the Microsoft Azure portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configure-microsoft-azure-portal.md)
 
 </td><td>
 

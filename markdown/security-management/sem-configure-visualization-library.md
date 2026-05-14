@@ -16,7 +16,7 @@ The Visualization library lists the available widgets for the Findings view page
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../../security-exposure-management-administration/concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-administration/concept/sem-acls-for-admin-rules.md)
 
 ## Procedure
 
@@ -164,10 +164,10 @@ The name of the widget.
 
 </td></tr></tbody>
 </table>
--   **[Create a custom widget](sem-create-widget.md)**  
+-   **[Create a custom widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-widget.md)**  
 Create a custom widget in the Security exposure management \(SEM\) workspace to visualize findings data that meets your organization’s reporting needs. This feature enables administrators to extend the default widgets in the visualization library by adding new widgets that reflect organization-specific risk and exposure metrics.
--   **[Update a widget](sem-update-widget.md)**  
+-   **[Update a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-update-widget.md)**  
 Update a widget in the Visualization Library to modify its configuration or presentation. You can update attributes to refine how data appears in Findings dashboards and ensure that the visualizations stay relevant to your reporting needs.
--   **[Localize widget titles](sem-localize-widget-titles.md)**  
+-   **[Localize widget titles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-localize-widget-titles.md)**  
 Update the widget title in the Messages \[sys\_ui\_message\_list\] table whenever you create a custom widget or rename an existing one to ensure it displays correctly in localized interfaces.
 

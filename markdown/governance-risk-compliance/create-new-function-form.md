@@ -89,7 +89,7 @@ Licensed activity
 
 Licensed activity that is referred to in Annex II for different type of financial entities. List of activities that the function is related to. Licensed activity is a particular drop-down list that's been provided by the user and the set of values that are required by the regulator.
 
-![Activity.](../image/fun-licensed-activity.png)
+![Activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/fun-licensed-activity.png)
 
 </td></tr><tr><td>
 
@@ -191,5 +191,5 @@ Impact of discontinuing the function according to the financial entity’s asses
 -   **Assessment not performed**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a function and enhance digital resilience data](../task/create-drtp-reg-function.md)
+</table>**Parent Topic:**[Create a function and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-drtp-reg-function.md)
 

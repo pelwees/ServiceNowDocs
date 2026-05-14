@@ -17,15 +17,15 @@ The store inquiry AI agent is an intelligent assistant designed to support the h
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about the store inquiry AI agent and it's capabilities.](rahi-retail-now-assist-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about the store inquiry AI agent and it's capabilities.](rahi-retail-now-assist-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)How to enable the trigger to leverage the store inquiry AI agent.](rahi-retail-now-assist-configure.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../../../reuse/icons/brand-icons/bus-sdlc.svg)How to enable the trigger to leverage the store inquiry AI agent.](rahi-retail-now-assist-configure.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use store inquiry Al agent to improve and enhance the store inquiry processes.](agentic-workflows-now-assist-retail.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use store inquiry Al agent to improve and enhance the store inquiry processes.](agentic-workflows-now-assist-retail.md)
 
 </td></tr><tr><td>
 

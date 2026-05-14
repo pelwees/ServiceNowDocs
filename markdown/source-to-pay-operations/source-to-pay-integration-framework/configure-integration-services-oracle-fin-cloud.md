@@ -40,7 +40,7 @@ If the application requires multiple Oracle Financial Cloud ERP instances, creat
 
 3.  In the Integration Services list, select the service that you want to configure.
 
-    ![Configure integration services for Oracle Financial Cloud](../../source-to-pay-operations/image/oracle-fin-integration-service.png "Configure integration services for Oracle Financial Cloud")
+    ![Configure integration services for Oracle Financial Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-fin-integration-service.png "Configure integration services for Oracle Financial Cloud")
 
 4.  On the integration service record, fill in the fields.
 

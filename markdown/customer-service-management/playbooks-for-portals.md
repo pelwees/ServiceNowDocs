@@ -17,23 +17,23 @@ Guided intake with playbooks makes it effortless to fill out a form or provide i
 
 ## Get started
 
-1.  [Set up predefined Playbooks for Portals](setup-onb-playbks-for-portals.md)
-2.  [Set up custom Playbooks for Portals](activate-playbooks-for-portals.md#)
-3.  [View cases in Draft state on the portal](playbook-for-portals-my-draft-cases-list.md)
-4.  [Activate a new onboarding playbook with self-service](activate-a-new-onboarding-playbook-with-self-service-in-pad.md)
-5.  [Enable a reflow for your UI Builder pages](../task/enable-reflow-for-new-uib-pages.md)
-6.  [Using Playbooks for Portals](using-playbooks-for-portals.md)
+1.  [Set up predefined Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/setup-onb-playbks-for-portals.md)
+2.  [Set up custom Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/activate-playbooks-for-portals.md#)
+3.  [View cases in Draft state on the portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/playbook-for-portals-my-draft-cases-list.md)
+4.  [Activate a new onboarding playbook with self-service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/activate-a-new-onboarding-playbook-with-self-service-in-pad.md)
+5.  [Enable a reflow for your UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/enable-reflow-for-new-uib-pages.md)
+6.  [Using Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-playbooks-for-portals.md)
 
 **Related topics**  
 
 
-[Set up predefined Playbooks for Portals](setup-onb-playbks-for-portals.md)
+[Set up predefined Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/setup-onb-playbks-for-portals.md)
 
-[Set up custom Playbooks for Portals](activate-playbooks-for-portals.md#)
+[Set up custom Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/activate-playbooks-for-portals.md#)
 
-[View cases in Draft state on the portal](playbook-for-portals-my-draft-cases-list.md)
+[View cases in Draft state on the portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/playbook-for-portals-my-draft-cases-list.md)
 
-[Using Playbooks for Portals](using-playbooks-for-portals.md)
+[Using Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-playbooks-for-portals.md)
 
-[Creating an onboarding case with Playbooks for Portals](create-an-onboarding-case-with-portal-playbook.md)
+[Creating an onboarding case with Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-case-with-portal-playbook.md)
 

@@ -47,9 +47,9 @@ HR agents can set preferences to receive conversation desktop notifications, aud
 
 Once opted in, agents hear an audio alert when a new message occurs on a conversation that is currently open in a workspace tab, but not in focus. Audio alerts also notify when a long running conversation is assigned to an agent, but is not currently open in a workspace tab. Agents decide if they want to enable these alerts and notifications.
 
-Use the edit menu ![edit menu icon](../../../common/image/gear.png) in the HR Service Delivery Agent Workspace Inbox to enable alerts and notifications.
+Use the edit menu ![edit menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../common/image/gear.png) in the HR Service Delivery Agent Workspace Inbox to enable alerts and notifications.
 
-![HRSD Agent Workspace Inbox settings](../image/SMS-hr-inbox-notifications-settings.png)
+![HRSD Agent Workspace Inbox settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/SMS-hr-inbox-notifications-settings.png)
 
 Agents can receive Google Chrome browser toasts when the following criteria is met:
 

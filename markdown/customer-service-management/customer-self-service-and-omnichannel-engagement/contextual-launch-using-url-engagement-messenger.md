@@ -17,9 +17,9 @@ Use URL parameters in your website's URL to enable the deep linking and launch a
 
 ## Before you begin
 
-[Configure Engagement Messenger](create-engagement-messenger-module.md).
+[Configure Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-engagement-messenger-module.md).
 
-[Embed Engagement Messenger in your web application](embed-engagement-messenger-code-in-your-web-application.md).
+[Embed Engagement Messenger in your web application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-engagement-messenger-code-in-your-web-application.md).
 
 Role required: ec\_admin and website administrator
 
@@ -31,7 +31,7 @@ You can use URL parameters to display specific feature in Engagement Messenger. 
 
 If you are using existing Embed code, ensure that you update the script to include `v=3.1`. For example:
 
-![Engagement Messenger with the version number highlighted in the Embed code.](../image/em-version-no-update.png)
+![Engagement Messenger with the version number highlighted in the Embed code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-version-no-update.png)
 
 ## Procedure
 
@@ -55,11 +55,11 @@ If you are using existing Embed code, ensure that you update the script to inclu
 
     -   **&lt;FEATURE\_NAME&gt;**
 
-        The feature name. For information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md).
+        The feature name. For information, see [Feature context parameters supported in Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/contextual-launch-supported-features.md).
 
     -   **&lt;param\_name1&gt;=&lt;param\_value1&gt;**
 
-        Name and value of a parameter associated with the feature. To define multiple parameters, use the same format. For more information, see [Feature context parameters supported in Engagement Messenger](../reference/contextual-launch-supported-features.md).
+        Name and value of a parameter associated with the feature. To define multiple parameters, use the same format. For more information, see [Feature context parameters supported in Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/contextual-launch-supported-features.md).
 
 8.  Verify that the URL launches the designated feature automatically.
 

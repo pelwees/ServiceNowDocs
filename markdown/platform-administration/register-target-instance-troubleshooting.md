@@ -15,12 +15,12 @@ A reference topic that includes troubleshooting to try to resolve errors that oc
 
 When registering a target instance, consider the following guidelines.
 
--   **[Credentials error](register-target-instance-1.md)**  
+-   **[Credentials error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-1.md)**  
 Troubleshoot a credentials error that occurs while registering a target instance.
--   **[System property error](register-target-instance-2.md)**  
+-   **[System property error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-2.md)**  
 Troubleshoot a system property error that occurs while registering a target instance.
--   **[IP authentication error](register-target-instance-3.md)**  
+-   **[IP authentication error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-3.md)**  
 Troubleshoot a IP authentication error that occurs while registering a target instance
 
-**Parent Topic:**[Instance Clone reference](instance-clone-reference.md)
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 

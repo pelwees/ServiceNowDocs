@@ -37,28 +37,28 @@ Cost center and GL account values are restricted by the ERP source on the object
 
 If there’s any record with different ERP sources, then an integration error task is raised. This is an indicator for your fulfiller to correct the record before processing it further.
 
-**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](../concept/integrating-spo.md)
+**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integrating-spo.md)
 
 **Related topics**  
 
 
-[Sourcing and Procurement Operations integration with IT Asset Management](../concept/spo-itam-better-together.md)
+[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-itam-better-together.md)
 
-[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/employee-center-integration-psm.md)
 
-[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-integration-third-party-sourcing.md)
 
-[Sourcing and Procurement Operations integration with Third-party Risk Management](../concept/better-together-with-vrm.md)
+[Sourcing and Procurement Operations integration with Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/better-together-with-vrm.md)
 
-[Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md)
+[Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-psm-ppm.md)
 
-[Sourcing and Procurement Operations integration with Celonis](../concept/integration-psm-celonis.md)
+[Sourcing and Procurement Operations integration with Celonis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-psm-celonis.md)
 
-[Sourcing and Procurement Operations integration with Field Service Management](../concept/integration-psm-fsm.md)
+[Sourcing and Procurement Operations integration with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-psm-fsm.md)
 
-[Source-to-Pay Operations integration with Contract Management Pro](../concept/integration-spo-cmpro.md)
+[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-spo-cmpro.md)
 
-[SpendInt APIs](../concept/spendint-api.md)
+[SpendInt APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spendint-api.md)
 
-[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/procurement-file-transfer-framework.md)
 

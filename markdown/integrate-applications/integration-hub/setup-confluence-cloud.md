@@ -47,7 +47,7 @@ Role required: admin
 4.  Locate the **Confluence Cloud** connection alias and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Confluence Cloud spoke, click **View Details**.
-    -   To manage more than one Confluence Cloud spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Confluence Cloud spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
 5.  On the **Connection** form, fill in the fields.
@@ -85,7 +85,7 @@ Scopes
 By default, these scopes are provided: `ace:confluence, read:page:confluence, search:confluence, read:confluence-groups, write:confluence-groups, read:confluence-user, read:me, read:account, offline_access`. You can modify the scopes as per your requirement. **Note:** After the scopes are modified and saved, whenever you edit the connection record, the scopes are reset to the default scopes.
 
 </td></tr></tbody>
-</table>    ![Create a connection for Confluence Cloud spoke using connection template](../image/confluence-cloud-spoke-conn-config.png)
+</table>    ![Create a connection for Confluence Cloud spoke using connection template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/confluence-cloud-spoke-conn-config.png)
 
 6.  Click **Save and Get OAuth Token**.
 

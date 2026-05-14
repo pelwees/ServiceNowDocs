@@ -15,7 +15,7 @@ breadcrumb: [Approval rules, Classic approvals, Exploring Service Administration
 
 In the diagram below of a hypothetical approval process, the gating approval is color coded blue and an in-process approval is orange.
 
-![Approval process diagram](../image/ApprovalChart.png "Approval process")
+![Approval process diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/ApprovalChart.png "Approval process")
 
-**Parent Topic:**[Approval rules](c_ApprovalRules.md)
+**Parent Topic:**[Approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ApprovalRules.md)
 

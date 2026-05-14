@@ -17,7 +17,7 @@ Add activities to an app's playbook to specify what the automation does to the d
 
 ## Before you begin
 
-To add [activities](../concept/creator-studio-glossary.md#) to a playbook, you must be given permission to work on the app.
+To add [activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-glossary.md#) to a playbook, you must be given permission to work on the app.
 
 ## About this task
 
@@ -35,7 +35,7 @@ The activities that you can add to a playbook are limited by your administrator 
 
     **Note:** If your app has a lot of forms and automations, you can use the search box in the navigation panel to search for a specific automation.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation that has the playbook")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation that has the playbook")
 
 5.  Select the add icon ![](../image/cs-add-icon.png) on the connector where you want to add an activity and choose the square **Add an activity** icon \(![](../image/cs-add-activity-icon.png)\) in the menu that pops up.
 
@@ -127,7 +127,7 @@ Update submission
 Update the value of the specified fields on the record that the form generates when a user submits it.
 
 </td></tr></tbody>
-</table>    ![Select which type of activity to add](../image/crs-add-activity-more.png "Activity library for a playbook")
+</table>    ![Select which type of activity to add](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-add-activity-more.png "Activity library for a playbook")
 
     Your new activity and its Activity properties panel appear, where you define what the activity is.
 
@@ -138,7 +138,7 @@ Update the value of the specified fields on the record that the form generates w
     |Label|Unique, user-facing name for your activity, which appears to agents and fulfillers while the playbook is running.|
     |Description|Optional details about what the activity accomplishes.|
 
-    ![Activity details panel](../image/cs-assign-to-properties.png "Activity details panel")
+    ![Activity details panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-assign-to-properties.png "Activity details panel")
 
 8.  If needed, specify the approver or assignee in the **Select an approver** or **Select an assignee** fields.
 
@@ -213,7 +213,7 @@ Update the value of the specified fields on the record that the form generates w
 
 ## What to do next
 
-Continue adding activities and decisions, as well as connectors and parallel processes if needed, to finish creating your playbook. For more information on decisions, see [Add a decision to an app's playbook in Creator Studio](creator-studio-add-decision-automation.md).
+Continue adding activities and decisions, as well as connectors and parallel processes if needed, to finish creating your playbook. For more information on decisions, see [Add a decision to an app's playbook in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-add-decision-automation.md).
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

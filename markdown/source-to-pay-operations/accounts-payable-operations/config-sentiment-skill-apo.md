@@ -41,7 +41,7 @@ Role required: admin
 
 5.  Review and activate the skill.
 
-    Review your choices and select **Activate** the skill. For more information on sentiment analysis in an invoice case, see [Analyze sentiments in invoice cases](analyze-sentiments-in-invoice-case.md).
+    Review your choices and select **Activate** the skill. For more information on sentiment analysis in an invoice case, see [Analyze sentiments in invoice cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/analyze-sentiments-in-invoice-case.md).
 
 
 ## Result

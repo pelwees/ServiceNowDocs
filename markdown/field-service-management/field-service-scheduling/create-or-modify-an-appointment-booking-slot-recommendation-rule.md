@@ -58,5 +58,5 @@ The slot recommendation rule is created or modified.
 
 ## What to do next
 
-Add one or more selection criteria for the determination rule. For more information, see [Add selection criteria for an appointment slot recommendation rule](add-selection-criteria-for-an-appointment-slot-recommendation-rule.md).
+Add one or more selection criteria for the determination rule. For more information, see [Add selection criteria for an appointment slot recommendation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-selection-criteria-for-an-appointment-slot-recommendation-rule.md).
 

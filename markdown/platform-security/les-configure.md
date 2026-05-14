@@ -15,12 +15,12 @@ Use guided setup to step through the initial configuration of LES. Guided setup 
 
 Guided setup organizes configuration activities into categories. Each category provides information, such as planning guidance, pre-setup steps, and links to useful help content. Categories also provide a set of links to the pages in your instance where you perform the configuration. The guided setup process keeps track of what you have completed, so you can stop and start again where you left off.
 
--   **[Kafka consumer](les-kafka-consumer.md)**  
+-   **[Kafka consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-kafka-consumer.md)**  
 Use guided setup to step through the initial configuration of LES for Kafka consumers.
--   **[MID server consumer](les-mid-server-consumer.md)**  
+-   **[MID server consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-mid-server-consumer.md)**  
 Use guided setup to step through the initial configuration of LES for MID server consumer.
--   **[Set up a secure connection to the Hermes Messaging Service for LES](../task/les-hermes-cert.md)**  
+-   **[Set up a secure connection to the Hermes Messaging Service for LES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/les-hermes-cert.md)**  
 Secure your Kafka topics by generating a ServiceNow® instance-signed certificate.
 
-**Parent Topic:**[Log Export Service \(LES\)](les-intro.md)
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 

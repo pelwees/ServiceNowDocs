@@ -36,10 +36,10 @@ Use the following procedure if you need to refresh the type-ahead suggestions li
 3.  Run the scheduled job.
 
 
-**Parent Topic:**[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+**Parent Topic:**[Global text search suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_GlobalTextSearchSuggestions.md)
 
 **Related topics**  
 
 
-[Configure "Did you mean?" suggestions](t_ConfigureADidYouMeanSuggestion.md)
+[Configure "Did you mean?" suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureADidYouMeanSuggestion.md)
 

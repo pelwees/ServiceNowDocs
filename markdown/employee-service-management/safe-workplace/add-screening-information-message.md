@@ -42,5 +42,5 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
 
 Users in the selected audience will see this message when they complete their health screening.
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-health-screening.md)
 

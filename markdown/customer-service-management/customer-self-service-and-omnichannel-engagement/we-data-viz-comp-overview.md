@@ -22,5 +22,5 @@ Following are the visual elements which you can embed on your webpage to display
 -   Donut: Display information similar to a pie chart but includes an empty space at the center of data to display total value.
 -   Semi donut: Displays information in a 180-degree view and fits in a smaller area than a full donut chart.
 
-![Data visualization component instance displaying a donut chart that displays cases for 2-4 weeks.](../image/we-data-viz-item-comp.png "Data visualization component")
+![Data visualization component instance displaying a donut chart that displays cases for 2-4 weeks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-data-viz-item-comp.png "Data visualization component")
 

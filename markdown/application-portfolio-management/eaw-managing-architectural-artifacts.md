@@ -24,26 +24,26 @@ As an enterprise architect, you can use architectural artifacts to perform the f
 
 The architectural artifacts feature extends the functionality of the ServiceNow® Document Management plugin \(com.snc.platform\_document\_management\) and can create a relationship with ServiceNow® objects: business applications, business capabilities, digital integrations, or digital interfaces.
 
-**Parent Topic:**[Exploring the information portfolio](eaw-information-portfolio.md)
+**Parent Topic:**[Exploring the information portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-information-portfolio.md)
 
 **Related topics**  
 
 
-[View all architectural artifacts](../../task/eaw-task/eaw-view-all-architectural-artifacts.md)
+[View all architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-architectural-artifacts.md)
 
-[Create or edit an architectural artifact from Portfolio page](../../task/eaw-task/eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-architectural-artifact.md)
 
 [eaw-add-an-architectural-artifact-version]
 
-[Add a related entity to an architectural artifact](../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
+[Add a related entity to an architectural artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
 
-[Share an architectural artifact with users or groups](../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
 
-[Manage access to architectural artifacts](../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
 
-[Request approval for an architectural artifact of type URL or Attachment](../../task/eaw-task/eaw-req-approval-artifact-version.md)
+[Request approval for an architectural artifact of type URL or Attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-req-approval-artifact-version.md)
 
-[Download an architectural artifact version](../../task/eaw-task/eaw-download-artifact-version.md)
+[Download an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-download-artifact-version.md)
 
-[Delete an architectural artifact version](../../task/eaw-task/eaw-delete-an-architectural-artifact-version.md)
+[Delete an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-delete-an-architectural-artifact-version.md)
 

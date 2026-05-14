@@ -59,7 +59,7 @@ Platform interface
 Escalated case and account numbers are indicated with a colored dot on a list and a colored background on a form.
 
 </td></tr></tbody>
-</table>![List of cases with escalation details. For the text description, refer to the text that follows.](../image/csm-aw-case-escalation-list.png "CSM Agent Workspace case list with escalated cases")
+</table>![List of cases with escalation details. For the text description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-aw-case-escalation-list.png "CSM Agent Workspace case list with escalated cases")
 
 The CSM Agent Workspace case list shows these escalation details:
 

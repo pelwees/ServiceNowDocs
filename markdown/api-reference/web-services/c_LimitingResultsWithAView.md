@@ -27,5 +27,5 @@ Additionally, the RSS item title can be modified using the **sysparm\_title\_vie
 https://<instance name>.service-now.com/incident.do?sysparm_query=priority=1&sysparm_view=ess&sysparm_title_view=rss_title&RSS
 ```
 
-**Parent Topic:**[RSS feed generator](c_RSSFeedGenerator.md)
+**Parent Topic:**[RSS feed generator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_RSSFeedGenerator.md)
 

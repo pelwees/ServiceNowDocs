@@ -22,7 +22,7 @@ As an administrator, you can configure KPIs as well as child KPIs. The child KPI
 **Related topics**  
 
 
-[Teams in Workforce Optimization](using-teams-wfo-fsm.md#)
+[Teams in Workforce Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/using-teams-wfo-fsm.md#)
 
 ## Create KPI groups to monitor team performance
 

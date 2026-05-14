@@ -17,7 +17,7 @@ Learning admin overview dashboard provides the learning administrator with a con
 
 The Learning Admin Overview dashboard provides the learning administrator \(sn\_lc.learning\_admin\) with helpful information of the overall activity on the Learning application.
 
-![Learning admin dashboard](../image/learning-admin-overview.png "Learning Admin Overview")
+![Learning admin dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/learning-admin-overview.png "Learning Admin Overview")
 
-**Parent Topic:**[Reporting solutions for Learning](reporting-solutions-learning.md)
+**Parent Topic:**[Reporting solutions for Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/reporting-solutions-learning.md)
 

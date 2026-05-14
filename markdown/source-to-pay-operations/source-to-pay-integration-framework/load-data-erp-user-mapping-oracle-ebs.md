@@ -29,7 +29,7 @@ Role required: sn\_shop.procurement\_administrator
 
 4.  Select **Choose File** to import the source Excel spreadsheet.
 
-    ![Load data to ERP user mapping table for Oracle EBS](../../source-to-pay-operations/image/oracle-ebs-load-data.png "Load data to ERP user-mapping table for Oracle EBS")
+    ![Load data to ERP user mapping table for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-load-data.png "Load data to ERP user-mapping table for Oracle EBS")
 
 5.  If appropriate, specify the Work sheet and Header row number.
 
@@ -54,18 +54,18 @@ Verify that the data records are imported into the target table. You can view th
 
 **Note:** If an ERP user mapping isn’t required, you can deactivate it. To deactivate a mapping, in the ERP User Mapping form, select the **Inactive** check box.
 
-**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](../concept/configuring-source-to-pay-oracle-ebs-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/configuring-source-to-pay-oracle-ebs-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for Oracle EBS](../concept/erp-source-configuration-oracle.md)
+[ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/erp-source-configuration-oracle.md)
 
-[Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)
+[Define ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-oracle.md)
 
-[Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)
+[Configure integration services for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-oracle-ebs.md)
 
-[Look up primary data in Oracle EBS](../concept/look-up-primary-data-oracle-ebs.md)
+[Look up primary data in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/look-up-primary-data-oracle-ebs.md)
 
-[Scheduled jobs to look up primary data in Oracle EBS](../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
+[Scheduled jobs to look up primary data in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
 

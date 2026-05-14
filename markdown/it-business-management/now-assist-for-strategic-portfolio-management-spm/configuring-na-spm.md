@@ -21,7 +21,7 @@ Install and activate the plugins, turn on the Now Assist panel, and view the acc
 
 The following example shows the Settings page with available plugins to install, including Now Assist for Strategic Portfolio Management \(SPM\).
 
-![Now Assist settings page that lets you install plugins, activate the Now Assist panel, and view account details.](../images/settings-page-na.png "Now Assist Admin settings page")
+![Now Assist settings page that lets you install plugins, activate the Now Assist panel, and view account details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/settings-page-na.png "Now Assist Admin settings page")
 
 To enable the Agile story generation skill and project insights generation skill, verify that Now assist panel is enabled. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md). For Agile story generation skill, verify AI Search is activated and ready to use by navigating to **All** &gt; **AI Search** &gt; **AI Search Status**
 
@@ -30,7 +30,7 @@ To enable the Agile story generation skill and project insights generation skill
 **Related topics**  
 
 
-[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
+[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
 [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
 

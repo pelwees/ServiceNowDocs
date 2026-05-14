@@ -45,15 +45,15 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
     -   Tax
     -   Travel and Expense
     -   Treasury
-    ![Profile type record is pictured with the Profiles related list](../image/SOX-profile-type.png)
+    ![Profile type record is pictured with the Profiles related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-profile-type.png)
 
 2.  If using the Kingston SOX contact pack, under the Entity filters related list, a filter is added to query the SOX processes table for the generation of SOX entities.
 
-    ![Profile type record is pictured with the Profile Filters Related List](../image/SOX-profile-filter.png)
+    ![Profile type record is pictured with the Profile Filters Related List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-profile-filter.png)
 
 3.  Open an entity to see all the downstream controls.
 
-    ![Profile record is pictured with the Profile Types Related List](../image/SOX-downstream-controls.png)
+    ![Profile record is pictured with the Profile Types Related List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-downstream-controls.png)
 
 4.  Navigate to **Policy and Compliance** &gt; **Policies and Procedures** &gt; **Policies**.
 
@@ -67,7 +67,7 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
     -   Financial Reporting - Standard Operating Procedure
     -   Fixed Assets Standard Operating Procedures
     -   General Ledger - Flowchart
-    ![List of all policies is pictured](../image/SOX-draft-policies.png)
+    ![List of all policies is pictured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-draft-policies.png)
 
 5.  Open a SOX policy record.
 
@@ -81,7 +81,7 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
 
     -   All the SOX policy statements are created and assigned to SOX policies.
     -   The SOX Control Attestation is created and added to the policy statement.
-    ![List of Policy Statements is pictured with all Policy Statement beginning with SOX in the Name](../image/SOX-policy-statements.png)
+    ![List of Policy Statements is pictured with all Policy Statement beginning with SOX in the Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-policy-statements.png)
 
 8.  Navigate to **Policy and Compliance** &gt; **Controls**.
 
@@ -91,18 +91,18 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
 
     -   All the SOX controls are created for each entity.
     -   The SOX Control Attestation is added to all controls with no attestation respondents.
-    ![A list of SOX Controls is pictured](../image/SOX-controls.png)
+    ![A list of SOX Controls is pictured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-controls.png)
 
 10. Navigate to **Policy and Compliance** &gt; **Indicators**.
 
     SOX Control Indicators were added and indicator templates were assigned to them.
 
-    ![A list of SOX Indicators is pictured](../image/SOX-indicators-templates.png)
+    ![A list of SOX Indicators is pictured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/SOX-indicators-templates.png)
 
 
 ## Result
 
-For information about the SOX Compliance Dashboard, see [SOX Content Pack dashboard and reports](../concept/grc-SOX-compliance-content-pack.md).
+For information about the SOX Compliance Dashboard, see [SOX Content Pack dashboard and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-SOX-compliance-content-pack.md).
 
-**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](../concept/sn-store-SOX-governance-risk-compliance.md)
+**Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/sn-store-SOX-governance-risk-compliance.md)
 

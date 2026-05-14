@@ -36,8 +36,8 @@ Using this API you can:
 
 To make a modal appear in the UI you must call one of the render methods:
 
--   [GlideModal \(Next Experience\) - render\(\)](GModClientAPINX.md#)
--   [GlideModal \(Next Experience\) - renderWithContent\(String html\)](GModClientAPINX.md#)
+-   [GlideModal \(Next Experience\) - render\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#)
+-   [GlideModal \(Next Experience\) - renderWithContent\(String html\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#)
 
 The following code example shows how to create and render a modal using the UI page "UI\_dialog\_name".
 
@@ -54,7 +54,7 @@ dialog.setWidth(550);
 dialog.render();
 ```
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client-next.md)
 
 ## GlideModal \(Next Experience\) - GlideModal\(String id, Boolean readOnly, Number/String width\)
 
@@ -82,7 +82,7 @@ String
 
 </td><td id="GMod-GMod-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -276,7 +276,7 @@ String
 
 </td><td id="GMod-get-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -327,7 +327,7 @@ console.log('modal id', id);
 
 Returns the value of the specified preference \(property\).
 
-Invoking actions that create the modal typically also create the necessary preferences for the modal using the [GlideModal \(Next Experience\) - setPreference\(String name, String value\)](GModClientAPINX.md#) method. The UI page client script can then consume these preferences using this method.
+Invoking actions that create the modal typically also create the necessary preferences for the modal using the [GlideModal \(Next Experience\) - setPreference\(String name, String value\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#) method. The UI page client script can then consume these preferences using this method.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -382,7 +382,7 @@ var title = dialog.getPreference('table');
 
 Renders the UI page specified when the API was instantiated in the modal. You must call this method after you define the modal for it to appear in the UI.
 
-Call this method when you use a UI page to generate the content in your modal. If you want to display HTML within a modal, call [renderWithContent\(String html\)](GModClientAPINX.md#) to render the modal.
+Call this method when you use a UI page to generate the content in your modal. If you want to display HTML within a modal, call [renderWithContent\(String html\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#) to render the modal.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -496,8 +496,8 @@ String
 
 The name of the modal dialog to be used as the dialog name and corresponding preference table.See also:
 
--   [setPreference\(\)](GModClientAPINX.md#)
--   [setPreferenceAndReload\(\)](GModClientAPINX.md#)
+-   [setPreference\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#)
+-   [setPreferenceAndReload\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#)
 
 </td></tr></tbody>
 </table>|Type|Description|
@@ -643,7 +643,7 @@ dialog.render();
 
 Sets the width of the modal.
 
-You can also set the width of a modal when you first instantiate the API using the [GlideModal\(\)](GModClientAPINX.md#) constructor.
+You can also set the width of a modal when you first instantiate the API using the [GlideModal\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#) constructor.
 
 <table id="table_msx_wts_3v" class="parameters"><thead><tr><th>
 
@@ -723,7 +723,7 @@ Returns the type as GlideModal.
 
 Updates the title specified using GlideModal setTitle\(\) method.
 
-You must always first call [GlideModal \(Next Experience\) - setTitle\(String title\)](GModClientAPINX.md#) to specify the Modal title using updateTitle\(\) to commit the change.
+You must always first call [GlideModal \(Next Experience\) - setTitle\(String title\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GModClientAPINX.md#) to specify the Modal title using updateTitle\(\) to commit the change.
 
 |Name|Type|Description|
 |----|----|-----------|

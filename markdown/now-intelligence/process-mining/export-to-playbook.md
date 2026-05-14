@@ -25,7 +25,7 @@ This task enables you to export any variant from within your process to playbook
 
 **Note:** You can export a maximum of 10 variants for a process graph.
 
-The property for the playbook generation is set in the Process Mining system properties. For more information, see [Playbook generation properties](../concept/data-cleanup.md#).
+The property for the playbook generation is set in the Process Mining system properties. For more information, see [Playbook generation properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/data-cleanup.md#).
 
 ## Procedure
 
@@ -39,9 +39,9 @@ The property for the playbook generation is set in the Process Mining system pro
 
 5.  Select **Apply**.
 
-6.  Select **Playbooks** icon \(![Playbooks icon](../image/playbook-icon.png)\).
+6.  Select **Playbooks** icon \(![Playbooks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/playbook-icon.png)\).
 
-    ![Selecting variants to generate playbook](../image/playbook-1.png)
+    ![Selecting variants to generate playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/playbook-1.png)
 
     The Playbooks panel is displayed.
 
@@ -49,7 +49,7 @@ The property for the playbook generation is set in the Process Mining system pro
 
     The Playbooks form is displayed.
 
-    ![Playbooks panel](../image/playbook-2.png)
+    ![Playbooks panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/playbook-2.png)
 
 8.  Fill the Playbooks form.
 
@@ -72,5 +72,5 @@ The property for the playbook generation is set in the Process Mining system pro
     For information on Playbooks on Workflow Studio, see [Exploring Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md).
 
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/analyze-get-process-insights.md)
 

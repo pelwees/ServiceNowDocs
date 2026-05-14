@@ -23,15 +23,15 @@ Role required: admin
 
 The following activity packs are available and active with your Orchestration subscription:
 
--   [Orchestration - Active Directory](../concept/c_OrchActiveDirectoryActivities.md) \(com.snc.orchestration.ad\)
--   [Orchestration - Azure Active Directory](../concept/c_AzureADActivityPack.md) \(com.snc.orchestration.azure.ad\)
--   [Orchestration - Exchange](../concept/c_OrchestrationExchangeActivities.md) \(com.snc.orchestration.exchange\)
--   [Orchestration - SFTP](../concept/c_OrchestrationSFTPActivityPack.md) \(com.snc.orchestration.sftp\)
--   [Orchestration - Infoblox DDI Activity Pack](../concept/c_InfobloxDDIActivityPack.md) \(com.snc.orchestration.infoblox\)
--   [F5 Network Management activity pack](../concept/c_OrchF5LoadBalancerActivities.md) \(com.snc.orchestration.f5\)
--   [Orchestration - SSH](../concept/c_OrchestrationSSHCustomActivities.md) \(com.snc.orchestration.ssh\)
--   [Orchestration - PowerShell](../concept/c_OrchestrPwrshellActivityPack.md) \(com.snc.orchestration.powershell\)
--   [Orchestration - System Center Configuration Manager](../../../product/orchestration/task/t_ActivateSysCentrConfigMgrActiv.md) \(com.snc.orchestration.sccm\_mgnt\)
+-   [Orchestration - Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchActiveDirectoryActivities.md) \(com.snc.orchestration.ad\)
+-   [Orchestration - Azure Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_AzureADActivityPack.md) \(com.snc.orchestration.azure.ad\)
+-   [Orchestration - Exchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrationExchangeActivities.md) \(com.snc.orchestration.exchange\)
+-   [Orchestration - SFTP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrationSFTPActivityPack.md) \(com.snc.orchestration.sftp\)
+-   [Orchestration - Infoblox DDI Activity Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_InfobloxDDIActivityPack.md) \(com.snc.orchestration.infoblox\)
+-   [F5 Network Management activity pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchF5LoadBalancerActivities.md) \(com.snc.orchestration.f5\)
+-   [Orchestration - SSH](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrationSSHCustomActivities.md) \(com.snc.orchestration.ssh\)
+-   [Orchestration - PowerShell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrPwrshellActivityPack.md) \(com.snc.orchestration.powershell\)
+-   [Orchestration - System Center Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/orchestration/task/t_ActivateSysCentrConfigMgrActiv.md) \(com.snc.orchestration.sccm\_mgnt\)
 
 ## Procedure
 
@@ -83,5 +83,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Activate Orchestration](../../../product/orchestration/task/t_ActivateOrchestration.md)
+**Parent Topic:**[Activate Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/orchestration/task/t_ActivateOrchestration.md)
 

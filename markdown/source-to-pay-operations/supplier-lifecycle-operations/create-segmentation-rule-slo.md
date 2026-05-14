@@ -26,7 +26,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 2.  Do one of the following:
 
     -   Under Quick actions, select **Create segmentation rule**.
-    -   Select the list icon \(![List icon.](../image/cases-list-icon.png)\), navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**, and then select **New**.
+    -   Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\), navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**, and then select **New**.
 3.  On the form, fill in the fields.
 
 <table><thead><tr><th>
@@ -110,17 +110,17 @@ Option that enables you to build a filter by adding conditions with fields, oper
 </table>4.  Select **Save**.
 
 
--   **[Add KPI templates to a segmentation rule](add-kpi-template-segmentation-rule.md)**  
+-   **[Add KPI templates to a segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-kpi-template-segmentation-rule.md)**  
 You can add new KPI templates to a segmentation rule if the existing templates used for suppliers don’t meet your needs.
--   **[Add suppliers to a segmentation rule](add-supplier-segmentation-rule.md)**  
+-   **[Add suppliers to a segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-segmentation-rule.md)**  
 You can add a new supplier to a segmentation rule if the existing suppliers don’t meet your needs.
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configuring-supplier-performance-mgmt.md)
 
 **Related topics**  
 
 
-[Add KPI templates to a segmentation rule](add-kpi-template-segmentation-rule.md)
+[Add KPI templates to a segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-kpi-template-segmentation-rule.md)
 
-[Add suppliers to a segmentation rule](add-supplier-segmentation-rule.md)
+[Add suppliers to a segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-segmentation-rule.md)
 

@@ -17,7 +17,7 @@ As a product catalog administrator, you can create needs templates, which are qu
 
 When agents create a lead in the Lead Management application or an opportunity in the Opportunity Management application, a product selection guide is displayed in the product catalog. The product selection guide lists the needs templates that agents can choose to get product offer recommendations.
 
-![Product catalog page with needs template, needs questionnaire and product recommendations in Opportunity Management, and decision tree start node in Decision Tree Builder](../image/needs-analysis-elements.png "Elements of needs analysis")
+![Product catalog page with needs template, needs questionnaire and product recommendations in Opportunity Management, and decision tree start node in Decision Tree Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/needs-analysis-elements.png "Elements of needs analysis")
 
 -   **Needs template**
 
@@ -46,8 +46,8 @@ Before creating decision trees for needs templates, review how decision trees wo
 
 Follow these steps to configure needs analysis:
 
-1.  [Create a needs-based product offering recommendation](../task/create-product-recommendations.md).
-2.  [Create a decision tree for a needs template](../task/configure-needs-decision-tree.md).
-3.  [Build a needs decision tree](../task/build-needs-decision-tree.md).
-4.  [Create a needs template and set the catalog relationship](../task/create-publish-needs-template.md).
+1.  [Create a needs-based product offering recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-product-recommendations.md).
+2.  [Create a decision tree for a needs template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-needs-decision-tree.md).
+3.  [Build a needs decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/build-needs-decision-tree.md).
+4.  [Create a needs template and set the catalog relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-publish-needs-template.md).
 
